@@ -21,6 +21,39 @@ function hashId(s){ let h=2166136261; for(const c of String(s)){ h^=c.charCodeAt
 /* pequeña imperfección determinista (rotaciones, desplazamientos) */
 const jitter = (seed,amp) => ((hashId(seed)%1000)/1000*2-1)*amp;
 
+/* ---------- Sonidos del cuaderno: abrir/cerrar carpeta y pasar página ----------
+   Se decodifican al arrancar y solo suenan tras un toque del usuario (nunca a destiempo,
+   por ejemplo al abrir un expediente desde una notificación). */
+const SFX=(()=>{
+  const FILES={open:["sfx/carpeta-abrir.ogg"],close:["sfx/carpeta-cerrar.ogg"],page:["sfx/pagina-1.ogg","sfx/pagina-2.ogg","sfx/pagina-3.ogg"]};
+  let on=true; try{ on=localStorage.getItem("tcc_sfx")!=="0"; }catch(_){}
+  const AC=window.AudioContext||window.webkitAudioContext;
+  let ctx=null; try{ if(AC) ctx=new AC(); }catch(_){ ctx=null; }
+  const buf={}, last={};
+  if(ctx){
+    Object.entries(FILES).forEach(([k,list])=>{ buf[k]=[];
+      list.forEach(u=>fetch(u).then(r=>r.ok?r.arrayBuffer():Promise.reject(r.status))
+        .then(a=>ctx.decodeAudioData(a)).then(b=>buf[k].push(b)).catch(()=>{})); });
+    const unlock=()=>{ if(ctx.state!=="running") ctx.resume().catch(()=>{}); };
+    ["pointerdown","touchstart","keydown"].forEach(t=>addEventListener(t,unlock,{capture:true,passive:true}));
+  }
+  function play(k){
+    if(!on||!ctx) return;
+    const list=buf[k]; if(!list||!list.length) return;
+    const gesture=!navigator.userActivation||navigator.userActivation.isActive;
+    if(ctx.state!=="running"){ if(!gesture) return; ctx.resume().catch(()=>{}); }
+    const now=ctx.currentTime;
+    if(last[k]&&now-last[k]<0.12) return;          // sin ráfagas al pasar muchas páginas seguidas
+    last[k]=now;
+    let vol=0.6; try{ if(PS.playing) vol=0.35; }catch(_){}  // más bajo si suena un podcast
+    const src=ctx.createBufferSource(), g=ctx.createGain();
+    src.buffer=list[Math.floor(Math.random()*list.length)];
+    src.playbackRate.value=0.94+Math.random()*0.12;  // cada vez suena un poco distinto
+    g.gain.value=vol; src.connect(g).connect(ctx.destination); src.start();
+  }
+  return {play, get on(){ return on; }, set on(v){ on=!!v; try{ localStorage.setItem("tcc_sfx",on?"1":"0"); }catch(_){} }};
+})();
+
 /* ---------- Puente con Android ---------- */
 const NATIVE = (typeof window.TCCNative==="object" || typeof window.TCCNative==="function") && window.TCCNative ? window.TCCNative : null;
 function nat(method,...args){
@@ -134,6 +167,7 @@ let flipTimer=0;
 function renderCal(dir){
   const cal=$("cal"), stage=$("calStage");
   const canFlip = dir && !reduced() && cal.offsetParent!==null;
+  if(dir && cal.offsetParent!==null) SFX.play("page");
   stage.querySelectorAll(".flip").forEach(n=>n.remove());
   const before = canFlip ? stripIds(cal.cloneNode(true)) : null;
 
@@ -841,6 +875,7 @@ function openP(id,fromHistory){
   const e=BY[id]; if(!e) return;
   const sheet=$("sheet");
   const wasOpen=sheet.classList.contains("on");
+  if(!(wasOpen && current===e)) SFX.play(wasOpen?"page":"open");  // otro expediente con la carpeta abierta: pasa la hoja
   if(settingsOpen) hideSettings();
   current=e; deckSeen=false; nowBlock=-1; lastP.deck=-1;
   dropObservers();
@@ -967,6 +1002,7 @@ addEventListener("resize",()=>{ if(current && $("board") && $("board").classList
 function closeP(fromHistory){
   const sheet=$("sheet");
   if(!sheet.classList.contains("on")) return;
+  SFX.play("close");
   sheet.classList.remove("on","swap"); $("bd").classList.remove("on"); document.body.style.overflow="";
   $("fcover").classList.remove("anim");
   dropObservers();
@@ -1037,6 +1073,9 @@ if(NATIVE){
   $("nYes").onchange=()=>{ if($("nYes").checked) setOn(true); };
   $("nNo").onchange=()=>{ if($("nNo").checked) setOn(false); };
   $("nTime").onchange=()=>{ const m=/^(\d{1,2}):(\d{2})/.exec($("nTime").value); if(m){ nat("setNotificationTime",+m[1],+m[2]); setTimeout(readNotif,250); } };
+  $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
+  $("sYes").onchange=()=>{ if($("sYes").checked){ SFX.on=true; SFX.play("page"); } };
+  $("sNo").onchange=()=>{ if($("sNo").checked) SFX.on=false; };
   $("nTest").onclick=()=>{ nat("testNotification"); const s=$("nSent"); s.hidden=false; clearTimeout(s._t); s._t=setTimeout(()=>{ s.hidden=true; },2600); };
 } else {
   $("settings").remove(); $("sbd").remove();
