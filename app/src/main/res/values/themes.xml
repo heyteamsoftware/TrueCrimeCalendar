@@ -1,0 +1,8 @@
+<resources>
+    <!-- Fondo oscuro desde el primer instante para que no haya destello blanco al abrir. -->
+    <style name="Theme.TrueCrimeCalendar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/desk</item>
+        <item name="android:statusBarColor">@color/desk</item>
+        <item name="android:navigationBarColor">@color/desk</item>
+    </style>
+</resources>

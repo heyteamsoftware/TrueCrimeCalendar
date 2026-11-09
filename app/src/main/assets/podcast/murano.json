@@ -1,0 +1,34 @@
+{
+  "id": "murano",
+  "titulo": "Té con masitas",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "del Giorgio": "del Yóryo"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Buenos Aires, marzo de 1979. En el barrio de Monserrat, una mujer muere de forma repentina. Nada hacía pensar en algo así. Pero es la tercera muerte inesperada en apenas seis semanas entre las amigas y parientes de una misma vecina." },
+    { "voz": "ximena", "texto": "Una vecina simpática, elegante, que invitaba a té con masitas. Y que les debía dinero a las tres." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Yiya Murano, la envenenadora de Monserrat. Un caso que en Argentina se cuenta todavía casi como una leyenda urbana, y que conviene devolver a los hechos." },
+    { "voz": "alvaro", "texto": "Antes de nada: Yiya era un apodo, ¿verdad?" },
+    { "voz": "ximena", "texto": "Sí. Su nombre era María de las Mercedes Bolla Aponte, y Murano era el apellido de su marido. Nació en 1930 en la provincia de Corrientes y vivía en Buenos Aires con su familia. Para su entorno era una mujer sociable, conversadora y siempre bien arreglada." },
+    { "voz": "ximena", "texto": "A finales de los años setenta, en una Argentina golpeada por una inflación muy alta, Yiya había convencido a varias conocidas de que le confiaran sus ahorros. Les prometía devolverlos con intereses generosos. Pero el dinero no volvía." },
+    { "voz": "alvaro", "texto": "Una supuesta inversión que, en realidad, era una deuda cada vez más grande." },
+    { "voz": "ximena", "texto": "Eso es. Y cuando las acreedoras empezaron a reclamar, empezaron también a morir. En febrero de 1979 falleció Nilda Gamba, vecina y amiga. Dos semanas después, Lelia Formisano de Ayala, otra amiga. Y en marzo, su prima, Carmen Zulema del Giorgio Venturini." },
+    { "voz": "ximena", "texto": "Las dos primeras muertes se atribuyeron a causas naturales. En aquel momento, nada hacía pensar en un crimen, y nadie pidió más explicaciones. Pero la tercera despertó sospechas en el entorno de la víctima, que conocía los préstamos, y la justicia decidió investigar." },
+    { "voz": "alvaro", "texto": "¿Y qué encontraron los investigadores?" },
+    { "voz": "ximena", "texto": "Los análisis hallaron cianuro en el cuerpo de Carmen. Se exhumaron entonces los cuerpos de las otras dos mujeres, y el resultado fue el mismo. Según la acusación, Yiya les había servido el veneno en el té y en las masitas que les ofrecía en sus visitas." },
+    { "voz": "ximena", "texto": "Ese detalle doméstico es lo que más impresionó a la opinión pública. No hubo violencia visible ni armas. Hubo una mesa puesta, una tetera, una bandeja de dulces y la confianza de unas amigas que no imaginaban nada." },
+    { "voz": "ximena", "texto": "Las tres víctimas tenían algo en común: le habían prestado dinero a Yiya y empezaban a reclamárselo. Fue detenida ese mismo año. El caso ocupó durante meses las portadas: una señora de clase media, siempre arreglada, convertida en sospechosa de tres envenenamientos en su propio barrio. Muchos vecinos que la conocían no daban crédito." },
+    { "voz": "alvaro", "texto": "¿Y cómo fue el juicio? Imagino que no sería sencillo probar algo así." },
+    { "voz": "ximena", "texto": "No lo fue. El proceso fue largo y tuvo idas y vueltas. En una primera instancia llegó a ser absuelta por falta de pruebas. Pero en 1985 un tribunal de apelación revisó el caso y la condenó a prisión perpetua por los tres crímenes." },
+    { "voz": "ximena", "texto": "Aun así, no cumplió la perpetua completa. En 1995 salió en libertad tras beneficiarse de una reducción de condena. Rondaba ya los sesenta y cinco años. Siempre negó haber matado a nadie." },
+    { "voz": "ximena", "texto": "Con el tiempo llegó a aparecer en programas de televisión, donde su figura se trataba con una mezcla de curiosidad, morbo y humor que hoy resulta incómoda. Tres mujeres habían muerto, y sus familias seguían ahí." },
+    { "voz": "ximena", "texto": "Quien rompió esa imagen fue su propio hijo, Martín Murano. Años después publicó un libro sobre su madre en el que la retrataba sin ninguna indulgencia y contaba cómo le había marcado crecer junto a ella." },
+    { "voz": "alvaro", "texto": "Tiene que ser durísimo escribir algo así sobre tu propia madre." },
+    { "voz": "ximena", "texto": "Sin duda. Yiya Murano murió en 2014 en Buenos Aires, a los ochenta y tres años, en libertad." },
+    { "voz": "ximena", "texto": "Su caso pertenece a un patrón que en este archivo conocemos bien: el de las envenenadoras. Es un crimen silencioso, cometido en la intimidad de una mesa compartida. Se aprovecha de la confianza y, precisamente por eso, tarda mucho en levantar sospechas." },
+    { "voz": "ximena", "texto": "Y es también un caso muy argentino, ligado a los años conocidos como los de la «plata dulce», una época de especulación y crisis económica en la que muchas personas buscaban proteger sus ahorros como podían, y en la que una promesa de intereses altos sonaba a salvación." },
+    { "voz": "ximena", "texto": "Hoy recordamos a Nilda Gamba, a Lelia Formisano de Ayala y a Carmen Zulema del Giorgio Venturini, que confiaron en una amiga. Hasta aquí el expediente de Yiya Murano. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

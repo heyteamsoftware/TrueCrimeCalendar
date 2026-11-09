@@ -1,0 +1,43 @@
+{
+  "id": "haarmann",
+  "titulo": "El confidente de la estación",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Fritz Haarmann": "Frits Járman",
+    "Haarmann": "Járman",
+    "Hannover": "Janóver",
+    "Leine": "Láine",
+    "Friedel Rothe": "Frídel Róte",
+    "Hans Grans": "Jans Grans",
+    "Theodor Lessing": "Teódor Lésing",
+    "Lessing": "Lésing",
+    "Peter Kürten": "Péter Kírten",
+    "Der Totmacher": "Der Tótmajer"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Mayo de 1924, Hannover. Unos niños que juegan a orillas del río Leine encuentran un cráneo humano. En las semanas siguientes aparecen más. La ciudad entra en pánico y circulan rumores de todo tipo." },
+    { "voz": "ximena", "texto": "Cuando se rastrean el río y sus orillas, aparecen restos de muchas personas jóvenes. Alguien lleva años matando en Hannover. Y el culpable está mucho más cerca de la policía de lo que nadie imagina: entre sus propios confidentes." },
+    { "voz": "alvaro", "texto": "¿Un confidente de la policía?" },
+    { "voz": "ximena", "texto": "Exactamente. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Fritz Haarmann, el vampiro de Hannover." },
+    { "voz": "ximena", "texto": "Haarmann nació en Hannover en 1879. Tuvo una juventud difícil: pasó por instituciones psiquiátricas y por la cárcel por robos, fraudes y abusos. Al terminar la Primera Guerra Mundial vivía de pequeños negocios en el mercado negro, sobre todo de ropa usada." },
+    { "voz": "ximena", "texto": "Era la Alemania de la posguerra: hambre, inflación, desempleo y miles de jóvenes desarraigados que llegaban a las ciudades buscando trabajo. En 1923, la hiperinflación llegó a hacer que el dinero perdiera su valor de un día para otro. Muchos jóvenes pasaban por la estación central de Hannover. Y allí estaba Haarmann." },
+    { "voz": "ximena", "texto": "Se había convertido en confidente de la policía. Les pasaba información sobre ladrones y traficantes y, a cambio, se movía con libertad por la estación. A veces incluso se presentaba como agente para pedir la documentación a los jóvenes." },
+    { "voz": "alvaro", "texto": "O sea, que usaba esa autoridad para ganarse su confianza." },
+    { "voz": "ximena", "texto": "Así es. Ofrecía a chicos y jóvenes de entre diez y veintidós años un lugar donde dormir, comida o trabajo, y los llevaba a su vivienda. Muchos no volvieron a ser vistos. Después vendía su ropa y sus pertenencias en el mercado." },
+    { "voz": "ximena", "texto": "Hubo señales. En 1918, los padres de un chico desaparecido, Friedel Rothe, señalaron a Haarmann. La policía registró su casa, pero no encontró al joven. Años después, Haarmann reconoció que los agentes habían estado muy cerca de descubrirlo todo." },
+    { "voz": "alvaro", "texto": "¿Y nadie relacionó todas esas desapariciones?" },
+    { "voz": "ximena", "texto": "En una ciudad con tantos jóvenes de paso, las desapariciones se atribuían a fugas. Y Haarmann contaba con su condición de confidente. Pero tras los hallazgos del río, la policía de Hannover recurrió a agentes llegados de Berlín, que no lo conocían, para vigilarlo." },
+    { "voz": "ximena", "texto": "En junio de 1924 lo detuvieron tras un altercado con un joven en la estación. Al registrar su vivienda aparecieron ropas y objetos que las familias de chicos desaparecidos reconocieron. Tenía cuarenta y cuatro años. Haarmann confesó." },
+    { "voz": "ximena", "texto": "En el juicio, a finales de 1924, se le acusó de veintisiete asesinatos. Fue condenado por veinticuatro y sentenciado a muerte. Su cómplice y antiguo amante, Hans Grans, también fue juzgado y condenado por su participación. Su pena de muerte se anuló después y acabó cumpliendo una condena de prisión." },
+    { "voz": "alvaro", "texto": "¿Y la policía? ¿Dio alguna explicación?" },
+    { "voz": "ximena", "texto": "Ese fue uno de los grandes escándalos. El filósofo y periodista Theodor Lessing cubrió el juicio y criticó con dureza que el principal sospechoso fuera un colaborador de la policía. Acabaron expulsándolo de la sala." },
+    { "voz": "ximena", "texto": "Lessing denunció que una sociedad tan desigual había dejado a aquellos jóvenes a merced de cualquiera, y que las autoridades habían mirado hacia otro lado. Sus artículos le granjearon muchos enemigos. En 1933, ya en el exilio, Lessing fue asesinado por simpatizantes nazis." },
+    { "voz": "ximena", "texto": "Haarmann fue guillotinado en Hannover en abril de 1925. Su caso, junto a otros como el de Peter Kürten, marcó la imagen de la Alemania de entreguerras: un país en crisis donde el crimen parecía crecer en la sombra." },
+    { "voz": "alvaro", "texto": "Y el caso pasó también a la cultura popular." },
+    { "voz": "ximena", "texto": "Sí. Inspiró canciones populares, obras de teatro y películas, como Der Totmacher, de 1995, basada en las actas de sus entrevistas con el psiquiatra que lo examinó. Hannover, en cambio, prefirió durante mucho tiempo no recordarlo." },
+    { "voz": "ximena", "texto": "El caso dejó también una lección incómoda sobre el uso de confidentes: cuando la policía protege a quien le resulta útil, puede acabar cerrando los ojos ante lo que hace. Una advertencia que sigue vigente casi un siglo después." },
+    { "voz": "ximena", "texto": "Pero el centro de esta historia deben ser los veinticuatro jóvenes que la justicia reconoció como víctimas. Chicos pobres, aprendices, fugados de casa, que buscaban una oportunidad en una ciudad que no supo protegerlos." },
+    { "voz": "ximena", "texto": "Muchas de sus familias tardaron años en saber qué había sido de ellos. Algunas lo supieron al reconocer una prenda de ropa entre los objetos recuperados. Hasta aquí el expediente de Fritz Haarmann, el vampiro de Hannover. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

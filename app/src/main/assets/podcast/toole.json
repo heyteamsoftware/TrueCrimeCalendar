@@ -1,0 +1,42 @@
+{
+  "id": "toole",
+  "titulo": "Mil confesiones y un niño",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ottis Toole": "Ótis Tul",
+    "Toole": "Tul",
+    "Henry Lee Lucas": "Jenri Li Lúcas",
+    "Jacksonville": "Yácsonvil",
+    "Hollywood": "Jólibud",
+    "Adam Walsh": "Ádam Uolsh",
+    "John Walsh": "Yon Uolsh",
+    "Adam": "Ádam",
+    "Becky Powell": "Béqui Páuel"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "27 de julio de 1981. Hollywood, Florida, al norte de Miami. En unos grandes almacenes, una madre deja a su hijo de seis años mirando a otros niños jugar con una consola mientras ella busca una lámpara a pocos pasos. Cuando vuelve, minutos después, el niño ya no está." },
+    { "voz": "ximena", "texto": "Se llamaba Adam Walsh. Su búsqueda movilizó a todo el estado. Dos semanas después, sus restos aparecieron en un canal, a más de ciento cincuenta kilómetros de allí." },
+    { "voz": "alvaro", "texto": "¿Y quién se lo llevó? Esa pregunta tardó veintisiete años en tener una respuesta oficial." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Ottis Toole, al que llamaron el caníbal de Jacksonville. Un apodo, por cierto, que salió de sus propias afirmaciones y que nunca se demostró." },
+    { "voz": "ximena", "texto": "Ottis Toole nació el 5 de marzo de 1947 en Jacksonville, Florida. Creció en la pobreza, en un entorno familiar muy duro, y dejó pronto la escuela. Desde joven acumuló detenciones por delitos menores y una obsesión que le acompañó toda la vida: provocar incendios." },
+    { "voz": "ximena", "texto": "A mediados de los años setenta conoció a Henry Lee Lucas, un vagabundo que ya había cumplido condena por matar a su madre. Se hicieron inseparables. Recorrían juntos el sur de Estados Unidos, viviendo de trabajos ocasionales y pequeños robos." },
+    { "voz": "ximena", "texto": "Con ellos viajaba a menudo Becky Powell, una sobrina de Toole que todavía era una adolescente. Su historia terminó de forma trágica: en 1982 desapareció, y Lucas acabaría confesando su muerte." },
+    { "voz": "ximena", "texto": "En 1983, los dos fueron detenidos por separado. Y entonces empezó algo insólito: las confesiones. Lucas y Toole comenzaron a atribuirse asesinatos en un estado tras otro. Primero decenas. Después, cientos." },
+    { "voz": "alvaro", "texto": "¿Cientos? ¿Y la policía se lo creía?" },
+    { "voz": "ximena", "texto": "Muchos agentes, sí. Durante meses, investigadores de todo el país pasaron por sus celdas para cerrar casos pendientes. Les enseñaban fotos y expedientes, y ellos confesaban. Hasta que se comprobó que muchas confesiones eran imposibles: en las fechas de algunos crímenes estaban a cientos de kilómetros." },
+    { "voz": "ximena", "texto": "Toole confesó, entre muchos otros, el secuestro y asesinato de Adam Walsh. Lo hizo en octubre de 1983. Dio detalles, luego se retractó, después volvió a confesar. Ese ir y venir se repitió durante años." },
+    { "voz": "alvaro", "texto": "Pero si confesó, ¿por qué no se cerró el caso entonces?" },
+    { "voz": "ximena", "texto": "Porque la investigación tuvo errores graves. La policía de Hollywood llegó a perder pruebas fundamentales, entre ellas el coche de Toole y una alfombra de ese coche que podría haberse analizado. Cuando el ADN permitió volver sobre aquellas pruebas, ya no estaban." },
+    { "voz": "ximena", "texto": "Toole nunca fue juzgado por la muerte de Adam. Sí fue condenado por otros crímenes en Florida, entre ellos la muerte de un hombre de sesenta y cuatro años en un incendio provocado en Jacksonville, en 1982. Por ese caso le condenaron a muerte, aunque la pena se conmutó por cadena perpetua." },
+    { "voz": "ximena", "texto": "Este expediente le atribuye seis víctimas. Murió en una prisión de Florida en septiembre de 1996, a los cuarenta y nueve años, por una enfermedad del hígado. El caso de Adam seguía oficialmente abierto." },
+    { "voz": "alvaro", "texto": "Y llegamos a 2008. Doce años después de su muerte." },
+    { "voz": "ximena", "texto": "En diciembre de 2008, el jefe de la policía de Hollywood compareció ante la prensa junto a los padres de Adam. Anunció que el caso quedaba cerrado y que, a juicio de la policía, el autor había sido Ottis Toole. No había una prueba nueva y concluyente: era la valoración del conjunto de indicios." },
+    { "voz": "ximena", "texto": "Para la familia fue un cierre, aunque tardío. Para otros, la conclusión sigue siendo discutible, precisamente porque nunca hubo juicio. Lo indiscutible es el legado que dejó aquel niño de seis años." },
+    { "voz": "ximena", "texto": "Su padre, John Walsh, convirtió el dolor en activismo. Impulsó leyes sobre niños desaparecidos y presentó durante años un programa de televisión dedicado a buscar fugitivos, que ayudó a capturar a cientos de ellos. Muchos comercios adoptaron además un protocolo de alerta por menores perdidos que lleva el nombre de Adam." },
+    { "voz": "alvaro", "texto": "¿Y qué aprendió la policía del caso Toole?" },
+    { "voz": "ximena", "texto": "Que una confesión, por sí sola, no basta. Lo de Toole y Lucas es hoy un ejemplo clásico de confesiones falsas o contaminadas, capaces de cerrar en falso cientos de expedientes y de dejar a los verdaderos culpables en libertad." },
+    { "voz": "ximena", "texto": "Henry Lee Lucas tiene su propio expediente en este archivo. Los dos casos se entienden mejor juntos, como dos caras de la misma historia de mentiras y errores." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Ottis Toole. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

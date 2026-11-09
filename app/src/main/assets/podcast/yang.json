@@ -1,0 +1,37 @@
+{
+  "id": "yang",
+  "titulo": "Cuatro provincias, un solo hombre",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Cangzhou": "Tsangchóu",
+    "Hebei": "Jebéi",
+    "Yang Xinhai": "Iang Shinjái",
+    "Henan": "Jenán",
+    "Anhui": "Anjuéi",
+    "Shandong": "Shandóng"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Noviembre de 2003. Cangzhou, en la provincia china de Hebei. Unos policías hacen un control rutinario en un local de ocio. Un hombre de treinta y cinco años les llama la atención: su comportamiento les parece sospechoso. Lo identifican y se lo llevan para hacerle unas preguntas." },
+    { "voz": "ximena", "texto": "Parece un trámite más. Pero ese hombre llevaba cuatro años entrando de noche en casas de campesinos de varias provincias. Y nadie había conseguido relacionar todos sus crímenes." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Yang Xinhai, al que la prensa china llamó el monstruo asesino. Un caso enorme, con una de las cifras de víctimas más altas del mundo, del que, sin embargo, se sabe relativamente poco." },
+    { "voz": "alvaro", "texto": "¿Y por qué se sabe tan poco de un caso de semejante tamaño?" },
+    { "voz": "ximena", "texto": "Porque la información sobre los procesos penales en China es muy limitada, y gran parte de lo que conocemos procede de la prensa oficial y de agencias de noticias. Muchos detalles, como la identidad de buena parte de las víctimas, nunca se han hecho públicos. Así que hoy nos ceñiremos a lo que está establecido, sin rellenar los huecos con suposiciones." },
+    { "voz": "ximena", "texto": "Yang Xinhai nació en 1968 en una familia campesina de la provincia de Henan, en el centro del país. Dejó pronto los estudios y, siendo todavía adolescente, también la casa familiar. Trabajó en lo que encontraba y se convirtió en uno de los millones de trabajadores migrantes que recorrían China en busca de empleos temporales." },
+    { "voz": "ximena", "texto": "Fue una época de enormes cambios. El país crecía a gran velocidad, y muchísimas personas abandonaban el campo para trabajar en obras y fábricas. Moverse de una provincia a otra era algo habitual, y alguien como él podía pasar completamente desapercibido." },
+    { "voz": "ximena", "texto": "Antes de sus asesinatos ya había sido castigado por robos y otros delitos, y había pasado por centros de reeducación por el trabajo. Llevaba una vida nómada, sin lazos estables." },
+    { "voz": "alvaro", "texto": "¿Cuándo empiezan los crímenes?" },
+    { "voz": "ximena", "texto": "En 1999. Y se prolongan hasta 2003, en cuatro provincias: Henan, donde se concentró la mayoría, Anhui, Shandong y Hebei. Entraba de madrugada en viviendas rurales y mataba a familias enteras. Además, agredió sexualmente a varias víctimas." },
+    { "voz": "ximena", "texto": "Cambiaba constantemente de lugar. Pasaba de un pueblo a otro y de una provincia a otra, y a menudo abandonaba la zona justo después de cada ataque. Cuando la policía local empezaba a investigar, él ya estaba lejos." },
+    { "voz": "alvaro", "texto": "Y cada policía local veía solo una pieza del rompecabezas." },
+    { "voz": "ximena", "texto": "Exacto. Cada crimen se investigaba en su propio distrito. En las zonas rurales había pocos medios forenses y una coordinación muy escasa entre provincias. Y como atacaba a familias enteras, a menudo no quedaban testigos. Durante años, nadie vio que detrás de tantas muertes podía haber un solo hombre." },
+    { "voz": "ximena", "texto": "Las muestras recogidas en los escenarios esperaban un sospechoso con el que compararlas. Tras su detención en Cangzhou, las pruebas de ADN lo vincularon con escenas de crímenes de distintas provincias. Confesó. Las autoridades le atribuyeron sesenta y siete asesinatos." },
+    { "voz": "alvaro", "texto": "Sesenta y siete. Es una de las cifras más altas que conocemos." },
+    { "voz": "ximena", "texto": "Lo es. El juicio se celebró en febrero de 2004 en un tribunal de la provincia de Henan. Fue muy rápido. Lo condenaron a muerte por los sesenta y siete asesinatos y por las agresiones sexuales. La noticia la difundió la agencia oficial de noticias china, y dio la vuelta al mundo." },
+    { "voz": "ximena", "texto": "Fue ejecutado ese mismo mes de febrero de 2004, apenas tres meses después de su detención en Cangzhou. China aplica la pena de muerte con más frecuencia que ningún otro país, aunque no publica cifras oficiales." },
+    { "voz": "alvaro", "texto": "Tres meses entre la detención y la ejecución. Visto desde aquí, es un plazo muy corto." },
+    { "voz": "ximena", "texto": "Es una de las cuestiones que el caso planteó fuera de China: la rapidez del proceso y la falta de transparencia hacen muy difícil comprobar los detalles. Dentro del país, el caso puso de relieve la vulnerabilidad de las aldeas rurales y la necesidad de compartir información entre provincias." },
+    { "voz": "ximena", "texto": "También mostró hasta qué punto el ADN estaba cambiando la investigación criminal en todo el mundo: fue la ciencia la que unió crímenes que, sobre el mapa, parecían no tener nada que ver." },
+    { "voz": "ximena", "texto": "Las víctimas fueron sobre todo familias campesinas, gente humilde que vivía en casas aisladas, y cuyos nombres apenas trascendieron fuera de sus comunidades. Sus vidas importaban tanto como cualquier otra. Hoy las recordamos a ellas. Hasta aquí el expediente de Yang Xinhai. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,117 @@
+{
+  "id": "romasanta",
+  "titulo": "El hombre que decía ser lobo",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "lobishome": "lobisóme",
+    "Isabel II": "Isabel segunda",
+    "Philips": "Fílips"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Nombela, provincia de Toledo, verano de 1852. Un forastero que dice llamarse Antonio Gómez trabaja en el pueblo sin llamar demasiado la atención. Hasta que unos gallegos que han llegado a la comarca lo reconocen."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Para ellos no es Antonio Gómez. Es el buhonero de la sierra de Ourense con el que se marcharon varias mujeres y niños que nunca regresaron a sus aldeas."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y lo detuvieron allí mismo, tan lejos de Galicia?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Allí mismo. Y lo que contó después lo convirtió en leyenda. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Manuel Blanco Romasanta, el hombre lobo de Allariz."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Nació en noviembre de 1809 en una aldea de Ourense. Sabía leer y escribir, algo poco común en la Galicia rural de su tiempo. Trabajó como sastre y después como buhonero, vendiendo mercancías de pueblo en pueblo por los caminos del noroeste."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Era un hombre menudo, de trato amable, que conocía bien los senderos de la sierra. Esa confianza le abrió muchas puertas en una tierra pobre, donde salir a trabajar fuera era a menudo la única esperanza."
+    },
+    {
+      "voz": "ximena",
+      "texto": "A partir de 1843, varias mujeres de la zona de Rebordechao, algunas con sus hijos, aceptaron viajar con él. Les prometía trabajo en casas acomodadas de otras ciudades. Nunca llegaron a su destino."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Para tranquilizar a los familiares, él traía noticias: que estaban bien, que habían encontrado colocación, que pronto escribirían. Mientras tanto, vendía sus ropas y sus pertenencias."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y nadie sospechó en todos esos años?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Con el tiempo empezaron a circular rumores. Se llegó a decir que comerciaba con la grasa de sus víctimas, una acusación que formaba parte del folclore de la época y que nunca se probó."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Cuando las sospechas crecieron, huyó de Galicia con documentación falsa a nombre de Antonio Gómez. Así llegó a tierras de Toledo, donde fue detenido en aquel verano de 1852. Para entonces, además, se le relacionaba con la muerte de un alguacil en tierras de León, años atrás."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Lo trasladaron a Allariz, donde se instruyó el proceso. Allí confesó trece asesinatos. Pero dio una explicación sorprendente: aseguró que una maldición lo convertía en lobo y que, en ese estado, no podía controlarse."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Una defensa de hombre lobo. ¿Y el tribunal se la creyó?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "No. Los jueces concluyeron que no había ninguna transformación y que sabía perfectamente lo que hacía. Le atribuyeron nueve asesinatos; los otros cuatro no los consideraron probados. Los médicos que lo examinaron tampoco apreciaron locura."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Para la justicia, entonces, no hubo ningún lobo. Solo un hombre que sabía muy bien lo que hacía."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Fue condenado a muerte, y la sentencia se confirmó en apelación en 1853. Parecía el final de la historia. Pero entonces llegó una carta desde Francia."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Una carta? ¿De quién?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "De un hipnotista francés que firmaba como doctor Philips. Sostenía que Romasanta sufría una enfermedad mental, la licantropía, y pedía poder estudiarlo antes de que fuera ejecutado."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La reina Isabel II conmutó la pena de muerte por cadena perpetua. La decisión fue polémica entonces, y todavía hoy se discute qué peso real tuvo aquel informe en el indulto."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Romasanta murió en prisión. Durante mucho tiempo se aseguró que había sido en Ceuta, años después. Investigaciones más recientes apuntan a que murió antes, en una cárcel gallega. Su final, como su vida, quedó envuelto en dudas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hoy se le considera el primer asesino en serie documentado de España. La documentación del proceso ha llegado hasta nuestros días, y ha permitido a historiadores y criminólogos reconstruir el caso con bastante detalle. El caso abrió además un debate, muy moderno para su época, sobre la frontera entre la locura y la responsabilidad penal."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Su historia ha inspirado novelas y películas, como «El bosque del lobo», de Pedro Olea, o «Romasanta», de Paco Plaza, y ha alimentado la vieja leyenda gallega del lobishome, el hombre lobo. Pero el caso real no tiene nada de sobrenatural."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Porque detrás de la leyenda hay una realidad mucho más terrenal."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Exacto. Un hombre que supo aprovecharse de la pobreza, del aislamiento de las aldeas y de la necesidad de muchas familias de buscar trabajo lejos de casa. La leyenda del lobo sirvió, sobre todo, para ocultar eso."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Sus víctimas eran mujeres y niños humildes, que confiaron en él porque buscaban una vida mejor. Varias pertenecían a la misma familia. Son ellas quienes deberían ocupar el centro de esta historia, y no el mito."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de Manuel Blanco Romasanta. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": "La ficha solo dice «murió en prisión». La fecha y el lugar de su muerte son discutidos: la versión tradicional habla de Ceuta (1863) y estudios recientes apuntan a A Coruña (1854). El guion lo formula con prudencia."
+}

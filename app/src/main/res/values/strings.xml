@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name" translatable="false">TRUE CRIME CALENDAR</string>
+
+    <!-- Podcast (notificación multimedia y pantalla de bloqueo) -->
+    <string name="canal_podcast">Podcast</string>
+    <string name="podcast_artista">TRUE CRIME CALENDAR · %1$s</string>
+    <string name="podcast_retroceder">Retroceder 15 segundos</string>
+    <string name="podcast_avanzar">Avanzar 30 segundos</string>
+
+    <!-- Avisos diarios -->
+    <string name="canal_efemerides">Efemérides del día</string>
+    <string name="canal_efemerides_descripcion">Un aviso diario cuando un caso del calendario cumple aniversario.</string>
+    <string name="aviso_titulo_hoy">Hoy en TRUE CRIME CALENDAR</string>
+    <string name="aviso_titulo_proxima">TRUE CRIME CALENDAR</string>
+    <!-- Nombre · «alias» -->
+    <string name="aviso_caso">%1$s · «%2$s»</string>
+    <plurals name="aviso_varios_casos">
+        <item quantity="one">%d expediente</item>
+        <item quantity="many">%d expedientes</item>
+        <item quantity="other">%d expedientes</item>
+    </plurals>
+    <!-- Notificación de prueba sin casos hoy: «Próxima efeméride: 12 de noviembre · Nombre · «alias»» -->
+    <string name="aviso_proxima">Próxima efeméride: %1$s · %2$s</string>
+</resources>

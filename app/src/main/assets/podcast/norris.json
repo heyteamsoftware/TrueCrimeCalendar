@@ -1,0 +1,110 @@
+{
+  "id": "norris",
+  "titulo": "Un plan nacido en la cárcel",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Roy Norris": "Rói Nórris",
+    "Norris": "Nórris",
+    "Lawrence Bittaker": "Lórens Bítaker",
+    "Bittaker": "Bítaker",
+    "Toolbox Killers": "Túlbox Kílers",
+    "Lucinda Schaefer": "Lusínda Shéifer",
+    "Andrea Hall": "Andrea Jol",
+    "Jacqueline Gilliam": "Yákelin Guíliam",
+    "Jacqueline Leah Lamp": "Yákelin Lía Lamp",
+    "Shirley Ledford": "Shérli Lédford",
+    "Shirley": "Shérli",
+    "Jackie": "Yáki",
+    "Leah": "Lía",
+    "Hermosa Beach": "Ermósa Bich",
+    "San Quentin": "San Kuéntin",
+    "Redondo Beach": "Redondo Bich"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "California, finales de los años setenta. En una prisión de San Luis Obispo, dos presos condenados por delitos violentos se hacen amigos. Uno se llama Roy Norris. El otro, Lawrence Bittaker. Según contaría después el propio Norris, ya allí empezaron a hablar de lo que harían al salir."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Planearon sus crímenes desde dentro de la cárcel?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Eso declaró Norris más tarde. Bittaker quedó en libertad en 1978 y Norris, a comienzos de 1979. Se reencontraron en el área de Los Ángeles. Bittaker compró una furgoneta plateada, y con ella empezaron a recorrer las carreteras de la costa. Aquella furgoneta se convertiría en la pieza central de esta historia."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Roy Norris, el asesino de la furgoneta de herramientas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Norris nació en 1948 en Colorado. Tuvo una infancia inestable, sirvió en la Marina de Estados Unidos y, tras dejarla, acumuló detenciones y condenas por agresiones sexuales en California. Por eso estaba en prisión cuando conoció a su futuro cómplice. Bittaker, ocho años mayor, arrastraba también un largo historial delictivo que incluía un grave ataque con arma blanca."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Entre junio y octubre de 1979, Norris y Bittaker secuestraron y asesinaron a cinco chicas adolescentes en el sur de California. Tenían entre trece y dieciocho años. Las abordaban en la calle o cuando hacían autoestop, en ciudades costeras como Hermosa Beach o Redondo Beach, y las llevaban en la furgoneta a las montañas de San Gabriel."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Sus nombres eran Lucinda Schaefer, Andrea Hall, Jacqueline Gilliam, Jacqueline Leah Lamp y Shirley Ledford. Detrás de cada una había una familia que, durante semanas o meses, no supo nada de ellas. Como ocurre a menudo con adolescentes, algunas desapariciones se trataron al principio como posibles fugas de casa."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y algunas de esas familias nunca pudieron recuperar a sus hijas para enterrarlas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Los crímenes fueron de una crueldad extrema, y aquí no vamos a detallarlos. Lo que importa recordar es quiénes eran ellas: chicas con toda la vida por delante. La furgoneta, cargada de herramientas, acabó dando a la pareja el nombre con el que se la conoce: los Toolbox Killers."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y cómo se llegó hasta ellos?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Por dos caminos. Por un lado, una joven a la que habían atacado en septiembre de 1979 logró escapar y lo denunció a la policía. Por otro, Norris le contó lo que habían hecho a un antiguo compañero de prisión, que acabó acudiendo a las autoridades."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Los investigadores unieron ambas pistas y, en noviembre de 1979, detuvieron a los dos. La joven superviviente los reconoció. Y Norris, ante la perspectiva de una condena a muerte, empezó a negociar."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Aceptó un acuerdo con la fiscalía: confesó, ayudó a localizar los restos de algunas víctimas en las montañas y testificó contra Bittaker. A cambio, evitó la pena capital. Fue condenado a una pena de cuarenta y cinco años a cadena perpetua."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y qué pasó con Bittaker?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "En el juicio, el testimonio de su antiguo cómplice y las pruebas reunidas tras las detenciones resultaron decisivos. Fue uno de los procesos más duros de la época en Los Ángeles, por la naturaleza de los crímenes y por el sufrimiento de las familias, que tuvieron que escuchar lo ocurrido."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El jurado lo declaró culpable y, en 1981, fue condenado a muerte. Nunca llegó a ser ejecutado: pasó casi cuatro décadas en el corredor de la muerte de San Quentin, donde murió en 2019. Norris murió en prisión pocos meses después, en 2020."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Dos cómplices, y dos destinos judiciales muy distintos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Y una pregunta incómoda que acompaña a muchos acuerdos con la fiscalía: ¿es justo que uno de los autores reciba una pena menor a cambio de declarar? En este caso, sin su testimonio y su ayuda, algunas familias quizá nunca habrían sabido dónde estaban sus hijas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso dejó también una lección sobre las libertades condicionales. Los dos tenían antecedentes graves por violencia, y ambos salieron de prisión con pocos meses de diferencia. Su historia alimentó el debate sobre cómo se supervisa a los condenados por delitos violentos cuando recuperan la libertad."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En este archivo, el expediente de Norris está vinculado con el de Lawrence Bittaker, su cómplice en los cinco asesinatos. Juntos forman uno de los casos más estremecedores del sur de California."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Pero hoy, antes que sus nombres, queremos recordar los de Lucinda, Andrea, Jackie, Leah y Shirley. Hasta aquí el expediente de Roy Norris. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,42 @@
+{
+  "id": "little",
+  "titulo": "Retratos de memoria",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Samuel Little": "Sámuel Lítel",
+    "Little": "Lítel",
+    "Texas": "Téjas",
+    "Georgia": "Yórya",
+    "Ohio": "Oháio",
+    "Louisville": "Lúivil",
+    "Kentucky": "Kentáki",
+    "James Holland": "Yéims Jóland",
+    "Odessa": "Odésa",
+    "FBI": "efe be i",
+    "Rangers": "Réinyers"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Texas, 2018. En una cárcel, un preso de casi ochenta años pide papel y pinturas. Con una memoria asombrosa, empieza a dibujar rostros de mujeres: el peinado, la forma de los ojos, el color de la piel. Mujeres que, según él, mató hace décadas." },
+    { "voz": "ximena", "texto": "Muchas de ellas no tenían nombre en ningún expediente policial. Algunas ni siquiera figuraban como víctimas de un asesinato. Sus muertes se habían archivado como algo sin importancia. Él las dibujó una tras otra, hasta completar decenas de retratos." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Samuel Little, el asesino en serie con más víctimas confirmadas de la historia de Estados Unidos. Un caso que no se resolvió con un gran hallazgo, sino con décadas de retraso." },
+    { "voz": "ximena", "texto": "Little nació en 1940 en Georgia y creció en Ohio, con su abuela. Fue boxeador y, durante casi toda su vida, un delincuente itinerante: recorría el país de ciudad en ciudad y acumulaba detenciones por robos, agresiones y delitos menores en muchos estados distintos." },
+    { "voz": "alvaro", "texto": "¿Y con tantas detenciones nadie vio el patrón?" },
+    { "voz": "ximena", "texto": "Esa es la gran pregunta de este caso. Elegía a mujeres en situación de marginalidad: algunas ejercían la prostitución, otras tenían problemas de adicción o vivían en la calle. Cuando aparecían muertas, sus casos se cerraban a menudo como sobredosis, accidentes o muertes sin explicar." },
+    { "voz": "ximena", "texto": "Llegó a ser juzgado por asesinato en los años ochenta, y salió absuelto. Durante décadas siguió moviéndose por el país sin que nadie conectara sus pasos. Cada policía local veía un caso aislado. Su historial ocupaba páginas y páginas, pero nadie lo leyó como un todo. Nadie veía el mapa completo." },
+    { "voz": "alvaro", "texto": "¿Y qué fue lo que cambió?" },
+    { "voz": "ximena", "texto": "El ADN. En 2012, Little fue detenido en un albergue para personas sin hogar de Louisville, en Kentucky, y trasladado a California. Su perfil genético se cotejó con pruebas de casos antiguos de Los Ángeles y coincidió con tres asesinatos de finales de los años ochenta. Una herramienta que no existía cuando empezó a matar acabó alcanzándolo." },
+    { "voz": "ximena", "texto": "En 2014 fue condenado en Los Ángeles a cadena perpetua sin posibilidad de libertad condicional. Él siempre se declaró inocente de aquellos tres crímenes. Parecía el final de la historia." },
+    { "voz": "alvaro", "texto": "Pero no lo era, claro." },
+    { "voz": "ximena", "texto": "No. En 2018, un investigador de los Rangers de Texas, James Holland, fue a entrevistarle por un asesinato sin resolver en Odessa, en ese estado. Little aceptó hablar a cambio de que lo trasladaran de prisión. Holland se ganó su confianza con paciencia, sin prisas. Y Little empezó a confesar." },
+    { "voz": "ximena", "texto": "A lo largo de cientos de horas de entrevistas describió noventa y tres asesinatos cometidos entre 1970 y 2005 en distintos estados. Recordaba ciudades, fechas aproximadas, coches y ropa. Pero, a menudo, no recordaba los nombres de las víctimas." },
+    { "voz": "ximena", "texto": "Por eso el FBI difundió sus retratos. Pidió ayuda al público para poner nombre a esas mujeres y avisó a cuerpos de policía de todo el país para que revisaran sus casos sin resolver con la nueva información. Algunas familias reconocieron en aquellos dibujos a una hermana, a una hija o a una madre desaparecida hacía décadas." },
+    { "voz": "alvaro", "texto": "Es decir, el asesino aportaba los datos y los investigadores tenían que confirmarlos uno a uno." },
+    { "voz": "ximena", "texto": "Exacto. Y muchas confesiones se confirmaron. En 2019, el FBI anunció que era el asesino en serie más prolífico de la historia de Estados Unidos por número de casos confirmados. Hoy se le atribuyen más de sesenta asesinatos." },
+    { "voz": "ximena", "texto": "Fue condenado de nuevo en varios estados por algunos de esos crímenes y acumuló más cadenas perpetuas. Murió bajo custodia, en un hospital de California, en diciembre de 2020. Tenía ochenta años." },
+    { "voz": "ximena", "texto": "Su caso deja una lección muy dura. Little no fue ningún genio del crimen. Pudo actuar durante décadas porque sus víctimas eran mujeres a las que pocos buscaban, y porque sus muertes se investigaron poco y mal. Y ha obligado a revisar cómo se clasifican las muertes de las personas más vulnerables." },
+    { "voz": "ximena", "texto": "También demuestra el valor de no rendirse con los casos antiguos. Fue la paciencia de unos pocos investigadores, y la ayuda de familias que reconocieron un rostro en un dibujo, lo que devolvió el nombre a muchas de esas mujeres." },
+    { "voz": "alvaro", "texto": "¿Se han identificado ya todas las víctimas?" },
+    { "voz": "ximena", "texto": "No. Algunas siguen sin nombre. Por eso hoy no cerramos con él, sino con ellas: con cada retrato que todavía espera a que alguien lo reconozca. Hasta aquí el expediente de Samuel Little. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

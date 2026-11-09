@@ -1,0 +1,34 @@
+{
+  "id": "lopez",
+  "titulo": "El hombre que salió por la puerta",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Ambato, Ecuador, 1980. En un mercado de la ciudad, una mujer ve cómo un desconocido se aleja con su hija. Grita. Los vendedores reaccionan, rodean al hombre y lo retienen hasta que llega la policía." },
+    { "voz": "ximena", "texto": "Poco antes, una crecida había dejado al descubierto en la zona los restos de varias niñas desaparecidas. El desconocido que retuvieron aquel día era colombiano y tenía treinta y un años. Acabaría confesando una cifra que estremeció a tres países." },
+    { "voz": "alvaro", "texto": "¿Tres países?" },
+    { "voz": "ximena", "texto": "Colombia, Perú y Ecuador. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Pedro Alonso López, el monstruo de los Andes." },
+    { "voz": "ximena", "texto": "López nació en 1948 en Santa Isabel, en el departamento colombiano del Tolima. Según su propio relato, su infancia fue de pobreza extrema y violencia, y siendo todavía un niño acabó en la calle, en los años más duros de la Violencia en Colombia." },
+    { "voz": "ximena", "texto": "Una advertencia: mucho de lo que sabemos de su vida procede de sus propias declaraciones. Y es un hombre que mintió, exageró y cambió de versión muchas veces. Lo que sí parece documentado es que pasó por prisiones colombianas en su juventud." },
+    { "voz": "ximena", "texto": "Según su versión, en Perú un grupo de indígenas llegó a capturarlo, y una misionera intercedió para que lo entregaran a las autoridades, que lo dejaron marchar. Es uno de esos episodios que nunca se han podido confirmar." },
+    { "voz": "ximena", "texto": "Tras su detención en Ambato, al principio se negó a hablar. Los investigadores recurrieron a un método poco habitual: un sacerdote compartió celda con él haciéndose pasar por preso. Y López empezó a contar." },
+    { "voz": "alvaro", "texto": "¿Y qué contó?" },
+    { "voz": "ximena", "texto": "Que había matado a más de trescientas niñas en Colombia, Perú y Ecuador. Decía que las elegía en mercados y plazas, a menudo niñas de familias humildes e indígenas. Y para demostrarlo, guió a la policía hasta varios lugares donde aparecieron restos." },
+    { "voz": "ximena", "texto": "A partir de sus indicaciones, las autoridades ecuatorianas localizaron los restos de decenas de víctimas. Fue condenado en Ecuador por ciento diez asesinatos, una cifra que ya situaba el caso entre los peores de la historia." },
+    { "voz": "alvaro", "texto": "Con una cifra así, la condena sería durísima." },
+    { "voz": "ximena", "texto": "Y aquí está lo que más indigna de este caso. La ley ecuatoriana fijaba entonces una pena máxima de dieciséis años, sin importar el número de víctimas. Esa fue su condena. Ingresó en la penitenciaría García Moreno, en Quito." },
+    { "voz": "ximena", "texto": "Según diversas fuentes, allí coincidió con otro asesino en serie colombiano, Daniel Camargo Barbosa, cuyo expediente también forma parte de este archivo. Dos hombres responsables de la muerte de decenas de niñas, en la misma cárcel." },
+    { "voz": "ximena", "texto": "En los años noventa, López salió de la prisión ecuatoriana y fue deportado a Colombia. Allí fue declarado enfermo mental e internado en un hospital psiquiátrico de Bogotá." },
+    { "voz": "alvaro", "texto": "¿Y desde allí?" },
+    { "voz": "ximena", "texto": "En 1998, los médicos consideraron que ya no representaba un peligro, y quedó en libertad. Según distintas informaciones, bastó una pequeña fianza. Desde entonces, su paradero es desconocido. Años después, la justicia colombiana lo buscó por un nuevo crimen y se emitió una alerta internacional. Nunca fue localizado." },
+    { "voz": "ximena", "texto": "Ha habido supuestos avistamientos, rumores y especulaciones. Algunos periodistas creen que pudo haber muerto; otros, que sigue vivo con otra identidad. Lo cierto es que nadie lo sabe." },
+    { "voz": "alvaro", "texto": "Es decir, que uno de los mayores asesinos de la historia podría estar en cualquier parte." },
+    { "voz": "ximena", "texto": "Y esa incertidumbre es su legado más inquietante. El caso dejó en evidencia las lagunas legales de su tiempo: sistemas que no estaban preparados para crímenes de esa magnitud y que no pudieron impedir que saliera por la puerta." },
+    { "voz": "ximena", "texto": "También dejó en evidencia lo poco que se buscaba a ciertas víctimas: niñas pobres, muchas de comunidades indígenas, cuyas desapariciones apenas se investigaban. Muchas familias nunca tuvieron una respuesta. Algunas no la tendrán jamás." },
+    { "voz": "ximena", "texto": "Y aquella mujer del mercado de Ambato nos recuerda algo importante: fue la reacción de una madre y de unos vendedores, y no una gran operación policial, lo que detuvo a uno de los criminales más peligrosos del continente." },
+    { "voz": "ximena", "texto": "En TRUE CRIME CALENDAR lo incluimos en el patrón de los Andes, junto a otros casos que muestran cómo la pobreza, las fronteras y la falta de recursos policiales permitieron que algunos criminales actuaran durante años sin ser detectados." },
+    { "voz": "ximena", "texto": "Casos en los que la frontera entre países servía de escondite, y en los que cada policía veía solo una parte del rompecabezas. Hasta aquí el expediente de Pedro Alonso López, el monstruo de los Andes. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": "La ficha dice que «cumplió 16 años». Según la mayoría de fuentes, fue condenado a 16 años (la pena máxima), pero salió de la prisión ecuatoriana en 1994, tras unos 14 años, por buena conducta. El guion dice que fue condenado a 16 años y que salió «en los años noventa», sin precisar cuántos cumplió."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "escalero",
+  "titulo": "La última fuga",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Madrid, 1993. Dos internos se escapan de un hospital psiquiátrico. Solo uno de ellos sigue con vida poco después. Ese hombre se presenta ante la policía para confesar la muerte de su compañero de fuga. Pero no se detiene ahí." },
+    { "voz": "ximena", "texto": "Empieza a hablar de otros cuerpos. De otros años. De personas que dormían en la calle y que, cuando desaparecieron, casi nadie echó de menos." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Francisco García Escalero, al que la prensa llamó el matamendigos. Un caso incómodo, porque habla tanto de un asesino como de la invisibilidad de sus víctimas." },
+    { "voz": "alvaro", "texto": "Un apodo terrible, además. Como si las víctimas fueran solo eso, mendigos, y no personas con nombre." },
+    { "voz": "ximena", "texto": "Por eso hoy hablaremos de personas sin hogar. García Escalero nació en Madrid en 1954, en una familia humilde. Según las crónicas, creció muy cerca del cementerio de la Almudena. Desde muy joven acumuló problemas: fugas, centros de menores, delitos y, más tarde, años de prisión." },
+    { "voz": "ximena", "texto": "A todo ello se sumaba una enfermedad mental grave, que con el tiempo se diagnosticaría como esquizofrenia, y una fuerte dependencia del alcohol. Cuando salió de la cárcel, acabó viviendo en la calle." },
+    { "voz": "alvaro", "texto": "Es decir, él mismo era una persona sin hogar." },
+    { "voz": "ximena", "texto": "Sí, y eso es clave para entender el caso. Entre 1987 y 1993 asesinó a otras personas, en su mayoría también sin hogar, con las que compartía la calle, las mismas plazas y los mismos portales del centro de Madrid. Muchos de los crímenes ocurrieron en el entorno del cementerio de la Almudena." },
+    { "voz": "ximena", "texto": "No vamos a entrar en cómo actuaba. Basta decir que algunas víctimas tardaron mucho en ser identificadas, y que las muertes se investigaron por separado. Casi ninguna llegó a las portadas de los periódicos. En el mejor de los casos, ocupaban unas pocas líneas en las páginas de sucesos, y al día siguiente nadie las recordaba." },
+    { "voz": "alvaro", "texto": "¿Y por qué nadie relacionó esos casos durante tantos años?" },
+    { "voz": "ximena", "texto": "Hay varias razones posibles. Las víctimas no tenían a nadie que preguntara por ellas en comisaría. Muchas no llevaban documentación. Y una muerte violenta en la calle se atribuía con facilidad a una pelea o al alcohol. El patrón estaba ahí, pero nadie lo estaba mirando." },
+    { "voz": "ximena", "texto": "Entre crimen y crimen, García Escalero entraba y salía de centros psiquiátricos. En 1993 estaba ingresado en un hospital de Madrid. Se escapó con otro interno, y aquella fuga terminó con la muerte de su compañero. Después se entregó." },
+    { "voz": "ximena", "texto": "Ante la policía confesó once asesinatos. Sus declaraciones permitieron vincular casos que se habían investigado por separado durante años. Por primera vez, aquellas muertes dispersas tenían un nombre detrás y una explicación." },
+    { "voz": "alvaro", "texto": "¿Y qué dijo la justicia? ¿Llegó a haber juicio?" },
+    { "voz": "ximena", "texto": "Lo hubo, pero con un desenlace distinto al habitual. Los psiquiatras coincidieron en que su enfermedad anulaba su capacidad de comprender lo que hacía. El tribunal lo declaró no imputable, es decir, exento de responsabilidad penal, y ordenó su internamiento en un psiquiátrico penitenciario." },
+    { "voz": "ximena", "texto": "Es una figura que a menudo se malinterpreta. No significa que quedara libre. Significa que, en lugar de cumplir una pena de cárcel, debía permanecer internado para recibir tratamiento, bajo control judicial. García Escalero pasó el resto de su vida en psiquiátricos penitenciarios." },
+    { "voz": "alvaro", "texto": "Conviene aclararlo, porque es de lo que más confusión genera en casos así." },
+    { "voz": "ximena", "texto": "Así es. El caso despertó entonces un gran interés mediático. Para muchos madrileños, era la primera vez que oían hablar de aquellas muertes, ocurridas en calles que recorrían a diario." },
+    { "voz": "ximena", "texto": "Murió en 2014, todavía internado. Nunca volvió a la calle." },
+    { "voz": "alvaro", "texto": "Una historia en la que casi todos llegaron tarde." },
+    { "voz": "ximena", "texto": "Su legado es una pregunta que sigue abierta: ¿cuánto tarda una sociedad en ver una muerte cuando la víctima no tiene casa? En España existe incluso una palabra para el rechazo a las personas pobres: aporofobia. Y las organizaciones sociales recuerdan que quienes viven en la calle son, con mucha frecuencia, víctimas de la violencia." },
+    { "voz": "ximena", "texto": "El caso también obliga a mirar la otra cara: la de un hombre gravemente enfermo que pasó años sin un tratamiento sostenido, entre la calle, la cárcel y el hospital. Ninguna de esas instituciones supo frenar lo que estaba ocurriendo." },
+    { "voz": "ximena", "texto": "En nuestro archivo, su caso forma parte de la historia criminal de España. Hoy lo cerramos recordando a sus víctimas, personas que murieron sin que casi nadie preguntara por ellas. Hasta aquí el expediente de Francisco García Escalero. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

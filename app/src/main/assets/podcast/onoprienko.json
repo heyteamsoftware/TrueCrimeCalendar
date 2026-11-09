@@ -1,0 +1,39 @@
+{
+  "id": "onoprienko",
+  "titulo": "Casas aisladas",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Lviv": "Lvív",
+    "Anatoly Onoprienko": "Anatóli Onopriénko",
+    "Onoprienko": "Onopriénko",
+    "Zhytomyr": "Yitómir",
+    "Bratkovychi": "Bratkóvichi",
+    "Yavoriv": "Iávoriv",
+    "Odesa": "Odésa"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Invierno de 1996. En las aldeas de la región de Lviv, en el oeste de Ucrania, la noche se ha convertido en una amenaza. En pocas semanas, varias familias enteras han sido asesinadas en sus casas, de madrugada, mientras dormían." },
+    { "voz": "ximena", "texto": "El Estado envía tropas a patrullar los caminos y montar controles. Los vecinos se organizan como pueden. Pero el asesino parece ir siempre un paso por delante de todos." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Anatoly Onoprienko, al que llamaron la bestia de Ucrania. Un caso que golpeó a un país recién independizado, en plena crisis tras la desaparición de la Unión Soviética." },
+    { "voz": "ximena", "texto": "Onoprienko nació en 1959 en una aldea de la región de Zhytomyr, en la Ucrania soviética. Su madre murió cuando él era muy pequeño, y creció en un orfanato, mientras su hermano mayor se quedaba con la familia. Según las biografías publicadas, estudió para trabajar en el sector forestal y fue marinero durante un tiempo." },
+    { "voz": "alvaro", "texto": "Una infancia dura, aunque eso, por sí solo, no explica nada." },
+    { "voz": "ximena", "texto": "No, y conviene decirlo. En 1989, junto a un cómplice, cometió una serie de robos violentos en los que murieron varias personas, entre ellas una familia, en la zona de Odesa. Aquellos crímenes quedaron entonces sin resolver." },
+    { "voz": "ximena", "texto": "Después se marchó del país y pasó varios años moviéndose por distintos países de Europa, con problemas con la ley y sin un rumbo claro. A finales de 1995, según las crónicas tras ser deportado desde Alemania, regresó a Ucrania. Y entre diciembre de ese año y la primavera de 1996 desató una oleada de violencia difícil de imaginar." },
+    { "voz": "alvaro", "texto": "¿Qué tipo de crímenes eran?" },
+    { "voz": "ximena", "texto": "Asaltos de madrugada a casas aisladas. Mataba a todos los que había dentro, incluidos niños, y se llevaba lo que encontraba, a veces muy poco. Después solía prender fuego a la vivienda. Aquel patrón lo convirtió en la pesadilla de las zonas rurales." },
+    { "voz": "ximena", "texto": "Muchos crímenes se concentraron en la región de Lviv, y especialmente en el pueblo de Bratkovychi, donde atacó varias casas. El nombre de aquel pueblo quedó asociado para siempre al miedo. Las autoridades llegaron a desplegar unidades de la Guardia Nacional y a montar controles en las carreteras de toda la zona." },
+    { "voz": "ximena", "texto": "Era un país que intentaba reconstruirse tras el fin de la Unión Soviética, con una economía hundida y una policía con pocos medios. Las comunicaciones entre regiones eran lentas, y relacionar crímenes cometidos a cientos de kilómetros no era nada fácil." },
+    { "voz": "alvaro", "texto": "¿Y cómo dieron finalmente con él?" },
+    { "voz": "ximena", "texto": "Según la versión más difundida, gracias a un familiar. Un pariente en cuya casa se había alojado encontró armas entre sus cosas, le pidió que se marchara y avisó a la policía. Para entonces, Onoprienko vivía en Yavoriv con su pareja y los hijos de ella." },
+    { "voz": "ximena", "texto": "En abril de 1996, los agentes fueron a buscarlo a Yavoriv. En la vivienda encontraron un arma y numerosos objetos robados a las víctimas. Una vez detenido, acabó confesando cincuenta y dos asesinatos, los de 1989 y los de la última oleada." },
+    { "voz": "alvaro", "texto": "¿Dio alguna explicación para algo así?" },
+    { "voz": "ximena", "texto": "Dio varias, y ninguna convincente. Habló de voces y de fuerzas superiores que le ordenaban actuar. Los psiquiatras que lo examinaron concluyeron que era responsable de sus actos y que podía ser juzgado." },
+    { "voz": "ximena", "texto": "El juicio se celebró en Zhytomyr. Onoprienko lo siguió desde una jaula metálica, como era habitual en los tribunales de la región. Terminó en 1999 con una condena a muerte. Pero Ucrania se había comprometido ante el Consejo de Europa a suprimir la pena capital, y su condena se convirtió en cadena perpetua." },
+    { "voz": "ximena", "texto": "Pasó el resto de su vida en prisión. Murió en 2013, por un fallo cardiaco. Nunca salió en libertad. En Ucrania, su caso se recuerda como uno de los más graves de su historia reciente." },
+    { "voz": "alvaro", "texto": "Cincuenta y dos víctimas. Cuesta asimilar una cifra así." },
+    { "voz": "ximena", "texto": "Por eso conviene recordar lo que hay detrás de ella: familias campesinas, niños, vecinos que se cruzaron en su camino. Personas que vivían en lugares tranquilos y apartados, donde nadie cerraba con miedo la puerta de casa." },
+    { "voz": "ximena", "texto": "En nuestro archivo, Onoprienko pertenece al patrón de los asesinos de la antigua Unión Soviética: casos marcados por sistemas policiales desbordados y por el silencio informativo de una época de grandes cambios." },
+    { "voz": "ximena", "texto": "Hoy recordamos a las cincuenta y dos personas que murieron en aquellas casas aisladas. Hasta aquí el expediente de Anatoly Onoprienko. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

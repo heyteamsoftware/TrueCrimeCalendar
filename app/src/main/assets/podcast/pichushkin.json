@@ -1,0 +1,42 @@
+{
+  "id": "pichushkin",
+  "titulo": "Una nota para su hijo",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alexander Pichushkin": "Alexánder Pichúshkin",
+    "Pichushkin": "Pichúshkin",
+    "Bitsevski": "Bítsevski",
+    "Marina Moskalyova": "Marina Moskaliova",
+    "Andrei Chikatilo": "Andréi Chikatilo",
+    "Rostov": "Róstov"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Moscú, junio de 2006. Una mujer sale de casa para dar un paseo con un compañero de trabajo. Antes de irse, deja una nota a su hijo. En ella apunta con quién ha quedado y su número de teléfono." },
+    { "voz": "ximena", "texto": "Nunca vuelve. Pero esa nota, unas pocas líneas en un papel, va a poner fin a catorce años de crímenes." },
+    { "voz": "alvaro", "texto": "¿Catorce años? ¿Y nadie se había dado cuenta en todo ese tiempo?" },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Alexander Pichushkin, conocido como el asesino del ajedrez." },
+    { "voz": "ximena", "texto": "Alexander Pichushkin nació el 9 de abril de 1974 en la región de Moscú. Vivía con su madre en un bloque de pisos del sur de la ciudad, junto al parque Bitsevski, una enorme extensión de bosque dentro de la capital, con senderos y rincones por los que apenas pasa nadie. Trabajaba en un supermercado." },
+    { "voz": "ximena", "texto": "Su primer crimen conocido se remonta a 1992, cuando todavía era un adolescente. Después hubo una larga pausa. A partir de 2001 empezó a matar de forma continuada, casi siempre en el mismo lugar: aquel parque que conocía desde niño." },
+    { "voz": "ximena", "texto": "Sus víctimas eran casi siempre personas que conocía o a las que abordaba en el parque. Muchas eran hombres mayores, solos o sin hogar. Les invitaba a beber vodka en algún rincón apartado del bosque, y allí los atacaba." },
+    { "voz": "ximena", "texto": "Muchos le conocían desde hacía años: vecinos, compañeros, conocidos del barrio. Por eso aceptaban su invitación sin desconfiar." },
+    { "voz": "alvaro", "texto": "Gente vulnerable, en un parque enorme... ¿Por qué tardó tanto la policía en reaccionar?" },
+    { "voz": "ximena", "texto": "Porque durante años apenas hubo cuerpos. Muchas víctimas eran personas cuya desaparición nadie denunció, o que se dieron simplemente por perdidas. Solo cuando empezaron a aparecer cadáveres en el parque, entre 2005 y 2006, la prensa de Moscú comenzó a hablar del maníaco del parque Bitsevski." },
+    { "voz": "ximena", "texto": "El miedo se extendió por los barrios cercanos. La policía reforzó las patrullas y difundió avisos para que nadie paseara solo por el bosque. Pero el asesino conocía el parque mejor que nadie." },
+    { "voz": "alvaro", "texto": "Y entonces llegó la nota." },
+    { "voz": "ximena", "texto": "La víctima de junio de 2006 era Marina Moskalyova, compañera de trabajo de Pichushkin. Con su nota, la policía tenía un nombre. Además, las cámaras del metro la habían grabado caminando junto a él ese mismo día." },
+    { "voz": "ximena", "texto": "Pichushkin fue detenido el 16 de junio de 2006. Y entonces habló. Mucho. Contó a los investigadores que había matado a más de sesenta personas, y los llevó a varios de los lugares del parque." },
+    { "voz": "ximena", "texto": "Y explicó algo escalofriante. En su casa tenía un tablero de ajedrez. Según su relato, quería ir llenando sus sesenta y cuatro casillas, una por cada víctima. Cuando lo detuvieron, decía que ya le quedaban muy pocas." },
+    { "voz": "alvaro", "texto": "Y había otro nombre en su cabeza, ¿no es así?" },
+    { "voz": "ximena", "texto": "Sí. Declaró que pretendía superar el número de víctimas de Andrei Chikatilo, el asesino de Rostov, cuyo expediente también está en este archivo. Una idea que dice mucho de cómo la fama de unos criminales puede alimentar la de otros." },
+    { "voz": "alvaro", "texto": "¿Y en el juicio? ¿Mostró algún tipo de arrepentimiento?" },
+    { "voz": "ximena", "texto": "Ninguno. Se mostró desafiante y llegó a quejarse de que no se le reconocieran todas las muertes que él mismo se atribuía." },
+    { "voz": "ximena", "texto": "En 2007, un jurado lo declaró culpable de cuarenta y ocho asesinatos y tres intentos de asesinato. Fue condenado a cadena perpetua. Cumple condena en una prisión de máxima seguridad en el norte de Rusia." },
+    { "voz": "ximena", "texto": "Este archivo le atribuye cuarenta y nueve víctimas, y algunas estimaciones superan las sesenta, siguiendo su propia confesión. La cifra exacta probablemente nunca se conocerá: muchas de aquellas personas desaparecieron sin que nadie las buscara." },
+    { "voz": "alvaro", "texto": "¿Y qué aprendió la policía rusa de todo esto?" },
+    { "voz": "ximena", "texto": "El caso abrió un debate incómodo. Muchas víctimas eran personas mayores, solas o sin hogar, cuyas desapariciones apenas se investigaron. Algunas familias reprocharon a la policía que tardara demasiado en reaccionar, a pesar de las señales que llegaban desde el parque." },
+    { "voz": "ximena", "texto": "Y dejó una pregunta que se repite en muchos expedientes de este archivo: ¿cuántas vidas se habrían salvado si alguien hubiera buscado antes a quienes nadie echaba de menos?" },
+    { "voz": "ximena", "texto": "Hoy queda el recuerdo de decenas de personas que fueron a dar un paseo por un parque y nunca regresaron. Y el de una mujer que, con una simple nota para su hijo, hizo posible que no hubiera más." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Alexander Pichushkin. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": "La ficha da 49 víctimas y una condena por 48 asesinatos y 3 intentos; el guion recoge ambas cifras tal cual («este archivo le atribuye 49», «condenado por 48»). No he podido confirmar de dónde sale la víctima número 49."
+}

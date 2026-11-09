@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hoja de calendario con un día marcado en rojo (colores del HTML: papel, rojo y manila). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Hoja -->
+    <path
+        android:fillColor="#EFE6CF"
+        android:pathData="M36,33h36a4,4 0,0 1,4 4v36a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-36a4,4 0,0 1,4 -4z" />
+    <!-- Cabecera roja -->
+    <path
+        android:fillColor="#A3221B"
+        android:pathData="M36,33h36a4,4 0,0 1,4 4v8h-44v-8a4,4 0,0 1,4 -4z" />
+    <!-- Anillas -->
+    <path
+        android:fillColor="#D6BB7C"
+        android:pathData="M43,28a2,2 0,0 1,2 2v8a2,2 0,0 1,-4 0v-8a2,2 0,0 1,2 -2z M65,28a2,2 0,0 1,2 2v8a2,2 0,0 1,-4 0v-8a2,2 0,0 1,2 -2z" />
+    <!-- Días -->
+    <path
+        android:fillColor="#C9B98F"
+        android:pathData="M36,49.5h6v5h-6z M46,49.5h6v5h-6z M56,49.5h6v5h-6z M66,49.5h6v5h-6z M36,58.5h6v5h-6z M46,58.5h6v5h-6z M66,58.5h6v5h-6z M36,67.5h6v5h-6z M46,67.5h6v5h-6z M56,67.5h6v5h-6z M66,67.5h6v5h-6z" />
+    <!-- Día marcado -->
+    <path
+        android:fillColor="#2A251E"
+        android:pathData="M56,58.5h6v5h-6z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M51,61.5a8,7 0,1 0,16 -0.5a8,7 0,1 0,-16 0.5z"
+        android:strokeWidth="2.2"
+        android:strokeColor="#A3221B"
+        android:strokeLineCap="round" />
+</vector>

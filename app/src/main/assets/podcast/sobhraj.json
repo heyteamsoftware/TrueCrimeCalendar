@@ -1,0 +1,41 @@
+{
+  "id": "sobhraj",
+  "titulo": "El guía demasiado amable",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Charles Sobhraj": "Charls Sobrách",
+    "Sobhraj": "Sobrách",
+    "Nueva Delhi": "Nueva Deli",
+    "hippie": "jípi",
+    "Pattaya": "Patáya",
+    "Herman Knippenberg": "Jérman Knípenberg",
+    "Knippenberg": "Knípenberg",
+    "Tihar": "Tijár"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Nueva Delhi, julio de 1976. Un grupo de estudiantes franceses de viaje por la India ha encontrado un guía encantador. Habla su idioma, conoce los mejores sitios y, cuando algunos se quejan del estómago, les ofrece unas pastillas. Al poco rato, varios empiezan a encontrarse muy mal." },
+    { "voz": "ximena", "texto": "Algunos se dan cuenta de lo que está pasando. Lo reducen y lo entregan a la policía. Aquel guía tan amable era uno de los hombres más buscados de Asia." },
+    { "voz": "alvaro", "texto": "¿Unos estudiantes de viaje atraparon a quien la policía de varios países no había logrado detener?" },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Charles Sobhraj, conocido como la Serpiente y también como el asesino del bikini." },
+    { "voz": "ximena", "texto": "Charles Sobhraj nació el 6 de abril de 1944 en Saigón, hijo de un padre indio y de una madre vietnamita. Tuvo nacionalidad francesa y pasó su juventud entre Francia e Indochina. Desde muy joven entró y salió de cárceles francesas por robos y estafas." },
+    { "voz": "ximena", "texto": "A mediados de los setenta se instaló en Bangkok. Era la época de la llamada ruta hippie: miles de jóvenes occidentales recorrían Asia con poco dinero y mucha confianza. Sobhraj, políglota y seductor, se presentaba como comerciante de piedras preciosas y se ganaba su amistad." },
+    { "voz": "ximena", "texto": "Su método era la estafa. Ofrecía ayuda, alojamiento y, a veces, medicinas. Drogaba a sus víctimas para robarles el dinero y, sobre todo, los pasaportes, que después usaba para moverse por la región con otras identidades." },
+    { "voz": "alvaro", "texto": "Pero no se quedaba en el robo, ¿verdad?" },
+    { "voz": "ximena", "texto": "No. Entre 1975 y 1976 se le atribuyen al menos doce asesinatos en Tailandia, Nepal y la India, en algunos casos con la ayuda de cómplices. Algunas estimaciones elevan la cifra hasta veinticuatro. Una de las primeras víctimas apareció en bikini junto a una playa de Pattaya, y de ahí nació uno de sus apodos." },
+    { "voz": "ximena", "texto": "Lo que hizo saltar las alarmas fue la desaparición de una pareja de jóvenes holandeses. Un diplomático de la embajada de los Países Bajos en Bangkok, Herman Knippenberg, empezó a investigar por su cuenta al ver que la policía tailandesa avanzaba muy despacio." },
+    { "voz": "ximena", "texto": "Knippenberg reunió testimonios y documentos durante meses. Cuando por fin se registró el apartamento de Sobhraj, aparecieron pasaportes y objetos de varias víctimas. Pero él ya había salido del país." },
+    { "voz": "ximena", "texto": "Siguió moviéndose por Asia con documentos ajenos, siempre un paso por delante. Hasta aquel día de julio de 1976 en Nueva Delhi, cuando unos estudiantes franceses no se dejaron engañar." },
+    { "voz": "alvaro", "texto": "Y una vez detenido en la India, ¿qué pasó con él?" },
+    { "voz": "ximena", "texto": "Fue juzgado y condenado en la India, y pasó años encerrado en la prisión de Tihar, en Nueva Delhi. Allí vivió con privilegios poco habituales. En 1986, cuando le quedaba poco de condena, se fugó tras drogar a los guardias durante una supuesta celebración." },
+    { "voz": "ximena", "texto": "Lo recapturaron semanas después en Goa. Muchos creen que la fuga fue calculada: al sumar años de condena en la India, evitaba ser entregado a Tailandia, donde le esperaba un proceso con posible pena de muerte, hasta que aquella orden de búsqueda perdiera validez." },
+    { "voz": "ximena", "texto": "Y así ocurrió. En 1997 salió libre y regresó a Francia. Allí vivió años como una especie de celebridad, concediendo entrevistas pagadas. Tailandia nunca llegó a juzgarle." },
+    { "voz": "alvaro", "texto": "Pero en 2003 cometió un error difícil de explicar." },
+    { "voz": "ximena", "texto": "Volvió a Nepal, uno de los países donde había matado. Un periodista lo reconoció en Katmandú y fue detenido. En 2004, un tribunal nepalí lo condenó a cadena perpetua por el asesinato de una turista estadounidense en 1975. Años después llegó una segunda condena, por la muerte de un joven canadiense." },
+    { "voz": "ximena", "texto": "Pasó casi veinte años en una cárcel de Katmandú. En diciembre de 2022, el Tribunal Supremo de Nepal ordenó su liberación por su edad y su estado de salud. Fue deportado a Francia." },
+    { "voz": "alvaro", "texto": "¿Y por qué este caso sigue fascinando tanto, casi cincuenta años después?" },
+    { "voz": "ximena", "texto": "En parte, por las series y documentales que lo han convertido en un personaje de la cultura popular. Pero conviene mirar donde importa: a jóvenes que viajaban con una mochila y confiaron en alguien que les ofrecía ayuda, y a familias que esperaron décadas para ver una condena." },
+    { "voz": "ximena", "texto": "Y también al tesón de un diplomático que no se conformó con el silencio oficial, y de unos estudiantes que, enfermos y lejos de casa, supieron reaccionar. Sin ellos, quizá esta historia no habría tenido final." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Charles Sobhraj. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "king",
+  "titulo": "Una culpable que no lo era",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Tony King": "Tóni King",
+    "Holloway": "Jóloguei",
+    "Rocío Wanninkhof": "Rocío Uáninjof",
+    "Wanninkhof": "Uáninjof"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Una madrugada de agosto de 2003. Coín, en Málaga. Es feria en el pueblo. Sonia Carabantes, de diecisiete años, se despide de sus amigas y emprende el camino de vuelta a casa. Son pocos minutos andando. Nunca llega." },
+    { "voz": "ximena", "texto": "Días después, su cuerpo aparece en una zona de monte cercana. Los investigadores recogen restos biológicos del agresor. Y cuando el laboratorio analiza ese ADN, salta una coincidencia que nadie esperaba." },
+    { "voz": "alvaro", "texto": "¿Una coincidencia? ¿Con quién?" },
+    { "voz": "ximena", "texto": "Con unos restos hallados cuatro años antes en otro crimen de la Costa del Sol. Un caso que ya se había juzgado. Y por el que una mujer había sido condenada y había pasado meses en prisión." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Tony King, al que se conoce como el asesino de la Costa del Sol." },
+    { "voz": "ximena", "texto": "Tony King nació el 14 de marzo de 1965 en el Reino Unido. En Londres tenía antecedentes por agredir a varias mujeres, y la prensa británica le había llamado el estrangulador de Holloway. Tras cumplir condena, a finales de los noventa se instaló con su familia en la Costa del Sol, donde llevaba una vida aparentemente normal." },
+    { "voz": "ximena", "texto": "Para entender lo que reveló aquel ADN hay que volver a octubre de 1999. Rocío Wanninkhof, de diecinueve años, desaparece en La Cala de Mijas cuando volvía a casa. Su cuerpo se encuentra semanas después, a varios kilómetros." },
+    { "voz": "ximena", "texto": "La investigación se centró pronto en Dolores Vázquez, que había sido pareja de la madre de Rocío. No había pruebas directas contra ella. Pero sí un enorme ruido mediático, que la presentó como la sospechosa perfecta mucho antes de que nadie la juzgara." },
+    { "voz": "alvaro", "texto": "Un juicio paralelo en toda regla. ¿Y llegó a sentarse en el banquillo?" },
+    { "voz": "ximena", "texto": "Sí. En 2001, un jurado popular la declaró culpable y fue condenada a quince años de prisión. Al año siguiente, el Tribunal Superior de Justicia de Andalucía anuló la sentencia por falta de motivación del veredicto y ordenó repetir el juicio. Dolores Vázquez llevaba entonces más de un año en la cárcel." },
+    { "voz": "ximena", "texto": "Pero aquella anulación no la declaraba inocente. Solo decía que el veredicto no estaba bien razonado. Dolores Vázquez salió de prisión a la espera de un nuevo juicio, con la sospecha todavía encima." },
+    { "voz": "alvaro", "texto": "Es decir, seguía siendo la principal sospechosa. Y entonces el caso dio un vuelco inesperado." },
+    { "voz": "ximena", "texto": "El vuelco llegó con el ADN del caso de Sonia. Los restos biológicos hallados en el entorno del crimen de Rocío no eran de Dolores Vázquez. Eran del mismo hombre que había matado a Sonia Carabantes." },
+    { "voz": "ximena", "texto": "Las pesquisas condujeron hasta Tony King. Fue detenido en septiembre de 2003, pocas semanas después del crimen de Coín. A lo largo del proceso cambió varias veces de versión e intentó repartir culpas, sin que sus relatos se sostuvieran." },
+    { "voz": "alvaro", "texto": "¿Y qué pasó con Dolores Vázquez?" },
+    { "voz": "ximena", "texto": "La causa contra ella se archivó. Había pasado diecisiete meses en prisión por un crimen que no había cometido. Su caso se considera uno de los errores judiciales más graves de la democracia española." },
+    { "voz": "ximena", "texto": "Tony King fue juzgado primero por la muerte de Sonia Carabantes, en 2005, y condenado. En 2006 llegó la segunda sentencia, por el asesinato de Rocío Wanninkhof. Hoy sigue cumpliendo condena en España." },
+    { "voz": "alvaro", "texto": "Dos víctimas probadas. ¿Pudo haber más?" },
+    { "voz": "ximena", "texto": "Es una sospecha que ha acompañado al caso desde el principio. Se le investigó por otros sucesos, pero nunca se ha probado su autoría en ninguno más. La cifra oficial sigue siendo de dos asesinatos." },
+    { "voz": "ximena", "texto": "Este expediente dejó lecciones duras. La primera, sobre el poder de los juicios mediáticos. Dolores Vázquez fue señalada en televisión y en la calle mucho antes de que hubiera pruebas, y muchos analistas creen que los prejuicios sobre su vida personal pesaron en aquella condena." },
+    { "voz": "ximena", "texto": "La segunda, sobre la información entre países. King había llegado a España con antecedentes graves en el Reino Unido, y las autoridades españolas no lo sabían. El caso alimentó el debate sobre el intercambio de antecedentes penales en Europa." },
+    { "voz": "alvaro", "texto": "Y una tercera, quizá: el ADN no solo identifica a los culpables. También puede devolver la inocencia." },
+    { "voz": "ximena", "texto": "Así es. Sin aquella coincidencia de laboratorio, Dolores Vázquez habría vuelto a sentarse ante un jurado. Y el verdadero autor habría seguido libre, en la misma costa." },
+    { "voz": "ximena", "texto": "Hoy recordamos a Rocío Wanninkhof y a Sonia Carabantes, dos jóvenes que volvían a casa y no llegaron. Y a sus familias, que además del dolor tuvieron que atravesar un proceso lleno de errores." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Tony King. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

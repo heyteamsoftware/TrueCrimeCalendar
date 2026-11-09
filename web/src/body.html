@@ -1,0 +1,124 @@
+</head>
+<body>
+<!-- Tapa del cuaderno: se levanta al arrancar (una vez por sesión) -->
+<div class="cover" id="cover" aria-hidden="true">
+  <div class="worn"></div>
+  <span class="dymo"><b>T</b><b>R</b><b>U</b><b>E</b><i></i><b>C</b><b>R</b><b>I</b><b>M</b><b>E</b><i></i><b>C</b><b>A</b><b>L</b><b>E</b><b>N</b><b>D</b><b>A</b><b>R</b></span>
+  <div class="lbl">ARCHIVO DE PERFILES CRIMINALES<em>Cuaderno de expedientes</em></div>
+  <span class="cst ink">Confidencial</span>
+  <span class="tape tp"></span>
+  <i class="shade"></i>
+</div>
+<script>
+(function(){ /* sin tapa si ya se abrió en esta sesión, si se viene de una notificación (#id) o si se pide menos movimiento */
+  var c=document.getElementById("cover"), skip=false;
+  try{ skip=sessionStorage.getItem("tcc_cover")==="1"; sessionStorage.setItem("tcc_cover","1"); }catch(_){}
+  if(skip || location.hash.length>1 || (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) c.parentNode.removeChild(c);
+})();
+</script>
+
+<div class="book" id="book">
+<header class="top" id="top">
+  <div class="brand-row">
+    <div class="brand">
+      <h1 class="dymo"><span aria-hidden="true"><b>T</b><b>R</b><b>U</b><b>E</b><i></i><b>C</b><b>R</b><b>I</b><b>M</b><b>E</b><i></i><b>C</b><b>A</b><b>L</b><b>E</b><b>N</b><b>D</b><b>A</b><b>R</b></span><span class="sr">TRUE CRIME CALENDAR</span></h1>
+      <span class="sub">Archivo de perfiles criminales</span>
+    </div>
+    <div class="tools">
+      <button class="tool" id="tSearch" aria-label="Buscar en el archivo" aria-expanded="false" aria-controls="searchWrap"><svg viewBox="0 0 24 24"><path d="M10.6 4.2c3.7-.3 6.6 2.4 6.5 5.9-.1 3.4-2.9 6.2-6.4 6.1C7.3 16.1 4.4 13.4 4.6 10c.1-3.1 2.6-5.6 6-5.8z"/><path d="M15.3 15.1l5 5.3"/></svg></button>
+      <button class="tool" id="tView" aria-label="Ver el mapa" aria-pressed="false"><svg viewBox="0 0 24 24" class="ico-map"><path d="M3.4 6.2l5.4-2.1 6.3 2.3 5.6-2v13.7l-5.5 2.1-6.4-2.4-5.4 2.1z"/><path d="M8.8 4.1v13.8M15.1 6.4v13.7"/></svg><svg viewBox="0 0 24 24" class="ico-cal" hidden><path d="M4 5.6h16.2v14.6H4.1z"/><path d="M4 10h16.2M8.3 3.4v3.9M15.8 3.4v3.9M8 13.6h.1M12 13.6h.1M16 13.6h.1M8 17h.1M12 17h.1"/></svg></button>
+      <button class="tool" id="tAlerts" aria-label="Avisos diarios" hidden><svg viewBox="0 0 24 24"><path d="M6.2 16.6c1-1.3 1.2-3 1.2-5.4 0-3 2-5.2 4.7-5.2s4.6 2.2 4.6 5.3c0 2.3.3 4 1.3 5.3z"/><path d="M5 16.8h14.2M10.3 19.3c.5 1 2.8 1.1 3.4 0M12.1 4v1.9"/></svg></button>
+    </div>
+  </div>
+  <div class="search" id="searchWrap" hidden>
+    <label for="q">Buscar:</label>
+    <input id="q" type="search" placeholder="nombre, alias, país, caso…" autocomplete="off" enterkeyhint="search">
+    <button class="clr" id="clr" aria-label="Borrar la búsqueda"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
+  </div>
+  <div class="tags" id="filters" role="group" aria-label="Filtros"></div>
+  <div class="coil"></div>
+</header>
+
+<main class="page" id="page">
+  <section class="view" id="calView">
+    <div class="cal-col">
+      <div id="calStage">
+        <div class="cal" id="cal">
+          <div class="cal-bar">
+            <button class="nav" id="prevM" aria-label="Mes anterior"><svg viewBox="0 0 30 22"><path d="M27 11.6c-7.4-.5-14.8-.2-22.6.3"/><path d="M10.4 4.6C8 7 6 9 3.6 11.7c2.4 2 4.6 3.8 7.3 6"/></svg></button>
+            <div class="cal-title" id="calTitle" aria-live="polite"></div>
+            <button class="nav" id="nextM" aria-label="Mes siguiente"><svg viewBox="0 0 30 22"><path d="M3 10.9c7.4.4 14.8.1 22.6-.4"/><path d="M19.6 3.9c2.4 2.4 4.4 4.4 6.8 7.1-2.4 2-4.6 3.8-7.3 6"/></svg></button>
+          </div>
+          <div class="wk" aria-hidden="true"><div>LUN</div><div>MAR</div><div>MIÉ</div><div>JUE</div><div>VIE</div><div>SÁB</div><div>DOM</div></div>
+          <div class="days" id="days"></div>
+          <div class="legend-cal">
+            <span><svg viewBox="0 0 22 16"><path d="M5 9.5C4.2 4.6 9.4 1.8 14.2 2.6c4.6.8 6.3 5.2 3.4 8.6-2.9 3.3-9.6 3.6-12.3.6C3.6 9.9 4.2 7 6.8 5.1" fill="none" stroke="#a3221b" stroke-width="1.6" stroke-linecap="round"/></svg>Expediente</span>
+            <span><svg viewBox="0 0 22 16"><path d="M8 2.5l1.6 11.5M13 2.5l1.6 11.5" stroke="#a3221b" stroke-width="2" stroke-linecap="round"/></svg>Uno por caso</span>
+            <span><svg viewBox="0 0 22 16"><path d="M10 2.5l1.6 11.5" stroke="#21407a" stroke-width="2" stroke-linecap="round"/></svg>Con vínculos</span>
+            <button class="hoy" id="goToday">Hoy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="list-col">
+      <button class="slip" id="slip"></button>
+      <div class="list-head"><h3 id="listTitle"></h3><span class="cnt" id="listCount"></span><button id="showMonth" hidden>Ver todo el mes</button></div>
+      <div class="cards" id="cards"></div>
+    </div>
+  </section>
+
+  <section class="view" id="resView">
+    <div class="list-head"><h3>Resultados de la búsqueda</h3><span class="cnt" id="resCount"></span></div>
+    <div class="cards" id="resCards"></div>
+  </section>
+
+  <section class="view" id="mapView">
+    <div class="clipping"><span class="tape a"></span><span class="tape b"></span><div id="worldmap"></div></div>
+    <div class="legend"><span><i></i>Lugar del caso</span><span><i class="b"></i>Caso con vínculos</span><span><i class="th"></i>Hilo: vínculo directo</span><span class="note">Toca una chincheta para abrir el expediente</span></div>
+  </section>
+
+  <p class="foot">Contenido divulgativo. Cifras de víctimas aproximadas, procedentes de fuentes públicas; algunas están en disputa. Los retratos robot son genéricos. Las imágenes documentales enlazan a sus fuentes.</p>
+</main>
+</div>
+
+<nav class="mtabs" id="mtabs" aria-label="Meses"></nav>
+
+<div class="backdrop" id="bd"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="pName">
+  <div class="sh-head" id="shHead">
+    <div class="ftab"><span class="lab" id="pExp"></span></div>
+    <button class="ib" id="pPrev" aria-label="Expediente anterior"><svg viewBox="0 0 24 24"><path d="M15 5.6 8.8 12l6.4 6.3"/></svg></button>
+    <button class="ib" id="pNext" aria-label="Expediente siguiente"><svg viewBox="0 0 24 24"><path d="M9 5.7l6.3 6.2L9 18.4"/></svg></button>
+    <button class="ib" id="pClose" aria-label="Cerrar el expediente"><svg viewBox="0 0 24 24"><path d="M6.2 6l11.8 12.2M17.8 6.1 6 18"/></svg></button>
+  </div>
+  <div class="sh-body" id="pBody"></div>
+  <div class="fcover" id="fcover" aria-hidden="true"></div>
+</div>
+
+<div class="mini" id="mini" role="region" aria-label="Reproductor">
+  <div class="mini-prog"><i id="miniProg"></i></div>
+  <button class="mini-main" id="miniOpen" aria-label="Abrir el expediente que se está escuchando">
+    <span class="mreels" aria-hidden="true"><i class="mreel"></i><i class="mreel"></i></span>
+    <span class="mini-txt"><b id="miniTitle"></b><small id="miniSub"></small></span>
+  </button>
+  <button class="mbtn tg" id="miniToggle" aria-label="Pausar"><svg viewBox="0 0 16 16" class="ico-play"><path d="M4 2.6l9.6 5.4L4 13.4z"/></svg><svg viewBox="0 0 16 16" class="ico-pause"><path d="M3.6 2.6h3v10.8h-3zM9.4 2.6h3v10.8h-3z"/></svg></button>
+  <button class="mbtn st" id="miniStop" aria-label="Detener"><svg viewBox="0 0 16 16"><path d="M3.6 3.8l8.8 8.6M12.4 3.6 3.6 12.4"/></svg></button>
+</div>
+
+<div class="sbd" id="sbd"></div>
+<div class="settings" id="settings" role="dialog" aria-modal="true" aria-labelledby="setTitle" hidden>
+  <div class="set-card">
+    <span class="tape"></span>
+    <h2 id="setTitle">Ficha de avisos</h2>
+    <button class="set-x" id="setClose" aria-label="Cerrar los avisos"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
+    <p class="set-intro">Cada día, a la hora indicada, el cuaderno te avisa si en el archivo hay un expediente con la fecha de hoy.</p>
+    <fieldset class="set-row">
+      <legend>Aviso diario</legend>
+      <label class="chk"><input type="radio" name="nOn" value="1" id="nYes"><span class="box"></span>Sí</label>
+      <label class="chk"><input type="radio" name="nOn" value="0" id="nNo"><span class="box"></span>No</label>
+    </fieldset>
+    <div class="set-row"><label for="nTime">Hora</label><input type="time" id="nTime" step="60" value="09:00"></div>
+    <p class="perm" id="nPerm" hidden>Android aún no tiene permiso para mostrar avisos. Concédelo en los ajustes del teléfono.</p>
+    <div class="set-act"><button class="stamp-btn" id="nTest">Probar aviso</button><span class="sent" id="nSent" hidden>¡Enviado!</span></div>
+  </div>
+</div>

@@ -1,0 +1,108 @@
+{
+  "id": "shipman",
+  "titulo": "El testamento que no cuadraba",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Harold Shipman": "Járold Shípman",
+    "Shipman Inquiry": "Shípman Inkuáiri",
+    "Shipman": "Shípman",
+    "Hyde": "Jáid",
+    "Angela Woodruff": "Ányela Gúdraf",
+    "Angela": "Ányela",
+    "Kathleen Grundy": "Kázlin Grándi",
+    "Kathleen": "Kázlin",
+    "Nottingham": "Nótingam",
+    "Leeds": "Lids",
+    "Todmorden": "Tódmorden",
+    "Janet Smith": "Yánet Esmiz",
+    "Wakefield": "Uéikfild",
+    "Grundy": "Grándi"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Hyde, cerca de Mánchester, verano de 1998. Angela Woodruff, abogada, acaba de enterrar a su madre, Kathleen Grundy, de ochenta y un años. Entonces le llega un testamento que la deja helada: según ese papel, su madre lo habría dejado casi todo, cientos de miles de libras, a su médico de cabecera."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y para una abogada, aquello no tenía ningún sentido."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Ninguno. El documento estaba torpemente mecanografiado y su madre, muy conocida y activa en la vida local de Hyde, era una mujer meticulosa. Angela fue a la policía. Exhumaron el cuerpo de Kathleen, y los análisis encontraron diamorfina, es decir, heroína de uso médico. El médico que había firmado el certificado de defunción era el mismo que salía beneficiado."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Harold Shipman, el Doctor Muerte."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Shipman nació en Nottingham en 1946. Cuando tenía diecisiete años, su madre murió de cáncer tras una larga enfermedad, durante la cual el médico de familia la visitaba en casa para aliviarle el dolor con morfina. Muchos han querido ver ahí un origen. Nadie puede saberlo con certeza."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Estudió Medicina en Leeds y en 1974 empezó a ejercer como médico de cabecera en Todmorden. Allí lo descubrieron falsificando recetas de petidina, un opiáceo que consumía él mismo. Fue multado, se sometió a tratamiento… y pudo seguir ejerciendo."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Le dejaron seguir siendo médico después de aquello?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Sí. En 1977 se instaló en Hyde, una pequeña ciudad del Gran Mánchester, y con los años se convirtió en un médico muy apreciado. Desde 1992 tenía consulta propia, con muchos pacientes mayores a los que visitaba en sus casas. Tenía fama de atento y cercano."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Y ahí estaba la clave. Durante esas visitas, administraba sobredosis de diamorfina a sus pacientes, la mayoría mujeres mayores que vivían solas. Después certificaba él mismo la muerte, como algo natural, y a veces modificaba los historiales para que todo cuadrara."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Nadie sospechó antes del caso de Kathleen Grundy?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Alguien sí. En marzo de 1998, una médica de una consulta vecina y una funeraria local alertaron de que morían demasiados pacientes de Shipman. La policía investigó, pero de forma superficial, y cerró el asunto sin encontrar nada. Después de aquello, Shipman mató al menos a tres personas más."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En septiembre de 1998, tras el caso Grundy, fue detenido. La policía exhumó más cuerpos y revisó cientos de historiales clínicos. En la consulta apareció además la máquina de escribir con la que se había redactado el falso testamento. En octubre de 1999 comenzó el juicio en Preston."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y de cuántos crímenes se le acusó?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "De quince asesinatos de pacientes, además de la falsificación del testamento. En enero de 2000, el jurado lo declaró culpable de todos los cargos. Fue condenado a cadena perpetua, y más tarde se estableció que nunca saldría de prisión. Shipman jamás confesó."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Pero quince era solo una pequeña parte. El Gobierno encargó una investigación pública, la Shipman Inquiry, dirigida por la jueza Janet Smith. Tras revisar cientos de muertes, una a una, concluyó que había matado al menos a doscientas dieciocho personas a lo largo de su carrera."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Doscientas dieciocho. Uno de los asesinos en serie más prolíficos de la historia."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Y probablemente no sea la cifra total: hay muchas muertes que nunca se pudieron aclarar, y las estimaciones superan las doscientas cincuenta. Shipman murió en la prisión de Wakefield en enero de 2004, la víspera de cumplir cincuenta y ocho años. Se quitó la vida en su celda."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Su legado más importante está en las leyes. Tras el caso, el Reino Unido revisó cómo se certifican las muertes, cómo se controlan los opiáceos en las consultas y cómo se supervisa a los médicos. La idea era sencilla: que nunca más un solo profesional pudiera matar sin que nadie lo revisara. Algunos cambios tardaron décadas, como la figura de médicos examinadores independientes que revisan las causas de muerte."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La investigación pública también señaló algo incómodo: las señales estuvieron ahí durante años. Las muertes en la consulta de Shipman eran muy superiores a las de sus colegas, y con frecuencia se producían durante sus visitas o poco después. Nadie las había comparado a tiempo."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En este archivo, Shipman encabeza el patrón de los ángeles de la muerte: sanitarios que matan a quienes confían en ellos. Y su caso recuerda que la confianza también necesita controles."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de Harold Shipman, y el recuerdo de sus pacientes. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gaskins",
+  "titulo": "Fosas junto a Prospect",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Donald Henry Gaskins": "Dónald Jenri Gáskins",
+    "Gaskins": "Gáskins",
+    "Pee Wee": "Pi Ui",
+    "Prospect": "Próspect",
+    "Florence": "Flórens",
+    "Rudolph Tyner": "Rúdolf Táiner",
+    "Tyner": "Táiner"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Diciembre de 1975. Un bosque cerca de Prospect, una pequeña comunidad rural de Carolina del Sur. Varios agentes cavan en los puntos que les ha señalado un joven que acaba de decidir hablar. Bajo la tierra aparecen los restos de varias personas." },
+    { "voz": "ximena", "texto": "El joven señala a un hombre muy bajito, de aspecto tranquilo, al que en la zona todos conocen por su apodo de la infancia. Le llaman Pee Wee." },
+    { "voz": "alvaro", "texto": "Pee Wee... Un apodo casi inofensivo. Y detrás, uno de los criminales más inquietantes del sur de Estados Unidos." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Donald Henry Gaskins, Pee Wee Gaskins." },
+    { "voz": "ximena", "texto": "Nació el 13 de marzo de 1933 en el condado de Florence, en Carolina del Sur. Creció en la pobreza, con apenas escolarización y un entorno familiar violento. De adolescente ya robaba, y acabó pasando por un reformatorio." },
+    { "voz": "ximena", "texto": "La edad adulta no cambió el rumbo. Durante los años cincuenta y sesenta entró y salió de la cárcel por robos, agresiones y otros delitos. Llegó incluso a fugarse. Era lo que los tribunales llaman un delincuente habitual." },
+    { "voz": "ximena", "texto": "A finales de los sesenta, ya en libertad, empezó a matar. Según contaría él mismo, sus víctimas fueron de dos tipos: desconocidos con los que se cruzaba en las carreteras, y personas de su propio entorno criminal, a las que mataba por dinero, por venganza o para que no hablaran." },
+    { "voz": "alvaro", "texto": "¿Y cuántas víctimas fueron en realidad?" },
+    { "voz": "ximena", "texto": "Esa es la gran pregunta. Gaskins afirmó haber matado a más de cien personas. Nunca se ha podido comprobar. La justicia lo condenó por nueve asesinatos, y muchos investigadores creen que la cifra real es mayor, aunque nadie ha podido demostrar hasta dónde." },
+    { "voz": "ximena", "texto": "Volvamos a 1975. Una adolescente de la zona había desaparecido y las sospechas apuntaron hacia Gaskins. Fue detenido, y un joven que trabajaba con él terminó colaborando con la policía. Fue ese joven quien llevó a los agentes hasta las fosas de Prospect." },
+    { "voz": "ximena", "texto": "En 1976, Gaskins fue juzgado y condenado a muerte por uno de aquellos asesinatos. Pero poco después la ley de pena capital de Carolina del Sur fue declarada inconstitucional, y su condena se conmutó por cadena perpetua." },
+    { "voz": "alvaro", "texto": "Así que se libró de la pena de muerte. Y ahí podría haber terminado esta historia..." },
+    { "voz": "ximena", "texto": "Pero no terminó. Gaskins se declaró culpable de otros asesinatos y acumuló varias cadenas perpetuas. Parecía que iba a pasar el resto de su vida tras los muros de una prisión, sin poder hacer más daño." },
+    { "voz": "ximena", "texto": "En septiembre de 1982, un preso del corredor de la muerte, Rudolph Tyner, murió en su celda por la explosión de un artefacto oculto en un aparato de radio. Tyner había sido condenado por asesinar a un matrimonio durante un atraco." },
+    { "voz": "ximena", "texto": "La investigación concluyó que el artefacto lo había preparado y hecho llegar Gaskins, por encargo de un familiar de aquel matrimonio asesinado, que buscaba venganza. Ese familiar también acabó condenado." },
+    { "voz": "alvaro", "texto": "Un hombre que ya cumplía cadena perpetua, matando a otro preso por encargo. ¿Qué podía hacer la justicia?" },
+    { "voz": "ximena", "texto": "Juzgarle de nuevo. Y esta vez, con la pena capital ya restablecida en Carolina del Sur, fue condenado a muerte por el asesinato de Rudolph Tyner." },
+    { "voz": "ximena", "texto": "Mientras esperaba la ejecución, dictó sus memorias a un escritor. En ellas repetía su cifra de más de cien víctimas y daba versiones que nadie ha podido verificar. Hay que leerlas con mucha cautela: eran, sobre todo, un intento de seguir siendo el centro de atención." },
+    { "voz": "ximena", "texto": "El 6 de septiembre de 1991 fue ejecutado en la silla eléctrica en Carolina del Sur. Tenía cincuenta y ocho años." },
+    { "voz": "alvaro", "texto": "¿Y qué queda de un caso así, tantos años después?" },
+    { "voz": "ximena", "texto": "Sobre todo, preguntas. Muchas de sus víctimas eran personas a las que nadie buscó con insistencia: jóvenes que hacían autoestop, gente sin arraigo, vidas al margen. Algunas desapariciones de aquellos años en la región siguen sin explicación." },
+    { "voz": "ximena", "texto": "Y deja también una lección incómoda para el sistema penitenciario: un preso peligroso puede seguir causando daño aunque esté entre rejas, si nadie controla de verdad lo que entra y sale de las celdas." },
+    { "voz": "ximena", "texto": "Detrás de las cifras infladas y de las memorias de un criminal que buscaba notoriedad, hay nombres reales. Personas con familias que, en muchos casos, nunca supieron qué les ocurrió. A ellas está dedicado este expediente." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Donald Henry Gaskins. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

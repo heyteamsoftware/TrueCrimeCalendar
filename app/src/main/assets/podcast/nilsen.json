@@ -1,0 +1,131 @@
+{
+  "id": "nilsen",
+  "titulo": "Un desagüe atascado",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dennis Nilsen": "Dénis Nílsen",
+    "Nilsen": "Nílsen",
+    "Muswell Hill": "Másuel Jil",
+    "Cranley Gardens": "Cránli Gárdens",
+    "Melrose Avenue": "Mélrous Áveniu",
+    "Cricklewood": "Críkeluud",
+    "Fraserburgh": "Fréiserbra",
+    "Peter Jay": "Píter Yéi",
+    "Old Bailey": "Óuld Béili",
+    "Scotland Yard": "Escótland Iárd",
+    "Stephen Holmes": "Stíven Jóulms",
+    "Kenneth Ockenden": "Kéneth Ókenden",
+    "Stephen Sinclair": "Stíven Sínclair"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Muswell Hill, norte de Londres, febrero de 1983. Los vecinos de un edificio de Cranley Gardens llevan días con los desagües atascados. Llaman a una empresa de desatascos, y un técnico baja con una linterna a la arqueta del edificio."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Lo que encuentra no parece simple suciedad. Vuelve al día siguiente con su supervisor y avisan a la policía. Los análisis lo confirman enseguida: son restos humanos."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "En un edificio con varios pisos y varios vecinos… ¿quién podía ser?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "La respuesta llegó esa misma tarde, cuando uno de los inquilinos volvió del trabajo. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dennis Nilsen, el asesino de Muswell Hill."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Nilsen nació en 1945 en Fraserburgh, un pueblo pesquero del noreste de Escocia. Pasó once años en el ejército como cocinero y después fue policía en Londres durante un breve periodo."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Cuando lo detuvieron trabajaba como funcionario en una oficina de empleo, donde era conocido por su actividad sindical. Vivía solo en un piso del ático, con su perra. Un hombre gris, en apariencia, como tantos otros."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Aquella tarde de febrero, el inspector Peter Jay lo esperaba en la puerta. Le dijo que habían encontrado restos humanos en el desagüe. Nilsen no lo negó. Y camino de comisaría empezó a hablar."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y cuántas víctimas reconoció?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Dijo que quince o dieciséis, desde finales de 1978, y durante días dio a los detectives una confesión larguísima. La cifra exacta nunca se ha podido establecer. Hoy se considera que mató al menos a doce jóvenes, y quizá a quince."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La mayoría de los crímenes ocurrieron en su piso anterior, en el número 195 de Melrose Avenue, en el barrio de Cricklewood. Los últimos, en Cranley Gardens, adonde se había mudado en 1981."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Tras la detención, la policía registró también el piso de Melrose Avenue y su jardín. Poco a poco se identificó a varias víctimas, como Kenneth Ockenden, un turista canadiense, o Stephen Sinclair, de veinte años, el último joven asesinado."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Para entender a sus víctimas hay que mirar el contexto. En la Inglaterra de principios de los ochenta, con un paro muy alto, muchos jóvenes llegaban a Londres buscando trabajo y acababan durmiendo en la calle."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Su forma de actuar era siempre parecida. Conocía a hombres jóvenes en bares del centro de Londres, muchos sin hogar o recién llegados a la ciudad, y los invitaba a su casa a beber y a pasar la noche."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y nadie los echó de menos…"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esa es la parte más amarga. Muchos vivían al margen: sin domicilio fijo, lejos de sus familias, en una ciudad que no preguntaba por ellos. Algunas desapariciones ni siquiera llegaron a denunciarse."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Además, varios hombres sobrevivieron a sus ataques. Según se supo después, al menos uno acudió a la policía, pero su denuncia no prosperó. Aquella oportunidad se perdió."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El juicio se celebró en el Old Bailey en otoño de 1983. Nilsen no negaba los hechos. La discusión era sobre su estado mental: la defensa pedía que se le considerase con la responsabilidad disminuida."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El jurado rechazó ese argumento. Lo declaró culpable de seis asesinatos y dos intentos de asesinato. Fue condenado a cadena perpetua, y años más tarde se estableció que nunca saldría de prisión."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y murió en la cárcel?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Sí, en 2018, a los setenta y dos años. Nunca volvió a pisar la calle."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso obligó a Scotland Yard a mirarse al espejo. ¿Cómo pudo matar durante más de cuatro años sin que nadie lo detuviera? La respuesta incomoda: sus víctimas eran invisibles para casi todos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Muchos eran jóvenes sin hogar, y algunos eran gais, en una época de prejuicios en la que no todos se atrevían a acudir a la policía. Varias víctimas tardaron años en ser identificadas, y alguna nunca lo ha sido."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La primera, por ejemplo, no tuvo nombre hasta 2006. Era Stephen Holmes, un chico de catorce años. Su familia pasó más de veinticinco años sin saber qué había sido de él."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Por eso importa tanto poner nombre a cada víctima."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Exacto. Y por eso este expediente no termina en el desagüe de Cranley Gardens. Termina en las familias que, durante años, siguieron buscando a hijos y hermanos de los que nadie más se acordaba."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Y en una pregunta que sigue vigente: a quién buscamos cuando alguien desaparece, y a quién dejamos de buscar demasiado pronto."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de Dennis Nilsen. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,7 @@
+<resources>
+    <!-- Mismo color de fondo que el HTML (variable CSS desk) -->
+    <color name="desk">#231E18</color>
+    <color name="ic_launcher_background">#231E18</color>
+    <!-- Rojo del tema: acento de las notificaciones -->
+    <color name="rojo_tcc">#A3221B</color>
+</resources>

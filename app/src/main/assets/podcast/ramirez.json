@@ -1,0 +1,40 @@
+{
+  "id": "ramirez",
+  "titulo": "El barrio que no se escondió",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Richard Ramirez": "Ríchard Ramírez",
+    "Ramirez": "Ramírez",
+    "Night Stalker": "Náit Stóker",
+    "San Quentin": "San Cuéntin",
+    "Orange": "Óranch",
+    "Frank Salerno": "Frank Salérno"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Sábado, 31 de agosto de 1985. Un hombre baja de un autobús en Los Ángeles. Vuelve de Arizona y no sabe lo que ha ocurrido en su ausencia. Poco después entra en una tienda del este de la ciudad y ve, en la portada de los periódicos, su propia cara." },
+    { "voz": "ximena", "texto": "Alguien lo reconoce. Él sale corriendo. Y lo que pasa a continuación no lo protagoniza la policía, sino los vecinos de un barrio obrero del este de Los Ángeles." },
+    { "voz": "alvaro", "texto": "¿Los vecinos? ¿Gente corriente frente al hombre más buscado de California?" },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Richard Ramirez, al que la prensa bautizó como el acosador nocturno." },
+    { "voz": "ximena", "texto": "Ricardo Leyva Muñoz Ramírez nació el 29 de febrero de 1960 en El Paso, Texas. Era el menor de cinco hermanos de una familia de origen mexicano. En la adolescencia empezó a consumir drogas y a cometer robos. A principios de los ochenta se instaló en California." },
+    { "voz": "ximena", "texto": "Entre 1984 y 1985 entró de noche en decenas de viviendas del área de Los Ángeles y, más tarde, de San Francisco. Elegía casas aparentemente al azar, a menudo con alguna puerta o ventana abierta. Robaba y atacaba a quienes dormían dentro." },
+    { "voz": "ximena", "texto": "Sus víctimas eran hombres y mujeres, jóvenes y ancianos. Esa falta de patrón desconcertaba a los investigadores y aterrorizaba a la población. En el verano de 1985, en plena ola de calor, mucha gente dormía con las ventanas cerradas y compraba cerraduras." },
+    { "voz": "alvaro", "texto": "Ni un tipo de víctima ni un barrio concreto. ¿Por dónde se empieza a buscar a alguien así?" },
+    { "voz": "ximena", "texto": "Por los pequeños rastros. Dos detectives del sheriff del condado, Gil Carrillo y Frank Salerno, fueron uniendo casos que parecían inconexos: huellas de unas zapatillas poco comunes, el mismo tipo de arma, testigos que describían a un hombre delgado, de pelo oscuro y mala dentadura." },
+    { "voz": "ximena", "texto": "La prensa le puso nombre: Night Stalker, el acosador nocturno. En agosto atacó también en San Francisco, y la presión creció todavía más. Pero la pista decisiva llegó por un descuido." },
+    { "voz": "ximena", "texto": "En el condado de Orange, un adolescente vio un coche sospechoso merodeando por su barrio y anotó parte de la matrícula. Aquel coche, robado, apareció abandonado días después. En el espejo retrovisor había una huella dactilar." },
+    { "voz": "alvaro", "texto": "Una huella. Pero en 1985, comparar una huella con millones de fichas podía llevar meses, ¿no?" },
+    { "voz": "ximena", "texto": "Normalmente, sí. Pero California acababa de poner en marcha un sistema informático de identificación de huellas. La búsqueda dio un nombre en muy poco tiempo: Richard Ramirez, fichado años antes por delitos menores. La policía difundió su foto el 30 de agosto." },
+    { "voz": "ximena", "texto": "Y así volvemos a la escena del principio. Huyendo por el este de Los Ángeles, intentó robar un coche, y luego otro. Los vecinos salieron a la calle. Uno de ellos lo golpeó con una barra de metal y, entre varios, lo retuvieron hasta que llegó la policía." },
+    { "voz": "ximena", "texto": "Aquellos vecinos, gente trabajadora del barrio, se convirtieron en héroes locales. Una ciudad que llevaba meses durmiendo con miedo respiró, por fin, aliviada." },
+    { "voz": "alvaro", "texto": "Y después llegó el juicio. Uno de los más largos de su época." },
+    { "voz": "ximena", "texto": "El proceso se alargó durante años entre recusaciones y retrasos. En septiembre de 1989, el jurado lo declaró culpable de trece asesinatos y de decenas de delitos más, entre ellos intentos de asesinato, agresiones sexuales y robos en viviendas. En noviembre fue condenado a muerte." },
+    { "voz": "ximena", "texto": "Durante las vistas se mostró desafiante y buscó las cámaras con gestos y símbolos satánicos. No vamos a darle aquí más espacio del que merece." },
+    { "voz": "ximena", "texto": "Se le atribuyen catorce asesinatos. Uno de ellos, el de una niña en San Francisco en 1984, se le vinculó gracias al ADN muchos años después, en 2009. Además, decenas de supervivientes cargaron con las secuelas de sus ataques durante el resto de su vida." },
+    { "voz": "ximena", "texto": "Nunca llegó a ser ejecutado. Pasó más de veinte años en el corredor de la muerte de San Quentin mientras sus recursos avanzaban lentamente. Murió por causas naturales en 2013, a los cincuenta y tres años." },
+    { "voz": "alvaro", "texto": "¿Y qué queda de este caso, más allá del miedo de aquel verano?" },
+    { "voz": "ximena", "texto": "Dos lecciones. La primera, el valor de las bases de datos informáticas de huellas, que aquí demostraron ante todo el país lo que podían hacer. La segunda, el papel de la ciudadanía: un adolescente que anotó una matrícula y unos vecinos que no miraron hacia otro lado." },
+    { "voz": "ximena", "texto": "Y, sobre todo, la memoria de quienes no sobrevivieron a aquellas noches, y de quienes sí lo hicieron y tuvieron que reconstruir su vida después." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Richard Ramirez. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

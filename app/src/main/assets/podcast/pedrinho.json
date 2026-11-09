@@ -1,0 +1,40 @@
+{
+  "id": "pedrinho",
+  "titulo": "El mito del justiciero",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mogi das Cruzes": "Móyi das Crúsis",
+    "São Paulo": "Saun Páulo",
+    "Pedro Rodrigues Filho": "Pedro Rodrígues Fílio",
+    "Pedrinho Matador": "Pedríño Matadór",
+    "Pedrinho": "Pedríño",
+    "Santa Rita do Sapucaí": "Santa Rita du Sapucaí",
+    "Minas Gerais": "Mínas Yeráis",
+    "youtuber": "iutúber"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Mogi das Cruzes, cerca de São Paulo, marzo de 2023. Un coche se detiene frente a una vivienda. Unos desconocidos disparan contra un hombre de sesenta y ocho años y huyen. La víctima es conocida en todo Brasil." },
+    { "voz": "ximena", "texto": "Durante décadas fue uno de los presos más temidos del país. En sus últimos años, un youtuber con muchísimos seguidores. Se llamaba Pedro Rodrigues Filho. Y su historia es una mezcla incómoda de crónica negra, fama en internet y mito popular." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Pedro Rodrigues Filho, Pedrinho Matador. Un caso difícil de contar, porque buena parte de su leyenda la construyó él mismo, y porque en Brasil llegó a tener admiradores." },
+    { "voz": "alvaro", "texto": "¿Admiradores? ¿Alguien con decenas de muertes a sus espaldas?" },
+    { "voz": "ximena", "texto": "Ahí está lo inquietante, y llegaremos a ello. Nació en 1954 en Santa Rita do Sapucaí, en el estado de Minas Gerais, en una familia muy pobre. Según su propio relato, la violencia lo marcó desde antes de nacer: contaba que su padre maltrataba a su madre." },
+    { "voz": "ximena", "texto": "Siempre según su versión y la prensa brasileña, mató por primera vez con catorce años, para vengar a su padre, al que habían despedido de su trabajo acusándolo de robar. Poco después se trasladó a la región de São Paulo y entró en una espiral de crímenes y venganzas." },
+    { "voz": "ximena", "texto": "Fue detenido a principios de los años setenta, con menos de veinte años y, según su propio relato, varias muertes ya a sus espaldas. Y entonces empezó la etapa que lo haría famoso: la que vivió dentro de las cárceles brasileñas." },
+    { "voz": "alvaro", "texto": "¿Siguió matando dentro de prisión?" },
+    { "voz": "ximena", "texto": "Sí. La mayoría de sus víctimas fueron otros presos, muchos condenados por delitos violentos. Entre ellas, según contó, estuvo su propio padre, que había matado a su madre. Él presentaba esos crímenes como castigos merecidos. Dentro de las cárceles, su nombre se convirtió en leyenda: otros presos lo temían, y pasó por distintos centros a lo largo de los años." },
+    { "voz": "ximena", "texto": "Una parte del público lo aplaudió como a un justiciero. Esa fama, conviene decirlo con claridad, es profundamente inquietante. Nadie le dio permiso para hacer justicia: fue juzgado y condenado por asesinato. Que haya quien aplauda a un asesino dice mucho del miedo y de la desconfianza en las instituciones." },
+    { "voz": "ximena", "texto": "Además, esa visión convierte en aceptable la violencia dentro de cárceles saturadas, donde el Estado tiene la obligación de garantizar la seguridad de todas las personas presas, hayan hecho lo que hayan hecho." },
+    { "voz": "alvaro", "texto": "¿Cuántas víctimas se le atribuyen, al final?" },
+    { "voz": "ximena", "texto": "La cifra es difusa. Las estimaciones van de setenta y una a más de cien. Él mismo daba números distintos según la entrevista, y muchas de sus afirmaciones no pueden comprobarse. Lo seguro es que acumuló condenas que sumaban cientos de años de prisión." },
+    { "voz": "ximena", "texto": "Pero la ley brasileña limitaba entonces a treinta años el tiempo máximo de cumplimiento. Pasó por varias prisiones, entre ellas la de Taubaté, en el estado de São Paulo, y en 2007 salió en libertad tras más de tres décadas encerrado." },
+    { "voz": "ximena", "texto": "En 2011 volvió a ser detenido por delitos cometidos años atrás dentro de la cárcel. Salió definitivamente en 2018. En total, cumplió cuarenta y dos años de prisión: más de la mitad de su vida." },
+    { "voz": "alvaro", "texto": "Y ahí empieza su segunda vida, la de internet." },
+    { "voz": "ximena", "texto": "Exacto. Abrió un canal de vídeos en el que contaba su historia y decía querer apartar a los jóvenes del crimen. Concedía entrevistas, colaboraba con otros creadores, y su figura se convirtió en un fenómeno mediático, con documentales y reportajes." },
+    { "voz": "ximena", "texto": "Muchos de esos contenidos repetían su versión de los hechos sin apenas contrastarla. El personaje del justiciero arrepentido se vendía bien. Las familias de sus víctimas, en cambio, casi nunca aparecían en pantalla." },
+    { "voz": "ximena", "texto": "El 5 de marzo de 2023 fue asesinado a tiros en Mogi das Cruzes. Las autoridades investigaron el crimen, y en la prensa se habló de una posible venganza. Su muerte fue noticia en todo el país." },
+    { "voz": "ximena", "texto": "Su legado es, sobre todo, una advertencia. Sobre cárceles donde la violencia se convierte en moneda corriente, en un país con una de las mayores poblaciones penitenciarias del mundo. Y sobre lo fácil que resulta convertir a alguien que mató decenas de veces en un personaje de entretenimiento." },
+    { "voz": "alvaro", "texto": "Una advertencia que también vale para quienes contamos estas historias." },
+    { "voz": "ximena", "texto": "Detrás de cada una de esas muertes, incluso de las de presos con historiales terribles, había una vida. Hasta aquí el expediente de Pedro Rodrigues Filho, Pedrinho Matador. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

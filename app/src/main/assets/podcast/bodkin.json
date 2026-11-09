@@ -1,0 +1,109 @@
+{
+  "id": "bodkin",
+  "titulo": "Los testamentos de Eastbourne",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "John Bodkin Adams": "Yon Bódkin Ádams",
+    "Adams": "Ádams",
+    "Eastbourne": "Ístborn",
+    "Old Bailey": "Old Béili",
+    "Belfast": "Bélfast",
+    "Gertrude Hullett": "Guértrud Jálet",
+    "Scotland Yard": "Escótland Iard",
+    "Herbert Hannam": "Jérbert Jánam",
+    "Edith Morrell": "Ídiz Mórel",
+    "Patrick Devlin": "Pátrik Dévlin",
+    "Devlin": "Dévlin"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Londres, abril de 1957. Tribunal del Old Bailey. Tras diecisiete días de juicio, el más largo por asesinato celebrado hasta entonces en Gran Bretaña, el jurado se retira a deliberar. Vuelve en solo cuarenta y cuatro minutos."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Cuarenta y cuatro minutos. ¿Para condenar o para absolver?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Para absolver. El acusado, un médico de cincuenta y ocho años, quedaba libre del cargo de asesinato. Pero la pregunta que lo había llevado al banquillo nunca se ha cerrado del todo: ¿cuántos de sus pacientes murieron antes de tiempo?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de John Bodkin Adams, conocido como el médico envenenador. Un expediente distinto a casi todos, porque Adams nunca fue condenado por asesinato."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Nació en 1899 en Irlanda del Norte, en una familia protestante muy religiosa. Estudió Medicina en Belfast y en 1922 se instaló en Eastbourne, una ciudad costera del sur de Inglaterra muy popular entre jubilados acomodados. Allí se convirtió en uno de los médicos más solicitados de la ciudad."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Muchos de sus pacientes eran personas mayores y adineradas. Y muchos lo incluyeron en sus testamentos. A lo largo de los años recibió dinero, joyas, coches y otros bienes. Según la investigación policial, su nombre aparecía en más de cien testamentos. En la ciudad empezaron a circular rumores."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y qué hizo saltar todo por los aires?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "La muerte de una paciente, Gertrude Hullett, en 1956. Su caso atrajo la atención de la policía, y Scotland Yard envió a un detective veterano, Herbert Hannam. Su equipo revisó cientos de certificados de defunción y concluyó que más de ciento sesenta muertes resultaban sospechosas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Al final, la fiscalía decidió acusarle por la muerte de Edith Morrell, una viuda rica fallecida en 1950. Era un caso difícil: su cuerpo había sido incinerado, así que no se podían hacer análisis. Todo dependería de las recetas, de los historiales y del testimonio de las enfermeras que la cuidaron."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso se convirtió en un acontecimiento mediático. La prensa británica, y también la extranjera, siguió cada paso de la investigación y del juicio. Los periódicos hablaban de decenas de muertes sospechosas antes incluso de que empezara el proceso."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y en el juicio, la defensa tenía guardada una sorpresa."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Los cuadernos originales de aquellas enfermeras, en los que anotaban cada día los cuidados y la medicación de Edith Morrell. Lo escrito entonces no coincidía con lo que esas mismas enfermeras recordaban años después, ya ante el tribunal. La credibilidad de los principales testigos de la acusación se vino abajo. Y hubo otro detalle llamativo: el propio Adams nunca subió al estrado para declarar."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El juez, Patrick Devlin, dio además al jurado una instrucción que haría historia. Vino a decir que un médico puede aliviar el dolor de un enfermo terminal aunque esa medicación, como efecto secundario, acorte su vida. Lo que no puede hacer es buscar deliberadamente su muerte."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Un principio que todavía hoy aparece en los debates sobre el final de la vida."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Así es. Se conoce como la doctrina del doble efecto, y el caso Adams es una de sus referencias en el derecho británico. Tras la absolución, la fiscalía renunció a seguir adelante con una segunda acusación de asesinato, la de Gertrude Hullett. Años más tarde, el propio Devlin escribió un libro sobre aquel juicio."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Ese mismo año, Adams fue condenado en otro tribunal por delitos menores: falsificar recetas y otras infracciones relacionadas con los medicamentos y los certificados. Le retiraron temporalmente la licencia de médico. En 1961 volvió a ejercer en Eastbourne, donde murió en 1983."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Entonces, ¿era culpable o no?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Legalmente, es inocente: fue absuelto, y ninguna de las demás muertes llegó a probarse. Algunos autores que han estudiado los archivos policiales creen que mató a muchos pacientes. Otros piensan que era un médico codicioso y poco escrupuloso, pero no un asesino."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La verdad completa probablemente nunca se conocerá. Algunas de aquellas personas fueron incineradas, los testigos han muerto y las pruebas que quedan son papeles, sospechas y recuerdos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Por eso este expediente es especial. Nos recuerda que la sospecha, por fuerte que sea, no es una prueba. Y también que la confianza depositada en un médico necesita controles que, en la Inglaterra de los años cincuenta, apenas existían."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En este archivo, Adams figura dentro del patrón de los ángeles de la muerte, aunque con una diferencia fundamental: la justicia nunca llegó a probar que matara a nadie."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de John Bodkin Adams. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": "La ficha dice «condenado solo por falsificar recetas». En 1957, en Lewes, fue condenado por varios delitos menores: falsificar recetas, falsedades en formularios de cremación y no llevar el registro de drogas peligrosas. En el guion se habla de «falsificar recetas y otras infracciones relacionadas con los medicamentos y los certificados». Si se prefiere ajustarlo literalmente a la ficha, basta con dejar «falsificar recetas»."
+}

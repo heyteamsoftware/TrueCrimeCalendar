@@ -1,0 +1,126 @@
+{
+  "id": "corll",
+  "titulo": "No eran fugitivos",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dean Corll": "Din Córl",
+    "Dean": "Din",
+    "Corll": "Córl",
+    "Elmer Wayne Henley": "Élmer Uéin Jénli",
+    "Henley": "Jénli",
+    "David Brooks": "Déivid Brúks",
+    "Brooks": "Brúks",
+    "Houston Heights": "Jiúston Jáits",
+    "Houston": "Jiúston",
+    "Sam Rayburn": "Sam Réiburn",
+    "High Island": "Jái Áiland",
+    "John Wayne Gacy": "Yon Uéin Guéisi"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Pasadena, Texas, madrugada del 8 de agosto de 1973. La policía recibe una llamada. Al otro lado, un chico de diecisiete años dice que acaba de matar a un hombre. Cuando los agentes llegan a la casa, encuentran a tres adolescentes esperándolos en la puerta. Más tarde, el chico dirá que disparó para salvar su vida."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El muerto es el dueño de la casa, Dean Corll, de treinta y tres años. El chico que ha disparado se llama Elmer Wayne Henley. Y lo que va a contar destapará el mayor caso de asesinatos en serie conocido hasta entonces en Estados Unidos."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Un chico que mata a un hombre y llama él mismo a la policía?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Así empezó todo. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dean Corll, el hombre de los caramelos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Corll nació en Indiana en 1939. Su familia acabó instalándose en Texas, donde su madre montó un negocio de caramelos. La fábrica estaba en Houston Heights, un barrio obrero de Houston, frente a una escuela."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Dean trabajaba allí y regalaba dulces a los niños del barrio. De ahí el apodo que le pondría la prensa. Tras un breve paso por el ejército, volvió a Houston y siguió en el negocio familiar. Era amable y servicial, un vecino en apariencia normal."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y con esa imagen, nadie desconfiaba de él."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Nadie. Houston era entonces una ciudad en plena expansión, y en sus barrios humildes muchos chicos pasaban el día en la calle, sin demasiada vigilancia. Un terreno propicio para alguien que sabía ganarse su confianza."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Entre 1970 y 1973 desaparecieron decenas de chicos y jóvenes de Houston, muchos del mismo barrio de Houston Heights. Algunos eran amigos entre sí; algunos, incluso, hermanos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Corll no actuaba solo. Dos adolescentes, primero David Brooks y después Elmer Wayne Henley, le ayudaban a atraer a las víctimas. Según declararon, él les pagaba por cada chico que llevaban a su casa."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Corll cambiaba a menudo de domicilio, lo que dificultaba que alguien notara un patrón. Y sus cómplices conocían a muchas de las víctimas, lo que hacía que confiaran en ellos."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y las familias? ¿Qué hacía la policía mientras tanto?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esa es la parte más dolorosa. Cuando los padres denunciaban, la policía de Houston solía tratar los casos como fugas de adolescentes. Eran los años setenta, y muchos jóvenes se marchaban de casa."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Algunos padres insistieron una y otra vez, buscaron por su cuenta y repartieron fotos. Pero sus hijos quedaron registrados como fugitivos, y nadie conectó las desapariciones."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquella noche de agosto. Henley llevó a dos amigos a casa de Corll. Hubo un enfrentamiento, y Henley acabó disparándole con su propia pistola."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Después confesó y condujo a la policía a los lugares donde se habían ocultado los cuerpos: un cobertizo alquilado en Houston, la orilla del lago Sam Rayburn y una playa de High Island."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y cuántas víctimas encontraron?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Veintisiete cuerpos en aquellos días. Se le atribuyen al menos veintiocho víctimas, chicos y jóvenes de entre trece y veinte años. Puede que hubiera más. Durante esos días, muchas familias de chicos desaparecidos acudieron a la policía con fotografías y fichas dentales, temiendo lo peor."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Corll nunca fue juzgado: murió aquella noche. Sus cómplices sí lo fueron. Henley fue juzgado en 1974 en San Antonio, lejos del revuelo de Houston, y Brooks en 1975. Ambos fueron condenados a cadena perpetua. Brooks murió en prisión en 2020; Henley ha visto rechazadas una y otra vez sus peticiones de libertad condicional."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Pocos años después, el caso de John Wayne Gacy, en Chicago, superaría aquellas cifras."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Pero para Houston la herida ya estaba abierta. Y las preguntas, también."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso provocó una oleada de críticas contra la policía por no haber escuchado a las familias. Y abrió un debate sobre cómo se investigaban las desapariciones de menores, que no podían despacharse sin más como fugas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Algunas víctimas tardaron décadas en ser identificadas. Gracias a nuevas técnicas forenses, varios de aquellos chicos recuperaron su nombre mucho después. Para algunas familias, la espera duró más de tres décadas."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Para esas familias, por fin un nombre en una lápida."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Exacto. Y por eso este expediente no tiene como protagonista el apodo de los caramelos. Lo protagonizan veintiocho chicos de Houston a los que alguien tendría que haber buscado de verdad."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de Dean Corll. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

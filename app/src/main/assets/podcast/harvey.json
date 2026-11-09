@@ -1,0 +1,41 @@
+{
+  "id": "harvey",
+  "titulo": "Un olor a almendras amargas",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Donald Harvey": "Dónald Járvi",
+    "Harvey": "Járvi",
+    "Cincinnati": "Sinsináti",
+    "Drake Memorial": "Dréik Memórial",
+    "Ohio": "Oháio",
+    "Kentucky": "Kentáki",
+    "London": "Lóndon",
+    "Pat Minarcin": "Pat Minársin",
+    "John Powell": "Yon Páuel"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Cincinnati, Ohio, marzo de 1987. En la sala de autopsias, un patólogo examina el cuerpo de un paciente que acaba de morir en el hospital Drake Memorial. Nada parece extraño. Hasta que percibe un olor tenue, a almendras amargas. Un olor que los especialistas asocian al cianuro." },
+    { "voz": "ximena", "texto": "Los análisis lo confirman. El paciente se llamaba John Powell y llevaba meses en coma tras un accidente de moto. Ha sido envenenado. Y la pregunta es inmediata: ¿quién, dentro del hospital, podía hacer algo así?" },
+    { "voz": "alvaro", "texto": "Un envenenamiento dentro de un hospital. Eso significa que el culpable estaba entre el personal..." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Donald Harvey, al que se conoce como el otro ángel de la muerte." },
+    { "voz": "ximena", "texto": "Donald Harvey nació el 15 de abril de 1952 en Ohio y creció en una zona rural de los Apalaches, en Kentucky. Dejó pronto los estudios y, con apenas dieciocho años, empezó a trabajar como auxiliar en un hospital de la localidad de London, en Kentucky." },
+    { "voz": "ximena", "texto": "Allí, según su propia confesión posterior, empezaron sus crímenes, en 1970. Tenía acceso a pacientes frágiles, mayores o muy enfermos, en un entorno en el que una muerte más rara vez levantaba sospechas." },
+    { "voz": "ximena", "texto": "Durante los años siguientes trabajó en otros centros, entre ellos un hospital de veteranos de Cincinnati, donde pasó una década. En 1986 entró a trabajar en el Drake Memorial. Siempre en contacto directo con los pacientes. Para muchos compañeros, era un empleado cumplidor y amable." },
+    { "voz": "alvaro", "texto": "¿Y en todos esos años nadie notó nada raro?" },
+    { "voz": "ximena", "texto": "Hubo compañeros que se dieron cuenta de que las muertes aumentaban cuando él estaba de turno. Pero aquellas sospechas no llegaron a convertirse en una investigación. Harvey envenenó a pacientes con arsénico, cianuro y otros métodos que no vamos a detallar." },
+    { "voz": "ximena", "texto": "Tras la autopsia de marzo de 1987, la policía interrogó al personal que había atendido a aquel paciente. Harvey estaba en la lista. En su casa encontraron venenos y un diario. Fue detenido y, al principio, solo admitió esa muerte, que presentó como un acto de compasión." },
+    { "voz": "alvaro", "texto": "Un acto de compasión... Esa fue su versión. Pero no tardó en derrumbarse." },
+    { "voz": "ximena", "texto": "Un periodista de televisión de Cincinnati, Pat Minarcin, empezó a investigar por su cuenta. Habló con enfermeras del Drake Memorial que llevaban tiempo sospechando. Su reportaje, emitido unos meses después de la detención, apuntaba a que las víctimas podían ser muchas más." },
+    { "voz": "ximena", "texto": "La presión pública obligó a ampliar la investigación. Y Harvey, ante la posibilidad de una condena a muerte, negoció con la fiscalía: confesaría todos sus crímenes a cambio de evitar la silla eléctrica." },
+    { "voz": "ximena", "texto": "En agosto de 1987 se declaró culpable de veinticuatro asesinatos en Ohio. Después llegaron más confesiones y más condenas, también en Kentucky. Fue condenado por treinta y siete muertes, y se le atribuyen hasta cincuenta y siete. Él mismo llegó a dar cifras aún mayores." },
+    { "voz": "alvaro", "texto": "Varias cadenas perpetuas, entonces. Pero la historia tuvo un final inesperado." },
+    { "voz": "ximena", "texto": "Sí. En marzo de 2017, cuando tenía sesenta y cuatro años, fue agredido por otro preso en su celda, en una prisión de Toledo, en Ohio, donde cumplía sus condenas. Murió dos días después." },
+    { "voz": "ximena", "texto": "A Harvey se le conoce como el otro ángel de la muerte, un apodo que lo sitúa junto a otros sanitarios que mataron a sus pacientes. Pertenece a un patrón que este archivo agrupa con ese nombre: profesionales que matan precisamente a quienes deberían cuidar." },
+    { "voz": "alvaro", "texto": "¿Y qué cambió en los hospitales después de algo así?" },
+    { "voz": "ximena", "texto": "Mucho, aunque despacio. Casos como este empujaron a controlar mejor el acceso a fármacos y sustancias peligrosas, a revisar las muertes inesperadas y a vigilar patrones estadísticos: qué empleado está presente cuando se repiten los fallecimientos. Hoy, muchos programas de seguridad del paciente incluyen sistemas para detectar ese tipo de anomalías." },
+    { "voz": "ximena", "texto": "Y recordaron algo esencial: una autopsia bien hecha puede ser la única voz que le queda a una víctima. Sin la atención de aquel patólogo, quizá nadie habría preguntado nunca por qué morían tantos pacientes en los turnos de un mismo auxiliar." },
+    { "voz": "ximena", "texto": "Pero la lección más dura tiene que ver con la escucha. Las sospechas existían; lo que faltó fue alguien que las tomara en serio a tiempo. Hoy recordamos a los pacientes que confiaron en el hospital, y a sus familias, que tardaron años en conocer la verdad." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Donald Harvey. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

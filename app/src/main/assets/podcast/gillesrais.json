@@ -1,0 +1,42 @@
+{
+  "id": "gillesrais",
+  "titulo": "El mariscal de Juana de Arco",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Gilles de Rais": "Yil de Ré",
+    "Gilles": "Yil",
+    "Nantes": "Nant",
+    "Machecoul": "Mashcúl",
+    "Tiffauges": "Tifóch",
+    "Francesco Prelati": "Franchésco Preláti",
+    "Anjou": "Anyú",
+    "Charles Perrault": "Charl Peró"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Nantes, 26 de octubre de 1440. Una multitud se reúne junto al río Loira para presenciar una ejecución. El condenado no es un bandido cualquiera. Es uno de los hombres más ricos de Francia, un mariscal que once años antes cabalgaba junto a Juana de Arco." },
+    { "voz": "ximena", "texto": "Ha confesado crímenes atroces contra niños. Y, sin embargo, casi seis siglos después, todavía hay quien duda de aquel proceso." },
+    { "voz": "alvaro", "texto": "¿Un héroe de guerra convertido en asesino de niños? Cuesta creerlo." },
+    { "voz": "ximena", "texto": "A muchos les cuesta. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Gilles de Rais, el aristócrata maldito." },
+    { "voz": "ximena", "texto": "Gilles de Rais nació hacia 1405 en una gran familia noble de la frontera entre Bretaña y Anjou. Quedó huérfano muy joven y lo crio su abuelo materno, un señor ambicioso. Gracias a un matrimonio ventajoso, Gilles reunió una de las mayores fortunas del reino." },
+    { "voz": "ximena", "texto": "Durante la guerra de los Cien Años luchó en el bando del futuro rey Carlos séptimo. En 1429 combatió junto a Juana de Arco para levantar el asedio de Orleans. Ese mismo año, con apenas veinticuatro años, fue nombrado mariscal de Francia." },
+    { "voz": "ximena", "texto": "Después, su vida dio un giro. Dilapidó su fortuna con un derroche espectacular: un séquito enorme, una capilla privada llena de clérigos y cantores, representaciones teatrales lujosísimas. Su familia llegó a conseguir del rey una prohibición para que siguiera vendiendo tierras." },
+    { "voz": "alvaro", "texto": "Y cuando se acaba el dinero, empiezan los problemas." },
+    { "voz": "ximena", "texto": "Y aparecen los alquimistas. Gilles se rodeó de personajes que prometían fabricar oro y que, según el proceso, invocaban a demonios. El más conocido fue un clérigo italiano, Francesco Prelati." },
+    { "voz": "ximena", "texto": "En 1440 cometió un error grave. En una disputa por la venta de un castillo, irrumpió armado en una iglesia y retuvo a un clérigo. Aquello le enfrentó con el duque de Bretaña y con el obispo de Nantes. En septiembre fue detenido en su castillo de Machecoul." },
+    { "voz": "ximena", "texto": "Se abrieron dos procesos: uno eclesiástico, por herejía y otros delitos contra la fe, y otro civil. Y en ellos salió a la luz la acusación más terrible: la desaparición de numerosos niños en las tierras de sus castillos, como Machecoul o Tiffauges." },
+    { "voz": "alvaro", "texto": "¿Niños que desaparecían y nadie hacía nada?" },
+    { "voz": "ximena", "texto": "Eran hijos de campesinos y de familias pobres. Según el proceso, algunos criados los llevaban a los castillos con la promesa de un empleo o de comida. Durante años, las familias hablaron en voz baja. Pero ¿quién se atrevía a acusar a un mariscal de Francia?" },
+    { "voz": "ximena", "texto": "En el juicio, decenas de padres y vecinos declararon sobre hijos desaparecidos. Las cifras que se manejaron fueron enormes. Hoy se habla de entre ochenta y más de doscientas víctimas, aunque el número real nunca se conocerá." },
+    { "voz": "ximena", "texto": "Gilles lo negó todo al principio. Pero cuando el tribunal lo amenazó con la tortura, confesó. Sus dos principales criados también lo hicieron. El 26 de octubre de 1440, los tres fueron ejecutados en Nantes. Gilles fue ahorcado y su cuerpo, quemado." },
+    { "voz": "alvaro", "texto": "Pero hay historiadores que no se creen esa confesión." },
+    { "voz": "ximena", "texto": "Así es. Algunos señalan que una confesión obtenida bajo amenaza de tortura tiene poco valor. Y que había muchos intereses en juego: el duque de Bretaña y otros poderosos aspiraban a quedarse con sus tierras." },
+    { "voz": "ximena", "texto": "En 1992, en Francia, llegó a celebrarse un tribunal simbólico que revisó el caso y lo declaró inocente, aunque sin ningún valor jurídico. Otros historiadores, en cambio, creen que la cantidad de testimonios hace muy difícil pensar que todo fuera un montaje." },
+    { "voz": "ximena", "texto": "Lo que nadie discute es que hubo familias que perdieron a sus hijos y que, en una sociedad en la que el linaje lo era todo, su voz contaba muy poco. Su testimonio es, quizá, lo más valioso que nos dejó aquel proceso." },
+    { "voz": "ximena", "texto": "Con el tiempo, su leyenda se mezcló con la de Barba Azul, el personaje del cuento de Charles Perrault, aunque la relación entre ambos es discutida. Y su figura ha inspirado novelas y ensayos durante siglos." },
+    { "voz": "alvaro", "texto": "Héroe, monstruo o víctima de una conspiración. Tres versiones para un mismo hombre." },
+    { "voz": "ximena", "texto": "En TRUE CRIME CALENDAR lo incluimos en el patrón de los aristócratas: casos en los que el poder y el linaje condicionaron cómo se investigaron los crímenes. El suyo es, además, uno de los procesos penales mejor documentados de la Edad Media. Las actas se conservan." },
+    { "voz": "ximena", "texto": "Y esas actas guardan algo más que una confesión: guardan los nombres y las palabras de madres y padres que, por una vez, fueron escuchados por un tribunal." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Gilles de Rais. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

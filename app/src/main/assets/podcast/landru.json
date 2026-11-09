@@ -1,0 +1,39 @@
+{
+  "id": "landru",
+  "titulo": "El billete de ida",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Henri Désiré Landru": "Anrí Desiré Landrú",
+    "Landru": "Landrú",
+    "Perrault": "Peró",
+    "Vernouillet": "Vernuyé",
+    "Gambais": "Gambé"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "París, abril de 1919. En una tienda del centro, una mujer se queda paralizada. El hombre que acaba de ver, calvo y de barba poblada, es el mismo con el que su hermana iba a casarse antes de desaparecer sin dejar rastro." },
+    { "voz": "ximena", "texto": "Avisa a la policía. Y el 12 de abril, precisamente el día de su cumpleaños, el hombre es detenido en su piso de París. Acaba de cumplir cincuenta años y arrastra un largo historial de estafas. Vive con una joven que no sabe nada de su pasado." },
+    { "voz": "alvaro", "texto": "Detenido el día de su cumpleaños... ¿Y quién era exactamente ese hombre?" },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Henri Désiré Landru, al que Francia entera conoció como Barba Azul, por el personaje del cuento de Perrault." },
+    { "voz": "ximena", "texto": "Landru nació el 12 de abril de 1869 en París. Se casó y tuvo cuatro hijos. Trabajó en oficios muy diversos y, desde finales del siglo diecinueve, encadenó condenas por estafa. Era un delincuente menor, hábil con los papeles y con las mentiras." },
+    { "voz": "ximena", "texto": "Todo cambió con la Primera Guerra Mundial. Con millones de hombres en el frente, y muchos muertos, Francia se llenó de viudas y de mujeres solas, algunas con pequeños ahorros. Landru vio en ellas una oportunidad." },
+    { "voz": "ximena", "texto": "Publicaba anuncios matrimoniales en la prensa. Se presentaba como un viudo respetable, con buena posición, que buscaba compañía. Respondieron cientos de mujeres. Él las anotaba y las clasificaba con cuidado." },
+    { "voz": "alvaro", "texto": "Un seductor por correspondencia... ¿Y qué pasaba con las que aceptaban?" },
+    { "voz": "ximena", "texto": "Las llevaba a una casa en el campo: primero, una villa en Vernouillet; después, otra en Gambais, ambas al oeste de París. Allí desaparecían. Él se quedaba con sus muebles, sus ahorros y sus documentos." },
+    { "voz": "ximena", "texto": "Entre 1915 y 1919 mató a diez mujeres y al hijo adolescente de una de ellas." },
+    { "voz": "ximena", "texto": "En plena guerra, con el país volcado en el frente, la desaparición de unas mujeres solas apenas llamó la atención de las autoridades. Pero las familias de algunas desaparecidas empezaron a escribir al alcalde de Gambais preguntando por ellas." },
+    { "voz": "ximena", "texto": "El alcalde puso en contacto a dos familias que buscaban, sin saberlo, al mismo hombre, aunque cada una lo conocía con un nombre distinto. Así empezó a tirarse del hilo." },
+    { "voz": "alvaro", "texto": "Así que Landru vivía con varias identidades a la vez." },
+    { "voz": "ximena", "texto": "Muchas. Pero lo que acabó hundiéndole no fue un testigo, sino un objeto suyo: una pequeña libreta en la que anotaba sus gastos con la minuciosidad de un contable. La policía la descifró línea a línea." },
+    { "voz": "ximena", "texto": "En ella aparecían los nombres de las desaparecidas. Y un detalle que se haría tristemente famoso: cuando viajaba a Gambais con una de ellas, compraba un billete de ida y vuelta para él, y solo uno de ida para ella." },
+    { "voz": "alvaro", "texto": "Un billete de ida. Tan frío como un apunte contable." },
+    { "voz": "ximena", "texto": "La policía registró a fondo la villa de Gambais. Pero los cuerpos de las víctimas nunca se encontraron, y eso marcó todo el proceso. Landru jamás confesó. Ante cada pregunta respondía con evasivas, ironía o silencio." },
+    { "voz": "ximena", "texto": "El juicio se celebró en Versalles en noviembre de 1921 y fue seguido por la prensa de toda Europa. El público hacía cola para conseguir un asiento en la sala. Su abogado sostuvo que, sin cadáveres, no podía haber condena por asesinato. Pero la libreta, los bienes de las víctimas y sus documentos hablaban por sí solos." },
+    { "voz": "ximena", "texto": "Fue declarado culpable de los once asesinatos y condenado a muerte. El 25 de febrero de 1922 fue guillotinado en Versalles. Tenía cincuenta y dos años." },
+    { "voz": "alvaro", "texto": "¿Y qué nos dice hoy un caso de hace más de cien años?" },
+    { "voz": "ximena", "texto": "Más de lo que parece. Landru buscó a sus víctimas en un momento de enorme fragilidad: la guerra había dejado a muchas mujeres solas, sin apoyo y con la necesidad de rehacer su vida. El aislamiento era su mejor aliado." },
+    { "voz": "ximena", "texto": "Su caso es también uno de los ejemplos clásicos de condena sin cuerpo: sin restos que mostrar, fueron los papeles, las cuentas y los objetos de las víctimas los que convencieron al jurado." },
+    { "voz": "ximena", "texto": "Y nos deja la memoria de once víctimas: diez mujeres que confiaron en un anuncio del periódico y un muchacho que acompañaba a su madre. Sus nombres quedaron en una libreta de gastos. Merecen ser recordados de otra manera." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Henri Désiré Landru. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

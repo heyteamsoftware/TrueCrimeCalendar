@@ -1,0 +1,41 @@
+{
+  "id": "jones",
+  "titulo": "El turno de tarde",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kerrville": "Kérvil",
+    "Texas": "Téjas",
+    "Chelsea McClellan": "Chélsi Maclélan",
+    "Chelsea": "Chélsi",
+    "Genene Jones": "Yenín Yóuns",
+    "Jones": "Yóuns",
+    "Bexar": "Béar",
+    "Joshua Sawyer": "Yóshua Sóier",
+    "Kathleen Holland": "Cázlin Jóland"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Kerrville, Texas, septiembre de 1982. Una madre lleva a su hija de quince meses a una revisión en una clínica pediátrica recién abierta. La niña está sana. Minutos después de recibir una inyección, deja de respirar." },
+    { "voz": "ximena", "texto": "Se llamaba Chelsea McClellan. Y su muerte destapó lo que muchos sanitarios de un hospital de San Antonio llevaban tiempo sospechando sin atreverse a decirlo en voz alta." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Genene Jones, la enfermera de la muerte. Un caso sobre la confianza, casi ciega, que depositamos en quienes cuidan de nuestros hijos cuando están más indefensos." },
+    { "voz": "ximena", "texto": "Genene Jones nació en Texas en 1950 y fue adoptada siendo un bebé. A finales de los setenta, tras formarse como enfermera, empezó a trabajar en la unidad de cuidados intensivos pediátricos del hospital del condado de Bexar, en San Antonio. Según testimonios de la época, se mostraba especialmente activa en las emergencias." },
+    { "voz": "ximena", "texto": "Allí, sus compañeros empezaron a notar algo extraño. Las urgencias graves en bebés se concentraban en un turno concreto: el de tarde. El suyo. Los niños empeoraban de forma repentina, a veces sin explicación médica. Algunos no sobrevivían. Entre el personal, aquel horario empezó a conocerse con un nombre siniestro: el turno de la muerte." },
+    { "voz": "alvaro", "texto": "¿Y el hospital no hizo nada al respecto?" },
+    { "voz": "ximena", "texto": "Hizo algo, pero no lo suficiente. Hubo revisiones internas. Según las investigaciones posteriores, por temor a un escándalo y a las demandas, en 1982 el hospital optó por reorganizar el personal de la unidad. Jones dejó su puesto sin que nadie presentara una denuncia." },
+    { "voz": "ximena", "texto": "Poco después, una pediatra, Kathleen Holland, la contrató para su nueva consulta en Kerrville. Y en pocas semanas, varios niños sufrieron graves crisis respiratorias allí mismo, en una clínica pequeña donde algo así no debería haber ocurrido nunca." },
+    { "voz": "alvaro", "texto": "Y entonces llegó la muerte de Chelsea." },
+    { "voz": "ximena", "texto": "Sí. Tras su muerte, la doctora descubrió que faltaba un frasco de un potente relajante muscular. Cuando apareció, tenía marcas de pinchazos en el tapón, aunque se suponía que nadie lo había usado. Ese pequeño detalle cambió el rumbo del caso." },
+    { "voz": "ximena", "texto": "Se abrió una investigación penal. Se exhumó el cuerpo de Chelsea, y un análisis toxicológico muy novedoso para la época detectó el fármaco. Un gran jurado revisó además decenas de muertes de bebés en el hospital de San Antonio." },
+    { "voz": "alvaro", "texto": "Pero ¿por qué lo hacía? ¿Qué buscaba?" },
+    { "voz": "ximena", "texto": "Nunca lo explicó. Según la acusación, provocaba las crisis para después intervenir en la emergencia y aparecer como la enfermera que salvaba al bebé. Algunos especialistas lo relacionaron con una necesidad de reconocimiento, pero no hay un diagnóstico concluyente." },
+    { "voz": "ximena", "texto": "Fue juzgada en dos procesos. En el primero la declararon culpable del asesinato de Chelsea y la condenaron a noventa y nueve años de prisión. En el segundo, por causar daños graves a otro bebé, recibió sesenta años más. Durante décadas, ella se declaró inocente." },
+    { "voz": "ximena", "texto": "Parecía un final. Pero una ley tejana pensada para descongestionar las cárceles permitía que saliera en libertad en 2018, mucho antes de cumplir su condena. Las familias de los bebés y la fiscalía se movilizaron para impedirlo." },
+    { "voz": "alvaro", "texto": "¿Y lo consiguieron? ¿Siguió en prisión?" },
+    { "voz": "ximena", "texto": "Sí. En 2017, la fiscalía de San Antonio presentó nuevas acusaciones por la muerte de otros niños. En 2020, Jones se declaró culpable del asesinato de Joshua Sawyer, un bebé de once meses, y recibió una cadena perpetua. Las demás acusaciones se retiraron." },
+    { "voz": "ximena", "texto": "Se le atribuyen al menos once muertes, pero las sospechas apuntan a hasta sesenta en el hospital de San Antonio. Muchos registros de aquella época se destruyeron, y la cifra real probablemente nunca se conocerá." },
+    { "voz": "alvaro", "texto": "Hasta sesenta posibles víctimas y solo dos condenas. Esa distancia lo dice todo." },
+    { "voz": "ximena", "texto": "Su caso se estudia hoy dentro del patrón que en este archivo llamamos los ángeles de la muerte: sanitarios que dañan a quienes deberían cuidar. Son casos especialmente difíciles de detectar, porque las muertes ocurren en lugares donde, por desgracia, la muerte no es una rareza." },
+    { "voz": "ximena", "texto": "Y deja lecciones claras: controlar con rigor los fármacos en los hospitales, analizar las estadísticas de cada turno y, sobre todo, escuchar a los compañeros que dan la voz de alarma, en lugar de apartar el problema para evitar un escándalo." },
+    { "voz": "ximena", "texto": "Hoy recordamos a Chelsea McClellan, a Joshua Sawyer y a todos los bebés de aquel turno de tarde. Y a sus familias, algunas de las cuales esperaron casi cuarenta años una respuesta. Hasta aquí el expediente de Genene Jones. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": "La ficha fecha la primera condena en 1985, pero los dos juicios (por Chelsea McClellan y por el bebé Rolando Santos) terminaron en 1984. El guion no da el año de esa condena. Además, la ficha cuenta 11 víctimas, pero condenas solo hay por dos asesinatos (Chelsea McClellan y, en 2020, Joshua Sawyer). En el guion se dice «se le atribuyen al menos once»."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pardo",
+  "titulo": "Los recortes del justiciero",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sweetwater": "Suítuoter",
+    "Miami-Dade": "Miámi Déid",
+    "Miami River Cops": "Miámi Ríver Cops"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Sur de Florida, 1986. Los investigadores revisan las pertenencias de un antiguo policía. Entre ellas aparecen recortes de periódico sobre una serie de asesinatos sin resolver ocurridos en los últimos meses. Junto a los recortes hay fotografías y anotaciones." },
+    { "voz": "ximena", "texto": "No es la colección de un aficionado a los sucesos. Es la crónica de unos crímenes escrita por alguien que participó en ellos." },
+    { "voz": "alvaro", "texto": "¿Un policía guardando la prensa de sus propios asesinatos?" },
+    { "voz": "ximena", "texto": "Un expolicía, para ser exactos. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Manuel Pardo, el llamado ex-policía asesino de Florida." },
+    { "voz": "ximena", "texto": "Pardo nació en 1956. En los años ochenta fue agente de la policía de Sweetwater, una pequeña ciudad del condado de Miami-Dade, hasta que acabó fuera del cuerpo. Conocía bien cómo trabaja una investigación desde dentro." },
+    { "voz": "ximena", "texto": "Era la Miami de los años ochenta, la de la guerra de la cocaína. El dinero del narcotráfico corría por la ciudad, los tiroteos llenaban los informativos y la corrupción salpicaba también a algunas comisarías." },
+    { "voz": "ximena", "texto": "En esa misma década estalló el escándalo de los llamados Miami River Cops, un grupo de agentes de Miami que robaban a traficantes y revendían la droga. Para algunos, la línea entre perseguir el delito y formar parte de él se había vuelto peligrosamente fina." },
+    { "voz": "ximena", "texto": "En ese ambiente, durante los primeros meses de 1986, Pardo y un cómplice mataron a nueve personas en el sur de Florida. Personas a las que él relacionaba con el narcotráfico." },
+    { "voz": "alvaro", "texto": "Un expolicía que se toma la justicia por su mano. Suena a película." },
+    { "voz": "ximena", "texto": "Y así quiso presentarlo él. Pero la realidad fue mucho menos heroica. Fueron emboscadas contra personas que no esperaban el ataque. Entre las víctimas había también mujeres." },
+    { "voz": "ximena", "texto": "En un primer momento, aquellas muertes podían parecer ajustes de cuentas entre traficantes, algo tristemente habitual en el sur de Florida en esos años. Y el silencio que rodeaba a ese mundo no ayudaba a los investigadores. Nadie pensaba en alguien que hubiera llevado uniforme." },
+    { "voz": "alvaro", "texto": "¿Y cómo se descubrió?" },
+    { "voz": "ximena", "texto": "La investigación de los últimos crímenes llevó a la policía hasta Pardo y su cómplice. Los dos fueron detenidos ese mismo año. Y entonces aparecieron los recortes, las fotografías y un diario en el que Pardo anotaba lo ocurrido." },
+    { "voz": "alvaro", "texto": "¿Un diario? Es decir, que lo dejó todo por escrito." },
+    { "voz": "ximena", "texto": "Así es. Aquel material se convirtió en una prueba demoledora. Pardo no negó los hechos. Al contrario: los justificó." },
+    { "voz": "ximena", "texto": "En el juicio insistió en presentarse como un soldado en guerra contra la droga. Dijo, en esencia, que había querido limpiar la sociedad de narcotraficantes. Como si eso convirtiera nueve asesinatos en un servicio público." },
+    { "voz": "alvaro", "texto": "¿Y el jurado aceptó esa versión?" },
+    { "voz": "ximena", "texto": "No. Fue declarado culpable de los nueve asesinatos y condenado a muerte. Su cómplice también fue condenado. Para el tribunal, la imagen del justiciero no cambiaba lo esencial: nueve personas habían sido asesinadas a sangre fría." },
+    { "voz": "ximena", "texto": "Pardo pasó más de dos décadas en el corredor de la muerte. Sus abogados alegaron que sufría problemas graves de salud mental. Los tribunales rechazaron los recursos." },
+    { "voz": "ximena", "texto": "En diciembre de 2012 fue ejecutado por inyección letal en Florida. Tenía cincuenta y seis años. Su caso alimentó el debate sobre la pena de muerte para condenados con problemas de salud mental." },
+    { "voz": "alvaro", "texto": "Lo más inquietante es que alguien que había jurado proteger acabara así." },
+    { "voz": "ximena", "texto": "Ese es el núcleo del caso. Pardo conocía el sistema desde dentro: cómo se investiga, qué buscan los agentes, qué errores conviene evitar. Y aun así lo descubrieron, en buena parte por algo que él mismo había decidido conservar." },
+    { "voz": "ximena", "texto": "El caso deja también una reflexión sobre las víctimas. Que alguien tenga relación con el narcotráfico no le quita el derecho a la vida ni a la justicia. Nueve personas murieron, y sus familias las lloraron como a cualquier otra." },
+    { "voz": "ximena", "texto": "Con frecuencia, estos casos se cuentan desde el punto de vista del asesino, y sus víctimas quedan reducidas a una etiqueta: narcos. Pero cada una tenía una historia que no cabe en esa palabra." },
+    { "voz": "ximena", "texto": "Y queda una advertencia sobre el discurso del justiciero, que todavía hoy encuentra eco: el de quien se cree con derecho a decidir quién merece vivir. En un Estado de derecho, nadie tiene ese poder por su cuenta." },
+    { "voz": "ximena", "texto": "Mucho menos alguien que ha llevado placa y uniforme, porque su deber era precisamente el contrario: llevar a los sospechosos ante un tribunal. Hasta aquí el expediente de Manuel Pardo. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rader",
+  "titulo": "El disquete que habló",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dennis Rader": "Dénis Réider",
+    "Rader": "Réider",
+    "Dennis": "Dénis",
+    "Wichita": "Uíchita",
+    "Park City": "Park Síti",
+    "BTK": "be te ka",
+    "Ken Landwehr": "Ken Lándguer",
+    "scouts": "escáuts"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Febrero de 2005. A una televisión local de Wichita, en Kansas, llega un sobre acolchado. Dentro hay un disquete de ordenador. El remitente es un hombre que lleva más de treinta años burlándose de la policía. Y esta vez, sin saberlo, acaba de firmar su propia detención." },
+    { "voz": "alvaro", "texto": "¿Un disquete? ¿Después de tres décadas, todo se decide por un disquete?" },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dennis Rader, conocido como BTK, unas siglas que él mismo eligió para describir sus crímenes y que no vamos a desarrollar aquí." },
+    { "voz": "ximena", "texto": "Dennis Rader nació el 9 de marzo de 1945 y creció en Wichita. Sirvió en la Fuerza Aérea, se casó, tuvo dos hijos y se instaló en Park City, una pequeña localidad cercana. Trabajó instalando sistemas de alarma y, más tarde, como inspector municipal." },
+    { "voz": "ximena", "texto": "Era también presidente del consejo de su iglesia luterana y monitor de los scouts. Para sus vecinos, un hombre gris, metódico y algo estricto con las normas. Nadie sospechaba nada." },
+    { "voz": "ximena", "texto": "Su primer crimen conocido fue en enero de 1974: asesinó a cuatro miembros de la familia Otero en su casa de Wichita. Después vinieron otras víctimas. En total, entre 1974 y 1991, mató a diez personas." },
+    { "voz": "alvaro", "texto": "Y entre crimen y crimen, ¿qué hacía? Porque lo extraño de este caso es que hablaba." },
+    { "voz": "ximena", "texto": "Exacto. En octubre de 1974 dejó una carta escondida en un libro de la biblioteca pública de Wichita. Después escribió a periódicos y televisiones. Se atribuía los crímenes, daba detalles que solo el autor podía conocer y exigía atención. Hasta propuso su propio apodo." },
+    { "voz": "ximena", "texto": "Luego llegó el silencio. A finales de los setenta dejó de escribir. Siguió matando hasta 1991, pero nadie relacionó aquellas muertes con él. Muchos pensaron que había muerto o que estaba en prisión por otra causa. El caso se convirtió en una leyenda local sin resolver." },
+    { "voz": "alvaro", "texto": "¿Y qué le hizo volver a escribir después de tantos años?" },
+    { "voz": "ximena", "texto": "En 2004, al cumplirse treinta años del primer crimen, un periódico de Wichita publicó un reportaje sobre el caso. Poco después llegó una carta con documentos de un asesinato de 1986 que nadie había relacionado con él. BTK estaba de vuelta." },
+    { "voz": "ximena", "texto": "Durante casi un año envió mensajes, paquetes y acertijos. La policía, con el teniente Ken Landwehr al frente de la investigación, decidió seguirle el juego. Cuanto más hablara, más posibilidades había de que cometiera un error." },
+    { "voz": "ximena", "texto": "Y entonces Rader hizo una pregunta increíble. En una de sus notas preguntó a la policía si se podía rastrear un disquete. Pidió que le contestaran con un anuncio en el periódico. La policía publicó el anuncio. Le dijeron, en esencia, que no había peligro." },
+    { "voz": "alvaro", "texto": "Le mintieron. Y él se lo creyó." },
+    { "voz": "ximena", "texto": "En el disquete que envió a la televisión había un único archivo de texto. Pero sus metadatos, la información oculta que guarda el propio archivo, contenían dos pistas: el nombre de una iglesia luterana y un nombre de usuario, Dennis. Una búsqueda en internet hizo el resto." },
+    { "voz": "ximena", "texto": "El presidente del consejo de esa iglesia se llamaba Dennis Rader. Junto a su casa, los agentes vieron un vehículo parecido al que había captado una cámara de seguridad en una de sus entregas. Pero necesitaban algo más sólido." },
+    { "voz": "ximena", "texto": "La prueba llegó por vía genética. Con una orden judicial, la policía analizó una muestra médica de su hija, guardada en una clínica universitaria. El perfil mostraba un parentesco directo con el ADN recogido en uno de los crímenes. El 25 de febrero de 2005, Dennis Rader fue detenido." },
+    { "voz": "ximena", "texto": "Confesó durante horas. En junio de 2005 se declaró culpable de los diez asesinatos y, en una audiencia pública, los relató con una frialdad que estremeció a la sala. No vamos a reproducir aquello." },
+    { "voz": "ximena", "texto": "En agosto fue condenado a diez cadenas perpetuas consecutivas. La pena de muerte no era posible: cuando cometió sus crímenes, no estaba en vigor en Kansas. Hoy cumple condena en una prisión del estado." },
+    { "voz": "alvaro", "texto": "¿Y qué cambió después de este caso?" },
+    { "voz": "ximena", "texto": "Se convirtió en un ejemplo de manual de informática forense: demostró que un simple archivo digital puede delatar a su autor. Y abrió otro debate, todavía vivo, sobre los límites del uso de muestras médicas de familiares para identificar a sospechosos." },
+    { "voz": "ximena", "texto": "Pero el centro de esta historia son las diez víctimas, entre ellas cuatro miembros de la familia Otero, y unas familias que esperaron más de treinta años una respuesta. También la propia hija de Rader ha contado públicamente cómo descubrió quién era su padre." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Dennis Rader. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,105 @@
+{
+  "id": "petiot",
+  "titulo": "Humo sobre la rue Le Sueur",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Marcel Petiot": "Marsél Petió",
+    "Petiot": "Petió",
+    "rue Le Sueur": "ru le Suér",
+    "Auxerre": "Oxér",
+    "Villeneuve-sur-Yonne": "Vilnév sur Ión",
+    "Henri Valéry": "Anrí Valerí",
+    "Reich": "Ráij"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "París, 11 de marzo de 1944. La ciudad lleva casi cuatro años ocupada por el ejército alemán. En la rue Le Sueur, no lejos del Arco del Triunfo, los vecinos no aguantan más: desde hace días, una chimenea expulsa un humo espeso y un olor insoportable. Llaman a la policía y a los bomberos."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y qué encontraron en aquella casa?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Los bomberos entraron y, en el sótano, junto a una caldera encendida, hallaron restos humanos. La casa pertenecía a un médico conocido en París. Y poco después, según el relato más difundido, apareció él mismo, en bicicleta."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Explicó a los agentes que pertenecía a la Resistencia y que aquellos cuerpos eran de alemanes y de traidores. En plena ocupación, la excusa funcionó. Lo dejaron marchar. Y desapareció durante más de siete meses. Los detalles exactos de aquella escena todavía se discuten."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Marcel Petiot, el falso médico de la Resistencia."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Petiot nació en Auxerre en 1897. Combatió en la Primera Guerra Mundial, donde resultó herido, y después estudió Medicina. En los años veinte llegó a ser alcalde de Villeneuve-sur-Yonne, aunque su carrera estuvo salpicada de sospechas y pequeños delitos. En los años treinta abrió consulta en París."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y qué hacía exactamente un médico de prestigio en aquella casa?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Durante la ocupación, miles de personas querían huir de Francia: familias judías perseguidas, resistentes, gente buscada por la Gestapo. Petiot les ofrecía una salida. Decía dirigir una red clandestina capaz de llevarlos hasta Argentina, a cambio de una suma muy elevada. Para encontrar clientes se valía de intermediarios, que le enviaban a personas desesperadas por salir del país."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Les pedía que llevaran consigo sus objetos de valor y que no contaran nada a nadie. Antes del supuesto viaje, les ponía una falsa vacuna, que según él era obligatoria para entrar en Argentina. Nunca llegaron a ninguna parte. Petiot los asesinaba y se quedaba con todo lo que llevaban."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Una trampa perfecta, porque nadie iba a denunciar la desaparición de alguien que estaba huyendo."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Exacto. Las familias creían que sus seres queridos habían escapado. Curiosamente, la propia Gestapo sospechó de aquella red: detuvo a Petiot en 1943 y lo retuvo durante meses, convencida de que ayudaba a huir a enemigos del Reich. Lo soltaron a comienzos de 1944."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En la casa de la rue Le Sueur y en otros lugares vinculados a él, los investigadores encontraron maletas y prendas de ropa de decenas de personas. Cada objeto era una pista sobre alguien que había creído comprar su libertad."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Mientras tanto, Petiot seguía escondido en un París que estaba a punto de ser liberado. Y en el caos de aquellos meses se unió a las fuerzas de la Resistencia con un nombre falso: el capitán Henri Valéry."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Se escondió dentro de la propia Resistencia?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Así es. Hasta que un periódico publicó un artículo contra él y Petiot, en lugar de callar, respondió por carta defendiendo su papel de patriota. Aquella carta ayudó a los investigadores a cerrar el cerco. El 31 de octubre de 1944 lo detuvieron en una estación de metro de París."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El juicio, en marzo de 1946, fue todo un espectáculo. Petiot se defendió con ironía y siguió insistiendo en que solo había matado a colaboracionistas y alemanes. Llegó a atribuirse más de sesenta muertes, presentándolas como actos patrióticos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El tribunal no le creyó. Fue declarado culpable de veintiséis asesinatos. Entre sus víctimas había familias judías que intentaban escapar de la deportación. El 25 de mayo de 1946 fue guillotinado en París."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y cuántas víctimas hubo en realidad?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Nunca se sabrá con certeza. Las estimaciones superan las sesenta, pero muchas personas que huían no dejaron rastro, y algunas familias jamás supieron qué había sido de los suyos."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Petiot se recuerda por eso: porque se aprovechó del momento más desesperado de miles de personas. Les vendió una esperanza y, en su lugar, les quitó la vida. Su caso es también un retrato del caos de la ocupación, cuando desaparecer era tan habitual que nadie hacía preguntas."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso inspiró libros, películas y documentales en Francia, y todavía hoy se estudia como uno de los episodios más oscuros de la ocupación. Pero lo que debe quedar no es la figura del médico, sino la de quienes confiaron en él para salvar la vida."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de Marcel Petiot. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

@@ -1,0 +1,108 @@
+{
+  "id": "bonin",
+  "titulo": "La furgoneta de la autopista",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "William Bonin": "Uíliam Bónin",
+    "Bonin": "Bónin",
+    "Downey": "Dáuni",
+    "Vernon Butts": "Vérnon Bats",
+    "Gregory Miley": "Grégori Máili",
+    "James Munro": "Yeims Manró",
+    "Miley": "Máili",
+    "Munro": "Manró",
+    "Freeway Killers": "Fríguei Kílers",
+    "Freeway Killer": "Fríguei Kíler",
+    "San Quentin": "San Kuéntin",
+    "Orange County": "Óranch Káunti",
+    "Hollywood": "Jóliguud",
+    "Connecticut": "Conéticat"
+  },
+  "bloques": [
+    {
+      "voz": "ximena",
+      "texto": "Junio de 1980, Los Ángeles. Un equipo de policías de paisano lleva días siguiendo a un hombre que conduce una furgoneta. Esa noche lo ven recoger a un adolescente en Hollywood. Los agentes no esperan más. Intervienen… y llegan a tiempo: el chico sale con vida."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Una detención a tiempo que, en realidad, llegaba muy tarde."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Porque para entonces el sur de California llevaba más de un año viviendo con miedo. Junto a las autopistas iban apareciendo los cuerpos de chicos jóvenes, muchos de ellos autoestopistas. La prensa ya tenía un nombre para el responsable: el Freeway Killer, el asesino de la autopista."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de William Bonin, el asesino de la autopista original."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Bonin nació en 1947 en Connecticut, en la costa este, y tuvo una infancia marcada por el abandono y la violencia en su familia. Sirvió en la Fuerza Aérea durante la guerra de Vietnam. A su regreso, a finales de los sesenta, fue condenado por agresiones sexuales a chicos jóvenes, y pasó varios años entre un hospital psiquiátrico penitenciario y la cárcel."
+    },
+    {
+      "voz": "ximena",
+      "texto": "En 1978 volvió a quedar en libertad. Vivía en Downey, en el condado de Los Ángeles, y trabajaba como conductor de camiones de reparto. Al año siguiente comenzó la serie de crímenes por la que sería recordado."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Entre mayo de 1979 y junio de 1980, Bonin secuestró y asesinó a adolescentes y jóvenes varones, muchos de ellos captados mientras hacían autoestop. Algunos tenían apenas trece años. Los cuerpos aparecían abandonados junto a las autopistas de Los Ángeles y de Orange County."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y lo más inquietante es que no siempre actuaba solo, ¿verdad?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "No. Bonin arrastró a varios cómplices, jóvenes de su entorno: Vernon Butts, Gregory Miley y James Munro participaron en distintos crímenes. Ninguno estuvo en todos. El hilo común, el que unía cada caso, era siempre él."
+    },
+    {
+      "voz": "ximena",
+      "texto": "La investigación avanzaba despacio. Los cuerpos aparecían en distintas jurisdicciones, cada una con su propia policía, y la coordinación entre ellas era limitada. Además, en aquellos años actuaban en la zona otros asesinos de jóvenes, y era difícil saber qué casos estaban realmente conectados."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y qué fue lo que rompió por fin el caso?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Una información que llegó desde el propio entorno de Bonin. Un joven que lo conocía contó a la policía lo que sospechaba. Los investigadores revisaron sus antecedentes, vieron que encajaban con el perfil de los crímenes y montaron un dispositivo de vigilancia. Así llegó aquella noche de junio en Hollywood."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Tras su detención, Bonin habló. Según los investigadores, reconoció numerosos asesinatos y señaló a sus cómplices. Vernon Butts se quitó la vida en la cárcel antes de ser juzgado. Miley y Munro aceptaron declarar contra él y fueron condenados a largas penas de prisión."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "¿Y cuántos crímenes se le pudieron probar a él?"
+    },
+    {
+      "voz": "ximena",
+      "texto": "Fue condenado por catorce asesinatos en dos juicios, uno en Los Ángeles y otro en Orange County, en los que pesaron sus propias declaraciones y el testimonio de sus cómplices. Recibió la pena de muerte. Se le atribuyen al menos veintiuno, y algunas estimaciones elevan la cifra hasta treinta y seis."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Pasó más de una década en el corredor de la muerte de San Quentin mientras se resolvían sus recursos. El 23 de febrero de 1996 fue ejecutado. Fue el primer preso ejecutado en California mediante inyección letal. Hasta entonces, las ejecuciones en el estado se habían llevado a cabo en la cámara de gas."
+    },
+    {
+      "voz": "alvaro",
+      "texto": "Y, sin embargo, el apodo no desapareció con él."
+    },
+    {
+      "voz": "ximena",
+      "texto": "No. En el sur de California, la etiqueta del asesino de la autopista también se aplicó a otros criminales de aquellos años, que actuaron por separado y con víctimas parecidas. Por eso, en este archivo, Bonin forma parte del patrón Freeway Killers, y su alias lo distingue de los demás."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Detrás de las cifras hay chicos con nombre y apellidos. Muchos eran menores que solo intentaban llegar a algún sitio haciendo autoestop, como tantos chicos de su edad en la California de entonces. Sus familias tuvieron que esperar años a que la justicia diera una respuesta."
+    },
+    {
+      "voz": "ximena",
+      "texto": "El caso dejó también una lección para la policía. Cuando los crímenes cruzan los límites entre jurisdicciones, compartir la información a tiempo puede marcar la diferencia. Y, a veces, la pista decisiva no la aporta un laboratorio, sino alguien que decide hablar."
+    },
+    {
+      "voz": "ximena",
+      "texto": "Hasta aquí el expediente de William Bonin. Esto ha sido TRUE CRIME CALENDAR."
+    }
+  ],
+  "nota_revision": ""
+}

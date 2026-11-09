@@ -1,0 +1,37 @@
+{
+  "id": "iqbal",
+  "titulo": "La carta de los cien",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Javed Iqbal": "Yavéd Icbál",
+    "Iqbal": "Icbál",
+    "Lahore": "Lajór",
+    "Jang": "Yang"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Lahore, Pakistán, diciembre de 1999. A la policía y a la redacción de un periódico llega una carta. El autor dice haber asesinado a cien niños. Da su nombre y su dirección. Y anuncia que piensa quitarse la vida." },
+    { "voz": "ximena", "texto": "La policía acude a la dirección. Lo que encuentra allí confirma que no se trata de una broma. Pero el autor de la carta ya no está." },
+    { "voz": "alvaro", "texto": "¿Y adónde había ido?" },
+    { "voz": "ximena", "texto": "Nadie lo sabía. Su fotografía se difundió por todo el país y comenzó una de las mayores búsquedas de su historia. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Javed Iqbal, el asesino en serie que conmocionó a Pakistán." },
+    { "voz": "ximena", "texto": "Javed Iqbal nació en 1956 en Lahore, en una familia acomodada. Dirigió varios pequeños negocios y vivía en la ciudad sin llamar demasiado la atención. Años antes había sido denunciado por abusos a menores." },
+    { "voz": "ximena", "texto": "Según su propio relato, decidió vengarse de la sociedad tras un enfrentamiento con la policía. No hay forma de comprobar sus motivos, y conviene no darles demasiado crédito. Lo que sí está documentado es el resultado." },
+    { "voz": "ximena", "texto": "Entre 1998 y 1999, según su confesión, atrajo hasta su casa a niños de la calle y chicos que se habían fugado de sus hogares, de entre seis y dieciséis años. Les ofrecía comida, un lugar donde dormir o pequeños regalos. Muchos no tenían a nadie que denunciara su desaparición." },
+    { "voz": "alvaro", "texto": "Niños de la calle. Justo las víctimas que menos atención reciben de las autoridades." },
+    { "voz": "ximena", "texto": "Exacto. En su casa, la policía encontró fotografías de muchos niños, ropa, zapatos y un diario con anotaciones. También restos que confirmaban que, al menos en parte, lo que decía la carta era cierto." },
+    { "voz": "ximena", "texto": "La ropa y las fotografías se mostraron al público. Familias de distintos lugares viajaron a Lahore para verlas. Muchas reconocieron las prendas de sus hijos. Así se pusieron nombres a víctimas que, de otra forma, habrían quedado sin identificar." },
+    { "voz": "alvaro", "texto": "¿Y él? ¿Seguía sin aparecer?" },
+    { "voz": "ximena", "texto": "Durante casi un mes. Hasta que, a finales de diciembre de 1999, se presentó en la redacción del diario Jang, uno de los periódicos a los que había escrito. Dijo que temía que la policía lo matara si lo detenía. Prefería entregarse ante periodistas." },
+    { "voz": "ximena", "texto": "Días antes, uno de sus presuntos cómplices había muerto bajo custodia policial, tras caer por una ventana durante un interrogatorio. Aquello alimentó sus temores, y también las críticas contra la policía." },
+    { "voz": "ximena", "texto": "El juicio se celebró en el año 2000, junto a varios presuntos cómplices, algunos muy jóvenes. Iqbal se retractó y dijo que todo había sido una invención para llamar la atención sobre la situación de los niños de la calle. El tribunal no le creyó: los diarios, las pruebas y las identificaciones pesaban demasiado." },
+    { "voz": "ximena", "texto": "En marzo de 2000 fue condenado a muerte. La sentencia incluía, además, unos términos tan extremos que pretendían reproducir sus crímenes. Las propias autoridades paquistaníes anunciaron que no permitirían cumplirla de esa forma." },
+    { "voz": "alvaro", "texto": "Y, al final, la sentencia nunca se ejecutó." },
+    { "voz": "ximena", "texto": "No. En octubre de 2001 fue hallado muerto en su celda de una prisión de Lahore, junto a uno de sus cómplices. Según la versión oficial, se quitaron la vida. Hubo dudas sobre esa versión, pero nunca se aclararon del todo." },
+    { "voz": "ximena", "texto": "La cifra de cien víctimas procede de su confesión y de sus propios registros. Es imposible saber con exactitud cuántos niños murieron. Pero las pruebas halladas en su casa y las familias que reconocieron la ropa convencieron al tribunal de que no era una invención." },
+    { "voz": "alvaro", "texto": "¿Cambió algo para los niños de la calle en Pakistán?" },
+    { "voz": "ximena", "texto": "El caso provocó un debate nacional. Organizaciones de defensa de la infancia denunciaron la desprotección de miles de niños que vivían en las calles de las grandes ciudades, y la poca atención que recibían las denuncias por sus desapariciones." },
+    { "voz": "ximena", "texto": "Hoy, su recuerdo sigue siendo incómodo en Pakistán. No solo por los crímenes, sino por lo que revelaron: que durante meses decenas de niños pudieron desaparecer sin que las instituciones reaccionaran." },
+    { "voz": "ximena", "texto": "Las víctimas de este expediente apenas tienen rostro público. Muchas eran chicos que habían huido de la pobreza o de la violencia en sus casas y que buscaban en la gran ciudad una oportunidad. Encontraron lo contrario." },
+    { "voz": "ximena", "texto": "Recordarlas es también recordar a todos los niños que hoy siguen viviendo en la calle, en Lahore y en tantas otras ciudades del mundo. Protegerlos no es solo tarea de la policía, sino de toda una sociedad. Hasta aquí el expediente de Javed Iqbal. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

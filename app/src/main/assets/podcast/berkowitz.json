@@ -1,0 +1,42 @@
+{
+  "id": "berkowitz",
+  "titulo": "Una multa de aparcamiento",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Brooklyn": "Brúklin",
+    "Bath Beach": "Baz Bich",
+    "David Berkowitz": "Déivid Bérkouits",
+    "Berkowitz": "Bérkouits",
+    "Yonkers": "Iónkers",
+    "Queens": "Cuíns",
+    "Donna Lauria": "Dóna Láuria",
+    "Jimmy Breslin": "Yími Bréslin",
+    "Stacy Moskowitz": "Stéisi Móscouits",
+    "Sam Carr": "Sam Car"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Brooklyn, madrugada del 31 de julio de 1977. En el barrio de Bath Beach, una vecina que ha salido a pasear a su perro ve a unos policías poniendo multas a los coches aparcados junto a una boca de incendios. Poco después, se cruza con un hombre que camina deprisa." },
+    { "voz": "ximena", "texto": "Minutos más tarde se oyen disparos a pocas calles de allí. Será el último ataque del asesino que llevaba un año entero aterrorizando a Nueva York." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de David Berkowitz, el hijo de Sam. Un caso que llenó de miedo las noches de verano de toda una ciudad y que se resolvió de la forma más inesperada." },
+    { "voz": "ximena", "texto": "Berkowitz nació en Brooklyn en 1953 y fue adoptado siendo un bebé. Tras pasar por el ejército, encadenó varios empleos y acabó trabajando en el servicio de correos. Vivía solo en un apartamento de Yonkers, al norte de la ciudad. Nada en su vida llamaba especialmente la atención." },
+    { "voz": "alvaro", "texto": "¿Cuándo empezó todo?" },
+    { "voz": "ximena", "texto": "En julio de 1976, en el Bronx. Dos jóvenes charlaban dentro de un coche aparcado cuando alguien les disparó. Donna Lauria, de dieciocho años, murió. Fue el primero de una serie de ataques contra parejas y mujeres jóvenes en el Bronx, en Queens y en Brooklyn." },
+    { "voz": "ximena", "texto": "En aproximadamente un año atacó en ocho ocasiones. Mató a seis personas e hirió a otras siete. Siempre de noche, casi siempre contra personas sentadas en coches. Como usaba un revólver del calibre cuarenta y cuatro, la prensa lo bautizó primero como «el asesino del calibre cuarenta y cuatro»." },
+    { "voz": "alvaro", "texto": "Y luego llegaron las cartas." },
+    { "voz": "ximena", "texto": "Sí. En abril de 1977, junto a dos de sus víctimas, dejó una carta dirigida a un capitán de la policía. Ahí aparecía por primera vez el nombre «Son of Sam», el hijo de Sam. Semanas después escribió también a un conocido columnista de prensa, Jimmy Breslin." },
+    { "voz": "ximena", "texto": "Las cartas alimentaron el pánico. Muchas jóvenes de pelo largo y oscuro, como varias de las víctimas, se lo cortaron o se lo tiñeron. Las discotecas se vaciaban y las parejas evitaban quedarse en los coches por la noche." },
+    { "voz": "ximena", "texto": "Mientras tanto, un enorme equipo policial, conocido como Operación Omega, revisaba miles de pistas sin resultados. Para colmo, aquel verano un gran apagón dejó a oscuras la ciudad durante horas. Nueva York vivía al límite." },
+    { "voz": "alvaro", "texto": "¿Y cómo se llega por fin hasta él? ¿Gracias a la vecina del perro?" },
+    { "voz": "ximena", "texto": "Exacto. Tras el último ataque, en el que murió Stacy Moskowitz, de veinte años, la vecina recordó al hombre y las multas. La policía revisó todas las sanciones puestas aquella noche en la zona. Una correspondía a un coche registrado a nombre de David Berkowitz, vecino de Yonkers." },
+    { "voz": "ximena", "texto": "El 10 de agosto de 1977, los agentes localizaron el coche frente a su edificio. A través de la ventanilla vieron un arma. Esperaron. Cuando Berkowitz salió y se subió al vehículo, lo detuvieron. Según los agentes, admitió quién era casi de inmediato." },
+    { "voz": "alvaro", "texto": "Vale, pero ¿quién era ese tal Sam?" },
+    { "voz": "ximena", "texto": "Al principio dijo que obedecía órdenes que le llegaban a través del perro de un vecino, Sam Carr. Años después reconoció que aquella historia era un invento. Se declaró culpable de los seis asesinatos y fue condenado a seis cadenas perpetuas." },
+    { "voz": "ximena", "texto": "Sigue preso en Nueva York. En la cárcel se convirtió al cristianismo evangélico, y ha pedido la libertad condicional en numerosas ocasiones. Hasta ahora, siempre se la han denegado." },
+    { "voz": "ximena", "texto": "Su caso dejó una huella legal duradera. Ante el temor de que vendiera su historia a editoriales o productoras, Nueva York aprobó en 1977 una ley para impedir que los condenados se lucraran contando sus crímenes. Se la conoce como la ley del hijo de Sam." },
+    { "voz": "ximena", "texto": "Muchos otros estados adoptaron normas parecidas. La original fue anulada por el Tribunal Supremo en 1991, por chocar con la libertad de expresión, pero se reformó, y la idea de fondo sigue viva: que el dinero vaya a las víctimas, no al condenado." },
+    { "voz": "alvaro", "texto": "Una ley con el apodo de un asesino. Toda una paradoja." },
+    { "voz": "ximena", "texto": "Y una lección para la investigación: el caso no se resolvió con una gran prueba forense, sino con un papel rutinario, una simple multa, y con la memoria de una testigo atenta que se atrevió a hablar." },
+    { "voz": "ximena", "texto": "Hoy recordamos a Donna Lauria, a Stacy Moskowitz y al resto de las víctimas de aquel año de miedo, también a quienes sobrevivieron con heridas para toda la vida. Hasta aquí el expediente de David Berkowitz. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

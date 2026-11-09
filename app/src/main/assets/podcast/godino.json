@@ -1,0 +1,40 @@
+{
+  "id": "godino",
+  "titulo": "De Parque Patricios al fin del mundo",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ushuaia": "Usuáia",
+    "Cesare Lombroso": "Chésare Lombróso",
+    "Jesualdo Giordano": "Jesualdo Yordáno"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "Buenos Aires, años diez del siglo veinte. Un grupo de médicos decide operar las orejas de un joven recluido. No buscan curar ninguna dolencia. Según las teorías de la época, en aquellas orejas enormes podía esconderse la señal de un criminal nato." },
+    { "voz": "alvaro", "texto": "Suena a ciencia ficción. ¿De verdad se creía algo así?" },
+    { "voz": "ximena", "texto": "Se creía, y mucho. Y aquel joven se había convertido en el gran ejemplo de esa criminología. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Cayetano Santos Godino, el Petiso Orejudo." },
+    { "voz": "ximena", "texto": "Nació en Buenos Aires el 31 de octubre de 1896. Era hijo de inmigrantes italianos llegados de Calabria, como tantos miles en aquella ciudad que crecía a toda velocidad. Creció en una familia pobre, con un padre alcohólico y violento." },
+    { "voz": "ximena", "texto": "Desde muy pequeño mostró una conducta que alarmó a su entorno. Su propio padre llegó a entregarlo a la policía, y pasó por instituciones para menores cuando todavía era un niño." },
+    { "voz": "ximena", "texto": "El apodo nació de dos rasgos que llamaban la atención: era bajito y tenía unas orejas muy grandes. Un mote de barrio que la prensa acabaría convirtiendo en sinónimo de terror." },
+    { "voz": "alvaro", "texto": "Y sus víctimas eran niños, ¿verdad?" },
+    { "voz": "ximena", "texto": "Sí. Niños muy pequeños. Se acercaba a ellos con golosinas o con cualquier excusa y los alejaba de sus casas. Entre 1906 y 1912 atacó a varios. Cuatro de ellos murieron." },
+    { "voz": "ximena", "texto": "La primera muerte que se le atribuye ocurrió en 1906, cuando él tenía unos nueve años. El cuerpo de aquella niña nunca apareció; el caso solo se conoció por su propia confesión, años después." },
+    { "voz": "ximena", "texto": "Las otras tres llegaron en 1912, en los barrios del sur de la ciudad, en torno a Parque Patricios. La última víctima fue Jesualdo Giordano, un niño de tres años, en diciembre de ese año. Su muerte conmocionó a Buenos Aires." },
+    { "voz": "alvaro", "texto": "¿Y cómo lo atraparon?" },
+    { "voz": "ximena", "texto": "Por su propio comportamiento. Godino se dejó ver por el entorno de la familia de Jesualdo, incluso durante el velatorio. Aquella presencia levantó sospechas, y la policía lo detuvo enseguida, a principios de diciembre de 1912." },
+    { "voz": "ximena", "texto": "En los interrogatorios confesó sus crímenes con una frialdad que desconcertó a los investigadores. Tenía dieciséis años." },
+    { "voz": "ximena", "texto": "Su edad planteó un problema enorme a la justicia de la época. ¿Qué hacer con un adolescente que había matado varias veces? Las leyes no estaban pensadas para algo así, y el caso alimentó durante años el debate sobre cómo tratar a los menores que delinquen." },
+    { "voz": "alvaro", "texto": "Un debate que, en el fondo, sigue abierto hoy." },
+    { "voz": "ximena", "texto": "Entonces empezó otra batalla: la de los expertos. ¿Era un enfermo o un criminal? Los médicos lo examinaron una y otra vez, estudiando su cuerpo y sus rasgos según las ideas del italiano Cesare Lombroso, muy influyentes en la Argentina de entonces." },
+    { "voz": "ximena", "texto": "Primero fue declarado inimputable e internado en un hospicio psiquiátrico. Pero en 1915 un tribunal de apelación lo condenó a reclusión por tiempo indeterminado." },
+    { "voz": "alvaro", "texto": "Y ahí aparece la famosa cárcel del fin del mundo." },
+    { "voz": "ximena", "texto": "Así es. En 1923 lo trasladaron al presidio de Ushuaia, en Tierra del Fuego, uno de los penales más duros y aislados del país. Allí pasó más de veinte años, a miles de kilómetros de la ciudad donde había nacido." },
+    { "voz": "ximena", "texto": "Murió en ese presidio en noviembre de 1944. Las circunstancias de su muerte nunca quedaron del todo claras, y en torno a ellas circularon distintas versiones." },
+    { "voz": "ximena", "texto": "Hoy se le considera el primer asesino en serie documentado de Argentina. Su caso se estudió durante décadas en facultades de Derecho y de Medicina, y llenó páginas de revistas científicas y de periódicos populares." },
+    { "voz": "ximena", "texto": "También dejó una lección incómoda. Aquella operación de las orejas no cambió nada, porque la explicación nunca estuvo en su cuerpo. La criminología actual descarta por completo la idea del criminal nato, que tanto daño hizo." },
+    { "voz": "alvaro", "texto": "¿Y qué queda hoy de aquel presidio?" },
+    { "voz": "ximena", "texto": "El penal cerró a finales de los años cuarenta y hoy es un museo. Muchos visitantes conocen allí la historia del Petiso Orejudo, que forma parte del relato de aquella cárcel." },
+    { "voz": "ximena", "texto": "Pero conviene recordar lo esencial. No hablamos de una leyenda urbana, sino de cuatro niños que no volvieron a casa. Y de familias, muchas de ellas inmigrantes, que habían cruzado el océano buscando una vida mejor en una ciudad que crecía demasiado deprisa." },
+    { "voz": "ximena", "texto": "Familias que tuvieron que convivir con el miedo en sus propias calles, mientras la prensa convertía el caso en un espectáculo." },
+    { "voz": "ximena", "texto": "Hasta aquí el expediente de Cayetano Santos Godino. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}

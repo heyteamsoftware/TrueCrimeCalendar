@@ -1,0 +1,41 @@
+{
+  "id": "shawcross",
+  "titulo": "Vigilancia desde el aire",
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Rochester": "Róchester",
+    "Arthur Shawcross": "Ártur Shócros",
+    "Shawcross": "Shócros",
+    "Genesee": "Yénesi",
+    "Watertown": "Uótertaun",
+    "Jack Blake": "Yak Bléik",
+    "Karen Ann Hill": "Káren An Jil",
+    "Lyell Avenue": "Láiel Ávenu",
+    "FBI": "efe be i",
+    "June Cicero": "Yun Císero"
+  },
+  "bloques": [
+    { "voz": "ximena", "texto": "3 de enero de 1990. Pleno invierno. Un helicóptero de la policía sobrevuela un arroyo helado cerca de Rochester, en el estado de Nueva York. Desde el aire, los agentes distinguen un cuerpo sobre el hielo… y, en un puente cercano, un coche parado con un hombre dentro." },
+    { "voz": "ximena", "texto": "Cuando el coche arranca, los agentes de tierra lo siguen. Su conductor es un hombre de cuarenta y cuatro años que, casi dos décadas antes, había matado a dos niños. Y que, aun así, estaba en libertad." },
+    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Arthur Shawcross, el asesino del río Genesee. Un caso que plantea una pregunta muy incómoda: qué ocurre cuando alguien condenado por crímenes gravísimos sale en libertad sin que nadie vigile." },
+    { "voz": "ximena", "texto": "Shawcross nació en 1945 y creció cerca de Watertown, en el norte del estado de Nueva York. Sirvió en el ejército, en Vietnam. A su vuelta acumuló condenas por incendios provocados y robos." },
+    { "voz": "ximena", "texto": "En 1972 mató en Watertown a dos niños: Jack Blake, de diez años, y Karen Ann Hill, de ocho. Gracias a un acuerdo con la fiscalía, solo fue condenado por uno de los dos crímenes, como homicidio, a veinticinco años de prisión." },
+    { "voz": "alvaro", "texto": "Veinticinco años por la muerte de dos niños… ¿Y cuántos cumplió en realidad?" },
+    { "voz": "ximena", "texto": "Unos catorce. En 1987 obtuvo la libertad condicional. En las primeras localidades donde intentó instalarse, los vecinos se enteraron de su pasado por la prensa local y protestaron hasta que tuvo que marcharse. Al final, las autoridades lo trasladaron a Rochester." },
+    { "voz": "ximena", "texto": "Según se supo después, la policía de Rochester no fue informada de su historial. Shawcross consiguió trabajo, rehízo su vida en pareja y llevaba una existencia aparentemente normal. Nadie en su nuevo entorno sabía quién era." },
+    { "voz": "alvaro", "texto": "Y entonces empiezan las desapariciones." },
+    { "voz": "ximena", "texto": "Sí. Entre 1988 y 1989 asesinó a doce mujeres. Muchas vivían en situaciones de gran vulnerabilidad y frecuentaban la zona de Lyell Avenue. Varias aparecieron a orillas del río Genesee y en los barrancos cercanos." },
+    { "voz": "ximena", "texto": "Al principio, las desapariciones apenas despertaron atención. Varias de aquellas mujeres tenían vidas difíciles, y sus ausencias tardaron en denunciarse o en tomarse en serio. Cuando los cuerpos empezaron a aparecer, la ciudad comprendió que tenía un problema enorme." },
+    { "voz": "ximena", "texto": "Durante meses, la policía no supo a quién buscaba. Agentes de la ciudad, del condado y del estado formaron un equipo conjunto y pidieron ayuda al FBI, que elaboró un perfil. Una de sus ideas era que el asesino podía volver a los lugares donde dejaba a sus víctimas. Por eso se decidió vigilar la zona desde el aire." },
+    { "voz": "alvaro", "texto": "Y volvió." },
+    { "voz": "ximena", "texto": "Volvió. Aquel 3 de enero, el cuerpo hallado en el arroyo era el de June Cicero. Los agentes siguieron a Shawcross y lo llevaron a declarar. Al principio lo negó todo. Después, tras horas de interrogatorio, confesó. Y no solo aquel crimen: reconoció también otros de la serie, con datos que ayudaron a confirmar su autoría." },
+    { "voz": "ximena", "texto": "El juicio se celebró en Rochester a finales de 1990. Su defensa alegó que sufría un trastorno mental. Los psiquiatras de la acusación lo rebatieron, y el jurado rechazó esa tesis y lo declaró culpable. Fue condenado a penas que le obligaban a pasar el resto de su vida en prisión." },
+    { "voz": "alvaro", "texto": "¿Y se revisó lo que había fallado con su libertad condicional?" },
+    { "voz": "ximena", "texto": "Su caso se convirtió en un ejemplo citado una y otra vez. Un hombre que había matado a dos niños vivía en una ciudad cuya policía ignoraba su pasado. El caso alimentó el debate sobre la información a las comunidades, que en los años noventa desembocó en registros públicos de delincuentes sexuales en Estados Unidos." },
+    { "voz": "ximena", "texto": "También obligó a mirar a las víctimas de otra manera. Muchas de aquellas mujeres fueron tratadas en su día por la prensa con una frialdad que no merecían, como si su forma de vida las hiciera menos dignas de ser buscadas." },
+    { "voz": "ximena", "texto": "Desde la cárcel concedió entrevistas en las que contaba historias sobre su pasado, incluida la guerra, que muchos expertos consideraron exageradas o directamente falsas. Shawcross murió en 2008, mientras cumplía condena, tras ser trasladado a un hospital. Tenía sesenta y tres años. Nunca volvió a salir en libertad." },
+    { "voz": "alvaro", "texto": "Esta vez, al menos, el sistema no se equivocó dos veces." },
+    { "voz": "ximena", "texto": "Hoy recordamos a Jack Blake y a Karen Ann Hill, a June Cicero y a las otras once mujeres de Rochester. Hasta aquí el expediente de Arthur Shawcross. Esto ha sido TRUE CRIME CALENDAR." }
+  ],
+  "nota_revision": ""
+}
