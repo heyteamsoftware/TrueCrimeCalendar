@@ -22,6 +22,20 @@ TRABAJO = os.path.join(tempfile.gettempdir(), "tcc_tts")  # ruta corta: Windows 
 LOCUCION_DEFECTO = os.environ.get("LOCUCION_XIMENA", "")
 PAUSA = 0.7          # segundos entre bloques
 TOTAL_CASOS = 100
+
+# Sonido de grabación en cinta antigua: banda estrecha, algo de cuerpo en medios,
+# compresión y saturación suaves, «wow & flutter» (la cinta oscila un poco) y siseo de fondo.
+# No cambia la duración, así que los tiempos de los bloques siguen valiendo.
+CINTA = (
+    "[0:a]highpass=f=120,lowpass=f=5800,"
+    "equalizer=f=320:t=q:w=1:g=1.5,equalizer=f=1900:t=q:w=1.2:g=2.5,"
+    "acompressor=threshold=0.1:ratio=3:attack=8:release=140:makeup=2,"
+    "asoftclip=type=tanh:threshold=0.65,"
+    "vibrato=f=0.6:d=0.12,vibrato=f=6.3:d=0.012[voz];"
+    "anoisesrc=r=48000:c=pink:a=0.006:seed=7,highpass=f=1200,lowpass=f=8500[siseo];"
+    "[voz][siseo]amix=inputs=2:duration=first:normalize=0,"
+    "loudnorm=I=-16:TP=-1.5:LRA=11"
+)
 lock = Lock()
 
 
@@ -98,7 +112,7 @@ def generar(cid, locucion):
     ogg = os.path.join(AUDIO, cid + ".ogg")
     tmp = ogg + ".tmp.ogg"
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", completa,
-                    "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "48000", "-ac", "1",
+                    "-filter_complex", CINTA, "-ar", "48000", "-ac", "1",
                     "-c:a", "libopus", "-b:a", "24k", "-application", "audio",
                     "-metadata", f"title={g.get('titulo', cid)}", "-metadata", "artist=TRUE CRIME CALENDAR",
                     tmp], check=True)
@@ -110,8 +124,8 @@ def generar(cid, locucion):
     return total
 
 
-def candidatos(ids):
-    idx = leer_indice()
+def candidatos(ids, forzar=False):
+    idx = {} if forzar else leer_indice()
     out = []
     for f in sorted(os.listdir(PODCAST)):
         if not f.endswith(".json"):
@@ -120,7 +134,7 @@ def candidatos(ids):
         if ids and cid not in ids:
             continue
         ruta = os.path.join(PODCAST, f)
-        if time.time() - os.path.getmtime(ruta) < 90:   # aún se está escribiendo
+        if not forzar and time.time() - os.path.getmtime(ruta) < 90:   # aún se está escribiendo
             continue
         try:
             g = json.load(open(ruta, encoding="utf-8"))
@@ -131,8 +145,8 @@ def candidatos(ids):
     return out
 
 
-def ronda(ids, locucion, paralelo, fallos):
-    lista = [c for c in candidatos(ids) if fallos.get(c, 0) < 3]
+def ronda(ids, locucion, paralelo, fallos, forzar=False):
+    lista = [c for c in candidatos(ids, forzar) if fallos.get(c, 0) < 3]
     if not lista:
         return 0
     log(f"generando {len(lista)}: {', '.join(lista)}")
@@ -156,13 +170,16 @@ def main():
     ap.add_argument("--watch", action="store_true")
     ap.add_argument("--paralelo", type=int, default=3)
     ap.add_argument("--locucion", default=LOCUCION_DEFECTO)
+    ap.add_argument("--forzar", action="store_true",
+                    help="rehace todos los audios (reutiliza las frases ya locutadas: no vuelve a llamar a la voz)")
     a = ap.parse_args()
     if not a.locucion or not os.path.exists(a.locucion):
         sys.exit("Indica la ruta de Locucion.py de la skill con --locucion o la variable LOCUCION_XIMENA")
     os.makedirs(AUDIO, exist_ok=True)
     fallos = {}
     while True:
-        hechos = ronda(set(a.ids), a.locucion, a.paralelo, fallos)
+        hechos = ronda(set(a.ids), a.locucion, a.paralelo, fallos, a.forzar)
+        a.forzar = False  # solo en la primera ronda
         if not a.watch:
             break
         idx = leer_indice()

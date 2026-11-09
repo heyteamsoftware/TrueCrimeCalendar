@@ -50,6 +50,7 @@ class PlaybackService : MediaSessionService() {
             .setSeekBackIncrementMs(SALTO_ATRAS_MS)
             .setSeekForwardIncrementMs(SALTO_ADELANTE_MS)
             .build()
+        player.volume = AjustesAudio.volumen(this) // volumen de las cintas elegido en los ajustes
         player.addListener(Oyente(player))
 
         // Botones de la notificación: −15 s, reproducir/pausa, +30 s.

@@ -111,6 +111,16 @@ class ConexionAudio(
         it.clearMediaItems()
     }
 
+    /**
+     * Volumen de las cintas (0 a 1). Se guarda y, si el servicio ya está conectado, se aplica al
+     * momento; si no, el servicio lo lee al crearse (así no se arranca solo por mover el volumen).
+     */
+    fun cambiarVolumen(volumen: Float) {
+        val v = volumen.coerceIn(0f, 1f)
+        AjustesAudio.guardarVolumen(context, v)
+        controlador?.takeIf { it.isConnected }?.volume = v
+    }
+
     fun saltarA(ms: Long) = enviar { it.seekTo(acotar(it, ms)) }
 
     fun saltarRelativo(deltaMs: Long) = enviar { it.seekTo(acotar(it, it.currentPosition + deltaMs)) }

@@ -650,7 +650,7 @@ function webEmit(){
 }
 function getWebAudio(){
   if(webAudio) return webAudio;
-  webAudio=document.createElement("audio"); webAudio.preload="metadata";
+  webAudio=document.createElement("audio"); webAudio.preload="metadata"; webAudio.volume=tapeVol;
   ["play","pause","ended","timeupdate","waiting","playing","loadedmetadata","seeked","durationchange"].forEach(ev=>webAudio.addEventListener(ev,webEmit));
   webAudio.addEventListener("error",()=>{ if(webMeta.id){ console.warn("No se pudo cargar el audio de",webMeta.id); } webEmit(); });
   return webAudio;
@@ -1031,22 +1031,62 @@ document.addEventListener("keydown",ev=>{
 })();
 
 /* =====================================================================
-   AVISOS DIARIOS (solo dentro de la app)
+   FICHA DE AJUSTES: sonido, volumen de las cintas y avisos diarios
+   (los avisos solo existen dentro de la app)
    ===================================================================== */
-let settingsOpen=false, notif={enabled:false,hour:9,minute:0,permissionGranted:true};
+let settingsOpen=false, notif={enabled:false,hour:9,minute:0,permissionGranted:true,xiaomi:false};
+// Al pulsar «Sí» sin permiso, Android muestra su diálogo: mientras tanto la casilla sigue en «Sí».
+let pendingEnable=null, permDenied=false;
 function applyNotif(s){
   s=parseMaybe(s); if(!s) return;
-  notif={enabled:!!s.enabled,hour:Number.isFinite(+s.hour)?+s.hour:9,minute:Number.isFinite(+s.minute)?+s.minute:0,permissionGranted:s.permissionGranted!==false};
-  $("nYes").checked=notif.enabled; $("nNo").checked=!notif.enabled;
+  notif={enabled:!!s.enabled,hour:Number.isFinite(+s.hour)?+s.hour:9,minute:Number.isFinite(+s.minute)?+s.minute:0,
+         permissionGranted:s.permissionGranted!==false,xiaomi:!!s.xiaomi};
+  if(notif.enabled){ pendingEnable=null; permDenied=false; }
+  const on=notif.enabled||!!pendingEnable;
+  $("nYes").checked=on; $("nNo").checked=!on;
   const t=pad(notif.hour)+":"+pad(notif.minute); if($("nTime").value!==t) $("nTime").value=t;
   $("nTime").disabled=!notif.enabled; $("nTest").disabled=false;
-  $("nPerm").hidden=!(notif.enabled && !notif.permissionGranted);
+  const msg = pendingEnable ? "Android te pedirá permiso para mostrar avisos."
+    : permDenied ? "Sin permiso, Android no deja avisarte. Pulsa «Sí» otra vez para abrir sus ajustes."
+    : (notif.enabled && !notif.permissionGranted) ? "Android ya no tiene permiso para mostrar avisos. Concédelo en los ajustes del teléfono."
+    : "";
+  $("nPerm").textContent=msg; $("nPerm").hidden=!msg;
+  $("nXiaomi").hidden=!(notif.xiaomi && notif.enabled);
 }
-window.TCC_onNotificationSettings=function(s){ try{ applyNotif(s); }catch(err){ console.warn("TCC_onNotificationSettings:",err); } };
-function readNotif(){ applyNotif(nat("getNotificationSettings")); }
+window.TCC_onNotificationSettings=function(s){
+  try{
+    s=parseMaybe(s);
+    // 1.ª llamada: la respuesta inmediata al pulsar «Sí»; 2.ª: el resultado del diálogo de Android.
+    if(pendingEnable && s && !s.enabled && ++pendingEnable.calls>=2){ pendingEnable=null; permDenied=true; }
+    applyNotif(s);
+  }catch(err){ console.warn("TCC_onNotificationSettings:",err); }
+};
+// Vuelta de los ajustes de Android (permiso denegado antes): se lee el resultado.
+document.addEventListener("visibilitychange",()=>{
+  if(document.visibilityState!=="visible" || !pendingEnable || !NATIVE) return;
+  setTimeout(()=>{ if(!pendingEnable) return; pendingEnable=null; readNotif(); if(!notif.enabled){ permDenied=true; applyNotif(notif); } },400);
+});
+function readNotif(){ if(NATIVE) applyNotif(nat("getNotificationSettings")); }
+
+/* Volumen de las cintas (0-1): en la app lo guarda Android; en el navegador, localStorage. */
+let tapeVol=1;
+if(NATIVE){ const v=parseFloat(nat("getTapeVolume")); if(Number.isFinite(v)) tapeVol=Math.max(0,Math.min(1,v)); }
+else { try{ const v=localStorage.getItem("tcc_vol"); if(v!=null&&v!=="") tapeVol=Math.max(0,Math.min(1,+v)); }catch(_){} }
+function showTapeVol(){
+  const pct=Math.round(tapeVol*100), r=$("tVol");
+  if(+r.value!==pct) r.value=pct;
+  r.style.setProperty("--p",pct+"%"); $("tVolOut").textContent=pct+" %";
+  r.setAttribute("aria-valuetext",pct+" por ciento");
+}
+function setTapeVol(v){
+  tapeVol=Math.max(0,Math.min(1,v)); showTapeVol();
+  if(NATIVE) nat("setTapeVolume",tapeVol);
+  else{ try{ localStorage.setItem("tcc_vol",String(tapeVol)); }catch(_){} if(webAudio) webAudio.volume=tapeVol; }
+}
+
 function openSettings(){
-  if(!NATIVE || settingsOpen) return;
-  readNotif();
+  if(settingsOpen) return;
+  readNotif(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
   settingsOpen=true; $("settings").hidden=false; $("sbd").classList.add("on");
   requestAnimationFrame(()=>requestAnimationFrame(()=>$("settings").classList.add("on")));
   $("tAlerts").setAttribute("aria-expanded","true");
@@ -1064,21 +1104,27 @@ function closeSettings(fromHistory){
   hideSettings();
   if(!fromHistory && history.state && history.state.s) history.back();
 }
+$("tAlerts").hidden=false;
+$("tAlerts").onclick=openSettings;
+$("setClose").onclick=()=>closeSettings();
+$("sbd").onclick=()=>closeSettings();
+$("sYes").onchange=()=>{ if($("sYes").checked){ SFX.on=true; SFX.play("page"); } };
+$("sNo").onchange=()=>{ if($("sNo").checked) SFX.on=false; };
+$("tVol").addEventListener("input",()=>setTapeVol(+$("tVol").value/100));
+showTapeVol();
 if(NATIVE){
-  $("tAlerts").hidden=false;
-  $("tAlerts").onclick=openSettings;
-  $("setClose").onclick=()=>closeSettings();
-  $("sbd").onclick=()=>closeSettings();
-  const setOn=on=>{ nat("setNotificationsEnabled",on); setTimeout(readNotif,250); setTimeout(readNotif,1500); };
-  $("nYes").onchange=()=>{ if($("nYes").checked) setOn(true); };
-  $("nNo").onchange=()=>{ if($("nNo").checked) setOn(false); };
+  $("nYes").onchange=()=>{
+    if(!$("nYes").checked) return;
+    permDenied=false;
+    if(!notif.permissionGranted) pendingEnable={calls:0};
+    nat("setNotificationsEnabled",true); applyNotif(notif); setTimeout(readNotif,1500);
+  };
+  $("nNo").onchange=()=>{ if(!$("nNo").checked) return; pendingEnable=null; permDenied=false; nat("setNotificationsEnabled",false); setTimeout(readNotif,250); };
   $("nTime").onchange=()=>{ const m=/^(\d{1,2}):(\d{2})/.exec($("nTime").value); if(m){ nat("setNotificationTime",+m[1],+m[2]); setTimeout(readNotif,250); } };
-  $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
-  $("sYes").onchange=()=>{ if($("sYes").checked){ SFX.on=true; SFX.play("page"); } };
-  $("sNo").onchange=()=>{ if($("sNo").checked) SFX.on=false; };
+  $("nAppSet").onclick=()=>nat("openAppSettings");
   $("nTest").onclick=()=>{ nat("testNotification"); const s=$("nSent"); s.hidden=false; clearTimeout(s._t); s._t=setTimeout(()=>{ s.hidden=true; },2600); };
 } else {
-  $("settings").remove(); $("sbd").remove();
+  $("secAvisos").remove();
 }
 
 /* ---------- Historial (botón Atrás de Android) ---------- */

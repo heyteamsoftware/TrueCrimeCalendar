@@ -102,8 +102,6 @@ class MainActivity : ComponentActivity() {
             val caso = if (savedInstanceState == null && !desdeRecientes(intent)) AbrirApp.casoDe(intent) else null
             webView.loadUrl(if (caso != null) "$START_URL#$caso" else START_URL)
         }
-
-        if (savedInstanceState == null) avisos.pedirPermisoInicial()
     }
 
     // La actividad es singleTask: las notificaciones llegan aquí si la app ya estaba abierta.

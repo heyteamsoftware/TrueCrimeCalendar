@@ -65,9 +65,11 @@ Lo inyecta `MainActivity` con `addJavascriptInterface(..., "TCCNative")`. Los m�
 | `seekTo(ms)` | Salta a una posición. |
 | `seekBy(deltaMs)` | Avanza o retrocede (por ejemplo, `-15000` o `30000`). |
 | `getPlayerState()` | Devuelve el JSON `PlayerState` (texto). |
+| `setTapeVolume(v)` / `getTapeVolume()` | Volumen de las cintas (0 a 1), guardado en el móvil y aplicado al reproductor. |
+| `openAppSettings()` | Abre la ficha de la app en los ajustes de Android (en Xiaomi, ahí está «Inicio automático»). |
 | `setCases(json)` | Recibe `[{"id","n","a","m","d"}]` con todos los casos (texto JSON) y lo guarda para las notificaciones. La web lo llama al arrancar. |
 | `getNotificationSettings()` | Devuelve el JSON `NotificationSettings` (texto). |
-| `setNotificationsEnabled(enabled)` | Activa o desactiva los avisos. Al activarlos en Android 13+ pide el permiso de notificaciones. |
+| `setNotificationsEnabled(enabled)` | Activa o desactiva los avisos. Al activarlos sin permiso (Android 13+) se muestra el diálogo de Android y solo quedan activados si se concede; si ya se denegó antes, se abren los ajustes de notificaciones. |
 | `setNotificationTime(hour, minute)` | Cambia la hora del aviso diario (por defecto 9:00). |
 | `testNotification()` | Lanza ya una notificación de prueba con el caso de hoy o el próximo. |
 
@@ -82,8 +84,10 @@ Si no hay nada cargado: `"id": null`, `"playing": false`, posiciones a 0.
 `NotificationSettings`:
 
 ```json
-{ "enabled": true, "hour": 9, "minute": 0, "permissionGranted": true }
+{ "enabled": true, "hour": 9, "minute": 0, "permissionGranted": true, "xiaomi": false }
 ```
+
+`xiaomi` es true en móviles Xiaomi, Redmi y POCO: la web recomienda activar «Inicio automático».
 
 ### 4.2. Funciones que la web expone y Android llama (con `evaluateJavascript`)
 
@@ -108,7 +112,7 @@ Si `window.TCCNative` no existe, la web reproduce con `<audio>` (`audio/<id>.ogg
 - Si hay uno: notificación «Hoy en TRUE CRIME CALENDAR» con el nombre y el alias. Al tocarla se abre ese expediente.
 - Si hay varios: una notificación con todos los nombres. Al tocarla se abre la app en el día de hoy.
 - Si no hay ninguno: no se notifica.
-- Activadas por defecto. En Android 13+ el permiso se pide la primera vez que se abre la app.
+- Desactivadas por defecto: se activan en la ficha de ajustes (engranaje de la cabecera), y es ahí donde Android pide el permiso. Quien ya las tenía activadas en la versión 2.0 con el permiso concedido las conserva.
 - Se reprograman tras reiniciar el móvil, cambiar la hora o actualizar la app.
 
 ## 6. Reglas que la web debe conservar

@@ -5,6 +5,7 @@ import android.os.Handler
 import android.os.Looper
 import android.webkit.JavascriptInterface
 import com.heyteamsoftware.truecrimecalendar.AbrirApp
+import com.heyteamsoftware.truecrimecalendar.audio.AjustesAudio
 import com.heyteamsoftware.truecrimecalendar.audio.ConexionAudio
 import com.heyteamsoftware.truecrimecalendar.audio.EstadoAudio
 import com.heyteamsoftware.truecrimecalendar.notificaciones.AlmacenCasos
@@ -68,6 +69,17 @@ class PuenteNativo(
     @JavascriptInterface
     fun getPlayerState(): String = EstadoAudio.ultimoJson
 
+    /** Volumen de las cintas, de 0 a 1. */
+    @JavascriptInterface
+    fun setTapeVolume(volume: Double) {
+        if (!volume.isFinite()) return
+        val v = volume.toFloat().coerceIn(0f, 1f)
+        enPrincipal { audio.cambiarVolumen(v) }
+    }
+
+    @JavascriptInterface
+    fun getTapeVolume(): Double = AjustesAudio.volumen(app).toDouble()
+
     // --- Avisos diarios ---
 
     /** Se guarda aquí mismo: SharedPreferences admite cualquier hilo y no toca la interfaz. */
@@ -93,4 +105,8 @@ class PuenteNativo(
 
     @JavascriptInterface
     fun testNotification() = enPrincipal { avisos.probar() }
+
+    /** Abre la ficha de la app en los ajustes de Android (en Xiaomi, ahí está «Inicio automático»). */
+    @JavascriptInterface
+    fun openAppSettings() = enPrincipal { avisos.abrirAjustesApp() }
 }

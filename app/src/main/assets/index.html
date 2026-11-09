@@ -1133,7 +1133,7 @@ body.has-mini{--mini-h:64px}
   box-shadow:0 10px 30px rgba(0,0,0,.5);transform:translateY(120%) rotate(-3deg);transition:transform .34s var(--ease-paper)}
 .set-card::before{content:"";position:absolute;inset:0;background:var(--grain);pointer-events:none}
 .settings.on .set-card{transform:rotate(-.8deg)}
-.set-card .tape{top:-10px;left:50%;margin-left:-32px}
+.set-card .tape{top:-10px;left:auto;right:64px;margin-left:0}
 .set-card h2{position:absolute;left:18px;top:6px;font:400 15px var(--stamp);letter-spacing:2px;text-transform:uppercase}
 .set-x{position:absolute;right:4px;top:0;width:44px;height:44px;display:grid;place-items:center;color:var(--ink)}
 .set-x svg{width:18px;height:18px;stroke:currentColor;stroke-width:2.2;fill:none;stroke-linecap:round}
@@ -1148,6 +1148,19 @@ body.has-mini{--mini-h:64px}
 .set-row input[type=time]{font:700 18px var(--type);color:var(--ink);background:transparent;border:0;border-bottom:1.5px dotted var(--ink);padding:6px 4px 2px;min-height:44px;border-radius:0}
 .perm{position:relative;font:18px/1.2 var(--hand);color:var(--red);margin:8px 0 2px;transform:rotate(-1deg)}
 .set-act{position:relative;display:flex;align-items:center;gap:14px;margin-top:14px}
+.set-card{max-height:calc(100vh - 28px);overflow-y:auto;overscroll-behavior:contain}
+.set-sec{position:relative}
+.set-sec+.set-sec{margin-top:14px;padding-top:12px;border-top:1.5px dashed rgba(36,32,27,.35)}
+.set-sec h3{position:relative;font:400 14px var(--stamp);letter-spacing:2px;text-transform:uppercase;color:var(--red);margin:2px 0 0;transform:rotate(-.6deg)}
+.set-row.vol{gap:0 12px}
+.set-row.vol>label{flex:1 1 100%;margin-right:0;padding:12px 0 0}
+.set-row input[type=range]{flex:1;min-width:0;height:44px;margin:0;background:transparent;-webkit-appearance:none;appearance:none;--p:100%}
+.set-row input[type=range]::-webkit-slider-runnable-track{height:6px;border-radius:3px;background:linear-gradient(90deg,var(--ink) var(--p),rgba(36,32,27,.18) var(--p))}
+.set-row input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:28px;height:28px;margin-top:-11px;border-radius:50%;border:2px solid var(--card);background:radial-gradient(circle at 38% 34%,#7a7064,#24201b 68%);box-shadow:0 1px 3px rgba(0,0,0,.45)}
+.set-row input[type=range]:focus-visible{outline:2px dashed var(--red);outline-offset:2px}
+.set-row output{min-width:56px;text-align:right;font:700 16px var(--type)}
+.perm.info{font:14px/1.4 var(--type);color:var(--ink-2);transform:none}
+.link-btn{display:inline-block;min-height:44px;padding:10px 0 4px;font:700 14px var(--type);color:var(--blue);text-decoration:underline}
 .stamp-btn{font:400 15px/1 var(--stamp);letter-spacing:2px;text-transform:uppercase;color:var(--violet);border:2.5px solid var(--violet);padding:12px 14px 9px;min-height:44px;transform:rotate(-2deg)}
 .stamp-btn:active{transform:rotate(-2deg) scale(.96)}
 .sent{font:20px var(--hand);color:var(--blue);transform:rotate(-5deg)}
@@ -1240,7 +1253,7 @@ body.has-mini{--mini-h:64px}
     <div class="tools">
       <button class="tool" id="tSearch" aria-label="Buscar en el archivo" aria-expanded="false" aria-controls="searchWrap"><svg viewBox="0 0 24 24"><path d="M10.6 4.2c3.7-.3 6.6 2.4 6.5 5.9-.1 3.4-2.9 6.2-6.4 6.1C7.3 16.1 4.4 13.4 4.6 10c.1-3.1 2.6-5.6 6-5.8z"/><path d="M15.3 15.1l5 5.3"/></svg></button>
       <button class="tool" id="tView" aria-label="Ver el mapa" aria-pressed="false"><svg viewBox="0 0 24 24" class="ico-map"><path d="M3.4 6.2l5.4-2.1 6.3 2.3 5.6-2v13.7l-5.5 2.1-6.4-2.4-5.4 2.1z"/><path d="M8.8 4.1v13.8M15.1 6.4v13.7"/></svg><svg viewBox="0 0 24 24" class="ico-cal" hidden><path d="M4 5.6h16.2v14.6H4.1z"/><path d="M4 10h16.2M8.3 3.4v3.9M15.8 3.4v3.9M8 13.6h.1M12 13.6h.1M16 13.6h.1M8 17h.1M12 17h.1"/></svg></button>
-      <button class="tool" id="tAlerts" aria-label="Avisos diarios" hidden><svg viewBox="0 0 24 24"><path d="M6.2 16.6c1-1.3 1.2-3 1.2-5.4 0-3 2-5.2 4.7-5.2s4.6 2.2 4.6 5.3c0 2.3.3 4 1.3 5.3z"/><path d="M5 16.8h14.2M10.3 19.3c.5 1 2.8 1.1 3.4 0M12.1 4v1.9"/></svg></button>
+      <button class="tool" id="tAlerts" aria-label="Ajustes" aria-haspopup="dialog" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.1"/><path d="M12 3.2l1.3 2.3 2.6-.6.6 2.6 2.3 1.3-1.2 2.3 1.2 2.3-2.3 1.3-.6 2.6-2.6-.6L12 20.8l-1.3-2.3-2.6.6-.6-2.6-2.3-1.3 1.2-2.3-1.2-2.3 2.3-1.3.6-2.6 2.6.6z"/></svg></button>
     </div>
   </div>
   <div class="search" id="searchWrap" hidden>
@@ -1322,22 +1335,34 @@ body.has-mini{--mini-h:64px}
 <div class="settings" id="settings" role="dialog" aria-modal="true" aria-labelledby="setTitle" hidden>
   <div class="set-card">
     <span class="tape"></span>
-    <h2 id="setTitle">Ficha de avisos</h2>
-    <button class="set-x" id="setClose" aria-label="Cerrar los avisos"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
-    <p class="set-intro">Cada día, a la hora indicada, el cuaderno te avisa si en el archivo hay un expediente con la fecha de hoy.</p>
-    <fieldset class="set-row">
-      <legend>Aviso diario</legend>
-      <label class="chk"><input type="radio" name="nOn" value="1" id="nYes"><span class="box"></span>Sí</label>
-      <label class="chk"><input type="radio" name="nOn" value="0" id="nNo"><span class="box"></span>No</label>
-    </fieldset>
-    <div class="set-row"><label for="nTime">Hora</label><input type="time" id="nTime" step="60" value="09:00"></div>
-    <p class="perm" id="nPerm" hidden>Android aún no tiene permiso para mostrar avisos. Concédelo en los ajustes del teléfono.</p>
-    <div class="set-act"><button class="stamp-btn" id="nTest">Probar aviso</button><span class="sent" id="nSent" hidden>¡Enviado!</span></div>
-    <fieldset class="set-row">
-      <legend>Sonidos del cuaderno</legend>
-      <label class="chk"><input type="radio" name="sOn" value="1" id="sYes"><span class="box"></span>Sí</label>
-      <label class="chk"><input type="radio" name="sOn" value="0" id="sNo"><span class="box"></span>No</label>
-    </fieldset>
+    <h2 id="setTitle">Ficha de ajustes</h2>
+    <button class="set-x" id="setClose" aria-label="Cerrar los ajustes"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
+    <section class="set-sec" aria-labelledby="secSnd">
+      <h3 id="secSnd">Sonido</h3>
+      <fieldset class="set-row">
+        <legend>Sonidos del cuaderno</legend>
+        <label class="chk"><input type="radio" name="sOn" value="1" id="sYes"><span class="box"></span>Sí</label>
+        <label class="chk"><input type="radio" name="sOn" value="0" id="sNo"><span class="box"></span>No</label>
+      </fieldset>
+      <div class="set-row vol">
+        <label for="tVol">Volumen de las cintas</label>
+        <input type="range" id="tVol" min="0" max="100" step="5" value="100">
+        <output id="tVolOut" for="tVol">100 %</output>
+      </div>
+    </section>
+    <section class="set-sec" id="secAvisos" aria-labelledby="secAv">
+      <h3 id="secAv">Avisos diarios</h3>
+      <p class="set-intro">Cada día, a la hora indicada, el cuaderno te avisa si en el archivo hay un expediente con la fecha de hoy.</p>
+      <fieldset class="set-row">
+        <legend>Aviso diario</legend>
+        <label class="chk"><input type="radio" name="nOn" value="1" id="nYes"><span class="box"></span>Sí</label>
+        <label class="chk"><input type="radio" name="nOn" value="0" id="nNo"><span class="box"></span>No</label>
+      </fieldset>
+      <div class="set-row"><label for="nTime">Hora</label><input type="time" id="nTime" step="60" value="09:00"></div>
+      <p class="perm" id="nPerm" hidden></p>
+      <p class="perm info" id="nXiaomi" hidden>En Xiaomi, Redmi y POCO activa «Inicio automático» para que el aviso llegue siempre. <button class="link-btn" id="nAppSet">Abrir ajustes de la app</button></p>
+      <div class="set-act"><button class="stamp-btn" id="nTest">Probar aviso</button><span class="sent" id="nSent" hidden>¡Enviado!</span></div>
+    </section>
   </div>
 </div>
 <script>/* @preserve
@@ -2519,7 +2544,7 @@ function webEmit(){
 }
 function getWebAudio(){
   if(webAudio) return webAudio;
-  webAudio=document.createElement("audio"); webAudio.preload="metadata";
+  webAudio=document.createElement("audio"); webAudio.preload="metadata"; webAudio.volume=tapeVol;
   ["play","pause","ended","timeupdate","waiting","playing","loadedmetadata","seeked","durationchange"].forEach(ev=>webAudio.addEventListener(ev,webEmit));
   webAudio.addEventListener("error",()=>{ if(webMeta.id){ console.warn("No se pudo cargar el audio de",webMeta.id); } webEmit(); });
   return webAudio;
@@ -2900,22 +2925,62 @@ document.addEventListener("keydown",ev=>{
 })();
 
 /* =====================================================================
-   AVISOS DIARIOS (solo dentro de la app)
+   FICHA DE AJUSTES: sonido, volumen de las cintas y avisos diarios
+   (los avisos solo existen dentro de la app)
    ===================================================================== */
-let settingsOpen=false, notif={enabled:false,hour:9,minute:0,permissionGranted:true};
+let settingsOpen=false, notif={enabled:false,hour:9,minute:0,permissionGranted:true,xiaomi:false};
+// Al pulsar «Sí» sin permiso, Android muestra su diálogo: mientras tanto la casilla sigue en «Sí».
+let pendingEnable=null, permDenied=false;
 function applyNotif(s){
   s=parseMaybe(s); if(!s) return;
-  notif={enabled:!!s.enabled,hour:Number.isFinite(+s.hour)?+s.hour:9,minute:Number.isFinite(+s.minute)?+s.minute:0,permissionGranted:s.permissionGranted!==false};
-  $("nYes").checked=notif.enabled; $("nNo").checked=!notif.enabled;
+  notif={enabled:!!s.enabled,hour:Number.isFinite(+s.hour)?+s.hour:9,minute:Number.isFinite(+s.minute)?+s.minute:0,
+         permissionGranted:s.permissionGranted!==false,xiaomi:!!s.xiaomi};
+  if(notif.enabled){ pendingEnable=null; permDenied=false; }
+  const on=notif.enabled||!!pendingEnable;
+  $("nYes").checked=on; $("nNo").checked=!on;
   const t=pad(notif.hour)+":"+pad(notif.minute); if($("nTime").value!==t) $("nTime").value=t;
   $("nTime").disabled=!notif.enabled; $("nTest").disabled=false;
-  $("nPerm").hidden=!(notif.enabled && !notif.permissionGranted);
+  const msg = pendingEnable ? "Android te pedirá permiso para mostrar avisos."
+    : permDenied ? "Sin permiso, Android no deja avisarte. Pulsa «Sí» otra vez para abrir sus ajustes."
+    : (notif.enabled && !notif.permissionGranted) ? "Android ya no tiene permiso para mostrar avisos. Concédelo en los ajustes del teléfono."
+    : "";
+  $("nPerm").textContent=msg; $("nPerm").hidden=!msg;
+  $("nXiaomi").hidden=!(notif.xiaomi && notif.enabled);
 }
-window.TCC_onNotificationSettings=function(s){ try{ applyNotif(s); }catch(err){ console.warn("TCC_onNotificationSettings:",err); } };
-function readNotif(){ applyNotif(nat("getNotificationSettings")); }
+window.TCC_onNotificationSettings=function(s){
+  try{
+    s=parseMaybe(s);
+    // 1.ª llamada: la respuesta inmediata al pulsar «Sí»; 2.ª: el resultado del diálogo de Android.
+    if(pendingEnable && s && !s.enabled && ++pendingEnable.calls>=2){ pendingEnable=null; permDenied=true; }
+    applyNotif(s);
+  }catch(err){ console.warn("TCC_onNotificationSettings:",err); }
+};
+// Vuelta de los ajustes de Android (permiso denegado antes): se lee el resultado.
+document.addEventListener("visibilitychange",()=>{
+  if(document.visibilityState!=="visible" || !pendingEnable || !NATIVE) return;
+  setTimeout(()=>{ if(!pendingEnable) return; pendingEnable=null; readNotif(); if(!notif.enabled){ permDenied=true; applyNotif(notif); } },400);
+});
+function readNotif(){ if(NATIVE) applyNotif(nat("getNotificationSettings")); }
+
+/* Volumen de las cintas (0-1): en la app lo guarda Android; en el navegador, localStorage. */
+let tapeVol=1;
+if(NATIVE){ const v=parseFloat(nat("getTapeVolume")); if(Number.isFinite(v)) tapeVol=Math.max(0,Math.min(1,v)); }
+else { try{ const v=localStorage.getItem("tcc_vol"); if(v!=null&&v!=="") tapeVol=Math.max(0,Math.min(1,+v)); }catch(_){} }
+function showTapeVol(){
+  const pct=Math.round(tapeVol*100), r=$("tVol");
+  if(+r.value!==pct) r.value=pct;
+  r.style.setProperty("--p",pct+"%"); $("tVolOut").textContent=pct+" %";
+  r.setAttribute("aria-valuetext",pct+" por ciento");
+}
+function setTapeVol(v){
+  tapeVol=Math.max(0,Math.min(1,v)); showTapeVol();
+  if(NATIVE) nat("setTapeVolume",tapeVol);
+  else{ try{ localStorage.setItem("tcc_vol",String(tapeVol)); }catch(_){} if(webAudio) webAudio.volume=tapeVol; }
+}
+
 function openSettings(){
-  if(!NATIVE || settingsOpen) return;
-  readNotif();
+  if(settingsOpen) return;
+  readNotif(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
   settingsOpen=true; $("settings").hidden=false; $("sbd").classList.add("on");
   requestAnimationFrame(()=>requestAnimationFrame(()=>$("settings").classList.add("on")));
   $("tAlerts").setAttribute("aria-expanded","true");
@@ -2933,21 +2998,27 @@ function closeSettings(fromHistory){
   hideSettings();
   if(!fromHistory && history.state && history.state.s) history.back();
 }
+$("tAlerts").hidden=false;
+$("tAlerts").onclick=openSettings;
+$("setClose").onclick=()=>closeSettings();
+$("sbd").onclick=()=>closeSettings();
+$("sYes").onchange=()=>{ if($("sYes").checked){ SFX.on=true; SFX.play("page"); } };
+$("sNo").onchange=()=>{ if($("sNo").checked) SFX.on=false; };
+$("tVol").addEventListener("input",()=>setTapeVol(+$("tVol").value/100));
+showTapeVol();
 if(NATIVE){
-  $("tAlerts").hidden=false;
-  $("tAlerts").onclick=openSettings;
-  $("setClose").onclick=()=>closeSettings();
-  $("sbd").onclick=()=>closeSettings();
-  const setOn=on=>{ nat("setNotificationsEnabled",on); setTimeout(readNotif,250); setTimeout(readNotif,1500); };
-  $("nYes").onchange=()=>{ if($("nYes").checked) setOn(true); };
-  $("nNo").onchange=()=>{ if($("nNo").checked) setOn(false); };
+  $("nYes").onchange=()=>{
+    if(!$("nYes").checked) return;
+    permDenied=false;
+    if(!notif.permissionGranted) pendingEnable={calls:0};
+    nat("setNotificationsEnabled",true); applyNotif(notif); setTimeout(readNotif,1500);
+  };
+  $("nNo").onchange=()=>{ if(!$("nNo").checked) return; pendingEnable=null; permDenied=false; nat("setNotificationsEnabled",false); setTimeout(readNotif,250); };
   $("nTime").onchange=()=>{ const m=/^(\d{1,2}):(\d{2})/.exec($("nTime").value); if(m){ nat("setNotificationTime",+m[1],+m[2]); setTimeout(readNotif,250); } };
-  $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
-  $("sYes").onchange=()=>{ if($("sYes").checked){ SFX.on=true; SFX.play("page"); } };
-  $("sNo").onchange=()=>{ if($("sNo").checked) SFX.on=false; };
+  $("nAppSet").onclick=()=>nat("openAppSettings");
   $("nTest").onclick=()=>{ nat("testNotification"); const s=$("nSent"); s.hidden=false; clearTimeout(s._t); s._t=setTimeout(()=>{ s.hidden=true; },2600); };
 } else {
-  $("settings").remove(); $("sbd").remove();
+  $("secAvisos").remove();
 }
 
 /* ---------- Historial (botón Atrás de Android) ---------- */
