@@ -49,3 +49,37 @@ Son las del apartado 2 de `docs/REDISENO_CASOS_Y_CINTAS.md` y de `docs/GUIA_CINT
 - **Casos nuevos (276):** 1 cinta de 5 minutos cada uno.
 - **Tandas:** van por meses (enero primero). Cada tanda tiene verificación cruzada, `node tools/validar_cintas.js` y `python tools/generar_cintas.py`.
 - **Tamaño estimado de la app:** unos 187 MB de audio.
+
+## Formato de los candidatos: `web/datos/candidatos/<mm>.json`
+
+```json
+{
+  "mes": 1,
+  "dias": [
+    { "dia": 13, "candidatos": [
+      {
+        "titulo_caso": "El robo del siglo (Banco Río de Acassuso)",
+        "protagonista": "Banda de Luis Mario Vitette Sellanes",
+        "fecha": "2006-01-13",
+        "tipo_efemeride": "golpe",
+        "pais": "Argentina",
+        "region": "hispanoamerica",
+        "tipo_caso": "golpe",
+        "epoca": "2000-2009",
+        "resumen": "Dos o tres frases con lo esencial del caso.",
+        "por_que": "Una línea: por qué merece un día del calendario y una cinta de 5 minutos.",
+        "fuentes_fecha": ["https://…", "https://…"],
+        "riesgos": "Cualquier problema: proceso abierto, víctimas menores, datos discutidos… (vacío si no hay)."
+      }
+    ] }
+  ]
+}
+```
+
+- **Valores admitidos:**
+  - `tipo_efemeride`: `nacimiento`, `crimen`, `detencion`, `condena`, `hallazgo`, `desaparicion` o `golpe`.
+  - `region`: `espana`, `hispanoamerica`, `europa`, `eeuu_canada`, `asia`, `africa`, `oceania` u `oriente_medio`.
+  - `tipo_caso`: `asesino_en_serie`, `asesinato`, `sin_resolver`, `desaparicion`, `envenenamiento`, `golpe`, `estafa`, `secuestro`, `secta`, `error_judicial`, `magnicidio`, `historico` u `otro`.
+- **La fecha:** formato AAAA-MM-DD, el día y el mes tienen que ser exactamente los del día libre, y hay que comprobarla en dos fuentes independientes (`fuentes_fecha`).
+- **Casos ya existentes:** nada que ya esté en el archivo (`web/datos/candidatos/casos_existentes.json`).
+- **Comprobación:** `node tools/validar_candidatos.js <mes>`.

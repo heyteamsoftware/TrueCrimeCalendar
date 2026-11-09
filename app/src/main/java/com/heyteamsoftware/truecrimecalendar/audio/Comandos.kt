@@ -33,11 +33,14 @@ internal object Comandos {
     /** Detener y quitar la notificación. */
     val DETENER = SessionCommand(PREFIJO + "DETENER", Bundle.EMPTY)
 
+    /** `ejectTape()`: suena «stop y expulsar», la cinta sale y después se detiene todo. */
+    val EXPULSAR = SessionCommand(PREFIJO + "EXPULSAR", Bundle.EMPTY)
+
     /** `seekTo(ms)` y `seekBy(deltaMs)` dentro de la cinta en curso: argumento [ARG_MS]. */
     val SALTAR_A = SessionCommand(PREFIJO + "SALTAR_A", Bundle.EMPTY)
     val SALTAR = SessionCommand(PREFIJO + "SALTAR", Bundle.EMPTY)
 
-    val TODOS = listOf(EPISODIO, CASO, CINTA, SIGUIENTE, ANTERIOR, REANUDAR, PAUSAR, DETENER, SALTAR_A, SALTAR)
+    val TODOS = listOf(EPISODIO, CASO, CINTA, SIGUIENTE, ANTERIOR, REANUDAR, PAUSAR, DETENER, EXPULSAR, SALTAR_A, SALTAR)
 
     const val ARG_ID = "id"
     const val ARG_TITULO = "titulo"

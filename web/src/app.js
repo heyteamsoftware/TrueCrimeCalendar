@@ -805,7 +805,7 @@ function tapeStatus(id,n){
 }
 
 /* ---------- Reproductor: nativo (TCCNative) o <audio> en el navegador ---------- */
-const PS={id:null,titulo:"",subtitulo:"",playing:false,buffering:false,ended:false,positionMs:0,durationMs:0,cinta:null,cintas:0,cintaTitulo:"",cambiando:false};
+const PS={id:null,titulo:"",subtitulo:"",playing:false,buffering:false,ended:false,positionMs:0,durationMs:0,cinta:null,cintas:0,cintaTitulo:"",cambiando:false,expulsando:false};
 const NATIVE_TAPES = !!(NATIVE && typeof NATIVE.playCase==="function");
 /* Motor que suena: el nativo o <audio>. Dentro de una app sin cintas nativas (versión anterior), las cintas suenan en la página. */
 let engine = NATIVE ? "native" : "web";
@@ -821,6 +821,7 @@ function onPlayerState(s){
   PS.cinta = PS.cintas ? (+s.cinta||1) : null;
   PS.cintaTitulo = PS.cintas ? String(s.cintaTitulo||"") : "";
   PS.cambiando = !!(PS.cintas && s.cambiando);
+  PS.expulsando = !!(PS.cintas && s.expulsando);   // suena «stop y expulsar»: la cinta sale
   if(PS.cintas){
     const t=tapesOf(PS.id).find(x=>x.n===PS.cinta);
     if(t){ if(!PS.durationMs) PS.durationMs=t.durationMs; if(!PS.cintaTitulo) PS.cintaTitulo=t.titulo; }
@@ -840,12 +841,13 @@ function webEmit(){
   const a=webAudio; if(!a || engine!=="web") return;
   if(webT){
     // mientras suena un sonido de la grabadora (T.sfx) la cinta que entra está a 0
-    const T=webT, t=T.list[T.k]||{}, fx=!!T.sfx, ch=T.sfx==="cambio";
+    const T=webT, t=T.list[T.k]||{}, fx=!!T.sfx, ch=T.sfx==="cambio", ex=T.sfx==="expulsar";
     const dur = !fx && isFinite(a.duration) && a.duration>0 ? Math.round(a.duration*1000) : (+t.durationMs||0);
-    const pos = fx ? 0 : T.pos!=null ? T.pos : Math.round((a.currentTime||0)*1000);
+    // al expulsar, la cinta que sale: entera si acabó o el punto donde se expulsó
+    const pos = ex ? (T.ejectPos!=null ? Math.min(T.ejectPos,dur||T.ejectPos) : dur) : fx ? 0 : T.pos!=null ? T.pos : Math.round((a.currentTime||0)*1000);
     onPlayerState({id:webMeta.id,titulo:webMeta.titulo,subtitulo:webMeta.subtitulo,
       playing: fx ? !T.paused : (!a.paused && !a.ended), buffering: T.sfx==="insertar" || (!fx && !a.paused && a.readyState<3), ended:T.ended,
-      positionMs:pos, durationMs:dur, cinta:t.n, cintas:T.list.length, cintaTitulo:t.titulo||"", cambiando:ch});
+      positionMs:pos, durationMs:dur, cinta:t.n, cintas:T.list.length, cintaTitulo:t.titulo||"", cambiando:ch, expulsando:ex});
     return;
   }
   const inf=v2Audio(webMeta.id);
@@ -863,7 +865,7 @@ function getWebAudio(){
   return webAudio;
 }
 /* sonidos de la grabadora (contrato 7.3): meter la cinta al empezar y cambio entre cintas */
-const WEB_SFX={insertar:"sfx/insertar-cinta.ogg", cambio:"sfx/cambio-cinta.ogg"};
+const WEB_SFX={insertar:"sfx/insertar-cinta.ogg", cambio:"sfx/cambio-cinta.ogg", expulsar:"sfx/expulsar-cinta.ogg"};
 function getWebSfx(kind){
   let s=webSfx[kind];
   if(!s){ s=webSfx[kind]=document.createElement("audio"); s.preload="auto"; s.src=WEB_SFX[kind]; }
@@ -886,9 +888,10 @@ function webTapesStart(spec){
   const list=(spec.cintas||[]).map(c=>({n:+c.n,titulo:String(c.titulo||""),url:c.url,durationMs:+c.durationMs||0}));
   if(!list.length) return;
   const k=Math.max(0,list.findIndex(c=>c.n===+spec.desde)), pos=Math.max(0,+spec.posMs||0);
-  getWebSfx("insertar"); getWebSfx("cambio");                 // se cargan ya para que suenen a tiempo
+  getWebSfx("insertar"); getWebSfx("cambio"); getWebSfx("expulsar");   // se cargan ya para que suenen a tiempo
   if(webT && webMeta.id===spec.id){                           // caso ya cargado: salta a la cinta sin recargar la lista
     webT.list=list;
+    if(webT.ended || webT.sfx==="expulsar"){ webGoTape(k,pos,"insertar"); return; }   // la cinta estaba fuera: se mete
     if(k===webT.k && !webT.sfx){ webT.ended=false; if(pos){ try{ getWebAudio().currentTime=pos/1000; }catch(_){} } webPlay(); }
     else webGoTape(k,pos,k!==webT.k?"cambio":null);
     return;
@@ -925,7 +928,26 @@ function webGoTape(k,posMs,kind){
 function webTapeEnded(){
   const T=webT; if(!T) return;
   if(T.k<T.list.length-1) webGoTape(T.k+1,0,"cambio");
-  else{ T.ended=true; webEmit(); }
+  else webEjectSound(T,()=>{ T.sfx=null; T.ended=true; webEmit(); });   // la última: «stop y expulsar»
+}
+/* «stop y expulsar» (contrato 7.3); al acabar, fin() */
+function webEjectSound(T,fin){
+  clearTimeout(T.timer); webStopSfx();
+  const a=getWebAudio(), s=getWebSfx("expulsar");
+  a.pause(); T.sfx="expulsar"; T.paused=false;
+  let hecho=false;
+  const go=()=>{ if(hecho || webT!==T) return; hecho=true; clearTimeout(T.timer); s.onended=s.onerror=null; fin(); };
+  s.onended=go; s.onerror=()=>{ clearTimeout(T.timer); T.timer=setTimeout(go,500); };
+  try{ s.currentTime=0; }catch(_){}
+  const p=s.play(); if(p && p.catch) p.catch(()=>{ clearTimeout(T.timer); T.timer=setTimeout(go,900); });
+  T.timer=setTimeout(go,3000);
+  webEmit();
+}
+/* botón de expulsar en el navegador: suena, la cinta sale y se para */
+function webEject(){
+  const T=webT; if(!T) return;
+  if(T.sfx!=="expulsar") T.ejectPos = T.sfx ? 0 : Math.round((getWebAudio().currentTime||0)*1000);
+  webEjectSound(T,()=>{ webReset(); onPlayerState({id:null,playing:false,positionMs:0,durationMs:0}); });
 }
 const Player={
   play(id,titulo,subtitulo){                                  // episodio único (v2)
@@ -959,6 +981,15 @@ const Player={
       T.timer=setTimeout(T.go,5000); webEmit(); return;
     }
     if(webAudio){ const p=webAudio.play(); if(p&&p.catch) p.catch(()=>{}); }
+  },
+  eject(){                                                    // expulsar la cinta: suena y luego para
+    bayHint=null;
+    if(useNative()){
+      if(NATIVE && typeof NATIVE.ejectTape==="function"){ nat("ejectTape"); pullPlayer(); setTimeout(pullPlayer,350); }
+      else { nat("stop"); pullPlayer(); }
+      return;
+    }
+    if(webT) webEject(); else this.stop();
   },
   stop(){
     bayHint=null;
@@ -1071,7 +1102,7 @@ function miniUI(jump){
   const e=BY[PS.id];
   if(PS.cintas){
     $("miniTitle").textContent=PS.cintas===1 ? PS.cintaTitulo : `Cinta ${PS.cinta}/${PS.cintas} · ${PS.cintaTitulo}`;
-    $("miniSub").textContent=PS.cambiando ? "Cambiando de cinta…" : (PS.subtitulo||(e?e.title:""))+(PS.durationMs?" · "+fmt(PS.positionMs)+" / "+fmt(PS.durationMs):"");
+    $("miniSub").textContent=PS.expulsando ? "Expulsando la cinta…" : PS.cambiando ? "Cambiando de cinta…" : (PS.subtitulo||(e?e.title:""))+(PS.durationMs?" · "+fmt(PS.positionMs)+" / "+fmt(PS.durationMs):"");
   } else {
     $("miniTitle").textContent=PS.titulo||(e?("Expediente de "+e.n):PS.id);
     $("miniSub").textContent=(PS.subtitulo||(e?e.n:""))+(PS.durationMs?" · "+fmt(PS.positionMs)+" / "+fmt(PS.durationMs):"");
@@ -1311,13 +1342,13 @@ function tapeUI(deck,e,jump){
   const tapes=tapesOf(e.id), playable=tapes.filter(t=>t.url);
   const mine = PS.id===e.id && PS.cintas>0;
   const res = resumeFrom(e.id,tapes);
-  const st = !playable.length ? "na" : !mine ? "idle" : PS.cambiando ? "changing" : PS.ended ? "ended" : PS.playing ? "playing" : "paused";
+  const st = !playable.length ? "na" : !mine ? "idle" : PS.expulsando ? "ejecting" : PS.cambiando ? "changing" : PS.ended ? "ended" : PS.playing ? "playing" : "paused";
   deck.dataset.st=st;
   if(bayHint && (bayHint.id!==e.id || Date.now()-bayHint.t>4000 || (mine && PS.cinta===bayHint.n))){
     if(mine && bayHint.id===e.id && PS.cinta===bayHint.n && bayN!==PS.cinta) bayShow(e,tapes,PS.cinta,bayHint.mode);
     bayHint=null;
   }
-  const shown = bayHint ? bayHint.n : mine ? PS.cinta : null;
+  const shown = bayHint ? bayHint.n : (mine && !PS.expulsando && !PS.ended) ? PS.cinta : null;
   bayShow(e,tapes,shown,bayHint?bayHint.mode:"");
   renderBox(e,tapes,shown);
   const cur = shown!=null ? tapes.find(t=>t.n===shown) : null;
@@ -1325,14 +1356,14 @@ function tapeUI(deck,e,jump){
   // teclas
   const key=deck.querySelector(".key.play"), lab=key.querySelector("span");
   const idleTxt = !res ? "Escuchar" : res.kind==="resume" ? "Seguir" : res.kind==="again" ? "De nuevo" : "Escuchar";
-  const txt = st==="na"?"Escuchar": (st==="playing"||st==="changing")?"Pausa": st==="paused"?"Seguir": st==="ended"?"De nuevo": idleTxt;
+  const txt = st==="na"?"Escuchar": (st==="playing"||st==="changing"||st==="ejecting")?"Pausa": st==="paused"?"Seguir": st==="ended"?"De nuevo": idleTxt;
   if(lab.textContent!==txt) lab.textContent=txt;
-  key.setAttribute("aria-label", st==="na"?"Audio en preparación": (st==="playing"||st==="changing")?"Pausar": st==="paused"?"Seguir escuchando":
+  key.setAttribute("aria-label", st==="na"?"Audio en preparación": (st==="playing"||st==="changing"||st==="ejecting")?"Pausar": st==="paused"?"Seguir escuchando":
     (st==="ended" || (res && res.kind==="again"))?"Escuchar el caso de nuevo desde la primera cinta": res && res.kind==="resume"?`Seguir escuchando: cinta ${res.n}, desde ${fmt(res.posMs)}`:"Escuchar el caso desde la primera cinta");
   deck.classList.toggle("is-playing",st==="playing");
   deck.classList.toggle("single",tapes.length===1);         // una sola cinta: sin cinta anterior/siguiente
   const ix = mine ? playable.findIndex(t=>t.n===PS.cinta) : -1;
-  const dis={play:st==="na", prev:!mine||ix<=0, next:!mine||ix<0||ix>=playable.length-1, back:!mine||PS.cambiando, fwd:!mine||PS.cambiando, eject:!mine};
+  const dis={play:st==="na", prev:!mine||ix<=0, next:!mine||ix<0||ix>=playable.length-1, back:!mine||PS.cambiando||PS.expulsando, fwd:!mine||PS.cambiando||PS.expulsando, eject:!mine||PS.expulsando||PS.ended};
   deck.querySelectorAll(".key").forEach(k=>{ const d=!!dis[k.dataset.k]; if(k.disabled!==d) k.disabled=d; });
   // posición en la cinta
   const dur = mine ? (PS.cambiando ? (cur?cur.durationMs:0) : (PS.durationMs || (cur?cur.durationMs:0))) : (ref?ref.durationMs:0);
@@ -1345,7 +1376,7 @@ function tapeUI(deck,e,jump){
     sl.setAttribute("aria-valuenow",Math.round(pos/1000)); sl.setAttribute("aria-valuetext",(ref?`Cinta ${ref.n}: `:"")+fmt(pos)+" de "+fmt(dur)); sl.setAttribute("aria-valuemax",Math.round(dur/1000));
   }
   deck.querySelector(".t-dur").textContent=dur?fmt(dur):"--:--";
-  const tt = !ref ? "" : tapes.length===1 ? "Cinta única" : PS.cambiando && mine ? `Cambiando a la cinta ${ref.n}…` : `Cinta ${ref.n} de ${tapes.length}`;
+  const tt = !ref ? "" : PS.expulsando && mine ? "Expulsando la cinta…" : tapes.length===1 ? "Cinta única" : PS.cambiando && mine ? `Cambiando a la cinta ${ref.n}…` : `Cinta ${ref.n} de ${tapes.length}`;
   if($("tTape").textContent!==tt) $("tTape").textContent=tt;
   setCounter(deck,pos);
   deck.querySelectorAll(".bay .cassette:not(.out) .reel .pack").forEach((pk,i)=>pk.style.setProperty("--k",(i===0?0.95-0.55*p:0.4+0.55*p).toFixed(3)));
@@ -1550,7 +1581,7 @@ function wireTapeDeck(e){
   deck.querySelector('[data-k="next"]').onclick=()=>{ if(mine()) Player.nextTape(); };
   deck.querySelector('[data-k="back"]').onclick=()=>{ if(mine() && !PS.cambiando) Player.seekBy(-15000); };
   deck.querySelector('[data-k="fwd"]').onclick=()=>{ if(mine() && !PS.cambiando) Player.seekBy(30000); };
-  deck.querySelector('[data-k="eject"]').onclick=()=>{ if(mine()) Player.stop(); };
+  deck.querySelector('[data-k="eject"]').onclick=()=>{ if(mine()) Player.eject(); };
   $("resumeBtn").onclick=resume;
   // barra: la cinta en curso o, si no suena este caso, la que toca retomar
   const refTape=()=>{ const tp=tapesOf(e.id); if(mine()) return tp.find(t=>t.n===PS.cinta); const r=resumeFrom(e.id,tp); return r ? tp.find(t=>t.n===r.n) : null; };

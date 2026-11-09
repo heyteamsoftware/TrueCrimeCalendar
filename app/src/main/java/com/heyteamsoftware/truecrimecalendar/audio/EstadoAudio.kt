@@ -19,6 +19,8 @@ data class EstadoAudio(
     val cintas: Int = 0,
     val cintaTitulo: String = "",
     val cambiando: Boolean = false,
+    /** Suena «stop y expulsar»: la cinta sale de la grabadora (al acabar el caso o al pulsar expulsar). */
+    val expulsando: Boolean = false,
 ) {
 
     fun aJson(): String = JSONObject()
@@ -34,6 +36,7 @@ data class EstadoAudio(
         .put("cintas", cintas)
         .put("cintaTitulo", cintaTitulo)
         .put("cambiando", cambiando)
+        .put("expulsando", expulsando)
         .toString()
 
     companion object {

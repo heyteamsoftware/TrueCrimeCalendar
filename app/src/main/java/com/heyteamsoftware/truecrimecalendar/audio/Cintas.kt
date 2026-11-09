@@ -20,7 +20,7 @@ internal data class CasoCintas(
 }
 
 /** Qué es cada elemento de la lista del reproductor. Va en `MediaItem.localConfiguration.tag`. */
-internal enum class TipoPista { CINTA, INSERTAR, CAMBIO, EPISODIO }
+internal enum class TipoPista { CINTA, INSERTAR, CAMBIO, EXPULSAR, EPISODIO }
 
 /**
  * Etiqueta de cada elemento: el renderizador la lee para decidir el efecto y el servicio para
@@ -29,7 +29,7 @@ internal enum class TipoPista { CINTA, INSERTAR, CAMBIO, EPISODIO }
  */
 internal class Pista(val tipo: TipoPista, val casoId: String, val caso: CasoCintas?, val indice: Int) {
     val conEfecto: Boolean get() = tipo == TipoPista.CINTA && caso?.efecto == true
-    val esSonido: Boolean get() = tipo == TipoPista.INSERTAR || tipo == TipoPista.CAMBIO
+    val esSonido: Boolean get() = tipo == TipoPista.INSERTAR || tipo == TipoPista.CAMBIO || tipo == TipoPista.EXPULSAR
 }
 
 /** Petición de `playCase(json)`: el caso, la cinta por la que empezar ([indiceDesde]) y el punto. */

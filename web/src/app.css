@@ -493,6 +493,8 @@ path.thread{stroke-dasharray:1;stroke-dashoffset:0}
 .deck.tapes .key.play span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .deck.tapes[data-st=changing] .key.play .ico-play{display:none}
 .deck.tapes[data-st=changing] .key.play .ico-pause{display:block}
+.deck.tapes[data-st=ejecting] .key.play .ico-play{display:none}
+.deck.tapes[data-st=ejecting] .key.play .ico-pause{display:block}
 .times .t-tape{font:15px/1.1 var(--hand);color:var(--red);text-align:center;padding:0 6px}
 .resume-btn{display:flex;align-items:center;gap:10px;width:100%;min-height:48px;margin:12px 0 0;padding:10px 12px 8px;text-align:left;font:700 13px/1.3 var(--type);color:var(--red);
   background:var(--typing) var(--grain);border:2px solid var(--red);transform:rotate(-.6deg);box-shadow:1px 2px 0 rgba(60,40,10,.18)}

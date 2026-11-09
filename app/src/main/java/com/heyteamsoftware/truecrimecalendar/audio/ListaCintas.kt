@@ -15,10 +15,13 @@ import java.io.IOException
 /**
  * Casos en cintas (contrato 7.3 y 7.4) dentro del ExoPlayer del servicio.
  *
- * La lista de Media3 de un caso de n cintas tiene 2·n elementos: delante de cada cinta, el
- * sonido de la grabadora que la mete (`[S1, C1, S2, C2, …]`). Al empezar un caso, el sonido de la
- * cinta pedida es `sfx/insertar-cinta.ogg`; todos los demás, `sfx/cambio-cinta.ogg`. Así, al
- * acabar una cinta Media3 pasa solo al cambio y a la siguiente, y al acabar la última se para.
+ * La lista de Media3 de un caso de n cintas tiene 2·n + 1 elementos: delante de cada cinta, el
+ * sonido de la grabadora que la mete, y al final «stop y expulsar» (`[S1, C1, S2, C2, …, E]`). Al
+ * empezar un caso, el sonido de la cinta pedida es `sfx/insertar-cinta.ogg`; los demás,
+ * `sfx/cambio-cinta.ogg`. Así, al acabar una cinta Media3 pasa solo al cambio y a la siguiente, y
+ * al acabar la última suena `sfx/expulsar-cinta.ogg` y se para: las cintas siempre empiezan y
+ * terminan con el sonido de la grabadora. Expulsar a mano (`ejectTape`) deja en la lista solo
+ * «expulsar» y, al acabar, se detiene todo.
  * Para saltar a otra cinta (siguiente, anterior, `playTape`) se va al sonido que la precede.
  *
  * Cuando una cinta debe empezar a mitad («Seguir escuchando»), el punto se guarda como pendiente
@@ -37,6 +40,10 @@ internal class ListaCintas(
     private var pendienteIndice = C.INDEX_UNSET
     private var pendienteMs = 0L
 
+    // Expulsión pedida a mano: al acabar el sonido se detiene todo. Guarda el punto donde iba la cinta.
+    private var pararTrasExpulsar = false
+    private var posExpulsada = 0L
+
     // --- Órdenes (puente y botones de la notificación) ---
 
     /** `playCase(json)`. */
@@ -50,7 +57,7 @@ internal class ListaCintas(
         val i = peticion.indiceDesde
         val pista = pistaActual()
         val cargado = pista?.caso
-        if (pista != null && cargado == nuevo && exo.mediaItemCount == cargado.cintas.size * 2) {
+        if (pista != null && cargado == nuevo && pista.tipo != TipoPista.EXPULSAR && exo.mediaItemCount == elementosDe(cargado)) {
             // El caso ya está en la grabadora: no se rehace la lista.
             if (i == pista.indice && exo.playbackState != Player.STATE_ENDED) reanudar()
             else irA(cargado, i, peticion.posMs, if (i == pista.indice) TipoPista.INSERTAR else TipoPista.CAMBIO)
@@ -60,15 +67,48 @@ internal class ListaCintas(
             Log.w(TAG, "Falta el audio de la cinta ${nuevo.cintas[i].n} de ${nuevo.id}: ${nuevo.cintas[i].uri}")
             return
         }
-        val elementos = ArrayList<MediaItem>(nuevo.cintas.size * 2)
-        for (j in nuevo.cintas.indices) {
-            elementos += sonido(nuevo, j, if (j == i) TipoPista.INSERTAR else TipoPista.CAMBIO)
-            elementos += cinta(nuevo, j)
+        meter(nuevo, i, peticion.posMs)
+    }
+
+    /** Mete la cinta [i] desde fuera: lista completa del caso con «insertar» delante de esa cinta. */
+    private fun meter(caso: CasoCintas, i: Int, posMs: Long) {
+        pararTrasExpulsar = false
+        val elementos = ArrayList<MediaItem>(elementosDe(caso))
+        for (j in caso.cintas.indices) {
+            elementos += sonido(caso, j, if (j == i) TipoPista.INSERTAR else TipoPista.CAMBIO)
+            elementos += cinta(caso, j)
         }
-        fijarPendiente(nuevo, i, peticion.posMs)
+        elementos += expulsar(caso, caso.cintas.size - 1)
+        fijarPendiente(caso, i, posMs)
         exo.setMediaItems(elementos, 2 * i, 0L)
         exo.prepare()
         exo.play()
+    }
+
+    /** `ejectTape()`: «stop y expulsar» y, al acabar el sonido, se detiene (y se quita la notificación). */
+    fun expulsarCinta() {
+        val pista = pistaActual()
+        val caso = pista?.caso
+        when {
+            pista == null || caso == null -> detener()                    // episodio v2 o nada
+            pista.tipo == TipoPista.EXPULSAR && exo.playbackState == Player.STATE_ENDED -> detener() // ya estaba fuera
+            pista.tipo == TipoPista.EXPULSAR -> Unit                      // ya está saliendo
+            else -> {
+                posExpulsada = if (pista.tipo == TipoPista.CINTA) exo.currentPosition.coerceAtLeast(0L) else 0L
+                olvidarPendiente()
+                pararTrasExpulsar = true
+                exo.setMediaItems(listOf(expulsar(caso, pista.indice)), 0, 0L)
+                exo.prepare()
+                exo.play()
+            }
+        }
+    }
+
+    /** Desde el servicio al llegar a STATE_ENDED: si se pulsó expulsar, se detiene todo. */
+    fun alTerminar() {
+        if (!pararTrasExpulsar) return
+        pararTrasExpulsar = false
+        detener()
     }
 
     /** `playTape(n)`: a la cinta n del caso cargado, con el cambio de cinta si estaba otra. */
@@ -77,6 +117,7 @@ internal class ListaCintas(
         val caso = pista.caso ?: return
         val i = caso.indiceDe(n) ?: return
         when {
+            pista.tipo == TipoPista.EXPULSAR -> meter(caso, i, 0L)          // la cinta estaba fuera: se mete
             i != pista.indice -> irA(caso, i, 0L, TipoPista.CAMBIO)
             exo.playbackState == Player.STATE_ENDED -> irA(caso, i, 0L, TipoPista.INSERTAR)
             else -> reanudar() // ya está en esa cinta (o entrando): sigue
@@ -86,7 +127,9 @@ internal class ListaCintas(
     fun siguiente() {
         val pista = pistaActual() ?: return
         val caso = pista.caso ?: return
-        if (pista.indice < caso.cintas.size - 1) irA(caso, pista.indice + 1, 0L, TipoPista.CAMBIO)
+        if (pista.indice >= caso.cintas.size - 1) return
+        if (pista.tipo == TipoPista.EXPULSAR) meter(caso, pista.indice + 1, 0L)
+        else irA(caso, pista.indice + 1, 0L, TipoPista.CAMBIO)
     }
 
     /** Cinta anterior; en la primera, vuelve a su principio. */
@@ -94,6 +137,7 @@ internal class ListaCintas(
         val pista = pistaActual() ?: return
         val caso = pista.caso ?: return
         when {
+            pista.tipo == TipoPista.EXPULSAR -> meter(caso, pista.indice, 0L)  // vuelve a meter la que salió
             pista.indice > 0 -> irA(caso, pista.indice - 1, 0L, TipoPista.CAMBIO)
             pista.esSonido -> fijarPendiente(caso, 0, 0L)
             else -> exo.seekTo(exo.currentMediaItemIndex, 0L)
@@ -117,6 +161,7 @@ internal class ListaCintas(
 
     /** Detiene y vacía la lista: sin elementos, el servicio retira la notificación. */
     fun detener() {
+        pararTrasExpulsar = false
         olvidarPendiente()
         exo.stop()
         exo.clearMediaItems()
@@ -124,6 +169,13 @@ internal class ListaCintas(
 
     fun reanudar() {
         if (exo.mediaItemCount == 0) return
+        // Caso terminado (la cinta ya salió): se vuelve a meter la última, desde el principio.
+        val pista = pistaActual()
+        val caso = pista?.caso
+        if (pista?.tipo == TipoPista.EXPULSAR && caso != null && exo.playbackState == Player.STATE_ENDED) {
+            meter(caso, pista.indice, 0L)
+            return
+        }
         when (exo.playbackState) {
             Player.STATE_IDLE -> exo.prepare()
             Player.STATE_ENDED -> exo.seekToDefaultPosition()
@@ -227,9 +279,16 @@ internal class ListaCintas(
         }
 
         val cinta = caso.cintas[pista.indice]
-        val cambiando = pista.esSonido
-        // Mientras suena la grabadora, las posiciones son las de la cinta que entra, a 0.
-        val duracion = if (cambiando) cinta.duracionMs else duracionExo.takeIf { it > 0 } ?: cinta.duracionMs
+        val expulsando = pista.tipo == TipoPista.EXPULSAR
+        val cambiando = pista.esSonido && !expulsando
+        // Mientras suena la grabadora, las posiciones son las de la cinta que entra, a 0. Al
+        // expulsar, las de la cinta que sale: entera si acabó, o el punto donde se expulsó.
+        val duracion = if (pista.esSonido) cinta.duracionMs else duracionExo.takeIf { it > 0 } ?: cinta.duracionMs
+        val punto = when {
+            expulsando -> if (pararTrasExpulsar) posExpulsada.coerceAtMost(duracion) else duracion
+            cambiando -> 0L
+            else -> posicion(terminado, duracion)
+        }
         return EstadoAudio(
             id = caso.id,
             titulo = caso.titulo,
@@ -237,12 +296,13 @@ internal class ListaCintas(
             playing = sonando,
             buffering = cargando,
             ended = terminado,
-            positionMs = if (cambiando) 0L else posicion(terminado, duracion),
+            positionMs = punto,
             durationMs = duracion,
             cinta = cinta.n,
             cintas = caso.cintas.size,
             cintaTitulo = cinta.titulo,
             cambiando = cambiando,
+            expulsando = expulsando && !terminado,
         )
     }
 
@@ -315,6 +375,16 @@ internal class ListaCintas(
         .setMediaMetadata(metadatos(caso, i))
         .build()
 
+    /** «Stop y expulsar» de la cinta [i] (al final del caso o al pulsar expulsar). Sin efecto de casete. */
+    private fun expulsar(caso: CasoCintas, i: Int): MediaItem = MediaItem.Builder()
+        .setMediaId("${caso.id}#expulsar-${caso.cintas[i].n}")
+        .setUri(SONIDO_EXPULSAR)
+        .setTag(Pista(TipoPista.EXPULSAR, caso.id, caso, i))
+        .setMediaMetadata(metadatos(caso, i))
+        .build()
+
+    private fun elementosDe(caso: CasoCintas): Int = caso.cintas.size * 2 + 1
+
     private fun metadatos(caso: CasoCintas, i: Int): MediaMetadata {
         val cinta = caso.cintas[i]
         val total = caso.cintas.size
@@ -340,6 +410,7 @@ internal class ListaCintas(
         private const val TAG = "ListaCintas"
         private const val SONIDO_INSERTAR = "asset:///sfx/insertar-cinta.ogg"
         private const val SONIDO_CAMBIO = "asset:///sfx/cambio-cinta.ogg"
+        private const val SONIDO_EXPULSAR = "asset:///sfx/expulsar-cinta.ogg"
 
         /** Un punto guardado en el último segundo de la cinta se retoma un poco antes (si no, acabaría al entrar). */
         private const val FINAL_RESERVADO_MS = 1_000L

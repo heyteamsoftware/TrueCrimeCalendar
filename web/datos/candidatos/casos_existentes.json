@@ -1,0 +1,810 @@
+[
+ {
+  "id": "brady",
+  "nombre": "Ian Brady",
+  "alias": "El asesino de los páramos",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "2/1"
+ },
+ {
+  "id": "letby",
+  "nombre": "Lucy Letby",
+  "alias": "El ángel de la muerte neonatal",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "4/1"
+ },
+ {
+  "id": "keyes",
+  "nombre": "Israel Keyes",
+  "alias": "El meticuloso asesino de los kits de entierro",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "7/1"
+ },
+ {
+  "id": "bonin",
+  "nombre": "William Bonin",
+  "alias": "El asesino de la autopista original",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "8/1"
+ },
+ {
+  "id": "puente",
+  "nombre": "Dorothea Puente",
+  "alias": "La casera asesina de Sacramento",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "9/1"
+ },
+ {
+  "id": "dominique",
+  "nombre": "Ronald Dominique",
+  "alias": "El asesino del bayou",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "9/1"
+ },
+ {
+  "id": "shipman",
+  "nombre": "Harold Shipman",
+  "alias": "Doctor Muerte",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "14/1"
+ },
+ {
+  "id": "petiot",
+  "nombre": "Marcel Petiot",
+  "alias": "El falso médico de la Resistencia",
+  "caso": null,
+  "pais": "Francia",
+  "fecha": "17/1"
+ },
+ {
+  "id": "robledo",
+  "nombre": "Carlos Eduardo Robledo Puch",
+  "alias": "El ángel de la muerte argentino",
+  "caso": null,
+  "pais": "Argentina",
+  "fecha": "19/1"
+ },
+ {
+  "id": "rifkin",
+  "nombre": "Joel Rifkin",
+  "alias": "El asesino de Long Island",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "20/1"
+ },
+ {
+  "id": "bodkin",
+  "nombre": "John Bodkin Adams",
+  "alias": "El médico envenenador",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "21/1"
+ },
+ {
+  "id": "camargo",
+  "nombre": "Daniel Camargo Barbosa",
+  "alias": "El sádico del Chinchiná",
+  "caso": null,
+  "pais": "Colombia / Ecuador",
+  "fecha": "22/1"
+ },
+ {
+  "id": "arropiero",
+  "nombre": "Manuel Delgado Villegas",
+  "alias": "El Arropiero",
+  "caso": null,
+  "pais": "España",
+  "fecha": "25/1"
+ },
+ {
+  "id": "garavito",
+  "nombre": "Luis Alfredo Garavito",
+  "alias": "La Bestia",
+  "caso": null,
+  "pais": "Colombia",
+  "fecha": "25/1"
+ },
+ {
+  "id": "ishikawa",
+  "nombre": "Miyuki Ishikawa",
+  "alias": "La partera demoníaca",
+  "caso": null,
+  "pais": "Japón",
+  "fecha": "5/2"
+ },
+ {
+  "id": "norris",
+  "nombre": "Roy Norris",
+  "alias": "El asesino de la furgoneta de herramientas",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "5/2"
+ },
+ {
+  "id": "hansen",
+  "nombre": "Robert Hansen",
+  "alias": "El panadero asesino",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "15/2"
+ },
+ {
+  "id": "ridgway",
+  "nombre": "Gary Ridgway",
+  "alias": "El asesino de Green River",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "18/2"
+ },
+ {
+  "id": "cullen",
+  "nombre": "Charles Cullen",
+  "alias": "El Ángel de la Muerte de Nueva Jersey",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "22/2"
+ },
+ {
+  "id": "muehlberg",
+  "nombre": "Gary Muehlberg",
+  "alias": "El asesino de los paquetes",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "27/2"
+ },
+ {
+  "id": "wuornos",
+  "nombre": "Aileen Wuornos",
+  "alias": "La asesina de la autopista",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "29/2"
+ },
+ {
+  "id": "ramirez",
+  "nombre": "Richard Ramirez",
+  "alias": "El acosador nocturno",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "29/2"
+ },
+ {
+  "id": "toole",
+  "nombre": "Ottis Toole",
+  "alias": "El caníbal de Jacksonville",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "5/3"
+ },
+ {
+  "id": "rader",
+  "nombre": "Dennis Rader",
+  "alias": "BTK (Bind, Torture, Kill)",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "9/3"
+ },
+ {
+  "id": "gaskins",
+  "nombre": "Donald Henry Gaskins",
+  "alias": "Pee Wee Gaskins",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "13/3"
+ },
+ {
+  "id": "king",
+  "nombre": "Tony King",
+  "alias": "El asesino de la Costa del Sol",
+  "caso": null,
+  "pais": "Reino Unido / España",
+  "fecha": "14/3"
+ },
+ {
+  "id": "ireland",
+  "nombre": "Colin Ireland",
+  "alias": "El asesino de hombres gais",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "16/3"
+ },
+ {
+  "id": "gacy",
+  "nombre": "John Wayne Gacy",
+  "alias": "El payaso asesino",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "17/3"
+ },
+ {
+  "id": "kraft",
+  "nombre": "Randy Kraft",
+  "alias": "El asesino de las tarjetas de puntuación",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "19/3"
+ },
+ {
+  "id": "toppan",
+  "nombre": "Jane Toppan",
+  "alias": "Pesadilla en los hospitales",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "31/3"
+ },
+ {
+  "id": "sobhraj",
+  "nombre": "Charles Sobhraj",
+  "alias": "La Serpiente / El asesino del bikini",
+  "caso": null,
+  "pais": "Francia (crímenes en Asia)",
+  "fecha": "6/4"
+ },
+ {
+  "id": "jesperson",
+  "nombre": "Keith Jesperson",
+  "alias": "El asesino de la cara feliz",
+  "caso": null,
+  "pais": "Canadá / EE. UU.",
+  "fecha": "6/4"
+ },
+ {
+  "id": "christie",
+  "nombre": "John Reginald Christie",
+  "alias": "El asesino de Rillington Place",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "8/4"
+ },
+ {
+  "id": "pichushkin",
+  "nombre": "Alexander Pichushkin",
+  "alias": "El asesino del ajedrez",
+  "caso": null,
+  "pais": "Rusia",
+  "fecha": "9/4"
+ },
+ {
+  "id": "landru",
+  "nombre": "Henri Désiré Landru",
+  "alias": "Barba Azul",
+  "caso": null,
+  "pais": "Francia",
+  "fecha": "12/4"
+ },
+ {
+  "id": "harvey",
+  "nombre": "Donald Harvey",
+  "alias": "El otro Ángel de la Muerte",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "15/4"
+ },
+ {
+  "id": "yoo",
+  "nombre": "Yoo Young-chul",
+  "alias": "El asesino del impermeable amarillo",
+  "caso": null,
+  "pais": "Corea del Sur",
+  "fecha": "18/4"
+ },
+ {
+  "id": "black",
+  "nombre": "Robert Black",
+  "alias": "El asesino de niñas británico",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "21/4"
+ },
+ {
+  "id": "homolka",
+  "nombre": "Karla Homolka",
+  "alias": "La Barbie asesina",
+  "caso": null,
+  "pais": "Canadá",
+  "fecha": "4/5"
+ },
+ {
+  "id": "beck",
+  "nombre": "Martha Beck",
+  "alias": "Los asesinos de los corazones solitarios",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "6/5"
+ },
+ {
+  "id": "bryant",
+  "nombre": "Martin Bryant",
+  "alias": "El de la masacre de Port Arthur",
+  "caso": null,
+  "pais": "Australia",
+  "fecha": "7/5"
+ },
+ {
+  "id": "holmes",
+  "nombre": "H. H. Holmes",
+  "alias": "El dueño del Castillo de los asesinatos",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "16/5"
+ },
+ {
+  "id": "bellfield",
+  "nombre": "Levi Bellfield",
+  "alias": "El asesino del martillo de Londres",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "17/5"
+ },
+ {
+  "id": "fish",
+  "nombre": "Albert Fish",
+  "alias": "El vampiro de Brooklyn",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "19/5"
+ },
+ {
+  "id": "murano",
+  "nombre": "Yiya Murano",
+  "alias": "La envenenadora de Monserrat",
+  "caso": null,
+  "pais": "Argentina",
+  "fecha": "20/5"
+ },
+ {
+  "id": "dahmer",
+  "nombre": "Jeffrey Dahmer",
+  "alias": "El caníbal de Milwaukee",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "21/5"
+ },
+ {
+  "id": "bianchi",
+  "nombre": "Kenneth Bianchi",
+  "alias": "El estrangulador de la colina",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "22/5"
+ },
+ {
+  "id": "chase",
+  "nombre": "Richard Chase",
+  "alias": "El vampiro de Sacramento",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "23/5"
+ },
+ {
+  "id": "escalero",
+  "nombre": "Francisco García Escalero",
+  "alias": "El matamendigos",
+  "caso": null,
+  "pais": "España",
+  "fecha": "24/5"
+ },
+ {
+  "id": "kurten",
+  "nombre": "Peter Kürten",
+  "alias": "El vampiro de Düsseldorf",
+  "caso": null,
+  "pais": "Alemania",
+  "fecha": "26/5"
+ },
+ {
+  "id": "berkowitz",
+  "nombre": "David Berkowitz",
+  "alias": "El hijo de Sam",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "1/6"
+ },
+ {
+  "id": "sutcliffe",
+  "nombre": "Peter Sutcliffe",
+  "alias": "El destripador de Yorkshire",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "2/6"
+ },
+ {
+  "id": "shawcross",
+  "nombre": "Arthur Shawcross",
+  "alias": "El asesino del río Genesee",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "6/6"
+ },
+ {
+  "id": "little",
+  "nombre": "Samuel Little",
+  "alias": "El asesino con más víctimas de EE. UU.",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "7/6"
+ },
+ {
+  "id": "pedrinho",
+  "nombre": "Pedro Rodrigues Filho",
+  "alias": "Pedrinho Matador",
+  "caso": null,
+  "pais": "Brasil",
+  "fecha": "17/6"
+ },
+ {
+  "id": "jones",
+  "nombre": "Genene Jones",
+  "alias": "La enfermera de la muerte",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "13/7"
+ },
+ {
+  "id": "hindley",
+  "nombre": "Myra Hindley",
+  "alias": "La mujer más odiada de Gran Bretaña",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "23/7"
+ },
+ {
+  "id": "magnotta",
+  "nombre": "Luka Magnotta",
+  "alias": "El asesino de internet",
+  "caso": null,
+  "pais": "Canadá",
+  "fecha": "24/7"
+ },
+ {
+  "id": "onoprienko",
+  "nombre": "Anatoly Onoprienko",
+  "alias": "La bestia de Ucrania",
+  "caso": null,
+  "pais": "Ucrania",
+  "fecha": "25/7"
+ },
+ {
+  "id": "yang",
+  "nombre": "Yang Xinhai",
+  "alias": "El monstruo asesino de China",
+  "caso": null,
+  "pais": "China",
+  "fecha": "29/7"
+ },
+ {
+  "id": "bathory",
+  "nombre": "Isabel Báthory",
+  "alias": "La Condesa Sangrienta",
+  "caso": null,
+  "pais": "Reino de Hungría (hoy Eslovaquia)",
+  "fecha": "7/8"
+ },
+ {
+  "id": "miyazaki",
+  "nombre": "Tsutomu Miyazaki",
+  "alias": "El asesino de niñas / El asesino Otaku",
+  "caso": null,
+  "pais": "Japón",
+  "fecha": "21/8"
+ },
+ {
+  "id": "lucas",
+  "nombre": "Henry Lee Lucas",
+  "alias": "El asesino de la autopista",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "23/8"
+ },
+ {
+  "id": "alcala",
+  "nombre": "Rodney Alcala",
+  "alias": "El asesino del juego de citas",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "23/8"
+ },
+ {
+  "id": "gein",
+  "nombre": "Ed Gein",
+  "alias": "El carnicero de Plainfield",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "27/8"
+ },
+ {
+  "id": "bernardo",
+  "nombre": "Paul Bernardo",
+  "alias": "El violador de Scarborough",
+  "caso": null,
+  "pais": "Canadá",
+  "fecha": "27/8"
+ },
+ {
+  "id": "franklin",
+  "nombre": "Lonnie David Franklin Jr.",
+  "alias": "Grim Sleeper",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "30/8"
+ },
+ {
+  "id": "desalvo",
+  "nombre": "Albert DeSalvo",
+  "alias": "El estrangulador de Boston",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "3/9"
+ },
+ {
+  "id": "gillesrais",
+  "nombre": "Gilles de Rais",
+  "alias": "El aristócrata maldito",
+  "caso": null,
+  "pais": "Francia",
+  "fecha": "10/9"
+ },
+ {
+  "id": "kearney",
+  "nombre": "Patrick Kearney",
+  "alias": "El asesino de las bolsas de basura",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "24/9"
+ },
+ {
+  "id": "pardo",
+  "nombre": "Manuel Pardo",
+  "alias": "El ex-policía asesino de Florida",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "24/9"
+ },
+ {
+  "id": "bittaker",
+  "nombre": "Lawrence Bittaker",
+  "alias": "El asesino de la furgoneta de herramientas",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "27/9"
+ },
+ {
+  "id": "fwest",
+  "nombre": "Fred West",
+  "alias": "El asesino de la casa de los horrores",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "29/9"
+ },
+ {
+  "id": "buono",
+  "nombre": "Angelo Buono Jr.",
+  "alias": "El estrangulador de la colina",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "5/10"
+ },
+ {
+  "id": "lopez",
+  "nombre": "Pedro Alonso López",
+  "alias": "El monstruo de los Andes",
+  "caso": null,
+  "pais": "Colombia / Ecuador / Perú",
+  "fecha": "8/10"
+ },
+ {
+  "id": "iqbal",
+  "nombre": "Javed Iqbal",
+  "alias": "Asesino en serie pakistaní",
+  "caso": null,
+  "pais": "Pakistán",
+  "fecha": "8/10"
+ },
+ {
+  "id": "chikatilo",
+  "nombre": "Andrei Chikatilo",
+  "alias": "El carnicero de Rostov",
+  "caso": null,
+  "pais": "URSS (Rusia)",
+  "fecha": "16/10"
+ },
+ {
+  "id": "swango",
+  "nombre": "Michael Swango",
+  "alias": "El doctor muerte americano",
+  "caso": null,
+  "pais": "Estados Unidos / Zimbabue",
+  "fecha": "21/10"
+ },
+ {
+  "id": "pickton",
+  "nombre": "Robert Pickton",
+  "alias": "El granjero de cerdos de Canadá",
+  "caso": null,
+  "pais": "Canadá",
+  "fecha": "24/10"
+ },
+ {
+  "id": "haarmann",
+  "nombre": "Fritz Haarmann",
+  "alias": "El vampiro de Hannover",
+  "caso": null,
+  "pais": "Alemania",
+  "fecha": "25/10"
+ },
+ {
+  "id": "cotton",
+  "nombre": "Mary Ann Cotton",
+  "alias": "La asesina con arsénico",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "31/10"
+ },
+ {
+  "id": "godino",
+  "nombre": "Cayetano Santos Godino",
+  "alias": "El Petiso Orejudo",
+  "caso": null,
+  "pais": "Argentina",
+  "fecha": "31/10"
+ },
+ {
+  "id": "doss",
+  "nombre": "Nannie Doss",
+  "alias": "La viuda negra risueña",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "4/11"
+ },
+ {
+  "id": "lee",
+  "nombre": "Derrick Todd Lee",
+  "alias": "El asesino de Baton Rouge",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "5/11"
+ },
+ {
+  "id": "ray",
+  "nombre": "David Parker Ray",
+  "alias": "El asesino de la caja de juguetes",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "6/11"
+ },
+ {
+  "id": "watts",
+  "nombre": "Coral Eugene Watts",
+  "alias": "El asesino del domingo por la mañana",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "7/11"
+ },
+ {
+  "id": "deangelo",
+  "nombre": "Joseph James DeAngelo",
+  "alias": "El asesino del Golden State",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "8/11"
+ },
+ {
+  "id": "manson",
+  "nombre": "Charles Manson",
+  "alias": "El líder de La Familia",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "12/11"
+ },
+ {
+  "id": "gilbert",
+  "nombre": "Kristen Gilbert",
+  "alias": "El ángel de la muerte de Massachusetts",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "13/11"
+ },
+ {
+  "id": "romasanta",
+  "nombre": "Manuel Blanco Romasanta",
+  "alias": "El hombre lobo de Allariz",
+  "caso": null,
+  "pais": "España",
+  "fecha": "18/11"
+ },
+ {
+  "id": "nilsen",
+  "nombre": "Dennis Nilsen",
+  "alias": "El asesino de Muswell Hill",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "23/11"
+ },
+ {
+  "id": "starkweather",
+  "nombre": "Charles Starkweather",
+  "alias": "El asesino itinerante juvenil",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "24/11"
+ },
+ {
+  "id": "bundy",
+  "nombre": "Ted Bundy",
+  "alias": "El carnicero de estudiantes",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "24/11"
+ },
+ {
+  "id": "rwest",
+  "nombre": "Rosemary West",
+  "alias": "La cómplice de la casa de los horrores",
+  "caso": null,
+  "pais": "Reino Unido",
+  "fecha": "29/11"
+ },
+ {
+  "id": "rodriguezvega",
+  "nombre": "José Antonio Rodríguez Vega",
+  "alias": "El mataviejas de Santander",
+  "caso": null,
+  "pais": "España",
+  "fecha": "3/12"
+ },
+ {
+  "id": "barraza",
+  "nombre": "Juana Barraza",
+  "alias": "La Mataviejitas",
+  "caso": null,
+  "pais": "México",
+  "fecha": "27/12"
+ },
+ {
+  "id": "fernandez",
+  "nombre": "Raymond Fernandez",
+  "alias": "Asesino de los corazones solitarios",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "17/12"
+ },
+ {
+  "id": "kemper",
+  "nombre": "Edmund Kemper",
+  "alias": "El co-ed killer",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "18/12"
+ },
+ {
+  "id": "corll",
+  "nombre": "Dean Corll",
+  "alias": "El hombre de los caramelos",
+  "caso": null,
+  "pais": "Estados Unidos",
+  "fecha": "24/12"
+ },
+ {
+  "id": "hogel",
+  "nombre": "Niels Högel",
+  "alias": "El enfermero criminal alemán",
+  "caso": null,
+  "pais": "Alemania",
+  "fecha": "30/12"
+ },
+ {
+  "id": "dalia-negra",
+  "nombre": "Elizabeth Short",
+  "alias": "La Dalia Negra",
+  "caso": "La Dalia Negra",
+  "pais": "Estados Unidos",
+  "fecha": "15/1"
+ }
+]

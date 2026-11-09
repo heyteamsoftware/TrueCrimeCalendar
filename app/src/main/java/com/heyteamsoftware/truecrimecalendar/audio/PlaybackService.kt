@@ -193,6 +193,7 @@ class PlaybackService : MediaSessionService() {
                 Comandos.REANUDAR.customAction -> cintas.reanudar()
                 Comandos.PAUSAR.customAction -> cintas.pausar()
                 Comandos.DETENER.customAction -> cintas.detener()
+                Comandos.EXPULSAR.customAction -> cintas.expulsarCinta()
                 Comandos.SALTAR_A.customAction -> cintas.saltarA(args.getLong(Comandos.ARG_MS))
                 Comandos.SALTAR.customAction -> cintas.saltarRelativo(args.getLong(Comandos.ARG_MS))
                 else -> return super.onCustomCommand(session, controller, customCommand, args)
@@ -211,8 +212,12 @@ class PlaybackService : MediaSessionService() {
     private inner class Oyente(private val player: ExoPlayer, private val cintas: ListaCintas) : Player.Listener {
 
         override fun onPlaybackStateChanged(playbackState: Int) {
-            // Al acabar (el episodio o la última cinta) no se pasa a otro: queda en pausa al final.
-            if (playbackState == Player.STATE_ENDED) player.pause()
+            // Al acabar (el episodio o la última cinta, tras «stop y expulsar») no se pasa a otro:
+            // queda en pausa al final. Si se pulsó expulsar, además se detiene y se quita la notificación.
+            if (playbackState == Player.STATE_ENDED) {
+                player.pause()
+                cintas.alTerminar()
+            }
         }
 
         override fun onPlayerError(error: PlaybackException) {

@@ -79,6 +79,10 @@ class PuenteNativo(
     @JavascriptInterface
     fun stop() = enPrincipal { audio.detener() }
 
+    /** Expulsa la cinta: suena «stop y expulsar» y después se detiene (contrato 7.4). */
+    @JavascriptInterface
+    fun ejectTape() = enPrincipal { audio.expulsar() }
+
     @JavascriptInterface
     fun seekTo(ms: Double) {
         if (!ms.isFinite()) return

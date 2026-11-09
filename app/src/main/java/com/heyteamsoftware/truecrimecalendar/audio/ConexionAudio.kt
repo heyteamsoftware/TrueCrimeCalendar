@@ -113,6 +113,9 @@ class ConexionAudio(
     /** Detiene y quita la notificación (sin elementos, el servicio la retira). */
     fun detener() = enviar { ordenar(it, Comandos.DETENER) }
 
+    /** `ejectTape()`: «stop y expulsar» y después se detiene. */
+    fun expulsar() = enviar { ordenar(it, Comandos.EXPULSAR) }
+
     /**
      * Volumen de las cintas (0 a 1). Se guarda y, si el servicio ya está conectado, se aplica al
      * momento; si no, el servicio lo lee al crearse (así no se arranca solo por mover el volumen).

@@ -169,14 +169,17 @@ Entrada v3 en `audio/index.json`:
 - La entrada v3 lleva además `"efecto": "casete-gastado"`.
 - Las entradas v2 (`{ "durationMs", "bloquesMs" }` con `audio/<id>.ogg`) siguen valiendo para los casos no migrados.
 
-### 7.3. Sonidos de la grabadora: `assets/sfx/insertar-cinta.ogg` y `assets/sfx/cambio-cinta.ogg`
+### 7.3. Sonidos de la grabadora: `insertar-cinta.ogg`, `cambio-cinta.ogg` y `expulsar-cinta.ogg` (en `assets/sfx/`)
 
 Salen del MP3 del usuario y **no llevan el efecto de casete** (son la propia grabadora).
 
 | Archivo | Duración | Qué es | Cuándo suena |
 |---|---|---|---|
 | `insertar-cinta.ogg` | unos 1,4 s | Meter la cinta y pulsar «play» | Antes de la primera cinta que suena al empezar un caso |
-| `cambio-cinta.ogg` | unos 2,2 s | Parar, expulsar, meter la siguiente y «play» | Entre una cinta y otra, tanto si se pasa sola al acabar como si se pulsa siguiente/anterior o se elige otra |
+| `cambio-cinta.ogg` | unos 2,5 s | Parar, expulsar, meter la siguiente y «play» | Entre una cinta y otra, tanto si se pasa sola al acabar como si se pulsa siguiente/anterior o se elige otra |
+| `expulsar-cinta.ogg` | unos 1 s | «Stop» y expulsar | Al acabar la última cinta (o la única) y al pulsar expulsar |
+
+**Toda cinta empieza y termina con un sonido de la grabadora.** Las cintas están siempre fuera, en la caja: para escuchar hay que meter una y, al acabar el caso o al expulsarla, sale y vuelve a la caja.
 
 ### 7.4. Puente: métodos nuevos de `window.TCCNative`
 
@@ -185,15 +188,17 @@ Salen del MP3 del usuario y **no llevan el efecto de casete** (son la propia gra
 | `playCase(json)` | `json` (texto): `{"id","titulo","subtitulo","cintas":[{"n","titulo","url","durationMs"}],"desde":n,"posMs":ms}`. Prepara la lista de cintas del caso y empieza a sonar la cinta `desde` en `posMs`. Al acabar una cinta suena `sfx/cambio-cinta.ogg` y entra la siguiente; al acabar la última, se para (`ended: true`). Si ese caso ya está cargado, salta a la cinta `desde` sin recargar la lista. |
 | `playTape(n)` | Salta a la cinta `n` del caso cargado (con el cambio de cinta si ya sonaba otra). |
 | `nextTape()` / `prevTape()` | Cinta siguiente o anterior, con el cambio de cinta. |
+| `ejectTape()` | Expulsa la cinta: suena `expulsar-cinta.ogg` y después se detiene y se quita la notificación. Si después se mete una cinta, vuelve a sonar «insertar». |
 
 `pause`, `resume`, `stop`, `seekTo` y `seekBy` actúan sobre la cinta en curso: las posiciones son siempre dentro de esa cinta. El `play(id, titulo, subtitulo)` de la versión 2 se mantiene para los episodios únicos.
 
 `PlayerState` añade estos campos (con un episodio de la versión 2 valen `null`, `0`, `""` y `false`):
 
 ```json
-{ "cinta": 2, "cintas": 5, "cintaTitulo": "La lista de la casa de Wardle Brook", "cambiando": false }
+{ "cinta": 2, "cintas": 2, "cintaTitulo": "Lo que aún guarda el páramo", "cambiando": false, "expulsando": false }
 ```
 
+- `expulsando` vale `true` mientras suena «stop y expulsar». Entonces `positionMs` es el de la cinta que sale: su duración si acabó, o el punto donde se expulsó.
 - `cambiando` vale `true` mientras suena el cambio de cinta. Entonces `positionMs` y `durationMs` siguen siendo los de la cinta que entra, a 0.
 - Notificación multimedia y pantalla de bloqueo: título «Cinta 2 de 5 · <cintaTitulo>», subtítulo «TRUE CRIME CALENDAR · <subtitulo>». Los botones de anterior y siguiente cambian de cinta; los de −15 s y +30 s se mantienen.
 
