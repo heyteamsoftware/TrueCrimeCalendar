@@ -17,3 +17,6 @@ __pycache__/
 
 # Muestras de audio para comparar efectos (no van en la app)
 muestras-cinta/
+
+# Audio original del usuario (fuente de los sonidos de la grabadora; no se redistribuye)
+tools/fuentes_sonido/

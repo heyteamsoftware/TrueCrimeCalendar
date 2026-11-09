@@ -1,0 +1,273 @@
+{
+  "id": "dalia-negra",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Elizabeth Short": "Elísabez Short",
+    "Elizabeth": "Elísabez",
+    "Betty Bersinger": "Béti Bérsinguer",
+    "Bersinger": "Bérsinguer",
+    "Betty": "Béti",
+    "Leimert Park": "Lemért Park",
+    "Norton Avenue": "Nórton Ávenu",
+    "Medford": "Médford",
+    "Massachusetts": "Masachúsets",
+    "Phoebe": "Fíbi",
+    "Robert Manley": "Róbert Mánli",
+    "Manley": "Mánli",
+    "Biltmore": "Bíltmor",
+    "Examiner": "Eksáminer",
+    "Herald-Express": "Jérald Ekspres",
+    "Mark Hansen": "Mark Jánsen",
+    "Leslie Dillon": "Lésli Dílon",
+    "Dillon": "Dílon",
+    "Steve Hodel": "Estív Jódel",
+    "George Hodel": "Yorch Jódel",
+    "Larry Harnisch": "Lári Járnish",
+    "Harnisch": "Járnish",
+    "Long Beach": "Long Bich",
+    "Mountain View": "Máuntein Viu",
+    "Oakland": "Óukland",
+    "FBI": "efe be i",
+    "Washington": "Uáshinton",
+    "Hollywood": "Jólibud",
+    "James Ellroy": "Yeims Élroi",
+    "Los Angeles Times": "Los Ányeles Táims"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un solar en Norton Avenue",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Dalia Negra. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un solar en Norton Avenue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ángeles, miércoles 15 de enero de 1947. Leimert Park, un barrio de casas nuevas y familias jóvenes. La guerra dejó obras a medias y solares llenos de maleza. A media mañana, una vecina, Betty Bersinger, baja por Norton Avenue con su hija de tres años en el cochecito. Va al zapatero a recoger unos zapatos de su marido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bersinger camina mirando al suelo, esquivando los cristales rotos de la acera. Gira la cabeza a la derecha. Entre la hierba, a un paso, ve algo muy blanco. Años después contaría que al principio le pareció un maniquí. No lo era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que hace a continuación dice mucho de aquella mañana. Coge a la niña, corre a una casa cercana y llama a la policía. Después, según se contó medio siglo más tarde, sigue su camino y va a recoger los zapatos. Nadie sabía aún que empezaba la mayor búsqueda de su época."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el cuerpo de una mujer joven. No vamos a describirlo: lo que le hicieron se ha contado demasiadas veces y con muy poco respeto. Basta con esto: la habían matado en otro lugar y la habían dejado allí."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. En el solar no había sangre: el crimen no ocurrió allí. Alguien la llevó hasta Norton Avenue, probablemente en coche, y eligió un sitio a la vista de todos. Décadas después, un perfilador del FBI lo interpretó así: quien la dejó allí quería sembrar el miedo en ese barrio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía llegó enseguida. Y con ella, o incluso antes, los periódicos: según el propio FBI, los fotógrafos llegaron antes que los agentes. En menos de una hora, la calle estaba llena de gente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto lo subrayo dos veces. Pisadas, marcas de neumáticos, cualquier cosa caída en la hierba: todo quedó bajo los zapatos de policías, periodistas y curiosos. Lo que se perdió esa primera hora no se recuperó nunca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La víctima no llevaba documentos. Solo quedaban sus huellas. El Examiner, uno de los cuatro diarios que se disputaban cada exclusiva, ofreció a la policía enviarlas a Washington con su sistema de telefoto. A cambio, quería publicar el nombre antes que nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI la identificó en cincuenta y seis minutos. Sus huellas estaban archivadas dos veces, ambas de 1943: por una solicitud de empleo en un campamento del ejército y por una detención en Santa Bárbara, por beber en un bar siendo menor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Elizabeth Short. Tenía veintidós años y había nacido en Boston. Su madre vivía cerca de allí, en la otra punta del país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahora viene lo que más me cuesta leer de este expediente: lo que hizo el periódico con su exclusiva."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde el Examiner llamaron a la madre, Phoebe Short. No le dijeron la verdad: le dijeron que su hija había ganado un concurso de belleza. Y mientras ella le hablaba de los éxitos escolares de Elizabeth, el periodista tomaba notas. Solo al final le contaron que estaba muerta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto porque explica todo lo que vino después. Desde el primer día, este caso fue tanto de los periódicos como de la policía. El diario pagó el viaje de la madre a Los Ángeles… y la mantuvo escondida de la competencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muy pronto, la prensa le pondría un apodo que la sobreviviría casi ochenta años. Y nueve días después del hallazgo, alguien que nunca dio su nombre empezó a escribir a los periódicos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Las pertenencias de la Dalia",
+      "tipo": "notas",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Las pertenencias de la Dalia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Notas sobre el caso Short. Recapitulo: el 15 de enero de 1947 aparece en un solar de Los Ángeles el cuerpo de Elizabeth Short, de veintidós años. Antes de preguntar quién la mató, hay que saber quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Elizabeth creció en Medford, Massachusetts, la tercera de cinco hermanas. En 1930 su padre desapareció: encontraron su coche abandonado en un puente y le dieron por muerto. Años después supieron que estaba vivo, en California."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ella tenía asma y pasaba los inviernos en Florida. En 1943 vivió en California, donde estaba su padre, hasta que la detuvieron en Santa Bárbara por beber siendo menor. Volvió al este."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Florida conoció a un piloto del ejército; según contó a sus amigos, iban a casarse. Él murió en un accidente de avión en 1945. En 1946, Elizabeth volvió a California siguiendo a otro militar. Tampoco salió bien."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí toca corregir la leyenda. Se repite que era una aspirante a actriz que soñaba con Hollywood. Según el periodista Larry Harnisch, que lleva décadas estudiando el caso, nunca fue a clases de interpretación ni se apuntó como extra. Trabajó de camarera y de cajera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus últimos meses fueron de un sitio a otro. A finales de 1946 estaba en San Diego: una familia la encontró refugiada en un cine abierto toda la noche y la acogió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí conoció a Robert Manley, un joven vendedor casado. El 9 de enero de 1947 la llevó en coche a Los Ángeles y la acompañó al hotel Biltmore. Ella dijo que había quedado allí con su hermana. No era verdad. Hacia las seis y media de la tarde, Manley se fue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es la última vez que alguien la vio con seguridad. Entre esa tarde y el hallazgo hay seis días en blanco: la llamada «semana perdida». Mucha gente dijo haberla visto; nada se pudo confirmar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Manley fue el primer sospechoso: era el último que había estado con ella. Lo detuvieron, pasó el detector de mentiras y lo soltaron. Años después volvieron a examinarle y volvieron a descartarle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 24 de enero llegó a correos un sobre para el Examiner y otros diarios, con la dirección hecha de letras recortadas de la prensa. Un mensaje decía: aquí están las pertenencias de la Dalia; seguirá una carta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro estaban su partida de nacimiento, su tarjeta de la Seguridad Social, fotografías y una agenda a la que le faltaban páginas. Todo, frotado con gasolina."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Gasolina. Quien mandó el sobre sabía cómo borrar una huella. Los investigadores pensaron que era el asesino, pero nunca se demostró. Aun así, sacaron algunas huellas y las mandaron al FBI. Sin resultado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La agenda llevó a la policía hasta unos setenta y cinco hombres. Casi todos contaron lo mismo: la conocieron en una esquina o en una parada, la invitaron a cenar y no volvieron a verla. Mark Hansen, dueño de un club nocturno que la había alojado en su casa, también fue interrogado y descartado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegaron más mensajes, firmados por «el Vengador de la Dalia Negra». Uno anunciaba que su autor se entregaría en un día y a una hora concretos. La policía esperó. No apareció nadie."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Eran del asesino? No hay forma de saberlo. El caso atrajo imitadores desde la primera semana: más de sesenta confesiones, de hombres y de mujeres. Ninguna se sostuvo, y todas costaron horas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Como los cortes eran muy precisos, los detectives buscaron a alguien con conocimientos de cirugía. Pidieron incluso la lista de alumnos de una facultad de Medicina. Nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En primavera, el caso ya se había enfriado. Pero los periódicos no pensaban soltarlo. Ya habían decidido quién era Elizabeth Short. Y aquel personaje se parecía muy poco a ella."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Una lápida que dice «hija»",
+      "tipo": "epilogo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta tres. Una lápida que dice «hija»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Elizabeth Short, de veintidós años, apareció asesinada en Los Ángeles el 15 de enero de 1947. Los periódicos casi nunca la llamaron por su nombre. La llamaron la Dalia Negra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El origen del apodo se discute. Según Larry Harnisch, nació en una farmacia de Long Beach, jugando con el título de una película de 1946, «La Dalia Azul», porque vestía de negro. Otros creen que lo inventó la prensa: el Herald-Express presumía de bautizar cada crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que hace un apodo así. Ya no es una chica de Medford que busca dónde dormir: es un personaje de cine negro. Y a un personaje se le pueden inventar cosas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y se inventaron. La prensa la retrató como una aventurera que recorría los bulevares cada noche con un hombre distinto. Circularon rumores sobre su vida íntima que nadie ha demostrado. Su familia ya no la reconocía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta el FBI se quejó. Según uno de sus responsables, los investigadores no podían hablar por teléfono ni leer el correo sin que algún periodista husmeara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1949, un gran jurado del condado investigó por qué tantos asesinatos de mujeres seguían sin resolver. Ese año detuvieron a Leslie Dillon, un botones que había trabajado en una funeraria y había escrito a la policía sobre el crimen. Acabaron soltándolo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Contra Dillon pesaba lo que parecía saber. Pero según los archivos de la fiscalía, revisados por Harnisch, estaba en San Francisco cuando mataron a Elizabeth. El gran jurado no acusó a nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2003, un antiguo detective de homicidios, Steve Hodel, acusó en un libro a su padre, el médico George Hodel, ya fallecido. Según la transcripción de una escucha de la fiscalía, el padre llegó a decir: «Supongamos que yo matara a la Dalia Negra. Ahora no podrían probarlo»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con sus debilidades. Es una frase hipotética, y quizá sospechaba que le escuchaban. Nunca fue acusado. Un detective examinó unas fotos del álbum familiar que el hijo creía de Elizabeth y no pudo confirmar que fuera ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay más. Harnisch apunta a un cirujano, muerto en 1948, cuya mujer vivía a una manzana del solar; admite que no es un sospechoso perfecto. En 2025, dos detectives retirados señalaron a un antiguo conocido de Elizabeth, descartado en su día. Otros expertos rechazan esa teoría."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi nota sobre todas es la misma: ninguna ha pasado por un tribunal. Nadie fue acusado jamás por esta muerte. Y señalar a alguien sin pruebas no es resolver un caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Por qué no se resolvió? Una escena pisoteada. Un lugar del crimen que nunca apareció. Objetos limpiados con gasolina, decenas de confesiones falsas y una época sin pruebas de ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2001, el jefe de casos antiguos de la policía de Los Ángeles revisó el expediente: apenas quedaban pruebas físicas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda ella. Para su familia era Betty. Está enterrada en el cementerio de Mountain View, en Oakland, porque, según su madre, Phoebe, quería mucho a California. Años después, Phoebe se mudó allí para estar cerca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1997, su hermana menor contó al diario Los Angeles Times que la familia llevaba muchísimo tiempo intentando dejarlo atrás, y que cada vez que alguien sacaba el tema, volvía todo el dolor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso este expediente no describe lo que le hicieron. La ficción ya lo ha hecho de sobra, desde la novela de James Ellroy. Lo que merece quedar en el archivo es quién era ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Oakland, sobre la hierba, hay una lápida pequeña. No dice Dalia Negra. Dice, en inglés, «hija». Debajo, su nombre, Elizabeth Short, y dos fechas: 29 de julio de 1924 y 15 de enero de 1947."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La Dalia Negra. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: el guion no señala a nadie como culpable. Las teorías van atribuidas y con su debilidad. Datos dudosos o discrepantes, resueltos con la versión más prudente: (1) Hora del hallazgo: Los Angeles Times (1997) dice «hacia las 10»; el FBI (2006), «poco antes de las 11»; otras fuentes, 10:30 o 10:45. En el guion: «a media mañana». (2) Lugar: lado oeste de South Norton Avenue, manzana del 3800, entre Coliseum Street y West 39th Street (hoy, frente al número 3831; 34.0164, -118.3330, comprobado con OpenStreetMap). OpenStreetMap lo sitúa hoy en «Crenshaw / West Adams», pero las fuentes de la época y las actuales lo llaman Leimert Park. (3) Prensa antes que la policía: lo dice el resumen del FBI de 2006, y el reportero Will Fowler afirmó haber llegado antes que los agentes (LA Times, 1997). Otras crónicas dicen que llegaron a la vez. En el guion va atribuido al FBI. (4) Huellas del sobre del 24 de enero: según el FBI, no estaban en sus archivos; según Wikipedia (citando a Scott, 2007), se estropearon en el envío. En el guion: «Sin resultado». (5) Apodo: el origen es discutido (farmacia de Long Beach según Harnisch y LA Times; invención de la prensa según informes de la fiscalía citados por Wikipedia; el FBI lo atribuye a la ropa negra y a la película «La dalia azul»). LA Times 1997 dice que el apodo era real en vida; LA Times 2024, que no hay prueba de que ella lo conociera. El guion da las dos versiones. (6) Nota que anunciaba la entrega del autor y la policía esperando en vano: la fuente principal es Wikipedia (Katz, 2010) y medios secundarios; las fechas varían (26-29 de enero). El guion no da fecha. No se incluye la llamada telefónica al jefe de redacción del Examiner (21 o 23 de enero según la fuente) porque solo la recoge una fuente secundaria. (7) Llegada a California: Wikipedia dice diciembre de 1942 (Vallejo); el FBI documenta una solicitud de empleo en Camp Cooke en enero de 1943; LAist dice que llegó «con 19 años». En el guion: «En 1943 ya vivía en California». (8) Prometido: el comandante Matt Gordon murió el 10 de agosto de 1945 (Wikipedia); Britannica solo dice que el compromiso «se dijo». En el guion, sin nombre y «según contó a sus amigos». (9) Cirujano de la teoría de Harnisch (Walter Bayley, no nombrado en el guion): según LA Times 2024 su mujer, de la que vivía separado, vivía a una manzana; según PBS SoCal (2013), vivía él. Se sigue a LA Times. (10) Teoría de 2025 (Alex Baber, los detectives retirados Rick Jackson y Mitzi Roberts, pódcast de Michael Connelly; William J. Mann, 2026, también lo considera el más plausible): apunta a Marvin Margolis, fallecido en 1993, interrogado y descartado en su día. No se le nombra a propósito. La policía de Los Ángeles no ha dado el caso por resuelto. Tampoco se incluyen las afirmaciones de 2026 del equipo «Deconstructing Dahlia» (muestras de sangre, autopsia extraviada), que no están verificadas. (11) George Hodel: la escucha de la fiscalía es de 1950 (Wikipedia la asocia a notas del gran jurado de 1949); el guion no da año. La cita es una traducción breve de la transcripción que recogen Britannica y Wikipedia. (12) Lápida comprobada con fotografía (Wikimedia Commons) y Crime Library: «DAUGHTER / ELIZABETH SHORT / JULY 29, 1924 — JAN. 15, 1947». La autopsia situó la muerte la noche del 14 al 15. (13) Hermana menor (Muriel) en LA Times 1997: parafraseada y sin nombre, porque pidió discreción. (14) No se incluye que el caso impulsara en 1947 el registro de delincuentes sexuales de California (solo lo afirma una fuente). (15) Detalles del cuerpo y de la autopsia omitidos a propósito."
+}

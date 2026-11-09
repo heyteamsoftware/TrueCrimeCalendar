@@ -120,3 +120,119 @@ Si `window.TCCNative` no existe, la web reproduce con `<audio>` (`audio/<id>.ogg
 - El expediente se abre con `history.pushState` y se cierra con `history.back()` / `popstate`: el botón Atrás de Android depende de ello.
 - Abrir un expediente desde `location.hash` al arrancar.
 - Los datos de los casos (`const D = []; D.push(...)`) no cambian de formato.
+
+---
+
+# Versión 3: casos en cintas (piloto: `brady` y `dalia-negra`)
+
+Casos estrella: **2 cintas de unos 5 min**. Casos nuevos: **1 cinta de unos 5 min**.
+
+Diseño completo: `docs/REDISENO_CASOS_Y_CINTAS.md`. Estilo de los guiones: `docs/GUIA_CINTAS.md`.
+Durante la transición conviven dos formatos: los casos ya pasados a cintas y los episodios únicos de la versión 2. La web y Android deben aceptar los dos.
+
+## 7. Cintas
+
+### 7.1. Guion: `assets/podcast/<id>.json` (formato v3)
+
+```json
+{
+  "id": "brady",
+  "version": 3,
+  "pronunciacion": { "Saddleworth": "Sádelguorz", "TRUE CRIME CALENDAR": "Tru Cráim Cálendar" },
+  "cintas": [
+    { "n": 1, "titulo": "Saddleworth, octubre de 1965", "tipo": "hallazgo",
+      "bloques": [ { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: …" },
+                   { "voz": "alvaro", "texto": "…" } ] }
+  ],
+  "nota_revision": ""
+}
+```
+
+- Se distingue del formato v2 porque tiene `cintas` (y `version: 3`). El v2 tiene `titulo` y `bloques` en la raíz.
+- `tipo` ∈ `hallazgo`, `notas`, `declaraciones`, `hemeroteca`, `juicio`, `epilogo`, `expediente` (cinta única).
+- `pronunciacion` es común a todas las cintas del caso.
+
+### 7.2. Audios: `assets/audio/<id>/cinta-<n>.ogg` e `index.json`
+
+Entrada v3 en `audio/index.json`:
+
+```json
+"brady": { "cintas": [
+  { "n": 1, "titulo": "Saddleworth, octubre de 1965", "url": "audio/brady/cinta-1.ogg",
+    "durationMs": 241000, "bloquesMs": [1450, 9800] }
+] }
+```
+
+- `url` es relativa a la página (dentro de la app: `asset:///audio/brady/cinta-1.ogg`). Si en el futuro los audios se sirven desde fuera de la APK, será absoluta (`https://…`): Android y la web deben aceptar las dos.
+- `bloquesMs[i]` es el inicio del bloque `i` de esa cinta (hay 0,4 s de silencio al principio).
+- **Las cintas v3 solo llevan la voz limpia** (Opus 12 kbps, mono, 48 kHz). El sonido de casete lo pone el móvil al reproducir (sección 7.6).
+- La entrada v3 lleva además `"efecto": "casete-gastado"`.
+- Las entradas v2 (`{ "durationMs", "bloquesMs" }` con `audio/<id>.ogg`) siguen valiendo para los casos no migrados.
+
+### 7.3. Sonidos de la grabadora: `assets/sfx/insertar-cinta.ogg` y `assets/sfx/cambio-cinta.ogg`
+
+Salen del MP3 del usuario y **no llevan el efecto de casete** (son la propia grabadora).
+
+| Archivo | Duración | Qué es | Cuándo suena |
+|---|---|---|---|
+| `insertar-cinta.ogg` | unos 1,4 s | Meter la cinta y pulsar «play» | Antes de la primera cinta que suena al empezar un caso |
+| `cambio-cinta.ogg` | unos 2,2 s | Parar, expulsar, meter la siguiente y «play» | Entre una cinta y otra, tanto si se pasa sola al acabar como si se pulsa siguiente/anterior o se elige otra |
+
+### 7.4. Puente: métodos nuevos de `window.TCCNative`
+
+| Método | Qué hace |
+|---|---|
+| `playCase(json)` | `json` (texto): `{"id","titulo","subtitulo","cintas":[{"n","titulo","url","durationMs"}],"desde":n,"posMs":ms}`. Prepara la lista de cintas del caso y empieza a sonar la cinta `desde` en `posMs`. Al acabar una cinta suena `sfx/cambio-cinta.ogg` y entra la siguiente; al acabar la última, se para (`ended: true`). Si ese caso ya está cargado, salta a la cinta `desde` sin recargar la lista. |
+| `playTape(n)` | Salta a la cinta `n` del caso cargado (con el cambio de cinta si ya sonaba otra). |
+| `nextTape()` / `prevTape()` | Cinta siguiente o anterior, con el cambio de cinta. |
+
+`pause`, `resume`, `stop`, `seekTo` y `seekBy` actúan sobre la cinta en curso: las posiciones son siempre dentro de esa cinta. El `play(id, titulo, subtitulo)` de la versión 2 se mantiene para los episodios únicos.
+
+`PlayerState` añade estos campos (con un episodio de la versión 2 valen `null`, `0`, `""` y `false`):
+
+```json
+{ "cinta": 2, "cintas": 5, "cintaTitulo": "La lista de la casa de Wardle Brook", "cambiando": false }
+```
+
+- `cambiando` vale `true` mientras suena el cambio de cinta. Entonces `positionMs` y `durationMs` siguen siendo los de la cinta que entra, a 0.
+- Notificación multimedia y pantalla de bloqueo: título «Cinta 2 de 5 · <cintaTitulo>», subtítulo «TRUE CRIME CALENDAR · <subtitulo>». Los botones de anterior y siguiente cambian de cinta; los de −15 s y +30 s se mantienen.
+
+### 7.5. Web
+
+- **Caja de cintas** en el expediente: un casete por cinta, con su etiqueta escrita a mano (`titulo`), su duración y su estado (sin escuchar, a medias o escuchada).
+- **Grabadora con ranura:** arrastrar un casete a la ranura lo mete y suena desde donde se quedó; tocar el casete hace lo mismo, por accesibilidad. Al cambiar de cinta, la grabadora expulsa la cinta y mete la siguiente.
+- **Progreso:** en `localStorage` (`tcc_progreso`), con `{ id: { n, posMs, escuchadas: [n…] } }`. «Seguir escuchando» retoma la cinta y el punto.
+- **Leer el caso:** una hoja por cinta; se resalta el bloque que suena con `bloquesMs` de esa cinta, y tocar un bloque salta a él.
+- **Fuera de la app:** se usa `<audio>` con la misma lógica, cambio de cinta incluido.
+
+## 8. Casos nuevos y fuentes (piloto)
+
+- **Casos nuevos:** `web/datos/casos_nuevos.json` es una lista de casos con los mismos campos que los de `D` (`id, m, d, y, n, a, v, p, f, per, st, c, mo, loc, vin, g`) y, además, estos:
+  - `estrella: false`;
+  - `tipo_efemeride`, que puede ser `nacimiento`, `crimen`, `detencion`, `condena`, `hallazgo`, `desaparicion` o `golpe`;
+  - `titulo_caso` (por ejemplo, «La Dalia Negra»);
+  - `autor` (por ejemplo, «Desconocido»);
+  - `fuentes`: `[{ "titulo", "url", "tipo" }]`.
+
+  `web/montar.py` los añade a `D` al montar la página. En los casos nuevos, `y` es el año de la efeméride. Los 100 de la versión 2 son casos estrella, con fecha de nacimiento.
+- **Fuentes de los casos estrella:** `web/datos/fuentes.json`, con la forma `{ id: [ { titulo, url, tipo } ] }`. La web muestra una sección «Fuentes» en el expediente cuando las hay.
+- **Calendario:** los casos estrella llevan un sello con estrella y los demás un círculo a lápiz. Las fichas dicen qué se conmemora («Nació un día como hoy», «Hoy hace 79 años del hallazgo»…).
+- **Avisos:** el texto de la notificación usa `tipo_efemeride`. Por eso `setCases` envía también `t` (el tipo), `e` (si es estrella) y `y`.
+
+## 7.6. Efecto «casete gastado» en el móvil
+
+Los audios v3 se guardan con la voz limpia (así se comprimen a 12 kbps sin sonar mal) y Android les aplica el sonido de casete al reproducirlos. La receta de referencia es `v1_casete_gastado` en `tools/variantes_cinta.py`:
+
+1. Paso alto a 220 Hz (dos biquads) y paso bajo a 5 kHz (dos biquads) y 5,5 kHz (uno).
+2. Pico de +5 dB en 1,5 kHz (ancho de 1,2 octavas).
+3. Compresor: umbral −18 dB, ratio 3, ataque 6 ms, relajación 120 ms y ganancia de compensación ×2.
+4. +7 dB y recorte suave `tanh` con umbral 0,45.
+5. Wow & flutter: retardo variable de base 4 ms más 1,4 ms a 0,5 Hz, 2,2 ms a 0,19 Hz y 0,04 ms a 7 Hz, con interpolación.
+6. Ganancia final fija para que la voz quede a unos −16,5 dB RMS de media. La voz limpia de entrada llega a unos −19 dB RMS de media, con picos por debajo de −2 dBFS.
+7. Siseo de ruido rosa entre 900 Hz y 7 kHz (RMS 0,0025).
+8. Cortes: cada 4–12 s, de 50–250 ms, bajando al 15–50 % con bordes suaves.
+9. Chasquidos sueltos (unos 0,3 por segundo).
+
+- El efecto solo se aplica a las cintas v3. No se aplica a los episodios v2 (ya lo llevan grabado) ni a los sonidos de la grabadora.
+- Se acepta una imprecisión de unos 250 ms en el paso de un elemento a otro.
+- Siseo, cortes y chasquidos son aleatorios en el móvil: no hace falta que coincidan con las muestras.

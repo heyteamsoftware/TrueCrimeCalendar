@@ -19,7 +19,6 @@ internal object Notificador {
     const val CANAL = "efemerides"
     private const val ID_AVISO = 1
 
-
     fun crearCanal(context: Context) {
         val canal = NotificationChannelCompat.Builder(CANAL, NotificationManagerCompat.IMPORTANCE_DEFAULT)
             .setName(context.getString(R.string.canal_efemerides))
@@ -53,11 +52,12 @@ internal object Notificador {
             context,
             if (casos.size == 1) {
                 val caso = casos.single()
-                base(context, titulo, lineaDe(context, caso), abrirCaso(context, caso.id))
-                    .setStyle(NotificationCompat.BigTextStyle().bigText(lineaDe(context, caso)))
+                val linea = lineaDe(context, caso, hoy)
+                base(context, titulo, linea, abrirCaso(context, caso.id))
+                    .setStyle(NotificationCompat.BigTextStyle().bigText(linea))
             } else {
                 base(context, titulo, nombres(casos), abrirHoy(context))
-                    .setStyle(bandeja(context, titulo, casos))
+                    .setStyle(bandeja(context, titulo, casos, hoy))
                     .setNumber(casos.size)
             },
         )
@@ -82,19 +82,46 @@ internal object Notificador {
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
 
     /** Varios casos: una línea por expediente. */
-    private fun bandeja(context: Context, titulo: String, casos: List<Caso>) =
+    private fun bandeja(context: Context, titulo: String, casos: List<Caso>, hoy: LocalDate) =
         NotificationCompat.InboxStyle().also { estilo ->
             estilo.setBigContentTitle(titulo)
             estilo.setSummaryText(
                 context.resources.getQuantityString(R.plurals.aviso_varios_casos, casos.size, casos.size)
             )
-            casos.forEach { estilo.addLine(lineaDe(context, it)) }
+            casos.forEach { estilo.addLine(lineaDe(context, it, hoy)) }
         }
 
-    private fun lineaDe(context: Context, caso: Caso): String =
-        if (caso.alias.isBlank()) caso.nombre else context.getString(R.string.aviso_caso, caso.nombre, caso.alias)
+    /**
+     * Qué se conmemora (contrato 8), como en las fichas de la web:
+     * «Nació un día como hoy · Ian Brady «El asesino de los páramos»» o
+     * «Hoy hace 79 años del hallazgo · La Dalia Negra».
+     */
+    private fun lineaDe(context: Context, caso: Caso, hoy: LocalDate): String {
+        val deQue = when (caso.efemeride) {
+            Efemeride.NACIMIENTO -> {
+                val quien = if (caso.alias.isBlank()) caso.nombre
+                else context.getString(R.string.aviso_nombre_alias, caso.nombre, caso.alias)
+                return context.getString(R.string.aviso_nacimiento, quien)
+            }
+            Efemeride.CRIMEN -> R.string.efemeride_de_crimen
+            Efemeride.DETENCION -> R.string.efemeride_de_detencion
+            Efemeride.CONDENA -> R.string.efemeride_de_condena
+            Efemeride.HALLAZGO -> R.string.efemeride_de_hallazgo
+            Efemeride.DESAPARICION -> R.string.efemeride_de_desaparicion
+            Efemeride.GOLPE -> R.string.efemeride_de_golpe
+        }
+        // En los casos nuevos el alias suele ser el nombre del caso («La Dalia Negra»).
+        val etiqueta = caso.alias.ifBlank { caso.nombre }
+        val de = context.getString(deQue)
+        val anios = caso.aniosEn(hoy.year)
+            ?: return context.getString(R.string.aviso_aniversario, de, etiqueta)
+        return context.resources.getQuantityString(R.plurals.aviso_hace, anios, anios, de, etiqueta)
+    }
 
-    private fun nombres(casos: List<Caso>) = casos.joinToString(", ") { it.nombre }
+    /** Varios casos: los nombres (en los casos nuevos, el del caso: «La Dalia Negra»). */
+    private fun nombres(casos: List<Caso>) = casos.joinToString(", ") {
+        if (it.efemeride == Efemeride.NACIMIENTO) it.nombre else it.alias.ifBlank { it.nombre }
+    }
 
     private fun abrirCaso(context: Context, id: String) =
         AbrirApp.pendiente(context, AbrirApp.PETICION_AVISO, AbrirApp.intentCaso(context, id))

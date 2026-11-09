@@ -52,7 +52,8 @@
           <div class="wk" aria-hidden="true"><div>LUN</div><div>MAR</div><div>MIÉ</div><div>JUE</div><div>VIE</div><div>SÁB</div><div>DOM</div></div>
           <div class="days" id="days"></div>
           <div class="legend-cal">
-            <span><svg viewBox="0 0 22 16"><path d="M5 9.5C4.2 4.6 9.4 1.8 14.2 2.6c4.6.8 6.3 5.2 3.4 8.6-2.9 3.3-9.6 3.6-12.3.6C3.6 9.9 4.2 7 6.8 5.1" fill="none" stroke="#a3221b" stroke-width="1.6" stroke-linecap="round"/></svg>Expediente</span>
+            <span><svg class="lg-seal ink" viewBox="0 0 34 34"><path d="M12.61 31.34A15 15 0 1 1 21.39 31.34" fill="none" stroke="#a3221b" stroke-width="2.4" stroke-linecap="round"/><path d="M12.63 28.39A12.2 12.2 0 1 1 21.37 28.39" fill="none" stroke="#a3221b" stroke-width="1.1"/><path d="M17 25.5L18.09 28.4 21.18 28.54 18.76 30.47 19.59 33.46 17 31.75 14.41 33.46 15.24 30.47 12.82 28.54 15.91 28.4z" fill="#a3221b"/></svg>Caso estrella</span>
+            <span id="lgPencil"><svg viewBox="0 0 22 16"><path d="M5 9.5C4.2 4.6 9.4 1.8 14.2 2.6c4.6.8 6.3 5.2 3.4 8.6-2.9 3.3-9.6 3.6-12.3.6C3.6 9.9 4.2 7 6.8 5.1" fill="none" stroke="#5f5b55" stroke-width="1.1" stroke-linecap="round" opacity=".85"/><path d="M6 10.4C5.6 5.6 10.4 2.6 15 3.6c4.2.9 5.4 5 2.6 8-2.8 3-8.8 3.2-11.4.8" fill="none" stroke="#5f5b55" stroke-width=".7" stroke-linecap="round" opacity=".5"/></svg>Caso del archivo</span>
             <span><svg viewBox="0 0 22 16"><path d="M8 2.5l1.6 11.5M13 2.5l1.6 11.5" stroke="#a3221b" stroke-width="2" stroke-linecap="round"/></svg>Uno por caso</span>
             <span><svg viewBox="0 0 22 16"><path d="M10 2.5l1.6 11.5" stroke="#21407a" stroke-width="2" stroke-linecap="round"/></svg>Con vínculos</span>
             <button class="hoy" id="goToday">Hoy</button>
@@ -62,6 +63,7 @@
     </div>
     <div class="list-col">
       <button class="slip" id="slip"></button>
+      <button class="resume-slip" id="resumeSlip" hidden></button>
       <div class="list-head"><h3 id="listTitle"></h3><span class="cnt" id="listCount"></span><button id="showMonth" hidden>Ver todo el mes</button></div>
       <div class="cards" id="cards"></div>
     </div>

@@ -13,8 +13,8 @@ android {
         applicationId = "com.heyteamsoftware.truecrimecalendar"
         minSdk = 26
         targetSdk = 36
-        versionCode = 3
-        versionName = "2.1"
+        versionCode = 4
+        versionName = "3.0-piloto"
     }
 
     buildTypes {
@@ -26,6 +26,10 @@ android {
                 "proguard-rules.pro"
             )
         }
+    }
+    testOptions {
+        // Los tests JVM del efecto de casete no usan Android; si algo toca un método de android.jar, que no falle.
+        unitTests.isReturnDefaultValues = true
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -45,4 +49,6 @@ dependencies {
     implementation(libs.androidx.webkit)
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.session)
+
+    testImplementation(libs.junit)
 }

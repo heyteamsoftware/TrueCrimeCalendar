@@ -1,10 +1,11 @@
 package com.heyteamsoftware.truecrimecalendar.audio
 
-import androidx.media3.common.C
-import androidx.media3.common.Player
 import org.json.JSONObject
 
-/** `PlayerState` del contrato: lo que la web recibe sobre el audio. */
+/**
+ * `PlayerState` del contrato (4.1 y 7.4): lo que la web recibe sobre el audio. Con un episodio
+ * v2 (o sin nada cargado) los campos de las cintas valen `null`, `0`, `""` y `false`.
+ */
 data class EstadoAudio(
     val id: String?,
     val titulo: String?,
@@ -14,6 +15,10 @@ data class EstadoAudio(
     val ended: Boolean,
     val positionMs: Long,
     val durationMs: Long,
+    val cinta: Int? = null,
+    val cintas: Int = 0,
+    val cintaTitulo: String = "",
+    val cambiando: Boolean = false,
 ) {
 
     fun aJson(): String = JSONObject()
@@ -25,6 +30,10 @@ data class EstadoAudio(
         .put("ended", ended)
         .put("positionMs", positionMs)
         .put("durationMs", durationMs)
+        .put("cinta", cinta ?: JSONObject.NULL)
+        .put("cintas", cintas)
+        .put("cintaTitulo", cintaTitulo)
+        .put("cambiando", cambiando)
         .toString()
 
     companion object {
@@ -38,29 +47,13 @@ data class EstadoAudio(
         @Volatile
         var ultimoJson: String = VACIO.aJson()
 
-        fun de(player: Player): EstadoAudio {
-            val item = player.currentMediaItem ?: return VACIO
-            val estado = player.playbackState
-            val terminado = estado == Player.STATE_ENDED
-            val duracion = player.duration.takeIf { it != C.TIME_UNSET && it > 0 } ?: 0L
-            val posicion = when {
-                terminado && duracion > 0 -> duracion
-                duracion > 0 -> player.currentPosition.coerceIn(0L, duracion)
-                else -> player.currentPosition.coerceAtLeast(0L)
-            }
-            return EstadoAudio(
-                id = item.mediaId,
-                titulo = item.mediaMetadata.title?.toString(),
-                subtitulo = item.mediaMetadata.subtitle?.toString(),
-                // «Sonando» = el botón debería mostrar Pausa (también mientras carga).
-                playing = player.playWhenReady &&
-                    estado != Player.STATE_IDLE && !terminado &&
-                    player.playbackSuppressionReason == Player.PLAYBACK_SUPPRESSION_REASON_NONE,
-                buffering = estado == Player.STATE_BUFFERING,
-                ended = terminado,
-                positionMs = posicion,
-                durationMs = duracion,
-            )
-        }
+        /**
+         * Estado al momento, calculado por el servicio de audio (que sabe en qué cinta está y si
+         * suena la grabadora). Lo pone [PlaybackService] mientras existe; solo se usa desde el
+         * hilo principal (servicio y actividad están en el mismo proceso).
+         */
+        internal var fuente: (() -> EstadoAudio)? = null
+
+        fun actual(): EstadoAudio = fuente?.invoke() ?: VACIO
     }
 }

@@ -12,7 +12,7 @@ import com.heyteamsoftware.truecrimecalendar.notificaciones.AlmacenCasos
 import com.heyteamsoftware.truecrimecalendar.notificaciones.ControlAvisos
 
 /**
- * Objeto `window.TCCNative` (sección 4.1 del contrato).
+ * Objeto `window.TCCNative` (secciones 4.1 y 7.4 del contrato).
  *
  * WebView llama a estos métodos desde su propio hilo: lo que toca el reproductor o la interfaz
  * se pasa al hilo principal y los getters devuelven el último estado en caché. Los números
@@ -44,6 +44,31 @@ class PuenteNativo(
 
     @JavascriptInterface
     fun play(id: String?) = play(id, null, null)
+
+    // --- Casos en cintas (versión 3, contrato 7.4) ---
+
+    /**
+     * `{"id","titulo","subtitulo","cintas":[{"n","titulo","url","durationMs"}],"desde","posMs"}`
+     * (texto JSON). Lo valida el servicio de audio.
+     */
+    @JavascriptInterface
+    fun playCase(json: String?) {
+        val texto = json?.takeIf { it.isNotBlank() && it.length <= MAX_JSON_CASO } ?: return
+        enPrincipal { audio.reproducirCaso(texto) }
+    }
+
+    @JavascriptInterface
+    fun playTape(n: Double) {
+        if (!n.isFinite() || n < 1 || n > MAX_CINTA) return
+        val cinta = n.toInt()
+        enPrincipal { audio.reproducirCinta(cinta) }
+    }
+
+    @JavascriptInterface
+    fun nextTape() = enPrincipal { audio.siguienteCinta() }
+
+    @JavascriptInterface
+    fun prevTape() = enPrincipal { audio.anteriorCinta() }
 
     @JavascriptInterface
     fun pause() = enPrincipal { audio.pausar() }
@@ -109,4 +134,9 @@ class PuenteNativo(
     /** Abre la ficha de la app en los ajustes de Android (en Xiaomi, ahí está «Inicio automático»). */
     @JavascriptInterface
     fun openAppSettings() = enPrincipal { avisos.abrirAjustesApp() }
+
+    private companion object {
+        const val MAX_JSON_CASO = 64 * 1024
+        const val MAX_CINTA = 99.0
+    }
 }

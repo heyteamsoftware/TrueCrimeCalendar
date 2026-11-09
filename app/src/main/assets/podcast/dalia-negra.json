@@ -1,0 +1,141 @@
+{
+  "id": "dalia-negra",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Elizabeth Short": "Elísabez Short",
+    "Elizabeth": "Elísabez",
+    "Betty Bersinger": "Béti Bérsinguer",
+    "Betty": "Béti",
+    "Leimert Park": "Lemért Park",
+    "Norton Avenue": "Nórton Ávenu",
+    "Medford": "Médford",
+    "Massachusetts": "Masachúsets",
+    "Phoebe": "Fíbi",
+    "Robert Manley": "Róbert Mánli",
+    "Manley": "Mánli",
+    "Biltmore": "Bíltmor",
+    "Examiner": "Eksáminer",
+    "Larry Harnisch": "Lári Járnish",
+    "Steve Hodel": "Estív Jodél",
+    "George Hodel": "Yorch Jodél",
+    "Mountain View": "Máuntein Viu",
+    "Oakland": "Óukland",
+    "FBI": "efe be i",
+    "Los Angeles Times": "Los Ányeles Táims"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un solar en Norton Avenue",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Dalia Negra. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un solar en Norton Avenue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ángeles, 15 de enero de 1947. A media mañana, una vecina de Leimert Park, Betty Bersinger, baja por Norton Avenue con su hija en el cochecito. Entre la hierba de un solar, a un paso de la acera, ve algo muy blanco. Años después contaría que le pareció un maniquí. No lo era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el cuerpo de una mujer joven. No vamos a describirlo: se ha contado demasiadas veces, y con muy poco respeto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. En el solar no había sangre: la mataron en otro lugar. Alguien la llevó hasta allí y la dejó junto a una acera por la que pasaba cualquiera. No la escondió. Eso es lo que más me inquieta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con la policía llegaron los periodistas: en 1947 nada impedía a un reportero acercarse a un cadáver. En menos de una hora, la calle se llenó de gente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pisadas, marcas de neumáticos, cualquier cosa caída en la hierba: todo quedó bajo los zapatos de policías, periodistas y curiosos. Lo que se perdió esa hora no se recuperó nunca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No llevaba documentos. El FBI la identificó por sus huellas, archivadas desde 1943 por un empleo en un campamento del ejército y por una detención por beber siendo menor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Elizabeth Short y tenía veintidós años. Creció en Medford, Massachusetts, con su madre y sus cuatro hermanas: su padre las abandonó cuando ella tenía seis años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un diario, el Examiner, llamó a su madre, Phoebe, y le dijo que su hija había ganado un concurso de belleza. Solo después de sacarle todos los detalles le contaron la verdad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto porque explica todo lo que vino después. Desde el primer día, este caso fue tanto de los periódicos como de la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quizá no era la aspirante a actriz de la leyenda. Según el periodista Larry Harnisch, que lleva décadas estudiando el caso, nunca fue a clases de interpretación. Había sido camarera y vivía de un sitio a otro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 9 de enero, un joven vendedor casado, Robert Manley, la llevó en coche desde San Diego hasta el hotel Biltmore, en el centro de Los Ángeles. Hacia las seis y media de la tarde se despidió de ella."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es la última vez que alguien la vio con seguridad. Después, seis días en blanco. Manley fue el primer sospechoso, pero pasó el detector de mentiras y lo soltaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueve días después del hallazgo llegó al Examiner un sobre con la dirección hecha de letras recortadas. Dentro, su partida de nacimiento, fotografías y una agenda a la que le faltaban páginas. Todo, frotado con gasolina."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quien lo envió sabía borrar huellas. Los investigadores pensaron que era el asesino; nunca se demostró. Y llegó la avalancha: decenas de confesiones. Ninguna se sostuvo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entonces, la prensa ya la llamaba la Dalia Negra y la retrataba como una aventurera nocturna. Su familia no la reconocía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1949, un gran jurado revisó por qué tantos asesinatos de mujeres seguían sin resolver. No acusó a nadie. La teoría más conocida es de 2003: un antiguo policía, Steve Hodel, acusó en un libro a su padre, el médico George Hodel, ya fallecido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la transcripción de una escucha de la fiscalía, el padre llegó a decir: «Supongamos que yo matara a la Dalia Negra. Ahora no podrían probarlo»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con sus debilidades. Es una frase hipotética, y quizá sospechaba que le escuchaban. Nunca fue acusado. Un detective no pudo confirmar que unas fotos que el hijo creía de Elizabeth fueran de ella. Hay otras teorías. Ninguna ha pasado por un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Por qué sigue sin resolverse? Una escena pisoteada, un lugar del crimen que nunca apareció, objetos limpiados con gasolina y una época sin ADN. Con los años, la propia policía admitió que apenas quedaban pruebas físicas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda ella. Para su familia era Betty. Está enterrada en Oakland, en el cementerio de Mountain View. Su madre, Phoebe, se mudó años después a esa ciudad para estar cerca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1997, su hermana menor contó al diario Los Angeles Times que la familia llevaba mucho tiempo intentando dejarlo atrás."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso este expediente no describe lo que le hicieron. Lo que merece quedar en el archivo es quién era ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Oakland hay una lápida pequeña. No dice Dalia Negra. Dice, en inglés, «hija». Debajo, su nombre y dos fechas: 29 de julio de 1924 y 15 de enero de 1947."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La Dalia Negra. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Versión de 1 cinta, unos 5 minutos, condensada de la de 3 cintas (docs/borradores_cintas/dalia-negra_3_cintas_12min.json). Ver su nota_revision para todas las discrepancias. Caso sin resolver: no se señala a nadie como culpable y la teoría de Hodel va atribuida y con sus debilidades. Se queda fuera, por secundario o discutido: el origen del apodo (farmacia de Long Beach o invención de la prensa); la hora exacta del hallazgo (entre las 10 y poco antes de las 11 según la fuente; el guion dice «a media mañana»); que los fotógrafos llegaran antes que la policía (lo dice el FBI, otras crónicas no); el trato del Examiner para enviar las huellas y los 56 minutos de la identificación; la historia familiar (el coche del padre en un puente, Florida, el piloto prometido que murió en 1945); la «semana perdida» en detalle y los supuestos avistamientos; las notas del «Vengador de la Dalia Negra» y la entrega anunciada (fechas discrepantes); la agenda y los 75 hombres; Mark Hansen, Leslie Dillon, el cirujano de la teoría de Harnisch y la teoría de 2025 (no se nombra a nadie más que a Manley, descartado, y a Hodel, nunca acusado); la lista de alumnos de Medicina; la queja del FBI sobre la prensa; el motivo del entierro en Oakland; las novelas y películas. Datos que se mantienen, con sus fuentes: hallazgo y maniquí (LA Times 1997, FBI 2006, LAist); huellas de 1943 (FBI); engaño del concurso de belleza (LA Times 1997 y 2024, LAist); Biltmore y las 18:30 del 9 de enero (LA Times 1997 y 2024); sobre del 24 de enero con gasolina (LA Times 1997 y 2024); decenas de confesiones (Wikipedia, Delacorte Review; ver la verificación); gran jurado de 1949 sin acusaciones (Wikipedia, LA Times 2003); escucha a George Hodel (Britannica, Wikipedia; cita breve traducida), su posible sospecha de que le escuchaban (Britannica) y las fotos no confirmadas (LA Times 2003); pruebas físicas casi inexistentes (CBS 2004; ver la verificación); tumba en Mountain View, madre en Oakland y declaración de la hermana (LA Times 1997); lápida «Daughter» (fotografía de Wikimedia Commons y Crime Library). «Su padre las abandonó cuando ella tenía seis años» sale de LA Times 2024; según Britannica y LA Times 1997, desapareció en 1930, cuando ella tenía cinco o seis años. No se describe el cuerpo. VERIFICACIÓN INDEPENDIENTE (9/11/2026). Cambios: 1) «No era la aspirante a actriz de la leyenda» → «Quizá no era…»: es la tesis de Harnisch (Delacorte Review 2020), pero Wikipedia («según algunas fuentes sí aspiraba a ser actriz»), el FBI Vault y LAist la presentan como aspirante a actriz, y su hermana Muriel recordaba una carta en la que hablaba de una prueba de cámara. 2) «Nueve días después llegó» → «Nueve días después del hallazgo llegó»: tras «seis días en blanco», podía entenderse como nueve días después del 9 de enero; el sobre es del 24 de enero. 3) «más de sesenta confesiones» → «decenas de confesiones»: Wikipedia da sesenta en la investigación inicial (más de 500 en total) y la Delacorte Review, «decenas»; no se pudo comprobar la cifra de Britannica (bloqueada). 4) «En 2001, el jefe de casos antiguos de la policía concluyó que apenas quedaban pruebas físicas» → «Con los años, la propia policía admitió que apenas quedaban pruebas físicas»: no se pudo confirmar el dato de 2001 (LA Times 2024 inaccesible); CBS 48 Hours (2004) recoge que la policía admite que casi todas las pruebas físicas han desaparecido. 5) Declaración de la hermana: «cada vez que alguien sacaba el tema, volvía todo el dolor» → «la familia llevaba mucho tiempo intentando dejarlo atrás»: es lo que la Delacorte Review cita de Muriel a Harnisch; la otra mitad no se pudo comprobar. 6) Pronunciación: «Jódel» → «Jodél» (la pronunciación habitual del apellido es «ho-DELL», con acento en la segunda sílaba; no se encontró fuente escrita: revisar al escuchar). Comprobado y correcto: hallazgo hacia las 10 de la mañana por Betty Bersinger con su hija de tres años y el maniquí (LAist, PBS SoCal, Delacorte); «en menos de una hora» la calle se llenó de gente (PBS SoCal: «Within the hour»); huellas de 1943 (Camp Cooke y Santa Bárbara; FBI); el padre las abandonó cuando ella tenía seis años (LA Times 2024 y Delacorte Review; Wikipedia: 1930); engaño del concurso de belleza (Wikipedia, LAist, Delacorte); Manley, el Biltmore y las 18:30 (testimonio de Manley en la investigación judicial), polígrafo; sobre con gasolina dirigido al Examiner y otros diarios (Wikipedia); gran jurado de 1949; cita de George Hodel (escucha de 1950, Wikipedia) y su posible sospecha de que le escuchaban (William J. Mann, citado en Wikipedia: «Don't say anything on the phone, it's tapped»); nunca fue acusado (la policía lo descartó tras semanas de investigación, según Wikipedia); el detective Brian Carr no pudo decir si las fotos eran de ella (LA Times 2003); «Betty» como nombre familiar (también «Beth»); tumba en Mountain View y madre trasladada a Oakland (Wikipedia); lápida «Daughter» (Crime Library). Fuentes de casos_nuevos.json: existen; se corrige el título del artículo de Goffard de 2024 y se añaden la Delacorte Review (2020) y CBS 48 Hours (2004)."
+}

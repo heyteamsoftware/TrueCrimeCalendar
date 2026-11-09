@@ -2,14 +2,14 @@ package com.heyteamsoftware.truecrimecalendar.audio
 
 import android.content.ComponentName
 import android.content.Context
+import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.util.Log
 import androidx.core.content.ContextCompat
-import androidx.media3.common.MediaItem
-import androidx.media3.common.MediaMetadata
 import androidx.media3.common.Player
 import androidx.media3.session.MediaController
+import androidx.media3.session.SessionCommand
 import androidx.media3.session.SessionToken
 import com.google.common.util.concurrent.ListenableFuture
 import java.io.IOException
@@ -18,6 +18,9 @@ import java.io.IOException
  * Lado de la actividad: conecta con [PlaybackService] mediante un MediaController, le pasa
  * las órdenes de la web y le devuelve el estado ([alCambiar]) en cada cambio y cada segundo
  * mientras suena. Todo se usa desde el hilo principal.
+ *
+ * El estado lo calcula el servicio ([EstadoAudio.actual]): es quien sabe en qué cinta está y si
+ * suena la grabadora.
  */
 class ConexionAudio(
     private val context: Context,
@@ -76,6 +79,7 @@ class ConexionAudio(
         MediaController.releaseFuture(f)
     }
 
+    /** Episodio único de la versión 2. */
     fun reproducir(id: String, titulo: String, subtitulo: String) {
         if (!existeAudio(id)) {
             // El coordinador aún no ha generado este audio: no se toca el reproductor.
@@ -83,37 +87,36 @@ class ConexionAudio(
             alCambiar(EstadoAudio.ultimoJson)
             return
         }
-        enviar { c ->
-            if (c.currentMediaItem?.mediaId == id) {
-                reanudarEn(c) // ya está cargado: continúa donde iba
-            } else {
-                c.setMediaItem(
-                    MediaItem.Builder()
-                        .setMediaId(id)
-                        .setMediaMetadata(
-                            MediaMetadata.Builder().setTitle(titulo).setSubtitle(subtitulo).build()
-                        )
-                        .build()
-                )
-                c.prepare()
-                c.play()
+        // Si ya está cargado, el servicio continúa donde iba.
+        enviar {
+            ordenar(it, Comandos.EPISODIO) {
+                putString(Comandos.ARG_ID, id)
+                putString(Comandos.ARG_TITULO, titulo)
+                putString(Comandos.ARG_SUBTITULO, subtitulo)
             }
         }
     }
 
-    fun pausar() = enviar { it.pause() }
+    /** Caso en cintas (`playCase`): el servicio valida el JSON y prepara la lista. */
+    fun reproducirCaso(json: String) = enviar { ordenar(it, Comandos.CASO) { putString(Comandos.ARG_JSON, json) } }
 
-    fun reanudar() = enviar(::reanudarEn)
+    fun reproducirCinta(n: Int) = enviar { ordenar(it, Comandos.CINTA) { putInt(Comandos.ARG_NUMERO, n) } }
+
+    fun siguienteCinta() = enviar { ordenar(it, Comandos.SIGUIENTE) }
+
+    fun anteriorCinta() = enviar { ordenar(it, Comandos.ANTERIOR) }
+
+    fun pausar() = enviar { ordenar(it, Comandos.PAUSAR) }
+
+    fun reanudar() = enviar { ordenar(it, Comandos.REANUDAR) }
 
     /** Detiene y quita la notificación (sin elementos, el servicio la retira). */
-    fun detener() = enviar {
-        it.stop()
-        it.clearMediaItems()
-    }
+    fun detener() = enviar { ordenar(it, Comandos.DETENER) }
 
     /**
      * Volumen de las cintas (0 a 1). Se guarda y, si el servicio ya está conectado, se aplica al
      * momento; si no, el servicio lo lee al crearse (así no se arranca solo por mover el volumen).
+     * Es el volumen del reproductor: vale para toda la lista (cintas y sonidos de la grabadora).
      */
     fun cambiarVolumen(volumen: Float) {
         val v = volumen.coerceIn(0f, 1f)
@@ -121,21 +124,13 @@ class ConexionAudio(
         controlador?.takeIf { it.isConnected }?.volume = v
     }
 
-    fun saltarA(ms: Long) = enviar { it.seekTo(acotar(it, ms)) }
+    /** Salto dentro de la cinta (o del episodio) en curso. */
+    fun saltarA(ms: Long) = enviar { ordenar(it, Comandos.SALTAR_A) { putLong(Comandos.ARG_MS, ms) } }
 
-    fun saltarRelativo(deltaMs: Long) = enviar { it.seekTo(acotar(it, it.currentPosition + deltaMs)) }
+    fun saltarRelativo(deltaMs: Long) = enviar { ordenar(it, Comandos.SALTAR) { putLong(Comandos.ARG_MS, deltaMs) } }
 
-    private fun reanudarEn(c: MediaController) {
-        if (c.mediaItemCount == 0) return
-        val estado = c.playbackState
-        if (estado == Player.STATE_IDLE) c.prepare()
-        if (estado == Player.STATE_ENDED) c.seekToDefaultPosition()
-        c.play()
-    }
-
-    private fun acotar(c: MediaController, ms: Long): Long {
-        val duracion = c.duration
-        return if (duracion > 0) ms.coerceIn(0L, duracion) else ms.coerceAtLeast(0L)
+    private fun ordenar(c: MediaController, comando: SessionCommand, argumentos: Bundle.() -> Unit = {}) {
+        c.sendCustomCommand(comando, Bundle().apply(argumentos))
     }
 
     private fun enviar(orden: (MediaController) -> Unit) {
@@ -150,8 +145,8 @@ class ConexionAudio(
 
     private fun publicar() {
         principal.removeCallbacks(tic)
-        val c = controlador ?: return
-        val estado = EstadoAudio.de(c)
+        if (controlador == null) return
+        val estado = EstadoAudio.actual()
         EstadoAudio.ultimoJson = estado.aJson()
         alCambiar(EstadoAudio.ultimoJson)
         if (estado.playing) principal.postDelayed(tic, INTERVALO_MS)

@@ -6,13 +6,34 @@
     <string name="podcast_artista">TRUE CRIME CALENDAR · %1$s</string>
     <string name="podcast_retroceder">Retroceder 15 segundos</string>
     <string name="podcast_avanzar">Avanzar 30 segundos</string>
+    <string name="podcast_cinta_anterior">Cinta anterior</string>
+    <string name="podcast_cinta_siguiente">Cinta siguiente</string>
+    <!-- Cinta 2 de 5 · La lista de la casa de Wardle Brook -->
+    <string name="podcast_cinta_titulo">Cinta %1$d de %2$d · %3$s</string>
+    <string name="podcast_cinta_numero">Cinta %1$d de %2$d</string>
 
     <!-- Avisos diarios -->
     <string name="canal_efemerides">Efemérides del día</string>
     <string name="canal_efemerides_descripcion">Un aviso diario cuando un caso del calendario cumple aniversario.</string>
     <string name="aviso_titulo_hoy">Hoy en TRUE CRIME CALENDAR</string>
-    <!-- Nombre · «alias» -->
-    <string name="aviso_caso">%1$s · «%2$s»</string>
+    <!-- Nombre «alias» -->
+    <string name="aviso_nombre_alias">%1$s «%2$s»</string>
+    <!-- Nació un día como hoy · Ian Brady «El asesino de los páramos» -->
+    <string name="aviso_nacimiento">Nació un día como hoy · %1$s</string>
+    <!-- Hoy hace 79 años del hallazgo · La Dalia Negra -->
+    <plurals name="aviso_hace">
+        <item quantity="one">Hoy hace %1$d año %2$s · %3$s</item>
+        <item quantity="many">Hoy hace %1$d años %2$s · %3$s</item>
+        <item quantity="other">Hoy hace %1$d años %2$s · %3$s</item>
+    </plurals>
+    <!-- Sin año conocido: Aniversario del hallazgo · La Dalia Negra -->
+    <string name="aviso_aniversario">Aniversario %1$s · %2$s</string>
+    <string name="efemeride_de_crimen">del crimen</string>
+    <string name="efemeride_de_detencion">de la detención</string>
+    <string name="efemeride_de_condena">de la condena</string>
+    <string name="efemeride_de_hallazgo">del hallazgo</string>
+    <string name="efemeride_de_desaparicion">de la desaparición</string>
+    <string name="efemeride_de_golpe">del golpe</string>
     <plurals name="aviso_varios_casos">
         <item quantity="one">%d expediente</item>
         <item quantity="many">%d expedientes</item>
