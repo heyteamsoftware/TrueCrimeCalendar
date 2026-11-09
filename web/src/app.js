@@ -48,7 +48,7 @@ const SFX=(()=>{
     let vol=0.6; try{ if(PS.playing) vol=0.35; }catch(_){}  // más bajo si suena un podcast
     const src=ctx.createBufferSource(), g=ctx.createGain();
     src.buffer=list[Math.floor(Math.random()*list.length)];
-    src.playbackRate.value=0.94+Math.random()*0.12;  // cada vez suena un poco distinto
+    src.playbackRate.value=0.9+Math.random()*0.08;   // un poco más grave y cada vez algo distinto
     g.gain.value=vol; src.connect(g).connect(ctx.destination); src.start();
   }
   return {play, get on(){ return on; }, set on(v){ on=!!v; try{ localStorage.setItem("tcc_sfx",on?"1":"0"); }catch(_){} }};
@@ -1067,6 +1067,12 @@ document.addEventListener("visibilitychange",()=>{
   setTimeout(()=>{ if(!pendingEnable) return; pendingEnable=null; readNotif(); if(!notif.enabled){ permDenied=true; applyNotif(notif); } },400);
 });
 function readNotif(){ if(NATIVE) applyNotif(nat("getNotificationSettings")); }
+/* Casos que cumplen aniversario un día dado (29 de febrero → 28 en años no bisiestos) */
+function casesOn(d){ return D.filter(e=>e.m===d.getMonth()+1 && dayIn(e,d.getFullYear())===d.getDate()); }
+function nextCaseDay(){
+  for(let i=1;i<=366;i++){ const d=new Date(today); d.setDate(d.getDate()+i); const l=casesOn(d); if(l.length) return {d,l}; }
+  return null;
+}
 
 /* Volumen de las cintas (0-1): en la app lo guarda Android; en el navegador, localStorage. */
 let tapeVol=1;
@@ -1122,7 +1128,20 @@ if(NATIVE){
   $("nNo").onchange=()=>{ if(!$("nNo").checked) return; pendingEnable=null; permDenied=false; nat("setNotificationsEnabled",false); setTimeout(readNotif,250); };
   $("nTime").onchange=()=>{ const m=/^(\d{1,2}):(\d{2})/.exec($("nTime").value); if(m){ nat("setNotificationTime",+m[1],+m[2]); setTimeout(readNotif,250); } };
   $("nAppSet").onclick=()=>nat("openAppSettings");
-  $("nTest").onclick=()=>{ nat("testNotification"); const s=$("nSent"); s.hidden=false; clearTimeout(s._t); s._t=setTimeout(()=>{ s.hidden=true; },2600); };
+  // Solo hay notificación si hoy hay algún caso: los demás días se explica aquí, sin enviar nada.
+  $("nTest").onclick=()=>{
+    const s=$("nSent"), m=$("nTestMsg");
+    if(casesOn(today).length){
+      m.hidden=true; nat("testNotification");
+      s.hidden=false; clearTimeout(s._t); s._t=setTimeout(()=>{ s.hidden=true; },2600);
+      return;
+    }
+    s.hidden=true;
+    const nx=nextCaseDay();
+    m.textContent="Hoy no hay ningún caso en el archivo, así que no se envía aviso."+
+      (nx?` El próximo será el ${nx.d.getDate()} de ${MESES[nx.d.getMonth()].toLowerCase()}: ${nx.l.map(e=>e.n).join(", ")}.`:"");
+    m.hidden=false;
+  };
 } else {
   $("secAvisos").remove();
 }

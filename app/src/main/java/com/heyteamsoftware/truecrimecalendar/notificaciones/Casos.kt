@@ -18,10 +18,6 @@ data class Caso(val id: String, val nombre: String, val alias: String, val mes: 
         val mesDelAnio = YearMonth.of(anio, mes)
         return mesDelAnio.atDay(dia.coerceAtMost(mesDelAnio.lengthOfMonth()))
     }
-
-    /** Próximo aniversario a partir de [desde] (incluido). */
-    fun proximaFecha(desde: LocalDate): LocalDate =
-        fechaEn(desde.year).let { if (it.isBefore(desde)) fechaEn(desde.year + 1) else it }
 }
 
 /** Lista de casos guardada en SharedPreferences para los avisos diarios. */
@@ -65,13 +61,6 @@ internal object AlmacenCasos {
     /** Casos cuyo aniversario es [dia]. */
     fun delDia(casos: List<Caso>, dia: LocalDate): List<Caso> =
         casos.filter { it.fechaEn(dia.year) == dia }
-
-    /** Primera fecha posterior a [hoy] con algún aniversario, y sus casos. */
-    fun proximos(casos: List<Caso>, hoy: LocalDate): Pair<LocalDate, List<Caso>>? {
-        val manana = hoy.plusDays(1)
-        val fecha = casos.minOfOrNull { it.proximaFecha(manana) } ?: return null
-        return fecha to casos.filter { it.proximaFecha(manana) == fecha }
-    }
 
     private fun leer(array: JSONArray): List<Caso> = buildList {
         for (i in 0 until array.length()) {

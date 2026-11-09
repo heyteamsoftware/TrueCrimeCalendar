@@ -12,8 +12,6 @@ import androidx.core.content.ContextCompat
 import com.heyteamsoftware.truecrimecalendar.AbrirApp
 import com.heyteamsoftware.truecrimecalendar.R
 import java.time.LocalDate
-import java.time.format.DateTimeFormatter
-import java.util.Locale
 
 /** Canal «Efemérides del día» y notificaciones de los aniversarios. */
 internal object Notificador {
@@ -21,7 +19,6 @@ internal object Notificador {
     const val CANAL = "efemerides"
     private const val ID_AVISO = 1
 
-    private val FORMATO_FECHA = DateTimeFormatter.ofPattern("d 'de' MMMM", Locale.forLanguageTag("es-ES"))
 
     fun crearCanal(context: Context) {
         val canal = NotificationChannelCompat.Builder(CANAL, NotificationManagerCompat.IMPORTANCE_DEFAULT)
@@ -67,27 +64,11 @@ internal object Notificador {
         return true
     }
 
-    /** Prueba (testNotification): la de hoy o, si hoy no hay, la de la próxima efeméride. */
-    fun probar(context: Context) {
-        val hoy = LocalDate.now()
-        if (avisarDelDia(context, hoy)) return
-        val (fecha, casos) = AlmacenCasos.proximos(AlmacenCasos.cargar(context), hoy) ?: return
-        val titulo = context.getString(R.string.aviso_titulo_proxima)
-        val cuando = FORMATO_FECHA.format(fecha)
-        publicar(
-            context,
-            if (casos.size == 1) {
-                val caso = casos.single()
-                val texto = context.getString(R.string.aviso_proxima, cuando, lineaDe(context, caso))
-                base(context, titulo, texto, abrirCaso(context, caso.id))
-                    .setStyle(NotificationCompat.BigTextStyle().bigText(texto))
-            } else {
-                val texto = context.getString(R.string.aviso_proxima, cuando, nombres(casos))
-                base(context, titulo, texto, AbrirApp.pendiente(context, AbrirApp.PETICION_AVISO, AbrirApp.intentApp(context)))
-                    .setStyle(bandeja(context, texto, casos))
-            },
-        )
-    }
+    /**
+     * Prueba (testNotification): igual que el aviso diario, solo se envía si hoy hay algún caso.
+     * Los días sin caso la web lo explica en la ficha de ajustes y no se notifica nada.
+     */
+    fun probar(context: Context): Boolean = avisarDelDia(context, LocalDate.now())
 
     private fun base(context: Context, titulo: String, texto: String, alTocar: PendingIntent) =
         NotificationCompat.Builder(context, CANAL)

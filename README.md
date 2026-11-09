@@ -5,10 +5,11 @@ App Android (`com.heyteamsoftware.truecrimecalendar`) con un calendario divulgat
 ## Qué incluye
 
 - **Cuaderno de investigación**: la interfaz es una libreta de detective de los años 60 con pestañas de meses, fichas mecanografiadas, sellos, fotos con cinta e hilo rojo entre casos vinculados. Tiene animaciones (apertura del cuaderno, paso de página, carpeta que se abre) que se desactivan si el sistema pide reducir el movimiento.
-- **Sonidos del cuaderno**: abrir y cerrar carpeta y pasar página (sintetizados con `tools/generar_sonidos.py`, sin muestras externas). Se desactivan desde la campana.
+- **Sonidos del cuaderno**: abrir y cerrar carpeta y pasar página, con tono grave de papel (sintetizados con `tools/generar_sonidos.py`, sin muestras externas). Se desactivan en la ficha de ajustes.
 - **Podcast de cada caso**: narrado por Ximena con Álvaro como copresentador (voces neuronales de Microsoft vía `edge-tts`). Suena con la pantalla apagada y se controla desde la notificación, la pantalla de bloqueo o los auriculares.
 - **Versión para leer**: el guion completo, con el párrafo que suena resaltado. Al tocar un párrafo, el audio salta a ese punto.
-- **Avisos diarios**: una notificación los días en que hay un caso (por defecto a las 9:00, configurable desde la campana de la cabecera).
+- **Avisos diarios**: una notificación solo los días en que hay un caso. Se activan en la ficha de ajustes (engranaje de la cabecera), donde Android pide el permiso; la hora es configurable (9:00 por defecto).
+- **Ficha de ajustes**: sonidos del cuaderno, volumen de las cintas y avisos diarios.
 - **Funciona sin conexión**: solo necesitan internet las fotos de Wikipedia/Wikimedia Commons y la capa «Detalle» del mapa.
 
 ## Estructura

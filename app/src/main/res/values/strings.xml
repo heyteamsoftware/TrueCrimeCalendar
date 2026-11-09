@@ -11,7 +11,6 @@
     <string name="canal_efemerides">Efemérides del día</string>
     <string name="canal_efemerides_descripcion">Un aviso diario cuando un caso del calendario cumple aniversario.</string>
     <string name="aviso_titulo_hoy">Hoy en TRUE CRIME CALENDAR</string>
-    <string name="aviso_titulo_proxima">TRUE CRIME CALENDAR</string>
     <!-- Nombre · «alias» -->
     <string name="aviso_caso">%1$s · «%2$s»</string>
     <plurals name="aviso_varios_casos">
@@ -19,6 +18,4 @@
         <item quantity="many">%d expedientes</item>
         <item quantity="other">%d expedientes</item>
     </plurals>
-    <!-- Notificación de prueba sin casos hoy: «Próxima efeméride: 12 de noviembre · Nombre · «alias»» -->
-    <string name="aviso_proxima">Próxima efeméride: %1$s · %2$s</string>
 </resources>
