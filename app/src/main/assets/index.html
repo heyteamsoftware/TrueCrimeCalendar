@@ -771,30 +771,33 @@ body.v-res #resView{display:block}
 .mtab{flex:1 1 0;min-height:0;position:relative;margin:1px 0;width:100%;background:var(--c) var(--grain);color:#2b251d;font:700 10.5px/1 var(--type);letter-spacing:1.2px;
   display:flex;align-items:center;justify-content:center;border-radius:0 5px 5px 0;box-shadow:inset 3px 0 4px -2px rgba(0,0,0,.35),1px 1px 0 rgba(0,0,0,.25);transform:translateX(-3px);transition:transform .2s var(--ease-paper)}
 .mtab span{writing-mode:vertical-rl;text-orientation:mixed;transform:rotate(180deg)}
-.mtab:nth-child(4n+1){--c:#e8d6a0}.mtab:nth-child(4n+2){--c:#e3b59d}.mtab:nth-child(4n+3){--c:#c4d3ad}.mtab:nth-child(4n){--c:#b8c9d7}
+/* Un color por mes: cartulina de la pestaña (--c / --hoja) y tinta con que se imprime su hoja */
+.mtab[data-m="1"]{--c:#b9cde0}.mtab[data-m="2"]{--c:#e6bcc6}.mtab[data-m="3"]{--c:#c6d9a8}.mtab[data-m="4"]{--c:#d3c4e6}.mtab[data-m="5"]{--c:#f0d98c}.mtab[data-m="6"]{--c:#a9d8cf}.mtab[data-m="7"]{--c:#f2b08f}.mtab[data-m="8"]{--c:#f1c27a}.mtab[data-m="9"]{--c:#d6cf9a}.mtab[data-m="10"]{--c:#d9a3a3}.mtab[data-m="11"]{--c:#d2b89a}.mtab[data-m="12"]{--c:#a9bfb6}
+.cal[data-mes="1"]{--hoja:#b9cde0;--tinta:#2d4f74;--tinta-rgb:45,79,116}.cal[data-mes="2"]{--hoja:#e6bcc6;--tinta:#8a3350;--tinta-rgb:138,51,80}.cal[data-mes="3"]{--hoja:#c6d9a8;--tinta:#3f6328;--tinta-rgb:63,99,40}.cal[data-mes="4"]{--hoja:#d3c4e6;--tinta:#5a4386;--tinta-rgb:90,67,134}.cal[data-mes="5"]{--hoja:#f0d98c;--tinta:#7a5c0c;--tinta-rgb:122,92,12}.cal[data-mes="6"]{--hoja:#a9d8cf;--tinta:#1f6259;--tinta-rgb:31,98,89}.cal[data-mes="7"]{--hoja:#f2b08f;--tinta:#9a3f1b;--tinta-rgb:154,63,27}.cal[data-mes="8"]{--hoja:#f1c27a;--tinta:#8a4f0a;--tinta-rgb:138,79,10}.cal[data-mes="9"]{--hoja:#d6cf9a;--tinta:#5f5a1c;--tinta-rgb:95,90,28}.cal[data-mes="10"]{--hoja:#d9a3a3;--tinta:#7d2630;--tinta-rgb:125,38,48}.cal[data-mes="11"]{--hoja:#d2b89a;--tinta:#5c3d22;--tinta-rgb:92,61,34}.cal[data-mes="12"]{--hoja:#a9bfb6;--tinta:#26493f;--tinta-rgb:38,73,63}
+.cal-title .mn{color:var(--tinta)}
 .mtab[aria-current=true]{transform:translateX(-7px);color:var(--red);box-shadow:inset 3px 0 4px -2px rgba(0,0,0,.2),2px 2px 0 rgba(0,0,0,.3)}
 .mtab[aria-current=true]::before{content:"";position:absolute;left:4px;top:50%;width:5px;height:5px;margin-top:-2.5px;border-radius:50%;background:var(--red);opacity:.8}
 
 /* ---------- Hoja de agenda (calendario) ---------- */
 #calStage{position:relative;perspective:1400px;perspective-origin:50% 0;margin:-8px -2px 0}
-.cal{position:relative;background:#f5efdf var(--grain);padding:12px 8px 12px;box-shadow:0 1px 0 rgba(0,0,0,.08),0 4px 8px -4px rgba(60,40,10,.5);color:var(--green);
+.cal{--tinta:var(--green);--tinta-rgb:47,90,82;--hoja:#c4d3ad;position:relative;background:#f5efdf var(--grain);border-top:6px solid var(--hoja);padding:12px 8px 12px;box-shadow:0 1px 0 rgba(0,0,0,.08),0 4px 8px -4px rgba(60,40,10,.5);color:var(--tinta);
   transform-origin:50% 0}
 .cal-bar{display:flex;align-items:center;gap:2px;margin:6px 0 8px}
 .cal-title{flex:1;min-width:0;text-align:center;line-height:1}
 .cal-title .mn{display:inline-block;font:400 29px/1 var(--stamp);letter-spacing:3px;text-transform:uppercase;color:#262119}
 .cal-title .yr{display:inline-block;margin-left:6px;font:24px/1 var(--hand);color:var(--blue);transform:rotate(-4deg) translateY(-2px)}
-.cal-title small{display:block;margin-top:6px;font:700 11px var(--type);letter-spacing:1.5px;color:var(--green);text-transform:uppercase}
+.cal-title small{display:block;margin-top:6px;font:700 11px var(--type);letter-spacing:1.5px;color:var(--tinta);text-transform:uppercase}
 .nav{width:44px;height:44px;display:grid;place-items:center;color:#2b251d;flex:none}
 .nav svg{width:30px;height:22px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
 .wk,.days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr))}
-.wk div{text-align:center;font:700 10px var(--type);letter-spacing:1px;padding:3px 0 4px;border-bottom:1.5px solid rgba(47,90,82,.7);color:var(--green)}
+.wk div{text-align:center;font:700 10px var(--type);letter-spacing:1px;padding:3px 0 4px;border-bottom:1.5px solid rgba(var(--tinta-rgb),.7);color:var(--tinta)}
 .wk div:nth-child(7){color:#b23a2f}
-.days{border-left:1px solid rgba(47,90,82,.38)}
-.cell{position:relative;min-height:54px;border-right:1px solid rgba(47,90,82,.38);border-bottom:1px solid rgba(47,90,82,.38);padding:3px 2px 2px 4px;text-align:left;display:flex;flex-direction:column;align-items:stretch;color:var(--green)}
+.days{border-left:1px solid rgba(var(--tinta-rgb),.38)}
+.cell{position:relative;min-height:54px;border-right:1px solid rgba(var(--tinta-rgb),.38);border-bottom:1px solid rgba(var(--tinta-rgb),.38);padding:3px 2px 2px 4px;text-align:left;display:flex;flex-direction:column;align-items:stretch;color:var(--green)}
 .cell .num{position:relative;align-self:flex-start;font:700 13.5px/1 var(--type);padding:4px 3px;color:#2d4f48}
 .cell.sun .num{color:#b23a2f}
 .cell.out .num{opacity:.38}
-.cell.out{background:repeating-linear-gradient(135deg,transparent 0 5px,rgba(47,90,82,.07) 5px 6px)}
+.cell.out{background:repeating-linear-gradient(135deg,transparent 0 5px,rgba(var(--tinta-rgb),.07) 5px 6px)}
 .cell.has{cursor:pointer}
 .cell.has .num{color:#2a2017}
 .ring{position:absolute;left:-7px;top:-6px;width:36px;height:30px;overflow:visible;pointer-events:none}
@@ -1181,7 +1184,7 @@ body.has-mini{--mini-h:64px}
   .names{display:flex;flex-direction:column;gap:0;margin-top:2px;padding-left:2px}
   .names span{font:15px/1.1 var(--hand);color:var(--red);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .names span.l{color:var(--blue)}
-  .names em{font:700 10px var(--type);color:var(--green);font-style:normal}
+  .names em{font:700 10px var(--type);color:var(--tinta);font-style:normal}
   .cards,.list-head,.slip,.legend,.foot{margin-left:44px}
   .cards{padding-left:0}
   .clipping{margin-left:40px}
@@ -1261,7 +1264,7 @@ body.has-mini{--mini-h:64px}
     <input id="q" type="search" placeholder="nombre, alias, país, caso…" autocomplete="off" enterkeyhint="search">
     <button class="clr" id="clr" aria-label="Borrar la búsqueda"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
   </div>
-  <div class="tags" id="filters" role="group" aria-label="Filtros"></div>
+  <div class="tags" id="filters" role="group" aria-label="Grupos" hidden></div>
   <div class="coil"></div>
 </header>
 
@@ -2010,7 +2013,7 @@ function matches(e){
   return true;
 }
 
-/* ---------- Filtros (pestañas de cartulina) ---------- */
+/* ---------- Grupos (pestañas de cartulina): solo se ven con la búsqueda abierta ---------- */
 $("filters").innerHTML=[["all","Todos"],["links","Con vínculos"],...Object.entries(GROUPS)]
   .map(([k,l])=>`<button class="tag" data-f="${k}" aria-pressed="${k==="all"}">${esc(l)}</button>`).join("");
 $("filters").addEventListener("click",ev=>{
@@ -2064,7 +2067,8 @@ function renderCal(dir){
   const canFlip = dir && !reduced() && cal.offsetParent!==null;
   if(dir && cal.offsetParent!==null) SFX.play("page");
   stage.querySelectorAll(".flip").forEach(n=>n.remove());
-  const before = canFlip ? stripIds(cal.cloneNode(true)) : null;
+  const before = canFlip ? stripIds(cal.cloneNode(true)) : null;  // la hoja que se va conserva su color
+  cal.dataset.mes = vm;                                             // cada mes, su tinta y su cartulina
 
   const first=new Date(vy,vm-1,1), lead=(first.getDay()+6)%7, dim=new Date(vy,vm,0).getDate();
   const prevDim=new Date(vy,vm-1,0).getDate();
@@ -2150,7 +2154,8 @@ function renderRes(){
 }
 $("page").addEventListener("click",ev=>{ const b=ev.target.closest(".card"); if(b) openP(b.dataset.id); });
 function renderAll(){
-  const searching = !!query;
+  // Con la búsqueda abierta, elegir un grupo también muestra la lista de sus casos.
+  const searching = !!query || (!$("searchWrap").hidden && filter!=="all");
   if(!document.body.classList.contains("v-map")) document.body.classList.toggle("v-res",searching);
   renderCal(0); if(searching) renderRes();
   if(world) drawWorld();
@@ -2163,11 +2168,13 @@ $("q").addEventListener("input",ev=>{
 $("q").addEventListener("keydown",ev=>{ if(ev.key==="Enter") ev.target.blur(); });
 function clearSearch(focus){ $("q").value=""; $("searchWrap").classList.remove("has"); if(query){ query=""; renderAll(); } if(focus) $("q").focus(); }
 $("clr").onclick=()=>clearSearch(true);
+function setFilter(f){ filter=f; [...$("filters").children].forEach(c=>c.setAttribute("aria-pressed",c.dataset.f===f)); }
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
-  if(!open && query){ clearSearch(false); }
-  w.hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
-  if(open) $("q").focus();
+  w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
+  if(open){ $("q").focus(); return; }
+  // Al cerrar la búsqueda se quitan el texto y el grupo: el calendario nunca queda filtrado a escondidas.
+  $("q").value=""; $("searchWrap").classList.remove("has"); query=""; setFilter("all"); renderAll();
 };
 
 /* ---------- Mapas ---------- */
@@ -3063,8 +3070,8 @@ function openToday(){
   if(settingsOpen) closeSettings();
   if(current) closeP();
   if(query){ clearSearch(false); }
-  if(!$("searchWrap").hidden){ $("searchWrap").hidden=true; $("tSearch").setAttribute("aria-expanded","false"); }
-  if(filter!=="all"){ filter="all"; [...$("filters").children].forEach(c=>c.setAttribute("aria-pressed",c.dataset.f==="all")); if(world) drawWorld(); }
+  if(!$("searchWrap").hidden){ $("searchWrap").hidden=true; $("filters").hidden=true; $("tSearch").setAttribute("aria-expanded","false"); }
+  if(filter!=="all"){ setFilter("all"); if(world) drawWorld(); }
   showView("cal");
   const dir=Math.sign((today.getFullYear()*12+today.getMonth()+1)-(vy*12+vm));
   vy=today.getFullYear(); vm=today.getMonth()+1; selDay=today.getDate();

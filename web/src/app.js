@@ -115,7 +115,7 @@ function matches(e){
   return true;
 }
 
-/* ---------- Filtros (pestañas de cartulina) ---------- */
+/* ---------- Grupos (pestañas de cartulina): solo se ven con la búsqueda abierta ---------- */
 $("filters").innerHTML=[["all","Todos"],["links","Con vínculos"],...Object.entries(GROUPS)]
   .map(([k,l])=>`<button class="tag" data-f="${k}" aria-pressed="${k==="all"}">${esc(l)}</button>`).join("");
 $("filters").addEventListener("click",ev=>{
@@ -169,7 +169,8 @@ function renderCal(dir){
   const canFlip = dir && !reduced() && cal.offsetParent!==null;
   if(dir && cal.offsetParent!==null) SFX.play("page");
   stage.querySelectorAll(".flip").forEach(n=>n.remove());
-  const before = canFlip ? stripIds(cal.cloneNode(true)) : null;
+  const before = canFlip ? stripIds(cal.cloneNode(true)) : null;  // la hoja que se va conserva su color
+  cal.dataset.mes = vm;                                             // cada mes, su tinta y su cartulina
 
   const first=new Date(vy,vm-1,1), lead=(first.getDay()+6)%7, dim=new Date(vy,vm,0).getDate();
   const prevDim=new Date(vy,vm-1,0).getDate();
@@ -255,7 +256,8 @@ function renderRes(){
 }
 $("page").addEventListener("click",ev=>{ const b=ev.target.closest(".card"); if(b) openP(b.dataset.id); });
 function renderAll(){
-  const searching = !!query;
+  // Con la búsqueda abierta, elegir un grupo también muestra la lista de sus casos.
+  const searching = !!query || (!$("searchWrap").hidden && filter!=="all");
   if(!document.body.classList.contains("v-map")) document.body.classList.toggle("v-res",searching);
   renderCal(0); if(searching) renderRes();
   if(world) drawWorld();
@@ -268,11 +270,13 @@ $("q").addEventListener("input",ev=>{
 $("q").addEventListener("keydown",ev=>{ if(ev.key==="Enter") ev.target.blur(); });
 function clearSearch(focus){ $("q").value=""; $("searchWrap").classList.remove("has"); if(query){ query=""; renderAll(); } if(focus) $("q").focus(); }
 $("clr").onclick=()=>clearSearch(true);
+function setFilter(f){ filter=f; [...$("filters").children].forEach(c=>c.setAttribute("aria-pressed",c.dataset.f===f)); }
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
-  if(!open && query){ clearSearch(false); }
-  w.hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
-  if(open) $("q").focus();
+  w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
+  if(open){ $("q").focus(); return; }
+  // Al cerrar la búsqueda se quitan el texto y el grupo: el calendario nunca queda filtrado a escondidas.
+  $("q").value=""; $("searchWrap").classList.remove("has"); query=""; setFilter("all"); renderAll();
 };
 
 /* ---------- Mapas ---------- */
@@ -1168,8 +1172,8 @@ function openToday(){
   if(settingsOpen) closeSettings();
   if(current) closeP();
   if(query){ clearSearch(false); }
-  if(!$("searchWrap").hidden){ $("searchWrap").hidden=true; $("tSearch").setAttribute("aria-expanded","false"); }
-  if(filter!=="all"){ filter="all"; [...$("filters").children].forEach(c=>c.setAttribute("aria-pressed",c.dataset.f==="all")); if(world) drawWorld(); }
+  if(!$("searchWrap").hidden){ $("searchWrap").hidden=true; $("filters").hidden=true; $("tSearch").setAttribute("aria-expanded","false"); }
+  if(filter!=="all"){ setFilter("all"); if(world) drawWorld(); }
   showView("cal");
   const dir=Math.sign((today.getFullYear()*12+today.getMonth()+1)-(vy*12+vm));
   vy=today.getFullYear(); vm=today.getMonth()+1; selDay=today.getDate();

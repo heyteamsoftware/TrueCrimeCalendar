@@ -11,6 +11,7 @@ Sin ids procesa todos los guiones. Solo regenera un audio si su guion es más nu
 Con --watch sigue vigilando la carpeta de guiones hasta que todos los casos tengan audio.
 """
 import argparse, hashlib, json, os, subprocess, sys, tempfile, time, wave
+import numpy as np
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
@@ -23,25 +24,99 @@ LOCUCION_DEFECTO = os.environ.get("LOCUCION_XIMENA", "")
 PAUSA = 0.7          # segundos entre bloques
 TOTAL_CASOS = 100
 
-# Sonido de grabación en cinta antigua: banda estrecha, algo de cuerpo en medios,
-# compresión y saturación suaves, «wow & flutter» (la cinta oscila un poco) y siseo de fondo.
-# No cambia la duración, así que los tiempos de los bloques siguen valiendo.
+# Sonido de casete viejo. No cambia la duración: los tiempos de los bloques siguen valiendo.
+#  1. Banda limitada: paso alto a 180 Hz (24 dB/oct) y paso bajo a ~6,5 kHz (36 dB/oct),
+#     con empuje de medios entre 1 y 2,5 kHz para que la voz suene «encajonada».
+#  2. Saturación magnética: compresión y más ganancia de entrada contra un recorte suave,
+#     de modo que los picos rasgan un poco sin perder inteligibilidad.
+#  3. Wow & flutter (wow_flutter()): dos oscilaciones lentas desiguales (la cinta estirada
+#     «marea» la voz) y una rápida y sutil (vibración del motor).
+#  4. Siseo de cinta continuo con leves variaciones de nivel (siseo()) y cortes («dropouts»)
+#     de cinta arrugada o sucia (cortes()).
+# ffmpeg solo hace los filtros 1 y 2. El resto, y la nivelación de volumen, van en numpy:
+# vibrato, loudnorm y amix de ffmpeg devolvían a veces la señal entera en NaN (audio mudo).
 CINTA = (
-    "[0:a]highpass=f=120,lowpass=f=5800,"
-    "equalizer=f=320:t=q:w=1:g=1.5,equalizer=f=1900:t=q:w=1.2:g=2.5,"
-    "acompressor=threshold=0.1:ratio=3:attack=8:release=140:makeup=2,"
-    "asoftclip=type=tanh:threshold=0.65,"
-    "vibrato=f=0.6:d=0.12,vibrato=f=6.3:d=0.012[voz];"
-    "anoisesrc=r=48000:c=pink:a=0.006:seed=7,highpass=f=1200,lowpass=f=8500[siseo];"
-    "[voz][siseo]amix=inputs=2:duration=first:normalize=0,"
-    "loudnorm=I=-16:TP=-1.5:LRA=11"
+    "highpass=f=180,highpass=f=180,"
+    "lowpass=f=6500,lowpass=f=6500,lowpass=f=7000,"
+    "equalizer=f=1600:t=o:w=1.3:g=4,"
+    "acompressor=threshold=0.125:ratio=3:attack=6:release=120:makeup=2,"
+    "volume=4dB,asoftclip=type=tanh:threshold=0.55"
 )
+VOZ_RMS = 0.168     # nivel final de la voz (unos -16,7 dBFS de media, como antes con loudnorm)
+SISEO_RMS = 0.001   # nivel del siseo de cinta (unos -60 dBFS): muy bajito, se nota en las pausas
+
+
+def cortes(wav_in, wav_out, semilla):
+    """Dropouts: bajadas breves y aleatorias del volumen de la voz (cinta arrugada o sucia).
+
+    Cada 7-22 s, un hueco de 40-160 ms que baja la voz entre 4 y 12 dB, con bordes suaves.
+    La semilla sale del id del caso: el mismo audio tiene siempre los mismos cortes.
+    """
+    with wave.open(wav_in) as w:
+        sr, n = w.getframerate(), w.getnframes()
+        x = np.frombuffer(w.readframes(n), np.int16).astype(np.float32)
+    rng = np.random.default_rng(semilla)
+    g = np.ones(n, np.float32)
+    t = rng.uniform(4, 10)
+    while t < n / sr - 2:
+        dur = rng.uniform(0.04, 0.16)
+        fondo = rng.uniform(0.25, 0.63)           # ganancia en lo más hondo del corte
+        borde = int(0.012 * sr)
+        a, b = int(t * sr) - borde, int((t + dur) * sr) + borde
+        forma = np.hanning(b - a) ** 0.5           # fondo plano y bordes suaves
+        g[a:b] = np.minimum(g[a:b], 1 - (1 - fondo) * forma)
+        t += rng.uniform(7, 22)
+    y = np.clip(x * g, -32768, 32767).astype(np.int16)
+    with wave.open(wav_out, "wb") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
+        w.writeframes(y.tobytes())
 lock = Lock()
 
 
 def log(*a):
     with lock:
         print(time.strftime("%H:%M:%S"), *a, flush=True)
+
+
+def wow_flutter(x, sr=48000):
+    """Variación lenta y rápida de la velocidad de la cinta (línea de retardo variable).
+
+    Desviaciones de tono aproximadas: wow 0,3 % a 0,55 Hz y 0,2 % a 0,21 Hz; flutter 0,1 % a 7,5 Hz.
+    """
+    t = np.arange(len(x)) / sr
+    retardo = (0.0026                                             # retardo base (s)
+               + 0.0009 * np.sin(2 * np.pi * 0.55 * t)
+               + 0.0015 * np.sin(2 * np.pi * 0.21 * t + 1.3)
+               + 0.00002 * np.sin(2 * np.pi * 7.5 * t + 0.4))
+    pos = np.arange(len(x)) - retardo * sr
+    return np.interp(pos, np.arange(len(x)), x, left=0.0).astype(np.float32)
+
+
+def nivelar(x):
+    """Lleva la voz a VOZ_RMS (medido solo donde se habla) y suaviza los picos por encima de -2 dB."""
+    v = np.abs(x)
+    trozos = v[: len(v) // 4800 * 4800].reshape(-1, 4800)          # ventanas de 100 ms
+    rms = np.sqrt((trozos ** 2).mean(axis=1))
+    activo = rms[rms > rms.max() * 0.1]
+    x = x * (VOZ_RMS / (np.sqrt((activo ** 2).mean()) + 1e-9))
+    techo = 0.79                                                   # -2 dBFS
+    alto = np.abs(x) > techo * 0.8
+    x[alto] = np.sign(x[alto]) * (techo * 0.8 + techo * 0.2 * np.tanh((np.abs(x[alto]) - techo * 0.8) / (techo * 0.2)))
+    return x.astype(np.float32)
+
+
+def siseo(n, semilla):
+    """Siseo de casete: ruido rosa entre ~1 y 7,5 kHz, con una leve ondulación de nivel."""
+    rng = np.random.default_rng(semilla ^ 0x5EED)
+    X = np.fft.rfft(rng.standard_normal(n).astype(np.float32))
+    f = np.fft.rfftfreq(n, 1 / 48000)
+    forma = 1 / np.sqrt(np.maximum(f, 1.0))                       # rosa
+    forma *= np.clip((f - 800) / 400, 0, 1) ** 2 * np.clip((8500 - f) / 2000, 0, 1) ** 2
+    x = np.fft.irfft(X * forma, n).astype(np.float32)
+    del X, f, forma
+    x *= SISEO_RMS / (np.sqrt(np.mean(x ** 2)) + 1e-12)
+    x *= (0.8 + 0.2 * np.sin(2 * np.pi * 0.13 * np.arange(n) / 48000)).astype(np.float32)
+    return x
 
 
 def leer_indice():
@@ -111,11 +186,28 @@ def generar(cid, locucion):
 
     ogg = os.path.join(AUDIO, cid + ".ogg")
     tmp = ogg + ".tmp.ogg"
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", completa,
-                    "-filter_complex", CINTA, "-ar", "48000", "-ac", "1",
+    semilla = int(hashlib.sha1(cid.encode("utf-8")).hexdigest()[:8], 16)
+    con_cortes = os.path.join(carpeta, "locucion_cortes.wav")
+    cortes(completa, con_cortes, semilla)
+    voz_raw = os.path.join(carpeta, "voz.f32")
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", con_cortes, "-af", CINTA,
+                    "-ac", "1", "-ar", "48000", "-f", "f32le", voz_raw], check=True)
+    voz = np.fromfile(voz_raw, np.float32)
+    if not np.isfinite(voz).all() or np.sqrt(np.mean(voz ** 2)) < 0.005:
+        raise RuntimeError("los filtros de cinta han devuelto un audio roto (NaN o silencio)")
+    voz = nivelar(wow_flutter(voz))
+    mezcla = np.clip(voz + siseo(len(voz), semilla), -1, 1)
+    if not np.isfinite(mezcla).all() or np.sqrt(np.mean(mezcla ** 2)) < 0.03:
+        raise RuntimeError("el audio final ha salido roto (NaN o silencio)")
+    final_raw = os.path.join(carpeta, "final.f32")
+    mezcla.astype(np.float32).tofile(final_raw)
+    del voz, mezcla
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "f32le", "-ar", "48000", "-ac", "1", "-i", final_raw,
                     "-c:a", "libopus", "-b:a", "24k", "-application", "audio",
                     "-metadata", f"title={g.get('titulo', cid)}", "-metadata", "artist=TRUE CRIME CALENDAR",
                     tmp], check=True)
+    for f in (voz_raw, final_raw):
+        os.remove(f)
     os.replace(tmp, ogg)
     with lock:
         idx = leer_indice()
@@ -160,6 +252,8 @@ def ronda(ids, locucion, paralelo, fallos, forzar=False):
             except Exception as e:  # se reintenta en la siguiente ronda
                 fallos[c] = fallos.get(c, 0) + 1
                 log(f"✗ {c} (intento {fallos[c]}): {e}")
+                with lock:  # que no quede como hecho un audio roto
+                    idx = leer_indice(); idx.pop(c, None); guardar_indice(idx)
     return len(lista)
 
 
@@ -181,6 +275,8 @@ def main():
         hechos = ronda(set(a.ids), a.locucion, a.paralelo, fallos, a.forzar)
         a.forzar = False  # solo en la primera ronda
         if not a.watch:
+            if hechos and any(v < 3 for v in fallos.values()):
+                continue  # repite los que han fallado (hasta 3 intentos)
             break
         idx = leer_indice()
         objetivo = len(a.ids) if a.ids else TOTAL_CASOS
