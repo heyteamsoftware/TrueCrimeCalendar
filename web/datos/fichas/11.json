@@ -251,7 +251,7 @@
     "per": "1987",
     "st": "Cerrado. La Audiencia de Málaga juzgó a la banda en 1991: el jefe, Jean-Louis Camerini, fue condenado a 21 años y los demás, a penas de entre 10 y 16 años.",
     "c": "La mañana del lunes 9 de noviembre de 1987, cuatro encapuchados armados cerraron el paso al coche que llevaba al colegio a Melodie Nakachian, de cinco años, hija de la cantante Kimera y del financiero libanés Raymond Nakachian, a la salida de su urbanización de Estepona (Málaga), y se la llevaron. La banda, casi toda de delincuentes franceses, llegó a pedir 13 millones de dólares y negoció a través de la prensa. Tras once días de vigilancias, los GEO asaltaron de madrugada, el 20 de noviembre, un apartamento de Torreguadiaro (San Roque, Cádiz) y liberaron a la niña ilesa. El jefe, Jean-Louis Camerini, escapó, pero fue detenido después y condenado.",
-    "mo": "Secuestro exprés en la carretera por una banda armada que había preparado durante meses pisos, coches e identidades falsas en la Costa del Sol para pedir un rescate millonario.",
+    "mo": "Secuestro en la carretera por una banda armada que había preparado durante meses pisos, coches e identidades falsas en la Costa del Sol para pedir un rescate millonario.",
     "loc": [
       [
         36.4256,
@@ -299,7 +299,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Edad: la selección decía 4 años; El País y Vanity Fair dan 5 (nació el 4 de enero de 1982). Rescate: Vanity Fair habla de 16 millones de dólares iniciales y El País de 13. Wikipedia dice que hubo 18 condenados a 18-20 años; El País (1996/2017) da 21 años para Camerini y de 10 a 16 para el resto, y se ha seguido este. La víctima era menor, pero hace más de 30 años, su nombre es público y hoy es una figura conocida. Falta una fuente de hemeroteca de 1987 independiente de El País (la noticia de agencia «Child freed; kidnapper wounded», The Press, 21 de noviembre de 1987, en Papers Past, no se pudo abrir)."
+    "nota_revision": "Edad: la selección decía 4 años; El País y Vanity Fair dan 5 (nació el 4 de enero de 1982). Rescate: Vanity Fair habla de 16 millones de dólares iniciales y El País de 13. Wikipedia dice que hubo 18 condenados a 18-20 años; El País (1996/2017) da 21 años para Camerini y de 10 a 16 para el resto, y se ha seguido este. La víctima era menor, pero hace más de 30 años, su nombre es público y hoy es una figura conocida. Verificado en El País (1987 y 2017): secuestro el lunes 9 de noviembre, asalto de los GEO a las 5.15 del 20 de noviembre, Camerini huido. Falta una fuente de hemeroteca de 1987 independiente de El País (la noticia de agencia de The Press, 21 de noviembre de 1987, en Papers Past, no se pudo abrir)."
   },
   {
     "id": "bresci",
@@ -405,7 +405,7 @@
     "f": "🇪🇸",
     "per": "1979",
     "st": "Por el secuestro fueron condenadas dos mujeres, Françoise Marhuenda y Begoña Aurteneche. En 1989 la Audiencia Nacional absolvió a otros dos acusados, Luis María Alcorta y Arnaldo Otegi, por falta de pruebas.",
-    "c": "El 11 de noviembre de 1979, un comando de ETA político-militar secuestró en Madrid a Javier Rupérez, diputado y secretario de Relaciones Internacionales de UCD, el partido del Gobierno de Adolfo Suárez. Era la primera vez que la banda secuestraba a alguien no para pedir dinero, sino para presionar al Gobierno: exigía la excarcelación de presos y una investigación de las denuncias de torturas. Rupérez pasó 31 días encerrado en una casa de El Hoyo de Pinares (Ávila) y fue liberado en diciembre. La justicia condenó a dos mujeres del comando; a otros dos acusados los absolvió en 1989.",
+    "c": "El 11 de noviembre de 1979, un comando de ETA político-militar secuestró en Madrid a Javier Rupérez, diputado y secretario de Relaciones Internacionales de UCD, el partido del Gobierno de Adolfo Suárez. Era la primera vez que la banda secuestraba a alguien no para pedir dinero, sino para presionar al Gobierno: exigía la excarcelación de presos y una investigación de las denuncias de torturas. Rupérez pasó 31 días encerrado en una casa de El Hoyo de Pinares (Ávila) y fue liberado el 12 de diciembre cerca de Burgos. La justicia condenó a dos mujeres del comando; a otros dos acusados los absolvió en 1989.",
     "mo": "Secuestro a plena luz del día por un comando que no se tapó la cara; el rehén estuvo encerrado en una vivienda con un zulo de armas y explosivos.",
     "loc": [
       [
@@ -444,6 +444,16 @@
         "tipo": "hemeroteca"
       },
       {
+        "titulo": "«Javier Rupérez se encuentra en perfecto estado después de 31 días de cautiverio», El País (13 de diciembre de 1979)",
+        "url": "https://elpais.com/diario/1979/12/13/espana/313887606_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Rupérez vuelve al zulo donde fue secuestrado por ETA hace 43 años», ABC (14 de octubre de 2022)",
+        "url": "https://www.abc.es/espana/ruperez-vuelve-zulo-secuestrado-anos-20221014220852-nt.html",
+        "tipo": "hemeroteca"
+      },
+      {
         "titulo": "Ávilared, «Rupérez vuelve a la casa de El Hoyo de Pinares en la que permaneció 31 días secuestrado» (17 de octubre de 2022)",
         "url": "https://avilared.com/archive/65409/ruperez-vuelve-a-la-casa-de-el-hoyo-de-pinares-en-la-que-permanecio-31-dias-secuestrado",
         "tipo": "hemeroteca"
@@ -454,7 +464,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Sustituye al asesinato de Carlos Palomino (11-11-2007): la víctima tenía 16 años y el caso es de hace menos de 30, así que no se puede nombrar, y el caso lleva su nombre. Lugar del cautiverio: la Wikipedia en castellano dice Trasmoz (Zaragoza), pero Ávilared (2022) cuenta la visita de Rupérez a la casa de El Hoyo de Pinares (Ávila) donde estuvo secuestrado; se ha seguido esta. No se ha podido confirmar con dos fuentes el día exacto de la liberación (31 días después apunta al 12 de diciembre) ni la calle del secuestro. Rupérez contó el secuestro en su libro «Secuestrado por ETA» (1991), que no se ha podido consultar."
+    "nota_revision": "Sustituye al asesinato de Carlos Palomino (11-11-2007): la víctima tenía 16 años y el caso es de hace menos de 30, así que no se puede nombrar. Verificado: secuestro el 11 de noviembre de 1979 (El País 1997 y ABC 2020) y liberación a las 6.15 del 12 de diciembre cerca de Burgos (El País, 13 de diciembre de 1979). Lugar del cautiverio: la Wikipedia en castellano dice Trasmoz (Zaragoza), pero Ávilared (2022) y ABC (2022) lo sitúan en una casa de El Hoyo de Pinares (Ávila); se ha seguido esto. Absolución de Alcorta y Otegi: El País (1 de febrero de 1989) la fecha en 1989; un artículo de ABC de 2020 dice 1981, y se ha seguido a El País. No se ha podido consultar su libro «Secuestrado por ETA» (1991)."
   },
   {
     "id": "radowitzky-falcon",
@@ -467,9 +477,9 @@
     "p": "Argentina",
     "f": "🇦🇷",
     "per": "1909–1930",
-    "st": "Condenado a prisión por tiempo indeterminado y no a muerte por ser menor de edad. Pasó 21 años preso, casi todos en el penal de Ushuaia, hasta que Hipólito Yrigoyen lo indultó en 1930 a cambio de su deportación.",
+    "st": "Condenado a una pena de prisión indeterminada, y no a muerte, por ser menor de edad (BBC Mundo recoge que la pena capital fue conmutada días antes de la ejecución). Pasó 21 años preso, casi todos en el penal de Ushuaia, hasta que Hipólito Yrigoyen lo indultó en 1930 a cambio de su deportación.",
     "c": "El 14 de noviembre de 1909, el joven anarquista Simón Radowitzky, nacido en el Imperio ruso, lanzó una bomba casera dentro del carruaje en el que viajaban el jefe de la Policía de Buenos Aires, el coronel Ramón L. Falcón, y su secretario, Alberto Lartigau, en la avenida Quintana. Los dos murieron por las heridas. Falcón había ordenado reprimir la manifestación obrera del 1 de mayo de ese año, en la que murieron varias personas. Radowitzky fue detenido en el acto; se libró de la pena de muerte por ser menor y fue enviado al penal de Ushuaia, del que se fugó en 1918 sin éxito. Indultado en 1930, murió en México en 1956.",
-    "mo": "Atentado con una bomba casera arrojada dentro del carruaje en marcha; el autor intentó huir y se disparó a sí mismo antes de ser detenido.",
+    "mo": "Atentado con una bomba casera arrojada dentro del carruaje en marcha; el autor huyó, intentó suicidarse y fue detenido por varios viandantes.",
     "loc": [
       [
         -34.5917,
@@ -523,7 +533,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La fecha del 14 de noviembre la confirman BBC Mundo y Diario Popular; el artículo de Página/12 del 7 de noviembre de 2009 anuncia un homenaje «el lunes 9», que es un acto conmemorativo y no la fecha del atentado. La edad de Radowitzky (17 o 18 años) y su fecha de nacimiento no son seguras; Diario Popular dice que un rabino acreditó que tenía 17. El número de muertos del 1 de mayo de 1909 varía según las fuentes. BBC Mundo cita la biografía de Alejandro Martí (De la Campana, 2010), que no se ha consultado. La contratapa de Página/12 no se abrió para confirmar el autor."
+    "nota_revision": "La fecha del 14 de noviembre la confirman BBC Mundo y Diario Popular; el artículo de Página/12 del 7 de noviembre de 2009 anuncia un homenaje «el lunes 9», que es un acto conmemorativo y no la fecha del atentado. La edad de Radowitzky (17 o 18 años) y su fecha de nacimiento no son seguras; Diario Popular dice que un rabino acreditó que tenía 17. El número de muertos del 1 de mayo de 1909 varía según las fuentes. BBC Mundo cita la biografía de Alejandro Martí (De la Campana, 2010), que no se ha consultado. La contratapa de Página/12 no se abrió para confirmar el autor. BBC Mundo dice que fue condenado a muerte y que se conmutó la pena al probarse su minoría de edad; Diario Popular dice que no se le condenó a muerte por ser menor; el resumen se limita a que se libró de la pena capital."
   },
   {
     "id": "clutter",
@@ -580,7 +590,7 @@
       },
       {
         "titulo": "Garden City Police Department, «Clutter Family Murders» (historia del departamento)",
-        "url": "https://www.gcpolice.org/about-gcpd/history/famous-cases/clutter-family-murders",
+        "url": "https://www.gcpolice.org/254/Clutter-Family-Murders",
         "tipo": "policial"
       },
       {
@@ -599,7 +609,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Los crímenes ocurrieron pasada la medianoche del 14 al 15 de noviembre; Britannica dice que el 14 fue «el último día» de la familia, y The New Yorker sitúa el descubrimiento el domingo 15. Los hijos, Nancy (16) y Kenyon (15), no se nombran en el resumen. La página de la policía de Garden City no se pudo abrir (tiempo de espera agotado). Las coordenadas de la granja son aproximadas."
+    "nota_revision": "Los crímenes ocurrieron pasada la medianoche del 14 al 15 de noviembre; Britannica dice que el 14 fue «el último día» de la familia, y The New Yorker sitúa el descubrimiento el domingo 15. Los hijos, Nancy (16) y Kenyon (15), no se nombran en el resumen. La página de la policía de Garden City (URL corregida a /254/) no se pudo abrir desde el equipo de verificación; su existencia y su tema constan en los resultados de búsqueda. Hickock y Smith como exconvictos en libertad condicional y el chivatazo de su antiguo compañero de celda Floyd Wells constan en Wikipedia; no se contrastó la fecha de la detención en Las Vegas con una segunda fuente abierta. Las coordenadas de la granja son aproximadas."
   },
   {
     "id": "riina",
@@ -670,9 +680,9 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "BBC News, «Brother of top Mafia turncoat shot» (1998)",
-        "url": "https://news.bbc.co.uk/2/hi/europe/68229.stm",
-        "tipo": "hemeroteca"
+        "titulo": "Encyclopaedia Britannica, «Salvatore Riina»",
+        "url": "https://www.britannica.com/biography/Salvatore-Riina",
+        "tipo": "enciclopedia"
       },
       {
         "titulo": "Wikipedia (en italiano), «Totò Riina» (punto de partida; consultada por sus referencias)",
@@ -680,7 +690,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Sustituye a la masacre de los jesuitas de la UCA (16-11-1989): en El Salvador sigue abierto el proceso contra el expresidente Alfredo Cristiani y otros acusados como autores intelectuales, con la vista pública prevista para 2026. El año en que pasó a la clandestinidad varía (1969 o 1970, «23 años huido» según las fuentes). Las coordenadas de Capaci y de via Bernini son aproximadas. La necrológica de The Scotsman no se abrió."
+    "nota_revision": "Sustituye a la masacre de los jesuitas de la UCA (16-11-1989): en El Salvador sigue abierto el proceso contra el expresidente Alfredo Cristiani y otros acusados como autores intelectuales, con la vista pública prevista para 2026. El año en que pasó a la clandestinidad varía (1969 o 1970, «23 años huido» según las fuentes). Las coordenadas de Capaci y de via Bernini son aproximadas. La necrológica de The Scotsman y la ficha de Britannica no se pudieron abrir (bloqueo a robots). Se retiró la fuente de la BBC de 1998, que trata de otro asunto y no mencionaba a Riina. AGI y la Store norske leksikon confirman nacimiento, 26 cadenas perpetuas, detención en via Bernini y la huida desde 1969."
   },
   {
     "id": "passannante",
@@ -776,7 +786,7 @@
     "f": "🇪🇸",
     "per": "1972–2003",
     "st": "Murió el 19 de diciembre de 2003, a los 42 años, en el hospital de Can Ruti (Badalona), mientras cumplía en libertad condicional avanzada una condena de 30 años.",
-    "c": "Juan José Moreno Cuenca nació el 19 de noviembre de 1961 en Barcelona y se crio en el barrio de La Mina, en Sant Adrià de Besòs. Empezó a robar coches siendo un niño, pasó de reformatorio en reformatorio y a los 14 años entró por primera vez en la cárcel Modelo. Adicto a la heroína, encadenó atracos, fugas y condenas que sumaron más de cien años; en abril de 1984 encabezó un motín en la Modelo. El cine quinqui, con «Perros callejeros» (1977) y «Yo, el Vaquilla» (1985), lo convirtió en un mito de la delincuencia juvenil de la Transición. Murió preso en 2003.",
+    "c": "Juan José Moreno Cuenca nació el 19 de noviembre de 1961 en Barcelona y se crio en el barrio de La Mina, en Sant Adrià de Besòs. Empezó a robar coches siendo un niño, pasó de reformatorio en reformatorio y, siendo aún adolescente, entró por primera vez en la cárcel Modelo. Adicto a la heroína, encadenó atracos, fugas y condenas durante casi treinta años de cárcel; en abril de 1984 encabezó un motín en la Modelo. El cine quinqui, con «Perros callejeros» (1977) y «Yo, el Vaquilla» (1985), lo convirtió en un mito de la delincuencia juvenil de la Transición. Murió preso en 2003.",
     "mo": "Robos de coches, tirones y atracos, con persecuciones y fugas de prisión; casi toda su vida adulta la pasó encarcelado.",
     "loc": [
       [
@@ -830,7 +840,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Lugar de nacimiento: EFE dice el barrio de Torre Baró (Barcelona); El Mundo y Wikipedia, Barcelona. Edad del primer ingreso en la Modelo: 14 años según EFE y 16 según El Mundo. El Mundo atribuye a su etapa de niño un tirón en el que murió una mujer atropellada; se omite por ser un hecho de cuando era menor y no estar contrastado. El año exacto del reportaje de El Mundo Magazine no figura en la página (el texto dice que tenía 39 años, lo que apunta a 2000-2001)."
+    "nota_revision": "Lugar de nacimiento: EFE dice el barrio de Torre Baró (Barcelona); El Mundo y Wikipedia, Barcelona. Edad del primer ingreso en la cárcel: 13 (El Mundo Magazine), 14 (EFE, agosto de 1975), 15 (Wikipedia) o 16 (El Mundo); por eso el resumen no da edad. Se retiró «más de cien años de condenas», que no consta en las fuentes abiertas; EFE habla de casi 30 años en prisión. El Mundo atribuye a su etapa de niño un tirón en el que murió una mujer atropellada; se omite por ser un hecho de cuando era menor y no estar contrastado. El año exacto del reportaje de El Mundo Magazine no figura en la página (el texto dice que tenía 39 años, lo que apunta a 2000-2001)."
   },
   {
     "id": "feliu-olot",
@@ -883,6 +893,11 @@
         "tipo": "hemeroteca"
       },
       {
+        "titulo": "«Los anillos de la pordiosera», El País (28 de marzo de 1994)",
+        "url": "https://elpais.com/diario/1994/03/28/espana/764805615_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
         "titulo": "Ara, «Secuestrador de Maria Àngels Feliu, farmacéutica de Olot: “Quien me enredó en el secuestro nunca ha entrado en prisión”» (24 de septiembre de 2023)",
         "url": "https://es.ara.cat/sociedad/sucesos/persona-engano-secuestro-maria-angels-feliu-no-entrado-prision_128_4809226.html",
         "tipo": "hemeroteca"
@@ -903,7 +918,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Penas: la Viquipèdia dice de 5 a 17 años; Diario de León y El Temps (2003) dan de 14 a 22 años y se ha seguido a estos. La selección hablaba de «un guardia civil» entre los condenados: las fuentes dicen que Guirado era policía local de Olot y Ullastre, guarda forestal; no consta ningún guardia civil. El artículo de El Punt Avui no se pudo leer (se cita por la Viquipèdia). Hay un libro sobre el caso, «Olot: crònica d'un segrest» (Jacinto Vicente, 2019), que no se ha consultado."
+    "nota_revision": "Penas: la Viquipèdia dice de 5 a 17 años; Diario de León y El Temps (2003) dan de 14 a 22 años y se ha seguido a estos. La selección hablaba de «un guardia civil» entre los condenados: las fuentes dicen que Guirado era policía local de Olot y Ullastre, guarda forestal; no consta ningún guardia civil. Liberación: El País (28 de marzo de 1994) la sitúa a las 3.30 en la gasolinera Els Xops, junto al pueblo de Lliçà de Vall (N-152); Ràdio Olot la llama Lliçà de Dalt, y se ha seguido la crónica de 1994. Diario de León confirma las penas (22 años y 4 meses a Guirado y Ullastre; 18 y 17 a otros dos) y que Ullastre era guardia forestal y Guirado policía local. Hay un libro sobre el caso, «Olot: crònica d'un segrest» (Jacinto Vicente, 2019), que no se ha consultado."
   },
   {
     "id": "birmingham-pubs",
@@ -912,12 +927,12 @@
     "y": 1974,
     "n": "Los Seis de Birmingham",
     "a": "Los atentados de los pubs de Birmingham",
-    "v": "21 muertos y más de 180 heridos",
+    "v": "21 muertos y entre 180 y 220 heridos",
     "p": "Reino Unido",
     "f": "🇬🇧",
     "per": "1974–1991",
-    "st": "Sin culpables. Los seis condenados en 1975 fueron liberados el 14 de marzo de 1991, cuando el Tribunal de Apelación anuló sus condenas. Las nuevas investigaciones judiciales de 2019 concluyeron que las 21 víctimas fueron asesinadas por el IRA, pero nadie ha sido juzgado por ello.",
-    "c": "La noche del 21 de noviembre de 1974 estallaron dos bombas del IRA en los pubs Mulberry Bush y Tavern in the Town, en el centro de Birmingham: murieron 21 personas y más de 180 resultaron heridas. El aviso telefónico llegó tarde y fue confuso. Esa misma noche fueron detenidos seis irlandeses que viajaban a Belfast; tras interrogatorios con malos tratos y unas pruebas forenses defectuosas, fueron condenados en 1975 a cadena perpetua. Pasaron 16 años en prisión hasta que el Tribunal de Apelación anuló las condenas en 1991. Los verdaderos autores nunca han sido juzgados.",
+    "st": "Sin culpables. Los seis condenados en 1975 fueron liberados el 14 de marzo de 1991, cuando el Tribunal de Apelación anuló sus condenas. Las nuevas investigaciones judiciales de 2019 concluyeron que las 21 víctimas murieron de forma ilegal a causa de las bombas del IRA, pero nadie ha sido juzgado por ello.",
+    "c": "La noche del 21 de noviembre de 1974 estallaron dos bombas del IRA en los pubs Mulberry Bush y Tavern in the Town, en el centro de Birmingham: murieron 21 personas y entre 180 y 220 resultaron heridas, según las fuentes. El aviso telefónico llegó tarde y fue confuso. Esa misma noche fueron detenidos seis irlandeses que viajaban a Belfast; tras interrogatorios con malos tratos y unas pruebas forenses defectuosas, fueron condenados en 1975 a cadena perpetua. Pasaron 16 años en prisión hasta que el Tribunal de Apelación anuló las condenas en 1991. Los verdaderos autores nunca han sido juzgados.",
     "mo": "Bombas de relojería escondidas en dos pubs llenos de gente, con un aviso telefónico insuficiente para desalojarlos.",
     "loc": [
       [
@@ -936,9 +951,9 @@
         "Castillo de Lancaster (juicio y condena de los seis, 1975)"
       ],
       [
-        51.5155,
-        -0.1019,
-        "Old Bailey, Londres (anulación de las condenas, 14 de marzo de 1991)"
+        51.5142,
+        -0.1132,
+        "Tribunal de Apelación, Royal Courts of Justice, Londres (anulación de las condenas, 14 de marzo de 1991)"
       ]
     ],
     "vin": [],
@@ -987,7 +1002,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "El número de heridos varía según las fuentes (182 en Wikipedia; «más de 180» se usa como cifra prudente). En las investigaciones de 2019 un antiguo miembro del IRA nombró a cuatro presuntos implicados; no se citan porque nunca han sido acusados. No se pudieron abrir ITV, Irish Times ni RTÉ; se citan por los resultados de búsqueda, que coinciden. Las coordenadas de los pubs son aproximadas."
+    "nota_revision": "El número de heridos varía según las fuentes: ITV y RTÉ (2019) dan 220 y Wikipedia 182; se da el intervalo. En las investigaciones de 2019 un antiguo miembro del IRA nombró a cuatro presuntos implicados; no se citan porque nunca han sido acusados. Corregido el lugar de la anulación: fue el Tribunal de Apelación (Royal Courts of Justice, Strand) y no el Old Bailey. Verificado en The Guardian (15 de marzo de 1991), ITV, RTÉ e Irish Times. Las coordenadas de los pubs son aproximadas."
   },
   {
     "id": "kennedy-dallas",
@@ -1081,7 +1096,7 @@
     "p": "República Dominicana",
     "f": "🇩🇴",
     "per": "1960–1962",
-    "st": "Tras la caída de la dictadura, un tribunal dominicano condenó en noviembre de 1962 a los autores materiales, agentes del Servicio de Inteligencia Militar, a penas de 20 y 30 años; las fuentes dicen que no llegaron a cumplirlas.",
+    "st": "Tras la caída de la dictadura, un tribunal dominicano condenó en noviembre de 1962 a los autores materiales, agentes del Servicio de Inteligencia Militar, a penas de hasta 30 años.",
     "c": "El 25 de noviembre de 1960, Patria, Minerva y María Teresa Mirabal, opositoras a la dictadura de Rafael Leónidas Trujillo, volvían de visitar a sus maridos presos en Puerto Plata cuando agentes del Servicio de Inteligencia Militar cortaron el paso a su jeep. Las llevaron, junto a su chófer, Rufino de la Cruz, a un paraje de La Cumbre y los mataron a golpes; después arrojaron los cuerpos dentro del jeep por un barranco para simular un accidente. Nadie lo creyó, y el crimen aumentó el rechazo al régimen: Trujillo fue asesinado seis meses después. En su memoria, la ONU declaró el 25 de noviembre Día Internacional de la Eliminación de la Violencia contra la Mujer.",
     "mo": "Emboscada en la carretera por agentes de la policía política, que mataron a las víctimas a golpes y escenificaron un accidente de tráfico.",
     "loc": [
@@ -1136,7 +1151,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La resolución 54/134 se aprobó el 17 de diciembre de 1999; la página de la ONU da el 7 de febrero de 2000 (fecha de publicación del documento). Penas: según Wikipedia, 30 años para los principales acusados y 20 para Ciriaco de la Rosa; Acento sitúa las sentencias definitivas el 24 de noviembre de 1962. Que los condenados no cumplieran las penas solo lo dice Wikipedia: falta una segunda fuente. Hay versiones distintas sobre el lugar exacto del crimen dentro de La Cumbre."
+    "nota_revision": "La resolución 54/134 se aprobó el 17 de diciembre de 1999; la página de la ONU da el 7 de febrero de 2000 (fecha de publicación del documento). Penas: según Wikipedia, 30 años para los principales acusados y 20 para Ciriaco de la Rosa; Acento sitúa las sentencias definitivas el 24 de noviembre de 1962. Que los condenados no cumplieran las penas solo lo dice Wikipedia (afirma que salieron del país con ayuda de militares trujillistas): se ha quitado del resumen de la situación judicial por falta de segunda fuente. Hay versiones distintas sobre el lugar exacto del crimen dentro de La Cumbre."
   },
   {
     "id": "brinks-mat",
@@ -1210,7 +1225,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "The Independent (1996) llama a los condenados «Micky McAvoy y Tony Robinson» y dice que McAvoy era cuñado de Black; la BBC (2007) dice que el cuñado era Brian Robinson, que es lo que recogen las demás fuentes. La cifra de 6.800 lingotes (unas tres toneladas) solo figura en Wikipedia. La fecha de la condena (diciembre de 1984) y los 3 millones esperados vienen de Wikipedia; The Guardian (2003) confirma los 25 años de McAvoy. El artículo del New York Times no se abrió. Las coordenadas de la finca de Noye son aproximadas."
+    "nota_revision": "The Independent (1996) llama a los condenados «Micky McAvoy y Tony Robinson» y dice que McAvoy era cuñado de Black; la BBC (2007) dice que el cuñado era Brian Robinson, que es lo que recogen las demás fuentes. La cifra de 6.800 lingotes y la hora (6.40) constan también en The Observer (2003). La fecha de la condena (diciembre de 1984) y los 3 millones esperados vienen de Wikipedia; The Guardian (2003) confirma los 25 años de McAvoy. El artículo del New York Times no se abrió. Las coordenadas de la finca de Noye son aproximadas."
   },
   {
     "id": "moscone-milk",
@@ -1359,7 +1374,7 @@
     "f": "🇩🇪",
     "per": "1989",
     "st": "Sin resolver. La Fracción del Ejército Rojo (RAF) reivindicó el atentado, pero los autores nunca fueron identificados ni juzgados.",
-    "c": "La mañana del 30 de noviembre de 1989, tres semanas después de la caída del Muro, Alfred Herrhausen, presidente del consejo de dirección del Deutsche Bank, salió de su casa de Bad Homburg en su Mercedes blindado camino de Fráncfort. En el Seedammweg, una bomba escondida en el portaequipajes de una bicicleta aparcada al borde de la calzada estalló al cortar el coche una barrera de luz: una placa de cobre convertida en proyectil atravesó el blindaje y lo mató; el chófer resultó herido. La RAF lo reivindicó, pero nadie ha sido juzgado. La complejidad técnica del ataque ha alimentado dudas sobre quién lo hizo.",
+    "c": "La mañana del 30 de noviembre de 1989, tres semanas después de la caída del Muro, Alfred Herrhausen, portavoz del consejo de dirección del Deutsche Bank, salió de su casa de Bad Homburg en su Mercedes blindado camino de Fráncfort. En el Seedammweg, una bomba escondida en el portaequipajes de una bicicleta aparcada al borde de la calzada estalló al cortar el coche una barrera de luz: una placa de cobre convertida en proyectil atravesó el blindaje y lo mató; el chófer resultó herido. La RAF lo reivindicó, pero nadie ha sido juzgado. La complejidad técnica del ataque ha alimentado dudas sobre quién lo hizo.",
     "mo": "Carga explosiva de unos siete kilos de TNT con una placa de cobre que se convierte en proyectil, activada por una barrera de luz al paso del coche.",
     "loc": [
       [
@@ -1413,6 +1428,6 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Ni el artículo del FAZ ni la ficha del documental de ARD se pudieron leer. Las fuentes no coinciden en el nombre del cargo (presidente o portavoz del consejo de dirección, «Vorstandssprecher»). El punto exacto del Seedammweg es aproximado."
+    "nota_revision": "Ni el artículo del FAZ ni la ficha del documental de ARD se pudieron leer. El cargo era «Vorstandssprecher» (portavoz del consejo de dirección), según la Deutsche Biographie, y así se ha corregido el resumen. El punto exacto del Seedammweg es aproximado."
   }
 ]
