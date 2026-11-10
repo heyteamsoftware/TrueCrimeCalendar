@@ -15,7 +15,9 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 
 | Mes | Escritas | Verificadas | Unidas |
 |---|---|---|---|
-| 01 a 12 | en marcha | — | — |
+| 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
+| 11 | 19/19 ✓ | en cola | — |
+| 02 a 10 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -73,3 +75,9 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
   - 5/8: el caso Dominici, en lugar de Stringtown;
   - 3/10: Thompson y Bywaters, en lugar del veredicto de O. J.;
   - 14/12: Kaspar Hauser, en lugar de Sidónio Pais.
+- **Más cambios hechos por los agentes de fichas:**
+  - 11/11: el secuestro de Rupérez, en lugar de Palomino (víctima menor en un caso reciente);
+  - 16/11: Totò Riina, en lugar de los jesuitas de la UCA (proceso abierto en El Salvador);
+  - 5/8: caso nuevo que busca el agente de agosto, porque Dominici ya está el 28/11.
+
+  Al unir hay que volver a comprobar las cuotas, porque Hispanoamérica ha perdido un caso.

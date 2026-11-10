@@ -48,3 +48,7 @@ Ejecuta `node tools/validar_cintas.js <id>` con cada caso hasta que salga ✓.
 - Casos hechos.
 - Contradicciones entre la ficha y las fuentes.
 - Dudas que quedan en `nota_revision`.
+
+## Archivos temporales
+
+El scratchpad lo comparten todos los agentes. Pon a tus archivos temporales un nombre único que empiece por tu tarea y tu mes o grupo (por ejemplo, `fichas03_`, `verif01_` o `cintasA02_`). Nunca reutilices un script que no hayas escrito tú en esta tarea.

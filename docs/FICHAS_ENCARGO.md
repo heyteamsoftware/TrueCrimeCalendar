@@ -68,3 +68,7 @@ Sigue el apartado 8 de `docs/CONTRATO.md`. Hay un ejemplo completo en `web/datos
 brady letby keyes bonin puente dominique shipman petiot robledo rifkin bodkin camargo arropiero garavito ishikawa norris hansen ridgway cullen muehlberg wuornos ramirez toole rader gaskins king ireland gacy kraft toppan sobhraj jesperson christie pichushkin landru harvey yoo black homolka beck bryant holmes bellfield fish murano dahmer bianchi chase escalero kurten berkowitz sutcliffe shawcross little pedrinho jones hindley magnotta onoprienko yang bathory miyazaki lucas alcala gein bernardo franklin desalvo gillesrais kearney pardo bittaker fwest buono lopez iqbal chikatilo swango pickton haarmann cotton godino doss lee ray watts deangelo manson gilbert romasanta nilsen starkweather bundy rwest rodriguezvega barraza fernandez kemper corll hogel
 
 Los nombres completos de cada uno están en `web/datos/candidatos/casos_existentes.json`.
+
+## Archivos temporales
+
+El scratchpad lo comparten todos los agentes. Pon a tus archivos temporales un nombre único que empiece por tu tarea y tu mes o grupo (por ejemplo, `fichas03_`, `verif01_` o `cintasA02_`). Nunca reutilices un script que no hayas escrito tú en esta tarea.

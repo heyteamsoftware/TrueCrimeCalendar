@@ -38,3 +38,7 @@ Escríbelo en `docs/revision_fichas/<mm>.md` con este contenido:
 Al terminar, ejecuta `node tools/validar_casos.js web/datos/fichas/<mm>.json` y deja todas las fichas con ✓.
 
 Las búsquedas web son limitadas y compartidas con otros agentes: usa WebFetch sobre las URL de las fuentes y deja WebSearch para cuando haga falta sustituir una fuente.
+
+## Archivos temporales
+
+El scratchpad lo comparten todos los agentes. Pon a tus archivos temporales un nombre único que empiece por tu tarea y tu mes o grupo (por ejemplo, `fichas03_`, `verif01_` o `cintasA02_`). Nunca reutilices un script que no hayas escrito tú en esta tarea.
