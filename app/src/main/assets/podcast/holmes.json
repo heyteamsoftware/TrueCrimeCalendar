@@ -14,7 +14,6 @@
     "Benjamin Pitezel": "Bényamin Pítesel",
     "Pitezel": "Pítesel",
     "Julia Conner": "Yúlia Cóner",
-    "Pearl": "Perl",
     "Emeline Cigrand": "Émelin Sígrand",
     "Minnie Williams": "Míni Uíliams",
     "Nannie": "Náni",
@@ -48,11 +47,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los niños se llaman Alice, Nellie y Howard Pitezel. Hace casi un año que nadie sabe nada de ellos. Su madre cree que están de viaje con un amigo de la familia, y ese amigo está detenido."
+          "texto": "Los niños se llaman Alice, Nellie y Howard Pitezel. Hace casi un año que nadie sabe nada de ellos. Su madre los busca, y el hombre que se los llevó está detenido."
         },
         {
           "voz": "alvaro",
-          "texto": "Nota del inspector. Son niños de 1894, y sus nombres figuran en el sumario desde entonces. Por eso los pronuncio. Y aquí dejo el primer apunte: un hombre que conserva cartas de niños que no ha enviado no las guarda por descuido."
+          "texto": "Nota del inspector. Son niños de 1894, y el caso lleva su apellido desde entonces. Por eso los nombro, con respeto. Y aquí dejo el primer apunte: un hombre que conserva cartas de niños que no ha enviado no las guarda por descuido."
         },
         {
           "voz": "ximena",
@@ -68,7 +67,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Alrededor de él, varias personas desaparecieron. Julia Conner y su hija Pearl, en la Nochebuena de 1891. Emeline Cigrand, que había trabajado para él, a finales de 1892. Y Minnie Williams y su hermana Nannie, en 1893. Cómo murieron nunca se aclaró del todo."
+          "texto": "Alrededor de él, varias personas desaparecieron. Julia Conner y su hija pequeña, en la Nochebuena de 1891. Emeline Cigrand, que había trabajado para él, a finales de 1892. Y Minnie Williams y su hermana Nannie, en 1893. Cómo murieron nunca se aclaró del todo."
         },
         {
           "voz": "ximena",
@@ -131,11 +130,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En la sala se expuso la historia del seguro, del viaje y de los niños. Los cargos de Chicago no se juzgaron: el único crimen por el que lo juzgaron fue la muerte de Pitezel. Y bastó. El jurado lo declaró culpable, y la sentencia, para el tribunal, no admitía dudas."
+          "texto": "En octubre de 1895, Holmes fue juzgado en Filadelfia, pero solo por el asesinato de Benjamin Pitezel. Fue declarado culpable y condenado a muerte. Según algunas fuentes, llevó en gran parte su propia defensa."
         },
         {
           "voz": "ximena",
-          "texto": "En octubre de 1895, Holmes fue juzgado en Filadelfia, pero solo por el asesinato de Benjamin Pitezel. Fue declarado culpable y condenado a muerte. Según algunas fuentes, llevó en gran parte su propia defensa."
+          "texto": "Para entender la sentencia hay que mirar lo que se expuso en la sala: la historia del seguro, del viaje y de los niños. Los cargos de Chicago no se juzgaron: el único crimen por el que lo juzgaron fue la muerte de Pitezel. Y bastó."
         },
         {
           "voz": "ximena",
@@ -171,7 +170,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los nueve nombres que se consideran confirmados son estos: Julia Conner y su hija Pearl. Emeline Cigrand. Minnie Williams y su hermana Nannie. Benjamin Pitezel. Y sus hijos Alice, Nellie y Howard."
+          "texto": "Los nueve nombres que los historiadores consideran confirmados son estos: Julia Conner y su hija pequeña. Emeline Cigrand. Minnie Williams y su hermana Nannie. Benjamin Pitezel. Y sus hijos Alice, Nellie y Howard."
         },
         {
           "voz": "ximena",
@@ -180,5 +179,5 @@
       ]
     }
   ],
-  "nota_revision": "Discrepancias y dudas. 1) El v2 decía que Geyer recorrió agencias inmobiliarias de Toronto y revisó registros de hotel; no se ha podido contrastar y el guion solo afirma, atribuido, que usó las cartas de los niños que Holmes retuvo (Wikipedia, Frank Geyer; EBSCO no lo recoge). 2) Detective de Toronto Alf Cuddy: solo en un resumen de búsqueda sobre Wikipedia; contrastar con el libro de Geyer. 3) Se omite cualquier tesis de la defensa sobre la muerte de Pitezel (no verificada). 4) Confesión de 27 muertes y pago de 7.500 dólares de Hearst: Wikipedia; EBSCO solo dice que sus confesiones fueron poco fiables. 5) Cifra de víctimas: ficha dice 9 (estimadas 200+), Wikipedia 9 confirmadas, EBSCO 9 a unas 50; el guion dice 9 confirmadas. 6) Fecha del juicio: octubre de 1895 (Wikipedia, resumen de búsqueda de History.com); algunas webs ponen mal la fecha del asesinato de Pitezel (1891), que es septiembre de 1894. 7) Ejecución: 7/5/1896 en Moyamensing (periódicos de 1896 reproducidos por Lykens Valley). Se omiten los detalles. 8) Menores: Alice, Nellie y Howard Pitezel se nombran por ser un caso de 1894 con nombres públicos desde el sumario y formar parte del caso histórico (regla de más de 30 años); no consta declaración pública de familia actual, así que la regla común del coordinador podría pedir quitarlos: decisión del coordinador. Pearl Conner (hija de Julia, 1891) se nombra con el mismo criterio. 9) Sin métodos ni detalles del edificio. 10) Identificación por dentadura en 2017 (Wikipedia y noticias de la exhumación)."
+  "nota_revision": "Discrepancias y dudas. 1) El v2 decía que Geyer recorrió agencias inmobiliarias de Toronto y revisó registros de hotel; no se ha podido contrastar y el guion solo afirma, atribuido, que usó las cartas de los niños que Holmes retuvo (Wikipedia, Frank Geyer; EBSCO no lo recoge). 2) Detective de Toronto Alf Cuddy: solo en un resumen de búsqueda sobre Wikipedia; contrastar con el libro de Geyer. 3) Se omite cualquier tesis de la defensa sobre la muerte de Pitezel (no verificada). 4) Confesión de 27 muertes y pago de 7.500 dólares de Hearst: Wikipedia; EBSCO solo dice que sus confesiones fueron poco fiables. 5) Cifra de víctimas: ficha dice 9 (estimadas 200+), Wikipedia 9 confirmadas, EBSCO 9 a unas 50; el guion dice 9 confirmadas. 6) Fecha del juicio: octubre de 1895 (Wikipedia, resumen de búsqueda de History.com); algunas webs ponen mal la fecha del asesinato de Pitezel (1891), que es septiembre de 1894. 7) Ejecución: 7/5/1896 en Moyamensing (periódicos de 1896 reproducidos por Lykens Valley). Se omiten los detalles. 8) Menores: Alice, Nellie y Howard Pitezel se nombran por ser un caso de 1894 con nombres públicos desde el sumario y formar parte del caso histórico (regla de más de 30 años); no consta declaración pública de familia actual, así que la regla común del coordinador podría pedir quitarlos: decisión del coordinador. Pearl Conner (hija de Julia, 1891) se nombra con el mismo criterio. 9) Sin métodos ni detalles del edificio. 10) Identificación por dentadura en 2017 (Wikipedia y noticias de la exhumación). VERIFICACIÓN estrella-4 (10/11/2026): Decisión sobre menores: se mantienen Alice, Nellie y Howard Pitezel (el apellido es el nombre histórico del caso Holmes-Pitezel, 1894-1895; más de 130 años). Se quita el nombre de Pearl Conner (1891; no forma parte del nombre del caso ni consta familia pública): «su hija pequeña». Corregido «su madre cree que están de viaje con un amigo»: en junio de 1895 Holmes estaba detenido y la madre los buscaba. Los nueve confirmados, «según los historiadores». Reordenado el bloque del juicio de 1895 (cronología). Fuente history.com redirige a Canal Historia desde España, pero existe."
 }

@@ -255,3 +255,11 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## holmes
 
 - El asesinato de Pitezel fue en septiembre de 1894. En 2017 se le identificó por la dentadura.
+
+## Quitar o corregir en las fichas (detectado en la revisión de guiones)
+
+- **yoo:** quitar lo del «impermeable amarillo».
+- **beck:** quitar «tres condenas»; en Nueva York solo se condenó por la muerte de Janet Fay.
+- **bellfield:** el campo `c` nombra a la menor (Milly Dowler); quitar el nombre.
+- **black:** se declaró culpable en el Tribunal Superior de Edimburgo (10 de agosto de 1990), no en Selkirk.
+- **bianchi:** admitió cinco asesinatos y Buono fue condenado por nueve; no «diez los primos».
