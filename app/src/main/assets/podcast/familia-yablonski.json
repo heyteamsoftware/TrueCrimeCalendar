@@ -53,7 +53,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Los coches del camino tenían los neumáticos pinchados y habían cortado los cables del teléfono. Eso no es un robo improvisado: es alguien que prepara una noche sin testigos. Pero fíjate en lo que vino después: dejaron huellas por todas partes."
+          "texto": "Primera nota. Según el Post-Gazette, los coches de la familia tenían los neumáticos pinchados y habían cortado el teléfono. Eso no es un robo improvisado: es alguien que prepara una noche sin testigos. Pero fíjate en lo que vino después: a los autores los detuvieron pronto."
         },
         {
           "voz": "ximena",
@@ -65,7 +65,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Veintiún días. Es lo que pasó entre la derrota y la noche del crimen. Lo apunto como cronología, no como acusación. Las acusaciones llegaron después, y las decidieron los tribunales."
+          "texto": "Segunda nota. Veintidós días. Es lo que pasó entre la derrota y la noche del crimen. Lo apunto como cronología, no como acusación. Las acusaciones llegaron después, y las decidieron los tribunales."
         },
         {
           "voz": "ximena",
@@ -81,7 +81,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los investigadores llegaron hasta un dirigente del sindicato, Albert Pass, que los había contratado, y de ahí más arriba. Varios intermediarios fueron condenados. Gilly, Vealey y Martin lo fueron en 1972, y Gilly recibió tres cadenas perpetuas simultáneas."
+          "texto": "Los investigadores llegaron hasta un dirigente del sindicato, Albert Pass, que los había contratado, y de ahí más arriba. Varios intermediarios fueron condenados. Gilly, Vealey y Martin también lo fueron. Gilly y Vealey recibieron primero la pena de muerte, que después se redujo a cadena perpetua."
         },
         {
           "voz": "ximena",
@@ -89,7 +89,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Tony Boyle fue juzgado por ordenar los asesinatos. Lo condenaron en 1974, se anuló esa sentencia, lo juzgaron de nuevo y lo condenaron otra vez en 1978. Murió en prisión en 1985."
+          "texto": "Tony Boyle fue juzgado por ordenar los asesinatos. Lo condenaron en 1974 a tres cadenas perpetuas. Murió en prisión en 1985."
         },
         {
           "voz": "alvaro",
@@ -118,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Post-Gazette (Mellon, 2013), HISTORY.com, Observer-Reporter (2021); CBS Philadelphia no aportó texto. Discrepancias: edad de Charlotte (25 en Post-Gazette y HISTORY, 24 en Observer-Reporter): el guion dice «veinticuatro o veinticinco»; número de condenados (nueve según HISTORY, siete según Wikipedia): el guion da ambas cifras atribuidas; la edad de Jock (59) y Margaret (57) sale del Observer-Reporter. El Observer-Reporter dice que Kenneth encontró los cuerpos «seis días después»; HISTORY, «casi una semana» (el guion usa esto; del 31 de diciembre al 5 de enero son cinco días). Albert Pass como dirigente que contrató a los sicarios: HISTORY. «Payasos», neumáticos pinchados, cables cortados, 1.700 dólares por cabeza y que Margaret y Charlotte murieron para no dejar testigos: Post-Gazette (las dos últimas son lo que cuenta el periódico; atribuidas). Condena de Boyle en 1974, anulación y nueva condena en 1978, muerte en 1985: ficha y Observer-Reporter (la fecha de 1974/1978 sigue apoyándose en Wikipedia). Muerte de Gilly el 6 de julio de 2021 y respuesta del fiscal Vittone (no enviada): Observer-Reporter. No se describen los disparos ni los cuerpos. Se omite el intento de suicidio de Boyle antes del juicio."
+  "nota_revision": "Fuentes abiertas: Post-Gazette (Mellon, 2013), HISTORY.com, Observer-Reporter (2021); CBS Philadelphia no aportó texto. Discrepancias: edad de Charlotte (25 en Post-Gazette y HISTORY, 24 en Observer-Reporter): el guion dice «veinticuatro o veinticinco»; número de condenados (nueve según HISTORY, siete según Wikipedia): el guion da ambas cifras atribuidas; la edad de Jock (59) y Margaret (57) sale del Observer-Reporter. El Observer-Reporter dice que Kenneth encontró los cuerpos «seis días después»; HISTORY, «casi una semana» (el guion usa esto; del 31 de diciembre al 5 de enero son cinco días). Albert Pass como dirigente que contrató a los sicarios: HISTORY. «Payasos», neumáticos pinchados, cables cortados, 1.700 dólares por cabeza y que Margaret y Charlotte murieron para no dejar testigos: Post-Gazette (las dos últimas son lo que cuenta el periódico; atribuidas). Condena de Boyle en 1974, anulación y nueva condena en 1978, muerte en 1985: ficha y Observer-Reporter (la fecha de 1974/1978 sigue apoyándose en Wikipedia). Muerte de Gilly el 6 de julio de 2021 y respuesta del fiscal Vittone (no enviada): Observer-Reporter. No se describen los disparos ni los cuerpos. Se omite el intento de suicidio de Boyle antes del juicio. VERIFICACIÓN nuevos-enero: Quitados el nuevo juicio de 1978 de Boyle (no confirmado en Wikipedia), la sentencia de 1972 y «huellas por todas partes»; «veintiún» días pasa a veintidós (9-12 a 31-12); neumáticos y teléfono atribuidos al Post-Gazette (no constan en Wikipedia). Wikipedia en inglés: siete condenados; Pass entregó el dinero para contratar a los pistoleros. "
 }

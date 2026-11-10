@@ -9,13 +9,11 @@
     "Gustave": "Gustáv",
     "Jack Drummond": "Yak Drámond",
     "Drummond": "Drámond",
-    "Lurs": "Lurs",
     "La Grand'Terre": "La Gran Ter",
     "Digne": "Dinñ",
     "Durance": "Duráns",
     "Jean Giono": "Yan Yonó",
     "Forcalquier": "Forcalquié",
-    "Bajos Alpes": "Bajos Alpes",
     "Sébeille": "Sebéi"
   },
   "cintas": [
@@ -86,7 +84,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un agente de tráfico declaró haber visto aquella tarde en Digne a un hombre en un coche con matrícula británica, que preguntó por el coche de los Drummond y se marchó tras ellos. Ese testimonio alimentó las teorías alternativas."
+          "texto": "Una condena a muerte, una conmutación y una gracia: tres decisiones del Estado sobre un hombre cuya culpabilidad se sigue discutiendo en Francia."
         },
         {
           "voz": "ximena",
@@ -94,7 +92,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Las anoto porque existen, no porque las crea. Lo que sí está probado es que la investigación original dejó demasiados cabos sueltos."
+          "texto": "Las anoto porque existen, no porque las crea. Lo que sí consta, según The Guardian, es que la investigación original cometió errores graves. La familia de campesinos, además, hablaba otra lengua que quienes la interrogaban."
         },
         {
           "voz": "ximena",
@@ -102,7 +100,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Una niña de diez años, un matrimonio, un hombre de ciencia. Eso es lo que no se discute del caso Dominici."
+          "texto": "Un científico, su mujer y su hija de diez años. Eso es lo que no se discute del caso Dominici."
         },
         {
           "voz": "alvaro",
@@ -119,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Condena discutida (error judicial posible; sin resolver). Fuentes abiertas leídas: Wikipedia francesa (solo como punto de partida: lugares, cronología de la mañana del 5/8/1952, atestado, lengua del acusado), The Guardian (2007, tumba de la familia, la denuncia de Gustave, hipótesis sin probar), Centre Jean Giono (cita del escritor, que no dice que Dominici fuera inocente sino que no se le probó), blog de France 3 (2016, lengua provenzal). No se abrió la conferencia de Lejeune (HAL, bloqueada por Anubis) ni el INA. Discrepancias: edad de Gaston (76 la ficha; 75 el blog de France 3; 77 el INA según la nota de la ficha): el guion dice «un campesino de más de setenta años». Fecha de la conmutación (3/8/1957 Wikipedia; 13/7/1957 Lejeune) y de la gracia (13 o 14/7/1960): el guion dice solo «en 1957» y «en 1960». La niña de diez años no se nombra, aunque consta su nombre en la tumba (The Guardian); la ficha pide no nombrarla. Se nombra a Sir Jack Drummond; la esposa, Ann, no se nombra (grafía distinta según la fuente). Se omite el modo de la muerte de la niña y la carabina. La confesión de Gaston (nov. 1953) y su retractación vienen de la ficha; The Guardian atribuye primero la denuncia a Gustave; se dice con prudencia. Pronunciaciones a oído."
+  "nota_revision": "Condena discutida (error judicial posible; sin resolver). Fuentes abiertas leídas: Wikipedia francesa (solo como punto de partida: lugares, cronología de la mañana del 5/8/1952, atestado, lengua del acusado), The Guardian (2007, tumba de la familia, la denuncia de Gustave, hipótesis sin probar), Centre Jean Giono (cita del escritor, que no dice que Dominici fuera inocente sino que no se le probó), blog de France 3 (2016, lengua provenzal). No se abrió la conferencia de Lejeune (HAL, bloqueada por Anubis) ni el INA. Discrepancias: edad de Gaston (76 la ficha; 75 el blog de France 3; 77 el INA según la nota de la ficha): el guion dice «un campesino de más de setenta años». Fecha de la conmutación (3/8/1957 Wikipedia; 13/7/1957 Lejeune) y de la gracia (13 o 14/7/1960): el guion dice solo «en 1957» y «en 1960». La niña de diez años no se nombra, aunque consta su nombre en la tumba (The Guardian); la ficha pide no nombrarla. Se nombra a Sir Jack Drummond; la esposa, Ann, no se nombra (grafía distinta según la fuente). Se omite el modo de la muerte de la niña y la carabina. La confesión de Gaston (nov. 1953) y su retractación vienen de la ficha; The Guardian atribuye primero la denuncia a Gustave; se dice con prudencia. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitado el testimonio del agente de tráfico con coche británico (sin fuente). Hipótesis atribuidas a The Guardian. Niña sin nombre; Gaston condenado e indultado, dudas atribuidas. Claves de pronunciación quitadas (sin uso o idénticas): Lurs, Bajos Alpes."
 }

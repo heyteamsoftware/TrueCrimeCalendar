@@ -11,9 +11,7 @@
     "Rufino de la Cruz": "Rufíno de la Cruz",
     "Puerto Plata": "Puérto Pláta",
     "La Cumbre": "La Cúmbre",
-    "Salcedo": "Salsédo",
-    "Dedé": "Dedé",
-    "Bogotá": "Bogotá"
+    "Salcedo": "Salsédo"
   },
   "cintas": [
     {
@@ -63,7 +61,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Un accidente. Es la parte que más me pesa. Una mentira pensada para que nadie preguntara. Dedé contó que ella insistía a los policías: no fue un accidente, las asesinaron."
+          "texto": "Un accidente. Es la parte que más me pesa. Una mentira pensada para que nadie preguntara. Pero la versión oficial habló de un accidente de tráfico."
         },
         {
           "voz": "ximena",
@@ -112,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Crimen de Estado con condena de los autores materiales (noviembre de 1962). Fuentes abiertas: BBC Mundo (hoy en su web; la ficha la fecha en 2017 pero menciona la muerte de Dedé «este año», que no es de 2017: no se usa ese dato), Infobae (2018), Acento (2019). Discrepancias: la ficha dice que las mataron a golpes; BBC dice que las ahorcaron y apalearon: el guion no da el método, solo que las mataron y simularon un accidente. Infobae da testimonio de un agente que no se cita. Acento: instrucción 20/1/1962, audiencias desde el 28/6, sentencias definitivas el 24/11/1962. No se dan penas concretas (la ficha dice hasta 30 años; Acento no las da). Se omiten los nombres de los condenados y del jefe del SIM de Santiago, citado en un testimonio del juicio, porque no consta la sentencia individual en las fuentes abiertas. Trujillo fue muerto el 30/5/1961 (BBC e Infobae, «ajusticiamiento»). La ONU declaró el 25 de noviembre en 1999 (resolución 54/134; 17 de diciembre de 1999); el Encuentro Feminista de 1981 en Bogotá es de BBC. Pronunciaciones a oído."
+  "nota_revision": "Crimen de Estado con condena de los autores materiales (noviembre de 1962). Fuentes abiertas: BBC Mundo (hoy en su web; la ficha la fecha en 2017 pero menciona la muerte de Dedé «este año», que no es de 2017: no se usa ese dato), Infobae (2018), Acento (2019). Discrepancias: la ficha dice que las mataron a golpes; BBC dice que las ahorcaron y apalearon: el guion no da el método, solo que las mataron y simularon un accidente. Infobae da testimonio de un agente que no se cita. Acento: instrucción 20/1/1962, audiencias desde el 28/6, sentencias definitivas el 24/11/1962. No se dan penas concretas (la ficha dice hasta 30 años; Acento no las da). Se omiten los nombres de los condenados y del jefe del SIM de Santiago, citado en un testimonio del juicio, porque no consta la sentencia individual en las fuentes abiertas. Trujillo fue muerto el 30/5/1961 (BBC e Infobae, «ajusticiamiento»). La ONU declaró el 25 de noviembre en 1999 (resolución 54/134; 17 de diciembre de 1999); el Encuentro Feminista de 1981 en Bogotá es de BBC. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitada la frase atribuida a Dedé (sin fuente). Condenados sin nombre (OK). Claves de pronunciación quitadas (sin uso o idénticas): Dedé, Bogotá."
 }

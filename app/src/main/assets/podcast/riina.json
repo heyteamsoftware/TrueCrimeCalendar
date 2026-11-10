@@ -11,7 +11,17 @@
     "Via D'Amelio": "Vía Damélio",
     "Cosa Nostra": "Cósa Nóstra",
     "Palermo": "Palérmo",
-    "Sicilia": "Sicília"
+    "Sicilia": "Sicília",
+    "Leggio": "Lédyo",
+    "Mattarella": "Matarela",
+    "La Torre": "La Tórre",
+    "Di Matteo": "Di Matéo",
+    "Morvillo": "Morvílo",
+    "Schifani": "Skifáni",
+    "Dicillo": "Dichílo",
+    "Cosina": "Cosína",
+    "Li Muli": "Li Múli",
+    "Traina": "Traína"
   },
   "cintas": [
     {
@@ -33,7 +43,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Una unidad especial de los carabineros, los ROS, lo detiene delante de esa casa. Era Salvatore Riina, Totò para los suyos, el jefe de Cosa Nostra."
+          "texto": "Una unidad especial de los carabineros, los ROS, lo detiene a poca distancia de esa casa. Era Salvatore Riina, Totò para los suyos, el jefe de Cosa Nostra."
         },
         {
           "voz": "alvaro",
@@ -57,7 +67,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Después vinieron los crímenes políticos y policiales. Fueron asesinados un secretario provincial de la Democracia Cristiana, el presidente de la región de Sicilia, Piersanti Mattarella, y el diputado comunista Pio La Torre."
+          "texto": "Después vinieron los crímenes políticos y policiales. Fueron asesinados un secretario provincial de la Democracia Cristiana, el presidente de la región de Sicilia, Piersanti Mattarella, y el diputado comunista Pio La Torre. Por esos crímenes se condenó después a los jefes de la Cúpula, Riina entre ellos."
         },
         {
           "voz": "alvaro",
@@ -81,7 +91,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en las fechas. Entre una y otra masacre no pasó ni dos meses. Y según el diario AGI, Riina habría decidido ambas en una reunión navideña de la cúpula en 1991. La condena por esto vino después."
+          "texto": "Fíjate en las fechas. Entre una y otra masacre no pasó ni dos meses. Y según la agencia AGI, Riina habría decidido ambas en una reunión navideña de la cúpula en 1991. La condena por esto vino después."
         },
         {
           "voz": "ximena",
@@ -97,7 +107,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Riina murió el 17 de noviembre de 2017 en el hospital de Parma, a los ochenta y siete años, un día después de cumplir ochenta y siete. Se llevó consigo los secretos que nunca contó."
+          "texto": "Riina murió el 17 de noviembre de 2017 en el hospital de Parma, un día después de cumplir ochenta y siete años. Se llevó consigo los secretos que nunca contó."
         },
         {
           "voz": "alvaro",
@@ -114,5 +124,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso condenado: Riina cumplió 26 cadenas perpetuas. La ficha dice 23 años huido; AGI sitúa el inicio de la fuga en 1969 (24 años según Store norske leksikon y otras), por eso el guion dice «más de veinte años». Los secretos de la trattativa Estado-mafia y los mandantes externos se citan solo como lagunas, sin atribuir nada a nadie. No se nombra a ningún carabinero ni al capitán que dirigió la detención. Se nombran víctimas adultas de Capaci y via D'Amelio (Wikipedia en inglés; AGI confirma las dos masacres). Fuentes abiertas: AGI y Store norske leksikon; Repubblica, L'Espresso solo parcial, Britannica y Scotsman no accesibles. Pronunciaciones a oído."
+  "nota_revision": "Caso condenado: Riina cumplió 26 cadenas perpetuas. La ficha dice 23 años huido; AGI sitúa el inicio de la fuga en 1969 (24 años según Store norske leksikon y otras), por eso el guion dice «más de veinte años». Los secretos de la trattativa Estado-mafia y los mandantes externos se citan solo como lagunas, sin atribuir nada a nadie. No se nombra a ningún carabinero ni al capitán que dirigió la detención. Se nombran víctimas adultas de Capaci y via D'Amelio (Wikipedia en inglés; AGI confirma las dos masacres). Fuentes abiertas: AGI y Store norske leksikon; Repubblica, L'Espresso solo parcial, Britannica y Scotsman no accesibles. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Detención: cerca de la villa, no 'delante'. Condena por crímenes políticos añadida (sentencias de la Cúpula, conocimiento general); AGI es agencia, no diario."
 }

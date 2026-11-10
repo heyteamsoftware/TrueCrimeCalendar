@@ -11,7 +11,7 @@
     "Paddy Hill": "Pádi Jil",
     "Hugh Callaghan": "Hiu Cálagan",
     "Gerard Hunter": "Yérard Hánter",
-    "Richard McIlkenny": "Ríchard Maklkeni",
+    "Richard McIlkenny": "Ríchard Maquilkéni",
     "William Power": "Uíliam Páuer",
     "John Walker": "Yon Uóker",
     "Judith Ward": "Yúdit Uord",
@@ -46,7 +46,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La primera bomba estalla a las ocho y dieciocho en el Mulberry Bush, a los pies de la Rotunda. Dos minutos después estalla la segunda en el Tavern in the Town, un pub en un sótano de New Street."
+          "texto": "La primera bomba estalla hacia las ocho y diecisiete en el Mulberry Bush, a los pies de la Rotunda. Unos diez minutos después estalla la segunda en el Tavern in the Town, un pub en un sótano de New Street."
         },
         {
           "voz": "ximena",
@@ -54,11 +54,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los primeros agentes llegaron a la Rotunda antes de la primera explosión, pero buscaron dentro del edificio de oficinas, creyendo que la bomba estaba allí. Ninguno de los pubs fue evacuado. El aviso había llegado a los agentes de a pie hacia las ocho y catorce: quedaban cuatro minutos."
+          "texto": "El aviso no mencionaba ningún pub, y ninguno de los dos locales fue evacuado. Entre la llamada y la primera explosión pasaron solo seis minutos."
         },
         {
           "voz": "alvaro",
-          "texto": "La investigación judicial de 2019 concluyó que el aviso fue completamente inadecuado y que la policía de la ciudad estaba escasa de efectivos: había agentes desplazados a otro lugar por un funeral. No encontró errores de la policía en la respuesta al aviso."
+          "texto": "El jurado de la investigación judicial de 2019 concluyó que un aviso previo del IRA, mal hecho, contribuyó a las muertes. No encontró errores ni omisiones de la policía en su respuesta a esa llamada."
         },
         {
           "voz": "ximena",
@@ -66,7 +66,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Un antiguo sargento declaró en 2019 que, de haber sabido que el aviso llevaba una palabra clave del IRA, habrían evacuado en vez de buscar. Un detalle de procedimiento, que importaba."
+          "texto": "Un aviso de apenas unos minutos no da tiempo a vaciar dos locales llenos. Ese detalle de procedimiento importaba."
         },
         {
           "voz": "alvaro",
@@ -78,7 +78,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pasaron casi diecisiete años en prisión. Durante ese tiempo fueron llamados los mayores asesinos en masa de Gran Bretaña."
+          "texto": "Pasaron casi diecisiete años en prisión. Su caso se convirtió en uno de los símbolos de los errores judiciales de Reino Unido. Durante ese tiempo fueron llamados los mayores asesinos en masa de Gran Bretaña."
         },
         {
           "voz": "alvaro",
@@ -94,11 +94,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Aquel mismo día, el ministro del Interior, Kenneth Baker, anunció una comisión real sobre el sistema de justicia penal. Era la primera vez que se reconocía que la ley había fallado."
+          "texto": "Aquel mismo día, el ministro del Interior, Kenneth Baker, anunció una comisión real sobre el sistema de justicia penal."
         },
         {
           "voz": "ximena",
-          "texto": "Para las víctimas del atentado la historia no terminó ahí. En abril de 2019, un jurado de investigación judicial concluyó que los veintiún muertos lo fueron de forma ilegal. El jurado señaló al IRA como autor de los atentados."
+          "texto": "Para las víctimas del atentado la historia no terminó ahí. En abril de 2019, un jurado de investigación judicial concluyó que los veintiún muertos lo fueron de forma ilegal. Las bombas se atribuyen al IRA, que nunca asumió oficialmente la responsabilidad, y la investigación no nombró a ningún responsable."
         },
         {
           "voz": "ximena",
@@ -106,11 +106,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Es lo que queda sin aclarar. Un crimen sin condenados, y seis hombres inocentes que pagaron por él. Ninguna de esas dos heridas se cierra con la otra."
+          "texto": "Es lo que queda sin aclarar. Un crimen sin condenados, y seis hombres cuyas condenas fueron anuladas y que pasaron años en prisión por él. Ninguna de esas dos heridas se cierra con la otra."
         },
         {
           "voz": "ximena",
-          "texto": "Que quede en el archivo la lista de las veintiuna personas que salieron una noche de jueves a tomar algo con amigos y no volvieron a casa. Y la de seis hombres que volvieron a casa casi diecisiete años tarde."
+          "texto": "Que quede en el archivo la lista de las veintiuna personas que salieron una noche de jueves a tomar algo con amigos y no volvieron a casa. Y la de seis hombres que volvieron a casa casi diecisiete años tarde. Aquella noche cambió la vida de cientos de familias. No eran una cifra: eran personas."
         },
         {
           "voz": "ximena",
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver y error judicial. Nadie ha sido condenado por los atentados. Se dice que las investigaciones judiciales de 2019 concluyeron que el IRA Provisional los cometió y que 21 personas murieron de forma ilegal. No se nombra a los cuatro presuntos implicados que citó un antiguo miembro del IRA (nunca acusados). Fuentes abiertas: The Guardian (15/3/1991), The Irish Times (5/4/2019), CAIN (solo el contexto de 1974; no recoge el detalle de los atentados en el texto abierto). Discrepancia: la ficha sitúa la anulación en el Royal Courts of Justice y The Guardian habla de familias y gente «fuera del Old Bailey»; el guion dice solo «Tribunal de Apelación de Londres». Heridos: 220 según Irish Times; la ficha da 180-220; el guion dice «más de ciento ochenta». Horas: aviso 20:11 y bombas 20:18 y 20:20 (Irish Times). Víctimas menores: no se nombran (1974, pero sin constancia de familia pública); solo se dice que había adolescentes. Se omite el trato en los interrogatorios porque las fuentes abiertas no detallan los malos tratos. El guion no entra en la prueba forense defectuosa más allá de decir que el Tribunal de Apelación aceptó nueva prueba. Pronunciaciones a oído."
+  "nota_revision": "Caso sin resolver y error judicial. Nadie ha sido condenado por los atentados. Se dice que las investigaciones judiciales de 2019 concluyeron que el IRA Provisional los cometió y que 21 personas murieron de forma ilegal. No se nombra a los cuatro presuntos implicados que citó un antiguo miembro del IRA (nunca acusados). Fuentes abiertas: The Guardian (15/3/1991), The Irish Times (5/4/2019), CAIN (solo el contexto de 1974; no recoge el detalle de los atentados en el texto abierto). Discrepancia: la ficha sitúa la anulación en el Royal Courts of Justice y The Guardian habla de familias y gente «fuera del Old Bailey»; el guion dice solo «Tribunal de Apelación de Londres». Heridos: 220 según Irish Times; la ficha da 180-220; el guion dice «más de ciento ochenta». Horas: aviso 20:11 y bombas 20:18 y 20:20 (Irish Times). Víctimas menores: no se nombran (1974, pero sin constancia de familia pública); solo se dice que había adolescentes. Se omite el trato en los interrogatorios porque las fuentes abiertas no detallan los malos tratos. El guion no entra en la prueba forense defectuosa más allá de decir que el Tribunal de Apelación aceptó nueva prueba. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: CORREGIDO: horas de las explosiones (Wikipedia: aviso 20:11, bombas 20:17 y 20:27; la nota anterior daba 20:18 y 20:20); quitados agentes que buscaron en la Rotunda, funeral y sargento de 2019 (sin fuente) y el 'autor' atribuido al jurado (no nombró a nadie); 'inocentes' pasa a 'condenas anuladas'. Víctimas adolescentes sin nombre; nadie más sin condena."
 }

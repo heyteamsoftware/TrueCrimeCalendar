@@ -12,7 +12,8 @@
     "Els Xops": "Els Chops",
     "Guirado": "Guirádo",
     "Ullastre": "Uyástre",
-    "Sant Pau": "Sant Pau"
+    "Sebastià Comas": "Sebastiá Comas",
+    "Teixidó": "Teishidó"
   },
   "cintas": [
     {
@@ -58,11 +59,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La investigación fue tropezando. Se cometieron errores, hubo pistas falsas y, en un momento, se llegó a dar por muerta a la víctima. Los sospechosos que se detuvieron entonces no eran los responsables."
+          "texto": "La investigación fue tropezando. Se cometieron errores, hubo pistas falsas y, en un momento, se llegó a dar por muerta a la víctima."
         },
         {
           "voz": "alvaro",
-          "texto": "La búsqueda se perdió en teorías mientras a pocos kilómetros había una mujer viva. Hubo dos hombres que pasaron dos años en prisión y que luego fueron absueltos. Ese también es parte del daño."
+          "texto": "La búsqueda se perdió en teorías mientras a pocos kilómetros había una mujer viva. Mientras tanto, la familia vivió meses de angustia y de falsas esperanzas. Eso también es parte del daño. Cada día sin noticias es un día que alguien tiene que sostener."
         },
         {
           "voz": "ximena",
@@ -90,7 +91,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Otros tres acusados fueron absueltos, entre ellos dos que habían pasado dos años en prisión preventiva. Los condenados tuvieron que indemnizar a la farmacéutica con un millón de euros."
+          "texto": "Otros tres acusados fueron absueltos."
         },
         {
           "voz": "alvaro",
@@ -102,7 +103,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Maria Àngels Feliu no acudió a escuchar la sentencia. Su abogado dijo que recogía el noventa por ciento de lo que pedían."
+          "texto": "Maria Àngels Feliu volvió a casa, con su familia, después de un encierro que nadie debería vivir."
         },
         {
           "voz": "ximena",
@@ -111,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso con condena (Audiencia de Girona, abril de 2003). Fuentes abiertas: El País (28/3/1994), Diario de León (11/4/2003), Ara (2023, entrevista a uno de los condenados) y El Punt Avui (2017). Cifra: 492 días (Ara, Punt Avui, Diario de León «más de diez años después»). Discrepancia menor: la liberación fue hacia las 3.30 de la madrugada del domingo 27/3/1994 en Els Xops (El País); la ficha dice Lliçà de Vall, que es el pueblo junto a la gasolinera. Diario de León habla de «Gerona» y de Sebastià Comas como carcelero que liberó a la víctima. Las penas siguen a Diario de León (22 años y 4 meses a Guirado y Ullastre; 18, 17 y 14 a los demás). La ficha da «policía local de Olot» a Guirado y la sentencia lo confirma; Ullastre era guardia forestal. Se omite el nombre de la persona a quien Comas, en una entrevista de 2023, atribuye haberle «enredado», porque nunca fue acusada. Se omiten nombres de absueltos y de otros implicados no condenados. El Punt Avui menciona a otro agente ya fallecido, no se nombra. Un confidente provocó una errada judicial y la investigación dio un tiempo por muerta a la víctima (Punt Avui, texto truncado): se dice con prudencia. Pronunciaciones a oído."
+  "nota_revision": "Caso con condena (Audiencia de Girona, abril de 2003). Fuentes abiertas: El País (28/3/1994), Diario de León (11/4/2003), Ara (2023, entrevista a uno de los condenados) y El Punt Avui (2017). Cifra: 492 días (Ara, Punt Avui, Diario de León «más de diez años después»). Discrepancia menor: la liberación fue hacia las 3.30 de la madrugada del domingo 27/3/1994 en Els Xops (El País); la ficha dice Lliçà de Vall, que es el pueblo junto a la gasolinera. Diario de León habla de «Gerona» y de Sebastià Comas como carcelero que liberó a la víctima. Las penas siguen a Diario de León (22 años y 4 meses a Guirado y Ullastre; 18, 17 y 14 a los demás). La ficha da «policía local de Olot» a Guirado y la sentencia lo confirma; Ullastre era guardia forestal. Se omite el nombre de la persona a quien Comas, en una entrevista de 2023, atribuye haberle «enredado», porque nunca fue acusada. Se omiten nombres de absueltos y de otros implicados no condenados. El Punt Avui menciona a otro agente ya fallecido, no se nombra. Un confidente provocó una errada judicial y la investigación dio un tiempo por muerta a la víctima (Punt Avui, texto truncado): se dice con prudencia. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitados: dos hombres presos dos años y absueltos (contradecía el juicio de 2003), indemnización de un millón y asistencia de la víctima a la sentencia (sin fuente). Claves de pronunciación quitadas (sin uso o idénticas): Sant Pau."
 }

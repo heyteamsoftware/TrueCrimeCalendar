@@ -82,7 +82,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 7 de enero de 2003 se leyó la sentencia. Veintiséis condenados a muerte, entre ellos el coronel Eddy Kapend, antiguo ayudante del presidente, que según la acusación era el cabecilla. Cuarenta y cinco absueltos."
+          "texto": "El 7 de enero de 2003 se leyó la sentencia. Veintiséis condenados a muerte, según la prensa de la época (Amnistía Internacional habló de treinta), entre ellos el coronel Eddy Kapend, antiguo ayudante del presidente, que según la acusación era el cabecilla. Cuarenta y cinco absueltos."
         },
         {
           "voz": "ximena",
@@ -94,7 +94,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "No consta que se ejecutara ninguna de las condenas. En enero de 2021, el presidente Félix Tshisekedi indultó a veintiocho condenados."
+          "texto": "No consta que se ejecutara ninguna de las condenas. En enero de 2021, el presidente Félix Tshisekedi indultó a Eddy Kapend y a otros condenados."
         },
         {
           "voz": "alvaro",
@@ -111,5 +111,5 @@
       ]
     }
   ],
-  "nota_revision": "El autor material no está claro: el Gobierno dijo que fue Rachidi Kasereka (abatido); Larousse y The Observer (citando a Le Monde) dicen que cubría la fuga y que el tirador huyó. El guion lo deja como discutido. El relato del plan (Brazzaville, tres páginas, 75 escoltas) es de un conspirador citado por Le Monde en The Observer; se atribuye. Indulto de 2021 tomado de la ficha (Wikipedia)."
+  "nota_revision": "El autor material no está claro: el Gobierno dijo que fue Rachidi Kasereka (abatido); Larousse y The Observer (citando a Le Monde) dicen que cubría la fuga y que el tirador huyó. El guion lo deja como discutido. El relato del plan (Brazzaville, tres páginas, 75 escoltas) es de un conspirador citado por Le Monde en The Observer; se atribuye. Indulto de 2021 tomado de la ficha (Wikipedia). VERIFICACIÓN nuevos-enero: Condenados a muerte: 26 (IRIN, IOL, Mail&Guardian, 7-1-2003) frente a 30 (Amnistía); el guion da 26 con la discrepancia. Indulto: Kapend quedó libre el 8-1-2021 por indulto de Tshisekedi (BBC vía Wikipedia); el número de indultados (28) no se pudo confirmar y se quitó. "
 }

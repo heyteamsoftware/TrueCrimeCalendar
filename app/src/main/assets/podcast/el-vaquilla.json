@@ -29,7 +29,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Se llamaba Juan José Moreno Cuenca. Le pusieron el apodo de El Vaquilla de pequeño, por lo inquieto que era. Más tarde, ese apodo lo conocería toda España."
+          "texto": "Se llamaba Juan José Moreno Cuenca. Le llamaban El Vaquilla. Más tarde, ese apodo lo conocería toda España."
         },
         {
           "voz": "alvaro",
@@ -37,19 +37,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "Nació el 19 de noviembre de 1961 en Barcelona, de etnia gitana. Su madre, Rosa Cuenca, pasó mucho tiempo en prisión. El padrastro que le dio el apellido murió, según las crónicas, de un ataque al corazón cuando huía de la policía."
+          "texto": "Nació el 19 de noviembre de 1961, en Barcelona según El Mundo, y creció en el barrio de La Mina."
         },
         {
           "voz": "ximena",
-          "texto": "A los doce años ya había pasado por la policía por robar coches. Según la prensa, se escapó de varios reformatorios. Con apenas dieciséis, según El Mundo, ingresó por primera vez en la cárcel Modelo de Barcelona."
+          "texto": "Según la prensa, pasó por varios reformatorios y se escapó de ellos. Con apenas dieciséis, según El Mundo, ingresó por primera vez en la cárcel Modelo de Barcelona."
         },
         {
           "voz": "alvaro",
-          "texto": "La prensa no se pone de acuerdo con la edad. Unos dicen trece, otros catorce, otros dieciséis. Lo que sí coincide es lo que sigue. Salir, robar, caer. Una y otra vez."
+          "texto": "La prensa no se pone de acuerdo con la edad. Unos dicen catorce, otros dieciséis. Lo que sí coincide es lo que sigue. Salir, robar, caer. Una y otra vez."
         },
         {
           "voz": "ximena",
-          "texto": "Era adicto a la heroína. En abril de 1984 protagonizó un motín en la Modelo. En diciembre de ese año, las cámaras de la televisión catalana filmaron una de sus huidas. En las imágenes aparece esposado en el suelo, herido de un disparo."
+          "texto": "Según la prensa, era adicto a la heroína. En abril de 1984 protagonizó un motín en la Modelo. En diciembre de ese año, las cámaras de la televisión catalana filmaron una de sus huidas. En las imágenes aparece esposado en el suelo, herido de un disparo."
         },
         {
           "voz": "alvaro",
@@ -57,15 +57,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Antes ya había llegado al cine. El director José Antonio de la Loma se fijó en él para «Perros callejeros», de 1977, y después para «Yo, el Vaquilla», de 1985, en la que se interpretó a sí mismo. Grupos de rumba de los ochenta le dedicaron canciones."
+          "texto": "Llegó también al cine: el director José Antonio de la Loma lo convirtió en protagonista de «Yo, el Vaquilla», de 1985, en la que se interpretó a sí mismo."
         },
         {
           "voz": "ximena",
-          "texto": "Se le convirtió en el símbolo de la delincuencia juvenil de la Transición. El cine quinqui, como se llamó a aquel género, mostraba a jóvenes de barrios pobres que robaban y huían."
+          "texto": "Se le convirtió en el símbolo de la delincuencia juvenil de la Transición. Su historia es también la de cómo un país miró a la juventud marginada de aquellos años, a veces con miedo y a veces con fascinación. El cine quinqui, como se llamó a aquel género, mostraba a jóvenes de barrios pobres que robaban y huían."
         },
         {
           "voz": "alvaro",
-          "texto": "Una película cuenta la aventura. No cuenta a las personas que sufrieron los robos, ni a los vecinos del barrio. Para esas víctimas anónimas, el mito nunca existió."
+          "texto": "Una película cuenta la aventura. No cuenta a las personas que sufrieron los robos, ni a los vecinos del barrio. Para esas víctimas anónimas, el mito nunca existió. Un coche robado parece poca cosa, pero una vida entera de robos, fugas y condenas dejó a mucha gente sin su coche, sin su dinero y sin su tranquilidad."
         },
         {
           "voz": "ximena",
@@ -81,15 +81,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su familia pagó un precio. Tres de sus hermanos murieron: uno en un tiroteo con la policía local, otro al intentar escaparse de un hospital, otro en un accidente de coche durante una huida."
+          "texto": "Su familia pagó un precio. Según la prensa, varios de sus hermanos murieron de forma violenta, en tiroteos o en accidentes durante huidas."
         },
         {
           "voz": "ximena",
-          "texto": "El Vaquilla murió el 19 de diciembre de 2003, a los cuarenta y dos años, en un hospital de Badalona. La causa fue una cirrosis. Cumplía una condena de treinta años y estaba ya en libertad condicional avanzada."
+          "texto": "El Vaquilla murió el 19 de diciembre de 2003, a los cuarenta y dos años, en un hospital de Badalona. La causa fue una cirrosis. Cumplía condena y estaba ya en libertad condicional avanzada."
         },
         {
           "voz": "alvaro",
-          "texto": "No hay un final heroico. Un hombre que pasó casi toda la vida adulta encarcelado, sin llegar a rehabilitarse, según la prensa."
+          "texto": "No hay un final heroico ni una moraleja sencilla. Un hombre que pasó casi toda la vida adulta encarcelado, sin llegar a rehabilitarse, según la prensa."
         },
         {
           "voz": "ximena",
@@ -97,7 +97,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Que se recuerde también a quienes sufrieron sus robos, y a un niño que a los once años ya robaba coches."
+          "texto": "Que se recuerde también a quienes sufrieron sus robos, y a un niño que a los once años ya robaba coches, sin que nadie lo detuviera a tiempo."
         },
         {
           "voz": "ximena",
@@ -106,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Delincuente condenado en numerosas causas; no se atribuye ningún hecho concreto sin condena. Fuentes abiertas: El Mundo (obituario 2003, abierto con node fetch), El Mundo Magazine (2000, abierto) y EFE/Última Hora (WebFetch). Discrepancias: nacimiento (EFE, Torre Baró; El Mundo, Barcelona), primer ingreso en prisión (El Mundo: 16 años; EFE: 14; Magazine: 14 detenido por robar coches), lugar de la muerte (EFE: Can Ruti; El Mundo: hospital penitenciario de Badalona; la ficha, Can Ruti: el guion dice solo «un hospital de Badalona»), causa (cirrosis según ambos), libertad condicional/fin de condena (El Mundo: libertad fijada para el 3/2/2007; EFE: libertad condicional avanzada desde diciembre de 2003). EFE dice «condenas por más de cien años» y El Mundo no: se omite. La muerte de una mujer atropellada cuando él era menor se omite (no contrastada, hecho de menor). Los tiroteos de la familia (hermanos) se resumen sin detalles. Pronunciaciones a oído."
+  "nota_revision": "Delincuente condenado en numerosas causas; no se atribuye ningún hecho concreto sin condena. Fuentes abiertas: El Mundo (obituario 2003, abierto con node fetch), El Mundo Magazine (2000, abierto) y EFE/Última Hora (WebFetch). Discrepancias: nacimiento (EFE, Torre Baró; El Mundo, Barcelona), primer ingreso en prisión (El Mundo: 16 años; EFE: 14; Magazine: 14 detenido por robar coches), lugar de la muerte (EFE: Can Ruti; El Mundo: hospital penitenciario de Badalona; la ficha, Can Ruti: el guion dice solo «un hospital de Badalona»), causa (cirrosis según ambos), libertad condicional/fin de condena (El Mundo: libertad fijada para el 3/2/2007; EFE: libertad condicional avanzada desde diciembre de 2003). EFE dice «condenas por más de cien años» y El Mundo no: se omite. La muerte de una mujer atropellada cuando él era menor se omite (no contrastada, hecho de menor). Los tiroteos de la familia (hermanos) se resumen sin detalles. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitados etnia, madre y padrastro (terceros, sin fuente), apodo 'por inquieto', 'Perros callejeros' y canciones de rumba (sin fuente), condena 'de treinta años' (sin segunda fuente) y detalles de las muertes de sus hermanos. Edades de primer ingreso: 14 o 16."
 }

@@ -5,7 +5,6 @@
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Passannante": "Pasanánte",
     "Umberto": "Umbérto",
-    "Nápoles": "Nápoles",
     "Cairoli": "Cairóli",
     "Portoferraio": "Portoferráio",
     "Montelupo Fiorentino": "Montelúpo Fiorentíno",
@@ -62,7 +61,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en lo que fue la pena. Entre 1879 y 1889 estuvo relegado en Portoferraio, en la isla de Elba, en una celda oscura por debajo del nivel del mar y encadenado. Diez años sin apenas ver la luz."
+          "texto": "Fíjate en lo que fue la pena. Entre 1879 y 1889 estuvo relegado en Portoferraio, en la isla de Elba, según los relatos en una celda oscura por debajo del nivel del mar y encadenado. Diez años sin apenas ver la luz."
         },
         {
           "voz": "ximena",
@@ -111,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso condenado (1879). Fuentes abiertas: Treccani (Dizionario Biografico) y Repubblica (2007, abierta con curl). La ficha da 29 años de edad y «diez años» de celda; Treccani da relegación en Portoferraio del 31/3/1879 al 20/5/1889. Treccani: el cuchillo rozó el brazo del rey; no se dice que el rey lo conmutara en el mismo texto salvo la conmutación a cadena perpetua. Apellido también «Passanante». Se omite el lema de la tela (frase política) y los datos de la mujer del rey. Cráneo y cerebro: Museo criminológico de Roma hasta 2007. Pronunciaciones a oído."
+  "nota_revision": "Caso condenado (1879). Fuentes abiertas: Treccani (Dizionario Biografico) y Repubblica (2007, abierta con curl). La ficha da 29 años de edad y «diez años» de celda; Treccani da relegación en Portoferraio del 31/3/1879 al 20/5/1889. Treccani: el cuchillo rozó el brazo del rey; no se dice que el rey lo conmutara en el mismo texto salvo la conmutación a cadena perpetua. Apellido también «Passanante». Se omite el lema de la tela (frase política) y los datos de la mujer del rey. Cráneo y cerebro: Museo criminológico de Roma hasta 2007. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Condiciones de la celda atribuidas a los relatos. Sin otros cambios. Claves de pronunciación quitadas (sin uso o idénticas): Nápoles."
 }

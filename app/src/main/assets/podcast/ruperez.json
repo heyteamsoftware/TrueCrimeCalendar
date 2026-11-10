@@ -24,7 +24,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hacia las seis y media, el encargado de una gasolinera que cuenta la recaudación ve a alguien que le hace señas desde el otro lado del cristal, con un carné de identidad en la mano. Es Javier Rupérez, el hombre más buscado de España desde hacía treinta y un días."
+          "texto": "Hacia las seis y media, el encargado de una gasolinera que cuenta la recaudación ve a alguien que le hace señas desde el otro lado del cristal, con un carné de identidad en la mano. Es Javier Rupérez, el diputado secuestrado hacía treinta y un días."
         },
         {
           "voz": "alvaro",
@@ -48,7 +48,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según el diario, durante todo el cautiverio no habló con nadie: los secuestradores evitaban cualquier palabra que pudiera identificarles. Se desconoce cómo se hicieron los interrogatorios."
+          "texto": "Según el diario, durante todo el cautiverio no habló con nadie: los secuestradores evitaban cualquier palabra que pudiera identificarles."
         },
         {
           "voz": "alvaro",
@@ -68,11 +68,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "¿Qué pasó con los secuestradores? La justicia condenó a dos mujeres del comando, Françoise Marhuenda y Begoña Aurteneche. Otros dos acusados fueron juzgados aparte."
+          "texto": "¿Y los secuestradores? Hubo detenidos y juicio, pero el resultado fue otro."
         },
         {
           "voz": "ximena",
-          "texto": "En 1989 la Audiencia Nacional los absolvió. El tribunal dijo que no existía prueba mínima, adecuada y suficiente: las dos mujeres condenadas no declararon en aquel juicio y Rupérez no pudo identificarlos."
+          "texto": "En 1989 la Audiencia Nacional absolvió a los dos acusados que se sentaron en el banquillo. El tribunal dijo que no existía prueba mínima, adecuada y suficiente, y recordó que Rupérez no pudo identificarlos."
         },
         {
           "voz": "alvaro",
@@ -101,5 +101,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: El País 13/12/1979 (liberación, gasolinera, 31 días sin hablar con nadie, comité pro liberación, entrevista de Radio Popular de Bilbao), El País 1/2/1989 (absolución de Alcorta y Otegui; secuestro en pleno día, sin cubrir la cara) y El País 11/7/1997 (primer secuestro de ETA cuya finalidad no era el dinero). ABC y Ávilared (2022) bloquean el acceso automático: el lugar del cautiverio (El Hoyo de Pinares), el zulo y la visita de 2022 siguen la ficha. No se ha podido ver cómo fue el secuestro en Madrid (la ficha da solo el hecho). Contradicciones: la Wikipedia en castellano pone Trasmoz (Zaragoza) y la ficha ya lo corrige; ABC 2020 dice 1981 para las absoluciones y se sigue a El País (1989). Presunción de inocencia: los dos absueltos de 1989 (Alcorta y Otegui según El País y la ficha) NO se nombran en el guion. Dudas: «siguió su carrera política» y la frase de que fue dado el aviso a su hermano al amanecer (son datos de El País y de su biografía pública). No se pudo consultar «Secuestrado por ETA» (1991)."
+  "nota_revision": "Fuentes abiertas: El País 13/12/1979 (liberación, gasolinera, 31 días sin hablar con nadie, comité pro liberación, entrevista de Radio Popular de Bilbao), El País 1/2/1989 (absolución de Alcorta y Otegui; secuestro en pleno día, sin cubrir la cara) y El País 11/7/1997 (primer secuestro de ETA cuya finalidad no era el dinero). ABC y Ávilared (2022) bloquean el acceso automático: el lugar del cautiverio (El Hoyo de Pinares), el zulo y la visita de 2022 siguen la ficha. No se ha podido ver cómo fue el secuestro en Madrid (la ficha da solo el hecho). Contradicciones: la Wikipedia en castellano pone Trasmoz (Zaragoza) y la ficha ya lo corrige; ABC 2020 dice 1981 para las absoluciones y se sigue a El País (1989). Presunción de inocencia: los dos absueltos de 1989 (Alcorta y Otegui según El País y la ficha) NO se nombran en el guion. Dudas: «siguió su carrera política» y la frase de que fue dado el aviso a su hermano al amanecer (son datos de El País y de su biografía pública). No se pudo consultar «Secuestrado por ETA» (1991). | VERIFICACIÓN nuevos-noviembre: GRAVE: el guion nombraba a dos mujeres 'condenadas' (Marhuenda, Aurteneche) sin fuente abierta y contradecía la absolución; quitados los nombres y la condena. Absueltos sin nombre. Visita de 2022 solo de la ficha (atribuida a la prensa)."
 }

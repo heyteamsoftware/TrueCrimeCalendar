@@ -3,14 +3,8 @@
   "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "Arturo Ruiz": "Artúro Ruís",
-    "Guerrilleros de Cristo Rey": "Guerrilléros de Críto Rei",
-    "José Ignacio Fernández Guaza": "José Ignácio Fernández Guása",
-    "Fernández Guaza": "Fernández Guása",
     "Jorge Cesarsky": "Jorge Sesárski",
-    "Cesarsky": "Sesárski",
-    "Atocha": "Atócha",
-    "Mari Luz Nájera": "Mari Lus Nájera"
+    "Cesarsky": "Sesárski"
   },
   "cintas": [
     {
@@ -84,7 +78,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En el año 2000, la Audiencia Nacional declaró prescrito el asesinato. Nadie había sido juzgado por disparar. En 2023, el diario El País localizó en Argentina a Fernández Guaza, y según elDiario.es reconoció ante el periódico los disparos."
+          "texto": "Con los años, la justicia española consideró prescrito el asesinato. Nadie había sido juzgado por disparar. En 2023, el diario El País localizó en Argentina a Fernández Guaza, y según elDiario.es reconoció ante el periódico los disparos."
         },
         {
           "voz": "alvaro",
@@ -96,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Arturo Ruiz tenía diecinueve años. Está enterrado en Granada, y su hermano sigue pidiendo que se sepa lo que pasó y que se reconozca su lucha."
+          "texto": "Arturo Ruiz tenía diecinueve años y pedía amnistía para los presos políticos. Está enterrado en Granada, y su hermano sigue pidiendo que se sepa lo que pasó y que se reconozca su lucha."
         },
         {
           "voz": "ximena",
@@ -105,5 +99,5 @@
       ]
     }
   ],
-  "nota_revision": "Fernández Guaza nunca fue juzgado (prescripción en 2000): el guion lo llama «el autor señalado». Que reconoció los disparos ante El País en 2023 se toma de elDiario.es (no se abrió el artículo de El País, que pide JS). Condena de Cesarsky: 5,5 años + 6 meses (Público) o 6 años (El Salto, Wikipedia); el guion no fija la cifra. La reconstrucción de los disparos sigue la Wikipedia en castellano (sentencia judicial citada); El Salto dice «dos disparos por la espalda». La Marea ubica la placa/memorial; El Salto la sitúa en la plaza Soledad Torres Acosta, Wikipedia en la plaza de la Luna (aprox. misma zona). Posible proceso abierto: querella argentina (jueza Servini) y demanda familiar (junio de 2026, Wikipedia) a Interior; el guion no los afirma como resueltos."
+  "nota_revision": "Fernández Guaza nunca fue juzgado (prescripción en 2000): el guion lo llama «el autor señalado». Que reconoció los disparos ante El País en 2023 se toma de elDiario.es (no se abrió el artículo de El País, que pide JS). Condena de Cesarsky: 5,5 años + 6 meses (Público) o 6 años (El Salto, Wikipedia); el guion no fija la cifra. La reconstrucción de los disparos sigue la Wikipedia en castellano (sentencia judicial citada); El Salto dice «dos disparos por la espalda». La Marea ubica la placa/memorial; El Salto la sitúa en la plaza Soledad Torres Acosta, Wikipedia en la plaza de la Luna (aprox. misma zona). Posible proceso abierto: querella argentina (jueza Servini) y demanda familiar (junio de 2026, Wikipedia) a Interior; el guion no los afirma como resueltos. VERIFICACIÓN nuevos-enero: Año y tribunal de la prescripción no confirmados: se dice sin fecha. Fernández Guaza sigue como «autor señalado», nunca juzgado.  Pronunciación: quitadas las claves que empeoraban la lectura (Críto Rei, Guása, Ignácio)."
 }

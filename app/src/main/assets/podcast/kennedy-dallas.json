@@ -17,7 +17,9 @@
     "Johnson": "Yónson",
     "Warren": "Uóren",
     "Love Field": "Lav Fild",
-    "Texas": "Téksas"
+    "Texas": "Téksas",
+    "Jacqueline Kennedy": "Yaclín Kénedi",
+    "Arlington": "Árlington"
   },
   "cintas": [
     {
@@ -47,7 +49,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Kennedy fue declarado muerto media hora después en el hospital. Tenía cuarenta y seis años. A las dos y treinta y nueve de la tarde, el vicepresidente Lyndon Johnson juró el cargo en el avión presidencial, en el aeropuerto de Love Field. Jacqueline Kennedy estaba a su lado."
+          "texto": "Kennedy fue declarado muerto media hora después en el hospital. Tenía cuarenta y seis años. A las dos y treinta y ocho de la tarde, el vicepresidente Lyndon Johnson juró el cargo en el avión presidencial, en el aeropuerto de Love Field. Jacqueline Kennedy estaba a su lado."
         },
         {
           "voz": "ximena",
@@ -55,11 +57,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Oswald tenía una vida difícil de resumir: marine, viajó a la Unión Soviética, se casó allí con una mujer soviética y regresó a Estados Unidos en 1962. Nada de eso lo hace culpable. Lo que se atribuye se apoya en lo que las investigaciones oficiales llegaron a concluir."
+          "texto": "Oswald tenía una vida difícil de resumir: antiguo soldado de infantería de marina, viajó a la Unión Soviética, se casó allí con una mujer soviética y regresó a Estados Unidos en 1962. Nada de eso lo hace culpable. Lo que se atribuye se apoya en lo que las investigaciones oficiales llegaron a concluir."
         },
         {
           "voz": "ximena",
-          "texto": "Menos de una hora después de los disparos, un policía de Dallas, J. D. Tippit, fue muerto a tiros en una calle cuando interrogó a un hombre. Media hora más tarde, Oswald fue detenido en un cine, el Texas Theatre."
+          "texto": "Menos de una hora después de los disparos, un policía de Dallas, Tippit, murió a tiros en una calle al interrogar a un hombre; la Comisión Warren concluyó que fue Oswald. Media hora más tarde, Oswald fue detenido en un cine, el Texas Theatre."
         },
         {
           "voz": "ximena",
@@ -71,7 +73,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 24 de noviembre, en el sótano de la jefatura de policía de Dallas, un hombre salió de entre los presentes y le disparó una sola vez. Era Jack Ruby, propietario de un club nocturno. Ruby dijo que lo hizo por rabia ante el asesinato de Kennedy."
+          "texto": "El 24 de noviembre, en el sótano de la jefatura de policía de Dallas, un hombre salió de entre los presentes y le disparó una sola vez. Era Jack Ruby, propietario de un club nocturno. Ruby fue detenido en el acto."
         },
         {
           "voz": "alvaro",
@@ -79,7 +81,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Ruby fue condenado, y la sentencia se anuló en 1966 por un juicio injusto. Murió en 1967, antes de que pudiera celebrarse el nuevo."
+          "texto": "Ruby fue condenado en 1964, y la sentencia se anuló en 1966. Murió en 1967, antes de que pudiera celebrarse el nuevo."
         },
         {
           "voz": "ximena",
@@ -91,7 +93,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Ese comité se apoyó en un estudio de grabaciones de sonido. Esas pruebas acústicas se pusieron en duda después. El comité no identificó a ningún otro tirador ni la magnitud de la conspiración. Dijo también que la investigación de la Comisión Warren sobre una conspiración fue inadecuada."
+          "texto": "Ese comité se apoyó en un estudio de grabaciones de sonido. Esas pruebas acústicas fueron rebatidas después, en 1982, por un panel de la Academia Nacional de Ciencias. El comité no identificó a ningún otro tirador ni la magnitud de la conspiración. Dijo también que la investigación de la Comisión Warren sobre una conspiración fue inadecuada."
         },
         {
           "voz": "alvaro",
@@ -99,7 +101,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Kennedy fue enterrado con honores militares en el cementerio de Arlington. Su viuda encendió una llama que sigue encendida. J. D. Tippit fue un policía de Dallas que murió esa misma tarde. Que su nombre se recuerde junto al del presidente."
+          "texto": "Kennedy fue enterrado con honores militares en el cementerio de Arlington. Su viuda encendió una llama que sigue encendida. El agente Tippit murió esa misma tarde. Que su nombre se recuerde junto al del presidente."
         },
         {
           "voz": "ximena",
@@ -112,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso no juzgado: Oswald fue acusado pero nunca juzgado; todo se atribuye a la Comisión Warren (1964) y al comité de la Cámara (1979). Fuentes abiertas: National Archives (índice del informe Warren y página del comité de la Cámara, vía WebFetch) y History.com (vía node fetch; la JFK Library devuelve 403). No se ha podido abrir el texto completo de los informes, solo sus resúmenes. Ruby: condenado en 1964 (no consta en las páginas abiertas); History.com: anulado en octubre de 1966 y murió esperando nuevo juicio en enero de 1967 (el texto abierto se corta, se dice solo «murió en 1967»). Las pruebas acústicas que sostenían la «probable conspiración» fueron rebatidas en 1982 por una comisión de la Academia Nacional de Ciencias (solo de la ficha, sin segunda fuente abierta): el guion dice solo «se pusieron en duda». Se omite la herida concreta, la autopsia, la película de Zapruder y todas las teorías de conspiración nombradas. Pronunciaciones a oído."
+  "nota_revision": "Caso no juzgado: Oswald fue acusado pero nunca juzgado; todo se atribuye a la Comisión Warren (1964) y al comité de la Cámara (1979). Fuentes abiertas: National Archives (índice del informe Warren y página del comité de la Cámara, vía WebFetch) y History.com (vía node fetch; la JFK Library devuelve 403). No se ha podido abrir el texto completo de los informes, solo sus resúmenes. Ruby: condenado en 1964 (no consta en las páginas abiertas); History.com: anulado en octubre de 1966 y murió esperando nuevo juicio en enero de 1967 (el texto abierto se corta, se dice solo «murió en 1967»). Las pruebas acústicas que sostenían la «probable conspiración» fueron rebatidas en 1982 por una comisión de la Academia Nacional de Ciencias (solo de la ficha, sin segunda fuente abierta): el guion dice solo «se pusieron en duda». Se omite la herida concreta, la autopsia, la película de Zapruder y todas las teorías de conspiración nombradas. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Corregida la hora de la jura de Johnson (14:38); Tippit atribuido a la Comisión Warren (no a Oswald como hecho); quitados el móvil de Ruby y 'juicio injusto' (sin fuente); pruebas acústicas rebatidas en 1982 por la Academia Nacional de Ciencias (conocimiento general). Oswald nunca juzgado: dicho."
 }

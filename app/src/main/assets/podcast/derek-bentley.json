@@ -44,11 +44,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cuando se quedó sin munición, el chico de dieciséis años saltó desde el tejado y se rompió la espalda. Bentley ya estaba bajo custodia de la policía."
+          "texto": "Cuando se quedó sin munición, el chico de dieciséis años saltó desde el tejado y se rompió la espalda. Según varios relatos, Bentley ya estaba bajo custodia de la policía."
         },
         {
           "voz": "alvaro",
-          "texto": "Subraya eso. Bentley no disparó. Llevaba una navaja y unos nudillos de hierro, y no usó ninguno. Ni siquiera estaba libre cuando Miles murió."
+          "texto": "Subraya eso. Bentley no disparó. Llevaba una navaja y unos nudillos de hierro, y no usó ninguno. Y tampoco estaba en condiciones de huir."
         },
         {
           "voz": "ximena",
@@ -100,7 +100,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Queda una duda que ninguna sentencia resuelve: si Bentley pronunció aquellas palabras. Él lo negó siempre. Lo que ya sabemos es que, dijera lo que dijera, no merecía la horca."
+          "texto": "Queda una duda que ninguna sentencia resuelve: si Bentley pronunció aquellas palabras. Él lo negó siempre. Lo que ya sabemos es que, en 1998, la condena de 1952 fue anulada."
         },
         {
           "voz": "ximena",
@@ -113,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Guardian 28/1/1953 (petición de unos 200 diputados, protestas, Craig menor y no ejecutable), BBC 30/7/1998 (condena anulada, Iris fallecida antes de la sentencia, Craig se disculpa), PubMed/Epilepsy & Behavior 2017 (epilepsia, edad mental de unos 11 años, analfabeto, indulto de 1993) y Wikipedia (detalles del tejado, juicio de 75 minutos con petición de clemencia, liberación del compañero en 1963). La sentencia de 1998 (bailii) no se pudo abrir (protección anti-bots). El compañero no se nombra por ser menor de edad en 1952 y seguir vivo. La frase «Let him have it» se atribuye a lo declarado por los policías, negado por ambos. Sin contradicciones con la ficha; solo matiz: la ficha dice que Bentley ya estaba detenido cuando disparó el compañero; Wikipedia dice que el detective lo había sujetado, y se ha expresado como «bajo custodia» con prudencia. «La ley trató las palabras como una orden» es valoración, no hecho. Datos que conviene revisar: «unos doscientos diputados» (Guardian); «el abandono de la pena de muerte» sin año preciso."
+  "nota_revision": "Fuentes abiertas: Guardian 28/1/1953 (petición de unos 200 diputados, protestas, Craig menor y no ejecutable), BBC 30/7/1998 (condena anulada, Iris fallecida antes de la sentencia, Craig se disculpa), PubMed/Epilepsy & Behavior 2017 (epilepsia, edad mental de unos 11 años, analfabeto, indulto de 1993) y Wikipedia (detalles del tejado, juicio de 75 minutos con petición de clemencia, liberación del compañero en 1963). La sentencia de 1998 (bailii) no se pudo abrir (protección anti-bots). El compañero no se nombra por ser menor de edad en 1952 y seguir vivo. La frase «Let him have it» se atribuye a lo declarado por los policías, negado por ambos. Sin contradicciones con la ficha; solo matiz: la ficha dice que Bentley ya estaba detenido cuando disparó el compañero; Wikipedia dice que el detective lo había sujetado, y se ha expresado como «bajo custodia» con prudencia. «La ley trató las palabras como una orden» es valoración, no hecho. Datos que conviene revisar: «unos doscientos diputados» (Guardian); «el abandono de la pena de muerte» sin año preciso. | VERIFICACIÓN nuevos-noviembre: Quitada la valoración 'no merecía la horca'; la custodia se atribuye a los relatos. Compañero menor sin nombre (OK). Condena anulada en 1998 (OK)."
 }

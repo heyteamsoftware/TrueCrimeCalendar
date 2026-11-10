@@ -24,7 +24,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Buenos Aires, 14 de noviembre de 1909. Por la tarde, un carruaje recorre la avenida Quintana, cerca del cementerio de la Recoleta. Dentro viajan el coronel Ramón Falcón, jefe de la policía de la ciudad, y su secretario, Alberto Lartigau. Vuelven del funeral de un comisario."
+          "texto": "Buenos Aires, 14 de noviembre de 1909. Por la tarde, un carruaje recorre la avenida Quintana, cerca del cementerio de la Recoleta. Dentro viajan el coronel Ramón Falcón, jefe de la policía de la ciudad, y su secretario, Alberto Lartigau. Vuelven de un funeral."
         },
         {
           "voz": "ximena",
@@ -36,7 +36,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El joven se llamaba Simón Radowitzky. Había nacido en el Imperio ruso, era judío y anarquista, y acababa de llegar a Argentina como inmigrante. Huyó, intentó quitarse la vida y varios viandantes lo detuvieron minutos después."
+          "texto": "El joven se llamaba Simón Radowitzky. Había nacido en el Imperio ruso, era judío y anarquista, y acababa de llegar a Argentina como inmigrante. Huyó, y varios viandantes lo detuvieron minutos después."
         },
         {
           "voz": "ximena",
@@ -64,7 +64,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Mientras tanto, la prensa anarquista construía su figura: el mártir de Ushuaia. Un periódico publicó durante años noticias mensuales sobre él. Esa leyenda es una parte del caso, pero no cambia lo ocurrido en la avenida Quintana: dos hombres muertos."
+          "texto": "Mientras tanto, la prensa anarquista construía su figura: el mártir de Ushuaia. Según BBC Mundo, un periódico anarquista publicó durante años noticias mensuales sobre él. Esa leyenda es una parte del caso, pero no cambia lo ocurrido en la avenida Quintana: dos hombres muertos."
         },
         {
           "voz": "ximena",
@@ -72,11 +72,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1936 viajó a España para luchar en la Guerra Civil. La CNT no le permitió ir al frente. Le encargó, en cambio, llevar su archivo histórico a Ámsterdam para que no cayera en manos del franquismo."
+          "texto": "En 1936 viajó a España para luchar en la Guerra Civil. Según BBC Mundo, la CNT no le permitió ir al frente y le encargó, en cambio, llevar su archivo histórico a Ámsterdam para que no cayera en manos del franquismo."
         },
         {
           "voz": "ximena",
-          "texto": "Cayó preso en un campo de concentración francés, escapó y llegó a México con otros anarquistas españoles. Allí trabajó en una fábrica de juguetes con el nombre que figuraba en su pasaporte: Raúl Gómez Saavedra. Murió de un infarto en 1956."
+          "texto": "Tras la derrota republicana pasó por Francia y llegó a México con otros anarquistas españoles. Allí trabajó en una fábrica de juguetes con el nombre que figuraba en su pasaporte: Raúl Gómez Saavedra. Murió de un infarto en 1956."
         },
         {
           "voz": "alvaro",
@@ -101,5 +101,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: BBC Mundo (Campoamor, 26/2/2017) y Diario Popular (14/11/2019). Télam y Página/12 no se abrieron. Contradicciones: BBC Mundo dice que el atentado fue al regreso de un funeral por la Recoleta; la ficha da la avenida Quintana y Callao (se unen). Edad: 17 (Diario Popular, por un rabino) o 18 (BBC); se dice «diecisiete o dieciocho». Pena: BBC dice condenado a muerte y conmutada; Diario Popular, que no se le condenó a muerte; el guion lo explica como discrepancia entre fuentes. Muertos del 1 de mayo: ocho muertos y cuarenta heridos según Diario Popular; el guion dice «varias personas». Años presos: la ficha dice 21; BBC dice 22 en Ushuaia; el guion dice «más de veinte». Datos sin segunda fuente abierta: «un periódico publicó durante años noticias mensuales» (BBC Mundo sobre La Protesta). Que la CNT no le dejara ir al frente y el traslado del archivo a Ámsterdam: solo BBC Mundo. «Prensa de la época habló de grupos anarquistas»: BBC dice que grupúsculos anarquistas prepararon la venganza; no se afirma quién. Evitado cualquier detalle gráfico de la bomba. Pronunciación a oído: Radowitzky, Lartigau."
+  "nota_revision": "Fuentes abiertas: BBC Mundo (Campoamor, 26/2/2017) y Diario Popular (14/11/2019). Télam y Página/12 no se abrieron. Contradicciones: BBC Mundo dice que el atentado fue al regreso de un funeral por la Recoleta; la ficha da la avenida Quintana y Callao (se unen). Edad: 17 (Diario Popular, por un rabino) o 18 (BBC); se dice «diecisiete o dieciocho». Pena: BBC dice condenado a muerte y conmutada; Diario Popular, que no se le condenó a muerte; el guion lo explica como discrepancia entre fuentes. Muertos del 1 de mayo: ocho muertos y cuarenta heridos según Diario Popular; el guion dice «varias personas». Años presos: la ficha dice 21; BBC dice 22 en Ushuaia; el guion dice «más de veinte». Datos sin segunda fuente abierta: «un periódico publicó durante años noticias mensuales» (BBC Mundo sobre La Protesta). Que la CNT no le dejara ir al frente y el traslado del archivo a Ámsterdam: solo BBC Mundo. «Prensa de la época habló de grupos anarquistas»: BBC dice que grupúsculos anarquistas prepararon la venganza; no se afirma quién. Evitado cualquier detalle gráfico de la bomba. Pronunciación a oído: Radowitzky, Lartigau. | VERIFICACIÓN nuevos-noviembre: Quitados 'funeral de un comisario', 'intentó quitarse la vida' y 'campo de concentración francés' (sin fuente); CNT/Ámsterdam atribuidos a BBC Mundo."
 }

@@ -11,8 +11,7 @@
     "Kenneth Noye": "Kénet Noi",
     "Noye": "Noi",
     "John Fordham": "Yon Fórdam",
-    "The Observer": "Di Obsérver",
-    "Londres": "Londres"
+    "The Observer": "Di Obsérver"
   },
   "cintas": [
     {
@@ -34,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Reducen a los guardias. Los rocían con gasolina y amenazan con prenderles fuego si no dan las combinaciones de las cámaras. Nadie muere en el atraco."
+          "texto": "Reducen a los guardias. Los rocían con gasolina y amenazan con prenderles fuego si no dan las combinaciones de las cámaras. Nadie muere en el atraco, pero el miedo fue real."
         },
         {
           "voz": "alvaro",
@@ -50,7 +49,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía sospechó enseguida de un infiltrado. Los atracadores conocían el sistema de seguridad. Entre los guardias, uno había llegado tarde al trabajo y se había librado del atraco: Anthony Black."
+          "texto": "La policía sospechó enseguida de un infiltrado. Los atracadores conocían el sistema de seguridad. Las sospechas apuntaron a uno de los guardias, Anthony Black."
         },
         {
           "voz": "ximena",
@@ -58,7 +57,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en el error de los ladrones. Unas semanas después del atraco, McAvoy se mudó de una casa de protección oficial a una mansión. Y puso a sus dos perros de presa de nombre Brinks y Mat."
+          "texto": "Fíjate en el error de los ladrones. Gastar llama la atención. Según se contó después, McAvoy se mudó pronto a una mansión."
         },
         {
           "voz": "ximena",
@@ -82,7 +81,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Una absolución es una absolución. Lo único que se probó contra Noye en aquel caso fue su participación en el manejo del oro. La muerte del policía quedó, en el plano judicial, sin condena."
+          "texto": "Una absolución es una absolución. Lo que se probó contra Noye fue su participación en el manejo del oro. La muerte del policía quedó, en el plano judicial, sin condena."
         },
         {
           "voz": "ximena",
@@ -115,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso con condenas. Fuentes abiertas: The Observer/Guardian (2003, copia archivada) y BBC News (2007), ambas leídas. La ficha atribuye el parentesco de Black a Robinson (BBC), mientras que The Observer dice que Black nombró a McAvoy y The Independent (1996, no abierta) lo hace cuñado de McAvoy: el guion dice solo que Black «confesó y dio nombres». La ficha da 25 años a Robinson y McAvoy en diciembre de 1984; las fuentes abiertas confirman 25 años a McAvoy, 6 a Black y 14 a Noye en 1986 (dato de Robinson y fecha: solo de la ficha). Noye fue absuelto de asesinato por la muerte del policía John Fordham (The Observer: «cleared of murder»); se dice así. Se omiten los nombres de los asesinados después (el Observer los vincula al caso, pero no se acusa a nadie en ellos) y la condena posterior de Noye por otro asesinato. Cifras: 6.800 lingotes, 26 millones de libras, «al menos 10 millones sin localizar» en 2003. Pronunciaciones a oído."
+  "nota_revision": "Caso con condenas. Fuentes abiertas: The Observer/Guardian (2003, copia archivada) y BBC News (2007), ambas leídas. La ficha atribuye el parentesco de Black a Robinson (BBC), mientras que The Observer dice que Black nombró a McAvoy y The Independent (1996, no abierta) lo hace cuñado de McAvoy: el guion dice solo que Black «confesó y dio nombres». La ficha da 25 años a Robinson y McAvoy en diciembre de 1984; las fuentes abiertas confirman 25 años a McAvoy, 6 a Black y 14 a Noye en 1986 (dato de Robinson y fecha: solo de la ficha). Noye fue absuelto de asesinato por la muerte del policía John Fordham (The Observer: «cleared of murder»); se dice así. Se omiten los nombres de los asesinados después (el Observer los vincula al caso, pero no se acusa a nadie en ellos) y la condena posterior de Noye por otro asesinato. Cifras: 6.800 lingotes, 26 millones de libras, «al menos 10 millones sin localizar» en 2003. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitados 'llegó tarde al trabajo', los perros Brinks y Mat y la casa de protección oficial (sin fuente). Nadie sin condena: Noye absuelto de asesinato, condenado por el oro. Condena de Robinson solo en la ficha (conocimiento general). Claves de pronunciación quitadas (sin uso o idénticas): Londres."
 }

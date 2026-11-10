@@ -43,7 +43,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Tres meses antes había viajado a Nueva York a recibir el premio María Moors Cabot, de la Universidad de Columbia, que reconoce a periodistas. Poco antes, el régimen le había prohibido salir del país."
+          "texto": "Tres meses antes le habían concedido el premio María Moors Cabot, de la Universidad de Columbia, que reconoce a periodistas de todo el continente."
         },
         {
           "voz": "ximena",
@@ -51,11 +51,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Al día siguiente, la policía detuvo a cuatro hombres. Uno de ellos, Silvio Peña Rivas, declaró ante un juez de Managua que le habían pagado cien mil córdobas por el crimen. Dijo que el dinero venía de Pedro Ramos, empresario cubanoamericano, dueño de un banco de sangre que La Prensa había denunciado."
+          "texto": "Al día siguiente, la policía detuvo a cuatro hombres. Uno de ellos, Silvio Peña Rivas, declaró ante un juez de Managua que le habían pagado cien mil córdobas por el crimen. Dijo que el dinero venía de un empresario cubanoamericano, dueño de un banco de sangre que La Prensa había denunciado."
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Fíjate bien: esto es lo que dijo uno de los acusados. Ramos lo calificó de monstruosidad desde Miami y lo negó. Somoza también negó cualquier implicación, y dijo a la revista TIME que lamentaba la muerte de su adversario. Aquí no hay una verdad probada. Hay tres versiones."
+          "texto": "Tercera nota. Fíjate bien: esto es lo que dijo uno de los acusados. El empresario lo calificó de monstruosidad desde Miami y lo negó. Somoza también negó cualquier implicación, y dijo a la revista TIME que lamentaba la muerte de su adversario. Aquí no hay una verdad probada. Hay tres versiones."
         },
         {
           "voz": "ximena",
@@ -67,7 +67,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pedro Ramos nunca volvió a Nicaragua. Según una fuente secundaria, que no hemos podido confirmar con otra, un tribunal lo condenó en ausencia después de la revolución. De los autores materiales no hemos podido confirmar qué penas recibieron."
+          "texto": "Ese empresario nunca volvió a Nicaragua. No hemos podido confirmar ninguna condena contra él, ni qué penas recibieron los autores materiales, ni si llegaron a cumplirlas."
         },
         {
           "voz": "alvaro",
@@ -88,5 +88,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: La Prensa (crónica de la edición vespertina del 10-1-1978, publicada en 2017), TIME (23-1-1978, solo la página 2), Divergentes (2023) y Tico Times (2011). Tema políticamente vivo: no se atribuye la autoría intelectual. Discrepancias: (1) hora: La Prensa 1978 dice «ocho y veinte» y su nota de 2017 «8:30»; el guion dice «primera hora de la mañana». (2) Tico Times (2011) afirma que lo mataron «sicarios desconocidos enviados por Somoza»; Somoza lo negó a TIME y no se probó: el guion lo recoge atribuido a esa crónica y sin respaldarlo. (3) Divergentes dice 26 años y 30 años al frente de La Prensa: no se da la cifra. (4) Penas de los autores materiales: no se han podido confirmar. (5) Condena en ausencia de Pedro Ramos: solo Wikipedia (ya señalado en la ficha); el guion lo da como «fuente secundaria que no hemos podido confirmar». (6) Que Chamorro estuviera encarcelado «al menos cinco veces» y la censura de 33 meses: Divergentes. El Toyota verde, el cambio de coche, las latas de cerveza y la suposición de La Prensa de que eran para desviar la atención: crónica de La Prensa. El apunte de febrero de 1975 sobre un plan para secuestrarlo es de Divergentes y se atribuye. Cantidad de 100.000 córdobas, declaración de Peña Rivas ante un juez, negación de Ramos («monstruosidad») y de Somoza: TIME. No se describen las heridas ni el cuerpo (la crónica original es muy gráfica)."
+  "nota_revision": "Fuentes abiertas: La Prensa (crónica de la edición vespertina del 10-1-1978, publicada en 2017), TIME (23-1-1978, solo la página 2), Divergentes (2023) y Tico Times (2011). Tema políticamente vivo: no se atribuye la autoría intelectual. Discrepancias: (1) hora: La Prensa 1978 dice «ocho y veinte» y su nota de 2017 «8:30»; el guion dice «primera hora de la mañana». (2) Tico Times (2011) afirma que lo mataron «sicarios desconocidos enviados por Somoza»; Somoza lo negó a TIME y no se probó: el guion lo recoge atribuido a esa crónica y sin respaldarlo. (3) Divergentes dice 26 años y 30 años al frente de La Prensa: no se da la cifra. (4) Penas de los autores materiales: no se han podido confirmar. (5) Condena en ausencia de Pedro Ramos: solo Wikipedia (ya señalado en la ficha); el guion lo da como «fuente secundaria que no hemos podido confirmar». (6) Que Chamorro estuviera encarcelado «al menos cinco veces» y la censura de 33 meses: Divergentes. El Toyota verde, el cambio de coche, las latas de cerveza y la suposición de La Prensa de que eran para desviar la atención: crónica de La Prensa. El apunte de febrero de 1975 sobre un plan para secuestrarlo es de Divergentes y se atribuye. Cantidad de 100.000 córdobas, declaración de Peña Rivas ante un juez, negación de Ramos («monstruosidad») y de Somoza: TIME. No se describen las heridas ni el cuerpo (la crónica original es muy gráfica). VERIFICACIÓN nuevos-enero: Quitado el nombre del empresario señalado por un detenido (sin condena confirmada; ninguna búsqueda halló sentencia) y la frase de la condena en ausencia; quitado el viaje a Nueva York y la prohibición de salir (sin fuente). "
 }

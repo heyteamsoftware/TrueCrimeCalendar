@@ -7,8 +7,6 @@
     "Bolivia": "Bolivia",
     "Wilmington": "Uílmington",
     "Richard Randolph": "Ríchard Rándolf",
-    "Julian Frank": "Yúlian Frank",
-    "Frank": "Frank",
     "Edward Orrick McDonnell": "Édward Órrik Macdónel",
     "Kure Beach": "Kiur Bich",
     "Carolina Beach": "Carolina Bich",
@@ -71,11 +69,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El FBI asumió la investigación criminal. La atención se fijó en un pasajero sentado cerca del punto de la explosión: Julian Frank, un abogado de Nueva York. Según la prensa de la época, tenía grandes deudas, estaba investigado por la fiscalía de Manhattan y había contratado seguros de vida por cerca de un millón de dólares, según las fuentes."
+          "texto": "El FBI asumió la investigación criminal. La atención se fijó en un pasajero que viajaba cerca del punto de la explosión, un abogado de Nueva York. Según la prensa de la época, tenía problemas con la justicia y seguros de vida por cerca de un millón de dólares, según las fuentes."
         },
         {
           "voz": "alvaro",
-          "texto": "Cuarta nota, y la más delicada. Frank murió en el avión, como los demás. La Junta señaló que estaba cerca de la explosión, pero no le atribuyó ninguna culpa. Nunca fue acusado de nada relacionado con el vuelo. Esa hipótesis existe, y debe quedar como lo que es: una línea de investigación sin pruebas."
+          "texto": "Cuarta nota, y la más delicada. Ese pasajero murió en el avión, como los demás. La Junta no le atribuyó ninguna culpa. Nunca fue acusado de nada relacionado con el vuelo. Esa hipótesis existe, y debe quedar como lo que es: una línea de investigación sin pruebas."
         },
         {
           "voz": "ximena",
@@ -100,5 +98,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia (en inglés, que cita el informe CAB 1-0002), blog de la biblioteca de la Universidad de Carolina del Norte y TIME (7-3-1960, texto extraído de la página); el PDF del informe de la CAB y la página del FBI Vault no se pudieron leer. Julian Frank solo aparece como línea de investigación: era una víctima, la CAB no le atribuyó culpa y nunca fue acusado; el guion lo dice. La cifra de los seguros varía (cerca de 900.000 dólares según Wikipedia, más de un millón según TIME): el guion dice «cerca de un millón, según las fuentes». Que la fiscalía de Manhattan lo investigaba por una estafa con fines benéficos sale de Wikipedia; el blog de la UNC habla de fraude y malversación. El vuelo 967 (16-11-1959, sobre el golfo de México) se menciona solo como semejanza señalada por algunos, sin nombrar a nadie. Versión del granjero (oyó el motor y la explosión hacia las 2:45; su hijo halló los restos; llamada a las 7) y fragmento de Kure Beach: Wikipedia (citando la prensa de 1960). Hora de salida: no se da (varía). Wikipedia dice que el FBI asumió la investigación criminal el 12 de enero y también el 20; el guion no da fecha. Wikipedia indica además que la investigación sigue abierta; el guion solo dice que el caso sigue sin resolver y que nunca se identificó a un responsable. No se describen cuerpos ni heridas."
+  "nota_revision": "Fuentes abiertas: Wikipedia (en inglés, que cita el informe CAB 1-0002), blog de la biblioteca de la Universidad de Carolina del Norte y TIME (7-3-1960, texto extraído de la página); el PDF del informe de la CAB y la página del FBI Vault no se pudieron leer. Julian Frank solo aparece como línea de investigación: era una víctima, la CAB no le atribuyó culpa y nunca fue acusado; el guion lo dice. La cifra de los seguros varía (cerca de 900.000 dólares según Wikipedia, más de un millón según TIME): el guion dice «cerca de un millón, según las fuentes». Que la fiscalía de Manhattan lo investigaba por una estafa con fines benéficos sale de Wikipedia; el blog de la UNC habla de fraude y malversación. El vuelo 967 (16-11-1959, sobre el golfo de México) se menciona solo como semejanza señalada por algunos, sin nombrar a nadie. Versión del granjero (oyó el motor y la explosión hacia las 2:45; su hijo halló los restos; llamada a las 7) y fragmento de Kure Beach: Wikipedia (citando la prensa de 1960). Hora de salida: no se da (varía). Wikipedia dice que el FBI asumió la investigación criminal el 12 de enero y también el 20; el guion no da fecha. Wikipedia indica además que la investigación sigue abierta; el guion solo dice que el caso sigue sin resolver y que nunca se identificó a un responsable. No se describen cuerpos ni heridas. VERIFICACIÓN nuevos-enero: Julian Frank ya no se nombra (era víctima, nunca acusado; la CAB no le atribuyó culpa); queda como «un pasajero». Confirmado en Wikipedia: avión previsto un 707 en tierra por grieta en el parabrisas, tres pasajeros en lista de espera, Bolivia con teléfono, hora 2:31 último contacto. "
 }

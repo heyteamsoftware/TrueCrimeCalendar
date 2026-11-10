@@ -18,7 +18,6 @@
     "Old Bailey": "Old Béili",
     "Balfour": "Bálfur",
     "East End": "Ist End",
-    "West End": "Uest End",
     "Leeson": "Lísson"
   },
   "cintas": [
@@ -37,7 +36,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Londres, madrugada del 3 de enero de 1911. Una larga fila de agentes avanza en silencio por las calles del East End. No les han dicho adónde van, pero saben que es peligroso: los hombres casados se han quedado fuera. Su destino es el número cien de Sidney Street, en Stepney."
+          "texto": "Londres, madrugada del 3 de enero de 1911. Una larga fila de agentes avanza en silencio por las calles del East End. No les han dicho adónde van, pero saben que es peligroso: según algunos relatos, los hombres casados se han quedado fuera. Su destino es el número cien de Sidney Street, en Stepney."
         },
         {
           "voz": "alvaro",
@@ -65,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "A las siete y media de la mañana, los agentes golpean la puerta. Desde dentro responden a tiros, y un detective, Leeson, cae gravemente herido. Sobrevivió, pero su carrera policial terminó."
+          "texto": "A las siete y media de la mañana, los agentes golpean la puerta. Desde dentro responden a tiros, y un detective, Leeson, cae gravemente herido. Sobrevivió y se recuperó."
         },
         {
           "voz": "alvaro",
@@ -89,7 +88,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fue casi la primera noticia en directo: esa misma tarde, una película de los camarógrafos de actualidades se proyectaba en un teatro del West End, y los periódicos pusieron las fotos en portada."
+          "texto": "Fue casi la primera noticia filmada: los camarógrafos de actualidades lo grabaron, las películas se proyectaron en los cines de Londres y los periódicos pusieron las fotos en portada."
         },
         {
           "voz": "alvaro",
@@ -114,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Historic UK (Ben Johnson), The Guardian (Bates, 2011), London Remembers; The Independent no cargó. Lo esencial coincide con la ficha. Discrepancias: (1) los muertos en el asedio: Historic UK y Wikipedia los llaman anarquistas letones; The Guardian 2011 dice que eran delincuentes menores, no anarquistas; el guion los llama «inmigrantes letones» y dice que la prensa los llamó anarquistas. (2) Hora y fecha de llegada de la policía: Historic UK, madrugada del 3 de enero; The Guardian, tarde del 2; el guion usa el 3 de enero (como London Remembers). (3) Cómo murió cada uno y causa del incendio: según las fuentes, distintas; se dice y se deja sin elegir (la chispa contra la tubería de gas es versión de London Remembers, atribuida con «según una versión»). (4) Acusados en el juicio: The Guardian dice siete (todos con cargos retirados o absueltos); Historic UK da cuatro (Peters, Dubof, Rosen y Vassileva, con la condena menor de ella anulada); el guion dice «varios» y atribuye el siete al Guardian. (5) Nombre del segundo muerto: Sokoloff, Sokolow, William o Josef. Nombres de los tres policías muertos (Bentley, Tucker, Choat) y el bombero Pearson: Historic UK. No se nombra a nadie absuelto; sobre quién disparó, solo se dice que algunos historiadores señalan a un absuelto, sin nombrarlo. La frase de Balfour y la orden a los bomberos salen del Guardian/London Remembers/Historic UK. Los cuerpos y las heridas no se describen."
+  "nota_revision": "Fuentes abiertas: Historic UK (Ben Johnson), The Guardian (Bates, 2011), London Remembers; The Independent no cargó. Lo esencial coincide con la ficha. Discrepancias: (1) los muertos en el asedio: Historic UK y Wikipedia los llaman anarquistas letones; The Guardian 2011 dice que eran delincuentes menores, no anarquistas; el guion los llama «inmigrantes letones» y dice que la prensa los llamó anarquistas. (2) Hora y fecha de llegada de la policía: Historic UK, madrugada del 3 de enero; The Guardian, tarde del 2; el guion usa el 3 de enero (como London Remembers). (3) Cómo murió cada uno y causa del incendio: según las fuentes, distintas; se dice y se deja sin elegir (la chispa contra la tubería de gas es versión de London Remembers, atribuida con «según una versión»). (4) Acusados en el juicio: The Guardian dice siete (todos con cargos retirados o absueltos); Historic UK da cuatro (Peters, Dubof, Rosen y Vassileva, con la condena menor de ella anulada); el guion dice «varios» y atribuye el siete al Guardian. (5) Nombre del segundo muerto: Sokoloff, Sokolow, William o Josef. Nombres de los tres policías muertos (Bentley, Tucker, Choat) y el bombero Pearson: Historic UK. No se nombra a nadie absuelto; sobre quién disparó, solo se dice que algunos historiadores señalan a un absuelto, sin nombrarlo. La frase de Balfour y la orden a los bomberos salen del Guardian/London Remembers/Historic UK. Los cuerpos y las heridas no se describen. VERIFICACIÓN nuevos-enero: Quitado «carrera policial terminó» (Wikipedia: Leeson se recuperó del todo) y la proyección «esa misma tarde» (solo consta que se proyectó en cines); lo de los casados, atribuido a «algunos relatos». Pearson murió unos seis meses después y la placa es de enero de 2011 (Wikipedia). "
 }

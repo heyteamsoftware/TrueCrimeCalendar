@@ -6,10 +6,8 @@
     "Moscone": "Moscóne",
     "George Moscone": "Yorch Moscóne",
     "Harvey Milk": "Járvi Milk",
-    "Milk": "Milk",
     "Dan White": "Dan Juáit",
     "White": "Juáit",
-    "San Francisco": "San Francisco",
     "Dianne Feinstein": "Daián Fáinstain",
     "Jonestown": "Yónstaun",
     "Jim Jones": "Yim Yons",
@@ -43,11 +41,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hacia las diez y media, White se presenta en el despacho del alcalde, George Moscone. Había pedido hablar con él a solas. Moscone iba a nombrar a otra persona para el puesto que White ya había dejado."
+          "texto": "Poco después, White se presenta en el despacho del alcalde, George Moscone. Había pedido hablar con él a solas. Moscone iba a nombrar a otra persona para el puesto que White ya había dejado."
         },
         {
           "voz": "ximena",
-          "texto": "White mató al alcalde. Después recargó el arma y fue a otra oficina, donde pidió ver al concejal Harvey Milk."
+          "texto": "White mató al alcalde. Después fue a otra oficina, donde pidió ver al concejal Harvey Milk."
         },
         {
           "voz": "alvaro",
@@ -63,7 +61,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Acababa de cumplir cuarenta y nueve años y dejaba esposa y cuatro hijos. Era el primer alcalde progresista de la ciudad moderna y había abierto el ayuntamiento a minorías que hasta entonces no tenían voz. Una semana antes, la ciudad había recibido la noticia de Jonestown, en Guyana, donde murieron más de novecientas personas de la secta de Jim Jones, que tenía su sede en San Francisco."
+          "texto": "Acababa de cumplir cuarenta y nueve años y dejaba esposa y cuatro hijos. Se le recuerda por haber abierto el ayuntamiento a minorías que hasta entonces no tenían voz. Nueve días antes, la ciudad había recibido la noticia de Jonestown, en Guyana, donde murieron más de novecientas personas de la secta de Jim Jones, que tenía su sede en San Francisco."
         },
         {
           "voz": "alvaro",
@@ -75,7 +73,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juicio se celebró en 1979. White admitió los disparos. Su defensa alegó que estaba en un estado mental disminuido, por estrés, noches sin dormir y cambios de ánimo."
+          "texto": "El juicio se celebró en 1979. White admitió los disparos. Su defensa alegó que estaba en un estado mental disminuido, por depresión y estrés."
         },
         {
           "voz": "alvaro",
@@ -95,7 +93,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "White salió de prisión y se quitó la vida dos años después. Su familia ha elegido llorar en privado."
+          "texto": "White salió de prisión y se quitó la vida menos de dos años después."
         },
         {
           "voz": "ximena",
@@ -116,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso con condena (homicidio voluntario sin premeditación, 1979). Fuentes abiertas leídas: LA Times (opinión de Getlin, 2008, testigo directo), History.com y SF Chronicle 2003 (la copia archivada solo muestra el titular: se usa solo para que se omite la «defensa Twinkie» por ser un mito, según la ficha). No se menciona la «defensa Twinkie»: el LA Times y History la citan como «famosa» y el Chronicle como mito; el guion dice solo que la defensa alegó estado mental disminuido. La ficha dice «primer cargo electo abiertamente gay de California» y el LA Times «de la ciudad»: el guion dice «de San Francisco». Ficha: condenado a menos de ocho años y cumplió cinco; LA Times: algo más de cinco años en custodia; el guion dice «algo más de cinco años». Suicidio de White dos años después de salir (LA Times), 1985 (ficha). No se dan detalles del número de disparos ni de la herida. Pronunciaciones a oído."
+  "nota_revision": "Caso con condena (homicidio voluntario sin premeditación, 1979). Fuentes abiertas leídas: LA Times (opinión de Getlin, 2008, testigo directo), History.com y SF Chronicle 2003 (la copia archivada solo muestra el titular: se usa solo para que se omite la «defensa Twinkie» por ser un mito, según la ficha). No se menciona la «defensa Twinkie»: el LA Times y History la citan como «famosa» y el Chronicle como mito; el guion dice solo que la defensa alegó estado mental disminuido. La ficha dice «primer cargo electo abiertamente gay de California» y el LA Times «de la ciudad»: el guion dice «de San Francisco». Ficha: condenado a menos de ocho años y cumplió cinco; LA Times: algo más de cinco años en custodia; el guion dice «algo más de cinco años». Suicidio de White dos años después de salir (LA Times), 1985 (ficha). No se dan detalles del número de disparos ni de la herida. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Sin 'defensa Twinkie'. Quitados hora exacta, 'recargó', 'primer alcalde progresista' y la frase sobre la familia de White (sin fuente); Jonestown: nueve días antes (18/11). Claves de pronunciación quitadas (sin uso o idénticas): Milk, San Francisco."
 }

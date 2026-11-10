@@ -6,16 +6,14 @@
     "Carlo Tresca": "Cárlo Tréska",
     "Tresca": "Tréska",
     "Il Martello": "Il Martélo",
-    "Carmine Galante": "Cármine Galánte",
-    "Galante": "Galánte",
-    "Dorothy Gallagher": "Dórozi Gálager",
     "Angelica Balabanoff": "Anyélica Balabánof",
     "Dewey": "Diui",
     "Emma Goldman": "Ema Góldman",
     "John Dos Passos": "Yon Dos Pásos",
     "Sacco y Vanzetti": "Sako i Vanzéti",
     "Minna Harkavy": "Mina Járkavi",
-    "Sulmona": "Sulmóna"
+    "Sulmona": "Sulmóna",
+    "Gallagher": "Gálager"
   },
   "cintas": [
     {
@@ -61,19 +59,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía sospechó pronto de un delincuente con antecedentes, Carmine Galante. Hubo testigos que relacionaron el coche con él. Lo detuvieron por violar la libertad condicional."
+          "texto": "La policía sospechó pronto de un delincuente con antecedentes. Según la prensa, hubo testigos que relacionaron el coche con él. Lo detuvieron por violar la libertad condicional."
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Fíjate en la palabra: sospechoso. Galante nunca fue acusado de este crimen. Lo soltaron por falta de pruebas. La biógrafa Dorothy Gallagher lo considera el autor, pero es una conclusión suya, no una sentencia. Murió asesinado años después, sin haber sido juzgado por este caso."
+          "texto": "Tercera nota. Fíjate en la palabra: sospechoso. Nunca fue acusado de este crimen y lo soltaron por falta de pruebas. No voy a nombrarlo: ningún tribunal lo declaró culpable. Sobre quién disparó hay teorías, y ninguna está probada."
         },
         {
           "voz": "ximena",
-          "texto": "Y aunque el pistolero fuera él, queda la pregunta más difícil: quién lo encargó. Durante décadas, las hipótesis se repartieron entre tres frentes: los fascistas italianos, los comunistas y la mafia. Hay libros que defienden unas y otras. Ninguna se ha podido probar."
+          "texto": "Y aunque se supiera quién disparó, queda la pregunta más difícil: quién lo encargó. Durante décadas, las hipótesis se repartieron entre tres frentes: los fascistas italianos, los comunistas y la mafia. Hay libros que defienden unas y otras. Ninguna se ha podido probar."
         },
         {
           "voz": "alvaro",
-          "texto": "Cuarta nota. Lo más revelador es la investigación en sí. Según Gallagher, el fiscal general dejó el caso en manos de alguien cercano a un adversario de Tresca, y la pista se enfrió. Ella sospecha motivos políticos. Yo solo registro que es su opinión."
+          "texto": "Cuarta nota. Lo más revelador es la investigación en sí. Según Gallagher, el fiscal del distrito dejó el caso en manos de alguien cercano a un adversario de Tresca, y la pista se enfrió. Ella sospecha motivos políticos. Yo solo registro que es su opinión."
         },
         {
           "voz": "ximena",
@@ -98,5 +96,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Treccani (Pretelli), NYRB (Aaron, 1989, reseña del libro de Gallagher) y Wikipedia (en inglés); los libros de Gallagher y Pernicone no se pudieron abrir. Discrepancias: (1) la NYRB da «11 de julio» (error evidente, ya señalado en la ficha): el guion usa el 11 de enero (Treccani y Wikipedia). (2) Galante: Treccani dice «arrestato e poi rilasciato per mancanza di prove»; la NYRB dice que lo tuvieron detenido un año por violar la libertad condicional; Wikipedia dice que Galante habría sido el autor y que Genovese lo encargó. El guion solo dice que fue sospechoso, que lo detuvieron por la condicional y que nunca fue acusado; la tesis de Gallagher (Galante autor) va atribuida. No se nombra a Pope, Garofalo, Genovese ni Vidali (nunca acusados); solo se habla de tres frentes. (3) Sobre cómo se produjo el disparo, la ficha dice «le disparó en la cabeza» y Wikipedia «en la parte de atrás de la cabeza»; el guion dice «por la espalda» (lo dice la propia ficha en el campo «mo») y no da más detalle. (4) La anécdota de que Tresca olía «a asesinato en el aire» sale de la NYRB (dicho a un sindicalista, «allegedly»): va atribuida. (5) Wikipedia añade que Tresca acababa de salir de la oficina de su agente de libertad condicional y que despistó a la vigilancia; no se usa porque no se confirmó en otra fuente. (6) Murió asesinado Galante (NYRB: «gunned down by unknown assailants»). Torpeza policial/fiscal (caso entregado a alguien cercano a un adversario, «probablemente por razones políticas»): opinión de Gallagher según la NYRB, atribuida y sin nombrar. Anécdota del policía irlandés llorando: Wikipedia (relato de Lewis Coser). Busto en Sulmona: Wikipedia."
+  "nota_revision": "Fuentes abiertas: Treccani (Pretelli), NYRB (Aaron, 1989, reseña del libro de Gallagher) y Wikipedia (en inglés); los libros de Gallagher y Pernicone no se pudieron abrir. Discrepancias: (1) la NYRB da «11 de julio» (error evidente, ya señalado en la ficha): el guion usa el 11 de enero (Treccani y Wikipedia). (2) Galante: Treccani dice «arrestato e poi rilasciato per mancanza di prove»; la NYRB dice que lo tuvieron detenido un año por violar la libertad condicional; Wikipedia dice que Galante habría sido el autor y que Genovese lo encargó. El guion solo dice que fue sospechoso, que lo detuvieron por la condicional y que nunca fue acusado; la tesis de Gallagher (Galante autor) va atribuida. No se nombra a Pope, Garofalo, Genovese ni Vidali (nunca acusados); solo se habla de tres frentes. (3) Sobre cómo se produjo el disparo, la ficha dice «le disparó en la cabeza» y Wikipedia «en la parte de atrás de la cabeza»; el guion dice «por la espalda» (lo dice la propia ficha en el campo «mo») y no da más detalle. (4) La anécdota de que Tresca olía «a asesinato en el aire» sale de la NYRB (dicho a un sindicalista, «allegedly»): va atribuida. (5) Wikipedia añade que Tresca acababa de salir de la oficina de su agente de libertad condicional y que despistó a la vigilancia; no se usa porque no se confirmó en otra fuente. (6) Murió asesinado Galante (NYRB: «gunned down by unknown assailants»). Torpeza policial/fiscal (caso entregado a alguien cercano a un adversario, «probablemente por razones políticas»): opinión de Gallagher según la NYRB, atribuida y sin nombrar. Anécdota del policía irlandés llorando: Wikipedia (relato de Lewis Coser). Busto en Sulmona: Wikipedia. VERIFICACIÓN nuevos-enero: Quitado el nombre de Galante (nunca acusado ni condenado por este crimen) y la tesis de Gallagher sobre la autoría, y su muerte posterior; «fiscal general» pasa a «fiscal del distrito». Lausana/Mussolini en julio de 1904 y la condena por difamación: cronología basada en Pernicone. "
 }

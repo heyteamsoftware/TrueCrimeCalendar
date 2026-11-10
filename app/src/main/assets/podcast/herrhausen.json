@@ -7,10 +7,8 @@
     "Alfred Herrhausen": "Alfred Jérjausen",
     "Bad Homburg": "Bad Jómburg",
     "Deutsche Bank": "Dóichebank",
-    "Fráncfort": "Fráncfort",
     "Seedammweg": "Sedamveg",
     "RAF": "erre a efe",
-    "Fracción del Ejército Rojo": "Fracción del Ejército Rojo",
     "Kraushaar": "Kráushar",
     "Mercedes": "Mercédes",
     "Wolfgang Kraushaar": "Volfgang Kráushar"
@@ -35,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dentro viaja Alfred Herrhausen, portavoz del consejo de dirección del Deutsche Bank. Al volante va su chófer. Han pasado tres semanas desde la caída del Muro de Berlín."
+          "texto": "Dentro viaja Alfred Herrhausen, portavoz del consejo de dirección del Deutsche Bank. Al volante va su chófer. Han pasado tres semanas desde la caída del Muro de Berlín, y el país entero habla de otra cosa. Es una mañana de trabajo corriente, con una ruta que se repite cada día."
         },
         {
           "voz": "alvaro",
@@ -47,11 +45,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La explosión atravesó el blindaje del coche. Herrhausen murió. El chófer sobrevivió, con heridas leves."
+          "texto": "La explosión atravesó el blindaje del coche. Herrhausen murió. El chófer sobrevivió, herido."
         },
         {
           "voz": "alvaro",
-          "texto": "Quiero que se oiga bien el detalle técnico, porque es la clave del caso. No era una bomba corriente. Un politólogo, Wolfgang Kraushaar, la describe como una trampa explosiva: una placa de cobre cubierta con unos siete kilos de TNT, que al estallar se deformaba y salía disparada como un proyectil."
+          "texto": "Quiero que se oiga bien una cosa, porque es la clave del caso: no era un atentado corriente. El politólogo Wolfgang Kraushaar lo describe como un ataque muy preparado, con una técnica poco habitual."
         },
         {
           "voz": "ximena",
@@ -59,7 +57,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "No rehuía los debates públicos: dio conferencias sobre un asunto delicado, el poder de los bancos. En vida gozó de una reputación enorme, dentro y fuera de Alemania."
+          "texto": "Hablaba en público de un asunto delicado: el poder de los bancos."
         },
         {
           "voz": "alvaro",
@@ -67,11 +65,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Fracción del Ejército Rojo, conocida como la RAF, un grupo armado alemán de extrema izquierda, reivindicó el atentado."
+          "texto": "La Fracción del Ejército Rojo, conocida como la RAF, un grupo armado alemán de extrema izquierda, reivindicó el atentado. Para la Alemania de 1989 fue un golpe doble: la unificación estaba en el aire y el país seguía marcado por el terrorismo de aquel grupo."
         },
         {
           "voz": "alvaro",
-          "texto": "Pero aquí viene el problema. Kraushaar recuerda que, desde el principio, hubo dudas serias. Según él, ningún experto aseguró que la RAF fuese capaz de preparar un sistema así. Una técnica así había aparecido una semana antes en un atentado contra un ministro libanés."
+          "texto": "Anoto algo importante: la reivindicación llegó pronto, pero una carta firmada no sustituye a una investigación. Y aquí viene el problema. Kraushaar recuerda que, desde el principio, hubo dudas serias. Según él, había dudas de que la RAF tuviera capacidad para preparar un ataque así."
         },
         {
           "voz": "ximena",
@@ -79,7 +77,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pasaron los años y la investigación se llenó de fallos. Hubo errores de los investigadores, testigos poco creíbles y, según una de las afirmaciones que circulan, pruebas mal interpretadas o incluso alteradas por las autoridades."
+          "texto": "Pasaron los años y la investigación no avanzó: nadie fue condenado."
         },
         {
           "voz": "ximena",
@@ -91,7 +89,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El politólogo Kraushaar dijo entonces que ese apoyo le parecía plausible. Plausible no significa demostrado. No ha habido ninguna acusación ni juicio por el atentado."
+          "texto": "El politólogo Kraushaar dijo entonces que ese apoyo le parecía plausible. Plausible no significa demostrado. Nadie ha sido condenado por el atentado."
         },
         {
           "voz": "ximena",
@@ -99,11 +97,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Atribuir no es probar. Ese es el estado del expediente. Una firma en una carta, una técnica extraña y una lista de preguntas. Y un hombre que ya no está."
+          "texto": "Cuando un crimen queda sin resolver, el vacío se llena de teorías. Mi oficio es no llenarlo con ninguna: anotar lo documentado y lo que no. Atribuir no es probar. Ese es el estado del expediente. Una firma en una carta, una técnica extraña y una lista de preguntas. Y un hombre que ya no está."
         },
         {
           "voz": "ximena",
-          "texto": "En el lugar del atentado, en el Seedammweg, hay un monumento de tres columnas de basalto. Se colocó en 1996. El Deutsche Bank creó dos instituciones con su nombre, una de ayuda a quienes menos tienen y otra de diálogo internacional."
+          "texto": "En el lugar del atentado, en el Seedammweg, hay un monumento de tres columnas de basalto. Se colocó en 1996. El Deutsche Bank dio su nombre a una sociedad dedicada al diálogo internacional."
         },
         {
           "voz": "ximena",
@@ -120,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver: la RAF lo reivindicó, pero los autores no fueron identificados ni juzgados. Fuentes abiertas leídas: Frankfurter Personenlexikon (biografía, memorial), Deutschlandfunk (2014, entrevista con el politólogo Wolfgang Kraushaar sobre el documental de la ARD). No se pudieron abrir el artículo del FAZ (redirección) ni la ficha del documental. Deutsche Biographie no se ha abierto de nuevo, la ficha ya corrigió el cargo («Vorstandssprecher»). La hipótesis del documental de la ARD (apoyo técnico de especialistas de Oriente Próximo, concretamente el FPLP según Kraushaar) se cita atribuida y sin señalar a nadie. No se nombra al chófer. Hora: 8.30 según Deutschlandfunk (la ficha no da hora). Carga: «siete kilos de TNT» y placa de cobre, según Kraushaar; el guion no explica el mecanismo con detalle. Pronunciaciones a oído."
+  "nota_revision": "Caso sin resolver: la RAF lo reivindicó, pero los autores no fueron identificados ni juzgados. Fuentes abiertas leídas: Frankfurter Personenlexikon (biografía, memorial), Deutschlandfunk (2014, entrevista con el politólogo Wolfgang Kraushaar sobre el documental de la ARD). No se pudieron abrir el artículo del FAZ (redirección) ni la ficha del documental. Deutsche Biographie no se ha abierto de nuevo, la ficha ya corrigió el cargo («Vorstandssprecher»). La hipótesis del documental de la ARD (apoyo técnico de especialistas de Oriente Próximo, concretamente el FPLP según Kraushaar) se cita atribuida y sin señalar a nadie. No se nombra al chófer. Hora: 8.30 según Deutschlandfunk (la ficha no da hora). Carga: «siete kilos de TNT» y placa de cobre, según Kraushaar; el guion no explica el mecanismo con detalle. Pronunciaciones a oído. | VERIFICACIÓN nuevos-noviembre: Quitados el detalle técnico de la carga (TNT, placa de cobre; método), el 'ministro libanés', las 'pruebas alteradas por las autoridades' (acusación sin fuente) y 'ninguna acusación' (se dice solo que nadie fue condenado); chófer 'herido'; fundación suavizada. Autoría de la RAF reivindicada, nadie condenado. Claves de pronunciación quitadas (sin uso o idénticas): Fráncfort, Fracción del Ejército Rojo."
 }

@@ -36,11 +36,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Litvinenko no bebía alcohol y no pensaba gastar dinero en un hotel tan caro. Se conformó con lo que quedaba en la mesa. Según las investigaciones, esos pocos tragos acabaron con su vida."
+          "texto": "Primera nota. Fíjate en lo pequeño del gesto: un hombre que no se acaba la taza. Según las investigaciones, esos pocos tragos acabaron con su vida."
         },
         {
           "voz": "ximena",
-          "texto": "Tenía cuarenta y tres años. Había sido oficial del FSB, el servicio de seguridad ruso, y en el año 2000 huyó a Reino Unido, donde se hizo ciudadano británico. Desde Londres criticaba al Kremlin y al presidente Vladímir Putin."
+          "texto": "Tenía cuarenta y cuatro años. Había sido oficial del FSB, el servicio de seguridad ruso, y en el año 2000 huyó a Reino Unido, donde se hizo ciudadano británico. Desde Londres criticaba al Kremlin y al presidente Vladímir Putin."
         },
         {
           "voz": "ximena",
@@ -52,7 +52,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El polonio es un isótopo radiactivo rarísimo, que sale de un reactor nuclear. No lo lleva un delincuente corriente en el bolsillo. La investigación británica lo calificó, como mínimo, de fuerte indicio de que detrás había un Estado."
+          "texto": "El polonio es un isótopo radiactivo rarísimo, que sale de un reactor nuclear. No lo lleva un delincuente corriente en el bolsillo. Conseguirlo exige medios al alcance de muy pocos."
         },
         {
           "voz": "ximena",
@@ -76,7 +76,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Reino Unido acusó de asesinato a Lugovói y a Kovtún. Rusia se negó a extraditarlos. Ambos lo negaron siempre: Kovtún habló de pruebas falsas, y Lugovói, que llegó a ser diputado en Moscú, calificó las acusaciones de absurdas."
+          "texto": "Reino Unido acusó de asesinato a Lugovói y a Kovtún. Rusia se negó a extraditarlos. Ambos lo negaron siempre, y Lugovói llegó a ser diputado en Moscú."
         },
         {
           "voz": "ximena",
@@ -100,7 +100,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su viuda, Marina, ha repetido que no buscaba dinero, sino justicia. Alexander Litvinenko está enterrado en el cementerio de Highgate, en un ataúd forrado de plomo por la radiación que aún conservaba su cuerpo."
+          "texto": "Su viuda, Marina, pidió durante años que se hiciera justicia. Alexander Litvinenko está enterrado en el cementerio de Highgate; según el abogado de la viuda, en un ataúd forrado de plomo por la radiación que aún conservaba su cuerpo."
         },
         {
           "voz": "alvaro",
@@ -113,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: BBC (21/1/2016), The Guardian (Luke Harding, 19/1/2016; sentencia TEDH, 21/9/2021) y BBC (4/6/2022). Hechos del relato: té verde frío y tres o cuatro tragos (declaración de Litvinenko a Scotland Yard, recogida por Harding); lectura más alta en la tetera y lavavajillas (Harding); restos en el desagüe de la habitación 382 de Kovtún y primer intento fallido de octubre (Harding; atribuido a él). Ataúd forrado de plomo en Highgate (abogado de la viuda en The Guardian 2021). Sin contradicciones con la ficha. La acusación de asesinato del Reino Unido a ambos consta en la ficha y no se ha repetido en una fuente abierta consultada. Se ha evitado atribuir quién de los dos puso el veneno (Harding: no hay pruebas de cuál). Pronunciación a oír: Lugovói, Kovtún, Litvinénko."
+  "nota_revision": "Fuentes abiertas: BBC (21/1/2016), The Guardian (Luke Harding, 19/1/2016; sentencia TEDH, 21/9/2021) y BBC (4/6/2022). Hechos del relato: té verde frío y tres o cuatro tragos (declaración de Litvinenko a Scotland Yard, recogida por Harding); lectura más alta en la tetera y lavavajillas (Harding); restos en el desagüe de la habitación 382 de Kovtún y primer intento fallido de octubre (Harding; atribuido a él). Ataúd forrado de plomo en Highgate (abogado de la viuda en The Guardian 2021). Sin contradicciones con la ficha. La acusación de asesinato del Reino Unido a ambos consta en la ficha y no se ha repetido en una fuente abierta consultada. Se ha evitado atribuir quién de los dos puso el veneno (Harding: no hay pruebas de cuál). Pronunciación a oír: Lugovói, Kovtún, Litvinénko. | VERIFICACIÓN nuevos-noviembre: Quitado: 'no bebía alcohol/hotel caro' (sin fuente), 'fuerte indicio de Estado' (atribuido a la investigación sin fuente), citas de Kovtún y Lugovói, frase de la viuda; edad corregida a 44 (nacido 30/8/1962); plomo atribuido al abogado."
 }
