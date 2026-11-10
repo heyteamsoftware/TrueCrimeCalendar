@@ -89,7 +89,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Nadie fue acusado: la policía de Beverly Hills no logró procesar a nadie. Hoy, casi ochenta años después, el crimen sigue sin resolverse oficialmente. El crimen ocurrió seis meses después de abrirse el Flamingo. El hotel sigue abierto en Las Vegas, aunque el edificio original fue demolido hace décadas. Siegel está enterrado en Los Ángeles, y en el hotel hay una placa que lo recuerda entre la piscina y la capilla de bodas."
+          "texto": "Nadie fue acusado: la policía de Beverly Hills no logró procesar a nadie. Hoy, casi ochenta años después, el crimen sigue sin resolverse oficialmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El crimen ocurrió seis meses después de abrirse el Flamingo. El hotel sigue abierto en Las Vegas, aunque el edificio original fue demolido hace décadas. Siegel está enterrado en Los Ángeles, y en el hotel hay una placa que lo recuerda entre la piscina y la capilla de bodas."
         },
         {
           "voz": "alvaro",
@@ -106,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver: nadie fue acusado y no se señala a nadie; las teorías van sin nombres de personas concretas (la teoría de que ejecutó un tercero por un asunto personal y las confesiones tardías de terceros se mencionan solo en genérico). Fuentes abiertas: The Mob Museum, HISTORY.com y Wikipedia (en inglés); no se abrieron NYT, LA Times ni LA Magazine. Discrepancias: nº de disparos (Wikipedia: nueve, cuatro alcanzaron a Siegel; HISTORY: tres balas en la cabeza; Mob Museum: dos heridas mortales en la cabeza); el guion da la versión de Wikipedia con su atribución al perito y avisa de que hay otras. Quién tomó el Flamingo: Mob Museum, tres socios de Lansky; HISTORY, hombres de Luciano; Wikipedia, tres hombres: el guion dice solo «tres hombres». El presupuesto de poco más de un millón (1,2) sale de Mob Museum. «A cuatro metros» = 14 pies de Wikipedia. «Medio millón de dólares» sale de HISTORY.com. Placa del Flamingo y tumba en Hollywood Forever: Wikipedia."
+  "nota_revision": "Caso sin resolver: nadie fue acusado y no se señala a nadie; las teorías van sin nombres de personas concretas (la teoría de que ejecutó un tercero por un asunto personal y las confesiones tardías de terceros se mencionan solo en genérico). Fuentes abiertas: The Mob Museum, HISTORY.com y Wikipedia (en inglés); no se abrieron NYT, LA Times ni LA Magazine. Discrepancias: nº de disparos (Wikipedia: nueve, cuatro alcanzaron a Siegel; HISTORY: tres balas en la cabeza; Mob Museum: dos heridas mortales en la cabeza); el guion da la versión de Wikipedia con su atribución al perito y avisa de que hay otras. Quién tomó el Flamingo: Mob Museum, tres socios de Lansky; HISTORY, hombres de Luciano; Wikipedia, tres hombres: el guion dice solo «tres hombres». El presupuesto de poco más de un millón (1,2) sale de Mob Museum. «A cuatro metros» = 14 pies de Wikipedia. «Medio millón de dólares» sale de HISTORY.com. Placa del Flamingo y tumba en Hollywood Forever: Wikipedia.\n\nVERIFICACIÓN nuevos-junio: Quitados el número de disparos y la distancia (gráfico) y toda mención de Lansky como sospecha o negación. Nadie acusado. Añadidos edad (41), seis meses tras la apertura del Flamingo, hotel aún abierto (demolido el edificio original)."
 }
