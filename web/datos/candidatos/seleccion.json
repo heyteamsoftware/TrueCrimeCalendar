@@ -1657,22 +1657,21 @@
  {
   "m": 4,
   "d": 29,
-  "titulo_caso": "La fuga de Luis Roldán",
-  "protagonista": "Luis Roldán",
-  "fecha": "1994-04-29",
-  "tipo_efemeride": "desaparicion",
-  "pais": "España",
-  "region": "espana",
-  "tipo_caso": "estafa",
+  "titulo_caso": "La absolución de los policías del caso Rodney King",
+  "protagonista": "Los agentes Stacey Koon, Laurence Powell, Timothy Wind y Theodore Briseno",
+  "fecha": "1992-04-29",
+  "tipo_efemeride": "condena",
+  "pais": "Estados Unidos",
+  "region": "eeuu_canada",
+  "tipo_caso": "error_judicial",
   "epoca": "1990-1999",
-  "resumen": "El primer director civil de la Guardia Civil, acusado de enriquecerse con comisiones y fondos reservados, huyó de España. Diez meses después fue detenido en el aeropuerto de Bangkok (27 de febrero de 1995), en una entrega rodeada de misterio (los «papeles de Laos»). En 1998 la Audiencia Nacional lo condenó a 28 años por malversación, cohecho, fraude fiscal y estafa, y el Supremo elevó la pena a 31. Murió en 2022.",
-  "por_que": "La fuga más bochornosa de la democracia española: el jefe de la Guardia Civil, prófugo.",
+  "resumen": "Un jurado de Simi Valley absolvió a cuatro agentes de Los Ángeles a los que un vídeo amateur había grabado golpeando al conductor negro Rodney King en 1991. El veredicto desencadenó varios días de disturbios en Los Ángeles, con más de 50 muertos. En 1993, un jurado federal condenó a dos de los agentes por violar los derechos civiles de King.",
+  "por_que": "Un vídeo, un veredicto y una ciudad en llamas: el juicio que marcó la relación entre la policía y la comunidad negra.",
   "fuentes_fecha": [
-   "https://es.wikipedia.org/wiki/Luis_Roldán_Ibáñez",
-   "https://elpais.com/espana/2022-03-24/muere-luis-roldan-el-director-de-la-guardia-civil-que-saqueo-los-fondos-reservados.html",
+   "https://www.history.com/this-day-in-history/april-29/riots-erupt-in-los-angeles",
    "https://es.wikipedia.org/wiki/29_de_abril"
   ],
-  "riesgos": "Las circunstancias de su entrega (los «papeles de Laos») siguen discutidas. Verificación: la nota de El País es la que cita Wikipedia y no se abrió."
+  "riesgos": "Se incluye como absolución célebre. La cifra de muertos en los disturbios varía (entre 50 y 63). Dos de los agentes acabaron condenados en el juicio federal."
  },
  {
   "m": 4,
@@ -2691,21 +2690,21 @@
  {
   "m": 7,
   "d": 9,
-  "titulo_caso": "El asesinato de Paul Klebnikov",
-  "protagonista": "Paul Klebnikov (víctima); acusados absueltos",
-  "fecha": "2004-07-09",
-  "tipo_efemeride": "crimen",
-  "pais": "Rusia",
-  "region": "europa",
-  "tipo_caso": "sin_resolver",
-  "epoca": "2000-2009",
-  "resumen": "El periodista estadounidense, director de la edición rusa de Forbes, fue tiroteado desde un coche al salir de su oficina en Moscú y murió en el hospital. Tres chechenos fueron juzgados a puerta cerrada y absueltos; el Supremo ruso anuló dos de las absoluciones, pero el nuevo juicio se paralizó porque los acusados estaban en paradero desconocido. Los autores intelectuales no se han identificado.",
-  "por_que": "Uno de los grandes asesinatos de periodistas en la Rusia de Putin, sin resolver.",
+  "titulo_caso": "O. J. Simpson, la absolución del siglo",
+  "protagonista": "O. J. Simpson (absuelto en el juicio penal; declarado responsable en el civil)",
+  "fecha": "1947-07-09",
+  "tipo_efemeride": "nacimiento",
+  "pais": "Estados Unidos",
+  "region": "eeuu_canada",
+  "tipo_caso": "asesinato",
+  "epoca": "1990-1999",
+  "resumen": "La estrella del fútbol americano nació en San Francisco el 9 de julio de 1947. En 1994 fue acusado de matar a su exmujer, Nicole Brown Simpson, y a Ron Goldman; en 1995 fue absuelto en un juicio televisado, pero en 1997 un jurado civil lo declaró responsable de sus muertes. En 2008 fue condenado por un robo a mano armada en Las Vegas. Murió en 2024.",
+  "por_que": "La absolución más famosa de la historia de la televisión, con un debate racial, policial y mediático que aún sigue.",
   "fuentes_fecha": [
-   "https://en.wikipedia.org/wiki/Paul_Klebnikov",
-   "https://www.nytimes.com/2004/07/10/world/us-investigative-journalist-is-shot-to-death-in-russia.html"
+   "https://en.wikipedia.org/wiki/O._J._Simpson",
+   "https://www.biography.com/athletes/oj-simpson"
   ],
-  "riesgos": "Sin condena: los acusados fueron absueltos. La investigación se reabrió en 2009 y sigue formalmente pendiente: comprobar si cuenta como proceso abierto. La segunda fuente (The New York Times) la cita Wikipedia; no se pudo abrir directamente."
+  "riesgos": "Absuelto en el juicio penal: no llamarlo asesino (sí puede decirse que fue declarado responsable en el civil). Las familias de las víctimas siguen siendo figuras públicas."
  },
  {
   "m": 7,
@@ -2959,21 +2958,21 @@
  {
   "m": 7,
   "d": 27,
-  "titulo_caso": "La condena de Christer Pettersson por el asesinato de Olof Palme",
-  "protagonista": "Christer Pettersson (condenado y absuelto en apelación)",
-  "fecha": "1989-07-27",
-  "tipo_efemeride": "condena",
-  "pais": "Suecia",
-  "region": "europa",
-  "tipo_caso": "magnicidio",
-  "epoca": "1980-1989",
-  "resumen": "El tribunal de primera instancia de Estocolmo condenó a cadena perpetua a Christer Pettersson por el asesinato del primer ministro Olof Palme (1986), sobre todo por la identificación de la viuda, aunque los dos jueces profesionales votaron por absolverlo. El 2 de noviembre de 1989 el tribunal de apelación lo absolvió por falta de pruebas. Murió en 2004 legalmente inocente.",
-  "por_que": "El gran magnicidio sin resolver de Europa y una condena que no resistió la apelación.",
+  "titulo_caso": "Richard Jewell y la bomba del parque olímpico de Atlanta",
+  "protagonista": "Eric Rudolph (condenado); Richard Jewell (señalado injustamente)",
+  "fecha": "1996-07-27",
+  "tipo_efemeride": "crimen",
+  "pais": "Estados Unidos",
+  "region": "eeuu_canada",
+  "tipo_caso": "otro",
+  "epoca": "1990-1999",
+  "resumen": "Una bomba estalló de madrugada en el Centennial Olympic Park de Atlanta durante los Juegos: murió una persona y 111 resultaron heridas. El vigilante Richard Jewell, que había avisado de la mochila y ayudado a desalojar, pasó en días de héroe a sospechoso por filtraciones a la prensa; fue exculpado meses después. En 2005 Eric Rudolph se declaró culpable de este y otros atentados.",
+  "por_que": "Un caso de linchamiento mediático contra un inocente.",
   "fuentes_fecha": [
-   "https://sv.wikipedia.org/wiki/Christer_Pettersson",
-   "https://paperspast.natlib.govt.nz/newspapers/CHP19890729.2.74.2"
+   "https://www.history.com/this-day-in-history/july-27/bombing-at-centennial-olympic-park",
+   "https://en.wikipedia.org/wiki/Richard_Jewell"
   ],
-  "riesgos": "Pettersson fue absuelto: no llamarlo asesino. Fecha poco reforzada: Wikipedia (sueca y española) da el 27; el periódico neozelandés del 29 informa del fallo sin fecha clara y algún resumen lo sitúa el 28. Comprobar en prensa sueca. En 2020 la fiscalía cerró el caso señalando a otro sospechoso fallecido."
+  "riesgos": "Terrorismo. Jewell nunca fue acusado formalmente: dejar clara su inocencia."
  },
  {
   "m": 7,
@@ -3111,21 +3110,21 @@
  {
   "m": 8,
   "d": 5,
-  "titulo_caso": "Stringtown: el primer policía muerto por la banda de Bonnie y Clyde",
-  "protagonista": "Clyde Barrow y sus cómplices",
-  "fecha": "1932-08-05",
-  "tipo_efemeride": "crimen",
-  "pais": "Estados Unidos",
-  "region": "eeuu_canada",
+  "titulo_caso": "El caso Dominici (crimen de Lurs)",
+  "protagonista": "Gaston Dominici (condenado, culpabilidad discutida)",
+  "fecha": "1952-08-05",
+  "tipo_efemeride": "hallazgo",
+  "pais": "Francia",
+  "region": "europa",
   "tipo_caso": "asesinato",
-  "epoca": "1930-1939",
-  "resumen": "El 5 de agosto de 1932, durante un baile al aire libre en Stringtown (Oklahoma), Clyde Barrow y sus compinches (entre ellos Raymond Hamilton) dispararon contra el sheriff C. G. Maxwell y su ayudante Eugene C. Moore, que se habían acercado a su coche: Moore murió y Maxwell quedó gravemente herido. Fue el primer agente de la ley muerto por la que luego sería la banda de Bonnie y Clyde.",
-  "por_que": "El momento en que una banda de ladrones de poca monta pasó a ser perseguida por asesinar a un policía.",
+  "epoca": "1950-1959",
+  "resumen": "En la noche del 4 al 5 de agosto de 1952, el científico británico Jack Drummond, su esposa Anne y su hija Elizabeth, de 10 años, fueron asesinados junto a su coche cerca de la granja de La Grand'Terre, en Lurs (Alta Provenza); los cuerpos aparecieron horas después junto a la carretera nacional 96. El patriarca Gaston Dominici fue condenado a muerte en 1954, después fue indultado y murió en 1965; su culpabilidad sigue discutida.",
+  "por_que": "El gran misterio judicial francés de la posguerra: confesiones cambiantes, una familia que se acusa entre sí y una condena que muchos nunca creyeron.",
   "fuentes_fecha": [
-   "https://www.odmp.org/officer/9549-deputy-sheriff-eugene-c.-moore",
-   "https://www.okhistory.org/publications/enc/entry.php?entry=ST050"
+   "https://fresques.ina.fr/sudorama/fiche-media/00000000348/l-affaire-dominici.html",
+   "https://en.wikipedia.org/wiki/Dominici_affair"
   ],
-  "riesgos": "Las fuentes difieren en el cargo de Moore (ayudante o subsheriff) y en el motivo del encuentro."
+  "riesgos": "El crimen fue en la noche del 4 al 5: la efeméride elegida es el hallazgo de los cuerpos (madrugada-mañana del 5), conviene confirmar la hora en una fuente explícita. Víctima menor (10 años) en caso histórico. Condena muy discutida: no presentar a Dominici como culpable probado."
  },
  {
   "m": 8,
@@ -4042,21 +4041,21 @@
  {
   "m": 10,
   "d": 3,
-  "titulo_caso": "El veredicto de O. J. Simpson",
-  "protagonista": "O. J. Simpson",
-  "fecha": "1995-10-03",
-  "tipo_efemeride": "condena",
-  "pais": "Estados Unidos",
-  "region": "eeuu_canada",
+  "titulo_caso": "Thompson y Bywaters: el crimen de Ilford",
+  "protagonista": "Edith Thompson y Frederick Bywaters",
+  "fecha": "1922-10-03",
+  "tipo_efemeride": "crimen",
+  "pais": "Reino Unido",
+  "region": "europa",
   "tipo_caso": "error_judicial",
-  "epoca": "1990-1999",
-  "resumen": "El 3 de octubre de 1995 un jurado de Los Ángeles declaró a O. J. Simpson no culpable de los asesinatos de su exmujer Nicole Brown Simpson y de Ron Goldman, cometidos el 12 de junio de 1994. En 1997 un jurado civil lo declaró responsable de esas muertes y lo condenó a indemnizar a las familias.",
-  "por_que": "El «juicio del siglo»: la absolución más vista y discutida de la historia, con la raza, la policía y la televisión en el centro.",
+  "epoca": "1920-1929",
+  "resumen": "La noche del 3 de octubre de 1922, Frederick Bywaters, de 20 años, mató a puñaladas a Percy Thompson en Ilford (Londres) cuando volvía del teatro con su mujer, Edith, amante de Bywaters. Ambos fueron ahorcados en enero de 1923; la condena de Edith se basó sobre todo en sus cartas y hoy se considera uno de los grandes errores de la justicia británica.",
+  "por_que": "Una mujer ahorcada por sus cartas de amor: el caso que alimentó el debate contra la pena de muerte en el Reino Unido.",
   "fuentes_fecha": [
-   "https://en.wikipedia.org/wiki/O._J._Simpson_murder_case",
-   "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/3/newsid_2486000/2486673.stm"
+   "https://www.bbc.co.uk/news/uk-england-london-64175900",
+   "https://www.independent.co.uk/news/uk/home-news/edith-thompson-death-penalty-capital-punishment-hanging-miscarriage-justice-buried-mother-murder-a8647636.html"
   ],
-  "riesgos": "La efeméride es un veredicto absolutorio (se usa «condena» por ser la decisión judicial). En lo penal fue absuelto: no se le puede llamar asesino; la responsabilidad civil de 1997 sí puede contarse."
+  "riesgos": "Ocurrió hacia la medianoche del 3 al 4; las fuentes dan el 3 de octubre. Bywaters fue el autor material; la culpabilidad de Edith está muy discutida (en 2023 se reabrió el estudio de un indulto)."
  },
  {
   "m": 10,
@@ -5049,21 +5048,21 @@
  {
   "m": 12,
   "d": 14,
-  "titulo_caso": "El asesinato de Sidónio Pais",
-  "protagonista": "José Júlio da Costa",
-  "fecha": "1918-12-14",
+  "titulo_caso": "El apuñalamiento de Kaspar Hauser",
+  "protagonista": "Kaspar Hauser",
+  "fecha": "1833-12-14",
   "tipo_efemeride": "crimen",
-  "pais": "Portugal",
+  "pais": "Alemania",
   "region": "europa",
-  "tipo_caso": "magnicidio",
-  "epoca": "1910-1919",
-  "resumen": "El presidente portugués Sidónio Pais fue tiroteado en la estación lisboeta del Rossio cuando iba a tomar un tren a Oporto. El autor, el activista José Júlio da Costa, nunca fue juzgado y murió en un hospital psiquiátrico en 1946.",
-  "por_que": "El «presidente-rey» de Portugal, asesinado en una estación llena de gente.",
+  "tipo_caso": "sin_resolver",
+  "epoca": "siglo XIX",
+  "resumen": "Kaspar Hauser, el joven aparecido en Núremberg en 1828 tras años de supuesto encierro, volvió herido de una puñalada del Hofgarten de Ansbach y murió tres días después. Nunca se encontró al agresor; algunos pensaron que se hirió él mismo. Se especuló con que fuera un príncipe de Baden apartado del trono.",
+  "por_que": "El enigma del «niño salvaje» de Europa termina con una muerte tan misteriosa como su origen.",
   "fuentes_fecha": [
-   "https://en.wikipedia.org/wiki/Assassination_of_Sid%C3%B3nio_Pais",
-   "https://museudelisboa.pt/en/collections/photography/sidonio-pais-portrait"
+   "https://www.britannica.com/biography/Kaspar-Hauser",
+   "https://www.history.co.uk/articles/he-s-a-real-wild-child-the-enigma-of-kaspar-hauser-secret-prince-hoaxer-or-victim"
   ],
-  "riesgos": ""
+  "riesgos": "Sin autor conocido; la autolesión es una hipótesis."
  },
  {
   "m": 12,

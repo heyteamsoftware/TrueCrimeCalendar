@@ -1,0 +1,75 @@
+# Estado de la producción del 3.0
+
+Lo mantiene el coordinador. El límite es de 20 agentes a la vez: según terminan unos, se lanzan los siguientes de la cola.
+
+## Orden de prioridad al liberarse un hueco
+
+1. Verificación cruzada de un mes de fichas ya terminado (`docs/VERIFICACION_FICHAS.md`).
+2. Guiones de casos nuevos de un mes ya verificado y unido (`docs/GUIONES_NUEVOS_ENCARGO.md`).
+3. Grupos de guiones estrella en cola (`docs/GUIONES_ESTRELLA_ENCARGO.md`).
+4. Verificación de guiones ya escritos.
+
+## Fichas de casos nuevos (12 agentes, uno por mes)
+
+Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / unidas.
+
+| Mes | Escritas | Verificadas | Unidas |
+|---|---|---|---|
+| 01 a 12 | en marcha | — | — |
+
+## Guiones de casos estrella (2 cintas por caso)
+
+Hecho antes: `brady` (piloto).
+
+| Grupo | Casos | Estado |
+|---|---|---|
+| enero A | letby keyes bonin puente | lanzado |
+| enero B | dominique shipman petiot robledo rifkin | lanzado |
+| enero C | bodkin camargo arropiero garavito | lanzado |
+| febrero A | ishikawa norris hansen ridgway | lanzado |
+| febrero B | cullen muehlberg wuornos ramirez | lanzado |
+| marzo A | toole rader gaskins king | lanzado |
+| marzo B | ireland gacy kraft toppan | lanzado |
+| abril A | sobhraj jesperson christie pichushkin | lanzado |
+| abril B | landru harvey yoo black | en cola |
+| mayo A | homolka beck bryant holmes | en cola |
+| mayo B | bellfield fish murano dahmer | en cola |
+| mayo C | bianchi chase escalero kurten | en cola |
+| junio | berkowitz sutcliffe shawcross little pedrinho | en cola |
+| julio | jones hindley magnotta onoprienko yang | en cola |
+| agosto A | bathory miyazaki lucas alcala | en cola |
+| agosto B | gein bernardo franklin | en cola |
+| septiembre A | desalvo gillesrais kearney | en cola |
+| septiembre B | pardo bittaker fwest | en cola |
+| octubre A | buono lopez iqbal chikatilo swango | en cola |
+| octubre B | pickton haarmann cotton godino | en cola |
+| noviembre A | doss lee ray watts | en cola |
+| noviembre B | deangelo manson gilbert romasanta | en cola |
+| noviembre C | nilsen starkweather bundy rwest | en cola |
+| diciembre A | rodriguezvega barraza fernandez | en cola |
+| diciembre B | kemper corll hogel | en cola |
+
+Notas para los encargos:
+
+- **Parejas** (mismos crímenes, dos expedientes): brady–hindley, homolka–bernardo, bianchi–buono, fwest–rwest, lucas–toole, bittaker–norris, beck–fernandez. Cada uno se cuenta desde su protagonista.
+- **hindley:** tiene que leer `brady.json` y contar lo que ese no cuenta.
+- **king:** el error judicial con Dolores Vázquez se cuenta en el caso nuevo del 9 de octubre (caso Wanninkhof).
+
+## Guiones de casos nuevos (1 cinta por caso)
+
+Pendientes de que cada mes de fichas esté verificado y unido.
+
+## Audio
+
+Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los guiones de la tanda están verificados.
+
+## Incidencias
+
+- **10 de noviembre, hacia las 00:40:** los 19 agentes se cortaron por el límite de uso de 5 horas. Se reanudaron a las 05:55 con lo ya guardado (85 fichas).
+- **Cambios en la selección** (`web/datos/candidatos/ajustes.json`, apartado `fijar`), para quitar casos repetidos y cumplir la cuota de casos sin resolver:
+  - 29/4: Rodney King, en lugar de la fuga de Roldán;
+  - 9/7: O. J. Simpson (el cambio lo hizo el agente de julio, porque Klebnikov tiene la investigación abierta);
+  - 27/7: Richard Jewell, en lugar de Pettersson y Palme;
+  - 5/8: el caso Dominici, en lugar de Stringtown;
+  - 3/10: Thompson y Bywaters, en lugar del veredicto de O. J.;
+  - 14/12: Kaspar Hauser, en lugar de Sidónio Pais.

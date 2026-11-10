@@ -1,6 +1,6 @@
 // Fase 1, paso 2: elige un caso por día libre entre los candidatos, cumpliendo las cuotas del año.
 // Lee web/datos/candidatos/<mm>.json y escribe web/datos/candidatos/seleccion.json y docs/SELECCION_CASOS.md.
-// Uso: node tools/seleccionar_casos.js
+// Uso: node tools/seleccionar_casos.js [--congelar]
 const fs = require("fs");
 const path = require("path");
 
@@ -12,7 +12,13 @@ const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLow
 // ---------- candidatos ----------
 // exclusiones manuales (mismo caso en dos días, etc.): web/datos/candidatos/ajustes.json
 const ajustesPath = path.join(dir, "ajustes.json");
-const excluir = new Set(fs.existsSync(ajustesPath) ? (JSON.parse(fs.readFileSync(ajustesPath, "utf8")).excluir || []) : []);
+const ajustes = fs.existsSync(ajustesPath) ? JSON.parse(fs.readFileSync(ajustesPath, "utf8")) : {};
+const excluir = new Set(ajustes.excluir || []);
+const fijar = { ...(ajustes.fijar || {}) };   // "d/m" → título elegido a mano
+// --congelar: los días que ya están en seleccion.json no se mueven (las fichas ya están en marcha)
+const selPath = path.join(dir, "seleccion.json");
+if (process.argv.includes("--congelar") && fs.existsSync(selPath))
+  for (const c of JSON.parse(fs.readFileSync(selPath, "utf8"))) { const k = `${c.d}/${c.m}`; if (!fijar[k]) fijar[k] = c.titulo_caso; }
 const dias = [];   // [{m, d, cands:[…]}]
 for (let m = 1; m <= 12; m++) {
   const f = path.join(dir, String(m).padStart(2, "0") + ".json");
@@ -22,7 +28,10 @@ for (let m = 1; m <= 12; m++) {
     const cands = (x.candidatos || []).filter(c => c && c.titulo_caso && c.fecha && !excluir.has(c.titulo_caso)).map(c => ({
       ...c, m, d: x.dia, anio: +String(c.fecha).slice(0, 4), clave: norm(c.titulo_caso), clave2: norm(c.protagonista),
     }));
-    if (cands.length) dias.push({ m, d: x.dia, cands });
+    const fijo = fijar[`${x.dia}/${m}`];
+    const uno = fijo ? cands.filter(c => c.titulo_caso === fijo) : [];
+    if (fijo && !uno.length) console.log(`Aviso: el caso fijado para el ${x.dia}/${m} no está entre los candidatos: ${fijo}`);
+    if (cands.length) dias.push({ m, d: x.dia, cands: uno.length ? uno : cands });
   }
 }
 if (!dias.length) { console.log("No hay candidatos todavía."); process.exit(0); }

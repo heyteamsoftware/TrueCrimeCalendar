@@ -1,8 +1,26 @@
 {
- "nota": "Exclusiones del coordinador: el mismo caso en dos días distintos (se conserva la fecha principal).",
+ "nota": "Ajustes del coordinador. excluir: el mismo caso en dos días distintos (se conserva una fecha). fijar: día → título del candidato elegido a mano. La selección se regenera con: node tools/seleccionar_casos.js --congelar",
  "excluir": [
   "Sirhan Sirhan, condenado a muerte por matar a Robert Kennedy",
   "Detención de Dolores Vázquez por el caso Wanninkhof (Mijas)",
   "Al Capone, condenado por no pagar impuestos"
- ]
+ ],
+ "fijar": {
+  "26/2": "La condena de Luis Roldán, el director de la Guardia Civil fugado",
+  "27/7": "Richard Jewell y la bomba del parque olímpico de Atlanta",
+  "9/7": "O. J. Simpson, la absolución del siglo",
+  "5/8": "El caso Dominici (crimen de Lurs)",
+  "3/10": "Thompson y Bywaters: el crimen de Ilford",
+  "29/4": "La absolución de los policías del caso Rodney King",
+  "14/12": "El apuñalamiento de Kaspar Hauser"
+ },
+ "motivos": {
+  "26/2": "Se queda la condena de Roldán; la fuga (29/4) se cambia.",
+  "27/7": "Olof Palme ya está el 28/2 (el asesinato).",
+  "9/7": "El agente de fichas cambió a Paul Klebnikov (investigación aún abierta) por O. J. Simpson.",
+  "5/8": "Bonnie y Clyde ya están el 1/10.",
+  "3/10": "O. J. Simpson queda el 9/7.",
+  "29/4": "Luis Roldán ya está el 26/2 (la condena).",
+  "14/12": "Hace falta un caso más sin resolver para la cuota (15 %)."
+ }
 }
