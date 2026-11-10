@@ -3,12 +3,25 @@
   "revision_grupos_total": 21,
   "trabajos": [
     {
-      "nombre": "Grabación de audio: tanda 1 (273 casos, en marcha)",
-      "tipo": "audio"
+      "nombre": "Diseño: prototipos C y D de interfaz",
+      "tipo": "diseño",
+      "progreso": {
+        "archivos": [
+          "docs/prototipos/prototipo-c.html",
+          "docs/prototipos/prototipo-c.png",
+          "docs/prototipos/prototipo-d.html",
+          "docs/prototipos/prototipo-d.png"
+        ]
+      }
     },
     {
-      "nombre": "Diseño: prototipos C y D de interfaz",
-      "tipo": "diseño"
+      "nombre": "Grabación de audio: tanda 2",
+      "tipo": "audio",
+      "progreso": {
+        "carpetas": "app/src/main/assets/audio",
+        "lista": "tools/tandas/tanda2.txt"
+      }
     }
-  ]
+  ],
+  "nota": "progreso.archivos: rutas que el agente debe dejar escritas; progreso.carpetas + progreso.lista: una carpeta por id; progreso.hecho/total: a mano."
 }
