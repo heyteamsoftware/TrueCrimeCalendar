@@ -1,0 +1,115 @@
+{
+  "id": "prats-cuthbert",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Carlos Prats": "Carlos Prats",
+    "Prats": "Prats",
+    "Sofía Cuthbert": "Sofía Cázbert",
+    "Cuthbert": "Cázbert",
+    "Malabia": "Malábia",
+    "Palermo": "Palermo",
+    "Michael Townley": "Máikel Táunli",
+    "Townley": "Táunli",
+    "Mariana Callejas": "Mariana Cayéjas",
+    "Callejas": "Cayéjas",
+    "Arancibia Clavel": "Arancíbia Clável",
+    "DINA": "dina",
+    "Manuel Contreras": "Manuel Contréras",
+    "Contreras": "Contréras",
+    "Pedro Espinoza": "Pedro Espínosa",
+    "National Security Archive": "Néishonal Sikiúriti Árkaiv",
+    "Servini": "Servíni",
+    "María Servini": "María Servíni"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Medianoche en la calle Malabia",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de la calle Malabia. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Medianoche en la calle Malabia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buenos Aires, 30 de septiembre de 1974. Poco después de medianoche, un matrimonio vuelve a casa en un coche, tras visitar a unos amigos. Viven en la calle Malabia, en el barrio de Palermo. Al otro lado de la calle, desde otro coche, alguien los observa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran el general Carlos Prats y su esposa, Sofía Cuthbert. Una bomba pegada a su coche estalló al llegar a su edificio. Murieron los dos. Ella había compartido con él el exilio en Argentina, lejos de su país, tras el golpe de Pinochet."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Según el National Security Archive, Prats había recibido una llamada que le advertía de que corría peligro. Un general retirado, en el exilio, con un aviso y sin forma de protegerse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Prats había sido comandante en jefe del Ejército chileno desde 1970 y ministro de Salvador Allende. En agosto de 1973 renunció bajo presión, y recomendó a Augusto Pinochet como sucesor, convencido de que respetaría el orden constitucional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuatro días después del golpe de 1973, partió al exilio en Argentina. Allí vivió con restricciones para hablar en público. Escribió unas memorias que criticaban a muchos militares y políticos. Sus hijas las rescataron y se publicaron en México."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Un hombre que había mandado el Ejército y que, desde Buenos Aires, criticaba a quienes dieron el golpe. Esa es la figura que los documentos sitúan como objetivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al principio, en Argentina, se creyó que los autores eran chilenos, sin saber si de izquierdas o de derechas. La verdad tardó años. La reveló un agente de la DINA, la policía secreta de Pinochet: Michael Townley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Townley confesó, tras un acuerdo con la justicia de Estados Unidos, que fabricó, colocó y detonó la bomba. Según los documentos, lo hizo junto con Mariana Callejas, también agente. Callejas intentó accionar el detonador y no funcionó. Entonces lo hizo Townley."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Así se resolvió: no por la policía argentina, sino por un hombre que habló para salvarse. Eso explica su valor y también sus límites. Un confeso con un acuerdo siempre merece cautela, y por eso los jueces buscaron más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el National Security Archive, en junio de 1974 Pinochet se reunió con el jefe de la DINA, Manuel Contreras, y le ordenó eliminar a Prats. Contreras encargó el trabajo a Enrique Arancibia Clavel, jefe de la DINA en Argentina, y al coronel Pedro Espinoza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con prudencia. Es una afirmación de los archivos, y está respaldada por documentos. Pero Pinochet nunca fue procesado ni juzgado por este crimen. Murió el 10 de diciembre de 2006."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Argentina, Arancibia Clavel fue condenado a cadena perpetua en el año 2000, y la sentencia se confirmó en 2004. La jueza María Servini tomó declaración a Townley en Washington en 1999."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Chile, un juez procesó a Contreras, Espinoza y otros oficiales. En 2003 los acusó de conspiración y homicidio. En junio de 2010, los tribunales chilenos condenaron a Contreras y a Espinoza, junto con otros agentes de la DINA."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Tardaron treinta y seis años. Una bomba bajo un coche, y treinta y seis años de expedientes, extradiciones rechazadas y declaraciones tomadas en el extranjero. Esa es la parte lenta del archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que sigue sin aclararse es hasta dónde llegó la cadena de mando. Los documentos apuntan arriba. Pero la justicia no llegó hasta allí."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda un matrimonio. Carlos Prats y Sofía Cuthbert murieron en la puerta de su casa, en un país que no era el suyo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus hijas rescataron las memorias de Prats. En 1983 pidieron la extradición de Townley a Argentina, pero un juez de Estados Unidos lo impidió por un acuerdo judicial anterior. Siguieron esperando casi treinta años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de la calle Malabia. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: National Security Archive (Kornbluh, 2024) y Human Rights Watch (2003). BBC (2000, 2004) y Memoria Viva no se abrieron; la condena de Arancibia Clavel en 2000 (BBC) y su confirmación en 2004 vienen de la ficha. Wikipedia no se abrió. Sin contradicciones con la ficha. Discrepancias: dirección (Malabia 3351 o 3305; el guion dice solo calle Malabia); NSA dice que Callejas intentó accionar el detonador y que Townley lo hizo después (se atribuye a los documentos); HRW habla de procesamientos en 2003 y NSA de condenas en junio de 2010 (los dos se recogen). Pinochet: la orden de Pinochet viene del NSA, con documentos; nunca fue procesado por este crimen (el guion lo dice así). Mariana Callejas: la ficha la cita como colaboradora de Townley; el guion lo atribuye a los documentos y no dice que fuera condenada. No se nombra a los Iturriaga ni a Zara (procesados en 2003; no consta condena en las fuentes abiertas)."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "robo-300-millones-yenes",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Fuchu": "Fuchú",
+    "Tokio": "Tokio",
+    "Nippon Shintaku": "Nipón Shintaku",
+    "Toshiba": "Toshiba",
+    "Nippon": "Nipón"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una bengala bajo el coche",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de los 300 millones de yenes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una bengala bajo el coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tokio, 10 de diciembre de 1968. Una mañana de lluvia. Un coche del banco Nippon Shintaku avanza por una calle tranquila de Fuchu, junto a la gran prisión. Lleva las pagas extra de los empleados de una fábrica de Toshiba. Casi trescientos millones de yenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De pronto, una moto de policía se pone a su altura y le corta el paso. El agente es joven. Les dice que ha explotado una bomba en la casa del director de la sucursal, y que puede haber dinamita en el coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en que no miente del todo. El banco había recibido cartas de amenaza días antes. Quien planeó esto lo sabía, y usó el miedo que ya existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los cuatro empleados bajan del coche. El falso policía se mete debajo. Y de repente sale humo y fuego. Era una bengala. Grita que el coche va a estallar. Los hombres salen corriendo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Él se sube al coche y se marcha con el dinero. Los cuatro empleados siguen en la calle, sin heridas. Nadie había recibido un disparo ni un golpe."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos o tres minutos. Eso es todo lo que se necesitó. Sin armas, sin heridos y a plena luz del día. Pensé durante horas qué me inquietaba más, y es la limpieza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores lo comprobaron todo. Encontraron la moto, pintada de blanco como las de la policía. Con el tiempo se recuperaron los vehículos que el ladrón había usado para escapar, cambiando de uno a otro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También encontraron objetos que dejó en el sitio. Eran, en su mayoría, cosas corrientes, de las que no dicen nada de nadie. Hay quien cree que los dejó adrede para despistar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una pista falsa bien elegida vale más que una buena huida. Cuantos más objetos, más pistas que seguir, y más tiempo perdido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación fue una de las más grandes de la historia de Japón. Participaron más de ciento setenta mil agentes. Se estudió a más de cien mil personas y se compararon millones de huellas con las del lugar. Sin resultado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se difundieron cientos de miles de retratos robot por todo el país. La prensa siguió el caso durante años. Decenas de personas fueron interrogadas y descartadas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí se me escapa algo de este caso. ¿Qué esperaban? Un joven, una moto y un golpe perfecto. Con ese perfil se investigaron a muchísimos, y casi todos volvieron a su vida. Yo no voy a señalar a nadie. Ninguno fue condenado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron los años. En diciembre de 1975, siete años después, el delito prescribió. Desde entonces ya no se podía juzgar a nadie por el robo. Y en 1988 prescribió también la responsabilidad civil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El dinero nunca apareció. Nadie ha sido condenado. El caso sigue sin resolverse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces ¿por qué se recuerda? Porque nadie resultó herido y porque parecía un truco de magia. Y porque dejó una sensación incómoda: que una ciudad entera, con cientos de miles de agentes, no pudo atrapar a un hombre con una bengala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Libros, películas y series de televisión han vuelto sobre el caso. Muchos japoneses mayores recuerdan dónde estaban cuando lo oyeron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no hay es un culpable. Y en este archivo no inventamos uno. Lo que hay es un expediente abierto sobre un golpe en una mañana de lluvia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los cuatro empleados fueron las víctimas directas. Salieron ilesos. Pero pasaron años bajo los focos de un país entero que quería una explicación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de los 300 millones de yenes. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifras de la investigación: unos 170.000 agentes y una lista de unas 110.000 personas (Wikipedia en inglés/japonés); AFP da 118.000 interrogados. El guion dice «más de ciento setenta mil agentes» y «más de cien mil personas». La moto: Wikipedia dice que estaba pintada de blanco; AFP añade que era robada y repintada, y la ficha dice que eso no consta en fuentes abiertas. El guion solo dice «pintada de blanco». Wikipedia (en inglés) habla de 120 objetos recuperados, casi todos corrientes. La AFP y Wikipedia dan el nombre del banco con grafías distintas (Nippon Shintaku / Nihon Shintaku Ginko); el guion usa la de la ficha. No se nombra a ningún sospechoso, aunque las fuentes mencionan a varios (uno fallecido, otro detenido y liberado sin cargos). Se omite el valor en dólares porque las fuentes discrepan. No se pudo abrir el SCMP (403) ni Jiji."
+}

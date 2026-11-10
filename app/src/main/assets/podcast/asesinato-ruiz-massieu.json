@@ -1,0 +1,106 @@
+{
+  "id": "asesinato-ruiz-massieu",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "PRI": "pri",
+    "Ruiz Massieu": "Ruis Masié",
+    "José Francisco Ruiz Massieu": "Josefrancisco Ruis Masié",
+    "Salinas de Gortari": "Salínas de Gortári",
+    "Colosio": "Colósio"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una mañana en la calle Lafragua",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Ruiz Massieu. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una mañana en la calle Lafragua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ciudad de México, 28 de septiembre de 1994. Son las nueve y veintidós de la mañana. José Francisco Ruiz Massieu, secretario general del PRI, sale del hotel Casablanca, en la calle Lafragua, tras una reunión con ciento ochenta diputados de su partido. Se dirige a su coche. Alguien se le acerca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Daniel Aguilar Treviño, de veintiocho años, le disparó en el cuello con una pistola de nueve milímetros. Ruiz Massieu murió minutos después. El agresor fue detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un detenido en el acto. Parece un caso cerrado. Pero Aguilar Treviño era el brazo. La pregunta del expediente es otra: ¿quién lo mandó?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ruiz Massieu había sido gobernador de Guerrero entre 1987 y 1993. Era cuñado del presidente, Carlos Salinas de Gortari, y estaba a punto de ser líder de su partido en la Cámara de Diputados. Era el segundo asesinato político del año: seis meses antes habían matado al candidato presidencial Luis Donaldo Colosio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Dos asesinatos políticos en seis meses, en el mismo partido. Es normal que el país se preguntara si estaban conectados. La fiscalía general lo examinó y concluyó que no había indicios de que Ruiz Massieu tuviera información para esclarecer el de Colosio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de septiembre, dos días después, el diputado del PRI Fernando Rodríguez González fue detenido en Zacatecas. Confesó haber contratado al sicario. Aguilar Treviño declaró que le habían pagado quinientos mil dólares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rodríguez González señaló a otro diputado, Manuel Muñoz Rocha, como partícipe en la planificación. Un juez ordenó su captura el 8 de octubre. Muñoz Rocha desapareció, nunca fue juzgado y no se ha vuelto a saber de él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una precaución. Muñoz Rocha figura aquí porque otro acusado lo señaló. Nadie lo ha condenado, y un nombre dicho por un confeso no es una sentencia. Lo anoto para no cometer una injusticia con alguien que ni siquiera pudo defenderse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Aquí se complica. El hermano de la víctima, Mario Ruiz Massieu, era el fiscal especial del caso. El 23 de noviembre renunció, alegando que altos cargos obstruían la investigación. La dirigencia del PRI pidió pruebas. Nunca aparecieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A finales de febrero de 1995, fue detenido Raúl Salinas de Gortari, hermano del presidente. Se le acusó de ser autor intelectual del crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Presunción de inocencia. Lo digo desde ya, porque la historia da un giro. Raúl Salinas fue condenado en enero de 1999. En apelación, su pena bajó a veintisiete años y medio. Ante la ley, hoy no es culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 2005, un tribunal anuló su condena y lo dejó en libertad. Había pasado unos diez años en prisión. Fue absuelto del asesinato de Ruiz Massieu."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaban así dos nombres con condena: Aguilar Treviño, como autor material, y Rodríguez González, por haberlo contratado. El expediente dedicó años a una sola pregunta: quién había dado la orden de más arriba, y por qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los condenados por el crimen fueron Aguilar Treviño y Rodríguez González. A cada uno le impusieron cincuenta años. Años después, las penas se redujeron, según Wikipedia: a cuarenta y dos años para Aguilar Treviño en 2017, y a treinta y siete para Rodríguez González."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ruiz Massieu había nacido en Acapulco en 1946. Fue gobernador de Guerrero y secretario general del PRI. Era también cuñado del presidente, y en este expediente es sobre todo una víctima."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una mañana, un hotel, una reunión de trabajo. Así empieza este expediente. Así podía haber empezado cualquier otro día de ese año, el de dos asesinatos políticos en seis meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le recuerda como político, pero también como un hombre que subió a su coche tras una reunión de trabajo y que ese día no volvió a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le recuerda como político, pero también como un hombre que subió a su coche una mañana, tras una reunión de trabajo, y no volvió a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Ruiz Massieu. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (biografía, detención de Rodríguez González el 30 de septiembre en Zacatecas, 500.000 dólares, Muñoz Rocha, renuncia de Mario Ruiz Massieu, detención de Raúl Salinas el 28 de febrero de 1995, condena de enero de 1999, 27,5 años, anulación en junio de 2005, penas reducidas de Aguilar Treviño a 42 años en 2017 y de Rodríguez González a 37) y Milenio (hora 9:22, 180 diputados, pistola de 9 mm, orden de captura del 8 de octubre contra Muñoz Rocha, renuncia el 23 de noviembre, diez años de Raúl Salinas en prisión, PGR sobre Colosio). BBC, NYT y LA Times no se abrieron (BBC bloqueada para este agente). Sin contradicciones con la ficha. Raúl Salinas: absuelto (la ficha dice que fue absuelto; Wikipedia, que la condena fue anulada): el guion lo presenta como absuelto y no como culpable. Rodríguez González: Milenio no lo menciona, Wikipedia sí. Las penas de 42 y 37 años proceden solo de Wikipedia (sin segunda fuente abierta). Mario Ruiz Massieu y sus propios problemas judiciales no se tratan. No se afirma que Muñoz Rocha sea culpable: solo que fue señalado por Rodríguez González y desapareció."
+}

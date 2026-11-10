@@ -1,0 +1,117 @@
+{
+  "id": "bomba-vaillant",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Auguste Vaillant": "Ogüst Vayán",
+    "Vaillant": "Vayán",
+    "Charles Dupuy": "Charl Dupuí",
+    "Dupuy": "Dupuí",
+    "Palacio Borbón": "Palacio Borbón",
+    "Ravachol": "Ravachól",
+    "Sadi Carnot": "Sadí Carnó",
+    "Carnot": "Carnó",
+    "Caserio": "Caserio",
+    "Mézières": "Mesiér",
+    "Sidonie": "Sidoní",
+    "Casimir-Perier": "Casimir Perié"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La sesión continúa",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La bomba de la Cámara de Diputados. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La sesión continúa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 9 de diciembre de 1893. Hacia las cuatro de la tarde, la Cámara de Diputados debate en el Palacio Borbón. Desde la tribuna del público, algo cae sobre el hemiciclo. Una explosión. Humo, gritos, diputados en el suelo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y entonces, en medio del pánico, el presidente de la Cámara, Charles Dupuy, pronuncia una frase que pasaría a la historia: «Señores, la sesión continúa»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esa frase importa más que la bomba. En medio del humo, el poder decide que no se va a mover. Mostrar fortaleza, antes que preguntar quién había sido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había sido Auguste Vaillant, un anarquista. En la tribuna también resultó herido él mismo, con un clavo de su propio artefacto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie murió. Hubo decenas de heridos leves entre los presentes. Una veintena según unas fuentes y cerca de cincuenta según otras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sin entrar en detalles: era una bomba casera, de clorato, cargada con clavos de zapatero. Un artefacto hecho para dañar. Pero él mismo declaró que quería herir, no matar, y los hechos no lo desmienten: no hubo ningún muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Interrogado en el hospital, Vaillant dijo que lo había construido él solo. Pensaba soltarla sobre el hemiciclo durante un discurso. Según su relato, una mujer sentada a su lado le desvió el brazo y la bomba estalló en el aire."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nótese lo que dice y lo que no dice. Confiesa todo. No muestra arrepentimiento. Pero insiste en que actuó solo y pide que no se castigue a nadie más por su culpa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era? Nació en 1861 en Mézières, en el norte de Francia. Con doce años quedó solo en París. Hizo muchos oficios, sin suerte. Tenía una compañera y una hija pequeña, Sidonie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según declaró, quería vengar a Ravachol, otro anarquista ejecutado el año anterior. Hablaba del sufrimiento de los pobres y de unos diputados de los que, decía, la sociedad estaría mejor sin ellos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Era una época de bombas anarquistas en París. Y aquí está lo que me inquieta: el atentado de Vaillant no mató a nadie, pero cambió más cosas que otros que sí mataron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después, un tribunal lo condenó a muerte. Era un caso poco habitual: nadie había muerto por su mano. Un grupo de diputados pidió el indulto al presidente de la República, Sadi Carnot."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Carnot lo rechazó. Las razones exactas se discuten. Lo que consta es que Vaillant fue guillotinado el 5 de febrero de 1894, y que hubo quien lo consideró una pena desproporcionada para un delito sin muertos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después, el Parlamento aprobó leyes duras contra la propaganda anarquista, bajo el Gobierno de Jean Casimir-Perier. Sus críticos las llamaron «leyes perversas», porque atacaban las ideas además de los actos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 1894, un anarquista italiano, Caserio, mató a Carnot en Lyon. Se dijo entonces que actuaba, en parte, en represalia por el indulto negado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cadena de violencia, y el eslabón del medio es un hombre que quería herir y ni siquiera lo logró del todo. Nadie en el archivo defiende la bomba. Pero el caso sigue siendo un ejemplo de cómo el miedo cambia las leyes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Qué quedó sin aclarar? Sobre todo, las cifras. No hay un número de heridos exacto, y las fuentes no coinciden en algunos detalles menores del proceso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedó una niña de la que apenas se habla. Sidonie fue acogida por un compañero anarquista, y una duquesa pagó su sustento. Es el lado humano de un caso que casi siempre se cuenta desde la política."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda también quien estaba en los escaños aquella tarde. Heridos leves, sí. Pero se trata de un ataque a un lugar donde se hacían las leyes, y los presentes lo vivieron como tal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La bomba de la Cámara de Diputados. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Heridos: unos cincuenta leves según Wikipedia en francés; otras fuentes hablan de una veintena de diputados. El guion dice «decenas». Fecha de la ejecución: 5 de febrero de 1894 (Hérodote, Wikipedia francesa); la base Sycomore de la Asamblea dice el 7. La fecha del juicio no se da. La edad de Vaillant discrepa (33 en Hérodote, 32 según la cuenta de Wikipedia): el guion no la da. El número de diputados que pidieron el indulto (58) solo consta en Wikipedia francesa: el guion dice «decenas». La relación entre el asesinato de Carnot (24 de junio de 1894) y la negativa del indulto se atribuye a lo que se dijo entonces. Las «leyes perversas» (lois scélérates) se atribuyen a sus críticos. Se deja fuera la ficha del Sycomore de Casimir-Perier, que no se usó más que para confirmar su cargo. Lugar de la ejecución no mencionado."
+}

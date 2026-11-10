@@ -1,0 +1,115 @@
+{
+  "id": "feliu-olot",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Maria Àngels Feliu": "Maria Ángels Felíu",
+    "Feliu": "Felíu",
+    "Olot": "Olót",
+    "Girona": "Yirona",
+    "Sant Pere de Torelló": "Sant Pére de Torelyó",
+    "Lliçà de Vall": "Liysá de Vall",
+    "Els Xops": "Els Chops",
+    "Guirado": "Guirádo",
+    "Ullastre": "Uyástre",
+    "Sant Pau": "Sant Pau"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Los anillos de la pordiosera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de la farmacéutica de Olot. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Los anillos de la pordiosera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lliçà de Vall, Barcelona, las tres y media de la madrugada del domingo 27 de marzo de 1994. En la gasolinera Els Xops, en la carretera de Puigcerdá, un empleado ve acercarse a una mujer con un chándal sucio y una manta raída. Parece una mendiga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Le pide monedas para la máquina. Luego le dice quién es: Maria Àngels Feliu. Al empleado le cuesta creerlo. Entonces ella le enseña los anillos y el reloj de oro que llevaba puestos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Hablamos de una mujer que llevaba desaparecida un año y cuatro meses. Y lo primero que hace es pedir monedas. Una escena que parece de otro tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El empleado avisó a unos guardias civiles que tomaban café en un restaurante cercano. Al principio no la creyeron. Solo cuando dio los datos de su carné y los teléfonos de su familia aceptaron que era ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Maria Àngels era farmacéutica en Olot, en Girona, hija de un industrial de la ciudad. El 20 de noviembre de 1992 desapareció al volver de la farmacia, en el garaje de su casa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El mismo día, un hermano suyo recibió una llamada en castellano que avisaba del secuestro. Nadie imaginaba entonces lo que iba a durar:  492 días: el secuestro más largo cometido por delincuentes comunes en España."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los secuestradores la mantuvieron en un zulo diminuto bajo una casa de Sant Pere de Torelló. Según uno de ellos, un espacio donde no se podía estar ni de pie del todo, ni del todo estirada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación fue tropezando. Se cometieron errores, hubo pistas falsas y, en un momento, se llegó a dar por muerta a la víctima. Los sospechosos que se detuvieron entonces no eran los responsables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La búsqueda se perdió en teorías mientras a pocos kilómetros había una mujer viva. Hubo dos hombres que pasaron dos años en prisión y que luego fueron absueltos. Ese también es parte del daño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando por fin la dejaron libre, el 27 de marzo de 1994, la llevaron al hospital de Sant Pau, en Barcelona. Tenía problemas de movilidad por la delgadez y la falta de ejercicio. Los médicos dijeron que su salud física y psíquica era buena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después llegó a casa, a Olot. La esperaban sus padres y su hermano, y más tarde su marido y sus tres hijos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Y los responsables? Nada durante cinco años. Hasta 1999, cuando un policía local de Olot decidió hablar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Antoni Guirado. Su confesión destapó la trama. Según la crónica de El Punt Avui, él y otros dos hombres habían esperado a la farmacéutica la noche del secuestro. Y la casa donde la tuvieron escondida era la de Ramon Ullastre, un guardia forestal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un policía local y un guardia forestal. Dos hombres con vínculos con la policía, según subrayó la prensa. Un detalle que da que pensar sobre aquellos años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en 2003 en la Audiencia de Girona. Condenaron a cinco personas. Guirado y Ullastre, a veintidós años y cuatro meses cada uno. Montserrat Teixidó, esposa de Ullastre, a dieciocho. Sebastià Comas, el carcelero que la liberó, a diecisiete. Y José Luis Paz, a catorce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otros tres acusados fueron absueltos, entre ellos dos que habían pasado dos años en prisión preventiva. Los condenados tuvieron que indemnizar a la farmacéutica con un millón de euros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una última nota. Sebastià Comas, ya en libertad, contó años después que alguien lo había metido en esto con la promesa de que sería cosa de cuatro días. Esa persona, según él, nunca entró en prisión. No hay ninguna sentencia que lo confirme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan, pues, preguntas sin cerrar sobre quién más pudo estar detrás. Lo que sí quedó claro es lo vivido por ella: 492 días de encierro y una recuperación que nadie puede medir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Maria Àngels Feliu no acudió a escuchar la sentencia. Su abogado dijo que recogía el noventa por ciento de lo que pedían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de la farmacéutica de Olot. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso con condena (Audiencia de Girona, abril de 2003). Fuentes abiertas: El País (28/3/1994), Diario de León (11/4/2003), Ara (2023, entrevista a uno de los condenados) y El Punt Avui (2017). Cifra: 492 días (Ara, Punt Avui, Diario de León «más de diez años después»). Discrepancia menor: la liberación fue hacia las 3.30 de la madrugada del domingo 27/3/1994 en Els Xops (El País); la ficha dice Lliçà de Vall, que es el pueblo junto a la gasolinera. Diario de León habla de «Gerona» y de Sebastià Comas como carcelero que liberó a la víctima. Las penas siguen a Diario de León (22 años y 4 meses a Guirado y Ullastre; 18, 17 y 14 a los demás). La ficha da «policía local de Olot» a Guirado y la sentencia lo confirma; Ullastre era guardia forestal. Se omite el nombre de la persona a quien Comas, en una entrevista de 2023, atribuye haberle «enredado», porque nunca fue acusada. Se omiten nombres de absueltos y de otros implicados no condenados. El Punt Avui menciona a otro agente ya fallecido, no se nombra. Un confidente provocó una errada judicial y la investigación dio un tiempo por muerta a la víctima (Punt Avui, texto truncado): se dice con prudencia. Pronunciaciones a oído."
+}

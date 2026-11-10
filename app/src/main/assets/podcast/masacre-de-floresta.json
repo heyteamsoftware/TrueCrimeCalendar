@@ -1,0 +1,116 @@
+{
+  "id": "masacre-de-floresta",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "De la Rúa": "De la Rrúa",
+    "All Boys": "Ol Bois",
+    "Infobae": "Infobáe",
+    "Velaztiqui": "Velastíki",
+    "Rochaix": "Rochéx",
+    "Matassa": "Matása",
+    "Floresta": "Floresta"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cuchillo de cocina",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Floresta. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cuchillo de cocina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buenos Aires, madrugada del 29 de diciembre de 2001. En una gasolinera del barrio de Floresta, un policía llama a su comisaría. Dice que tres jóvenes han intentado robar y que ha tenido que actuar. Junto a los cuerpos hay un cuchillo de cocina. Pero alguien en la gasolinera no se lo cree."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un cuchillo que aparece después, una llamada preparada y una testigo que contradice al agente. Cuando una versión oficial se rompe tan pronto, suele ser porque se montó deprisa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estamos días después del estallido social que había derribado al gobierno de De la Rúa. Las calles de Argentina seguían heridas, y la televisión mostraba una y otra vez las protestas y la represión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el minimercado de la gasolinera, de Gaona y Bahía Blanca, cuatro amigos veían esas imágenes. Eran aficionados del club All Boys, el del barrio. Según la nota del Gobierno argentino, celebraban que uno de ellos, Maximiliano Tasca, acababa de graduarse en Relaciones Internacionales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus amigos eran Cristian Gómez y Adrián Matassa, de entre veintitrés y veinticinco años, y un cuarto joven, Enrique Díaz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la gasolinera trabajaba como vigilante un suboficial de la Policía Federal, Juan de Dios Velaztiqui, destinado allí desde la comisaría cuarenta y tres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que desencadenó todo fue un comentario. Según Infobae, Tasca dijo algo sobre un manifestante que golpeaba a un policía en la televisión. No se dirigía al agente, y los jóvenes ni siquiera habían hablado con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El suboficial sacó su arma reglamentaria y disparó contra los tres. Tasca y Gómez murieron allí. Matassa falleció horas después en el hospital Álvarez. Díaz consiguió salir corriendo y sobrevivió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después llegó el montaje: según Infobae, movió los cuerpos al exterior, dejó un cuchillo cerca y avisó de que habían intentado asaltarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La cajera, Sandra Bravo, lo desmintió. Según Infobae, le dijo a la cara que había matado a unos hombres que no le habían hecho nada. Fue el primer eslabón de la verdad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La versión falsa se extendió por Floresta durante unas horas. Los vecinos, que conocían a los chicos como clientes tranquilos, se concentraron ante la comisaría. Según Infobae, la respuesta policial fue violenta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una versión oficial rota por los vecinos. Esa es la clave de la investigación, y no salió de un laboratorio, sino de la gente que se negó a creer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 25 de febrero de 2003. Bravo declaró que los jóvenes eran clientes habituales y tranquilos. Díaz reconoció al acusado en la sala. Un testigo, el piloto Roberto Rochaix, aseguró que no vio armas en sus manos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa sostuvo que el suboficial actuó bajo emoción violenta, y mencionó una operación de cataratas y su sensibilidad a la luz. Los testigos lo vieron tranquilo antes, durante y después. Él se negó a declarar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de marzo de 2003, el Tribunal Oral en lo Criminal número trece lo condenó a prisión perpetua por triple homicidio con alevosía. En junio de 2003, la Cámara de Casación confirmó la pena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un dato que anoto con cuidado. Según el Gobierno argentino, fue la primera vez que un policía federal recibió esa pena en un caso de gatillo fácil. Lo digo atribuido: no he podido contrastarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años después, según esa misma nota, se le concedió la prisión domiciliaria. Murió el 24 de julio de 2020."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 2021, veinte años después, el Gobierno inauguró una señalización en el lugar de los hechos. Asistieron las madres y familiares de los jóvenes, vecinos y aficionados de All Boys."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los vecinos los recuerdan además con murales en las plazas del barrio, con sus caras enmarcadas en los colores del club. Infobae los llama las últimas víctimas de aquel diciembre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No fueron manifestantes, ni delincuentes, ni sospechosos. Eran tres amigos que veían la televisión un sábado de madrugada, en su barrio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Maximiliano Tasca, Cristian Gómez, Adrián Matassa. Fin del expediente: La masacre de Floresta. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Infobae (2024) y nota del Gobierno de Argentina (2021). La Nación (2003) no se abrió. Edades: 23 a 25 (Infobae); 25 Tasca y Gómez y 23 Matassa (Gobierno); el guion dice «entre veintitrés y veinticinco». Hora exacta no incluida. Infobae sitúa a Matassa muriendo horas después en hospital; la ficha dice Hospital Álvarez (no aparece en las fuentes abiertas; la ficha lo da). Muerte de Velaztiqui (24/7/2020) y domiciliaria, solo del Gobierno; igual el dato de «primera perpetua a un federal en gatillo fácil» (atribuido). Infobae dice que murieron Tasca y Gómez en el lugar: el texto del Gobierno no lo precisa. Velaztiqui tenía 61 (Infobae) o 62 (Gobierno): no se usa. Se omite su pasado de 1985."
+}

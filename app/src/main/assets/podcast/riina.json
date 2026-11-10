@@ -1,0 +1,118 @@
+{
+  "id": "riina",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Riina": "Ríina",
+    "Corleone": "Corleóne",
+    "Capaci": "Capáchi",
+    "Falcone": "Falcóne",
+    "Borsellino": "Borselíno",
+    "Via D'Amelio": "Vía Damélio",
+    "Cosa Nostra": "Cósa Nóstra",
+    "Palermo": "Palérmo",
+    "Sicilia": "Sicília"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una villa en la calle Bernini",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Totò Riina. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una villa en la calle Bernini."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Palermo, 15 de enero de 1993. Un hombre sale de una villa de la calle Bernini. Hace más de veinte años que lo busca la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una unidad especial de los carabineros, los ROS, lo detiene delante de esa casa. Era Salvatore Riina, Totò para los suyos, el jefe de Cosa Nostra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Piensa en lo que significa. Un hombre buscado por todo un Estado vivió años con su mujer y sus hijos en Sicilia, y la huida duró más de veinte años. Eso también es el expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en 1930 en Corleone, un pueblo de Sicilia, en una familia de campesinos. Se unió muy joven al capomafia Luciano Leggio. A los diecinueve años lo condenaron a doce de cárcel por matar a un joven en una pelea."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salió en libertad en 1956 y volvió al clan de Corleone. Desde 1969 vivió en la clandestinidad. Y desde la clandestinidad empezó a mandar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay un patrón que conviene apuntar. Los corleoneses no ganaron por ser más numerosos, sino por ser más implacables. Eliminaban a los rivales y también a los aliados que dudaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según las crónicas, tras la detención de Leggio en 1974 Riina tomó el mando del clan. En 1981 estalló la segunda guerra de la mafia, contra las familias rivales de Palermo. Los muertos se cuentan por centenares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después vinieron los crímenes políticos y policiales. Fueron asesinados un secretario provincial de la Democracia Cristiana, el presidente de la región de Sicilia, Piersanti Mattarella, y el diputado comunista Pio La Torre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Qué tenían en común? Todos habían puesto en el camino de la organización un obstáculo. No eran víctimas al azar. Era una forma de decir quién mandaba en la isla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces llegaron los jueces. En el maxiproceso de Palermo, tras años de instrucción, cientos de mafiosos fueron condenados. El 30 de enero de 1992, el Tribunal Supremo confirmó esas condenas. Riina seguía huido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 23 de mayo de 1992, en la autopista de Capaci, cerca de Palermo, una carga explosiva destruyó un tramo de la carretera al paso del coche del juez Giovanni Falcone."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron Falcone, su esposa, la magistrada Francesca Morvillo, y tres agentes de la escolta: Vito Schifani, Rocco Dicillo y Antonio Montinaro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cincuenta y siete días después, el 19 de julio, otra explosión en la calle Via D'Amelio, en Palermo, mató al juez Paolo Borsellino y a cinco agentes de su escolta: Agostino Catalano, Walter Cosina, Emanuela Loi, Vincenzo Li Muli y Claudio Traina."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en las fechas. Entre una y otra masacre no pasó ni dos meses. Y según el diario AGI, Riina habría decidido ambas en una reunión navideña de la cúpula en 1991. La condena por esto vino después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras su detención, Riina pasó a régimen de aislamiento, el llamado cuarenta y uno bis. Acumuló veintiséis cadenas perpetuas por asesinatos y por ordenar las masacres de 1992."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2013, desde la cárcel, lanzó amenazas de muerte contra el fiscal Nino Di Matteo. Seguía siendo, para muchos, el jefe."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no se aclaró también cuenta. Quién más pudo empujar aquellas masacres, si hubo contactos entre el Estado y la mafia, dónde acabó la agenda del juez Borsellino. Algunas de esas preguntas siguen en los tribunales o abiertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Riina murió el 17 de noviembre de 2017 en el hospital de Parma, a los ochenta y siete años, un día después de cumplir ochenta y siete. Se llevó consigo los secretos que nunca contó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No me quedo con él. Me quedo con quienes cayeron en esa autopista y en aquella calle. Cinco personas en una, seis en otra. Agentes jóvenes, un matrimonio, dos jueces que sabían a qué se exponían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que se recuerden sus nombres. Ese es el recuerdo que importa de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Totò Riina. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso condenado: Riina cumplió 26 cadenas perpetuas. La ficha dice 23 años huido; AGI sitúa el inicio de la fuga en 1969 (24 años según Store norske leksikon y otras), por eso el guion dice «más de veinte años». Los secretos de la trattativa Estado-mafia y los mandantes externos se citan solo como lagunas, sin atribuir nada a nadie. No se nombra a ningún carabinero ni al capitán que dirigió la detención. Se nombran víctimas adultas de Capaci y via D'Amelio (Wikipedia en inglés; AGI confirma las dos masacres). Fuentes abiertas: AGI y Store norske leksikon; Repubblica, L'Espresso solo parcial, Britannica y Scotsman no accesibles. Pronunciaciones a oído."
+}

@@ -1,0 +1,119 @@
+{
+  "id": "incendio-dupont-plaza",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dupont Plaza": "Dupónt Pláza",
+    "Teamsters": "Tímsters",
+    "Winecoff": "Uínkof",
+    "Marriott": "Mérriot",
+    "NotiCel": "Notisél",
+    "UPI": "u pe i"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Muebles envueltos en plástico",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El incendio del Dupont Plaza. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Muebles envueltos en plástico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Juan de Puerto Rico, 31 de diciembre de 1986. Es Nochevieja y el casino del hotel Dupont Plaza, en la playa del Condado, está lleno de turistas ante las mesas y las máquinas. Muy cerca, en un almacén junto al salón de baile, algo empieza a arder."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran las tres y cuarto o las tres y media de la tarde, según la fuente. Unos minutos antes, los empleados del hotel habían votado ir a la huelga."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un contrato sin renovar, una huelga anunciada para la medianoche y tres trabajadores que deciden presionar a la dirección. No querían matar a casi cien personas: querían dañar el hotel. Pero hay actos que no se pueden medir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaban Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera. Escudero trabajaba en mantenimiento. Rivera López era camarero de barra y Jiménez, su ayudante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la prensa de la época, Rivera López convenció a Escudero de prender el fuego y Jiménez lo ayudó. Usaron combustible de cocina sobre muebles nuevos, aún envueltos en plástico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El plástico lo cambia todo. Arde mal y suelta un humo denso y tóxico. No hace falta que las llamas alcancen a la gente: basta con que el humo llegue antes que ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y llegó en pocos minutos hasta el casino. Según una de las fuentes, la seguridad del hotel había cerrado con cadenas las puertas, salvo la entrada principal del casino, que ya estaba envuelta en llamas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con prudencia, porque no todas las crónicas lo recogen. Pero un informe de la Asociación Nacional de Protección contra Incendios, de Estados Unidos, sí halló algo comprobable: casi todo el hotel carecía de rociadores y de sistema de detección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron noventa y siete personas. Noventa y una en el casino, según un informe federal citado por la agencia UPI. Casi todas por asfixia. Unas ciento cuarenta resultaron heridas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran turistas, familias enteras, y también trabajadores. Un joven socorrista de veintidós años perdió ese día a su madre, a su abuela, a su hermano y a su tío."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Algunas fuentes dan noventa y seis o noventa y ocho muertos. La cifra de noventa y siete cuenta a un herido que murió en marzo de 1987 en un hospital de Boston. Cada número es una persona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue el segundo incendio de hotel más mortífero de la historia de Estados Unidos, solo por detrás del hotel Winecoff de Atlanta, en 1946."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién estaba detrás? El sindicato de los Teamsters negó cualquier participación, y los investigadores del gobierno no encontraron vínculos entre él y los tres autores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres se declararon culpables. En junio de 1987, un tribunal federal condenó a Escudero Aponte y a Rivera López a noventa y nueve años de prisión, y a Jiménez Rivera a setenta y cinco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hubo dos justicias. En el tribunal de Puerto Rico, Rivera López y Jiménez admitieron cargos reducidos de asesinato en segundo grado y recibieron noventa y seis cadenas perpetuas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escudero Aponte esperaba juicio allí, en diciembre de 1987, por noventa y seis asesinatos. No he encontrado cómo terminó. Ese cabo sigue suelto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaban las demandas civiles. Un pleito federal reunió a más de mil demandantes contra unos doscientos demandados. Se cerraron con indemnizaciones de unos doscientos cuarenta millones de dólares, según NotiCel, repartidas entre más de dos mil familiares y supervivientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después del incendio, Puerto Rico obligó a los hoteles a instalar rociadores y el Congreso de Estados Unidos debatió exigirlos en todo el país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso se recuerda. No por los tres nombres, sino por una lección pagada muy cara: un hotel sin rociadores, una puerta cerrada y una tarde de fiesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Dupont Plaza no volvió a abrir con su nombre. Se vendió, se reformó por completo y hoy es otro hotel, el San Juan Marriott."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el recuerdo de quienes entraron al casino aquella tarde para celebrar el final del año y no salieron. Noventa y siete personas, un archivo que no debería existir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El incendio del Dupont Plaza. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: UPI (1987), EBSCO y NotiCel (2019). Discrepancias: hora (15:15 UPI, 15:30 EBSCO, 14:00 NotiCel; el guion dice 15:15 o 15:30); muertos 97 (UPI, EBSCO) frente a 96/98 (otras, y NotiCel se contradice); puertas cerradas con cadena solo en EBSCO (atribuido en el guion); NotiCel dice que los culpables eran dirigentes sindicales, lo que contradice a UPI (sin vínculos con el sindicato): se sigue UPI. UPI sitúa el casino un piso por encima del fuego y EBSCO dice que ambos estaban en la segunda planta: no se especifica. Escudero Aponte: resultado del juicio en Puerto Rico no encontrado. Indemnizaciones de 240 millones solo de NotiCel. No se nombra a víctimas."
+}

@@ -1,0 +1,132 @@
+{
+  "id": "secuestro-sinatra-jr",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Frank Sinatra Jr.": "Frank Sinátra yúnior",
+    "Sinatra": "Sinátra",
+    "Harrah's": "Járas",
+    "Tahoe": "Táhoe",
+    "Canoga Park": "Canóga Park",
+    "Sepulveda": "Sepúlveda",
+    "Bel Air": "Bel Er",
+    "Barry Keenan": "Bári Kínan",
+    "Keenan": "Kínan",
+    "Joe Amsler": "Yóu Ámsler",
+    "Amsler": "Ámsler",
+    "John Irwin": "Yon Érwin",
+    "Irwin": "Érwin",
+    "John Foss": "Yon Fos",
+    "Foss": "Fos",
+    "Gladys Root": "Gládis Rut",
+    "FBI": "efe be i",
+    "Carson City": "Cárson Síti",
+    "Nevada": "Nebáda"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Entre dos autobuses escolares",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Frank Sinatra Jr. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Entre dos autobuses escolares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una gasolinera de Sepulveda, en Los Ángeles. Diciembre de 1963. Entre dos autobuses escolares aparcados, un hombre famoso deja un paquete con doscientos cuarenta mil dólares en billetes usados. Nadie mira. Ese es el plan de los secuestradores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el sitio. Dos autobuses vacíos hacen de pared, y el que recoge el dinero queda a cubierto de los curiosos. Quien eligió ese lugar había pensado bien la jugada. Aunque no tan bien como creía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre del paquete era Frank Sinatra, el cantante. Y el secuestrado era su hijo, también Frank, de diecinueve años, que empezaba su carrera como cantante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de diciembre actuaba en el casino Harrah's, en el lago Tahoe. Esa noche cenaba en su habitación con un trompetista de la orquesta, John Foss. Alguien llamó a la puerta diciendo que traía un paquete."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando el joven abrió, entró un hombre armado. Ataron y vendaron a los dos, y se llevaron al hijo de Sinatra en coche hacia Los Ángeles."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuenta una de las fuentes un detalle que me llama la atención. En un control de carretera cerca de Carson City, lo escondieron bajo una manta en el asiento de atrás. Les bastó con explicar que habían parado a quitar las cadenas de nieve. Pasaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Foss logró soltarse y dio la alarma. La policía de California y de Nevada buscó durante dos días sin encontrar rastro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El padre estaba en Palm Springs. Voló a Reno, donde le esperaban agentes del FBI. Había rechazado otras ofertas de ayuda, entre ellas la del fiscal general, Robert Kennedy, y la de un conocido jefe mafioso, Sam Giancana. Aceptó solo la del FBI."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de diciembre, un hombre llamó para pedir el rescate. Los secuestradores permitieron una breve llamada entre padre e hijo. Después vino la entrega entre los autobuses."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ahora el error. Tres personas, una casa pequeña en Canoga Park y una entrega de dinero. Dos van a cobrar. Uno se queda vigilando al chico. Es el eslabón débil, y el chico lo notó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de diciembre, mientras los otros dos recogían el dinero, el vigilante se puso nervioso. Soltó al joven junto a una autopista de Los Ángeles. Una patrulla de Bel Air lo recogió y lo llevó a salvo, sin los periodistas que esperaban en casa de su madre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había pasado menos de cuatro días. La víctima estaba ilesa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el plan se deshizo enseguida. Uno de los implicados, John Irwin, se entregó al FBI en San Diego a los pocos días y confesó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia el 14 de diciembre, los tres estaban detenidos: Barry Keenan, el cerebro del plan, Joe Amsler y John Irwin. El FBI recuperó la mayor parte del rescate, unos doscientos treinta y tres mil dólares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en febrero de 1964 y duró un mes. Los tres fueron declarados culpables de conspiración para secuestrar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene lo que más ruido hizo. La abogada de uno de los acusados, Gladys Root, sostuvo que todo había sido un montaje publicitario del propio joven. No presentó pruebas. Y el jurado no lo aceptó. Pero la idea ya había salido de la sala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta un programa satírico de la televisión británica lo repitió como una broma. Frank Sinatra padre lo negó, demandó a la cadena y ganó. Donó su parte de la indemnización a un centro para bebés ciegos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el final de los condenados. Keenan y Amsler recibieron cadenas perpetuas, después rebajadas. Keenan cumplió unos cuatro años y medio, y luego se hizo promotor inmobiliario. Un secuestro con rescate de seis cifras, y una condena que acabó siendo corta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Qué quedó sin aclarar? Poco, en realidad. Los hechos están documentados. Lo que quedó fue la sospecha del montaje, que nunca tuvo pruebas y que él nunca quiso comentar en público."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Frank Sinatra hijo siguió su carrera de cantante. Falleció en 2016. Pasó por un secuestro, por unos días de miedo con los ojos vendados, y eligió vivir sin hablar de ello."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una última nota. Cuando una víctima sale ilesa, el caso parece menor. No lo es. Alguien, durante tres días, no supo si volvería a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Frank Sinatra Jr. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Dos fuentes de la ficha (History.com y EBSCO) difieren en detalles: EBSCO sitúa la liberación junto a la salida de Mulholland Drive de la autopista de San Diego y History en Bel Air (el guion dice solo que lo encontró una patrulla de Bel Air); la pena de Irwin varía según la fuente (el guion no da penas concretas, solo que fueron rebajadas y que Keenan cumplió unos cuatro años y medio, según History). Se dice 'habitación' en lugar de hotel o motel porque las fuentes no coinciden (hotel Harrah's / alojamiento anexo). El FBI recuperó 233.855 dólares según EBSCO. Se deja fuera el plan de secuestrar a hijos de otras celebridades y el retraso por el asesinato de Kennedy."
+}

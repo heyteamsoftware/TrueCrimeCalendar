@@ -1,0 +1,110 @@
+{
+  "id": "el-vaquilla",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "La Mina": "La Mína",
+    "Sant Adrià de Besòs": "Sant Adriá de Besós",
+    "Modelo": "Modélo",
+    "Badalona": "Badalóna",
+    "Vaquilla": "Vakíya"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cojín en el asiento",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El Vaquilla. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cojín en el asiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barrio de La Mina, Sant Adrià de Besòs, principios de los años setenta. Un niño de once años conduce un coche robado. Para llegar a los pedales se sienta sobre un cojín."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Juan José Moreno Cuenca. Le pusieron el apodo de El Vaquilla de pequeño, por lo inquieto que era. Más tarde, ese apodo lo conocería toda España."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La leyenda empieza con un niño, y eso me incomoda. Un niño de once años al volante no es un héroe. Es una alarma que nadie atendió a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació el 19 de noviembre de 1961 en Barcelona, de etnia gitana. Su madre, Rosa Cuenca, pasó mucho tiempo en prisión. El padrastro que le dio el apellido murió, según las crónicas, de un ataque al corazón cuando huía de la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A los doce años ya había pasado por la policía por robar coches. Según la prensa, se escapó de varios reformatorios. Con apenas dieciséis, según El Mundo, ingresó por primera vez en la cárcel Modelo de Barcelona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La prensa no se pone de acuerdo con la edad. Unos dicen trece, otros catorce, otros dieciséis. Lo que sí coincide es lo que sigue. Salir, robar, caer. Una y otra vez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era adicto a la heroína. En abril de 1984 protagonizó un motín en la Modelo. En diciembre de ese año, las cámaras de la televisión catalana filmaron una de sus huidas. En las imágenes aparece esposado en el suelo, herido de un disparo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquellas imágenes fueron su ruina y su fama. El país vio a un chico de veintitrés años tirado en la calle, y decidió que era un héroe o un monstruo. No era ninguna de las dos cosas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes ya había llegado al cine. El director José Antonio de la Loma se fijó en él para «Perros callejeros», de 1977, y después para «Yo, el Vaquilla», de 1985, en la que se interpretó a sí mismo. Grupos de rumba de los ochenta le dedicaron canciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le convirtió en el símbolo de la delincuencia juvenil de la Transición. El cine quinqui, como se llamó a aquel género, mostraba a jóvenes de barrios pobres que robaban y huían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una película cuenta la aventura. No cuenta a las personas que sufrieron los robos, ni a los vecinos del barrio. Para esas víctimas anónimas, el mito nunca existió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1999 salió de la cárcel con un permiso para ir a una autoescuela y no volvió. Durante cinco días, según El Mundo, cometió trece delitos. Fue su última fuga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril de 2000 aceptó su última condena. Dijo que robar no está bien, que él había delinquido y que asumía su responsabilidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tal vez sea lo más honesto que dijo en toda su vida. Y llegó con treinta y ocho años y media vida de cárcel a la espalda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su familia pagó un precio. Tres de sus hermanos murieron: uno en un tiroteo con la policía local, otro al intentar escaparse de un hospital, otro en un accidente de coche durante una huida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Vaquilla murió el 19 de diciembre de 2003, a los cuarenta y dos años, en un hospital de Badalona. La causa fue una cirrosis. Cumplía una condena de treinta años y estaba ya en libertad condicional avanzada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hay un final heroico. Un hombre que pasó casi toda la vida adulta encarcelado, sin llegar a rehabilitarse, según la prensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que queda sin aclarar es cuánto de la leyenda fue verdad. Y de quién fue la culpa: de él, de las instituciones o del cine que lo celebró. El archivo no responde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que se recuerde también a quienes sufrieron sus robos, y a un niño que a los once años ya robaba coches."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El Vaquilla. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Delincuente condenado en numerosas causas; no se atribuye ningún hecho concreto sin condena. Fuentes abiertas: El Mundo (obituario 2003, abierto con node fetch), El Mundo Magazine (2000, abierto) y EFE/Última Hora (WebFetch). Discrepancias: nacimiento (EFE, Torre Baró; El Mundo, Barcelona), primer ingreso en prisión (El Mundo: 16 años; EFE: 14; Magazine: 14 detenido por robar coches), lugar de la muerte (EFE: Can Ruti; El Mundo: hospital penitenciario de Badalona; la ficha, Can Ruti: el guion dice solo «un hospital de Badalona»), causa (cirrosis según ambos), libertad condicional/fin de condena (El Mundo: libertad fijada para el 3/2/2007; EFE: libertad condicional avanzada desde diciembre de 2003). EFE dice «condenas por más de cien años» y El Mundo no: se omite. La muerte de una mujer atropellada cuando él era menor se omite (no contrastada, hecho de menor). Los tiroteos de la familia (hermanos) se resumen sin detalles. Pronunciaciones a oído."
+}

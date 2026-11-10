@@ -1,0 +1,113 @@
+{
+  "id": "detencion-machine-gun-kelly",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Machine Gun Kelly": "Mashín Gan Kéli",
+    "Kelly": "Kéli",
+    "George Kelly Barnes": "Yorch Kéli Barnes",
+    "Kathryn": "Kázrin",
+    "Charles Urschel": "Charls Érschel",
+    "Urschel": "Érschel",
+    "Oklahoma City": "Oklahóma Síti",
+    "Oklahoma": "Oklahóma",
+    "Paradise": "Páradais",
+    "Memphis": "Mémfis",
+    "Tennessee": "Ténesi",
+    "Bureau of Investigation": "Biuró of Investigueishon",
+    "FBI": "efe be i",
+    "G-Men": "yi men",
+    "Leavenworth": "Lévenuorz",
+    "Alcatraz": "Alcatráz",
+    "Albert Bates": "Álbert Béits",
+    "Bates": "Béits",
+    "Texas": "Téjas",
+    "Edgar S. Vaught": "Édgar Vot"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un avión cada mañana",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Machine Gun Kelly. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un avión cada mañana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Oklahoma City, 22 de julio de 1933. En una casa se juega una partida de bridge. Dos hombres armados entran y se llevan al dueño, el petrolero Charles Urschel, y a un invitado. Lo meten en un coche. A Urschel le vendan los ojos. Todo lo que va a recordar de aquellos días lo recordará con los oídos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo retuvieron más de una semana en una granja de Paradise, Texas. Urschel fue liberado el 30 de julio, tras el pago de un rescate de doscientos mil dólares en billetes registrados. Ya en casa, contó a los agentes lo que había oído y tocado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La clave de la investigación no fue un testigo, sino un secuestrado. Recordó que un avión pasaba a la misma hora cada día. Dejó huellas en los objetos que tocó. Con eso, el Bureau of Investigation, el futuro FBI, situó el escondite."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes allanaron la granja y detuvieron a sus dueños, Robert y Ora Shannon, y a Harvey Bailey, que la usaba de refugio. Albert Bates, que había participado en el secuestro, fue arrestado en Denver. Pero faltaba la pareja más buscada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran George Kelly Barnes, conocido como Machine Gun Kelly por su arma preferida, la ametralladora, y su esposa, Kathryn. Ella, según una de las fuentes, le compró su primera ametralladora y promovió su nombre en el hampa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Fíjate en la ironía. Un hombre con un apodo de película, y detrás, una mujer que lo fabricó. En el expediente, el apodo pesa más que el hombre. Eso también cuenta cómo se escribe la historia criminal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de septiembre de 1933, en la madrugada, agentes del Bureau y la policía de Memphis, en Tennessee, entraron en una casa de esa ciudad. Kelly había nacido allí. Detuvieron a los dos. Según el FBI, Kelly estaba sin armas y se rindió en una habitación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La frase más famosa de la leyenda es «¡No disparéis, G-Men!». Pero el propio FBI la cuenta solo como leyenda. Wikipedia la considera un mito de prensa surgido meses después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Una frase inventada convirtió una detención corriente en leyenda. Lo cierto, según el FBI, es que Kelly estaba sin armas y se rindió. Prefiero ese hecho a la frase."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio de los Kelly se celebró en Oklahoma City. El 12 de octubre de 1933, ambos fueron condenados a cadena perpetua por el juez Edgar S. Vaught. En total, el caso produjo veintiuna condenas, entre ellas las de los dueños de la granja y la de Bates."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue el primer juicio federal filmado por cámaras de cine, el primer caso bajo la llamada ley Lindbergh contra el secuestro y el primer gran caso resuelto por el FBI de J. Edgar Hoover."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda algo sin aclarar. Del rescate de doscientos mil dólares solo se recuperó una parte: unos setenta y tres mil, en un rancho de Texas. El resto nunca se supo dónde acabó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kelly pasó unos diecisiete años en Alcatraz. Se le conocía allí como Pop Gun Kelly, por sus exageraciones. Lo devolvieron a Leavenworth en 1951 y murió de un infarto el 18 de julio de 1954."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kathryn salió en libertad en 1958 y vivió con otro nombre en Oklahoma hasta su muerte, en 1985."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero este expediente es de Charles Urschel y de su invitado, a quienes sacaron de una partida de cartas. Urschel pasó más de una semana con los ojos vendados, y usó los oídos para encontrar el camino de vuelta. Su testimonio fue la clave."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Urschel había vuelto a su casa el 30 de julio de 1933. Los Kelly eran, desde entonces, los más buscados por aquel secuestro. Dos meses después, caían en Memphis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Machine Gun Kelly. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Oklahoma Historical Society (secuestro, granja de Paradise, rescate de 200.000 dólares, liberación el 30 de julio, arrestos de los Shannon, Bailey y Bates, 21 condenas, sentencias de cadena perpetua del juez Vaught) y Wikipedia en inglés (apodo, Kathryn, arresto en Memphis, mito de G-Men, juicio filmado, 73.250 dólares recuperados, Alcatraz, muerte de Kelly el 18 de julio de 1954, salida de Kathryn en 1958). Las dos páginas del FBI dieron 403. Sin contradicciones con la ficha. La frase «No disparéis, G-Men» se da como leyenda/mito (ficha). Kelly estaba «sin armas y se rindió» es lo que recoge Wikipedia como versión del FBI. La muerte de Kelly y la salida de Kathryn solo constan en Wikipedia (ficha). El invitado de Urschel (Walter Jarrett) no se nombra. Discrepancia menor: no consta en las fuentes abiertas la cantidad exacta de casas/agentes en la detención de Memphis; el guion se limita a lo de la ficha. Importante: la ficha dice que condenaron a ambos el 12 de octubre; Oklahoma Historical Society habla de siete juzgados en septiembre y octubre; el guion dice solo que el caso produjo veintiuna condenas."
+}

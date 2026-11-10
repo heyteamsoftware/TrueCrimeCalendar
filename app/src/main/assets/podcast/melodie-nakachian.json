@@ -1,0 +1,104 @@
+{
+  "id": "melodie-nakachian",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Melodie": "Melodí",
+    "Nakachian": "Nakachián",
+    "Raymond": "Réimond"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La cartera del chándal",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Melodie Nakachian. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La cartera del chándal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estepona, Málaga, lunes 9 de noviembre de 1987. Poco después de las nueve de la mañana, un coche sale de la urbanización Atalaya Alta camino del colegio. Lleva a una niña de cinco años, Melodie, y a otra niña, hija de su hermano. Una furgoneta blanca le corta el paso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bajan cuatro hombres encapuchados. Dos llevan escopetas. Uno de ellos carga el arma, y ese chasquido basta para que nadie se resista. En segundos, la furgoneta desaparece con Melodie dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esto estaba preparado. Furgoneta robada con la matrícula cambiada, un segundo coche cubriendo la retirada. Y detrás, meses de trabajo: pisos, coches, identidades falsas. Quien hizo esto sabía lo que hacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Melodie era hija de la cantante Kimera y del financiero libanés Raymond Nakachian, que vivían en la Costa del Sol. Dos días sin noticias. Luego, una voz de hombre, con acento extranjero, pidió trece millones de dólares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue un secuestro muy aireado. Los secuestradores llamaron a los periódicos, y se habló de mensajes en clave a través de la prensa. Cien periodistas hacían guardia en la puerta de la casa, y el país seguía la historia por entregas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso complicó el trabajo. Cualquiera podía entrar en aquella casa, y cualquiera era sospechoso. Mientras tanto, los videntes llamaban con pistas falsas, y la policía tenía poco: una furgoneta robada, cientos de llamadas y una voz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa voz fue la clave. El comisario que dirigía la investigación recordó una carta de la policía francesa, de meses antes. Hablaba de unos presos en Toulouse que planeaban un golpe en España. Entre ellos había un español con acento francés, y de ahí salió el primer nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un mechón de pelo y una fotografía, enviados por los secuestradores, probaron que Melodie estaba viva. En la foto sostenía un periódico de la semana. El rescate pedido bajó de trece millones de dólares a cinco, y después a cuatro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que hizo la familia: ganar tiempo. Alargar las conversaciones, decir que no había dinero, pedir pruebas. Asesorados por la policía. Mientras el reloj corría, cada hora servía a los investigadores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces un sacerdote entregó en una comisaría una cartera que un hombre en chándal había perdido en la calle. Llevaba francos franceses y una nota manuscrita en francés, con las mismas frases que el portavoz de la banda había usado por teléfono dos días antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Piensa en el momento. Un jefe de banda que sale a correr para mantenerse en forma, mientras una niña está encerrada, y que pierde en la calle la nota con sus amenazas. Una cartera olvidada días en la mesa de un funcionario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía localizó a uno de los secuestradores en un hotel de la zona y no le perdió de vista. Sin saberlo, él y los suyos los llevaron a un piso, luego a otro y a un tercero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue durante la décima jornada. El 19 de noviembre, Kimera apareció ante la prensa, llorando, a pedir que se olvidaran de que eran millonarios. Pocas horas más tarde, a las cinco y cuarto de la madrugada del 20 de noviembre, treinta geos asaltaron a la vez varios pisos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En uno de ellos, en Torreguadiaro, encontraron a Melodie. Estaba bien. En la comisaría de Estepona se reencontró con sus padres, y, según las crónicas, su madre sacó un peine. Habían pasado casi once días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que decirlo claro: se la liberó ilesa. No siempre pasa. Aquí pesaron la paciencia de la familia, una pista francesa guardada en un cajón y una cartera perdida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jefe de la banda, Jean-Louis Camerini, escapó esa noche. Fue detenido después. La Audiencia de Málaga juzgó a la banda en 1991: Camerini fue condenado a veintiún años y los demás, a penas de entre diez y dieciséis, según relata El País."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedan cosas sin aclarar, y las fuentes no coinciden: no está claro de dónde sacó la banda tanto dinero, ni el orden exacto de las llamadas. Hasta la cifra del rescate varía según quién la cuente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Melodie tenía cinco años. Pasó casi once días encerrada y volvió a casa sana y salva. Eso es lo que merece recordarse: que esta vez la historia terminó bien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Melodie Nakachian. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El País, Gabriela Cañas (2017; capítulo de 1996) con el relato casi completo, y El País (21/11/1987). Vanity Fair y la Wikipedia en castellano no se han reabierto. Confirmado: lunes 9/11/1987, cuatro encapuchados en furgoneta blanca, asalto de 30 geos a las 5.15 del 20/11, Torreguadiaro y once días de cautiverio. Contradicciones: el rescate sale como 13 millones de dólares y luego 5 y 4 (El País 2017; la ficha dice 13; Vanity Fair, 16 inicialmente). Condenas según El País (21 años Camerini, 10-16 los demás), frente a Wikipedia (18 condenados a 18-20 años). Se ha seguido a El País. No se dice en el guion la edad de otros menores ni se nombra a otros miembros de la banda. No se reproduce la cinta con la voz de la niña que cita El País (por respeto). Falta una segunda fuente de hemeroteca de 1987 independiente de El País. Dato a vigilar: «Camerini fue detenido después» (de la ficha; no consta la fecha en las fuentes abiertas). El cierre se limita a la edad, el cautiverio y la liberación."
+}
