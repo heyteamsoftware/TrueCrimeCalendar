@@ -9,9 +9,7 @@
     "Cobham": "Cóbam",
     "Westminster": "Uéstminster",
     "Old Palace Yard": "Old Pálas Yard",
-    "Gondomar": "Gondomár",
-    "Jacobo": "Jacobo",
-    "Guayana": "Guayana"
+    "Gondomar": "Gondomár"
   },
   "cintas": [
     {
@@ -89,7 +87,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Muchos contemporáneos consideraron la ejecución injusta. Uno de los jueces que lo había juzgado dijo que degradaba la justicia inglesa. Esa es la memoria que quedó."
+          "texto": "Muchos contemporáneos consideraron la ejecución injusta. Según algunos relatos, uno de los jueces que lo había juzgado dijo que degradaba la justicia inglesa. Esa es la memoria que quedó."
         },
         {
           "voz": "ximena",
@@ -101,10 +99,10 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: La ejecución de sir Walter Raleigh. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente La ejecución de sir Walter Raleigh. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: abadía de Westminster (fecha, lugar y entierro en St Margaret's), Wikipedia en inglés (juicio de 1603, Cobham, Torre, expedición, Gondomar, discurso), y la sentencia Crawford v. Washington solo por la ficha (el sitio de Justia dio 403). Britannica y Royal Museums Greenwich no se abrieron. Discrepancia menor: la fecha de la liberación de la Torre (1616 en la introducción de Wikipedia, 1617 en el cuerpo); el guion usa 1616 y 'partió en 1617' como la ficha. 'Trece años' preso, de la ficha. El que 'uno de los jueces dijo que degradaba la justicia inglesa' lo recoge Wikipedia sin nombrarlo; revisar. La mención del Tribunal Supremo (2004) es de la ficha. 'Conjura principal' = Main Plot. Se omite lo que pasó con la cabeza. 'Quince años' entre el juicio y la ejecución (1603-1618). 'Un grupo de sus hombres al mando de un capitán' = Lawrence Kemys (no se nombra). La placa de la iglesia es de la web de la abadía (placa de 1845). Raleigh nació hacia 1552-54. Pronunciaciones por revisar. Raleigh se defendió él mismo (Wikipedia)."
+  "nota_revision": "Fuentes abiertas: abadía de Westminster (fecha, lugar y entierro en St Margaret's), Wikipedia en inglés (juicio de 1603, Cobham, Torre, expedición, Gondomar, discurso), y la sentencia Crawford v. Washington solo por la ficha (el sitio de Justia dio 403). Britannica y Royal Museums Greenwich no se abrieron. Discrepancia menor: la fecha de la liberación de la Torre (1616 en la introducción de Wikipedia, 1617 en el cuerpo); el guion usa 1616 y 'partió en 1617' como la ficha. 'Trece años' preso, de la ficha. El que 'uno de los jueces dijo que degradaba la justicia inglesa' lo recoge Wikipedia sin nombrarlo; revisar. La mención del Tribunal Supremo (2004) es de la ficha. 'Conjura principal' = Main Plot. Se omite lo que pasó con la cabeza. 'Quince años' entre el juicio y la ejecución (1603-1618). 'Un grupo de sus hombres al mando de un capitán' = Lawrence Kemys (no se nombra). La placa de la iglesia es de la web de la abadía (placa de 1845). Raleigh nació hacia 1552-54. Pronunciaciones por revisar. Raleigh se defendió él mismo (Wikipedia). VERIFICACIÓN nuevos-octubre: la frase del juez, atribuida a 'algunos relatos' (Wikipedia, sin nombre); la frase de Raleigh al verdugo va como 'según las crónicas'. Crawford v. Washington (2004) solo por la ficha. Juicio injusto: dicho como tal por la ficha y la historiografía, sin más."
 }

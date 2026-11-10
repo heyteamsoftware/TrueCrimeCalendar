@@ -12,7 +12,8 @@
     "Cherry": "Cheri",
     "Mason": "Méison",
     "Geary": "Guíri",
-    "FBI": "efe be i"
+    "FBI": "efe be i",
+    "Vallejo": "Valéjo"
   },
   "cintas": [
     {
@@ -70,11 +71,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuarta nota. Muchos sospechosos pasaron por el caso. Solo uno fue nombrado por la policía: un hombre de Vallejo que murió en 1992 sin ser acusado nunca. En 2002, un perfil de ADN parcial, sacado de los sobres de las cartas, pareció descartarlo."
+          "texto": "Cuarta nota. Muchos sospechosos pasaron por el caso. Solo uno fue nombrado por la policía, y murió sin que se le acusara nunca. En 2002, un perfil de ADN parcial, sacado de los sobres de las cartas, pareció descartarlo."
         },
         {
           "voz": "ximena",
-          "texto": "Se han señalado otros nombres en libros y foros durante décadas. Ninguno ha pasado por un tribunal. Y ese ADN sirve sobre todo para descartar, no para acusar. Además, según la policía de la época, cientos de personas llamaron convencidas de que su vecino o su exmarido era el Zodiaco."
+          "texto": "Se han señalado otros nombres en libros y foros durante décadas. Ninguno ha pasado por un tribunal. Y ese ADN sirve sobre todo para descartar, no para acusar. Además, según la prensa, cientos de personas llamaron convencidas de que su vecino o su exmarido era el Zodiaco."
         },
         {
           "voz": "ximena",
@@ -82,7 +83,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quinta nota. En diciembre de 2020 se descifró un mensaje que el Zodiaco mandó al Chronicle en 1969. El FBI anunció que se había resuelto. El mensaje no dice quién era. Y en 2021 un grupo de aficionados anunció que había dado con su identidad. La policía y el FBI no lo confirmaron."
+          "texto": "Quinta nota. En diciembre de 2020 un equipo de aficionados descifró un mensaje que el Zodiaco mandó al Chronicle en 1969, y el FBI confirmó la solución. El mensaje no dice quién era. Y en 2021 un grupo de aficionados anunció que había dado con su identidad. La policía y el FBI no lo confirmaron."
         },
         {
           "voz": "ximena",
@@ -103,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: SFGate/Chronicle (7/4/2004, por curl), Guardian (8/10/2021, por curl) y la ficha; el segundo SFGate no cargó. Caso sin resolver: no se nombra a ningún sospechoso (ni al único nombrado por la policía, fallecido sin ser acusado, ni al vecino citado por el Chronicle ni al que el grupo de aficionados anunció en 2021). Descartes por ADN: el SFGate habla de un perfil parcial de sobres; ojo, «pareció descartar» (el propio ADN solo sirve para descartar). Fecha de la carta: la ficha dice que llegó dos días después (13 de octubre; otras fuentes, el 14). Cuatro muertes anteriores: la ficha habla de cinco confirmadas (con Stine) y dos supervivientes; los lugares (Vallejo y lago Berryessa) y 1968-1969 no están en las fuentes abiertas del caso Stine salvo Vallejo (SFGate): conviene comprobar. «Pagaba su doctorado conduciendo un taxi» es una inferencia a partir de «taxista y estudiante de doctorado» de la ficha. Que tres adolescentes vieron desde una casa y el retrato robot son de la ficha; el fallo de la radio y el agente que dejó pasar a un hombre, del SFGate 2004. Dato sin fuente directa: «celebró el FBI» el descifrado de 2020 (NYT 2020 está en la ficha, no abierto); retirar si no se confirma. «Cincuenta y siete años después»: 2026 menos 1969. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: SFGate/Chronicle (7/4/2004, por curl), Guardian (8/10/2021, por curl) y la ficha; el segundo SFGate no cargó. Caso sin resolver: no se nombra a ningún sospechoso (ni al único nombrado por la policía, fallecido sin ser acusado, ni al vecino citado por el Chronicle ni al que el grupo de aficionados anunció en 2021). Descartes por ADN: el SFGate habla de un perfil parcial de sobres; ojo, «pareció descartar» (el propio ADN solo sirve para descartar). Fecha de la carta: la ficha dice que llegó dos días después (13 de octubre; otras fuentes, el 14). Cuatro muertes anteriores: la ficha habla de cinco confirmadas (con Stine) y dos supervivientes; los lugares (Vallejo y lago Berryessa) y 1968-1969 no están en las fuentes abiertas del caso Stine salvo Vallejo (SFGate): conviene comprobar. «Pagaba su doctorado conduciendo un taxi» es una inferencia a partir de «taxista y estudiante de doctorado» de la ficha. Que tres adolescentes vieron desde una casa y el retrato robot son de la ficha; el fallo de la radio y el agente que dejó pasar a un hombre, del SFGate 2004. Dato sin fuente directa: «celebró el FBI» el descifrado de 2020 (NYT 2020 está en la ficha, no abierto); retirar si no se confirma. «Cincuenta y siete años después»: 2026 menos 1969. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: sospechoso nombrado por la policía ya no se identifica (quitados Vallejo y 1992 como señas); nadie sin condena señalado, ni el de 2021. Descifrado de 2020: lo hicieron aficionados y el FBI lo confirmó (de conocimiento general; no abierto el NYT). Cientos de llamadas: atribuido a la prensa. SFGate 2004 solo para la inactividad del caso. El ADN de 2002 solo sirve para descartar."
 }

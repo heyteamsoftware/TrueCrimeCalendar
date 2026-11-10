@@ -9,7 +9,8 @@
     "Harbin": "Járbin",
     "Manchuria": "Manchúria",
     "Lüshun": "Lushún",
-    "Corea": "Corea"
+    "Corea": "Corea",
+    "Itō Yukio": "Ito Yúkio"
   },
   "cintas": [
     {
@@ -31,7 +32,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El hombre sacó una pistola y disparó tres veces contra el pasajero más importante del tren: Itō Hirobumi. Después disparó contra otros tres japoneses que estaban a su lado, para no equivocarse de objetivo. Los tres quedaron gravemente heridos."
+          "texto": "El hombre sacó una pistola y disparó contra el pasajero más importante del tren: Itō Hirobumi. Otros tres japoneses que estaban a su lado resultaron heridos."
         },
         {
           "voz": "alvaro",
@@ -43,7 +44,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El pistolero se llamaba An Jung-geun. Era coreano, católico y tenía treinta años. Los guardias rusos lo detuvieron en el acto y, dos días después, lo entregaron a las autoridades japonesas."
+          "texto": "El pistolero se llamaba An Jung-geun. Era coreano, católico y tenía treinta años. Los guardias rusos lo detuvieron en el acto y lo entregaron a las autoridades japonesas."
         },
         {
           "voz": "alvaro",
@@ -83,7 +84,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Japón se anexionó Corea en 1910, apenas cinco meses después de la ejecución. Fue el comienzo de treinta y cinco años de dominio colonial."
+          "texto": "Japón se anexionó Corea en 1910, apenas cinco meses después de la ejecución. Fue el comienzo de treinta y cinco años de dominio colonial. Corea tardó hasta 1945 en recuperar su independencia."
         },
         {
           "voz": "ximena",
@@ -91,11 +92,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuando China abrió un monumento a An en la propia estación de Harbin, en 2014, Japón protestó de forma oficial. Un asesinato de 1909 sigue siendo, a día de hoy, una cuestión diplomática."
+          "texto": "Según la prensa internacional, cuando China abrió un monumento a An en la estación de Harbin, en 2014, Japón protestó de forma oficial. Un asesinato de 1909 sigue siendo, a día de hoy, una cuestión diplomática."
         },
         {
           "voz": "ximena",
-          "texto": "La Iglesia católica lo excomulgó por el atentado. La excomunión se levantó en 1993."
+          "texto": "Su caso sigue vivo en la memoria de dos países, y cada uno lo cuenta a su manera."
         },
         {
           "voz": "ximena",
@@ -108,5 +109,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés 'An Jung-geun' (con referencias). El artículo de Rausch (APJ) dio 403; Britannica, BBC y Korea Herald no se abrieron: el monumento de Harbin (BBC 2014, 'Japan protest') y 'China to reopen' salen solo de los títulos de la ficha. Memoria muy sensible: el texto recoge ambas visiones sin tomar partido. Discrepancia: Wikipedia (An Jung-geun) dice solo 'octubre de 1909'; el 26 de octubre viene de la ficha. La instrucción del ministro de Exteriores al tribunal (2 de diciembre de 1909) sale de Wikipedia y se presenta con reserva; revisar antes de publicar. 'Treinta años' de An: Wikipedia lo da al morir. 'Vestido como un japonés' y 'los guardias rusos no se lo impidieron' son lectura de Wikipedia ('posed as a Japanese expatriate to get past guards'). La frase 'treinta y cinco años de dominio colonial' (1910-1945) es dato general. Excomunión levantada en 1993 (Wikipedia). Pronunciación por revisar."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés 'An Jung-geun' (con referencias). El artículo de Rausch (APJ) dio 403; Britannica, BBC y Korea Herald no se abrieron: el monumento de Harbin (BBC 2014, 'Japan protest') y 'China to reopen' salen solo de los títulos de la ficha. Memoria muy sensible: el texto recoge ambas visiones sin tomar partido. Discrepancia: Wikipedia (An Jung-geun) dice solo 'octubre de 1909'; el 26 de octubre viene de la ficha. La instrucción del ministro de Exteriores al tribunal (2 de diciembre de 1909) sale de Wikipedia y se presenta con reserva; revisar antes de publicar. 'Treinta años' de An: Wikipedia lo da al morir. 'Vestido como un japonés' y 'los guardias rusos no se lo impidieron' son lectura de Wikipedia ('posed as a Japanese expatriate to get past guards'). La frase 'treinta y cinco años de dominio colonial' (1910-1945) es dato general. Excomunión levantada en 1993 (Wikipedia). Pronunciación por revisar. VERIFICACIÓN nuevos-octubre: monumento de Harbin (2014) mantenido atribuido a la prensa (solo consta en los títulos de la BBC de la ficha: China abrió el monumento y Japón protestó); quitada la excomunión de 1993 (solo Wikipedia), 'tres veces', 'para no equivocarse de objetivo', 'gravemente heridos' y 'dos días después' (sin fuente). Ambas visiones de la memoria, sin tomar partido. Pronunciación japonesa y coreana por oído."
 }

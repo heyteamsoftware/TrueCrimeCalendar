@@ -14,7 +14,8 @@
     "Möller": "Méler",
     "Landshut": "Lándshut",
     "Stuttgart": "Shtútgart",
-    "Schleyer": "Shláiyer"
+    "Schleyer": "Shláier",
+    "Hanns Martin": "Jans Mártin"
   },
   "cintas": [
     {
@@ -40,7 +41,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Según la investigación, el preso era Jan-Carl Raspe, y pasó la noticia al resto por un hilo que unía las celdas. Lo que ocurrió después se reconstruye a partir de lo que hallaron los funcionarios a la mañana siguiente."
+          "texto": "Primera nota. Según la investigación, el preso era Jan-Carl Raspe, y pasó la noticia al resto. Lo que ocurrió después se reconstruye a partir de lo que hallaron los funcionarios a la mañana siguiente."
         },
         {
           "voz": "ximena",
@@ -64,11 +65,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esa es la clave. Según la investigación, las pistolas entraron meses antes, ocultas en carpetas de documentos que un abogado llevaba a los presos. Los funcionarios solo hojeaban las carpetas, porque los presos salían del juicio deprisa."
+          "texto": "Esa es la clave. Según la investigación, las armas entraron meses antes, con la ayuda de visitas de la defensa, sin que los controles lo detectaran."
         },
         {
           "voz": "ximena",
-          "texto": "El plan se supo gracias a un colaborador de la defensa que, tras ser detenido, lo contó a la policía. El abogado señalado fue condenado en 1978 por ese contrabando. Él siempre ha negado saber lo que llevaban las carpetas."
+          "texto": "El plan se supo gracias a un colaborador de la defensa que, tras ser detenido, lo contó a la policía. El abogado señalado fue condenado en 1978 por ese contrabando. Él siempre ha negado saber lo que llevaba."
         },
         {
           "voz": "ximena",
@@ -76,7 +77,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Entonces, la versión oficial: se quitaron la vida al saber que el secuestro había fracasado. Fue una decisión política. Los defensores, sin embargo, hablaron desde el primer día de asesinato."
+          "texto": "Esta es la versión oficial: se quitaron la vida al saber que el secuestro había fracasado. Los defensores, sin embargo, hablaron desde el primer día de asesinato."
         },
         {
           "voz": "ximena",
@@ -108,10 +109,10 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: La noche de la muerte de Stammheim. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente La noche de la muerte de Stammheim. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Tagesspiegel (solo la entradilla; el resto de pago), Wikipedia alemana (horas, armas, controversia, referencias a Aust, Peters y Welt) y la nota de la Fiscalía de Stuttgart (no abrió por error SSL; la reapertura rechazada en abril de 2013 se toma de la ficha y de Wikipedia). Spiegel, Stern y Die Welt no se pudieron abrir. Hora de la radio (0:40), hallazgo (hacia 7:40-7:50) y muerte de Raspe (9:40) según Wikipedia alemana. No se nombra al abogado condenado (lo niega) ni a las personas de la banda que ejecutaron el secuestro. Se omiten los métodos y las armas concretas. Los 'varios escoltas' del otoño alemán: la cinta lo dice sin cifra (los asesinatos de Schleyer, su chófer y escoltas y del piloto del Landshut constan en las fuentes generales, no en las abiertas aquí). El perito discrepante y los tres que concluyeron lo contrario salen de Wikipedia/Aust. La frase sobre que 'no hay prueba de que las autoridades supieran de las armas' sigue a Wikipedia ('unklar und dementiert'). Pronunciación del alemán por revisar al escuchar."
+  "nota_revision": "Fuentes abiertas: Tagesspiegel (solo la entradilla; el resto de pago), Wikipedia alemana (horas, armas, controversia, referencias a Aust, Peters y Welt) y la nota de la Fiscalía de Stuttgart (no abrió por error SSL; la reapertura rechazada en abril de 2013 se toma de la ficha y de Wikipedia). Spiegel, Stern y Die Welt no se pudieron abrir. Hora de la radio (0:40), hallazgo (hacia 7:40-7:50) y muerte de Raspe (9:40) según Wikipedia alemana. No se nombra al abogado condenado (lo niega) ni a las personas de la banda que ejecutaron el secuestro. Se omiten los métodos y las armas concretas. Los 'varios escoltas' del otoño alemán: la cinta lo dice sin cifra (los asesinatos de Schleyer, su chófer y escoltas y del piloto del Landshut constan en las fuentes generales, no en las abiertas aquí). El perito discrepante y los tres que concluyeron lo contrario salen de Wikipedia/Aust. La frase sobre que 'no hay prueba de que las autoridades supieran de las armas' sigue a Wikipedia ('unklar und dementiert'). Pronunciación del alemán por revisar al escuchar. VERIFICACIÓN nuevos-octubre: suicidios oficiales vs. dudas: la versión oficial (suicidio) y la de asesinato de los defensores van atribuidas; Möller, que sobrevivió, la niega. Quitados el hilo entre celdas, las carpetas del abogado (método) y la frase 'decisión política' dicha como hecho. 2013: fiscalía de Stuttgart rechaza reabrir (ficha y Wikipedia alemana). El abogado condenado no se nombra."
 }

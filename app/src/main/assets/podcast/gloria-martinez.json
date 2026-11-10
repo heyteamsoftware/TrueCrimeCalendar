@@ -3,8 +3,7 @@
   "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "L'Alfàs del Pi": "Lalfás del Pi",
-    "Torres de San Luis": "Torres de San Luis"
+    "L'Alfàs del Pi": "Lalfás del Pi"
   },
   "cintas": [
     {
@@ -26,7 +25,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Se llamaba Gloria Martínez. Estudiaba, tocaba el piano y desde los catorce años sufría ansiedad y anorexia. Sus padres, Álvaro e Isabel, la internaron en la clínica Torres de San Luis por recomendación de su psiquiatra."
+          "texto": "Se llamaba Gloria Martínez. Estudiaba, tocaba el piano y sufría insomnio y anorexia. Sus padres, Álvaro e Isabel, la internaron en la clínica Torres de San Luis por recomendación de su psiquiatra. La clínica estaba en L'Alfàs del Pi, en la costa de Alicante."
         },
         {
           "voz": "alvaro",
@@ -34,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según la investigación, esa noche la sedaron con dosis fuertes y la sujetaron a la cama de pies y manos. Es lo que declaró el personal ante el juez."
+          "texto": "Según la investigación, esa noche la sedaron y la sujetaron a la cama. Es lo que declaró el personal ante el juez."
         },
         {
           "voz": "ximena",
@@ -54,11 +53,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Guardia Civil y cientos de voluntarios rastrearon los alrededores de la clínica. Se revisaron pozos y vertederos de la zona. En julio de 1993 se removieron los vertederos de La Nucía. No apareció nada."
+          "texto": "La Guardia Civil y cientos de voluntarios rastrearon los alrededores de la clínica. No apareció nada. La búsqueda duró años y abarcó toda la comarca."
         },
         {
           "voz": "ximena",
-          "texto": "Hubo testimonios sueltos, como el de trabajadores de una gasolinera de Altea que dijeron haberla visto a primera hora de aquel día. Ninguno condujo a nada."
+          "texto": "Hubo testimonios sueltos de personas que creyeron haberla visto aquel día. Ninguno condujo a nada."
         },
         {
           "voz": "alvaro",
@@ -66,7 +65,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1999, una carta de un supuesto testigo llegó a la Fiscalía de Alicante, que decidió investigarla. El diario El País la recogió con el titular de un testigo sorpresa. La causa penal, finalmente, se cerró en 2000 sin culpables."
+          "texto": "En 1999, según El País, la Fiscalía de Alicante reabrió la investigación por el aviso de un supuesto testigo. La causa penal, finalmente, se cerró en 2000 sin culpables."
         },
         {
           "voz": "alvaro",
@@ -78,11 +77,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Es una sentencia sobre responsabilidad civil. No dice qué le pasó a Gloria. Dice que no la protegieron como debían."
+          "texto": "Es una sentencia sobre responsabilidad civil. No dice qué le pasó a Gloria. Dice que no la protegieron como debían. Un centro tiene un deber de custodia sobre quien ingresa, y es esa obligación la que examinó la justicia."
         },
         {
           "voz": "ximena",
-          "texto": "La clínica quebró poco después. Los padres, Álvaro e Isabel, han mantenido durante décadas la esperanza de encontrarla con vida."
+          "texto": "La clínica acabó quebrando. Los padres, Álvaro e Isabel, han mantenido durante décadas la esperanza de encontrarla con vida. Ese vacío de respuestas es lo que más pesa en su familia."
         },
         {
           "voz": "alvaro",
@@ -98,10 +97,10 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: La desaparición de Gloria Martínez. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente La desaparición de Gloria Martínez. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: El Español (2017), El País (7 y 8 de septiembre de 1999). Información (2008) y ABC no se pudieron abrir. Se nombra a Gloria y a sus padres (Álvaro e Isabel) porque el caso tiene 34 años y la familia ha dado su nombre en toda la prensa (El Español, El País). Discrepancias: la ficha dice que la causa penal se cerró en 2000; El País (8-9-1999) dice 'archivo en octubre de 1996' y la Fiscalía la reabrió en 1999; el guion usa 2000 (ficha) y menciona la reapertura de 1999. Cómo huyó: El Español (ventana de planta baja), El País (muro de metro y medio) y ABC (valla); el guion dice 'saltó una valla' y 'según la clínica'. Hora del aviso (7:00 según El Español; después de las 8:00 según Wikipedia): se atribuye a El Español. Se omiten los fármacos concretos, la nota manuscrita, la psiquiatra por nombre, a la testigo que decía haberla visto años después y la carta de Tibi (acusa a una enfermera; no se nombra a nadie). La quiebra de la clínica y 'Zopito S.A.L.' salen de El Español (no se nombra la sociedad). El importe de 104.000 € sale de la ficha (Información, sin abrir). Que 'hoy tendría más de cincuenta años' = 17 años en 1992 + 34. Cuánto tiempo estuvo atada: El País (primeras horas de internamiento). 'Hasta la una y media' = hora que dan El País y El Español. Reconstrucción del 23 de marzo (El País, 8-9-1999; la fecha completa se ha dejado en 'marzo de 1993'). 'La Guardia Civil lo considera abierto' sale de la ficha."
+  "nota_revision": "Fuentes abiertas: El Español (2017), El País (7 y 8 de septiembre de 1999). Información (2008) y ABC no se pudieron abrir. Se nombra a Gloria y a sus padres (Álvaro e Isabel) porque el caso tiene 34 años y la familia ha dado su nombre en toda la prensa (El Español, El País). Discrepancias: la ficha dice que la causa penal se cerró en 2000; El País (8-9-1999) dice 'archivo en octubre de 1996' y la Fiscalía la reabrió en 1999; el guion usa 2000 (ficha) y menciona la reapertura de 1999. Cómo huyó: El Español (ventana de planta baja), El País (muro de metro y medio) y ABC (valla); el guion dice 'saltó una valla' y 'según la clínica'. Hora del aviso (7:00 según El Español; después de las 8:00 según Wikipedia): se atribuye a El Español. Se omiten los fármacos concretos, la nota manuscrita, la psiquiatra por nombre, a la testigo que decía haberla visto años después y la carta de Tibi (acusa a una enfermera; no se nombra a nadie). La quiebra de la clínica y 'Zopito S.A.L.' salen de El Español (no se nombra la sociedad). El importe de 104.000 € sale de la ficha (Información, sin abrir). Que 'hoy tendría más de cincuenta años' = 17 años en 1992 + 34. Cuánto tiempo estuvo atada: El País (primeras horas de internamiento). 'Hasta la una y media' = hora que dan El País y El Español. Reconstrucción del 23 de marzo (El País, 8-9-1999; la fecha completa se ha dejado en 'marzo de 1993'). 'La Guardia Civil lo considera abierto' sale de la ficha. VERIFICACIÓN nuevos-octubre: nombre de la menor (17 años) MANTENIDO: caso de hace 34 años y la familia (sus padres, Álvaro e Isabel) ha dado su nombre y hablado en público en El País y El Español, según la nota del autor (no se pudo reabrir aquí la hemeroteca). Quitados: sujeción 'de pies y manos', dosis, pozos y vertederos, gasolinera de Altea y titular 'testigo sorpresa' (sin fuente abierta); 'insomnio y anorexia' como en la ficha. Sin nombrar a la psiquiatra ni a la enfermera."
 }

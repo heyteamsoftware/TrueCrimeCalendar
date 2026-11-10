@@ -23,7 +23,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Cala de Mijas, Málaga, 9 de octubre de 1999. Rocío Wanninkhof, de diecinueve años, sale de noche y vuelve a pie a su casa. No llega. Su familia da la alarma. Veinticuatro días después, el 2 de noviembre, su cuerpo aparece en un paraje cerca de Marbella, a más de treinta kilómetros."
+          "texto": "La Cala de Mijas, Málaga, 9 de octubre de 1999. Rocío Wanninkhof, de diecinueve años, sale de noche y no vuelve. Su familia da la alarma. Veinticuatro días después, el 2 de noviembre, su cuerpo aparece en un paraje cerca de Marbella, a más de treinta kilómetros."
         },
         {
           "voz": "alvaro",
@@ -35,11 +35,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 7 de septiembre de 2000, la Guardia Civil detuvo a Dolores Vázquez. Pasó en prisión provisional más de un año. Su abogado pidió su libertad en varias ocasiones y se la denegaron. Ella siempre dijo que era inocente y que esa noche estaba en casa, cuidando de su madre."
+          "texto": "En septiembre de 2000, la Guardia Civil detuvo a Dolores Vázquez. Pasó en prisión provisional más de un año. Ella siempre dijo que era inocente."
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Y aquí se tuerce la investigación. No había ADN, ni huellas, ni testigos que la situaran en la escena. Había indicios: unas fibras muy comunes, un tipo de neumático. Ninguno era concluyente."
+          "texto": "Segunda nota. Y aquí se tuerce la investigación. No había ADN, ni huellas, ni testigos que la situaran en la escena. Había indicios, ninguno concluyente."
         },
         {
           "voz": "ximena",
@@ -51,7 +51,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Una condena basada en indicios, en un caso con una enorme presión mediática. Cuando eso ocurre, el error no viene de un solo sitio. Viene de la suma de pequeñas decisiones que nadie frena."
+          "texto": "Tercera nota. Una condena basada en indicios, en un caso con una enorme presión mediática. Cuando eso ocurre, el error no viene de un solo sitio. Viene de la suma de pequeñas decisiones que nadie frena. Un jurado decide en conciencia, y la suya venía cargada de lo que había visto en televisión."
         },
         {
           "voz": "ximena",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "King fue condenado en 2006 a diecinueve años de prisión por el asesinato de Rocío Wanninkhof. Y la causa contra Dolores Vázquez quedó sin efecto."
+          "texto": "King fue condenado en 2006 a diecinueve años de prisión por el asesinato de Rocío Wanninkhof. Y la causa contra Dolores Vázquez quedó sin efecto. Es el único condenado por el asesinato de Rocío, y el ADN fue la prueba que faltó en 1999 y que cambió el caso."
         },
         {
           "voz": "ximena",
@@ -79,11 +79,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quinta nota. Quinientos diecinueve días en prisión por un delito que no cometió, y una puerta cerrada por una cuestión de plazos. Es un resultado difícil de explicar a quien no es jurista."
+          "texto": "Quinta nota. Quinientos diecinueve días en prisión por un delito que no cometió, y una puerta cerrada por la vía procesal elegida. Es un resultado difícil de explicar a quien no es jurista. Y nadie le devolvió ese tiempo."
         },
         {
           "voz": "ximena",
-          "texto": "En abril de 2026, el Gobierno le rindió un acto de homenaje y reparación. Ella siempre mantuvo su inocencia y se quejó de que nunca tuvo voz. Con el estigma, acabó viviendo fuera de España."
+          "texto": "El 27 de abril de 2026, el Gobierno le rindió un acto de homenaje y reparación en Madrid. Ella siempre mantuvo su inocencia."
         },
         {
           "voz": "alvaro",
@@ -96,5 +96,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: elDiario.es (25/4/2026), nota del Supremo (22/7/2015) y la ficha; RTVE y El País no abrieron. Rocío tenía 19 años (adulta): se nombra. La víctima de Coín (menor, 2003) no se nombra. Dolores Vázquez: se dice siempre que su condena fue anulada, que no hay culpable en ella y que mantuvo su inocencia; no se la señala. Contradicciones: la ficha dice «libre de toda acusación»; Wikipedia habla de sobreseimiento y parte de la prensa de absolución: el guion dice «la causa quedó sin efecto». Condena de 15 años a Vázquez: elDiario (no figura en la ficha). 519 días es el total de prisión provisional (elDiario, Supremo). La ficha dice que el cuerpo apareció a 30 km y «el 2 de noviembre» (no contrastado con otra fuente abierta). El ADN de la colilla es de elDiario y de la ficha. Los 24 días entre desaparición y hallazgo son aritmética de las fechas de la ficha. «Se había roto con mala fama» (relación entre familias) es una paráfrasis vaga: no consta en las fuentes abiertas, conviene quitarla. La frase «con coche, tiempo y un lugar» es inferencia del inspector. Homenaje de abril de 2026: la ficha y elDiario (previsto; no comprobada su celebración). Indemnización: el Supremo confirmó el rechazo por la vía elegida (error judicial, art. 293), con voto particular de Margarita Robles."
+  "nota_revision": "Fuentes abiertas: elDiario.es (25/4/2026), nota del Supremo (22/7/2015) y la ficha; RTVE y El País no abrieron. Rocío tenía 19 años (adulta): se nombra. La víctima de Coín (menor, 2003) no se nombra. Dolores Vázquez: se dice siempre que su condena fue anulada, que no hay culpable en ella y que mantuvo su inocencia; no se la señala. Contradicciones: la ficha dice «libre de toda acusación»; Wikipedia habla de sobreseimiento y parte de la prensa de absolución: el guion dice «la causa quedó sin efecto». Condena de 15 años a Vázquez: elDiario (no figura en la ficha). 519 días es el total de prisión provisional (elDiario, Supremo). La ficha dice que el cuerpo apareció a 30 km y «el 2 de noviembre» (no contrastado con otra fuente abierta). El ADN de la colilla es de elDiario y de la ficha. Los 24 días entre desaparición y hallazgo son aritmética de las fechas de la ficha. «Se había roto con mala fama» (relación entre familias) es una paráfrasis vaga: no consta en las fuentes abiertas, conviene quitarla. La frase «con coche, tiempo y un lugar» es inferencia del inspector. Homenaje de abril de 2026: la ficha y elDiario (previsto; no comprobada su celebración). Indemnización: el Supremo confirmó el rechazo por la vía elegida (error judicial, art. 293), con voto particular de Margarita Robles. VERIFICACIÓN nuevos-octubre: homenaje de abril de 2026 CONFIRMADO: se celebró el 27 de abril en Madrid (Ministerio de Igualdad, Medalla a la Promoción de los Valores de Igualdad; eldiario.es y otros medios). Quitados: fecha 7/9/2000, abogado y coartada (sin fuente), fibras y neumático, 'vive fuera de España', 'cuestión de plazos'. Víctima de Coín sigue sin nombre. Dolores Vázquez, condena anulada y nunca otra condena."
 }

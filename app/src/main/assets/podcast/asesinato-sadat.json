@@ -8,7 +8,9 @@
     "Islambuli": "Islambulí",
     "Mubarak": "Mubárak",
     "Faraj": "Farách",
-    "Yihad Islámica Egipcia": "Yihad Islámica Egipcia"
+    "Muhammad Abd al-Salam Faraj": "Mujámmad Abd al Salám Farách",
+    "Gama'a Islamiyya": "Gamáa Islamíya",
+    "Asyut": "Asiút"
   },
   "cintas": [
     {
@@ -66,7 +68,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El mismo día del atentado hubo una insurrección en Asyut, en el sur del país. Los rebeldes tomaron la sede de seguridad durante un día, hasta que llegaron paracaidistas. Murieron seis atacantes y sesenta y ocho policías y militares."
+          "texto": "El mismo día del atentado hubo una insurrección en Asyut, en el sur del país. Los rebeldes tomaron la sede de seguridad durante un día, hasta que llegaron paracaidistas. Según los recuentos, murieron seis atacantes y sesenta y ocho policías y militares."
         },
         {
           "voz": "alvaro",
@@ -86,7 +88,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Al funeral asistieron tres expresidentes de Estados Unidos, el primer ministro de Israel y numerosos jefes de Estado europeos. En Beirut y Damasco, según la prensa de la época, hubo celebraciones por su muerte."
+          "texto": "Al funeral asistieron tres expresidentes de Estados Unidos, el primer ministro de Israel y numerosos jefes de Estado europeos. En algunos países árabes, según la prensa de la época, hubo celebraciones por su muerte."
         },
         {
           "voz": "ximena",
@@ -94,7 +96,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Murieron con él diez personas más: un general, un obispo, un diplomático y un fotógrafo. Sus familias también perdieron aquel día. El archivo las recuerda."
+          "texto": "Murieron con él diez personas más, entre ellas un general y un obispo copto. Sus familias también perdieron aquel día. El archivo las recuerda."
         },
         {
           "voz": "ximena",
@@ -103,5 +105,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia (en) y la crónica del Guardian del 7 de octubre de 1981 (abierta con curl); BBC y CNN no abrieron con WebFetch (la BBC sí por curl, solo cabecera). Contradicción con la ficha: la crónica del Guardian atribuyó en caliente el atentado al movimiento del general exiliado Shazli (National Front); el guion lo da como versión inicial y remite al juicio. La ficha dice 28 heridos y once muertos incluido Sadat (Wikipedia). Redada de septiembre, 1.500 personas: cifra de Wikipedia, atribuida con «según una fuente». Asyut: seis atacantes y 68 policías y militares (Wikipedia). Diecinueve juzgados, 17 condenados a prisión y 2 absueltos (Wikipedia); la ficha dice que cinco fueron ejecutados el 15 de abril de 1982. La ficha dice cinco ejecutados incluyendo Islambuli y Faraj; Wikipedia añade que fueron fusilados dos y ahorcados tres (omitido por ser gráfico). Que Sadat se levantó creyendo que era parte del espectáculo es de Wikipedia. Las víctimas se describen sin nombres (un general, un obispo, un diplomático, un fotógrafo) según Wikipedia; el cargo del diplomático (cubano) no se cita. «Un diplomático» y «un fotógrafo» son de Wikipedia/otras fuentes citadas por ella; comprobar si se prefiere quitar. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: Wikipedia (en) y la crónica del Guardian del 7 de octubre de 1981 (abierta con curl); BBC y CNN no abrieron con WebFetch (la BBC sí por curl, solo cabecera). Contradicción con la ficha: la crónica del Guardian atribuyó en caliente el atentado al movimiento del general exiliado Shazli (National Front); el guion lo da como versión inicial y remite al juicio. La ficha dice 28 heridos y once muertos incluido Sadat (Wikipedia). Redada de septiembre, 1.500 personas: cifra de Wikipedia, atribuida con «según una fuente». Asyut: seis atacantes y 68 policías y militares (Wikipedia). Diecinueve juzgados, 17 condenados a prisión y 2 absueltos (Wikipedia); la ficha dice que cinco fueron ejecutados el 15 de abril de 1982. La ficha dice cinco ejecutados incluyendo Islambuli y Faraj; Wikipedia añade que fueron fusilados dos y ahorcados tres (omitido por ser gráfico). Que Sadat se levantó creyendo que era parte del espectáculo es de Wikipedia. Las víctimas se describen sin nombres (un general, un obispo, un diplomático, un fotógrafo) según Wikipedia; el cargo del diplomático (cubano) no se cita. «Un diplomático» y «un fotógrafo» son de Wikipedia/otras fuentes citadas por ella; comprobar si se prefiere quitar. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: cargos de las víctimas reducidos a 'un general y un obispo copto' (quitados diplomático y fotógrafo, sin segunda fuente); celebraciones en Beirut y Damasco pasan a 'algunos países árabes' según la prensa; cifras de Asyut atribuidas a los recuentos. Sin citas literales del comando."
 }

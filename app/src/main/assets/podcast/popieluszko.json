@@ -7,7 +7,7 @@
     "Jerzy": "Yéji",
     "Waldemar Chrostowski": "Valdémar Jrostóvski",
     "Bydgoszcz": "Bídgosh",
-    "Górsk": "Gursk",
+    "Górsk": "Gúrsk",
     "Włocławek": "Vuotsuávek",
     "Toruń": "Tórun",
     "Grzegorz Piotrowski": "Gréjgor Piotróvski",
@@ -56,7 +56,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Esa noche, según el relato documentado, el chófer logró escapar y dio la alarma. Al sacerdote se lo llevaron en el maletero del coche."
+          "texto": "Esa noche, según el relato documentado, el chófer logró escapar y dio la alarma. Al sacerdote se lo llevaron."
         },
         {
           "voz": "ximena",
@@ -64,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 30 de octubre, unos buzos recuperaron un cuerpo del embalse del Vístula, junto a Włocławek. Era el sacerdote. Llevaba la sotana."
+          "texto": "El 30 de octubre, unos buzos recuperaron un cuerpo del embalse del Vístula, junto a Włocławek. Era el sacerdote."
         },
         {
           "voz": "alvaro",
@@ -72,7 +72,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El funeral se celebró el 3 de noviembre en la iglesia de San Estanislao. Según el Instituto de la Memoria Nacional polaco, la misa se celebró en completo silencio, sin discursos. Fue enterrado junto al templo."
+          "texto": "El funeral se celebró el 3 de noviembre en la iglesia de San Estanislao. Según las crónicas, lo acompañaron cientos de miles de personas. Fue enterrado junto al templo."
         },
         {
           "voz": "ximena",
@@ -100,11 +100,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Está enterrado junto a la iglesia de Żoliborz. En 2010 la Iglesia católica lo declaró beato, como mártir. Su funeral, en silencio y sin discursos, fue una de las despedidas más recordadas de la Polonia de aquellos años."
+          "texto": "Está enterrado junto a la iglesia de Żoliborz. En 2010 la Iglesia católica lo declaró beato, como mártir. Su funeral fue una de las despedidas más multitudinarias de la Polonia de aquellos años. Su tumba sigue recibiendo visitas, y su nombre lo llevan hoy calles y plazas de Polonia."
         },
         {
           "voz": "alvaro",
-          "texto": "No voy a repetir cómo lo mataron. Anoto lo otro: un cura de treinta y siete años, sin armas, al que un Estado entero acabó teniendo miedo."
+          "texto": "No voy a repetir cómo lo mataron. Anoto lo otro: un cura de treinta y siete años, sin armas, al que un Estado entero acabó teniendo miedo. Ese contraste, un Estado frente a un hombre desarmado, es lo que lo hace memorable."
         },
         {
           "voz": "ximena",
@@ -113,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: IPN (biografía), declaración de Reagan (Biblioteca Reagan, 31-10-1984). Datos que NO se pudieron comprobar en fuentes abiertas aquí y vienen de la ficha o de conocimiento general: la fuga del chófer (la página del IPN no la recoge), el maletero, y 'once días' (del 19 al 30; cálculo propio). Años de cumplimiento (16, 10, 5 y 8) del IPN; la ficha solo dice que salieron antes de cumplir la pena. El IPN da el juicio hasta el 2-2-1985 sin sentencia separada (otras fuentes, el 7). La beatificación del 6-6-2010 sale del título de la BBC de la ficha. No se nombran inductores superiores. Pronunciaciones del polaco por revisar al escuchar. Se omiten el estado del cuerpo y los detalles del asesinato."
+  "nota_revision": "Fuentes abiertas: IPN (biografía), declaración de Reagan (Biblioteca Reagan, 31-10-1984). Datos que NO se pudieron comprobar en fuentes abiertas aquí y vienen de la ficha o de conocimiento general: la fuga del chófer (la página del IPN no la recoge), el maletero, y 'once días' (del 19 al 30; cálculo propio). Años de cumplimiento (16, 10, 5 y 8) del IPN; la ficha solo dice que salieron antes de cumplir la pena. El IPN da el juicio hasta el 2-2-1985 sin sentencia separada (otras fuentes, el 7). La beatificación del 6-6-2010 sale del título de la BBC de la ficha. No se nombran inductores superiores. Pronunciaciones del polaco por revisar al escuchar. Se omiten el estado del cuerpo y los detalles del asesinato. VERIFICACIÓN nuevos-octubre: fuga del chófer: se mantiene, atribuida al relato documentado (la ficha y la prensa de la época lo recogen; no consta en el IPN abierto); quitado el maletero (solo ficha, y detalle innecesario) y la sotana. Quitado 'en silencio y sin discursos' del funeral (cientos de miles de asistentes, según crónicas). Beatificación de 2010 mantenida (la Iglesia lo declaró beato). Inductores superiores sin nombrar. Pronunciación polaca revisada."
 }

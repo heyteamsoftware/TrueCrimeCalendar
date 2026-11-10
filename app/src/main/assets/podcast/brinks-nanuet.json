@@ -15,7 +15,8 @@
     "David Gilbert": "Déivid Guílbert",
     "Judith Clark": "Yúdit Clark",
     "Mutulu Shakur": "Mutúlu Shacúr",
-    "Weather Underground": "Uéder Ónderground"
+    "Weather Underground": "Uéder Ónderground",
+    "Cuomo": "Cuómo"
   },
   "cintas": [
     {
@@ -57,11 +58,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En la entrada de la autopista de Nyack, cuatro policías pararon el camión y un coche. Seis hombres armados salieron y abrieron fuego. El agente Waverly Brown murió. El sargento Edward O'Grady murió unos noventa minutos después."
+          "texto": "En la entrada de la autopista de Nyack, cuatro policías pararon el camión y un coche. Seis hombres armados salieron y abrieron fuego. El agente Waverly Brown murió. El sargento Edward O'Grady murió poco después."
         },
         {
           "voz": "ximena",
-          "texto": "Eran tres muertos en pocas horas: un vigilante de Brink's y dos policías de Nyack, dos hombres que solo habían salido a hacer su trabajo ese martes."
+          "texto": "Eran tres muertos en pocas horas: un vigilante de Brink's y dos policías de Nyack, dos hombres que solo habían salido a hacer su trabajo ese martes. Los tres dejaron familias que esperaron justicia durante décadas."
         },
         {
           "voz": "alvaro",
@@ -69,7 +70,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Kathy Boudin, la conductora del camión, fue detenida allí mismo, poco después del tiroteo. David Gilbert y Judith Clark, que huían en el coche, fueron capturados cuando este se estrelló en una curva. Se hallaron unos ochocientos mil dólares dentro."
+          "texto": "Kathy Boudin, la conductora del camión, fue detenida allí mismo, poco después del tiroteo. David Gilbert y Judith Clark fueron detenidos poco después."
         },
         {
           "voz": "ximena",
@@ -77,7 +78,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tres penas de veinticinco años a perpetua, una detrás de otra. Eso significa que ninguno salía en una vida normal. Y el último en caer fue el cabecilla, según la sentencia: Mutulu Shakur, detenido en 1986 y condenado a sesenta años en 1988."
+          "texto": "Tres penas de veinticinco años a perpetua, una detrás de otra. Eso significa que ninguno salía en una vida normal. Años después fue condenado Mutulu Shakur, detenido en 1986, a sesenta años en 1988, por su papel en la trama del asalto."
         },
         {
           "voz": "ximena",
@@ -97,7 +98,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Y quedan las tres víctimas. Peter Paige, vigilante de Brink's. Edward O'Grady y Waverly Brown, policías de Nyack. En 2004 el correo de Nyack se rebautizó con sus nombres."
+          "texto": "Y quedan las tres víctimas. Peter Paige, vigilante de Brink's. Edward O'Grady y Waverly Brown, policías de Nyack. En 2004 el correo de Nyack se rebautizó con sus nombres. Sus nombres figuran en las sentencias y en la memoria de Nyack."
         },
         {
           "voz": "alvaro",
@@ -110,5 +111,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (reconstrucción detallada, con referencias) y Rockland County Times (2021; solo víctimas, Gilbert y Clark; no da lugar ni día). NYT 1983 y 2016 no se pudieron abrir. Se mantiene como en la ficha 'tres penas consecutivas de 25 años a perpetua' para Gilbert, Clark y Balagoon (Wikipedia: sentencia del 6 de octubre de 1983). Shakur murió el 6 de julio de 2023 según Wikipedia (la ficha dice 7): el guion dice 'julio de 2023'. La hora del asalto (hacia las 15:55), los 'seis hombres armados' y los cuatro policías salen de Wikipedia. El hijo de Boudin (dejado con una cuidadora antes del asalto; fiscal de San Francisco desde 2019) se apoya en Wikipedia; no se nombra. El 'martes' es cálculo propio (20-10-1981). 'Una mujer blanca' al volante se deduce de la ficha (militantes blancos de la Organización 19 de Mayo; Boudin conducía). El rebautizo del correo de Nyack (2004) es de Wikipedia. Nombres de pronunciación por revisar."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (reconstrucción detallada, con referencias) y Rockland County Times (2021; solo víctimas, Gilbert y Clark; no da lugar ni día). NYT 1983 y 2016 no se pudieron abrir. Se mantiene como en la ficha 'tres penas consecutivas de 25 años a perpetua' para Gilbert, Clark y Balagoon (Wikipedia: sentencia del 6 de octubre de 1983). Shakur murió el 6 de julio de 2023 según Wikipedia (la ficha dice 7): el guion dice 'julio de 2023'. La hora del asalto (hacia las 15:55), los 'seis hombres armados' y los cuatro policías salen de Wikipedia. El hijo de Boudin (dejado con una cuidadora antes del asalto; fiscal de San Francisco desde 2019) se apoya en Wikipedia; no se nombra. El 'martes' es cálculo propio (20-10-1981). 'Una mujer blanca' al volante se deduce de la ficha (militantes blancos de la Organización 19 de Mayo; Boudin conducía). El rebautizo del correo de Nyack (2004) es de Wikipedia. Nombres de pronunciación por revisar. VERIFICACIÓN nuevos-octubre: quitados 'noventa minutos' de O'Grady, el choque del coche y los 800.000 dólares (sin fuente abierta); Shakur ya no es 'el cabecilla' sino condenado por su papel en la trama. Penas y libertades de la ficha. El hijo de Boudin sigue sin nombre. Víctimas adultas, nombradas."
 }

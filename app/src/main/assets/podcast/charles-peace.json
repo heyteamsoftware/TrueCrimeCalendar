@@ -20,7 +20,9 @@
     "Armley": "Ármli",
     "Leeds": "Lids",
     "John Ward": "Yon Uord",
-    "Whalley Range": "Uáli Rein"
+    "Whalley Range": "Uáli Rein",
+    "Peckham": "Pékam",
+    "Yorkshire": "Yórkshir"
   },
   "cintas": [
     {
@@ -62,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Nació en Sheffield en 1832. Una lesión en una pierna le dejó cojo, y se dedicó al robo. Pasó por prisión varias veces desde los dieciocho años, y en 1872 volvió a Sheffield con un negocio de cuadros. Más adelante vendió instrumentos musicales y cuadros enmarcados."
+          "texto": "Nació en Sheffield en 1832. Una lesión en una pierna le dejó cojo, y se dedicó al robo. Pasó por prisión varias veces desde joven, y en 1872 volvió a Sheffield con un negocio de cuadros. Más adelante vendió instrumentos musicales y cuadros enmarcados."
         },
         {
           "voz": "ximena",
@@ -86,7 +88,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Se llamaba William Habron. Había sido condenado a muerte por matar al agente Nicholas Cock, durante un robo en Whalley Range. Peace estuvo presente en el juicio y no dijo nada."
+          "texto": "Se llamaba William Habron. Había sido condenado a muerte por matar al agente Nicholas Cock, durante un robo en Whalley Range. Peace calló mientras Habron cargaba con la condena."
         },
         {
           "voz": "ximena",
@@ -102,7 +104,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los vecinos de Blackheath regalaron a Robinson un reloj de bolsillo grabado. Más tarde lo adquirieron los amigos del Museo de la Policía Metropolitana."
+          "texto": "El agente Robinson recibió, por su valor, una recompensa. Su nombre figura en el expediente del caso."
         },
         {
           "voz": "alvaro",
@@ -115,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: History by the Yard (Policía Metropolitana), EBSCO Research Starters y la ficha; el registro del Old Bailey no se probó. Contradicciones: el número de disparos y los compañeros de Robinson difieren entre fuentes (el guion dice solo «dispara» y un brazo herido); la sesión del Old Bailey figura el 18 o el 19 de noviembre (el guion no da día). EBSCO dice que muchos detalles (disfraces elaborados, talento musical, nombres) vienen de biografías novelescas y son de dudosa fiabilidad: el guion no habla de disfraces concretos ni del violín, y titula la cinta con la luz de Blackheath; el inspector avisa de que las leyendas exageran. La relación con la mujer de Dyson es de EBSCO («Tuvo una relación con la vecina»); se atribuye a «el relato de la época» y no se nombra a ella. La compañera de Peace la identificó, «al parecer», para cobrar la recompensa (EBSCO, History by the Yard, que da la recompensa de 100 libras). Muerte de Cock: EBSCO dice agosto de 1876; Habron tenía 18 años y fue condenado a muerte (History by the Yard); el indulto lo da la ficha. «Peckham, de día, con su coche de caballos» de History by the Yard. «Pierna cojeando» de EBSCO (cojera permanente por un accidente laboral). «Scotland Yard» es una expresión del inspector, no una afirmación de los hechos. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: History by the Yard (Policía Metropolitana), EBSCO Research Starters y la ficha; el registro del Old Bailey no se probó. Contradicciones: el número de disparos y los compañeros de Robinson difieren entre fuentes (el guion dice solo «dispara» y un brazo herido); la sesión del Old Bailey figura el 18 o el 19 de noviembre (el guion no da día). EBSCO dice que muchos detalles (disfraces elaborados, talento musical, nombres) vienen de biografías novelescas y son de dudosa fiabilidad: el guion no habla de disfraces concretos ni del violín, y titula la cinta con la luz de Blackheath; el inspector avisa de que las leyendas exageran. La relación con la mujer de Dyson es de EBSCO («Tuvo una relación con la vecina»); se atribuye a «el relato de la época» y no se nombra a ella. La compañera de Peace la identificó, «al parecer», para cobrar la recompensa (EBSCO, History by the Yard, que da la recompensa de 100 libras). Muerte de Cock: EBSCO dice agosto de 1876; Habron tenía 18 años y fue condenado a muerte (History by the Yard); el indulto lo da la ficha. «Peckham, de día, con su coche de caballos» de History by the Yard. «Pierna cojeando» de EBSCO (cojera permanente por un accidente laboral). «Scotland Yard» es una expresión del inspector, no una afirmación de los hechos. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: quitado que Peace presenció el juicio de Habron y el reloj regalado a Robinson (sin fuente); prisión 'desde joven'. Peace condenado y ahorcado; Habron indultado."
 }

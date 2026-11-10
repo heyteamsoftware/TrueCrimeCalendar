@@ -4,7 +4,8 @@
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Moskovski Komsomolets": "Moskóvski Komsomólets",
-    "Kazán": "Kasán"
+    "Kazán": "Kasán",
+    "Troyekúrovskoye": "Troiekúrovskoie"
   },
   "cintas": [
     {
@@ -30,7 +31,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Esto no fue un ataque al azar. Alguien conocía su trabajo, sabía que acudiría a por unos documentos y preparó un cebo a medida. El maletín era el mensaje."
+          "texto": "Primera nota. Esto no fue un ataque al azar. Alguien conocía su trabajo y sabía que acudiría a por unos documentos. El maletín era el cebo."
         },
         {
           "voz": "ximena",
@@ -42,11 +43,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo apunto con cuidado. Que el periódico señalara al mando militar es una acusación periodística, no una prueba. Pero el contexto importa: un reportero que molesta a poderosos, y una trampa que solo alguien con medios y con información interna podía montar."
+          "texto": "Lo apunto con cuidado. Que el periódico señalara al mando militar es una acusación periodística, no una prueba. Pero el contexto importa: un reportero que molesta a poderosos, y una trampa que exigía información sobre sus pasos."
         },
         {
           "voz": "ximena",
-          "texto": "La Fiscalía abrió una causa por homicidio y, un día después, la recalificó como acto terrorista. En noviembre de 1994 detuvo a un coronel de la inteligencia militar. En junio de 1995 retiró la acusación: no se confirmó su participación."
+          "texto": "La Fiscalía abrió una causa. En noviembre de 1994 detuvo a un oficial de la inteligencia militar. En junio de 1995 retiró la acusación: no se confirmó su participación."
         },
         {
           "voz": "alvaro",
@@ -58,7 +59,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Fiscalía militar sostuvo que habían actuado por orden del ministro de Defensa, Pável Grachov. Grachov nunca fue acusado. Declaró que había dicho frases duras sobre el periodista, pero negó que fueran una orden de matarlo."
+          "texto": "La Fiscalía militar sostuvo que habían actuado por orden de quien entonces era ministro de Defensa. Nunca fue acusado, y negó haber ordenado nada."
         },
         {
           "voz": "alvaro",
@@ -78,19 +79,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 17 de octubre de 2004, diez años después, el delito prescribió. En 2005 se rechazó un último recurso. Nadie ha sido condenado."
+          "texto": "El 17 de octubre de 2004, diez años después, el delito prescribió. Después se agotaron los recursos en Rusia. Nadie ha sido condenado."
         },
         {
           "voz": "alvaro",
-          "texto": "Lo repito para que quede grabado: seis hombres fueron juzgados y absueltos dos veces. No se puede señalar a ninguno. Lo que queda es un crimen sin autor y una pregunta sin respuesta."
+          "texto": "Lo repito para que quede grabado: seis hombres fueron juzgados y absueltos dos veces. No se puede señalar a ninguno. Lo que queda es un crimen sin autor y una pregunta sin respuesta. Un periodista muerto al abrir un maletín: el mensaje alcanzaba a todos los que escribían en su oficio."
         },
         {
           "voz": "ximena",
-          "texto": "Los padres de Jolódov, Yuri y Zoya, denunciaron que los tribunales ignoraron pruebas periciales y retrasaron las vistas sin explicación. Yuri, físico, llegó a probar él mismo explosivos para entender qué había pasado."
-        },
-        {
-          "voz": "ximena",
-          "texto": "Cuando se agotaron los recursos en Rusia, la familia acudió al Tribunal Europeo de Derechos Humanos, en Estrasburgo."
+          "texto": "El Comité para la Protección de los Periodistas dio por agotados los recursos internos en 2006. Para la familia y para el periódico, el crimen quedó sin respuesta, y así sigue."
         },
         {
           "voz": "alvaro",
@@ -102,10 +99,10 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: El asesinato de Dmitri Jolódov. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente El asesinato de Dmitri Jolódov. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Kommersant (2004) y CPJ (2006). La llamada anónima y la estación de Kazán son datos de la prensa rusa que ninguna de las dos páginas recoge (la ficha los toma de otras fuentes); el guion los atribuye a la prensa rusa. CPJ dice que 'cuatro eran oficiales de inteligencia' y RFE/RL 'cinco exparacaidistas y un empresario'; el guion dice 'antiguos oficiales de las tropas aerotransportadas y un empresario' según Kommersant (que da jefes de inteligencia, de destacamento especial y un empresario exparacaidista). No se nombra a ningún acusado. Grachov (ministro de Defensa) se nombra solo como el que la fiscalía militar señaló como presunto inductor, nunca acusado, con su negativa. La fiscalía retiró la acusación al coronel Kuznetsov en junio de 1995 (no se nombra). Kommersant: segundo juicio desde julio de 2003, retirada de acusación contra un acusado en mayo de 2004; el guion resume 'terminó en 2004 con una nueva absolución' según CPJ y la ficha. La tumba (Troyekúrovskoye) viene solo de la ficha. 'Cuarenta y dos muertes en quince años' es la cifra de CPJ en 2006. Pronunciación de nombres rusos por revisar al escuchar."
+  "nota_revision": "Fuentes abiertas: Kommersant (2004) y CPJ (2006). La llamada anónima y la estación de Kazán son datos de la prensa rusa que ninguna de las dos páginas recoge (la ficha los toma de otras fuentes); el guion los atribuye a la prensa rusa. CPJ dice que 'cuatro eran oficiales de inteligencia' y RFE/RL 'cinco exparacaidistas y un empresario'; el guion dice 'antiguos oficiales de las tropas aerotransportadas y un empresario' según Kommersant (que da jefes de inteligencia, de destacamento especial y un empresario exparacaidista). No se nombra a ningún acusado. Grachov (ministro de Defensa) se nombra solo como el que la fiscalía militar señaló como presunto inductor, nunca acusado, con su negativa. La fiscalía retiró la acusación al coronel Kuznetsov en junio de 1995 (no se nombra). Kommersant: segundo juicio desde julio de 2003, retirada de acusación contra un acusado en mayo de 2004; el guion resume 'terminó en 2004 con una nueva absolución' según CPJ y la ficha. La tumba (Troyekúrovskoye) viene solo de la ficha. 'Cuarenta y dos muertes en quince años' es la cifra de CPJ en 2006. Pronunciación de nombres rusos por revisar al escuchar. VERIFICACIÓN nuevos-octubre: Grachov ya no se nombra (nunca acusado); quitado el Tribunal Europeo, el padre que probaba explosivos, la recalificación 'un día después' y el coronel. Los seis acusados siguen absueltos y sin nombre. Pronunciaciones rusas por oído."
 }

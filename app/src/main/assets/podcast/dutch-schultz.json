@@ -16,8 +16,10 @@
     "Workman": "Uérkman",
     "Otto Berman": "Ótou Bérman",
     "Weiss": "Uáis",
-    "Louis Buchalter": "Lúis Bucálter",
-    "Bronx": "Brons"
+    "Bronx": "Brons",
+    "Rosenkrantz": "Róuzenkrants",
+    "Abe Landau": "Eib Landau",
+    "Mendy": "Méndi"
   },
   "cintas": [
     {
@@ -47,7 +49,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los pistoleros eran Charles Workman, a quien llamaban el Bicho, y Emanuel Weiss, apodado Mendy. Los dos trabajaban para Murder, Inc., la organización que ejecutaba los encargos de la mafia."
+          "texto": "Según la reconstrucción de los historiadores, los pistoleros fueron Charles Workman, a quien llamaban el Bicho, y Emanuel Weiss, apodado Mendy. Los dos trabajaban para Murder, Inc., la organización que ejecutaba los encargos de la mafia."
         },
         {
           "voz": "ximena",
@@ -67,15 +69,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Schultz había propuesto matar al fiscal especial Thomas Dewey, que lo investigaba. La Comisión votó en contra. Matar a un fiscal traería una persecución feroz contra todos. Según los historiadores, Schultz se levantó furioso y dijo que lo haría de todos modos. Uno de los jefes, Albert Anastasia, contó después que Schultz le había pedido vigilar el edificio donde vivía el fiscal."
+          "texto": "Schultz había propuesto matar al fiscal especial Thomas Dewey, que lo investigaba. La Comisión votó en contra. Matar a un fiscal traería una persecución feroz contra todos. Según los historiadores, Schultz se levantó furioso y dijo que lo haría de todos modos."
         },
         {
           "voz": "alvaro",
-          "texto": "Y aquí viene el matiz. Esto es lo que cuentan los historiadores: no es una sentencia. Schultz se negó a obedecer y, según esas versiones, la Comisión decidió que era él quien estorbaba. Se encargó el trabajo a Louis Buchalter, de Murder, Inc."
+          "texto": "Y aquí viene el matiz. Esto es lo que cuentan los historiadores: no es una sentencia. Schultz se negó a obedecer y, según esas versiones, la Comisión decidió que era él quien estorbaba. Según esas versiones, el encargo recayó en Murder, Inc."
         },
         {
           "voz": "ximena",
-          "texto": "Dewey siguió con su carrera de fiscal. Y Schultz, el hombre que, según esas versiones, quiso matarlo, murió antes."
+          "texto": "Dewey siguió con su carrera de fiscal. Y Schultz, el hombre que, según esas versiones, quiso matarlo, murió antes. Dewey llegó a ser gobernador del estado de Nueva York."
         },
         {
           "voz": "alvaro",
@@ -83,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los pistoleros huyeron en un coche. Según las crónicas, uno de ellos, Weiss, ordenó al conductor marcharse y dejó a Workman atrás."
+          "texto": "Los pistoleros huyeron en un coche. Según las crónicas, uno de ellos ordenó al conductor marcharse y dejó a Workman atrás. Después, según los historiadores, la Comisión quedó como el órgano que arbitraba los conflictos entre familias."
         },
         {
           "voz": "alvaro",
@@ -95,11 +97,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El Times de Nueva York, en marzo de 1941, titulaba que el crimen se atribuía a un hombre de Lepke, que era el apodo de Buchalter. Pasaron seis años hasta que alguien fue condenado, y la condena fue la de Workman."
+          "texto": "Pasaron más de cinco años hasta que alguien fue condenado, y fue Workman. Según esas mismas versiones, quienes dieron la orden no pasaron por un tribunal por este crimen."
         },
         {
           "voz": "ximena",
-          "texto": "La banda de Schultz perdió a su jefe. Su imperio de apuestas ilegales y cerveza ya no tenía quien lo defendiera. Schultz fue enterrado en un cementerio del estado de Nueva York y, por deseo de su madre, que era judía ortodoxa, su cuerpo se cubrió con un manto de oración."
+          "texto": "La banda de Schultz perdió a su jefe. Su imperio de apuestas ilegales y cerveza ya no tenía quien lo defendiera. Schultz fue enterrado en el estado de Nueva York. Con él se acababa una época de la mafia neoyorquina, la de los reyes de la cerveza ilegal de la Prohibición."
         },
         {
           "voz": "ximena",
@@ -111,10 +113,10 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: La matanza del Palace Chop House. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente La matanza del Palace Chop House. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (detalle del tiroteo, víctimas, planificación, muerte de Schultz, sentencia de Workman) y la ficha. Britannica dio 403 y los NYT no abren; Crime Library (archivo) no devolvió texto. Se omite la delirante agonía de Schultz. El titular del NYT de 1941 sale solo de la ficha (no abre). La huida con Workman abandonado y la identidad de Buchalter como encargado salen de Wikipedia (Weiss ordenó dejar a Workman). Dato de Wikipedia: Berman murió esa noche a las 2:20 (ya 24 de octubre), Landau a las 6:00 y Rosenkrantz a las 29 horas: el guion dice 'los tres murieron' sin precisar. Discrepancia: Britannica pone la muerte de Schultz el 23 y Wikipedia el 24; el guion dice 24. Motivo (Dewey) atribuido a historiadores de la mafia, no a sentencia. Pronunciaciones por revisar."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (detalle del tiroteo, víctimas, planificación, muerte de Schultz, sentencia de Workman) y la ficha. Britannica dio 403 y los NYT no abren; Crime Library (archivo) no devolvió texto. Se omite la delirante agonía de Schultz. El titular del NYT de 1941 sale solo de la ficha (no abre). La huida con Workman abandonado y la identidad de Buchalter como encargado salen de Wikipedia (Weiss ordenó dejar a Workman). Dato de Wikipedia: Berman murió esa noche a las 2:20 (ya 24 de octubre), Landau a las 6:00 y Rosenkrantz a las 29 horas: el guion dice 'los tres murieron' sin precisar. Discrepancia: Britannica pone la muerte de Schultz el 23 y Wikipedia el 24; el guion dice 24. Motivo (Dewey) atribuido a historiadores de la mafia, no a sentencia. Pronunciaciones por revisar. VERIFICACIÓN nuevos-octubre: quitados Buchalter (nunca condenado por este crimen), Anastasia como narrador, el manto de oración (sin fuente) y el titular del NYT 1941 (solo ficha). Weiss y el encargo, atribuidos a los historiadores; solo Workman está condenado por este crimen. Motivo (Dewey): versiones de historiadores, no sentencia. Muerte de Schultz el 24 (Wikipedia; Britannica dice 23)."
 }

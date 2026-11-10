@@ -9,12 +9,9 @@
     "Gordon Stewart Northcott": "Górdon Stíuart Nórzcot",
     "Northcott": "Nórzcot",
     "Sarah Louise": "Sara Luís",
-    "Sanford Clark": "Sánford Clark",
-    "Jessie": "Yési",
     "Riverside": "Ríversaid",
     "San Quentin": "San Cuéntin",
     "Mira Loma": "Mira Lóma",
-    "Arthur Hutchins": "Árzur Jáchins",
     "Changeling": "Chéinyling"
   },
   "cintas": [
@@ -45,7 +42,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Más tarde el chico confesó: se llamaba Arthur Hutchins y no era Walter. Christine Collins salió del hospital. Después ganó un juicio contra el capitán de policía que la había mandado allí, aunque nunca llegó a cobrar."
+          "texto": "Más tarde el chico confesó: no era Walter y había mentido. Christine Collins salió del hospital. Después ganó un juicio contra el capitán de policía que la había mandado allí, aunque nunca llegó a cobrar."
         },
         {
           "voz": "alvaro",
@@ -53,11 +50,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Esa granja estaba en Wineville, en el condado de Riverside. La tenía un joven nacido en Canadá, Gordon Stewart Northcott. Con él vivían su madre, Sarah Louise, y su sobrino adolescente, Sanford Clark, retenido allí."
+          "texto": "Esa granja estaba en Wineville, en el condado de Riverside. La tenía un joven nacido en Canadá, Gordon Stewart Northcott. Con él vivían su madre, Sarah Louise, y su sobrino adolescente, retenido allí."
         },
         {
           "voz": "ximena",
-          "texto": "En agosto de 1928 la hermana del chico, Jessie, fue a visitarlos. Su hermano le contó lo que ocurría. Ella lo denunció ante un cónsul, y la policía de Los Ángeles avisó a inspectores federales de inmigración."
+          "texto": "En agosto de 1928 la hermana del chico fue a visitarlos. Su hermano le contó lo que ocurría. Ella lo denunció ante un cónsul, y la policía de Los Ángeles avisó a inspectores federales de inmigración."
         },
         {
           "voz": "alvaro",
@@ -81,7 +78,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su madre se declaró culpable del asesinato de Walter Collins y recibió cadena perpetua. Salió en libertad condicional en 1940. Sanford Clark pasó por un correccional y rehízo su vida en Canadá, donde murió en 1991."
+          "texto": "Su madre se declaró culpable del asesinato de Walter Collins y recibió cadena perpetua. Salió en libertad condicional en 1940. El sobrino pasó por un correccional y rehízo su vida en Canadá."
         },
         {
           "voz": "alvaro",
@@ -93,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El archivo guarda algo más sencillo: el nombre de un niño de nueve años que salió de casa en marzo de 1928, y el de su madre, que no aceptó que otro ocupara su lugar. Tenía razón."
+          "texto": "El archivo guarda algo más sencillo: el nombre de un niño de nueve años que salió de casa en marzo de 1928, y el de su madre, que no aceptó que otro ocupara su lugar. Tenía razón. No es una cifra ni un detalle de crimen: es un niño con nombre y una familia que lo esperó."
         },
         {
           "voz": "ximena",
@@ -102,5 +99,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia (en), Crime Museum y la ficha; el LA Times 2004 y el NYT no abrieron. Cifra de víctimas: condenado por tres, la madre por Walter Collins; las estimaciones van de tres a veinte (Crime Museum), por eso no se da total. Menores: solo se nombra a Walter Collins (el caso se conoce por su nombre, es de 1928 y su madre es figura pública); los hermanos Winslow y el chico mexicano van sin nombre. A Christine Collins la internaron en la sala psiquiátrica de un hospital (Wikipedia, Crime Museum; la duración no se indica). El capitán que la envió no se nombra; ganó el juicio y no cobró (Wikipedia). Fechas: huida 31 de agosto, detención 19 de septiembre, regreso 30 de noviembre de 1928; veredicto 8 de febrero de 1929 (Wikipedia). El nombre del chico impostor, Arthur Hutchins, sale de Crime Museum; Wikipedia lo escribe «Hutchens». La ficha dice que Northcott fue condenado por tres asesinatos; Wikipedia y Crime Museum precisan los Winslow y un chico sin identificar. Negó haber matado a Walter antes de morir (Wikipedia). Libertad condicional de la madre en 1940 (ficha). La condena de la madre por Walter Collins no implica que se hallaran restos suyos."
+  "nota_revision": "Fuentes abiertas: Wikipedia (en), Crime Museum y la ficha; el LA Times 2004 y el NYT no abrieron. Cifra de víctimas: condenado por tres, la madre por Walter Collins; las estimaciones van de tres a veinte (Crime Museum), por eso no se da total. Menores: solo se nombra a Walter Collins (el caso se conoce por su nombre, es de 1928 y su madre es figura pública); los hermanos Winslow y el chico mexicano van sin nombre. A Christine Collins la internaron en la sala psiquiátrica de un hospital (Wikipedia, Crime Museum; la duración no se indica). El capitán que la envió no se nombra; ganó el juicio y no cobró (Wikipedia). Fechas: huida 31 de agosto, detención 19 de septiembre, regreso 30 de noviembre de 1928; veredicto 8 de febrero de 1929 (Wikipedia). El nombre del chico impostor, Arthur Hutchins, sale de Crime Museum; Wikipedia lo escribe «Hutchens». La ficha dice que Northcott fue condenado por tres asesinatos; Wikipedia y Crime Museum precisan los Winslow y un chico sin identificar. Negó haber matado a Walter antes de morir (Wikipedia). Libertad condicional de la madre en 1940 (ficha). La condena de la madre por Walter Collins no implica que se hallaran restos suyos. VERIFICACIÓN nuevos-octubre: quitados los nombres de dos menores (el sobrino superviviente y el chico que se hizo pasar por Walter) y de la hermana; se mantiene Walter Collins (caso de 1928, madre y caso conocidos por su nombre: la película de 2008) y Christine Collins. Víctimas Winslow y chico mexicano siguen sin nombre. Sin morbo."
 }

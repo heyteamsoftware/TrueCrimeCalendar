@@ -8,7 +8,10 @@
     "Christianismi Restitutio": "Cristianísmi Restitúcio",
     "Michel de Villeneuve": "Mishél de Vilnöv",
     "Villeneuve": "Vilnöv",
-    "Sébastien Castellio": "Sebastián Castelio"
+    "Sébastien Castellio": "Sebastián Castelio",
+    "Toulouse": "Tulús",
+    "Schaffhausen": "Shafjáusen",
+    "Annemasse": "Anemás"
   },
   "cintas": [
     {
@@ -34,11 +37,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Este no es un caso criminal como los otros del archivo. No hubo víctima ni arma. Lo que se juzgó fueron ideas. Y aun así, el expediente de un hombre quemado merece sitio en esta caja."
+          "texto": "Primera nota. Este no es un caso criminal como los otros del archivo. Lo que se juzgó fueron ideas. Y aun así, el expediente de un hombre quemado merece sitio en esta caja."
         },
         {
           "voz": "ximena",
-          "texto": "Servet nació hacia 1509 o 1511 en Villanueva de Sigena, en Aragón. Estudió en Zaragoza, en Toulouse y en París. Era médico. Y era teólogo."
+          "texto": "Servet nació hacia 1509 o 1511 en Villanueva de Sigena, en Aragón. Estudió en Toulouse y en París. Era médico. Y era teólogo."
         },
         {
           "voz": "ximena",
@@ -50,11 +53,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1553 publicó de forma anónima su gran obra, Christianismi Restitutio. En ella, entre páginas de teología, describió cómo circula la sangre por los pulmones. Fue la primera descripción explícita en el mundo cristiano occidental."
+          "texto": "En 1553 publicó de forma anónima su gran obra, Christianismi Restitutio. En ella, entre páginas de teología, describió cómo circula la sangre por los pulmones. Fue una de las primeras descripciones de la circulación pulmonar en Europa."
         },
         {
           "voz": "ximena",
-          "texto": "La obra llegó a manos de un católico, que sospechó quién era el autor. La Inquisición detuvo a Servet en Vienne. Pero él se escapó el 7 de abril de 1553."
+          "texto": "Alguien sospechó quién era el autor y lo denunció a las autoridades católicas. La Inquisición detuvo a Servet en Vienne. Pero él se escapó el 7 de abril de 1553."
         },
         {
           "voz": "alvaro",
@@ -70,7 +73,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El proceso por herejía se abrió ante el Consejo de Ginebra. Calvino fue su principal acusador. Antes de decidir, el Consejo consultó a las iglesias reformadas de Zúrich, Berna, Basilea y Schaffhausen."
+          "texto": "El proceso por herejía se abrió ante el Consejo de Ginebra. Calvino intervino con fuerza en el proceso. Antes de decidir, el Consejo consultó a las iglesias reformadas de Zúrich, Berna, Basilea y Schaffhausen."
         },
         {
           "voz": "ximena",
@@ -82,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 27 de octubre de 1553, Servet fue quemado vivo en Champel, junto a sus libros. Tenía cuarenta y cuatro años. No daremos más detalles: lo importante no es cómo murió, sino por qué."
+          "texto": "El 27 de octubre de 1553, Servet fue quemado vivo en Champel, junto a sus libros. Tenía entre cuarenta y dos y cuarenta y cuatro años. No daremos más detalles: lo importante no es cómo murió, sino por qué."
         },
         {
           "voz": "ximena",
@@ -94,14 +97,14 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1903, tres siglos y medio después, se levantó cerca del lugar de la hoguera un monumento expiatorio. Hoy Servet es recordado en Zaragoza, en Villanueva de Sigena, en Ginebra, en Annemasse y en París. Las iglesias unitarias lo consideran su pionero y primer mártir."
+          "texto": "En 1903, tres siglos y medio después, se levantó cerca del lugar de la hoguera un monumento expiatorio. Hoy Servet es recordado en Aragón, en Ginebra y en Annemasse. Las iglesias unitarias lo consideran su pionero y primer mártir."
         },
         {
           "voz": "ximena",
-          "texto": "Fin del expediente: El hereje quemado en Champel. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Fin del expediente El hereje quemado en Champel. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Encyclopedia of Religion (Encyclopedia.com) y Wikipedia en español (la ficha las cita). No es un crimen común sino un proceso religioso, que encaja como 'condena' por la ejecución. Nacimiento incierto (1509 o 1511). 'Setenta y cinco días' entre el 13 de agosto y el 27 de octubre (cálculo propio). Wikipedia dice que Servet 'pidió justicia contra Calvino'; no se incluye. La Encyclopedia of Religion no recoge el papel de Calvino ni la consulta a las iglesias suizas; salen de Wikipedia y de la ficha. El motivo del viaje a Ginebra no consta en las fuentes abiertas. 'Un católico sospechó quién era el autor' = Guillaume de Trie (Encyclopedia of Religion). Castellio (1554, De haereticis) de la Encyclopedia. Monumento de 1903 de la ficha; tres siglos y medio. Homenajes de Wikipedia. Pronunciaciones por revisar. Influencia en Polonia y Transilvania: Encyclopedia of Religion."
+  "nota_revision": "Fuentes abiertas: Encyclopedia of Religion (Encyclopedia.com) y Wikipedia en español (la ficha las cita). No es un crimen común sino un proceso religioso, que encaja como 'condena' por la ejecución. Nacimiento incierto (1509 o 1511). 'Setenta y cinco días' entre el 13 de agosto y el 27 de octubre (cálculo propio). Wikipedia dice que Servet 'pidió justicia contra Calvino'; no se incluye. La Encyclopedia of Religion no recoge el papel de Calvino ni la consulta a las iglesias suizas; salen de Wikipedia y de la ficha. El motivo del viaje a Ginebra no consta en las fuentes abiertas. 'Un católico sospechó quién era el autor' = Guillaume de Trie (Encyclopedia of Religion). Castellio (1554, De haereticis) de la Encyclopedia. Monumento de 1903 de la ficha; tres siglos y medio. Homenajes de Wikipedia. Pronunciaciones por revisar. Influencia en Polonia y Transilvania: Encyclopedia of Religion. VERIFICACIÓN nuevos-octubre: quitados Zaragoza como estudio, París como lugar de recuerdo, 'no hubo víctima' y 'principal acusador' (Calvino intervino). Corregido el denunciante: no 'un católico' (la denuncia vino del entorno protestante de Lyon, según Wikipedia; se deja 'alguien'). Primera descripción 'en Europa' suavizada (Ibn al-Nafis la precedió en el mundo árabe). Edad al morir por la fecha incierta de nacimiento. Sin detalles de la ejecución."
 }

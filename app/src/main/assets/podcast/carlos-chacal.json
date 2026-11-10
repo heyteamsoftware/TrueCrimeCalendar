@@ -6,7 +6,6 @@
     "Toullier": "Tulié",
     "Drugstore Publicis": "Drágstor Publisís",
     "Publicis": "Publisís",
-    "Clairvaux": "Clervó",
     "Saint-Germain": "San Yermán"
   },
   "cintas": [
@@ -57,7 +56,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La fecha que celebra el calendario es su nacimiento. Pero el expediente dice más: en 1982 y 1983 hubo una serie de atentados en trenes, una estación y una calle de París. Murieron once personas y casi ciento cincuenta resultaron heridas."
+          "texto": "Pero el expediente dice más: en 1982 y 1983 hubo una serie de atentados en trenes, una estación y una calle de París. Murieron once personas y casi ciento cincuenta resultaron heridas."
         },
         {
           "voz": "ximena",
@@ -65,7 +64,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuarta nota. Casi veinte años después de París, cayó en Jartum. Los gobiernos que le habían dado cobijo cambiaron de interés. A veces la justicia llega por la política."
+          "texto": "Cuarta nota. Casi veinte años después de París, cayó en Jartum. Los gobiernos que le habían dado cobijo cambiaron de interés. A veces la justicia llega por la política. Mientras duró su fuga, hubo familias que esperaron años a que alguien respondiera por sus muertos."
         },
         {
           "voz": "ximena",
@@ -77,11 +76,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quinta nota. Él niega haber participado en ese atentado. La defensa anunció que apelaría y alegó que la cobertura de prensa había influido en los jueces. En los juicios por terrorismo en Francia no hay jurado: fueron cinco jueces, que deliberaron cuatro horas tras dos semanas de juicio, más de cuarenta años después de los hechos."
+          "texto": "Quinta nota. Él niega haber participado en ese atentado. La defensa anunció que apelaría. En los juicios por terrorismo en Francia no hay jurado: fueron cinco jueces, que deliberaron cuatro horas tras dos semanas de juicio, más de cuarenta años después de los hechos."
         },
         {
           "voz": "ximena",
-          "texto": "Lleva detenido desde 1994, más de treinta años, y cumple sus tres condenas en Francia. Desde 2006 está en la prisión de Clairvaux. Se convirtió al islam, según su biografía."
+          "texto": "Lleva detenido desde 1994, más de treinta años, y cumple sus tres condenas en Francia. Sigue preso en Francia. Francia lo juzgó en París, y no por su leyenda sino por hechos concretos."
         },
         {
           "voz": "alvaro",
@@ -98,5 +97,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: ABC News Australia (29/3/2017), Wikipedia (en) y la ficha; el Guardian y los demás no abrieron. Contradicciones: lugar de nacimiento (Britannica, Caracas; Wikipedia, Michelena, Táchira): el guion dice solo «Venezuela». La fecha del crimen de la calle Toullier: Wikipedia menciona también 1979 para una orden de arresto, lo que no coincide; el guion usa 27 de junio de 1975 (ficha). El apodo «el Chacal» y la novela: según Wikipedia popularizado por el Guardian y el libro era de otro residente del piso; dicho con prudencia. «Barrio Latino» (calle Toullier): no consta en las fuentes abiertas, comprobar. «Sudaneses lo entregaron» y «meses de vigilancia» de Wikipedia. «Conversión al islam y boda con su abogada»: Wikipedia, 2001 (sigue casado con la segunda esposa): se dice solo «se casó en prisión con su abogada», quizá inexacto (la fecha de 2001 y el lugar no constan); revisar. «Veinte años de fuga» es aproximado (1975-1994). ABC dice que lleva 23 años detenido en 2017 (de 1994). Apelación de 2017: la defensa anunció que apelaría; no se ha comprobado el resultado. Muertos: Viena, tres; 1982-83, once; Publicis, dos; Toullier, tres. La ficha da «al menos 19» y la nota dice 16+3. El guion no da el total."
+  "nota_revision": "Fuentes abiertas: ABC News Australia (29/3/2017), Wikipedia (en) y la ficha; el Guardian y los demás no abrieron. Contradicciones: lugar de nacimiento (Britannica, Caracas; Wikipedia, Michelena, Táchira): el guion dice solo «Venezuela». La fecha del crimen de la calle Toullier: Wikipedia menciona también 1979 para una orden de arresto, lo que no coincide; el guion usa 27 de junio de 1975 (ficha). El apodo «el Chacal» y la novela: según Wikipedia popularizado por el Guardian y el libro era de otro residente del piso; dicho con prudencia. «Barrio Latino» (calle Toullier): no consta en las fuentes abiertas, comprobar. «Sudaneses lo entregaron» y «meses de vigilancia» de Wikipedia. «Conversión al islam y boda con su abogada»: Wikipedia, 2001 (sigue casado con la segunda esposa): se dice solo «se casó en prisión con su abogada», quizá inexacto (la fecha de 2001 y el lugar no constan); revisar. «Veinte años de fuga» es aproximado (1975-1994). ABC dice que lleva 23 años detenido en 2017 (de 1994). Apelación de 2017: la defensa anunció que apelaría; no se ha comprobado el resultado. Muertos: Viena, tres; 1982-83, once; Publicis, dos; Toullier, tres. La ficha da «al menos 19» y la nota dice 16+3. El guion no da el total. VERIFICACIÓN nuevos-octubre: quitada la conversión al islam (sin segunda fuente), la prisión de Clairvaux desde 2006 y la alegación de la defensa sobre la prensa (sin fuente); quitada la frase de 'la fecha que celebra el calendario'. Condenas: tres cadenas perpetuas, de la ficha. Él niega el atentado de 1974, dicho así."
 }

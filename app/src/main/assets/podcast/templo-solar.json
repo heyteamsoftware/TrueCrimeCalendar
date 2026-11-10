@@ -33,7 +33,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un incendio con cinco muertos ya es grave. Pero este tenía algo raro: una parte de las víctimas llevaba días muertas cuando ardió la casa. Quien prendió el fuego no quería accidentes. Quería que el fuego hablara."
+          "texto": "Primera nota. Un incendio con cinco muertos ya es grave. Pero este tenía algo raro: una parte de las víctimas llevaba días muertas cuando ardió la casa. Quien prendió el fuego no quería accidentes. Quería que el fuego hablara. Esa es la lectura prudente: no sabemos más de lo que muestra el fuego."
         },
         {
           "voz": "ximena",
@@ -45,7 +45,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Tres escenarios, dos continentes, un mismo método. Esto no fue un arrebato. Alguien lo había organizado con mucha antelación."
+          "texto": "Segunda nota. Tres escenarios, dos continentes, un mismo método. Esto no fue un arrebato. Alguien lo había organizado con mucha antelación. Tres escenarios en una misma noche piden coordinación, no improvisación, y eso es lo que la investigación quiso aclarar durante años."
         },
         {
           "voz": "ximena",
@@ -61,7 +61,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Antes de morir, Di Mambro dejó escrito una especie de testamento, en varias cartas, que se enviaron a unas trescientas personas, entre ellas periodistas y políticos. Era un mensaje para el mundo."
+          "texto": "Antes de morir, Di Mambro dejó escrito una especie de testamento, en varias cartas, que se enviaron a numerosas personas, entre ellas periodistas y políticos. Era un mensaje para el mundo."
         },
         {
           "voz": "ximena",
@@ -73,11 +73,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juez suizo André Piller dirigió parte de la investigación en Suiza. Varias de sus decisiones fueron criticadas y alimentaron teorías de conspiración que nunca se confirmaron."
-        },
-        {
-          "voz": "ximena",
-          "texto": "Y la historia no terminó ahí. En diciembre de 1995 aparecieron en los Alpes franceses, en la región del Vercors, otros dieciséis cuerpos, entre ellos tres niños. En 1997, más muertes en Saint-Casimir, en Quebec. En total, 74 personas entre 1994 y 1997."
+          "texto": "Y la historia no terminó ahí. En diciembre de 1995 aparecieron en los Alpes franceses, en la región del Vercors, otros dieciséis cuerpos, entre ellos tres niños. En 1997, más muertes en Saint-Casimir, en Quebec. En total, según Swissinfo, 74 personas entre 1994 y 1997."
         },
         {
           "voz": "alvaro",
@@ -89,15 +85,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Una absolución es una absolución. Las autoridades suizas no lograron establecer ningún vínculo entre la secta y él. No hay más culpables vivos que señalar."
+          "texto": "Una absolución es una absolución. No se probó que hubiera inducido a nadie a morir. No hay más culpables vivos que señalar."
         },
         {
           "voz": "ximena",
-          "texto": "Queda lo que nadie pudo contestar del todo: cuántos murieron por voluntad propia y cuántos no tuvieron elección. Las cifras varían según la fuente: cincuenta y dos, cincuenta y tres o cincuenta y cuatro en 1994."
+          "texto": "Queda lo que nadie pudo contestar del todo: cuántos murieron por voluntad propia y cuántos no tuvieron elección. Las cifras varían según la fuente. Para 1994 se citan cincuenta y dos, cincuenta y tres o cincuenta y cuatro en 1994."
         },
         {
           "voz": "ximena",
-          "texto": "Eran familias, jóvenes y personas mayores de Suiza, Francia y Canadá, que en su día habían buscado un sentido y una comunidad. Entre ellos había niños que no habían elegido nada. El archivo guarda su recuerdo, no el de quienes los llevaron hasta allí."
+          "texto": "Eran familias, jóvenes y personas mayores de Suiza, Francia y Canadá, que en su día habían buscado un sentido y una comunidad. Entre ellos había niños que no habían elegido nada. El archivo guarda su recuerdo, no el de quienes los llevaron hasta allí. Muchas de esas familias solo conocieron la historia por la prensa, y algunas siguen sin respuestas completas."
         },
         {
           "voz": "ximena",
@@ -106,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia (en) y Swissinfo (20/12/2006); el NYT no abrió. Detalles de Morin-Heights (matrimonio y bebé asesinados el 30 de septiembre) de Wikipedia y de la ficha; el motivo del bebé como anticristo va como \"algunas fuentes\" y discutido. No se da el reparto entre suicidios y asesinatos (no hay cifra confirmada). Las cifras 52/53/54 y la variación 53 (1994) / 74 (1994-1997) vienen de la ficha. Swissinfo da 74 muertos (30 suizos, 30 franceses y 10 canadienses) y 48 en Suiza en 1994; Wikipedia 53 en total en 1994 con 5 en Quebec: el guion usa 23 y 25 en Suiza (ficha) y no suma. El juicio de 2006 fue por la muerte de 16 miembros del Vercors (Swissinfo). La ficha dice que Tabachnik fue absuelto en 2001 y en apelación en 2006. Se omite la fecha exacta de Cheiry (2-3 de octubre, Wikipedia) por discrepancia con la ficha (descubiertos el 4-5). No se nombra a las víctimas de Quebec ni al bebé. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: Wikipedia (en) y Swissinfo (20/12/2006); el NYT no abrió. Detalles de Morin-Heights (matrimonio y bebé asesinados el 30 de septiembre) de Wikipedia y de la ficha; el motivo del bebé como anticristo va como \"algunas fuentes\" y discutido. No se da el reparto entre suicidios y asesinatos (no hay cifra confirmada). Las cifras 52/53/54 y la variación 53 (1994) / 74 (1994-1997) vienen de la ficha. Swissinfo da 74 muertos (30 suizos, 30 franceses y 10 canadienses) y 48 en Suiza en 1994; Wikipedia 53 en total en 1994 con 5 en Quebec: el guion usa 23 y 25 en Suiza (ficha) y no suma. El juicio de 2006 fue por la muerte de 16 miembros del Vercors (Swissinfo). La ficha dice que Tabachnik fue absuelto en 2001 y en apelación en 2006. Se omite la fecha exacta de Cheiry (2-3 de octubre, Wikipedia) por discrepancia con la ficha (descubiertos el 4-5). No se nombra a las víctimas de Quebec ni al bebé. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: quitado el juez Piller y las teorías de conspiración (sin fuente); '300 personas' pasa a 'numerosas'; 74 atribuido a Swissinfo; cifras 52-54 atribuidas a las fuentes; Tabachnik absuelto, dicho como absuelto."
 }

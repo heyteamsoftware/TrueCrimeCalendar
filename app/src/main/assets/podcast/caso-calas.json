@@ -12,7 +12,7 @@
     "Saint-Georges": "San Yorch",
     "Élie de Beaumont": "Elí de Bomón",
     "Antoine Louis": "Antuán Luí",
-    "capitouls": "capitulés"
+    "capitouls": "capitúl"
   },
   "cintas": [
     {
@@ -34,11 +34,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Lo más importante de este informe pasó antes de que llegara la justicia. La familia descolgó el cuerpo y, al principio, habló de un agresor desconocido. Mintieron. Y con eso lo estropearon todo."
+          "texto": "Primera nota. Lo más importante de este informe pasó antes de que llegara la justicia. La familia, al principio, habló de un agresor desconocido. Mintieron. Y con eso lo estropearon todo."
         },
         {
           "voz": "ximena",
-          "texto": "Más tarde admitieron lo que ocultaban. Habían descolgado el cuerpo para esconder un suicidio, y con él, la vergüenza pública que entonces caía sobre la familia de quien se quitaba la vida."
+          "texto": "Más tarde admitieron lo que ocultaban. Habían ocultado lo ocurrido para esconder un suicidio, y con él, la vergüenza pública que entonces caía sobre la familia de quien se quitaba la vida."
         },
         {
           "voz": "ximena",
@@ -50,7 +50,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los magistrados municipales, los capitouls, juzgaron a la familia. Pidieron testigos mediante un aviso público. Fueron acusados Jean Calas, su familia, una criada y un invitado, y en noviembre de 1761 los capitouls los declararon culpables."
+          "texto": "Los magistrados municipales, los capitouls, juzgaron a la familia. Pidieron testigos mediante un aviso público. Fueron acusados Jean Calas, su familia, una criada y un invitado, y en noviembre de 1761 los capitouls dictaron sentencia contra Jean."
         },
         {
           "voz": "ximena",
@@ -78,7 +78,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1764, el Consejo del rey anuló la sentencia de Toulouse por defectos de procedimiento. Y el 9 de marzo de 1765 un tribunal de París rehabilitó la memoria de Jean Calas y de su familia, y le concedió una pensión."
+          "texto": "En 1764, el Consejo del rey anuló la sentencia de Toulouse por defectos de procedimiento. Y el 9 de marzo de 1765 un tribunal de París rehabilitó la memoria de Jean Calas y de su familia,."
         },
         {
           "voz": "alvaro",
@@ -90,7 +90,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo que queda es una regla: si una familia miente por vergüenza, la justicia debe saber distinguir una mentira de un crimen. No lo hizo, y un hombre murió."
+          "texto": "Lo que queda es una regla: si una familia miente por vergüenza, la justicia debe saber distinguir una mentira de un crimen. No lo hizo, y un hombre murió. Hoy el caso se estudia como ejemplo de lo que ocurre cuando el prejuicio decide antes que las pruebas."
         },
         {
           "voz": "ximena",
@@ -103,5 +103,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en francés (Affaire Calas) y Persée (Romane-Musculus 1962: confirma la ejecución el 10 de marzo de 1762 en la plaza de Saint-Georges); Britannica (403), Universalis y las piezas del proceso no se pudieron abrir con detalle, y el dosier de los Archivos del Alto Garona devolvió acceso denegado. Contradicciones: ninguna con la ficha, salvo que Wikipedia dice «en la casa familiar» y la ficha «en la tienda de su familia» (el guion dice «casa y tienda»). La ficha da el voto de 8 a 5 y las fechas del 9 y 10 de marzo de 1762 de Wikipedia en francés. Frases a comprobar: que «Marc-Antoine era el hijo mayor» (Wikipedia fr: eldest son); que «Jean era un hombre mayor» (tenía 63 años según otras fuentes, no abiertas); que Voltaire «tardó en creerlos» (es la versión habitual, no consta en las fuentes abiertas: retirar si no se confirma); el sentido de «otros protestantes pidieron ayuda a Voltaire» es aproximado. El guion no menciona la tortura ni los detalles de la ejecución. «Todos los acusados fueron liberados»: no se afirma. Los historiadores citados (Garnot, Inchauspé) no se nombran. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: Wikipedia en francés (Affaire Calas) y Persée (Romane-Musculus 1962: confirma la ejecución el 10 de marzo de 1762 en la plaza de Saint-Georges); Britannica (403), Universalis y las piezas del proceso no se pudieron abrir con detalle, y el dosier de los Archivos del Alto Garona devolvió acceso denegado. Contradicciones: ninguna con la ficha, salvo que Wikipedia dice «en la casa familiar» y la ficha «en la tienda de su familia» (el guion dice «casa y tienda»). La ficha da el voto de 8 a 5 y las fechas del 9 y 10 de marzo de 1762 de Wikipedia en francés. Frases a comprobar: que «Marc-Antoine era el hijo mayor» (Wikipedia fr: eldest son); que «Jean era un hombre mayor» (tenía 63 años según otras fuentes, no abiertas); que Voltaire «tardó en creerlos» (es la versión habitual, no consta en las fuentes abiertas: retirar si no se confirma); el sentido de «otros protestantes pidieron ayuda a Voltaire» es aproximado. El guion no menciona la tortura ni los detalles de la ejecución. «Todos los acusados fueron liberados»: no se afirma. Los historiadores citados (Garnot, Inchauspé) no se nombran. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: quitada la pensión (sin fuente abierta) y detalles del cuerpo; capitouls 'dictaron sentencia contra Jean' (no consta el destino del resto en las fuentes abiertas). Sobrio: error judicial, rehabilitación de 1765. Historiadores citados sin nombre."
 }

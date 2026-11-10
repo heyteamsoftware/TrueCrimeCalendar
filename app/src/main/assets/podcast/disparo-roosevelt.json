@@ -13,7 +13,7 @@
     "Waupun": "Uópan",
     "Wisconsin": "Uiskónsin",
     "Wilson": "Úilson",
-    "Taft": "Taft"
+    "Elbert Martin": "Élbert Mártin"
   },
   "cintas": [
     {
@@ -59,7 +59,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Un hombre que seguía al candidato de ciudad en ciudad pudo plantarse a pocos metros. Eso nos dice cómo era la seguridad de un candidato en 1912: un hombre de pie entre la multitud."
+          "texto": "Tercera nota. Un hombre que seguía al candidato de ciudad en ciudad pudo plantarse a pocos metros. Eso nos dice cómo era la seguridad de un candidato en 1912: un hombre de pie entre la multitud. Hoy ningún candidato recibiría tan poca protección."
         },
         {
           "voz": "ximena",
@@ -87,7 +87,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quinta nota. Schrank había perdido a su novia en el desastre del vapor General Slocum, en 1904, y se hizo muy religioso. Su enfermedad no lo disculpa, pero ayuda a entender que no fue una conspiración."
+          "texto": "Quinta nota. Schrank estaba convencido de una misión que solo existía en su cabeza. Su enfermedad no lo disculpa, pero ayuda a entender que no fue una conspiración, sino la obra de un hombre solo y perturbado."
         },
         {
           "voz": "ximena",
@@ -95,7 +95,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fue herido, no muerto. Roosevelt dijo después a un periodista que estaba en plena forma. En el archivo, ese dato cuenta tanto como el discurso."
+          "texto": "Fue herido, no muerto. Roosevelt llevó la bala consigo toda su vida. En el archivo, ese dato cuenta tanto como el discurso."
         },
         {
           "voz": "ximena",
@@ -104,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia (en), Biblioteca Pública de Milwaukee (por curl) y la ficha; Smithsonian (403), Theodore Roosevelt Center (sin contenido) y NYT no abrieron. Contradicción en el trámite judicial: MPL dice que se declaró culpable y que el tribunal lo declaró demente; Wikipedia, que el juez rechazó la declaración y un jurado lo halló no culpable por demencia, con internamiento en 1914 en Waupun; el guion lo dice con prudencia. Que «nadie lo visitó» sale del titular del NYT de 1943 citado en la ficha (no abierto). Frase «con la camisa manchada»: no consta en las fuentes abiertas, retirar si no se confirma. «Roosevelt reducir campaña a dos discursos más» y las elecciones: Wikipedia. «Emigró de niño»: MPL (a los 9 años). «Tabernero en Nueva York»: MPL, Wikipedia. El hotel: Gilpatrick. «Nadie más resultó herido»: no consta en las fuentes abiertas; comprobar. El motivo del fantasma de McKinley es de Wikipedia («según documentos hallados»); no se detalla más de la salud mental de Schrank. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: Wikipedia (en), Biblioteca Pública de Milwaukee (por curl) y la ficha; Smithsonian (403), Theodore Roosevelt Center (sin contenido) y NYT no abrieron. Contradicción en el trámite judicial: MPL dice que se declaró culpable y que el tribunal lo declaró demente; Wikipedia, que el juez rechazó la declaración y un jurado lo halló no culpable por demencia, con internamiento en 1914 en Waupun; el guion lo dice con prudencia. Que «nadie lo visitó» sale del titular del NYT de 1943 citado en la ficha (no abierto). Frase «con la camisa manchada»: no consta en las fuentes abiertas, retirar si no se confirma. «Roosevelt reducir campaña a dos discursos más» y las elecciones: Wikipedia. «Emigró de niño»: MPL (a los 9 años). «Tabernero en Nueva York»: MPL, Wikipedia. El hotel: Gilpatrick. «Nadie más resultó herido»: no consta en las fuentes abiertas; comprobar. El motivo del fantasma de McKinley es de Wikipedia («según documentos hallados»); no se detalla más de la salud mental de Schrank. Pronunciaciones a oído. VERIFICACIÓN nuevos-octubre: quitado el novio/novia del vapor General Slocum (sin fuente fiable), el psicólogo con 'delirios grandiosos', la duda del juez y la frase sobre 'plena forma' (sin fuente). Trámite judicial sigue con la discrepancia anotada. Sin cita de criminal."
 }

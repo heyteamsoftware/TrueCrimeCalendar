@@ -5,12 +5,13 @@
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Laurence Foley": "Lórens Fóuli",
     "Foley": "Fóuli",
-    "USAID": "iusaid",
+    "USAID": "Iusáid",
     "Salem bin Suweid": "Sálem bin Suuéid",
     "Yasser Freihat": "Yáser Freijat",
     "Al Zarqaui": "al Sarcaui",
     "Abu Musab al Zarqaui": "Abu Musab al Sarcaui",
-    "Al Qaeda": "Al Káeda"
+    "Al Qaeda": "Al Káeda",
+    "Bin Suweid": "Bin Suuéid"
   },
   "cintas": [
     {
@@ -36,11 +37,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Una calle tranquila, a primera hora, frente a su propia casa. Los atacantes lo esperaron junto a la puerta. Parece difícil que fuera casualidad."
+          "texto": "Primera nota. Una calle tranquila, a primera hora, frente a su propia casa. Según la investigación jordana, lo esperaron junto a la puerta."
         },
         {
           "voz": "ximena",
-          "texto": "Según la investigación jordana, fueron dos hombres. Dispararon varias veces con una pistola con silenciador y huyeron. Foley murió allí mismo."
+          "texto": "Según la investigación jordana, fueron dos hombres. Dispararon y huyeron. Foley murió allí mismo."
         },
         {
           "voz": "ximena",
@@ -64,7 +65,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Anoto el detalle de la acusación. Según el Gobierno jordano, Al Zarqaui les dio dieciocho mil dólares de un total previsto de cincuenta mil, y también armas, entre ellas una pistola con silenciador y granadas."
+          "texto": "Anoto el detalle de la acusación. Según el Gobierno jordano, Al Zarqaui les dio dieciocho mil dólares de un total previsto de cincuenta mil, y también armas."
         },
         {
           "voz": "ximena",
@@ -108,7 +109,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Laurence Foley tenía sesenta y dos años. Trabajaba en un país que no era el suyo, en una agencia de cooperación."
+          "texto": "Laurence Foley tenía sesenta y dos años. Trabajaba en un país que no era el suyo, en una agencia de cooperación. No era militar ni político: su trabajo era la cooperación."
         },
         {
           "voz": "ximena",
@@ -117,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: CNN (14-12-2002; Gobierno jordano, 18.000 dólares de 50.000, armas, 'no era el objetivo principal') y Wikipedia en inglés (fechas, condena, ahorcamiento, 2009). BBC (28-10-2002, 6-4-2004 y 11-3-2006) y NYT no se pudieron abrir: los datos de las sentencias (ocho condenas a muerte, dos de prisión, diez condenados en 2006, que la confesión se dijo forzada) salen de la nota de verificación de la ficha. CNN llama al segundo detenido Yasser Fathi Ibraheem y la BBC/Wikipedia Freihat: el guion usa Freihat. 'Tribunal militar' (ficha) en el juicio; CNN anunció en 2002 un tribunal de seguridad del Estado. La frase 'Zarqaui, un jordano que vivía fuera' es de CNN (salió de Jordania en 1999, condenado en rebeldía por otro plan). 'Siete semanas' = 28-10 al 14-12 (cálculo propio). 'Dos armas, granadas' = CNN. Condena de 2009 sin detalle (solo titular NYT). Se omiten la carrera previa de Foley, la edad exacta de la pistola y los disparos. Pronunciaciones por revisar al escuchar."
+  "nota_revision": "Fuentes abiertas: CNN (14-12-2002; Gobierno jordano, 18.000 dólares de 50.000, armas, 'no era el objetivo principal') y Wikipedia en inglés (fechas, condena, ahorcamiento, 2009). BBC (28-10-2002, 6-4-2004 y 11-3-2006) y NYT no se pudieron abrir: los datos de las sentencias (ocho condenas a muerte, dos de prisión, diez condenados en 2006, que la confesión se dijo forzada) salen de la nota de verificación de la ficha. CNN llama al segundo detenido Yasser Fathi Ibraheem y la BBC/Wikipedia Freihat: el guion usa Freihat. 'Tribunal militar' (ficha) en el juicio; CNN anunció en 2002 un tribunal de seguridad del Estado. La frase 'Zarqaui, un jordano que vivía fuera' es de CNN (salió de Jordania en 1999, condenado en rebeldía por otro plan). 'Siete semanas' = 28-10 al 14-12 (cálculo propio). 'Dos armas, granadas' = CNN. Condena de 2009 sin detalle (solo titular NYT). Se omiten la carrera previa de Foley, la edad exacta de la pistola y los disparos. Pronunciaciones por revisar al escuchar. VERIFICACIÓN nuevos-octubre: quitado el silenciador (detalle de método). Los dos ejecutados y Al Zarqaui (condenado en rebeldía, muerto en 2006) son condenados; el resto de condenados no se nombra. Confesiones y su retractación, atribuidas. Ocho condenas a muerte / diez condenados: discrepancia de prensa, anotada en la cinta. Condena de 2009 sin detalle (solo prensa)."
 }

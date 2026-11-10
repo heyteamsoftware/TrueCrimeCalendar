@@ -37,7 +37,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Otra bomba estalló en un segundo pub. Allí no hubo heridos. El IRA Provisional, el ejército clandestino irlandés, fue señalado enseguida."
+          "texto": "Otra bomba estalló en un segundo pub. Allí no hubo muertos. El IRA Provisional, el ejército clandestino irlandés, fue señalado enseguida."
         },
         {
           "voz": "alvaro",
@@ -57,7 +57,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 22 de octubre de 1975, el tribunal del Old Bailey los condenó a cadena perpetua. Carole Richardson tenía diecisiete años cuando la detuvieron."
+          "texto": "El 22 de octubre de 1975, el tribunal del Old Bailey los condenó a cadena perpetua. Carole Richardson tenía diecisiete años cuando la detuvieron. Su condena se apoyó en las confesiones, no en pruebas materiales."
         },
         {
           "voz": "alvaro",
@@ -65,7 +65,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pasaron los años. Los Cuatro seguían presos. Una campaña con apoyo de políticos y de jueces de alto rango fue ganando fuerza."
+          "texto": "Pasaron los años. Los Cuatro seguían presos. Una campaña con apoyo de políticos y de jueces de alto rango fue ganando fuerza. Entre la detención y la libertad pasaron casi quince años."
         },
         {
           "voz": "alvaro",
@@ -81,7 +81,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El caso fue el primero de varios errores judiciales relacionados con Irlanda que llevaron a una comisión real y, en 1996, a un organismo nuevo para revisar condenas dudosas."
+          "texto": "El caso fue el primero de varios errores judiciales relacionados con Irlanda que llevaron a una comisión real y, poco después, a un organismo nuevo para revisar condenas dudosas."
         },
         {
           "voz": "ximena",
@@ -89,7 +89,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y eso hay que decirlo tal cual: absueltos. No se puede acusar a nadie de lo que no fue condenado. Lo que sí está probado es que los Cuatro eran inocentes, y que nadie ha sido juzgado por las bombas."
+          "texto": "Y eso hay que decirlo tal cual: absueltos. No se puede acusar a nadie de lo que no fue condenado. Sus condenas se anularon, y nadie ha sido juzgado por las bombas."
         },
         {
           "voz": "ximena",
@@ -97,7 +97,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 2019, un forense decidió retomar las diligencias sobre las muertes. No es un nuevo juicio contra nadie. Es una investigación sobre qué pasó con aquellos cinco jóvenes."
+          "texto": "Según la BBC, en 2019 un forense decidió retomar las diligencias sobre las muertes. No es un nuevo juicio contra nadie. Es una investigación sobre qué pasó con aquellos cinco jóvenes."
         },
         {
           "voz": "alvaro",
@@ -105,14 +105,18 @@
         },
         {
           "voz": "ximena",
-          "texto": "Diez años después de la liberación, el diario The Guardian contó cómo les había ido. Un psiquiatra de Cambridge había hallado en Conlon un estrés postraumático persistente. Les costó abrir una cuenta en el banco, encontrar trabajo, cruzar una calle con tráfico. Habían perdido quince años y la vida que tenían planeada."
+          "texto": "Diez años después de la liberación, el diario The Guardian contó cómo vivían. Un psiquiatra de Cambridge había hallado en Gerry Conlon un estrés postraumático persistente. Habían perdido quince años y la vida que tenían planeada."
         },
         {
           "voz": "ximena",
-          "texto": "Y las víctimas, cinco jóvenes que salieron una noche de sábado a un pub, merecen que su recuerdo no se pierda entre las sentencias. Fin del expediente: Los Cuatro de Guildford. Archivo de TRUE CRIME CALENDAR."
+          "texto": "Y las víctimas, cinco jóvenes que salieron una noche de sábado a un pub, merecen que su recuerdo no se pierda entre las sentencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Los Cuatro de Guildford. Archivo de TRUE CRIME CALENDAR."
         }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: BBC (2019, vía curl) y The Guardian (1999, vía curl). NYT 1974 y Blair 2005 no se abrieron. No se nombran las víctimas (cuatro de entre 17 y 19 años); sí a los cuatro condenados por error, parte del nombre del caso. La muerte de Gerry Conlon en 2014 sale de la ficha (BBC 2014 sin abrir). Lo del estrés postraumático y las dificultades al salir, de The Guardian (1999: examen de Adrian Grounds a Conlon, no a los demás). 'Quince años' y 'IRA' como en la ficha. El Guardian da 'The officers must have lied' (Lord Lane). La BBC dice que la unidad de Balcombe Street reivindicó en 1976 'y nunca fue acusada'. 'Siempre dijeron que eran inocentes' (BBC). 'Inocentes' está probado por la anulación de las condenas. Seis mil militares: BBC 2019. El hecho de ser sábado (5-10-1974) es cálculo propio. Pronunciaciones por revisar. La comisión real (informe de 1993) y el organismo de revisión de casos 'tres años después' (1996) salen del Guardian (1999)."
+  "nota_revision": "Fuentes abiertas: BBC (2019, vía curl) y The Guardian (1999, vía curl). NYT 1974 y Blair 2005 no se abrieron. No se nombran las víctimas (cuatro de entre 17 y 19 años); sí a los cuatro condenados por error, parte del nombre del caso. La muerte de Gerry Conlon en 2014 sale de la ficha (BBC 2014 sin abrir). Lo del estrés postraumático y las dificultades al salir, de The Guardian (1999: examen de Adrian Grounds a Conlon, no a los demás). 'Quince años' y 'IRA' como en la ficha. El Guardian da 'The officers must have lied' (Lord Lane). La BBC dice que la unidad de Balcombe Street reivindicó en 1976 'y nunca fue acusada'. 'Siempre dijeron que eran inocentes' (BBC). 'Inocentes' está probado por la anulación de las condenas. Seis mil militares: BBC 2019. El hecho de ser sábado (5-10-1974) es cálculo propio. Pronunciaciones por revisar. La comisión real (informe de 1993) y el organismo de revisión de casos 'tres años después' (1996) salen del Guardian (1999). VERIFICACIÓN nuevos-octubre: errores judiciales: tono sobrio; 'probado que eran inocentes' pasa a 'condenas anuladas'; segundo pub 'sin muertos' (no consta 'sin heridos'); el organismo de revisión 'poco después' (1996 no verificado); inquests de 2019 atribuidos a la BBC; quitados banco, trabajo y calle (el Guardian describe solo a Conlon). Víctimas sin nombre (varias eran menores o muy jóvenes). Policías absueltos en 1993, dicho como absueltos. IRA de Balcombe Street: reivindicó, nunca acusado."
 }
