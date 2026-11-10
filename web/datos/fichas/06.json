@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "ranucci-jersey-rojo",
+    "m": 6,
+    "d": 3,
+    "y": 1974,
+    "n": "Christian Ranucci",
+    "a": "El caso del jersey rojo",
+    "v": "1",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1974–1976",
+    "st": "Cerrado. Ranucci fue condenado a muerte y guillotinado en 1976. Las tres peticiones de revisión que presentaron después su familia y sus abogados fueron rechazadas; la última, en 1991.",
+    "c": "La mañana del 3 de junio de 1974 Marie-Dolorès Rambla, una niña de 8 años, desapareció frente a su casa, en el barrio marsellés de Les Chartreux. Ese mismo día, un coche que había chocado con otro en Belcodène huyó del lugar; la matrícula llevó a los investigadores hasta Christian Ranucci, un representante comercial de 20 años que vivía en Niza. El 5 de junio los gendarmes hallaron el cuerpo de la niña en un pinar de Peypin y Ranucci fue detenido. Confesó y meses después se retractó. Condenado a muerte el 10 de marzo de 1976, fue guillotinado el 28 de julio en Marsella. Las dudas sobre su culpabilidad, difundidas por el libro «Le Pull-over rouge», pesaron en el debate sobre la pena de muerte.",
+    "mo": "Según la acusación, se llevó a la niña en coche tras pedir ayuda a los dos hermanos para buscar un perro, y la mató con un arma blanca en un pinar cercano al lugar del accidente.",
+    "loc": [
+      [
+        43.3141,
+        5.4081,
+        "Résidence Sainte-Agnès, Les Chartreux, Marsella (donde desapareció la niña)"
+      ],
+      [
+        43.4272,
+        5.5894,
+        "Belcodène (accidente del coche de Ranucci, que huyó del lugar)"
+      ],
+      [
+        43.3867,
+        5.5792,
+        "Peypin (pinar donde apareció el cuerpo, 5 de junio)"
+      ],
+      [
+        43.5286,
+        5.4504,
+        "Palacio de Justicia de Aix-en-Provence (juicio ante la cour d'assises, marzo de 1976)"
+      ],
+      [
+        43.2337,
+        5.4134,
+        "Prisión de Les Baumettes, Marsella (ejecución, 28 de julio de 1976)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Caso Ranucci, «el jersey rojo»",
+    "autor": "Christian Ranucci (condenado y ejecutado; su culpabilidad sigue discutida)",
+    "fuentes": [
+      {
+        "titulo": "INA, Fresques Sudorama — «Exécution de Christian Ranucci», FR3 Marseille (telediario del 28 de julio de 1976)",
+        "url": "https://fresques.ina.fr/sudorama/fiche-media/00000000234/execution-de-christian-ranucci.html",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "INA — «Troisième requête en révision du procès Ranucci», Antenne 2 (15 de noviembre de 1991)",
+        "url": "https://www.ina.fr/ina-eclaire-actu/video/cab91059464/troisieme-requete-en-revision-du-proces-ranucci",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Cour de cassation, chambre criminelle, 17 de junio de 1976, n.º 76-90.888 (rechazo del recurso contra la condena de la cour d'assises des Bouches-du-Rhône), Légifrance",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007061353",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Le Monde, «Le procès-verbal officiel» (29 de julio de 1976)",
+        "url": "https://www.lemonde.fr/archives/article/1976/07/29/le-proces-verbal-officiel_2951905_1819218.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Le Monde, «Le débat sur l'innocence du dernier guillotiné : la seconde mort de Christian Ranucci» (4 de septiembre de 1990)",
+        "url": "https://www.lemonde.fr/archives/article/1990/09/04/le-debat-sur-l-innocence-du-dernier-guillotine-la-seconde-mort-de-christian-ranucci_3998280_1819218.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Giulia Depentor, «La terribile storia di Christian Ranucci e della fine della pena di morte in Francia», Il Post (28 de julio de 2026)",
+        "url": "https://www.ilpost.it/2026/07/28/depentor-la-terribile-storia-di-christian-ranucci-e-della-fine-della-pena-di-morte-in-francia/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Affaire Christian Ranucci» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Affaire_Christian_Ranucci",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Il Post sitúa el juicio en Marsella, pero fue en Aix-en-Provence (cour d'assises des Bouches-du-Rhône), según el INA y la Wikipedia francesa. El resumen de la ficha del INA de 1976 dice «28 de octubre» por error; el resto de la ficha da el 28 de julio. La víctima, menor, se nombra porque el caso tiene más de 50 años y su nombre es público. Ranucci no fue el último ejecutado en Francia, aunque a menudo se diga: fue el antepenúltimo. Las páginas de Le Monde no se pudieron abrir."
+  },
+  {
+    "id": "asesinato-cardenal-soldevila",
+    "m": 6,
+    "d": 4,
+    "y": 1923,
+    "n": "Juan Soldevila y Romero",
+    "a": "El asesinato del cardenal Soldevila",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1923–1924",
+    "st": "Cerrado. La Audiencia de Zaragoza condenó a Rafael Torres Escartín y declaró en rebeldía a Francisco Ascaso, que se había fugado de la cárcel. Los dos murieron hace décadas.",
+    "c": "El 4 de junio de 1923 el cardenal Juan Soldevila, arzobispo de Zaragoza, fue tiroteado dentro de su coche cuando llegaba a la escuela-asilo de las Hijas de la Caridad en la finca de El Terminillo, que visitaba casi a diario. Murió en el acto y su chófer resultó gravemente herido. El crimen se atribuyó al grupo anarquista Los Solidarios, que lo relacionaba con el asesinato del sindicalista Salvador Seguí en Barcelona meses antes. Rafael Torres Escartín y Francisco Ascaso fueron detenidos como autores; Torres Escartín fue condenado y Ascaso se fugó y fue juzgado en rebeldía.",
+    "mo": "Dos pistoleros esperaron al cardenal a la entrada de la finca, en el trayecto que hacía casi a diario, y dispararon repetidamente contra el coche.",
+    "loc": [
+      [
+        41.6508,
+        -0.9077,
+        "El Terminillo, Zaragoza (atentado a la entrada de la escuela-asilo; zona aproximada de la antigua finca)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato del cardenal Soldevila",
+    "autor": "Rafael Torres Escartín (condenado) y Francisco Ascaso (juzgado en rebeldía), del grupo anarquista Los Solidarios",
+    "fuentes": [
+      {
+        "titulo": "Archivo, Biblioteca y Hemeroteca del Ayuntamiento de Zaragoza, «Tiempos convulsos. Zaragoza en 1923: la inestabilidad social. El asesinato del cardenal Soldevila» (exposición virtual)",
+        "url": "https://www.zaragoza.es/sede/portal/usic/exposiciones-virtuales/exposiciones/zaragoza-1923/tiempos-convulsos",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Real Academia de la Historia, DB~e, «Juan Soldevila Romero»",
+        "url": "https://historia-hispanica.rah.es/biografias/41873-juan-soldevila-romero",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Santiago Casas Rabasa, «El gobierno de la archidiócesis de Zaragoza en el pontificado de Juan Soldevila (1902-1923)», Studia et Documenta, vol. 19 (2025)",
+        "url": "https://www.isje.org/setd/2025/SetD-19-2025-03-CASAS.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Carlos Forcadell, «El asesinato del cardenal Soldevila», Tiempo de Historia, año IV, n.º 47 (octubre de 1978), pp. 16-23",
+        "url": "https://gredos.usal.es/jspui/bitstream/10366/29155/3/THIV~N47~P16-23.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ramón Herrando Prat de la Riba, «Los años de seminario de Josemaría Escrivá en Zaragoza» (Madrid, Rialp, 2002)",
+        "url": "https://books.google.es/books?id=RPgEM4eoMSAC",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Juan Soldevila y Romero» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Juan_Soldevila_y_Romero",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes no coinciden en la pena de Torres Escartín: la Wikipedia en castellano habla de cadena perpetua dictada por la Audiencia de Zaragoza (sumario 237/1923, cerrado en noviembre de 1924) y la inglesa, de pena de muerte conmutada en 1931 por internamiento en un manicomio; fue fusilado en 1939. Por eso la ficha dice solo «condenado». Alguna web sitúa por error el atentado el 23 de junio. La ubicación exacta de la antigua finca de El Terminillo no se ha podido fijar: se usa la calle del Terminillo (Delicias). No se pudo abrir el texto de Forcadell (error 403) ni leer la biografía de la RAH."
+  },
+  {
+    "id": "asesinato-robert-kennedy",
+    "m": 6,
+    "d": 5,
+    "y": 1968,
+    "n": "Sirhan Sirhan",
+    "a": "El asesinato de Robert F. Kennedy",
+    "v": "1 muerto y 5 heridos",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1968",
+    "st": "Sirhan Sirhan cumple cadena perpetua en California. En 2021 una junta recomendó su libertad condicional, el gobernador la rechazó en enero de 2022 y en marzo de 2023 se le volvió a denegar.",
+    "c": "Poco después de la medianoche del 5 de junio de 1968, tras celebrar su victoria en las primarias demócratas de California, el senador Robert F. Kennedy fue tiroteado en un pasillo de la cocina del hotel Ambassador de Los Ángeles. Otras cinco personas resultaron heridas. Kennedy murió en el hospital Good Samaritan en la madrugada del 6 de junio. Sirhan Sirhan, un joven de origen palestino, fue detenido en el lugar con el arma. Un jurado lo declaró culpable en abril de 1969 y fue condenado a muerte, pena que en 1972 se cambió por cadena perpetua al cambiar la ley en California.",
+    "mo": "Disparó a corta distancia con un revólver entre la gente que rodeaba al senador mientras este saludaba al personal del hotel.",
+    "loc": [
+      [
+        34.0597,
+        -118.2972,
+        "Antiguo hotel Ambassador, Wilshire Boulevard, hoy escuelas Robert F. Kennedy (tiroteo)"
+      ],
+      [
+        34.0544,
+        -118.2653,
+        "Hospital Good Samaritan, Los Ángeles (muerte del senador, 6 de junio)"
+      ],
+      [
+        38.8792,
+        -77.0722,
+        "Cementerio Nacional de Arlington (sepultura)"
+      ],
+      [
+        32.5846,
+        -116.9334,
+        "Prisión Richard J. Donovan, San Diego (donde cumple condena Sirhan)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Robert F. Kennedy",
+    "autor": "Sirhan Sirhan (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Gobernador de California, Gavin Newsom, «Indeterminate Sentence Parole Release Review: Sirhan Sirhan, B-21014» (resolución del 13 de enero de 2022)",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2022/01/1.13.22-Sirhan-Reverse-Decision.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "HISTORY.com Editors, «Robert F. Kennedy is fatally shot», This Day in History, A&E Networks",
+        "url": "https://www.history.com/this-day-in-history/june-5/bobby-kennedy-is-assassinated",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Associated Press, «Kennedy assassin Sirhan Sirhan denied parole» (1 de marzo de 2023)",
+        "url": "https://apnews.com/article/kennedy-assassin-sirhan-sirhan-parole-677c24ee621f6cb70b6165e741f87e65",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Los Angeles Times, «Newsom denies parole for Sirhan Sirhan» (13 de enero de 2022)",
+        "url": "https://www.latimes.com/california/story/2022-01-13/sirhan-sirhan-kennedy-assassination-parole-denied-gavin-newsom",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Sirhan Sirhan, Killer of Robert F. Kennedy, Is Recommended for Parole» (27 de agosto de 2021)",
+        "url": "https://www.nytimes.com/2021/08/27/us/sirhan-sirhan-parole-rfk.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Robert F. Kennedy» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "HISTORY.com fecha la condena a muerte el 3 de marzo de 1969, que fue el día en que Sirhan dijo ante el tribunal que había matado a Kennedy; el veredicto de culpabilidad fue el 17 de abril y la resolución del gobernador sitúa la condena formal el 22 de mayo de 1969. Por eso la ficha da solo el año. Las teorías de un segundo tirador no tienen respaldo judicial. No se pudieron abrir AP, Los Angeles Times ni The New York Times (dominios bloqueados); sus datos coinciden con la resolución del gobernador y con Wikipedia."
+  },
+  {
+    "id": "asesinato-perez-zujovic",
+    "m": 6,
+    "d": 8,
+    "y": 1971,
+    "n": "Edmundo Pérez Zujovic",
+    "a": "El asesinato de Pérez Zujovic",
+    "v": "1",
+    "p": "Chile",
+    "f": "🇨🇱",
+    "per": "1971",
+    "st": "Cerrado sin juicio a los autores directos: los hermanos Ronald y Arturo Rivera Calderón murieron el 13 de junio de 1971 al ser cercados por la policía, y Heriberto Salazar Bello murió el 16 de junio al hacer estallar explosivos en el cuartel de Investigaciones.",
+    "c": "La mañana del 8 de junio de 1971 el democristiano Edmundo Pérez Zujovic, exministro del Interior y exvicepresidente de la República, conducía por la calle Hernando de Aguirre, en Providencia (Santiago), cuando un coche chocó contra el suyo y un comando le disparó con una metralleta delante de su hija. Murió poco después. Lo reivindicó la Vanguardia Organizada del Pueblo (VOP), que lo culpaba de la muerte de pobladores en el desalojo de Pampa Irigoin (Puerto Montt, 1969). El Gobierno de Allende señaló como autor de los disparos a Ronald Rivera Calderón; él y su hermano Arturo murieron cinco días después al ser cercados por la policía.",
+    "mo": "Un coche embistió el automóvil de la víctima para detenerlo y uno de los atacantes le disparó una ráfaga de metralleta a corta distancia.",
+    "loc": [
+      [
+        -33.4252,
+        -70.5989,
+        "Calle Hernando de Aguirre, entre Carlos Antúnez y Carmen Sylva, Providencia (atentado)"
+      ],
+      [
+        -33.406,
+        -70.676,
+        "Calle Coronel Alvarado, Santiago (cerco policial del 13 de junio en el que murieron los hermanos Rivera Calderón; zona aproximada)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Edmundo Pérez Zujovic",
+    "autor": "Comando de la Vanguardia Organizada del Pueblo (VOP); el Gobierno señaló como autor de los disparos a Ronald Rivera Calderón, que murió sin ser juzgado",
+    "fuentes": [
+      {
+        "titulo": "Cámara de Diputados de Chile, Diario de Sesiones, sesión del 9 de junio de 1971: «Atentado que causó la muerte del ex Vicepresidente de la República, don Edmundo Pérez Zujovic» (intervención del ministro del Interior, José Tohá), Biblioteca del Congreso Nacional",
+        "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=recursoslegales/10221.3/35420/1/C19710609_03.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Cristián Pérez, «En venganza: El asesinato de Edmundo Pérez Zujovic», El Desconcierto (7 de junio de 2025)",
+        "url": "https://eldesconcierto.cl/2025/06/08/en-venganza-el-asesinato-de-edmundo-perez-zujovic",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Raymundo Fleming, «Efemérides: 08 de junio de 1971 muere asesinado Edmundo Pérez Zujovic», BioBioChile (2025)",
+        "url": "https://www.biobiochile.cl/biobiotv/programas/efemerides/2025/06/08/efemerides-08-de-junio-de-1971-muere-asesinado-edmundo-perez-zujovic.shtml",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Mercurio (Santiago), portada del 9 de junio de 1971, «Muere ex ministro Pérez Zujovic» (Museo de la Prensa; copia archivada)",
+        "url": "https://web.archive.org/web/20090301022737/http://www.museodeprensa.cl/1971/muere-ex-ministro-p-rez-zujovic",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Edmundo Pérez Zujovic» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Edmundo_P%C3%A9rez_Zujovic",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora del atentado: 10:45 según El Desconcierto y hacia las 10:50 según Wikipedia. El Desconcierto dice que lo alcanzaron ocho balas y Wikipedia, nueve. Varios miembros del grupo fueron detenidos el 13 de junio (entre ellos Arnoldo Carvajal); no se ha podido comprobar qué penas recibieron. La fecha de Pampa Irigoin (9 de marzo de 1969) no la da ninguna de las fuentes abiertas, que solo citan el desalojo. Tema políticamente sensible en Chile. No se pudo abrir la copia archivada de El Mercurio (web.archive.org bloqueado). Las coordenadas de Coronel Alvarado son aproximadas."
+  },
+  {
+    "id": "fusilamientos-jose-leon-suarez",
+    "m": 6,
+    "d": 9,
+    "y": 1956,
+    "n": "Desiderio Fernández Suárez",
+    "a": "Operación Masacre",
+    "v": "5 muertos y 7 supervivientes",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1956",
+    "st": "En junio de 2026, en un juicio por la verdad, el Juzgado Federal n.º 2 de San Martín declaró los fusilamientos crímenes de lesa humanidad y responsable al Estado. No hubo condenas efectivas porque todos los responsables habían muerto.",
+    "c": "La noche del 9 de junio de 1956, mientras fracasaba el levantamiento peronista del general Juan José Valle, la policía de la provincia de Buenos Aires irrumpió en una casa de Florida y detuvo a doce civiles. De madrugada, ya el 10 de junio y amparándose en una ley marcial proclamada después de las detenciones, los llevaron a un basural de José León Suárez y los fusilaron: cinco murieron y siete lograron escapar. El periodista Rodolfo Walsh reconstruyó el crimen con el testimonio de los supervivientes en «Operación Masacre» (1957). Setenta años después, un juicio por la verdad lo declaró crimen de lesa humanidad.",
+    "mo": "Detención sin orden judicial de civiles reunidos en una casa y fusilamiento sin juicio en un descampado, por orden del jefe de la policía provincial.",
+    "loc": [
+      [
+        -34.5167,
+        -58.5,
+        "Florida, partido de Vicente López (casa de Hipólito Yrigoyen 4519 donde fueron detenidos; zona aproximada)"
+      ],
+      [
+        -34.5292,
+        -58.5733,
+        "José León Suárez, partido de San Martín (basural donde fueron fusilados; zona aproximada)"
+      ]
+    ],
+    "vin": [
+      [
+        "bombardeo-plaza-de-mayo",
+        "r",
+        "Violencia contra el peronismo tras el golpe de 1955"
+      ]
+    ],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "Los fusilamientos de José León Suárez («Operación Masacre»)",
+    "autor": "Policía de la provincia de Buenos Aires, por orden de su jefe, Desiderio Fernández Suárez; dirigió el fusilamiento el comisario Rodolfo Rodríguez Moreno",
+    "fuentes": [
+      {
+        "titulo": "Gobierno de la Provincia de Buenos Aires, Derechos Humanos, «Los fusilamientos de José León Suárez, reconocidos como delitos de lesa humanidad» (22 de junio de 2026)",
+        "url": "https://www.gba.gob.ar/derechoshumanos/noticias/los_fusilamientos_de_jos%C3%A9_le%C3%B3n_su%C3%A1rez_reconocidos_como_delitos_de_lesa",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Martina Jaureguy, «Court opens 'truth trial' into Operation Massacre, 70 years later», Buenos Aires Herald (13 de junio de 2026)",
+        "url": "https://buenosairesherald.com/human-rights/court-opens-truth-trial-into-operation-massacre-70-years-later",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Daniel Cecchini, «Fusilamientos en el basural de José León Suárez, \"el muerto que vive\" y la Operación Masacre que denunció Walsh», Infobae (8 de junio de 2023)",
+        "url": "https://www.infobae.com/sociedad/2023/06/09/fusilamientos-en-el-basural-de-jose-leon-suarez-el-muerto-que-vive-y-la-operacion-masacre-que-denuncio-walsh/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Capital (Mar del Plata), «A 66 años de los fusilamientos de José León Suárez, un antecedente del terrorismo de Estado» (9 de junio de 2022)",
+        "url": "https://www.lacapitalmdp.com/a-66-anos-de-los-fuusilamientos-de-jose-leon-suarez-un-antecedente-del-terrorismo-de-estado/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Rodolfo Walsh, «Operación Masacre» (1957; Internet Archive)",
+        "url": "https://archive.org/details/operacionmasacre0000wals",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Fusilamientos de José León Suárez» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Masacre_de_Jos%C3%A9_Le%C3%B3n_Su%C3%A1rez",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes dan el orden de los hechos de forma distinta: la nota del Gobierno bonaerense habla de allanamiento «en la madrugada del 10» y fusilamiento «la noche del 9», al revés que Infobae, el Buenos Aires Herald, La Capital y Walsh (detención antes de la medianoche del 9 y fusilamiento en la madrugada del 10); se sigue a estos. Infobae da entre 12 y 15 detenidos; el resto, 12. El Buenos Aires Herald sitúa la casa en Vicente López (Florida es una localidad de ese partido). La sentencia de 2026 atribuyó la responsabilidad a Aramburu, Rojas, Fernández Suárez y Rodríguez Moreno, todos muertos; no consta si fue recurrida. Coordenadas a nivel de localidad."
+  },
+  {
+    "id": "delito-matteotti",
+    "m": 6,
+    "d": 10,
+    "y": 1924,
+    "n": "Amerigo Dumini",
+    "a": "El delito Matteotti",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1924",
+    "st": "Cerrado. En 1926 un tribunal de Chieti condenó a Dumini, Volpi y Poveromo a menos de seis años por homicidio preterintencional y una amnistía los liberó enseguida. Tras la caída del fascismo, un nuevo juicio en Roma condenó a Dumini a cadena perpetua en 1947.",
+    "c": "La tarde del 10 de junio de 1924 el diputado socialista Giacomo Matteotti fue secuestrado en el Lungotevere Arnaldo da Brescia de Roma, cuando iba hacia la Cámara, por un grupo de escuadristas fascistas dirigido por Amerigo Dumini, que lo metió a la fuerza en un coche y lo mató a puñaladas. El 30 de mayo había denunciado en la Cámara la violencia y el fraude de las elecciones. Su cuerpo apareció el 16 de agosto en el bosque de la Quartarella, en Riano, a las afueras de Roma. La crisis que siguió terminó con el discurso del 3 de enero de 1925, en el que Mussolini asumió la responsabilidad política del crimen y abrió paso a la dictadura.",
+    "mo": "Un comando de cinco hombres lo esperó en el camino de su casa a la Cámara, lo introdujo a la fuerza en un coche y lo mató dentro; después enterraron el cuerpo en un bosque junto a la vía Flaminia.",
+    "loc": [
+      [
+        41.9111,
+        12.4725,
+        "Lungotevere Arnaldo da Brescia, Roma (secuestro)"
+      ],
+      [
+        42.0911,
+        12.5228,
+        "Riano, bosque de la Quartarella (hallazgo del cuerpo, 16 de agosto; zona aproximada)"
+      ],
+      [
+        42.3511,
+        14.1674,
+        "Chieti (primer juicio, marzo de 1926)"
+      ],
+      [
+        45.0333,
+        11.65,
+        "Fratta Polesine (pueblo natal, funeral y sepultura)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-rathenau",
+        "r",
+        "Asesinatos de políticos a manos de la ultraderecha en la Europa de entreguerras"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El delito Matteotti",
+    "autor": "Comando fascista dirigido por Amerigo Dumini (condenado en 1926 y de nuevo en 1947), con Albino Volpi, Amleto Poveromo, Giuseppe Viola y Augusto Malacria",
+    "fuentes": [
+      {
+        "titulo": "Mauro Canali, «Matteotti, Giacomo», Dizionario Biografico degli Italiani, vol. 72 (Treccani, 2008)",
+        "url": "https://www.treccani.it/enciclopedia/giacomo-matteotti_(Dizionario-Biografico)/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Sandro Setta, «Dumini, Amerigo», Dizionario Biografico degli Italiani, vol. 42 (Treccani, 1993)",
+        "url": "https://www.treccani.it/enciclopedia/amerigo-dumini_(Dizionario-Biografico)/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Sky TG24, «Delitto Matteotti, 100 anni fa l'omicidio commesso dai fascisti: la storia» (10 de junio de 2024)",
+        "url": "https://tg24.sky.it/politica/2024/06/10/delitto-matteotti-centenario-storia",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "LaPresse, «Giacomo Matteotti: chi era, l'impegno politico e la morte» (21 de julio de 2025)",
+        "url": "https://www.lapresse.it/politica/2025/07/21/giacomo-matteotti-chi-era-limpegno-politico-e-la-morte/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Corriere della Sera, edición del 19 de agosto de 1924 (facsímil, Casa Museo Giacomo Matteotti)",
+        "url": "https://www.casamuseogiacomomatteotti.it/wp-content/uploads/giornali/corriere-della-sera/corriere-della-sera-1924-08-19.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Delitto Matteotti» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Delitto_Matteotti",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora del secuestro: hacia las 16:30 según Treccani, las 16:15 según Wikipedia y las 16:00 según LaPresse; la ficha no da hora. Sobre el juicio de 1947 (Corte d'assise speciale de Roma, del 13 de enero al 4 de abril), Treccani solo detalla la cadena perpetua de Dumini; Wikipedia añade que Viola y Poveromo también la recibieron y que se conmutó por 30 años. El facsímil del Corriere della Sera es un escaneo y no se pudo leer su texto."
+  },
+  {
+    "id": "fuga-alcatraz",
+    "m": 6,
+    "d": 11,
+    "y": 1962,
+    "n": "Frank Morris",
+    "a": "La fuga de Alcatraz",
+    "v": "Ninguna (fuga)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1962",
+    "st": "Sin resolver. El FBI cerró su investigación el 31 de diciembre de 1979 y concluyó que los tres presos probablemente se ahogaron; el Servicio de Marshals de Estados Unidos mantiene abierta la búsqueda.",
+    "c": "La noche del 11 de junio de 1962 Frank Morris y los hermanos John y Clarence Anglin salieron de sus celdas de la penitenciaría federal de Alcatraz, en la bahía de San Francisco, por los agujeros que habían abierto durante meses junto a las rejillas de ventilación. Dejaron en las camas cabezas falsas para engañar a los guardias, subieron al tejado y se echaron al agua en una balsa hecha con impermeables. La fuga no se descubrió hasta las siete de la mañana del día 12. Después aparecieron un remo, una cartera con fotos de la familia Anglin y chalecos salvavidas, pero nunca se encontró a los tres hombres. Un cuarto preso, Allen West, no llegó a salir.",
+    "mo": "Agrandaron con herramientas caseras los orificios de ventilación de sus celdas, ocultaron el trabajo con paneles falsos y huyeron por los conductos hasta el tejado y la orilla.",
+    "loc": [
+      [
+        37.8267,
+        -122.4231,
+        "Penitenciaría federal de Alcatraz (fuga)"
+      ],
+      [
+        37.86,
+        -122.43,
+        "Angel Island (frente a su costa sur apareció un remo, 14 de junio)"
+      ],
+      [
+        37.8317,
+        -122.5381,
+        "Cronkhite Beach, Marin Headlands (apareció un chaleco salvavidas, 21 de junio; ubicación aproximada)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La fuga de Alcatraz",
+    "autor": "Frank Morris, John Anglin y Clarence Anglin (fugados; nunca encontrados)",
+    "fuentes": [
+      {
+        "titulo": "Federal Bureau of Prisons, «Alcatraz» (historia de la penitenciaría)",
+        "url": "https://www.bop.gov/about/history/alcatraz.jsp",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "FBI Records: The Vault, «Alcatraz Escape» (expediente del FBI, 1962-1979)",
+        "url": "https://vault.fbi.gov/Alcatraz%20Escape",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "FBI, «A Byte Out of History: Escape from Alcatraz» (8 de junio de 2007)",
+        "url": "https://www.fbi.gov/news/stories/2007/june/alcatraz_060807",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Eugene Register-Guard (Associated Press), crónica de la fuga (12 de junio de 1962; Google News Archive)",
+        "url": "https://news.google.com/newspapers?id=QvtVAAAAIBAJ&pg=3435%2C2039766",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Anniversary of a Mystery at Alcatraz» (9 de junio de 2012)",
+        "url": "https://www.nytimes.com/2012/06/10/us/anniversary-of-a-mystery-at-alcatraz.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «June 1962 Alcatraz escape attempt» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/June_1962_Alcatraz_escape_attempt",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No se pudieron abrir las páginas del FBI (error 403) ni The New York Times; la del Eugene Register-Guard es un facsímil sin texto legible. Los datos de la fuga y de los hallazgos coinciden en la Oficina Federal de Prisiones y Wikipedia. Las supuestas pruebas de que sobrevivieron (fotos, una carta de 2013) no están confirmadas. La prisión cerró el 21 de marzo de 1963 por su coste, no por la fuga."
+  },
+  {
+    "id": "asesinato-medgar-evers",
+    "m": 6,
+    "d": 12,
+    "y": 1963,
+    "n": "Byron De La Beckwith",
+    "a": "El asesinato de Medgar Evers",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1963–1994",
+    "st": "Cerrado. Byron De La Beckwith fue condenado a cadena perpetua el 5 de febrero de 1994; el Tribunal Supremo de Misisipi confirmó la condena en 1997 y él murió en prisión en 2001.",
+    "c": "Poco después de la medianoche del 12 de junio de 1963, horas después del discurso televisado de John F. Kennedy en favor de los derechos civiles, Medgar Evers, responsable de la NAACP en Misisipi, recibió un disparo por la espalda al bajar de su coche frente a su casa de Jackson. Murió en el hospital menos de una hora después. El supremacista Byron De La Beckwith, miembro del Ku Klux Klan, fue detenido el 21 de junio: el fusil tenía sus huellas. En 1964 dos jurados formados solo por blancos no lograron un veredicto y quedó libre. Treinta años después, en un tercer juicio, un jurado del condado de Hinds lo declaró culpable.",
+    "mo": "Le disparó con un fusil, al acecho y por la espalda, cuando la víctima volvía a casa de noche.",
+    "loc": [
+      [
+        32.341,
+        -90.2126,
+        "Casa de los Evers, 2332 Margaret Walker Alexander Drive, Jackson (atentado; hoy monumento nacional)"
+      ],
+      [
+        38.8792,
+        -77.0722,
+        "Cementerio Nacional de Arlington (sepultura, 19 de junio de 1963)"
+      ]
+    ],
+    "vin": [
+      [
+        "mississippi-burning",
+        "r",
+        "Crímenes del Ku Klux Klan contra activistas de los derechos civiles en Misisipi"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Medgar Evers",
+    "autor": "Byron De La Beckwith (condenado en 1994)",
+    "fuentes": [
+      {
+        "titulo": "PBS NewsHour, «The Medgar Evers Assassination» (18 de abril de 2002)",
+        "url": "https://www.pbs.org/newshour/nation/media-jan-june02-evers_04-18",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "NAACP, «Medgar Evers» (History Explained: Civil Rights Leaders)",
+        "url": "https://www.naacp.org/find-resources/history-explained/civil-rights-leaders/medgar-evers",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "National Park Service, Medgar and Myrlie Evers Home National Monument, «Medgar Wiley Evers»",
+        "url": "https://www.nps.gov/memy/learn/historyculture/medgar-evers.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "FBI, «Civil Rights in the '60s: Justice for Medgar Evers» (junio de 2013)",
+        "url": "https://www.fbi.gov/news/stories/2013/june/civil-rights-in-the-60s-justice-for-medgar-evers/civil-rights-in-the-60s-justice-for-medgar-evers",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "The New York Times, «Paying Tribute to a Seeker of Justice, 50 Years After His Assassination» (5 de junio de 2013)",
+        "url": "https://www.nytimes.com/2013/06/06/us/paying-tribute-to-a-seeker-of-justice-50-years-after-his-assassination.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Medgar Evers» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Medgar_Evers",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Wikipedia en inglés sitúa la muerte a la 1:20 del 13 de junio, pero la NAACP dice que murió en el hospital menos de una hora después del disparo (el mismo 12 de junio); se sigue a la NAACP. PBS dice en un pasaje que Beckwith fue «absuelto» en 1964 y en otro habla de jurados sin veredicto; fueron jurados sin veredicto (Wikipedia, NAACP). No se pudieron abrir las páginas del FBI (403) ni The New York Times."
+  },
+  {
+    "id": "muerte-luis-ii-baviera",
+    "m": 6,
+    "d": 13,
+    "y": 1886,
+    "n": "Luis II de Baviera",
+    "a": "La muerte del rey en el lago de Starnberg",
+    "v": "2",
+    "p": "Alemania (Reino de Baviera)",
+    "f": "🇩🇪",
+    "per": "1886",
+    "st": "Sin resolver. La versión oficial fue que el rey se suicidó ahogándose tras la muerte de Gudden; las hipótesis de asesinato o de muerte natural durante una huida nunca se han probado.",
+    "c": "A comienzos de junio de 1886 un informe firmado por cuatro psiquiatras, redactado sobre todo por Bernhard von Gudden, declaró a Luis II de Baviera incapaz de gobernar, y el Gobierno dio la regencia a su tío Luitpold. Tras un primer intento fallido, una comisión se llevó al rey de Neuschwanstein en la madrugada del 12 de junio al castillo de Berg, junto al lago de Starnberg. La tarde del 13 de junio, domingo de Pentecostés, el rey salió a pasear por la orilla con Gudden y no volvieron. Esa noche los encontraron muertos a los dos en aguas poco profundas. La versión oficial fue suicidio; el caso nunca se aclaró.",
+    "mo": "Desconocido. El cuerpo de Gudden tenía golpes en la frente, arañazos y marcas de estrangulamiento en el cuello, y el del rey no tenía heridas; se cree que hubo un forcejeo en el agua.",
+    "loc": [
+      [
+        47.5575,
+        10.7494,
+        "Castillo de Neuschwanstein (donde se llevaron al rey el 12 de junio)"
+      ],
+      [
+        47.9639,
+        11.3482,
+        "Orilla del lago de Starnberg en Berg (hallazgo de los cuerpos; hoy capilla votiva y cruz en el agua)"
+      ],
+      [
+        48.1389,
+        11.5706,
+        "Iglesia de San Miguel, Múnich (sepultura del rey, 19 de junio)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "nobles"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La muerte de Luis II de Baviera en el lago de Starnberg",
+    "autor": "Desconocido (la versión oficial habló de suicidio del rey)",
+    "fuentes": [
+      {
+        "titulo": "Bayerische Schlösserverwaltung, Schloss Neuschwanstein, «King Ludwig II: Biography»",
+        "url": "https://www.neuschwanstein.de/englisch/ludwig/biography.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Christof Goddemeier, «Bernhard von Gudden: Ein ungeklärter Todesfall», Deutsches Ärzteblatt, n.º 25 (2011)",
+        "url": "https://www.aerzteblatt.de/archiv/bernhard-von-gudden-ein-ungeklaerter-todesfall-2c4a7d37-068c-42d8-bb85-1f2a1ad26dd3",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wilhelm Liebhart, «»Königsdämmerung«: Ludwig II. von Bayern (1864-1886). Ein Beitrag zum 125. Todestag im Widerstreit der Meinungen», Amperland, n.º 47 (2011)",
+        "url": "https://www.zeitschrift-amperland.de/wp-content/uploads/2025/08/2011-47_241_Liebhart_Koenigsdaemmerung_Ludwig_II_von_Bayern_1864-1886.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Abendzeitung München, «Kini-Jahr 2011: Ein Fall für Psychiater und Pathologen» (2011)",
+        "url": "https://www.abendzeitung-muenchen.de/kultur/kini-jahr-2011-ein-fall-fuer-psychiater-und-pathologen-art-132089",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Ludwig II of Bavaria» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora del hallazgo: hacia las 22:30 según Wikipedia en inglés; algunas crónicas dicen poco antes de las 23:00. El reloj del rey se paró a las 18:54 (18:53 según otras). Fechas del proceso: el Gobierno se reunió el 7 de junio con Gudden y el 9 aprobó la regencia (Liebhart); el informe de los psiquiatras está fechado el 8 (Ärzteblatt). Las teorías de disparos desde la orilla (notas del pescador Jakob Lidl, un abrigo con agujeros) no están probadas. No se abrió el artículo de la Abendzeitung."
+  },
+  {
+    "id": "caso-gescartera",
+    "m": 6,
+    "d": 14,
+    "y": 2001,
+    "n": "Antonio Camacho",
+    "a": "El caso Gescartera",
+    "v": "Unos 2.000 inversores",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2001–2008",
+    "st": "Cerrado. La Audiencia Nacional condenó a Camacho el 27 de marzo de 2008 a 11 años de prisión y el Tribunal Supremo confirmó su pena en octubre de 2009, aunque absolvió a otros cuatro condenados.",
+    "c": "El 14 de junio de 2001 la Comisión Nacional del Mercado de Valores (CNMV) intervino la agencia de valores Gescartera Dinero y descubrió que faltaban más de cien millones de euros de sus clientes. Entre los cerca de 2.000 afectados había pequeños ahorradores, mutualidades, la ONCE, fundaciones y una treintena de órdenes religiosas. La presidenta de la agencia, Pilar Giménez-Reyna, era hermana del secretario de Estado de Hacienda, y el escándalo llevó a una comisión de investigación en el Congreso y a la dimisión de la presidenta de la CNMV, Pilar Valiente. En marzo de 2008 la Audiencia Nacional condenó al dueño, Antonio Camacho, a 11 años de prisión por apropiación indebida y falsedad.",
+    "mo": "Captaba dinero de clientes particulares e institucionales con promesas de rentabilidad, lo desviaba y ocultaba las pérdidas con documentos falsos y decenas de testaferros.",
+    "loc": [
+      [
+        40.426,
+        -3.6931,
+        "Audiencia Nacional, calle García Gutiérrez, Madrid (sentencia, 27 de marzo de 2008)"
+      ],
+      [
+        40.4163,
+        -3.6966,
+        "Congreso de los Diputados, Madrid (comisión de investigación, 2001)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "estafas",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El caso Gescartera",
+    "autor": "Antonio Camacho (condenado)",
+    "fuentes": [
+      {
+        "titulo": "EFE, «Gescartera, 25 años de uno de los mayores escándalos financieros de España», El Debate (13 de junio de 2026)",
+        "url": "https://www.eldebate.com/economia/20260613/gescartera-25-anos-mayores-escandalos-financieros-espana_428359.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Noticias Jurídicas, «La Audiencia Nacional condena a Camacho y a otros ocho imputados, ordenando su ingreso en prisión» (28 de marzo de 2008)",
+        "url": "https://noticias.juridicas.com/actualidad/noticias/695-la-audiencia-nacional-condena-a-camacho-y-a-otros-ocho-imputados-ordenando-su-ingreso-en-prision/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Congreso de los Diputados, Diario de Sesiones, Comisión de Investigación sobre Gescartera, VII legislatura, n.º 6 (11 de octubre de 2001)",
+        "url": "https://www.congreso.es/public_oficiales/L7/CONG/DS/CI/CI_006.PDF",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Libertad Digital, dossier «Gescartera» (hemeroteca del caso)",
+        "url": "https://www.libertaddigital.com/empresas/gescartera/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Legal Today, «Condenan a Antonio Camacho a 11 años de cárcel por el caso Gescartera» (27 de marzo de 2008)",
+        "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/condenan-a-antonio-camacho-a-11-anos-de-carcel-por-el-caso-gescartera-2008-03-27/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Caso Gescartera» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Caso_Gescartera",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La cifra del agujero varía: más de 120 millones de euros según Wikipedia, unos 100 millones según EFE y 87,99 millones en la responsabilidad civil de la sentencia; la ficha dice «más de cien millones». La pena de Pilar Giménez-Reyna fue de 3 años según Wikipedia y de 3 años y 6 meses según EFE. No se ha confirmado que la Mutualidad de la Policía estuviera entre los afectados (lo decía la selección), por lo que no se menciona. No se abrió Legal Today. Caso sin víctimas mortales."
+  },
+  {
+    "id": "operacion-albania",
+    "m": 6,
+    "d": 15,
+    "y": 1987,
+    "n": "Hugo Salas Wenzel",
+    "a": "La matanza de Corpus Christi",
+    "v": "12",
+    "p": "Chile",
+    "f": "🇨🇱",
+    "per": "1987",
+    "st": "Cerrado. El 28 de enero de 2005 el ministro Hugo Dolmestch condenó a cadena perpetua al exdirector de la CNI Hugo Salas Wenzel y a penas de cárcel a otros agentes; en 2007 la Corte Suprema confirmó las condenas y elevó la de Álvaro Corbalán a 20 años. Salas Wenzel murió preso en 2021.",
+    "c": "Los días 15 y 16 de junio de 1987, coincidiendo con el Corpus Christi, agentes de la Central Nacional de Informaciones (CNI), la policía política de la dictadura de Pinochet, mataron en Santiago a doce miembros del Frente Patriótico Manuel Rodríguez. El día 15 murieron cinco en distintos puntos de la ciudad; al día siguiente, siete detenidos fueron ejecutados en una casa de la calle Pedro Donoso, en Recoleta. La CNI presentó las muertes como enfrentamientos armados. La justicia militar cerró el caso en 1995, pero se reabrió en 1998 y el ministro Hugo Dolmestch reconstruyó el montaje con las confesiones de casi todos los implicados.",
+    "mo": "Detenciones y ejecuciones de militantes, varios de ellos ya bajo custodia, que se presentaron a la prensa como muertes en enfrentamientos.",
+    "loc": [
+      [
+        -33.4167,
+        -70.65,
+        "Recoleta, Santiago (casa de la calle Pedro Donoso 582, donde fueron ejecutados siete detenidos el 16 de junio; coordenadas de la comuna)"
+      ],
+      [
+        -33.4167,
+        -70.5833,
+        "Las Condes (calle Alhué, primera muerte del 15 de junio; coordenadas de la comuna)"
+      ],
+      [
+        -33.486,
+        -70.6499,
+        "San Miguel (calle Varas Mena, donde murieron tres militantes el 15 de junio; coordenadas de la comuna)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Operación Albania (matanza de Corpus Christi)",
+    "autor": "Agentes de la CNI, por orden de su director, el general Hugo Salas Wenzel (condenados)",
+    "fuentes": [
+      {
+        "titulo": "Hugo Dolmestch, ministro en visita, sentencia de primera instancia en la causa rol n.º 39.122 («Operación Albania»), Santiago, 28 de enero de 2005 (Archivo Chile)",
+        "url": "http://www.archivochile.com/Derechos_humanos/albania/ddhh_albania_0004.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Carolina Valenzuela, «Cadena perpetua a Salas Wenzel por \"Operación Albania\"», El Mercurio en Internet (Emol) (28 de enero de 2005)",
+        "url": "https://www.emol.com/noticias/nacional/2005/01/28/171193/cadena-perpetua-a-salas-wenzel-por-operacion--albania.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Florencia Ortiz, «Muere Hugo Salas Wenzel, violador de DDHH condenado a cadena perpetua por la \"Operación Albania\"», BioBioChile (12 de agosto de 2021)",
+        "url": "https://www.biobiochile.cl/noticias/nacional/chile/2021/08/12/muere-hugo-salas-wenzel-violador-de-ddhh-condenado-a-cadena-perpetua-por-la-operacion-albania.shtml",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Daniel Schweimler, «Chile ex-general jailed for life», BBC News (2007)",
+        "url": "http://news.bbc.co.uk/2/hi/americas/6967974.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "EFE, «Primera cadena perpetua para un general de Pinochet», El Mundo (29 de agosto de 2007)",
+        "url": "https://www.elmundo.es/elmundo/2007/08/29/internacional/1188351078.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Operación Albania» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Albania",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las direcciones salen de Wikipedia; las coordenadas son las de cada comuna, porque no se pudieron comprobar en un mapa las calles exactas. Wikipedia se contradice sobre los cargos de Salas Wenzel (cinco homicidios simples y siete calificados, o coautoría de los doce). La efeméride es el inicio de la operación, que duró dos días. Tema políticamente sensible. No se pudieron abrir la BBC ni El Mundo."
+  },
+  {
+    "id": "bombardeo-plaza-de-mayo",
+    "m": 6,
+    "d": 16,
+    "y": 1955,
+    "n": "Samuel Toranzo Calderón",
+    "a": "El bombardeo de Plaza de Mayo",
+    "v": "Al menos 308 muertos y cientos de heridos",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1955",
+    "st": "Impune. Un tribunal militar condenó al contraalmirante Toranzo Calderón y a una docena de oficiales por rebelión, pero tras el golpe de septiembre de 1955 las condenas quedaron sin efecto; los aviadores huidos a Uruguay solo fueron dados de baja.",
+    "c": "El jueves 16 de junio de 1955, en pleno día laborable, aviones de la Marina y de una parte de la Aeronáutica sublevados contra Juan Domingo Perón bombardearon y ametrallaron la Plaza de Mayo, la Casa Rosada y el centro de Buenos Aires para matar al presidente y dar un golpe de Estado. Los ataques se sucedieron entre las 12:40 y las 17:40; una de las primeras bombas alcanzó un trolebús lleno de pasajeros. El golpe fracasó, Perón salió ileso y los pilotos huyeron a Uruguay. La investigación del Archivo Nacional de la Memoria identificó al menos 308 muertos, casi todos civiles. Tres meses después, otro golpe derrocó a Perón.",
+    "mo": "Lanzamiento de más de cien bombas y ametrallamiento desde el aire sobre una plaza y unas calles llenas de gente, junto con el intento de asalto de infantes de Marina a la Casa Rosada.",
+    "loc": [
+      [
+        -34.6083,
+        -58.3719,
+        "Plaza de Mayo, Buenos Aires (bombardeo y ametrallamiento)"
+      ],
+      [
+        -34.6081,
+        -58.3703,
+        "Casa Rosada (sede del Gobierno, objetivo principal del ataque)"
+      ],
+      [
+        -34.8383,
+        -56.0308,
+        "Aeropuerto de Carrasco, Montevideo (adonde huyeron los aviadores sublevados)"
+      ]
+    ],
+    "vin": [
+      [
+        "fusilamientos-jose-leon-suarez",
+        "r",
+        "Violencia política en torno al peronismo, 1955–1956"
+      ]
+    ],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El bombardeo de Plaza de Mayo",
+    "autor": "Oficiales de la Marina y de la Aeronáutica sublevados, encabezados por el contraalmirante Samuel Toranzo Calderón, con apoyo de civiles opositores",
+    "fuentes": [
+      {
+        "titulo": "Archivo Nacional de la Memoria, Secretaría de Derechos Humanos de la Nación, «Bombardeo del 16 de junio de 1955», coord. Rosa Elsa Portugheis (1.ª ed. 2010; edición revisada, 2015)",
+        "url": "https://www.argentina.gob.ar/sites/default/files/anm_-_bombardeo_16_de_junio_de_1955_1_0.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Casa Rosada, Presidencia de la Nación, «El Bombardeo de Plaza de Mayo - 16 de junio de 1955»",
+        "url": "https://www.argentina.gob.ar/node/261547",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Diario de Cuyo, «Bombardeo del '55 dejó 308 muertos» (17 de junio de 2009)",
+        "url": "https://www.diariodecuyo.com.ar/noticias/bombardeo-del-55-dejo-308-muertos-986601.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Luis Bruschtein, «El bombardeo a la Plaza de Mayo del 16 de junio de 1955», Página/12 (16 de junio de 2023)",
+        "url": "https://www.pagina12.com.ar/558856-el-mayor-atentado-terrorista",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Bombardeo de la Plaza de Mayo» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Bombardeo_de_la_Plaza_de_Mayo",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Cifras: 308 muertos identificados según el Archivo Nacional de la Memoria (presentado el 16 de junio de 2009 y publicado en 2010); algunas fuentes dan 309 y otras, más de 300 sin contar cuerpos no identificados. Los heridos van de unos 800 (Wikipedia) a más de 1.200 (Casa Rosada); la ficha dice «cientos». Entre las víctimas hubo menores, que no se nombran. La selección decía «sin condenas»: hubo condenas militares por rebelión que el golpe de septiembre dejó sin efecto. Del artículo de Página/12 solo se pudo leer el encabezado."
+  },
+  {
+    "id": "muerte-roberto-calvi",
+    "m": 6,
+    "d": 18,
+    "y": 1982,
+    "n": "Roberto Calvi",
+    "a": "El banquero de Dios",
+    "v": "1",
+    "p": "Reino Unido / Italia",
+    "f": "🇬🇧",
+    "per": "1982",
+    "st": "Sin culpables. En 2007 la Corte de Assise de Roma absolvió por falta de pruebas a los cinco acusados, aunque descartó el suicidio; las absoluciones se confirmaron en 2010 y 2011, y en 2016 se archivó la última investigación.",
+    "c": "Hacia las 7:30 de la mañana del 18 de junio de 1982, un empleado de correos que cruzaba el puente de Blackfriars, en Londres, vio a un hombre colgado de un andamio bajo el puente. Era Roberto Calvi, presidente del Banco Ambrosiano, que se hundía por sus negocios con el banco vaticano y sus lazos con la logia P2. Llevaba ladrillos en los bolsillos y unos 14.000 dólares en tres monedas. Un primer jurado británico concluyó en julio de 1982 que se había suicidado; un segundo dejó el veredicto abierto en 1983. Años después la justicia italiana concluyó que fue un asesinato, pero absolvió a todos los acusados.",
+    "mo": "Desconocido. Apareció ahorcado de un andamio sobre el Támesis con ladrillos en los bolsillos, una escena que la justicia italiana consideró un asesinato disfrazado de suicidio.",
+    "loc": [
+      [
+        51.5097,
+        -0.1044,
+        "Puente de Blackfriars, Londres (hallazgo del cuerpo)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La muerte de Roberto Calvi, «el banquero de Dios»",
+    "autor": "Desconocido (los cinco acusados fueron absueltos)",
+    "fuentes": [
+      {
+        "titulo": "Mario Portanova, «Roberto Calvi, archiviata ultima inchiesta. \"Ma fu omicidio fra Vaticano, mafia e P2\"», Il Fatto Quotidiano (10 de noviembre de 2016)",
+        "url": "https://www.ilfattoquotidiano.it/2016/11/10/roberto-calvi-archiviata-ultima-inchiesta-sulla-morte-gip-assassinio-il-ruolo-di-vaticano-mafia-e-massoneria/3183527/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC On This Day, «1982: \"God's banker\" found hanged» (19 de junio)",
+        "url": "https://news.bbc.co.uk/onthisday/hi/dates/stories/june/19/newsid_3092000/3092625.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Peter Deeley y Paul Lashmar, «Top banker found hanged», The Guardian / The Observer (20 de junio de 1982)",
+        "url": "https://www.theguardian.com/uk/1982/jun/20/ukcrime.italy",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Guardian, «Banker hanged himself, inquest decides» (24 de julio de 1982)",
+        "url": "https://www.theguardian.com/world/1982/jul/24/italy.fromthearchive",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Corriere della Sera, «Calvi, definitiva assoluzione per Carboni, Calò e co.» (18 de noviembre de 2011)",
+        "url": "http://archiviostorico.corriere.it/2011/novembre/18/Calvi_definitiva_assoluzione_Carboni_Calo_co_8_111118020.shtml",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Roberto Calvi» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Roberto_Calvi",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Solo se pudo abrir Il Fatto Quotidiano; la BBC, The Guardian y el Corriere della Sera están bloqueados para la herramienta y se citan por las referencias de Wikipedia. Los acusados absueltos (Giuseppe Calò, Flavio Carboni, Ernesto Diotallevi, Silvano Vittor y Manuela Kleinszig) no deben presentarse como culpables, y por eso no se nombran en el resumen. Il Fatto recoge que el juez de 2016 habló de una «hipótesis histórica del asesinato difícilmente superable», no de un hecho probado."
+  },
+  {
+    "id": "escobar-la-catedral",
+    "m": 6,
+    "d": 19,
+    "y": 1991,
+    "n": "Pablo Escobar",
+    "a": "La entrega de Escobar y La Catedral",
+    "v": "Cientos (violencia del cártel de Medellín)",
+    "p": "Colombia",
+    "f": "🇨🇴",
+    "per": "1991–1993",
+    "st": "Cerrado. Escobar se fugó de La Catedral el 22 de julio de 1992 y murió abatido por la policía en Medellín el 2 de diciembre de 1993.",
+    "c": "La mañana del 19 de junio de 1991 Pablo Escobar, jefe del cártel de Medellín, se entregó en Medellín tras una negociación en la que medió el sacerdote Rafael García Herreros. Ese mismo día la Asamblea Nacional Constituyente aprobó prohibir la extradición de colombianos, que el cártel había combatido con secuestros y atentados. Escobar fue llevado en helicóptero a La Catedral, una cárcel levantada en una montaña de Envigado sobre un terreno que resultó ser suyo, y desde allí siguió dirigiendo su organización. En julio de 1992 mandó matar dentro de la cárcel a dos socios; cuando el Gobierno ordenó trasladarlo, se fugó. Murió abatido en diciembre de 1993.",
+    "mo": "Negoció su rendición a cambio de no ser extraditado y de cumplir condena en una cárcel construida a su medida, donde mantenía privilegios y seguía dando órdenes.",
+    "loc": [
+      [
+        6.1178,
+        -75.585,
+        "La Catedral, Envigado (cárcel donde estuvo recluido, 1991-1992)"
+      ],
+      [
+        6.2538,
+        -75.5979,
+        "Barrio Los Olivos, Medellín (casa en cuyo tejado murió, 2 de diciembre de 1993)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "Pablo Escobar se entrega: la cárcel de La Catedral",
+    "autor": "Pablo Escobar",
+    "fuentes": [
+      {
+        "titulo": "Infobae, «Los secretos y revelaciones de La Catedral, la cárcel de lujo que se construyó Pablo Escobar hace 30 años» (19 de junio de 2021)",
+        "url": "https://www.infobae.com/america/colombia/2021/06/19/los-secretos-y-revelaciones-de-la-catedral-la-carcel-de-lujo-que-se-construyo-pablo-escobar-hace-30-anos/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Comisión de la Verdad (Colombia), «Escobar se fuga de La Catedral tras asesinar a dos de sus socios»",
+        "url": "https://www.comisiondelaverdad.co/escobar-se-fuga-de-la-catedral-tras-asesinar-dos-de-sus-socios",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "El Tiempo, «Escobar tiene ahora nuevos enemigos...» (24 de julio de 1992)",
+        "url": "https://www.eltiempo.com/archivo/documento/MAM-163631",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Colombian Drug Baron Escapes Luxurious Prison After Gunfight» (23 de julio de 1992)",
+        "url": "https://www.nytimes.com/1992/07/23/world/colombian-drug-baron-escapes-luxurious-prison-after-gunfight.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Semana, «¿Conversación en La Catedral?» (10 de agosto de 1992)",
+        "url": "https://www.semana.com/nacion/articulo/conversacion-en-la-catedral/17967-3/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «La Catedral (prisión)» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/La_Catedral_(prisi%C3%B3n)",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La votación de la Constituyente contra la extradición «una hora después» de la entrega y el traslado en helicóptero con García Herreros vienen de Wikipedia; El Tiempo (24 de julio de 1992) confirma la fecha de la entrega y la fuga, e Infobae y la Comisión de la Verdad, la fuga del 22 de julio de 1992. Las cifras de víctimas del cártel no se dan porque varían mucho entre fuentes. No se pudieron abrir The New York Times ni Semana. Se evita el tono glorificador."
+  },
+  {
+    "id": "asesinato-bugsy-siegel",
+    "m": 6,
+    "d": 20,
+    "y": 1947,
+    "n": "Benjamin «Bugsy» Siegel",
+    "a": "El asesinato de Bugsy Siegel",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1947",
+    "st": "Sin resolver. Nadie fue acusado del crimen.",
+    "c": "Poco antes de las once de la noche del 20 de junio de 1947, el gánster Benjamin «Bugsy» Siegel hablaba con su socio Allen Smiley en el salón de la casa que su novia, Virginia Hill, tenía alquilada en North Linden Drive, en Beverly Hills, cuando alguien le disparó a través de la ventana con una carabina. Murió en el acto. Siegel había impulsado el hotel-casino Flamingo de Las Vegas, cuyo coste se había multiplicado hasta unos seis millones de dólares, y eso había enfrentado a sus socios del crimen organizado. Poco después del asesinato, hombres de la organización se presentaron en el Flamingo y anunciaron que tomaban el mando. Nadie fue acusado.",
+    "mo": "Un tirador disparó desde el jardín a través de la ventana del salón con una carabina del calibre 30.",
+    "loc": [
+      [
+        34.08,
+        -118.4085,
+        "North Linden Drive, Beverly Hills (casa de Virginia Hill, donde fue asesinado; ubicación aproximada)"
+      ],
+      [
+        36.1161,
+        -115.1706,
+        "Hotel-casino Flamingo, Las Vegas"
+      ],
+      [
+        34.0886,
+        -118.3189,
+        "Cementerio Hollywood Forever, Los Ángeles (sepultura)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "angeles"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Bugsy Siegel",
+    "autor": "Desconocido (se atribuye a sus socios del crimen organizado; nunca se probó)",
+    "fuentes": [
+      {
+        "titulo": "The Mob Museum (Las Vegas), «Benjamin \"Bugsy\" Siegel»",
+        "url": "https://themobmuseum.org/notable_names/benjamin-bugsy-siegel/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "HISTORY.com Editors, «Bugsy Siegel, organized crime leader, is killed», This Day in History, A&E Networks (2009; actualizado en 2025)",
+        "url": "https://www.history.com/this-day-in-history/june-20/bugsy-siegel-organized-crime-leader-is-killed",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "The New York Times, «Siegel, Gangster, Is Slain on Coast» (22 de junio de 1947)",
+        "url": "https://www.nytimes.com/1947/06/22/archives/siegel-gangster-is-slain-on-coast-cochief-of-bugand-meyer-mob-here.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Los Angeles Times, «50 Years Later, Still a Mystery» (20 de junio de 1997)",
+        "url": "https://www.latimes.com/archives/la-xpm-1997-06-20-me-5334-story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Amy Wallace, «Who Killed Bugsy Siegel?», Los Angeles Magazine (29 de septiembre de 2014)",
+        "url": "https://lamag.com/longform/mobster-murder-moll-secret/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Bugsy Siegel» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Bugsy_Siegel",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Número de disparos: Wikipedia habla de nueve tiros de carabina, cuatro de los cuales lo alcanzaron; HISTORY.com dice que tres balas le dieron en la cabeza y The Mob Museum, que recibió varios disparos con dos heridas mortales en la cabeza. La ficha no da la cifra. HISTORY.com atribuye la toma del Flamingo a hombres de Luciano y The Mob Museum, a socios de Meyer Lansky; se dice «hombres de la organización». No se pudieron abrir The New York Times, Los Angeles Times ni Los Angeles Magazine. La dirección exacta (810 North Linden Drive) es de Wikipedia; coordenadas aproximadas."
+  },
+  {
+    "id": "mississippi-burning",
+    "m": 6,
+    "d": 21,
+    "y": 1964,
+    "n": "Edgar Ray Killen",
+    "a": "Mississippi Burning",
+    "v": "3",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1964–2005",
+    "st": "Cerrado. Siete hombres fueron condenados en 1967 por un delito federal contra los derechos civiles y Edgar Ray Killen, por homicidio involuntario en 2005; murió en prisión en 2018. Las autoridades federales y de Misisipi cerraron la investigación el 20 de junio de 2016.",
+    "c": "La noche del 21 de junio de 1964, durante el Verano de la Libertad, tres activistas por los derechos civiles, James Chaney, Andrew Goodman y Michael Schwerner, fueron asesinados por miembros del Ku Klux Klan cerca de Filadelfia (Misisipi). Poco antes, pasadas las diez, los habían dejado salir de la cárcel del condado de Neshoba, donde los había retenido el ayudante del sheriff Cecil Price. El FBI halló los cuerpos el 4 de agosto, enterrados bajo un dique de tierra en una granja. El 20 de octubre de 1967 un jurado federal condenó a siete hombres, entre ellos Price, por violar los derechos civiles de las víctimas. En 2005 el organizador, Edgar Ray Killen, fue condenado por homicidio.",
+    "mo": "Al salir de la cárcel, un grupo del Klan los siguió en coche por una carretera comarcal, los mató y enterró los cuerpos bajo un dique de tierra.",
+    "loc": [
+      [
+        32.7742,
+        -89.1128,
+        "Filadelfia, condado de Neshoba (cárcel de la que salieron la noche del 21; juicio de Killen en 2005; coordenadas de la ciudad)"
+      ],
+      [
+        32.3747,
+        -88.7042,
+        "Meridian (juicio federal de 1967)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-medgar-evers",
+        "r",
+        "Crímenes del Ku Klux Klan contra activistas de los derechos civiles en Misisipi"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Mississippi Burning: los asesinatos de Chaney, Goodman y Schwerner",
+    "autor": "Miembros del Ku Klux Klan: siete condenados en 1967 por violación de derechos civiles (entre ellos Cecil Price y Samuel Bowers) y Edgar Ray Killen, condenado en 2005 por homicidio involuntario",
+    "fuentes": [
+      {
+        "titulo": "PBS, American Experience, «Freedom Summer: Murder in Mississippi»",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/freedomsummer-murder/",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "FBI, Famous Cases & Criminals, «Mississippi Burning»",
+        "url": "https://www.fbi.gov/history/famous-cases/mississippi-burning",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "CNN, «Killen guilty of manslaughter» (21 de junio de 2005)",
+        "url": "http://www.cnn.com/2005/LAW/06/21/mississippi.killings/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Clarion Ledger, «Klansman who orchestrated \"Mississippi Burning\" killings dies in prison» (12 de enero de 2018)",
+        "url": "https://eu.clarionledger.com/story/news/local/journeytojustice/2018/01/12/klansman-who-orchestrated-mississippi-burning-killings-dies-prison/1028454001/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Olen Burrage Dies at 82; Linked to Killings in 1964» (18 de marzo de 2013)",
+        "url": "https://www.nytimes.com/2013/03/19/us/olen-burrage-dies-at-82-linked-to-killings-in-1964.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murders of Chaney, Goodman, and Schwerner» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murders_of_Chaney,_Goodman,_and_Schwerner",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Solo se pudo abrir PBS; FBI (403), CNN (451), Clarion Ledger y The New York Times no se pudieron consultar. Los datos clave (fechas, hallazgo, siete condenados en 1967 con penas de 3 a 10 años, condena de Killen a 60 años) coinciden en PBS y Wikipedia. La ficha informativa de Wikipedia da para Killen una pena distinta (cadena perpetua) a la de su texto y de PBS (tres penas de 20 años); se sigue a PBS. El sheriff Lawrence Rainey fue absuelto en 1967."
+  },
+  {
+    "id": "captura-whitey-bulger",
+    "m": 6,
+    "d": 22,
+    "y": 2011,
+    "n": "James «Whitey» Bulger",
+    "a": "La captura de Whitey Bulger",
+    "v": "11 asesinatos probados en el juicio",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1970–2011",
+    "st": "Cerrado. Bulger fue condenado en 2013 a dos cadenas perpetuas y murió asesinado en la prisión de Hazelton en 2018. Los tres presos acusados de su muerte se declararon culpables de delitos menores y fueron condenados en 2024.",
+    "c": "El 22 de junio de 2011 el FBI detuvo en Santa Mónica (California) a James «Whitey» Bulger, jefe de la mafia irlandesa de Boston, y a su pareja, Catherine Greig. Bulger, que durante años había sido informante del propio FBI, había huido en diciembre de 1994 tras ser avisado por su contacto en la agencia, el agente John Connolly, de que iban a acusarlo. Desde 1999 figuraba en la lista de los diez más buscados. Dos días antes de la captura, el FBI había difundido anuncios dirigidos a quienes pudieran reconocer a Greig, y un aviso llevó a los agentes hasta su apartamento. El 12 de agosto de 2013 un jurado de Boston lo declaró culpable de 31 de los 32 cargos, entre ellos la participación en 11 asesinatos.",
+    "mo": "Dirigió durante décadas una organización criminal dedicada a la extorsión, el tráfico de drogas y el asesinato, mientras daba información al FBI y recibía a cambio protección.",
+    "loc": [
+      [
+        34.023,
+        -118.498,
+        "Santa Mónica, California (apartamento de la calle Tercera donde fue detenido; ubicación aproximada)"
+      ],
+      [
+        42.3539,
+        -71.0469,
+        "Tribunal federal John Joseph Moakley, Boston (juicio y condena, 2013)"
+      ],
+      [
+        39.6725,
+        -79.4983,
+        "Penitenciaría federal de Hazelton, Virginia Occidental (donde lo mataron, 30 de octubre de 2018)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "La captura de Whitey Bulger",
+    "autor": "James «Whitey» Bulger (condenado)",
+    "fuentes": [
+      {
+        "titulo": "HISTORY.com Editors, «Notorious Boston mobster Whitey Bulger is arrested», This Day in History, A&E Networks",
+        "url": "https://www.history.com/this-day-in-history/june-22/notorious-boston-mobster-whitey-bulger-is-arrested",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "John Raby (Associated Press), «Inmate sentenced in prison killing of Boston gangster James \"Whitey\" Bulger», WBUR (1 de agosto de 2024)",
+        "url": "https://www.wbur.org/news/2024/08/01/paul-decologero-sentencing-whitey-bulger-killing",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "PBS NewsHour (Associated Press), «Former hitman sentenced to 25 years for prison slaying of crime boss Whitey Bulger» (6 de septiembre de 2024)",
+        "url": "https://www.pbs.org/newshour/nation/former-hitman-sentenced-to-25-years-for-prison-slaying-of-crime-boss-whitey-bulger",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "PBS NewsHour, «Inmate sentenced for role in prison killing of Boston gangster James \"Whitey\" Bulger» (2024)",
+        "url": "https://www.pbs.org/newshour/nation/inmate-sentenced-for-role-in-prison-killing-of-boston-gangster-james-whitey-bulger",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Whitey Bulger» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Whitey_Bulger",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Riesgo de la selección comprobado: por la muerte de Bulger, Fotios Geas fue condenado a 25 años (homicidio voluntario y agresión, 6 de septiembre de 2024), Paul DeCologero a algo más de cuatro años (agresión, 1 de agosto de 2024) y Sean McKinnon al tiempo ya cumplido por mentir a los agentes; no queda causa abierta. La captura es de hace 15 años. El apartamento estaba en el 1012 de la calle Tercera (Princess Eugenia), según la selección; coordenadas aproximadas. La cuarta fuente (PBS 2024, McKinnon) no se abrió; su contenido se conoce por la búsqueda."
+  },
+  {
+    "id": "atentado-air-india-182",
+    "m": 6,
+    "d": 23,
+    "y": 1985,
+    "n": "Inderjit Singh Reyat",
+    "a": "El atentado contra el vuelo 182 de Air India",
+    "v": "331 (329 en el avión y 2 en Narita)",
+    "p": "Canadá / Irlanda (aguas)",
+    "f": "🇨🇦",
+    "per": "1985–2005",
+    "st": "Inderjit Singh Reyat es el único condenado: por homicidio en 1991 (Narita) y 2003 (vuelo 182), y por perjurio en 2010. Ripudaman Singh Malik y Ajaib Singh Bagri fueron absueltos el 16 de marzo de 2005. En 2010 una comisión pública culpó del atentado a una cadena de errores del Gobierno, la policía y los servicios de inteligencia de Canadá.",
+    "c": "A las 7:14 (hora de Greenwich) del 23 de junio de 1985, una bomba escondida en una maleta facturada en Vancouver estalló en la bodega del vuelo 182 de Air India, que iba de Montreal a Londres, frente a la costa del condado de Cork (Irlanda). Murieron las 329 personas a bordo, la mayoría canadienses. Menos de una hora antes, otra maleta enviada desde Vancouver había estallado en el aeropuerto de Narita (Tokio) y matado a dos trabajadores. La fiscalía atribuyó el plan a extremistas sijs de Canadá. Tras una larga investigación, solo Inderjit Singh Reyat fue condenado por fabricar las bombas; los otros dos acusados fueron absueltos en 2005.",
+    "mo": "Bombas escondidas en maletas facturadas en Vancouver sin que sus dueños embarcaran, en un vuelo con escala hacia Europa y en otro hacia Asia.",
+    "loc": [
+      [
+        51.0667,
+        -12.8167,
+        "Océano Atlántico frente a la costa de Cork, Irlanda (caída del avión)"
+      ],
+      [
+        49.1947,
+        -123.1825,
+        "Aeropuerto internacional de Vancouver (donde se facturaron las maletas con las bombas)"
+      ],
+      [
+        35.7653,
+        140.3856,
+        "Aeropuerto de Narita, Tokio (explosión que mató a dos trabajadores)"
+      ],
+      [
+        51.6,
+        -9.6333,
+        "Ahakista, condado de Cork (monumento a las víctimas)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El atentado contra el vuelo 182 de Air India",
+    "autor": "Extremistas sijs según la fiscalía; Inderjit Singh Reyat, único condenado (homicidio por ayudar a fabricar las bombas)",
+    "fuentes": [
+      {
+        "titulo": "Ken Macqueen, «Air India Trial Ends in Acquittal», Maclean's (28 de marzo de 2005), en The Canadian Encyclopedia",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/air-india-trial-ends-in-acquittal",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "AFP, «\"Series of errors\" led to 1985 Air India disaster», Dawn (18 de junio de 2010)",
+        "url": "https://www.dawn.com/news/816868",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CTV News Vancouver, «Air India report calls for new security measures» (17 de junio de 2010)",
+        "url": "https://www.ctvnews.ca/vancouver/article/mobile/air-india-report-calls-for-new-security-measures",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Air India Flight 182» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Air_India_Flight_182",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Malik y Bagri fueron absueltos: no se los presenta como culpables. Malik fue asesinado en Surrey el 14 de julio de 2022; según Wikipedia, los dos detenidos se declararon culpables de homicidio en segundo grado, y ese crimen no ha reabierto el caso del vuelo 182. Wikipedia da 268 canadienses, 27 británicos y 22 indios entre los muertos. No se abrió la página de CTV ni el informe de la comisión Major (17 de junio de 2010), que se cita por Dawn. Solo cuatro fuentes: no se encontraron otras abiertas sin gastar más búsquedas."
+  },
+  {
+    "id": "asesinato-rathenau",
+    "m": 6,
+    "d": 24,
+    "y": 1922,
+    "n": "Erwin Kern",
+    "a": "El asesinato de Walther Rathenau",
+    "v": "1",
+    "p": "Alemania",
+    "f": "🇩🇪",
+    "per": "1922",
+    "st": "Cerrado. Kern y Fischer murieron al ser cercados el 17 de julio de 1922. En octubre de 1922 el Tribunal para la Protección de la República, en Leipzig, condenó a diez acusados; el conductor, Ernst Werner Techow, recibió 15 años.",
+    "c": "La mañana del sábado 24 de junio de 1922, el ministro de Asuntos Exteriores alemán Walther Rathenau, industrial judío y firmante del Tratado de Rapallo, salió de su casa de Berlín-Grunewald en un coche descubierto camino del ministerio. En la Koenigsallee, un coche se puso a su altura: Erwin Kern le disparó con una metralleta y Hermann Fischer lanzó una granada. Rathenau murió a los pocos minutos. Los autores pertenecían a la Organización Cónsul, de extrema derecha. El crimen provocó manifestaciones masivas en defensa de la República y una ley para protegerla. Kern y Fischer murieron el 17 de julio, cercados en el castillo de Saaleck.",
+    "mo": "Persecución en coche descubierto y ataque desde el vehículo en marcha con una metralleta y una granada de mano, en una curva donde el coche de la víctima tenía que frenar.",
+    "loc": [
+      [
+        52.4865,
+        13.283,
+        "Koenigsallee, cerca de la Erdener Straße, Berlín-Grunewald (atentado; hoy piedra conmemorativa; ubicación aproximada)"
+      ],
+      [
+        52.5186,
+        13.3761,
+        "Reichstag, Berlín (funeral de Estado, 27 de junio)"
+      ],
+      [
+        51.1097,
+        11.7014,
+        "Castillo de Saaleck (donde murieron Kern y Fischer, 17 de julio)"
+      ],
+      [
+        51.333,
+        12.3698,
+        "Edificio del Reichsgericht, Leipzig (juicio, octubre de 1922)"
+      ]
+    ],
+    "vin": [
+      [
+        "delito-matteotti",
+        "r",
+        "Asesinatos de políticos a manos de la ultraderecha en la Europa de entreguerras"
+      ]
+    ],
+    "g": [
+      "weimar"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Walther Rathenau",
+    "autor": "Erwin Kern (disparos) y Hermann Fischer (granada), de la Organización Cónsul, con Ernst Werner Techow al volante (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Deutscher Bundestag, Wissenschaftliche Dienste, «Aktueller Begriff: Vor 100 Jahren: Der Mord an Walther Rathenau», n.º 10/22 (13 de junio de 2022)",
+        "url": "https://www.bundestag.de/resource/blob/898920/4327f8f8798b700a2aeaee65bcb44980/Vor-100-Jahren-Der-Mord-an-Walther-Rathenau.pdf",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Deutsches Historisches Museum, LeMO, «Walther Rathenau» (biografía)",
+        "url": "https://www.dhm.de/lemo/biografie/walther-rathenau",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Andreas Schulz, «Opfer des politischen Extremismus. Die Ermordung Walther Rathenaus am 24. Juni 1922», Konrad-Adenauer-Stiftung, Geschichtsbewusst (23 de junio de 2022)",
+        "url": "https://www.kas.de/de/web/geschichtsbewusst/essay/-/content/1922-ermordung-walther-rathenau-opfer-des-politischen-extremismus",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en alemán), «Walther Rathenau» (punto de partida; consultada por sus referencias)",
+        "url": "https://de.wikipedia.org/wiki/Walther_Rathenau",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El servicio científico del Bundestag habla de nueve disparos y la Wikipedia alemana, de cinco impactos; la ficha no da la cifra. Según el Bundestag, en el juicio no se pudo probar un complot de la Organización Cónsul; la Konrad-Adenauer-Stiftung menciona un segundo proceso contra la organización unos dos años después, con penas leves. Las coordenadas del lugar del atentado son aproximadas."
+  },
+  {
+    "id": "masacre-los-horcones",
+    "m": 6,
+    "d": 25,
+    "y": 1975,
+    "n": "José Enrique Chinchilla",
+    "a": "La masacre de Los Horcones",
+    "v": "14 o 15",
+    "p": "Honduras",
+    "f": "🇭🇳",
+    "per": "1975",
+    "st": "Cerrado. El mayor José Enrique Chinchilla, el subteniente Benjamín Plata y los terratenientes Manuel Zelaya Ordóñez y Carlos Bähr fueron condenados a 20 años, pero quedaron libres el 11 de septiembre de 1980 gracias a un decreto de amnistía de la Asamblea Nacional Constituyente.",
+    "c": "El 25 de junio de 1975, en Olancho (Honduras), militares y terratenientes reprimieron una marcha campesina por la reforma agraria que había salido de Juticalpa. Varias personas murieron en el centro de formación Santa Clara y otras fueron llevadas a la hacienda Los Horcones, en el valle de Lepaguare, donde las mataron y arrojaron a un pozo que después dinamitaron. Entre las víctimas, unas quince en total, estaban los sacerdotes Iván Betancourt, colombiano, y Michael Jerome Cypher, estadounidense. Cuatro responsables, dos militares y dos hacendados, fueron condenados a 20 años de cárcel, pero una amnistía los dejó libres en 1980.",
+    "mo": "Represión armada de una marcha, detenciones y ejecuciones en una hacienda; los cuerpos se ocultaron en un pozo que luego se voló con dinamita.",
+    "loc": [
+      [
+        14.6672,
+        -86.2196,
+        "Juticalpa, Olancho (salida de la marcha y centro Santa Clara; coordenadas de la ciudad)"
+      ],
+      [
+        14.6,
+        -86.05,
+        "Valle de Lepaguare, hacienda Los Horcones (asesinatos y pozo; ubicación aproximada)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La masacre de Los Horcones",
+    "autor": "Militares y terratenientes de Olancho; condenados el mayor José Enrique Chinchilla, el subteniente Benjamín Plata, Manuel Zelaya Ordóñez y Carlos Bähr",
+    "fuentes": [
+      {
+        "titulo": "El Heraldo (Honduras), «Masacre de Los Horcones, el drama que no se olvida» (7 de abril de 2014)",
+        "url": "https://www.elheraldo.hn/honduras/masacre-de-los-horcones-el-drama-que-no-se-olvida-HOEH565211",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "James Phillips, «Honduras: Reflections on the Legacy of the Los Horcones Massacre», CovertAction Magazine / Interreligious Task Force on Central America (25 de junio de 2025)",
+        "url": "https://www.irtfcleveland.org/node/4052",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Time, «Religion: Blood and Land» (18 de agosto de 1975; copia archivada)",
+        "url": "https://web.archive.org/web/20121023205411/http://www.time.com/time/magazine/article/0,9171,917730,00.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Prensa (Honduras), «Recuerdan masacre de Los Horcones con misa» (26 de junio de 2009; copia archivada)",
+        "url": "https://web.archive.org/web/20090710053835/http://www.laprensahn.com/Pa%C3%ADs/Ediciones/2009/06/26/Noticias/Recuerdan-masacre-de-Los-Horcones-con-misa",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Los Horcones massacre» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Los_Horcones_massacre",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La selección decía que la amnistía llegó «meses después»; según El Heraldo y la Wikipedia inglesa, los condenados salieron el 11 de septiembre de 1980 (decreto del 3 de septiembre de 1980). La Wikipedia en castellano da 1975 por error. Cifra de víctimas: hasta 14 según Wikipedia y 15 según El Heraldo y Phillips. Las dos jóvenes asesinadas no se nombran. Zelaya Ordóñez es el padre del expresidente Manuel Zelaya. Hubo torturas: se cuentan sin detalle. No se pudieron abrir las copias archivadas de Time y La Prensa (web.archive.org bloqueado). La ubicación de Los Horcones es aproximada."
+  },
+  {
+    "id": "asesinato-veronica-guerin",
+    "m": 6,
+    "d": 26,
+    "y": 1996,
+    "n": "Veronica Guerin",
+    "a": "El asesinato de Veronica Guerin",
+    "v": "1",
+    "p": "Irlanda",
+    "f": "🇮🇪",
+    "per": "1996",
+    "st": "Cerrado. Brian Meehan cumple cadena perpetua (1999). John Gilligan fue absuelto del asesinato y condenado por tráfico de cannabis (28 años, reducidos a 20 en apelación). La condena de Paul Ward se anuló en 2002.",
+    "c": "El 26 de junio de 1996, hacia las 12:55, la periodista de investigación Veronica Guerin, del Sunday Independent, esperaba en un semáforo de la carretera de Naas, en las afueras de Dublín, tras salir del juzgado de Naas. Desde una moto se le disparó varias veces con un revólver y murió en el acto. Había investigado a la banda de John Gilligan, que ya la había agredido en 1995. La investigación se apoyó en el testimonio de miembros de la banda: Brian Meehan fue condenado en 1999 a cadena perpetua y Gilligan, absuelto del asesinato, acabó en prisión por tráfico de cannabis. El crimen llevó a Irlanda a crear la Oficina de Activos Criminales.",
+    "mo": "Ataque desde una moto en marcha contra su coche detenido en un semáforo, tras seguirla durante días y avisar por teléfono de sus movimientos.",
+    "loc": [
+      [
+        53.3185,
+        -6.396,
+        "Cruce de la carretera de Naas con Boot Road, cerca de Newlands Cross, Dublín (lugar del asesinato; coordenadas aproximadas)"
+      ],
+      [
+        53.2154,
+        -6.6666,
+        "Juzgado de distrito de Naas (de donde salía ese día)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Veronica Guerin",
+    "autor": "Banda de John Gilligan; condenado Brian Meehan (Gilligan fue absuelto del asesinato)",
+    "fuentes": [
+      {
+        "titulo": "Colm Keena, «Guerin murdered after leaving Naas District Court», The Irish Times (27 de junio de 1996)",
+        "url": "https://www.irishtimes.com/news/guerin-murdered-after-leaving-naas-district-court-1.62164",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Henry McDonald, «10 years later, still no peace for Veronica Guerin», The Guardian (9 de abril de 2006; citado por la Wikipedia inglesa)",
+        "url": "https://www.theguardian.com/world/2006/apr/09/ireland.crime",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Life sentence for Guerin murderer» (29 de julio de 1999; citado por la Wikipedia inglesa)",
+        "url": "http://news.bbc.co.uk/1/hi/uk/406379.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Emily O'Reilly, «Veronica Guerin: The Life and Death of a Crime Reporter» (Vintage, 1998)",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Guerin#Further_reading",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Veronica Guerin» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Guerin",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Solo se abrieron la crónica de The Irish Times y la Wikipedia inglesa; The Guardian, la BBC y el libro de O'Reilly se citan por las referencias de la Wikipedia y no se abrieron (las URL del Guardian y de la BBC no están verificadas). Hora (12:55) según Wikipedia; The Irish Times sitúa el lugar en el cruce con Boot Road entre el Green Isle Hotel y Newlands Cross; coordenadas aproximadas. La Wikipedia atribuye los disparos al pasajero de la moto sin nombrarlo, y aquí tampoco. Se añade a la selección la anulación de la condena de Ward (2002)."
+  },
+  {
+    "id": "secuestro-publio-cordon",
+    "m": 6,
+    "d": 27,
+    "y": 1995,
+    "n": "Publio Cordón",
+    "a": "El secuestro de Publio Cordón",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1995",
+    "st": "Sin cerrar del todo: el cuerpo no ha aparecido. Un juzgado de Zaragoza lo declaró fallecido en 2012. En diciembre de 2017 la Audiencia Nacional condenó a 30 años a José Antonio Ramón Teijelo y María Victoria Gómez Méndez por detención ilegal sin dar razón del paradero.",
+    "c": "El 27 de junio de 1995 el empresario zaragozano Publio Cordón Munilla fue secuestrado por los GRAPO cuando hacía ejercicio cerca de su casa, junto al Canal Imperial. Lo llevaron a una casa alquilada en Bron, cerca de Lyon, donde lo mantuvieron encerrado en un armario. Sus cartas a la familia se censuraron. La familia pagó un rescate de 400 millones de pesetas el 17 de agosto en París creyéndolo vivo, pero no lo liberaron. Un jefe de comandos detenido en 2000 dijo que había muerto intentando fugarse; la investigación de 2012 sitúa su muerte en julio de 1995. Su cuerpo no ha sido hallado.",
+    "mo": "Secuestro con fin de financiación terrorista: captura en la calle, traslado a Francia, cautiverio en una casa alquilada con identidades falsas y cobro de rescate.",
+    "loc": [
+      [
+        41.656,
+        -0.905,
+        "Canal Imperial de Aragón, Zaragoza (secuestro; ubicación aproximada)"
+      ],
+      [
+        45.7338,
+        4.9132,
+        "Bron, cerca de Lyon (casa del cautiverio; coordenadas de la localidad)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana",
+      "desapariciones"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "El secuestro de Publio Cordón",
+    "autor": "GRAPO; condenados, entre otros, Teijelo y Gómez Méndez (2017)",
+    "fuentes": [
+      {
+        "titulo": "Ayuntamiento de Zaragoza, «Publio Cordón Munilla», Zaragoza no olvida",
+        "url": "https://www.zaragoza.es/sede/portal/zgz-no-olvida/atentados/publio-cordon-munilla",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Consejo General del Poder Judicial, «La Audiencia Nacional condena a 30 años de cárcel a dos GRAPO por el secuestro de Publio Cordón» (21 de diciembre de 2017)",
+        "url": "https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-Nacional-condena-a-30-anos-de-carcel-a-dos-grapos-por-el-secuestro-de-Publio-Cordon",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "El País, noticias sobre el hallazgo de la casa de Bron (19 y 20 de julio de 2012; citadas por la Wikipedia en castellano)",
+        "url": "https://elpais.com/espana/2012/07/19/actualidad/1342711570_581413.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Publio Cordón» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Publio_Cord%C3%B3n",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El Ayuntamiento y la Wikipedia dan el 27 de junio de 1995. La muerte se apoya en la declaración de Silva Sande (2000) y en la estimación de 2012 (11-13 de julio); la sentencia de 2017 no probó el homicidio y descartó ese cargo. La selección hablaba de condenas en 1998 y 2017: el CGPJ solo detalla la de 2017 y la de 1998 no se pudo comprobar, por eso no se cita. El País no se pudo abrir. Coordenadas del secuestro aproximadas. La selección advertía de una prescripción discutida en 2025: no se comprobó."
+  },
+  {
+    "id": "atentado-sarajevo",
+    "m": 6,
+    "d": 28,
+    "y": 1914,
+    "n": "Gavrilo Princip",
+    "a": "El atentado de Sarajevo",
+    "v": "2",
+    "p": "Austria-Hungría (hoy Bosnia y Herzegovina)",
+    "f": "🇧🇦",
+    "per": "1914",
+    "st": "Cerrado. Princip, Čabrinović y Grabež fueron condenados a 20 años el 28 de octubre de 1914 y Danilo Ilić fue ahorcado el 3 de febrero de 1915. Princip murió de tuberculosis en prisión el 28 de abril de 1918.",
+    "c": "El domingo 28 de junio de 1914 el archiduque Francisco Fernando, heredero de Austria-Hungría, visitaba Sarajevo con su esposa Sofía. A las 10:10 aproximadamente, Nedeljko Čabrinović lanzó una bomba contra su coche, que rebotó y hirió a varios ocupantes del siguiente. Poco después, el chófer se equivocó de calle junto a la tienda Schiller y Gavrilo Princip, de 19 años, disparó a corta distancia contra la pareja, que murió en minutos. Los acusados de Joven Bosnia fueron juzgados en octubre. Princip, demasiado joven para la pena de muerte, recibió 20 años y murió en la prisión de Terezín. El atentado fue el detonante de la Primera Guerra Mundial.",
+    "mo": "Atentado planeado por un grupo de jóvenes conspiradores, con varios tiradores repartidos por el recorrido, una bomba fallida y disparos de pistola a corta distancia.",
+    "loc": [
+      [
+        43.8579,
+        18.4289,
+        "Cerca del Puente Latino, Sarajevo (disparos contra los archiduques; coordenadas de Wikipedia)"
+      ],
+      [
+        50.51,
+        14.15,
+        "Pequeña Fortaleza de Terezín, Bohemia (prisión donde murió Princip; coordenadas aproximadas)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El atentado de Sarajevo",
+    "autor": "Gavrilo Princip, de Joven Bosnia (con Nedeljko Čabrinović y otros conjurados)",
+    "fuentes": [
+      {
+        "titulo": "Spartacus Educational, «Gavrilo Princip»",
+        "url": "https://spartacus-educational.com/FWWprincip.htm",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Vladimir Dedijer, «The Road to Sarajevo» (Simon & Schuster, 1966)",
+        "url": "https://en.wikipedia.org/wiki/The_Road_to_Sarajevo",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Christopher Clark, «The Sleepwalkers: How Europe Went to War in 1914» (Allen Lane, 2012)",
+        "url": "https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Assassination of Archduke Franz Ferdinand»",
+        "url": "https://www.britannica.com/event/assassination-of-Archduke-Franz-Ferdinand",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Archduke Franz Ferdinand» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Dedijer y Clark se citan por las referencias de Wikipedia y Britannica no se pudo abrir (403); solo Spartacus y Wikipedia se leyeron. Según Wikipedia (Princip), a Princip le faltaban 27 días para cumplir 20 años, edad mínima para la pena capital en la ley austrohúngara. Las fuentes abiertas no dan la hora de los disparos (bomba hacia las 10:10-10:15; la pareja murió antes de las 11:30). No se entra en la implicación de Serbia. Coordenadas de Terezín aproximadas."
+  },
+  {
+    "id": "asesinato-mohamed-budiaf",
+    "m": 6,
+    "d": 29,
+    "y": 1992,
+    "n": "Mohamed Budiaf",
+    "a": "El asesinato del presidente Budiaf",
+    "v": "1",
+    "p": "Argelia",
+    "f": "🇩🇿",
+    "per": "1992",
+    "st": "Cerrado oficialmente. Lambarek Boumaarafi, teniente de su escolta, fue condenado a muerte en 1995 en un juicio a puerta cerrada y la pena no se ejecutó. La viuda del presidente sostiene que hubo un complot y pide reabrir el caso.",
+    "c": "Mohamed Budiaf, uno de los fundadores del Frente de Liberación Nacional, volvió del exilio en enero de 1992 para presidir el Alto Comité de Estado de Argelia. El 29 de junio de 1992, en su primera visita fuera de Argel, inauguraba una casa de la cultura en Annaba y hablaba ante las cámaras cuando fue tiroteado. Murió y su entierro en Argel reunió a decenas de miles de personas. El autor fue el teniente Lambarek Boumaarafi, de su escolta, condenado a muerte en 1995 en un juicio cerrado. Su familia y parte de la opinión pública rechazan la tesis del autor solitario, sin que haya pruebas judiciales de otra autoría.",
+    "mo": "Disparos de un miembro de su propia escolta durante un discurso televisado.",
+    "loc": [
+      [
+        36.9,
+        7.7667,
+        "Annaba, casa de la cultura (asesinato; coordenadas de la ciudad)"
+      ],
+      [
+        36.7442,
+        3.0753,
+        "Cementerio de El Alia, Argel (entierro entre los héroes nacionales; ubicación aproximada)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato del presidente Mohamed Budiaf",
+    "autor": "Lambarek Boumaarafi, teniente de su escolta (condenado); autoría intelectual discutida",
+    "fuentes": [
+      {
+        "titulo": "Mohamed Zaaf, «Thousands pay tribute to assassinated Algerian president», UPI (1 de julio de 1992)",
+        "url": "https://www.upi.com/Archives/1992/07/01/Thousands-pay-tribute-to-assassinated-Algerian-president/5047709963200/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Farid Alilat, «Le J'accuse de Madame Boudiaf», Jeune Afrique (22 de agosto de 2015; citado por la Wikipedia inglesa)",
+        "url": "https://www.jeuneafrique.com/228689/politique/le-j-accuse-de-madame-boudiaf/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Robert Fisk, «The Great War for Civilisation» (Fourth Estate, 2005), pp. 665-669",
+        "url": "https://en.wikipedia.org/wiki/The_Great_War_for_Civilisation",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Phillip C. Naylor, «Historical Dictionary of Algeria» (Scarecrow Press, 1994)",
+        "url": "https://en.wikipedia.org/wiki/Mohamed_Boudiaf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Mohamed Boudiaf» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Mohamed_Boudiaf",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "UPI y Wikipedia confirman el 29 de junio de 1992 (lunes). UPI no nombra al autor; el nombre y la condena de 1995 salen solo de Wikipedia (la grafía del apellido varía: Boumaarafi, Bou Maaraf). Jeune Afrique, Fisk y Naylor se citan por la Wikipedia y no se abrieron (Jeune Afrique dio 403; las URL de Fisk y Naylor apuntan a páginas de Wikipedia, no a los libros). Las teorías de complot se atribuyen a la viuda y no se presentan como hechos. Coordenadas aproximadas; el edificio exacto no se confirmó."
+  },
+  {
+    "id": "masacre-vizconde",
+    "m": 6,
+    "d": 30,
+    "y": 1991,
+    "n": "Estrellita Vizconde",
+    "a": "La masacre Vizconde",
+    "v": "3",
+    "p": "Filipinas",
+    "f": "🇵🇭",
+    "per": "1991–2010",
+    "st": "Sin culpables. Hubert Webb y otros cinco acusados, condenados en 2000 y confirmados en 2005, fueron absueltos por el Tribunal Supremo el 14 de diciembre de 2010 y no pueden ser juzgados de nuevo. Dos acusados más siguen sin ser capturados.",
+    "c": "En la noche del 29 al 30 de junio de 1991, Estrellita Vizconde y sus dos hijas, Carmela, de 19 años, y una niña de 7, fueron asesinadas en su casa de BF Homes, en Parañaque (Manila). El padre estaba de viaje en Estados Unidos. El caso estuvo casi cuatro años sin resolver, hasta que en 1995 la testigo Jessica Alfaro implicó a Hubert Webb, hijo de un senador, y a otros jóvenes de familias influyentes. En enero de 2000 un tribunal los condenó a cadena perpetua. El Tribunal Supremo los absolvió el 14 de diciembre de 2010 por falta de pruebas y por una coartada documentada de Webb. El crimen sigue sin esclarecerse.",
+    "mo": "Asalto nocturno a una vivienda con muerte de las tres mujeres que estaban en ella; las circunstancias exactas no se han esclarecido.",
+    "loc": [
+      [
+        14.4483,
+        121.0267,
+        "Calle Vinzons 80, BF Homes, Parañaque (casa de los Vizconde; ubicación aproximada del barrio)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La masacre Vizconde",
+    "autor": "Desconocido (los acusados Webb, Lejano y otros fueron absueltos en 2010)",
+    "fuentes": [
+      {
+        "titulo": "Tribunal Supremo de Filipinas, Antonio J. Lejano v. People, G.R. No. 176389 (14 de diciembre de 2010)",
+        "url": "https://lawphil.net/judjuris/juri2010/dec2010/gr_176389_2010.html",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Philippine Daily Inquirer, «SC acquits Webb et al» (15 de diciembre de 2010; citado por la Wikipedia inglesa)",
+        "url": "https://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101215-308970/SC-acquits-Webb-et-al",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "ABS-CBN News, «Evidence, witnesses shatter Webb alibi: task force» (28 de junio de 2011; citado por la Wikipedia inglesa)",
+        "url": "https://www.abs-cbnnews.com/nation/06/28/11/evidence-witnesses-shatter-webb-alibi-task-force",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Philippine Star, «Vizconde massacre has new set of witnesses» (28 de junio de 2011; citado por la Wikipedia inglesa)",
+        "url": "https://www.philstar.com/headlines/2011/06/28/700553/vizconde-massacre-has-new-set-witnesses",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Vizconde murders» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Vizconde_murders",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La sentencia del Supremo da el 4 de enero de 2000 para la condena de primera instancia y la Wikipedia el 6; la ficha dice solo «enero de 2000». La selección situaba el crimen en la madrugada del 30; el Supremo habla de la noche del 29 al 30. La menor de 7 años no se nombra y la violencia sexual contra Carmela no se detalla. Inquirer, ABS-CBN y Philstar se citan por la Wikipedia y no se abrieron (el Inquirer dio 403; las URL de ABS-CBN y Philstar pueden no ser exactas). La reinvestigación de 2011 situó a Webb en Filipinas, pero no puede ser juzgado de nuevo por doble enjuiciamiento: no se afirma nada contra él. Coordenadas aproximadas."
+  }
+]

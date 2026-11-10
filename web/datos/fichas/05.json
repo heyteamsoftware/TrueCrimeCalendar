@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "aceite-colza",
+    "m": 5,
+    "d": 1,
+    "y": 1981,
+    "n": "Juan Miguel Bengoechea y Ramón Ferrero",
+    "a": "El síndrome tóxico (el aceite de colza)",
+    "v": "Unos 20.000 afectados; 330 muertes reconocidas en la sentencia de 1989",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1981",
+    "st": "Cerrado. El Supremo condenó en 1992 a los aceiteros por delitos contra la salud pública, estafa e imprudencia, y en 1997 a dos altos funcionarios, con el Estado como responsable civil subsidiario de las indemnizaciones.",
+    "c": "El 1 de mayo de 1981 murió en Torrejón de Ardoz (Madrid) un niño de ocho años al que habían diagnosticado una «neumonía atípica»: fue la primera víctima mortal reconocida de una epidemia que se extendió por el centro y el noroeste de España. El 10 de junio las autoridades señalaron como causa un aceite de colza importado de Francia para uso industrial, desnaturalizado con anilina y vendido a granel, sin etiqueta, como aceite comestible. Hubo unos 20.000 afectados. En 1989 la Audiencia Nacional condenó a varios de los 38 aceiteros juzgados, y en 1997 el Supremo condenó a dos funcionarios y declaró al Estado responsable civil subsidiario.",
+    "mo": "Varios industriales importaron aceite de colza desnaturalizado con anilina para uso industrial, intentaron eliminar el desnaturalizante y lo desviaron al consumo humano, vendido en garrafas y por venta ambulante como aceite de mesa.",
+    "loc": [
+      [
+        40.45,
+        -3.4831,
+        "Torrejón de Ardoz (primera muerte reconocida, 1 de mayo de 1981)"
+      ],
+      [
+        40.4144,
+        -3.6762,
+        "Hospital Infantil Niño Jesús, Madrid (donde se relacionó la enfermedad con el aceite)"
+      ],
+      [
+        40.4242,
+        -3.6935,
+        "Tribunal Supremo, Madrid (sentencias de 1992 y 1997)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana",
+      "estafas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El aceite de colza: la primera víctima del síndrome tóxico",
+    "autor": "Industriales aceiteros condenados por la Audiencia Nacional (1989) y el Supremo (1992); dos funcionarios condenados por imprudencia (1997)",
+    "fuentes": [
+      {
+        "titulo": "Miquel Martín Casals y Josep Solé i Feliu, «Responsabilidad penal y causalidad: el caso del aceite de colza», InDret 1/2000",
+        "url": "https://indret.com/wp-content/uploads/2007/06/002_es.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "David F. Sabadell y Patricia Reguero Ríos, «Un futuro tras sobrevivir al síndrome tóxico», El Salto (22 de noviembre de 2017)",
+        "url": "https://www.elsaltodiario.com/sanidad/un-futuro-tras-sobrevivir-al-sindrome-toxico",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jaime Susanna, «Miguel Ángel y Mercedes pretendían suicidarse en El Prado: 40 años de agonía por el aceite de colza», El Español (20 de octubre de 2021)",
+        "url": "https://www.elespanol.com/reportajes/20211020/miguel-angel-mercedes-pretendian-suicidarse-prado-agonia/620688613_0.amp.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Emilio Gelpí, Manuel Posada de la Paz y otros (Comité científico OMS/CISAT), «The Spanish toxic oil syndrome 20 years after its onset», Environmental Health Perspectives 110(5) (mayo de 2002)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1240833/",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Archivo de la Transición, «Cientos de muertos y decenas de miles de afectados por la colza»",
+        "url": "https://archivodelatransicion.es/archivo-organizaciones/pro-memoria-la-colza",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Síndrome del aceite tóxico» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_del_aceite_t%C3%B3xico",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No se nombra a la primera víctima (menor; las fuentes lo llaman Jaime o Carlos Vaquero). Cifras de muertos muy dispares: unos 300-330 (sentencia de 1989, OMS), más de 1.100 (otras estimaciones) y de 3.000 a 5.563 según asociaciones de afectados. La sentencia de la Audiencia Nacional figura como de 19 o de 20 de mayo de 1989. La de los altos cargos se cita como de 1996 (Audiencia Nacional) y 1997 (Supremo, 26 de septiembre). Las penas exactas de los aceiteros (20 y 12 años en primera instancia, según Wikipedia) no se han podido contrastar con una segunda fuente y se han dejado fuera; los nombres de Bengoechea y Ferrero salen del análisis de InDret de la sentencia del Supremo de 1992. Existe una hipótesis alternativa (plaguicidas) sin respaldo judicial ni de la OMS; no se recoge. No se pudieron abrir El País, BBC, The Guardian ni El Confidencial. Verificación: el número de condenados en 1989 no se confirma con fuentes fiables (El Español habla de 13 de los 38, Wikipedia de solo dos con penas de 20 y 12 años); la ficha dice «varios». Las fechas de 1992 (23 de abril) y 1997 (26 de septiembre) del Supremo y los nombres de Bengoechea y Ferrero sí constan en InDret."
+  },
+  {
+    "id": "batalla-alcatraz",
+    "m": 5,
+    "d": 2,
+    "y": 1946,
+    "n": "Bernard Coy",
+    "a": "La batalla de Alcatraz",
+    "v": "2 funcionarios (y 3 de los presos)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1946",
+    "st": "Cerrado. Sam Shockley y Miran Thompson fueron condenados a muerte por el asesinato del funcionario William Miller y ejecutados en la cámara de gas de San Quentin el 3 de diciembre de 1948; Clarence Carnes recibió una segunda cadena perpetua y murió en prisión en 1988.",
+    "c": "El 2 de mayo de 1946, poco después de la una y media de la tarde, seis presos de Alcatraz encabezados por el atracador de bancos Bernard Coy redujeron a un funcionario, asaltaron la galería de armas del bloque de celdas y tomaron como rehenes a nueve guardias. La fuga fracasó porque no dieron con la llave de la puerta del patio, que el funcionario William Miller había escondido. El asedio, en el que intervinieron los marines, duró hasta el 4 de mayo: murieron los funcionarios Miller y Harold Stites y los presos Coy, Joseph Cretzer y Marvin Hubbard. Sam Shockley y Miran Thompson fueron ejecutados en 1948.",
+    "mo": "Fuga armada: Coy separó los barrotes de la galería de armas, redujo al guardia que la vigilaba, se hizo con sus armas y abrió las celdas de sus cómplices. Al fracasar la huida, el grupo se atrincheró en el bloque y disparó contra los rehenes y contra los guardias que intentaban recuperar el control.",
+    "loc": [
+      [
+        37.8269,
+        -122.4229,
+        "Bloque de celdas de la penitenciaría federal de Alcatraz, bahía de San Francisco (motín y asedio, 2-4 de mayo de 1946)"
+      ],
+      [
+        37.9399,
+        -122.49,
+        "Prisión estatal de San Quentin (ejecución de Shockley y Thompson, 3 de diciembre de 1948)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "La batalla de Alcatraz",
+    "autor": "Bernard Coy, Joseph Cretzer, Marvin Hubbard, Clarence Carnes, Sam Shockley y Miran Thompson",
+    "fuentes": [
+      {
+        "titulo": "Federal Bureau of Prisons, «BOP: William A. Miller, Fallen Hero» (memorial del funcionario muerto en el motín)",
+        "url": "https://www.bop.gov/about/history/hero_miller.jsp",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Federal Bureau of Prisons, «A Brief History of Alcatraz»",
+        "url": "https://www.bop.gov/about/history/alcatraz.jsp",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Gary Kamiya, «Audacious 1946 escape attempt left Alcatraz bloodstained», San Francisco Chronicle (11 de abril de 2014)",
+        "url": "https://www.sfchronicle.com/bayarea/article/audacious-1946-escape-attempt-left-alcatraz-5396479.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Shockley v. United States, 166 F.2d 704 (Tribunal de Apelaciones del Noveno Circuito, 1948)",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/F2/166/704/1475755/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Carl Sifakis, The Encyclopedia of American Prisons, Facts on File (2003), p. 9",
+        "url": "https://books.google.com/books?id=ObIQUpJxHZYC&pg=PA9",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Battle of Alcatraz» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Alcatraz",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de heridos varía según la fuente: 14 funcionarios (Wikipedia), 15 (Bureau of Prisons) u 11 guardias y un preso (pie de foto del San Francisco Chronicle); por eso no se da en la ficha. Miller murió el 3 de mayo. La hora de inicio es la del Chronicle (poco después de las 13:30; la alarma sonó a las 14:07). La sentencia Shockley v. United States no se pudo abrir (Justia devuelve 403)."
+  },
+  {
+    "id": "sekihotai-asahi",
+    "m": 5,
+    "d": 3,
+    "y": 1987,
+    "n": "Tomohiro Kojiri",
+    "a": "El ataque del Sekihōtai al Asahi Shimbun",
+    "v": "1 (y un herido grave)",
+    "p": "Japón",
+    "f": "🇯🇵",
+    "per": "1987",
+    "st": "Sin resolver. Nadie fue identificado ni detenido y el asesinato prescribió en mayo de 2002; los demás ataques atribuidos al grupo prescribieron en 2003.",
+    "c": "La noche del 3 de mayo de 1987, día de la Constitución en Japón, un hombre con pasamontañas entró hacia las ocho y cuarto en la redacción de la delegación de Hanshin del diario Asahi Shimbun, en Nishinomiya, y disparó con una escopeta de cañones recortados contra dos periodistas. Tomohiro Kojiri, de 29 años, murió de madrugada en el hospital, y su compañero Hyōe Inukai, de 42, quedó gravemente herido. Lo reivindicó por carta un grupo de extrema derecha desconocido, el Sekihōtai, al que la policía atribuyó otros ataques contra el diario. Nunca se identificó a nadie y el delito prescribió en 2002.",
+    "mo": "Un hombre solo y enmascarado entró en la redacción, disparó sin mediar palabra y huyó a pie. Días después llegaron a las agencias Kyodo y Jiji cartas firmadas por el Sekihōtai que amenazaban de muerte a todos los empleados del Asahi.",
+    "loc": [
+      [
+        34.7362,
+        135.3422,
+        "Delegación de Hanshin del Asahi Shimbun, Nishinomiya (ataque, 3 de mayo de 1987)"
+      ],
+      [
+        34.7359,
+        135.3859,
+        "Hospital Kansai Rosai, Amagasaki (donde murió Tomohiro Kojiri)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El ataque a la delegación del Asahi Shimbun en Nishinomiya (Sekihōtai)",
+    "autor": "Desconocido (reivindicado por el grupo Sekihōtai)",
+    "fuentes": [
+      {
+        "titulo": "Agencia Nacional de Policía de Japón, Libro Blanco de la Policía 1988, cap. 2, sec. 2: «Caso n.º 116 designado por la Agencia Nacional de Policía»",
+        "url": "https://www.npa.go.jp/hakusyo/s63/s630200.html",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "UPI, «Reporter's murder stuns Japan» (4 de mayo de 1987)",
+        "url": "https://www.upi.com/Archives/1987/05/04/Reporters-murder-stuns-japan/3826547099200/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Committee to Protect Journalists, «No justice for murdered Asahi Shimbun reporter» (2 de mayo de 2002)",
+        "url": "https://cpj.org/2002/05/no-justice-for-murdered-asahi-shimbun-reporter.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Kyodo News, glosario de noticias, «朝日新聞阪神支局襲撃事件» (Kotobank, actualizado el 26 de abril de 2017)",
+        "url": "https://kotobank.jp/word/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E%E9%98%AA%E7%A5%9E%E6%94%AF%E5%B1%80%E8%A5%B2%E6%92%83%E4%BA%8B%E4%BB%B6-1189519",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«Killing of a journalist at his office shocks Japan», The New York Times (5 de mayo de 1987)",
+        "url": "https://www.nytimes.com/1987/05/05/world/killing-of-a-journalist-at-his-office-shocks-japan.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en japonés), «赤報隊事件» (punto de partida; consultada por sus referencias)",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%A0%B1%E9%9A%8A%E4%BA%8B%E4%BB%B6",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La Wikipedia en inglés («Tomohiro Kojiri») sitúa el ataque el 4 de mayo, que es la fecha de la muerte; la policía (Libro Blanco de 1988), el CPJ y Kyodo dan el 3 de mayo. Sobre la prescripción, el CPJ dice que venció a medianoche del 2 de mayo de 2002 y la Wikipedia japonesa, el 3 de mayo de 2002; en la ficha se dice solo «mayo de 2002». La hora: hacia las 20:15 según Kyodo y la Wikipedia japonesa, hacia las 20:00 según el CPJ. El artículo del New York Times no se pudo abrir."
+  },
+  {
+    "id": "sacco-vanzetti",
+    "m": 5,
+    "d": 5,
+    "y": 1920,
+    "n": "Nicola Sacco y Bartolomeo Vanzetti",
+    "a": "Sacco y Vanzetti",
+    "v": "2 (las víctimas del atraco de South Braintree)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1920–1927",
+    "st": "Condenados en 1921 y ejecutados el 23 de agosto de 1927. No hubo revisión judicial ni indulto, pero en 1977 el gobernador de Massachusetts, Michael Dukakis, proclamó que no habían tenido un juicio justo. Su culpabilidad, sobre todo la de Sacco, sigue discutida por los historiadores.",
+    "c": "El 15 de abril de 1920, en South Braintree (Massachusetts), unos atracadores mataron a tiros al pagador Frederick Parmenter y al guarda Alessandro Berardelli, de una fábrica de calzado, y huyeron con la nómina. La noche del 5 de mayo la policía detuvo en un tranvía de Brockton a dos anarquistas italianos, Nicola Sacco y Bartolomeo Vanzetti, que iban armados. El 14 de julio de 1921 un jurado de Dedham los declaró culpables tras un juicio muy cuestionado por los prejuicios contra los extranjeros y los radicales. Pese a una campaña internacional, fueron ejecutados en la silla eléctrica el 23 de agosto de 1927.",
+    "mo": "Según la acusación, atraco a mano armada contra el transporte de la nómina de la fábrica de calzado Slater and Morrill, con huida en coche. Sacco y Vanzetti negaron siempre haber participado.",
+    "loc": [
+      [
+        42.0833,
+        -71.0189,
+        "Brockton (detención en el tranvía, 5 de mayo de 1920)"
+      ],
+      [
+        42.206,
+        -71.005,
+        "South Braintree (atraco y asesinatos, 15 de abril de 1920)"
+      ],
+      [
+        42.2486,
+        -71.1767,
+        "Palacio de Justicia del condado de Norfolk, Dedham (juicio y veredicto, 1921)"
+      ],
+      [
+        42.3748,
+        -71.0676,
+        "Antigua prisión estatal de Charlestown, Boston (ejecución, 23 de agosto de 1927)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "La detención de Sacco y Vanzetti",
+    "autor": "Nicola Sacco y Bartolomeo Vanzetti (condenados; su culpabilidad sigue discutida)",
+    "fuentes": [
+      {
+        "titulo": "Massachusetts Court System, «Sacco & Vanzetti: Investigation and arrest»",
+        "url": "https://www.mass.gov/info-details/sacco-vanzetti-investigation-and-arrest",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Massachusetts Court System, «Sacco & Vanzetti: Proclamation» (proclamación del gobernador Michael Dukakis, 1977)",
+        "url": "https://www.mass.gov/info-details/sacco-vanzetti-proclamation",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Leo F. J. Wilking, «Sacco and Vanzetti in History», The Harvard Crimson (27 de octubre de 1971)",
+        "url": "https://www.thecrimson.com/article/1971/10/27/sacco-and-vanzetti-in-history-pbsbacco/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Susan Martin, «“Look out for boms”: The Trial and Execution of Sacco and Vanzetti», Massachusetts Historical Society (23 de agosto de 2017)",
+        "url": "https://www.masshist.org/beehiveblog/2017/08/look-out-for-boms-the-trial-and-execution-of-sacco-and-vanzetti",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "History (Reino Unido), «Sacco and Vanzetti are executed» (Este día en la historia, 23 de agosto)",
+        "url": "https://www.history.co.uk/this-day-in-history/23-august/sacco-and-vanzetti-are-executed",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Sacco and Vanzetti» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La fecha y el lugar de la detención (tranvía de Brockton, 5 de mayo de 1920, hacia las diez de la noche) los dan la Wikipedia, The Harvard Crimson y la página del sistema judicial de Massachusetts; History (Reino Unido) dice que los detuvieron en el garaje adonde fueron a recoger un coche, lo que parece una simplificación. Las dos páginas de mass.gov devolvieron 403 al abrirlas: su contenido se comprobó a través del buscador. La coordenada de South Braintree es la del centro de Braintree, no la de la fábrica de Pearl Street. La proclamación de Dukakis no fue un indulto: declaró el 23 de agosto de 1977 día en memoria de los dos."
+  },
+  {
+    "id": "masacre-budge",
+    "m": 5,
+    "d": 8,
+    "y": 1987,
+    "n": "Juan Ramón Balmaceda",
+    "a": "La masacre de Ingeniero Budge",
+    "v": "3",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1987",
+    "st": "Cerrado. En 1994 los tres policías fueron condenados a 11 años por homicidio; se fugaron y fueron detenidos en 1998 (Romero) y en 2006 (Miño y Balmaceda).",
+    "c": "Hacia las siete de la tarde del 8 de mayo de 1987, tres suboficiales de la Policía bonaerense dispararon contra Agustín Olivera, Oscar Aredes y Roberto Argañaraz, tres amigos que tomaban cerveza en la esquina de Guaminí y Figueredo, en Ingeniero Budge (Lomas de Zamora), y presentaron el hecho como un enfrentamiento. Los vecinos se movilizaron y desmontaron esa versión. Un primer juicio, en 1990, fue anulado; en 1994 los tres fueron condenados a 11 años de prisión, pero huyeron y no fueron capturados hasta 1998 y 2006.",
+    "mo": "Los policías dispararon contra los tres jóvenes desde corta distancia y después colocaron armas junto a ellos para simular un tiroteo.",
+    "loc": [
+      [
+        -34.7118,
+        -58.4588,
+        "Esquina de Guaminí y Figueredo, Ingeniero Budge (lugar de los hechos; hoy señalizada)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La masacre de Ingeniero Budge",
+    "autor": "Sargento Juan Ramón Balmaceda, cabo primero Juan Alberto Miño y cabo Isidro Rito Romero (Policía de la provincia de Buenos Aires), condenados por homicidio",
+    "fuentes": [
+      {
+        "titulo": "Julieta Roffo, «La masacre de Budge: una cerveza, tres amigos asesinados y la invención del gatillo fácil de la Policía bonaerense», Infobae (8 de mayo de 2026)",
+        "url": "https://www.infobae.com/historias/2026/05/08/la-masacre-de-budge-una-cerveza-tres-amigos-asesinados-y-la-invencion-del-gatillo-facil-de-la-policia-bonaerense/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Carlos Rodríguez, «“Budge fue un ejemplo, ahora nadie se calla”», Página/12 (6 de mayo de 2007)",
+        "url": "https://www.pagina12.com.ar/diario/sociedad/3-84543-2007-05-06.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Cae un ex policía condenado por la masacre de Budge», La Nación (10 de octubre de 1998)",
+        "url": "https://www.lanacion.com.ar/sociedad/cae-un-ex-policia-condenado-por-la-masacre-de-budge-nid113620/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«La SIDE detuvo a condenado por la “Masacre de Budge”», Infobae (3 de noviembre de 2006)",
+        "url": "https://www.infobae.com/2006/11/03/284483-la-side-detuvo-condenado-la-masacre-budge/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gobierno de la Provincia de Buenos Aires, «Señalización a 35 años de la Masacre de Budge» (10 de mayo de 2022)",
+        "url": "https://www.gba.gob.ar/node/35340",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Ley 26.811: «Institúyese el 8 de mayo como Día Nacional de la Lucha contra la Violencia Institucional», InfoLEG (2012)",
+        "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/207586/norma.htm",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Laura Gingold, Memoria, moral y derecho. El caso de Ingeniero Budge (1987-1994), Juan Pablos Editor (1997)",
+        "url": "https://books.google.com.ar/books?id=LfbUw4hocwwC",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Masacre de Budge» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Masacre_de_Budge",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Infobae (2006) da en un párrafo «tres años» para la condena de 1994 y en otro «11 años»; Página/12 y La Nación dicen 11 años. Las graduaciones varían según la fuente (Balmaceda, sargento o suboficial mayor; Romero, sargento o cabo). La fuente de la Provincia no es policial sino institucional: se ha clasificado como «policial» a falta de un tipo mejor."
+  },
+  {
+    "id": "forum-afinsa",
+    "m": 5,
+    "d": 9,
+    "y": 2006,
+    "n": "Francisco Briones y Juan Antonio Cano",
+    "a": "La estafa de los sellos (Fórum Filatélico y Afinsa)",
+    "v": "Cientos de miles de ahorradores",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2006",
+    "st": "Sentencias firmes. El Supremo confirmó en noviembre de 2017 las condenas de once exdirectivos de Afinsa (hasta 8 años y 7 meses) y en marzo de 2020 las de dieciséis acusados de Fórum Filatélico (hasta 11 años y 10 meses para su expresidente).",
+    "c": "El 9 de mayo de 2006 la policía, por orden de la Audiencia Nacional, registró las sedes de Fórum Filatélico y Afinsa en Madrid, que quedaron intervenidas judicialmente. Las dos empresas vendían lotes de sellos como inversión, con promesa de recompra y una rentabilidad superior a la de los bancos, pero los sellos valían mucho menos de lo que se pagaba y los intereses salían del dinero de los nuevos clientes. Afectó a cientos de miles de ahorradores, con un agujero de varios miles de millones de euros. La Audiencia Nacional condenó a los responsables de Afinsa en 2016 y a los de Fórum en 2018.",
+    "mo": "Esquema piramidal: venta de sellos sobrevalorados con contratos de recompra a interés fijo, pagados con el dinero de nuevos inversores, mientras las cuentas anuales mostraban beneficios que no existían.",
+    "loc": [
+      [
+        40.4242,
+        -3.6935,
+        "Tribunal Supremo, Madrid (sentencias firmes de 2017 y 2020)"
+      ],
+      [
+        40.4168,
+        -3.7038,
+        "Madrid (sedes centrales de Fórum Filatélico y Afinsa, registradas el 9 de mayo de 2006)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana",
+      "estafas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "Fórum Filatélico y Afinsa: la gran estafa de los sellos",
+    "autor": "Directivos de Fórum Filatélico (presidente, Francisco Briones) y de Afinsa (presidente, Juan Antonio Cano), condenados por estafa agravada, insolvencia punible y falseamiento de cuentas",
+    "fuentes": [
+      {
+        "titulo": "Consumer (Eroski), «La Policía investiga a dos sociedades filatélicas que podrían haber estafado a 300.000 ahorradores» (9 de mayo de 2006)",
+        "url": "https://www.consumer.es/economia-domestica/la-policia-investiga-a-dos-sociedades-filatelicas-que-podrian-haber-estafado-a-300-000-ahorradores.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Decio Machado, «Afinsa y Fórum Filatélico: una estafa paso a paso», Diagonal (17 de julio de 2006; hemeroteca de El Salto)",
+        "url": "https://www.elsaltodiario.com/hemeroteca-diagonal/afinsa-y-forum-filatelico-una-estafa-paso-a-paso",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Comunicación Poder Judicial, «El Tribunal Supremo impone penas de entre 2 y 8 años de prisión a once exdirectivos de Afinsa» (23 de noviembre de 2017)",
+        "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-impone-penas-de-entre-2-y-8-anos-de-prision-a-once-exdirectivos-de-Afinsa",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Comunicación Poder Judicial, «Penas de hasta doce años de cárcel para 20 de los 27 acusados por la estafa de Fórum Filatélico» (Audiencia Nacional, 13 de julio de 2018)",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Penas-de-hasta-doce-anos-de-carcel-para-20-de-los-27-acusados-por-la-estafa-de-Forum-Filatelico",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Comunicación Poder Judicial, «El Tribunal Supremo confirma la estafa piramidal de Fórum Filatélico y establece penas de entre seis meses y once años de cárcel para 16 acusados» (5 de marzo de 2020)",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-estafa-piramidal-de-Forum-Filatelico-y-establece-penas-de-entre-seis-meses-y-once-anos-de-carcel-para-16-acusados",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Fórum Filatélico» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/F%C3%B3rum_Filat%C3%A9lico",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las cifras de afectados varían: 300.000 (prensa del 9 de mayo de 2006), 350.000 (Diagonal, 2006) y unos 460.000 sumando las dos empresas. Wikipedia da 190.022 inversores para Afinsa y 269.000 clientes para Fórum, pero las notas del CGPJ hablan de 190.022 titulares de 269.570 contratos en ambos casos, así que no está claro a qué empresa corresponde cada cifra: se ha dejado «cientos de miles». Las notas del CGPJ dan los nombres solo con iniciales (F. B., J. A. C. C.); Briones y Cano se toman de Wikipedia y de la prensa. Las dos sentencias del Supremo son firmes (ejecutoria de Afinsa en febrero de 2018). No consta con claridad que hubiera detenciones el mismo 9 de mayo (la nota de Consumer de ese día solo habla de registros y cierre de sedes; Wikipedia cita cuatro detenidos de Afinsa). Las coordenadas de las sedes son las del centro de Madrid: no se ha confirmado la dirección exacta. No se pudieron abrir Cadena SER, La Vanguardia ni El País. Verificación: se quitó de la ficha que hubo detenciones el 9 de mayo, porque solo constan registros e intervención judicial ese día."
+  },
+  {
+    "id": "caso-almeria",
+    "m": 5,
+    "d": 10,
+    "y": 1981,
+    "n": "Carlos Castillo Quero",
+    "a": "El caso Almería",
+    "v": "3",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1981",
+    "st": "Cerrado. La Audiencia Provincial de Almería condenó en julio de 1982 a tres guardias civiles por homicidio (24, 15 y 12 años) y el Supremo lo confirmó en 1984; los otros ocho implicados fueron absueltos. En 2023 el Gobierno entregó diplomas de reparación a las familias.",
+    "c": "Luis Cobo, Luis Montero y Juan Mañas, tres trabajadores de Santander que viajaban a una primera comunión en Pechina, fueron detenidos la noche del 9 de mayo de 1981 en Roquetas de Mar por guardias civiles que los confundieron con un comando de ETA. A las seis de la mañana del 10 de mayo aparecieron calcinados y con disparos en su coche, en un barranco de la carretera de Gérgal; la versión oficial habló de un intento de fuga. En 1982 la Audiencia de Almería condenó por homicidio al teniente coronel Carlos Castillo Quero y a otros dos de los once guardias implicados.",
+    "mo": "Los tres jóvenes fueron detenidos sin pruebas y llevados, según las familias, a un viejo cuartel abandonado, donde la sentencia dio por probado que los maltrataron hasta la muerte; después los metieron en su coche, que fue tiroteado, despeñado e incendiado para simular un accidente durante una huida.",
+    "loc": [
+      [
+        36.7814,
+        -2.6147,
+        "Roquetas de Mar (detención, 9 de mayo de 1981)"
+      ],
+      [
+        37.1186,
+        -2.5396,
+        "Gérgal, carretera comarcal (hallazgo del coche con los cuerpos, 10 de mayo)"
+      ],
+      [
+        36.9164,
+        -2.4403,
+        "Pechina (destino del viaje, una primera comunión)"
+      ],
+      [
+        43.4628,
+        -3.805,
+        "Santander (donde vivían y trabajaban las víctimas)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "El caso Almería",
+    "autor": "Teniente coronel Carlos Castillo Quero, teniente Manuel Gómez Torres y guardia Manuel Fernández Llamas, condenados por homicidio",
+    "fuentes": [
+      {
+        "titulo": "Pablo García, «Las víctimas del caso Almería luchan contra el olvido», Público (10 de mayo de 2011)",
+        "url": "https://www.publico.es/espana/victimas-del-caso-almeria-luchan.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Iñigo Mas, «El Caso Almería, 36 años esperando el reconocimiento del Gobierno como víctimas del terrorismo de Estado», eldiario.es (10 de mayo de 2017)",
+        "url": "https://www.eldiario.es/andalucia/almeria/caso-almeria-anos-verguenza-derecho_1_3405095.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Olivia Carballar, «El viaje de vuelta a Santander. 40 años del caso Almería», La Marea (10 de mayo de 2021; extracto de su libro Yo también soy víctima, 2018)",
+        "url": "https://www.lamarea.com/2021/05/10/el-viaje-de-vuelta-a-santander-40-anos-del-caso-almeria/",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Néstor Cenizo, «El Gobierno reparará simbólicamente a las víctimas del Caso Almería tras 40 años de olvido», eldiario.es (12 de enero de 2023)",
+        "url": "https://www.eldiario.es/andalucia/almeria/gobierno-reparara-simbolicamente-victimas-caso-almeria-40-anos-olvido_1_9861042.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Almería murders» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Almer%C3%ADa_murders",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fechas: La Marea, Público y eldiario.es sitúan la detención el 9 de mayo (hacia las 21:00) y el hallazgo el 10 de mayo (hacia las 6:00); las Wikipedias en inglés y castellano dicen detención el 10 y hallazgo el 11. Se sigue a la prensa. Sentencia: 28 de julio de 1982 según Wikipedia (eldiario.es escribe 1981 por error; El País la publicó el 31 de julio). El lugar de la retención se escribe Casafuerte o Casa Fuerte(s) y una fuente lo sitúa en Cabo de Gata: no se ha podido localizar con precisión y no figura en los lugares. Las coordenadas de Gérgal son las del pueblo; el hallazgo fue en el km 8,4 de la carretera comarcal. No se pudieron abrir El País (1981, 1982, 1994), El Mundo (2005) ni el Diario de Almería (2021)."
+  },
+  {
+    "id": "spencer-perceval",
+    "m": 5,
+    "d": 11,
+    "y": 1812,
+    "n": "John Bellingham",
+    "a": "El asesinato de Spencer Perceval",
+    "v": "1",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1812",
+    "st": "Cerrado. Bellingham fue declarado culpable de asesinato el 15 de mayo de 1812 y ahorcado el 18 de mayo. Algunos historiadores han criticado la rapidez del juicio, en el que se negó a la defensa un aplazamiento para reunir pruebas sobre su estado mental.",
+    "c": "La tarde del 11 de mayo de 1812, hacia las cinco y cuarto, el comerciante John Bellingham esperó al primer ministro Spencer Perceval en el vestíbulo de la Cámara de los Comunes y le disparó una vez en el pecho; Perceval murió a los pocos minutos. Bellingham, que culpaba al Gobierno de no haberle compensado por los años que pasó preso en Rusia, no intentó huir y fue detenido allí mismo. El 15 de mayo fue juzgado en el Old Bailey, el jurado lo declaró culpable tras una breve deliberación y el 18 de mayo fue ahorcado ante la cárcel de Newgate.",
+    "mo": "Esperó a la víctima en el vestíbulo de la Cámara de los Comunes, un lugar de paso abierto al público, y le disparó a quemarropa con una pistola.",
+    "loc": [
+      [
+        51.4994,
+        -0.1251,
+        "Palacio de Westminster, St Stephen's Hall (lugar del antiguo vestíbulo de los Comunes donde se cometió el crimen; hoy lo señala una placa)"
+      ],
+      [
+        51.5157,
+        -0.1019,
+        "Old Bailey y cárcel de Newgate (juicio el 15 de mayo y ejecución el 18)"
+      ],
+      [
+        51.4817,
+        0.0353,
+        "Iglesia de St Luke, Charlton (sepultura de Perceval)"
+      ],
+      [
+        64.5333,
+        40.5333,
+        "Arcángel, Rusia (donde Bellingham fue encarcelado por deudas desde 1804, origen de su agravio)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato del primer ministro Spencer Perceval",
+    "autor": "John Bellingham",
+    "fuentes": [
+      {
+        "titulo": "Encyclopaedia Britannica, «Spencer Perceval» (Britannica Editors)",
+        "url": "https://www.britannica.com/biography/Spencer-Perceval",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Martha A. Sherwood, «John Bellingham», EBSCO Research Starters (2024)",
+        "url": "https://www.ebsco.com/research-starters/history/john-bellingham",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "GOV.UK, «History of Spencer Perceval» (serie Past Prime Ministers, Gobierno del Reino Unido)",
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/spencer-perceval",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Jessica Brain, «Spencer Perceval», Historic UK",
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Spencer-Perceval/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Mollie Gillen, Assassination of the Prime Minister: The Shocking Death of Spencer Perceval (Londres: Sidgwick & Jackson, 1972; ejemplar en Internet Archive)",
+        "url": "https://archive.org/details/assassinationofp0000gill",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Spencer Perceval» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Spencer_Perceval",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora (hacia las 17:15) la da Wikipedia; Historic UK dice «hacia las cinco» y EBSCO, «por la tarde». La fecha del juicio (15 de mayo) la dan EBSCO y Wikipedia; el registro del Old Bailey (t18120513-5, sesión abierta el 13 de mayo) no se pudo abrir (error 403). El año de nacimiento de Bellingham varía (hacia 1770 según Wikipedia, 1776 según EBSCO) y no se usa. Coordenada de Arcángel: la de la ciudad. No se han podido abrir BBC, The Telegraph, parliament.uk, History of Parliament ni Hansard."
+  },
+  {
+    "id": "isabel-carrasco",
+    "m": 5,
+    "d": 12,
+    "y": 2014,
+    "n": "Montserrat González",
+    "a": "El crimen de la pasarela (asesinato de Isabel Carrasco)",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2014",
+    "st": "Sentencias firmes. El Supremo confirmó en diciembre de 2016 las penas de 22 años para Montserrat González y 20 para su hija Triana Martínez y elevó a 14 la de Raquel Gago; el Constitucional inadmitió sus recursos de amparo en 2017.",
+    "c": "Hacia las cinco y cuarto de la tarde del 12 de mayo de 2014, la presidenta de la Diputación de León, Isabel Carrasco, de 59 años, fue asesinada a tiros en la pasarela peatonal sobre el río Bernesga, en León. La autora de los disparos, Montserrat González, fue detenida minutos después gracias a un policía jubilado que la siguió; su hija Triana Martínez, antigua trabajadora de la Diputación, fue detenida poco después. El móvil fue el rencor por la carrera truncada de la hija. La policía local Raquel Gago, que guardó el revólver en su coche, fue condenada como cómplice.",
+    "mo": "Montserrat González esperó a la víctima en su trayecto a pie y le disparó con un revólver; su hija participó en la preparación y el arma acabó escondida en el coche de una amiga policía local.",
+    "loc": [
+      [
+        42.5986,
+        -5.5812,
+        "Pasarela sobre el río Bernesga, León (lugar del crimen)"
+      ],
+      [
+        42.5984,
+        -5.5701,
+        "Palacio de los Guzmanes, sede de la Diputación de León que presidía la víctima"
+      ],
+      [
+        40.4242,
+        -3.6935,
+        "Tribunal Supremo, Madrid (sentencia firme, 15 de diciembre de 2016)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Isabel Carrasco",
+    "autor": "Montserrat González (autora de los disparos) y su hija Triana Martínez, condenadas por asesinato; Raquel Gago, condenada como cómplice",
+    "fuentes": [
+      {
+        "titulo": "Comunicación Poder Judicial, «El Tribunal Supremo eleva de 12 a 14 años la condena a la policía municipal Raquel Gago por el asesinato de Isabel Carrasco» (15 de diciembre de 2016)",
+        "url": "https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Auzitegi-Gorena/Prentsarako-Sala/Hemeroteka/El-Tribunal-Supremo-eleva-de-12-a-14-anos-la-condena-a-la-policia-municipal-Raquel-Gago-por-el-asesinato-de-Isabel-Carrasco",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Diario de León, «Montserrat tenía justificación «escasa» de lo inconstitucional de sus sentencias» (25 de julio de 2017)",
+        "url": "https://www.diariodeleon.es/leon/170725/404117/montserrat-tenia-justificacion-escasa-inconstitucional-sentencias.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Diario de León, «Isabel Carrasco: 10 años del crimen de León» (especial, mayo de 2024)",
+        "url": "https://www.diariodeleon.es/historias/isabel-carrasco-10-aniversario-crimen-leon/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Chema Cillero y Francisco González, «Venganza en León: diez años del crimen de Isabel Carrasco», Leonoticias (7 de mayo de 2024)",
+        "url": "https://www.leonoticias.com/leon/asesinato-conmociono-leon-20240507081524-nt.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Asesinato de Isabel Carrasco» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Asesinato_de_Isabel_Carrasco",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora: 17:17 según Wikipedia y Diario de León. Edad de la víctima: 59 años (Diario de León da como nacimiento el 27 de agosto de 1954; Leonoticias dice 1955). La pena total de Raquel Gago aparece como 14 años (Supremo, CGPJ) y en algún titular como 15 años; se usa la del Supremo. En primera instancia (Audiencia de León, jurado, marzo de 2016) Gago fue absuelta del asesinato y condenada a 5 años por encubrimiento; el TSJ de Castilla y León la condenó como cómplice a 12 años. En 2017 el Constitucional inadmitió los amparos de las tres; no consta ningún recurso pendiente en España. Gago cumple en régimen abierto desde 2022-2023; madre e hija siguen en la prisión de Villabona (datos de 2024). No se pudieron abrir El País ni RTVE."
+  },
+  {
+    "id": "atentado-juan-pablo-ii",
+    "m": 5,
+    "d": 13,
+    "y": 1981,
+    "n": "Mehmet Ali Ağca",
+    "a": "El atentado contra Juan Pablo II",
+    "v": "3 heridos (el papa y dos peregrinas)",
+    "p": "Ciudad del Vaticano",
+    "f": "🇻🇦",
+    "per": "1981",
+    "st": "Ağca fue condenado en Italia a cadena perpetua, indultado en 2000 y extraditado a Turquía, donde salió de prisión en 2010. Los búlgaros acusados de ayudarle fueron absueltos por falta de pruebas en 1986; quién ordenó el atentado sigue sin aclararse.",
+    "c": "El 13 de mayo de 1981, a las 17:17, durante la audiencia general de los miércoles, el turco Mehmet Ali Ağca disparó contra Juan Pablo II, que recorría la plaza de San Pedro en un vehículo descubierto. Dos balas alcanzaron al papa, que fue operado de urgencia en el policlínico Gemelli, y otras dos personas resultaron heridas. Ağca fue detenido en el acto y condenado a cadena perpetua en julio de 1981. El papa lo visitó en la cárcel en 1983 y en 2000 fue indultado a petición suya.",
+    "mo": "Disparó varias veces con una pistola Browning de nueve milímetros desde la multitud, a pocos metros del vehículo del papa.",
+    "loc": [
+      [
+        41.9022,
+        12.4574,
+        "Plaza de San Pedro, Ciudad del Vaticano (atentado)"
+      ],
+      [
+        41.9315,
+        12.4294,
+        "Policlínico Agostino Gemelli, Roma (operación del papa)"
+      ],
+      [
+        41.9325,
+        12.5725,
+        "Prisión de Rebibbia, Roma (visita del papa a Ağca, 27 de diciembre de 1983)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El atentado contra Juan Pablo II en la plaza de San Pedro",
+    "autor": "Mehmet Ali Ağca (condenado). Los posibles instigadores no se han identificado.",
+    "fuentes": [
+      {
+        "titulo": "EFE, «A 30 años del atentado contra Juan Pablo II, aún siguen los misterios», La Nación (13 de mayo de 2011)",
+        "url": "https://www.lanacion.com.ar/el-mundo/a-30-anos-del-atentado-contra-juan-pablo-ii-aun-siguen-los-misterios-nid1372975/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Amelia Cartia, entrevista al juez instructor Ilario Martella sobre el atentado contra Juan Pablo II, AGI (13 de mayo de 2021)",
+        "url": "https://www.agi.it/cronaca/news/2021-05-13/attentato-papa-karol-wojtyla-ilario-martella-12532211/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Elisa Pinna y Luca Balestrieri, «Pope plot trial ends in ambiguous verdict», The Christian Science Monitor (31 de marzo de 1986)",
+        "url": "https://www.csmonitor.com/1986/0331/opope.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Hemeroteca Prensa Libre, «1981: Atentan contra Juan Pablo II», Prensa Libre (13 de mayo de 2015)",
+        "url": "https://www.prensalibre.com/hemeroteca/1981-atentan-contra-juan-pablo-ii",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«La histórica condena por el ataque a Juan Pablo II», Diario de Cuyo (21 de julio de 2011)",
+        "url": "https://www.diariodecuyo.com.ar/mundo/La-historica-condena-por-el-ataque-a-Juan-Pablo-II-20110721-0100.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Associated Press, «Man who shot pope mourning his death, lawyer says», NBC News (4 de abril de 2005)",
+        "url": "https://www.nbcnews.com/id/wbna7381043",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Attempted assassination of Pope John Paul II» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Pope_John_Paul_II",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La fecha de la sentencia de cadena perpetua varía entre el 21 de julio (Diario de Cuyo) y el 22 de julio de 1981 (AGI): se deja «julio de 1981». El número de balas que alcanzaron al papa varía (dos según EFE y Wikipedia; cuatro según otras crónicas): se usa dos. La absolución de los búlgaros fue el 29 de marzo de 1986 según el Christian Science Monitor (AGI dice 29 de junio). Las heridas de las dos peregrinas (Ann Odre y Rose Hall, según Wikipedia) no se han contrastado con una segunda fuente. La coordenada de Rebibbia es la del complejo penitenciario, sin precisar el pabellón."
+  },
+  {
+    "id": "ravaillac",
+    "m": 5,
+    "d": 14,
+    "y": 1610,
+    "n": "François Ravaillac",
+    "a": "El asesinato de Enrique IV",
+    "v": "1",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1610",
+    "st": "Cerrado. Ravaillac fue condenado por regicidio por el Parlamento de París y ejecutado el 27 de mayo de 1610. Se habló de posibles instigadores, pero nunca se probó que tuviera cómplices.",
+    "c": "El 14 de mayo de 1610 la carroza de Enrique IV quedó atascada entre carros de heno y de vino en la estrecha rue de la Ferronnerie de París, cerca del cementerio de los Inocentes. François Ravaillac, un católico exaltado de Angulema que llevaba meses intentando hablar con el rey, se subió a una rueda y lo apuñaló en el pecho; el rey murió poco después. Detenido en el acto y torturado para que delatara a cómplices, sostuvo que había actuado solo. El Parlamento de París lo condenó como regicida y el 27 de mayo fue descuartizado en la place de Grève.",
+    "mo": "Siguió la carroza real y, cuando se detuvo en un atasco, se subió a una rueda y apuñaló al rey con un cuchillo.",
+    "loc": [
+      [
+        48.8602,
+        2.3477,
+        "Rue de la Ferronnerie, frente al n.º 11 (lugar del atentado, señalado con una placa en el suelo)"
+      ],
+      [
+        48.8606,
+        2.3376,
+        "Palacio del Louvre (adonde llevaron al rey, que murió poco después)"
+      ],
+      [
+        48.8559,
+        2.346,
+        "Conciergerie (prisión de Ravaillac durante el proceso)"
+      ],
+      [
+        48.8566,
+        2.3514,
+        "Place de Grève, hoy plaza del Ayuntamiento (ejecución, 27 de mayo)"
+      ],
+      [
+        45.65,
+        0.16,
+        "Angulema (ciudad natal de Ravaillac)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Ravaillac apuñala a Enrique IV de Francia",
+    "autor": "François Ravaillac",
+    "fuentes": [
+      {
+        "titulo": "Encyclopædia Britannica, 11.ª edición (1911), «Ravaillac, François» (texto en Wikisource)",
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ravaillac,_Fran%C3%A7ois",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Fabienne Manière, «14 mai 1610: Ravaillac assassine Henri IV», Herodote.net",
+        "url": "https://www.herodote.net/14_mai_1610-evenement-16100514.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Laurine, «Un célèbre régicide derrière une plaque rue de la Ferronnerie», Paris Zigzag (actualizado el 9 de febrero de 2022)",
+        "url": "https://www.pariszigzag.fr/insolite/un-celebre-regicide-derriere-une-plaque-rue-de-la-ferronnerie/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Roland Mousnier, The Assassination of Henry IV: The Tyrannicide Problem and the Consolidation of the French Absolute Monarchy (Nueva York: Scribner, 1973; original francés de 1964; ejemplar en Internet Archive)",
+        "url": "https://archive.org/details/assassinationofh0000mous",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Assassinat d'Henri IV» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Assassinat_d%27Henri_IV",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora del atentado varía: hacia las 16:00 según la Wikipedia en francés y Paris Zigzag, «a primera hora de la tarde» según Herodote; no se da en el resumen. Herodote dice que el rey murió de camino al Louvre y la Wikipedia, poco después de llegar: el resumen dice «poco después». La fecha de la ejecución (27 de mayo) la dan la Britannica de 1911 y la Wikipedia en inglés. Las acusaciones de instigación (por ejemplo, la de Jacqueline d'Escoman contra el duque de Épernon en 1611) no se probaron y no se recogen. Coordenada de Angulema: la de la ciudad. No se pudieron abrir Cairn (artículo de Michel Cassan), Europe 1 ni histoire-image.org."
+  },
+  {
+    "id": "gran-robo-oro",
+    "m": 5,
+    "d": 15,
+    "y": 1855,
+    "n": "Edward Agar",
+    "a": "El gran robo del oro",
+    "v": "Ninguna (robo)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1855–1857",
+    "st": "Cerrado. En enero de 1857 el Old Bailey condenó a William Pierce por hurto y a James Burgess y William Tester por hurto siendo empleados de la compañía; Agar, que declaró contra ellos, ya cumplía condena por falsificación.",
+    "c": "La noche del 15 de mayo de 1855 una banda robó unos 102 kilos de oro, valorados entonces en 12.000 libras, de las cajas fuertes del tren de la South Eastern Railway que salía de London Bridge hacia Folkestone, camino de París. Durante el viaje sustituyeron los lingotes por perdigones de plomo y volvieron a sellar las cajas; en Boulogne una pesaba menos y en París se vio el plomo. El caso se aclaró año y medio después, cuando la compañera de Edward Agar lo contó todo. Agar declaró contra sus tres cómplices, que fueron condenados en enero de 1857.",
+    "mo": "Con copias de las llaves sacadas de moldes de cera y la ayuda de dos empleados de la compañía, Agar viajó escondido en el furgón del guarda, abrió las cajas fuertes y cambió el oro por plomo del mismo peso.",
+    "loc": [
+      [
+        51.5044,
+        -0.0857,
+        "Estación de London Bridge (salida del tren con el oro)"
+      ],
+      [
+        51.2402,
+        -0.1659,
+        "Estación de Redhill (Tester recoge parte del oro durante el viaje)"
+      ],
+      [
+        51.0781,
+        1.1874,
+        "Estación del puerto de Folkestone (destino del tren y embarque hacia Boulogne)"
+      ],
+      [
+        48.8811,
+        2.3553,
+        "París (donde se descubrió el plomo en lugar del oro)"
+      ],
+      [
+        51.5158,
+        -0.1018,
+        "Old Bailey (juicio de Pierce, Burgess y Tester, enero de 1857)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El gran robo del oro de 1855",
+    "autor": "Edward Agar y William Pierce, con la ayuda de los empleados James Burgess y William Tester",
+    "fuentes": [
+      {
+        "titulo": "«The Bullion Robbery on the South-Eastern Railway, May 1855»: crónica del juicio en el Central Criminal Court publicada por The Times (14-17 de enero de 1857), transcrita por David Willmore (2025)",
+        "url": "https://www.waconvicts.fhwa.org.au/exhibits/the-great-train-robbery--single-space.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Rhys Griffiths, «The first Great Train Robbery which was carried out in Kent», KentOnline (25 de noviembre de 2021)",
+        "url": "https://www.kentonline.co.uk/kent/news/the-first-great-train-robbery-which-was-carried-out-in-ken-257642/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Miriam Bibby, «The Great Gold Robbery of 1855», Historic UK (12 de febrero de 2025)",
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Great-Gold-Robbery-1855",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Great Gold Robbery» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Great_Gold_Robbery",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La duración del juicio varía: Wikipedia da del 13 al 15 de enero de 1857 y la crónica de The Times transcrita recoge cuatro sesiones (13-16 de enero). Las penas (catorce años de deportación para Burgess y Tester; dos años de trabajos forzados para Pierce) salen de la crónica de The Times y de Wikipedia; Historic UK coincide en lo esencial. La transcripción de The Times está alojada en una web de historia de los deportados a Australia Occidental."
+  },
+  {
+    "id": "sada-abe",
+    "m": 5,
+    "d": 18,
+    "y": 1936,
+    "n": "Sada Abe",
+    "a": "El caso de Sada Abe",
+    "v": "1",
+    "p": "Japón",
+    "f": "🇯🇵",
+    "per": "1936",
+    "st": "Cerrado. El tribunal de distrito de Tokio la condenó el 21 de diciembre de 1936 a seis años de cárcel por asesinato y profanación de cadáver; salió en libertad el 17 de mayo de 1941 gracias a una amnistía. Desapareció de la vida pública en 1970 y se desconoce cuándo murió.",
+    "c": "En la madrugada del 18 de mayo de 1936, en la casa de té Masaki del barrio de Ogu, en Tokio, Sada Abe, de 30 años, estranguló a su amante Kichizō Ishida, dueño del restaurante en el que ella trabajaba, y mutiló el cadáver. Huyó y el caso desató un gran revuelo en la prensa. El 20 de mayo la policía la detuvo en una posada cerca de la estación de Shinagawa, donde se alojaba con un nombre falso. Condenada a seis años, salió en 1941, y su historia inspiró varias películas, entre ellas El imperio de los sentidos (1976).",
+    "mo": "Lo estranguló con una faja de kimono en la habitación de la casa de té donde la pareja llevaba varios días y escapó antes de que se descubriera el cuerpo.",
+    "loc": [
+      [
+        35.7499,
+        139.7585,
+        "Ogu (hoy Nishi-Ogu), distrito de Arakawa, Tokio (casa de té Masaki, lugar del crimen)"
+      ],
+      [
+        35.6286,
+        139.7392,
+        "Inmediaciones de la estación de Shinagawa, Tokio (detención en una posada, 20 de mayo de 1936)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Sada Abe y el crimen que paralizó Tokio",
+    "autor": "Sada Abe",
+    "fuentes": [
+      {
+        "titulo": "William Johnston, Geisha, Harlot, Strangler, Star: A Woman, Sex, and Morality in Modern Japan, Columbia University Press (2005)",
+        "url": "https://cup.columbia.edu/book/geisha-harlot-strangler-star/9780231130523",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Christine L. Marran, Poison Woman: Figuring Female Transgression in Modern Japanese Culture, University of Minnesota Press (2007)",
+        "url": "https://books.google.com/books?id=Htxwh3tUwPcC",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "«阿部定事件» (Heibonsha, Sekai Daihyakka Jiten; Britannica International Encyclopaedia, edición japonesa), en Kotobank",
+        "url": "https://kotobank.jp/word/%E9%98%BF%E9%83%A8%E5%AE%9A%E4%BA%8B%E4%BB%B6-1149290",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«阿部定» (20seiki Nihon Jinmei Jiten, Nichigai; Nihon Jinmei Daijiten, Kodansha), en Kotobank",
+        "url": "https://kotobank.jp/word/%E9%98%BF%E9%83%A8%E5%AE%9A",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Sada Abe» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Sada_Abe",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora de la detención varía: hacia las 16:00 según la Wikipedia japonesa y hacia las 17:30 según la Britannica japonesa. La casa de té se llamaba 満佐喜 (Masaki), en Ogu-machi 1881, hoy Nishi-Ogu 2-7-9 (Arakawa): la coordenada es la del barrio, no la del edificio. Uno de los diccionarios biográficos de Kotobank parece dar cinco años de condena; se siguen los seis años de la sentencia que recogen Johnston, la Britannica japonesa y las Wikipedias. Falta una hemeroteca accesible en línea (el Tokyo Asahi Shimbun del 19 de mayo de 1936 es la primera noticia, sin copia abierta)."
+  },
+  {
+    "id": "oscar-wilde",
+    "m": 5,
+    "d": 25,
+    "y": 1895,
+    "n": "Oscar Wilde",
+    "a": "El proceso de Oscar Wilde",
+    "v": "Ninguna (condena por relaciones consentidas entre hombres)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1895–1897",
+    "st": "Cumplió la condena completa. En 2017 quedó entre los hombres indultados a título póstumo por delitos de homosexualidad ya abolidos.",
+    "c": "En abril de 1895 Oscar Wilde perdió el pleito por difamación que él mismo había puesto al marqués de Queensberry, padre de su amigo lord Alfred Douglas, y el 6 de abril fue detenido por «indecencia grave», un delito que castigaba las relaciones entre hombres. El primer jurado no llegó a un veredicto. En el segundo juicio, ante el juez Wills en el Old Bailey, el 25 de mayo de 1895 fue declarado culpable y condenado, como su coacusado Alfred Taylor, a dos años de trabajos forzados, la pena máxima. Salió en 1897, se fue a Francia y murió en París en 1900.",
+    "mo": "No hubo víctimas: la acusación se basó en sus relaciones con jóvenes adultos, que la ley de 1885 castigaba aunque fueran consentidas, y en testigos reunidos tras el pleito contra Queensberry.",
+    "loc": [
+      [
+        51.5158,
+        -0.1018,
+        "Old Bailey (pleito por difamación y juicios de abril y mayo de 1895)"
+      ],
+      [
+        51.4501,
+        -0.1776,
+        "Prisión de Wandsworth (parte de la condena, 1895)"
+      ],
+      [
+        51.4564,
+        -0.9639,
+        "Cárcel de Reading (donde cumplió la mayor parte de la pena, 1895-1897)"
+      ],
+      [
+        48.8563,
+        2.3351,
+        "L'Hôtel, antiguo Hôtel d'Alsace, París (donde murió en 1900)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Oscar Wilde, condenado por «indecencia grave»",
+    "autor": "Oscar Wilde, condenado por «indecencia grave» (delito abolido; indultado a título póstumo en 2017)",
+    "fuentes": [
+      {
+        "titulo": "London Daily News (27 de mayo de 1895), crónica del veredicto en el Central Criminal Court; Wilde Trials International News Archive, Simon Fraser University",
+        "url": "https://wilde.dhil.lib.sfu.ca/bldn_994.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Oscar Wilde Is A Convict», The New York Times (26 de mayo de 1895); Wilde Trials International News Archive, Simon Fraser University",
+        "url": "https://wilde.dhil.lib.sfu.ca/ustnyt_6287.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Patrick Kelleher, «On this day, 125 years ago, Oscar Wilde was convicted of 'gross indecency'», PinkNews (25 de mayo de 2020)",
+        "url": "https://www.thepinknews.com/2020/05/25/oscar-wilde-conviction-gross-indecency-gay-sodomy-lord-alfred-douglas/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ministerio de Justicia del Reino Unido, «Thousands officially pardoned under 'Turing's law'» (31 de enero de 2017)",
+        "url": "https://www.gov.uk/government/news/thousands-officially-pardoned-under-turings-law",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Oscar Wilde» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No es un error judicial en sentido estricto: la ley de 1885 se aplicó, y la condena se considera hoy injusta porque castigaba relaciones consentidas. Por eso no se ha puesto el grupo errores_judiciales; el coordinador puede añadirlo si lo prefiere. La nota del Gobierno de 2017 sobre la «ley Turing» no nombra a Wilde: su inclusión entre los indultados la dan PinkNews y Wikipedia. Wikipedia da como fin de la pena el 18 o el 19 de mayo de 1897 en distintos pasajes; la ficha dice solo 1897. El New York Times habla de unas dos horas de deliberación del jurado; el London Daily News no da el dato. La Britannica no se pudo abrir (403)."
+  },
+  {
+    "id": "william-palmer",
+    "m": 5,
+    "d": 27,
+    "y": 1856,
+    "n": "William Palmer",
+    "a": "El envenenador de Rugeley",
+    "v": "1 probada (se le atribuyen más)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1855–1856",
+    "st": "Condenado a muerte por el asesinato de John Parsons Cook y ahorcado en Stafford el 14 de junio de 1856. Las demás muertes que se le atribuyen nunca se juzgaron.",
+    "c": "William Palmer, médico de Rugeley (Staffordshire) acosado por las deudas de las apuestas, fue acusado de envenenar con estricnina a su amigo John Parsons Cook, que murió el 21 de noviembre de 1855 en la posada Talbot Arms, frente a su casa. Por temor a que un jurado local no fuera imparcial, una ley de 1856 permitió juzgarlo en el Old Bailey de Londres. El juicio duró doce días y el 27 de mayo de 1856 el jurado lo declaró culpable tras una hora y dieciocho minutos de deliberación. Fue ahorcado ante la cárcel de Stafford el 14 de junio.",
+    "mo": "Según la acusación, dio a Cook píldoras con estricnina mientras lo atendía como médico, para quedarse con sus ganancias de las carreras y saldar sus deudas.",
+    "loc": [
+      [
+        52.7599,
+        -1.9388,
+        "Rugeley (posada Talbot Arms, donde murió Cook, y casa de Palmer)"
+      ],
+      [
+        51.5158,
+        -0.1018,
+        "Old Bailey (juicio del 14 al 27 de mayo de 1856)"
+      ],
+      [
+        52.8117,
+        -2.1178,
+        "Cárcel de Stafford (ejecución, 14 de junio de 1856)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "El envenenador de Rugeley, declarado culpable",
+    "autor": "William Palmer",
+    "fuentes": [
+      {
+        "titulo": "George H. Knott (ed.), Trial of William Palmer, William Hodge & Co., Edimburgo y Londres (1912)",
+        "url": "https://archive.org/details/trialofwilliampa00palmiala",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "The most extraordinary trial of William Palmer, for the Rugeley poisonings, which lasted twelve days (May 14-27, 1856), W. M. Clark, Londres (1857)",
+        "url": "https://archive.org/details/cu31924030310522",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Illustrated and unabridged edition of the Times report of the trial of William Palmer, for poisoning John Parsons Cook, at Rugeley, Ward and Lock, Londres (1856)",
+        "url": "https://archive.org/details/101142897.nlm.nih.gov",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Alfred Swaine Taylor, On poisoning by strychnia, with comments on the medical evidence given at the trial of William Palmer, Longman, Londres (1856)",
+        "url": "https://archive.org/details/onpoisoningbystr00tayluoft",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «William Palmer (murderer)» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/William_Palmer_(murderer)",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El día del veredicto (martes 27 de mayo de 1856, duodécimo día del juicio) y la deliberación de una hora y dieciocho minutos salen del texto de Knott (1912); el título de la edición de Clark (1857) confirma que el juicio duró del 14 al 27 de mayo. Wikipedia habla de «algo más de una hora». El acta del Old Bailey (t18560514-490) no se pudo abrir (403). Las muertes de su esposa, su hermano, su suegra, un acreedor y cuatro hijos pequeños son sospechas que nunca se juzgaron, por eso no están en el resumen. La coordenada de Rugeley es la del centro del pueblo, no la de la posada."
+  },
+  {
+    "id": "walter-tobagi",
+    "m": 5,
+    "d": 28,
+    "y": 1980,
+    "n": "Marco Barbone",
+    "a": "El asesinato de Walter Tobagi",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1980",
+    "st": "Cerrado. En 1983 un tribunal de Milán condenó a los seis miembros de la Brigata XXVIII marzo: Barbone y Morandini, arrepentidos, recibieron penas de unos ocho años y quedaron en libertad provisional; los demás, penas de hasta 30 años, rebajadas en apelación.",
+    "c": "Hacia las once de la mañana del 28 de mayo de 1980, el periodista del Corriere della Sera Walter Tobagi, de 33 años, fue asesinado de cinco disparos al salir de su casa, en la via Salaino de Milán. Lo mató un comando de la Brigata XXVIII marzo, un pequeño grupo de jóvenes de extrema izquierda que buscaba el reconocimiento de las Brigadas Rojas. Su jefe, Marco Barbone, detenido pocos meses después, confesó y colaboró con los jueces. En el juicio de 1983, Barbone y Paolo Morandini obtuvieron penas reducidas como arrepentidos y salieron en libertad, lo que causó una fuerte polémica.",
+    "mo": "El comando esperó a Tobagi junto a su casa y le disparó cinco tiros con pistola; según la reconstrucción judicial, Mario Marano hizo el primer disparo y Barbone el mortal.",
+    "loc": [
+      [
+        45.4559,
+        9.1648,
+        "Via Salaino, esquina con via Andrea Solari, Milán (lugar del asesinato)"
+      ],
+      [
+        45.4767,
+        9.1878,
+        "Via Solferino 28, Milán (sede del Corriere della Sera, donde trabajaba)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato del periodista Walter Tobagi",
+    "autor": "Brigata XXVIII marzo: Marco Barbone, Paolo Morandini, Mario Marano, Francesco Giordano, Daniele Laus y Manfredi De Stefano (condenados)",
+    "fuentes": [
+      {
+        "titulo": "«L'assassinio di Walter Tobagi, 40 anni fa», Il Post (28 de mayo de 2020)",
+        "url": "https://www.ilpost.it/2020/05/28/tobagi-brigate-rosse/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Janet Stobart, «Italians outraged by freeing of terrorists», The Christian Science Monitor (2 de diciembre de 1983)",
+        "url": "https://csmonitor.com/1983/1202/120245.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gabriele Moroni, sobre la muerte de Paolo Morandini, miembro arrepentido del comando, Il Giorno (27 de octubre de 2018)",
+        "url": "https://www.ilgiorno.it/milano/cronaca/morto-killer-tobagi-e2722367",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Il Giorno, sobre Francesco Giordano y las condenas del proceso Tobagi (15 de octubre de 2023)",
+        "url": "https://www.ilgiorno.it/milano/cronaca/francesco-giordano-corteo-palestina-pdxt5mrv",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Il Giorno, sobre la investigación del asesinato de Tobagi (17 de enero de 2018)",
+        "url": "https://www.ilgiorno.it/milano/cronaca/omicidio-tobagi-4dadb695",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Una fredda mattina di maggio», el film ispirato all'omicidio di Walter Tobagi, Sky TG24 (18 de marzo de 2022)",
+        "url": "https://tg24.sky.it/spettacolo/cinema/approfondimenti/walter-tobagi-film",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Walter Tobagi» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Walter_Tobagi",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora varía entre las 11:00 (Sky TG24, Wikipedia) y las 11:10 (Il Giorno, 2023). La detención de Barbone se sitúa el 25 de septiembre de 1980 (fecha que Il Giorno da para Morandini) o en octubre (Il Post). La pena de Morandini es de 8 años y 9 meses según Il Giorno (2023) y de 8 años y 6 meses según Il Giorno (2018). No se pudo abrir el archivo del Corriere della Sera ni el de La Repubblica (bloqueados para la herramienta), por lo que falta una fuente del propio Corriere; la fecha queda confirmada por Il Post, Il Giorno y Sky TG24."
+  },
+  {
+    "id": "aramburu",
+    "m": 5,
+    "d": 29,
+    "y": 1970,
+    "n": "Fernando Abal Medina",
+    "a": "El secuestro de Aramburu",
+    "v": "1",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1970",
+    "st": "Montoneros reivindicó el crimen y sus autores lo relataron en 1974. Emilio Maza murió en julio de 1970 en el asalto a La Calera y Norma Arrostito fue asesinada en la ESMA durante la última dictadura.",
+    "c": "La mañana del 29 de mayo de 1970, Día del Ejército, dos jóvenes vestidos de militares se presentaron en el piso de la calle Montevideo, en Buenos Aires, del expresidente de facto Pedro Eugenio Aramburu, de 67 años, uno de los jefes del golpe que derrocó a Perón en 1955, y se lo llevaron con el pretexto de protegerlo. Era la primera acción de Montoneros. Lo trasladaron a la estancia La Celma, en Timote, donde, según el relato de los propios autores, Fernando Abal Medina lo mató el 1 de junio tras un «juicio revolucionario». La policía halló el cuerpo en un sótano de la casa el 16 de julio.",
+    "mo": "Los secuestradores, disfrazados de militares y apoyados en la calle por cómplices vestidos de policía y de sacerdote, se lo llevaron en coches robados y cambiaron de vehículo varias veces hasta llegar a la estancia, a unos 380 kilómetros.",
+    "loc": [
+      [
+        -34.5966,
+        -58.3899,
+        "Calle Montevideo 1053, Buenos Aires (domicilio de Aramburu, lugar del secuestro)"
+      ],
+      [
+        -35.3493,
+        -62.2335,
+        "Estancia La Celma, Timote, partido de Carlos Tejedor (cautiverio, muerte y hallazgo del cuerpo)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro de Pedro Eugenio Aramburu",
+    "autor": "Montoneros. Según su propio relato: Fernando Abal Medina (autor de los disparos), Emilio Maza, Carlos Gustavo Ramus, Ignacio Vélez, Carlos Capuano Martínez, Mario Firmenich, Norma Arrostito y Carlos Maguid",
+    "fuentes": [
+      {
+        "titulo": "Hugo Alconada Mon, «A 50 años del secuestro de Aramburu. El hallazgo inesperado que reveló la trama del crimen de Montoneros», La Nación (29 de mayo de 2020)",
+        "url": "https://www.lanacion.com.ar/politica/a-50-anos-del-secuestro-aramburu-el-nid2370777/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Paso a paso, la historia de cómo y cuándo los Montoneros decidieron matar a Aramburu» (extracto de María O'Donnell, Aramburu, Planeta), Infobae (12 de mayo de 2020)",
+        "url": "https://www.infobae.com/cultura/2020/05/12/paso-a-paso-la-historia-de-como-y-cuando-los-montoneros-decidieron-matar-a-aramburu/",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Alberto Amato, «El día que Montoneros secuestró al general Aramburu: el relato de Firmenich y la inquietante versión del hijo del militar», Infobae (29 de mayo de 2024)",
+        "url": "https://www.infobae.com/sociedad/2024/05/29/el-dia-que-montoneros-secuestro-al-general-aramburu-el-relato-de-firmenich-y-la-inquietante-version-del-hijo-del-militar/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Juan Bautista Yofre, «El hallazgo del cadáver de Aramburu: 5 heridas de bala, la confesión de Montoneros y el misterio del noveno asesino», Infobae (16 de julio de 2023)",
+        "url": "https://www.infobae.com/sociedad/2023/07/16/el-hallazgo-del-cadaver-de-aramburu-5-heridas-de-bala-la-confesion-de-montoneros-y-el-misterio-del-noveno-asesino/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Juan Bautista Yofre, «Operativo Pindapoy: el asesinato de Aramburu, el rechazo de Perón y un encuentro a solas con Firmenich», Infobae (14 de mayo de 2020)",
+        "url": "https://www.infobae.com/sociedad/2020/05/14/operativo-pindapoy-el-asesinato-de-aramburu-el-rechazo-de-peron-y-un-encuentro-a-solas-con-firmenich/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Asesinato de Pedro Eugenio Aramburu» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Asesinato_de_Pedro_Eugenio_Aramburu",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora del secuestro varía: entre las 8:45 y las 9:15 según O'Donnell y Amato (Infobae); «al mediodía» según Wikipedia y la selección. Se escribe «la mañana». La muerte el 1 de junio a las 7:00 procede del comunicado y del relato de Montoneros; Fraga y Pandolfi la adelantan y una versión del Ejército sostuvo que murió en el Hospital Militar. El hallazgo del cuerpo es el 16 de julio según La Nación y Amato; el copete de Yofre (Infobae, 2023) da el 17. Wikipedia afirma que hubo condenas por homicidio que no se cumplieron por la amnistía de 1973: no se ha contrastado con una segunda fuente y por eso no figura en el resumen. La dirección queda «entre Santa Fe y Charcas» según una nota de Infobae y «entre Santa Fe y Marcelo T. de Alvear» según otra: la coordenada se ha tomado frente al colegio Champagnat (Montevideo 1050), entre Santa Fe y Marcelo T. de Alvear. No se buscó en Clarín."
+  },
+  {
+    "id": "trujillo",
+    "m": 5,
+    "d": 30,
+    "y": 1961,
+    "n": "Antonio de la Maza",
+    "a": "El ajusticiamiento de Trujillo",
+    "v": "1",
+    "p": "República Dominicana",
+    "f": "🇩🇴",
+    "per": "1961",
+    "st": "No hubo juicio. El régimen persiguió a los conjurados y en 1961 mató o fusiló a casi todos; solo sobrevivieron Antonio Imbert Barrera, que murió en 2016, y Luis Amiama Tió.",
+    "c": "La noche del 30 de mayo de 1961, hacia las diez menos cuarto, un grupo de conjurados emboscó en la autopista de Ciudad Trujillo (hoy Santo Domingo) a San Cristóbal, pasada la Feria Ganadera, el Chevrolet en el que viajaba Rafael Leónidas Trujillo, que dominaba el país desde 1930, y lo mató a tiros; su chófer resultó herido. La segunda parte del plan, que el general José René Román depusiera a la familia Trujillo, no llegó a ponerse en marcha. El Servicio de Inteligencia Militar persiguió a los conjurados: casi todos fueron asesinados o fusilados en los meses siguientes.",
+    "mo": "Los conjurados esperaron en tres coches a lo largo de la carretera y, cuando pasó el de Trujillo, sin escolta, lo alcanzaron y lo acribillaron. Después se llevaron el cadáver en el maletero de un coche a casa del general Juan Tomás Díaz.",
+    "loc": [
+      [
+        18.4313,
+        -69.9573,
+        "Monumento a los Héroes del 30 de Mayo, autopista 30 de Mayo, Santo Domingo (levantado en la zona de la emboscada)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El ajusticiamiento de Trujillo",
+    "autor": "Antonio de la Maza, Antonio Imbert Barrera, Salvador Estrella Sadhalá, Amado García Guerrero, Pedro Livio Cedeño, Huáscar Tejeda y Roberto Pastoriza, dentro de una conjura más amplia",
+    "fuentes": [
+      {
+        "titulo": "«El ajusticiamiento de Trujillo, paso a paso, narrado por Juan Daniel Balcácer» (mesa redonda del Archivo General de la Nación), Acento (31 de mayo de 2023)",
+        "url": "https://acento.com.do/cultura/el-ajusticiamiento-de-trujillo-paso-a-paso-narrado-por-juan-daniel-balcacer-9205439.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Emilia Pereyra, «Ajusticiamiento de Trujillo desató una horrenda cacería», Diario Libre (29 de mayo de 2020)",
+        "url": "https://www.diariolibre.com/revista/cultura/ajusticiamiento-de-trujillo-desato-una-horrenda-caceria-FP19163017",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Argénida Romero, «62 años del tiranicidio de Rafael Leónidas Trujillo», Diario Libre (30 de mayo de 2023)",
+        "url": "https://www.diariolibre.com/actualidad/nacional/2023/05/29/62-anos-del-tiranicidio-de-rafael-leonidas-trujillo/2329908",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Katherine Reyes, «Rafael Leónidas Trujillo, un tirano ajusticiado por valientes dominicanos», El Día (30 de mayo de 2016)",
+        "url": "https://eldia.com.do/rafael-leonidas-trujillo-un-tirano-ajusticiado-por-valientes-dominicanos/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Rafael Trujillo» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Rafael_Trujillo",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora varía: 9:45 de la noche (El Día y la selección), muerte fijada a las 10:10 (Diario Libre, 2020), 10:00 o 10:15 en otras crónicas. El Día sitúa la emboscada en el kilómetro 9 de la carretera; Diario Libre, un kilómetro más allá de la Feria Ganadera. La lista de participantes directos varía (Diario Libre, 2020, añade a Juan Tomás Díaz y Modesto Díaz). Luis Amiama Tió no estuvo en la emboscada. Los fusilamientos de la Hacienda María (Estrella Sadhalá, Tejeda, Cedeño, Pastoriza y Cáceres, según Diario Libre, 2023) fueron el 18 de noviembre de 1961 según Wikipedia; no se ha encontrado una segunda fuente para el día exacto. La coordenada es la del monumento, no un punto exacto de la emboscada. En el país los autores son considerados héroes: se ha mantenido el término «ajusticiamiento» solo en el título, como en la selección."
+  },
+  {
+    "id": "mateo-morral",
+    "m": 5,
+    "d": 31,
+    "y": 1906,
+    "n": "Mateo Morral",
+    "a": "El atentado de la calle Mayor",
+    "v": "Más de 20 muertos y más de cien heridos",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1906",
+    "st": "Cerrado. Morral murió el 2 de junio de 1906. En 1907 José Nakens y dos colaboradores fueron condenados a nueve años por ayudarle a esconderse (indultados en 1908) y Francisco Ferrer Guardia fue absuelto.",
+    "c": "El 31 de mayo de 1906, poco antes de las dos de la tarde, el anarquista Mateo Morral, de Sabadell, lanzó una bomba escondida en un ramo de flores desde el balcón de una pensión del número 88 de la calle Mayor de Madrid contra la carroza de Alfonso XIII y Victoria Eugenia, que volvían de su boda en San Jerónimo. Los reyes salieron ilesos, pero murieron más de veinte personas y hubo más de cien heridos. Morral se escondió con ayuda del periodista José Nakens y huyó a pie. El 2 de junio, reconocido cerca de Torrejón de Ardoz, mató al guarda que lo retenía y, según la versión oficial, se suicidó.",
+    "mo": "Bomba casera de tipo Orsini oculta en un ramo de flores y lanzada desde un balcón al paso del cortejo real; el ramo tropezó con los cables del tranvía y cayó sobre el público.",
+    "loc": [
+      [
+        40.4152,
+        -3.7125,
+        "Calle Mayor 88 (hoy 84), Madrid (balcón desde el que se lanzó la bomba)"
+      ],
+      [
+        40.4145,
+        -3.6911,
+        "Iglesia de San Jerónimo el Real, Madrid (boda real, de donde venía el cortejo)"
+      ],
+      [
+        40.418,
+        -3.7143,
+        "Palacio Real de Madrid (destino del cortejo)"
+      ],
+      [
+        40.45,
+        -3.4831,
+        "Torrejón de Ardoz (muerte de Morral y del guarda, 2 de junio de 1906)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La bomba de Mateo Morral en la boda de Alfonso XIII",
+    "autor": "Mateo Morral",
+    "fuentes": [
+      {
+        "titulo": "Pelai Pagès i Blanch, «Una boda amb olor de sang», El Temps, n.º 1146 (mayo de 2006)",
+        "url": "https://www.eltemps.cat/documents/el-temps_2006_05_1146_0063_0064.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gran Enciclopèdia Catalana, «Mateu Morral i Roca»",
+        "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/mateu-morral-i-roca",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Mario Cortijo, «Una bomba escondida en un ramo de flores: la masacre terrorista en Madrid para matar a un rey», Vozpópuli (30 de mayo de 2026)",
+        "url": "https://www.vozpopuli.com/espana/madrid/una-bomba-escondida-en-un-ramo-de-flores-la-masacre-terrorista-en-madrid-para-matar-a-un-rey.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Álex Pocino Pérez, «Mateo Morral (1879-1906): causas de un regicidio», trabajo de fin de grado, Universitat de Barcelona (2021)",
+        "url": "https://diposit.ub.edu/dspace/handle/2445/181206",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Mateo Morral» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Mateo_Morral",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Cifra de muertos: 25 (Wikipedia en castellano, 15 de ellos militares), 24 (Gran Enciclopèdia Catalana y Wikipedia en inglés), 23 (Vozpópuli) y «más de veinte» (El Temps); se deja «más de veinte». Hora: 13:55 según Wikipedia; «poco antes de las dos» según El Temps. Año de nacimiento: 1879 o 1880. El guarda muerto se llamaba Fructuoso Vega según Wikipedia (no confirmado en otra fuente, por eso no se nombra). Un estudio forense de las fotografías del cadáver, difundido por Francisco Pérez Abellán en ABC (2015), sostiene que Morral no se suicidó; la ficha mantiene la versión oficial y lo indica. El trabajo de la Universitat de Barcelona es un TFG: fuente académica menor. No se pudieron abrir ABC (2014, 2015) ni el Diccionario Biográfico de la Real Academia de la Historia (no se encontró entrada)."
+  }
+]

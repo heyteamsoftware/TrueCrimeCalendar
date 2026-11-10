@@ -1,0 +1,1709 @@
+[
+  {
+    "id": "charley-ross",
+    "m": 7,
+    "d": 1,
+    "y": 1874,
+    "n": "Charley Ross",
+    "a": "El secuestro de Charley Ross",
+    "v": "1 (desaparecido)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1874–1875",
+    "st": "Sin resolver. Los dos presuntos secuestradores murieron en diciembre de 1874 sin llegar a juicio. En 1875, un antiguo policía cuñado de uno de ellos fue absuelto del secuestro y condenado solo por conspiración. El niño nunca apareció.",
+    "c": "El 1 de julio de 1874, dos hombres en un carruaje se llevaron de la puerta de su casa, en Germantown (Filadelfia), a Charley Ross, de cuatro años, y a su hermano Walter, de cinco, con la promesa de comprarles petardos para el 4 de julio. Walter fue abandonado ese mismo día y Charley no volvió. Su padre recibió cartas que pedían 20.000 dólares de rescate, pero la entrega nunca llegó a hacerse. En diciembre, dos ladrones, William Mosher y Joseph Douglas, murieron tiroteados durante un robo en Bay Ridge (Brooklyn); antes de morir, Douglas dijo que ellos se habían llevado al niño. Charley nunca apareció.",
+    "mo": "Los secuestradores se ganaron la confianza de los niños con caramelos durante varios días, se los llevaron en un carruaje y pidieron el rescate en cartas sin firma enviadas desde distintas oficinas de correos.",
+    "loc": [
+      [
+        40.0502,
+        -75.1743,
+        "East Washington Lane, Germantown, Filadelfia (casa de la familia, donde se llevaron a los niños)"
+      ],
+      [
+        40.632,
+        -74.0232,
+        "Bay Ridge, Brooklyn (casa de los Van Brunt, donde murieron los dos sospechosos el 14 de diciembre de 1874)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "El secuestro de Charley Ross",
+    "autor": "Atribuido a William Mosher y Joseph Douglas (murieron sin ser juzgados)",
+    "fuentes": [
+      {
+        "titulo": "Christian K. Ross, «The Father's Story of Charley Ross, the Kidnapped Child» (Filadelfia, John E. Potter, 1876; Internet Archive)",
+        "url": "https://archive.org/details/fathersstoryofch00rossrich",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Carrie Hagen, «The Story Behind the First Ransom Note in American History», Smithsonian Magazine (9 de diciembre de 2013)",
+        "url": "https://www.smithsonianmag.com/history/the-story-behind-the-first-ransom-note-in-american-history-180948612/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Independence Hall Association, «The Story of Charley Ross», ushistory.org (Historic Germantown)",
+        "url": "https://ushistory.org/germantown/upper/charley.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Brittany DeVito, «23 Letters: A Child Lost Forever», Pennsylvania Center for the Book, Penn State University Libraries (2010)",
+        "url": "https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/23-letters-child-lost-forever",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "New York Public Library Digital Collections, «Philadelphia, PA. — The trial of William Westervelt, an alleged accomplice in the abduction of little Charlie Ross» (grabado de 1875)",
+        "url": "https://digitalcollections.nypl.org/items/510d47e1-0d1b-a3d9-e040-e00a18064a99",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Kidnapping of Charley Ross» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Kidnapping_of_Charley_Ross",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Wikipedia sitúa el tiroteo de Bay Ridge «la noche del 13 de diciembre»; el libro del padre (1876) dice que la alarma sonó a las dos de la madrugada del 14: se usa el 14. Smithsonian lo sitúa «en Long Island» (Brooklyn está en esa isla). La pena de seis años de Westervelt solo la da Wikipedia; en la ficha se dice «condenado por conspiración» sin cifra."
+  },
+  {
+    "id": "atentado-garfield",
+    "m": 7,
+    "d": 2,
+    "y": 1881,
+    "n": "Charles J. Guiteau",
+    "a": "El asesino del presidente Garfield",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1881–1882",
+    "st": "Caso cerrado. Guiteau fue declarado culpable el 25 de enero de 1882, tras rechazarse su defensa por locura, y ahorcado en Washington el 30 de junio de 1882.",
+    "c": "El 2 de julio de 1881, Charles J. Guiteau disparó dos veces por la espalda al presidente James A. Garfield en la estación del ferrocarril de Baltimore y Potomac, en Washington, cuando llevaba menos de cuatro meses en el cargo. Guiteau, que se creía con derecho a un consulado en Europa por haber hecho campaña por él, se entregó en el acto. Garfield sobrevivió once semanas, mientras sus médicos buscaban la bala sin éxito y agravaban las infecciones, y murió el 19 de septiembre en Elberon (Nueva Jersey). Guiteau fue juzgado en un proceso célebre por su defensa de locura, condenado y ahorcado.",
+    "mo": "Compró un revólver y siguió al presidente durante semanas hasta encontrarlo en la estación, donde le disparó por la espalda a corta distancia.",
+    "loc": [
+      [
+        38.8919,
+        -77.0203,
+        "Antigua estación de Baltimore y Potomac, hoy National Mall junto a la National Gallery of Art (atentado)"
+      ],
+      [
+        38.8978,
+        -77.0364,
+        "Casa Blanca, Washington (donde estuvo convaleciente)"
+      ],
+      [
+        40.2693,
+        -73.9918,
+        "Elberon, Long Branch, Nueva Jersey (muerte de Garfield, 19 de septiembre de 1881)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El atentado contra el presidente Garfield",
+    "autor": "Charles J. Guiteau (condenado y ejecutado)",
+    "fuentes": [
+      {
+        "titulo": "Encyclopaedia Britannica, «Charles J. Guiteau»",
+        "url": "https://www.britannica.com/biography/Charles-J-Guiteau",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "History.com, «President James A. Garfield shot» (This Day in History, 2 de julio)",
+        "url": "https://www.history.com/this-day-in-history/president-garfield-shot",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Jason Daley, «Why Doesn't Garfield Assassination Site on the National Mall Have a Marker?», Smithsonian Magazine (25 de enero de 2018, actualizado el 19 de noviembre de 2018)",
+        "url": "https://www.smithsonianmag.com/smart-news/historians-want-marker-garfield-assassination-site-national-mall-180967937/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "H. H. Alexander, «The Life of Guiteau and the Official History of the Most Exciting Case on Record: Being the Trial of Guiteau for Assassinating Pres. Garfield» (National Publishing Company, 1882; Internet Archive)",
+        "url": "https://archive.org/details/lifeofguiteauoff00alex",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of James A. Garfield» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield",
+        "tipo": "enciclopedia"
+      }
+    ]
+  },
+  {
+    "id": "asesino-baraja",
+    "m": 7,
+    "d": 3,
+    "y": 2003,
+    "n": "Alfredo Galán Sotillo",
+    "a": "El asesino de la baraja",
+    "v": "6 (y 3 intentos de asesinato)",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2003",
+    "st": "Condenado. La Audiencia Provincial de Madrid le impuso en marzo de 2005 142 años y tres meses de prisión por seis asesinatos y tres intentos. El tribunal dio validez a su confesión, aunque después se retractó y guardó silencio en el juicio.",
+    "c": "Entre el 24 de enero y el 18 de marzo de 2003, un hombre mató a tiros a seis personas e intentó matar a otras tres en Madrid, Alcalá de Henares, Tres Cantos y Arganda del Rey, sin relación aparente entre ellas. Junto a algunas víctimas apareció un naipe de la baraja española, y la prensa lo llamó «el asesino de la baraja». La policía no tenía sospechoso cuando, el 3 de julio de 2003, el excabo del Ejército Alfredo Galán se presentó ante la policía en Puertollano (Ciudad Real), su ciudad natal, y confesó los crímenes. Fue condenado en 2005 a 142 años de prisión.",
+    "mo": "Disparaba a corta distancia, por la espalda o a la cabeza, con una pistola Tokarev traída de Bosnia, a personas desconocidas en portales, paradas de autobús, un bar y la calle. El primer naipe se le cayó por casualidad, según su confesión; después empezó a dejarlos a propósito.",
+    "loc": [
+      [
+        40.443,
+        -3.6974,
+        "Calle de Alonso Cano, Chamberí, Madrid (primer asesinato, 24 de enero de 2003)"
+      ],
+      [
+        40.482,
+        -3.364,
+        "Alcalá de Henares (tiroteo en un bar, 5 de febrero de 2003)"
+      ],
+      [
+        40.5959,
+        -3.7052,
+        "Avenida de Viñuelas, Tres Cantos (intento de asesinato, 7 de marzo de 2003)"
+      ],
+      [
+        40.3035,
+        -3.4455,
+        "Arganda del Rey, junto a la estación de metro (último doble crimen, 18 de marzo de 2003)"
+      ],
+      [
+        38.6852,
+        -4.1112,
+        "Puertollano, Ciudad Real (donde se entregó, 3 de julio de 2003)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "El asesino de la baraja se entrega",
+    "autor": "Alfredo Galán Sotillo (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Cadena SER, «Se entrega en Puertollano el presunto “asesino de la baraja”» (4 de julio de 2003)",
+        "url": "https://cadenaser.com/ser/2003/07/04/espana/1057276213_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El País, «La Audiencia de Madrid condena al 'asesino del naipe' a 142 años de prisión» (9 de marzo de 2005)",
+        "url": "https://elpais.com/elpais/2005/03/09/actualidad/1110359819_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "EFE / El Mundo, «El 'asesino de la baraja', condenado a 142 años por matar a seis personas e intentarlo con otras tres» (9 de marzo de 2005)",
+        "url": "https://www.elmundo.es/elmundo/2005/03/09/madrid/1110359807.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Voz de Galicia, «El asesino de la baraja confiesa que el uso de los naipes como seña de identidad nació por casualidad» (8 de julio de 2003)",
+        "url": "https://www.lavozdegalicia.es/noticia/espana/2003/07/08/asesino-baraja-confiesa-uso-naipes-sena-identidad-nacio-casualidad/0003_1817831.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Esther Pérez-Amat, «El capítulo extra que explica cómo es la mente de “El asesino de la baraja”», RTVE Play (13 de junio de 2023)",
+        "url": "https://www.rtve.es/play/noticias/20230613/capitulo-extra-asesino-baraja-capitulo-extra-mente-del-criminal/2416971.shtml",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Alfredo Galán» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Alfredo_Gal%C3%A1n",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes no coinciden sobre ante quién se entregó: El Mundo (EFE) dice que en la Policía Local de Puertollano; El País, en la comisaría del Cuerpo Nacional de Policía; la Cadena SER, que por la mañana se presentó ante una patrulla, que lo mandó a la comisaría, adonde llegó hacia las 19.30. En la ficha se dice «ante la policía». No se menciona si estaba ebrio (lo dice Wikipedia, no las crónicas consultadas). La pena puede haber sido refundida o limitada después: no se dan datos de su situación penitenciaria actual."
+  },
+  {
+    "id": "juanita-nielsen",
+    "m": 7,
+    "d": 4,
+    "y": 1975,
+    "n": "Juanita Nielsen",
+    "a": "La desaparición de Juanita Nielsen",
+    "v": "1 (desaparecida)",
+    "p": "Australia",
+    "f": "🇦🇺",
+    "per": "1975",
+    "st": "Sin resolver. Dos hombres fueron condenados por conspirar para secuestrarla, pero nadie ha sido acusado de su desaparición ni de su muerte. La policía de Nueva Gales del Sur ofrece desde 2021 una recompensa de un millón de dólares.",
+    "c": "Juanita Nielsen, editora del periódico local NOW, hacía campaña contra el proyecto inmobiliario que iba a derribar las casas de Victoria Street, en Kings Cross (Sídney). El 4 de julio de 1975 acudió por la mañana al club Carousel, vinculado a figuras del crimen organizado, para hablar de un anuncio, y no se la volvió a ver; su bolso apareció días después junto a una autopista cerca de Penrith. En 1981 y 1983, dos empleados del club fueron condenados por conspirar para secuestrarla. Una investigación judicial concluyó en 1983 que había muerto el 4 de julio o poco después, sin poder decir cómo ni quién la mató.",
+    "mo": "Desconocido. Según la investigación, la cita en el club para contratar publicidad era un pretexto para retenerla; su cuerpo nunca apareció.",
+    "loc": [
+      [
+        -33.8699,
+        151.2232,
+        "Victoria Street, Potts Point (su casa y redacción, en el número 202)"
+      ],
+      [
+        -33.8738,
+        151.2246,
+        "Roslyn Street, Kings Cross (club Carousel, donde se la vio por última vez)"
+      ],
+      [
+        -33.7511,
+        150.6942,
+        "Penrith (cerca de aquí apareció su bolso, el 7 de julio de 1975)"
+      ],
+      [
+        -33.8584,
+        151.2817,
+        "Cementerio de South Head, Vaucluse (monumento en su memoria)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La desaparición de Juanita Nielsen",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "NSW Police Force, «Disappearance of Juanita Nielsen» ($1,000,000 reward offered for information)",
+        "url": "https://www.police.nsw.gov.au/can_you_help_us/rewards/1000000_reward/disappearance_of_juanita_nielsen",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Australian Associated Press, «Juanita Nielsen: $1m reward offered for information into 1975 disappearance of Sydney heiress», The Guardian (21 de junio de 2021)",
+        "url": "https://www.theguardian.com/australia-news/2021/jun/21/juanita-nielsen-1m-reward-offered-for-information-into-1975-disappearance-of-sydney-heiress",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Neil Mercer, «Trigg takes truth behind murder to grave», The Sydney Morning Herald (3 de marzo de 2013)",
+        "url": "https://www.smh.com.au/national/nsw/trigg-takes-truth-behind-murder-to-grave-20130302-2fczk.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Parliamentary Joint Committee on the National Crime Authority, «National Crime Authority and James McCartney Anderson» (Parlamento de Australia, 1994)",
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Former_Committees/acc/completed_inquiries/pre1996/james_mccartney_anderson/report/index",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Juanita Nielsen» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Juanita_Nielsen",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las condenas por conspiración (Shayne Martin-Simmonds en 1981 y Eddie Trigg en 1983) y el hallazgo del bolso el 7 de julio salen de Wikipedia; The Guardian y la policía confirman que «dos fueron condenados» y que el complot se descubrió para el 30 de junio de 1975. El SMH sugiere que Trigg pudo ser el autor: no se recoge, porque nunca fue acusado de ello. El informe parlamentario de 1994 no se pudo leer entero (solo el índice)."
+  },
+  {
+    "id": "codice-calixtino",
+    "m": 7,
+    "d": 5,
+    "y": 2011,
+    "n": "Manuel Fernández Castiñeiras",
+    "a": "El robo del Códice Calixtino",
+    "v": "Ninguna (robo)",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2011–2012",
+    "st": "Condenado. La Audiencia Provincial de A Coruña le impuso en 2015 diez años de prisión; el Tribunal Supremo rebajó la pena ese mismo año, por robo continuado y blanqueo de capitales. Su esposa fue condenada a seis meses por blanqueo y su hijo, absuelto.",
+    "c": "El 5 de julio de 2011, los responsables del archivo de la catedral de Santiago de Compostela echaron en falta el Códice Calixtino, un manuscrito del siglo XII sobre el Camino de Santiago, que se guardaba en una cámara blindada; no había señales de que se hubiera forzado nada. La policía investigó durante un año a canónigos, empleados y estudiosos. El 4 de julio de 2012 la Brigada de Patrimonio Histórico lo encontró, envuelto en bolsas, en un garaje de O Milladoiro de un electricista que había trabajado para la catedral, que también guardaba otros documentos y más de un millón de euros en efectivo. Fue condenado en 2015.",
+    "mo": "Aprovechó su acceso como trabajador de confianza de la catedral para llevarse el manuscrito y, durante años, dinero de las colectas, sin violencia ni señales de forzamiento.",
+    "loc": [
+      [
+        42.8806,
+        -8.5444,
+        "Catedral de Santiago de Compostela (archivo de donde desapareció el códice)"
+      ],
+      [
+        42.8428,
+        -8.5792,
+        "O Milladoiro, Ames (garaje donde se recuperó, 4 de julio de 2012)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo del Códice Calixtino",
+    "autor": "Manuel Fernández Castiñeiras (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Comunicación Poder Judicial, «La Audiencia Provincial de A Coruña condena al ladrón del Códice Calixtino a diez años de prisión» (18 de febrero de 2015)",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-de-A-Coruna-condena-al-ladron-del-Codice-Calixtino-a-diez-anos-de-prision",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "TSJ de Galicia, Oficina de Comunicación, «El Supremo condena a nueve años de cárcel al ladrón del Códice Calixtino» (3 de diciembre de 2015)",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Galicia/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Supremo-condena-a-nueve-anos-de-carcel-al-ladron-del-Codice-Calixtino",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "J. Precedo y S. R. Pontevedra, «El Códice Calixtino recuperado estaba en una bolsa de plástico», El País (4 de julio de 2012)",
+        "url": "https://elpais.com/cultura/2012/07/04/actualidad/1341408469_649818.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Periódico de Ibiza, «Gran despliegue policial en busca del códice robado en Santiago» (8 de julio de 2011)",
+        "url": "https://www.periodicodeibiza.es/noticias/cultura/2011/07/08/45128/gran-despliegue-policial-en-busca-del-codice-robado-en-santiago.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gonzalo García Crespo, «“Fui yo quien robó el libro”: se cumplen 15 años del robo del Códice Calixtino», Infobae (5 de julio de 2026)",
+        "url": "https://www.infobae.com/espana/2026/07/05/fui-yo-quien-robo-el-libro-se-cumplen-15-anos-del-robo-del-codice-calixtino-de-la-catedral-de-santiago-que-disparo-las-replicas-de-esta-guia-de-peregrinos/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Codex Calixtinus» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Codex_Calixtinus",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El Supremo bajó la pena a nueve años (nota del TSJ de Galicia del 3 de diciembre de 2015); Infobae y otras crónicas dicen que, tras un auto de aclaración, quedó en ocho años y dos meses. No se ha podido abrir la resolución: la ficha no da la cifra final. Infobae dice que salió de prisión en 2019 por enfermedad y que murió en 2024; no se recoge al no tener segunda fuente. El 5 de julio es el día en que se descubrió la falta y se denunció; el robo pudo ser días antes."
+  },
+  {
+    "id": "incendio-circo-hartford",
+    "m": 7,
+    "d": 6,
+    "y": 1944,
+    "n": "Circo Ringling Bros. and Barnum & Bailey",
+    "a": "El incendio del circo de Hartford",
+    "v": "167 (y unos 700 heridos)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1944",
+    "st": "Causa sin determinar. Cuatro responsables del circo fueron condenados por negligencia y luego indultados. Robert Segee confesó en 1950 haber provocado el fuego, pero nunca fue juzgado por ello y se retractó; en 1993 la policía estatal de Connecticut dio la causa por indeterminada y probablemente accidental.",
+    "c": "El 6 de julio de 1944, durante la función de tarde del circo Ringling Bros. and Barnum & Bailey en Hartford (Connecticut), ardió la gran carpa, impermeabilizada con parafina y gasolina; se vino abajo en pocos minutos con unas 7.000 personas dentro, muchas de ellas niños. Murieron al menos 167. Las autoridades lo atribuyeron a una colilla, y varios directivos del circo fueron condenados por negligencia. En 1950, Robert Segee, que había trabajado en el circo con 14 años, confesó haberlo provocado, pero se retractó y nunca fue juzgado. En 1993 la policía declaró la causa indeterminada.",
+    "mo": "Desconocido. El fuego empezó en una pared lateral de la carpa; la versión oficial apunta a una colilla y la de un incendio provocado se basa en una confesión que su autor retiró.",
+    "loc": [
+      [
+        41.795,
+        -72.6744,
+        "Barbour Street, Hartford (solar del circo, hoy con un monumento a las víctimas)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El incendio del circo de Hartford",
+    "autor": "Desconocido (causa oficialmente indeterminada; Robert Segee confesó y se retractó)",
+    "fuentes": [
+      {
+        "titulo": "Connecticut State Library, «Hartford Circus Fire» (guía de archivos y fuentes)",
+        "url": "https://libguides.ctstatelibrary.org/hg/hartfordcircusfire",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Connecticut Humanities, «The Hartford Circus Fire», ConnecticutHistory.org (6 de julio de 2019)",
+        "url": "https://connecticuthistory.org/the-hartford-circus-fire/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "History.com, «Fire engulfs circus big top in Hartford, killing 167» (This Day in History, 6 de julio)",
+        "url": "https://www.history.com/this-day-in-history/july-6/hartford-circus-fire",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Henry S. Cohn y David Bollier, «The Great Hartford Circus Fire: Creative Settlement of Mass Disasters» (Yale University Press, 1991; Internet Archive)",
+        "url": "https://archive.org/details/greathartfordcir00cohn",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Hartford circus fire» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Hartford_circus_fire",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No hay acuerdo en la cifra de muertos (167, 168 o 169; la de 168 suele contar unos restos sin identificar como víctima) ni en la de heridos (682 según History.com; «más de 700» según Wikipedia). La declaración de 1993 (causa «indeterminada», revisión dirigida por Henry Lee) la da Wikipedia citando al Hartford Courant del 10 de agosto de 1993, que no se pudo abrir; ConnecticutHistory.org dice que las autoridades lo consideraron un accidente, probablemente por una colilla. El tipo de efeméride «crimen» es aproximado: no está probado que fuera provocado. Muchas víctimas eran niños: la ficha no da nombres."
+  },
+  {
+    "id": "graeme-thorne",
+    "m": 7,
+    "d": 7,
+    "y": 1960,
+    "n": "Stephen Leslie Bradley",
+    "a": "El secuestro de Graeme Thorne",
+    "v": "1",
+    "p": "Australia",
+    "f": "🇦🇺",
+    "per": "1960–1961",
+    "st": "Caso cerrado. Bradley fue condenado por asesinato el 29 de marzo de 1961 a cadena perpetua, pena confirmada en apelación. Murió en la cárcel de Goulburn en 1968.",
+    "c": "Semanas después de que Bazil Thorne ganara 100.000 libras en la lotería de la Ópera de Sídney, su hijo Graeme, de ocho años, desapareció el 7 de julio de 1960 camino del colegio, en Bondi. Ese mismo día, un hombre llamó a la familia y pidió 25.000 libras de rescate, pero cortó sin dar instrucciones para el pago. El 16 de agosto, dos niños encontraron el cuerpo entre la maleza de Seaforth: lo habían matado poco después del secuestro. Pruebas científicas, como restos de plantas y pelo de perro, y testigos llevaron hasta Stephen Bradley, que ya había zarpado hacia Inglaterra; fue detenido en Colombo, extraditado y condenado a cadena perpetua.",
+    "mo": "Eligió a la familia por la noticia del premio de lotería, vigiló su casa, raptó al niño en su coche camino del colegio y pidió el rescate por teléfono.",
+    "loc": [
+      [
+        -33.892,
+        151.261,
+        "Bondi, Sídney (casa de la familia en Edward Street y lugar del rapto)"
+      ],
+      [
+        -33.7925,
+        151.2423,
+        "Seaforth, Sídney (hallazgo del cuerpo, 16 de agosto de 1960)"
+      ],
+      [
+        6.9344,
+        79.8428,
+        "Colombo, Ceilán (detención de Bradley, 10 de octubre de 1960)"
+      ],
+      [
+        -34.7414,
+        149.7406,
+        "Cárcel de Goulburn (donde cumplió condena y murió en 1968)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro de Graeme Thorne",
+    "autor": "Stephen Leslie Bradley (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Stephen Garton, «Bradley, Stephen Leslie (1926–1968)», Australian Dictionary of Biography, vol. 13 (Australian National University, 1993)",
+        "url": "https://adb.anu.edu.au/biography/bradley-stephen-leslie-9567",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Mark Tedeschi, «The kidnapping that shocked a nation», The Sydney Morning Herald, Good Weekend (24 de octubre de 2015; extracto de su libro «Kidnapped», Simon & Schuster)",
+        "url": "https://www.smh.com.au/good-weekend/the-kidnapping-that-shocked-a-nation-20151012-gk7i4e.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Andrew Koubaridis, «Case that stole our innocence», news.com.au (4 de noviembre de 2015)",
+        "url": "https://www.news.com.au/national/crime/the-abduction-and-murder-of-eightyearold-graeme-thorne/news-story/d611be34c3e199be56adeacca0a703d7",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Canberra Times, «“This Is The Man Who Killed My Boy”: outburst by mother as Bradley murder trial opens» (21 de marzo de 1961; Trove, Biblioteca Nacional de Australia)",
+        "url": "http://nla.gov.au/nla.news-article103116770",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murder of Graeme Thorne» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Graeme_Thorne",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La víctima era menor; se le nombra porque es un caso histórico (1960) conocido por su nombre. El artículo del Canberra Times (Trove) no se pudo abrir por un control antirrobots; viene de las referencias de Wikipedia. La fecha de muerte de Bradley en Goulburn (1968) sale del ADB y de Wikipedia."
+  },
+  {
+    "id": "soapy-smith",
+    "m": 7,
+    "d": 8,
+    "y": 1898,
+    "n": "Jefferson Randolph «Soapy» Smith",
+    "a": "Soapy Smith, el rey de los timadores",
+    "v": "Miles de estafados",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1879–1898",
+    "st": "Murió el 8 de julio de 1898 en un tiroteo con un vigilante del comité ciudadano de Skagway, sin haber sido condenado por sus grandes estafas; varios miembros de su banda fueron detenidos y encarcelados.",
+    "c": "Jefferson Randolph Smith, nacido en Georgia en 1860, se hizo famoso en Denver con el timo del «jabón premiado»: vendía pastillas de jabón supuestamente envueltas con billetes que solo ganaban sus cómplices. Con trileros, juegos amañados y sobornos a policías y políticos dominó los bajos fondos de Denver y Creede (Colorado). En 1898, en plena fiebre del oro del Klondike, se instaló en Skagway (Alaska), donde abrió un salón y hasta una falsa oficina de telégrafos. Cuando su banda robó a un minero, un comité de vigilantes se reunió en el muelle Juneau; Smith intentó entrar y murió en el tiroteo con Frank Reid, el 8 de julio de 1898.",
+    "mo": "Timos callejeros (el jabón premiado, el trile, falsas rebajas de billetes de tren) y juegos de cartas amañados, protegidos por sobornos a autoridades y por una banda de gancheros.",
+    "loc": [
+      [
+        39.74,
+        -104.99,
+        "Denver, Colorado (centro de sus timos en los años ochenta y noventa)"
+      ],
+      [
+        37.8456,
+        -106.9253,
+        "Creede, Colorado (campamento minero que dominó en 1892)"
+      ],
+      [
+        59.4583,
+        -135.3139,
+        "Skagway, Alaska (Jeff. Smith's Parlor y muelle Juneau, donde murió)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "estafas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La muerte de Soapy Smith, el rey de los timadores",
+    "autor": "Jefferson Randolph «Soapy» Smith",
+    "fuentes": [
+      {
+        "titulo": "National Park Service, «Jeff. Smiths Parlor Museum: Historic Structure Report» (Klondike Gold Rush National Historical Park, 2010)",
+        "url": "https://permanent.access.gpo.gov/gpo5302/palor_museum_hsr.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "National Park Service, «Jeff. Smiths Parlor Museum» (Klondike Gold Rush National Historical Park)",
+        "url": "https://www.nps.gov/klgo/learn/historyculture/jeffsmithsparlor.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "History.com, «Con man “Soapy” Smith killed in Skagway, Alaska» (This Day in History, 8 de julio)",
+        "url": "https://www.history.com/this-day-in-history/july-8/soapy-smith-killed-in-skagway-alaska",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Donald L. Singer, «Soapy Smith: Uncrowned King of Skagway», Fortnightly Club of Redlands (2003)",
+        "url": "https://redlandsfortnightly.org/papers/singer03.htm",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "The Rocky Mountain News, «“Soapy” Smith Has Cashed In» (17 de julio de 1898; Colorado Historic Newspapers)",
+        "url": "https://www.coloradohistoricnewspapers.org/?a=d&d=RMD18980717-01.2.201",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Soapy Smith» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Soapy_Smith",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No está claro quién le disparó el tiro mortal: la versión clásica dice que Frank Reid (que murió doce días después), pero una carta de Sam Steele y otros autores apuntan a otro vigilante, Jesse Murphy. La ficha dice «murió en el tiroteo con Frank Reid» sin precisar. La falsa oficina de telégrafos y los timos de Denver y Creede salen de Wikipedia y de Singer; el NPS confirma la fecha, el lugar y el salón. La hemeroteca de Colorado no se pudo abrir (control antirrobots). El tipo de efeméride («crimen») es aproximado: se recuerda su muerte."
+  },
+  {
+    "id": "oj-simpson",
+    "m": 7,
+    "d": 9,
+    "y": 1947,
+    "n": "O. J. Simpson",
+    "a": "La absolución del siglo",
+    "v": "2",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1994–1997",
+    "st": "Absuelto de los dos asesinatos el 3 de octubre de 1995. En 1997 un jurado civil lo declaró responsable de las muertes y lo condenó a pagar 33,5 millones de dólares. Murió en Las Vegas el 10 de abril de 2024. Nadie más ha sido acusado de los crímenes.",
+    "c": "Orenthal James Simpson, estrella del fútbol americano, nació en San Francisco el 9 de julio de 1947. El 12 de junio de 1994, su exmujer, Nicole Brown Simpson, y un amigo de ella, Ronald Goldman, fueron asesinados a cuchilladas ante la casa de ella en Brentwood (Los Ángeles). Simpson fue acusado de los dos crímenes y, tras un juicio televisado de meses, el jurado lo absolvió el 3 de octubre de 1995. En 1997, un jurado civil lo declaró responsable de las dos muertes. En 2008 fue condenado por un robo a mano armada en Las Vegas y pasó nueve años en prisión.",
+    "mo": "Las dos víctimas murieron apuñaladas de noche en el jardín de la casa de Nicole Brown Simpson. La acusación sostuvo que el autor fue Simpson; el jurado penal no lo consideró probado.",
+    "loc": [
+      [
+        37.7775,
+        -122.4164,
+        "San Francisco (donde nació el 9 de julio de 1947)"
+      ],
+      [
+        34.0519,
+        -118.4744,
+        "Brentwood, Los Ángeles (crimen del 12 de junio de 1994)"
+      ],
+      [
+        34.055,
+        -118.2435,
+        "Tribunales penales de Los Ángeles (juicio y absolución, 1995)"
+      ],
+      [
+        36.1417,
+        -115.1747,
+        "Hotel Palace Station, Las Vegas (robo a mano armada de 2007)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "nacimiento",
+    "titulo_caso": "O. J. Simpson, la absolución del siglo",
+    "autor": "Desconocido (O. J. Simpson fue acusado y absuelto; declarado responsable en el juicio civil)",
+    "fuentes": [
+      {
+        "titulo": "Encyclopaedia Britannica, «O.J. Simpson» (actualizada el 5 de enero de 2026)",
+        "url": "https://www.britannica.com/biography/O-J-Simpson",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "History.com, «O.J. Simpson acquitted» (This Day in History, 3 de octubre)",
+        "url": "https://www.history.com/this-day-in-history/october-3/o-j-simpson-acquitted",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Bloomberg Línea, «O.J. Simpson, leyenda de la NFL absuelto de doble asesinato, muere a los 76 años» (11 de abril de 2024)",
+        "url": "https://www.bloomberglinea.com/2024/04/11/oj-simpson-leyenda-de-la-nfl-absuelto-de-doble-asesinato-muere-a-los-76-anos/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Público (EFE), «Muere de cáncer a los 76 años O. J. Simpson» (11 de abril de 2024)",
+        "url": "https://www.publico.es/sociedad/muere-cancer-76-anos-j-simpson.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «O. J. Simpson» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/O._J._Simpson",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye al asesinato de Paul Klebnikov (9 de julio de 2004), descartado por proceso abierto: el Supremo ruso anuló dos absoluciones y el nuevo juicio quedó suspendido porque los acusados huyeron; en 2017 Ucrania detuvo a otro sospechoso buscado por Interpol (Magomed Dukuzov) y en 2019 su extradición a Rusia seguía sin aclarar (CPJ, 21 de noviembre de 2017). Simpson fue absuelto: la ficha no lo llama asesino. En «n» figura él porque la efeméride es su nacimiento. Las fuentes difieren en la pena de Las Vegas (Britannica: mínimo de nueve años y máximo de 33; Público: 33 años, de los que cumplió nueve)."
+  },
+  {
+    "id": "secuestro-getty",
+    "m": 7,
+    "d": 10,
+    "y": 1973,
+    "n": "John Paul Getty III",
+    "a": "El secuestro de Paul Getty",
+    "v": "1 (secuestrado y mutilado; sobrevivió)",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1973",
+    "st": "Cerrado. En el juicio de Lagonegro (1976) dos de los acusados fueron condenados como autores materiales; los capos de la 'Ndrangheta Girolamo Piromalli y Saverio Mammoliti fueron absueltos. Casi todo el rescate se perdió.",
+    "c": "John Paul Getty III, nieto de 16 años del magnate del petróleo J. Paul Getty, fue secuestrado hacia las tres de la madrugada del 10 de julio de 1973 en la plaza Farnese de Roma y escondido en el sur de Italia por una banda ligada a la 'Ndrangheta calabresa. Su familia creyó al principio que era un montaje del propio joven, y el abuelo se negó a pagar. En noviembre, los secuestradores enviaron al diario Il Messaggero una oreja y un mechón de pelo del chico. Tras pagarse un rescate muy inferior al pedido, apareció libre el 15 de diciembre en la autopista, cerca de Lauria (Potenza).",
+    "mo": "Lo raptaron de noche en la calle, lo tuvieron cinco meses escondido en el campo y, para forzar el pago, le cortaron una oreja y la mandaron a un periódico con una carta.",
+    "loc": [
+      [
+        41.8952,
+        12.4712,
+        "Plaza Farnese, Roma (secuestro, 10 de julio de 1973)"
+      ],
+      [
+        40.0472,
+        15.8358,
+        "Lauria, Potenza (donde apareció libre, 15 de diciembre de 1973)"
+      ],
+      [
+        40.1333,
+        15.7667,
+        "Lagonegro (juicio de 1976)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro de John Paul Getty III",
+    "autor": "Banda vinculada a la 'Ndrangheta (dos condenados en 1976)",
+    "fuentes": [
+      {
+        "titulo": "La Gazzetta del Mezzogiorno, «Morto Paul Getty III, fu rilasciato a Lauria dopo il sequestro» (7 de febrero de 2011)",
+        "url": "https://www.lagazzettadelmezzogiorno.it/news/basilicata/253250/morto-paul-getty-iii-fu-rilasciato-a-lauria-dopo-il-sequestro.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Emma Brown, «J. Paul Getty III, kidnapping victim and heir to oil fortune, dies at 54», The Washington Post (8 de febrero de 2011)",
+        "url": "https://www.washingtonpost.com/wp-dyn/content/article/2011/02/07/AR2011020706089.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Rolling Stone, «John Paul Getty III: The True Story Behind “Trust”» (20 de marzo de 2018)",
+        "url": "https://www.rollingstone.com/culture/culture-news/john-paul-getty-iii-the-true-story-behind-trust-203954/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "John Pearson, «Painfully Rich: The Outrageous Fortune and Misfortunes of the Heirs of J. Paul Getty» (St. Martin's Press, 1995; Internet Archive)",
+        "url": "https://archive.org/details/painfullyrichout00pear",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «John Paul Getty III» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/John_Paul_Getty_III",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La víctima era menor (16 años); se le nombra porque es un caso de hace más de 50 años conocido por su nombre. Rolling Stone dice que desapareció de la plaza Navona; la Gazzetta del Mezzogiorno y Wikipedia, de la plaza Farnese, «a dos pasos de Navona»: se usa Farnese. Apareció en Lauria, en Basilicata, no en Calabria (como decía la selección). El rescate se da sin cifra: las fuentes hablan de unos 3 millones de dólares pedidos al final (frente a 17 al principio) y de unos 1.700 millones de liras pagados, de los que el abuelo puso 2,2 millones de dólares. El libro de Pearson no se abrió; viene de las referencias de Wikipedia."
+  },
+  {
+    "id": "giorgio-ambrosoli",
+    "m": 7,
+    "d": 11,
+    "y": 1979,
+    "n": "Michele Sindona",
+    "a": "El asesinato del «héroe burgués»",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1974–1979",
+    "st": "Cerrado. El 18 de marzo de 1986 un tribunal de Milán condenó a cadena perpetua a Michele Sindona como inductor y a Robert Venetucci, que lo puso en contacto con el sicario; Sindona bebió un café con cianuro en la cárcel de Voghera dos días después y murió el 22 de marzo. El sicario, William Aricò, había muerto en 1984 al intentar fugarse de una cárcel de Nueva York.",
+    "c": "Giorgio Ambrosoli, abogado milanés, era desde 1974 el liquidador de la Banca Privata Italiana, el banco hundido del financiero Michele Sindona, y había reunido pruebas de sus manejos pese a las amenazas. La noche del 11 de julio de 1979, cuando volvía a casa, un desconocido le disparó varias veces ante su portal de la calle Morozzo della Rocca, en Milán; al día siguiente debía firmar una declaración formal contra Sindona. El autor fue el delincuente estadounidense William Aricò. Sindona, que siempre lo negó, fue condenado en 1986 a cadena perpetua como inductor.",
+    "mo": "Asesinato por encargo: un sicario traído de Estados Unidos y pagado por el inductor esperó a la víctima ante su casa y le disparó con un revólver del calibre 357 Magnum.",
+    "loc": [
+      [
+        45.4648,
+        9.1686,
+        "Via Morozzo della Rocca, Milán (asesinato ante su casa)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "estafas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Giorgio Ambrosoli",
+    "autor": "William Aricò (sicario, murió antes del juicio); Michele Sindona (condenado como inductor)",
+    "fuentes": [
+      {
+        "titulo": "Il Post, «Quarant'anni fa fu ucciso Giorgio Ambrosoli» (11 de julio de 2019)",
+        "url": "https://www.ilpost.it/2019/07/11/giorgio-ambrosoli-2/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Mario Portanova, «Giorgio Ambrosoli, 40 anni fa l'omicidio dell'eroe borghese», Il Fatto Quotidiano (11 de julio de 2019)",
+        "url": "https://www.ilfattoquotidiano.it/2019/07/11/giorgio-ambrosoli-40-anni-fa-lomicidio-delleroe-borghese-che-il-potere-voleva-dimenticare-al-funerale-nessuna-autorita/5312735/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "la Repubblica, «Sindona ordinò: “Uccidi Ambrosoli”» (20 de mayo de 1984)",
+        "url": "https://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/05/20/sindona-ordino-uccidi-ambrosoli.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Michele Sindona»",
+        "url": "https://www.britannica.com/money/Michele-Sindona",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Ottavio D'Addea, «Giorgio Ambrosoli e il fallimento della Banca privata italiana di Michele Sindona», Storicamente (2014)",
+        "url": "https://storicamente.org/d-addea-giorgio-ambrosoli",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Giorgio Ambrosoli» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Giorgio_Ambrosoli",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha: Il Post, Il Fatto y Wikipedia dan la noche del 11 de julio de 1979; Britannica y la Repubblica de 1984 dicen el 12 (los disparos fueron hacia la medianoche). Se usa el 11. El número de disparos varía (tres según Il Post, cuatro según Wikipedia): la ficha dice «varias veces». La muerte de Aricò en 1984 sale de Wikipedia. Sindona siempre negó haber ordenado el crimen."
+  },
+  {
+    "id": "robo-knightsbridge",
+    "m": 7,
+    "d": 12,
+    "y": 1987,
+    "n": "Valerio Viccei",
+    "a": "El robo del siglo en Knightsbridge",
+    "v": "Ninguna (robo)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1987",
+    "st": "Condenado. Viccei fue sentenciado a 22 años de prisión; en 1992 fue trasladado a Italia para cumplir el resto de la condena y murió en un tiroteo con la policía en abril de 2000, durante un permiso. El director del centro y otros cómplices también fueron juzgados.",
+    "c": "El 12 de julio de 1987, dos hombres que se presentaron como clientes en el Knightsbridge Safe Deposit Centre de Londres, un negocio de cajas de seguridad, sacaron pistolas en la cámara y redujeron al encargado y a los vigilantes; colgaron un cartel de cerrado en la puerta y dejaron entrar a sus cómplices, que reventaron decenas de cajas. El botín se estimó en unos 60 millones de libras. Contaban con la ayuda del director del centro, Parvez Latif. Una huella ensangrentada delató al italiano Valerio Viccei, buscado en su país por decenas de atracos, que fue detenido cuando volvió a Inglaterra a recoger su Ferrari.",
+    "mo": "Golpe con ayuda desde dentro: entraron como clientes, redujeron al personal a punta de pistola y forzaron las cajas con calma, con el negocio cerrado al público.",
+    "loc": [
+      [
+        51.4988,
+        -0.1667,
+        "Cheval Place, Knightsbridge, Londres (Knightsbridge Safe Deposit Centre)"
+      ],
+      [
+        50.7153,
+        -1.3083,
+        "Cárcel de Parkhurst, isla de Wight (donde cumplió condena en Inglaterra)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo del Knightsbridge Safe Deposit Centre",
+    "autor": "Valerio Viccei (condenado), con la ayuda de Parvez Latif",
+    "fuentes": [
+      {
+        "titulo": "BBC News, «Flying Squad foils £80m robbery» (17 de mayo de 2004; recuadro «World's biggest robberies»)",
+        "url": "http://news.bbc.co.uk/1/hi/uk/3723839.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Crime+Investigation UK, «Britain's most lucrative robberies ever»",
+        "url": "https://www.crimeandinvestigation.co.uk/article/britain%E2%80%99s-most-lucrative-robberies-ever",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Time Out London, «3 of London's biggest and most elaborate heists» (19 de junio de 2018)",
+        "url": "https://www.timeout.com/london/news/3-of-londons-biggest-and-most-elaborate-heists-061918",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "South China Morning Post, «How gangster shattered boxes' safe image»",
+        "url": "https://www.scmp.com/article/473083/how-gangster-shattered-boxes-safe-image",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "LBC/IRN, «Knightsbridge safe deposit robbery» (informativo radiofónico, 14 de julio de 1987; Learning on Screen, British Universities Film & Video Council)",
+        "url": "https://learningonscreen.ac.uk/lbc/search/index.php/segment/0007200123019",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Knightsbridge Security Deposit robbery» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Knightsbridge_Security_Deposit_robbery",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha: el 12 de julio de 1987 lo dan Wikipedia y la selección; el archivo de LBC/IRN conserva un informativo del 14 de julio de 1987 sobre el golpe, coherente con esa fecha. La BBC solo dice «julio de 1987» y Time Out, por error, «12 de junio». El artículo del SCMP no se pudo abrir (bloqueo antirrobots). La cifra del botín se discute (40-60 millones de libras). La condena de 22 años la dan Crime+Investigation y Wikipedia (que sitúa su cumplimiento inicial en Parkhurst). No se encontró prensa británica de 1987 abierta."
+  },
+  {
+    "id": "billy-the-kid",
+    "m": 7,
+    "d": 14,
+    "y": 1881,
+    "n": "William H. Bonney, «Billy the Kid»",
+    "a": "Billy the Kid",
+    "v": "Relacionado con nueve muertes (al menos cuatro suyas)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1877–1881",
+    "st": "Condenado a muerte en abril de 1881 en Mesilla por el asesinato del sheriff William Brady; se fugó antes de la ejecución y murió abatido por el sheriff Pat Garrett el 14 de julio de 1881. La muerte se consideró un homicidio justificado.",
+    "c": "Henry McCarty, que se hacía llamar William H. Bonney, fue un ladrón de ganado y pistolero que se hizo famoso en la guerra del condado de Lincoln (Nuevo México), en 1878. Juzgado en Mesilla en abril de 1881 por el asesinato del sheriff William Brady, fue condenado a la horca, pero el 28 de abril escapó del juzgado de Lincoln matando a sus dos guardianes. El sheriff Pat Garrett lo siguió hasta Fort Sumner y, la noche del 14 de julio de 1881, lo mató de un disparo a oscuras en el dormitorio del ranchero Pete Maxwell. Tenía 21 años. Un jurado forense reconoció el cadáver, pero la leyenda de que sobrevivió duró décadas.",
+    "mo": "Robo de ganado y tiroteos en las guerras entre bandos rivales del condado de Lincoln; varios de los crímenes que se le atribuyen se cometieron en grupo.",
+    "loc": [
+      [
+        34.4024,
+        -104.1961,
+        "Antiguo Fort Sumner (casa de Pete Maxwell, donde murió; su tumba está en el cementerio cercano)"
+      ],
+      [
+        33.4919,
+        -105.3839,
+        "Lincoln, Nuevo México (juzgado de donde se fugó el 28 de abril de 1881)"
+      ],
+      [
+        32.2589,
+        -106.8147,
+        "Mesilla, Nuevo México (juicio y condena a muerte, abril de 1881)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "La muerte de Billy the Kid",
+    "autor": "William H. Bonney, «Billy the Kid» (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Office of the State Historian, «Billy the Kid», New Mexico History.org (estado de Nuevo México)",
+        "url": "https://newmexicohistory.org/people/billy-the-kid",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Pat F. Garrett, «The Authentic Life of Billy, the Kid» (Santa Fe, New Mexican Printing and Publishing, 1882; Internet Archive)",
+        "url": "https://archive.org/details/TheAuthenticLifeOfBillyTheKid",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "History.com, «Billy the Kid is shot to death» (This Day in History, 14 de julio)",
+        "url": "https://www.history.com/this-day-in-history/july-14/billy-the-kid-is-shot-to-death",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Bob Boze Bell, «A Shot in the Dark: Billy the Kid vs Pat Garrett», True West Magazine (12 de agosto de 2014)",
+        "url": "https://truewestmagazine.com/a-shot-in-the-dark/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Billy the Kid» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Billy_the_Kid",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El tipo de efeméride («detencion») es aproximado: se recuerda su muerte a manos del sheriff que lo perseguía. Las fechas de su nacimiento (17 de septiembre o 23 de noviembre de 1859) y las cifras de muertes que se le atribuyen varían; la ficha usa las de Wikipedia («relacionado con nueve»). El tiro fue hacia la medianoche del 14 de julio. La página de New Mexico History.org se leyó en una copia archivada (la web no respondía) y el artículo de True West no se pudo abrir (bloqueo antirrobots)."
+  },
+  {
+    "id": "rachel-nickell",
+    "m": 7,
+    "d": 15,
+    "y": 1992,
+    "n": "Robert Napper",
+    "a": "El crimen de Wimbledon Common",
+    "v": "1",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1992–2008",
+    "st": "Condenado. El 18 de diciembre de 2008, Robert Napper se declaró culpable en el Old Bailey de homicidio por responsabilidad disminuida y fue internado sin límite de tiempo en el hospital psiquiátrico de alta seguridad de Broadmoor. Colin Stagg, acusado por error en 1993, era inocente: quedó libre en 1994 y fue indemnizado en 2008.",
+    "c": "Rachel Nickell, de 23 años, fue asesinada a cuchilladas el 15 de julio de 1992 en Wimbledon Common (Londres), a plena luz del día, mientras paseaba con su hijo de dos años. La policía se centró en un vecino, Colin Stagg, y montó una operación encubierta con una agente que intentó sacarle una confesión. En 1994 el juez del Old Bailey rechazó esas pruebas y el caso se vino abajo. En 2004, pruebas de ADN señalaron a Robert Napper, ya internado por el asesinato de una mujer y su hija en 1993. En 2008 se declaró culpable, y la policía pidió perdón a Stagg y a las familias por las ocasiones perdidas de detenerlo.",
+    "mo": "Atacó por sorpresa a una mujer desconocida en un camino del parque, la apartó a la maleza y la mató con un cuchillo.",
+    "loc": [
+      [
+        51.4297,
+        -0.2383,
+        "Wimbledon Common, Londres (asesinato, 15 de julio de 1992)"
+      ],
+      [
+        51.5158,
+        -0.1018,
+        "Old Bailey, Londres (juicio fallido contra Stagg en 1994 y condena de Napper en 2008)"
+      ],
+      [
+        51.3692,
+        -0.7786,
+        "Hospital de Broadmoor, Berkshire (donde está internado Napper)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres",
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Rachel Nickell",
+    "autor": "Robert Napper (condenado por homicidio con responsabilidad disminuida)",
+    "fuentes": [
+      {
+        "titulo": "Sandra Laville, «Rachel Nickell killing: Serial rapist Robert Napper pleads guilty», The Guardian (18 de diciembre de 2008)",
+        "url": "https://www.theguardian.com/uk/2008/dec/18/rachel-nickell-robert-napper-murder-guilty",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Man admits Rachel Nickell killing» (18 de diciembre de 2008)",
+        "url": "https://news.bbc.co.uk/2/hi/uk_news/england/london/7783796.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Independent, «How life changed for the grieving relatives and blundering police» (19 de diciembre de 2008)",
+        "url": "https://www.independent.co.uk/news/uk/crime/how-life-changed-for-the-grieving-relatives-and-blundering-police-1203684.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Crime+Investigation UK, «The murder of Rachel Nickell»",
+        "url": "https://www.crimeandinvestigation.co.uk/article/the-murder-of-rachel-nickell",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murder of Rachel Nickell» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Rachel_Nickell",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El hijo, menor y testigo, no se nombra. Colin Stagg es inocente: la ficha no lo presenta como sospechoso más allá de contar el error policial. Sobre el final de su juicio, la BBC dice que el caso «fue desestimado» al rechazarse las pruebas y The Independent, que la acusación se retiró sin llegar a formar jurado; la ficha dice que «se vino abajo». Se omiten detalles de las heridas y el componente sexual."
+  },
+  {
+    "id": "miss-macao",
+    "m": 7,
+    "d": 16,
+    "y": 1948,
+    "n": "Wong Yu",
+    "a": "El primer secuestro de un avión comercial",
+    "v": "25 o 26",
+    "p": "Macao / Hong Kong (China)",
+    "f": "🇲🇴",
+    "per": "1948–1951",
+    "st": "Sin juicio. El único superviviente, uno de los asaltantes, confesó, pero Macao y Hong Kong discutieron a quién correspondía juzgarlo; quedó libre en 1951 sin ser procesado, fue expulsado a China y murió poco después.",
+    "c": "El 16 de julio de 1948, el hidroavión Catalina Miss Macao, de una filial de Cathay Pacific, despegó de Macao hacia Hong Kong. Cuatro pasajeros intentaron hacerse con el avión en pleno vuelo para desviarlo, robar a los viajeros ricos y pedir rescate por ellos. El piloto y otros ocupantes se resistieron, hubo disparos, el piloto cayó herido y el avión se estrelló en el estuario del río de las Perlas. Solo sobrevivió uno de los asaltantes, el campesino Wong Yu, rescatado por un pescador, que confesó el plan. Ninguna jurisdicción quiso juzgarlo y en 1951 quedó libre.",
+    "mo": "Piratería aérea: subieron como pasajeros armados para tomar el control del avión, robar a los ocupantes y retenerlos para pedir rescate.",
+    "loc": [
+      [
+        22.19,
+        113.54,
+        "Macao (despegue del vuelo)"
+      ],
+      [
+        22.182,
+        113.744,
+        "Estuario del río de las Perlas (lugar del accidente)"
+      ],
+      [
+        22.3286,
+        114.1942,
+        "Antiguo aeropuerto de Kai Tak, Hong Kong (destino al que nunca llegó)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El secuestro del hidroavión Miss Macao",
+    "autor": "Banda de cuatro asaltantes (Wong Yu, único superviviente, confesó; nunca fue juzgado)",
+    "fuentes": [
+      {
+        "titulo": "Lilit Marcus, «The 20-minute flight that became the world's first airplane hijacking», CNN (15 de julio de 2025)",
+        "url": "https://edition.cnn.com/travel/miss-macao-worlds-first-airplane-hijacking",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Crime+Investigation UK, «The strange story of the first ever plane hijack»",
+        "url": "https://www.crimeandinvestigation.co.uk/article/the-strange-story-of-the-first-ever-plane-hijack",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Mark Footer, «Flight of no return: How a Cathay Pacific plane became the first hijacked commercial airliner», South China Morning Post (20 de julio de 2008)",
+        "url": "https://www.scmp.com/article/645928/flight-no-return",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gavin Young, «Beyond Lion Rock: The Story of Cathay Pacific Airways» (Hutchinson/Penguin, 1988; Internet Archive)",
+        "url": "https://archive.org/details/beyondlionrockst0000youn",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Miss Macao» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Miss_Macao",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las cifras no coinciden: Wikipedia da 25 muertos (tres de ellos asaltantes); CNN dice que iban 27 personas a bordo, lo que daría 26 muertos. Se pone «25 o 26». También varía la edad de Wong Yu (24 según CNN, 27 según Wikipedia) y la causa de su muerte tras la expulsión (rumores sin confirmar): la ficha no entra en ello. La bandera es la de Macao, de donde salió el vuelo. El artículo del SCMP no se pudo abrir (bloqueo antirrobots) y el libro de Young no se consultó directamente."
+  },
+  {
+    "id": "asesinato-obregon",
+    "m": 7,
+    "d": 17,
+    "y": 1928,
+    "n": "José de León Toral",
+    "a": "El crimen de La Bombilla",
+    "v": "1",
+    "p": "México",
+    "f": "🇲🇽",
+    "per": "1928–1929",
+    "st": "Cerrado. José de León Toral fue condenado a muerte y fusilado en la penitenciaría de Lecumberri el 9 de febrero de 1929. La monja Concepción Acevedo, «la madre Conchita», fue condenada a 20 años como supuesta autora intelectual, aunque Toral siempre dijo que había actuado solo.",
+    "c": "El 17 de julio de 1928, el general Álvaro Obregón, presidente electo de México tras lograr la reelección, comía en un banquete en su honor en el restaurante La Bombilla, en San Ángel (Ciudad de México). Un joven que se hacía pasar por caricaturista se acercó a la mesa con sus dibujos y le disparó varias veces por la espalda. Era José de León Toral, un católico militante que culpaba a Obregón de la persecución religiosa en plena guerra cristera. Detenido en el acto, fue juzgado con la madre Conchita en un proceso seguido por multitudes, condenado a muerte y fusilado en 1929.",
+    "mo": "Se ganó el acceso al banquete haciendo retratos de los invitados y, al acercarse a enseñarle uno al presidente electo, le disparó con una pistola a quemarropa.",
+    "loc": [
+      [
+        19.3472,
+        -99.186,
+        "Parque de la Bombilla, San Ángel (donde estaba el restaurante; hoy, el monumento a Obregón)"
+      ],
+      [
+        19.4364,
+        -99.1131,
+        "Palacio de Lecumberri, Ciudad de México (antigua penitenciaría donde fue fusilado Toral)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-pancho-villa",
+        "r",
+        "Otro magnicidio de la Revolución mexicana, cinco años antes: varios historiadores implican al gobierno de Obregón en la muerte de Villa"
+      ]
+    ],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Álvaro Obregón",
+    "autor": "José de León Toral (condenado y fusilado)",
+    "fuentes": [
+      {
+        "titulo": "El Universal, «Así reportó EL UNIVERSAL el asesinato de Álvaro Obregón en 1928» (18 de julio de 2020)",
+        "url": "https://www.eluniversal.com.mx/cultura/asi-reporto-el-universal-el-asesinato-de-alvaro-obregon-en-1928/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Universal, «Crónica del juicio y fusilamiento de León de Toral, asesino de Obregón» (28 de julio de 2020)",
+        "url": "https://www.eluniversal.com.mx/cultura/cronica-del-juicio-y-fusilamiento-de-leon-de-toral-asesino-de-obregon/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Álvaro Obregón»",
+        "url": "https://www.britannica.com/biography/Alvaro-Obregon",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Doralicia Carmona, «Es fusilado León Toral, asesino del general Álvaro Obregón», Memoria Política de México",
+        "url": "http://www.memoriapoliticademexico.org/Efemerides/2/09021929.html",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Mario Ramírez Rancaño, «El asesinato de Álvaro Obregón: la conspiración y la madre Conchita» (UNAM, Instituto de Investigaciones Sociales / INEHRM, 2014)",
+        "url": "https://ru.iis.sociales.unam.mx/handle/IIS/5539",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Asesinato de Álvaro Obregón» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Asesinato_de_%C3%81lvaro_Obreg%C3%B3n",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El papel de la madre Conchita como inductora sigue discutido: El Universal la llama «autora intelectual», pero Toral sostuvo que actuó solo; la ficha dice «supuesta». El número de disparos varía (seis según la crónica de El Universal). El libro de Ramírez Rancaño no se consultó directamente (viene de Wikipedia). El PDF de la UNAM que traía la selección no se pudo abrir."
+  },
+  {
+    "id": "masacre-san-ysidro",
+    "m": 7,
+    "d": 18,
+    "y": 1984,
+    "n": "James Oliver Huberty",
+    "a": "La masacre del McDonald's de San Ysidro",
+    "v": "21 (y 19 heridos)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1984",
+    "st": "Cerrado sin juicio: el autor murió abatido por un tirador de élite de la policía en el lugar. Las víctimas y sus familias pleitearon después contra McDonald's y otras partes.",
+    "c": "La tarde del 18 de julio de 1984, un hombre armado con varias armas de fuego entró en el McDonald's de San Ysidro, un barrio de San Diego junto a la frontera con México, y disparó contra clientes y empleados. Mató a 21 personas, entre ellas niños y un bebé, e hirió a otras 19; muchas eran de origen mexicano. La policía tardó en saber que actuaba solo; cuando un empleado escapó y lo confirmó, un tirador de élite lo abatió, más de una hora después del primer disparo. Fue el tiroteo más mortífero de la historia de Estados Unidos hasta entonces. El restaurante se derribó y hoy hay un monumento.",
+    "mo": "Entró armado en un restaurante lleno y disparó de forma indiscriminada durante más de una hora, hasta que la policía lo mató.",
+    "loc": [
+      [
+        32.5559,
+        -117.0542,
+        "San Ysidro Boulevard, San Diego (antiguo McDonald's, hoy monumento a las víctimas)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La masacre del McDonald's de San Ysidro",
+    "autor": "James Oliver Huberty (murió en el lugar)",
+    "fuentes": [
+      {
+        "titulo": "History.com, «Twenty-one people are shot to death at McDonald's» (This Day in History, 18 de julio)",
+        "url": "https://www.history.com/this-day-in-history/july-18/twenty-one-people-are-shot-to-death-at-mcdonalds",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Jackie Crea, «Survivors remember San Ysidro McDonald's mass shooting», NBC 7 San Diego (17 de julio de 2024, actualizado en 2025)",
+        "url": "https://www.nbcsandiego.com/news/local/san-ysidro-mcdonalds-mass-shooting-40-years-later/3569489/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jim Schachter, «Some Massacre Victims Relive Horror Through Lawsuits», Los Angeles Times (9 de febrero de 1986)",
+        "url": "https://www.latimes.com/archives/la-xpm-1986-02-09-me-6022-story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tom Sherwood, «“Neva, oh Neva”», The Washington Post (21 de julio de 1984)",
+        "url": "https://www.washingtonpost.com/archive/politics/1984/07/21/neva-oh-neva/0ecd3627-82d0-41c8-8749-b74eb16e820d/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «San Ysidro McDonald's massacre» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/San_Ysidro_McDonald%27s_massacre",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El relato no se centra en el autor ni da su motivo (las fuentes de la época especulan). La duración varía: «una hora» (History.com) o «77 minutos» (título del documental de 2016 citado por NBC 7); la ficha dice «más de una hora». Muchas víctimas eran menores: no se nombran. La cifra de heridos (19) es de NBC 7."
+  },
+  {
+    "id": "asesinato-aung-san",
+    "m": 7,
+    "d": 19,
+    "y": 1947,
+    "n": "U Saw",
+    "a": "El asesinato del padre de la independencia birmana",
+    "v": "Aung San y al menos seis acompañantes",
+    "p": "Birmania (Myanmar)",
+    "f": "🇲🇲",
+    "per": "1947–1948",
+    "st": "Cerrado. Un tribunal especial condenó a muerte en diciembre de 1947 a U Saw y a varios cómplices; U Saw fue ahorcado en la cárcel de Insein el 8 de mayo de 1948. Algunos historiadores creen que no actuó solo.",
+    "c": "La mañana del 19 de julio de 1947, varios hombres armados entraron en el edificio de la Secretaría de Rangún durante una reunión del Consejo Ejecutivo y mataron a tiros a Aung San, líder de la independencia birmana y jefe del gobierno de transición, y a varios de sus ministros, entre ellos su hermano. Faltaban seis meses para la independencia. La investigación señaló como instigador a U Saw, ex primer ministro y rival político de Aung San, que se había negado a firmar el acuerdo de independencia con Londres. Un tribunal especial lo condenó a muerte y fue ahorcado en mayo de 1948. El 19 de julio es en Myanmar el Día de los Mártires.",
+    "mo": "Un comando armado irrumpió en la sala del consejo de ministros y disparó con armas automáticas contra los reunidos, por orden de un rival político.",
+    "loc": [
+      [
+        16.7755,
+        96.1653,
+        "Edificio de la Secretaría, Rangún (asesinato durante la reunión del Consejo Ejecutivo)"
+      ],
+      [
+        16.8024,
+        96.1477,
+        "Mausoleo de los Mártires, Rangún (donde están enterrados)"
+      ],
+      [
+        16.8936,
+        96.0978,
+        "Cárcel de Insein (donde fue ahorcado U Saw, 8 de mayo de 1948)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Aung San",
+    "autor": "Pistoleros enviados por U Saw (condenado y ahorcado)",
+    "fuentes": [
+      {
+        "titulo": "Encyclopaedia Britannica, «Aung San»",
+        "url": "https://www.britannica.com/biography/Aung-San",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «U Saw»",
+        "url": "https://www.britannica.com/biography/U-Saw",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "GlobalSecurity.org, «Myanmar — Assassination of Aung San — July 19, 1947»",
+        "url": "https://www.globalsecurity.org/military/world/myanmar/history-british-8.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Maung Maung Aung, «The Day the Prime Minister of British Burma was Hanged», The Irrawaddy (8 de mayo de 2019)",
+        "url": "https://www.irrawaddy.com/specials/on-this-day/day-prime-minister-british-burma-hanged.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Aung San» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Aung_San",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de muertos varía: Britannica habla de Aung San «y seis colegas, entre ellos su hermano»; GlobalSecurity, de «siete de sus ministros»; otras fuentes suman un secretario y un guardaespaldas. Se pone «al menos seis acompañantes». También varía cuántos cómplices fueron ejecutados (The Irrawaddy: seis condenados a muerte). La autoría única de U Saw se discute (un documental de la BBC de 1997 planteó otras implicaciones): la ficha lo recoge con prudencia."
+  },
+  {
+    "id": "asesinato-pancho-villa",
+    "m": 7,
+    "d": 20,
+    "y": 1923,
+    "n": "Jesús Salas Barraza",
+    "a": "La emboscada de Parral",
+    "v": "5 (Villa y cuatro acompañantes)",
+    "p": "México",
+    "f": "🇲🇽",
+    "per": "1923",
+    "st": "Cerrado sin aclarar del todo. El diputado Jesús Salas Barraza asumió toda la responsabilidad y fue condenado a 20 años, pero su pena fue conmutada a los pocos meses. Los historiadores, entre ellos Friedrich Katz, sostienen que el crimen se planeó con el conocimiento de altos cargos del gobierno, algo que nunca se juzgó.",
+    "c": "Francisco «Pancho» Villa, el general de la División del Norte retirado desde 1920 en la hacienda de Canutillo, fue acribillado el 20 de julio de 1923 en una emboscada en Hidalgo del Parral (Chihuahua), cuando atravesaba la ciudad al volante de su coche. Un grupo de hombres apostados en una casa disparó desde la esquina de las calles Juárez y Gabino Barreda; murieron Villa y cuatro de sus acompañantes. El diputado duranguense Jesús Salas Barraza se atribuyó el crimen y pasó solo unos meses en prisión. Muchos historiadores creen que el plan contó con el visto bueno de Plutarco Elías Calles y del presidente Álvaro Obregón.",
+    "mo": "Emboscada: los asesinos vigilaron durante días los recorridos de Villa, se apostaron en una casa frente a una curva en la que el coche debía frenar y dispararon todos a la vez.",
+    "loc": [
+      [
+        26.9329,
+        -105.6725,
+        "Calle Gabino Barreda, Hidalgo del Parral (lugar de la emboscada; hoy museo)"
+      ],
+      [
+        26.9284,
+        -105.6674,
+        "Hidalgo del Parral, Chihuahua (donde fue enterrado en un principio)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-obregon",
+        "r",
+        "Otro magnicidio de la Revolución mexicana: Obregón, señalado por los historiadores en la muerte de Villa, fue asesinado cinco años después"
+      ]
+    ],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Pancho Villa",
+    "autor": "Jesús Salas Barraza y su grupo (Salas Barraza, condenado y liberado); autores intelectuales nunca juzgados",
+    "fuentes": [
+      {
+        "titulo": "Notimex / El Siglo de Torreón, «1923: Muere “Pancho” Villa, “El Centauro del Norte”» (19 de julio de 2013)",
+        "url": "https://www.elsiglodetorreon.com.mx/noticia/2013/1923-muere-pancho-villa-el-centauro-del-norte.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Tiempo (Chihuahua), «A 96 años de la muerte de Pancho Villa; así fue la emboscada» (20 de julio de 2019)",
+        "url": "https://www.tiempo.com.mx/local/pancho_villa_asi_fue_el_asesinato_20_de_julio/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Friedrich Katz, «The Life and Times of Pancho Villa» (Stanford University Press, 1998; Internet Archive)",
+        "url": "https://archive.org/details/lifetimesofpanch0000katz",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Pancho Villa» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Pancho_Villa",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La implicación del gobierno (Calles, Amaro y, al menos con su aprobación tácita, Obregón) es una tesis histórica, no probada en un juicio. La condena de Salas Barraza (20 años, conmutados a unos tres meses por el gobernador de Chihuahua) sale de Wikipedia; no se ha encontrado otra fuente abierta que la confirme. El Siglo de Torreón llama «Miguel Trujillo» al acompañante que Wikipedia llama Miguel Trillo. El libro de Katz no se consultó directamente. La Wikipedia en castellano (artículo de Salas Barraza) dice en cambio que fue condenado a 70 años e indultado en 1924: las fuentes no coinciden en la pena, por eso la ficha solo dice que cumplió unos meses."
+  },
+  {
+    "id": "asesinato-lillehammer",
+    "m": 7,
+    "d": 21,
+    "y": 1973,
+    "n": "Ahmed Bouchikhi",
+    "a": "El caso Lillehammer",
+    "v": "1",
+    "p": "Noruega",
+    "f": "🇳🇴",
+    "per": "1973–1974",
+    "st": "Cinco agentes del Mosad fueron condenados en Noruega en 1974 por complicidad, con penas de uno a cinco años y medio, y fueron indultados tras unos 22 meses; los dos tiradores y el resto del equipo huyeron. En 1996 Israel acordó indemnizar a la familia de la víctima, sin admitir formalmente la responsabilidad.",
+    "c": "Tras la matanza de los Juegos Olímpicos de Múnich (1972), el Mosad israelí envió a Lillehammer (Noruega) un equipo para matar a Ali Hassan Salameh, uno de los jefes de Septiembre Negro. Confundieron con él a Ahmed Bouchikhi, un camarero marroquí que no tenía relación con ningún grupo armado. La noche del 21 de julio de 1973, cuando volvía del cine con su esposa embarazada, dos agentes lo mataron a tiros a la vista de ella. La policía noruega detuvo en los días siguientes a seis miembros del equipo, que habían seguido usando el mismo coche; cinco fueron condenados en 1974.",
+    "mo": "Asesinato selectivo por error de identidad: tras días de vigilancia, dos agentes bajaron de un coche y le dispararon en la calle; el resto del equipo daba cobertura.",
+    "loc": [
+      [
+        61.1158,
+        10.4638,
+        "Centro de Lillehammer (cine del que volvía la víctima la noche del crimen)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Lillehammer",
+    "autor": "Agentes del Mosad (cinco condenados por complicidad; los autores materiales huyeron)",
+    "fuentes": [
+      {
+        "titulo": "Store norske leksikon, «Lillehammer-saken»",
+        "url": "https://snl.no/Lillehammer-saken",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«Playing God: Mossad's Murder of Achmed Bouchiki», History Today, vol. 75, n.º 9 (septiembre de 2025)",
+        "url": "https://www.historytoday.com/archive/history-matters/playing-god-mossads-murder-achmed-bouchiki",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Il Post, «L'affare di Lillehammer» (21 de julio de 2013)",
+        "url": "https://www.ilpost.it/2013/07/21/affare-lillehammer-mossad/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jewish Telegraphic Agency, «Israel to Compensate Family of Moroccan Killed by Mossad» (28 de enero de 1996)",
+        "url": "https://www.jta.org/archive/israel-to-compensate-family-of-moroccan-killed-by-mossad",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Lillehammer affair» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Lillehammer_affair",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de condenados: Wikipedia, el Store norske leksikon y History Today dan cinco de seis detenidos (uno fue absuelto); Wikipedia dice en otro punto «seis condenados». Se usa cinco. Las penas: SNL e History Today, de uno a cinco años y medio; Il Post, de dos a cinco. En 1998 la fiscalía noruega acusó al jefe de la operación, Michael Harari, pero retiró el cargo al año siguiente; Harari murió en 2014. El lugar exacto del crimen, cerca de su casa, no se ha podido situar en el mapa: se marca el cine del centro."
+  },
+  {
+    "id": "crimen-los-galindos",
+    "m": 7,
+    "d": 22,
+    "y": 1975,
+    "n": "Manuel Zapata Villanueva",
+    "a": "El crimen de Los Galindos",
+    "v": "5",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1975",
+    "st": "Sin resolver. Nadie llegó a ser juzgado y el crimen prescribió en 1995, veinte años después. El sumario se extravió en 2014.",
+    "c": "El 22 de julio de 1975, cuatro meses antes de la muerte de Franco, aparecieron muertas cinco personas en el cortijo de Los Galindos, una gran finca de cereal en Paradas (Sevilla): el capataz, Manuel Zapata, y su esposa; un tractorista y su esposa; y otro tractorista. Como el cuerpo del capataz no se halló hasta tres días después, se le creyó culpable, hasta que la autopsia demostró que había sido el primero en morir. La investigación inicial estuvo llena de errores: se alteró el escenario y se perdieron pruebas. En 1983 el caso se reabrió, con una segunda autopsia, pero se cerró en 1988 y prescribió en 1995 sin culpables.",
+    "mo": "Desconocido. Las víctimas murieron golpeadas o por disparos de escopeta, y dos de los cuerpos fueron quemados.",
+    "loc": [
+      [
+        37.2903,
+        -5.4967,
+        "Paradas, Sevilla (el cortijo de Los Galindos está a unos 5 km del pueblo)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El crimen de Los Galindos",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Fermín Cabanillas, «Los Galindos: 45 años del último crimen impune de la España franquista», elDiario.es (21 de julio de 2020)",
+        "url": "https://www.eldiario.es/sevilla/galindos-45-anos-ultimo-crimen-impune-espana-franquista_1_6116964.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Debate, «El hijo del marqués del crimen de Los Galindos se niega a hacerse la prueba del ADN» (29 de junio de 2024)",
+        "url": "https://www.eldebate.com/cine-tv-series/20240629/hijo-marques-crimen-galindos-niega-hacerse-prueba-adn_209226.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jorge Loser, «Es uno de los misterios sin resolver más turbios de la crónica negra española…» (sobre la serie documental «Los Galindos, toda la verdad», Prime Video), Espinof (13 de junio de 2024)",
+        "url": "https://www.espinof.com/criticas/uno-misterios-resolver-turbios-cronica-negra-espanola-amazon-prime-video-ha-estrenado-serie-documental-definitiva-caso",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Teresa Amiguet, «El crimen de los Galindos, un misterio sin resolver», La Vanguardia, Hemeroteca (21 de julio de 2015)",
+        "url": "https://www.lavanguardia.com/hemeroteca/20150722/54432901341/los-galindos-crimenes-homicidios-multiples-espana-sevilla.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Diario de Sevilla, «Un misterio de 43 años» (reportaje de Juzgado de guardia, 23 de julio de 2018)",
+        "url": "https://www.diariodesevilla.es/juzgado_de_guardia/reportajes/crimen-galindos-misterio_0_1264974018.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Crimen de Los Galindos» (punto de partida)",
+        "url": "https://es.wikipedia.org/wiki/Crimen_de_Los_Galindos",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Víctimas (elDiario.es, Diario de Sevilla y Wikipedia): el capataz Manuel Zapata y su esposa Juana Martín, el tractorista José González y su esposa Asunción Peralta, y el tractorista Ramón Parrilla. La ficha original contaba mal los vínculos entre ellas; corregido. Fecha, cinco víctimas, prescripción en 1995 y cierre en 1988 coinciden en La Vanguardia y elDiario.es; el extravío del sumario lo recoge Diario de Sevilla (el original, perdido) y Wikipedia da agosto de 2014. No se pudo abrir prensa de 1975 (ABC, El País). No se señala a ningún sospechoso: hay teorías públicas, incluido el libro del hijo de los dueños, que el agente judicial Zapico llama «disparate»."
+  },
+  {
+    "id": "asesinato-castillo-armas",
+    "m": 7,
+    "d": 26,
+    "y": 1957,
+    "n": "Carlos Castillo Armas",
+    "a": "El crimen de la Casa Presidencial",
+    "v": "1 (y el presunto autor, muerto esa misma noche)",
+    "p": "Guatemala",
+    "f": "🇬🇹",
+    "per": "1957",
+    "st": "Sin aclarar. La versión oficial atribuyó el crimen a un soldado de la guardia, Romeo Vásquez Sánchez, que apareció muerto en el mismo edificio; nadie fue juzgado y otros detenidos quedaron libres por falta de pruebas. Nunca se probó si hubo instigadores.",
+    "c": "Carlos Castillo Armas, que gobernaba Guatemala desde el golpe de Estado de 1954, fue asesinado de dos disparos la noche del 26 de julio de 1957 en un pasillo de la Casa Presidencial, cuando iba a cenar. Poco después, en el piso de arriba, apareció muerto un soldado de la guardia, Romeo Vásquez Sánchez, de 24 años; según la versión oficial, se suicidó tras matar al presidente, y en su taquilla se halló un diario con sus planes. Ya entonces se dudó de esa versión: el diario tenía una ortografía extraña, se detuvo a otros militares que luego quedaron libres y se habló de conspiraciones dentro del propio régimen. El crimen nunca se aclaró.",
+    "mo": "Disparos a corta distancia dentro de la residencia presidencial, en un momento en que había poca vigilancia.",
+    "loc": [
+      [
+        14.6434,
+        -90.5128,
+        "Casa Presidencial, Ciudad de Guatemala (asesinato, 26 de julio de 1957)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Carlos Castillo Armas",
+    "autor": "Atribuido oficialmente al soldado Romeo Vásquez Sánchez (muerto esa noche; nunca probado)",
+    "fuentes": [
+      {
+        "titulo": "Office of the Historian, U.S. Department of State, «Foreign Relations of the United States, 1955–1957, vol. VII, documento 56: Editorial Note» (sobre el asesinato y el telegrama del embajador Sparks del 27 de julio de 1957)",
+        "url": "https://history.state.gov/historicaldocuments/frus1955-57v07/d56",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Hemeroteca PL, «Un año después del asesinato de Castillo Armas», Prensa Libre (24 de julio de 2015)",
+        "url": "https://www.prensalibre.com/hemeroteca/un-ao-despues-del-asesinato-de-castillo-armas/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Prensa Libre, «El diario sospechoso» (14 de febrero de 2015)",
+        "url": "https://www.prensalibre.com/uncategorized/el-diario-sospechoso/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Prensa Libre, Revista D, «Historia de Guatemala: Asesinato del presidente Castillo Armas en julio de 1957» (29 de julio de 2021)",
+        "url": "https://www.prensalibre.com/revista-d/historia-de-guatemala-asesinato-del-presidente-castillo-armas-en-julio-de-1957/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Carlos Castillo Armas» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Carlos_Castillo_Armas",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Se nombra en «n» a la víctima porque la autoría nunca se probó. Las teorías sobre conspiraciones (dentro del régimen, o la venganza del dictador dominicano Trujillo) son especulativas: la ficha solo dice que se habló de ellas. El documento del FRUS es una nota editorial del Departamento de Estado; se marca como «judicial» a falta de un tipo para documentos oficiales."
+  },
+  {
+    "id": "richard-jewell",
+    "m": 7,
+    "d": 27,
+    "y": 1996,
+    "n": "Eric Rudolph",
+    "a": "La bomba de los Juegos de Atlanta y el inocente Richard Jewell",
+    "v": "2 (y más de 100 heridos)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1996–2005",
+    "st": "Condenado el verdadero autor: Eric Rudolph se declaró culpable en 2005 de este y otros tres atentados y cumple cadena perpetua. Richard Jewell, el vigilante que dio la alarma, era inocente: nunca fue acusado, la fiscalía lo exculpó por escrito en octubre de 1996 y murió en 2007.",
+    "c": "En la madrugada del 27 de julio de 1996, durante los Juegos Olímpicos de Atlanta, estalló una bomba de tubo con clavos en el Centennial Olympic Park, en pleno concierto. Murió una mujer, Alice Hawthorne, un cámara turco sufrió un infarto mortal y más de cien personas resultaron heridas. El vigilante Richard Jewell había visto la mochila, avisó a la policía y ayudó a alejar al público, lo que salvó vidas. Días después, una filtración a la prensa lo señaló como sospechoso del FBI y durante meses fue tratado públicamente como culpable, sin pruebas. En octubre fue exculpado. El autor real era Eric Rudolph, un extremista que se declaró culpable en 2005.",
+    "mo": "Rudolph dejó una mochila con una bomba de tubo rellena de clavos bajo un banco junto a una torre de sonido y avisó por teléfono a la policía poco antes de la explosión.",
+    "loc": [
+      [
+        33.76,
+        -84.3932,
+        "Centennial Olympic Park, Atlanta (atentado, 27 de julio de 1996)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Richard Jewell y la bomba del parque olímpico de Atlanta",
+    "autor": "Eric Rudolph (condenado). Richard Jewell, señalado por error, era inocente",
+    "fuentes": [
+      {
+        "titulo": "U.S. Department of Justice, «Eric Robert Rudolph to Plead Guilty to Serial Bombing Attacks in Atlanta and Birmingham; Will Receive Life Sentences» (nota de prensa n.º 176, 8 de abril de 2005)",
+        "url": "https://www.justice.gov/archive/opa/pr/2005/April/05_crm_176.htm",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Richard Jewell»",
+        "url": "https://www.britannica.com/biography/Richard-Jewell",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "History.com, «Bombing at Centennial Olympic Park» (This Day in History, 27 de julio)",
+        "url": "https://www.history.com/this-day-in-history/july-27/bombing-at-centennial-olympic-park",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Richard Jewell» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Richard_Jewell",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye a la condena de Christer Pettersson (27 de julio de 1989), por decisión del coordinador: el caso Palme ya está el 28 de febrero. Richard Jewell es inocente y la ficha lo dice en todos los campos; en «n» va el autor condenado. Las cifras de heridos varían (111 según la selección; «más de 100» según el Departamento de Justicia; 112 según Britannica). La fecha de la carta de exculpación (26 de octubre de 1996) sale de Wikipedia; Britannica habla de la rueda de prensa del 28 de octubre. Se nombra a Alice Hawthorne, víctima adulta citada por el Departamento de Justicia."
+  },
+  {
+    "id": "robo-el-dioni",
+    "m": 7,
+    "d": 28,
+    "y": 1989,
+    "n": "Dionisio Rodríguez Martín",
+    "a": "El Dioni",
+    "v": "Ninguna (robo)",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1989–1995",
+    "st": "Condenado a tres años y cuatro meses de prisión por apropiación indebida, tras ser detenido en Brasil y extraditado; salió de prisión en 1995. Buena parte del dinero no se recuperó.",
+    "c": "El 28 de julio de 1989, Dionisio Rodríguez, vigilante de la empresa de seguridad Candi en Madrid, aprovechó que sus dos compañeros habían bajado del furgón blindado que custodiaba para llevárselo con unos 300 millones de pesetas. Pasó las sacas a su coche sin disparar un solo tiro, según él, dio parte del dinero a unos amigos y huyó a Brasil, donde vivió unas semanas con lujo hasta que la policía lo detuvo en septiembre. Tras meses en una cárcel de Río de Janeiro, fue extraditado y juzgado en España. Se convirtió en un personaje popular, con canción de Joaquín Sabina incluida.",
+    "mo": "Robo sin violencia desde dentro: el propio vigilante del furgón se lo llevó mientras sus compañeros estaban fuera.",
+    "loc": [
+      [
+        40.4168,
+        -3.7038,
+        "Madrid (robo del furgón de Candi, 28 de julio de 1989)"
+      ],
+      [
+        -22.9068,
+        -43.1729,
+        "Río de Janeiro (detención y prisión en Brasil)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo del furgón de El Dioni",
+    "autor": "Dionisio Rodríguez Martín, «el Dioni» (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Carles Benítez, «Dioni, l'home dels tres-cents milions» (entrevista), El Temps (11 de marzo de 1991)",
+        "url": "https://www.eltemps.cat/documents/el-temps_1991_03_0351_0045_0047.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«A Dream Escape: El Dioni», en «Famous Robberies» (Little Gestalten, 2022; páginas de prensa)",
+        "url": "https://news.gestalten.com/sites/default/files/press/pdf/p.32-33_FamousRobberies%2CLittleGestalten2022.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "El Tiempo, «El Dioni: el hombre que robó un carro de valores sin dar un solo disparo» (16 de enero de 2023)",
+        "url": "https://www.eltiempo.com/mundo/europa/el-dioni-el-hombre-que-robo-un-carro-de-valores-sin-dar-un-solo-disparo-734236",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Semana, «El “Dioni”: vigilante que robó un carro de valores…» (17 de enero de 2023)",
+        "url": "https://www.semana.com/mundo/articulo/el-dioni-vigilante-que-robo-un-carro-de-valores-y-se-convirtio-en-actor-de-cine-porno/202308/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «El Dioni» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/El_Dioni",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La cifra del botín varía: 298 millones de pesetas (Wikipedia), 300 (El Tiempo, Semana, El Temps) o 320 (Gestalten). El Temps (1991) da por error el «28 de juny»; las demás fuentes, el 28 de julio. La fecha de la detención (19 de septiembre de 1989), la salida de prisión en 1995 y los 175 millones recuperados salen de Wikipedia; Semana y El Tiempo hablan de «unos dos meses» en Brasil antes de la detención. El protagonista vive y es figura mediática: la ficha no entra en su vida posterior. Las coordenadas son las del centro de Madrid y de Río: no se ha localizado el lugar exacto del robo."
+  },
+  {
+    "id": "desaparicion-hoffa",
+    "m": 7,
+    "d": 30,
+    "y": 1975,
+    "n": "Jimmy Hoffa",
+    "a": "La desaparición de Jimmy Hoffa",
+    "v": "1 (desaparecido)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1975",
+    "st": "Sin resolver. Nadie ha sido acusado; fue declarado legalmente muerto en 1982 y el FBI mantiene el caso abierto. Su cuerpo nunca apareció.",
+    "c": "James R. «Jimmy» Hoffa presidió el sindicato de camioneros Teamsters de 1957 a 1971 y en 1967 entró en prisión para cumplir 13 años por soborno de un jurado, fraude y conspiración. El presidente Nixon le conmutó la pena en 1971, con la prohibición de volver al sindicato hasta 1980, pero él intentaba recuperar el control del sindicato cuando, la tarde del 30 de julio de 1975, fue visto por última vez en el aparcamiento del restaurante Machus Red Fox, cerca de Detroit, donde decía haber quedado con dos figuras vinculadas a la mafia, que negaron haberlo visto. Ni el FBI ni decenas de excavaciones posteriores encontraron sus restos. Fue declarado legalmente muerto en 1982.",
+    "mo": "Desconocido. Se supone que lo citaron con engaño en el restaurante y se lo llevaron en un coche, pero nunca se ha probado quién ni cómo.",
+    "loc": [
+      [
+        42.5423,
+        -83.2856,
+        "Antiguo restaurante Machus Red Fox, Telegraph Road, Bloomfield Township (donde se le vio por última vez)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La desaparición de Jimmy Hoffa",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Encyclopaedia Britannica, «Jimmy Hoffa» (actualizada el 27 de noviembre de 2025)",
+        "url": "https://www.britannica.com/biography/Jimmy-Hoffa",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Dan E. Moldea, «The Jimmy Hoffa disappearance: The 46th anniversary», The Mob Museum (28 de julio de 2021)",
+        "url": "https://themobmuseum.org/blog/the-jimmy-hoffa-disappearance-the-46th-anniversary/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "EBSCO Research Starters, «Jimmy Hoffa disappearance»",
+        "url": "https://www.ebsco.com/research-starters/history/jimmy-hoffa-disappearance",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "FBI Records: The Vault, «Jimmy Hoffa»",
+        "url": "https://vault.fbi.gov/Jimmy%20Hoffa",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Jimmy Hoffa» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Jimmy_Hoffa",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No se atribuye la autoría a nadie: Anthony Provenzano y Anthony Giacalone, con quienes decía haber quedado, negaron el encuentro y nunca fueron acusados. Las fuentes discrepan en el fin de su mandato (Britannica: 1971, aunque estaba en prisión desde 1967; EBSCO: 1967). El expediente del FBI (The Vault) no se pudo abrir (bloqueo antirrobots). El restaurante, hoy otro local, está en Bloomfield Township, aunque muchas fuentes dicen Bloomfield Hills."
+  },
+  {
+    "id": "asesinato-jaures",
+    "m": 7,
+    "d": 31,
+    "y": 1914,
+    "n": "Raoul Villain",
+    "a": "El asesinato de Jaurès",
+    "v": "1",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1914–1919",
+    "st": "Absuelto. Raoul Villain confesó y pasó toda la guerra en prisión preventiva, pero un jurado de París lo absolvió en marzo de 1919. Murió en 1936 en Ibiza, al comienzo de la Guerra Civil española.",
+    "c": "La noche del 31 de julio de 1914, mientras Europa se precipitaba a la guerra, el diputado socialista Jean Jaurès, fundador de L'Humanité y la gran voz pacifista de Francia, cenaba con colaboradores en el Café du Croissant, en la calle Montmartre de París. Desde la calle, por una ventana abierta, un joven le disparó a la cabeza y lo mató. Era Raoul Villain, un estudiante nacionalista influido por la prensa que pedía la muerte del «traidor» pacifista. Tres días después Francia entraba en guerra. Villain esperó el juicio en prisión durante toda la contienda y en 1919, en plena euforia de la victoria, el jurado lo absolvió.",
+    "mo": "Disparó con un revólver desde la calle, a través de la ventana abierta del café, contra la víctima, que estaba sentada de espaldas.",
+    "loc": [
+      [
+        48.8692,
+        2.3433,
+        "Café du Croissant, 146 rue Montmartre, París (asesinato)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Jean Jaurès",
+    "autor": "Raoul Villain (confeso; absuelto en 1919)",
+    "fuentes": [
+      {
+        "titulo": "Herodote.net, «31 juillet 1914: “Ils ont tué Jaurès”»",
+        "url": "https://www.herodote.net/31_juillet_1914-evenement-19140731.php",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Assemblée nationale, «Hommage à Jean Jaurès» (Histoire, 1914-1918)",
+        "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/1914-1918/hommage-a-jean-jaures",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Jean Jaurès»",
+        "url": "https://www.britannica.com/biography/Jean-Jaures",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Chemins de mémoire (Ministerio de los Ejércitos de Francia), «Raoul Villain»",
+        "url": "https://www.cheminsdememoire.gouv.fr/en/raoul-villain",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Assassinat de Jean Jaurès» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Assassinat_de_Jean_Jaur%C3%A8s",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La fecha exacta del veredicto (29 de marzo de 1919, según la bibliografía habitual) no se ha podido confirmar en una fuente abierta: la ficha dice «marzo de 1919». La página de Chemins de mémoire no se pudo abrir (el servidor no respondía). Herodote dice que Villain fue asesinado en España en 1936; Wikipedia, que lo mataron anarquistas en Ibiza. No se recoge la condena en costas a la viuda de Jaurès por no tener fuente abierta."
+  }
+]

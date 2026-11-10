@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "bonnie-parker",
+    "m": 10,
+    "d": 1,
+    "y": 1910,
+    "n": "Bonnie Parker",
+    "a": "Bonnie y Clyde",
+    "v": "Al menos 12 (9 de ellas, agentes de la ley)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1932–1934",
+    "st": "Sin juicio. Bonnie Parker y Clyde Barrow murieron en una emboscada policial el 23 de mayo de 1934 y nunca fueron juzgados por las muertes atribuidas a la banda.",
+    "c": "Bonnie Parker nació el 1 de octubre de 1910 en Rowena (Texas) y creció en Dallas, donde en enero de 1930 conoció a Clyde Barrow. Entre 1932 y 1934, en plena Gran Depresión, la banda de Barrow asaltó tiendas, gasolineras y pequeños bancos en varios estados, y se le atribuyen al menos doce muertes, nueve de ellas de policías. Las fotografías que dejaron en su escondite de Joplin en 1933 los hicieron famosos en todo el país. El 23 de mayo de 1934 una partida dirigida por el exranger Frank Hamer los mató a tiros en una carretera de Luisiana.",
+    "mo": "Robos a mano armada en tiendas rurales, gasolineras y pequeños bancos, con huidas en coches robados de un estado a otro; la banda disparaba contra los agentes que intentaban detenerla.",
+    "loc": [
+      [
+        31.6585,
+        -100.0473,
+        "Rowena, Texas (nacimiento, 1 de octubre de 1910)"
+      ],
+      [
+        32.779,
+        -96.866,
+        "Oeste de Dallas (barrio donde vivían las familias y donde se conocieron, 1930)"
+      ],
+      [
+        37.0842,
+        -94.5133,
+        "Joplin, Misuri (tiroteo con la policía en su escondite, 13 de abril de 1933)"
+      ],
+      [
+        32.9343,
+        -97.0781,
+        "Grapevine, Texas (asesinato de dos patrulleros, 1 de abril de 1934)"
+      ],
+      [
+        32.5446,
+        -93.0546,
+        "Gibsland, Luisiana (la emboscada fue en la carretera 154, al sur del pueblo, 23 de mayo de 1934)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "nacimiento",
+    "titulo_caso": "Nace Bonnie Parker, la mitad de «Bonnie y Clyde»",
+    "autor": "Clyde Barrow y su banda, de la que formaba parte Bonnie Parker",
+    "fuentes": [
+      {
+        "titulo": "Kristi Strickland, «Parker, Bonnie», Handbook of Texas Online, Texas State Historical Association",
+        "url": "https://www.tshaonline.org/handbook/entries/parker-bonnie",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«Parker, Bonnie (1910–1934)», Women in World History: A Biographical Encyclopedia (Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/parker-bonnie-1910-1934",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Biography.com Editors, «Bonnie Parker» (3 de abril de 2014; actualizado el 6 de mayo de 2021)",
+        "url": "https://www.biography.com/crime/bonnie-parker",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Barrow's killings date from parole», The New York Times (24 de mayo de 1934)",
+        "url": "https://www.nytimes.com/1934/05/24/archives/barrows-killings-date-from-parole-2-brothers-were-first-arrested-in.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Brian Anderson, «Reality less romantic than outlaw legend», The Dallas Morning News (19 de abril de 2003)",
+        "url": "http://www.dallasnews.com/s/dws/spe/2003/bonnieclyde/story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "FBI Records: The Vault — «Bonnie and Clyde» (expedientes del FBI, 1933-1944)",
+        "url": "https://vault.fbi.gov/Bonnie%20and%20Clyde",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "FBI, «Famous Cases & Criminals: Bonnie and Clyde»",
+        "url": "https://www.fbi.gov/history/famous-cases/bonnie-and-clyde",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Bonnie and Clyde» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Bonnie_and_Clyde",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No está probado que Bonnie Parker matara personalmente a nadie: la TSHA dice que «según se informó» disparó contra un patrullero en Grapevine. La cifra de muertes varía: Women in World History habla de más de 20 atribuidas y unas 12 comprobadas. Las coordenadas de Dallas, Grapevine y Gibsland son del núcleo urbano, no del punto exacto."
+  },
+  {
+    "id": "gallinero-wineville",
+    "m": 10,
+    "d": 2,
+    "y": 1930,
+    "n": "Gordon Stewart Northcott",
+    "a": "Los crímenes del gallinero de Wineville",
+    "v": "Al menos 4 niños (condenado por 3)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1928",
+    "st": "Cerrado. Northcott fue condenado a muerte por tres asesinatos y ahorcado en San Quentin el 2 de octubre de 1930. Su madre, Sarah Louise Northcott, fue condenada a cadena perpetua por el asesinato de Walter Collins y salió en libertad condicional en 1940.",
+    "c": "En 1928 Gordon Stewart Northcott, un joven nacido en Canadá, secuestró a varios niños de la zona de Los Ángeles y los mató en la granja de gallinas que tenía en Wineville, en el condado de Riverside (California). Su sobrino adolescente, al que retenía en la granja, acabó contando lo ocurrido a la policía. En febrero de 1929 un jurado de Riverside lo declaró culpable de tres asesinatos y el juez lo condenó a muerte. Fue ahorcado en la prisión de San Quentin el 2 de octubre de 1930. El caso de Walter Collins, uno de los niños, inspiró la película «El intercambio».",
+    "mo": "Secuestraba a niños, los retenía en su granja aislada y los mataba allí; enterraba los restos en el terreno.",
+    "loc": [
+      [
+        33.9845,
+        -117.5159,
+        "Wineville, hoy Mira Loma (granja donde se cometieron los crímenes)"
+      ],
+      [
+        33.9813,
+        -117.3755,
+        "Juzgado del condado de Riverside (juicio, enero y febrero de 1929)"
+      ],
+      [
+        37.9386,
+        -122.488,
+        "Prisión estatal de San Quentin (ejecución, 2 de octubre de 1930)"
+      ],
+      [
+        34.0551,
+        -117.75,
+        "Pomona (de donde desaparecieron dos de los niños en mayo de 1928)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Los crímenes del gallinero de Wineville",
+    "autor": "Gordon Stewart Northcott (su madre, Sarah Louise Northcott, fue condenada por uno de los asesinatos)",
+    "fuentes": [
+      {
+        "titulo": "Cecilia Rasmussen, «During the 1920s, Boys Became the Prey of a Brutal Killer», Los Angeles Times (31 de octubre de 2004)",
+        "url": "https://www.latimes.com/archives/la-xpm-2004-oct-31-me-then31-story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Northcott Convicted of Slaying Three Boys; His Last Dramatic Plea Fails to Move Jury», The New York Times (febrero de 1929)",
+        "url": "https://select.nytimes.com/gst/abstract.html?res=FB061EFE3E5A167A93CAA91789D85F4D8285F9",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Crime Museum (Washington), «Wineville Chicken Coop Murders»",
+        "url": "https://www.crimemuseum.org/crime-library/wineville-chicken-coop-murders",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Riverside Public Library, «Northcott Murders: James Jeffrey Paul's Research Materials» (copia archivada)",
+        "url": "https://web.archive.org/web/20120218043746/http://www.riversideca.gov/Library/history_aids_northcutt.asp",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Rubidoux Historical Society, «Mira Loma History: Wineville Chicken Murders»",
+        "url": "http://www.usacitiesonline.com/camiralomahistory.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Wineville Chicken Coop murders» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Wineville_Chicken_Coop_murders",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye a Vere St. Leger Goold (2-10-1853): su fecha de nacimiento solo la da Wikipedia; la única otra fuente encontrada (Museo de Tipperary) da su bautismo el 4 de octubre. El número total de víctimas de Northcott es incierto: fue condenado por tres y su madre por un cuarto. Coordenadas de Wineville/Mira Loma y Pomona a nivel de localidad."
+  },
+  {
+    "id": "thompson-bywaters",
+    "m": 10,
+    "d": 3,
+    "y": 1922,
+    "n": "Edith Thompson y Frederick Bywaters",
+    "a": "El crimen de Ilford",
+    "v": "1",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1922–1923",
+    "st": "Ambos fueron ahorcados el 9 de enero de 1923. La condena de Edith Thompson se considera hoy muy dudosa: en marzo de 2023 el Gobierno británico remitió su caso a la Comisión de Revisión de Casos Penales como posible error judicial, y en 2024 la petición de indulto póstumo seguía en estudio.",
+    "c": "La noche del 3 de octubre de 1922 Percy Thompson volvía a casa con su mujer, Edith, después de ir al teatro en Londres, cuando fue apuñalado en Belgrave Road, en Ilford, y murió antes de que llegara ayuda. El autor era Frederick Bywaters, un marinero mercante de 20 años que mantenía una relación con Edith, de 29. La policía encontró más de sesenta cartas de amor de ella, y la acusación las presentó como prueba de que lo había incitado al crimen, aunque las autopsias no hallaron rastro del veneno que mencionaban. Un jurado del Old Bailey los condenó a los dos y ambos fueron ahorcados el 9 de enero de 1923.",
+    "mo": "Bywaters esperó a la pareja en la calle cuando volvía del teatro y atacó al marido con un cuchillo. La acusación contra Edith Thompson se basó en sus cartas, no en una participación en el ataque.",
+    "loc": [
+      [
+        51.566,
+        0.061,
+        "Belgrave Road, Ilford (crimen, noche del 3 de octubre de 1922)"
+      ],
+      [
+        51.5155,
+        -0.1019,
+        "Old Bailey, Londres (juicio, 6 a 11 de diciembre de 1922)"
+      ],
+      [
+        51.5536,
+        -0.124,
+        "Prisión de Holloway (ejecución de Edith Thompson, 9 de enero de 1923)"
+      ],
+      [
+        51.544,
+        -0.117,
+        "Prisión de Pentonville (ejecución de Frederick Bywaters, 9 de enero de 1923)"
+      ],
+      [
+        51.5575,
+        0.049,
+        "Cementerio de la City de Londres (Edith Thompson, enterrada de nuevo con sus padres en noviembre de 2018)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Thompson y Bywaters: el crimen de Ilford",
+    "autor": "Frederick Bywaters; Edith Thompson fue condenada como instigadora, una condena hoy muy discutida",
+    "fuentes": [
+      {
+        "titulo": "Filson Young (ed.), «Trial of Frederick Bywaters and Edith Thompson», William Hodge & Co., Edimburgo y Londres (1923), Internet Archive",
+        "url": "http://archive.org/details/trialoffrederick0000bywa",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "René J. A. Weis, «Criminal Justice: The True Story of Edith Thompson» (1992), Internet Archive",
+        "url": "http://archive.org/details/criminaljustice00rene",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Tim Stokes, «Edith Thompson: U-turn over rejection of hanged woman's pardon», BBC News (10 de enero de 2023)",
+        "url": "https://www.bbc.co.uk/news/uk-england-london-64175900",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Edith Thompson: Commission to re-examine hanged woman's case», BBC News (7 de marzo de 2023)",
+        "url": "https://www.bbc.co.uk/news/uk-england-london-64879662",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Adam Lusher, «Laid to rest at last: Edith Thompson, victim of a 'barbarous, misogynistic' death penalty», The Independent (22 de noviembre de 2018)",
+        "url": "https://www.independent.co.uk/news/uk/home-news/edith-thompson-death-penalty-capital-punishment-hanging-miscarriage-justice-buried-mother-murder-a8647636.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jack Blackburn, «Edith Thompson: posthumous pardon over husband's murder a step closer», The Times (7 de marzo de 2023)",
+        "url": "https://www.thetimes.com/uk/law/article/edith-thompson-posthumous-pardon-over-husband-s-murder-a-step-closer-s729dpg0q",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Edith Thompson and Frederick Bywaters» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Edith_Thompson_and_Frederick_Bywaters",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye al veredicto de O. J. Simpson por decisión del coordinador (O. J. pasa al 9 de julio). El crimen fue hacia la medianoche del 3 al 4 de octubre; las fuentes lo fechan el 3. Situación del indulto: según la prensa (BBC), en febrero de 2024 una comisión dijo que no cumplía los requisitos y en abril de 2024 se ordenó revisarlo de nuevo; no se ha encontrado una decisión final (no es un proceso penal contra personas vivas). Solo se pudieron abrir Wikipedia y la ficha del libro de 1923 en Internet Archive; BBC, The Independent y The Times se citan desde las referencias. Coordenadas de Belgrave Road y del cementerio aproximadas."
+  },
+  {
+    "id": "templo-solar",
+    "m": 10,
+    "d": 4,
+    "y": 1994,
+    "n": "Joseph Di Mambro",
+    "a": "La Orden del Templo Solar",
+    "v": "53 en 1994 (74 contando 1995 y 1997)",
+    "p": "Suiza / Canadá",
+    "f": "🇨🇭",
+    "per": "1994–1997",
+    "st": "Cerrado sin culpables vivos: los dos líderes murieron en las masacres. El único juzgado, el director de orquesta Michel Tabachnik, fue absuelto en Grenoble en 2001 y de nuevo en apelación en 2006.",
+    "c": "El 4 de octubre de 1994 los bomberos apagaron un incendio en un chalé de Morin-Heights (Quebec) y encontraron cinco cadáveres, entre ellos los de un matrimonio y su bebé, asesinados días antes. En la noche siguiente ardieron una granja de la secta en Cheiry y unos chalés en Salvan (Suiza), donde aparecieron 23 y 25 muertos. Entre ellos estaban los líderes de la Orden del Templo Solar, Joseph Di Mambro y Luc Jouret. Según la investigación, solo una parte de las muertes fueron suicidios voluntarios: otras víctimas, entre ellas niños, fueron asesinadas. En 1995 y 1997 murieron otros 21 miembros en Francia y en Quebec.",
+    "mo": "Los dirigentes presentaban la muerte como un «tránsito» hacia la estrella Sirio. Muchos miembros fueron drogados y asesinados a tiros o con inyecciones, y las casas se incendiaron con dispositivos activados a distancia.",
+    "loc": [
+      [
+        45.9163,
+        -74.2386,
+        "Morin-Heights, Quebec (chalé de Di Mambro: incendio y hallazgo de cinco cuerpos, 4 de octubre)"
+      ],
+      [
+        46.748,
+        6.836,
+        "Cheiry, cantón de Friburgo (granja incendiada, 23 muertos)"
+      ],
+      [
+        46.1196,
+        7.0218,
+        "Granges-sur-Salvan, Valais (chalés incendiados, 25 muertos)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sectas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La masacre de la Orden del Templo Solar",
+    "autor": "Joseph Di Mambro y Luc Jouret, líderes de la secta, con otros miembros",
+    "fuentes": [
+      {
+        "titulo": "Swissinfo, «Swiss conductor acquitted of sect killings» (20 de diciembre de 2006)",
+        "url": "https://www.swissinfo.ch/eng/aging-society/swiss-conductor-acquitted-of-sect-killings/5637928",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Alan Riding, «Swiss Examine Conflicting Signs in Cult Deaths», The New York Times (7 de octubre de 1994)",
+        "url": "https://www.nytimes.com/1994/10/07/world/swiss-examine-conflicting-signs-in-cult-deaths.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Clyde H. Farnsworth, «Quebec Police Say Baby Was Target of Cult», The New York Times (20 de noviembre de 1994)",
+        "url": "https://www.nytimes.com/1994/11/20/world/quebec-police-say-baby-was-target-of-cult.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«L'enquête sur les morts de l'Ordre du Temple solaire: la piste australienne», Le Monde (12 de octubre de 1994)",
+        "url": "https://www.lemonde.fr/archives/article/1994/10/12/l-enquete-sur-les-morts-de-l-ordre-du-temple-solaire-la-piste-australienne_3848052_1819218.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Solar Temple», Encyclopedia of Occultism and Parapsychology (Gale, Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/solar-temple",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Jean-François Mayer, «'Our Terrestrial Journey is Coming to an End': The Last Voyage of the Solar Temple», Nova Religio (1999)",
+        "url": "https://doi.org/10.1525/nr.1999.2.2.172",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Order of the Solar Temple»",
+        "url": "https://www.britannica.com/topic/Order-of-the-Solar-Temple",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «1994 Solar Temple massacres» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/1994_Solar_Temple_massacres",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El 4 de octubre es el incendio y hallazgo de Morin-Heights; las muertes de Cheiry y Salvan se descubrieron en la noche del 4 al 5 (Britannica: «4-5 de octubre»). La familia de Morin-Heights fue asesinada el 30 de septiembre. Las cifras totales varían: 53 (Wikipedia, Swissinfo), 52 (Encyclopedia of Occultism) o 54 (alguna fuente francesa). Verificación: el reparto exacto entre suicidios y asesinatos no se ha podido confirmar con cifra en las fuentes abiertas (Wikipedia solo dice que unas muertes fueron suicidios y otras asesinatos), por eso el texto no da número. Coordenadas de Morin-Heights corregidas a las de Wikipedia."
+  },
+  {
+    "id": "asesinato-sadat",
+    "m": 10,
+    "d": 6,
+    "y": 1981,
+    "n": "Jálid el-Islambuli",
+    "a": "El asesinato de Sadat",
+    "v": "11 (incluido el presidente)",
+    "p": "Egipto",
+    "f": "🇪🇬",
+    "per": "1981",
+    "st": "Cerrado. Un tribunal militar juzgó a los implicados y cinco de ellos, entre ellos el teniente Jálid el-Islambuli y el ideólogo Muhammad Abd al-Salam Faraj, fueron ejecutados el 15 de abril de 1982.",
+    "c": "El 6 de octubre de 1981, durante el desfile militar con el que El Cairo celebraba el aniversario de la guerra de 1973, un camión del ejército se detuvo ante la tribuna presidencial y varios soldados bajaron de él disparando y lanzando granadas. El presidente Anwar el-Sadat, que había firmado la paz con Israel en 1979, murió unas dos horas después en un hospital militar; hubo once muertos y 28 heridos. El comando, dirigido por el teniente Jálid el-Islambuli y vinculado a la Yihad Islámica Egipcia, fue juzgado por un tribunal militar y cinco de los condenados fueron ejecutados en abril de 1982.",
+    "mo": "Un grupo de militares islamistas infiltrado en el desfile detuvo su vehículo frente a la tribuna y atacó con fusiles automáticos y granadas a quienes la ocupaban.",
+    "loc": [
+      [
+        30.0642,
+        31.3148,
+        "Tribuna del desfile junto al Monumento al Soldado Desconocido, Ciudad Nasr, El Cairo (atentado y, después, sepultura de Sadat)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Anwar el-Sadat",
+    "autor": "Comando del teniente Jálid el-Islambuli, de la Yihad Islámica Egipcia",
+    "fuentes": [
+      {
+        "titulo": "UPI Archives, «Anwar Sadat Killed» (resumen del año 1981)",
+        "url": "https://www.upi.com/Archives/Audio/Events-of-1981/Anwar-Sadat-Killed",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, On This Day: «1981: Egypt's President Sadat assassinated» (6 de octubre)",
+        "url": "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/6/newsid_2515000/2515841.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "William E. Farrell, «Sadat Assassinated at Army Parade as Men Amid Ranks Fire Into Stands», The New York Times (7 de octubre de 1981; copia archivada)",
+        "url": "https://web.archive.org/web/20001018002655/https://www.nytimes.com/learning/general/onthisday/big/1006.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "William E. Farrell, «5 Sadat Assassins Executed in Egypt», The New York Times (16 de abril de 1982)",
+        "url": "https://www.nytimes.com/1982/04/16/world/5-sadat-assassins-executed-in-egypt.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "MacManus, «President Sadat assassinated at army parade», The Guardian (archivo; publicado el 7 de octubre de 1981)",
+        "url": "https://www.theguardian.com/theguardian/2010/oct/07/archive-president-sadat-assassinated",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CNN, «30 years later, questions remain over Sadat killing, peace with Israel» (6 de octubre de 2011)",
+        "url": "https://edition.cnn.com/2011/10/06/world/meast/egypt-sadat-assassination/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Anwar Sadat»",
+        "url": "https://www.britannica.com/biography/Anwar-Sadat",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Anwar Sadat» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "UPI atribuyó en el momento la reivindicación a una organización encabezada por un antiguo jefe del Estado Mayor; la autoría de la Yihad Islámica Egipcia es la establecida después en el juicio. El antiguo líder de Gama'a Islamiyya también reclamó la planificación. Coordenadas de la tribuna aproximadas. Verificación: once muertos incluido Sadat y muerte unas dos horas después (BBC On This Day y Wikipedia); cinco ejecutados el 15 de abril de 1982 (Wikipedia). Coordenadas de la tribuna ajustadas a las de Wikipedia."
+  },
+  {
+    "id": "politkovskaya",
+    "m": 10,
+    "d": 7,
+    "y": 2006,
+    "n": "Anna Politkóvskaya",
+    "a": "El asesinato de Politkóvskaya",
+    "v": "1",
+    "p": "Rusia",
+    "f": "🇷🇺",
+    "per": "2006",
+    "st": "Seis condenados: un expolicía en 2012 y cinco hombres en 2014, dos de ellos a cadena perpetua. Uno de los condenados, Serguéi Jadzhikurbánov, fue indultado en 2023 tras combatir en Ucrania, según el CPJ. Nunca se ha juzgado a quien encargó el crimen; según el CPJ, el plazo de prescripción venció en 2021.",
+    "c": "Anna Politkóvskaya, periodista de Nóvaya Gazeta conocida por sus reportajes críticos sobre la guerra de Chechenia, fue asesinada a tiros el 7 de octubre de 2006 en el ascensor de su edificio, en el centro de Moscú. Tenía 48 años. Un primer juicio terminó en 2009 con la absolución de tres acusados. En 2012 un expolicía fue condenado a 11 años como cómplice, y en 2014 un jurado de Moscú declaró culpables a cinco hombres: el autor de los disparos, Rustam Majmúdov, y el organizador, Lom-Alí Gaitukáyev, fueron condenados a cadena perpetua. Quién ordenó el crimen nunca se ha establecido.",
+    "mo": "Asesinato por encargo: el autor material la esperó en su portal y le disparó con una pistola, que abandonó en el lugar. Otros miembros del grupo la habían vigilado durante días.",
+    "loc": [
+      [
+        55.7787,
+        37.5913,
+        "Calle Lésnaya, Moscú (edificio donde fue asesinada)"
+      ],
+      [
+        55.76,
+        37.639,
+        "Redacción de Nóvaya Gazeta, Moscú (su periódico)"
+      ],
+      [
+        55.7323,
+        37.4003,
+        "Cementerio de Troyekúrovskoye, Moscú (sepultura)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "urss"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Anna Politkóvskaya",
+    "autor": "Rustam Majmúdov (autor material), condenado con otros cuatro hombres; inductor desconocido",
+    "fuentes": [
+      {
+        "titulo": "Committee to Protect Journalists, «Anna Politkovskaya» (ficha del caso)",
+        "url": "https://cpj.org/data/people/anna-politkovskaya/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "David Hearst, «Obituary: Anna Politkovskaya», The Guardian (9 de octubre de 2006)",
+        "url": "https://www.theguardian.com/news/2006/oct/09/guardianobituaries.russia",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Anna Politkovskaya: Putin's Russia» (2006)",
+        "url": "http://news.bbc.co.uk/1/hi/world/europe/6035133.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Andrew Roth, «Moscow Court Sentences 5 to Prison for Contract Killing of Journalist», The New York Times (9 de junio de 2014)",
+        "url": "https://www.nytimes.com/2014/06/10/world/europe/moscow-court-sentences-5-to-prison-for-contract-killing-of-anna-politkovskaya.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tanya Lokshina, «Why Anna Politkovskaya Still Inspires», Human Rights Watch (7 de octubre de 2016)",
+        "url": "https://www.hrw.org/news/2016/10/07/why-anna-politkovskaya-still-inspires",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Her Own Death, Foretold», The Washington Post (15 de octubre de 2006)",
+        "url": "https://www.washingtonpost.com/wp-dyn/content/article/2006/10/14/AR2006101400805.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Anna Politkovskaya» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Anna_Politkovskaya",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha de las penas de 2014: el NYT y Wikipedia las sitúan el 9 de junio; el CPJ dice 9 de julio (el veredicto del jurado fue el 20 de mayo). La investigación sobre el inductor se considera prescrita desde 2021 según el CPJ; no consta un proceso abierto. Coordenadas de la redacción y del cementerio aproximadas. Verificación: la sentencia fue el 9 de junio de 2014 (el NYT lo fecha en su URL del 10 de junio; la fecha de julio del CPJ parece errata). El indulto de 2023 de Jadzhikurbánov lo recoge el CPJ citando a Baza."
+  },
+  {
+    "id": "caso-wanninkhof",
+    "m": 10,
+    "d": 9,
+    "y": 1999,
+    "n": "Rocío Wanninkhof",
+    "a": "El caso Wanninkhof",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1999–2006",
+    "st": "Tony Alexander King fue condenado en 2006 a 19 años de prisión por este asesinato. Dolores Vázquez, condenada en 2001, vio anulada la sentencia en febrero de 2002 por el TSJA, que ordenó repetir el juicio y quedó libre de toda acusación tras la detención de King; los tribunales rechazaron indemnizarla y en abril de 2026 el Gobierno le rindió un acto de homenaje y reparación.",
+    "c": "Rocío Wanninkhof, de 19 años, desapareció la noche del 9 de octubre de 1999 en La Cala de Mijas (Málaga) y su cuerpo apareció el 2 de noviembre cerca de Marbella. En septiembre de 2000 la Guardia Civil detuvo a Dolores Vázquez, expareja de la madre de la joven, y un año después un jurado popular la declaró culpable sin pruebas directas. El Tribunal Superior de Justicia de Andalucía anuló la condena en febrero de 2002 y ella salió de prisión tras 519 días. En 2003 el ADN del crimen de otra joven, en Coín, llevó hasta el británico Tony Alexander King, condenado después por los dos asesinatos.",
+    "mo": "La víctima fue atacada cuando volvía a pie a su casa y su cuerpo fue trasladado a un paraje a más de 30 kilómetros. Una colilla hallada junto al cadáver tenía el ADN de King.",
+    "loc": [
+      [
+        36.5047,
+        -4.6829,
+        "La Cala de Mijas (desaparición, 9 de octubre de 1999)"
+      ],
+      [
+        36.493,
+        -4.965,
+        "Paraje junto al restaurante El Rodeito, entre Marbella y San Pedro de Alcántara (hallazgo del cuerpo, 2 de noviembre de 1999)"
+      ],
+      [
+        37.1779,
+        -3.5949,
+        "Tribunal Superior de Justicia de Andalucía, Granada (anulación de la condena, febrero de 2002)"
+      ],
+      [
+        36.6595,
+        -4.7563,
+        "Coín (crimen de 2003 cuyo ADN identificó a King)"
+      ]
+    ],
+    "vin": [
+      [
+        "king",
+        "c",
+        "Tony Alexander King fue condenado en 2006 por el asesinato de Rocío Wanninkhof, del que antes se había culpado a Dolores Vázquez"
+      ]
+    ],
+    "g": [
+      "errores_judiciales",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El caso Wanninkhof",
+    "autor": "Tony Alexander King (condenado en 2006). Dolores Vázquez fue condenada por error en 2001 y después exonerada",
+    "fuentes": [
+      {
+        "titulo": "Marta Borraz, «Los 519 días que Dolores Vázquez estuvo en la cárcel siendo inocente por el asesinato de Rocío Wanninkhof», elDiario.es (25 de abril de 2026)",
+        "url": "https://www.eldiario.es/sociedad/519-dias-dolores-vazquez-estuvo-carcel-inocente-asesinato-rocio-wanninkhof_1_13169324.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tribunal Supremo, Oficina de Comunicación, «El Tribunal Supremo confirma la sentencia que rechaza una indemnización a Dolores Vázquez por el error judicial» (22 de julio de 2015)",
+        "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-sentencia-que-rechaza-una-indemnizacion-a-Dolores-Vazquez-por-el-error-judicial",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "RTVE, «21 indicios y ninguna prueba concluyente: el juicio contra Dolores Vázquez» (18 de junio de 2008)",
+        "url": "https://www.rtve.es/rtve/20080618/21-indicios-y-ninguna-prueba-concluyente-el-juicio-contra-dolores-vazquez/93150.shtml",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "«Anulado el juicio del caso Wanninkhof al no probarse la culpabilidad de Dolores Vázquez», ABC (2 de febrero de 2002)",
+        "url": "https://www.abc.es/espana/andalucia/sevi-anulado-juicio-caso-wanninkhof-no-probarse-culpabilidad-dolores-vazquez-200202020300-36381_noticia.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Evolución del caso Wanninkhof», El País (1 de septiembre de 2003)",
+        "url": "https://elpais.com/elpais/2003/09/01/actualidad/1062404225_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Dolores Vázquez, declarada culpable», La Voz de Galicia (20 de septiembre de 2001)",
+        "url": "https://www.lavozdegalicia.es/noticia/galicia/2001/09/20/dolores-vazquez-declarada-culpable/0003_749206.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en español), «Caso Wanninkhof» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Caso_Wanninkhof",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "En «n» va la víctima y no el autor porque Tony King ya es caso estrella (vinculado con «c»). La causa contra Dolores Vázquez no terminó con una sentencia absolutoria tras un juicio: anulada la condena, el nuevo juicio se suspendió al aparecer King y la causa se cerró (Wikipedia habla de sobreseimiento; parte de la prensa, de absolución). Verificación: ABC (2-2-2002) confirma que el TSJA anuló el juicio y ordenó repetirlo; no hubo nueva sentencia contra ella, por lo que no consta absolución formal (la resolución exacta del archivo sigue sin verse en el CENDOJ). Wikipedia en español se contradice sobre la fecha de su salida de prisión; elDiario.es y el Supremo dan 519 días (7-9-2000 a febrero de 2002). La víctima de Coín era menor y no se nombra. Coordenadas del lugar del hallazgo aproximadas. Se quita la fuente de La Rioja por no abrir con contenido y se quita del texto la frase sobre posibles cómplices, que no se pudo comprobar."
+  },
+  {
+    "id": "charles-peace",
+    "m": 10,
+    "d": 10,
+    "y": 1878,
+    "n": "Charles Peace",
+    "a": "Charlie Peace, el ladrón de los mil disfraces",
+    "v": "2",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1876–1878",
+    "st": "Ahorcado en la prisión de Armley (Leeds) el 25 de febrero de 1879 por el asesinato de Arthur Dyson. Antes de morir confesó también la muerte del policía Nicholas Cock, por la que se había condenado a un inocente, William Habron, que fue indultado.",
+    "c": "Hacia las dos de la madrugada del 10 de octubre de 1878 el agente Edward Robinson sorprendió a un ladrón en una casa de St John's Park, en Blackheath (Londres). El hombre le disparó varias veces y lo hirió en un brazo, pero Robinson logró sujetarlo hasta que llegaron otros policías. Detenido con el nombre de «John Ward», resultó ser Charles Peace, un ladrón de Sheffield buscado por el asesinato de Arthur Dyson en 1876. El Old Bailey lo condenó a cadena perpetua por intentar matar al agente; después fue juzgado en Leeds por el crimen de Sheffield y ahorcado el 25 de febrero de 1879.",
+    "mo": "Ladrón de casas que actuaba de noche, armado con un revólver, y que cambiaba de aspecto y de nombre para esconderse; disparaba para huir cuando lo sorprendían.",
+    "loc": [
+      [
+        51.4815,
+        0.0185,
+        "St John's Park, Blackheath, Londres (detención, 10 de octubre de 1878)"
+      ],
+      [
+        51.5155,
+        -0.1019,
+        "Old Bailey, Londres (condena por intento de asesinato, 19 de noviembre de 1878)"
+      ],
+      [
+        53.3589,
+        -1.5089,
+        "Banner Cross, Sheffield (asesinato de Arthur Dyson, 29 de noviembre de 1876)"
+      ],
+      [
+        53.4466,
+        -2.2599,
+        "Whalley Range, Mánchester (muerte del agente Nicholas Cock, 1876)"
+      ],
+      [
+        53.7963,
+        -1.5871,
+        "Prisión de Armley, Leeds (ejecución, 25 de febrero de 1879)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "La captura de Charles Peace, el ladrón del violín",
+    "autor": "Charles Peace",
+    "fuentes": [
+      {
+        "titulo": "Old Bailey Proceedings Online, «John Ward. Breaking Peace; wounding» (juicio del 18 de noviembre de 1878, t18781118-51)",
+        "url": "https://www.oldbaileyonline.org/record/t18781118-51",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "History by the Yard (historia de la Policía Metropolitana), «The Infamous Charlie Peace (1832-1879)»",
+        "url": "https://www.historybytheyard.co.uk/charlie_peace.htm",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Brian Stableford, «Charles Peace», EBSCO Research Starters (2024)",
+        "url": "https://www.ebsco.com/research-starters/history/charles-peace",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Tim Stokes, «Madame Tussauds: The forgotten killers who were forged in wax», BBC News (28 de diciembre de 2022)",
+        "url": "https://www.bbc.co.uk/news/uk-england-london-63965035",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Charles Peace» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Charles_Peace",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes no coinciden en el número de disparos contra el agente Robinson (cuatro o cinco) ni en qué compañeros lo ayudaron. El registro del Old Bailey figura con la sesión del 18 de noviembre; History by the Yard da la condena el 19. Coordenadas de St John's Park y Banner Cross a nivel de calle. Verificación: History by the Yard confirma la detención hacia las 2 de la madrugada del 10-10-1878 en Blackheath por el agente Robinson; EBSCO, el asesinato de Dyson, el de Cock en 1876 y el indulto de Habron. El registro del Old Bailey no abre desde aquí."
+  },
+  {
+    "id": "zodiac-paul-stine",
+    "m": 10,
+    "d": 11,
+    "y": 1969,
+    "n": "Paul Stine",
+    "a": "El asesino del Zodiaco",
+    "v": "5 confirmadas (y 2 supervivientes)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1968–1969",
+    "st": "Sin resolver. El asesino nunca ha sido identificado oficialmente; el único sospechoso que nombró la policía, Arthur Leigh Allen, murió en 1992 sin ser acusado, y en 2002 una prueba de ADN pareció descartarlo.",
+    "c": "La noche del 11 de octubre de 1969 el taxista Paul Stine, un estudiante de doctorado de 29 años, recogió a un pasajero en el centro de San Francisco y fue asesinado de un disparo en la cabeza en la esquina de las calles Washington y Cherry, en Presidio Heights. Tres adolescentes lo vieron desde una casa y la policía difundió un retrato robot. Dos días después el asesino del Zodiaco envió al San Francisco Chronicle una carta con un trozo de la camisa de la víctima. Es el último asesinato que se le atribuye con certeza; nunca ha sido identificado.",
+    "mo": "Subió al taxi como pasajero, pidió ir a un barrio residencial y disparó al conductor a quemarropa; se llevó la cartera, las llaves y un trozo de la camisa, que usó después para reivindicar el crimen ante la prensa.",
+    "loc": [
+      [
+        37.789,
+        -122.4535,
+        "Calles Washington y Cherry, Presidio Heights, San Francisco (asesinato, 11 de octubre de 1969)"
+      ],
+      [
+        37.7873,
+        -122.4097,
+        "Calles Mason y Geary, San Francisco (donde subió el pasajero)"
+      ],
+      [
+        37.7823,
+        -122.407,
+        "Sede del San Francisco Chronicle, Mission Street (recibió la carta con el trozo de camisa)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El Zodiac: el asesinato del taxista Paul Stine",
+    "autor": "Desconocido (el asesino del Zodiaco)",
+    "fuentes": [
+      {
+        "titulo": "Charlie Goodyear, «Files shut on Zodiac's deadly trail», San Francisco Chronicle / SFGate (7 de abril de 2004)",
+        "url": "https://www.sfgate.com/bayarea/article/Files-shut-on-Zodiac-s-deadly-trail-SFPD-2769551.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Mike Weiss, «DNA seems to clear only Zodiac suspect», SFGate (15 de octubre de 2002)",
+        "url": "https://www.sfgate.com/crime/article/dna-seems-to-clear-only-zodiac-suspect-2784268.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Michael Taylor, «Undying legend of a killer», SFGate (1 de marzo de 2007)",
+        "url": "https://www.sfgate.com/news/article/UNDYING-LEGEND-OF-A-KILLER-MYSTERY-He-taunted-2645447.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Dani Anguiano, «Case of the Zodiac killer takes another twist – but police say it isn't solved», The Guardian (8 de octubre de 2021)",
+        "url": "https://www.theguardian.com/us-news/2021/oct/08/zodiac-killer-investigation",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Michael Levenson, «51 Years Later, Coded Message Attributed to Zodiac Killer Has Been Solved, F.B.I. Says», The New York Times (11 de diciembre de 2020)",
+        "url": "https://www.nytimes.com/2020/12/11/us/zodiac-killer-code-broken.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Zodiac killer»",
+        "url": "https://www.britannica.com/biography/Zodiac-killer",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Zodiac Killer» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Zodiac_Killer",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Britannica da «octubre de 1969» sin el día; el 11 viene de Wikipedia, de la carta del Zodiaco del 13 de octubre y de la prensa citada. La carta está fechada el 13 de octubre; algunas fuentes dicen que llegó el 14. Coordenadas a nivel de cruce de calles."
+  },
+  {
+    "id": "carlos-chacal",
+    "m": 10,
+    "d": 12,
+    "y": 1949,
+    "n": "Ilich Ramírez Sánchez",
+    "a": "Carlos, el Chacal",
+    "v": "Al menos 19",
+    "p": "Venezuela / Francia",
+    "f": "🇻🇪",
+    "per": "1974–1983",
+    "st": "Cumple en Francia tres condenas a cadena perpetua: por los asesinatos de la calle Toullier (1997), por cuatro atentados de 1982 y 1983 (2011, confirmada en apelación en 2013) y por el atentado del Drugstore Publicis (2017).",
+    "c": "Ilich Ramírez Sánchez nació el 12 de octubre de 1949 en Venezuela, hijo de un abogado marxista que le puso Ilich en honor de Lenin. Con el alias de «Carlos» se unió a grupos armados palestinos y en los años setenta y ochenta participó en atentados en Europa: en junio de 1975 mató en París a dos agentes franceses y a un informante, y en diciembre dirigió la toma de rehenes de la sede de la OPEP en Viena, con tres muertos. Fue capturado en Jartum (Sudán) en agosto de 1994 y entregado a Francia, donde ha sido condenado tres veces a cadena perpetua.",
+    "mo": "Atentados con explosivos y granadas, asesinatos y tomas de rehenes al servicio de grupos armados palestinos y de su propia organización, con apoyo de varios gobiernos.",
+    "loc": [
+      [
+        10.4806,
+        -66.9036,
+        "Caracas, Venezuela (nacimiento, según Britannica; Wikipedia en inglés da Michelena, Táchira)"
+      ],
+      [
+        48.8465,
+        2.3418,
+        "Calle Toullier, París (asesinato de dos agentes y un informante, 27 de junio de 1975)"
+      ],
+      [
+        48.2122,
+        16.3597,
+        "Sede de la OPEP, Viena (toma de rehenes, 21 de diciembre de 1975)"
+      ],
+      [
+        48.8537,
+        2.333,
+        "Drugstore Publicis, bulevar Saint-Germain, París (granada, 15 de septiembre de 1974)"
+      ],
+      [
+        15.5007,
+        32.5599,
+        "Jartum, Sudán (captura, agosto de 1994)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "nacimiento",
+    "titulo_caso": "Nace Carlos «el Chacal»",
+    "autor": "Ilich Ramírez Sánchez («Carlos»)",
+    "fuentes": [
+      {
+        "titulo": "ABC News (Australia), «'Carlos the Jackal' sentenced to third life term for 1974 attack on Paris shopping arcade» (29 de marzo de 2017)",
+        "url": "http://www.abc.net.au/news/2017-03-29/carlos-the-jackal-sentenced-to-life-for-1974-attack/8396054",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Carlos the Jackal given another life sentence for 1980s terror attack», The Guardian (15 de diciembre de 2011)",
+        "url": "https://www.theguardian.com/world/2011/dec/15/carlos-jackal-given-life-sentence",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Carlos condamné à la réclusion criminelle à perpétuité et 18 ans de sûreté», Le Monde (AFP) (16 de diciembre de 2011)",
+        "url": "http://www.lemonde.fr/societe/article/2011/12/16/carlos-condamne-a-la-reclusion-a-perpetuite-et-18-ans-de-surete_1619506_3224.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Reuters, «Carlos the Jackal gets third life sentence after conviction for 1974 Paris attack» (28 de marzo de 2017)",
+        "url": "https://www.reuters.com/article/uk-france-carlos-trial/carlos-the-jackal-gets-third-life-sentence-after-conviction-for-1974-paris-attack-idUKKBN16Z1IV",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Carlos the Jackal» (perfil, 24 de diciembre de 1997)",
+        "url": "https://news.bbc.co.uk/2/hi/42244.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Perpétuité requise en appel contre Carlos pour quatre attentats», Libération (24 de junio de 2013)",
+        "url": "http://www.liberation.fr/monde/2013/06/24/perpetuite-requise-en-appel-contre-carlos-pour-4-attentats_913416",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Carlos the Jackal» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Carlos_the_Jackal",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Lugar de nacimiento: Britannica da Caracas y Wikipedia en inglés, Michelena (Táchira); queda Caracas, como decía la selección, y la discrepancia anotada. La fecha (12-10-1949) la dan Britannica y Wikipedia y es coherente con la edad que da ABC News en 2017. No se ha comprobado si hubo apelación de la condena de 2017. La cifra de víctimas suma las muertes por las que fue condenado en Francia (16) y las de la OPEP (3)."
+  },
+  {
+    "id": "caso-calas",
+    "m": 10,
+    "d": 13,
+    "y": 1761,
+    "n": "Jean Calas",
+    "a": "El caso Calas",
+    "v": "1 (Jean Calas, ejecutado por error)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1761–1765",
+    "st": "Rehabilitado. El 9 de marzo de 1765, tras la revisión ordenada por el Consejo del rey, un tribunal de París anuló la condena y rehabilitó la memoria de Jean Calas y a su familia. El Parlamento de Toulouse nunca lo aceptó.",
+    "c": "La noche del 13 de octubre de 1761 Marc-Antoine Calas apareció muerto en la tienda de su familia, en la calle des Filatiers de Toulouse. Su padre, el comerciante protestante Jean Calas, fue acusado, empujado por los rumores del barrio, de haberlo matado para impedir que se hiciera católico. El Parlamento de Toulouse lo condenó por ocho votos contra cinco y el 10 de marzo de 1762 fue ejecutado en el suplicio de la rueda, sin dejar de proclamar su inocencia. Voltaire tomó la causa y publicó el «Tratado sobre la tolerancia»; en 1765 Calas y su familia fueron rehabilitados.",
+    "mo": "No hubo crimen probado. La familia había descolgado el cuerpo y ocultado al principio lo que, con toda probabilidad, fue un suicidio; la acusación se construyó sobre rumores y prejuicios religiosos.",
+    "loc": [
+      [
+        43.5995,
+        1.4433,
+        "Calle des Filatiers, Toulouse (casa y tienda de los Calas; muerte de Marc-Antoine)"
+      ],
+      [
+        43.5945,
+        1.446,
+        "Palacio de Justicia, sede del antiguo Parlamento de Toulouse (condena, 9 de marzo de 1762)"
+      ],
+      [
+        43.6014,
+        1.4479,
+        "Plaza Saint-Georges, Toulouse (ejecución, 10 de marzo de 1762)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "El caso Calas",
+    "autor": "Ningún crimen probado (probable suicidio); Jean Calas fue condenado y ejecutado por error",
+    "fuentes": [
+      {
+        "titulo": "Louis Trénard, «Affaire Calas», Encyclopædia Universalis",
+        "url": "https://www.universalis.fr/encyclopedie/affaire-calas/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Jean Calas»",
+        "url": "https://www.britannica.com/biography/Jean-Calas",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Paul Romane-Musculus, «II. La famille de Jean Calas», Annales du Midi, t. 74, n.º 60 (1962), Persée",
+        "url": "https://www.persee.fr/doc/anami_0003-4398_1962_num_74_60_4076",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "«Pièces originales concernant la mort des srs Calas, et le jugement rendu à Toulouse» (1762), biblioteca digital Tolosana, Universidad de Toulouse",
+        "url": "http://tolosana.univ-toulouse.fr/fr/notice/144377322",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "«Mémoire à consulter et consultation pour la dame Anne-Rose Cabibel, veuve Calas» (1762), Gallica, BnF",
+        "url": "https://gallica.bnf.fr/ark:/12148/bpt6k132736x",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Archives départementales de la Haute-Garonne, «Calas, du procès à l'affaire» (dosier del servicio educativo)",
+        "url": "http://www.archives.cg31.fr/pdf/service_educatif/brochures/affaireCalas.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Affaire Calas» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Affaire_Calas",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Universalis da la muerte en «octubre de 1761» y la rehabilitación en 1765 sin día; el 13 de octubre de 1761, el 9 y el 10 de marzo de 1762 y el 9 de marzo de 1765 vienen de Wikipedia en francés y de las piezas del proceso que cita. No se pudo abrir Britannica. Coordenadas a nivel de calle."
+  },
+  {
+    "id": "disparo-roosevelt",
+    "m": 10,
+    "d": 14,
+    "y": 1912,
+    "n": "John Schrank",
+    "a": "El atentado contra Theodore Roosevelt",
+    "v": "Ninguna (Roosevelt, herido)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1912",
+    "st": "Declarado demente. Tras declararse culpable, una comisión de psiquiatras lo consideró enfermo mental y quedó internado; murió en el hospital estatal para criminales dementes de Waupun (Wisconsin) el 15 de septiembre de 1943.",
+    "c": "La noche del 14 de octubre de 1912, en plena campaña presidencial, el expresidente Theodore Roosevelt, candidato del Partido Progresista, recibió un disparo en el pecho cuando subía a su coche ante el hotel Gilpatrick de Milwaukee. La bala atravesó el discurso de cincuenta páginas doblado que llevaba en el bolsillo y el estuche metálico de sus gafas, y se quedó en el músculo. Roosevelt insistió en hablar y pronunció su discurso en el Auditorio de Milwaukee antes de ir al hospital. El autor, John Schrank, un antiguo tabernero nacido en Baviera, fue declarado demente e internado hasta su muerte.",
+    "mo": "Siguió a Roosevelt durante semanas de campaña y le disparó una sola vez con un revólver del calibre 38 desde la multitud que lo esperaba a la salida del hotel.",
+    "loc": [
+      [
+        43.041,
+        -87.9152,
+        "Antiguo hotel Gilpatrick, Milwaukee (disparo, 14 de octubre de 1912)"
+      ],
+      [
+        43.0405,
+        -87.9171,
+        "Auditorio de Milwaukee (discurso con la bala dentro)"
+      ],
+      [
+        43.6297,
+        -88.736,
+        "Hospital estatal para criminales dementes de Waupun, Wisconsin (internamiento y muerte de Schrank, 1943)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El disparo contra Theodore Roosevelt",
+    "autor": "John Schrank (declarado demente)",
+    "fuentes": [
+      {
+        "titulo": "Milwaukee Public Library, Special Collections, «John F. Schrank Municipal Court Records»",
+        "url": "https://mpl.org/special_collections/images/john-f-schrank-municipal-court-records",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "«Maniac in Milwaukee Shoots Col. Roosevelt; He Ignores Wound, Speaks an Hour, Goes to Hospital», The New York Times (15 de octubre de 1912)",
+        "url": "https://www.newspapers.com/clip/2538819/theodore-roosevelt-shot-and-still-gives/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Schrank, Who Shot T. Roosevelt, Dies; Insane Man Had No Visitors in 31 Years in Wisconsin Asylums», The New York Times (17 de septiembre de 1943)",
+        "url": "https://www.nytimes.com/1943/09/17/archives/schrank-who-shot-t-roosevelt-dies-insane-man-had-no-visitors-in-31.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gilbert King, «The Speech That Saved Teddy Roosevelt's Life», Smithsonian Magazine (2012)",
+        "url": "https://www.smithsonianmag.com/history/the-speech-that-saved-teddy-roosevelts-life-83479091/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Theodore Roosevelt Center (Dickinson State University), «Schrank, John Flammang»",
+        "url": "https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Law-and-Justice/John-Flammang-Schrank.aspx",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Attempted assassination of Theodore Roosevelt» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Theodore_Roosevelt",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes no coinciden en el internamiento: unas dicen que en noviembre de 1912 fue llevado al hospital del norte de Oshkosh y en 1914 a Waupun; Wikipedia habla de un jurado que lo declaró no culpable por demencia, mientras la Biblioteca de Milwaukee y otras fuentes hablan de una declaración de culpabilidad seguida del dictamen de una comisión de psiquiatras (22 de noviembre de 1912). El autor del artículo del Smithsonian no se ha podido comprobar (la página no abrió). Coordenadas del hotel (hoy desaparecido) aproximadas. Verificación: la Biblioteca de Milwaukee confirma el disparo del 14-10-1912, la declaración de culpabilidad, el internamiento en Waupun y la muerte el 15-9-1943; el Smithsonian, que el discurso de 50 hojas frenó la bala."
+  },
+  {
+    "id": "uribe-uribe",
+    "m": 10,
+    "d": 15,
+    "y": 1914,
+    "n": "Leovigildo Galarza y Jesús Carvajal",
+    "a": "El asesinato de Uribe Uribe",
+    "v": "1",
+    "p": "Colombia",
+    "f": "🇨🇴",
+    "per": "1914–1918",
+    "st": "Los dos autores materiales fueron declarados culpables por un jurado el 19 de junio de 1918 y condenados el 25 de junio a veinte años de presidio. Nunca se probó que hubiera autores intelectuales.",
+    "c": "El 15 de octubre de 1914, poco después del mediodía, el general y senador liberal Rafael Uribe Uribe, veterano de la guerra de los Mil Días, se dirigía a pie al Capitolio de Bogotá cuando dos carpinteros, Leovigildo Galarza y Jesús Carvajal, lo atacaron con hachuelas junto a la plaza de Bolívar. Murió hacia las dos de la madrugada del día siguiente. Los agresores, detenidos en el acto, dijeron haber actuado solos por resentimiento; en 1918 un jurado los declaró culpables y fueron condenados a veinte años de presidio. El abogado Marco Tulio Anzola denunció una conspiración que nunca se probó.",
+    "mo": "Los dos agresores lo esperaron en la calle junto al Capitolio y lo atacaron con hachuelas de carpintero a plena luz del día.",
+    "loc": [
+      [
+        4.5975,
+        -74.0761,
+        "Capitolio Nacional y plaza de Bolívar, Bogotá (ataque, 15 de octubre de 1914)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Rafael Uribe Uribe",
+    "autor": "Leovigildo Galarza y Jesús Carvajal (condenados en 1918)",
+    "fuentes": [
+      {
+        "titulo": "Ana María Lara, «¿Quién mató a Rafael Uribe Uribe? Hipótesis detrás del primer magnicidio del siglo XX», Radio Nacional de Colombia (18 de julio de 2022)",
+        "url": "https://radionacional.co/cultura/historia-colombiana/asesinato-de-rafael-uribe-uribe-fecha-historia-y-culpables",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Rafael Uribe Uribe», El Tiempo (8 de junio de 1996)",
+        "url": "https://www.eltiempo.com/archivo/documento/MAM-311895",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Rafael Uribe Uribe», Semana (especial)",
+        "url": "https://www.semana.com/especiales/articulo/rafael-uribe-uribe/37563-3/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Los últimos momentos de Uribe Uribe», Credencial Historia n.º 179 (noviembre de 2004), Biblioteca Virtual del Banco de la República",
+        "url": "https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-179/los-ultimos-momentos-de-uribe-uribe",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Realidad y ficción sobre el asesinato de Rafael Uribe Uribe en la película El drama del 15 de octubre en 1915», Memoria y Sociedad, Pontificia Universidad Javeriana",
+        "url": "https://revistas.javeriana.edu.co/index.php/memoysociedad/article/view/15902",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Cancillería de Colombia, «En los archivos de la Cancillería: 105 años de la muerte del general Rafael Uribe Uribe, diplomático y modernizador del Estado colombiano» (2019)",
+        "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/en-los-archivos-de-la-cancilleria-105-anos-de-la-muerte-del-general-rafael-uribe-uribe-diplomatico-y-modernizador-del-estado-colombiano",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en español), «Rafael Uribe Uribe» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Rafael_Uribe_Uribe",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La hora del ataque varía según la fuente: «pasado el mediodía» (Radio Nacional), hacia la una (El Colombiano) o entre las dos y las tres de la tarde (Wikipedia). Wikipedia llama al segundo agresor «Diego Carvajal» en un pasaje; Radio Nacional da los nombres completos Leovigildo Galarza Barragán y Jesús Carvajal Muñoz. Las fechas del veredicto y la condena (junio de 1918) vienen de Wikipedia y Semana. No se pudieron abrir El Tiempo, Credencial ni la Cancillería. Verificación: Semana confirma los 20 años de condena y Radio Nacional, la muerte el 16 de octubre hacia las 2 de la madrugada; Wikipedia da veredicto el 19-6-1918 y sentencia el 25-6-1918 con veinte años de presidio."
+  },
+  {
+    "id": "dmitri-jolodov",
+    "m": 10,
+    "d": 17,
+    "y": 1994,
+    "n": "Dmitri Jolódov",
+    "a": "El maletín bomba de Moskovski Komsomolets",
+    "v": "1",
+    "p": "Rusia",
+    "f": "🇷🇺",
+    "per": "1994–2005",
+    "st": "Sin condena. Seis acusados, entre ellos varios oficiales de las tropas aerotransportadas, fueron absueltos por un tribunal militar en 2002 y otra vez en 2004; el delito prescribió el 17 de octubre de 2004 y en 2006 el CPJ daba por agotados los recursos internos.",
+    "c": "El 17 de octubre de 1994 el periodista Dmitri Jolódov, de 27 años, murió en la redacción del diario moscovita Moskovski Komsomolets al abrir un maletín bomba que había recogido en la consigna de una estación, creyendo que contenía documentos para su investigación. Jolódov denunciaba la corrupción en el ejército ruso, en especial en las tropas que volvían de Alemania, y su periódico culpó a la cúpula militar. Seis acusados, casi todos antiguos oficiales de las tropas aerotransportadas, fueron juzgados por un tribunal militar de Moscú y absueltos en 2002 y en 2004. El crimen sigue sin condena.",
+    "mo": "Una llamada anónima lo citó para recoger un maletín supuestamente lleno de documentos secretos en la consigna de la estación de Kazán; el explosivo, preparado como trampa, estalló al abrirlo en la redacción.",
+    "loc": [
+      [
+        55.7672,
+        37.5612,
+        "Redacción de Moskovski Komsomolets, calle del Año 1905, Moscú (explosión, 17 de octubre de 1994)"
+      ],
+      [
+        55.7738,
+        37.6566,
+        "Estación de Kazán, Moscú (consigna donde recogió el maletín)"
+      ],
+      [
+        55.7323,
+        37.4003,
+        "Cementerio de Troyekúrovskoye, Moscú (sepultura)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "urss"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Dmitri Jolódov",
+    "autor": "Desconocido (seis acusados fueron absueltos)",
+    "fuentes": [
+      {
+        "titulo": "«История дела Дмитрия Холодова» (Historia del caso Dmitri Jolódov), Kommersant (11 de junio de 2004)",
+        "url": "https://www.kommersant.ru/doc/482520",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Убийцы Дмитрия Холодова могут избежать наказания» (Los asesinos de Dmitri Jolódov pueden quedar impunes), Lenta.ru (15 de octubre de 2004)",
+        "url": "https://lenta.ru/news/2004/10/15/kholodov/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Heidi Hoogerbeets, «Justice on Trial: Dmitry Kholodov», Committee to Protect Journalists (septiembre de 2006)",
+        "url": "http://cpj.org/reports/2006/09/kholodov.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Sophie Lambroschini, «Russia: Journalist Kholodov's Alleged Assassins On Trial In Moscow», Radio Free Europe/Radio Liberty (15 de noviembre de 2000)",
+        "url": "https://www.rferl.org/a/1095141.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "IFEX, «Suspect in Kholodov's murder arrested» (1998)",
+        "url": "https://ifex.org/suspect-in-kholodovs-murder-arrested/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Dmitry Kholodov» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Dmitry_Kholodov",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "CPJ, IFEX y RFE/RL dan solo «octubre de 1994»; el día 17 lo confirman Kommersant y Lenta.ru. La estación de Kazán la da la prensa rusa; Wikipedia y RFE/RL dicen solo «una estación de Moscú». No se nombra a los acusados porque fueron absueltos. Coordenadas de la redacción de 1994 aproximadas. Verificación: Kommersant confirma la muerte el 17-10-1994 en la redacción y la absolución del 26 de junio de 2002; Lenta.ru, la prescripción el 17-10-2004; CPJ (2006), los seis acusados absueltos en 2002 y 2004. Se corrige «cuatro militares en activo» (CPJ: cuatro eran oficiales de inteligencia; RFE/RL: cinco exparacaidistas y un empresario)."
+  },
+  {
+    "id": "noche-stammheim",
+    "m": 10,
+    "d": 18,
+    "y": 1977,
+    "n": "Andreas Baader, Gudrun Ensslin y Jan-Carl Raspe",
+    "a": "La noche de la muerte de Stammheim",
+    "v": "3 (y una herida)",
+    "p": "Alemania",
+    "f": "🇩🇪",
+    "per": "1977",
+    "st": "Cerrado como suicidio. La investigación concluyó que no hubo intervención de terceros y en 2013 la fiscalía de Stuttgart rechazó reabrirla. La tesis del asesinato no tiene respaldo judicial.",
+    "c": "En la madrugada del 18 de octubre de 1977, horas después de que la unidad GSG 9 liberara en Mogadiscio a los rehenes del avión Landshut, secuestrado para exigir su excarcelación, tres líderes de la Fracción del Ejército Rojo (RAF) aparecieron muertos o moribundos en sus celdas de la cárcel de Stammheim, en Stuttgart: Andreas Baader y Jan-Carl Raspe, con heridas de bala, y Gudrun Ensslin, ahorcada. Raspe murió poco después en el hospital. Irmgard Möller sobrevivió con cuatro heridas de arma blanca. La investigación concluyó que se suicidaron con armas introducidas de contrabando; sus simpatizantes hablaron siempre de asesinato.",
+    "mo": "Según la investigación, las pistolas se introdujeron en la prisión meses antes, escondidas en carpetas de un abogado; los presos se quitaron la vida tras conocer el fracaso del secuestro del Landshut.",
+    "loc": [
+      [
+        48.8443,
+        9.1486,
+        "Prisión de Stuttgart-Stammheim (muertes en las celdas, 18 de octubre de 1977)"
+      ],
+      [
+        2.0144,
+        45.3047,
+        "Aeropuerto de Mogadiscio, Somalia (liberación de los rehenes del Landshut, esa misma noche)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La noche de la muerte de Stammheim",
+    "autor": "Suicidio según la investigación oficial",
+    "fuentes": [
+      {
+        "titulo": "Frank Bachner y Axel Vornbäumen, «Die Nacht von Stammheim», Der Tagesspiegel (14 de octubre de 2007)",
+        "url": "https://www.tagesspiegel.de/gesellschaft/geschichte/die-nacht-von-stammheim-1560112.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Staatsanwaltschaft Stuttgart, «Ermittlungen im RAF-Verfahren werden nicht wieder aufgenommen» (19 de abril de 2013)",
+        "url": "http://www.staatsanwaltschaft-stuttgart.de/pb/,Lde/1235863",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "«Rekonstruktion – Die Nacht von Stammheim», stern.de (9 de octubre de 2002)",
+        "url": "https://www.stern.de/politik/geschichte/rekonstruktion-die-nacht-von-stammheim-3510308.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Die Nacht von Stammheim: Was wussten die Geheimdienste?», Der Spiegel (8 de septiembre de 2007)",
+        "url": "https://www.spiegel.de/panorama/zeitgeschichte/die-nacht-von-stammheim-was-wussten-die-geheimdienste-a-504631.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Anwälte, die Sprengstoff zu Terroristen trugen», Die Welt (13 de agosto de 2012)",
+        "url": "https://www.welt.de/kultur/history/article108567166/Anwaelte-die-Sprengstoff-zu-Terroristen-trugen.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Irmgard Möller: Ich will nicht anders leben», Der Spiegel (entrevista)",
+        "url": "https://www.spiegel.de/politik/irmgard-moeller-ich-will-nicht-anders-leben-a-eb8ad41f-0002-0001-0000-000013680783",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en alemán), «Todesnacht von Stammheim» (punto de partida; consultada por sus referencias)",
+        "url": "https://de.wikipedia.org/wiki/Todesnacht_von_Stammheim",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Solo se pudieron abrir Wikipedia y el Tagesspiegel (que confirma la fecha); Spiegel, Stern y Die Welt se citan desde las referencias de Wikipedia sin haberlos podido abrir. El abogado señalado por llevar las armas (Arndt Müller) fue condenado en 1978 pero niega haberlo sabido: no se nombra en el texto. Muy relacionado con el asesinato de Hanns Martin Schleyer, hallado muerto el 19 de octubre de 1977 (no es caso de este mes). Verificación: se abrió la nota de la Fiscalía de Stuttgart (19-4-2013, no reabre las diligencias)."
+  },
+  {
+    "id": "popieluszko",
+    "m": 10,
+    "d": 19,
+    "y": 1984,
+    "n": "Grzegorz Piotrowski",
+    "a": "El asesinato del padre Popiełuszko",
+    "v": "1",
+    "p": "Polonia",
+    "f": "🇵🇱",
+    "per": "1984–1985",
+    "st": "Cuatro oficiales del Ministerio del Interior fueron condenados en Toruń en febrero de 1985: Grzegorz Piotrowski y Adam Pietruszka a 25 años, Leszek Pękala a 15 y Waldemar Chmielewski a 14. Todos salieron antes de cumplir la pena. Los posibles inductores de más alto nivel nunca fueron condenados.",
+    "c": "El 19 de octubre de 1984 el sacerdote Jerzy Popiełuszko, capellán de Solidaridad y conocido por sus misas por la patria en Varsovia, volvía en coche de decir misa en Bydgoszcz cuando tres agentes del servicio de seguridad comunista (SB), vestidos de policías, lo detuvieron cerca de Górsk. Su chófer, Waldemar Chrostowski, logró escapar y dio la alarma. Los agentes mataron al sacerdote a golpes y arrojaron su cuerpo a un embalse del Vístula, cerca de Włocławek, donde apareció el 30 de octubre. En el juicio de Toruń, algo insólito en el bloque soviético, cuatro oficiales fueron condenados en 1985.",
+    "mo": "Los agentes simularon un control de carretera, se llevaron al sacerdote en el maletero de su coche, lo golpearon hasta matarlo y hundieron el cuerpo en el embalse.",
+    "loc": [
+      [
+        53.056,
+        18.464,
+        "Górsk, cerca de Toruń (secuestro, 19 de octubre de 1984)"
+      ],
+      [
+        52.6406,
+        19.0839,
+        "Embalse del Vístula junto a Włocławek (hallazgo del cuerpo, 30 de octubre)"
+      ],
+      [
+        53.01,
+        18.605,
+        "Toruń (juicio, 27 de diciembre de 1984 a febrero de 1985)"
+      ],
+      [
+        52.269,
+        20.989,
+        "Iglesia de San Estanislao de Kostka, Żoliborz, Varsovia (funeral el 3 de noviembre y sepultura)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro y asesinato del padre Popiełuszko",
+    "autor": "Grzegorz Piotrowski, Leszek Pękala y Waldemar Chmielewski, agentes del SB, por orden de su superior Adam Pietruszka",
+    "fuentes": [
+      {
+        "titulo": "Instytut Pamięci Narodowej (IPN), «Fr. Jerzy Popiełuszko – Biography»",
+        "url": "https://biogramy.ipn.gov.pl/bio/wszystkie-biogramy/ksiadz-jerzy-popieluszk/fr-jerzy-popieluszko-en/110810,Biography.html",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "BBC News, On This Day: «1984: Pro-Solidarity priest is murdered» (30 de octubre)",
+        "url": "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/30/newsid_4111000/4111722.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ronald Reagan Presidential Library, «Statement on the Death of Father Jerzy Popieluszko of Poland» (1984)",
+        "url": "https://www.reaganlibrary.gov/archives/speech/statement-death-father-jerzy-popieluszko-poland",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Polish priest Father Popieluszko 'martyr' beatified» (6 de junio de 2010)",
+        "url": "https://www.bbc.co.uk/news/10251078",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jo Deboick, «Jerzy Popiełuszko: a Polish hero», The Guardian (6 de junio de 2010)",
+        "url": "https://www.theguardian.com/commentisfree/belief/2010/jun/06/jerzy-popieluszko-polish-priest-beatified",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Jerzy Popiełuszko» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El IPN da el juicio de Toruń del 27 de diciembre de 1984 al 2 de febrero de 1985, sin día separado para la sentencia (otras fuentes dan el 7 de febrero). Verificación: el IPN confirma el secuestro del sacerdote y del chófer Waldemar Chrostowski en Górsk por tres agentes disfrazados de policías y las penas de Toruń (25, 25, 15 y 14 años); la huida del chófer es un hecho conocido que la página del IPN no recoge. Coordenadas de Górsk y del embalse aproximadas."
+  },
+  {
+    "id": "brinks-nanuet",
+    "m": 10,
+    "d": 20,
+    "y": 1981,
+    "n": "Mutulu Shakur",
+    "a": "El asalto al furgón de Brink's",
+    "v": "3",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1981",
+    "st": "Condenas firmes. David Gilbert, Judith Clark y Kuwasi Balagoon recibieron en 1983 tres penas consecutivas de 25 años a perpetua; Kathy Boudin pactó 20 años a perpetua y Mutulu Shakur fue condenado a 60 años en 1988. Boudin (2003), Clark (2019), Gilbert (2021) y Shakur (diciembre de 2022, por su mala salud; murió en julio de 2023) obtuvieron después la libertad condicional.",
+    "c": "El 20 de octubre de 1981 un comando del Black Liberation Army asaltó un furgón de la empresa Brink's en el centro comercial de Nanuet (Nueva York), mató al vigilante Peter Paige y se llevó 1,6 millones de dólares. En la huida, en un control junto a la entrada de la autopista en Nyack, los asaltantes mataron a los policías Edward O'Grady y Waverly Brown. Los conductores eran militantes blancos de la Organización Comunista 19 de Mayo, antiguos miembros de Weather Underground: Kathy Boudin fue detenida allí mismo y David Gilbert y Judith Clark poco después. Todos fueron condenados a largas penas.",
+    "mo": "Atraco armado a un furgón blindado durante la recogida del dinero, con huida en un camión conducido por militantes que no despertaban sospechas en los controles.",
+    "loc": [
+      [
+        41.0931,
+        -74.0135,
+        "Centro comercial de Nanuet, Nueva York (asalto y muerte del vigilante)"
+      ],
+      [
+        41.0937,
+        -73.9325,
+        "Entrada a la autopista en Nyack (tiroteo en el control policial)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El asalto al furgón de Brink's en Nanuet",
+    "autor": "Black Liberation Army y Organización Comunista 19 de Mayo (según la condena, con Mutulu Shakur como cabecilla)",
+    "fuentes": [
+      {
+        "titulo": "«Gilbert Goes Free: Brinks Getaway Driver Granted Parole», Rockland County Times (26 de octubre de 2021)",
+        "url": "https://www.rocklandtimes.com/2021/10/26/gilbert-goes-free/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Arnold H. Lubasch, «4 of 6 Are Guilty in U.S. Brink's Case», The New York Times (4 de septiembre de 1983)",
+        "url": "https://www.nytimes.com/1983/09/04/nyregion/4-of-6-are-guilty-in-us-brink-s-case.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Eli Rosenberg, «Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink's Robbery», The New York Times (30 de diciembre de 2016)",
+        "url": "https://www.nytimes.com/2016/12/30/nyregion/cuomo-commutes-sentence-of-judith-clark-driver-in-deadly-brinks-robbery.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Steve Lieberman, «Brinks murder mastermind Mutulu Shakur, Tupac's stepfather, released from federal prison», The Journal News / lohud (16 de diciembre de 2022)",
+        "url": "https://www.lohud.com/story/news/local/rockland/2022/12/16/mutulu-shakur-tupac-stepfather-brinks-robbery-released-prison/69735811007/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Bryan Burrough, «Days of Rage: America's Radical Underground, the FBI, and the Forgotten Age of Revolutionary Violence», Penguin (2015)",
+        "url": "https://books.google.com/books?id=QPUVBAAAQBAJ",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «1981 Brink's robbery» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/1981_Brink%27s_robbery",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Solo se pudo abrir el Rockland County Times, que confirma víctimas y condenas pero no da el día; la fecha (20-10-1981) viene de Wikipedia y del NYT citado. No hay procesos abiertos: los condenados vivos están en libertad condicional. Coordenadas a nivel de zona. Verificación: Wikipedia confirma el robo de 1,6 millones en el centro comercial de Nanuet y las tres muertes, y que Shakur salió en libertad condicional por razones de salud el 16 de diciembre de 2022 y murió el 7 de julio de 2023; el Rockland County Times, la libertad de Gilbert en octubre de 2021."
+  },
+  {
+    "id": "cuatro-guildford",
+    "m": 10,
+    "d": 22,
+    "y": 1975,
+    "n": "Gerry Conlon, Paul Hill, Paddy Armstrong y Carole Richardson",
+    "a": "Los Cuatro de Guildford",
+    "v": "5 (muertos en los atentados)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1974–1989",
+    "st": "Condenas anuladas por el Tribunal de Apelación el 19 de octubre de 1989, tras casi quince años de prisión. Tres policías acusados de manipular la investigación fueron absueltos en 1993 y en 2005 el primer ministro Tony Blair pidió perdón. Nadie ha sido juzgado por los atentados.",
+    "c": "El 5 de octubre de 1974 dos bombas del IRA estallaron en dos pubs de Guildford frecuentados por soldados y causaron cinco muertos. Semanas después la policía detuvo a cuatro jóvenes, Paul Hill, Gerry Conlon, Paddy Armstrong y Carole Richardson, que confesaron tras días de interrogatorio y después se retractaron denunciando coacciones. El 22 de octubre de 1975 el Old Bailey los condenó a cadena perpetua. La unidad del IRA de Balcombe Street reivindicó luego los atentados. En 1989 el Tribunal de Apelación anuló las condenas por graves irregularidades en la investigación policial.",
+    "mo": "Atentados con bomba del IRA Provisional contra dos pubs; las condenas se basaron casi solo en confesiones obtenidas bajo presión, sin pruebas materiales que los relacionaran con las bombas.",
+    "loc": [
+      [
+        51.2365,
+        -0.573,
+        "Centro de Guildford, Surrey (pubs Horse and Groom y Seven Stars, atentados del 5 de octubre de 1974)"
+      ],
+      [
+        51.5155,
+        -0.1019,
+        "Old Bailey, Londres (condena, 22 de octubre de 1975)"
+      ],
+      [
+        51.5136,
+        -0.1136,
+        "Reales Tribunales de Justicia, Londres (anulación de las condenas, 19 de octubre de 1989)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "La condena de los Cuatro de Guildford",
+    "autor": "IRA Provisional (atribuido a la unidad de Balcombe Street); los Cuatro de Guildford fueron condenados por error",
+    "fuentes": [
+      {
+        "titulo": "BBC News, «What we know about the Guildford pub bombings» (2019)",
+        "url": "https://www.bbc.com/news/uk-england-surrey-47070707",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "David Pallister, «An injustice that still reverberates», The Guardian (19 de octubre de 1999)",
+        "url": "https://www.theguardian.com/uk/1999/oct/19/davidpallister1",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«British Accuse 11 More In Pub Bombing Fatal to 5», The New York Times (8 de diciembre de 1974)",
+        "url": "https://www.nytimes.com/1974/12/08/archives/british-accuse-11-more-in-pub-bombing-fatal-to-5.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Blair apologises to Guildford Four family», The Guardian (9 de febrero de 2005)",
+        "url": "https://www.theguardian.com/politics/2005/feb/09/northernireland.devolution",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Gerry Conlon dies» (21 de junio de 2014)",
+        "url": "https://www.bbc.co.uk/news/uk-northern-ireland-27955555",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Gerry Conlon dies: Guildford Four member who never gave up his fight for justice», The Independent (2014)",
+        "url": "https://www.independent.co.uk/news/uk/home-news/gerry-conlon-dies-guildford-four-member-who-never-gave-up-his-fight-for-justice-9553797.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Guildford Four and Maguire Seven» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Guildford_Four_and_Maguire_Seven",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Verificación: BBC (2019) confirma cinco muertos en el Horse and Groom el 5-10-1974, la condena a cadena perpetua en el Old Bailey el 22-10-1975, los 15 años de cárcel y la anulación por el Tribunal de Apelación en 1989; el Guardian (9-2-2005) confirma la disculpa de Blair y la anulación de octubre de 1989. El NYT (1974) no abre. En 2019 el forense decidió reabrir las diligencias (inquest) sobre las cinco muertes; no es un proceso penal contra personas vivas. Coordenadas a nivel de centro urbano."
+  },
+  {
+    "id": "dutch-schultz",
+    "m": 10,
+    "d": 23,
+    "y": 1935,
+    "n": "Charles Workman",
+    "a": "La matanza del Palace Chop House",
+    "v": "4 (Dutch Schultz y tres de sus hombres)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1935–1941",
+    "st": "Charles Workman, sicario de la banda conocida como Murder, Inc., fue condenado en 1941 a cadena perpetua por el asesinato de Schultz y salió en libertad condicional en 1964.",
+    "c": "La noche del 23 de octubre de 1935 dos pistoleros entraron en el restaurante Palace Chop House de Newark (Nueva Jersey) y dispararon contra el gánster Dutch Schultz, nacido Arthur Flegenheimer, y tres de sus hombres. Schultz murió al día siguiente en el hospital, y sus acompañantes también fallecieron. Según los historiadores de la Mafia, la Comisión del crimen organizado ordenó matarlo porque planeaba asesinar al fiscal especial Thomas Dewey, que lo investigaba, y temía las consecuencias. En 1941 Charles «el Bicho» Workman, sicario de Murder, Inc., fue condenado a cadena perpetua por el crimen.",
+    "mo": "Dos sicarios irrumpieron en el restaurante donde Schultz se reunía con sus lugartenientes y abrieron fuego por sorpresa.",
+    "loc": [
+      [
+        40.7385,
+        -74.17,
+        "Palace Chop House, 12 East Park Street, Newark (tiroteo, 23 de octubre de 1935)"
+      ],
+      [
+        41.095,
+        -73.798,
+        "Cementerio de Gate of Heaven, Hawthorne, Nueva York (sepultura de Schultz)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La matanza del Palace Chop House",
+    "autor": "Charles Workman (condenado en 1941), con Emanuel «Mendy» Weiss, por encargo de la Comisión del crimen organizado",
+    "fuentes": [
+      {
+        "titulo": "«Schultz Is Shot, One Aide Killed and 3 Wounded», The New York Times (24 de octubre de 1935)",
+        "url": "https://timesmachine.nytimes.com/timesmachine/1935/10/24/101514743.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Schultz Murder Laid to Lepke Aide», The New York Times (28 de marzo de 1941)",
+        "url": "https://timesmachine.nytimes.com/timesmachine/1941/03/28/85275904.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Dutch Schultz»",
+        "url": "https://www.britannica.com/biography/Dutch-Schultz",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Selwyn Raab, «Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires», St. Martin's Press / Macmillan",
+        "url": "https://books.google.com/books?id=5nAt6N8iQnYC",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "«Dutch Schultz: Beer Baron of the Bronx», Crime Library, truTV (copia archivada)",
+        "url": "https://web.archive.org/web/20080511000430/http://www.crimelibrary.com/gangsters_outlaws/mob_bosses/schultz/1935_7.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Dutch Schultz» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Dutch_Schultz",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Verificación: Britannica (abierta) da el tiroteo la tarde del 23 de octubre de 1935 en un restaurante de Newark por Workman y Weiss, con Schultz y tres guardaespaldas, y el plan contra Dewey; Wikipedia, la condena de Workman en 1941 a cadena perpetua y su libertad condicional en 1964; Crime Library, el escenario del Palace Chop House. Britannica pone la muerte de Schultz el 23 y Wikipedia el 24 (murió en el hospital al día siguiente). El motivo procede de historiadores de la Mafia, no de una sentencia. Los NYT no abren. Coordenadas aproximadas."
+  },
+  {
+    "id": "ito-hirobumi",
+    "m": 10,
+    "d": 26,
+    "y": 1909,
+    "n": "An Jung-geun",
+    "a": "El magnicidio de Harbin",
+    "v": "1 (y tres heridos)",
+    "p": "China (Manchuria) / Japón / Corea",
+    "f": "🇨🇳",
+    "per": "1909–1910",
+    "st": "An Jung-geun fue condenado a muerte por un tribunal colonial japonés de Lüshun el 14 de febrero de 1910 y ahorcado en la prisión de esa ciudad el 26 de marzo de 1910. Sus restos nunca se han encontrado.",
+    "c": "El 26 de octubre de 1909 el independentista coreano An Jung-geun disparó en el andén de la estación de Harbin, en Manchuria, contra Itō Hirobumi, primer jefe de Gobierno del Japón moderno, cuatro veces primer ministro y hasta junio de ese año residente general en Corea. Itō murió poco después y otros tres japoneses resultaron heridos. Los guardias rusos de la estación detuvieron a An y lo entregaron a las autoridades japonesas; un tribunal de Lüshun lo condenó a muerte y fue ahorcado en marzo de 1910. Japón se anexionó Corea ese mismo año. Para Corea es un héroe nacional; el Gobierno japonés lo considera un terrorista.",
+    "mo": "Esperó entre el público la llegada del tren de Itō y le disparó con una pistola en el andén.",
+    "loc": [
+      [
+        45.7605,
+        126.6317,
+        "Estación de ferrocarril de Harbin (atentado, 26 de octubre de 1909)"
+      ],
+      [
+        38.8152,
+        121.2553,
+        "Prisión de Lüshun, Dalian (juicio y ejecución de An Jung-geun, 1910)"
+      ],
+      [
+        38.04,
+        125.714,
+        "Haeju, provincia de Hwanghae (nacimiento de An Jung-geun, 1879)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Itō Hirobumi en Harbin",
+    "autor": "An Jung-geun",
+    "fuentes": [
+      {
+        "titulo": "Franklin Rausch, «The Harbin An Jung-Geun Statue: A Korea/China-Japan Historical Memory Controversy», The Asia-Pacific Journal: Japan Focus (2013)",
+        "url": "https://apjjf.org/2013/11/48/Franklin-Rausch/4040/article.html",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Donald Keene, «Emperor of Japan: Meiji and His World, 1852–1912», Columbia University Press (2002), pp. 662-667",
+        "url": "https://archive.org/details/emperorofjapanme00keen/page/662",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "BBC News, «Japan protest over Korean assassin An Jung-geun memorial in China» (2014)",
+        "url": "https://www.bbc.com/news/world-asia-25808437",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Catholicism Led Ahn Jung-geun to Fight Against Injustice», The Korea Times (14 de septiembre de 2009)",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20090914/catholicism-led-ahn-jung-geun-to-fight-against-injustice",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«China to reopen An Jung-geun memorial hall at Harbin Station: source», The Korea Herald (25 de marzo de 2019)",
+        "url": "http://www.koreaherald.com/view.php?ud=20190325000507",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Itō Hirobumi»",
+        "url": "https://www.britannica.com/biography/Ito-Hirobumi",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «An Jung-geun» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/An_Jung-geun",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El 26 de octubre lo dan la página de Wikipedia sobre Itō y la selección (Britannica); la de An Jung-geun dice solo «octubre de 1909». No se pudo abrir Britannica. Memoria muy sensible en Corea y Japón: el texto recoge ambas visiones sin tomar partido."
+  },
+  {
+    "id": "miguel-servet",
+    "m": 10,
+    "d": 27,
+    "y": 1553,
+    "n": "Miguel Servet",
+    "a": "El hereje quemado en Champel",
+    "v": "1 (Servet, ejecutado)",
+    "p": "Suiza / España",
+    "f": "🇨🇭",
+    "per": "1553",
+    "st": "Condenado por herejía por el Consejo de Ginebra y quemado vivo el 27 de octubre de 1553. En 1903 se levantó un monumento expiatorio cerca del lugar de la hoguera.",
+    "c": "El médico y teólogo aragonés Miguel Servet, que describió la circulación pulmonar de la sangre en su «Christianismi Restitutio» (1553), negaba el dogma de la Trinidad. Detenido en Vienne (Francia) a raíz de una denuncia, escapó el 7 de abril de 1553 y fue condenado a muerte en rebeldía y quemado en efigie. El 13 de agosto lo reconocieron en Ginebra, en la iglesia donde predicaba Calvino, y fue detenido. Tras un proceso por herejía en el que se consultó a las iglesias reformadas suizas, el Consejo de Ginebra lo condenó a la hoguera y fue quemado vivo en Champel el 27 de octubre de 1553.",
+    "mo": "Proceso por herejía: lo que se juzgó fueron sus ideas teológicas antitrinitarias, recogidas en sus libros y en sus cartas con Calvino.",
+    "loc": [
+      [
+        46.1925,
+        6.1563,
+        "Champel, Ginebra (hoguera, 27 de octubre de 1553; monumento expiatorio de 1903)"
+      ],
+      [
+        46.2028,
+        6.1481,
+        "Templo de la Madeleine, Ginebra (donde fue reconocido, 13 de agosto de 1553)"
+      ],
+      [
+        45.525,
+        4.874,
+        "Vienne, Delfinado (detención y fuga, abril de 1553)"
+      ],
+      [
+        41.7113,
+        -0.0045,
+        "Villanueva de Sijena, Huesca (nacimiento)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Miguel Servet, quemado en Ginebra",
+    "autor": "Ejecutado por sentencia del Consejo de Ginebra, con Juan Calvino como principal acusador",
+    "fuentes": [
+      {
+        "titulo": "John C. Godbey (revisado por Mary Wellemeyer), «Servetus, Michael», Encyclopedia of Religion (Gale, Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/servetus-michael",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Michael Servetus»",
+        "url": "https://www.britannica.com/biography/Michael-Servetus",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«Viaje al corazón de las palabras: Servet», Revista Española de Cardiología (2023)",
+        "url": "https://www.revespcardiol.org/es-servet-articulo-S0300893223001082",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Instituto de Estudios Sijenenses Miguel Servet, «Biography»",
+        "url": "http://www.miguelservet.org/servetus/birthplace.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Genevox, «Le procès de Michel Servet» (copia archivada)",
+        "url": "https://web.archive.org/web/20120319011752/http://www.genevox.net/le-procegraves-de-michel-servet.html",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en español), «Miguel Servet» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Miguel_Servet",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El año de nacimiento no es seguro (1509 o 1511, según las fuentes). La Encyclopedia of Religion (abierta) confirma la ejecución el 27 de octubre de 1553 en Champel; la detención en Vienne, la fuga del 7 de abril y el 13 de agosto vienen de Wikipedia. No es un crimen común sino un proceso religioso: encaja como «condena» por la ejecución. Coordenadas de Champel y de la Madeleine a nivel de calle. Verificación: Britannica y Encyclopedia.com (abiertas) confirman la hoguera el 27 de octubre de 1553 en Champel y la fuga de Vienne."
+  },
+  {
+    "id": "laurence-foley",
+    "m": 10,
+    "d": 28,
+    "y": 2002,
+    "n": "Abu Musab al Zarqaui",
+    "a": "El asesinato de Laurence Foley",
+    "v": "1",
+    "p": "Jordania",
+    "f": "🇯🇴",
+    "per": "2002",
+    "st": "En abril de 2004 un tribunal militar jordano condenó a muerte a Salem bin Suweid y Yasser Freihat, los dos acusados de disparar, y en rebeldía a otros seis, entre ellos Al Zarqaui; otros dos acusados recibieron penas de prisión. Los dos primeros fueron ahorcados el 11 de marzo de 2006 y Al Zarqaui murió en un bombardeo estadounidense en Irak en junio de 2006. En 2009 otro implicado fue condenado a muerte.",
+    "c": "En la mañana del 28 de octubre de 2002 Laurence Foley, de 62 años, alto funcionario de la agencia estadounidense de cooperación USAID en Jordania, fue asesinado a tiros cuando se dirigía a su coche ante su casa, en el oeste de Amán. Fue el primer diplomático occidental muerto en la ciudad. En diciembre fueron detenidos el libio Salem bin Suweid y el jordano Yasser Freihat; según el Gobierno jordano, actuaron por orden de Abu Musab al Zarqaui, después jefe de Al Qaeda en Irak, que les dio 18.000 dólares. Confesaron, aunque luego dijeron que lo hicieron por coacciones. Condenados a muerte en 2004, fueron ahorcados en marzo de 2006.",
+    "mo": "Según la investigación jordana, dos hombres lo esperaron junto a su casa a primera hora de la mañana y le dispararon varias veces, en el pecho y la cabeza, cuando iba hacia su coche; usaron una pistola con silenciador.",
+    "loc": [
+      [
+        31.9566,
+        35.869,
+        "Amán (su casa, donde fue asesinado, 28 de octubre de 2002)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato del diplomático Laurence Foley en Amán",
+    "autor": "Salem bin Suweid y Yasser Freihat, por encargo, según la condena, de Abu Musab al Zarqaui",
+    "fuentes": [
+      {
+        "titulo": "BBC News, «US diplomat shot dead in Jordan» (28 de octubre de 2002)",
+        "url": "https://news.bbc.co.uk/2/hi/middle_east/2367311.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Neil MacFarquhar, «Threats and Responses: Attack on U.S. Diplomat; American Envoy Killed in Jordan», The New York Times (29 de octubre de 2002)",
+        "url": "https://www.nytimes.com/2002/10/29/world/threats-and-responses-attack-on-us-diplomat-american-envoy-killed-in-jordan.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CNN, «Jordan: Al Qaeda killed U.S. diplomat» (14 de diciembre de 2002)",
+        "url": "https://edition.cnn.com/2002/WORLD/meast/12/14/jordan.killing/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Jordan militants sentenced to die» (6 de abril de 2004)",
+        "url": "https://news.bbc.co.uk/2/hi/middle_east/3603949.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Jordan hangs US diplomat killers» (11 de marzo de 2006)",
+        "url": "https://news.bbc.co.uk/2/hi/middle_east/4796280.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Jordan: Death Sentence in Killing of U.S. Diplomat», The New York Times (13 de julio de 2009)",
+        "url": "https://www.nytimes.com/2009/07/14/world/middleeast/14briefs-Jordan.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Laurence Foley» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Laurence_Foley",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Verificación: BBC (28-10-2002) da 62 años (Wikipedia decía 60); BBC (6-4-2004) y BBC (11-3-2006) confirman condenas, ahorcamiento y que Bin Suweid y Freihat dijeron haber sido forzados a confesar; CNN (14-12-2002) da los 18.000 dólares y la pistola con silenciador. Hubo ocho condenados a muerte en 2004 (dos presentes y seis en rebeldía) y dos a prisión; la BBC de 2006 habla de diez condenados. CNN llama al segundo detenido Yasser Fathi Ibraheem y la BBC, Freihat. El dato de 2009 solo consta en el titular del NYT. Se quita del texto la carrera previa de Foley, cuya única fuente (SFSU) ya no abre. Coordenadas a nivel de ciudad."
+  },
+  {
+    "id": "walter-raleigh",
+    "m": 10,
+    "d": 29,
+    "y": 1618,
+    "n": "Walter Raleigh",
+    "a": "La ejecución de sir Walter Raleigh",
+    "v": "1 (Raleigh, ejecutado)",
+    "p": "Reino Unido (Inglaterra)",
+    "f": "🇬🇧",
+    "per": "1603–1618",
+    "st": "Ejecutado. Fue decapitado el 29 de octubre de 1618 en Old Palace Yard (Westminster) en cumplimiento de la condena a muerte por traición de 1603, que nunca se revisó. Su juicio, basado en una confesión que no se le permitió rebatir, se sigue citando como ejemplo de proceso injusto.",
+    "c": "Sir Walter Raleigh, explorador, poeta y antiguo favorito de Isabel I, fue detenido en julio de 1603 acusado de conspirar contra el nuevo rey, Jacobo I. En noviembre lo juzgaron en el castillo de Winchester: la principal prueba era la declaración de lord Cobham, al que nunca se llamó a testificar pese a las peticiones de Raleigh. Condenado a muerte, el rey le perdonó la vida y pasó trece años preso en la Torre de Londres. Liberado en 1616 para buscar El Dorado en la Guayana, sus hombres atacaron el puesto español de Santo Tomé. A petición de España se reactivó la vieja condena y fue decapitado el 29 de octubre de 1618.",
+    "mo": "Proceso por traición basado en la confesión escrita de un supuesto cómplice, sin careo ni testigos; la ejecución llegó quince años después, por razones diplomáticas y sin nuevo juicio.",
+    "loc": [
+      [
+        51.4989,
+        -0.1262,
+        "Old Palace Yard, Westminster, Londres (ejecución, 29 de octubre de 1618)"
+      ],
+      [
+        51.5003,
+        -0.1265,
+        "Iglesia de St Margaret, Westminster (sepultura)"
+      ],
+      [
+        51.0627,
+        -1.3196,
+        "Gran Salón del castillo de Winchester (juicio por traición, noviembre de 1603)"
+      ],
+      [
+        51.5081,
+        -0.0759,
+        "Torre de Londres (prisión, 1603-1616)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "La ejecución de sir Walter Raleigh",
+    "autor": "Ejecutado por orden de Jacobo I, en aplicación de la condena por traición de 1603",
+    "fuentes": [
+      {
+        "titulo": "Westminster Abbey, «Sir Walter Raleigh» (conmemoraciones de la abadía y de St Margaret's)",
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/sir-walter-raleigh",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Sir Walter Raleigh»",
+        "url": "https://www.britannica.com/biography/Walter-Raleigh-English-explorer",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Royal Museums Greenwich, «Sir Walter Raleigh»",
+        "url": "https://www.rmg.co.uk/stories/topics/sir-walter-raleigh",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Tribunal Supremo de Estados Unidos, «Crawford v. Washington», 541 U.S. 36 (2004), que cita el juicio de Raleigh como origen del derecho a interrogar a los testigos de cargo",
+        "url": "https://supreme.justia.com/cases/federal/us/541/36/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Walter Raleigh» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Walter_Raleigh",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye a la condena de Lindy Chamberlain, que repetía el caso azaria-chamberlain del 17 de agosto. Se descartaron también los otros candidatos del día: Ben Barka (instrucción francesa abierta) y la masacre de El Amparo (la Sala Constitucional venezolana anuló en 2016 el sobreseimiento de 1998 y el caso pasó a la justicia penal ordinaria). Se descartó asimismo el asesinato de Jack McVitie por los Kray porque unas fuentes lo fechan el 28 y otras el 29 de octubre de 1967. Es un proceso político, no un crimen común, como el de Servet. La fecha la confirman la abadía de Westminster (abierta) y Wikipedia; Britannica y Royal Museums Greenwich no se pudieron abrir ; la URL de Britannica se corrige a la que abre (da la muerte el 29 de octubre de 1618 en Londres). Nacimiento hacia 1552-1554. Coordenadas a nivel de edificio."
+  },
+  {
+    "id": "gloria-martinez",
+    "m": 10,
+    "d": 30,
+    "y": 1992,
+    "n": "Gloria Martínez Ruiz",
+    "a": "La desaparición de Gloria Martínez",
+    "v": "1 (desaparecida)",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1992",
+    "st": "Sin resolver. La causa penal se cerró en 2000 sin culpables. En 2008 la Audiencia Provincial de Alicante condenó a la psiquiatra responsable y a la sociedad propietaria de la clínica a indemnizar a la familia con 104.000 euros. Gloria sigue desaparecida.",
+    "c": "Gloria Martínez, una estudiante alicantina de 17 años con insomnio y anorexia, ingresó el 29 de octubre de 1992 en la clínica privada Torres de San Luis, en L'Alfàs del Pi (Alicante). Tras una crisis, el personal la sedó y la sujetó a la cama. En la madrugada del 30 ya no estaba en su habitación; según la clínica, se escapó saltando una valla, algo que la familia nunca creyó. La Guardia Civil la buscó durante años sin hallar rastro. La causa penal se archivó en 2000, y en 2008 la justicia civil condenó a la psiquiatra y a la clínica a indemnizar a la familia.",
+    "mo": "Desconocido. La joven estaba sedada y sujeta a la cama la noche en que desapareció, y la clínica tardó horas en avisar a la familia y a la policía.",
+    "loc": [
+      [
+        38.5806,
+        -0.1036,
+        "L'Alfàs del Pi, Alicante (clínica Torres de San Luis, desaparición en la madrugada del 30 de octubre de 1992)"
+      ],
+      [
+        38.3452,
+        -0.481,
+        "Alicante (ciudad de la familia; sede de la Audiencia Provincial que dictó la condena civil en 2008)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La desaparición de Gloria Martínez",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Gonzalo Araluce, «Gloria, 25 años ni viva ni muerta tras desaparecer en una clínica mental», El Español (30 de octubre de 2017)",
+        "url": "https://www.elespanol.com/reportajes/20171027/257475320_0.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Un testigo sorpresa fuerza a la Fiscalía de Alicante a reabrir el caso de la desaparecida Gloria Martínez», El País (7 de septiembre de 1999)",
+        "url": "https://elpais.com/diario/1999/09/07/cvalenciana/936731877_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Ni una pista fiable en siete años de búsqueda», El País (8 de septiembre de 1999)",
+        "url": "https://elpais.com/diario/1999/09/08/cvalenciana/936818295_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "José Antonio Martínez, «La Audiencia eleva la indemnización por la desaparición de Gloria Martínez a 104.000 €», Diario Información (17 de diciembre de 2008)",
+        "url": "https://www.informacion.es/elche/2008/12/17/audiencia-eleva-indemnizacion-desaparicion-gloria-7410739.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Desaparición sin respuesta», ABC (9 de agosto de 2009)",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/abci-desaparicion-sin-respuesta-200908090300-923192416661_noticia.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Gloria Martínez, 25 años ni viva ni muerta», El Mundo (17 de septiembre de 2017)",
+        "url": "https://www.elmundo.es/comunidad-valenciana/alicante/2017/09/17/59bd41e622601d882f8b46ad.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en español), «Desaparición de Gloria Martínez» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Gloria_Mart%C3%ADnez",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Verificación: se nombra a Gloria porque el caso tiene 34 años, hoy sería adulta y su nombre y foto los ha difundido la familia en toda la prensa (El Español, Información, ABC). Las fuentes difieren en cómo huyó (ventana según El Español; valla tras empujar a una enfermera según ABC) y en la hora del aviso (7.00 según El Español; después de las 8.00 según Wikipedia); el texto dice solo lo que dice la clínica. La indemnización inicial fue de 60.000 euros y la Audiencia la elevó a 104.000 (Información). La Guardia Civil considera el caso abierto, pero no consta ninguna diligencia judicial en curso. Coordenadas a nivel de municipio."
+  }
+]

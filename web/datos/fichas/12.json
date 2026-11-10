@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "asesinato-kirov",
+    "m": 12,
+    "d": 1,
+    "y": 1934,
+    "n": "Leonid Nikoláyev",
+    "a": "El asesinato de Kírov",
+    "v": "1",
+    "p": "URSS (Rusia)",
+    "f": "🇷🇺",
+    "per": "1934",
+    "st": "Cerrado. Nikoláyev y otros trece acusados fueron condenados a muerte a puerta cerrada y fusilados el 29 de diciembre de 1934. La comisión del Politburó de 1989 no halló pruebas de que Stalin o el NKVD ordenaran el crimen, pero algunos historiadores lo siguen sosteniendo.",
+    "c": "Hacia las cuatro y media de la tarde del 1 de diciembre de 1934, Leonid Nikoláyev, un militante comunista expulsado del partido y sin trabajo, mató de un disparo en la nuca a Serguéi Kírov, jefe del partido en Leningrado y miembro del Politburó, en un pasillo de la tercera planta del Instituto Smolny. Fue detenido en el acto. El 29 de diciembre un tribunal militar lo condenó a muerte junto a otros trece acusados, y todos fueron fusilados de inmediato. Stalin usó el crimen como pretexto para las grandes purgas; si estuvo detrás sigue siendo objeto de debate.",
+    "mo": "Disparo a quemarropa con un revólver Nagant en el pasillo que llevaba al despacho de Kírov, aprovechando una escolta muy reducida. Semanas antes lo habían detenido en el mismo edificio con el arma en una cartera y lo habían dejado marchar.",
+    "loc": [
+      [
+        59.9464,
+        30.3964,
+        "Instituto Smolny, Leningrado (lugar del disparo)"
+      ],
+      [
+        55.7535,
+        37.6198,
+        "Necrópolis de la muralla del Kremlin, Moscú (sepultura de Kírov)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "urss"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Serguéi Kírov",
+    "autor": "Leonid Nikoláyev (la participación de Stalin o del NKVD es una hipótesis discutida)",
+    "fuentes": [
+      {
+        "titulo": "Lewis Siegelbaum, «The Kirov Affair», Seventeen Moments in Soviet History (Michigan State University)",
+        "url": "https://soviethistory.msu.edu/1934/kirov-affair/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "S. Deviatov, V. Zhiliáyev, S. Zósimov, V. Kolkutin y T. Sujárnikova, «The Death of Kirov: Facts and Versions», Rodina, 2005, n.º 3 (versión inglesa del Museo-Apartamento de S. M. Kírov)",
+        "url": "https://kirovmuseum.ru/en/node/17",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Nancy Popson, «Who Killed Kirov? The Crime of the Century», Wilson Center, Kennan Institute (7 de julio de 2011)",
+        "url": "https://www.wilsoncenter.org/publication/who-killed-kirov-the-crime-the-century",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Sergei Kirov» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Sergei_Kirov",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Wikipedia en inglés se contradice sobre si Nikoláyev fue juzgado solo o con otros; el artículo de Rodina (2005) da catorce acusados en la misma vista del 28 al 29 de diciembre. La implicación de Stalin se presenta como hipótesis. La Britannica (fuente de la selección) no se pudo abrir (error 403)."
+  },
+  {
+    "id": "religiosas-el-salvador",
+    "m": 12,
+    "d": 2,
+    "y": 1980,
+    "n": "Luis Antonio Colindres Alemán",
+    "a": "Las cuatro religiosas estadounidenses",
+    "v": "4",
+    "p": "El Salvador",
+    "f": "🇸🇻",
+    "per": "1980",
+    "st": "El 24 de mayo de 1984 cinco guardias nacionales fueron condenados a 30 años de cárcel; varios, entre ellos su jefe, salieron en libertad en 1998. La Comisión de la Verdad de la ONU (1993) concluyó que actuaron por órdenes superiores y que los mandos encubrieron el crimen, pero ningún jefe militar ha sido condenado por él.",
+    "c": "La noche del 2 de diciembre de 1980, en plena guerra civil, miembros de la Guardia Nacional detuvieron a la salida del aeropuerto de Comalapa a las religiosas de Maryknoll Maura Clarke e Ita Ford, a la ursulina Dorothy Kazel y a la misionera laica Jean Donovan, y las asesinaron. Al día siguiente aparecieron los cuerpos junto a un camino cerca de Santiago Nonualco; las autoridades los hicieron enterrar en una fosa, que se abrió el 4 de diciembre ante el embajador de Estados Unidos. En 1984 cinco guardias fueron condenados a 30 años. La responsabilidad de los mandos nunca se juzgó en El Salvador.",
+    "mo": "Los guardias, vestidos de civil, siguieron la furgoneta de las religiosas desde el aeropuerto, las llevaron a un paraje aislado y las mataron a tiros; después quemaron el vehículo.",
+    "loc": [
+      [
+        13.4465,
+        -89.0536,
+        "Aeropuerto internacional de Comalapa (donde las detuvieron)"
+      ],
+      [
+        13.5123,
+        -88.9402,
+        "Santiago Nonualco (hallazgo de los cuerpos)"
+      ],
+      [
+        14.0414,
+        -88.9394,
+        "Chalatenango (sepultura de Maura Clarke e Ita Ford)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de las religiosas estadounidenses en El Salvador",
+    "autor": "Cinco guardias nacionales a las órdenes del subsargento Luis Antonio Colindres Alemán, condenados en 1984; según la Comisión de la Verdad, por órdenes superiores",
+    "fuentes": [
+      {
+        "titulo": "Miguel Lemus, «A 44 años que militares asesinaron a religiosas norteamericanas», El Diario de Hoy (2 de diciembre de 2024)",
+        "url": "https://www.elsalvador.com/fotogalerias/ordenes-religiosas-guerra-civil-crimenes-de-lesa-humanidad-conflicto-armado-el-salvador/1184986/2024/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Lawyers Committee for Human Rights, «Ford v. Garcia»: resumen del caso de las religiosas y del juicio civil contra los generales Vides Casanova y García (2000)",
+        "url": "https://lchr.org/archives/arc_ijp/lac/nuns/nuns.html",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "George Black, «Decades Later, the Truth Behind a Grisly Mass Murder in El Salvador», The New Republic (abril de 2025; reproducido en Yahoo News)",
+        "url": "https://www.yahoo.com/news/decades-later-truth-behind-grisly-100000221.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «1980 murders of U.S. missionaries in El Salvador» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/1980_murders_of_U.S._missionaries_in_El_Salvador",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hubo violencia sexual: se omite a propósito. Las fuentes no coinciden en cuántos condenados salieron en 1998 (Wikipedia habla de tres; The New Republic solo detalla la salida de Colindres). No se pudieron abrir The New York Times ni el informe de la Comisión de la Verdad archivado en web.archive.org."
+  },
+  {
+    "id": "garcia-caparros",
+    "m": 12,
+    "d": 4,
+    "y": 1977,
+    "n": "Manuel José García Caparrós",
+    "a": "El 4-D de Málaga",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1977",
+    "st": "Sin resolver. El sumario se sobreseyó sin identificar al autor del disparo. En 2024 el Gobierno lo reconoció como víctima del posfranquismo y en 2026 Interior le negó la condición de víctima del terrorismo.",
+    "c": "El 4 de diciembre de 1977 hubo manifestaciones por la autonomía andaluza en toda Andalucía. En Málaga, cuando un joven escaló la fachada de la Diputación para colgar la bandera verdiblanca, la Policía Armada cargó contra los manifestantes. Manuel José García Caparrós, de 18 años, trabajador de Cervezas Victoria y afiliado a Comisiones Obreras, recibió un disparo en la entrada de la Alameda de Colón y murió en pocos minutos. Su muerte desató disturbios esa noche. Una comisión del Congreso investigó los hechos, pero el sumario se sobreseyó y nunca se identificó a quien disparó.",
+    "mo": "Disparo de un arma de 9 mm del tipo que usaba entonces la Policía Armada, durante una carga contra los manifestantes. Los testigos señalaron a un agente, que nunca fue identificado oficialmente.",
+    "loc": [
+      [
+        36.7157,
+        -4.4247,
+        "Alameda de Colón, esquina con la calle Comandante Benítez, Málaga (donde cayó; hoy lugar de memoria)"
+      ],
+      [
+        36.7243,
+        -4.5136,
+        "Parque Cementerio de Málaga (sepultura)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La muerte de García Caparrós",
+    "autor": "Desconocido (un agente de la Policía Armada según los testigos; nunca identificado)",
+    "fuentes": [
+      {
+        "titulo": "Junta de Andalucía, «Los sucesos del 4 de diciembre en Málaga» (40 aniversario del 4-D, 2017)",
+        "url": "https://www.juntadeandalucia.es/export/drupaljda/61eeeca211e6b-201712_40axos_3._Los_sucesos_del_4_de_diciembre_en_Mxlaga.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ramón Albertus, «4-D: 40 años sin saber quién disparó», La Marea (3 de diciembre de 2017)",
+        "url": "https://www.lamarea.com/2017/12/03/102024",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Redacción, «El Gobierno declara a García Caparrós 'víctima del posfranquismo' 47 años después de su asesinato», El Debate (5 de diciembre de 2024)",
+        "url": "https://www.eldebate.com/espana/andalucia/malaga/20241205/reconocimiento-martir-andalucismo-gobierno-declara-garcia-caparros-victima-posfranquismo_250819_amp.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Interior deniega la condición de víctima del terrorismo a un asesinado por la Policía en 1977», The Objective (25 de febrero de 2026)",
+        "url": "https://theobjective.com/espana/politica/2026-02-25/interior-deniega-garcia-caparros-asesinado-policia-victima-terrorismo/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Manuel José García Caparrós» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Manuel_Jos%C3%A9_Garc%C3%ADa_Caparr%C3%B3s",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Tema político: no se nombra al agente al que señaló la investigadora Rosa Burgos (solo iniciales en la prensa). La Marea sitúa la caída en la esquina de Comandante Benítez y Wikipedia en la Alameda de Colón: son el mismo punto. No se pudo abrir El País (6 de diciembre de 1977)."
+  },
+  {
+    "id": "alves-dos-reis",
+    "m": 12,
+    "d": 5,
+    "y": 1925,
+    "n": "Artur Virgílio Alves dos Reis",
+    "a": "La estafa del Banco de Portugal",
+    "v": "Ninguna (estafa al Banco de Portugal)",
+    "p": "Portugal",
+    "f": "🇵🇹",
+    "per": "1924–1925",
+    "st": "Condenado en mayo de 1930 a 20 años de cárcel. Salió en libertad en mayo de 1945 y murió arruinado en Lisboa en 1955. En 1932 la Cámara de los Lores obligó a Waterlow & Sons a indemnizar al Banco de Portugal.",
+    "c": "En 1924, mientras estaba preso por otro fraude, Artur Alves dos Reis falsificó un contrato del Banco de Portugal y convenció a la imprenta londinense Waterlow & Sons de que el banco le encargaba en secreto billetes de 500 escudos. Waterlow imprimió unos 200.000 billetes auténticos, con números de serie repetidos, que Reis y sus socios pusieron en circulación a través de su propio Banco de Angola e Metrópole. El diario O Século destapó el fraude el 5 de diciembre de 1925 y Reis fue detenido al día siguiente, al volver de Angola. En 1930 lo condenaron a 20 años de cárcel.",
+    "mo": "Falsificó contratos y firmas para que una imprenta legítima fabricara billetes reales del Banco de Portugal; blanqueó el dinero con divisas, empresas y acciones del propio banco emisor, del que intentó hacerse con el control.",
+    "loc": [
+      [
+        38.7088,
+        -9.1382,
+        "Banco de Portugal, Rua do Comércio, Lisboa (la entidad estafada)"
+      ],
+      [
+        38.7122,
+        -9.1477,
+        "Rua de O Século, Lisboa (sede del diario que destapó el fraude)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "estafas"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La estafa de los billetes de Alves dos Reis",
+    "autor": "Artur Virgílio Alves dos Reis, con Karel Marang, Adolph Hennies y José Bandeira",
+    "fuentes": [
+      {
+        "titulo": "Henry Wigan, «The Effects of the 1925 Portuguese Bank Note Crisis», London School of Economics, Working Paper 82/04 (febrero de 2004)",
+        "url": "https://www.lse.ac.uk/asset-library/information/wp8204.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Lynne Booker, «Alves Reis, arch forger», Algarve History Association",
+        "url": "https://algarvehistoryassociation.com/en/portuguese-history/portugal/131-alves-reis-arch-forger",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Sábado, «A história da burla de Alves dos Reis vai chegar ao cinema», Jornal de Negócios (7 de mayo de 2026)",
+        "url": "https://www.jornaldenegocios.pt/economia/cultura/detalhe/a-historia-da-burla-de-alves-dos-reis-vai-chegar-ao-cinema",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Murray Teigh Bloom, «The Man Who Stole Portugal» (Secker & Warburg, 1966; citado por Wigan)",
+        "url": "https://openlibrary.org/search?q=The+Man+Who+Stole+Portugal",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Alves dos Reis» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Alves_dos_Reis",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La efeméride es la publicación de O Século; la detención fue el 6 de diciembre. Las fuentes difieren en la muerte de Hennies (1936 según Wikipedia; 1957 según Wigan y la Algarve History Association). Wigan sitúa el juicio en Oporto. La ubicación de la antigua redacción de O Século en la calle del mismo nombre conviene comprobarla."
+  },
+  {
+    "id": "atentado-das",
+    "m": 12,
+    "d": 6,
+    "y": 1989,
+    "n": "Pablo Escobar",
+    "a": "El bus bomba del DAS",
+    "v": "Entre 50 y 63 muertos y cientos de heridos",
+    "p": "Colombia",
+    "f": "🇨🇴",
+    "per": "1989",
+    "st": "Impune en lo esencial. Los señalados como autores intelectuales murieron sin ser juzgados por el atentado; en 1994 dos colaboradores fueron condenados a 8 y 9 años de cárcel con rebajas por sometimiento a la justicia.",
+    "c": "Hacia las siete y media de la mañana del 6 de diciembre de 1989, un bus cargado con unos 500 kilos de dinamita estalló frente a la sede del Departamento Administrativo de Seguridad (DAS), en el barrio bogotano de Paloquemao. El objetivo era su director, el general Miguel Maza Márquez, que salió ileso gracias a su despacho blindado. La explosión mató a decenas de personas, hirió a cientos y dañó varias manzanas. Las investigaciones lo atribuyeron al cártel de Medellín de Pablo Escobar y Gonzalo Rodríguez Gacha, en su guerra contra la extradición; casi nadie fue condenado.",
+    "mo": "Coche bomba: un bus cargado de dinamita aparcado ante el edificio y detonado en hora punta, dentro de la campaña de atentados de «los Extraditables» contra el Estado.",
+    "loc": [
+      [
+        4.6152,
+        -74.0867,
+        "Antigua sede del DAS, Paloquemao, Bogotá (lugar de la explosión)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El atentado contra el edificio del DAS",
+    "autor": "Atribuido al cártel de Medellín (Pablo Escobar y Gonzalo Rodríguez Gacha); dos colaboradores condenados en 1994",
+    "fuentes": [
+      {
+        "titulo": "Angy Viviana Alvarado, «Atentado al edificio del DAS: hablan sobrevivientes», El Tiempo (4 de diciembre de 2020)",
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atentado-al-edificio-del-das-hablan-sobrevivientes-553072",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Catalina González Navarro, «La bomba contra la justicia», El Espectador (5 de diciembre de 2014)",
+        "url": "https://www.elespectador.com/judicial/la-bomba-contra-la-justicia-article-531711/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Colprensa y El Colombiano, «500 kilos de dinamita contra el DAS, 30 años del atentado que dejó 60 muertos y 500 heridos», El Universal (6 de diciembre de 2019)",
+        "url": "https://www.eluniversal.com.co/colombia/500-kilos-de-dinamita-contra-el-das-30-anos-del-atentado-que-dejo-60-muertos-y-500-heridos-BF2106571",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Colombiano, «Atentado al edificio del DAS: ataque indiscriminado con 500 kilos de dinamita» (especial «Medellín es más que Pablo Escobar»)",
+        "url": "https://www.elcolombiano.com/medellin-es-mas-que-pablo-escobar/atentado-al-edificio-del-das",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «DAS Building bombing» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/DAS_Building_bombing",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Cifras discrepantes: 50 muertos (El Espectador), 60 (El Colombiano) o 63 (El Tiempo, Wikipedia); heridos entre 500 y más de 2.000. Hora: 7:30 o 7:37. Wikipedia habla de un camión con 9.000 kg; se sigue a la prensa colombiana (bus con unos 500 kilos). El Tiempo (2020) dice que el proceso judicial sigue formalmente abierto, sin acusados vivos conocidos."
+  },
+  {
+    "id": "robo-museo-van-gogh",
+    "m": 12,
+    "d": 7,
+    "y": 2002,
+    "n": "Octave Durham",
+    "a": "El robo de los Van Gogh de Ámsterdam",
+    "v": "Ninguna (robo de dos cuadros)",
+    "p": "Países Bajos",
+    "f": "🇳🇱",
+    "per": "2002–2016",
+    "st": "Octave Durham y Henk Bieslijn fueron condenados en 2004 a cuatro años y medio y a cuatro años de cárcel, y un tribunal de apelación mantuvo la condena en 2005. Los cuadros se recuperaron en Italia en 2016 y volvieron a colgarse en el museo en 2019.",
+    "c": "En la madrugada del sábado 7 de diciembre de 2002, dos ladrones treparon con una escalera hasta un tejado de la parte trasera del Museo Van Gogh de Ámsterdam, rompieron una ventana con un mazo y descolgaron «Vista del mar en Scheveningen» (1882) y «Congregación saliendo de la iglesia reformada de Nuenen» (1884-1885). Bajaron por la fachada con una cuerda y huyeron antes de que llegara la policía. El ADN de dos gorras que perdieron llevó a la condena de Octave Durham y Henk Bieslijn en 2004. En septiembre de 2016 la policía italiana encontró los cuadros en una casa de Castellammare di Stabia ligada a la Camorra.",
+    "mo": "Escalada nocturna con escalera, ventana rota a mazazos y descenso con cuerda, todo en pocos minutos. Los cuadros acabaron en poder de un narcotraficante de la Camorra.",
+    "loc": [
+      [
+        52.3584,
+        4.8811,
+        "Museo Van Gogh, Ámsterdam (robo)"
+      ],
+      [
+        40.7,
+        14.4833,
+        "Castellammare di Stabia, Nápoles (recuperación de los cuadros en 2016)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo del Museo Van Gogh",
+    "autor": "Octave Durham y Henk Bieslijn (condenados)",
+    "fuentes": [
+      {
+        "titulo": "NOS Nieuws, «Ladder, touw en moker: meer was niet nodig voor roof Van Goghs» (30 de septiembre de 2016)",
+        "url": "https://nos.nl/artikel/2135251-ladder-touw-en-moker-meer-was-niet-nodig-voor-roof-van-goghs",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Associated Press, «Van Gogh thieves say they were framed», Fox News (27 de julio de 2004)",
+        "url": "https://www.foxnews.com/story/van-gogh-thieves-say-they-were-framed",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "NL Times, «Art thief confesses to Van Gogh Museum robbery in newspaper interview» (20 de marzo de 2017)",
+        "url": "https://nltimes.nl/2017/03/20/art-thief-confesses-van-gogh-museum-robbery-newspaper-interview",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Martin Bailey, «Two stolen Van Goghs go back on display after 14-year ordeal at the hands of Italian gangsters», The Art Newspaper (18 de abril de 2019)",
+        "url": "https://www.theartnewspaper.com/2019/04/18/two-stolen-van-goghs-go-back-on-display-after-14-year-ordeal-at-the-hands-of-italian-gangsters",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Nina Siegal (The New York Times), «What do you do with a stolen Van Gogh? This thief knows», The New Zealand Herald (27 de mayo de 2020)",
+        "url": "https://nzherald.co.nz/world/what-do-you-do-with-a-stolen-van-gogh-this-thief-knows/JSNF7LKGHQOVHBKLHNHSGY2WFY",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Van Gogh Museum» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Penas: cuatro años y medio (Durham) y cuatro (Bieslijn) en primera instancia según NOS y AP (2004); NL Times dice que Durham fue condenado en 2005 a tres años y medio, quizá en apelación; según The New York Times cumplió algo más de 25 meses. Smithsonian y la página del FBI (fuentes de la selección) dieron error 403."
+  },
+  {
+    "id": "secuestro-sinatra-jr",
+    "m": 12,
+    "d": 8,
+    "y": 1963,
+    "n": "Barry Keenan",
+    "a": "El secuestro de Frank Sinatra Jr.",
+    "v": "1 (liberado ileso)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1963",
+    "st": "Barry Keenan, Joe Amsler y John Irwin fueron condenados en 1964. Las penas iniciales, de cadena perpetua más 75 años para Keenan y Amsler, se rebajaron después y ninguno pasó más de cinco años en prisión.",
+    "c": "La noche del 8 de diciembre de 1963, dos hombres armados entraron en la habitación del Harrah's del lago Tahoe donde se alojaba Frank Sinatra Jr., de 19 años, que actuaba allí, y se lo llevaron con los ojos vendados a una casa de Canoga Park, en Los Ángeles. Su padre pagó 240.000 dólares de rescate y el joven quedó libre la madrugada del 11 de diciembre. En pocos días el FBI detuvo a los tres implicados, Barry Keenan, Joe Amsler y John Irwin, y recuperó la mayor parte del dinero. En el juicio, la defensa sostuvo sin pruebas que todo había sido un montaje publicitario.",
+    "mo": "Secuestro a punta de pistola en la habitación del hotel. El rescate se negoció por teléfonos públicos y se entregó en una gasolinera de Sepulveda, en Los Ángeles.",
+    "loc": [
+      [
+        38.9594,
+        -119.9416,
+        "Harrah's, Stateline, lago Tahoe (secuestro)"
+      ],
+      [
+        34.2011,
+        -118.5981,
+        "Canoga Park, Los Ángeles (casa donde lo retuvieron)"
+      ],
+      [
+        34.1002,
+        -118.4595,
+        "Bel Air, Los Ángeles (liberación)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro de Frank Sinatra Jr.",
+    "autor": "Barry Keenan, Joe Amsler y John Irwin (condenados en 1964)",
+    "fuentes": [
+      {
+        "titulo": "HISTORY.com Editors, «Frank Sinatra Jr. endures a frightening ordeal», History (13 de noviembre de 2009; actualizado en 2025)",
+        "url": "https://www.history.com/this-day-in-history/frank-sinatra-jr-endures-a-frightening-ordeal",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Mob Museum, «Fifty-one years later, Frank Sinatra Jr.'s kidnapping still raises questions» (8 de diciembre de 2014)",
+        "url": "https://themobmuseum.org/?p=7969",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gayla Koerting, «Sinatra kidnapping», EBSCO Research Starters (2019)",
+        "url": "https://ebsco.com/research-starters/history/sinatra-kidnapping",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Frank Sinatra Jr.» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Frank_Sinatra_Jr.",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La pena inicial de Irwin varía según la fuente (75 años según EBSCO; 16 años y 8 meses en otras). Lugar de la liberación: Bel Air (History, Mob Museum) o junto a la salida de Mulholland Drive de la autopista de San Diego (EBSCO). Las fuentes dicen «lago Tahoe» sin precisar; el Harrah's estaba en Stateline (Nevada). La página del FBI (fuente de la selección) dio error 403."
+  },
+  {
+    "id": "bomba-vaillant",
+    "m": 12,
+    "d": 9,
+    "y": 1893,
+    "n": "Auguste Vaillant",
+    "a": "La bomba de la Cámara de Diputados",
+    "v": "Ninguna mortal (decenas de heridos leves)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1893–1894",
+    "st": "Condenado a muerte y guillotinado en París en febrero de 1894; el presidente Sadi Carnot le negó el indulto pese a la petición de decenas de diputados.",
+    "c": "Hacia las cuatro de la tarde del 9 de diciembre de 1893, el anarquista Auguste Vaillant lanzó desde la tribuna del público una bomba cargada de clavos sobre el hemiciclo de la Cámara de Diputados, en el Palacio Borbón de París. No murió nadie, pero hubo decenas de heridos leves, entre ellos el propio Vaillant, que fue interrogado en el hospital y confesó que quería herir, no matar. El presidente de la Cámara, Charles Dupuy, mantuvo la sesión. Fue condenado a muerte y guillotinado el 5 de febrero de 1894. El atentado dio lugar a las leyes contra los anarquistas que sus críticos llamaron «leyes perversas».",
+    "mo": "Bomba casera de clorato con clavos de zapatero, lanzada desde la tribuna del público durante una sesión. Dijo que quería vengar la ejecución de Ravachol.",
+    "loc": [
+      [
+        48.8619,
+        2.3186,
+        "Palacio Borbón, París (Cámara de Diputados, atentado)"
+      ],
+      [
+        48.8587,
+        2.3878,
+        "Rue de la Roquette, ante la antigua prisión de la Grande Roquette, París (ejecución)"
+      ]
+    ],
+    "vin": [
+      [
+        "bonnot-rue-ordener",
+        "r",
+        "Anarquismo violento en París: la banda de Bonnot, heredera del ilegalismo, actuó dieciocho años después"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La bomba de Vaillant en la Cámara de Diputados",
+    "autor": "Auguste Vaillant (confeso)",
+    "fuentes": [
+      {
+        "titulo": "André Larané, «9 décembre 1893: une bombe à la Chambre des députés», Hérodote.net (actualizado el 7 de diciembre de 2021)",
+        "url": "https://www.herodote.net/9_decembre_1893-evenement-18931209.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Assemblée nationale, base Sycomore, ficha de Jean Casimir-Perier (presidente del Consejo durante el atentado)",
+        "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/1484",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Marina Bellot, entrevista a Bruno Fuligni, «Dans les archives inédites du ministère de l'Intérieur», RetroNews (BnF), 22 de noviembre de 2024",
+        "url": "https://www.retronews.fr/politique/interview/2020/12/08/archives-ministere-de-linterieur",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«L'interrogatoire de Vaillant», Le Matin (11 de diciembre de 1893), traducción de Mitchell Abidor",
+        "url": "https://theanarchistlibrary.org/library/auguste-vaillant-the-interrogation-of-auguste-vaillant",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Auguste Vaillant» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Auguste_Vaillant",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Heridos: unos cincuenta leves según Wikipedia en francés y una veintena de diputados según otras fuentes; no se da cifra exacta. La Asamblea Nacional (Sycomore) fecha la ejecución el 7 de febrero de 1894; Hérodote, Wikipedia y The New York Times (6 de febrero de 1894) dan el 5. La fecha del juicio no se confirmó con dos fuentes. No se pudieron abrir Gallica, Maitron, Le Monde ni el IISG (fuente de la selección). Lugar de la ejecución deducido (era el habitual en París en 1894)."
+  },
+  {
+    "id": "robo-300-millones-yenes",
+    "m": 12,
+    "d": 10,
+    "y": 1968,
+    "n": "Falso policía motorizado",
+    "a": "El robo de los 300 millones de yenes",
+    "v": "Ninguna (robo sin heridos)",
+    "p": "Japón",
+    "f": "🇯🇵",
+    "per": "1968",
+    "st": "Sin resolver. El delito prescribió el 10 de diciembre de 1975 y la responsabilidad civil en 1988. Nadie fue condenado y el dinero no apareció.",
+    "c": "La mañana lluviosa del 10 de diciembre de 1968, un joven vestido de policía en moto detuvo en Fuchu, al oeste de Tokio, el coche del banco Nippon Shintaku que llevaba 294.307.500 yenes en pagas extra para los empleados de la fábrica de Toshiba. Dijo que habían puesto dinamita en el vehículo, hizo bajar a los cuatro empleados, encendió una bengala bajo el coche para simular el peligro y se marchó con el dinero. La policía movilizó a más de 170.000 agentes y estudió a más de 100.000 personas, sin resultado. El delito prescribió en 1975 sin culpable.",
+    "mo": "Suplantó a un policía con una moto robada pintada como las oficiales y aprovechó las cartas de amenaza que había recibido el banco para hacer creíble la bomba. Cambió varias veces de coche robado y dejó en el lugar objetos corrientes para despistar.",
+    "loc": [
+      [
+        35.6862,
+        139.474,
+        "Gakuen-dori, junto al muro norte de la prisión de Fuchu, Tokio (lugar del robo)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo de los 300 millones de yenes",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "AFP, «Japan heist remains unsolved, 44 years on», Dawn (10 de diciembre de 2012)",
+        "url": "https://www.dawn.com/news/770183",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jiji Press, «三億円事件» (fotografía de prensa del 9 de abril de 1969 y reportaje de archivo)",
+        "url": "https://www.jiji.com/jc/d4?p=soe924-jlp01100508&d=d4_oldnews",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Japan Times, «Japan Times 1968: Bandit steals ¥294 million in daring daylight robbery» (reedición del 1 de diciembre de 2018)",
+        "url": "https://www.japantimes.co.jp/news/2018/12/01/national/history/japan-times-1968-bandit-steals-294-million-daring-daylight-robbery/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «300 million yen robbery» (punto de partida; consultada también la versión japonesa por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/300_million_yen_robbery",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No se nombra a ningún sospechoso. Cifras de la investigación según la fuente: 171.346 agentes y 110.000 personas investigadas (Wikipedia en japonés) o 118.000 interrogados (AFP). The Japan Times solo se pudo leer en el extracto del buscador (403); el SCMP (fuente de la selección) también dio 403; Yomiuri y NHK no se pudieron abrir. Coordenadas aproximadas al muro norte de la prisión."
+  },
+  {
+    "id": "robo-lufthansa-jfk",
+    "m": 12,
+    "d": 11,
+    "y": 1978,
+    "n": "Jimmy Burke",
+    "a": "El robo de Lufthansa",
+    "v": "Ninguna en el robo (varios implicados fueron asesinados después)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1978–1979",
+    "st": "Solo fue condenado Louis Werner, el empleado que pasó la información, a 15 años de cárcel en 1979. James «Jimmy» Burke, señalado como cerebro, nunca fue acusado del robo, y Vincent Asaro fue absuelto en 2015. El botín no se recuperó.",
+    "c": "Hacia las tres de la madrugada del 11 de diciembre de 1978, un grupo de hombres enmascarados entró en el edificio 261, la terminal de carga de Lufthansa en el aeropuerto John F. Kennedy de Nueva York, retuvo a los empleados, abrió la cámara acorazada y se llevó unos cinco millones de dólares en efectivo y casi un millón en joyas. Un empleado endeudado, Louis Werner, había pasado la información a una banda vinculada a la familia Lucchese. En los meses siguientes varios implicados fueron asesinados o desaparecieron. La historia aparece en la película «Uno de los nuestros».",
+    "mo": "Asalto nocturno con información de un empleado: los enmascarados redujeron al personal, abrieron la cámara y cargaron unas 72 cajas de dinero en una furgoneta.",
+    "loc": [
+      [
+        40.6413,
+        -73.7781,
+        "Aeropuerto John F. Kennedy, Queens (edificio 261, carga de Lufthansa)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo de Lufthansa en el aeropuerto JFK",
+    "autor": "Atribuido a la banda de James «Jimmy» Burke, nunca acusado del robo; Louis Werner, condenado como cómplice",
+    "fuentes": [
+      {
+        "titulo": "HISTORY.com Editors, «Lufthansa heist at JFK airport», History (11 de diciembre de 2018; actualizado en 2025)",
+        "url": "https://www.history.com/this-day-in-history/December-11/lufthansa-heist-jfk-airport-goodfellas-henry-hill",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tom Hays y Michael Balsamo (AP), «Aging mobster acquitted in 1978 heist retold in Goodfellas», The Christian Science Monitor (12 de noviembre de 2015)",
+        "url": "https://www.csmonitor.com/USA/Justice/2015/1112/Aging-mobster-acquitted-in-1978-heist-retold-in-Goodfellas",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CBS News y AP, «Aging Mafia mobster Vincent Asaro acquitted in 1978 heist retold in Goodfellas» (12 de noviembre de 2015)",
+        "url": "https://www.cbsnews.com/news/aging-mafia-mobster-vincent-asaro-acquitted-in-1978-heist-retold-in-goodfellas",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Lufthansa heist» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Lufthansa_heist",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Botín: unos 5,875 millones de dólares (Wikipedia) o «unos 6 millones» según el testigo Valenti (AP). Burke nunca fue acusado del robo: se presenta como atribución. MoneyWeek (fuente de la selección) solo mostró el titular y NPR no cargó. Coordenadas generales del aeropuerto."
+  },
+  {
+    "id": "absolucion-marie-besnard",
+    "m": 12,
+    "d": 12,
+    "y": 1961,
+    "n": "Marie Besnard",
+    "a": "La «buena dama» de Loudun",
+    "v": "Ninguna probada (acusada de 11 a 13 envenenamientos; absuelta)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1949–1961",
+    "st": "Absuelta el 12 de diciembre de 1961 por el tribunal de lo criminal de la Gironda, en Burdeos, en su tercer juicio. Murió en Loudun en 1980.",
+    "c": "En julio de 1949, tras la exhumación de su marido Léon, Marie Besnard fue detenida en Loudun acusada de envenenar con arsénico a una docena de familiares y conocidos. Pasó casi cinco años en prisión preventiva. Su primer juicio, en Poitiers en 1952, se suspendió cuando la defensa desmontó los análisis del toxicólogo Georges Béroud; el segundo, en Burdeos en 1954, terminó con su libertad provisional. En el tercero, también en Burdeos, el jurado la absolvió el 12 de diciembre de 1961 por falta de pruebas: los expertos no pudieron descartar que el arsénico procediera de la tierra del cementerio.",
+    "mo": "No se probó ningún crimen. La acusación sostenía que había envenenado con arsénico a sus allegados para heredar; la defensa demostró errores en las muestras y la posible contaminación de los restos exhumados.",
+    "loc": [
+      [
+        47.0103,
+        0.0833,
+        "Loudun, Vienne (domicilio de Marie Besnard y lugar de las muertes)"
+      ],
+      [
+        46.5836,
+        0.3456,
+        "Palacio de Justicia de Poitiers (primer juicio, 1952)"
+      ],
+      [
+        44.836,
+        -0.5786,
+        "Palacio de Justicia de Burdeos (juicios de 1954 y 1961; absolución)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "La absolución de Marie Besnard",
+    "autor": "Ninguno: Marie Besnard fue acusada y absuelta",
+    "fuentes": [
+      {
+        "titulo": "«France: Arsenic & No Case», Time (22 de diciembre de 1961)",
+        "url": "https://time.com/archive/6623300/france-arsenic-no-case",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "France 3 Poitou-Charentes, «L'affaire Marie Besnard» (documental, presentación de France Télévisions, enero de 2017)",
+        "url": "https://www.francetvpro.fr/contenu-de-presse/38591",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "HISTORY.com Editors, «The Queen of Poisoners takes her toll», History",
+        "url": "https://www.history.com/this-day-in-history/may-11/the-queen-of-poisoners-takes-her-toll",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Marie Besnard» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Marie_Besnard",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Absuelta: no se la presenta como envenenadora (History.com la llama así; no se sigue). Número de supuestas víctimas discutido: doce más otras once imputaciones según Wikipedia, 11 en Poitiers y 13 en la acusación inicial según Time, y solo tres en el tercer juicio. La votación de siete contra cinco solo la da Wikipedia. La efeméride es una absolución (tipo «condena» por ser la sentencia). El trabajo de la DUMAS (fuente de la selección) y el artículo de Annales de Toxicologie Analytique no se pudieron abrir."
+  },
+  {
+    "id": "condena-murdoch-falconio",
+    "m": 12,
+    "d": 13,
+    "y": 2005,
+    "n": "Bradley John Murdoch",
+    "a": "El crimen de la Stuart Highway",
+    "v": "1",
+    "p": "Australia",
+    "f": "🇦🇺",
+    "per": "2001",
+    "st": "Condenado el 13 de diciembre de 2005 a cadena perpetua, con un mínimo de 28 años, por el asesinato de Peter Falconio y la agresión y el intento de secuestro de Joanne Lees. Perdió sus recursos en 2007 y murió en prisión en julio de 2025 sin revelar dónde está el cuerpo.",
+    "c": "La noche del 14 de julio de 2001, un hombre hizo parar en la Stuart Highway, cerca de Barrow Creek, en el interior de Australia, la furgoneta en la que viajaban el británico Peter Falconio, de 28 años, y su novia, Joanne Lees. Falconio desapareció y Lees, maniatada, logró huir y esconderse durante horas entre la maleza. El ADN hallado en su camiseta llevó a la detención de Bradley John Murdoch. Tras un juicio de unas ocho semanas, un jurado de Darwin lo declaró culpable el 13 de diciembre de 2005. El cuerpo de Falconio nunca apareció.",
+    "mo": "Hizo detenerse a la pareja de noche en una carretera desierta; según la acusación, disparó a Falconio, ató a Lees con unas esposas caseras e hizo desaparecer el cuerpo.",
+    "loc": [
+      [
+        -21.415,
+        133.88,
+        "Stuart Highway, unos 13 km al norte de Barrow Creek (lugar del ataque)"
+      ],
+      [
+        -12.4634,
+        130.8456,
+        "Darwin (juicio en el Tribunal Supremo del Territorio del Norte)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "La condena por el asesinato de Peter Falconio",
+    "autor": "Bradley John Murdoch (condenado; siempre negó el crimen)",
+    "fuentes": [
+      {
+        "titulo": "RTÉ News, «Murdoch gets life for Falconio murder» (13 de diciembre de 2005)",
+        "url": "https://www.rte.ie/news/2005/1213/70775-falconio",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Man (47) found guilty of British backpacker murder», The Irish Times (13 de diciembre de 2005)",
+        "url": "https://www.irishtimes.com/news/man-47-found-guilty-of-british-backpacker-murder-1.1297335",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "SBS News, «Peter Falconio's family 'denied closure', police say, after killer Bradley Murdoch dies» (16 de julio de 2025)",
+        "url": "https://www.sbs.com.au/news/article/outback-killer-bradley-murdoch-dies-24-years-after-peter-falconios-murder/wemjzd4w6",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "AAP, «Killer's death robs Falconio family of hopes for peace» (julio de 2025)",
+        "url": "https://aapnews.aap.com.au/news/killer-s-death-robs-falconio-family-of-hopes-for-peace",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murder of Peter Falconio» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Peter_Falconio",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La muerte de Murdoch (15 de julio de 2025, hospital de Alice Springs) se comprobó en Wikipedia y en el resumen del buscador de SBS y AAP; esas dos páginas no se abrieron enteras. El periodo mínimo de 28 años se fijó después del veredicto (The Irish Times dice que se fijaría más tarde). Coordenadas del lugar del ataque aproximadas."
+  },
+  {
+    "id": "kaspar-hauser",
+    "m": 12,
+    "d": 14,
+    "y": 1833,
+    "n": "Kaspar Hauser",
+    "a": "El huérfano de Europa",
+    "v": "1",
+    "p": "Alemania",
+    "f": "🇩🇪",
+    "per": "1828–1833",
+    "st": "Sin resolver. Nunca se identificó al agresor y algunos médicos de la época pensaron que la herida pudo ser autoinfligida. Los análisis de ADN de 1996 y 2024 descartaron que fuera un príncipe de Baden.",
+    "c": "En mayo de 1828 apareció en Núremberg un muchacho de unos 16 años, Kaspar Hauser, que apenas sabía hablar y decía haber pasado la vida encerrado en una celda oscura. Su caso atrajo a toda Europa. El 14 de diciembre de 1833, ya instalado en Ansbach, volvió a casa con una puñalada en el pecho y contó que un desconocido lo había citado en el Hofgarten y lo había herido; allí apareció una nota escrita en espejo. Murió el 17 de diciembre. Nadie fue detenido y los forenses no descartaron que se hiriera él mismo. Su origen sigue siendo un enigma.",
+    "mo": "Desconocido. Según Hauser, un hombre lo atrajo al parque con un pretexto y lo apuñaló; se halló una bolsa con una nota en escritura especular firmada con iniciales.",
+    "loc": [
+      [
+        49.304,
+        10.5775,
+        "Hofgarten de Ansbach, junto al monumento a Uz (lugar del ataque; hay un pilar en su memoria)"
+      ],
+      [
+        49.4531,
+        11.0716,
+        "Unschlittplatz, Núremberg (donde apareció en 1828)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El apuñalamiento de Kaspar Hauser",
+    "autor": "Desconocido (no se descarta que la herida fuera autoinfligida)",
+    "fuentes": [
+      {
+        "titulo": "Jutta Olschewski (epd), «Kaspar Hauser – 'Unbekannt seine Herkunft, geheimnisvoll sein Tod'», evangelisch.de (30 de abril de 2012)",
+        "url": "https://www.evangelisch.de/inhalte/1033/30-04-2012/kaspar-hauser-unbekannt-seine-herkunft-geheimnisvoll-sein-tod",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Prinz oder Hochstapler: Wer war Kaspar Hauser?», Stuttgarter Zeitung (2024), sobre el estudio de ADN publicado en iScience",
+        "url": "https://www.stuttgarter-zeitung.de/panorama/neue-studie-zu-historischem-kriminalfall-prinz-oder-hochstapler-wer-war-kasper-hauser-78997029.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«È stato risolto un pezzetto dell'enigma di Kaspar Hauser», Il Post (15 de agosto de 2024)",
+        "url": "https://www.ilpost.it/2024/08/15/kaspar-hauser-analisi-dna-smentito-principe/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "James Brigden, «He's a real wild child: the enigma of Kaspar Hauser», History (Reino Unido)",
+        "url": "https://www.history.co.uk/articles/he-s-a-real-wild-child-the-enigma-of-kaspar-hauser-secret-prince-hoaxer-or-victim",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Kaspar Hauser» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Caso sustituido por indicación del coordinador (antes, el asesinato de Sidónio Pais). History (Reino Unido) fecha mal el ataque («hacia noviembre de 1831»); se sigue a Wikipedia y epd (14 de diciembre, muerte tres días después). Un análisis de pelo de 2002 para la ZDF dio parecido con la casa de Baden, pero nunca se publicó oficialmente. La Britannica (fuente de la selección) no se abrió. Coordenadas del Hofgarten aproximadas."
+  },
+  {
+    "id": "condena-eichmann",
+    "m": 12,
+    "d": 15,
+    "y": 1961,
+    "n": "Adolf Eichmann",
+    "a": "El juicio de Jerusalén",
+    "v": "Más de 1,5 millones de judíos deportados a guetos y campos de exterminio",
+    "p": "Israel",
+    "f": "🇮🇱",
+    "per": "1938–1945 (crímenes); 1961–1962 (juicio)",
+    "st": "Condenado a muerte el 15 de diciembre de 1961. El Tribunal Supremo rechazó su recurso el 29 de mayo de 1962, el presidente Ben-Zvi le negó el indulto y fue ahorcado en la prisión de Ramla en la noche del 31 de mayo al 1 de junio de 1962. Es la única ejecución judicial de la historia de Israel.",
+    "c": "Adolf Eichmann, el oficial de las SS que organizó la deportación de más de un millón y medio de judíos a guetos y campos de exterminio, huyó a Argentina tras la guerra con el nombre de Ricardo Klement. Agentes del Mossad lo capturaron en mayo de 1960 cerca de su casa en las afueras de Buenos Aires y lo llevaron en secreto a Israel. El juicio empezó el 11 de abril de 1961 en Jerusalén y se basó en el testimonio de supervivientes. El 11 y 12 de diciembre el tribunal lo declaró culpable y el 15 de diciembre de 1961 lo condenó a muerte.",
+    "mo": "Dirigió desde la oficina IV B4 de la Seguridad del Reich la organización y el transporte de las deportaciones masivas de judíos durante el Holocausto. En el juicio se presentó como un simple engranaje que cumplía órdenes.",
+    "loc": [
+      [
+        31.781,
+        35.2129,
+        "Beit Ha'am, Jerusalén (sede del juicio)"
+      ],
+      [
+        31.9351,
+        34.8813,
+        "Prisión de Ramla (ejecución)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Eichmann, condenado a muerte en Jerusalén",
+    "autor": "Adolf Eichmann (condenado)",
+    "fuentes": [
+      {
+        "titulo": "United States Holocaust Memorial Museum, Holocaust Encyclopedia, «Eichmann Trial»",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/eichmann-trial",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "AFP, «Evil on trial: 60th anniversary of Eichmann in the dock», The Times of Israel (10 de abril de 2021)",
+        "url": "https://www.timesofisrael.com/evil-on-trial-60th-anniversary-of-eichmann-in-the-dock/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "William H. Burnside, «Eichmann Is Tried for War Crimes», EBSCO Research Starters (2021)",
+        "url": "https://www.ebsco.com/research-starters/history/eichmann-tried-war-crimes",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Eichmann trial» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Eichmann_trial",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El veredicto de culpabilidad se leyó el 11 y 12 de diciembre (AFP lo sitúa el 15, junto con la pena). Ejecución: «noche del 31 de mayo al 1 de junio» (Yad Vashem, según el buscador), «1 de junio» (USHMM) o «31 de mayo a medianoche» (AFP, EBSCO). Captura: el 11 de mayo de 1960 según Wikipedia; USHMM da el 20 de mayo, día del vuelo. La exposición de Yad Vashem (fuente de la selección) dio error 403."
+  },
+  {
+    "id": "asesinato-narutowicz",
+    "m": 12,
+    "d": 16,
+    "y": 1922,
+    "n": "Eligiusz Niewiadomski",
+    "a": "El asesinato del primer presidente de Polonia",
+    "v": "1",
+    "p": "Polonia",
+    "f": "🇵🇱",
+    "per": "1922–1923",
+    "st": "Niewiadomski fue condenado a muerte por el tribunal de distrito de Varsovia el 30 de diciembre de 1922, en un juicio de un solo día, y fusilado en las laderas de la Ciudadela de Varsovia el 31 de enero de 1923.",
+    "c": "Gabriel Narutowicz, ingeniero y profesor en Zúrich, fue elegido primer presidente de la Polonia independiente el 9 de diciembre de 1922 con los votos de la izquierda y de las minorías, entre protestas de la derecha nacionalista. Juró el cargo el día 11. El 16 de diciembre, poco después del mediodía, durante la inauguración de una exposición en la galería Zachęta de Varsovia, el pintor Eligiusz Niewiadomski le disparó tres veces por la espalda y lo mató. El autor se dejó detener allí mismo. Fue condenado a muerte el 30 de diciembre y fusilado en enero de 1923.",
+    "mo": "Tres disparos de pistola por la espalda mientras el presidente contemplaba un cuadro en una sala de la galería. Dijo en el juicio que su primer objetivo había sido Józef Piłsudski.",
+    "loc": [
+      [
+        52.2392,
+        21.0117,
+        "Galería Zachęta, Varsovia (lugar del asesinato)"
+      ],
+      [
+        52.249,
+        21.0137,
+        "Archicatedral de San Juan, Varsovia (sepultura de Narutowicz)"
+      ],
+      [
+        52.265,
+        21,
+        "Ciudadela de Varsovia (fusilamiento de Niewiadomski)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato del presidente Gabriel Narutowicz",
+    "autor": "Eligiusz Niewiadomski (confeso y condenado)",
+    "fuentes": [
+      {
+        "titulo": "Patryk Pleskot, «Niewiadomski: dlaczego zabił prezydenta?», Przystanek Historia, Instituto de la Memoria Nacional (IPN) (16 de diciembre de 2019)",
+        "url": "https://przystanekhistoria.pl/pa2/teksty/34321,Niewiadomski-dlaczego-zabil-prezydenta.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Patryk Pleskot, «Tajemnice zabójstw politycznych w Polsce», dzieje.pl (PAP y Museo de Historia de Polonia, 16 de enero de 2019)",
+        "url": "https://dzieje.pl/node/100349",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Daniel Tilles, «Warsaw mayor bans commemoration of nationalist who assassinated Poland's first president», Notes from Poland (15 de diciembre de 2023)",
+        "url": "https://notesfrompoland.com/?p=61888",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en polaco), «Zamach na Gabriela Narutowicza» (punto de partida; consultada también la versión inglesa)",
+        "url": "https://pl.wikipedia.org/wiki/Zamach_na_Gabriela_Narutowicza",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora del ataque: hacia las 12:12 según Wikipedia en polaco y hacia las 12:15 según dzieje.pl. El arma se describe como pistola Ruby española (Wikipedia) o «Browning» (IPN). Culture.pl (fuente de la selección) dio error 403."
+  },
+  {
+    "id": "detencion-steve-wright",
+    "m": 12,
+    "d": 19,
+    "y": 2006,
+    "n": "Steve Wright",
+    "a": "El estrangulador de Suffolk",
+    "v": "6 (cinco en 2006 y una en 1999)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1999–2006",
+    "st": "Condenado el 21 de febrero de 2008 por los cinco asesinatos de Ipswich y castigado al día siguiente con cadena perpetua sin posibilidad de libertad. En febrero de 2026 se declaró culpable en el Old Bailey de un secuestro y asesinato de 1999 y recibió otra perpetua con un mínimo de 40 años.",
+    "c": "Entre el 2 y el 12 de diciembre de 2006 aparecieron en el campo, alrededor de Ipswich, los cuerpos de cinco mujeres que ejercían la prostitución en la ciudad: Gemma Adams, Tania Nicol, Anneli Alderton, Paula Clennell y Annette Nicholls. Tras detener y dejar en libertad a otro sospechoso, la policía de Suffolk arrestó el 19 de diciembre a Steve Wright, de 48 años; restos de sangre en su coche y otras pruebas de ADN lo relacionaban con las víctimas. Fue acusado de los cinco crímenes dos días después y condenado en 2008. En 2026 confesó otro asesinato de 1999.",
+    "mo": "Recogía en su coche a mujeres de la zona de prostitución de Ipswich, las mataba y abandonaba sus cuerpos en zonas rurales cercanas a la carretera entre Ipswich y Felixstowe.",
+    "loc": [
+      [
+        52.0567,
+        1.1482,
+        "Ipswich (ciudad donde vivían las víctimas y el detenido)"
+      ],
+      [
+        52.008,
+        1.285,
+        "Entorno de la carretera A14 entre Ipswich y Felixstowe (hallazgo de tres de los cuerpos)"
+      ],
+      [
+        51.5155,
+        -0.1019,
+        "Old Bailey, Londres (declaración de culpabilidad de 2026)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "La detención de Steve Wright, el asesino de Ipswich",
+    "autor": "Steve Wright (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Associated Press, «Man held in deaths of women», The Vindicator (22 de diciembre de 2006)",
+        "url": "https://vindyarchives.com/news/2006/dec/22/man-held-in-deaths-of-women",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Voice of America, «Police arrest suspect in British prostitute murders» (18 de diciembre de 2006)",
+        "url": "https://www.voanews.com/a/a-13-2006-12-18-voa23/319359.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Reuters, «Driver on trial over prostitute killings», The New Zealand Herald (14 de enero de 2008)",
+        "url": "https://nzherald.co.nz/world/driver-on-trial-over-prostitute-killings/7EUZTUDGORFU3CREWNRYWKCGOE",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Crown Prosecution Service (East of England), «Serial killer sentenced over 1999 murder and kidnap after advancements in DNA» (6 de febrero de 2026)",
+        "url": "https://www.cps.gov.uk/east-england/news/serial-killer-sentenced-over-1999-murder-and-kidnap-after-advancements-dna",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Steve Wright (serial killer)» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Steve_Wright_(serial_killer)",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. El proceso de 1999 terminó con la sentencia del 6 de febrero de 2026 (CPS). Las fuentes de 2006 hablan de «prostitutas»; se usa una fórmula respetuosa. La detención del 19 de diciembre se deduce de AP («el martes») y de Wikipedia. El Guardian (fuente de la selección), la BBC y The Independent no se pudieron abrir. Coordenadas de la A14 aproximadas."
+  },
+  {
+    "id": "atentado-carrero-blanco",
+    "m": 12,
+    "d": 20,
+    "y": 1973,
+    "n": "Comando Txikia de ETA",
+    "a": "Operación Ogro",
+    "v": "3",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1973",
+    "st": "ETA reivindicó el atentado. Nadie fue juzgado por él: la investigación se archivó al comienzo de la Transición y sus autores se beneficiaron de la amnistía de 1977.",
+    "c": "Hacia las nueve y media de la mañana del 20 de diciembre de 1973, cuando el presidente del Gobierno, el almirante Luis Carrero Blanco, volvía de misa en la iglesia de San Francisco de Borja, estalló una carga explosiva colocada en un túnel excavado bajo la calle Claudio Coello de Madrid. La explosión lanzó su coche oficial por encima de un edificio y lo hizo caer en el patio de una casa de los jesuitas. Murieron Carrero, su conductor, José Luis Pérez Mogena, y su escolta, el inspector Juan Antonio Bueno Fernández. ETA lo reivindicó; nadie llegó a ser juzgado.",
+    "mo": "El comando alquiló un bajo en la calle haciéndose pasar por escultor, excavó un túnel hasta el centro de la calzada y detonó la carga a distancia al paso del coche, en el recorrido diario del almirante.",
+    "loc": [
+      [
+        40.4317,
+        -3.686,
+        "Calle Claudio Coello, 104, Madrid (lugar de la explosión)"
+      ],
+      [
+        40.4316,
+        -3.6868,
+        "Iglesia de San Francisco de Borja, calle Serrano (de donde salía Carrero)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Carrero Blanco (Operación Ogro)",
+    "autor": "ETA, comando Txikia (reivindicado; nunca juzgado)",
+    "fuentes": [
+      {
+        "titulo": "EFE, «Las sombras aún se ciernen sobre la muerte de Carrero 40 años después», Público (20 de diciembre de 2013)",
+        "url": "https://www.publico.es/politica/sombras-ciernen-muerte-carrero-40.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Mikel Segovia, «20-D-1973, el asesinato de Carrero con el que las «simpatías» legitimaron a ETA», El Independiente (23 de mayo de 2021)",
+        "url": "https://www.elindependiente.com/espana/2021/05/23/20-d-1973-el-asesinato-de-carrero-con-el-que-las-simpatias-legitimaron-a-eta/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gaizka Fernández Soldevilla, «El atentado contra Carrero y sus víctimas olvidadas», The Objective (20 de diciembre de 2023)",
+        "url": "https://theobjective.com/elsubjetivo/opinion/2023-12-20/atentado-carrero-victimas-olvidadas/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Operación Ogro» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Ogro",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Explosivo: ocho kilos de goma-2 según EFE y 50 kilos de dinamita según El Independiente; no se da cifra. Hora: 9:27 (El Independiente, Wikipedia) o hacia las 9:30. Composición del comando: Argala, Atxulo y Kiskur según Fernández Soldevilla y Wikipedia; EFE nombra a Ezkerra, Wilson y Argala. La amnistía de 1977 solo la menciona Wikipedia; EFE confirma que nadie fue juzgado. No se pudo abrir El País. Coordenadas del número 104 aproximadas."
+  },
+  {
+    "id": "bonnot-rue-ordener",
+    "m": 12,
+    "d": 21,
+    "y": 1911,
+    "n": "Jules Bonnot",
+    "a": "La banda de Bonnot",
+    "v": "Ninguna en este asalto (un herido grave)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1911–1913",
+    "st": "Bonnot murió en el asedio de Choisy-le-Roi (28 de abril de 1912) y Garnier en el de Nogent-sur-Marne (mayo de 1912). En el juicio de febrero de 1913, cuatro acusados fueron condenados a muerte; Callemin, Soudy y Monier fueron guillotinados el 21 de abril de 1913 y Dieudonné fue indultado.",
+    "c": "Hacia las nueve de la mañana del 21 de diciembre de 1911, en la calle Ordener de París, Octave Garnier disparó dos veces al cobrador de la Société Générale Ernest Caby, Raymond Callemin le arrancó la cartera y ambos huyeron en una limusina Delaunay-Belleville robada que conducía Jules Bonnot. Fue el primer atraco con coche de huida en Francia. El botín fue escaso, sobre todo títulos difíciles de vender, y Caby sobrevivió. La banda, de anarquistas ilegalistas, siguió matando durante meses hasta que la policía acabó con ella en 1912.",
+    "mo": "Atraco motorizado: esperaron al cobrador ante la sucursal bancaria en un coche robado, le dispararon y huyeron a toda velocidad, en una época en que la policía iba a pie o en bicicleta.",
+    "loc": [
+      [
+        48.8925,
+        2.35,
+        "Rue Ordener, París (asalto al cobrador ante la sucursal de la Société Générale)"
+      ],
+      [
+        48.7631,
+        2.4097,
+        "Choisy-le-Roi (asedio y muerte de Bonnot, 1912)"
+      ],
+      [
+        48.8346,
+        2.3436,
+        "Prisión de la Santé, París (ejecuciones de 1913)"
+      ]
+    ],
+    "vin": [
+      [
+        "bomba-vaillant",
+        "r",
+        "Anarquismo violento en París: de la «propaganda por el hecho» de 1893-1894 al ilegalismo de la banda de Bonnot"
+      ]
+    ],
+    "g": [
+      "golpes"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "La banda de Bonnot asalta la Société Générale",
+    "autor": "Jules Bonnot, Octave Garnier y Raymond Callemin",
+    "fuentes": [
+      {
+        "titulo": "Marc Renneville, «La bande à Bonnot», Criminocorpus (25 de febrero de 2016)",
+        "url": "https://criminocorpus.org/fr/outils/affaires-criminelles/la-bande-bonnot/",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "INA, «La bande à Bonnot, gangsters ou anarchistes ?» (20 de abril de 2012; actualizado en 2019)",
+        "url": "https://www.ina.fr/ina-eclaire-actu/la-bande-a-bonnot-gangsters-ou-anarchistes",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Victor Méric, «Les Bandits tragiques» (Simon Kra, 1926), capítulo sobre el asalto de la calle Ordener, trad. de Mitchell Abidor",
+        "url": "https://theanarchistlibrary.org/library/victor-meric-the-bonnot-gang-s-first-crime",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Excelsior, portada del 22 de diciembre de 1911 (Gallica, BnF)",
+        "url": "https://gallica.bnf.fr/ark:/12148/bpt6k4601362p/f1.image.zoom",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Bande à Bonnot» (punto de partida; consultada también la versión inglesa «Ordener attack»)",
+        "url": "https://fr.wikipedia.org/wiki/Bande_%C3%A0_Bonnot",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Se sustituye la web divulgativa de la selección por Criminocorpus, el INA y la crónica de Méric. El Excelsior de Gallica no se pudo abrir (403); se cita porque lo referencia Wikipedia. Número de la calle: 146 (Renneville, Méric), 148 o 158 según otras fuentes. Quién disparó: Garnier según Renneville y Anne Steiner; Callemin se lo atribuyó en sus memorias. Caby reconoció también a Dieudonné, cuya participación se discute. Coordenadas de la calle Ordener aproximadas."
+  },
+  {
+    "id": "condena-dreyfus",
+    "m": 12,
+    "d": 22,
+    "y": 1894,
+    "n": "Alfred Dreyfus",
+    "a": "El caso Dreyfus",
+    "v": "Ninguna (condena injusta)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1894–1906",
+    "st": "Inocente. El Tribunal de Casación anuló las condenas el 12 de julio de 1906 y Dreyfus fue readmitido en el ejército. El verdadero autor del espionaje era el comandante Esterhazy, absuelto por un tribunal militar en 1898.",
+    "c": "El 22 de diciembre de 1894, tras un juicio a puerta cerrada en la calle del Cherche-Midi de París, un consejo de guerra condenó por unanimidad al capitán Alfred Dreyfus, oficial judío de origen alsaciano, a deportación perpetua y degradación por entregar secretos militares a Alemania. La única prueba era una nota manuscrita, y los jueces recibieron en secreto un expediente que la defensa nunca vio. Fue degradado en la Escuela Militar y enviado a la isla del Diablo. El «Yo acuso» de Zola (1898) convirtió el caso en una crisis nacional; Dreyfus fue indultado en 1899 y rehabilitado en 1906.",
+    "mo": "Error judicial: una nota anónima atribuida a Dreyfus por su letra, un expediente secreto con documentos falsos entregado al tribunal sin conocimiento de la defensa y un clima de antisemitismo.",
+    "loc": [
+      [
+        48.8494,
+        2.325,
+        "Calle del Cherche-Midi, París (consejo de guerra de 1894)"
+      ],
+      [
+        48.851,
+        2.3045,
+        "Escuela Militar, París (degradación del 5 de enero de 1895)"
+      ],
+      [
+        5.2944,
+        -52.5831,
+        "Isla del Diablo, Guayana Francesa (deportación, 1895-1899)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "La condena del capitán Dreyfus",
+    "autor": "Ninguno: Dreyfus fue condenado injustamente; el espía era el comandante Ferdinand Walsin Esterhazy",
+    "fuentes": [
+      {
+        "titulo": "Assemblée nationale, «1894-1906: L'affaire Dreyfus» (Historia y patrimonio)",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/l-affaire-dreyfus",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Marina Bellot, «1894: le capitaine Dreyfus condamné au bagne à perpétuité», RetroNews (BnF) (21 de diciembre de 2017)",
+        "url": "https://www.retronews.fr/justice/echo-de-presse/2017/12/21/1894-le-capitaine-dreyfus-condamne-au-bagne-perpetuite",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Musée du Barreau de Paris, «Le procès Dreyfus»",
+        "url": "https://www.museedubarreaudeparis.com/le-proces-dreyfus/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Affaire Dreyfus» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Affaire_Dreyfus",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha confirmada con la Asamblea Nacional, RetroNews y el Museo del Colegio de Abogados de París. La Jewish Virtual Library (fuente de la selección) se abrió vacía. Coordenadas de la calle del Cherche-Midi aproximadas (antiguo edificio de los consejos de guerra)."
+  },
+  {
+    "id": "sophie-toscan-du-plantier",
+    "m": 12,
+    "d": 23,
+    "y": 1996,
+    "n": "Sophie Toscan du Plantier",
+    "a": "El crimen de West Cork",
+    "v": "1",
+    "p": "Irlanda",
+    "f": "🇮🇪",
+    "per": "1996",
+    "st": "Sin resolver en Irlanda, donde nadie ha sido acusado. Un tribunal de París condenó en rebeldía a Ian Bailey en 2019 a 25 años, pero la justicia irlandesa rechazó entregarlo; murió en 2024 negando el crimen. La Garda mantiene abierta la investigación y anunció una revisión completa en 2022.",
+    "c": "La mañana del 23 de diciembre de 1996 apareció muerta, con graves heridas en la cabeza, a la entrada de su casa de vacaciones de Dreenane, cerca de Toormore, en West Cork, la productora francesa de televisión Sophie Toscan du Plantier, de 39 años. El periodista británico Ian Bailey, vecino de la zona, fue detenido dos veces como sospechoso, pero la fiscalía irlandesa nunca lo acusó y la investigación de la Garda fue criticada por sus errores. En 2019 un tribunal de París lo condenó en rebeldía; Irlanda rechazó extraditarlo en 2020. Bailey siempre negó el crimen.",
+    "mo": "Desconocido. La víctima murió a golpes junto a la casa, de noche; nadie ha sido condenado en Irlanda.",
+    "loc": [
+      [
+        51.514,
+        -9.638,
+        "Dreenane, cerca de Toormore, West Cork (casa de vacaciones y hallazgo)"
+      ],
+      [
+        48.8556,
+        2.3449,
+        "Palacio de Justicia de París (juicio en rebeldía, 2019)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "El asesinato de Sophie Toscan du Plantier",
+    "autor": "Desconocido según la justicia irlandesa; Ian Bailey fue condenado en rebeldía en Francia (2019) y siempre lo negó",
+    "fuentes": [
+      {
+        "titulo": "Amy Blaney, «Gardaí launch full review of Sophie Toscan du Plantier murder case», Echo Live (29 de junio de 2022)",
+        "url": "https://www.echolive.ie/nationalnews/arid-40906979.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Emma Connolly y Brian Moore, «New review into murder of Sophie», The Southern Star (4 de julio de 2022)",
+        "url": "https://southernstar.ie/news/new-review-into-murder-of-sophie-4245184",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Lara Marlowe, «A brutal death in black and white», The Irish Times (10 de mayo de 2008)",
+        "url": "https://www.irishtimes.com/news/a-brutal-death-in-black-and-white-1.922863",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Irish court rejects extradition of Ian Bailey to France over murder of Sophie Toscan du Plantier», The Irish Post (12 de octubre de 2020)",
+        "url": "https://www.irishpost.com/news/irish-court-rejects-extradition-of-ian-bailey-to-france-over-murder-of-sophie-toscan-du-plantier-195183",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Ian Bailey dies in Bantry aged 66», The Southern Star (enero de 2024)",
+        "url": "https://southernstar.ie/news/ian-bailey-dies-in-bantry-aged-66-4282137",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murder of Sophie Toscan du Plantier» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Sophie_Toscan_du_Plantier",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Presunción de inocencia: Bailey nunca fue acusado en Irlanda. La Garda dice que la investigación sigue «activa» (2022); no hay proceso judicial abierto y el principal sospechoso murió en 2024, por lo que se mantiene el caso. Fecha: el hallazgo fue el 23 de diciembre según Echo Live y Southern Star; Wikipedia sitúa el crimen en la noche del 23 y The Irish Times (2008) cita el día 24 en la descripción del forense: conviene revisarlo. La muerte de Bailey (21 de enero de 2024) se comprobó en Wikipedia y en los titulares del buscador (Southern Star, Echo Live, Irish Times), sin abrir las páginas. Coordenadas de Dreenane aproximadas."
+  },
+  {
+    "id": "robo-piedra-de-scone",
+    "m": 12,
+    "d": 25,
+    "y": 1950,
+    "n": "Ian Hamilton",
+    "a": "El robo de la Piedra del Destino",
+    "v": "Ninguna (robo de un símbolo)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1950–1951",
+    "st": "Nadie fue procesado: el Gobierno británico decidió que no era de interés público llevar a juicio a los estudiantes. La piedra volvió a Westminster y en 1996 fue trasladada al castillo de Edimburgo.",
+    "c": "En la madrugada del día de Navidad de 1950, cuatro estudiantes de la Universidad de Glasgow partidarios de la autonomía escocesa, Ian Hamilton, Gavin Vernon, Kay Matheson y Alan Stuart, entraron en la abadía de Westminster y sacaron de debajo del trono de la coronación la Piedra de Scone, sobre la que se coronaba a los reyes escoceses. Al arrastrarla se partió en dos. Escondieron los trozos en Inglaterra, la llevaron a Escocia y un cantero de Glasgow la reparó. El 11 de abril de 1951 apareció en el altar de la abadía de Arbroath, cubierta con una bandera escocesa. Ninguno fue juzgado.",
+    "mo": "Entraron de noche en la abadía, desmontaron la piedra del trono y la sacaron a rastras hasta un coche; ocultaron los dos fragmentos en Kent y en las Midlands antes de llevarlos a Escocia.",
+    "loc": [
+      [
+        51.4994,
+        -0.1273,
+        "Abadía de Westminster, Londres (robo)"
+      ],
+      [
+        56.5622,
+        -2.5823,
+        "Abadía de Arbroath (donde apareció la piedra, 11 de abril de 1951)"
+      ],
+      [
+        55.9486,
+        -3.1999,
+        "Castillo de Edimburgo (donde se guarda desde 1996)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo de la Piedra de Scone",
+    "autor": "Ian Hamilton, Gavin Vernon, Kay Matheson y Alan Stuart (nunca procesados)",
+    "fuentes": [
+      {
+        "titulo": "Historic Environment Scotland, «20 facts revealed about the Stone of Destiny»",
+        "url": "https://www.historicenvironment.scot/about-us/news/20-facts-revealed-about-the-stone-of-destiny/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Judy Vickers, «The Christmas theft of the Stone of Destiny», The Scottish Banner (21 de diciembre de 2025)",
+        "url": "https://www.scottishbanner.com/2025/12/21/the-christmas-theft-of-the-stone-of-destiny/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Melissa Hobson, «A small number of Scottish families own lost fragments of the Stone of Destiny—how?», National Geographic (23 de abril de 2026)",
+        "url": "https://www.nationalgeographic.com/history/article/stone-of-destiny-fragments",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Removal of the Stone of Scone in 1950» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Removal_of_the_Stone_of_Scone_in_1950",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Historic Environment Scotland habla de «tres estudiantes» y de que se rompió «una esquina»; las demás fuentes dan cuatro y una rotura en dos piezas. Ocurrió de madrugada, en la noche del 24 al 25. El obituario del Telegraph (fuente de la selección) no se pudo abrir."
+  },
+  {
+    "id": "asesinato-dian-fossey",
+    "m": 12,
+    "d": 26,
+    "y": 1985,
+    "n": "Dian Fossey",
+    "a": "La muerte de la mujer de los gorilas",
+    "v": "1",
+    "p": "Ruanda",
+    "f": "🇷🇼",
+    "per": "1985",
+    "st": "Sin culpable aceptado. Un tribunal ruandés de Ruhengeri condenó a muerte en rebeldía a su ayudante estadounidense Wayne McGuire, que había salido del país, siempre negó el crimen y nunca fue entregado. Un rastreador ruandés acusado como cómplice murió en prisión antes del juicio.",
+    "c": "La primatóloga estadounidense Dian Fossey, que estudiaba desde 1967 a los gorilas de montaña en el centro de investigación Karisoke, en los volcanes Virunga, y combatía a los cazadores furtivos, fue asesinada a machetazos en su cabaña la noche del 26 de diciembre de 1985; su cuerpo se encontró la mañana del 27. Las autoridades ruandesas acusaron a su ayudante Wayne McGuire, que regresó a Estados Unidos en julio de 1986 y fue condenado a muerte en rebeldía. Él sostuvo que era un chivo expiatorio, y muchos creen que la mataron por su lucha contra los furtivos.",
+    "mo": "Ataque nocturno a machetazos dentro de su cabaña, en el extremo del campamento.",
+    "loc": [
+      [
+        -1.4736,
+        29.4854,
+        "Centro de investigación Karisoke, Parque Nacional de los Volcanes (cabaña y sepultura)"
+      ],
+      [
+        -1.4997,
+        29.635,
+        "Ruhengeri (hoy Musanze), sede del tribunal que juzgó el caso"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Dian Fossey",
+    "autor": "Desconocido (Wayne McGuire fue condenado en rebeldía en Ruanda y siempre lo negó)",
+    "fuentes": [
+      {
+        "titulo": "William E. Smith, «Rwanda: Case of the Gorilla Lady Murder», Time (1 de septiembre de 1986)",
+        "url": "https://time.com/archive/6707022/rwanda-case-of-the-gorilla-lady-murder/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "UPI, «American convicted of killing African researcher» (19 de diciembre de 1986)",
+        "url": "https://www.upi.com/Archives/1986/12/19/American-convicted-of-killing-African-researcher/8497535352400/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Julie Klein (Scripps Howard), «Fossey's death needs probing, accused man says», Deseret News (17 de noviembre de 1988)",
+        "url": "https://www.deseret.com/1988/11/17/18784619/fossey-s-death-needs-probing-accused-man-says",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Dian Fossey» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Dian_Fossey",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha: el crimen fue la noche del 26 y el cuerpo se halló la mañana del 27 (Time, Deseret). Condena de McGuire: diciembre de 1986 y muerte en la horca según UPI (solo leído en el extracto del buscador); 1987 y fusilamiento según Scripps Howard (1988). Presunción de inocencia: no se le presenta como autor. No se nombra a otros sospechosos sin condena. No se pudieron abrir Los Angeles Times (fuente de la selección), The New York Times ni Vanity Fair."
+  },
+  {
+    "id": "asesinato-daniella-perez",
+    "m": 12,
+    "d": 28,
+    "y": 1992,
+    "n": "Guilherme de Pádua",
+    "a": "El crimen de la telenovela",
+    "v": "1",
+    "p": "Brasil",
+    "f": "🇧🇷",
+    "per": "1992",
+    "st": "Guilherme de Pádua y Paula Thomaz fueron condenados en 1997 por homicidio cualificado a unos 19 años y a 18 años y medio. Salieron en 1999 tras cumplir cerca de un tercio de la pena. Pádua murió en Belo Horizonte el 6 de noviembre de 2022.",
+    "c": "El 28 de diciembre de 1992, al salir de una grabación, la actriz Daniella Perez, de 22 años, hija de la guionista Glória Perez, fue asesinada a puñaladas en un descampado de Barra da Tijuca, en Río de Janeiro. Los autores eran Guilherme de Pádua, su compañero de reparto en la telenovela «De Corpo e Alma», y la esposa de este, Paula Thomaz. Pádua confesó horas después. En 1997 ambos fueron condenados por homicidio cualificado. La campaña de Glória Perez, con más de un millón de firmas, llevó a incluir el homicidio cualificado entre los crímenes atroces en 1994.",
+    "mo": "Pádua cortó el paso al coche de la actriz, la obligó a subir al suyo y la llevó a un descampado, donde ambos la apuñalaron; habían tapado la matrícula para no ser identificados.",
+    "loc": [
+      [
+        -23.0004,
+        -43.3659,
+        "Barra da Tijuca, Río de Janeiro (lugar del crimen)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Daniella Perez",
+    "autor": "Guilherme de Pádua y Paula Thomaz (condenados)",
+    "fuentes": [
+      {
+        "titulo": "CNN Brasil, «Daniella Perez: assassinato de atriz completa 33 anos; relembre o caso» (28 de diciembre de 2025)",
+        "url": "https://www.cnnbrasil.com.br/pop/daniella-perez-assassinato-de-atriz-completa-33-anos-relembre-o-caso/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gonçalo Correia, «Morreu Guilherme de Pádua, antigo ator que assassinou a atriz Daniella Perez», Observador (7 de noviembre de 2022)",
+        "url": "https://observador.pt/2022/11/07/morreu-guilherme-de-padua-antigo-ator-que-assassinou-a-atriz-daniella-perez/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Junio Silva y Júlia Portela, «Morre Guilherme de Pádua, assassino de Daniella Perez, aos 53 anos», Metrópoles (6 de noviembre de 2022)",
+        "url": "https://www.metropoles.com/entretenimento/morre-guilherme-de-padua-assassino-de-daniella-perez-aos-53-anos",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en portugués), «Assassinato de Daniella Perez» (punto de partida; consultada por sus referencias)",
+        "url": "https://pt.wikipedia.org/wiki/Assassinato_de_Daniella_Perez",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Penas discrepantes para Pádua: 19 años (CNN Brasil), 19 años y medio (Observador) o 20 (Metrópoles); 18 años y medio para Thomaz (CNN Brasil). CNN Brasil sitúa por error la muerte de Pádua en 2023. La Ley 8.930/1994 solo se comprobó en Wikipedia y en extractos de Jusbrasil (403); Planalto bloqueó el acceso. O Globo (fuente de la selección) no se pudo abrir. Familia muy presente en los medios: se evita cualquier detalle morboso. Brasil se incluye en el grupo «hispanoamerica» por su región en la selección. Coordenadas de Barra da Tijuca generales."
+  },
+  {
+    "id": "masacre-de-floresta",
+    "m": 12,
+    "d": 29,
+    "y": 2001,
+    "n": "Juan de Dios Velaztiqui",
+    "a": "La masacre de Floresta",
+    "v": "3",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "2001",
+    "st": "Condenado a prisión perpetua el 10 de marzo de 2003 por el Tribunal Oral en lo Criminal 13 por triple homicidio con alevosía; la Cámara de Casación confirmó la pena en junio de 2003. Murió el 24 de julio de 2020.",
+    "c": "En la madrugada del 29 de diciembre de 2001, días después del estallido social que derribó al Gobierno de De la Rúa, cuatro jóvenes veían la televisión en el minimercado de una gasolinera de Gaona y Bahía Blanca, en el barrio porteño de Floresta. Tras un comentario de uno de ellos sobre la policía, el suboficial de la Policía Federal Juan de Dios Velaztiqui, de 61 años, que custodiaba el lugar, mató a tiros a Maximiliano Tasca, Cristian Gómez y Adrián Matassa; el cuarto escapó. Intentó simular un asalto colocando un cuchillo. En 2003 fue condenado a perpetua.",
+    "mo": "Disparos a quemarropa contra jóvenes desarmados; después movió los cuerpos, dejó un cuchillo junto a uno de ellos y llamó a la comisaría para fingir un enfrentamiento con ladrones.",
+    "loc": [
+      [
+        -34.6227,
+        -58.4797,
+        "Gasolinera de Gaona y Bahía Blanca, Floresta, Buenos Aires (lugar de los hechos; hoy señalización de memoria)"
+      ],
+      [
+        -34.6235,
+        -58.4705,
+        "Hospital Álvarez, Buenos Aires (donde murió Adrián Matassa)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La masacre de Floresta",
+    "autor": "Juan de Dios Velaztiqui, suboficial de la Policía Federal Argentina (condenado)",
+    "fuentes": [
+      {
+        "titulo": "«Confirman la sentencia contra el autor de la masacre de Floresta», La Nación (19 de junio de 2003)",
+        "url": "https://www.lanacion.com.ar/sociedad/confirman-la-sentencia-contra-el-autor-de-la-masacre-de-floresta-nid504985/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Daniel Cecchini, «La Masacre de Floresta: los tres jóvenes asesinados por un policía que fueron las últimas víctimas del sangriento diciembre de 2001», Infobae (28 de diciembre de 2024)",
+        "url": "https://www.infobae.com/sociedad/2024/12/29/la-masacre-de-floresta-los-tres-jovenes-asesinados-por-un-policia-que-fueron-las-ultimas-victimas-del-sangriento-diciembre-de-2001/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Gobierno de Argentina, «Se inauguró una señalización en memoria de las víctimas de la Masacre de Floresta» (29 de diciembre de 2021)",
+        "url": "https://www.argentina.gob.ar/noticias/se-inauguro-una-senalizacion-en-memoria-de-las-victimas-de-la-masacre-de-floresta",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Masacre de Floresta» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Masacre_de_Floresta",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hora: hacia las 4:10 según Wikipedia; las demás fuentes dicen solo «madrugada». Edades: Tasca y Gómez, 25; Matassa, 23 (La Nación, Gobierno). La muerte de Velaztiqui (24 de julio de 2020) solo la da la nota del Gobierno. Clarín (fuente de la selección) no se pudo abrir. Coordenadas aproximadas."
+  },
+  {
+    "id": "incendio-dupont-plaza",
+    "m": 12,
+    "d": 31,
+    "y": 1986,
+    "n": "Héctor Escudero Aponte",
+    "a": "El incendio de Nochevieja en San Juan",
+    "v": "97 muertos y unos 140 heridos",
+    "p": "Puerto Rico",
+    "f": "🇵🇷",
+    "per": "1986",
+    "st": "Los tres autores se declararon culpables. En 1987 un tribunal federal condenó a Escudero Aponte y a José Francisco Rivera López a 99 años y a Armando Jiménez Rivera a 75; los dos últimos recibieron además 96 cadenas perpetuas en un tribunal de Puerto Rico. Las demandas civiles se cerraron con indemnizaciones de más de 200 millones de dólares.",
+    "c": "La tarde del 31 de diciembre de 1986, minutos después de que el sindicato de empleados del hotel Dupont Plaza, en el Condado de San Juan, votara ir a la huelga, tres trabajadores prendieron fuego con combustible de cocina a muebles nuevos almacenados junto al salón de baile. El humo tóxico llegó en pocos minutos al casino, lleno de clientes, que encontraron puertas de emergencia cerradas. Murieron 97 personas, la mayoría por asfixia, y unas 140 resultaron heridas. Los tres autores, Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera, se declararon culpables y fueron condenados a largas penas.",
+    "mo": "Incendio provocado en plena disputa laboral para asustar a los clientes: rociaron con combustible muebles envueltos en plástico en un almacén junto al salón de baile.",
+    "loc": [
+      [
+        18.4582,
+        -66.0746,
+        "Antiguo hotel Dupont Plaza (hoy San Juan Marriott), Condado, San Juan"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El incendio del hotel Dupont Plaza",
+    "autor": "Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera (condenados)",
+    "fuentes": [
+      {
+        "titulo": "Ian Simpson (UPI), «One year after flames raged through the Dupont Plaza...» (30 de diciembre de 1987)",
+        "url": "https://www.upi.com/Archives/1987/12/30/One-year-after-flames-raged-through-the-Dupont-Plaza/2659567838800/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Joseph Dewey, «Dupont Plaza Hotel fire», EBSCO Research Starters (2019)",
+        "url": "https://www.ebsco.com/research-starters/law/dupont-plaza-hotel-fire/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "NotiCel, «Memoria Viva: el catastrófico incendio del Hotel Dupont Plaza» (19 de mayo de 2019)",
+        "url": "https://noticel.com/en/vida-y-bienestar/20190519/memoria-viva-el-catastrofico-incendio-del-hotel-dupont-plaza/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Three sentenced in San Juan hotel fire that killed 97», The Washington Post (23 de junio de 1987)",
+        "url": "https://www.washingtonpost.com/archive/politics/1987/06/23/three-sentenced-in-san-juan-hotel-fire-that-killed-97/ccdcf3af-f847-4551-ae87-b4f57cd57354/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Dupont Plaza Hotel arson» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Cifra de muertos: 97 (UPI, EBSCO, The Washington Post) frente a 96 o 98 en otras fuentes. Hora: hacia las 15:15 (UPI) o las 15:30 (EBSCO, Wikipedia); NotiCel dice las 14:00. Wikipedia atribuye 75 años a Jiménez y 99 a Escudero y Rivera, como UPI. The Washington Post solo se leyó en el titular (403). El Chicago Tribune (fuente de la selección) no se pudo abrir."
+  }
+]

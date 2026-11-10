@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "atraco-gijon-1923",
+    "m": 9,
+    "d": 1,
+    "y": 1923,
+    "n": "Buenaventura Durruti",
+    "a": "El atraco de Los Solidarios",
+    "v": "Ninguna (robo; un herido)",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1923",
+    "st": "Hechos históricos sin causa pendiente. Eusebio Brau murió en la persecución y Francisco Torres Escartín fue detenido; Durruti escapó y se exilió en Francia.",
+    "c": "Hacia las nueve de la mañana del 1 de septiembre de 1923, un grupo armado de Los Solidarios, el grupo anarquista de Buenaventura Durruti, Francisco Ascaso y Juan García Oliver, asaltó la sucursal del Banco de España en Gijón. Hirieron en el cuello al director, Luis Azcárate, y huyeron en coche con más de medio millón de pesetas, destinadas a comprar armas en Éibar. El 3 de septiembre la Guardia Civil cercó su refugio en el monte: Eusebio Brau murió, Francisco Torres Escartín fue detenido y Durruti logró escapar a Francia.",
+    "mo": "Asalto a mano armada a la sucursal bancaria nada más abrir, con un conductor esperando fuera y un vigía en la puerta; el botín iba a financiar la compra de armas.",
+    "loc": [
+      [
+        43.5449,
+        -5.6627,
+        "Gijón (sucursal del Banco de España asaltada)"
+      ],
+      [
+        43.4545,
+        -5.8507,
+        "Llanera (estación de tren hacia la que huyeron los atracadores)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "Atraco de Los Solidarios al Banco de España de Gijón",
+    "autor": "Los Solidarios (Buenaventura Durruti, Francisco Torres Escartín, Eusebio Brau, Gregorio Suberviela, Aurelio Fernández y Miguel García Vivancos, según Abel Paz)",
+    "fuentes": [
+      {
+        "titulo": "Abel Paz, «Durruti in the Spanish Revolution», parte 1, capítulo 9: «The Primo de Rivera Dictatorship» (AK Press, 2006)",
+        "url": "https://revoltlib.com/anarchism/durruti-in-the-spanish-revolution-paz-abel/part-1-chapter-9-primo-de-rivera-dictatorship/view.php",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Abel Paz, «Durruti in the Spanish Revolution» (AK Press, 2006; edición completa en PDF)",
+        "url": "https://files.libcom.org/files/Paz%20-%20Durruti%20in%20the%20Spanish%20Revolution.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Osvaldo Bayer, «The Anarchist Expropriators: Buenaventura Durruti and Argentina's Working-Class Robin Hoods» (AK Press, 2015)",
+        "url": "https://theanarchistlibrary.org/library/osvaldo-bayer-the-anarchist-expropriators.lt.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Hans Magnus Enzensberger, «El corto verano de la anarquía. Vida y muerte de Durruti» (Grijalbo, 1977)",
+        "url": "https://es.anarchistlibraries.net/library/hans-magnus-enzensberger-el-corto-verano-de-la-anarquia-vida-y-muerte-de-durruti.lt.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Verónica Viñas, «Las infinitas vidas y muertes de Durruti», Diario de León (5 de julio de 2021)",
+        "url": "https://www.diariodeleon.es/cultura/210705/1215808/infinitas-vidas-muertes-durruti.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Público, «Durruti, más de cien años de anarquismo y rebeldía» (14 de julio de 2018)",
+        "url": "https://www.publico.es/sociedad/durruti-cien-anos-anarquismo-rebeldia.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Los Solidarios» (punto de partida; consultada por sus referencias a Bookchin, Paz y Christie)",
+        "url": "https://en.wikipedia.org/wiki/Los_Solidarios",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El botín no coincide: 573.000 pesetas según El Imparcial de la época, 650.000 según Abel Paz (y el propio grupo), 675.000 según Diario de León, «más de 700.000» según el ministro de la Gobernación y 850.000 según la Wikipedia en castellano; se deja «más de medio millón». Un artículo de opinión de Público sitúa el atraco en 1922, pero Paz cita la crónica fechada en «Gijón, 1 de septiembre» y el contexto es 1923. No se ha localizado la dirección exacta de la sucursal en 1923: el punto es el centro de Gijón."
+  },
+  {
+    "id": "masacre-rock-springs",
+    "m": 9,
+    "d": 2,
+    "y": 1885,
+    "n": "Turba de mineros blancos de Rock Springs",
+    "a": "La masacre de Rock Springs",
+    "v": "28 (al menos)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1885",
+    "st": "Nadie fue juzgado. Los dieciséis detenidos quedaron libres porque el gran jurado del condado de Sweetwater se negó a acusarlos.",
+    "c": "El 2 de septiembre de 1885, tras una pelea en la mina número 6 de la Union Pacific, en el territorio de Wyoming, entre cien y ciento cincuenta mineros blancos armados, muchos de ellos de los Caballeros del Trabajo, atacaron el barrio chino de Rock Springs. Mataron al menos a 28 mineros chinos, hirieron a 15 y saquearon e incendiaron sus casas. Las tropas federales llegaron el día 5 y escoltaron el regreso de los supervivientes. Dieciséis hombres fueron detenidos, pero el gran jurado no acusó a ninguno; el Congreso pagó después una indemnización a China.",
+    "mo": "Ataque en grupo contra un barrio de inmigrantes chinos, a los que se disparó en la calle y en las minas, con saqueo e incendio de sus viviendas.",
+    "loc": [
+      [
+        41.5861,
+        -109.2195,
+        "Rock Springs, Wyoming (barrio chino atacado e incendiado)"
+      ],
+      [
+        41.2682,
+        -110.9638,
+        "Evanston, Wyoming (adonde huyeron muchos supervivientes)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Masacre de Rock Springs (Wyoming)",
+    "autor": "Turba de mineros blancos, en su mayoría inmigrantes europeos de los Caballeros del Trabajo",
+    "fuentes": [
+      {
+        "titulo": "Tom Rea, «The Rock Springs Massacre», WyoHistory.org, Wyoming State Historical Society (8 de noviembre de 2014)",
+        "url": "https://www.wyohistory.org/encyclopedia/rock-springs-massacre",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The New York Times, «Mob Law in Wyoming» (19 de septiembre de 1885)",
+        "url": "https://www.nytimes.com/1885/09/19/archives/mob-law-in-wyoming.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «The Rock Springs Massacre» (27 de septiembre de 1885)",
+        "url": "https://www.nytimes.com/1885/09/27/archives/the-rock-springs-massacre.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Anti-Chinese Sentiment: The Rock Springs Rioters Released» (8 de octubre de 1885)",
+        "url": "https://www.nytimes.com/1885/10/08/archives/antichinese-sentiment-the-rock-springs-rioters-released-from.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "History Matters (George Mason University), «Rock Springs Is Killed»: memorial de los trabajadores chinos al cónsul de China (1885)",
+        "url": "https://historymatters.gmu.edu/d/5042",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Alexander Saxton, «The Indispensable Enemy: Labor and the Anti-Chinese Movement in California» (University of California Press, 1971)",
+        "url": "https://books.google.com/books?id=H_nWDV0HS2YC&pg=PA202",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Rock Springs massacre» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Rock_Springs_massacre",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La cifra de 28 muertos es la confirmada; algunas fuentes hablan de 40 o 50. La indemnización del Congreso (147.748,74 dólares) se presentó como un gesto de buena voluntad, no como reconocimiento de responsabilidad."
+  },
+  {
+    "id": "robo-museo-montreal",
+    "m": 9,
+    "d": 4,
+    "y": 1972,
+    "n": "Museo de Bellas Artes de Montreal",
+    "a": "El «Skylight Caper»",
+    "v": "Ninguna (robo)",
+    "p": "Canadá",
+    "f": "🇨🇦",
+    "per": "1972",
+    "st": "Sin resolver. Nadie ha sido detenido ni acusado, y las recompensas ofrecidas por las aseguradoras y la policía de Montreal nunca se han cobrado.",
+    "c": "En la madrugada del 4 de septiembre de 1972, tres hombres armados entraron en el Museo de Bellas Artes de Montreal por una claraboya cuya alarma estaba desconectada por unas obras en el tejado. Redujeron a los vigilantes y se llevaron 18 cuadros, entre ellos un paisaje de Rembrandt y obras de Delacroix, Corot y Gainsborough, además de joyas y figuras, valorados entonces en unos 2 millones de dólares. Las negociaciones de rescate fracasaron y solo se recuperaron dos piezas. Es el mayor robo de arte de la historia de Canadá y los autores nunca han sido identificados.",
+    "mo": "Entrada nocturna por el tejado aprovechando una alarma desconectada; los vigilantes fueron maniatados a punta de pistola y el botín se negoció después como rescate.",
+    "loc": [
+      [
+        45.4987,
+        -73.5794,
+        "Museo de Bellas Artes de Montreal, calle Sherbrooke Oeste (robo)"
+      ],
+      [
+        45.4998,
+        -73.5662,
+        "Estación Central de Montreal (consigna donde apareció uno de los dos cuadros recuperados)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "Robo del Museo de Bellas Artes de Montreal («Skylight Caper»)",
+    "autor": "Desconocido (tres hombres armados nunca identificados)",
+    "fuentes": [
+      {
+        "titulo": "Taylor C. Noakes, «Skylight Caper (1972 Montreal Art Heist)», The Canadian Encyclopedia (7 de febrero de 2022)",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/skylight-caper-1972-montreal-art-heist",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Reuters, «Canada Presses Search for Art; Interpol Asked to Assist», The New York Times (6 de septiembre de 1972)",
+        "url": "https://www.nytimes.com/1972/09/06/archives/canada-presses-search-for-art-interpol-asked-to-assist-in-finding.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Taylor C. Noakes, «50 years after major Montreal art theft, trail has gone cold and nobody's talking», CBC News (6 de septiembre de 2022)",
+        "url": "https://www.cbc.ca/news/canada/montreal/trail-cold-50-years-montreal-art-theft-1.6573423",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Chris Hampton, «The Skylight Caper», Canadian Art (7 de octubre de 2019)",
+        "url": "https://canadianart.ca/features/the-skylight-caper/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Anthony M. Amore, «Why Isn't Anyone Searching for Montreal's Stolen Masterpieces?», Observer (12 de octubre de 2017)",
+        "url": "https://observer.com/2017/10/after-45-years-no-efforts-to-find-montreal-musem-of-fine-arts-stolen-masterpieces/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Catherine Sezgin, «The Skylight Caper: The Unsolved 1972 Theft of the Montreal Museum of Fine Arts», The Journal of Art Crime (otoño de 2010)",
+        "url": "http://www.artcrimeresearch.org/wp-content/uploads/2012/09/JAC-Fall-2010-eVersion-Final.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «1972 Montreal Museum of Fine Arts robbery» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/1972_Montreal_Museum_of_Fine_Arts_robbery",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las piezas pequeñas robadas son 38 o 39 según la fuente, y el valor estimado varía (2 millones de dólares en 1972 según la Canadian Encyclopedia; la policía calculó al principio unos 5 millones). Las fuentes no coinciden en qué cuadro de Brueghel (o de su círculo) se recuperó. El artículo de CBC no se pudo abrir (error 403); se cita a partir de Wikipedia. Las coordenadas de la Estación Central son aproximadas."
+  },
+  {
+    "id": "secuestro-schleyer",
+    "m": 9,
+    "d": 5,
+    "y": 1977,
+    "n": "Comando Siegfried Hausner (RAF)",
+    "a": "El secuestro de Schleyer",
+    "v": "5",
+    "p": "Alemania",
+    "f": "🇩🇪",
+    "per": "1977",
+    "st": "Cerrado con condenas. Siete miembros de la RAF fueron condenados a cadena perpetua por el secuestro y los asesinatos, pero nunca se ha aclarado quién disparó a Schleyer.",
+    "c": "Hacia las 17:28 del 5 de septiembre de 1977, un comando de la Fracción del Ejército Rojo (RAF) emboscó en la Vincenz-Statz-Straße de Colonia el coche de Hanns Martin Schleyer, presidente de la patronal alemana y antiguo miembro de las SS. Mató al chófer, Heinz Marcisz, y a los policías Reinhold Brändle, Helmut Ulmer y Roland Pieler, y se lo llevó para exigir la liberación de los jefes de la RAF presos. El Gobierno de Helmut Schmidt no cedió. Tras la muerte de esos presos en Stammheim, Schleyer fue asesinado el 18 de octubre y su cuerpo apareció al día siguiente en el maletero de un coche en Mulhouse (Francia).",
+    "mo": "Emboscada a la comitiva con un cochecito de bebé cruzado en la calzada para obligarla a frenar, fuego de armas automáticas contra los escoltas y cautiverio de la víctima durante 43 días en pisos francos.",
+    "loc": [
+      [
+        50.9359,
+        6.8899,
+        "Vincenz-Statz-Straße, Colonia-Braunsfeld (emboscada y secuestro)"
+      ],
+      [
+        47.7325,
+        7.3275,
+        "Rue Charles Péguy, Mulhouse (hallazgo del cuerpo, 19 de octubre)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Secuestro de Hanns Martin Schleyer (Colonia)",
+    "autor": "Comando Siegfried Hausner de la Fracción del Ejército Rojo (RAF); condenados a cadena perpetua Stefan Wisniewski, Adelheid Schulz, Brigitte Mohnhaupt, Christian Klar, Peter-Jürgen Boock, Rolf Clemens Wagner y Sieglinde Hofmann",
+    "fuentes": [
+      {
+        "titulo": "Nadine Chmura y Regina Haunhorst, «Hanns Martin Schleyer», LeMO, Stiftung Haus der Geschichte der Bundesrepublik Deutschland (actualizado el 19 de enero de 2016)",
+        "url": "https://www.hdg.de/lemo/biografie/hanns-martin-schleyer.html",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The New York Times, «Schleyer, Key Figure in Industry, Once a Top SS Official in Prague» (20 de octubre de 1977)",
+        "url": "https://www.nytimes.com/1977/10/20/archives/schleyer-key-figure-in-industry-once-a-top-ss-official-in-prague.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Der Spiegel, «RAF-Terror: Boock nennt Namen von Schleyers mutmaßlichen Mördern» (2007)",
+        "url": "https://www.spiegel.de/panorama/zeitgeschichte/raf-terror-boock-nennt-namen-von-schleyers-mutmasslichen-moerdern-a-504539.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Thomas Schmid, «Hanns Martin Schleyer, das unbekannte Opfer», Die Welt (2007)",
+        "url": "https://www.welt.de/politik/article1281029/Hanns-Martin-Schleyer-das-unbekannte-Opfer.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Konrad-Adenauer-Stiftung, «Hanns Martin Schleyer» (biografía)",
+        "url": "https://www.kas.de/de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/hanns-martin-schleyer-v1",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Lutz Hachmeister, «Aus dem Tod heraus erklärt sich nichts», Frankfurter Allgemeine Zeitung (2004)",
+        "url": "https://www.faz.net/aktuell/lutz-hachmeister-aus-dem-tod-heraus-erklaert-sich-nichts-1146419.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en alemán), «Entführung von Hanns Martin Schleyer» (punto de partida; consultada por sus referencias a Aust y Peters)",
+        "url": "https://de.wikipedia.org/wiki/Entf%C3%BChrung_von_Hanns_Martin_Schleyer",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "LeMO sitúa la muerte «en la zona fronteriza belga-francesa» bajo el 18 de octubre sin precisar el día; la Wikipedia alemana da el 18 de octubre. El autor de los disparos sigue sin aclarar: Peter-Jürgen Boock señaló en 2007 a Stefan Wisniewski y Rolf Heißler, sin haberlo presenciado. Silke Maier-Witt, Monika Helbing y Sigrid Sternebeck recibieron penas menores como arrepentidas. Las coordenadas de Mulhouse corresponden a la calle, no al punto exacto. El artículo de Deutsche Welle citado por Wikipedia no se pudo abrir."
+  },
+  {
+    "id": "asesinato-mckinley",
+    "m": 9,
+    "d": 6,
+    "y": 1901,
+    "n": "Leon Czolgosz",
+    "a": "El asesinato de McKinley",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1901",
+    "st": "Cerrado. Czolgosz fue condenado por asesinato en primer grado y ejecutado en la silla eléctrica de la prisión de Auburn (Nueva York) el 29 de octubre de 1901.",
+    "c": "A las 16:07 del 6 de septiembre de 1901, mientras el presidente William McKinley saludaba al público en el Templo de la Música de la Exposición Panamericana de Búfalo, el anarquista Leon Czolgosz, un obrero de 28 años nacido en Detroit, se le acercó en la fila y le disparó dos veces. McKinley murió el 14 de septiembre por complicaciones de las heridas y Theodore Roosevelt asumió la presidencia. El juicio empezó el 23 de septiembre; el jurado deliberó apenas media hora y Czolgosz fue ejecutado el 29 de octubre.",
+    "mo": "Se colocó en la fila de saludo del presidente con un revólver oculto y disparó a quemarropa.",
+    "loc": [
+      [
+        42.9386,
+        -78.8736,
+        "Emplazamiento del Templo de la Música, Exposición Panamericana, Búfalo (atentado)"
+      ],
+      [
+        42.9347,
+        -76.5742,
+        "Prisión de Auburn, Nueva York (ejecución de Czolgosz)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Atentado contra William McKinley (Búfalo)",
+    "autor": "Leon Czolgosz",
+    "fuentes": [
+      {
+        "titulo": "National Park Service, Theodore Roosevelt Inaugural National Historic Site, «September 6, 1901»",
+        "url": "https://www.nps.gov/thri/september6.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Leon Czolgosz»",
+        "url": "https://www.britannica.com/biography/Leon-Czolgosz",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The New York Times, «President Shot at Buffalo Fair» (7 de septiembre de 1901)",
+        "url": "https://newspaperarchive.com/new-york-times-sep-07-1901-p-1/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Margaret Leech, «In the Days of McKinley» (Harper & Brothers, 1959)",
+        "url": "https://archive.org/details/indaysofmckinley00leec",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Scott Miller, «The President and the Assassin: McKinley, Terror, and Empire at the Dawn of the American Century» (Random House, 2011)",
+        "url": "https://archive.org/details/presidentassassi00mill",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of William McKinley» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_William_McKinley",
+        "tipo": "enciclopedia"
+      }
+    ]
+  },
+  {
+    "id": "atentado-pinochet",
+    "m": 9,
+    "d": 7,
+    "y": 1986,
+    "n": "José Joaquín Valenzuela Levi",
+    "a": "Operación Siglo XX",
+    "v": "5",
+    "p": "Chile",
+    "f": "🇨🇱",
+    "per": "1986",
+    "st": "Varios frentistas fueron detenidos y procesados por la justicia militar; muchos se fugaron de la Cárcel Pública en 1990 y los demás fueron indultados o vieron su pena conmutada por el exilio. Valenzuela Levi murió en 1987 a manos de la CNI.",
+    "c": "Hacia las 18:35 del 7 de septiembre de 1986, una veintena de miembros del Frente Patriótico Manuel Rodríguez, dirigidos por José Joaquín Valenzuela Levi, «comandante Ernesto», emboscaron en la cuesta Las Achupallas, en el Cajón del Maipo, la comitiva que devolvía a Augusto Pinochet a Santiago desde su casa de El Melocotón. Murieron cinco escoltas y once personas resultaron heridas; Pinochet salió ileso. Esa misma noche, agentes de la CNI mataron como represalia a cuatro opositores, entre ellos el periodista José Carrasco. La mayoría de los atacantes fue detenida en las semanas siguientes.",
+    "mo": "Emboscada en una curva de una carretera de montaña contra los coches de la comitiva, con fusiles y lanzacohetes.",
+    "loc": [
+      [
+        -33.59,
+        -70.479,
+        "Cuesta Las Achupallas, entre La Obra y Las Vertientes (emboscada)"
+      ],
+      [
+        -33.6984,
+        -70.3344,
+        "El Melocotón, San José de Maipo (casa de descanso de Pinochet)"
+      ]
+    ],
+    "vin": [
+      [
+        "prats-cuthbert",
+        "r",
+        "El general Prats fue asesinado en 1974 por la DINA del régimen de Pinochet, el objetivo de este atentado"
+      ]
+    ],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Atentado contra Augusto Pinochet (Cajón del Maipo)",
+    "autor": "Frente Patriótico Manuel Rodríguez (comando dirigido por José Joaquín Valenzuela Levi)",
+    "fuentes": [
+      {
+        "titulo": "Cooperativa.cl, «Teillier: Al final, sirvió que Pinochet sobreviviera al atentado» (7 de septiembre de 2006)",
+        "url": "https://www.cooperativa.cl/noticias/site/artic/20060907/pags-amp/20060907090131.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Cooperativa.cl, «Pablo Rodríguez “explicó” represalias de la dictadura tras atentado a Pinochet» (7 de septiembre de 2006)",
+        "url": "https://www.cooperativa.cl/noticias/site/artic/20060907/pags-amp/20060907120026.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Clinic, «Los Archivos del Cardenal: Cómo fue la venganza de la CNI por el atentado a Pinochet» (11 de mayo de 2014)",
+        "url": "https://www.theclinic.cl/2014/05/11/los-archivos-del-cardenal-como-fue-la-venganza-de-la-cni-por-el-atentado-a-pinochet/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Frente Patriótico Manuel Rodríguez, «Parte operativo. Operación Patria Nueva» (documento primario, archivo CEDEMA)",
+        "url": "https://cedema.org/digital_items/362",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Atentado contra Augusto Pinochet» (punto de partida; consultada por sus referencias a Verdugo y Hertz, y a Peña)",
+        "url": "https://es.wikipedia.org/wiki/Atentado_contra_Augusto_Pinochet",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de atacantes varía entre 17 y una veintena según la fuente, y el de heridos entre 11 y 12. El parte operativo de CEDEMA es un documento del propio FPMR. No se ha podido confirmar en dos fuentes la situación procesal individual de cada frentista; Mauricio Hernández Norambuena, extraditado a Chile en 2019, cumple condena por otros delitos. Las coordenadas de la cuesta son aproximadas (entre La Obra y Las Vertientes)."
+  },
+  {
+    "id": "asesinato-huey-long",
+    "m": 9,
+    "d": 8,
+    "y": 1935,
+    "n": "Carl Weiss",
+    "a": "El asesinato de Huey Long",
+    "v": "2 (Long y su presunto agresor)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1935",
+    "st": "Nunca hubo juicio. El presunto autor murió en el acto y sigue discutido si la bala mortal salió de su arma o de las de los escoltas.",
+    "c": "Hacia las 21:20 del 8 de septiembre de 1935, el senador y exgobernador de Luisiana Huey Long recibió un disparo en el abdomen en un pasillo del Capitolio de Baton Rouge. Sus guardaespaldas mataron allí mismo a Carl Weiss, un otorrinolaringólogo de 28 años, yerno del juez Benjamin Pavy, al que una ley impulsada por Long iba a dejar sin su distrito. Long murió a las 4:10 del 10 de septiembre, tras una operación fallida. La exhumación de Weiss en 1991 halló al menos 24 balas en sus restos, y la duda sobre quién disparó la bala mortal nunca se ha despejado.",
+    "mo": "Según la versión oficial, Weiss se acercó a Long en un pasillo del Capitolio y le disparó con una pistola; los escoltas respondieron con decenas de disparos.",
+    "loc": [
+      [
+        30.4571,
+        -91.1874,
+        "Capitolio del Estado de Luisiana, Baton Rouge (disparo y sepultura de Long)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Atentado contra Huey Long (Baton Rouge)",
+    "autor": "Atribuido a Carl Weiss",
+    "fuentes": [
+      {
+        "titulo": "Michael C. Trotter, «Huey P. Long's Last Operation: When Medicine and Politics Don't Mix», The Ochsner Journal, 12(1): 9-16 (2012)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307515",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Researchers Exhume Doctor's Grave To Resolve Part of Huey Long Legend» (21 de octubre de 1991; copia archivada)",
+        "url": "https://web.archive.org/web/20190818130419/https://www.nytimes.com/1991/10/21/us/researchers-exhume-doctor-s-grave-to-resolve-part-of-huey-long-legend.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Washington Post, «Clues From the Grave Add Mystery to the Death of Huey Long» (29 de junio de 1992; copia archivada)",
+        "url": "https://web.archive.org/web/20200516143655/https://www.washingtonpost.com/archive/politics/1992/06/29/clues-from-the-grave-add-mystery-to-the-death-of-huey-long/cbdd5297-27a1-4534-96bb-68175daf3573/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Dr. Carl Weiss Jr., 84, Dies; His Father, He Said, Didn't Kill Huey Long» (13 de agosto de 2019)",
+        "url": "https://www.nytimes.com/2019/08/13/obituaries/dr-carl-weiss-jr-dead.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Politico, «Huey Long assassinated, Sept. 8, 1935» (8 de septiembre de 2017; copia archivada)",
+        "url": "https://web.archive.org/web/20200513093913/https://www.politico.com/story/2017/09/08/huey-long-assassinated-sept-8-1935-242325",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Richard D. White Jr., «Kingfish: The Reign of Huey P. Long» (Random House, 2006)",
+        "url": "https://archive.org/details/kingfishreignofh00whit",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Huey Long» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Huey_Long",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "No hubo autopsia de Long y el número y calibre de las balas se discuten. Un testigo habló de más de sesenta disparos contra Weiss; la exhumación de 1991 halló al menos 24 balas. La familia de Weiss sostuvo siempre que no disparó."
+  },
+  {
+    "id": "vuelo-108-guay",
+    "m": 9,
+    "d": 9,
+    "y": 1949,
+    "n": "Joseph-Albert Guay",
+    "a": "La tragedia de Sault-au-Cochon",
+    "v": "23",
+    "p": "Canadá",
+    "f": "🇨🇦",
+    "per": "1949",
+    "st": "Cerrado. Guay, Généreux Ruest y Marguerite Pitre fueron condenados a muerte y ahorcados en la prisión de Bordeaux, en Montreal, en 1951, 1952 y 1953; Pitre fue la última mujer ejecutada en Canadá.",
+    "c": "El 9 de septiembre de 1949, el DC-3 del vuelo 108 de Canadian Pacific Air Lines, que iba de Montreal a Baie-Comeau con escala en Quebec, estalló poco después de despegar de Quebec y cayó cerca de Sault-au-Cochon: murieron sus 23 ocupantes. Como el avión cayó en tierra, los investigadores hallaron restos de explosivo. La bomba la había encargado Joseph-Albert Guay para matar a su esposa, Rita Morel, que iba a bordo, y cobrar un seguro de vida. Généreux Ruest la fabricó y su hermana, Marguerite Pitre, la llevó al avión como paquete. Los tres fueron ahorcados.",
+    "mo": "Una bomba de relojería con dinamita, enviada como paquete en el avión en el que viajaba la esposa, para cobrar su seguro de vida.",
+    "loc": [
+      [
+        47.1648,
+        -70.6996,
+        "Sault-au-Cochon, cabo Tourmente (caída del avión)"
+      ],
+      [
+        46.7911,
+        -71.3933,
+        "Aeropuerto de Quebec, L'Ancienne-Lorette (escala donde se cargó la bomba)"
+      ],
+      [
+        45.545,
+        -73.686,
+        "Prisión de Bordeaux, Montreal (ejecución de los tres condenados)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Atentado del vuelo 108 de Canadian Pacific (Sault-au-Cochon)",
+    "autor": "Joseph-Albert Guay, con Généreux Ruest y Marguerite Pitre (condenados y ejecutados)",
+    "fuentes": [
+      {
+        "titulo": "Maude-Emmanuelle Lambert, «Sault-au-Cochon Tragedy», The Canadian Encyclopedia (23 de abril de 2014)",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/sault-au-cochon-tragedy",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "CBC News, «To murder his wife, he killed 22 more: The Sault-au-Cochon plane crash of 1949» (2019)",
+        "url": "https://www.cbc.ca/news/canada/montreal/sault-au-cochon-plane-crash-1949-1.5274763",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Canada's History, «A Monstrous Plot»",
+        "url": "https://www.canadashistory.ca/explore/politics-law/a-monstrous-plot",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New Yorker, «It Has No Name» (14 de noviembre de 1953)",
+        "url": "https://www.newyorker.com/magazine/1953/11/14/it-has-no-name",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tribunal Supremo de Canadá, «Ruest v. The Queen», 1952 CanLII 394 (SCC)",
+        "url": "https://www.canlii.org/en/ca/scc/doc/1952/1952canlii394/1952canlii394.html",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Radio Canada International, «History: Sept 9, 1949, Canada; the deadliest airline sabotage» (9 de septiembre de 2015)",
+        "url": "https://www.rcinet.ca/en/2015/09/09/history-sept-9-1949-canada-the-deadliest-airline-sabotage/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Albert Guay affair» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Albert_Guay_affair",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La Canadian Encyclopedia fecha la detención de Guay el 23 de septiembre de 1949; Wikipedia da ese día como el de la primera confesión de Marguerite Pitre. El seguro de vida era de 10.000 dólares según la Canadian Encyclopedia."
+  },
+  {
+    "id": "mountain-meadows",
+    "m": 9,
+    "d": 11,
+    "y": 1857,
+    "n": "John D. Lee",
+    "a": "La masacre de Mountain Meadows",
+    "v": "Al menos 120",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1857",
+    "st": "Cerrado. De los nueve hombres acusados en 1874, solo John D. Lee fue condenado, en 1876, y fusilado en Mountain Meadows el 23 de marzo de 1877.",
+    "c": "En septiembre de 1857, la caravana Baker-Fancher, de emigrantes de Arkansas camino de California, fue atacada en Mountain Meadows, en el territorio de Utah, por milicianos mormones del condado de Iron con ayuda de algunos paiutes. Tras cinco días de asedio, el 11 de septiembre John D. Lee les ofreció escolta bajo bandera blanca; cuando entregaron las armas, los mataron: al menos 120 personas. Solo se salvaron 17 niños de seis años o menos, que el Ejército devolvió a Arkansas. Los autores culparon a los paiutes y solo Lee fue juzgado y ejecutado, veinte años después.",
+    "mo": "Asedio de la caravana y, después, una falsa oferta de tregua para desarmar a los emigrantes y matarlos por separado.",
+    "loc": [
+      [
+        37.4756,
+        -113.6436,
+        "Mountain Meadows, Utah (asedio, masacre y fusilamiento de Lee)"
+      ],
+      [
+        37.6775,
+        -113.0953,
+        "Cedar City, Utah (sede de la milicia del condado de Iron)"
+      ],
+      [
+        36.2439,
+        -93.1197,
+        "Harrison, Arkansas (región de origen de la caravana y monumento a las víctimas)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Masacre de Mountain Meadows (Utah)",
+    "autor": "Milicia mormona del condado de Iron (Isaac C. Haight, John D. Lee, William H. Dame y otros); solo Lee fue condenado",
+    "fuentes": [
+      {
+        "titulo": "James Finck, «Mountain Meadows Massacre», Encyclopedia of Arkansas (actualizada el 8 de octubre de 2025)",
+        "url": "https://encyclopediaofarkansas.net/entries/mountain-meadows-massacre-129/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Gilbert King, «The Aftermath of Mountain Meadows», Smithsonian Magazine (2012)",
+        "url": "https://www.smithsonianmag.com/history/the-aftermath-of-mountain-meadows-110735627/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ronald W. Walker, Richard E. Turley Jr. y Glen M. Leonard, «Massacre at Mountain Meadows» (Oxford University Press, 2008)",
+        "url": "https://archive.org/details/massacreatmounta00walk_491",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "La Iglesia de Jesucristo de los Santos de los Últimos Días, «Mountain Meadows Massacre» (tema de historia de la Iglesia; copia archivada)",
+        "url": "https://web.archive.org/web/20220926174708/https://abn.churchofjesuschrist.org/study/history/topics/mountain-meadows-massacre?lang=eng",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Alyssa Fisher, «The Mountain Meadows Massacre», Archaeology (2003)",
+        "url": "https://archive.archaeology.org/online/features/massacre/meadows.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Richard E. Turley Jr., Janiece L. Johnson y LaJean Purcell Carruth (eds.), «Mountain Meadows Massacre: Collected Legal Papers» (2017): transcripción del segundo juicio de Lee",
+        "url": "https://mountainmeadowsmassacre.com/wp-content/transcripts/trial2/0-Preliminary-Material-and-Wells-Morrill-and-Haslam-Testimonies.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Mountain Meadows Massacre» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Mountain_Meadows_Massacre",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de víctimas varía: la caravana sumaba entre 120 y 140 personas según Wikipedia y entre 120 y 150 según la Encyclopedia of Arkansas. En 2007 la Iglesia SUD expresó su pesar oficial, aunque precisó que no era una disculpa."
+  },
+  {
+    "id": "captura-abimael-guzman",
+    "m": 9,
+    "d": 12,
+    "y": 1992,
+    "n": "Abimael Guzmán",
+    "a": "La captura del siglo",
+    "v": "Ninguna (captura)",
+    "p": "Perú",
+    "f": "🇵🇪",
+    "per": "1992",
+    "st": "Cerrado. Guzmán fue condenado a cadena perpetua en 1992 y, tras repetirse el juicio, de nuevo el 13 de octubre de 2006; murió en la prisión de la Base Naval del Callao el 11 de septiembre de 2021.",
+    "c": "Hacia las ocho y media de la noche del 12 de septiembre de 1992, agentes del Grupo Especial de Inteligencia (GEIN) de la Dirección contra el Terrorismo de la Policía peruana, dirigidos por Benedicto Jiménez, entraron en una casa de Surquillo (Lima) que vigilaban desde hacía semanas. Detuvieron a Abimael Guzmán, fundador y líder de Sendero Luminoso, junto a Elena Iparraguirre, Laura Zambrano y otros dirigentes. La Operación Victoria descabezó a la organización, responsable de miles de muertes desde 1980. Guzmán fue condenado a cadena perpetua y murió en prisión en 2021.",
+    "mo": "Operación de inteligencia policial sin violencia: meses de seguimiento, vigilancia de la casa por agentes de paisano y entrada por sorpresa.",
+    "loc": [
+      [
+        -12.1172,
+        -77.0206,
+        "Surquillo, Lima (casa de la calle Varsovia donde fue capturado)"
+      ],
+      [
+        -12.033,
+        -77.139,
+        "Base Naval del Callao (prisión donde murió en 2021)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "Captura de Abimael Guzmán (Lima)",
+    "autor": "Abimael Guzmán (detenido); operación del GEIN de la DINCOTE",
+    "fuentes": [
+      {
+        "titulo": "El Comercio, «1992: Abimael cayó con cúpula de Sendero» (crónica del 13 de septiembre de 1992, reeditada el 23 de julio de 2021)",
+        "url": "https://elcomercio.pe/bicentenario/1992-l-abimael-cayo-con-cupula-de-sendero-l-bicentenario-noticia/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "AFP en BioBioChile, «Muere en prisión en Perú el fundador de Sendero Luminoso, Abimael Guzmán» (11 de septiembre de 2021)",
+        "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2021/09/11/muere-en-prision-en-peru-el-fundador-de-sendero-luminoso-abimael-guzman.shtml",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "América TV, «Abimael Guzmán: el final del condenado» (septiembre de 2021)",
+        "url": "https://www.americatv.com.pe/noticias/actualidad/abimael-guzman-final-condenado-n445413",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "RPP, «Abimael Guzmán: exagente del GEIN Carlos Morán sobre muerte del cabecilla terrorista» (11 de septiembre de 2021)",
+        "url": "https://rpp.pe/peru/terrorismo/abimael-guzman-exagente-gein-carlos-moran-sobre-muerte-del-cabecilla-terrorista-esperamos-que-con-su-partida-tambien-muera-su-macabra-ideologia-noticia-1357322",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Captura de Abimael Guzmán» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Captura_de_Abimael_Guzm%C3%A1n",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La crónica de El Comercio de 1992 da la dirección como «calle 1, n.º 459, urbanización Los Sauces», en Surquillo; la Wikipedia en castellano la llama calle Varsovia 459. La hora varía entre las 20:30 (El Comercio) y las 20:45 (Wikipedia). La condena de 2006 está en la Wikipedia inglesa (con cita de ABC News), sin una segunda fuente abierta. El punto de Surquillo es el centro del distrito, no la casa exacta."
+  },
+  {
+    "id": "asesinato-spadafora",
+    "m": 9,
+    "d": 13,
+    "y": 1985,
+    "n": "Manuel Antonio Noriega",
+    "a": "El caso Spadafora",
+    "v": "1",
+    "p": "Panamá",
+    "f": "🇵🇦",
+    "per": "1985",
+    "st": "Cerrado. El 20 de octubre de 1993 un tribunal de Chiriquí condenó a 20 años a Noriega, en ausencia, y a dos militares; la pena de Noriega se declaró extinguida en 2017.",
+    "c": "El 13 de septiembre de 1985, el médico Hugo Spadafora, exviceministro de Salud que había combatido contra la dictadura de Somoza en Nicaragua y acusaba en público a Manuel Antonio Noriega de proteger el narcotráfico, fue detenido por militares de las Fuerzas de Defensa de Panamá al entrar en el país desde Costa Rica. Lo llevaron al cuartel de La Concepción, en Chiriquí, donde fue torturado y asesinado. Su cuerpo decapitado apareció al otro lado de la frontera. El presidente Ardito Barletta intentó investigar y fue obligado a dimitir; la condena llegó tras la caída de Noriega.",
+    "mo": "Detención por militares en la frontera, tortura y asesinato en un cuartel; el cuerpo se abandonó en territorio de Costa Rica.",
+    "loc": [
+      [
+        8.5328,
+        -82.8369,
+        "Paso Canoas, frontera entre Panamá y Costa Rica (zona de la detención)"
+      ],
+      [
+        8.5182,
+        -82.6144,
+        "La Concepción, Bugaba, Chiriquí (cuartel donde fue asesinado)"
+      ],
+      [
+        7.9633,
+        -80.4283,
+        "Chitré (ciudad natal y sepultura)"
+      ]
+    ],
+    "vin": [
+      [
+        "somoza-debayle",
+        "r",
+        "Spadafora combatió en 1978-1979 contra la dictadura de Somoza al frente de la Brigada Victoriano Lorenzo"
+      ]
+    ],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Hugo Spadafora (frontera de Panamá con Costa Rica)",
+    "autor": "Fuerzas de Defensa de Panamá; condenados Manuel Antonio Noriega, Francisco Eliécer González Bonilla y Julio César Miranda Caballero",
+    "fuentes": [
+      {
+        "titulo": "Mónica Palm, «Manuel Antonio Noriega acumulaba 60 años en condenas por homicidio y asociación ilícita», La Prensa (Panamá, 30 de mayo de 2017)",
+        "url": "https://www.prensa.com/judiciales/Noriega-acumulaba-condenadas-homicidio-asociacion_0_4768773124.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ministerio Público de Panamá, «Declaran extinguida condena a Noriega por homicidio del Dr. Hugo Spadafora» (8 de agosto de 2017)",
+        "url": "https://ministeriopublico.gob.pa/notas-de-prensa/declaran-extinguida-condena-noriega-homicidio-del-dr-hugo-spadafora/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Panamá América, «Panamá recuerda a Hugo Spadafora Franco»",
+        "url": "https://www.panamaamerica.com.pa/sociedad/panama-recuerda-hugo-spadafora-franco-1266295",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Comisión Interamericana de Derechos Humanos, Informe anual 1987-1988, resolución sobre el caso 9726 (Panamá, Hugo Spadafora)",
+        "url": "https://cidh.oas.org/annualrep/87.88eng/Panama9726.htm",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Stephen Kinzer, «Overthrow: America's Century of Regime Change from Hawaii to Iraq» (Times Books, 2006)",
+        "url": "https://archive.org/details/overthrow00step",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Hugo Spadafora» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Hugo_Spadafora",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La fecha del hallazgo del cuerpo no coincide: la Wikipedia inglesa y otras fuentes lo sitúan el 14 de septiembre, y Panamá América dice que apareció «seis días después». La Wikipedia en castellano da como lugar Laurel de Corredores (Costa Rica). La página de la CIDH no se pudo abrir (protección contra bots); se cita a partir de la búsqueda. Las coordenadas de Paso Canoas, La Concepción y Chitré son las de los núcleos urbanos (OpenStreetMap)."
+  },
+  {
+    "id": "monstruo-florencia-1974",
+    "m": 9,
+    "d": 14,
+    "y": 1974,
+    "n": "Pasquale Gentilcore y Stefania Pettini",
+    "a": "El Monstruo de Florencia",
+    "v": "2",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1968–1985",
+    "st": "Sin resolver. Pietro Pacciani, condenado en primera instancia en 1994, fue absuelto en apelación y murió en 1998 antes de repetirse el juicio; Mario Vanni y Giancarlo Lotti fueron condenados en firme solo por los cuatro últimos dobles crímenes (1982-1985).",
+    "c": "La noche del 14 de septiembre de 1974, Pasquale Gentilcore, de 19 años, y Stefania Pettini, de 18, fueron asesinados a tiros en el coche en el que se habían apartado, en un camino de tierra de Fontanine di Rabatta, junto a Sagginale (Borgo San Lorenzo), en el Mugello. Un agricultor encontró los cuerpos. La balística vinculó después el crimen a la misma pistola del calibre 22 usada en Signa en 1968 y en seis dobles crímenes más hasta 1985: los del «Monstruo de Florencia». Pietro Pacciani fue condenado en 1994 y absuelto en apelación, y murió en 1998. Este crimen sigue sin culpable.",
+    "mo": "Atacaba de noche a parejas apartadas en coche en el campo, con una pistola del calibre 22 que nunca se encontró.",
+    "loc": [
+      [
+        43.9329,
+        11.4185,
+        "Sagginale, Borgo San Lorenzo (cerca del lugar del crimen, en Fontanine di Rabatta)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El Monstruo de Florencia: crimen de Borgo San Lorenzo",
+    "autor": "Desconocido (atribuido al «Monstruo de Florencia»)",
+    "fuentes": [
+      {
+        "titulo": "Il Post, «La storia dei delitti del Mostro di Firenze» (22 de agosto de 2018)",
+        "url": "https://www.ilpost.it/2018/08/22/storia-delitti-mostro-di-firenze/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Sky TG24, «Il Mostro di Firenze, la storia: omicidi e processi a Pacciani e ai “compagni di merende”» (22 de octubre de 2025)",
+        "url": "https://tg24.sky.it/cronaca/approfondimenti/il-mostro-di-firenze-storia",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Open, «Mostro di Firenze, la cugina della vittima Stefania Pettini: “Riesumate il suo corpo”» (8 de agosto de 2024)",
+        "url": "https://www.open.online/2024/08/08/mostro-di-firenze-stefania-pettini-cugina-dna-riesumazione-corpo/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Corte Suprema di Cassazione, sección quinta penal, sentencia n.º 8825 de 2026 (recurso contra la inadmisión de la revisión de la condena de Mario Vanni)",
+        "url": "https://www.doctrine.it/decisions/itcassos1xougb8z2ph86",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Mostro di Firenze» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Mostro_di_Firenze",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Proceso: no hay ningún acusado vivo por el crimen de 1974. La Fiscalía de Florencia ha seguido investigando la serie (análisis de ADN, exhumaciones) y la familia de Mario Vanni pidió en 2025 la revisión de su condena; el Tribunal de Apelación de Génova la declaró inadmisible y la Casación resolvió el recurso en 2026 (sentencia 8825), pero esa revisión afecta a los crímenes de 1984 y 1985, no a este. Conviene comprobar antes de publicar que no se ha abierto un proceso nuevo. Edad de Stefania Pettini: 18 años según Il Post y la Wikipedia italiana, 19 según Sky TG24. Algunas fuentes hablan de la noche del 14 al 15 de septiembre. Las coordenadas son las del pueblo de Sagginale, no las del punto exacto."
+  },
+  {
+    "id": "asesinato-pino-puglisi",
+    "m": 9,
+    "d": 15,
+    "y": 1993,
+    "n": "Salvatore Grigoli",
+    "a": "El cura de Brancaccio",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1993",
+    "st": "Cerrado con sentencias firmes. Giuseppe Graviano fue condenado a cadena perpetua en 1999 y su hermano Filippo, en apelación, en 2001; Gaspare Spatuzza y otros miembros del comando también recibieron cadena perpetua, y Grigoli, que colaboró con la justicia, 16 años.",
+    "c": "Hacia las 20:40 del 15 de septiembre de 1993, el día en que cumplía 56 años, el sacerdote Giuseppe «Pino» Puglisi fue asesinado de un disparo a quemarropa cuando abría el portal de su casa, en la plaza Anita Garibaldi de Brancaccio, el barrio de Palermo donde era párroco y donde había fundado el Centro Padre Nostro para apartar a los chicos de la Mafia. El sicario Salvatore Grigoli, detenido en 1997, confesó el crimen y contó que el cura le dijo: «Me lo esperaba». Los jefes del clan, Giuseppe y Filippo Graviano, fueron condenados como inductores. Puglisi fue beatificado en 2013.",
+    "mo": "Un comando de la familia mafiosa de Brancaccio lo esperó ante su casa por la noche; el sicario le disparó a quemarropa.",
+    "loc": [
+      [
+        38.1031,
+        13.385,
+        "Plaza Anita Garibaldi, Brancaccio, Palermo (lugar del asesinato, ante su casa)"
+      ],
+      [
+        38.0956,
+        13.3837,
+        "Barrio de Brancaccio, Palermo (su parroquia de San Gaetano)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-juez-livatino",
+        "r",
+        "Dos víctimas de la mafia siciliana a principios de los noventa beatificadas como mártires"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato del padre Pino Puglisi (Palermo)",
+    "autor": "Salvatore Grigoli (autor material, confeso) y Gaspare Spatuzza, por orden de Giuseppe y Filippo Graviano (Cosa Nostra)",
+    "fuentes": [
+      {
+        "titulo": "Associazione Cosa Vostra, «Don Pino Puglisi: il sopralluogo, l'autopsia e le prime indagini sul delitto», Domani (10 de septiembre de 2021)",
+        "url": "https://www.editorialedomani.it/fatti/blog-mafie-don-pino-puglisi-sopralluogo-autopsia-prime-indagini-delitto-qb3nvjac",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Quotidiano Nazionale, «Don Pino Puglisi» (15 de septiembre de 2018)",
+        "url": "https://www.quotidiano.net/cronaca/don-pino-puglisi-2eac142e",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Il Post, «Chi era Pino Puglisi» (2 de junio de 2016)",
+        "url": "https://www.ilpost.it/2016/06/02/pino-puglisi/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Avvenire, «Don Pino Puglisi sarà beato: il suo assassinio fu un martirio» (2012)",
+        "url": "https://www.avvenire.it/chiesa/chiesa-italiana/don-pino-puglisi-sara-beato-il-suo-assassinio-fu-un-martirio_9863",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "AGI, «Trent'anni fa moriva Don Puglisi, il prete di strada ucciso dalla mafia» (15 de septiembre de 2023)",
+        "url": "https://www.agi.it/cronaca/news/2023-09-15/uccisione-don-puglisi-anniversario-mafia-23043425/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Pino Puglisi» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Pino_Puglisi",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las penas individuales (16 años para Grigoli; cadena perpetua para Spatuzza, Luigi Giacalone y Cosimo Lo Nigro) proceden de la Wikipedia italiana y de un resumen de búsqueda; Domani solo confirma la cadena perpetua de los autores materiales y Quotidiano Nazionale la de los Graviano. Spatuzza se hizo después colaborador de la justicia."
+  },
+  {
+    "id": "atentado-wall-street",
+    "m": 9,
+    "d": 16,
+    "y": 1920,
+    "n": "Mario Buda (sospechoso, nunca acusado)",
+    "a": "El atentado de Wall Street",
+    "v": "38",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1920",
+    "st": "Sin resolver. Tras más de tres años de investigación del Bureau of Investigation y la policía de Nueva York, nadie fue acusado.",
+    "c": "A las 12:01 del 16 de septiembre de 1920, a la hora de comer, estalló un carro de caballos cargado con unos 45 kilos de dinamita y metralla de hierro frente a la sede del banco J. P. Morgan, en el número 23 de Wall Street, en Nueva York. Murieron 30 personas en el acto y ocho más después; 143 resultaron heridas de gravedad. Unas octavillas firmadas por «Luchadores Anarquistas Americanos» aparecieron en un buzón cercano. La investigación no logró ninguna acusación. Los historiadores lo atribuyen a anarquistas seguidores de Luigi Galleani, quizá en venganza por la detención de Sacco y Vanzetti.",
+    "mo": "Un carro de caballos abandonado en plena calle con una bomba de relojería de dinamita y contrapesos de hierro como metralla.",
+    "loc": [
+      [
+        40.7068,
+        -74.0105,
+        "23 Wall Street, edificio de J. P. Morgan (explosión; aún conserva las marcas)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Atentado de Wall Street (Nueva York)",
+    "autor": "Desconocido (atribuido por historiadores a anarquistas galleanistas; Paul Avrich señala a Mario Buda)",
+    "fuentes": [
+      {
+        "titulo": "FBI, «Wall Street Bombing 1920» (historia, casos famosos)",
+        "url": "https://www.fbi.gov/history/famous-cases/wall-street-bombing-1920",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "PBS NewsHour, «Author Gage Discusses The Day Wall Street Exploded» (17 de marzo de 2009)",
+        "url": "https://www.pbs.org/newshour/show/author-gage-discusses-the-day-wall-street-exploded",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "The New York Times, «Havoc Wrought in Morgan Offices» (17 de septiembre de 1920)",
+        "url": "https://www.nytimes.com/1920/09/17/archives/havoc-wrought-in-morgan-offices-scene-of-the-fatal-explosion-in.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Beverly Gage, «The Day Wall Street Exploded: A Story of America in Its First Age of Terror» (Oxford University Press, 2009)",
+        "url": "https://archive.org/details/daywallstreetexp0000gage",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Paul Avrich, «Sacco and Vanzetti: The Anarchist Background» (Princeton University Press, 1991)",
+        "url": "https://archive.org/details/saccovanzettiana0000avri",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "MoneyWeek, «16 September 1920: The Wall Street bombing»",
+        "url": "https://moneyweek.com/339875/16-september-1920-the-wall-street-bombing",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Wall Street bombing» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La autoría anarquista es una hipótesis de los historiadores (Gage, Avrich), no un hecho probado; Mario Buda nunca fue detenido ni interrogado. Algunas fuentes dan entre 33 y 40 muertos; se usa la cifra de 38 (Wikipedia, PBS, MoneyWeek). La investigación duró más de tres años según Wikipedia y cuatro según Gage en PBS."
+  },
+  {
+    "id": "somoza-debayle",
+    "m": 9,
+    "d": 17,
+    "y": 1980,
+    "n": "Enrique Gorriarán Merlo",
+    "a": "Operación Reptil",
+    "v": "3",
+    "p": "Paraguay",
+    "f": "🇵🇾",
+    "per": "1980",
+    "st": "Nadie fue juzgado. Hugo Irurzún murió en manos de la policía paraguaya al día siguiente y el resto del comando huyó del país; Gorriarán Merlo reivindicó después la operación en sus memorias.",
+    "c": "Hacia las diez de la mañana del 17 de septiembre de 1980, el exdictador nicaragüense Anastasio Somoza Debayle, exiliado en el Paraguay de Alfredo Stroessner, murió en Asunción cuando un comando de siete guerrilleros argentinos del Ejército Revolucionario del Pueblo (ERP), dirigido por Enrique Gorriarán Merlo, atacó su coche en la avenida Generalísimo Franco, hoy avenida España, con fusiles y un lanzacohetes. Murieron también su chófer, César Gallardo, y su asesor financiero, Joseph Baittiner. Hugo Irurzún, «capitán Santiago», fue capturado y murió al día siguiente; los demás escaparon.",
+    "mo": "Tras meses vigilando su rutina desde una casa alquilada, un vigía dio la señal y el comando atacó el coche con fusiles y un lanzacohetes.",
+    "loc": [
+      [
+        -25.2858,
+        -57.5832,
+        "Avenida España (entonces Generalísimo Franco), Asunción (atentado)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-spadafora",
+        "r",
+        "Hugo Spadafora combatió en 1978-1979 contra la dictadura de Somoza Debayle"
+      ]
+    ],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de Anastasio Somoza Debayle (Asunción)",
+    "autor": "Comando del ERP argentino dirigido por Enrique Gorriarán Merlo (reivindicado por él; sin condena judicial)",
+    "fuentes": [
+      {
+        "titulo": "Poder Judicial del Paraguay, Archivo del Terror, «Asesinato de Anastasio Somoza Debayle»",
+        "url": "https://www.pj.gov.py/operacion-condor/pages/somoza.html",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "EFE en La Vanguardia, «Cuarenta años del ataque que mató a Somoza y golpeó a dictadura de Stroessner» (16 de septiembre de 2020)",
+        "url": "https://www.lavanguardia.com/cultura/20200916/483516221899/cuarenta-anos-del-ataque-que-mato-a-somoza-y-golpeo-a-dictadura-de-stroessner.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Lourdes Torres, «El bazucazo en Asunción que marcó el fin de Somoza», La Nación (Paraguay, 17 de septiembre de 2025)",
+        "url": "https://www.lanacion.com.py/politica/2025/09/17/el-bazucazo-en-asuncion-que-marco-el-fin-de-somoza/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Página/12, «A 40 años del atentado que terminó con Somoza» (septiembre de 2020)",
+        "url": "https://www.pagina12.com.ar/292529-a-40-anos-del-atentado-que-termino-con-somoza",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El País, «Tachito, el último Somoza de una dinastía sangrienta» (18 de septiembre de 1980)",
+        "url": "https://www.elpais.com/articulo/internacional/SOMOZA/_ANASTASIO/PARAGUAY/LATINOAMERICA/NICARAGUA/Tachito/ultimo/Somoza/dinastia/sangrienta/elpepiint/19800918elpepiint_9/Tes/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Anastasio Somoza Debayle» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las fuentes no coinciden en detalles: la hora (poco después de las 9 según La Nación de Paraguay, 10:00 según EFE, 10:30 según el Archivo del Terror), el cruce (con la avenida General Santos o con la calle América), el arma (RPG-7, RPG-2 o lanzacohetes LAW) y los acompañantes muertos (La Nación de Paraguay nombra a José Francisco Guerrero y al coronel Joaquín López; EFE y Wikipedia, al chófer César Gallardo y al asesor Joseph o José Baittiner; el Archivo del Terror, a Joaquín Argüello Rocha). Se sigue a EFE y Wikipedia. Sobre Irurzún: muerto en un tiroteo según Wikipedia; según un historiador citado por La Nación, torturado. La autoría la reivindicó Gorriarán Merlo, pero no hay sentencia. Se elige Paraguay como país (lugar de los hechos); la víctima era nicaragüense. Coordenadas aproximadas de la avenida."
+  },
+  {
+    "id": "desaparicion-julio-lopez",
+    "m": 9,
+    "d": 18,
+    "y": 2006,
+    "n": "Jorge Julio López",
+    "a": "El testigo desaparecido",
+    "v": "1",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "2006",
+    "st": "Sin resolver. La causa por desaparición forzada sigue abierta en la justicia federal de La Plata, sin ningún acusado ni sentencia.",
+    "c": "Jorge Julio López, un albañil de 76 años, había estado secuestrado entre 1976 y 1979 en centros clandestinos del llamado Circuito Camps y fue testigo clave en el juicio contra el excomisario Miguel Etchecolatz. La mañana del 18 de septiembre de 2006 salió de su casa de Los Hornos (La Plata) para escuchar los alegatos y nunca llegó. Al día siguiente, Etchecolatz fue condenado a prisión perpetua. La investigación pasó a la justicia federal y en 2008 se calificó como desaparición forzada, pero nunca se ha sabido qué le ocurrió ni se ha encontrado su cuerpo.",
+    "mo": "Desconocido. Desapareció sin dejar rastro cuando iba a asistir a una audiencia del juicio en el que había declarado.",
+    "loc": [
+      [
+        -34.9638,
+        -57.9752,
+        "Los Hornos, La Plata (barrio donde vivía y del que salió el 18 de septiembre)"
+      ],
+      [
+        -34.9164,
+        -57.9508,
+        "Tribunales federales de La Plata (justicia federal que investiga la desaparición)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver",
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "Desaparición de Jorge Julio López (La Plata)",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Gabriella Danieri, «Jorge Julio López, 20 años sin respuestas: intentaron callar la voz de los sobrevivientes», Perfil (18 de septiembre de 2026)",
+        "url": "https://www.perfil.com/noticias/policia/jorge-julio-lopez-20-anos-sin-respuestas-intentaron-callar-la-voz-de-los-sobrevivientes.phtml",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "NoticiasNQN, «El 18 de septiembre de 2006 desaparecía Jorge Julio López» (18 de septiembre de 2023)",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2023/09/18/283071-el-18-de-septiembre-de-2006-desaparecia-jorge-julio-lopez",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Adriana Meyer, Página/12, crónica sobre la desaparición de Jorge Julio López y la reacción del presidente Kirchner (27 de septiembre de 2006)",
+        "url": "http://www.pagina12.com.ar/diario/elpais/1-73619-2006-09-27.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Adriana Meyer, «Vía que blanquea a represores», Página/12 (15 de septiembre de 2014)",
+        "url": "http://www.pagina12.com.ar/diario/elpais/1-255349-2014-09-15.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Jorge Julio López» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Jorge_Julio_L%C3%B3pez",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Proceso abierto: la causa sigue abierta en la justicia federal, pero no hay ningún acusado ni imputado conocido, así que no se atribuye autoría; se mantiene el caso porque lo que sigue abierto es la búsqueda, no un juicio contra nadie; si el coordinador lo considera «proceso abierto», el suplente del mismo día es la detención de Patty Hearst o la muerte de Dag Hammarskjöld. Las sospechas apuntan a grupos vinculados a la policía bonaerense, sin prueba judicial; no se recogen en la ficha. Perfil habla de «prisión perpetua» y otras fuentes de «reclusión perpetua» para Etchecolatz. La recompensa oficial se elevó en junio de 2026 (Perfil). El punto de Los Hornos es el barrio, no la casa."
+  },
+  {
+    "id": "hallazgo-otzi",
+    "m": 9,
+    "d": 19,
+    "y": 1991,
+    "n": "Ötzi",
+    "a": "El hombre de hielo",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "Hacia 3300 a. C. (hallazgo en 1991)",
+    "st": "Sin autor identificable: el crimen ocurrió hace unos 5.300 años. Las radiografías de 2001 mostraron que lo mataron de un flechazo.",
+    "c": "El 19 de septiembre de 1991, los excursionistas alemanes Erika y Helmut Simon encontraron un cuerpo que asomaba del hielo a 3.210 metros de altitud, junto al paso de Tisenjoch, en los Alpes de Ötztal, en la frontera entre Italia y Austria. Al principio se creyó un montañero muerto hacía poco y un forense de Innsbruck supervisó el levantamiento. Era un hombre de unos 45 años que vivió hacia el 3300 antes de Cristo. En 2001, una radiografía reveló una punta de flecha clavada en su hombro izquierdo: había muerto desangrado. Desde 1998 se expone en el Museo Arqueológico del Tirol del Sur, en Bolzano.",
+    "mo": "Le dispararon una flecha que se le clavó en el hombro izquierdo; tenía además una herida en la mano derecha.",
+    "loc": [
+      [
+        46.7786,
+        10.8414,
+        "Paso de Tisenjoch, valle de Senales (lugar del hallazgo, a 3.210 metros)"
+      ],
+      [
+        46.4998,
+        11.3496,
+        "Museo Arqueológico del Tirol del Sur, Bolzano (donde se conserva la momia)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "Hallazgo de Ötzi, el hombre de hielo (Alpes de Ötztal)",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Museo Arqueológico del Tirol del Sur, «The discovery» (Iceman)",
+        "url": "https://www.iceman.it/en/the-discovery/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Museo Arqueológico del Tirol del Sur, «Ötzi the Iceman»",
+        "url": "https://www.iceman.it/en/the-iceman/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Ötzi»",
+        "url": "https://www.britannica.com/topic/Otzi",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "David Bressan, «September 19, 1991: The Iceman Natural History», Scientific American (19 de septiembre de 2011)",
+        "url": "https://www.scientificamerican.com/blog/history-of-geology/september-19-1991-the-iceman-natural-history/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Ötzi» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Caso prehistórico sin autor: encaja como «crimen histórico». La fecha del hallazgo coincide en el museo, Britannica y Scientific American. Se pone Italia como país porque el cuerpo se conserva allí y el museo sitúa el hallazgo en el valle de Senales; estaba en la línea fronteriza y avisaron a la policía austriaca y a los carabinieri. La edad aproximada (unos 45 años) y la datación (hacia el 3300 a. C.) son de Britannica."
+  },
+  {
+    "id": "crimen-pantin-troppmann",
+    "m": 9,
+    "d": 20,
+    "y": 1869,
+    "n": "Jean-Baptiste Troppmann",
+    "a": "El crimen de Pantin",
+    "v": "8",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1869",
+    "st": "Cerrado. Troppmann fue condenado a muerte por el tribunal de lo criminal del Sena el 30 de diciembre de 1869 y guillotinado en París el 19 de enero de 1870.",
+    "c": "El 20 de septiembre de 1869, un agricultor que trabajaba su campo en Pantin, a las puertas de París, descubrió una fosa con los cuerpos de Hortense Kinck y cinco de sus hijos. El asesino, Jean-Baptiste Troppmann, de 20 años, había matado antes al padre, Jean Kinck, en Alsacia, para quedarse con su dinero. Fue detenido en El Havre el 23 de septiembre, cuando intentaba embarcar hacia América. El 26 apareció el cuerpo de otro de los hijos, y en noviembre Troppmann llevó a la policía hasta el del padre. Fue guillotinado el 19 de enero de 1870. La cobertura del caso disparó las ventas del Petit Journal.",
+    "mo": "Envenenó al padre de familia en Alsacia y después citó a la madre y a los hijos en París para matarlos en un descampado y quedarse con su dinero.",
+    "loc": [
+      [
+        48.9047,
+        2.3972,
+        "Quatre-Chemins, Pantin (campo donde aparecieron los cuerpos)"
+      ],
+      [
+        47.8202,
+        7.1794,
+        "Uffholtz, Alsacia (cerca de las ruinas de Herrenfluh, donde mató a Jean Kinck)"
+      ],
+      [
+        49.4939,
+        0.108,
+        "El Havre (detención, 23 de septiembre)"
+      ],
+      [
+        48.8596,
+        2.3846,
+        "Square de la Roquette, París (antigua prisión de la Roquette, ante la que fue guillotinado)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "Hallazgo de la familia Kinck en Pantin (crimen de Troppmann)",
+    "autor": "Jean-Baptiste Troppmann",
+    "fuentes": [
+      {
+        "titulo": "Véronique Gramfort, «Les crimes de Pantin: quand Troppmann défrayait la chronique», Romantisme, n.º 97, pp. 17-30 (1997)",
+        "url": "https://www.persee.fr/doc/roman_0048-8593_1997_num_27_97_3234",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jean-François Heintzen, «Le canard était toujours vivant! De Troppmann à Weidmann, la fin des complaintes criminelles, 1870-1939», Criminocorpus (26 de noviembre de 2013)",
+        "url": "https://journals.openedition.org/criminocorpus/2562",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Mémoires secrets de Troppmann» (París, 1870; Gallica, Biblioteca Nacional de Francia)",
+        "url": "https://gallica.bnf.fr/ark:/12148/bpt6k109272f",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Affaire Troppmann» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Affaire_Troppmann",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Víctimas menores: seis hijos de 2 a 16 años; no se nombran. El 20 de septiembre aparecieron seis cuerpos (la madre y cinco hijos), según Gramfort y la Wikipedia francesa; el séptimo, el 26. La fecha del asesinato del padre es el 24 de agosto según la Wikipedia francesa y el 25 según otras fuentes. La Wikipedia inglesa da 594.000 ejemplares vendidos por el Petit Journal el día de la ejecución. La fuente de la selección (lagbd.org) estaba en mantenimiento y no se pudo abrir; el ejemplar de Gallica no se abrió."
+  },
+  {
+    "id": "asesinato-juez-livatino",
+    "m": 9,
+    "d": 21,
+    "y": 1990,
+    "n": "Paolo Amico y Domenico Pace",
+    "a": "El juez muchacho",
+    "v": "1",
+    "p": "Italia",
+    "f": "🇮🇹",
+    "per": "1990",
+    "st": "Cerrado con sentencias firmes. Los cuatro sicarios de la Stidda (Paolo Amico, Domenico Pace, Gaetano Puzzangaro y Giovanni Avarello) y varios inductores fueron condenados a cadena perpetua entre 1992 y 2001.",
+    "c": "La mañana del 21 de septiembre de 1990, el juez Rosario Livatino, de 37 años, conducía solo y sin escolta su viejo Ford Fiesta camino del tribunal de Agrigento cuando el coche de sus asesinos lo embistió en la carretera estatal 640, junto al viaducto Gasena. Intentó huir a pie, pero lo alcanzaron y lo mataron a tiros. Gracias al testimonio de Pietro Nava, un comerciante que pasaba por allí, se identificó a los cuatro sicarios de la Stidda, condenados a cadena perpetua igual que los inductores. Fue beatificado en Agrigento el 9 de mayo de 2021.",
+    "mo": "Embestida al coche de la víctima en una carretera y persecución a pie hasta matarla a tiros.",
+    "loc": [
+      [
+        37.3334,
+        13.6171,
+        "Viaducto Gasena, hoy «Viadotto Giudice Livatino», carretera SS640 (lugar del asesinato)"
+      ],
+      [
+        37.323,
+        13.5914,
+        "Tribunal de Agrigento (adonde se dirigía)"
+      ],
+      [
+        37.3589,
+        13.8504,
+        "Canicattì (su ciudad natal)"
+      ]
+    ],
+    "vin": [
+      [
+        "asesinato-pino-puglisi",
+        "r",
+        "Dos víctimas de la mafia siciliana a principios de los noventa beatificadas como mártires"
+      ]
+    ],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato del juez Rosario Livatino (Agrigento)",
+    "autor": "Sicarios de la Stidda: Paolo Amico, Domenico Pace, Gaetano Puzzangaro y Giovanni Avarello (condenados a cadena perpetua)",
+    "fuentes": [
+      {
+        "titulo": "Il Post, «Sono passati 30 anni dalla morte di Rosario Livatino» (21 de septiembre de 2020)",
+        "url": "https://www.ilpost.it/2020/09/21/sono-passati-30-anni-dalla-morte-di-rosario-livatino/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "LaPresse, «Livatino, 34 anni fa l'agguato mafioso al giudice» (21 de septiembre de 2024)",
+        "url": "https://www.lapresse.it/cronaca/2024/09/21/livatino-34-anni-fa-lagguato-mafioso-al-giudice/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Repubblica, «“Sono loro i killer di Livatino”, due ergastoli a Caltanissetta» (19 de noviembre de 1992)",
+        "url": "https://ricerca.repubblica.it/repubblica/archivio/repubblica/1992/11/19/sono-loro-killer-di-livatino-due.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Repubblica, «I colpevoli tutti quanti condannati» (4 de febrero de 1997)",
+        "url": "https://ricerca.repubblica.it/repubblica/archivio/repubblica/1997/02/04/colpevoli-tutti-quanti-condannati.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Vatican News, «Livatino è beato» (9 de mayo de 2021)",
+        "url": "https://www.vaticannews.va/it/vaticano/news/2021-05/beati-santi-mafia-beatificazione-chiesa-rosario-livatino.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Avvenire, «Testimone. Il giudice beato. Rosario Livatino tra Vangelo e Costituzione» (8 de mayo de 2021)",
+        "url": "https://www.avvenire.it/chiesa/pagine/biografia-livatino-beato",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en italiano), «Rosario Livatino» (punto de partida; consultada por sus referencias)",
+        "url": "https://it.wikipedia.org/wiki/Rosario_Livatino",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Los nombres de los condenados y las fechas de las sentencias proceden de la Wikipedia italiana y de los titulares de La Repubblica (1992, 1997); no se han abierto los textos de La Repubblica ni de Vatican News. El apodo «giudice ragazzino» viene de una frase de Francesco Cossiga de 1991, que luego negó referirse a Livatino. Según la Wikipedia italiana, en octubre de 2026 fue declarado patrono de los magistrados italianos."
+  },
+  {
+    "id": "caso-asunta",
+    "m": 9,
+    "d": 22,
+    "y": 2013,
+    "n": "Rosario Porto y Alfonso Basterra",
+    "a": "El caso Asunta",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2013",
+    "st": "Cerrado con sentencia firme. Rosario Porto y Alfonso Basterra fueron condenados a 18 años de prisión cada uno; el Tribunal Supremo confirmó la condena en 2016. Porto murió en la cárcel de Brieva (Ávila) en noviembre de 2020.",
+    "c": "Hacia la una y cuarto de la madrugada del 22 de septiembre de 2013, dos jóvenes encontraron en una pista forestal de Teo (A Coruña) el cuerpo de una niña de 12 años, adoptada en China, cuya desaparición habían denunciado sus padres horas antes. La autopsia reveló que la habían sedado con lorazepam y asfixiado el día 21. Las cámaras de seguridad desmintieron el relato de la madre, Rosario Porto, detenida el 24, y el padre, Alfonso Basterra, fue detenido al día siguiente. En octubre de 2015 un jurado declaró a ambos culpables de asesinato.",
+    "mo": "La sedaron en repetidas ocasiones con lorazepam, la asfixiaron en una casa de Teo y abandonaron el cuerpo en una pista forestal.",
+    "loc": [
+      [
+        42.8242,
+        -8.5468,
+        "Cacheiras, Teo (pista forestal donde apareció el cuerpo)"
+      ],
+      [
+        42.8804,
+        -8.5459,
+        "Santiago de Compostela (donde vivía la familia)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "Caso Asunta: hallazgo del cuerpo (Teo, A Coruña)",
+    "autor": "Rosario Porto y Alfonso Basterra (condenados)",
+    "fuentes": [
+      {
+        "titulo": "EFE en Última Hora, «Los investigadores sospecharon del comportamiento de los padres de Asunta» (5 de octubre de 2015)",
+        "url": "https://www.ultimahora.es/sucesos/ultimas/2015/10/05/163409/investigadores-sospecharon-del-comportamiento-padres-asunta.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Juan Capeáns y Alberto Mahía, «Rosario y Alfonso sedaron y asfixiaron a Asunta», La Voz de Galicia (31 de octubre de 2015)",
+        "url": "https://www.lavozdegalicia.es/noticia/galicia/2015/10/31/rosario-alfonso-sedaron-asfixiaron-asunta/0003_201510G31P2996.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "S. R. Pontevedra, «Surveillance cameras debunk story offered by Asunta's mother», El País (7 de octubre de 2015)",
+        "url": "https://elpais.com/elpais/2015/10/07/inenglish/1444216072_741362.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Giles Tremlett, «Why did two parents murder their adopted child?», The Guardian (2 de febrero de 2016)",
+        "url": "https://www.theguardian.com/world/2016/feb/02/why-did-two-parents-murder-their-adopted-child-asunta-fong-yang",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Mundo, «Encuentran a Rosario Porto, la madre de Asunta Basterra, ahorcada en su celda en la cárcel de Brieva» (18 de noviembre de 2020)",
+        "url": "https://www.elmundo.es/cronica/2020/11/18/5fb4ee0efc6c83cf048b45e8.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Murder of Asunta Basterra» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Asunta_Basterra",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Víctima menor (12 años) en hechos de 2013, menos de 30 años: según la regla, no se la nombra en el resumen ni en «n», pero el caso se conoce públicamente por su nombre y así figura en el apodo y en el título; decide el coordinador si se mantiene. Alfonso Basterra sigue en prisión: no se dan datos personales. El lugar del hallazgo aparece como Feros (EFE) o San Simón de Ons, parroquia de Cacheiras (Wikipedia), ambos en Teo; el punto es el de Cacheiras. En 2016 el Tribunal Superior de Galicia atribuyó la asfixia solo a Porto, pero mantuvo la condena de Basterra; el Supremo la confirmó en 2016 y el Constitucional rechazó los amparos en 2017 (Wikipedia, sin segunda fuente abierta)."
+  },
+  {
+    "id": "absolucion-emmett-till",
+    "m": 9,
+    "d": 23,
+    "y": 1955,
+    "n": "Roy Bryant y J. W. Milam",
+    "a": "El caso Emmett Till",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1955",
+    "st": "Absueltos. Bryant y Milam nunca fueron condenados, y en noviembre de 1955 otro gran jurado se negó a acusarlos de secuestro. El Departamento de Justicia cerró su última revisión del caso en diciembre de 2021 sin presentar cargos.",
+    "c": "El 23 de septiembre de 1955, tras 67 minutos de deliberación, un jurado formado solo por hombres blancos absolvió en el juzgado de Sumner (Misisipi) a Roy Bryant y J. W. Milam del asesinato de Emmett Till, un chico negro de 14 años de Chicago. Lo habían sacado de madrugada el 28 de agosto de casa de su tío abuelo, en Money, después de que la mujer de Bryant lo acusara de haberle faltado al respeto, y su cuerpo apareció el 31 en el río Tallahatchie. Su madre, Mamie Till, quiso un funeral con el ataúd abierto. En 1956, a salvo de otro juicio, ambos confesaron el crimen a la revista Look a cambio de dinero.",
+    "mo": "Lo secuestraron de noche en casa de sus familiares, lo mataron y arrojaron su cuerpo al río Tallahatchie.",
+    "loc": [
+      [
+        33.9706,
+        -90.3696,
+        "Juzgado del condado de Tallahatchie, Sumner (juicio y absolución)"
+      ],
+      [
+        33.6514,
+        -90.2093,
+        "Money, Misisipi (secuestro, 28 de agosto de 1955)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Absolución de los asesinos de Emmett Till (Sumner, Misisipi)",
+    "autor": "Roy Bryant y J. W. Milam (absueltos; confesaron después en la prensa)",
+    "fuentes": [
+      {
+        "titulo": "PBS American Experience, «The Murder of Emmett Till: Timeline»",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/till-timeline",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Equal Justice Initiative, «Sep 23, 1955: All-White Jury Acquits White Men Who Murdered 14-Year-Old Emmett Till»",
+        "url": "https://calendar.eji.org/racial-injustice/sep/23",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Emmett Till»",
+        "url": "https://www.britannica.com/biography/Emmett-Till",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Departamento de Justicia de EE. UU., División de Derechos Civiles, «Emmett Till – Notice to Close File» (6 de diciembre de 2021)",
+        "url": "https://www.justice.gov/crt/case-document/emmett-till-notice-close-file-0",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "FBI Records: The Vault, «Emmett Till»",
+        "url": "https://vault.fbi.gov/Emmett%20Till%20/",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "NPR, «Lynching is now a federal hate crime after a century of blocked efforts» (29 de marzo de 2022)",
+        "url": "https://www.npr.org/2022/03/29/1086720579/lynching-is-now-a-federal-hate-crime-after-a-century-of-blocked-efforts",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Emmett Till» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Emmett_Till",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Víctima menor (14 años), pero en un caso de hace setenta años que lleva su nombre y que su madre hizo público a propósito. Bryant y Milam fueron absueltos: la ficha dice que confesaron en la prensa, no que fueran condenados. El pago de Look fue de 4.000 dólares según Wikipedia (otra cifra en la misma página: entre 3.600 y 4.000). En 2022 un gran jurado tampoco acusó a Carolyn Bryant Donham."
+  },
+  {
+    "id": "asesinato-rucci",
+    "m": 9,
+    "d": 25,
+    "y": 1973,
+    "n": "José Ignacio Rucci",
+    "a": "Operación Traviata",
+    "v": "1",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1973",
+    "st": "Sin condena. La causa se reabrió en 2008; en 2012 el juez federal Ariel Lijo concluyó que el crimen lo cometieron miembros de Montoneros, pero que no era de lesa humanidad y por tanto había prescrito, y la archivó.",
+    "c": "Hacia el mediodía del 25 de septiembre de 1973, dos días después de que Juan Domingo Perón ganara las elecciones presidenciales, el secretario general de la CGT, José Ignacio Rucci, fue acribillado cuando salía de una casa de la avenida Avellaneda 2953, en el barrio de Flores (Buenos Aires): recibió 23 disparos. Nadie reivindicó el crimen en ese momento. Dos años después, la revista Evita Montonera lo incluyó en una lista de «ajusticiados» por Montoneros, aunque dirigentes de la organización lo negaron más tarde. La causa se reabrió en 2008 y se archivó en 2012 por prescripción.",
+    "mo": "Un comando lo esperó junto a la casa y le disparó en cuanto salió a la calle, a plena luz del día.",
+    "loc": [
+      [
+        -34.6265,
+        -58.4725,
+        "Avenida Avellaneda 2953, Flores, Buenos Aires (atentado)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de José Ignacio Rucci (Buenos Aires)",
+    "autor": "Atribuido a Montoneros (sin condena)",
+    "fuentes": [
+      {
+        "titulo": "Canal 26, «El día que Montoneros mató a Rucci, el sindicalista de Perón» (25 de septiembre de 2017)",
+        "url": "https://www.canal26.com/politica/2017/09/25/el-dia-que-montoneros-mato-a-rucci-el-sindicalista-de-peron/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Marcelo Gullo, «Veintitrés balas para Perón», Infobae (25 de septiembre de 2020)",
+        "url": "https://www.infobae.com/sociedad/2020/09/25/veintitres-balas-para-peron/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Infobae, «Para la Justicia, el crimen de Rucci no fue un delito de lesa humanidad» (10 de agosto de 2012; copia archivada)",
+        "url": "https://web.archive.org/web/20120812234303/http://www.infobae.com/notas/664001-Para-la-Justicia-el-crimen-de-Rucci-no-fue-un-delito-de-lesa-humanidad.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Clarín, sobre el libro «Operación Traviata» de Ceferino Reato (8 de octubre de 2008)",
+        "url": "http://www.clarin.com/diario/2008/10/08/elpais/p-01776893.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «José Ignacio Rucci» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Rucci",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La autoría de Montoneros procede de la investigación de Ceferino Reato, de testimonios y de la resolución de 2012 del juez Lijo, pero no hubo juicio ni condena: se presenta como atribuida. Mario Firmenich y Roberto Perdía negaron la autoría (Firmenich admitió la «responsabilidad política»). La Evita Montonera fechaba el crimen el «23-09-73». La hora es las 12:11 según la Wikipedia. La reapertura figura como 2008 (Infobae) o 2009 (otra sección de Wikipedia). No se ha podido comprobar si hubo recursos posteriores al archivo de 2012. El artículo de Clarín no se pudo abrir (bloqueo de la copia archivada)."
+  },
+  {
+    "id": "detencion-machine-gun-kelly",
+    "m": 9,
+    "d": 26,
+    "y": 1933,
+    "n": "George «Machine Gun» Kelly",
+    "a": "Machine Gun Kelly",
+    "v": "Ninguna (secuestro)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1933",
+    "st": "Cerrado. George y Kathryn Kelly fueron condenados a cadena perpetua el 12 de octubre de 1933; él murió en la prisión de Leavenworth en 1954 y ella salió en libertad en 1958.",
+    "c": "En la madrugada del 26 de septiembre de 1933, agentes del Bureau of Investigation, el futuro FBI, y la policía de Memphis detuvieron en una casa de esa ciudad a George Kelly Barnes, «Machine Gun» Kelly, y a su esposa, Kathryn. Eran los más buscados por el secuestro del petrolero Charles Urschel, al que la banda se llevó el 22 de julio de su casa de Oklahoma City y retuvo en una granja de Paradise (Texas) hasta cobrar 200.000 dólares de rescate. El 12 de octubre ambos fueron condenados a cadena perpetua. La famosa frase «¡No disparéis, G-Men!» parece un mito periodístico posterior.",
+    "mo": "Secuestro a mano armada de un millonario en su casa, cautiverio en una granja aislada y cobro de un rescate.",
+    "loc": [
+      [
+        35.146,
+        -90.0518,
+        "Memphis, Tennessee (detención de los Kelly)"
+      ],
+      [
+        33.1501,
+        -97.6873,
+        "Paradise, Texas (granja donde retuvieron a Charles Urschel)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "detencion",
+    "titulo_caso": "Detención de George «Machine Gun» Kelly (Memphis)",
+    "autor": "George «Machine Gun» Kelly, Kathryn Kelly, Albert Bates y otros (condenados)",
+    "fuentes": [
+      {
+        "titulo": "FBI, «FBI 100: The Legend of “Machine Gun Kelly”» (26 de septiembre de 2008)",
+        "url": "https://www.fbi.gov/news/stories/2008/september/kelly_092608",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "FBI, «Machine Gun Kelly» (historia, casos famosos)",
+        "url": "https://www.fbi.gov/history/famous-cases/machine-gun-kelly",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture, «Urschel Kidnapping»",
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=UR009",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "FBI Records: The Vault, «Machine Gun Kelly»",
+        "url": "https://vault.fbi.gov/machine-gun-kelly",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Penny Owen, «Machine Gun Kelly Meets His Match», The Oklahoman (20 de julio de 2003)",
+        "url": "https://www.oklahoman.com/story/news/2003/07/20/machine-gun-kelly-meets-his-match/62034425007/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Machine Gun Kelly (gangster)» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Machine_Gun_Kelly_(gangster)",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La frase «Don't shoot, G-Men» la recoge el propio FBI «según la leyenda»; Wikipedia la considera un mito de prensa posterior. La muerte de Kelly en Leavenworth (18 de julio de 1954) y la salida de Kathryn en 1958 proceden de Wikipedia, sin segunda fuente abierta. El artículo de The Oklahoman no se abrió. El punto de Memphis es la ciudad, no la casa de la detención."
+  },
+  {
+    "id": "asesinato-ruiz-massieu",
+    "m": 9,
+    "d": 28,
+    "y": 1994,
+    "n": "Daniel Aguilar Treviño",
+    "a": "El caso Ruiz Massieu",
+    "v": "1",
+    "p": "México",
+    "f": "🇲🇽",
+    "per": "1994",
+    "st": "Daniel Aguilar Treviño y el diputado Fernando Rodríguez González fueron condenados. Raúl Salinas de Gortari, condenado en 1999 como autor intelectual, fue absuelto y liberado en junio de 2005; el móvil nunca se ha aclarado.",
+    "c": "Hacia las 9:22 del 28 de septiembre de 1994, Daniel Aguilar Treviño, de 28 años, disparó en el cuello a José Francisco Ruiz Massieu, secretario general del PRI, cuando subía a su coche tras una reunión en el hotel Casablanca, en la calle Lafragua de Ciudad de México. Era el segundo asesinato político del año en México, tras el del candidato Luis Donaldo Colosio. El diputado Fernando Rodríguez González confesó haber contratado al sicario. Raúl Salinas, hermano del entonces presidente Carlos Salinas, fue condenado en 1999 como autor intelectual, pero un tribunal anuló la condena en 2005 y quedó libre.",
+    "mo": "Un sicario contratado le disparó a quemarropa con una pistola cuando subía a su coche, a la salida de un hotel.",
+    "loc": [
+      [
+        19.4347,
+        -99.1533,
+        "Calle Lafragua, colonia Tabacalera, Ciudad de México (atentado a la salida del hotel Casablanca)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato de José Francisco Ruiz Massieu (Ciudad de México)",
+    "autor": "Daniel Aguilar Treviño (autor material), contratado a través del diputado Fernando Rodríguez González (ambos condenados); Raúl Salinas de Gortari, condenado y después absuelto",
+    "fuentes": [
+      {
+        "titulo": "Milenio, «Caso Colosio: rastros de muerte»",
+        "url": "https://www.milenio.com/policia/caso-colosio-rastros-de-muerte",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Ian Bruce, «Mexico frees ex-leader's brother», BBC News (10 de junio de 2005)",
+        "url": "https://news.bbc.co.uk/1/hi/world/americas/4079372.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Raul Salinas's Sentence in Mexico Murder Is Cut to 27 1/2 Years» (17 de julio de 1999)",
+        "url": "https://www.nytimes.com/1999/07/17/world/raul-salinas-s-sentence-in-mexico-murder-is-cut-to-27-1-2-years.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Los Angeles Times, «U.S. Seizes $9.3 Million in Mexico Case» (16 de marzo de 1995)",
+        "url": "https://www.latimes.com/archives/la-xpm-1995-03-16-mn-43473-story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Washington Post, crónica sobre la condena de Raúl Salinas (22 de enero de 1999)",
+        "url": "https://www.washingtonpost.com/wp-srv/inatl/longterm/mexico/stories/990122.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «José Francisco Ruiz Massieu» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Ruiz_Massieu",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Raúl Salinas fue absuelto: no se le presenta como culpable. La pena de Aguilar Treviño fue de 50 años, rebajada a 42, según Wikipedia; la de Raúl Salinas se rebajó en apelación a 27 años y medio (New York Times) y la BBC dice que cumplió diez años. El diputado Manuel Muñoz Rocha, señalado en la planificación, desapareció y nunca fue juzgado. Hora (9:22) y arma (pistola de 9 mm) según Milenio. No se pudieron abrir los artículos de The New York Times, Los Angeles Times y The Washington Post (citados a partir de Wikipedia). La colonia Tabacalera es la de la calle Lafragua según OpenStreetMap."
+  },
+  {
+    "id": "prats-cuthbert",
+    "m": 9,
+    "d": 30,
+    "y": 1974,
+    "n": "Michael Townley",
+    "a": "El crimen de la calle Malabia",
+    "v": "2",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "1974",
+    "st": "Cerrado con condenas. En Argentina, Enrique Arancibia Clavel fue condenado a cadena perpetua en 2000, condena confirmada en 2004; en Chile, la justicia condenó en 2010 al exjefe de la DINA Manuel Contreras y a otros oficiales. Townley lo confesó tras un acuerdo con la justicia de Estados Unidos y Pinochet nunca fue procesado.",
+    "c": "Poco después de la medianoche del 30 de septiembre de 1974, una bomba accionada a distancia estalló bajo el coche del general Carlos Prats, excomandante en jefe del Ejército chileno, exiliado en Buenos Aires tras el golpe de Pinochet, cuando llegaba con su esposa, Sofía Cuthbert, a su casa de la calle Malabia, en Palermo. Ambos murieron. El agente de la DINA Michael Townley, que construyó, colocó y detonó la bomba, lo confesó años después. Según el National Security Archive, Pinochet había ordenado eliminarlo. La justicia argentina condenó a cadena perpetua a Enrique Arancibia Clavel, y la chilena, al exjefe de la DINA Manuel Contreras y a otros oficiales.",
+    "mo": "Bomba de explosivo plástico pegada bajo el coche y detonada por control remoto cuando las víctimas llegaban a su casa.",
+    "loc": [
+      [
+        -34.5775,
+        -58.4113,
+        "Calle Malabia 3351, Palermo, Buenos Aires (atentado; hoy tramo de la calle República Árabe Siria)"
+      ]
+    ],
+    "vin": [
+      [
+        "atentado-pinochet",
+        "r",
+        "El régimen de Pinochet, que ordenó este crimen, fue el objetivo del atentado del Frente Patriótico Manuel Rodríguez en 1986"
+      ]
+    ],
+    "g": [
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Asesinato del general Carlos Prats y Sofía Cuthbert (Buenos Aires)",
+    "autor": "Michael Townley (agente de la DINA, confeso), con Mariana Callejas; condenados Enrique Arancibia Clavel en Argentina y Manuel Contreras, Pedro Espinoza y otros oficiales de la DINA en Chile",
+    "fuentes": [
+      {
+        "titulo": "Peter Kornbluh (ed.), «The Pinochet Regime at 50: The Assassination of General Carlos Prats and Sofía Cuthbert», National Security Archive, Briefing Book n.º 871 (1 de octubre de 2024)",
+        "url": "https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Chilean agent convicted over Prats' killing» (21 de noviembre de 2000)",
+        "url": "http://news.bbc.co.uk/2/hi/americas/1033329.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Vital rights ruling in Argentina» (2004)",
+        "url": "http://news.bbc.co.uk/2/hi/americas/3596316.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Human Rights Watch, «Chile: Indictments in Prats Case» (25 de febrero de 2003)",
+        "url": "https://www.hrw.org/news/2003/02/25/chile-indictments-prats-case",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Memoria Viva, «Prats González, Carlos» (ficha de víctima; copia archivada)",
+        "url": "https://web.archive.org/web/20060108103451/http://www.memoriaviva.com/Ejecutados/Ejecutados%20P/prats_gonzalez_carlos_.htm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Carlos Prats» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Carlos_Prats",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Dirección: Malabia 3351 según el National Security Archive y 3305 según la Wikipedia en castellano; OpenStreetMap sitúa ese número en el tramo que hoy se llama República Árabe Siria. La condena de Arancibia Clavel es de 2000 según la BBC y figura como 2004 en Wikipedia (año en que la Corte Suprema la confirmó). El National Security Archive data las condenas chilenas en junio de 2010; la Wikipedia inglesa nombra entre los procesados en 2003 a Contreras, Raúl y Roger Iturriaga, Pedro Espinoza y José Zara. Townley confesó en 1983 (Wikipedia) y declaró en 1999 ante la jueza María Servini (National Security Archive). Vínculo con el caso Letelier (21 de septiembre de 1976), obra de la misma red, que no está en el calendario. La copia archivada de Memoria Viva no se pudo abrir."
+  }
+]

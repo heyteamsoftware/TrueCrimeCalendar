@@ -17,12 +17,12 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 |---|---|---|---|
 | 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
 | 11 | 19/19 ✓ | en marcha | — |
-| 10 | 24/24 ✓ | en marcha | — |
+| 10 | 24/24 ✓ | ✓ verificado (11 correcciones) | — |
 | 03 | 23/23 ✓ | en marcha (mirar el 11/3, Ragone: ¿causa cerrada?) | — |
 | 05 | 19/19 ✓ | ✓ verificado (2 correcciones) | — |
 | 02 | 23/23 ✓ | en marcha | — |
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
-| 04 | 23/23 ✓ | en marcha | — |
+| 04 | 23/23 ✓ | ✓ verificado (8 correcciones) | — |
 | 07 | 26/26 ✓ | ✓ verificado (5 correcciones) | — |
 | 08 | 26/26 ✓ | ✓ verificado (13/8 cambiado a Macarthur) | — |
 | 12 | 25/25 ✓ | en marcha | — |

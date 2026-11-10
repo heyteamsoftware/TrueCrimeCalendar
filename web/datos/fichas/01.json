@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "oscar-grant",
+    "m": 1,
+    "d": 1,
+    "y": 2009,
+    "n": "Johannes Mehserle",
+    "a": "La muerte de Oscar Grant",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "2009–2011",
+    "st": "Cerrado. Johannes Mehserle fue condenado por homicidio involuntario a dos años de prisión y quedó en libertad en junio de 2011. BART llegó a acuerdos de indemnización con la hija y la madre de Oscar Grant.",
+    "c": "En la madrugada del 1 de enero de 2009, agentes de la policía del metro de la bahía de San Francisco (BART) sacaron a varios jóvenes de un tren en la estación de Fruitvale, en Oakland, tras un aviso por una pelea. Con Oscar Grant, de 22 años, desarmado y boca abajo en el andén, el agente Johannes Mehserle le disparó por la espalda; murió horas después en el hospital. Los vídeos grabados por los pasajeros provocaron protestas en todo el país. Mehserle, que dijo haber confundido la pistola con su táser, fue condenado en julio de 2010 por homicidio involuntario y salió en libertad en junio de 2011.",
+    "mo": "Un agente de policía disparó con su pistola reglamentaria a un hombre desarmado al que estaba reduciendo en el suelo; alegó que creía estar usando la pistola táser.",
+    "loc": [
+      [
+        37.7748,
+        -122.2241,
+        "Estación de Fruitvale de BART, Oakland (disparo)"
+      ],
+      [
+        37.799,
+        -122.2311,
+        "Highland Hospital, Oakland (donde murió)"
+      ],
+      [
+        34.0547,
+        -118.2443,
+        "Tribunal Superior del condado de Los Ángeles (juicio, trasladado desde Oakland)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La muerte de Oscar Grant en la estación de Fruitvale",
+    "autor": "Johannes Mehserle, agente de la policía de BART (condenado por homicidio involuntario)",
+    "fuentes": [
+      {
+        "titulo": "CBS News / AP, «Ex-Cop Gets 2 Years in Shooting of Unarmed Man» (5 de noviembre de 2010)",
+        "url": "https://www.cbsnews.com/news/ex-cop-gets-2-years-in-shooting-of-unarmed-man",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Chris Richardson, «Mehserle verdict: Johannes Mehserle sentencing stuns Oscar Grant supporters, sparks riots in Oakland», The Christian Science Monitor (5 de noviembre de 2010)",
+        "url": "https://www.csmonitor.com/USA/Justice/2010/1105/Mehserle-verdict-Johannes-Mehserle-sentencing-stuns-Oscar-Grant-supporters-sparks-riots-in-Oakland",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "San Francisco Chronicle, «Deadly BART brawl — officer shoots rider, 22» (2 de enero de 2009; copia archivada)",
+        "url": "https://web.archive.org/web/20090104054941/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2009%2F01%2F02%2FMNB9152I2Q.DTL",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CNN, «Video of California police shooting spurs investigation» (7 de enero de 2009; copia archivada)",
+        "url": "https://web.archive.org/web/20090213064628/http://www.cnn.com/2009/CRIME/01/06/BART.shooting/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CBS San Francisco, «Ex-BART Officer Johannes Mehserle Released From Jail» (13 de junio de 2011)",
+        "url": "http://sanfrancisco.cbslocal.com/2011/06/13/ex-bart-officer-johannes-mehserle-released-from-prison/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "San Francisco Chronicle, «15 years since Oscar Grant's death: What happened at Fruitvale Station?» (23 de febrero de 2024)",
+        "url": "https://www.sfchronicle.com/bayarea/article/10-years-since-oscar-grant-s-death-what-13489585.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Killing of Oscar Grant» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Oscar_Grant",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Las cifras de las indemnizaciones no coinciden: Wikipedia da 2,8 millones de dólares en total en un apartado y 5,1 millones (hija) más 1,3 millones (madre) en otro; por eso no se dan cifras. El abono de prisión preventiva figura como 292 días (CS Monitor) o 293 (CBS/AP). Las copias archivadas del San Francisco Chronicle y de CNN y la noticia de CBS San Francisco no se pudieron abrir; el artículo del Chronicle de 2024 no cargó."
+  },
+  {
+    "id": "asedio-sidney-street",
+    "m": 1,
+    "d": 3,
+    "y": 1911,
+    "n": "Fritz Svaars y William Sokoloff",
+    "a": "El asedio de Sidney Street",
+    "v": "3 policías en Houndsditch; 2 atrincherados muertos en el asedio",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1910–1911",
+    "st": "Cerrado. Los dos atrincherados murieron en el asedio. En el juicio por los crímenes de Houndsditch (Old Bailey, mayo de 1911) los acusados fueron absueltos, y la única condena, por un delito menor, se anuló en apelación.",
+    "c": "El 16 de diciembre de 1910, una banda de inmigrantes letones que intentaba asaltar una joyería de Houndsditch, en la City de Londres, mató a tiros a tres policías. La investigación llevó a la policía hasta el número 100 de Sidney Street, en Stepney, donde se escondían dos de sus miembros. El 3 de enero de 1911, unos 200 agentes y un destacamento de la Guardia Escocesa cercaron la casa en presencia del ministro del Interior, Winston Churchill. Tras horas de tiroteo, el edificio ardió y aparecieron los cuerpos de Fritz Svaars y William Sokoloff. En el juicio posterior, ningún acusado fue condenado de forma definitiva.",
+    "mo": "Robo frustrado a una joyería mediante un túnel desde la casa contigua; al ser sorprendidos, los ladrones dispararon contra los policías. Después, dos de ellos resistieron armados en una vivienda hasta que ardió.",
+    "loc": [
+      [
+        51.5182,
+        -0.0547,
+        "100 Sidney Street, Stepney (asedio e incendio)"
+      ],
+      [
+        51.515,
+        -0.0775,
+        "Exchange Buildings, Houndsditch (robo frustrado y muerte de los tres policías)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "londres"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asedio de Sidney Street",
+    "autor": "Banda de anarquistas letones de Houndsditch; los dos atrincherados, Fritz Svaars y William Sokoloff, murieron en el asedio",
+    "fuentes": [
+      {
+        "titulo": "Ben Johnson, «The Siege of Sidney Street», Historic UK",
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Siege-of-Sidney-Street/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "London Remembers, «Sidney Street siege» (placas y monumentos de Londres)",
+        "url": "https://londonremembers.com/subjects/sidney-street-siege",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The Manchester Guardian, «Murderers' Siege in London» (4 de enero de 1911, p. 7)",
+        "url": "https://www.theguardian.com/century/1910-1919/Story/0,,126417,00.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Stephen Bates, «Sidney Street siege resonates even 100 years on», The Guardian (2 de enero de 2011)",
+        "url": "https://www.theguardian.com/uk/2011/jan/02/sidney-street-siege-100-years",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Sanchia Berg, «Sidney St: The siege that shook Britain», BBC Radio 4 Today (13 de diciembre de 2010)",
+        "url": "https://news.bbc.co.uk/today/hi/today/newsid_9278000/9278432.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Andy McSmith, «Siege of Sidney Street: How the dramatic stand-off changed British police, politics and the media forever», The Independent (11 de diciembre de 2010)",
+        "url": "https://www.independent.co.uk/news/uk/crime/siege-of-sidney-street-how-the-dramatic-stand-off-changed-british-police-politics-and-the-media-2154651.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Old Bailey Proceedings, juicio de Zurka Dubof, Jacob Peters, John Rosen y Nina Vassileva (25 de abril de 1911)",
+        "url": "https://www.oldbaileyonline.org/browse.jsp?div=t19110425-75",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Siege of Sidney Street» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Sidney_Street",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Casi todas las fuentes dan el 3 de enero de 1911; la selección cita una (London Museum) que habla del 4. Las fuentes no coinciden en cómo murió cada uno: Historic UK dice que Sokoloff murió de un disparo y Svaars al hundirse el techo en llamas; London Remembers, que uno murió por disparo y el otro por el humo. El nombre de pila de Sokoloff aparece como William o Josef. El bombero Charles Pearson murió seis meses después por las heridas de un derrumbe. No se pudieron abrir The Guardian, BBC, The Independent ni Old Bailey Online (bloqueados o con error 403); sus datos se tomaron de las referencias de Wikipedia. Coordenadas de los dos lugares aproximadas (los edificios ya no existen)."
+  },
+  {
+    "id": "familia-yablonski",
+    "m": 1,
+    "d": 5,
+    "y": 1970,
+    "n": "Tony Boyle",
+    "a": "El crimen de los Yablonski",
+    "v": "3",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1969–1970",
+    "st": "Cerrado. Los tres sicarios y varios intermediarios fueron condenados. Tony Boyle, condenado en 1974, fue juzgado de nuevo tras anularse esa sentencia y condenado otra vez en 1978; murió en prisión en 1985.",
+    "c": "Joseph «Jock» Yablonski perdió en diciembre de 1969 las elecciones a la presidencia del sindicato minero UMWA frente a Tony Boyle, y pidió al Gobierno que investigara un fraude. En Nochevieja, tres hombres contratados entraron en su granja de Clarksville (Pensilvania) y lo mataron a tiros junto a su esposa, Margaret, y su hija Charlotte, de 25 años, mientras dormían. Su hijo Kenneth encontró los cuerpos el 5 de enero de 1970. La investigación siguió el dinero hasta la cúpula del sindicato: los sicarios y varios intermediarios fueron condenados, y Boyle, juzgado en 1974 y de nuevo en 1978, murió en prisión.",
+    "mo": "Asesinato por encargo: dirigentes del sindicato pagaron con fondos sindicales a tres hombres de Cleveland, que dispararon a la familia mientras dormía.",
+    "loc": [
+      [
+        39.9726,
+        -80.0412,
+        "Clarksville, Pensilvania (granja de los Yablonski, crimen y hallazgo)"
+      ],
+      [
+        39.9168,
+        -75.388,
+        "Media, condado de Delaware (juicio de Tony Boyle)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "El asesinato de la familia Yablonski",
+    "autor": "Paul Gilly, Claude Vealey y Aubran Martin, por encargo del presidente del sindicato, Tony Boyle (todos condenados)",
+    "fuentes": [
+      {
+        "titulo": "HISTORY.com Editors, «Bodies of family killed by United Mine Workers found», This Day in History (5 de enero)",
+        "url": "https://www.history.com/this-day-in-history/january-5/the-united-mine-workers-killings",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Steve Mellon, «Murder of the Yablonskis», The Digs, Pittsburgh Post-Gazette (26 de abril de 2013)",
+        "url": "https://newsinteractive.post-gazette.com/thedigs/2013/04/26/murder-of-the-yablonskis/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Observer-Reporter, «Last surviving Yablonski assassin dies» (5 de agosto de 2021)",
+        "url": "https://cs.observer-reporter.com/?p=330611",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CBS Philadelphia, «KYW Flashback: Local Miner, His Family Murdered After Power Battle» (1 de mayo de 2015)",
+        "url": "https://www.cbsnews.com/philadelphia/news/kyw-flashback-local-miner-his-family-murdered-after-power-battle/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Yablonski of U.M.W. Slain With Wife and Daughter» (6 de enero de 1970)",
+        "url": "https://www.nytimes.com/1970/01/06/archives/yablonski-of-umw-slain-with-wife-and-daughter-yablonski-of-umw-wife.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Joseph Yablonski» y «W. A. Boyle» (punto de partida; consultadas por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Yablonski",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El número de condenados varía: Wikipedia habla de siete personas condenadas por asesinato y conspiración; HISTORY.com, de nueve, incluido Boyle. La anulación de la primera condena de Boyle (Tribunal Supremo de Pensilvania, 28 de enero de 1977) y la segunda condena (18 de febrero de 1978) se apoyan en Wikipedia («W. A. Boyle») y en el Observer-Reporter, que no da fechas. El artículo de The New York Times no se pudo abrir."
+  },
+  {
+    "id": "vuelo-2511",
+    "m": 1,
+    "d": 6,
+    "y": 1960,
+    "n": "Vuelo 2511 de National Airlines",
+    "a": "La bomba del vuelo 2511",
+    "v": "34",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1960",
+    "st": "Sin resolver. La Junta de Aeronáutica Civil atribuyó la explosión a una carga de dinamita, pero nadie fue acusado y el FBI nunca identificó a un responsable.",
+    "c": "En la madrugada del 6 de enero de 1960, un DC-6B de National Airlines que había despegado de Nueva York rumbo a Miami estalló en el aire y cayó cerca de Bolivia, en Carolina del Norte; murieron las 34 personas a bordo, 29 pasajeros y 5 tripulantes. La Junta de Aeronáutica Civil concluyó que una carga de dinamita, activada con pilas secas, había detonado en la cabina de pasajeros. El FBI investigó a un pasajero sentado junto al punto de la explosión, el abogado neoyorquino Julian Frank, que tenía deudas y seguros de vida millonarios, pero nunca se probó nada y nadie fue acusado.",
+    "mo": "Una carga de dinamita con pilas secas como detonador estalló bajo un asiento de la cabina de pasajeros en pleno vuelo.",
+    "loc": [
+      [
+        34.0798,
+        -78.1805,
+        "Cerca de Bolivia, condado de Brunswick, Carolina del Norte (caída del avión)"
+      ],
+      [
+        40.6413,
+        -73.7781,
+        "Aeropuerto de Idlewild, Nueva York (despegue)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La bomba del vuelo 2511 de National Airlines",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "Civil Aeronautics Board, «Aircraft Accident Report: National Airlines, Inc., Douglas DC-6B, N8225H, near Bolivia, North Carolina, January 6, 1960» (informe 1-0002, 1960)",
+        "url": "https://rosap.ntl.bts.gov/view/dot/33637",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "TIME, «Aviation: Rising Toll» (7 de marzo de 1960)",
+        "url": "https://time.com/archive/6829700/aviation-rising-toll",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Elizabeth Hull, «Mystery in mid-air», A View to Hugh, Bibliotecas de la Universidad de Carolina del Norte (16 de enero de 2009)",
+        "url": "https://blogs.lib.unc.edu/morton/?p=1387",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Ben Steelman, «50 years later, locals recall mysterious circumstances of NAL Flight 2511 plane crash», Wilmington StarNews (5 de enero de 2010)",
+        "url": "https://www.starnewsonline.com/story/news/2010/01/05/50-years-later-locals-recall-mysterious-circumstances-of-nal-flight-2511-plane-crash/30818419007/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "FBI Records: The Vault, «National Airlines Flight 2511»",
+        "url": "https://vault.fbi.gov/national-airlines-flight-2511",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «National Airlines Flight 2511» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/National_Airlines_Flight_2511",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Julian Frank solo puede presentarse como hipótesis: nunca se le acusó. La cifra de sus seguros varía (casi 900.000 dólares según Wikipedia, más de un millón según TIME). La hora de salida de Idlewild es las 23:52 según Wikipedia y las 23:34 en otras fuentes. El informe de la CAB en PDF es una imagen escaneada sin texto legible; sus conclusiones se tomaron de Wikipedia y de TIME. No se pudieron abrir StarNews ni el archivo del FBI (error 403). Coordenadas del lugar del choque tomadas de Wikipedia."
+  },
+  {
+    "id": "pedro-joaquin-chamorro",
+    "m": 1,
+    "d": 10,
+    "y": 1978,
+    "n": "Pedro Joaquín Chamorro Cardenal",
+    "a": "El asesinato de Pedro Joaquín Chamorro",
+    "v": "1",
+    "p": "Nicaragua",
+    "f": "🇳🇮",
+    "per": "1978",
+    "st": "Sin aclarar del todo. Cuatro hombres fueron detenidos al día siguiente y uno confesó haber cobrado por el crimen; el empresario Pedro Ramos, al que señaló como pagador, lo negó desde Miami, fue condenado en ausencia tras la revolución y murió sin volver a Nicaragua. La autoría intelectual sigue discutida.",
+    "c": "Pedro Joaquín Chamorro Cardenal, director del diario La Prensa y principal voz de la oposición a la dictadura de Anastasio Somoza Debayle, fue asesinado la mañana del 10 de enero de 1978 en Managua, cuando iba en su coche al periódico: desde otro vehículo le dispararon con escopetas. Al día siguiente fueron detenidos cuatro hombres, y uno de ellos declaró ante el juez que había cobrado por el crimen de manos del empresario cubanoamericano Pedro Ramos, cuyo banco de sangre había denunciado La Prensa. Somoza negó cualquier implicación, pero la oposición lo culpó, y el asesinato desató disturbios, una huelga general y la insurrección que acabó con la dictadura en 1979.",
+    "mo": "Emboscada en la calle: un coche se puso a la altura del suyo y desde él le dispararon varias veces con escopetas.",
+    "loc": [
+      [
+        12.1364,
+        -86.2514,
+        "Managua (asesinato en el trayecto de su casa al periódico)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Pedro Joaquín Chamorro",
+    "autor": "Sicarios a sueldo, entre ellos Silvio Peña Rivas (acusado); la instigación se atribuyó al empresario Pedro Ramos o al régimen de Somoza, sin que se haya aclarado",
+    "fuentes": [
+      {
+        "titulo": "TIME, «Nicaragua: Shotguns Silence a Critic» (23 de enero de 1978)",
+        "url": "https://content.time.com/time/subscriber/article/0,33009,919311-2,00.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Tico Times, «Slain publisher's example still inspires in Nicaragua» (20 de enero de 2011)",
+        "url": "https://ticotimes.net/2011/01/20/slain-publisher-s-example-still-inspires-in-nicaragua",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Divergentes, «Directors of La Prensa in the face of dictatorships» (8 de septiembre de 2023)",
+        "url": "https://www.divergentes.com/la-prensa-nicaragua-chamorro-director/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Pedro Joaquín Chamorro Cardenal, «Estirpe sangrienta: los Somoza», con introducción de Arturo Cruz Porras, Confidencial (edición digital)",
+        "url": "https://club.confidencial.digital/2020/10/07/estirpe-sangrienta-los-somoza/",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "La Prensa (Nicaragua), «El asesinato de Pedro Joaquín Chamorro» (10 de enero de 2017)",
+        "url": "https://www.laprensani.com/2017/01/10/nacionales/2161049-el-asesinato-de-pedro-joaquin-chamorro",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Tina Rosenberg, «The Many Stories of Carlos Fernando Chamorro», The New York Times Magazine (22 de marzo de 2009)",
+        "url": "https://www.nytimes.com/2009/03/22/magazine/22Nicaragua-t.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Pedro Joaquín Chamorro Cardenal» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Pedro_Joaqu%C3%ADn_Chamorro_Cardenal",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Tema político muy vivo en Nicaragua: la autoría intelectual no se atribuye. Wikipedia en castellano sitúa el ataque hacia las 8:15 en la esquina de la calle Trébol con la avenida Bolívar y dice que disparó Silvio Peña; no se ha encontrado una segunda fuente para la esquina exacta, por eso la coordenada es la de Managua. No se ha podido confirmar qué penas recibieron los autores materiales detenidos. La condena en ausencia de Pedro Ramos se apoya solo en Wikipedia en inglés. No se pudieron abrir La Prensa (403), The New York Times ni el documento del MINED de Nicaragua."
+  },
+  {
+    "id": "carlo-tresca",
+    "m": 1,
+    "d": 11,
+    "y": 1943,
+    "n": "Carlo Tresca",
+    "a": "El asesinato de Carlo Tresca",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1943",
+    "st": "Sin resolver. El principal sospechoso, el mafioso Carmine Galante, pasó cerca de un año detenido por violar la libertad condicional, pero nunca fue acusado del crimen; la investigación siguió abierta sin resultado hasta los años sesenta.",
+    "c": "Carlo Tresca, anarquista nacido en Sulmona (Italia) y director del periódico Il Martello en Nueva York, llevaba décadas enfrentado al fascismo de Mussolini, a los comunistas estalinistas y a la Mafia. La noche del 11 de enero de 1943, mientras cruzaba con un amigo la esquina de la Quinta Avenida con la calle 15, un hombre bajó de un Ford negro y le disparó en la cabeza; murió en el acto. Varios testigos relacionaron el coche con el mafioso Carmine Galante, que fue detenido por violar la libertad condicional, pero nunca se le acusó. Ni el asesino ni quien lo encargó fueron identificados.",
+    "mo": "Un pistolero bajó de un coche, le disparó por la espalda en plena calle y huyó en la oscuridad.",
+    "loc": [
+      [
+        40.7366,
+        -73.9937,
+        "Quinta Avenida con la calle 15, Manhattan (asesinato)"
+      ],
+      [
+        42.048,
+        13.9262,
+        "Sulmona, Italia (donde nació)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Carlo Tresca",
+    "autor": "Desconocido (la policía sospechó de Carmine Galante, que nunca fue acusado)",
+    "fuentes": [
+      {
+        "titulo": "Matteo Pretelli, «Tresca, Carlo», Dizionario Biografico degli Italiani, vol. 96, Treccani (2019)",
+        "url": "https://www.treccani.it/enciclopedia/carlo-tresca_(Dizionario-Biografico)/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Daniel Aaron, «Who Killed Carlo Tresca?», The New York Review of Books (15 de junio de 1989)",
+        "url": "https://www.nybooks.com/articles/1989/06/15/who-killed-carlo-tresca/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Alfred Kazin, «Who Hired the Assassin?», The New York Times (2 de octubre de 1988)",
+        "url": "https://www.nytimes.com/1988/10/02/books/who-hired-the-assassin.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Dorothy Gallagher, «All the Right Enemies: The Life and Murder of Carlo Tresca», Rutgers University Press (1988)",
+        "url": "https://books.google.com/books?vid=ISBN9780813513102",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Nunzio Pernicone, «Carlo Tresca: Portrait of a Rebel», Palgrave Macmillan (2005)",
+        "url": "https://books.google.com/books?id=lUPIAAAAQBAJ",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "The New York Sun, «On the Town: Analysis of an Unsolved Murder»",
+        "url": "https://www.nysun.com/article/on-the-town-analysis-of-an-unsolved-murder",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Carlo Tresca» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Carlo_Tresca",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Hay varias hipótesis sobre quién encargó el crimen (Vito Genovese, Frank Garofalo y el editor Generoso Pope, el comunista Vittorio Vidali, el régimen fascista); Dorothy Gallagher apunta a Garofalo, pero ninguna se ha probado. El resumen de la reseña de la NYRB devolvió «11 de julio», seguramente por error de lectura: Treccani y Wikipedia (inglés e italiano) dan el 11 de enero. No se pudieron abrir Dissent (403), The New York Sun (429) ni The New York Times."
+  },
+  {
+    "id": "crimen-fago",
+    "m": 1,
+    "d": 12,
+    "y": 2007,
+    "n": "Santiago Mainar",
+    "a": "El crimen de Fago",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "2007",
+    "st": "Cerrado. La Audiencia Provincial de Huesca condenó a Santiago Mainar en diciembre de 2009 a 20 años y 9 meses de prisión, y el Tribunal Supremo confirmó la sentencia en 2010. El condenado niega los hechos.",
+    "c": "La tarde del 12 de enero de 2007, Miguel Grima, alcalde de Fago, un pequeño pueblo del Pirineo de Huesca, fue asesinado de un disparo en una emboscada en la carretera entre Majones y Fago, cuando volvía a casa desde Jaca. El pueblo arrastraba años de enfrentamientos entre algunos vecinos y el alcalde. A principios de febrero, la Guardia Civil detuvo al guarda forestal Santiago Mainar, vecino de Fago, que confesó y después se retractó. La Audiencia Provincial de Huesca lo condenó en 2009 a 20 años y 9 meses de prisión por asesinato y atentado contra la autoridad, y el Tribunal Supremo confirmó la condena.",
+    "mo": "Emboscada en una carretera de montaña: esperó al alcalde cuando volvía en coche y le disparó a pocos metros.",
+    "loc": [
+      [
+        42.7344,
+        -0.8822,
+        "Fago, Huesca (pueblo de la víctima y del condenado)"
+      ],
+      [
+        42.5705,
+        -0.5496,
+        "Jaca (de donde volvía el alcalde)"
+      ],
+      [
+        42.1401,
+        -0.408,
+        "Huesca (juicio en la Audiencia Provincial)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El crimen de Fago",
+    "autor": "Santiago Mainar (condenado)",
+    "fuentes": [
+      {
+        "titulo": "Legal Today, «El TS confirma la condena para Mainar por el crimen de Fago» (10 de noviembre de 2010)",
+        "url": "https://www.legaltoday.com/practica-juridica/derecho-penal/penal/el-ts-confirma-la-condena-para-mainar-por-el-crimen-de-fago-2010-11-10/",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "EFE / Público, «Mainar asiste hoy en Jaca a la declaración indagatoria por el caso Fago» (8 de enero de 2009)",
+        "url": "https://www.publico.es/actualidad/mainar-asiste-hoy-jaca-declaracion.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Eduardo Bayona, «Fago: crimen en el pueblo sin tierra», Público (14 de enero de 2017)",
+        "url": "https://www.publico.es/sociedad/fago-crimen-pueblo-tierra.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El Mundo, «El Supremo confirma la condena a Santiago Mainar por el crimen de Fago» (27 de octubre de 2010)",
+        "url": "https://www.elmundo.es/elmundo/2010/10/27/espana/1288167361.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Fago» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Fago",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La fecha del crimen es el 12 de enero de 2007 según Legal Today y EFE; Wikipedia en inglés da el 13 (seguramente el día del hallazgo). La fecha exacta de la detención (2 o 4 de febrero de 2007) varía según la fuente. Mainar recurrió alegando que debió juzgarle un jurado popular; el Supremo lo rechazó. No se ha comprobado si sigue en prisión hoy. No se pudo abrir El Mundo (bloqueado), ni la página de Wikipedia en castellano (no existe). Coordenadas de los municipios, no del lugar exacto de la emboscada."
+  },
+  {
+    "id": "robo-banco-rio-acassuso",
+    "m": 1,
+    "d": 13,
+    "y": 2006,
+    "n": "Luis Mario Vitette Sellanes",
+    "a": "El robo del siglo",
+    "v": "Ninguna (robo con 23 rehenes ilesos)",
+    "p": "Argentina",
+    "f": "🇦🇷",
+    "per": "2006",
+    "st": "Cerrado. En 2010 el Tribunal Oral en lo Criminal n.º 6 de San Isidro condenó a cuatro miembros de la banda a penas de entre 9 y 15 años, y Vitette Sellanes aceptó en juicio abreviado una pena unificada de 21 años y medio; las penas se redujeron después en casación y todos han salido ya de prisión.",
+    "c": "El 13 de enero de 2006, a mediodía, varios hombres armados y disfrazados entraron en la sucursal del Banco Río de Acassuso, en San Isidro (Buenos Aires), y tomaron 23 rehenes. Mientras negociaban durante horas con la policía, que rodeaba el edificio, otros vaciaban las cajas de seguridad del sótano. Cuando los agentes entraron, la banda había huido por un túnel excavado hasta los desagües pluviales, dejando un mensaje burlón en la cámara. La esposa de uno de los autores dio los nombres a la policía, y en 2010 cinco de ellos fueron condenados.",
+    "mo": "Toma de rehenes simulada para ganar tiempo mientras se vaciaban las cajas de seguridad; huida por un túnel excavado durante meses desde los desagües pluviales hasta la cámara del banco.",
+    "loc": [
+      [
+        -34.4772,
+        -58.503,
+        "Sucursal del Banco Río, avenida del Libertador y Perú, Acassuso (asalto)"
+      ],
+      [
+        -34.471,
+        -58.5135,
+        "San Isidro (sede del Tribunal Oral en lo Criminal n.º 6, juicio)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "golpes",
+      "argentina",
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "golpe",
+    "titulo_caso": "El robo del siglo (Banco Río de Acassuso)",
+    "autor": "Banda de Luis Mario Vitette Sellanes, Fernando Araujo, Rubén Alberto de la Torre, Sebastián García Bolster y José Julián Zalloecheverría (condenados)",
+    "fuentes": [
+      {
+        "titulo": "Cristian Alarcón y Raúl Kollmann, «El arte de la fuga tras asaltar un banco», Página/12 (14 de enero de 2006)",
+        "url": "https://www.pagina12.com.ar/diario/elpais/1-61691-2006-01-14.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Infobae, «A un año del golpe del siglo: el robo al Banco Río» (14 de enero de 2007)",
+        "url": "https://www.infobae.com/2007/01/14/296360-a-un-ano-del-golpe-del-siglo-el-robo-al-banco-rio/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Capital, «En juicio abreviado condenan al líder del “Robo del Siglo”» (20 de agosto de 2010)",
+        "url": "https://www.lacapital.com.ar/policiales/en-juicio-abreviado-condenan-al-liacuteder-del-robo-del-siglo-n358106.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Infobae, «Comenzó el juicio por el “Robo del Siglo” al Banco Río» (15 de febrero de 2010)",
+        "url": "https://www.infobae.com/2010/02/15/500566-comenzo-el-juicio-el-robo-del-siglo-al-banco-rio/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "La Nación, «Caso Banco Río: el botín millonario que salió por un túnel de Acassuso en el robo del siglo»",
+        "url": "https://www.lanacion.com.ar/seguridad/caso-banco-rio-el-botin-millonario-que-salio-por-un-tunel-de-acassuso-en-el-robo-del-siglo-nid2536501/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Clarín, «Las imágenes del robo del siglo: Banco Río de Acassuso, con 23 rehenes y 19 millones de dólares de botín»",
+        "url": "https://www.clarin.com/policiales/fotogalerias-imagenes-robo-siglo-banco-rio-acassuso-23-rehenes-19-millones-dolares-botin_5_Wl3fVhH1.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Robo al Banco Río de Acassuso» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Robo_al_Banco_R%C3%ADo_de_Acassuso",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El botín no se conoce con exactitud: Infobae (2007) habla de unos 8 millones de dólares y La Capital y Clarín, de unos 19 millones; por eso el resumen no da cifra. El número de cajas vaciadas es 143 según Wikipedia y La Capital, y 147 según la selección. Página/12 da la dirección como avenida del Libertador 14800; las coordenadas son aproximadas. La frase del mensaje («En barrio de ricachones, sin armas ni rencores, es sólo plata y no amores») solo se ha visto en Wikipedia. Las condenas de cuatro autores se dictaron el 21 de mayo de 2010 (La Capital). No se abrieron La Nación ni Clarín."
+  },
+  {
+    "id": "asesinato-kabila",
+    "m": 1,
+    "d": 16,
+    "y": 2001,
+    "n": "Laurent-Désiré Kabila",
+    "a": "El asesinato de Kabila",
+    "v": "1",
+    "p": "República Democrática del Congo",
+    "f": "🇨🇩",
+    "per": "2001–2003",
+    "st": "Juzgado, pero sin aclarar. En enero de 2003 un tribunal militar especial condenó a muerte a 26 acusados, entre ellos el coronel Eddy Kapend, y absolvió a 45; nadie fue ejecutado y en enero de 2021 el presidente Félix Tshisekedi indultó a 28 condenados. Quién ordenó el crimen sigue sin saberse.",
+    "c": "El 16 de enero de 2001, en plena segunda guerra del Congo, el presidente Laurent-Désiré Kabila fue tiroteado en su despacho del Palacio de Mármol de Kinshasa por un miembro de su guardia personal, un antiguo niño soldado. El subteniente Rachidi Kasereka, al que se presentó como autor de los disparos, murió abatido por otros escoltas. El Gobierno no confirmó la muerte hasta el 18 de enero, y su hijo Joseph Kabila le sucedió. En enero de 2003, un tribunal militar condenó a muerte a 26 acusados, entre ellos el coronel Eddy Kapend, en un juicio criticado por las organizaciones de derechos humanos.",
+    "mo": "Un escolta de la guardia presidencial le disparó a quemarropa con un arma corta en su propio despacho.",
+    "loc": [
+      [
+        -4.3639,
+        15.2508,
+        "Palacio de Mármol, Ngaliema, Kinshasa (atentado)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Laurent-Désiré Kabila",
+    "autor": "Rachidi Kasereka, escolta presidencial (muerto en el acto); la autoría intelectual no se ha aclarado",
+    "fuentes": [
+      {
+        "titulo": "Larousse, «République démocratique du Congo : Kabila tué par ses “enfants”», Journal de l'année 2002",
+        "url": "https://www.larousse.fr/archives/journaux_annee/2002/1/republique_democratique_du_congo_kabila_tue_par_ses_enfants",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The New Humanitarian (IRIN), «Court condemns 26 to death, acquits 45 in Kabila murder trial» (7 de enero de 2003)",
+        "url": "https://www.thenewhumanitarian.org/news/2003/01/07/court-condemns-26-death-acquits-45-kabila-murder-trial",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Le Monde, «Ces enfants-soldats qui ont tué Kabila» (10 de febrero de 2001)",
+        "url": "https://www.lemonde.fr/archives/article/2001/02/10/ces-enfants-soldats-qui-ont-tue-kabila_4181002_1819218.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Stuart Jeffries, «Revealed: how Africa's dictator died at the hands of his boy soldiers», The Observer (11 de febrero de 2001)",
+        "url": "https://www.theguardian.com/world/2001/feb/11/theobserver",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Economist, «Who killed Laurent Kabila?» (21 de marzo de 2002)",
+        "url": "https://www.economist.com/middle-east-and-africa/2002/03/21/who-killed-laurent-kabila",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The East African, «Tshisekedi pardons Laurent Kabila killers» (enero de 2021)",
+        "url": "https://www.theeastafrican.co.ke/tea/rest-of-africa/tshisekedi-pardons-kabila-killers-3255186",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Assassination of Laurent-Désiré Kabila» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Laurent-D%C3%A9sir%C3%A9_Kabila",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "El autor material no está claro: Wikipedia lo llama Rashidi Mizele (o Kasereka), de 18 años, y Larousse dice que el niño soldado que disparó huyó y que el subteniente Rachidi Kasereka, que cubría la huida, murió y fue presentado después como el asesino. La muerte se anunció oficialmente el 18 de enero; según Wikipedia, se le declaró muerto en Harare (Zimbabue). El número de procesados varía (135 o 115). El veredicto de 2003 se confirmó por el resumen de búsqueda de The New Humanitarian y de Hands Off Cain, sin abrir las páginas (403). No se pudieron abrir Le Monde, The Observer, The Economist ni The East African. Coordenadas del palacio tomadas de Wikipedia en francés."
+  },
+  {
+    "id": "secuestro-pastrana",
+    "m": 1,
+    "d": 18,
+    "y": 1988,
+    "n": "Los Extraditables (cartel de Medellín)",
+    "a": "El secuestro de Andrés Pastrana",
+    "v": "Ninguna (secuestro; el rehén salió ileso)",
+    "p": "Colombia",
+    "f": "🇨🇴",
+    "per": "1988",
+    "st": "Cerrado. Pastrana fue liberado por la policía tras siete días de cautiverio. Valentín de Jesús Taborda, del cartel de Medellín, aceptó en 1994 ser el autor material del secuestro.",
+    "c": "La noche del 18 de enero de 1988, un grupo armado irrumpió en la sede de campaña de Andrés Pastrana en Bogotá, entonces periodista y candidato a la alcaldía, y se lo llevó. Los captores dijeron ser guerrilleros del M-19, pero el secuestro era obra de Los Extraditables, el grupo armado del cartel de Medellín, que buscaba presionar al Gobierno contra la extradición de narcotraficantes a Estados Unidos. Lo trasladaron a una finca de El Retiro (Antioquia), donde el 25 de enero lo encontró una patrulla de la policía, que lo liberó sin disparos. Ese mismo día, Los Extraditables asesinaron al procurador general, Carlos Mauro Hoyos. En marzo, Pastrana ganó la alcaldía de Bogotá.",
+    "mo": "Un comando armado que se hizo pasar por guerrilleros entró en la oficina de campaña, sacó al candidato en el maletero de un coche y lo trasladó a una finca de Antioquia.",
+    "loc": [
+      [
+        4.634,
+        -74.073,
+        "Barrio La Soledad, Bogotá (sede de campaña, secuestro)"
+      ],
+      [
+        6.0594,
+        -75.5025,
+        "El Retiro, Antioquia (finca del cautiverio y liberación)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El secuestro de Andrés Pastrana",
+    "autor": "Los Extraditables, grupo armado del cartel de Medellín; Valentín de Jesús Taborda aceptó ser el autor material",
+    "fuentes": [
+      {
+        "titulo": "El Tiempo, «Yo secuestré a Andrés Pastrana» (5 de marzo de 1994)",
+        "url": "https://www.eltiempo.com/archivo/documento/MAM-65031",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "María Teresa Valenzuela A., «En libertad el político colombiano Andrés Pastrana», El Colombiano, Casillero de Letras (archivo del 26 de enero de 1988)",
+        "url": "https://www.elcolombiano.com/blogs/casillerodeletras/?p=10398",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Roberto Ortiz de Zárate, «Andrés Pastrana Arango», Biografías de Líderes Políticos, CIDOB",
+        "url": "https://www.cidob.org/lider-politico/andres-pastrana-arango",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Biografías y Vidas, «Andrés Pastrana»",
+        "url": "https://www.biografiasyvidas.com/biografia/p/pastrana.htm",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "El Espectador, «Dos secuestros y tres mártires más» (31 de agosto de 2012)",
+        "url": "https://www.elespectador.com/noticias/dos-secuestros-y-tres-martires-mas-articulo-371545",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Edgar Torres y Armando Sarmiento, «Rehenes de la mafia», Intermedio Editores (1998)",
+        "url": "https://books.google.com.co/books?id=7G7FAAAAIAAJ",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Andrés Pastrana Arango» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Pastrana_Arango",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "CIDOB sitúa el secuestro «en Antioquia», pero Wikipedia y Biografías y Vidas lo sitúan en Bogotá, que es lo aceptado (lo llevaron después a Antioquia). Según Wikipedia y El Colombiano, un policía se ofreció a quedarse como rehén a cambio de Pastrana; El Colombiano dice que la policía lo encontró por casualidad. Wikipedia nombra a alias Popeye como responsable del secuestro, dato que no se ha contrastado. No se pudo abrir el artículo de El Espectador (devolvió la portada). Coordenada de La Soledad aproximada."
+  },
+  {
+    "id": "arturo-ruiz",
+    "m": 1,
+    "d": 23,
+    "y": 1977,
+    "n": "José Ignacio Fernández Guaza",
+    "a": "El asesinato de Arturo Ruiz",
+    "v": "1",
+    "p": "España",
+    "f": "🇪🇸",
+    "per": "1977",
+    "st": "Impune. El autor señalado huyó de España y nunca fue juzgado; la Audiencia Nacional declaró prescrito el asesinato en 2000. Solo Jorge Cesarsky, dueño de la pistola, fue condenado en 1978 por terrorismo y tenencia ilícita de armas.",
+    "c": "El domingo 23 de enero de 1977, Arturo Ruiz, un estudiante granadino de 19 años, murió de un disparo por la espalda en el centro de Madrid, entre las calles de la Estrella y de Silva, durante una manifestación a favor de la amnistía. Le disparó un miembro de un grupo de ultraderecha, identificado como José Ignacio Fernández Guaza, que huyó del país en pocas horas. Jorge Cesarsky, dueño de la pistola, fue condenado en 1978, pero salió en libertad al año. El asesinato prescribió en 2000. En 2023, El País localizó a Fernández Guaza en Argentina. Al día siguiente del crimen se produjo la matanza de Atocha.",
+    "mo": "Un grupo de ultraderechistas armados atacó a los manifestantes en la calle; uno de ellos disparó dos veces contra el joven, por la espalda.",
+    "loc": [
+      [
+        40.4214,
+        -3.7074,
+        "Calles de la Estrella y de Silva, Madrid (asesinato)"
+      ],
+      [
+        40.422,
+        -3.7057,
+        "Plaza de la Luna, Madrid (placa en su memoria desde 2019)"
+      ],
+      [
+        37.1773,
+        -3.5986,
+        "Granada (donde nació)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "espana"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Arturo Ruiz",
+    "autor": "Atribuido a José Ignacio Fernández Guaza, de los Guerrilleros de Cristo Rey (nunca juzgado); Jorge Cesarsky, dueño del arma, fue condenado",
+    "fuentes": [
+      {
+        "titulo": "Alejandro Torrús, «Arturo Ruiz, el joven asesinado por ultraderechistas que aparece en el penúltimo párrafo de la Historia», Público (14 de junio de 2019)",
+        "url": "https://www.publico.es/politica/arturo-ruiz-joven-asesinado-ultraderechistas-aparece-penultimo-parrafo-historia.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Guillermo Martínez, «La familia de Arturo Ruiz pide la desclasificación de los documentos de su asesinato», elDiario.es (28 de noviembre de 2024)",
+        "url": "https://www.eldiario.es/sociedad/familia-arturo-ruiz-pide-desclasificacion-documentos-asesinato-queremos_1_11861205.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Olivia Carballar, «Arturo Ruiz, el joven asesinado la víspera de Atocha», La Marea (23 de enero de 2019)",
+        "url": "https://lamarea.com/2019/01/23/arturo-ruiz-el-joven-asesinado-la-vispera-de-atocha",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Félix Población, «La Justicia Universal busca a El Posturas, presunto asesino de Arturo Ruiz», El Salto (27 de enero de 2020)",
+        "url": "https://www.elsaltodiario.com/los-nombres-de-la-memoria/la-justicia-universal-busca-a-el-posturas-presunto-asesino-de-arturo-ruiz",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El País, «Eran cuatro, y el que disparó contra el muchacho fue el más joven» (25 de enero de 1977)",
+        "url": "https://elpais.com/diario/1977/01/25/espana/222994802_850215.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "El País, «La vida secreta del asesino de Arturo Ruiz» (2 de noviembre de 2023)",
+        "url": "https://elpais.com/espana/2023-11-02/la-vida-secreta-del-asesino-de-arturo-ruiz.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Arturo Ruiz García» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Arturo_Ruiz_Garc%C3%ADa",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Riesgo de proceso abierto, revisado: la causa penal en España se archivó por prescripción en 2000 y el Supremo y el Constitucional se negaron a reabrirla (elDiario.es, 2024). La querella argentina de la jueza Servini, a la que se sumó la familia en 2015, investiga en general los crímenes del franquismo y la Transición (en este caso, al exministro Martín Villa), no a Fernández Guaza. Wikipedia cita además una demanda de la familia contra Interior (El País, junio de 2026), al parecer por los documentos. Lo dejo al criterio del coordinador. Según elDiario.es, Fernández Guaza reconoció los disparos ante El País en 2023, pero nunca fue juzgado. La condena de Cesarsky es de cinco años y medio más seis meses según Público, y de seis años según El Salto y Wikipedia. No se pudo abrir El País (bloqueado). Coordenadas de las calles aproximadas."
+  },
+  {
+    "id": "elie-hobeika",
+    "m": 1,
+    "d": 24,
+    "y": 2002,
+    "n": "Elie Hobeika",
+    "a": "El atentado contra Elie Hobeika",
+    "v": "4 (Hobeika y tres escoltas)",
+    "p": "Líbano",
+    "f": "🇱🇧",
+    "per": "2002",
+    "st": "Sin resolver. Un grupo hasta entonces desconocido reivindicó el atentado, pero la investigación libanesa no identificó a ningún autor y nadie ha sido acusado.",
+    "c": "La mañana del 24 de enero de 2002, al salir de su casa en Hazmieh, en las afueras de Beirut, Elie Hobeika murió con tres de sus escoltas al estallar un coche cargado de explosivos junto a su todoterreno. Había dirigido los servicios de información de las Fuerzas Libanesas durante la guerra civil y después fue diputado y ministro. Se le atribuía el mando de los milicianos que cometieron en 1982 la matanza de Sabra y Chatila, algo que siempre negó y por lo que nunca fue juzgado. Dos días antes había dicho a unos senadores belgas que estaba dispuesto a declarar en la querella presentada en Bélgica contra Ariel Sharon por esa matanza. Nadie fue acusado del atentado.",
+    "mo": "Un coche cargado de explosivos estalló junto a su todoterreno cuando salía de casa con sus escoltas.",
+    "loc": [
+      [
+        33.8511,
+        35.5414,
+        "Hazmieh, distrito de Baabda, afueras de Beirut (atentado junto a su casa)"
+      ],
+      [
+        33.8628,
+        35.4983,
+        "Campo de refugiados de Chatila, Beirut (matanza de 1982 sobre la que iba a declarar)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "El asesinato de Elie Hobeika",
+    "autor": "Desconocido (lo reivindicó un grupo llamado «Libaneses por un Líbano Libre e Independiente»; nadie fue acusado)",
+    "fuentes": [
+      {
+        "titulo": "Reuters / Dawn, «Lebanese warlord, 5 guards killed in blast» (25 de enero de 2002)",
+        "url": "https://www.dawn.com/news/16448",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "CNN, transcripción de Breaking News sobre el atentado de Beirut (24 de enero de 2002)",
+        "url": "https://transcripts.cnn.com/show/bn/date/2002-01-24/segment/01",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Irish Times, «Led Christian Lebanese militia which massacred 2,000 refugees» (necrológica, 26 de enero de 2002)",
+        "url": "https://www.irishtimes.com/news/led-christian-lebanese-militia-which-massacred-2-000-refugees-1.1048147",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Laurie King-Irani, «Detonating Lebanon's War Files», MERIP (31 de enero de 2002)",
+        "url": "https://merip.org/2002/01/detonating-lebanons-war-files",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopædia Universalis, «24 janvier 2002. Assassinat de l'ancien chef des milices chrétiennes Elie Hobeika»",
+        "url": "https://www.universalis.fr/evenement/24-janvier-2002-assassinat-de-l-ancien-chef-des-milices-chretiennes-elie-hobeika/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "The Monthly (Information International), «Assassinations in Lebanon: perpetrators remain unknown» (1 de marzo de 2013)",
+        "url": "https://monthlymagazine.com/en/article/746/assassinations-in-lebanon-perpetrators-remain-unknown",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Elie Hobeika» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Elie_Hobeika",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Sustituye al asesinato de Uğur Mumcu (24 de enero de 1993), retirado en la verificación porque en Ankara sigue abierto el juicio en rebeldía contra el acusado de colocar la bomba. El número de muertos varía: la primera crónica de Reuters (Dawn) habla de cinco escoltas muertos, mientras que CNN el mismo día y Wikipedia dan tres escoltas muertos y seis heridos; se usan tres. Las fuentes tampoco coinciden en el mecanismo (coche bomba aparcado a su paso o explosivos en su propio vehículo, según Reuters). La reivindicación del grupo «Libaneses por un Líbano Libre e Independiente», que lo llamó agente sirio, se apoya en MERIP y Wikipedia. Se manejaron como sospechosos Israel, Siria y grupos palestinos; Israel negó cualquier implicación (Universalis). No se pudieron abrir The Telegraph, The New York Times, The Guardian, L'Obs, World Press Review (403) ni el Middle East Intelligence Bulletin (404)."
+  },
+  {
+    "id": "ninos-beaumont",
+    "m": 1,
+    "d": 26,
+    "y": 1966,
+    "n": "Jane, Arnna y Grant Beaumont",
+    "a": "Los niños Beaumont",
+    "v": "3",
+    "p": "Australia",
+    "f": "🇦🇺",
+    "per": "1966",
+    "st": "Sin resolver. Nadie ha sido acusado. La policía de Australia Meridional mantiene el caso abierto y el Gobierno del estado ofrece una recompensa de un millón de dólares australianos.",
+    "c": "El 26 de enero de 1966, Día de Australia y en plena ola de calor, los hermanos Jane, Arnna y Grant Beaumont, de 9, 7 y 4 años, tomaron solos el autobús de la mañana desde su casa de Somerton Park hasta la playa de Glenelg, en Adelaida. Debían volver a mediodía y nunca regresaron. Varios testigos los vieron en la reserva Colley con un hombre alto, delgado y rubio, y la mayor compró comida con un billete que no le habían dado sus padres. Pese a décadas de búsquedas y varias excavaciones, la última en 2025, nunca se ha encontrado rastro de ellos.",
+    "mo": "Desconocido. Los testigos los vieron por última vez con un hombre adulto al que nunca se identificó.",
+    "loc": [
+      [
+        -34.9795,
+        138.5122,
+        "Reserva Colley y playa de Glenelg, Adelaida (últimos testimonios)"
+      ],
+      [
+        -34.9985,
+        138.521,
+        "Somerton Park, Adelaida (casa de la familia)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La desaparición de los niños Beaumont",
+    "autor": "Desconocido",
+    "fuentes": [
+      {
+        "titulo": "ABC News (Australia), «Development in Beaumont children case “best lead ever”, as police prepare to excavate site» (23 de enero de 2018)",
+        "url": "https://www.abc.net.au/news/2018-01-23/development-beaumont-children-case-best-lead-ever/9351666",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "ABC News (Australia), «Beaumont children excavation called off by SA police» (2 de febrero de 2018)",
+        "url": "https://www.abc.net.au/news/2018-02-02/beaumont-children-remains-search-called-off-by-sa-police/9391800",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Sydney Morning Herald, «Boy's diary puts paedophile near beach when Beaumont children disappeared» (8 de junio de 2017)",
+        "url": "http://www.smh.com.au/national/boys-diary-puts-paedophile-on-glenelg-beach-when-beaumont-children-went-missing-20170607-gwmd2r.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Guardian, «New evidence expected in dig for missing Beaumont children» (22 de febrero de 2025)",
+        "url": "https://www.theguardian.com/australia-news/2025/feb/22/new-evidence-expected-in-dig-for-missing-beaumont-children",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "InDaily, «Beaumont mystery remains 50 years on» (25 de enero de 2016)",
+        "url": "https://indaily.com.au/news/2016/01/25/beaumont-mystery-remains-50-years-on",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Disappearance of the Beaumont children» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_the_Beaumont_children",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Víctimas menores nombradas: caso de hace 60 años que lleva su apellido y cuyos nombres difundió la familia. No se nombra a ningún sospechoso (ninguno fue acusado). El detalle de la compra con un billete de una libra en la pastelería Wenzel's solo se ha visto en Wikipedia. La cifra de la recompensa (un millón de dólares australianos) y la excavación de 2025 se apoyan en Wikipedia; The Guardian (bloqueado) no se pudo abrir. Tampoco se pudieron abrir InDaily ni The New Daily (403). Coordenadas aproximadas."
+  },
+  {
+    "id": "juicio-conspiracion-polvora",
+    "m": 1,
+    "d": 27,
+    "y": 1606,
+    "n": "Guy Fawkes",
+    "a": "La Conspiración de la Pólvora",
+    "v": "Ninguna (atentado frustrado)",
+    "p": "Reino Unido (Inglaterra)",
+    "f": "🇬🇧",
+    "per": "1605–1606",
+    "st": "Cerrado. Los ocho conjurados juzgados fueron condenados a muerte por alta traición y ejecutados los días 30 y 31 de enero de 1606. El jesuita Henry Garnet fue juzgado aparte en marzo y ejecutado en mayo.",
+    "c": "Un grupo de católicos ingleses encabezado por Robert Catesby planeó volar la Cámara de los Lores durante la apertura del Parlamento, en noviembre de 1605, con el rey Jacobo I dentro. Pasada la medianoche del 4 de noviembre, Guy Fawkes fue sorprendido vigilando 36 barriles de pólvora en un sótano bajo el edificio. Catesby y otros murieron días después al ser cercados en Holbeche House. El 27 de enero de 1606, los ocho supervivientes fueron juzgados en Westminster Hall, con el fiscal general Edward Coke como acusador; solo Everard Digby se declaró culpable. Todos fueron condenados por alta traición y ejecutados en Londres esa misma semana.",
+    "mo": "Alquilaron un sótano bajo la Cámara de los Lores y lo llenaron de barriles de pólvora para hacerlos estallar durante la apertura del Parlamento.",
+    "loc": [
+      [
+        51.4995,
+        -0.1252,
+        "Westminster Hall, Londres (juicio)"
+      ],
+      [
+        51.4989,
+        -0.1262,
+        "Old Palace Yard, Westminster (ejecución de Fawkes y otros tres, 31 de enero)"
+      ],
+      [
+        51.5138,
+        -0.0984,
+        "Patio de la catedral de San Pablo, Londres (ejecución de Digby y otros tres, 30 de enero)"
+      ]
+    ],
+    "vin": [],
+    "g": [],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "El juicio de la Conspiración de la Pólvora",
+    "autor": "Robert Catesby, Guy Fawkes y otros conjurados católicos (condenados por alta traición)",
+    "fuentes": [
+      {
+        "titulo": "The National Archives (Reino Unido), «The Gunpowder Plot» (recurso educativo)",
+        "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/the-gunpowder-plot/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "MoneyWeek, «27 January 1606: the trial of Guy Fawkes begins»",
+        "url": "https://moneyweek.com/424062/27-january-1606-the-trial-of-guy-fawkes-begins",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "UK Parliament, Living Heritage, «The Gunpowder Plot of 1605»",
+        "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/the-gunpowder-plot-of-1605/",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Mark Nicholls, «The Gunpowder Plot», Oxford Dictionary of National Biography",
+        "url": "http://www.oxforddnb.com/public/themes/92/92749.html",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Antonia Fraser, «The Gunpowder Plot: Terror and Faith in 1605», Weidenfeld & Nicolson (1996)",
+        "url": "https://books.google.com/books?vid=ISBN0297817299",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "BBC History, «The story of Guy Fawkes and the Gunpowder Plot»",
+        "url": "https://www.bbc.co.uk/history/the_gunpowder_plot",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Gunpowder Plot» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Gunpowder_Plot",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Fecha del calendario juliano, vigente en Inglaterra hasta 1752 (en el gregoriano sería el 6 de febrero de 1606); en la época, además, el año empezaba el 25 de marzo, por lo que algunos documentos lo fechan en 1605. La fecha del 27 de enero se apoya en Wikipedia, en MoneyWeek y en los resultados de búsqueda (Tudor Society, Yorkshire Post); The National Archives confirma el juicio de los ocho en Westminster Hall y su ejecución a finales de enero, pero no da el día. No se pudieron abrir UK Parliament (403), el folleto de la biblioteca del Inner Temple (PDF ilegible), Britannica (403), famous-trials.com (403) ni el Yorkshire Post (403)."
+  },
+  {
+    "id": "hoguera-barbara",
+    "m": 1,
+    "d": 28,
+    "y": 1912,
+    "n": "Eloy Alfaro",
+    "a": "La Hoguera Bárbara",
+    "v": "6",
+    "p": "Ecuador",
+    "f": "🇪🇨",
+    "per": "1912",
+    "st": "Impune. El fiscal Pío Jaramillo Alvarado acusó a varios cabecillas y señaló la pasividad del Gobierno y del Ejército, pero no consta que nadie fuera condenado. Desde 2012, el 28 de enero es en Ecuador el Día de la Reparación Nacional.",
+    "c": "Tras su derrota en la guerra civil de enero de 1912, el expresidente liberal Eloy Alfaro, su hermano Medardo, su sobrino Flavio y otros jefes radicales fueron trasladados presos de Guayaquil a Quito, pese a las garantías pactadas en el Tratado de Durán. El 28 de enero, una multitud irrumpió en el Penal García Moreno sin que la guardia la detuviera y asesinó a Alfaro y a cinco de sus compañeros, entre ellos el periodista Luciano Coral. Los cuerpos fueron arrastrados por las calles y quemados en el parque de El Ejido. El fiscal Pío Jaramillo Alvarado acusó después a varios cabecillas y criticó al Gobierno, pero no consta ninguna condena.",
+    "mo": "Una multitud asaltó la prisión con la pasividad de la guardia, mató a los presos en sus celdas y arrastró los cuerpos por la ciudad hasta quemarlos.",
+    "loc": [
+      [
+        -0.2253,
+        -78.5181,
+        "Antiguo Penal García Moreno, Quito (asesinatos)"
+      ],
+      [
+        -0.2105,
+        -78.4983,
+        "Parque El Ejido, Quito (hoguera; hoy, monumento)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "hispanoamerica"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "La Hoguera Bárbara: el asesinato de Eloy Alfaro",
+    "autor": "Una turba de Quito, con la pasividad o la complicidad de autoridades y militares; la autoría intelectual sigue discutida",
+    "fuentes": [
+      {
+        "titulo": "El Universo, «El asesinato de Eloy Alfaro Delgado» (28 de enero de 2010)",
+        "url": "https://www.eluniverso.com/2010/01/28/1/1445/asesinato-eloy-alfaro-delgado.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Estefanía Velasco, «Eloy Alfaro fue asesinado hace 109 años; el 28 de enero es el Día de la Reparación Nacional», El Comercio (28 de enero de 2021)",
+        "url": "https://www.elcomercio.com/tendencias/eloy-alfaro-asesinato-conmemoracion-reparacion/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Enrique Ayala Mora, «¡Viva la religión! ¡Abajo los masones!», Primicias (2022)",
+        "url": "https://primicias.ec/noticias/firmas/viva-religion-abajo-masones-alfaro-final",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Grupo El Comercio, «Los últimos días de Alfaro», cuaderno 3 (2012)",
+        "url": "http://especiales.elcomercio.com/2012/01/eloy_alfaro/docs/Los_ultimos_dias_de_Alfaro_cuaderno3.pdf",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Alfredo Pareja Diezcanseco, «La hoguera bárbara: vida de Eloy Alfaro» (libro)",
+        "url": "https://web.archive.org/web/20120813101152/http://www.colegiodeeconomistas.org.ec/documentos/LA%20HOGUERA%20BARBARA%20%20I%20-%20VIDA%20DE%20ELOY%20ALFARO%20-%20PAREJA%20DIEZCANSECO%2C%20ALFREDO.pdf",
+        "tipo": "libro"
+      },
+      {
+        "titulo": "Wikipedia (en castellano), «Eloy Alfaro» (punto de partida; consultada por sus referencias)",
+        "url": "https://es.wikipedia.org/wiki/Eloy_Alfaro",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La responsabilidad intelectual sigue discutida: unos culpan a los conservadores y al clero, otros al general Leonidas Plaza y a los liberales moderados del Gobierno de Carlos Freile Zaldumbide; el historiador Enrique Ayala Mora ve pruebas insuficientes contra Plaza. Wikipedia añade que un preso común murió también por error (no se cuenta en las víctimas). El informe del fiscal Jaramillo Alvarado se fecha en 1919 según Wikipedia; no se ha encontrado el resultado del proceso. El Comercio cita solo cuatro víctimas (sin Serrano ni Coral). No se abrieron los cuadernos de El Comercio ni el libro de Pareja. Coordenadas aproximadas."
+  },
+  {
+    "id": "sally-clark",
+    "m": 1,
+    "d": 29,
+    "y": 2003,
+    "n": "Sally Clark",
+    "a": "El caso Sally Clark",
+    "v": "Ninguna probada (sus dos hijos murieron por causas que hoy se consideran naturales)",
+    "p": "Reino Unido",
+    "f": "🇬🇧",
+    "per": "1996–2003",
+    "st": "Error judicial reconocido. El Tribunal de Apelación anuló sus condenas el 29 de enero de 2003, tras más de tres años en prisión. Sally Clark murió en 2007.",
+    "c": "Sally Clark, una abogada inglesa, perdió a sus dos hijos bebés en su casa de Wilmslow (Cheshire), en diciembre de 1996 y en enero de 1998. Fue acusada de matarlos y, en noviembre de 1999, un jurado de Chester la condenó a cadena perpetua, en parte por el testimonio del pediatra Roy Meadow, que dijo que la probabilidad de dos muertes súbitas en una familia así era de una entre 73 millones, una cifra que la Real Sociedad de Estadística calificó de infundada. El 29 de enero de 2003, el Tribunal de Apelación anuló la condena: el patólogo de la acusación no había entregado unos análisis que apuntaban a una infección.",
+    "mo": "No hubo crimen probado: la condena se basó en peritajes médicos discutibles y en una estadística errónea, y la defensa no recibió análisis que apuntaban a una causa natural.",
+    "loc": [
+      [
+        53.326,
+        -2.231,
+        "Wilmslow, Cheshire (domicilio de la familia)"
+      ],
+      [
+        53.1859,
+        -2.8929,
+        "Chester (juicio y condena en el tribunal de la Corona, 1999)"
+      ],
+      [
+        51.5136,
+        -0.1136,
+        "Royal Courts of Justice, Londres (Tribunal de Apelación, 2003)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "errores_judiciales"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "condena",
+    "titulo_caso": "Sally Clark: la madre condenada por una estadística",
+    "autor": "Ninguno: Sally Clark fue condenada por error y su condena se anuló en apelación",
+    "fuentes": [
+      {
+        "titulo": "Irish Examiner, «Solicitor freed from life jail term for murders of her two baby sons» (30 de enero de 2003)",
+        "url": "https://www.irishexaminer.com/world/arid-10035793.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "MOJO Scotland (Miscarriages of Justice Organisation), «On This Day, 2003» (29 de enero de 2020)",
+        "url": "https://mojoscotland.org/?p=5669",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "BBC News, «Sally Clark freed after appeal court victory» (29 de enero de 2003)",
+        "url": "https://news.bbc.co.uk/1/hi/health/2706699.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Court of Appeal, R v Sally Clark [2003] EWCA Crim 1020 (BAILII)",
+        "url": "https://www.bailii.org/ew/cases/EWCA/Crim/2003/1020.html",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "BBC News, «Alcohol killed mother Sally Clark» (7 de noviembre de 2007)",
+        "url": "https://news.bbc.co.uk/1/hi/england/essex/7081190.stm",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Sally Clark» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Sally_Clark",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Los hijos eran bebés y murieron hace menos de 30 años: no se les nombra. La efeméride es la anulación de la condena (marcada como «condena»). La selección indica que una revista médica australiana da el 28 de enero; el Irish Examiner (30 de enero de 2003, «ayer») y MOJO Scotland confirman el 29. La sentencia [2003] EWCA Crim 1020 recoge los motivos del fallo, publicados después (abril de 2003). Fecha de su muerte: 15 o 16 de marzo de 2007 según el apartado de Wikipedia. La URL de BBC 2007 se tomó de su numeración habitual y no se pudo comprobar: BBC y BAILII no se pudieron abrir (bloqueados o 403)."
+  },
+  {
+    "id": "mayerling",
+    "m": 1,
+    "d": 30,
+    "y": 1889,
+    "n": "Rodolfo de Habsburgo",
+    "a": "La tragedia de Mayerling",
+    "v": "2",
+    "p": "Austria (Austria-Hungría)",
+    "f": "🇦🇹",
+    "per": "1889",
+    "st": "Sin juicio. La corte lo dio por suicidio del príncipe en un momento de desequilibrio mental. La versión más aceptada es que mató a María Vetsera, en un pacto de muerte que confirman las cartas de ella, y después se suicidó; la ocultación de pruebas por la corte alimentó otras teorías.",
+    "c": "En la mañana del 30 de enero de 1889, el ayuda de cámara del príncipe heredero Rodolfo de Austria-Hungría, de 30 años, forzó la puerta de su dormitorio en el pabellón de caza de Mayerling, en el Bosque de Viena, y lo encontró muerto junto a la baronesa María Vetsera, de 17 años, su amante. La corte habló primero de un fallo cardiaco y después de un suicidio por desequilibrio mental, lo que permitió enterrarlo en la Cripta Imperial; el cuerpo de Vetsera fue sacado en secreto y enterrado en Heiligenkreuz. La versión más aceptada es que él la mató y luego se suicidó. En 2015 aparecieron las cartas de despedida de ella.",
+    "mo": "Según la versión más aceptada, el príncipe disparó a Vetsera y después se disparó a sí mismo en el dormitorio del pabellón de caza.",
+    "loc": [
+      [
+        48.0469,
+        16.0983,
+        "Mayerling, Baja Austria (pabellón de caza, hoy convento carmelita)"
+      ],
+      [
+        48.0553,
+        16.1306,
+        "Cementerio de la abadía de Heiligenkreuz (sepultura de María Vetsera)"
+      ],
+      [
+        48.2056,
+        16.3699,
+        "Cripta Imperial de los Capuchinos, Viena (sepultura de Rodolfo)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "nobles",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "hallazgo",
+    "titulo_caso": "La tragedia de Mayerling",
+    "autor": "Atribuido al propio príncipe Rodolfo (asesinato y suicidio, según la versión más aceptada)",
+    "fuentes": [
+      {
+        "titulo": "The Local Austria, «Mary Vetsera's suicide letters found» (31 de julio de 2015)",
+        "url": "https://www.thelocal.at/20150731/mary-vetseras-suicide-letters-found",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Time Travel Vienna, «The Mayerling tragedy: what happened on January 30, 1889?»",
+        "url": "https://timetravel-vienna.at/en/the-mayerling-tragedy-what-happened-on-january-30-1889",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Los Angeles Times, «1889 Hapsburg Tragedy at Mayerling: “Love Deaths” Remain Fascinating» (19 de marzo de 1989)",
+        "url": "https://www.latimes.com/archives/la-xpm-1989-03-19-mn-473-story.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The New York Times, «Mayerling Journal; Lurid Truth and Lurid Legend: A Hapsburg Tale» (10 de marzo de 1989)",
+        "url": "https://www.nytimes.com/1989/03/10/world/mayerling-journal-lurid-truth-and-lurid-legend-a-hapsburg-tale.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Encyclopaedia Britannica, «Rudolf, archduke and crown prince of Austria»",
+        "url": "https://www.britannica.com/biography/Rudolf-Archduke-and-Crown-Prince-of-Austria",
+        "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Mayerling incident» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Mayerling_incident",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "La víctima tenía 17 años: caso de hace más de un siglo y nombre público. Las cartas de 2015 aparecieron en una caja de seguridad del banco privado Schoeller depositada en 1926 y pasaron a la Biblioteca Nacional de Austria (The Local). En 1959 el médico Gerd Holler examinó los restos de Vetsera sin encontrar orificio de bala en el cráneo, y en 1991 un particular robó sus restos para analizarlos (Wikipedia); por eso se presenta la versión del asesinato y suicidio como la más aceptada, no como probada. No se pudieron abrir Los Angeles Times, The New York Times, History Today, Business Insider ni Britannica. Coordenadas de Mayerling tomadas de Wikipedia."
+  },
+  {
+    "id": "kathie-durst",
+    "m": 1,
+    "d": 31,
+    "y": 1982,
+    "n": "Kathleen McCormack Durst",
+    "a": "La desaparición de Kathie Durst",
+    "v": "1",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1982",
+    "st": "Sin juicio. Robert Durst fue acusado del asesinato de su esposa en 2021, pero murió en enero de 2022 sin haber sido juzgado. El cuerpo nunca apareció y Kathie fue declarada legalmente muerta en 2017.",
+    "c": "Kathleen «Kathie» McCormack Durst, de 29 años, estudiante de último curso de Medicina, fue vista por última vez la noche del 31 de enero de 1982, cuando dejó una cena en casa de una amiga en Newtown (Connecticut) tras una llamada de su marido, el heredero inmobiliario Robert Durst, y volvió a la casa del matrimonio en South Salem (Nueva York). Durst dijo que la había llevado al tren de Katonah y que después habló con ella por teléfono, versión que años más tarde reconoció falsa. Su cuerpo nunca apareció. En 2021, tras ser condenado en California por el asesinato de su amiga Susan Berman, Durst fue acusado del de Kathie, pero murió sin ser juzgado.",
+    "mo": "Desconocido. Desapareció tras volver a la casa de campo del matrimonio; la acusación de 2021 sostenía que su marido la mató allí esa noche.",
+    "loc": [
+      [
+        41.2546,
+        -73.559,
+        "South Salem, Lewisboro, Nueva York (casa del matrimonio; lugar del crimen según la acusación)"
+      ],
+      [
+        41.414,
+        -73.3087,
+        "Newtown, Connecticut (cena en casa de una amiga, última vez que se la vio)"
+      ],
+      [
+        41.2595,
+        -73.6851,
+        "Estación de Katonah (donde Durst dijo haberla dejado)"
+      ]
+    ],
+    "vin": [],
+    "g": [
+      "desapariciones",
+      "sin_resolver"
+    ],
+    "estrella": false,
+    "tipo_efemeride": "desaparicion",
+    "titulo_caso": "La desaparición de Kathie Durst",
+    "autor": "Atribuido a Robert Durst (acusado en 2021; murió sin ser juzgado)",
+    "fuentes": [
+      {
+        "titulo": "Karen Matthews y Michael R. Sisak (AP), «Robert Durst charged with 1982 murder of wife Kathie Durst», PBS NewsHour (22 de octubre de 2021)",
+        "url": "https://www.pbs.org/newshour/nation/robert-durst-charged-with-1982-murder-of-wife-kathie-durst",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Jean Casarez, «New York grand jury indicts Robert Durst on murder charge», CNN (1 de noviembre de 2021)",
+        "url": "https://abc17news.com/news/national-world/cnn-national/2021/11/01/new-york-grand-jury-indicts-robert-durst-on-murder-charge/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "The Charley Project, «Kathleen McCormack Durst» (ficha de persona desaparecida)",
+        "url": "https://charleyproject.org/?p=2523",
+        "tipo": "policial"
+      },
+      {
+        "titulo": "The New York Times, «Robert Durst, Real Estate Scion Convicted as a Killer, Dies at 78» (10 de enero de 2022)",
+        "url": "https://www.nytimes.com/2022/01/10/obituaries/robert-durst-dead.html",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Fiscalía del condado de Westchester, informe sobre el caso Durst (PDF)",
+        "url": "https://www.westchesterda.net/images/archive/stories/pdfs/durstreport.pdf",
+        "tipo": "judicial"
+      },
+      {
+        "titulo": "Wikipedia (en inglés), «Robert Durst» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Durst",
+        "tipo": "enciclopedia"
+      }
+    ],
+    "nota_revision": "Robert Durst nunca fue juzgado por este caso: se le trata como acusado. Su condena por el asesinato de Susan Berman (septiembre de 2021) quedó anulada automáticamente al morir con la apelación pendiente (Wikipedia); el resumen dice «tras ser condenado», que es exacto, pero conviene saberlo. La fecha de la declaración de muerte legal varía: 2017 según AP/PBS, CNN y Wikipedia, y diciembre de 2001 según The Charley Project (página desactualizada); se usa 2017. La querella civil de la familia contra la viuda se desestimó en mayo de 2026 (Wikipedia). The Charley Project es una base de datos privada de desaparecidos, no un archivo policial oficial. No se pudieron abrir The New York Times ni el informe de la fiscalía. Coordenadas de los municipios, no de la casa."
+  }
+]
