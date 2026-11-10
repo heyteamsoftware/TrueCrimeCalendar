@@ -63,7 +63,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los presos probaron otras llaves, la cerradura se atascó y no pudo abrirse. Cuando encontraron la llave, la fuga ya había sido descubierta."
+          "texto": "Sin esa llave, la puerta del patio no se abrió. Cuando los presos dieron con ella, la fuga ya había sido descubierta."
         },
         {
           "voz": "alvaro",
@@ -71,19 +71,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Sin salida, los presos decidieron luchar. Se atrincheraron en el bloque y dispararon contra los funcionarios, dentro y fuera. Hirieron a varios rehenes. Miller, gravemente herido, dio por teléfono una declaración jurada: señaló a Joseph Cretzer."
+          "texto": "Sin salida, los presos decidieron luchar. Se atrincheraron en el bloque y dispararon contra los funcionarios, dentro y fuera. Hirieron a varios rehenes. Miller, gravemente herido, dio por teléfono una declaración que quedó por escrito: aseguró que le había disparado Joseph Cretzer."
         },
         {
           "voz": "ximena",
-          "texto": "Alcatraz era una penitenciaría federal en mitad de la bahía, abierta en 1934. Allí enviaban a los presos más difíciles de otras cárceles. Aquella tarde, el bloque de celdas dejó de obedecer a sus guardianes."
+          "texto": "Alcatraz era una penitenciaría federal en mitad de la bahía, abierta en 1934 y cerrada en 1963. Allí enviaban a los presos más difíciles de otras cárceles. Aquella tarde, el bloque de celdas dejó de obedecer a sus guardianes."
         },
         {
           "voz": "ximena",
-          "texto": "Alcatraz era una penitenciaría federal en mitad de la bahía, abierta en 1934. Allí enviaban a los presos más difíciles de otras cárceles. Aquella tarde, el bloque de celdas dejó de obedecer a sus guardianes."
-        },
-        {
-          "voz": "ximena",
-          "texto": "La cárcel pidió ayuda al ejército. Llegaron los marines. La batalla duró hasta la mañana del 4 de mayo."
+          "texto": "La cárcel pidió ayuda al ejército. Llegaron los marines. La batalla duró hasta la mañana del 4 de mayo. Al terminar, la cárcel contó los daños: dos funcionarios muertos, tres presos muertos y varios heridos."
         },
         {
           "voz": "alvaro",
@@ -103,15 +99,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Del sexto no hablamos tanto. Clarence Carnes era el preso más joven de Alcatraz y no fue condenado a muerte. Recibió una segunda cadena perpetua."
+          "texto": "Del sexto no hablamos tanto. Clarence Carnes tenía diecinueve años y era el preso más joven de Alcatraz y no fue condenado a muerte. Recibió una segunda cadena perpetua."
         },
         {
           "voz": "ximena",
-          "texto": "Carnes murió en prisión en 1988. Era el único de los seis supervivientes que se salvó de la cámara de gas."
+          "texto": "Carnes murió en prisión en 1988. De los tres supervivientes, fue el único que se libró de la cámara de gas."
         },
         {
           "voz": "alvaro",
-          "texto": "Me quedo con una conclusión práctica. Tras aquellos tres días, la seguridad de la isla se endureció, y durante años nadie volvió a intentar una fuga parecida."
+          "texto": "Me quedo con una conclusión práctica. Una cárcel presentada como la más segura del país estuvo a punto de perder el control de un bloque entero por culpa de una rutina."
         },
         {
           "voz": "ximena",
@@ -128,5 +124,5 @@
       ]
     }
   ],
-  "nota_revision": "Heridos: la cifra varía según la fuente (14, 15 u 11 guardias) y no se da. Hora de inicio: poco después de las 13:30 (Chronicle, según la ficha); el guion dice «a primera hora de la tarde». No se detalla cómo murió Harold Stites: Wikipedia habla de fuego amigo, el Bureau of Prisons solo dice que murió; se dice solo que murió. Para Miller se usa el Bureau of Prisons: murió el 3 de mayo, tras señalar en una declaración jurada a Cretzer. Datos de Wikipedia (Coy llevaba años en Alcatraz como ordenanza, separó los barrotes, los marines taladraron el tejado) que no se pudieron contrastar con una segunda fuente se limitan a lo esencial. El San Francisco Chronicle no se pudo abrir."
+  "nota_revision": "Heridos: la cifra varía según la fuente (14, 15 u 11 guardias) y no se da. Hora de inicio: poco después de las 13:30 (Chronicle, según la ficha); el guion dice «a primera hora de la tarde». No se detalla cómo murió Harold Stites: Wikipedia habla de fuego amigo, el Bureau of Prisons solo dice que murió; se dice solo que murió. Para Miller se usa el Bureau of Prisons: murió el 3 de mayo, tras señalar en una declaración jurada a Cretzer. Datos de Wikipedia (Coy llevaba años en Alcatraz como ordenanza, separó los barrotes, los marines taladraron el tejado) que no se pudieron contrastar con una segunda fuente se limitan a lo esencial. El San Francisco Chronicle no se pudo abrir. VERIFICACIÓN nuevos-mayo: Corregido: «único de los seis supervivientes» (eran tres los supervivientes); quitada la afirmación sin fuente de que nadie volvió a intentar una fuga parecida; eliminado un bloque duplicado; la cerradura «atascada» no consta en el BOP (solo dice que Miller escondió la llave en el retrete de una celda y que la fuga ya estaba descubierta cuando la hallaron); la declaración de Miller por teléfono el 2 de mayo y su muerte el 3, confirmadas en BOP. Edad de Carnes (19), segunda cadena perpetua y ejecuciones de diciembre de 1948 confirmadas en Wikipedia en inglés."
 }

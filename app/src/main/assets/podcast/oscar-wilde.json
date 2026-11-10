@@ -65,7 +65,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 25 de mayo, tras unas dos horas de deliberación, el jurado declaró culpable a Wilde. El juez dijo que las cartas de Wilde a Douglas eran, quizá, «poemas en prosa», pero que le parecían dañinas para un joven. Dictó dos años de trabajos forzados, la pena máxima."
+          "texto": "El 25 de mayo, el jurado declaró culpable a Wilde. Dictó dos años de trabajos forzados, la pena máxima."
         },
         {
           "voz": "alvaro",
@@ -85,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 2017, una ley británica indultó a título póstumo a los hombres condenados por delitos que ya no existen. La llaman la ley Turing. Entre ellos está Wilde. Se calcula que unos cincuenta mil hombres recibieron ese indulto."
+          "texto": "En 2017, una ley británica indultó a título póstumo a los hombres condenados por delitos que ya no existen. La llaman la ley Turing. Entre ellos está Wilde. Según la prensa británica, fueron unos cincuenta mil hombres."
         },
         {
           "voz": "ximena",
@@ -102,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "No es un error judicial en sentido estricto (se siguió la ley de 1885); el guion lo presenta como condena injusta para los criterios actuales sin acusar a nadie. Fuentes abiertas: PinkNews (2020), NYT (26/5/1895), London Daily News (27/5/1895), gov.uk (2017). Contradicciones/prudencia: gov.uk no nombra a Wilde ni da cifra; la de unos 50.000 indultados sale de PinkNews/Wikipedia y se dice «se calcula». London Daily News dice que fue declarado culpable de los ocho cargos; no se usa. La cita del juez sobre las cartas («prose poems») sale del NYT; que la pena le parecía insuficiente, de PinkNews. Que el jurado preguntara por una orden contra Douglas sale del NYT. La tarjeta de febrero de 1895 se dejó en su club (PinkNews); el texto exacto de la tarjeta no se cita. «Dos años» y detención del 6 de abril coinciden con la ficha."
+  "nota_revision": "No es un error judicial en sentido estricto (se siguió la ley de 1885); el guion lo presenta como condena injusta para los criterios actuales sin acusar a nadie. Fuentes abiertas: PinkNews (2020), NYT (26/5/1895), London Daily News (27/5/1895), gov.uk (2017). Contradicciones/prudencia: gov.uk no nombra a Wilde ni da cifra; la de unos 50.000 indultados sale de PinkNews/Wikipedia y se dice «se calcula». London Daily News dice que fue declarado culpable de los ocho cargos; no se usa. La cita del juez sobre las cartas («prose poems») sale del NYT; que la pena le parecía insuficiente, de PinkNews. Que el jurado preguntara por una orden contra Douglas sale del NYT. La tarjeta de febrero de 1895 se dejó en su club (PinkNews); el texto exacto de la tarjeta no se cita. «Dos años» y detención del 6 de abril coinciden con la ficha. VERIFICACIÓN nuevos-mayo: Quitada la frase del juez sobre las cartas como «poemas en prosa» (no confirmada) y la duración de dos horas de deliberación (sin fuente). Cifra de indultados (unos 50.000) atribuida a la prensa británica: las búsquedas dan 49.000, 50.000 y 59.000 según la fuente, y gov.uk no nombra a Wilde; la prensa lo cita entre los cubiertos por la ley de 2017."
 }

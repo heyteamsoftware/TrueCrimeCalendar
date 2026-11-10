@@ -9,13 +9,8 @@
     "La Celma": "La Zélma",
     "Rogelio Rouan": "Rojelio Rúan",
     "Rouan": "Rúan",
-    "Mario Firmenich": "Mario Firmenich",
-    "Firmenich": "Firmenich",
-    "Ramus": "Rámus",
     "Norma Arrostito": "Norma Arrostíto",
     "Arrostito": "Arrostíto",
-    "Fernando Abal Medina": "Fernando Abal Medína",
-    "Abal Medina": "Abal Medína",
     "La Calera": "La Calera",
     "Sara Herrera": "Sara Errera",
     "Onganía": "Onganía",
@@ -42,7 +37,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Abajo hay un sótano oculto con armas robadas y, en el suelo, tierra recién removida. Al cavar, aparece un traje y, en una mano, un anillo de boda con dos iniciales. Eran las de Pedro Eugenio Aramburu y su esposa, Sara Herrera."
+          "texto": "Abajo hay un sótano oculto con armas robadas y, en el suelo, tierra recién removida. Al cavar, aparecen unos restos con un anillo de boda con dos iniciales. Eran las de Pedro Eugenio Aramburu y su esposa, Sara Herrera."
         },
         {
           "voz": "alvaro",
@@ -50,11 +45,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Esa pista salió de otro asalto. En julio, el mismo grupo asaltó La Calera, en Córdoba. Allí cayeron documentos que condujeron a nombres: Mario Firmenich y Carlos Ramus. Un banco de Santa Fe había registrado un préstamo a los dos con la dirección de La Celma."
+          "texto": "Esa pista salió de otro asalto. En julio, el mismo grupo asaltó La Calera, en Córdoba. Allí cayeron documentos que condujeron a miembros del grupo. Un banco de Santa Fe había registrado un préstamo a dos de ellos con la dirección de La Celma."
         },
         {
           "voz": "ximena",
-          "texto": "Para entender cómo se llegó allí hay que volver al 29 de mayo, el Día del Ejército. Aramburu tenía sesenta y siete años. Había sido presidente de facto y uno de los jefes del golpe que derrocó a Perón en 1955."
+          "texto": "Para entender cómo se llegó allí hay que volver al 29 de mayo, el Día del Ejército. Aramburu tenía sesenta y siete años. Había sido presidente de facto entre 1955 y 1958 y uno de los jefes del golpe que derrocó a Perón en 1955."
         },
         {
           "voz": "ximena",
@@ -66,11 +61,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El comunicado de Montoneros dijo que le habían hecho un «juicio revolucionario» y que lo ejecutaron el 1 de junio. Según su relato, el autor de los disparos fue Fernando Abal Medina. Es una fecha y una versión que proceden de ellos. Otras versiones la adelantan, y el Ejército llegó a sostener que murió en el Hospital Militar."
+          "texto": "El comunicado de Montoneros dijo que le habían hecho un «juicio revolucionario» y que lo ejecutaron el 1 de junio. Es una fecha y una versión que proceden de ellos. Otras versiones la adelantan al 30 de mayo."
         },
         {
           "voz": "alvaro",
-          "texto": "Ten cuidado con esa palabra, «juicio». No hubo tribunal, ni defensa, ni garantías. Hubo un secuestro y un asesinato. Y un análisis de Infobae señala incoherencias en su relato, como la identidad de quien disparó."
+          "texto": "Ten cuidado con esa palabra, «juicio». No hubo tribunal, ni defensa, ni garantías. Hubo un secuestro y un asesinato. Y un análisis de Infobae señala incoherencias en su relato."
         },
         {
           "voz": "ximena",
@@ -78,7 +73,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Su familia y sus amigos sospecharon desde el primer día del gobierno de Onganía. Ese «sector» no se ha probado nunca. Lo recojo como una hipótesis que su familia dejó planteada, sin pruebas. Nadie ha acusado a nadie con nombre."
+          "texto": "El gobierno de entonces era el del general Onganía. Ese «sector» no se ha probado nunca. Lo recojo como una hipótesis que dejó planteada el hijo, sin pruebas. Nadie ha acusado a nadie con nombre, y yo tampoco lo haré."
         },
         {
           "voz": "ximena",
@@ -90,11 +85,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Queda Aramburu, un hombre de sesenta y siete años que salió de su casa una mañana de mayo creyendo que lo protegían. Y queda su esposa, que se fue a hacer unas compras mientras los falsos militares subían a su piso."
+          "texto": "Queda Aramburu, un hombre de sesenta y siete años que salió de su casa una mañana de mayo creyendo que lo protegían. Y queda su esposa, Sara Herrera."
         },
         {
           "voz": "alvaro",
-          "texto": "Este expediente no justifica ni juzga una época. Recuerda a un hombre al que se llevaron de su casa una mañana, y que ninguna causa convierte un secuestro en justicia."
+          "texto": "Este expediente no justifica ni juzga una época. Recuerda a un hombre al que se llevaron de su casa una mañana, y que ninguna causa convierte un secuestro en justicia. Un comunicado con el nombre de «juicio» no cambia lo que fue."
         },
         {
           "voz": "ximena",
@@ -103,5 +98,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Infobae (Amato, 2024), La Nación (Alconada Mon, 2020); no se abrió la de O'Donnell. Se ha quitado del guion la afirmación de Wikipedia sobre condenas por homicidio amnistiadas en 1973 (sin segunda fuente). amnistía de 1973' repite lo que la nota de la ficha dice que no está contrastado (solo Wikipedia): conviene quitarlo si el coordinador lo prefiere. Hora del secuestro: Infobae 9:15; el guion dice 'hacia las nueve' (ficha: la mañana). El 1 de junio sale del comunicado y relato de Montoneros; Infobae cita una biografía que lo adelanta al 30 de mayo; se dice 'procede de ellos'. Cuerpo hallado el 16 de julio (La Nación, Amato). 'Cuarenta y siete días' es el cálculo del 29 de mayo al 16 de julio. 'Eugenio Aramburu' (hijo) y su frase de 1980 salen de Amato; la hipótesis de colaboración de un sector del gobierno es suya y no está probada. Los detalles de cómo se llegó a La Celma (La Calera, documentos, banco de Vera) salen de La Nación; no se menciona tortura. Ficha: los disfraces de cómplices, de Infobae. 'El Ejército llegó a sostener que murió en el Hospital Militar' sale de la nota de la ficha. Se deja fuera la lista completa de participantes y a quién disparó (versiones discutidas)."
+  "nota_revision": "Fuentes abiertas: Infobae (Amato, 2024), La Nación (Alconada Mon, 2020); no se abrió la de O'Donnell. Se ha quitado del guion la afirmación de Wikipedia sobre condenas por homicidio amnistiadas en 1973 (sin segunda fuente). amnistía de 1973' repite lo que la nota de la ficha dice que no está contrastado (solo Wikipedia): conviene quitarlo si el coordinador lo prefiere. Hora del secuestro: Infobae 9:15; el guion dice 'hacia las nueve' (ficha: la mañana). El 1 de junio sale del comunicado y relato de Montoneros; Infobae cita una biografía que lo adelanta al 30 de mayo; se dice 'procede de ellos'. Cuerpo hallado el 16 de julio (La Nación, Amato). 'Cuarenta y siete días' es el cálculo del 29 de mayo al 16 de julio. 'Eugenio Aramburu' (hijo) y su frase de 1980 salen de Amato; la hipótesis de colaboración de un sector del gobierno es suya y no está probada. Los detalles de cómo se llegó a La Celma (La Calera, documentos, banco de Vera) salen de La Nación; no se menciona tortura. Ficha: los disfraces de cómplices, de Infobae. 'El Ejército llegó a sostener que murió en el Hospital Militar' sale de la nota de la ficha. Se deja fuera la lista completa de participantes y a quién disparó (versiones discutidas). VERIFICACIÓN nuevos-mayo: Quitados los nombres de Firmenich, Ramus y Abal Medina (ligados al crimen sin condena en este caso; la nota del autor decía que no se nombraba a quien disparó pero el texto sí) y «el Ejército sostuvo que murió en el Hospital Militar» (solo en la ficha). Hipótesis de Onganía: se presenta como planteada por el hijo en 1980 y sin pruebas. La muerte el 1 de junio queda como versión de los autores (otra versión: 30 de mayo, Infobae). Quitada la anécdota de las compras de la esposa (sin fuente)."
 }

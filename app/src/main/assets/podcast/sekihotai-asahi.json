@@ -13,7 +13,10 @@
     "Inukai": "Inukái",
     "Kyodo": "Kiódo",
     "Jiji": "Yíyi",
-    "Hyōgo": "Hiogo"
+    "Hyōgo": "Hiogo",
+    "Hanshin": "Janshín",
+    "Kansai Rosai": "Kansái Rosái",
+    "Amagasaki": "Amagasáki"
   },
   "cintas": [
     {
@@ -31,7 +34,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Nishinomiya, Japón, noche del 3 de mayo de 1987. Es el día de la Constitución. En el segundo piso de la delegación del diario Asahi Shimbun, hay tres periodistas en la redacción. De pronto entra un hombre con un pasamontañas."
+          "texto": "Nishinomiya, Japón, noche del 3 de mayo de 1987. Es el día de la Constitución. En el segundo piso de la delegación de Hanshin del diario Asahi Shimbun, hay tres periodistas en la redacción. De pronto entra un hombre con un pasamontañas."
         },
         {
           "voz": "ximena",
@@ -43,7 +46,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Tomohiro Kojiri, de veintinueve años, fue herido de gravedad. Murió de madrugada, ya en el hospital. Dejaba a su mujer y a una hija."
+          "texto": "Tomohiro Kojiri, de veintinueve años, fue herido de gravedad. Murió de madrugada, ya en el hospital Kansai Rosai de Amagasaki."
         },
         {
           "voz": "ximena",
@@ -71,7 +74,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En septiembre de 1987, la policía unió los ataques en una sola investigación nacional, el caso número ciento dieciséis. Más tarde se sumó un atentado frustrado en Shizuoka, en marzo de 1988."
+          "texto": "En septiembre de 1987, la policía unió los ataques en una sola investigación nacional, el caso número ciento dieciséis. Más tarde se sumó un atentado frustrado en Shizuoka, en marzo de 1988. El Libro Blanco de la policía de 1988 recoge todos esos casos."
         },
         {
           "voz": "alvaro",
@@ -79,7 +82,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía de Hyōgo montó un equipo especial. Rastreó los reportajes recientes de la delegación, e incluso se planteó si el objetivo era el periodista o el diario. Los avances fueron escasos."
+          "texto": "La policía de Hyōgo montó un equipo especial. Estudió el trabajo reciente de la delegación y las posibles motivaciones, pero los avances fueron escasos."
         },
         {
           "voz": "ximena",
@@ -116,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fecha: la Wikipedia en inglés sitúa el ataque el 4 de mayo (fecha de la muerte); policía, CPJ, UPI y Kyodo dan el 3 de mayo. Hora: hacia las 20:15 (Kyodo) o las 20:00 (CPJ); el guion dice «de noche». Prescripción: el CPJ dice que venció a medianoche del 2 de mayo de 2002 y la Wikipedia japonesa, el 3; el guion dice solo «en mayo de 2002». Cifras de la UPI: dos disparos y huida a pie. La UPI recoge amenazas telefónicas tras un reportaje de noviembre de 1986 sobre la policía y las huellas de un residente coreano; el motivo nunca se estableció y no se dice en el guion. Nombres de otros ataques tomados del Libro Blanco de la Policía de 1988. El guion no atribuye el ataque a nadie. La familia del periodista no se nombra."
+  "nota_revision": "Fecha: la Wikipedia en inglés sitúa el ataque el 4 de mayo (fecha de la muerte); policía, CPJ, UPI y Kyodo dan el 3 de mayo. Hora: hacia las 20:15 (Kyodo) o las 20:00 (CPJ); el guion dice «de noche». Prescripción: el CPJ dice que venció a medianoche del 2 de mayo de 2002 y la Wikipedia japonesa, el 3; el guion dice solo «en mayo de 2002». Cifras de la UPI: dos disparos y huida a pie. La UPI recoge amenazas telefónicas tras un reportaje de noviembre de 1986 sobre la policía y las huellas de un residente coreano; el motivo nunca se estableció y no se dice en el guion. Nombres de otros ataques tomados del Libro Blanco de la Policía de 1988. El guion no atribuye el ataque a nadie. La familia del periodista no se nombra. VERIFICACIÓN nuevos-mayo: Quitado «dejaba a su mujer y a una hija» (no consta en fuentes abiertas; la familia no se nombra) y el detalle de si el objetivo era el periodista o el diario (sin fuente). El resto (3 de mayo, edades 29 y 42, ataques de enero y septiembre de 1987 y marzo de 1988, caso n.º 116, prescripción de 2002-2003) coincide con la ficha y el Libro Blanco. La carta se parafrasea, no se cita. Nadie es señalado."
 }

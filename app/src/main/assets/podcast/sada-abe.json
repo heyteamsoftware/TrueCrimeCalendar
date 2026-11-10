@@ -36,15 +36,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dentro estaba Kichizo Ishida, un hombre de cuarenta y dos años, dueño de un restaurante. Junto a él había una frase escrita por ella: «Sada y Kichi, solos los dos». No vamos a contar lo que le hizo. Se ha contado demasiadas veces, y casi siempre como espectáculo."
+          "texto": "Dentro estaba Kichizo Ishida, un hombre de cuarenta y dos años, dueño de un restaurante. No vamos a contar lo que le hizo. Se ha contado demasiadas veces, y casi siempre como espectáculo."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Esa frase no es la de alguien que quiere esconderse. Es una firma. Y con una sola indicación al personal compró el tiempo para desaparecer."
+          "texto": "Primera nota. Con una sola indicación al personal compró el tiempo para desaparecer. No es la conducta de alguien que se deja llevar por un impulso, y aun así no nos toca interpretarla."
         },
         {
           "voz": "ximena",
-          "texto": "Se llamaba Sada Abe y tenía treinta años. Nació en Tokio, en una familia de fabricantes de tatamis, la séptima de ocho hermanos. A los diecisiete la enviaron a una casa de geishas en Yokohama. Después trabajó en locales de Osaka y vivió de hombres que la mantenían."
+          "texto": "Se llamaba Sada Abe y tenía treinta años. Nació en Tokio, en una familia de fabricantes de tatamis, en una familia numerosa. A los diecisiete la enviaron a una casa de geishas en Yokohama. Después trabajó en locales de Osaka y vivió de hombres que la mantenían."
         },
         {
           "voz": "ximena",
@@ -64,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En los interrogatorios explicó su motivo con pocas palabras. Dijo que lo quería tanto que había querido quedárselo para ella sola. Esa frase fue la que repitieron los periódicos y la que la convirtió en leyenda."
+          "texto": "En los interrogatorios explicó su motivo con pocas palabras. Dijo que lo quería tanto que no quería compartirlo con nadie. Esa idea fue la que repitieron los periódicos y la que la convirtió en leyenda."
         },
         {
           "voz": "alvaro",
@@ -72,7 +72,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juicio empezó el 25 de noviembre de 1936. El 21 de diciembre, el tribunal de distrito de Tokio la declaró culpable de asesinato y de profanación de cadáver. La condenó a seis años de cárcel."
+          "texto": "El juicio empezó el 25 de noviembre de 1936. El 21 de diciembre, el tribunal de distrito de Tokio la declaró culpable de asesinato. La condenó a seis años de cárcel."
         },
         {
           "voz": "alvaro",
@@ -105,5 +105,5 @@
       ]
     }
   ],
-  "nota_revision": "Se deja fuera lo discutido: no se da la hora de la detención (16:00 o 17:30 según las fuentes de la ficha) ni se nombra la fecha exacta de la conmutación. Contradicción menor: Wikipedia (en inglés) dice que la pena se conmutó el 10 de noviembre de 1940 y que salió el 17 de mayo de 1941; la ficha habla de amnistía. El guion dice «una amnistía rebajó su condena». La ficha da 30 años; Wikipedia, nacida el 28 de mayo de 1905, daría 30 el día del crimen. Edad de Ishida (42) solo en Wikipedia en inglés. Kotobank (Heibonsha) confirma lugar, detención y reacción de la prensa; no se abrió la sentencia. No se describe el cuerpo ni lo que hizo ella; la frase escrita junto al cuerpo sale de Wikipedia en inglés. Un diccionario biográfico de Kotobank parece dar cinco años; se sigue la sentencia de seis."
+  "nota_revision": "Se deja fuera lo discutido: no se da la hora de la detención (16:00 o 17:30 según las fuentes de la ficha) ni se nombra la fecha exacta de la conmutación. Contradicción menor: Wikipedia (en inglés) dice que la pena se conmutó el 10 de noviembre de 1940 y que salió el 17 de mayo de 1941; la ficha habla de amnistía. El guion dice «una amnistía rebajó su condena». La ficha da 30 años; Wikipedia, nacida el 28 de mayo de 1905, daría 30 el día del crimen. Edad de Ishida (42) solo en Wikipedia en inglés. Kotobank (Heibonsha) confirma lugar, detención y reacción de la prensa; no se abrió la sentencia. No se describe el cuerpo ni lo que hizo ella; la frase escrita junto al cuerpo sale de Wikipedia en inglés. Un diccionario biográfico de Kotobank parece dar cinco años; se sigue la sentencia de seis. VERIFICACIÓN nuevos-mayo: Quitada la frase escrita junto a la víctima (cita literal de la autora, solo en Wikipedia en inglés); quitada «séptima de ocho hermanos» (sin comprobar) y la mención de profanación de cadáver (sugiere lo ocurrido); el motivo se parafrasea. Sin descripción del cuerpo ni de lo que hizo. Pronunciación de nombres japoneses a oído."
 }
