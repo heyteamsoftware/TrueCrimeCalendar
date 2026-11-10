@@ -29,7 +29,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Chester, noviembre de 1999. Un jurado acaba de declarar culpable a una abogada de treinta y cuatro años. La condena es cadena perpetua. Se llama Sally Clark y se le acusa de haber matado a sus dos hijos bebés."
+          "texto": "Chester, noviembre de 1999. Un jurado acaba de declarar culpable a una abogada. La condena es cadena perpetua. Se llama Sally Clark y se le acusa de haber matado a sus dos hijos bebés."
         },
         {
           "voz": "ximena",
@@ -57,7 +57,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Mientras tanto, la Real Sociedad de Estadística hizo algo inusual. Escribió al Lord Canciller para decirle que la cifra no tenía base estadística. El error era de método: se trataba de multiplicar probabilidades como si cada muerte fuera independiente, cuando en una misma familia pueden compartir causas genéticas o ambientales."
+          "texto": "Mientras tanto, la Real Sociedad de Estadística hizo algo inusual. Escribió al Lord Canciller para decirle que la cifra no tenía ninguna base estadística. Una fundación británica de estudio de la muerte súbita infantil decía que una segunda muerte así ocurre más o menos una vez al año."
         },
         {
           "voz": "ximena",
@@ -77,7 +77,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Salió de los calabozos a las tres y cuarenta de la tarde, abrazada por su marido. Dijo: esto no es una victoria. No hay ganadores. Todos hemos perdido."
+          "texto": "Salió de los calabozos a las tres y cuarenta de la tarde, abrazada por su marido. Les esperaba un hijo de cuatro años, el único que le quedaba. Dijo: esto no es una victoria. No hay ganadores. Todos hemos perdido."
         },
         {
           "voz": "alvaro",
@@ -89,11 +89,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El tribunal de apelación ya no se fiaba de aquella forma de usar los números. Desde entonces, la estadística tiene que explicarse con más cuidado en los juzgados de Inglaterra."
+          "texto": "Los jueces habían hablado de una cifra engañosa y de una prueba médica que no llegó a manos de la defensa. Eso es lo que hace que el caso se estudie hoy."
         },
         {
           "voz": "ximena",
-          "texto": "Sally Clark murió en marzo de 2007, a los cuarenta y dos años. Su abogado dijo que nunca se recuperó del todo de aquel error judicial."
+          "texto": "Sally Clark murió en marzo de 2007. Su abogado dijo que nunca se recuperó del todo de aquel error judicial."
         },
         {
           "voz": "alvaro",
@@ -106,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Los hijos eran bebés y murieron hace menos de 30 años: no se les nombra. Verificados en BBC (29/1/2003) y MOJO Scotland (reproduce la nota de la BBC): condena en Chester, cifra de 1 entre 73 millones, crítica de la Real Sociedad de Estadística, primera apelación rechazada en octubre de 2000, infección no entregada por el patólogo, Alan Williams, hijo superviviente, frase de Sally Clark. Edad al condenarla (34) y al morir (42) deducidas de la edad de 38 años en 2003 de la BBC/MOJO y de su muerte en marzo de 2007: comprobar. La causa de su muerte no se menciona (MOJO: intoxicación aguda por alcohol; se omite por respeto). La explicación de la independencia estadística y que «desde entonces la estadística se explica con más cuidado» son comentario de contexto y no están en estas fuentes: considerar suprimirlas. Meadow fue sancionado por el GMC en 2005 (MOJO); no se menciona porque la decisión posterior no se ha verificado."
+  "nota_revision": "Los hijos eran bebés y murieron hace menos de 30 años: no se les nombra. Verificados en BBC (29/1/2003) y MOJO Scotland (reproduce la nota de la BBC): condena en Chester, cifra de 1 entre 73 millones, crítica de la Real Sociedad de Estadística, primera apelación rechazada en octubre de 2000, infección no entregada por el patólogo, Alan Williams, hijo superviviente, frase de Sally Clark. La causa de su muerte no se menciona (MOJO: intoxicación aguda por alcohol; se omite por respeto). Meadow fue sancionado por el GMC en 2005 (MOJO); no se menciona porque la decisión posterior no se ha verificado."
 }

@@ -1,0 +1,120 @@
+{
+  "id": "oj-simpson",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "O. J. Simpson": "O. Yei Símpson",
+    "Simpson": "Símpson",
+    "Nicole Brown Simpson": "Nicól Braun Símpson",
+    "Ronald Goldman": "Rónald Góldman",
+    "Brentwood": "Brentwud",
+    "Los Ángeles": "Los Ángeles",
+    "Johnnie Cochran": "Yóni Cócran",
+    "Mark Fuhrman": "Mark Fiúrman",
+    "Fuhrman": "Fiúrman",
+    "Ford Bronco": "Ford Brónco",
+    "Las Vegas": "Las Végas"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un guante que no entraba",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso de O. J. Simpson. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un guante que no entraba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ángeles, 15 de junio de 1995. En una sala de tribunal, un hombre intenta ponerse un guante de cuero. Hay cámaras, un jurado y millones de personas mirando. El guante no parece quedarle bien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese hombre es O. J. Simpson, antigua estrella del fútbol americano y personaje querido en la televisión. Está acusado de haber matado a dos personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un guante probado ante el jurado, y la imagen que recuerda todo el mundo. Lo que pesa en un juicio es a menudo la imagen. Y lo que pesa en la ley es otra cosa: si se prueba o no, más allá de toda duda razonable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo empezó la noche del 12 de junio de 1994. Nicole Brown Simpson, exmujer de Simpson, y su amigo Ronald Goldman fueron asesinados ante la casa de ella, en Brentwood, un barrio de Los Ángeles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No vamos a describir cómo murieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinco días después, la policía emitió una orden de detención contra Simpson. Él no se presentó. Esa tarde, una persecución a baja velocidad en un Ford Bronco blanco por las autopistas de California fue retransmitida en directo por televisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Millones de personas vieron en directo aquella carrera lenta. Y a partir de ese momento, el caso dejó de ser un caso. Se convirtió en un espectáculo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación llevó pruebas físicas y de ADN. Sangre en el lugar de los hechos, un guante hallado en la casa de Simpson, huellas de zapatos. Dijo que todo apuntaba a él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa, con un equipo de abogados que la prensa bautizó como el Dream Team, bajo la dirección de Johnnie Cochran, sostuvo lo contrario: que las pruebas estaban contaminadas, que la policía había manipulado alguna, y que el detective Mark Fuhrman no era creíble."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí quiero ser exacto. El detective Fuhrman no era un testigo cualquiera. En el juicio se escucharon grabaciones en las que él mismo empleaba insultos racistas. Eso no prueba que se plantara una sola prueba. Pero dañó la credibilidad de la acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 3 de octubre de 1995, el jurado declaró a Simpson no culpable de los dos asesinatos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se calcula que más de cien millones de personas siguieron el veredicto en directo. La reacción se dividió entre grupos, y la prensa habló de una brecha racial en Estados Unidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución es una absolución. El tribunal penal no consideró probada su culpabilidad. Nadie más ha sido acusado de los dos crímenes. Y este expediente no va a decir lo que el jurado no dijo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1997 hubo otro juicio, esta vez civil, a instancias de la familia de Ronald Goldman y otros demandantes. Un jurado civil lo declaró responsable de las dos muertes y lo condenó a pagar más de treinta millones de dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos tribunales, dos resultados. No se contradicen. En lo penal se exige prueba más allá de toda duda razonable. En lo civil basta con que sea más probable que no. Ese es el matiz que casi siempre se pierde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años después, en 2008, Simpson fue condenado en Las Vegas por robo a mano armada. Pasó nueve años en prisión. Salió en libertad en 2017."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió el 10 de abril de 2024, a los setenta y seis años, de cáncer, según su familia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda sin respuesta una pregunta: si nadie más ha sido acusado, ¿qué pasó esa noche? Es la que los tribunales no han contestado, y yo tampoco lo haré."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero hay algo que no necesita respuesta. Nicole y Ronald existieron antes de ser un caso. Ella, la exmujer de un famoso. Él, su amigo. Ninguno de los dos pidió ser un titular."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su recuerdo debería ser lo primero, no lo último, de este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso de O. J. Simpson. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés («O. J. Simpson murder case»), History.com (3 de octubre) y Bloomberg Línea (11/4/2024). Discrepancias: la duración del juicio (252 días según History.com; 134 días televisados según Wikipedia): el guion no da cifra. La indemnización civil (33,5 millones según la ficha; Wikipedia habla de 34 millones a favor de la familia Goldman): el guion dice «más de treinta millones de dólares». La pena de Las Vegas: la ficha da nueve años de prisión; Bloomberg, «condena de nueve años» cumplida hasta 2017; el guion dice «pasó nueve años en prisión». No se dice cómo murieron las víctimas más que «asesinados», sin detalles. Presunción de inocencia: fue absuelto en lo penal; el guion lo dice y explica que el civil usa otro nivel de prueba, sin llamarlo asesino. Se nombra a las víctimas, adultas, por ser un dato público y seguro. Se deja fuera lo del maltrato doméstico (History.com lo trata como antecedente; la acusación retiró esa parte del caso según Wikipedia). La ficha dice «fuentes»: el desacuerdo sobre el veredicto y la raza se cita solo de forma general."
+}

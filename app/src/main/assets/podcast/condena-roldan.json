@@ -1,0 +1,104 @@
+{
+  "id": "condena-roldan",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bangkok": "Bángkok",
+    "Laos": "Láos",
+    "Diario 16": "Diario dieciséis"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una esquela en El País",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La condena de Luis Roldán. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una esquela en El País."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 21 de julio de 1998. En el periódico El País aparece la esquela de un hombre llamado Francisco Paesa. Murió en Tailandia, dice. Su nombre estaba ligado a uno de los mayores escándalos de la democracia. Pero, según se supo años después, el muerto estaba vivo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una esquela falsa para borrar a un testigo. Es el tipo de detalle que parece de película, pero lo cuenta El Independiente. Y todo viene de un hombre al que habían condenado cinco meses antes: Luis Roldán."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roldán fue el primer civil al frente de la Guardia Civil. El Consejo de Ministros lo nombró director general el 31 de octubre de 1986. En los años siguientes, el cuerpo logró éxitos importantes contra ETA, y él era una cara conocida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta que el 24 de noviembre de 1993 el periódico Diario 16 publicó que Roldán había reunido un patrimonio de unos cuatrocientos millones de pesetas, con propiedades en varias provincias. Un sueldo público no daba para tanto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí empieza la grieta. Un director de la Guardia Civil con propiedades en Navarra, Madrid, Tarragona y Zaragoza. Cuando un patrimonio crece más rápido que cualquier nómina, no hace falta ser inspector para hacer preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 3 de diciembre de 1993 fue destituido. Una comisión del Congreso concluyó después que había adjudicado obras sin concurso y cobrado comisiones, y que había desviado fondos reservados para fines particulares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A finales de abril de 1994, con la comisión en marcha y una citación judicial, Roldán desapareció. Pasó diez meses fugado, sin que nadie supiera dónde estaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una pregunta que me hago: ¿cómo desaparece durante diez meses el hombre que hasta hacía poco mandaba a la Guardia Civil? Es una de las preguntas que más se hizo la prensa en aquellos meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 27 de febrero de 1995 se entregó a la policía en el aeropuerto de Bangkok, en Tailandia. En la operación intervino un espía, Francisco Paesa, que cobró trescientos millones de pesetas, según El Independiente. Paesa habría falsificado documentos de Laos para simular que Roldán llevaba allí todo ese tiempo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que tener cuidado con Paesa. Nunca fue condenado en este caso. Lo que se sabe de él viene de la prensa, y él mismo ha dado versiones distintas. En 2005 dijo a una revista una cosa y en 2016 contó otra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en la Audiencia Provincial de Madrid. El 26 de febrero de 1998, el tribunal condenó a Roldán a veintiocho años de prisión por malversación, cohecho, estafa y delitos contra la Hacienda pública."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal Supremo elevó la pena a treinta y un años el 21 de diciembre de 1999, al añadir un delito de falsedad en documento mercantil. Cumplió casi la mitad, primero en la cárcel de Brieva y después en la de Zuera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Treinta y un años de condena, y salió en 2010. Obtuvo el tercer grado en 2002. Lo que no devolvió del todo fue el dinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La justicia calculó que había obtenido más de mil seiscientos millones de pesetas. Según Onda Vasca, a su salida de prisión había pagado poco más de un millón seiscientos mil euros de los diecinueve millones que debía al Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Paesa dijo en 2016 que no había cobrado nada de Roldán. Roldán aseguró que el dinero lo gestionaba Paesa. Hoy, buena parte de ese dinero sigue sin aparecer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hombres que se acusan entre sí y un dinero que no está. Yo no escojo versión. Dejo anotado lo único comprobado: hubo condena firme, y el Estado no recuperó el dinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roldán murió en marzo de 2022 en Zaragoza, a los setenta y ocho años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La víctima de este expediente no es una persona, sino el Estado: el dinero era de todos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La condena de Luis Roldán. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Independiente (2022) y Onda Vasca (2022); StAR y Wikipedia sin abrir. Contradicciones: fuga 26 de abril (Onda Vasca) o 29 (Wikipedia); se dice «a finales de abril». Tribunal: Audiencia Provincial de Madrid (Onda Vasca, StAR, ficha), no Audiencia Nacional. Cifra del botín: El Independiente 1.600 millones de pesetas; Onda Vasca, patrimonio 1.700 millones y multa de 1.600: se pone «más de mil seiscientos millones». Delitos del Supremo: El Independiente añade falsedad en documento mercantil, Onda Vasca falsedad documental. Esquela de Paesa: El País, 21 de julio de 1998 (El Independiente); es de después de la condena (cinco meses, no antes). Paesa «cobró 300 millones»: El Independiente, atribuido. Falsificó documentos de Laos: El Independiente («había falsificado»): atribuido pero conviene revisar, porque Paesa no fue condenado. La frase «cumplir casi la mitad» y la salida en 2010: ficha; Onda Vasca: marzo de 2010. Que salió en libertad con 15 años de cumplimiento efectivo: Onda Vasca. Se omite la causa Urralburu y la detención en Bangkok explicada por Onda Vasca (localizado en Laos). La frase «ayuda» y la última (guardias civiles) son interpretación mía, quitarlas si se prefiere. «Salió ... redenciones» es explicación general mía."
+}

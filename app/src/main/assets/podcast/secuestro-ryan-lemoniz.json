@@ -1,0 +1,109 @@
+{
+  "id": "secuestro-ryan-lemoniz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "José María Ryan": "Josemaría Rián",
+    "Ryan": "Rián",
+    "Lemóniz": "Lemóniz",
+    "Iberduero": "Iberduéro",
+    "Zaratamo": "Zaratámo",
+    "Arcocha": "Arcocha",
+    "Egin": "Eguín",
+    "ETA": "Eta"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El plazo de siete días",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El ingeniero de Lemóniz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El plazo de siete días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Vizcaya, jueves 29 de enero de 1981. Son las siete y tres cuartos de la tarde. Un ingeniero sale de la central nuclear de Lemóniz y se sube a su coche. Su casa está a media hora de carretera. No llegará."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba José María Ryan, y era el ingeniero jefe de explotación de la central. Nacido en Bilbao, estudió allí ingeniería y se especializó en energía nuclear en Estados Unidos. Llevaba quince años en la empresa Iberduero y, según la prensa de entonces, se creía que iba a dirigir la central cuando entrara en funcionamiento, prevista para 1982."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjese en la hora y en el trayecto. Una hora antes, dos jóvenes habían robado a punta de pistola un coche cerca de la urbanización donde vivía. El periódico de la época decía que se creía que había relación. No consta que se probara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las nueve y cuarto de la noche, una voz anónima llamó al diario Egin y anunció su detención. Al día siguiente, ETA militar reivindicó el secuestro con un comunicado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Exigía que Iberduero y el Gobierno decretaran la demolición de la central en siete días. El plazo, decía, había empezado a las cinco y cuarenta de la tarde del 30 de enero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una semana para tirar una central en cuyas obras llevaba años invertida una empresa. El presidente de Iberduero había dicho públicamente, poco antes, que Lemóniz tenía que funcionar. Entre ceder y no ceder, no había término medio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, la familia esperaba. Su esposa, María Josefa Murúa, mandó un mensaje a los medios. Pedía a quienes lo tenían que dijeran cómo estaba y que no le hicieran daño. Aseguró que su marido no se metía en política. Tenían cinco hijos pequeños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Iberduero se declaró consternada. El Partido Nacionalista Vasco condenó el secuestro. Y el 6 de febrero, miles de personas se manifestaron en Bilbao pidiendo su libertad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ni el Gobierno ni la empresa cedieron. En su comunicado final, ETA desmintió que hubiera habido intentos de negociación. Esa es la versión de ETA, no un hecho comprobado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 6 de febrero, al vencer el plazo, ETA militar anunció que lo había condenado a muerte. A las nueve y media de la noche avisó de dónde estaba. Hacia las diez, lo encontraron en un camino forestal entre Zaratamo y Arcocha. Le habían disparado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La esposa de Ryan conocía el comunicado desde primeras horas de la noche, pero en un primer momento lo tomó más por una amenaza que por algo que ya hubiera ocurrido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que más me pesa de este informe. No el ultimátum, sino esas horas de espera en una casa con cinco niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su comunicado, ETA acusó a Ryan de ser responsable de las decisiones de Iberduero en la central. Y amenazó a otros directivos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dicho de otro modo: lo eligieron por su cargo. La empresa y sus compañeros subrayaron entonces su «personalidad irreprochable», como hombre y como profesional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su muerte provocó una huelga general en el País Vasco, la primera contra ETA en su historia. Iberduero suspendió temporalmente la actividad en la central."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todos los grupos parlamentarios coincidieron en calificar el asesinato como un hecho de extrema gravedad. Un diputado de Euskadiko Ezkerra dijo que ETA militar alcanzaba así su mayor nivel de desprestigio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro con lo que no sé. Las fuentes que he podido consultar no recogen ninguna condena por este crimen. Queda por comprobar en las sentencias de la Audiencia Nacional y en el mapa de víctimas de Covite."
+        },
+        {
+          "voz": "ximena",
+          "texto": "José María Ryan tenía cinco hijos y una vida corriente. Eso es lo que debe recordarse antes que el ultimátum, y el comunicado, y la central."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El ingeniero de Lemóniz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: dos piezas de El País (31 de enero y 7 de febrero de 1981, vía curl) y Auñamendi. Condenas: ninguna fuente consultada las recoge; el guion no dice nada sobre juicios salvo que ETA lo reivindicó (el cierre dice que «no consta» condena en las fuentes y lo deja a comprobar en Covite/Audiencia Nacional). Edad: El País del 31 de enero de 1981 da «nacido hace 39 años», la ficha 37; el guion no da edad. Lugar del secuestro: El País, probablemente tras salir de la central camino de su casa (no confirmado); Auñamendi, «en Bilbao»; el guion dice «de camino a casa, tras salir de la central». Hora de salida de la central 19:45 y llamada a Egin a las 21:15 (El País). Hallazgo hacia las 22:00 (El País) y aviso de ETA a las 21:30; Auñamendi sitúa la manifestación de Bilbao el 6 de febrero; el guion no cita fecha de la manifestación. Esposa: María Josefa (Pepi) Murúa, cinco hijos de corta edad (El País 31/1/81). Se omiten los detalles del hallazgo. Pronunciación de «Lemóniz»: se deja igual (revisar al escuchar)."
+}

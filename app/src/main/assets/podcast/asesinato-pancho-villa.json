@@ -1,0 +1,99 @@
+{
+  "id": "asesinato-pancho-villa",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Pancho Villa": "Pancho Vílla",
+    "Canutillo": "Canutíllo",
+    "Parral": "Parral",
+    "Salas Barraza": "Salas Barraza",
+    "Friedrich Katz": "Frídrich Katz",
+    "Plutarco Elías Calles": "Plutarco Elías Calles"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Dos habitaciones de alquiler en Parral",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Pancho Villa. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Dos habitaciones de alquiler en Parral."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hidalgo del Parral, Chihuahua, 20 de julio de 1923. Por una calle céntrica avanza un coche con seis hombres. Al volante va el general Francisco Villa, Pancho Villa, uno de los jefes más famosos de la Revolución mexicana. Tiene cuarenta y cinco años y hace tres que vive retirado. Esa mañana ha salido de su hacienda rumbo a Parral, a una fiesta familiar, y ha querido conducir él mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El coche baja la velocidad en una curva, en la esquina de las calles Juárez y Gabino Barreda, por un gran charco de agua. Un joven grita: «¡Viva Villa!». No es un saludo. Es la señal. Según una versión recogida por Wikipedia, el grito indicaba a los atacantes en qué asiento iba Villa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un grito de aclamación como orden de disparar. Quienes lo prepararon conocían el trayecto del coche, la hora y el lugar donde iba a frenar. Eso no se improvisa en una mañana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según una crónica periodística, los atacantes habían alquilado dos habitaciones en esa calle, con la excusa de guardar forraje, y habían abierto un hueco entre ellas. Desde allí, ocho hombres salieron y dispararon contra el coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Villa recibió nueve disparos y murió en el acto. Con él murieron cuatro de sus acompañantes. Solo uno de los escoltas, herido, logró escapar con vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un dato que me inquieta más que la emboscada: esa crónica cuenta que ya habían intentado matarlo antes. Un plan se frustró porque un aliado de Villa lo avisó. Otro se canceló porque había escolares cerca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Villa se había retirado en 1920, tras firmar los convenios de Sabinas, a la hacienda de Canutillo. Había dejado las armas, pero seguía siendo uno de los nombres más conocidos del país. Allí abrió una escuela a la que, según Wikipedia, iban unos trescientos niños de los alrededores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que sostienen varios historiadores: que su fama era una amenaza para quienes mandaban. Es una tesis, no un hecho probado en un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El responsable, según las autoridades, era Jesús Salas Barraza, un diputado de Durango. Él se atribuyó el crimen. Fue condenado, pero cumplió solo unos meses de cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes no coinciden en la pena. Wikipedia en castellano habla de setenta años e indulto en 1924; otra versión de veinte años conmutados. Yo me quedo con lo prudente: cumplió unos pocos meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para muchos historiadores, entre ellos Friedrich Katz, autor de una biografía de referencia, el crimen no fue obra de un solo hombre. Sostienen que se planeó con el conocimiento de altos cargos del gobierno."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esos altos cargos, según los historiadores, eran Plutarco Elías Calles y, al menos con su aprobación tácita, el presidente Álvaro Obregón. Lo repito: nunca fueron juzgados por esto. Es la explicación más aceptada en los libros, pero no una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Así que el caso quedó cerrado en los papeles y abierto en la historia. Se condenó a un autor y nadie más fue juzgado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco muertos en una calle, un único condenado, y una pregunta que un siglo después no ha tenido un tribunal que la responda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Villa sigue siendo uno de los personajes más recordados de México, y su muerte, una de las más estudiadas de su historia. Para él la educación era lo más importante que se podía dar a los niños, y esa escuela de Canutillo es parte de lo que dejó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero no hay que olvidar a los cuatro hombres que viajaban con él y murieron a su lado. Eran su escolta y su compañía, y aquella tarde de julio iban a una fiesta familiar. Su memoria también pertenece a este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Pancho Villa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado sin aclarar del todo. Fuentes abiertas: tiempo.com.mx (emboscada: dos habitaciones alquiladas, grito «¡Viva Villa!», ocho atacantes, nueve disparos, 45 años, escolta superviviente, dos planes frustrados) y El Siglo de Torreón (solo datos básicos). Libro de Katz no abierto; Wikipedia en castellano (Pancho Villa) abierta con curl para el viaje a Parral, la señal del grito, el charco, los convenios de Sabinas y la escuela de Canutillo; la implicación de Calles y Obregón es una tesis histórica (Katz, según la ficha), no probada en juicio; el guion la atribuye y lo dice. Contradicciones: pena de Salas Barraza (ficha: 20 años conmutados a unos meses; Wikipedia en castellano: 70 años e indulto en 1924); se dice solo «unos meses de cárcel», y el guion menciona la discrepancia. Nombre del acompañante (Trujillo/Trillo): no se nombra a ninguno. La ficha pone la esquina en Juárez y Gabino Barreda; la crónica, Juárez y «Barredo»: se usa la de la ficha. Número de escoltas: seis ocupantes en total (Villa más cinco escoltas, crónica); murieron cinco (ficha y crónica) y sobrevivió uno. El grito «¡Viva Villa!» como señal es de esa crónica. Los otros atacantes no se nombran (solo Salas Barraza, condenado)."
+}

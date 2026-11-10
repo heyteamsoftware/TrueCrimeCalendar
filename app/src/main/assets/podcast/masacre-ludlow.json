@@ -8,8 +8,7 @@
     "Rockefeller": "Rókefeler",
     "Louis Tikas": "Luis Tícas",
     "Tikas": "Tícas",
-    "Wilson": "Uílson",
-    "Trinidad": "Trinidad"
+    "Wilson": "Uílson"
   },
   "cintas": [
     {
@@ -31,7 +30,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un foso bajo una tienda no se cava para morir. Se cava para refugiarse de las balas. La gente que lo usó hizo lo que se le había dicho que hiciera cuando empezaran a disparar."
+          "texto": "Primera nota. Un foso bajo una tienda no se cava para morir. Se cava para esconderse de las balas. Ese foso cuenta más que cualquier cifra."
         },
         {
           "voz": "ximena",
@@ -39,7 +38,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. La propia compañía contrató detectives privados, que según varias fuentes disparaban contra las tiendas. Después llegó la Guardia Nacional, que los huelguistas creyeron una protección. No lo era: tenía órdenes de romper la huelga, y los Rockefeller pagaban sus salarios."
+          "texto": "Segunda nota. Según History.com, los Rockefeller contrataron detectives privados que atacaron los campamentos con rifles y ametralladoras. Después llegó la Guardia Nacional, que los huelguistas creyeron una protección. No lo era: tenía órdenes de romper la huelga, y los Rockefeller pagaban sus salarios."
         },
         {
           "voz": "ximena",
@@ -55,11 +54,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Anoto la cifra, que no está cerrada. Las crónicas de la época hablan de unos veinte muertos, doce de ellos niños. Wikipedia dice unos veintiuno. Una periodista de entonces escribió que fueron cincuenta y cinco mujeres y niños. Es un número que los historiadores modernos no sostienen."
+          "texto": "Anoto la cifra, que no está cerrada. Las crónicas de la época hablan de unos veinte muertos, doce de ellos niños. Otras cuentas dan unos veintiuno. Una periodista de entonces escribió que fueron cincuenta y cinco mujeres y niños. Es un número que los historiadores modernos no sostienen."
         },
         {
           "voz": "ximena",
-          "texto": "La noticia corrió por todo el país. El sindicato de mineros, los trabajadores de la zona y miles de personas se alzaron. Hubo diez días de combates armados por el sur de Colorado. Al final, el presidente Wilson envió tropas federales, que desarmaron a ambos bandos."
+          "texto": "Cuando se supo lo de las mujeres y los niños, los dirigentes sindicales llamaron a las armas. Hubo diez días de combates en los campos de carbón del sur de Colorado, con al menos cincuenta muertos. Al final, el presidente Wilson envió tropas federales, que desarmaron a ambos bandos."
         },
         {
           "voz": "ximena",
@@ -83,11 +82,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En el lugar se levantó un monumento a quienes murieron aquel día. En 2009, el campamento de Ludlow fue declarado Monumento Histórico Nacional."
+          "texto": "En 1916 el sindicato de mineros compró el terreno del campamento y dos años después levantó un monumento en memoria de quienes murieron. En 2009, el lugar fue declarado Monumento Histórico Nacional."
         },
         {
           "voz": "alvaro",
-          "texto": "No hay un condenado, y por eso el expediente termina con otros nombres. Los de las mujeres y los niños que murieron en el foso. No los voy a leer sin saber qué familias los reclaman, pero quedan en el archivo: eran las personas a las que el campamento intentaba proteger."
+          "texto": "Nadie fue condenado por las muertes de Ludlow. Por eso este expediente termina en el foso, con las mujeres y los niños que se refugiaron en él. Su sitio no es una cifra: es la memoria de un campamento que intentaba protegerlos."
         },
         {
           "voz": "ximena",
@@ -96,5 +95,5 @@
       ]
     }
   ],
-  "nota_revision": "Se evita nombrar a víctimas menores y a los guardias; a Linderfelt no se le menciona aunque Wikipedia dice que fue «considerado responsable» de la muerte de Tikas y fue absuelto. Fuentes abiertas: History.com (informe de la mañana al anochecer, foso con 11 niños y 2 mujeres, ningún miliciano ni detective acusado, 66 muertos en la huelga), Wikipedia en inglés (Pascua ortodoxa, Tikas, detenidos y acusados, 22 guardias en consejo de guerra, Ten-Day War, tropas federales de Wilson, ~75 muertos de la guerra del carbón, 10 de diciembre de 1914, informe de la junta militar, comisión de relaciones industriales, NHL el 16 de enero de 2009). La cifra de muertos: History.com no da cifra del día; las cuentas de la época dan 20 (12 niños, 8 adultos); Wikipedia «unos 21»; Julia May Courtney (1914) dijo 55 mujeres y niños; el guion usa «unos veinte». La entrada de Wikipedia citada sobre «Rockefeller Sr.» no se usa por dudosa. El monumento (sindicato, 1918) se menciona sin fecha. Las fuentes libros e informe de 1915 no se leyeron. Contradicción menor: History.com habla de 66 muertos en la huelga; Wikipedia, unos 75 en la guerra del carbón; el guion usa 75 con atribución a la «guerra del carbón»."
+  "nota_revision": "Se evita nombrar a víctimas menores y a los guardias; a Linderfelt no se le menciona aunque Wikipedia dice que fue «considerado responsable» de la muerte de Tikas y fue absuelto. Fuentes abiertas: History.com (informe de la mañana al anochecer, foso con 11 niños y 2 mujeres, ningún miliciano ni detective acusado, 66 muertos en la huelga), Wikipedia en inglés (Pascua ortodoxa, Tikas, detenidos y acusados, 22 guardias en consejo de guerra, Ten-Day War, tropas federales de Wilson, ~75 muertos de la guerra del carbón, 10 de diciembre de 1914, informe de la junta militar, comisión de relaciones industriales, NHL el 16 de enero de 2009). La cifra de muertos: History.com no da cifra del día; las cuentas de la época dan 20 (12 niños, 8 adultos); Wikipedia «unos 21»; Julia May Courtney (1914) dijo 55 mujeres y niños; el guion usa «unos veinte». La entrada de Wikipedia citada sobre «Rockefeller Sr.» no se usa por dudosa. El monumento (UMWA, 1916 compra del terreno y 1918 monumento) es de Wikipedia. Las fuentes libros e informe de 1915 no se leyeron. Contradicción menor: History.com habla de 66 muertos en la huelga; Wikipedia, unos 75 en la guerra del carbón; el guion usa 75 con atribución a la «guerra del carbón»."
 }

@@ -12,7 +12,6 @@
     "Allen West": "Alen Uést",
     "West": "Uést",
     "Angel Island": "Éinyel Áiland",
-    "Golden Gate": "Góulden Guéit",
     "Marshals": "Márshals",
     "FBI": "efe be i",
     "San Francisco": "San Francisco"
@@ -33,7 +32,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Alcatraz, bahía de San Francisco, 12 de junio de 1962. Son las siete de la mañana. Un guardia intenta despertar al preso de una celda. No se mueve. Le toca la cama, y la cabeza del hombre cae al suelo. No es una cabeza: es de yeso, con pelo humano."
+          "texto": "Alcatraz, bahía de San Francisco, 12 de junio de 1962. Son las siete de la mañana. Un guardia intenta despertar al preso de una celda. No se mueve. Le toca la cama, y la cabeza del hombre cae al suelo. No es una cabeza de verdad: es un muñeco con pelo humano."
         },
         {
           "voz": "ximena",
@@ -69,7 +68,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dos días después, un guardacostas encontró un remo cerca de Angel Island. Apareció una cartera impermeable con fotos y cartas de la familia Anglin. En los días siguientes, aparecieron dos chalecos salvavidas. La balsa nunca se encontró."
+          "texto": "Dos días después, un guardacostas encontró un remo cerca de Angel Island. Apareció una cartera impermeable con fotos y cartas de la familia Anglin. Ese mismo mes aparecieron dos chalecos salvavidas. La balsa nunca se encontró."
         },
         {
           "voz": "ximena",
@@ -85,7 +84,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y eso nos lleva a lo que nunca se ha probado. Hubo fotos, postales y una carta de 2018 en la que un hombre decía ser John Anglin, y que murieron Morris y Clarence. Su autenticidad no pudo determinarse. Para mí, son historias, no pruebas."
+          "texto": "Y eso nos lleva a lo que nunca se ha probado. Hubo fotos, postales y una carta, conocida en 2018, en la que un hombre decía ser John Anglin y aseguraba que Morris y Clarence habían muerto. Su autenticidad no pudo determinarse. Para mí, son historias, no pruebas."
         },
         {
           "voz": "ximena",
@@ -93,7 +92,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Posible no quiere decir que ocurriera. Y no olvidemos que eran presos federales con condenas largas. No hablamos de héroes de película, sino de hombres con un pasado que no vamos a juzgar aquí."
+          "texto": "Posible no quiere decir que ocurriera. Y no olvidemos que eran presos federales. No hablamos de héroes de película."
         },
         {
           "voz": "ximena",
@@ -109,5 +108,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: BOP y en.wikipedia (FBI y NYT bloqueados). Hay pocas contradicciones: el BOP habla de taladros caseros y 'falsas paredes', Wikipedia de cucharas, hojas de sierra y motor de aspiradora (el guion sigue Wikipedia). El BOP no menciona al FBI; la conclusion del FBI de 1979 (probablemente ahogados) es de la ficha y Wikipedia. El cuerpo con ropa azul de semanas despues lo da el BOP; Wikipedia no lo menciona. La carta de 2018 (autenticidad no determinada) esta en Wikipedia; la ficha habla de 2013. El estudio de Delft de 2014 es de Wikipedia. Tampoco se confirma que el hallazgo de los chalecos y del remo prueben la muerte."
 }

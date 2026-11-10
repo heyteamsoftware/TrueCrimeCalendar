@@ -1,0 +1,110 @@
+{
+  "id": "mayerling",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mayerling": "Máierling",
+    "Rodolfo": "Rodolfo",
+    "María Vetsera": "María Vétsera",
+    "Vetsera": "Vétsera",
+    "Loschek": "Lóshek",
+    "Heiligenkreuz": "Jáiligenkroits",
+    "Schoeller": "Shéler",
+    "Bosque de Viena": "Bosque de Viena",
+    "Austria-Hungría": "Austria-Hungría"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una puerta cerrada por dentro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La tragedia de Mayerling. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una puerta cerrada por dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mayerling, Bosque de Viena, 30 de enero de 1889. El príncipe heredero de Austria-Hungría, Rodolfo, había pedido que lo despertaran temprano: tenía una jornada de caza. Su ayuda de cámara, Loschek, llama a la puerta del dormitorio. Nadie contesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Prueba otra vez, con un compañero de caza del príncipe. Siguen sin obtener respuesta. La puerta no cede. Al final, Loschek rompe un panel con un martillo y mete la mano para abrir desde dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una puerta cerrada por dentro, un príncipe y una habitación a oscuras. La sala no está vacía. Allí también hay una joven de diecisiete años, la baronesa María Vetsera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rodolfo tenía treinta años. Era el único hijo varón del emperador Francisco José y el heredero del imperio. Estaba casado y tenía una hija. Su amante era María Vetsera, hija de un diplomático de la corte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de los presentes salió corriendo hacia Viena en un tren especial. Había que decírselo al emperador, y el protocolo de la corte hizo que la noticia tardara en llegar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que pasó después me interesa más que la tragedia. La corte tenía un problema: un suicidio del heredero no podía enterrarse con honores en la cripta imperial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera versión oficial habló de un fallo cardiaco. Pronto corrió el rumor de un asesinato y de un suicidio. Entonces la corte emitió otro parte médico: el príncipe había actuado en un momento de desequilibrio mental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un informe de cortesía. Con él, Rodolfo pudo recibir un entierro cristiano. Observa lo que hizo la corte con ella: el cuerpo de María fue sacado en secreto del pabellón y enterrado en el monasterio de Heiligenkreuz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La explicación que hoy se considera más probable es la de un pacto de muerte: él, hundido en una depresión, habría matado a María y después se habría quitado la vida. Time Travel Vienna lo resume así, con la cautela de que las circunstancias no están plenamente aclaradas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa cautela es importante. Nunca hubo un juicio ni una investigación independiente. Y hay quien ha defendido que los dos fueron asesinados, o que se mataron el uno al otro. Esas hipótesis existen, y ninguna se ha demostrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1959, un médico examinó los restos de la joven y no encontró un orificio de bala en el cráneo, según Wikipedia. En 1991, un particular sustrajo sus restos para analizarlos. Ese episodio añadió más dudas que respuestas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquel robo de restos no tuvo permiso de nadie. Lo señalo para no dar por cierto lo que no lo es: la versión más aceptada sigue siendo la del pacto de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2015 apareció algo nuevo. En el archivo del banco privado Schoeller, en una carpeta depositada en 1926, se hallaron cartas de despedida de María. Una era para su madre, otras para sus hermanos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En ellas decía que no había podido resistirse al amor y que quería ser enterrada junto a él. Las cartas pasaron a la Biblioteca Nacional de Austria, que habló de un hallazgo sensacional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las cartas apoyan la idea del pacto, pero no zanjan el debate. Dicen lo que ella quería, no lo que ocurrió esa noche. Y no sabemos quién guardó aquella carpeta ni por qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La muerte del heredero cambió la sucesión del imperio. Pasó a su tío, el archiduque Carlos Luis, y después a su primo Francisco Fernando. Wikipedia enlaza esa cadena con la crisis que acabó en la Primera Guerra Mundial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La leyenda lo cuenta como una gran historia de amor. Yo prefiero otra lectura: una chica de diecisiete años murió en un pabellón de caza, y la corte decidió esconder su cuerpo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy, en el lugar del pabellón hay un convento de monjas carmelitas, y la tumba de María está en Heiligenkreuz. Allí descansa la joven cuyo nombre la corte quiso borrar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La tragedia de Mayerling. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "La víctima tenía 17 años: caso de hace más de un siglo y nombre público. Verificados: fecha, edades, primera versión de fallo cardiaco y luego informe de desequilibrio mental, entierro secreto en Heiligenkreuz, cartas de 2015 en el banco Schoeller (The Local), crisis sucesoria (Wikipedia), convento carmelita en el lugar del pabellón (Time Travel Vienna). La versión del pacto de muerte (él la mató y después se suicidó) se presenta como «la que hoy se considera más probable», no como probada. Nombre del compañero de caza (Hoyos) y el tren especial: Wikipedia. Lo de la exhumación de 1959 y 1991: Wikipedia, según la nota de revisión de la ficha. Ficha dice que las cartas se hallaron «en 2015»; The Local lo publicó el 31/7/2015."
+}

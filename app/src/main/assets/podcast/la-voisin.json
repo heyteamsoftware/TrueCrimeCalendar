@@ -1,0 +1,116 @@
+{
+  "id": "la-voisin",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "La Voisin": "La Vuasán",
+    "Voisin": "Vuasán",
+    "Catherine Monvoisin": "Caterín Monvuasán",
+    "Monvoisin": "Monvuasán",
+    "Marie Bosse": "Marí Bos",
+    "Bosse": "Bos",
+    "La Reynie": "La Renní",
+    "Notre-Dame-de-Bonne-Nouvelle": "Notre-Dam-de-Bon-Nuvél",
+    "Chambre ardente": "Chámbr ardánt",
+    "Arsenal": "Arsenál",
+    "Montespan": "Montespán",
+    "Madame de Montespan": "Madam de Montespán",
+    "Luis XIV": "Luis catorce",
+    "Grève": "Grev",
+    "Marguerite": "Margarít"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una misa en Bonne-Nouvelle",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asunto de los venenos. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una misa en Bonne-Nouvelle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 12 de marzo de 1679. Una mujer sale de misa en la iglesia de Notre-Dame-de-Bonne-Nouvelle. Es una vecina conocida en París. Unos agentes la rodean y la detienen. Se llama Catherine Monvoisin, pero todos la conocen como La Voisin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Vivía de vender futuros. Adivina, comadrona y vendedora de filtros, tenía una clientela que llegaba hasta la nobleza. Según los procesos, también vendía venenos y practicaba abortos, y organizaba ritos que la época llamó misas negras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una mujer que sabía más secretos de la corte que muchos ministros. Y vivía a la vista de todos, con jardines y fiestas, en un barrio de París. Hasta que alguien habló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo empezó con otra mujer. En enero de 1679 la policía de La Reynie detuvo a Marie Bosse, rival de La Voisin, que se jactaba de envenenar por encargo de damas aristocráticas. Un engaño la delató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Ministerio de Justicia francés, Bosse nombró a La Voisin bajo tortura. Según otras fuentes, simplemente la traicionó. Lo cierto es que dos meses después de su detención, La Voisin estaba en la cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una nota sobre las fuentes: casi todo lo que se sabe sale de interrogatorios bajo presión y de acusaciones cruzadas. En esa época, bajo tortura o miedo, la gente decía lo que el juez quería oír. Hay que tomarlo con pinzas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Luis XIV creó un tribunal especial, la Chambre ardente, la cámara ardiente. Se reunía en el Arsenal, en una sala tapizada de negro e iluminada con antorchas. Sus sesiones eran secretas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1679 y 1682 interrogó a cientos de personas. El Ministerio de Justicia francés da 442 acusados. Cerca de una docena de magistrados del Parlamento de París lo componían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que se dice de los jueces. La investigación pronto dejó los venenos y se fue hacia los abortos, la magia y las misas negras. Y las confesiones, exageradas o fantasiosas, alimentaron más acusaciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Voisin fue juzgada en febrero de 1680. Admitió vender venenos y servicios mágicos, y nombró a algunos clientes. El 22 de febrero fue condenada a muerte y quemada en la plaza de Grève, ante mucha gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el caso no terminó con ella. Su hija, Marguerite, empezó a hablar. Según varias fuentes, acusó a Madame de Montespan, la favorita del rey, de haber consultado a su madre por horóscopos y filtros de amor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser muy claro: nunca se juzgó a Montespan. Eran declaraciones de una joven presa que quería salvar la vida. No hay sentencia, y sin sentencia no hay culpa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El rey ordenó que los magistrados dejasen de usar registros en esos interrogatorios, y que esas hojas se guardasen en un cofre sellado. Mandó a la cámara no tratar más casos en que apareciera el nombre de Montespan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 21 de julio de 1682, Luis XIV suspendió el tribunal. Algunos de los acusados fueron enviados con cartas del rey a prisiones lejanas, y algunos pasaron allí el resto de su vida. Marguerite se salvó de la pena de muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto cierra el asunto, a medias. El balance oficial habla de 34 ejecutados, cinco enviados a galeras y 23 desterrados. Otras fuentes dan 36 condenas a muerte. Las cifras exactas de víctimas nunca se probaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1709, el rey quemó con sus propias manos los papeles acusadores del cofre. Fue el último acto del asunto de los venenos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Conviene recordar quién pagó. Maridos, rivales, criaturas que no llegaron a nacer, y personas inocentes que pasaron años presas por una acusación. Los números no se conocen y no voy a inventarlos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Voisin murió en la hoguera, pero el asunto sobrevivió muchos años a ella: el rey tuvo en su cofre, hasta 1709, un secreto que no quiso dejar que nadie juzgara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asunto de los venenos. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Siglo XVII, antes de la horquilla habitual. Discrepancias: sobre si Bosse nombró a La Voisin bajo tortura (Ministerio de Justicia) o la traicionó (The Connexion): el guion lo dice con ambas versiones. Balance: Justicia francesa 442 acusados, 34 ejecutados, 5 a galeras, 23 desterrados; Britannica y The Connexion, 36. La mención de abortos y misas negras sale de la ficha; no se dan cifras de víctimas. Montespan nunca fue juzgada y las acusaciones de Marguerite se atribuyen con prudencia. 'En el patio de jardines, fiestas' sale de The Connexion (Villeneuve-sur-Gravois). El lugar de la detención (la iglesia) solo lo da Wikipedia. Que la sala estaba tapizada de negro con antorchas: Ministerio de Justicia. Que Marguerite se salvó de la pena de muerte: se interpreta del texto del Ministerio ('échappe au bûcher'). 'Criaturas que no llegaron a nacer' alude a los abortos, sin detalles."
+}

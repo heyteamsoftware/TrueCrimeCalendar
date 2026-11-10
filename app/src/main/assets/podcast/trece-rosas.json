@@ -1,0 +1,97 @@
+{
+  "id": "trece-rosas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Las cartas que no salieron de Ventas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Las Trece Rosas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Las cartas que no salieron de Ventas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, cárcel de mujeres de Ventas, principios de agosto de 1939. Un grupo de presas ha sido condenado a muerte. Solo les permiten una última cosa: escribir. Cartas de despedida a sus familias y peticiones de indulto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las peticiones de indulto nunca salieron de la cárcel: según la prensa, la directora se negó a enviarlas a quien correspondía. Las cartas de despedida se conservan todavía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el calendario. La guerra civil había terminado cuatro meses antes. Aquello no era combate ni defensa del Estado: era un tribunal militar de un régimen que acababa de ganar y que quería cerrar cuentas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran trece jóvenes de entre dieciocho y veintinueve años. Casi todas pertenecían a las Juventudes Socialistas Unificadas, la organización juvenil de la izquierda. Una de ellas era pianista y no tenía militancia política. Otras trabajaban de modistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habían sido detenidas en mayo, a partir de ficheros de militantes que el ejército franquista requisó al ocupar Madrid, y de delaciones. Según las fuentes, fueron interrogadas con torturas. Vivían hacinadas en Ventas, una cárcel pensada para unas cuatrocientas personas donde llegó a haber unas cuatro mil."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Desde que cayó Madrid, la organización clandestina estaba destrozada. Quedaba gente joven, sin experiencia, que apenas había empezado a reorganizarse. Eso no es una conspiración: es una red deshecha antes de funcionar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces ocurrió algo en la carretera de Extremadura, cerca de Talavera de la Reina. A finales de julio de 1939 murieron el comandante Isaac Gabaldón, su hija y el conductor del coche. Gabaldón guardaba el archivo de la masonería y el comunismo, que servía a los fiscales militares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las jóvenes estaban ya en la cárcel. El régimen, sin embargo, lo presentó como obra de una gran red comunista y decidió castigar a verdaderos o supuestos responsables de forma ejemplar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atribuyo lo que dicen los historiadores. Benito Díaz asegura que las presas no tenían nada que ver: estaban encerradas y no pudieron ser autoras materiales ni intelectuales. Y duda de que el atentado fuera un plan organizado: pudo ser casualidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El consejo de guerra fue sumarísimo y colectivo. Se juzgó a decenas de acusados a la vez, con una defensa «de apariencia», según la prensa. La sentencia las halló responsables de «adhesión a la rebelión»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la madrugada del 5 de agosto de 1939, trece mujeres y cuarenta y tres hombres fueron fusilados junto a la tapia del cementerio del Este, hoy cementerio de La Almudena. Algunas familias no supieron nada hasta que fueron a visitarlas a la cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Nueve de ellas eran menores según la ley de entonces, que fijaba la mayoría de edad en veintitrés años. Varias apenas habían salido de la adolescencia. Quienes dictaron aquella sentencia nunca respondieron por ello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia llegó a la prensa extranjera y hubo campañas de protesta en París. El régimen no se detuvo. Se calcula que la mayoría de las 364 personas detenidas por el atentado contra Gabaldón fueron fusiladas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie respondió nunca por estas ejecuciones. Hubo, además, una decimocuarta joven, fusilada en febrero de 1940, que a veces se olvida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una de las condenadas escribió a su madre antes del amanecer. Su última frase se ha convertido en símbolo: «Que mi nombre no se borre de la historia»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso no pronunciamos aquí sus nombres. No hace falta. Están en una placa del cementerio, en libros, en una película y en el recuerdo de sus familias. Lo que aquí queda es la petición que hizo una de ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cada 5 de agosto se las recuerda ante la tapia, y durante años lo hicieron con compañeras que sobrevivieron. Eran jóvenes que trabajaban, estudiaban o tocaban el piano. Y llevaban nombre propio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Las Trece Rosas. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso político con mucha carga: redacción neutra y atribuida. No se dan los nombres de las trece (nueve eran menores según la ley de 1939, la ficha los omite); la frase «Que mi nombre no se borre de la historia» se atribuye a «una de las condenadas» sin nombre (Público 2010 y Wikipedia la atribuyen a Julia Conesa, 19 años). Fuentes abiertas: Público (2010), eldiario.es (2019), Wikipedia en español. Discrepancias: fecha de los fusilamientos (madrugada del 5 según Público, EFE y Wikipedia; eldiario.es 2019 dice «6»): el guion dice el 5. Fecha del atentado contra Gabaldón (27 o 29 de julio): el guion dice «a finales de julio». Número de hombres fusilados: 43 con las trece (Público, eldiario.es); Wikipedia actual habla de 50 hombres y 63 fusilados: el guion usa 13 y 43. Sobre los hechos de Gabaldón: Wikipedia lo atribuye a una red comunista inventada por el régimen; eldiario.es (Benito Díaz) dice que los autores fueron tres jóvenes de las JSU, que fueron fusilados, y que las trece no tuvieron relación: el guion no da la identidad de los autores, solo la opinión de Díaz. «La directora se negó a enviar los indultos» sale de Público (2010). Cifra de 364 detenidos y «la mayoría fusilados»: Wikipedia. Una de ellas era pianista sin militancia (Wikipedia, tabla biográfica). La decimocuarta joven, Antonia Torre Yela, fusilada el 19 de febrero de 1940 (Wikipedia y ficha)."
+}

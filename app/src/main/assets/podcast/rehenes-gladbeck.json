@@ -1,0 +1,47 @@
+{
+  "id": "rehenes-gladbeck",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Gladbeck": "Gládbek",
+    "Deutsche Bank": "Doich Bank",
+    "Hans-Jürgen Rösner": "Hans Yürguen Résner",
+    "Rösner": "Résner",
+    "Dieter Degowski": "Díter Degófski",
+    "Degowski": "Degófski",
+    "Marion Löblich": "Márion Léblik",
+    "Löblich": "Léblik",
+    "Bremen": "Brémen",
+    "Silke Bischoff": "Sílke Bíschof",
+    "Express": "Exprés"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un teléfono sin cortar",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La toma de rehenes de Gladbeck. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un teléfono sin cortar." },
+        { "voz": "ximena", "texto": "Gladbeck, Alemania, 16 de agosto de 1988. Poco antes de las ocho de la mañana, un médico que llega tarde a su consulta ve, a través del cristal de una sucursal del Deutsche Bank, a un hombre enmascarado con una pistola junto a un empleado. Avisa a la policía. Son las 8.04." },
+        { "voz": "ximena", "texto": "Los atracadores son Hans-Jürgen Rösner y Dieter Degowski, dos hombres de treinta y pocos años con antecedentes, que se conocían desde la escuela. Retienen a dos empleados del banco. Piden trescientos mil marcos y un coche para huir. La policía tarda horas en reunir el dinero y los refuerzos llegan de toda la región." },
+        { "voz": "alvaro", "texto": "Primera nota. Nadie cortó la línea telefónica de la sucursal. Y empezaron a llamar periodistas. Los atracadores negociaban con la policía y daban entrevistas a la vez. Desde esa mañana tuvieron dos públicos." },
+        { "voz": "ximena", "texto": "A las 21.47, ante las cámaras de televisión, salen de Gladbeck con los dos rehenes y el dinero. Recogen a la pareja de Rösner, Marion Löblich. Antes de abandonar la ciudad compran tabaco, cerveza y medicinas en comercios abiertos. La policía los sigue durante horas y no interviene." },
+        { "voz": "ximena", "texto": "El 17 de agosto, en Bremen, secuestran un autobús de línea con veintisiete personas, entre ellas varios niños. Reporteros y fotógrafos los rodean. Rösner anuncia que a partir de ahora solo hablará a través de los medios." },
+        { "voz": "alvaro", "texto": "Imagínalo desde fuera. Micrófonos a un palmo de una pistola, y la policía más lejos que los periodistas. Según las críticas posteriores, esos reporteros hicieron de mediadores y estorbaron en varias ocasiones a los agentes." },
+        { "voz": "ximena", "texto": "Esa noche, en un área de servicio de la autopista, Degowski mató a un adolescente que viajaba en el autobús con su hermana pequeña. No daremos su nombre. Casi a la vez, un policía de Bremen murió en un accidente cuando iba hacia allí." },
+        { "voz": "ximena", "texto": "Siguieron hasta los Países Bajos, donde liberaron a los niños a cambio de un coche, y volvieron a Alemania. En el coche viajaban Marion Löblich y dos jóvenes rehenes, entre ellas Silke Bischoff, de dieciocho años." },
+        { "voz": "ximena", "texto": "El 18 de agosto, a mediodía, aparcan en la calle Breite Straße de Colonia, junto al edificio de un diario. En minutos hay una multitud con micrófonos. Los secuestradores llevaban unas cuarenta y ocho horas sin dormir." },
+        { "voz": "alvaro", "texto": "Y aquí está lo que más cuesta creer. El subdirector de un periódico local, el Express, subió al coche para indicarles el camino a la autopista. Años después él mismo habló de un fracaso total de los medios." },
+        { "voz": "ximena", "texto": "La policía detuvo el coche en la autopista A3, cerca de Bad Honnef. En el tiroteo murió Silke Bischoff. Había pasado cincuenta y cuatro horas bajo amenaza." },
+        { "voz": "alvaro", "texto": "Se reprochó a la policía graves errores en toda la operación. El senador de Interior de Bremen dimitió. Un parlamento regional abrió una comisión de investigación en menos de dos semanas." },
+        { "voz": "ximena", "texto": "En marzo de 1991, el tribunal de Essen condenó a Rösner y a Degowski a cadena perpetua, y a Marion Löblich a nueve años. Degowski salió en libertad condicional en febrero de 2018, tras unos treinta años preso." },
+        { "voz": "alvaro", "texto": "El caso cambió las reglas de la prensa. El Consejo de Prensa alemán añadió a su código una norma que prohíbe las entrevistas con autores de un delito mientras este se está cometiendo." },
+        { "voz": "ximena", "texto": "Un investigador de los medios, Hartmut Wessler, ha señalado que la gente recuerda los nombres de los secuestradores, pero le cuesta más recordar los de las víctimas." },
+        { "voz": "alvaro", "texto": "Por eso el archivo apunta aquí el nombre de Silke. Quería ser auxiliar de fiscalía. Tenía dieciocho años. Y un adolescente cuyo nombre no escribimos, y un policía que iba de camino, también forman parte de esta caja." },
+        { "voz": "ximena", "texto": "Fin del expediente: La toma de rehenes de Gladbeck. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: epd 2013 y 2018 (evangelisch.de), Die Welt 2008 (A. Klesse) y Spiegel 2018 (liberación de Degowski). Sentencia de Essen y Wikipedia no abiertas. Sin contradicciones graves con la ficha. Edad del adolescente muerto: 14 (Wikipedia), 15 (epd, Welt): se le llama «un adolescente» y no se nombra. La muerte de Silke Bischoff se dice sin precisar de quién era la bala (Wikipedia: arma de Rösner; no confirmado en otra fuente abierta). Pena de Löblich (nueve años) y fecha de marzo de 1991 solo constan en la ficha/Wikipedia (Spiegel confirma 1991 y la perpetua). Libertad de Degowski: Spiegel la fecha el 15 de febrero de 2018 (jueves); se dice febrero de 2018. «Unos treinta años preso» según Spiegel. Silke Bischoff era auxiliar de fiscalía en formación según Welt (quería ser Staatsanwaltsgehilfin). El Express: Röbel era subdirector del Kölner Express (Welt); se dice «un periódico local»; no se nombra. Según Welt, el viaje por los Países Bajos y la liberación de niños se hicieron con la policía holandesa; la parada de Colonia fue el 18 de agosto hacia el mediodía."
+}

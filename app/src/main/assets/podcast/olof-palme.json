@@ -1,0 +1,114 @@
+{
+  "id": "olof-palme",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Olof Palme": "Ulof Pálme",
+    "Palme": "Pálme",
+    "Sveavägen": "Svevéguen",
+    "Tunnelgatan": "Tunelgatan",
+    "Estocolmo": "Estocolmo",
+    "Lisbeth": "Lísbet",
+    "Christer Pettersson": "Cristér Péterson",
+    "Pettersson": "Péterson",
+    "Stig Engström": "Estig Éngstrem",
+    "Engström": "Éngstrem",
+    "Lennart Guné": "Lénart Guné",
+    "Krister Petersson": "Krístier Péterson",
+    "Skandia": "Escándia"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Sin escolta en Sveavägen",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Olof Palme. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Sin escolta en Sveavägen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estocolmo, 28 de febrero de 1986, 23:21. Un hombre y una mujer caminan por una calle del centro, tras salir del cine. Hace frío. No llevan escolta. Él es Olof Palme, primer ministro de Suecia. Ella es su esposa, Lisbeth."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el cruce de Sveavägen con Tunnelgatan, alguien se acerca y dispara. Palme muere poco después. Un segundo disparo hiere levemente a Lisbeth."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un jefe de gobierno que vuelve a pie del cine, sin guardaespaldas, en pleno centro de la capital. Aquella Suecia confiaba en que eso podía hacerse. Ese viernes por la noche se acabó la ingenuidad de todo un país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Olof Palme era una figura conocida en el mundo. Socialdemócrata, había gobernado Suecia y volvía a ser primer ministro. Su muerte dejó al país en estado de shock."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación se convirtió en la mayor de la historia de Suecia. SVT la llama la mayor investigación criminal del país en el último siglo. Y, sin embargo, el arma del crimen nunca apareció."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Sin arma y sin pruebas técnicas, según el propio fiscal años después, cualquier teoría se sostenía sobre el aire. Eso explica que en casi cuarenta años hayan convivido hipótesis para todos los gustos. Yo no voy a repetirlas: ninguna ha pasado por un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo pistas, hipótesis y confesiones. Según SVT, ciento treinta y cuatro personas han confesado el asesinato, veintinueve de ellas directamente a la policía. Ninguna ha servido para resolver el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1989, un hombre fue juzgado: Christer Pettersson. Fue condenado en primera instancia, pero el tribunal de apelación lo absolvió ese mismo año. Una absolución es una absolución: no se le puede señalar como autor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que eso significa. El único juicio de este caso terminó sin culpable. Desde 1989, la pregunta quedó donde estaba: abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron más de treinta años, con policías y fiscales rehaciendo el caso una y otra vez. El 10 de junio de 2020, el fiscal jefe Krister Petersson anunció que cerraba la investigación. Según él, el único autor había sido Stig Engström, un hombre conocido como «el hombre de Skandia», que murió en el año 2000. Por eso no podía ser juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El fiscal dijo que las pruebas habrían bastado para una detención, pero no para una condena. No había pruebas técnicas ni arma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí conviene frenar. Engström nunca fue acusado ni juzgado, y no puede defenderse. Críticos como el exministro de Justicia Thomas Bodström dijeron que no había pruebas directas, solo conclusiones deducidas. En 2021, el defensor del pueblo para la justicia criticó duramente esa identificación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre de 2025 se pidió reabrir la investigación para analizar con técnicas nuevas muestras del abrigo de Palme. El 18 de diciembre de 2025, el director de la Fiscalía, Lennart Guné, dijo que no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Guné concluyó que las pruebas contra Engström no bastan para señalarlo como el asesino, y que el material disponible no permite probar quién fue el autor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahí estamos. Después de treinta y nueve años, la fiscalía sueca dice que no puede responder a la pregunta de quién disparó aquella noche. No dice que sea imposible: dice que con lo que hay no se puede."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación, según la agencia DPA, fue lenta y supuso un gran trauma para el país. Durante décadas, los suecos esperaron una respuesta que no llegó, y el caso despertó un enorme interés internacional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para Suecia, el caso es una herida abierta. Se ha comparado su peso con el del asesinato de Kennedy en Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan Olof Palme, que fue asesinado a los cincuenta y ocho años, y Lisbeth, que sobrevivió al disparo y quedó para siempre unida a aquella calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Olof Palme. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: SVT (actualizada el 18 de diciembre de 2025) y DPA vía Yahoo (18 de diciembre de 2025); NYT y SvD sin abrir. Contradicciones: SVT habla de un «fiscal general adjunto» (överåklagare) y la ficha de «director de la Fiscalía»; se pone «director de la Fiscalía» como DPA. La petición de septiembre de 2025 para reabrir con ADN en el abrigo: DPA, sin detalle de quién la pidió. La condena de Pettersson en primera instancia en 1989: ficha; fecha exacta sin confirmar. «Un viernes por la noche»: 28 de febrero de 1986 fue viernes (comprobar). «Había gobernado Suecia y volvía a ser primer ministro»: Palme fue primer ministro 1969-76 y 1982-86 (de memoria, comprobar con una fuente). «Hijos de ambos» y «Lisbeth quedó unida a esa calle»: sin fuente abierta, frases de cierre, revisar. «Treinta y nueve años»: 1986 a 2025. «Ninguna se sostuvo» sobre las 134 confesiones: sin fuente, es inferencia. «SVT la llama la mayor investigación del siglo» (el artículo la titula así y DPA la califica el mayor caso del último siglo). «Sin escena analizable... se perdió en la noche»: mi inferencia, no de las fuentes. No se menciona el nombre del fiscal anterior ni el JO por su nombre completo."
+}

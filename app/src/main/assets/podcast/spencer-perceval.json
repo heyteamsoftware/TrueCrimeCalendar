@@ -1,0 +1,121 @@
+{
+  "id": "spencer-perceval",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Spencer Perceval": "Spénser Pérsival",
+    "Perceval": "Pérsival",
+    "John Bellingham": "Yon Bélinyam",
+    "Bellingham": "Bélinyam",
+    "Old Bailey": "Old Béili",
+    "Newgate": "Niúgueit",
+    "Foreign Office": "Fórin Ófis",
+    "Jane": "Yein"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El vestíbulo de los Comunes",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Spencer Perceval. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El vestíbulo de los Comunes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 11 de mayo de 1812. Hacia las cinco de la tarde, el primer ministro, Spencer Perceval, entra en el vestíbulo de la Cámara de los Comunes. Va a una sesión sobre una investigación acerca de las órdenes del Gobierno que limitaban el comercio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un hombre se adelanta. Dispara una vez a quemarropa y el primer ministro cae. Todo dura segundos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un vestíbulo abierto al público, lleno de gente, y un arma. Era un lugar de paso, y el primer ministro caminaba por él como cualquiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Perceval fue llevado a una sala cercana. No hubo tiempo de salvarlo: murió a los pocos minutos. Dejaba a su mujer, Jane, y doce hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor no huyó. Se sentó en un banco y esperó mientras se llevaban el cuerpo del primer ministro. Cuando le preguntaron, dijo que corregía una denegación de justicia por parte del Gobierno. Se llamaba John Bellingham y era comerciante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me detengo en este detalle, que es el más raro del expediente. No intenta escapar. No niega lo que ha hecho. Dice que corrige una injusticia. No parece un hombre que haya perdido el control. Parece uno que lo ha pensado mucho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bellingham había estado preso en Rusia por una deuda, en una disputa con un acreedor. Según los historiadores, fue encarcelado en 1804 y quedó libre en 1809, después de que Gran Bretaña y Rusia rompieran sus relaciones diplomáticas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al volver a Inglaterra, culpó al Gobierno de no haberlo ayudado. Presentó reclamaciones y peticiones de compensación. El Foreign Office y el propio Perceval las rechazaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se comprobó que Bellingham había actuado solo. Registraron sus pertenencias en busca de pistas. Y en ningún momento mostró arrepentimiento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la secuencia. Un hombre se siente ignorado. Pide una vez, y otra, y otra. Siempre recibe lo mismo: no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril de 1812, según Historic UK, un funcionario le dijo que tomara las medidas que creyera necesarias. Dos días después compró dos pistolas. El 5 de mayo, según EBSCO, entregó una última petición en la que avisaba de que se haría justicia por su mano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma noche se improvisó una audiencia con diputados que eran también jueces de paz. A las ocho, Bellingham estaba acusado de asesinato y de camino a la cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de mayo fue juzgado en el Old Bailey. La defensa pidió un aplazamiento para llamar a testigos que hablaran de su estado mental. El tribunal se lo negó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado deliberó muy poco y lo declaró culpable. El 18 de mayo fue ahorcado ante la cárcel de Newgate."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Siete días entre el disparo y la horca. Algunos historiadores lo han criticado, porque su salud mental era la única defensa posible y no se le dio tiempo para probarla. No decido si estaba enfermo, pero la pregunta no se contestó bien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su motivo, según todas las fuentes, fue personal: culpaba al Gobierno de no haberle compensado por los años de cárcel en Rusia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Perceval fue enterrado el 16 de mayo, en un funeral privado. Hasta hoy sigue siendo el único primer ministro británico asesinado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su muerte dejó al país casi dos meses sin gobierno estable. En ese tiempo, Napoleón invadió Rusia y Estados Unidos declaró la guerra a Gran Bretaña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno siguió adelante: el ministerio conservador que llegó después duró unos quince años, pese a la agitación social."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y hay un detalle que no encaja con la imagen del asesino solitario. Cuando ahorcaron a Bellingham, hubo gritos a su favor. Los historiadores los leen como rechazo a la política de Perceval, no como simpatía hacia el asesino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda un hombre que fue a una sesión parlamentaria y no volvió a casa. Y doce hijos que crecieron sin él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Spencer Perceval. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Hora: hacia las 17:15 (Wikipedia); Historic UK dice «hacia las cinco». Fecha del juicio (15 de mayo): EBSCO y Wikipedia; el registro del Old Bailey no se pudo abrir. Año de nacimiento de Bellingham discordante (1770 o 1776) y no se usa. Historic UK dice que las últimas palabras de Perceval no constan; el guion no las da. El tiroteo se cuenta sin detalle: un disparo en el pecho, muerte a los pocos minutos. La familia: Historic UK dice viuda y doce hijos; EBSCO dice petición final en Bow Street el 5 de mayo; se omite lo no contrastado (dos pistolas, galería de visitantes, intento de rescate de la multitud). La rapidez del juicio la critican algunos historiadores (ficha); el guion lo atribuye así. No se abrieron BBC, History of Parliament ni Hansard."
+}

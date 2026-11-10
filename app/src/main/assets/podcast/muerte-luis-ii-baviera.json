@@ -1,0 +1,107 @@
+{
+  "id": "muerte-luis-ii-baviera",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Luis II de Baviera": "Luis Segundo de Baviera",
+    "Baviera": "Baviera",
+    "Starnberg": "Shtárnberg",
+    "Bernhard von Gudden": "Bérnhard fon Gúden",
+    "Gudden": "Gúden",
+    "Neuschwanstein": "Noishvánshtain",
+    "Luitpold": "Luitpold",
+    "Berg": "Berg",
+    "Altötting": "Altötting",
+    "Jakob Lidl": "Yákob Lidl",
+    "Múnich": "Múnich"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un reloj parado a las seis cincuenta y cuatro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La muerte del rey en el lago de Starnberg. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un reloj parado a las seis cincuenta y cuatro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Castillo de Berg, junto al lago de Starnberg, Baviera. Noche del 13 de junio de 1886, domingo de Pentecostés. Llueve con fuerza. El personal busca a dos hombres que salieron a pasear al atardecer y no han vuelto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasadas las diez de la noche, los encuentran en el lago, en aguas poco profundas, cerca de la orilla. Son Luis II de Baviera, de cuarenta años, y su psiquiatra, Bernhard von Gudden. Los dos están muertos. El reloj del rey se ha parado a las seis y cincuenta y cuatro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un agua de poco más de un metro de profundidad. Un nadador, según las fuentes, que lo había sido en su juventud. Y una hora exacta en un reloj. Cada detalle de este caso parece una pregunta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender cómo llegaron allí hay que retroceder unos días. A comienzos de junio, cuatro psiquiatras firmaron un informe que declaraba al rey incapaz de gobernar. Lo redactó sobre todo Gudden."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ese informe tiene una debilidad que conviene apuntar. Según los historiadores, ninguno de los firmantes había examinado al rey. Gudden solo lo había visto una vez, doce años antes. Se apoyaron en el testimonio de empleados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno dio la regencia al tío del rey, el príncipe Luitpold. El 10 de junio, una comisión llegó de madrugada a Neuschwanstein para detener al rey, pero la policía local la rechazó. La segunda comisión tuvo éxito: el 12 de junio, Luis II fue trasladado al castillo de Berg."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, por la tarde, Gudden y el rey salieron a pasear. Hacia las seis, Luis pidió caminar junto al lago. Gudden aceptó y pidió a los dos asistentes que no los acompañaran. Fueron vistos por última vez hacia las seis y media."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una orden ambigua. No estaba claro si los asistentes debían seguirlos de lejos. Y nadie vio nada. Ni los asistentes, ni los gendarmes que patrullaban el parque. Esto es lo más inquietante de la escena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El cuerpo del rey no tenía heridas. El de Gudden, sí: un golpe en la frente, arañazos en la cara y marcas de estrangulamiento en el cuello. Es lo que se documentó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La versión oficial fue que el rey se había suicidado ahogándose. No se halló agua en sus pulmones, aunque un espasmo de la laringe podría explicarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las objeciones están a la vista. Un rey que, según algunas fuentes, no había expresado ideas suicidas. Un psiquiatra que muere con señales de lucha. Hay quien piensa que el rey quiso ahogarse y Gudden murió al intentar impedirlo. Es una hipótesis razonable. No es una certeza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay otras. Una sugiere que el rey intentó huir y que el agua fría, de unos doce grados, le provocó un fallo cardíaco. Otra habla de disparos desde la orilla, basada en unas notas atribuidas a un pescador, Jakob Lidl. Pero la autopsia no registró heridas de bala."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y un abrigo con dos agujeros, mostrado años después. Un abrigo no es una prueba. Esta historia ha dado para cien libros y mil teorías, pero ningún tribunal ha examinado nada de esto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El rey fue velado en la capilla real de la Residenz de Múnich. El funeral fue el 19 de junio, con una procesión por la ciudad. Su corazón reposa en una urna en el santuario de Altötting, junto a los de su padre y su abuelo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda sin aclarar es esto: qué pasó exactamente en esos veinte minutos junto a la orilla. Y es probable que no lo sepamos nunca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Luis II sigue siendo el rey que construyó castillos, y el psiquiatra que murió con él casi siempre queda fuera de la historia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Merece una línea en el archivo. Bernhard von Gudden murió esa noche, cumpliendo su deber, o lo que él creía su deber."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La muerte del rey en el lago de Starnberg. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

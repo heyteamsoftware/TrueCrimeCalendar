@@ -1,0 +1,116 @@
+{
+  "id": "secuestro-reemtsma",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Jan Philipp Reemtsma": "Yan Fílip Réemtsma",
+    "Reemtsma": "Réemtsma",
+    "Blankenese": "Blankénese",
+    "Hamburgo": "Hamburgo",
+    "Garlstedt": "Gárlstedt",
+    "Thomas Drach": "Tomás Drac",
+    "Drach": "Drac",
+    "Buenos Aires": "Buenos Aires",
+    "Bremen": "Brémen",
+    "Im Keller": "Im Kéler",
+    "Krefeld": "Krefeld"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La carta bajo la granada",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Reemtsma. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La carta bajo la granada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hamburgo, 25 de marzo de 1996. Hacia las ocho y veinte de la noche, en el jardín de una casa de Blankenese, hay una carta sujeta con una granada de mano. Es una petición de rescate: veinte millones de marcos. El hombre al que va dirigida ha desaparecido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Jan Philipp Reemtsma. Tiene cuarenta y tres años, es filólogo y mecenas, y es heredero de una familia de fabricantes de tabaco. Dos hombres lo han abordado en su finca y se lo han llevado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una carta con una orden clara: sin policía. Aquí empieza el problema que va a marcar todo el caso. Cuando la familia debe elegir entre colaborar con los investigadores y obedecer a los secuestradores, cada hora cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reemtsma pasó treinta y tres días cautivo en el sótano de una casa de Garlstedt, cerca de Bremen, a unos noventa kilómetros de Hamburgo. Más tarde contaría esa experiencia en un libro, «Im Keller», que significa «En el sótano»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fuera, la familia negociaba. Según el ZDF, los secuestradores se comunicaban a través de anuncios cifrados en los periódicos. Cuando llegó una cinta de audio con un mensaje, la voz estaba tan distorsionada que apenas se entendía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una primera entrega fracasó. Una segunda también. Cada vez que fallaba, los secuestradores sospechaban que había policía, y subieron su exigencia hasta treinta millones de marcos. Según el ZDF, algunos psicólogos llegaron a calcular que las probabilidades de que muriera superaban el noventa por ciento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia decidió hacerlo a su manera. La esposa de Reemtsma quería pagar con billetes sin marcar y que la entrega la hicieran particulares. La policía quedó a distancia. Según Wikipedia, un pastor de Hamburgo y un sociólogo de Kiel llevaron el dinero, guiados por teléfono hasta Krefeld."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia pagó quince millones de marcos y doce millones y medio de francos suizos. En la noche del 26 al 27 de abril lo dejaron libre. Habían pasado treinta y tres días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esta es la clave del caso: la memoria de la víctima. Reemtsma describió su sótano con tanta precisión que la policía encontró la casa en pocas semanas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La casa de Garlstedt la habían alquilado los secuestradores en 1995. Dos de ellos lo hicieron con su nombre real. Era uno de los pocos errores de un plan muy profesional. Además, gastaban mucho dinero, y eso los delató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos de los autores fueron detenidos en España en 1996 y condenados en 1997 a diez años y medio y a cinco. Un tercero se entregó en 1999 y recibió seis años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Falta el cabecilla. Thomas Drach siguió en libertad dos años. Según Wikipedia, la policía lo localizó escuchando sus llamadas con un viejo amigo. Fue detenido en Buenos Aires el 28 de marzo de 1998 y entregado a Alemania en 2000."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de marzo de 2001, el Tribunal Regional de Hamburgo condenó a Drach a catorce años y medio de cárcel por secuestro extorsivo. Salió en octubre de 2013, tras cumplir la pena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el dinero, ¿dónde está? Es la parte inacabada. De los quince millones de marcos y los francos suizos, solo ha aparecido una parte pequeña, alrededor de un millón de euros. El resto sigue sin saberse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años después, Drach fue condenado otra vez por delitos ajenos a este caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que me importa. Hasta la liberación, la prensa, la radio y la televisión alemanas respetaron una petición de silencio. El país no supo nada durante treinta y tres días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para la policía alemana, el caso fue una lección sobre cómo tratar a las familias de los secuestrados. Según el ZDF, cambió el trabajo de la policía y la forma de relacionarse con ellas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero el expediente no es solo de la policía. Hay un hombre que vivió treinta y tres días cautivo en un sótano. Hay una familia que esperó. Hay un hijo, Johann Scheerer, que años después escribió un libro sobre aquellos días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reemtsma vive hoy en Hamburgo, más recluido que antes, según el ZDF."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Reemtsma. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: t-online (cronología dpa, 2013), Wikipedia alemana y ZDFheute (2026); NDR y Der Spiegel no se abrieron. Discrepancias: liberación en la noche del 26 al 27 de abril (ZDF) o el 26 (t-online, Wikipedia); el guion dice «en la noche del 26 al 27». La ficha dice que estuvo encadenado; las fuentes leídas no lo recogen y el guion dice solo «cautivo». Rescate: 15 millones de marcos y 12,5 millones de francos suizos (t-online, Wikipedia), aunque la petición final fue de 30 millones. Reemtsma tenía 43 años (t-online). Detención de Drach: 28 de marzo de 1998 en Buenos Aires, extradición en 2000. Condenas de dos cómplices (1997) y de un tercero (1999, seis años) salen de Wikipedia; no se les nombra. Condena posterior de Drach en 2024 por hechos ajenos: se menciona sin detalle. «Im Keller» (1997) y el libro de su hijo Johann Scheerer (2018) salen de Wikipedia."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "heavens-gate",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Heaven's Gate": "Jévens Gueit",
+    "Rancho Santa Fe": "Rancho Santa Fe",
+    "San Diego": "San Diego",
+    "Marshall Applewhite": "Márshal Ápelwait",
+    "Applewhite": "Ápelwait",
+    "Hale-Bopp": "Jeil-Bop",
+    "Carlsbad": "Cárlsbad",
+    "Bonnie Nettles": "Bóni Néttels",
+    "Nettles": "Néttels",
+    "Paseo Victoria": "Paseo Victoria",
+    "Oregón": "Oregón",
+    "Colina Norte": "Colina Norte"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un teléfono público en Carlsbad",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Puerta del Cielo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un teléfono público en Carlsbad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Condado de San Diego, California, 26 de marzo de 1997. Alguien llama al número de emergencias desde un teléfono público, en la localidad de Carlsbad. No da su nombre. Solo dice que hay que ir a una casa de Rancho Santa Fe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa tarde, los ayudantes del sheriff entran en una mansión alquilada, en la calle Colina Norte. Encuentran los cuerpos de treinta y nueve personas: veintiuna mujeres y dieciocho hombres. Todos vestían de negro y llevaban zapatillas deportivas nuevas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No hay desorden, ni señales de lucha, ni sangre. Es una escena de una calma casi insoportable. La policía tuvo que entender cuanto antes que aquello no era un crimen en el sentido corriente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los muertos eran miembros de una secta llamada Heaven's Gate, la Puerta del Cielo. La encabezaba Marshall Applewhite, de sesenta y cinco años. También estaba entre los fallecidos. Habían muerto a lo largo de tres días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La persona que llamó era un antiguo miembro del grupo. Había recibido un mensaje de despedida de sus compañeros, viajó a la mansión, vio lo que había pasado, se marchó y avisó desde un teléfono público."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que se entienda por qué avisó así. Sabía lo que iba a encontrar. Y aun así fue hasta la puerta. Esa persona es parte de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Applewhite había dejado un mensaje grabado en vídeo, en el que llamaba «salida final» a lo que iba a ocurrir. Decía que los miembros subirían a una nave que seguía al cometa Hale-Bopp, que en esos días pasaba más cerca de la Tierra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cada miembro grabó también su propio vídeo. En ellos se despedían de sus seres queridos y elogiaban a su líder, al que llamaban «Do». La página web del grupo anunciaba que estaban «felizmente preparados para dejar este mundo»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escucha la palabra «graduación». Es la que usaron. Para ellos no era un final, sino un ascenso. No vamos a repetir su doctrina con detalle: sería darle un escenario. Lo que hay que entender es que hablaban de una promoción, no de una muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El grupo venía de lejos. Applewhite, hijo de un pastor presbiteriano, había conocido en 1972 a una enfermera, Bonnie Nettles. Juntos empezaron a predicar que eran enviados de otro nivel de existencia, con los nombres de «Do» y «Ti»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1975 convencieron a unos veinte vecinos de un pueblo de Oregón para que lo dejaran todo y los siguieran. Una noticia de la televisión estadounidense de la época se preguntó si habían sido secuestrados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso explica algo importante. Estas personas no fueron obligadas a marcharse. Se fueron, en su mayoría, por decisión propia, y eso es lo que hace tan difícil mirar el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nettles murió de cáncer en 1985. El grupo, que había menguado, sobrevivió. Cuando en 1995 se descubrió el cometa Hale-Bopp, sus miembros se convencieron de que detrás de él venía una nave."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1996, Applewhite alquiló la mansión de Rancho Santa Fe. Dijo al dueño que su grupo era de ángeles cristianos. Allí vivieron hasta marzo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene lo que me incomoda. La casa estaba en una urbanización tranquila, con vecinos, y nadie sospechó. Eso no es una acusación: es una advertencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades lo calificaron de suicidio colectivo planificado. Al estar muertos todos los implicados, no hubo proceso penal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedan preguntas que nadie puede responder. Qué pensaba cada uno de los treinta y nueve en sus últimas horas. Cuánto había de convicción y cuánto de presión. Los vídeos dan una versión. No la única posible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Meses después, los vecinos cambiaron el nombre de la calle por Paseo Victoria. Se unieron para comprar la mansión y la derribaron. Hoy no queda nada de ella."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tampoco hace falta que quede. Lo que sí debe quedar es que cada uno de ellos tenía una vida, una familia y un nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fueron treinta y nueve personas. No las nombramos aquí; sus nombres no son lo importante para este archivo. Lo importante es que existieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La Puerta del Cielo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

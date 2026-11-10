@@ -1,0 +1,113 @@
+{
+  "id": "kathie-durst",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kathie Durst": "Kéi Derst",
+    "Kathie": "Kéi",
+    "Robert Durst": "Róbert Derst",
+    "Durst": "Derst",
+    "Newtown": "Niutáun",
+    "Connecticut": "Conéticut",
+    "South Salem": "Sauz Séilem",
+    "Katonah": "Katóna",
+    "Gilberte Najamy": "Yilbér Náyami",
+    "Susan Berman": "Súsan Bérman",
+    "Westchester": "Uéstchester",
+    "Nueva York": "Nueva York"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una cena en Newtown",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La desaparición de Kathie Durst. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cena en Newtown."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Newtown, Connecticut, noche del 31 de enero de 1982. Una mujer de veintinueve años llega de improviso a la casa de su mejor amiga, Gilberte Najamy, y se queda a cenar. Parece alterada y lleva un chándal, algo raro en ella, que solía vestir con más elegancia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Kathie Durst. Es estudiante de último año de Medicina y está casada con Robert Durst, heredero de una familia inmobiliaria de Nueva York. Cuenta a su amiga que su matrimonio va mal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Según el relato de su amiga, que recoge el Charley Project, Kathie le pidió que investigara si le pasaba algo. Es el testimonio de una persona. Pero así lo dejó escrito la prensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las siete, su marido la llamó por teléfono. Al parecer discutieron. Kathie dijo que volvía a la casa del matrimonio en South Salem, en el estado de Nueva York. Es la última vez que alguien la vio con seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente tenían una cita en un bar de Manhattan. Ella no apareció. Su amiga empezó a llamar a la policía. Días después, Robert Durst denunció la desaparición."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí aparece la primera inconsistencia. Durst dijo que la había llevado a la estación de Katonah para tomar un tren a Manhattan, y que después habló con ella por teléfono. Años más tarde reconoció que eso era falso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el documental de HBO de 2015, Durst admitió que había inventado detalles de aquella noche, esperando que eso lo hiciera desaparecer todo. En California, en 2021, testificó que no la había matado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y atención: no hay testimonio de que él le hiciera daño. Hay versiones que cambiaron, y eso despierta sospechas, pero no es una prueba. El archivo solo repite lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nunca apareció su cuerpo. Se registraron un lago y la casa del matrimonio, pero sin resultados. El investigador Joseph Becerra reabrió el caso en 1999, tras recibir un aviso, y comparó la búsqueda con buscar una aguja en un pajar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quería hablar con Susan Berman, una amiga de Durst. No llegó a hacerlo. En el año 2000, Berman murió asesinada en Beverly Hills. Un jurado de Los Ángeles condenó por ello a Durst en septiembre de 2021."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es otro caso, no este. Pero explica por qué el de Kathie volvió a abrirse. Los fiscales de Los Ángeles dijeron que Berman iba a contar a la policía lo que sabía de la desaparición."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 2021, la fiscalía de Westchester presentó una denuncia por asesinato contra Durst por la muerte de Kathie. El 1 de noviembre, un gran jurado lo acusó formalmente. Él tenía setenta y ocho años y estaba muy enfermo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Robert Durst murió en enero de 2022, sin haber sido juzgado por la muerte de su esposa. Según Wikipedia, su condena por el caso Berman quedó anulada al morir con la apelación pendiente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una acusación sin juicio. Eso significa que ningún tribunal ha determinado lo que le ocurrió a Kathie. Ni ha podido defenderse él, ni ha podido hablar nadie bajo juramento sobre este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kathie fue declarada legalmente muerta en 2017, a petición de su familia. Tenía una carrera por delante y estaba a punto de acabar Medicina."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es lo que quiero que quede en el archivo: no el nombre de un acusado, sino el de una mujer que quería ser médica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su familia y sus amigos llevan casi cuarenta años pidiendo respuestas. La fiscal dijo que ese tiempo les había dejado dolor y preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy sigue sin saberse qué ocurrió después de que Kathie dejara aquella cena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La desaparición de Kathie Durst. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Robert Durst nunca fue juzgado por este caso: se le trata como acusado (acusación formal de 1/11/2021; murió en enero de 2022). Su condena por el asesinato de Susan Berman (septiembre de 2021) quedó anulada al morir con la apelación pendiente (Wikipedia). Verificados en PBS/AP, CNN (ABC17), Charley Project y Wikipedia: cena en Newtown, llamada hacia las siete, versión del tren de Katonah (años después admitida falsa), búsqueda sin éxito, declaración de muerte legal en 2017 (The Charley Project dice 2001, desactualizado). Que Najamy pidió que se investigara «por si le pasaba algo» es versión de Najamy según el Charley Project. Que Berman «iba a contar» lo que sabía lo dijeron fiscales de Los Ángeles (PBS/AP). Lo del chándal: Charley Project. La cita del bar en Manhattan: Wikipedia."
+}

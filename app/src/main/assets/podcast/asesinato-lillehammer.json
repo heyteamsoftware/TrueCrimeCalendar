@@ -1,0 +1,106 @@
+{
+  "id": "asesinato-lillehammer",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Lillehammer": "Lilehámer",
+    "Mosad": "Mosád",
+    "Ahmed Bouchikhi": "Áhmed Buchíki",
+    "Bouchikhi": "Buchíki",
+    "Salameh": "Salamé",
+    "Ali Hassan Salameh": "Alí Jasán Salamé",
+    "Septiembre Negro": "Septiembre Negro",
+    "Noruega": "Noruega",
+    "Múnich": "Múnich",
+    "Lund": "Lund"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El coche que no cambiaron",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Lillehammer. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El coche que no cambiaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lillehammer, Noruega, 21 de julio de 1973. Sobre las diez y media de la noche, un hombre sale de un cine con su mujer, que está embarazada. Caminan hacia casa. Un coche los sigue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos hombres bajan del coche y disparan. El hombre muere delante de su esposa. Los agresores se suben a otro vehículo y huyen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es un asesinato planeado con precisión: seguimiento, un coche, un equipo de apoyo. Pero hay un error de base que lo cambia todo. Mataron a la persona equivocada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Ahmed Bouchikhi. Era marroquí, había nacido en 1943, trabajaba de camarero y vivía en Noruega. No tenía relación con ningún grupo armado ni con la política palestina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores eran agentes del Mosad, el servicio secreto israelí. Tras la matanza de los Juegos Olímpicos de Múnich de 1972, habían recibido el encargo de matar a Ali Hassan Salameh, uno de los jefes de Septiembre Negro, el grupo responsable. Creyeron que Bouchikhi era él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según una de las fuentes, se parecía mucho a Salameh. Aun así, para mí lo grave no es el parecido. Es que una operación que mata a un inocente se da por buena antes de comprobar nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía noruega actuó rápido. Un coche sospechoso había sido visto cerca del lugar. Al día siguiente, uno de los agentes llevó ese mismo vehículo al aeropuerto, y la policía detuvo allí a dos personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el fallo de oficio que me llama la atención: siguieron usando el coche del crimen. Un coche que ya ha sido visto, mantenido a disposición del equipo. Un detalle tan pequeño tumbó la operación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de los detenidos confesó. Contó para quién trabajaba y dio la dirección de la casa donde se alojaba el equipo. En pocas horas, casi todo el grupo estaba detenido. En total fueron seis detenidos; nueve integrantes, entre ellos los dos tiradores, escaparon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los objetos que la policía encontró había documentos y llaves que llevaron a pisos de Mosad en París y en otras ciudades. La operación acabó destapando una red mucho más grande."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1974 hubo juicio en Noruega. Uno de los seis fue absuelto. Los otros cinco fueron condenados por complicidad en el asesinato, con penas de entre uno y cinco años y medio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco años y medio como máximo por un asesinato. Y ni siquiera lo cumplieron. Los cinco condenados fueron indultados tras unos veintidós meses y volvieron a Israel. Los tiradores no pasaron por un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo después una sospecha en Noruega: que sus servicios secretos hubieran ayudado al Mosad. La comisión Lund, en 1996, y una revisión posterior en el año 2000 no encontraron pruebas de ello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1996, Israel acordó indemnizar a la familia de Bouchikhi. La cantidad se mantuvo en secreto. Israel no admitió oficialmente su responsabilidad, y el primer ministro Shimon Peres habló de un gesto humanitario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un gesto humanitario, veintitrés años después. Dejo apuntada la ironía sin comentarla. La familia recibió dinero, pero la verdad oficial nunca llegó con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ahmed Bouchikhi tenía unos treinta años. No era ningún objetivo: era un hombre que volvía a casa del cine con su mujer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que debe quedar en el archivo. Los nombres de los agentes y las operaciones los discuten las crónicas. El de él es el único que importa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Lillehammer. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

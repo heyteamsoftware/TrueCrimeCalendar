@@ -1,0 +1,102 @@
+{
+  "id": "carlo-tresca",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Carlo Tresca": "Cárlo Tréska",
+    "Tresca": "Tréska",
+    "Il Martello": "Il Martélo",
+    "Carmine Galante": "Cármine Galánte",
+    "Galante": "Galánte",
+    "Dorothy Gallagher": "Dórozi Gálager",
+    "Angelica Balabanoff": "Anyélica Balabánof",
+    "Dewey": "Diui",
+    "Emma Goldman": "Ema Góldman",
+    "John Dos Passos": "Yon Dos Pásos",
+    "Sacco y Vanzetti": "Sako i Vanzéti",
+    "Minna Harkavy": "Mina Járkavi",
+    "Sulmona": "Sulmóna"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un Ford negro en la Quinta Avenida",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Carlo Tresca. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un Ford negro en la Quinta Avenida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueva York, noche del 11 de enero de 1943. Carlo Tresca cruza la esquina de la Quinta Avenida con la calle quince, charlando con un amigo. De pronto, un hombre baja de un Ford negro y le dispara por la espalda. Tresca muere en el acto. El pistolero huye en la oscuridad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un coche que espera, un hombre que baja, un disparo y la huida. Eso no es una pelea: es un encargo. Y el Ford apareció abandonado en las cercanías, con las puertas abiertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tresca tenía sesenta y tres años. Había nacido en Sulmona, en Italia. Estudió en un seminario, del que salió ateo. En 1904, condenado en su país por difamación, huyó a Estados Unidos. Por el camino, en Lausana, conoció a un socialista llamado Benito Mussolini."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Nueva York dirigió Il Martello, un periódico anarquista de la comunidad italiana. Desde sus páginas atacó al fascismo de Mussolini, a los comunistas estalinistas y a la mafia. Tres frentes abiertos, y ninguno perdonaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Según contó después un sindicalista, un mes antes de su muerte Tresca le dijo que olía a asesinato en el aire. Es un testimonio posterior, de segunda mano, y lo anoto con reservas. Pero encaja con alguien que sabía lo que arriesgaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el puente entre la comunidad italiana y la izquierda estadounidense. Entre sus amigos estaban Emma Goldman y John Dos Passos. Organizó la campaña de publicidad y de recaudación de fondos en favor de Sacco y Vanzetti, y su muerte causó un gran escándalo en la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1937 había formado parte de la comisión Dewey, que examinó las acusaciones de los juicios de Moscú contra León Trotski y lo declaró inocente. Fue otro de sus enfrentamientos con los comunistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía sospechó pronto de un delincuente con antecedentes, Carmine Galante. Hubo testigos que relacionaron el coche con él. Lo detuvieron por violar la libertad condicional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Fíjate en la palabra: sospechoso. Galante nunca fue acusado de este crimen. Lo soltaron por falta de pruebas. La biógrafa Dorothy Gallagher lo considera el autor, pero es una conclusión suya, no una sentencia. Murió asesinado años después, sin haber sido juzgado por este caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y aunque el pistolero fuera él, queda la pregunta más difícil: quién lo encargó. Durante décadas, las hipótesis se repartieron entre tres frentes: los fascistas italianos, los comunistas y la mafia. Hay libros que defienden unas y otras. Ninguna se ha podido probar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Lo más revelador es la investigación en sí. Según Gallagher, el fiscal general dejó el caso en manos de alguien cercano a un adversario de Tresca, y la pista se enfrió. Ella sospecha motivos políticos. Yo solo registro que es su opinión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación siguió abierta, sin éxito, hasta los años sesenta. Nadie más fue acusado ni condenado por el crimen, ni entonces ni después. El caso de Carlo Tresca pasó a ser uno de esos que llenan los archivos de crímenes sin resolver de Nueva York."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el homenaje que se le hizo, la militante Angelica Balabanoff pronunció un discurso en italiano. Un asistente recordó que, a su lado, un policía irlandés que no entendía una palabra rompió a llorar al oírla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Última nota. Quedan dos cosas. Un periódico que no se dejó callar por nadie y un hueco en el expediente, donde debería estar el nombre de quien dio la orden. Cuando hay un hueco así, lo honrado es dejarlo vacío."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Sulmona, su ciudad natal, hay un busto suyo, obra de la escultora Minna Harkavy. Allí lo recuerdan por lo que fue: un hombre que se jugó la vida diciendo lo que pensaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Carlo Tresca. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Treccani (Pretelli), NYRB (Aaron, 1989, reseña del libro de Gallagher) y Wikipedia (en inglés); los libros de Gallagher y Pernicone no se pudieron abrir. Discrepancias: (1) la NYRB da «11 de julio» (error evidente, ya señalado en la ficha): el guion usa el 11 de enero (Treccani y Wikipedia). (2) Galante: Treccani dice «arrestato e poi rilasciato per mancanza di prove»; la NYRB dice que lo tuvieron detenido un año por violar la libertad condicional; Wikipedia dice que Galante habría sido el autor y que Genovese lo encargó. El guion solo dice que fue sospechoso, que lo detuvieron por la condicional y que nunca fue acusado; la tesis de Gallagher (Galante autor) va atribuida. No se nombra a Pope, Garofalo, Genovese ni Vidali (nunca acusados); solo se habla de tres frentes. (3) Sobre cómo se produjo el disparo, la ficha dice «le disparó en la cabeza» y Wikipedia «en la parte de atrás de la cabeza»; el guion dice «por la espalda» (lo dice la propia ficha en el campo «mo») y no da más detalle. (4) La anécdota de que Tresca olía «a asesinato en el aire» sale de la NYRB (dicho a un sindicalista, «allegedly»): va atribuida. (5) Wikipedia añade que Tresca acababa de salir de la oficina de su agente de libertad condicional y que despistó a la vigilancia; no se usa porque no se confirmó en otra fuente. (6) Murió asesinado Galante (NYRB: «gunned down by unknown assailants»). Torpeza policial/fiscal (caso entregado a alguien cercano a un adversario, «probablemente por razones políticas»): opinión de Gallagher según la NYRB, atribuida y sin nombrar. Anécdota del policía irlandés llorando: Wikipedia (relato de Lewis Coser). Busto en Sulmona: Wikipedia."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "talaat-tehlirian",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Talaat Pachá": "Talaát Pachá",
+    "Talaat": "Talaát",
+    "Soghomon Tehlirian": "Sogomón Tehlirián",
+    "Tehlirian": "Tehlirián",
+    "Hardenbergstraße": "Járdenberg Strase",
+    "Charlottenburg": "Charlotenburg",
+    "Berlín": "Berlín",
+    "Operación Némesis": "Operación Némesis",
+    "Kurt Niemeyer": "Kurt Nímeier",
+    "Raphael Lemkin": "Rafaél Lémkin",
+    "Federación Revolucionaria Armenia": "Federación Revolucionaria Armenia",
+    "Wegner": "Végner"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Unos guantes en Charlottenburg",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Talaat Pachá. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Unos guantes en Charlottenburg."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Berlín, 15 de marzo de 1921. Son casi las once de la mañana en la calle Hardenbergstraße, en el barrio de Charlottenburg. Un hombre sale de su casa del número cuatro y camina hacia una tienda: va a comprar guantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por la acera, un joven se cruza con él, se da la vuelta y dispara. El hombre cae. Murió allí, en plena calle, a plena luz del día. Era Talaat Pachá, el exministro del Interior y gran visir del Imperio otomano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un disparo en una calle del Berlín de posguerra. Y nadie en el barrio sabía quién era su vecino, porque vivía con nombre falso. Al principio la policía pensó incluso en Grecia o en Gran Bretaña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El joven era Soghomon Tehlirian, un estudiante armenio. Cuando la gente gritó, intentó marcharse, pero una multitud lo alcanzó. Quedó detenido en el acto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Talaat había sido condenado a muerte en ausencia en 1919 por un tribunal otomano, como uno de los responsables del genocidio armenio. Pero había huido del imperio a finales de 1918 con ayuda alemana y vivía sin ser molestado en Berlín."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la clave. Una condena que nadie podía ejecutar. Y un hombre que paseaba por una ciudad europea con otro nombre. Para Tehlirian, y para quienes lo ayudaron, aquello era una deuda abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tehlirian había perdido a su familia en las deportaciones. Según la investigación, actuaba dentro de la Operación Némesis, un plan de la Federación Revolucionaria Armenia para matar a los responsables del genocidio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahí la historia se complica. No era un hombre aislado: actuaba para un grupo político armado. Eso no desaparece porque un jurado lo absolviera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró los días 2 y 3 de junio de 1921 en Berlín, ante un jurado. La defensa la llevó el abogado Kurt Niemeyer. Lo curioso es que el proceso casi se convirtió en el juicio de Talaat."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Declararon supervivientes del genocidio. Según la crónica de EVN Report, los testimonios mostraron que Talaat había sido el cerebro de las matanzas de armenios. El fiscal se negó a hablar de la responsabilidad de Talaat."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en esa frase: el fiscal se negó. Y aun así, el relato de los supervivientes quedó en el acta de un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los peritos dijeron que Tehlirian actuó movido por el recuerdo de lo que le había ocurrido a su familia. En su alegato final, el abogado afirmó que el acusado se había convertido en una persona perturbada psicológicamente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 3 de junio, el jurado lo absolvió. El veredicto fue unánime, de modo que la fiscalía no pudo recurrirlo. Salió libre del tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No todo el mundo lo vio igual. El historiador de la Universidad de Wuppertal señala que había pruebas de que Tehlirian era también un asesino con motivos políticos. La absolución no cierra esa discusión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un escritor pacifista que siguió el juicio, Armin Wegner, lo llamó un «tribunal de la humanidad». Hubo periódicos que celebraron el crimen, y libros y canciones que lo ensalzaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y no hay que confundir una absolución con una aprobación. El tribunal absolvió a un hombre; no declaró que matar fuera correcto. La justicia no puede ir por ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un joven estudiante de Lviv, Raphael Lemkin, se inquietó entonces: le parecía injusto que matar a un hombre fuera delito y que exterminar a un pueblo no tuviera una categoría jurídica, según EVN Report. Años después acuñó la palabra «genocidio»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la parte del archivo que pesa más: no el disparo, sino la pregunta que dejó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan las víctimas del genocidio armenio, que no tienen nombre en esta cinta, y un hombre muerto en una calle de Berlín. Que el archivo las recuerde a todas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Talaat Pachá. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Tema sensible (Turquía y Armenia): se usa «genocidio armenio» como las fuentes académicas. Absolución por jurado en Berlín (Landgericht III, Moabit): la ficha da 2 y 3 de junio; EVN Report dice trastorno mental temporal, Wuppertal dice culpabilidad disminuida; se dice solo 'absolvió'. Número de la calle del disparo: 17 (Wikipedia) o 27 (EVN Report); no se dice. Talaat vivía en el número 4 (ficha y EVN). 'Guantes' y 'casi las once': EVN Report. Lo de 'vivía con nombre falso' sale de la ficha; 'se sospechó de Grecia o Gran Bretaña' de EVN Report. Lemkin como asistente al juicio no se afirma: EVN Report dice que le inquietaba la cuestión, no que asistiera. La NYT del 4 de junio no se abrió. Frase de Wegner: Wuppertal."
+}

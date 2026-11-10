@@ -1,0 +1,46 @@
+{
+  "id": "azaria-chamberlain",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Azaria": "Azária",
+    "Chamberlain": "Chámberlein",
+    "Lindy": "Líndi",
+    "Michael": "Máikel",
+    "Uluru": "Uluru",
+    "Ayers Rock": "Eirs Rok",
+    "Elizabeth Morris": "Elísabez Mórris",
+    "Darwin": "Dárwin"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una tienda junto a la roca",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso del dingo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una tienda junto a la roca." },
+        { "voz": "ximena", "texto": "Uluru, entonces llamado Ayers Rock, en el centro de Australia. Es la noche del 17 de agosto de 1980. En un campamento, una familia, los Chamberlain, ha acostado a su hija Azaria, de nueve semanas, en la tienda de campaña. Poco después, su madre, Lindy, vuelve y dice que un dingo se la ha llevado." },
+        { "voz": "ximena", "texto": "Los campistas salen a buscarla en la oscuridad. Nunca se encontró el cuerpo. Los padres sostuvieron siempre una única versión: un dingo, un perro salvaje de la zona, entró y se la llevó." },
+        { "voz": "alvaro", "texto": "Primera nota. Hoy sabemos cómo acaba esto, pero en 1980 casi nadie creía que un dingo pudiera llevarse a un bebé. Esa incredulidad pesa más en este expediente que cualquier prueba." },
+        { "voz": "ximena", "texto": "Hubo una primera investigación judicial en 1981, en Alice Springs. Respaldó a la familia: concluyó que lo más probable era el ataque de un dingo." },
+        { "voz": "ximena", "texto": "Pero la policía y la fiscalía del Territorio del Norte no quedaron conformes. Se abrió una segunda investigación en Darwin, y esta vez recomendó juzgar a los padres." },
+        { "voz": "alvaro", "texto": "Mira lo que tenían: una prenda del bebé, unas manchas atribuidas a sangre en el coche familiar y peritos que las interpretaban. Más tarde se demostró que esas pruebas eran poco fiables y que otras sustancias daban resultados casi idénticos." },
+        { "voz": "ximena", "texto": "El juicio, en 1982, fue seguido por todo el país. La opinión pública se dividió y el caso llenó portadas durante meses. A Lindy se la criticó por no comportarse como se esperaba de una madre en duelo, y se extendieron rumores crueles sobre la religión de la familia." },
+        { "voz": "ximena", "texto": "El 29 de octubre de 1982 el jurado declaró a Lindy culpable de asesinato y la condenó a cadena perpetua. Michael, su marido, fue condenado como encubridor, con una pena suspendida." },
+        { "voz": "alvaro", "texto": "Fíjate en la fecha: los recursos de 1983 y 1984 fracasaron. La justicia había cerrado la puerta. Lo que la abrió no fue un argumento, fue un accidente." },
+        { "voz": "ximena", "texto": "A comienzos de 1986, un turista británico murió al caer de Uluru. Mientras la policía buscaba sus restos en una zona llena de madrigueras de dingos, encontró una chaqueta pequeña de bebé. Era la de Azaria." },
+        { "voz": "ximena", "texto": "Lindy salió de prisión pocos días después. Una comisión real reexaminó las pruebas y, el 15 de septiembre de 1988, el tribunal de apelación del Territorio del Norte anuló las condenas de los dos." },
+        { "voz": "alvaro", "texto": "Recuérdalo: Lindy había pasado más de tres años presa por la muerte de su hija. Los Chamberlain recibieron después una indemnización, de alrededor de un millón trescientos mil dólares australianos. No cubrió ni un tercio de sus gastos legales." },
+        { "voz": "ximena", "texto": "Todavía quedaba un último papel. En 1995 una tercera investigación dejó la causa de la muerte como desconocida, con un veredicto abierto." },
+        { "voz": "ximena", "texto": "El 12 de junio de 2012, una cuarta investigación, dirigida por la forense Elizabeth Morris, cerró la cuestión. Concluyó que Azaria murió el 17 de agosto de 1980 por el ataque de un dingo, que se la llevó." },
+        { "voz": "alvaro", "texto": "Lo decisivo fueron los ataques de dingos a personas registrados desde entonces. Lo que en 1982 parecía imposible estaba documentado. La forense habló de una caza de brujas contra la madre." },
+        { "voz": "ximena", "texto": "Se corrigió el certificado de defunción. En la sala, Lindy sostuvo el documento de su hija. La forense expresó sus condolencias a la familia y se emocionó hasta las lágrimas al leer su decisión." },
+        { "voz": "alvaro", "texto": "El caso dejó una lección sobre los peritos y sobre la prensa. Con un juicio mediático, el prejuicio entra por la puerta antes que la prueba." },
+        { "voz": "ximena", "texto": "Azaria tenía nueve semanas. Esa es su historia: un bebé, una familia que lo perdió y que además tuvo que defenderse durante treinta y dos años." },
+        { "voz": "ximena", "texto": "Fin del expediente: El caso del dingo. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: CSM/Reuters (2012), NPR/KCUR (2012) y, como punto de partida, Wikipedia (inglés). ADB, NMA y Famous Trials no se pudieron abrir (403). Sin contradicción de fondo con la ficha. Discrepancias: la anulación de las condenas se fecha en 1987 (CSM, NPR, «comisión real») frente al 15 de septiembre de 1988 (tribunal de apelación del Territorio del Norte, Wikipedia y ficha): el guion usa 1988 y dice que una comisión reexaminó las pruebas. Fecha de la chaqueta: «a comienzos de 1986». Michael: sentencia suspendida (CSM, NPR); los 18 meses solo constan en Wikipedia y no se citan. La condena de Lindy fue el 29 de octubre de 1982 (Wikipedia). Los recursos de 1983 y 1984 y las pruebas de sangre en el coche vienen de Wikipedia. La indemnización de 1,3 millones, que según Wikipedia llegó dos años después de la exoneración, cubrió menos de un tercio de los gastos (Wikipedia); no se da año. Lindy pasó «más de tres años» presa (de 1982 a febrero de 1986): cifra aproximada. «Treinta y dos años» = 1980 a 2012. La forense «lloró»: lo dice NPR (se emocionó hasta las lágrimas)."
+}
