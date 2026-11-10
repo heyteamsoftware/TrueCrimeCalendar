@@ -1,128 +1,189 @@
 {
   "id": "watts",
-  "titulo": "La cuenta atrás",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Coral Eugene Watts": "Córal Iuyín Uóts",
     "Watts": "Uóts",
+    "Killeen": "Kilín",
     "Kalamazoo": "Kalamasú",
     "Ann Arbor": "An Árbor",
     "Houston": "Jiúston",
     "Detroit": "Detróit",
     "Ferndale": "Férndeil",
+    "Western Michigan": "Uéstern Míchigan",
+    "Gloria Steele": "Glória Stil",
     "Helen Dutcher": "Jélen Dácher",
     "Joseph Foy": "Yósef Fói",
-    "Wayne": "Uéin"
+    "Elena Semander": "Elena Semánder",
+    "Harriet": "Járiet",
+    "Melinda Aguilar": "Melínda Aguilár",
+    "Lori Lister": "Lori Líster",
+    "Texas": "Téjas"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Texas, principios de los años dos mil. En los despachos de varios investigadores hay una fecha que nadie puede quitarse de la cabeza: 2006. Ese año, un hombre que ha confesado trece asesinatos saldrá de prisión. Legalmente. Y parece que nadie puede impedirlo."
+      "n": 1,
+      "titulo": "Un balcón en Houston",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Coral Eugene Watts, el asesino del domingo por la mañana. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un balcón en Houston."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Houston, 23 de mayo de 1982. En un apartamento viven dos jóvenes, Lori Lister y Melinda Aguilar. Un hombre ha entrado y las ha atacado. Melinda consigue escapar saltando desde un balcón del segundo piso, con las manos atadas, y pide ayuda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía acude y detiene a un hombre en las inmediaciones. Se llama Coral Eugene Watts, tiene veintiocho años y, para los agentes de Houston, es un desconocido. Para la policía de Míchigan, no lo es."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto ya la pregunta que atraviesa este expediente. Un hombre al que la policía de dos estados había vigilado, ¿cómo pudo llegar a esta mañana sin que nadie lo uniera todo? La respuesta, como casi siempre, está en las fronteras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Watts había nacido el 7 de noviembre de 1953 en Killeen, Texas, y creció en las afueras de Detroit. Con quince años, en 1969, atacó a una joven y lo enviaron a tratamiento psiquiátrico. Fue la primera señal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1974 estudiaba en la Universidad de Western Michigan, en Kalamazoo. En octubre atacó a dos mujeres, se declaró sin oposición a los cargos y cumplió un tiempo de condena. Pocos días después del primer ataque, una estudiante, Gloria Steele, fue asesinada en el campus. Entonces nadie fue acusado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1979 y 1980, varias mujeres murieron en la zona de Detroit y Ann Arbor. Muchas, según las crónicas, un domingo por la mañana. La prensa bautizó al autor, aún desconocido, como el asesino del domingo por la mañana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me detengo en el patrón. Mujeres que no conocía, de madrugada, sin robo y sin relación previa. Ese tipo de casos es el más difícil, porque no hay vínculo que rastrear. No hay nada que seguir salvo el parecido entre unos y otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 1980, un policía de Ann Arbor lo detuvo cuando seguía a una estudiante. Lo interrogaron, pero no tenían pruebas suficientes para retenerlo. En poco tiempo, Watts abandonó Míchigan. En 1981 estaba en Texas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí atacó a mujeres en el área de Houston. En febrero de 1982, una universitaria, Elena Semander, fue asesinada. Su madre, Harriet, sospechó que el caso estaba relacionado con otros. Según la crónica, la policía le dijo que no."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una madre que ve el patrón antes que los agentes. Lo anoto sin ánimo de culpar a nadie: es lo que cuentan las fuentes. Pero es otro ejemplo de que el parecido entre casos lo ven antes quienes han perdido a alguien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras su detención el 23 de mayo, los fiscales de Houston se encontraron con un problema. Tenían a un hombre acusado de agredir a dos mujeres, pero las pruebas de los asesinatos eran débiles. Un juicio por asesinato podía acabar en nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ofrecieron un trato. Watts confesaría sus crímenes y llevaría a la policía hasta los lugares donde estaban las víctimas. A cambio, recibiría inmunidad por esos asesinatos y una condena por allanamiento con intención de matar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que entender la lógica de los fiscales. Los familiares de las desaparecidas llevaban meses sin saber nada. Con aquel trato, algunas por fin iban a saber dónde estaban. Es un cálculo dolorosamente razonable. Y fue la semilla del problema."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Watts confesó trece asesinatos en Texas y reconoció haber atacado a diecinueve mujeres. Condujo a los investigadores hasta tres tumbas. Para varias familias fue un alivio, y también una herida: nadie respondería ante un tribunal por aquellas muertes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aceptó una condena de sesenta años. En 1982, parecía un final razonable. Nadie pensó entonces en un detalle del trato, ni en una sentencia posterior que lo cambiaría todo. Nadie pensó en el año 2006."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaban una resolución judicial, una fecha que se acercaba y un testigo que llevaba veinticinco años callado. En la cinta dos: la cuenta atrás."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "¿Cómo es posible que alguien que confiesa trece asesinatos vaya a salir libre?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para entenderlo hay que retroceder más de veinte años. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Coral Eugene Watts, el asesino del domingo por la mañana."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en 1953 en Texas y creció en Míchigan, en las afueras de Detroit. Siendo todavía adolescente atacó a una mujer y pasó un tiempo internado en un centro psiquiátrico. Fue la primera señal de alarma."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A mediados de los setenta estudiaba en Kalamazoo, y allí se produjo una serie de agresiones a mujeres jóvenes. Fue detenido por una de ellas y cumplió condena. Pero ya entonces la policía lo consideraba sospechoso de un asesinato."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su patrón era tan inquietante como difícil de rastrear. Atacaba de madrugada, a menudo en fin de semana, a mujeres que no conocía. Sin robo, sin relación previa, sin un motivo aparente que conectara a las víctimas con él."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "De ahí el apodo. El domingo por la mañana."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. A finales de los setenta, en la zona de Detroit y Ann Arbor, la policía relacionó varias muertes de mujeres con ese patrón y llegó a vigilarlo. Pero no tenía pruebas suficientes para acusarle."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1981 se trasladó a Houston. Allí los ataques continuaron, sin que nadie en Texas supiera quién era aquel recién llegado. Hasta una mañana de mayo de 1982."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Watts entró en un apartamento donde vivían dos jóvenes. Una de ellas logró escapar saltando por el balcón y pidió ayuda. La policía lo detuvo poco después, en las inmediaciones."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Por fin lo tenían. ¿Qué pasó después?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las pruebas contra él en los casos de asesinato eran débiles. Así que la fiscalía de Houston aceptó un trato: inmunidad por los asesinatos que confesara, a cambio de información para cerrar los casos y dar respuestas a las familias."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Watts confesó trece asesinatos y llevó a los investigadores hasta los restos de mujeres desaparecidas. A cambio, solo fue condenado por robo con allanamiento, a sesenta años de prisión."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para muchas familias, aquello fue a la vez un alivio y una herida. Por fin sabían qué había pasado, pero nadie respondería ante un tribunal por esas muertes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Parecía suficiente para que no saliera nunca. Pero un tecnicismo cambió las cuentas. Un tribunal de apelación dio la razón a su defensa en un detalle procesal, y eso le permitió acumular redención de pena por buena conducta."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con las leyes de Texas de entonces, su salida quedó fijada para 2006."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y ahí empieza la cuenta atrás."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Familiares de víctimas, policías y fiscales buscaron cualquier caso por el que pudiera ser juzgado de nuevo. La clave llegó desde Míchigan, donde nunca había existido ningún acuerdo de inmunidad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2004, la fiscalía del condado de Wayne hizo un llamamiento público. Un hombre, Joseph Foy, reconoció a Watts como la persona que había visto huir tras el asesinato de Helen Dutcher en Ferndale, en 1979. Llevaba veinticinco años con aquel recuerdo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Watts fue trasladado a Míchigan y juzgado por ese crimen. En noviembre de 2004 fue declarado culpable y condenado a cadena perpetua. Esta vez, sin posibilidad de salir."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Murió en septiembre de 2007, de cáncer, mientras cumplía condena en Míchigan. La fecha de 2006 nunca llegó a cumplirse."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántas víctimas tuvo realmente?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se le atribuyen al menos catorce. Pero algunos investigadores creen que pudieron ser más de ochenta. La cifra real probablemente nunca se conocerá, porque muchos casos de aquellos años se archivaron sin culpable."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso de Watts se recuerda por dos razones. La primera, cómo un acuerdo pensado para dar respuestas a las familias estuvo a punto de devolver a la calle a un asesino confeso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La segunda, cómo la falta de coordinación entre estados y la ausencia de un patrón clásico le permitieron actuar durante casi una década. También se recuerda el valor de un testigo que, veinticinco años después, decidió dar un paso al frente."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y, sobre todo, la memoria de mujeres que salían a trabajar o volvían a casa una madrugada cualquiera, y cuyas familias tuvieron que esperar demasiado para ver a su asesino condenado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Coral Eugene Watts. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "La cuenta atrás",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. La cuenta atrás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Coral Eugene Watts. Sesenta años de prisión, trece asesinatos confesados, inmunidad. Parecía suficiente para que no saliera nunca. No lo era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después de empezar a cumplir su pena, un tribunal de apelación de Texas dio la razón a su defensa en un punto técnico: no se le había advertido de que su acto se consideraría un arma mortal. Eso lo reclasificó como delincuente no violento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cuestión de procedimiento con consecuencias enormes. Un delincuente no violento acumulaba reducción de pena por buena conducta. Con las reglas de entonces, Watts podía quedar libre el 9 de mayo de 2006, tras cumplir unos veinticuatro de sus sesenta años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Conviene ser justo. Nada indica que nadie actuara de mala fe. La fiscalía pactó con lo que tenía, y la defensa recurrió con lo que la ley le permitía. El resultado fue una salida legal que casi nadie había previsto cuando se firmó el trato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Texas cambió después su ley de liberación anticipada. Pero la reforma no se pudo aplicar a su caso. La cuenta atrás estaba en marcha, y las familias de las víctimas la conocían de memoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2002, Harriet, la madre de Elena Semander, y un representante de Houston Crime Stoppers lanzaron una campaña nacional para que Watts no saliera. Al mismo tiempo, fiscales de Míchigan revisaban casos antiguos con el mismo patrón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí no había ningún trato de inmunidad. Si encontraban un caso con pruebas, podían juzgarlo. En 2004 apareció un testigo: Joseph Foy, que en 1979 había visto desde su casa de Ferndale cómo atacaban a una mujer, Helen Dutcher."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veinticinco años con aquel recuerdo. Reconoció a Watts a través de una imagen en la prensa y lo contó. Pienso en lo que cuesta decidir hablar tanto tiempo después. Sin esa decisión, este expediente tendría otro final."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Helen Dutcher tenía treinta y seis años y fue atacada el 1 de diciembre de 1979 en un callejón de Ferndale. El juicio de 2004 se apoyó sobre todo en el testimonio de Foy, el testigo clave."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2004, un jurado de Míchigan declaró a Watts culpable del asesinato de Helen Dutcher. El juez permitió que se presentaran como prueba las confesiones de Texas. El 7 de diciembre lo condenaron a cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto una ironía. Las confesiones que Watts hizo en Houston, protegido por la inmunidad, sirvieron en Míchigan como prueba en su contra. La inmunidad era de Texas, no de Míchigan. Aquel mapa de fronteras que lo había protegido, esta vez se volvió en su contra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaba otro caso. En julio de 2007 fue juzgado en Kalamazoo por la muerte de Gloria Steele, ocurrida en 1974. El jurado lo declaró culpable el 27 de julio, y el 13 de septiembre lo condenaron a cadena perpetua sin libertad condicional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Coral Eugene Watts murió el 21 de septiembre de 2007 en un hospital de Míchigan, de cáncer de próstata, mientras cumplía su condena. La fecha de 2006 nunca se cumplió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y la cifra sigue abierta. Confesó trece muertes. Dijo más tarde que habían sido muchas más, y la policía lo investigó como sospechoso de casi un centenar de casos sin resolver. Son sospechas. Ninguna de esas muertes fue probada ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se recuerda por dos razones. Por cómo un trato pensado para dar respuestas casi devuelve a la calle a un asesino confeso. Y por la falta de coordinación entre estados, que le permitió actuar durante años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Harriet, la madre de Elena Semander, no se rindió. Impulsó, junto con Houston Crime Stoppers, un memorial y una campaña en los medios. Fue una de las presiones que acompañaron aquella cuenta atrás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y por ellas. Gloria Steele, Helen Dutcher, Elena Semander, y las mujeres que ya no pueden contar nada. Y Melinda Aguilar, que saltó de un balcón y pidió ayuda aquella mañana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Coral Eugene Watts. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes: Wikipedia en inglés (donde figura como Carl Eugene Watts; la ficha y el v2 usan Coral), KPRC/Click2Houston, Oxygen y otros. DISCREPANCIAS CON EL V2/FICHA: (1) El v2 dice que lo acusó «la fiscalía del condado de Wayne» en 2004: no consta; Ferndale está en el condado de Oakland; las fuentes hablan de fiscales de Míchigan (Oxygen: la fiscal Donna Pendergrast; blog: el fiscal general Mike Cox); el guion dice «fiscales de Míchigan». (2) El v2 dice que Foy reconoció a Watts en un llamamiento público; las fuentes dicen que lo reconoció en una imagen de prensa/televisión; el guion dice «en la prensa». (3) El v2 ponía el arresto en Houston «entrando en un apartamento donde vivían dos jóvenes» en mayo de 1982: correcto (23/5/1982). Melinda Aguilar saltó de un balcón del segundo piso. (4) El v2 decía «condenado por robo con allanamiento»: el delito fue allanamiento con intención de asesinar (burglary with intent to murder). (5) La ficha dice «14 (estimadas 80+)»: confesó 13 en Texas (Wikipedia, Oxygen, blog) y fue condenado por 2 en Míchigan; las estimaciones van de 40+ (KPRC) a 80+ y 100+ (Wikipedia, Oxygen). El guion da solo 13 confesados y «casi un centenar de casos sin resolver» (Wikipedia: unos 90). (6) La ficha y el v2 omiten la condena de 2007 por Gloria Steele (27/7 culpable, 13/9 cadena perpetua sin libertad condicional), añadida. (7) Fecha de 2006: 9 de mayo de 2006 (Wikipedia, blog). (8) El v2 decía que murió de «cáncer» en Míchigan: cáncer de próstata, el 21/9/2007, Wikipedia (hospital de Jackson); el guion dice hospital de Míchigan. (9) Mes de la confesión: mayo (Wikipedia, blog) o agosto de 1982 (KPRC); no se da. (10) Segundo ataque del mismo día: Oxygen añade que ese día mató a una vecina; no se incluye (una sola fuente). Respeto: no se describe el método; se ha quitado el detalle del arma mortal del juicio; se nombran solo víctimas adultas con nombre público. Dato dudoso: la afirmación de que la policía de Houston dijo a la madre de Semander que no había relación (KPRC, una fuente)."
 }

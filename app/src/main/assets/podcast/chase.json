@@ -1,45 +1,198 @@
 {
   "id": "chase",
-  "titulo": "Las puertas abiertas",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Richard Chase": "Ríchard Chéis",
     "Chase": "Chéis",
+    "Sacramento": "Sacraménto",
     "Ambrose Griffin": "Ámbrous Grífin",
     "Teresa Wallin": "Terésa Uálin",
     "Evelyn Miroth": "Évelin Míroz",
-    "Evelyn": "Évelin",
-    "Jason": "Yéison",
-    "Dan Meredith": "Dan Méredis",
-    "FBI": "efe be i",
-    "Robert Ressler": "Róbert Résler",
-    "Russ Vorpagel": "Ras Vórpaguel",
+    "Miroth": "Míroz",
+    "Daniel Meredith": "Dániel Méredis",
     "Nancy Holden": "Nánsi Jólden",
-    "San Quentin": "San Cuéntin"
+    "Robert Ressler": "Róbert Résler",
+    "Ressler": "Résler",
+    "Russ Vorpagel": "Ras Vórpaguel",
+    "Watt Avenue": "Uot Ávenyu",
+    "San Quentin": "San Cuéntin",
+    "Santa Clara": "Santa Clára",
+    "Palo Alto": "Palo Álto",
+    "Vacaville": "Vacavil",
+    "FBI": "efe be i"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Sacramento, California, enero de 1978. En un centro comercial, una mujer se cruza con un antiguo compañero de instituto. Casi no lo reconoce: está demacrado, desaliñado, con la mirada perdida. Él intenta hablar con ella. Ella se aleja, inquieta." },
-    { "voz": "ximena", "texto": "Días después, con la ciudad aterrada por una serie de crímenes, recuerda aquel encuentro y decide llamar a la policía. Esa llamada será decisiva." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Richard Chase, el vampiro de Sacramento. Un caso breve, de apenas un mes, que dice mucho sobre la enfermedad mental y sobre lo que ocurre cuando nadie la atiende como es debido." },
-    { "voz": "ximena", "texto": "Chase nació en 1950 en California. Desde la adolescencia mostró síntomas de un trastorno psicótico grave: ideas delirantes sobre su propio cuerpo, consumo de drogas, un aislamiento cada vez mayor. Pasó por consultas médicas y por un hospital psiquiátrico." },
-    { "voz": "alvaro", "texto": "¿Y nunca recibió un tratamiento estable?" },
-    { "voz": "ximena", "texto": "No de forma continuada. Estuvo internado, pero en 1977 se le consideró apto para vivir fuera y quedó al cuidado de su familia. Vivía solo en un apartamento de Sacramento, cada vez más deteriorado. Estaba convencido de que necesitaba sangre para sobrevivir." },
-    { "voz": "ximena", "texto": "Aquí conviene detenerse un momento. La gran mayoría de las personas con trastornos psicóticos nunca hacen daño a nadie. El caso de Chase es excepcional, y precisamente por eso se estudia. Es importante no convertirlo en un estereotipo." },
-    { "voz": "ximena", "texto": "El 29 de diciembre de 1977 disparó desde su coche contra Ambrose Griffin, un hombre de cincuenta y un años que descargaba la compra con su mujer frente a su casa. Fue su primera víctima mortal. Nadie relacionó aquel disparo con lo que vendría después." },
-    { "voz": "alvaro", "texto": "Y lo que vino después fue todavía peor, imagino." },
-    { "voz": "ximena", "texto": "Sí. El 23 de enero de 1978 entró en casa de Teresa Wallin, una joven embarazada, y la mató. Cuatro días más tarde, en otra vivienda, asesinó a cuatro personas: Evelyn Miroth, su hijo de seis años, un amigo de la familia y un bebé de veintidós meses, sobrino de Evelyn, al que se llevó." },
-    { "voz": "ximena", "texto": "Dejamos fuera a propósito los detalles. Basta saber que las escenas eran tan desconcertantes que los investigadores comprendieron enseguida que buscaban a alguien en un estado mental extremo. Y el bebé, David Ferreira, no aparecía por ninguna parte." },
-    { "voz": "ximena", "texto": "Según se supo después, el asesino no forzaba cerraduras: entraba en las casas cuyas puertas encontraba abiertas. Cualquier vivienda del barrio podía ser la siguiente, y el miedo se extendió por toda la ciudad." },
-    { "voz": "ximena", "texto": "La policía de Sacramento contó con la ayuda de dos agentes del FBI, Robert Ressler y Russ Vorpagel. Su perfil apostaba por un hombre joven, desaliñado, con antecedentes psiquiátricos, que vivía solo y muy cerca de los crímenes." },
-    { "voz": "alvaro", "texto": "Un perfil muy concreto. ¿Acertaron?" },
-    { "voz": "ximena", "texto": "En buena medida, sí. Y entonces llegó la llamada de la antigua compañera de instituto, Nancy Holden. Dio el nombre de Richard Chase. La policía localizó su apartamento, cerca de las escenas de los crímenes, y montó una vigilancia." },
-    { "voz": "ximena", "texto": "El 28 de enero de 1978, cuando Chase salió del edificio cargado con una caja, los agentes le dieron el alto. Intentó huir, pero lo redujeron enseguida. Dentro del apartamento encontraron pruebas que lo relacionaban con los asesinatos." },
-    { "voz": "ximena", "texto": "Por la enorme atención mediática, el juicio se trasladó fuera de Sacramento. La defensa alegó que era un enfermo mental grave. En mayo de 1979, el jurado lo declaró culpable de seis asesinatos en primer grado. Fue condenado a muerte." },
-    { "voz": "alvaro", "texto": "Un enfermo psicótico condenado a muerte. Eso tuvo que ser muy polémico." },
-    { "voz": "ximena", "texto": "Lo fue, y lo sigue siendo. En todo caso, la condena nunca se ejecutó. En diciembre de 1980, Chase murió en su celda de la prisión de San Quentin por una sobredosis de la medicación que había ido acumulando. Las autoridades lo consideraron un suicidio." },
-    { "voz": "ximena", "texto": "Su caso se cita a menudo en dos debates. Uno, el de los perfiles criminales, que entonces daban sus primeros pasos: Ressler lo contaría en sus libros como ejemplo clásico de agresor desorganizado. Otro, el de la atención psiquiátrica: un hombre con síntomas evidentes durante años vivía solo, sin seguimiento y sin un tratamiento eficaz." },
-    { "voz": "alvaro", "texto": "Es decir, las señales estaban ahí mucho antes de diciembre de 1977." },
-    { "voz": "ximena", "texto": "Estaban ahí. Y nadie consiguió unirlas a tiempo. Hoy recordamos a sus seis víctimas: Ambrose Griffin, Teresa Wallin, Evelyn Miroth, su hijo Jason, Dan Meredith y el pequeño David Ferreira. Hasta aquí el expediente de Richard Chase. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una parka naranja",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Richard Chase, el vampiro de Sacramento. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una parka naranja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sacramento, California, finales de enero de 1978. La ciudad vive atemorizada. Después de varias muertes en pocas semanas, la policía busca a un hombre con una parka naranja. Ya no sabe dónde más mirar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces llega una llamada. Una mujer, Nancy Holden, cuenta que se ha cruzado con un antiguo compañero de instituto en un centro comercial. Casi no lo reconoce: demacrado, desaliñado, con la mirada perdida. Él intentó hablar con ella. Ella se alejó, inquieta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Quiero detenerme en esa llamada. Nancy Holden no era policía ni experta en nada. Era una mujer que reconoció una cara y se acordó de una parka. Si ella no hubiera llamado, quién sabe cuántas semanas más habría durado el miedo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender cómo se llegó hasta ahí hay que remontarse en el tiempo. Richard Chase nació en 1950 en California. Desde joven mostró síntomas graves: ideas delirantes sobre su propio cuerpo, consumo de drogas y un aislamiento cada vez mayor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1973 recibió un diagnóstico de esquizofrenia paranoide. En 1976 fue internado contra su voluntad en un centro psiquiátrico, y ese mismo año salió bajo la custodia de su madre. Según las fuentes, su madre dejó de darle la medicación sin consultar a los médicos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí conviene ser claro: la inmensa mayoría de las personas con una enfermedad mental grave nunca hacen daño a nadie. Chase fue una excepción trágica, y así se estudia. Pero lo cierto es que un hombre con síntomas evidentes vivía solo, sin tratamiento, y nadie lo seguía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde mediados de 1977 vivía en un apartamento de Sacramento, en Watt Avenue. Estaba convencido de que su sangre se estaba echando a perder. Esa idea delirante es la que dio origen al nombre con el que lo recordaría la prensa: el vampiro de Sacramento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 29 de diciembre de 1977, desde un coche, disparó contra Ambrose Griffin, un ingeniero de cincuenta y un años que descargaba la compra delante de su casa. Murió. Nadie relacionó aquel disparo con lo que vendría después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 23 de enero de 1978, Chase mató a Teresa Wallin, una joven de veintidós años que estaba embarazada, en su propia casa. Y cuatro días después, el 27 de enero, entró en otra vivienda del mismo barrio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí murieron Evelyn Miroth, de treinta y seis años; su hijo de seis años; un amigo de la familia, Daniel Meredith; y un bebé de veintidós meses, sobrino de Evelyn, a quien se llevó. Dejamos fuera a propósito los detalles."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Basta saber que las escenas eran tan desconcertantes que los investigadores comprendieron enseguida que buscaban a alguien en un estado mental extremo. Y hay un dato que explica el pánico: según se supo después, entraba en casas cuyas puertas encontraba abiertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cualquier vivienda del barrio podía ser la siguiente. Según contó él mismo a los investigadores, una puerta cerrada significaba que no era bienvenido, y una abierta, que sí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía de Sacramento contó con el FBI. Los agentes Robert Ressler y Russ Vorpagel elaboraron un perfil: un hombre joven, desaliñado, con antecedentes psiquiátricos, que vivía solo y muy cerca de los crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hoy los perfiles criminales son un tema de series. En 1978 estaban dando sus primeros pasos, y este es uno de los primeros casos en que el perfil acertó, en buena medida. Pero el perfil solo dice cómo es, no quién. Eso lo dijo una testigo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con la llamada de Nancy Holden, la policía tenía un nombre. Y tenía otro hilo: el coche de Daniel Meredith, hallado cerca de la última casa, que los investigadores siguieron a través del registro de vehículos hasta el apartamento de Chase."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 28 de enero de 1978, Richard Chase fue detenido. En su coche y en su apartamento aparecieron pruebas, y una pistola del calibre veintidós registrada a su nombre. Los análisis de balística la relacionaron con los seis asesinatos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El caso, de apenas cinco semanas, parecía resuelto. Pero para entender qué se juzgó de verdad hace falta la cinta siguiente: la pregunta de si un hombre con esa enfermedad era responsable de sus actos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seis personas habían muerto en cinco semanas. En la cinta dos, el juicio, la pregunta sobre su cordura y el final de Richard Chase."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un juicio en Palo Alto",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un juicio en Palo Alto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta anterior, la llamada de una antigua compañera de instituto llevó a la policía de Sacramento hasta Richard Chase. Fue detenido el 28 de enero de 1978, acusado de seis asesinatos cometidos en cinco semanas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por la enorme atención mediática, el juicio se trasladó fuera de Sacramento, al condado de Santa Clara. Empezó en enero de 1979, en Palo Alto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Aquí está el verdadero debate del caso. Nadie dudaba de quién había disparado. La pregunta era otra: ¿Chase sabía lo que hacía? ¿O era un enfermo que no podía entender sus actos?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Conviene explicar el término legal. Tener una enfermedad mental no equivale a no ser responsable de lo que uno hace. El jurado debía decidir si, a pesar de su enfermedad, Chase era capaz de entender lo que hacía, según la ley de California."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa alegó locura. Los dos psiquiatras nombrados por el tribunal discreparon: uno apreció un trastorno de personalidad, y no una esquizofrenia. Su abogado pidió, como mínimo, que los asesinatos no se calificaran de primer grado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1979, el jurado lo declaró culpable de seis asesinatos en primer grado. Después lo consideró legalmente cuerdo, según la ley de California, y recomendó la pena de muerte. Se la impusieron formalmente en junio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ressler lo entrevistó en prisión y recogió aquellas conversaciones en su libro «Whoever Fights Monsters». Chase hablaba de delirios con ovnis, la mafia y la CIA, que el FBI consideró típicos de una personalidad psicótica y paranoide."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ressler lo clasificó como un agresor desorganizado. Dejaba pistas, vivía cerca, no ocultaba nada. Según esa literatura, esos agresores se atrapan antes. Y esa fue la ventaja. Una llamada, un coche, un registro de vehículos, y el caso se cerró en cinco semanas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un enfermo psicótico condenado a muerte. Eso fue muy polémico entonces, y lo sigue siendo. Hasta Ressler, el agente del FBI, creía que Chase debía haber sido internado de por vida en una institución, y no enviado a San Quentin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chase pasó un tiempo en el centro médico de Vacaville, donde lo trataron. En abril de 1980 lo devolvieron a San Quentin, al corredor de la muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de diciembre de 1980, Richard Chase apareció muerto en su celda. Tenía treinta años. Había acumulado medicación antidepresiva durante semanas, y murió por una sobredosis. Las autoridades lo consideraron un suicidio. La condena a muerte nunca se ejecutó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que no se resolvió. Chase salió de hospitales y consultas sin que nadie le diera un seguimiento real. Eso no excusa nada de lo que hizo, pero explica por qué el sistema falló antes de diciembre de 1977."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su caso se sigue citando en la criminología norteamericana, sobre todo en dos debates. Uno, el de los perfiles criminales, que entonces daban sus primeros pasos: Ressler lo contó en sus libros como ejemplo clásico de agresor desorganizado. Otro, el de la atención psiquiátrica: un hombre con síntomas durante años, sin tratamiento eficaz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy el caso se estudia en manuales de psicología y de criminología. Pero el interés académico no debería ocultar lo esencial: seis personas murieron, y sus familias han vivido casi medio siglo con esa ausencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No olvido a la testigo de la cinta uno. Algunos casos se resuelven en laboratorios; este se resolvió porque una mujer reconoció una cara, se acordó de una parka y se atrevió a llamar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que recordar el nombre de las personas, no el del culpable. Y hay que recordar que mucha gente que sufre una enfermedad así necesita tratamiento y compañía, no estigma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a Ambrose Griffin, de cincuenta y un años. A Teresa Wallin, de veintidós. A Evelyn Miroth, de treinta y seis, a su hijo de seis años y a su sobrino de veintidós meses. Y a Daniel Meredith, de cincuenta y dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Richard Chase. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias y decisiones. 1) Nombre de la testigo: Wikipedia y el episodio anterior dicen Nancy Holden; Oxygen escribe Nancy Holder. El guion usa Holden. 2) Cómo llegó la pista: Wikipedia dice que Holden denunció el 28 de enero de 1978 haberse cruzado con Chase cerca de la casa de Teresa Wallin y que la policía llegó a su apartamento por el coche de Daniel Meredith y el registro de vehículos; Oxygen dice que se cruzaron en un centro comercial y que la policía buscaba a un hombre con parka naranja. El guion recoge las dos cosas sin fijar el lugar exacto. El episodio anterior decía que Chase salió del edificio «cargado con una caja»: no se ha encontrado fuente y se omite. 3) Fecha del veredicto: mayo de 1979 (8 de mayo según algunas fuentes, 28 de mayo según Oxygen); sentencia formal el 8 de junio de 1979 (Wikipedia; otra versión dice 8 de mayo): el guion dice «mayo» y «junio». 4) Lugar del juicio: Palo Alto, condado de Santa Clara, desde el 2 de enero de 1979 (Wikipedia). 5) Muerte: 26 de diciembre de 1980 en San Quentin, a los 30 años, sobredosis de antidepresivos que había acumulado (Wikipedia, Oxygen); el episodio anterior decía «diciembre de 1980» y «medicación acumulada», coherente. 6) Edad de Evelyn Miroth: 36 (Wikipedia) frente a 38 en otras fuentes: se usa 36. 7) Menores: el hijo de seis años y el bebé de veintidós meses (sobrino de Evelyn) no se nombran, aunque el episodio anterior sí lo hacía; se aplica la regla común porque no consta en las fuentes consultadas que las familias hayan hablado en público con esos nombres. Las víctimas adultas (Ambrose Griffin, 51; Teresa Wallin, 22, embarazada; Evelyn Miroth; Daniel Meredith, 52) se nombran. 8) Seis víctimas: la ficha dice seis y coincide; el guion cuenta al bebé como una de las seis. 9) Diagnóstico: Wikipedia da esquizofrenia paranoide en 1973; dos psiquiatras del tribunal discreparon (uno veía un trastorno de personalidad). Ficha: «antigua compañera de instituto»: coincide. Dudas: el destino del bebé y el hallazgo de su cuerpo no se detallan por respeto; el nombre de la madre y la tutela de 1978 (Oxygen) no se usan. Sin segunda fuente para: «una puerta cerrada significaba que no era bienvenido» (Wikipedia y relatos de Ressler); que el centro de Vacaville lo tratara."
 }

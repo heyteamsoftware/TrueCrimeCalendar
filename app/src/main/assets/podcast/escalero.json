@@ -1,33 +1,173 @@
 {
   "id": "escalero",
-  "titulo": "La última fuga",
+  "version": 3,
   "pronunciacion": {
-    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Fontcalent": "Fontcalént"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Madrid, 1993. Dos internos se escapan de un hospital psiquiátrico. Solo uno de ellos sigue con vida poco después. Ese hombre se presenta ante la policía para confesar la muerte de su compañero de fuga. Pero no se detiene ahí." },
-    { "voz": "ximena", "texto": "Empieza a hablar de otros cuerpos. De otros años. De personas que dormían en la calle y que, cuando desaparecieron, casi nadie echó de menos." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Francisco García Escalero, al que la prensa llamó el matamendigos. Un caso incómodo, porque habla tanto de un asesino como de la invisibilidad de sus víctimas." },
-    { "voz": "alvaro", "texto": "Un apodo terrible, además. Como si las víctimas fueran solo eso, mendigos, y no personas con nombre." },
-    { "voz": "ximena", "texto": "Por eso hoy hablaremos de personas sin hogar. García Escalero nació en Madrid en 1954, en una familia humilde. Según las crónicas, creció muy cerca del cementerio de la Almudena. Desde muy joven acumuló problemas: fugas, centros de menores, delitos y, más tarde, años de prisión." },
-    { "voz": "ximena", "texto": "A todo ello se sumaba una enfermedad mental grave, que con el tiempo se diagnosticaría como esquizofrenia, y una fuerte dependencia del alcohol. Cuando salió de la cárcel, acabó viviendo en la calle." },
-    { "voz": "alvaro", "texto": "Es decir, él mismo era una persona sin hogar." },
-    { "voz": "ximena", "texto": "Sí, y eso es clave para entender el caso. Entre 1987 y 1993 asesinó a otras personas, en su mayoría también sin hogar, con las que compartía la calle, las mismas plazas y los mismos portales del centro de Madrid. Muchos de los crímenes ocurrieron en el entorno del cementerio de la Almudena." },
-    { "voz": "ximena", "texto": "No vamos a entrar en cómo actuaba. Basta decir que algunas víctimas tardaron mucho en ser identificadas, y que las muertes se investigaron por separado. Casi ninguna llegó a las portadas de los periódicos. En el mejor de los casos, ocupaban unas pocas líneas en las páginas de sucesos, y al día siguiente nadie las recordaba." },
-    { "voz": "alvaro", "texto": "¿Y por qué nadie relacionó esos casos durante tantos años?" },
-    { "voz": "ximena", "texto": "Hay varias razones posibles. Las víctimas no tenían a nadie que preguntara por ellas en comisaría. Muchas no llevaban documentación. Y una muerte violenta en la calle se atribuía con facilidad a una pelea o al alcohol. El patrón estaba ahí, pero nadie lo estaba mirando." },
-    { "voz": "ximena", "texto": "Entre crimen y crimen, García Escalero entraba y salía de centros psiquiátricos. En 1993 estaba ingresado en un hospital de Madrid. Se escapó con otro interno, y aquella fuga terminó con la muerte de su compañero. Después se entregó." },
-    { "voz": "ximena", "texto": "Ante la policía confesó once asesinatos. Sus declaraciones permitieron vincular casos que se habían investigado por separado durante años. Por primera vez, aquellas muertes dispersas tenían un nombre detrás y una explicación." },
-    { "voz": "alvaro", "texto": "¿Y qué dijo la justicia? ¿Llegó a haber juicio?" },
-    { "voz": "ximena", "texto": "Lo hubo, pero con un desenlace distinto al habitual. Los psiquiatras coincidieron en que su enfermedad anulaba su capacidad de comprender lo que hacía. El tribunal lo declaró no imputable, es decir, exento de responsabilidad penal, y ordenó su internamiento en un psiquiátrico penitenciario." },
-    { "voz": "ximena", "texto": "Es una figura que a menudo se malinterpreta. No significa que quedara libre. Significa que, en lugar de cumplir una pena de cárcel, debía permanecer internado para recibir tratamiento, bajo control judicial. García Escalero pasó el resto de su vida en psiquiátricos penitenciarios." },
-    { "voz": "alvaro", "texto": "Conviene aclararlo, porque es de lo que más confusión genera en casos así." },
-    { "voz": "ximena", "texto": "Así es. El caso despertó entonces un gran interés mediático. Para muchos madrileños, era la primera vez que oían hablar de aquellas muertes, ocurridas en calles que recorrían a diario." },
-    { "voz": "ximena", "texto": "Murió en 2014, todavía internado. Nunca volvió a la calle." },
-    { "voz": "alvaro", "texto": "Una historia en la que casi todos llegaron tarde." },
-    { "voz": "ximena", "texto": "Su legado es una pregunta que sigue abierta: ¿cuánto tarda una sociedad en ver una muerte cuando la víctima no tiene casa? En España existe incluso una palabra para el rechazo a las personas pobres: aporofobia. Y las organizaciones sociales recuerdan que quienes viven en la calle son, con mucha frecuencia, víctimas de la violencia." },
-    { "voz": "ximena", "texto": "El caso también obliga a mirar la otra cara: la de un hombre gravemente enfermo que pasó años sin un tratamiento sostenido, entre la calle, la cárcel y el hospital. Ninguna de esas instituciones supo frenar lo que estaba ocurriendo." },
-    { "voz": "ximena", "texto": "En nuestro archivo, su caso forma parte de la historia criminal de España. Hoy lo cerramos recordando a sus víctimas, personas que murieron sin que casi nadie preguntara por ellas. Hasta aquí el expediente de Francisco García Escalero. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La enfermería de Carabanchel",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Francisco García Escalero. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La enfermería de Carabanchel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 22 de diciembre de 1993. Un abogado de oficio entra en la enfermería de la cárcel de Carabanchel. Le esperan un psiquiatra, dos inspectores de Homicidios y un transcriptor. Y un hombre en pijama, con tatuajes en los brazos y una barba rala. Su cliente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Francisco García Escalero y tiene treinta y nueve años. La policía quiere demostrar que mató a un compañero del hospital psiquiátrico. Él lo confiesa sin alterarse. Y entonces, un policía se atreve a preguntar por otro crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Quiero que te quedes con esta escena. Un interrogatorio pensado para un solo caso se convierte, de pronto, en el principio de muchos. Y él responde, con voz tranquila, durante cuatro horas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se atribuyó once muertes, entre agosto de 1986 y septiembre de 1993. En los días siguientes reconoció cuatro más, que no pudieron probarse. Casi todas las víctimas vivían en la calle. Sus desapariciones llevaban años en el cajón de los casos sin resolver."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente tiene un apodo terrible, el que le dio la prensa: el matamendigos. Pero esas víctimas no eran mendigos. Eran personas, con nombre y con historia, que nadie reclamó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El apodo ya cuenta la mitad del problema. Quien se queda con la etiqueta no pregunta quién era cada uno. Aquí vamos a hacer lo contrario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Empecemos por el hombre. Francisco García Escalero nació en Madrid en 1954 y creció en un chamizo a pocos metros del cementerio de la Almudena. Según las crónicas, su padre le pegaba. Tuvo muy poca escuela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde adolescente desaparecía de casa y acabó en centros de internamiento. En 1973 participó en una agresión sexual y fue condenado a once años de cárcel. Salió sin trabajo, sin apenas saber leer, y se puso a mendigar por Madrid."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que no pasó. Durante años de cárcel nadie le detectó ningún síntoma de locura. Nadie se lo preguntó. Salió a la calle sin un diagnóstico, sin un tratamiento y sin nadie que lo siguiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con los años se supo que sufría una esquizofrenia grave, agravada por el alcohol. Decía oír una voz que lo dominaba. Entraba y salía del hospital psiquiátrico provincial. A veces se presentaba él mismo y decía: he matado a alguien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el forense Juan José Carrasco, que firmó uno de los informes del juicio, nadie le tomó en serio. Después de cada crimen volvía al hospital y forzaba su ingreso. Y lo trataban como a un enfermo más."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que me quita el sueño de este expediente. No que nadie lo viera, sino que él mismo lo avisó y nadie lo escuchó. Una persona que dice «he matado» a un hospital, una y otra vez, y cae en el vacío."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de septiembre de 1993, Escalero salió del hospital con otro interno, Víctor Luis Criado, de treinta y cuatro años. Escalero regresó solo, a las pocas horas. El cuerpo de Víctor apareció junto al cementerio de la Almudena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía detuvo a Escalero, y la versión de su confesión varía: según una fuente, se entregó tras intentar suicidarse en una carretera; según otra, fue detenido. Lo que sí consta es que en diciembre de 1993 estaba confesando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un compañero muerto, un interrogatorio y, de golpe, una puerta que llevaba años cerrada. Se abrió por el peor motivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las muertes de la calle se habían investigado por separado, casi sin ruido. Algunas víctimas tardaron en ser identificadas. Pocas ocupaban más de unas líneas en las páginas de sucesos. Y al día siguiente, nadie las recordaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ahora la policía tenía una explicación para todo. Pero faltaba la pregunta más difícil: ¿qué se hace con un hombre así? La respuesta de la justicia ocupa la cinta dos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un fracaso de todos",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un fracaso de todos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta anterior, Francisco García Escalero confesó en diciembre de 1993 la muerte de su compañero del hospital psiquiátrico, Víctor Luis Criado, y la de otras personas sin hogar. Once casos quedaron acreditados, y otros cuatro fueron reconocidos por él pero no se pudieron probar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró a finales de febrero de 1996, más de dos años después de la confesión. Nadie discutió los hechos. Lo que se discutía era otra cosa: ¿quién era responsable, y qué pasaba con él?"
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Hay una diferencia que conviene tener clara, porque confunde a mucha gente. Un tribunal puede probar que alguien mató y, a la vez, declararlo inimputable. No es absolución del crimen. Es la constatación de que no era capaz de comprender lo que hacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muchos de los crímenes ocurrieron en el entorno del cementerio de la Almudena, el barrio de su infancia. Una mujer sin hogar que sobrevivió a una agresión declaró en el juicio. Escalero, cuando le preguntaron por uno de los casos, dijo que no lo recordaba: estaba bajo los efectos del alcohol y de las pastillas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los peritos describieron un cuadro grave: esquizofrenia, alcoholismo crónico y una vida entera sin tratamiento sostenido. Los forenses lo definieron como un paradigma de la locura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tribunal dio por probado que era autor de once asesinatos, una agresión sexual y un rapto, y lo declaró inimputable por enfermedad mental. La defensa quería que fuera a una residencia civil. El tribunal rechazó esa petición: lo consideró un hombre peligroso, con un riesgo de fuga incuestionable en un centro abierto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Leo la sentencia y la frase «riesgo de fuga incuestionable» me detiene. El tribunal quería proteger a la sociedad y tratar al enfermo al mismo tiempo. Y me quedo con esto. Por un lado, la justicia le dio tratamiento y no cárcel. Por otro, lo apartó de la sociedad. No hay una solución cómoda para un caso así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Escalero fue internado en el psiquiátrico penitenciario de Fontcalent, en Alicante, bajo control judicial. El tribunal recibía un informe sobre su evolución cada seis meses. Según un forense, no podía quedarse allí más de treinta años, que era el equivalente a la pena máxima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió en Fontcalent el 19 de agosto de 2014, a los sesenta años. La autopsia no aclaró si la causa fue un paro cardíaco o un atragantamiento. Nunca volvió a la calle."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una historia en la que casi todos llegaron tarde. Y la frase de los forenses lo resume: un fracaso estrepitoso de la sociedad en general, y más en concreto de las instituciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa lo llamó el matamendigos y el mendigo psicópata, pero casi nadie contó quiénes eran las personas que habían muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso obliga a mirar dos veces. Por un lado, a las víctimas, que murieron sin que nadie preguntara por ellas. En España existe incluso una palabra para el rechazo a quienes son pobres: aporofobia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por otro, a un hombre gravemente enfermo que pasó años entre la calle, la cárcel y el hospital, sin un tratamiento eficaz. Ninguna de esas instituciones supo frenar lo que estaba ocurriendo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las organizaciones sociales lo recuerdan una y otra vez: quienes viven en la calle son víctimas de violencia mucho más a menudo de lo que se cree. Y casi nunca se les cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay una última cuestión. El forense Carrasco dijo años después que el cierre de los manicomios había dejado a muchos enfermos en la calle o en la cárcel, sin tratamiento. Es una opinión de un profesional, no un hecho probado, pero merece oírse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a Víctor Luis Criado, que tenía treinta y cuatro años. A las demás personas que murieron en la calle de Madrid, casi siempre sin que nadie reclamara su cuerpo ni su nombre. Y a quienes todavía duermen en ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Francisco García Escalero. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias entre fuentes y con la ficha. 1) Nacimiento: El País (2008) y la ficha dicen 1954 en Madrid; Wikipedia en inglés dice 24 de mayo de 1948; Wikipedia en español da el 24 de mayo de 1954 (y el texto menciona Zamora, donde nació su padre). Se usa 1954 (coherente con los 39 años de diciembre de 1993 que da El País). 2) Fecha de la entrega/detención: la ficha dice que se entregó en 1993; El País cuenta que el 22 de diciembre de 1993 declaró en la enfermería de Carabanchel tras ser detenido por la muerte de su compañero de hospital Víctor Luis Criado (fuga el 19 de septiembre de 1993); Libertad Digital dice que se entregó tras un intento de suicidio en la carretera de Colmenar Viejo y confesó en el hospital Ramón y Cajal; Wikipedia en inglés y en español lo sitúan en 1994 (abril) y hablan de un intento de suicidio. El guion recoge 1993 y que las versiones difieren sobre si se entregó o fue detenido. 3) Número de víctimas: El País y la sentencia: 11 acreditadas (agosto de 1986-septiembre de 1993) y 4 más que reconoció sin pruebas; Libertad Digital: 15 según él, 11 según el fiscal; Wikipedia: 11, 14 o 15; primera víctima: agosto de 1986 (El País), noviembre de 1987 (Libertad Digital) o agosto de 1987 (Wikipedia): el guion dice «entre agosto de 1986 y septiembre de 1993» (El País) y la ficha dice 1987-1993; el episodio anterior decía 1987. 4) Fecha del juicio: Libertad Digital (finales de febrero de 1996) y El Mundo (2 de marzo de 1996); Wikipedia en inglés y en español dicen febrero de 1995: el guion usa 1996. El País menciona la «Sección Primera de la Audiencia Nacional» (probable error; Wikipedia dice Audiencia Provincial de Madrid): el guion dice solo «el tribunal». 5) Condena previa: 1973, agresión sexual en el cementerio, 11 años de cárcel (El País) o 12 (Wikipedia). 6) Internamiento: Fontcalent (Alicante) con un máximo de 30 años equivalente a la pena máxima (El País); muerte el 19 de agosto de 2014 (Diario Información, Wikipedia), a los 60 años; la autopsia no aclaró la causa. 7) Víctimas: solo se nombra a Víctor Luis Criado (34 años), cuyo nombre aparece en El País y Libertad Digital; las demás no se nombran. No se describe cómo actuaba ni lo que se hacía con los cuerpos. 8) Del episodio anterior no se ha podido verificar en una segunda fuente la frase sobre la «aporofobia» y las organizaciones sociales; se deja como contexto general. 9) No se ha mencionado el cómplice ni el fin de su compañero «El Rubio» (El País) por respeto y por no estar claro cuántos de los 11 casos incluye. El forense Juan José Carrasco opina sobre el cierre de los manicomios; el guion lo presenta como opinión."
 }

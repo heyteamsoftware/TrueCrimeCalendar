@@ -1,38 +1,75 @@
 {
   "id": "magnotta",
-  "titulo": "Detectives de pantalla",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Luka Magnotta": "Lúka Magnóta",
     "Magnotta": "Magnóta",
     "Jun Lin": "Chun Lin",
-    "Jun": "Chun",
+    "Diran Lin": "Dirán Lin",
     "Concordia": "Concórdia",
+    "Montreal": "Montreál",
     "Ottawa": "Ótaua",
-    "Interpol": "Ínterpol"
+    "Interpol": "Ínterpol",
+    "Neukölln": "Noikoln",
+    "Guy Cournoyer": "Gui Kurnoyé",
+    "Cournoyer": "Kurnoyé",
+    "Netflix": "Néflix",
+    "Quebec": "Kebéc"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "2010. En internet circula un vídeo de maltrato animal que indigna a miles de personas. Un pequeño grupo de usuarios decide no quedarse en la indignación: quieren saber quién lo ha grabado. Analizan cada detalle de la habitación: los enchufes, los muebles, los objetos del fondo. Durante meses, cruzan pistas en foros y grupos de redes sociales." },
-    { "voz": "ximena", "texto": "Aquellos aficionados acabarán señalando a un hombre con nombre y apellidos. Pero nadie, ni siquiera ellos, imagina lo que ese hombre hará dos años después." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Luka Magnotta, al que se llamó el asesino de internet. Un caso que plantea preguntas muy actuales: qué ocurre cuando alguien busca la fama a cualquier precio y qué papel juegan las redes en ello." },
-    { "voz": "ximena", "texto": "Magnotta nació en 1982 en Canadá, con otro nombre que cambió años después. Intentó abrirse camino como modelo y como personaje mediático. Dedicaba muchísimo tiempo a construir su imagen en internet, a veces con perfiles falsos que hablaban de él mismo. Según se supo después, llegó a alimentar rumores falsos sobre su propia vida solo para conseguir titulares." },
-    { "voz": "alvaro", "texto": "¿Y aquellos investigadores aficionados lograron identificarlo?" },
-    { "voz": "ximena", "texto": "Llegaron a señalarlo, sí, y avisaron a la policía. Pero en aquel momento sus advertencias no tuvieron el efecto que esperaban. Magnotta siguió publicando vídeos, y el grupo, frustrado, siguió vigilándolo desde la pantalla. Eran personas de distintos lugares que nunca se habían visto en persona: compartían capturas, mapas y horarios, y no le perdieron el rastro." },
-    { "voz": "ximena", "texto": "En mayo de 2012, en Montreal, asesinó a Jun Lin, un estudiante chino de treinta y tres años que estudiaba ingeniería informática en la Universidad Concordia. Se conocían. Magnotta grabó el crimen y difundió las imágenes en internet." },
-    { "voz": "alvaro", "texto": "No vamos a entrar en esas imágenes. Ni a describirlas." },
-    { "voz": "ximena", "texto": "No. Solo diremos que pocos días después llegó a la sede del Partido Conservador, en Ottawa, un paquete con restos humanos. Otro fue interceptado en una oficina de correos. Así empezó la investigación. Para entonces, Magnotta ya había volado a Europa." },
-    { "voz": "ximena", "texto": "La noticia sacudió Canadá. Un crimen grabado, difundido en la red y con pruebas enviadas por correo a instituciones políticas. Aquel grupo de aficionados reconoció enseguida el nombre del sospechoso: era el hombre al que llevaban dos años siguiendo." },
-    { "voz": "ximena", "texto": "La policía de Montreal lo identificó rápidamente, y se emitió una orden de búsqueda internacional a través de Interpol, que lo incluyó entre los fugitivos más buscados. Su cara apareció en televisiones y periódicos de medio mundo. Pasó por París y, a comienzos de junio de 2012, llegó a Berlín." },
-    { "voz": "ximena", "texto": "Allí entró en un cibercafé. Mientras leía noticias sobre sí mismo, el empleado lo reconoció y avisó a la policía. Fue detenido en el acto, el 4 de junio de 2012. No opuso resistencia." },
-    { "voz": "alvaro", "texto": "Un final casi de película para alguien obsesionado con su propia imagen." },
-    { "voz": "ximena", "texto": "Fue extraditado a Canadá en un avión de las Fuerzas Armadas canadienses. En el juicio, celebrado en Montreal en 2014 y que duró casi tres meses, no negó los hechos. Su defensa sostuvo que sufría un trastorno mental y que no era responsable de lo que había hecho." },
-    { "voz": "ximena", "texto": "El jurado no lo aceptó: concluyó que el crimen había sido planificado. Lo declaró culpable de asesinato en primer grado, y fue condenado a cadena perpetua, sin posibilidad de pedir la libertad condicional hasta pasados veinticinco años." },
-    { "voz": "ximena", "texto": "Jun Lin había llegado a Canadá para estudiar y construir su futuro. Tenía amigos, planes y una familia que lo esperaba en China. Su padre viajó desde allí para asistir al juicio del hombre que le había arrebatado a su hijo." },
-    { "voz": "alvaro", "texto": "¿Y qué se aprendió de todo esto?" },
-    { "voz": "ximena", "texto": "Varias cosas. Que el maltrato animal puede ser una señal de alarma que conviene tomar muy en serio. Que las plataformas que alojan contenidos violentos tienen una responsabilidad. Y que los investigadores aficionados pueden ayudar, pero también equivocarse o poner en riesgo a personas inocentes. Por último, que detrás de cada vídeo viral puede haber una víctima real." },
-    { "voz": "ximena", "texto": "En 2019, una serie documental contó la historia de aquel grupo de internautas y la convirtió en un fenómeno mundial. La serie también recibió críticas: para algunos, volvía a dar a Magnotta justo lo que siempre había buscado, atención." },
-    { "voz": "alvaro", "texto": "Por eso hoy hemos intentado no darle más de la necesaria." },
-    { "voz": "ximena", "texto": "Exacto. El foco debe quedarse donde importa. Hoy recordamos a Jun Lin. Hasta aquí el expediente de Luka Magnotta. Esto ha sido TRUE CRIME CALENDAR." }
-  ],
-  "nota_revision": ""
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cibercafé en Berlín",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Luka Magnotta, el asesino de internet. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un cibercafé en Berlín." },
+        { "voz": "ximena", "texto": "4 de junio de 2012. En un cibercafé del barrio berlinés de Neukölln, un hombre lee noticias en una pantalla. Las noticias hablan de él. Es el sospechoso de un crimen que conmociona a Canadá, y desde hace días la Interpol lo busca." },
+        { "voz": "ximena", "texto": "Al empleado le resulta familiar. Llama a la policía. Cuando llegan los agentes, el hombre da primero nombres falsos. Después admite quién es. Sus huellas dactilares lo confirman." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Lo que me llama la atención es la imagen: un hombre que ha huido de medio mundo y que no puede dejar de leer sobre sí mismo. Este caso trata de eso: de alguien que necesitaba que lo miraran." },
+        { "voz": "ximena", "texto": "Para comprender cómo se llegó hasta ahí hay que retroceder. Luka Rocco Magnotta nació el 24 de julio de 1982 en Ontario, con otro nombre, que cambió legalmente en 2006. Quería ser modelo y famoso." },
+        { "voz": "ximena", "texto": "En 2005 fue condenado en Canadá por suplantación de identidad y fraude, con una pena que no implicó prisión. Dedicaba mucho tiempo a construir su imagen en internet, a veces con perfiles falsos." },
+        { "voz": "ximena", "texto": "En 2010 subió a la red vídeos de maltrato a animales. Indignaron a mucha gente. Un grupo de usuarios, que ni se conocían en persona, decidió no quedarse en la rabia: querían saber quién los había grabado." },
+        { "voz": "alvaro", "texto": "Fíjate cómo trabajaron. Analizaron cada detalle de la habitación, los muebles, los enchufes, lo que se veía al fondo. Cruzaron pistas en foros y redes. En enero de 2011, un grupo privado de Facebook lo identificó." },
+        { "voz": "ximena", "texto": "En febrero de 2011, la sociedad protectora de animales de Ontario presentó una denuncia. Aquellos usuarios avisaron a la policía. Su advertencia no tuvo el efecto que esperaban." },
+        { "voz": "alvaro", "texto": "Esto es lo que más pesa del expediente. Hubo advertencias, y no se les dio importancia. Es fácil decirlo ahora. Pero se puede decir con calma: un maltrato animal grave merece ser investigado, por sí mismo y por lo que puede anunciar." },
+        { "voz": "ximena", "texto": "El 24 o el 25 de mayo de 2012, en Montreal, murió Jun Lin, un estudiante chino de treinta y tres años. Estudiaba ingeniería informática en la Universidad Concordia. Fue visto por última vez entrando en el edificio de Magnotta." },
+        { "voz": "ximena", "texto": "El 25 de mayo se publicó un vídeo del crimen en una web de contenidos violentos. No lo describiremos. La policía lo confirmó después como auténtico." },
+        { "voz": "ximena", "texto": "Un abogado de Estados Unidos intentó denunciar el vídeo a la policía de Toronto, a un sheriff y al FBI. Según se supo, sus avisos fueron desatendidos. Mientras, los amigos de Jun Lin lo daban por desaparecido el 27 de mayo." },
+        { "voz": "alvaro", "texto": "Una cadena de oportunidades perdidas, en pocos días. Pero conviene no cargar la culpa en quien avisó. Los fallos son del sistema, que no supo reaccionar a tiempo." },
+        { "voz": "ximena", "texto": "El 29 de mayo llegó a la sede del Partido Conservador, en Ottawa, un paquete enviado por correo. Se mandaron otros, con notas amenazantes, a partidos políticos y a escuelas. El 1 de junio, la policía identificó a la víctima: Jun Lin." },
+        { "voz": "alvaro", "texto": "Aquí cambia el caso. Hasta entonces era un vídeo en un rincón de internet. Con los envíos, pasó a ser un caso nacional. Y el nombre de Magnotta no tardó en aparecer en la investigación." },
+        { "voz": "ximena", "texto": "El 31 de mayo, la Interpol emitió una orden de búsqueda y captura internacional. Magnotta había volado a París con su propio pasaporte, y después usó uno falso. Se le perdió el rastro en Francia. Tomó un autobús a Berlín." },
+        { "voz": "ximena", "texto": "Su cara estaba en televisiones y periódicos de medio mundo. Fue una de las mayores búsquedas de la historia de la policía de Montreal. Y terminó en un cibercafé. En la segunda cinta, el juicio." }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un jurado en Montreal",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Un jurado en Montreal." },
+        { "voz": "ximena", "texto": "El 18 de junio de 2012, Magnotta fue devuelto a Canadá. Se declaró no culpable y pidió un juicio con jurado. La vista preliminar empezó en marzo de 2013 y en abril lo acusaron de cinco delitos, entre ellos asesinato en primer grado." },
+        { "voz": "ximena", "texto": "Mientras tanto, la familia de Jun Lin había llegado a Montreal el 6 de junio de 2012, desde China. Las pruebas de ADN confirmaron la identidad de la víctima el 13 de junio. Para ellos, el proceso penal fue una espera larga y callada." },
+        { "voz": "ximena", "texto": "El juicio empezó el 29 de septiembre de 2014 ante el juez Guy Cournoyer, del Tribunal Superior de Quebec. Duró diez semanas. Magnotta admitió los hechos, pero su defensa sostuvo que sufría una enfermedad mental." },
+        { "voz": "alvaro", "texto": "Es un juicio extraño. Nadie discutía quién había sido. Lo que se discutía era su estado mental. Y esa pregunta, tan seria, no es una excusa: es lo que la ley exige que se compruebe." },
+        { "voz": "ximena", "texto": "Un psiquiatra de la defensa habló de esquizofrenia episódica. Los psiquiatras de la fiscalía describieron trastornos de personalidad y sostuvieron que fingía la psicosis. Magnotta no declaró." },
+        { "voz": "alvaro", "texto": "El jurado oyó semanas de testimonios técnicos. A las dos partes les convenía el matiz: la defensa hablaba de psicosis, la acusación de planificación. Ante eso, un jurado sin formación médica tiene que decidir con lo que ve, no con etiquetas." },
+        { "voz": "ximena", "texto": "El jurado, formado por ocho mujeres y cuatro hombres, deliberó durante ocho días. El 23 de diciembre de 2014 lo declaró culpable de todos los cargos, incluido el asesinato en primer grado." },
+        { "voz": "ximena", "texto": "Fue condenado a cadena perpetua, sin posibilidad de pedir la libertad condicional hasta pasados veinticinco años. Recibió además diecinueve años por los otros cargos, que se cumplen a la vez. Su defensa retiró el recurso en febrero de 2015." },
+        { "voz": "alvaro", "texto": "El jurado creyó que el crimen estuvo planificado, y por eso aplicó el primer grado. Esa es la clave del veredicto." },
+        { "voz": "ximena", "texto": "Jun Lin nació el 30 de diciembre de 1978 en Wuhan. Llegó a Canadá a finales de 2010 para estudiar y construir su futuro. Trabajaba a tiempo parcial en una tienda de barrio, mientras estudiaba ingeniería informática." },
+        { "voz": "ximena", "texto": "Su familia calló durante todo el juicio, para no interferir. Tras el veredicto, su padre, Diran Lin, leyó una declaración ante el tribunal. Describió a un hijo valiente, estudioso y aventurero, y dijo que su muerte les había robado incluso la capacidad de hablar de él sin dolor." },
+        { "voz": "ximena", "texto": "Sus cenizas fueron enterradas el 26 de julio de 2012 en el cementerio de Notre-Dame-des-Neiges, en Montreal. La Universidad Concordia creó el Premio Jun Lin en su honor." },
+        { "voz": "ximena", "texto": "Su madre contó a la CBC, antes del juicio, que su hijo veía Canadá como un lugar acogedor y seguro para los inmigrantes. Su muerte, dijo, le había hecho cambiar de opinión sobre el país." },
+        { "voz": "alvaro", "texto": "Eso es lo que debe quedar en este archivo. No el nombre del que lo mató, sino el de un estudiante que quería quedarse en Canadá y abrir un negocio." },
+        { "voz": "ximena", "texto": "En diciembre de 2019, Netflix estrenó una serie documental sobre el grupo de internautas que había seguido a Magnotta. Se convirtió en un fenómeno mundial. Pero también recibió críticas: para algunos, daba al condenado justo lo que siempre buscó, atención." },
+        { "voz": "alvaro", "texto": "Por eso, en este expediente, he intentado darle la mínima atención necesaria. Lo que enseña este caso es otra cosa: que las plataformas tienen responsabilidad con los contenidos violentos, y que los aficionados que investigan pueden ayudar, pero no sustituyen a la policía." },
+        { "voz": "ximena", "texto": "En marzo de 2024, la prensa canadiense informó de que Magnotta había sido trasladado de una prisión de máxima seguridad. Sigue cumpliendo condena. No podrá pedir la libertad condicional completa hasta 2037." },
+        { "voz": "ximena", "texto": "Recordamos a Jun Lin, a su familia, a sus amigos de Montreal y a quienes tuvieron que ver un vídeo que nunca debió existir. Detrás de cada contenido viral puede haber una víctima real." },
+        { "voz": "ximena", "texto": "Fin del expediente Luka Magnotta. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ]
 }

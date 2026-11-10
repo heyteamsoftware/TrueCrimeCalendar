@@ -44,8 +44,8 @@ Hecho antes: `brady` (piloto).
 | abril A | sobhraj jesperson christie pichushkin | ✓ hecho (4/4) |
 | abril B | landru harvey yoo black | ✓ hecho (4/4) |
 | mayo A | homolka beck bryant holmes | ✓ homolka y beck; bryant y holmes en curso |
-| mayo B | bellfield fish murano dahmer | lanzado |
-| mayo C | bianchi chase escalero kurten | lanzado |
+| mayo B | bellfield fish murano dahmer | ✓ hecho (4/4) |
+| mayo C | bianchi chase escalero kurten | ✓ hecho (4/4) |
 | junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |
 | julio | jones hindley magnotta onoprienko yang | lanzado |
 | agosto A | bathory miyazaki lucas alcala | en cola |

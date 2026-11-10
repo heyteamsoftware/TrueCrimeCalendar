@@ -1,6 +1,6 @@
 {
   "id": "chikatilo",
-  "titulo": "Un nombre anotado en el andén",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Andrei Chikatilo": "Andréi Chikatílo",
@@ -8,41 +8,69 @@
     "Donleskhoz": "Donleskjós",
     "Shakhty": "Shájti",
     "Novocherkassk": "Novocherkásk",
-    "Yelena Zakotnova": "Yeléna Sakótnova",
     "Aleksandr Kravchenko": "Aleksándr Krávchenko",
     "Kravchenko": "Krávchenko",
     "Viktor Burakov": "Víktor Burákov",
     "Burakov": "Burákov",
     "Alexander Bukhanovsky": "Aleksánder Bujanóvski",
     "Bukhanovsky": "Bujanóvski",
-    "Alexander Pichushkin": "Aleksánder Pichúshkin",
-    "Bitsa": "Bítsa",
-    "Lesopolosa": "Lesopolósa"
+    "Lesopolosa": "Lesopolósa",
+    "Leonid Akubzhanov": "Leonid Akubyánov",
+    "Svetlana Korostik": "Svetlána Korostík",
+    "Yeltsin": "Yéltsin"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "6 de noviembre de 1990. Estación de Donleskhoz, cerca de Rostov, en el sur de Rusia. Un policía de paisano vigila el andén. De la arboleda cercana sale un hombre de mediana edad, de aspecto corriente. Tiene manchas en la ropa y un dedo vendado." },
-    { "voz": "ximena", "texto": "El agente le pide la documentación, anota su nombre y le deja marchar. No tiene motivos para detenerle. Pero días después, muy cerca de allí, aparece el cuerpo de una mujer joven. Y aquel nombre anotado en un informe lo cambia todo." },
-    { "voz": "alvaro", "texto": "¿Un simple control rutinario?" },
-    { "voz": "ximena", "texto": "Uno entre miles. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Andrei Chikatilo, el carnicero de Rostov." },
-    { "voz": "ximena", "texto": "Chikatilo nació en 1936 en un pueblo de Ucrania, entonces parte de la Unión Soviética. Creció entre la hambruna y la guerra. De adulto era un hombre gris, casado y con dos hijos, que vivía en Novocherkassk. Trabajó como profesor y después como empleado de suministros, un puesto que le obligaba a viajar." },
-    { "voz": "ximena", "texto": "Su primer crimen fue en diciembre de 1978, en Shakhty: una niña de nueve años, Yelena Zakotnova. Pero por aquel asesinato la justicia soviética condenó a otro hombre, Aleksandr Kravchenko, que tenía antecedentes. Kravchenko fue ejecutado en 1983. Era inocente." },
-    { "voz": "alvaro", "texto": "¿Ejecutaron a un inocente mientras el verdadero asesino seguía libre?" },
-    { "voz": "ximena", "texto": "Y siguió libre doce años. A partir de 1982, los asesinatos se multiplicaron. Sus víctimas eran mujeres jóvenes, niños y adolescentes, a menudo personas vulnerables. Los abordaba en estaciones de tren y de autobús y los convencía para que le acompañaran hacia zonas boscosas, cerca de las vías." },
-    { "voz": "ximena", "texto": "La policía tenía además un problema de fondo. Oficialmente, los asesinos en serie se consideraban un fenómeno propio de Occidente. La prensa apenas informaba, y la población no recibió las advertencias que quizá habrían salvado vidas." },
-    { "voz": "ximena", "texto": "En 1984 lo detuvieron por comportamiento sospechoso en una estación de Rostov. Pero un análisis de grupo sanguíneo, mal interpretado, pareció descartarle. Salió tras cumplir una breve condena por un robo menor en su trabajo." },
-    { "voz": "alvaro", "texto": "Otra oportunidad perdida." },
-    { "voz": "ximena", "texto": "Sí. La investigación se convirtió en una de las mayores operaciones policiales de la historia soviética. La coordinaba el detective Viktor Burakov. Se investigó a cientos de miles de personas y, por el camino, se resolvieron cientos de delitos que nada tenían que ver con el caso. Se la conoció como Lesopolosa, por las franjas de bosque junto a las vías." },
-    { "voz": "ximena", "texto": "Burakov hizo algo poco habitual en la Unión Soviética: pidió ayuda a un psiquiatra, Alexander Bukhanovsky, que elaboró uno de los primeros perfiles psicológicos de un criminal en el país. Su retrato describía a alguien de apariencia completamente normal, muy lejos del monstruo que imaginaba la gente." },
-    { "voz": "ximena", "texto": "En 1990, la policía llenó de agentes las estaciones de la zona. Y así llegamos a aquel control en Donleskhoz. Al relacionar su nombre con el nuevo crimen, los investigadores lo vigilaron. Chikatilo fue detenido el 20 de noviembre de 1990." },
-    { "voz": "alvaro", "texto": "¿Y confesó enseguida?" },
-    { "voz": "ximena", "texto": "No. Durante días lo negó todo. Hasta que Bukhanovsky habló con él y le leyó el perfil que había elaborado. Entonces se derrumbó. Confesó cincuenta y seis asesinatos, más de los que la policía le atribuía." },
-    { "voz": "ximena", "texto": "El juicio comenzó en 1992 en Rostov y se prolongó durante seis meses. Durante las sesiones permaneció encerrado en una jaula metálica, en parte para protegerlo de los familiares de las víctimas. Fue declarado culpable de cincuenta y dos asesinatos y condenado a muerte." },
-    { "voz": "ximena", "texto": "Fue ejecutado en febrero de 1994. Dos años después, Rusia dejó de aplicar la pena de muerte." },
-    { "voz": "alvaro", "texto": "¿Y qué pasó con Kravchenko, el hombre ejecutado por error?" },
-    { "voz": "ximena", "texto": "Con el tiempo, se reconoció el error. Pero eso no le devolvió la vida. Su caso sigue siendo uno de los argumentos más citados contra la pena de muerte: un sistema que necesitaba un culpable rápido encontró uno, y se equivocó." },
-    { "voz": "ximena", "texto": "El expediente de Chikatilo está ligado al de Alexander Pichushkin, el asesino del parque Bitsa de Moscú, que declaró que pretendía superar su número de víctimas. Un recordatorio inquietante de cómo la fama de un criminal puede alimentar a otros." },
-    { "voz": "ximena", "texto": "En TRUE CRIME CALENDAR lo incluimos en el patrón de la antigua Unión Soviética: casos en los que el secretismo oficial y la presión por dar resultados retrasaron la verdad durante años." },
-    { "voz": "ximena", "texto": "Y está ligado, sobre todo, a cincuenta y dos víctimas cuyas familias esperaron más de una década. Muchas eran chicos y chicas que solo esperaban un tren. Hasta aquí el expediente de Andrei Chikatilo. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un nombre en un informe",
+      "tipo": "hallazgo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Andrei Chikatilo, el carnicero de Rostov. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. Un nombre en un informe."},
+        {"voz": "ximena", "texto": "6 de noviembre de 1990. Estación de Donleskhoz, a las afueras de Rostov, en el sur de Rusia. Un policía de paisano vigila el andén. De la arboleda cercana sale un hombre de mediana edad, de aspecto corriente."},
+        {"voz": "ximena", "texto": "El agente le pide la documentación, anota su nombre en un informe y le deja marchar. No tiene motivos para detenerlo. El informe queda sobre una mesa. Semanas después, muy cerca de allí, aparece el cuerpo de una joven."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Un control más entre miles. Eso es lo que me quita el sueño de este expediente: no hay un golpe de genio, hay un nombre anotado a tiempo. Y un papel que alguien, por fin, vuelve a leer."},
+        {"voz": "ximena", "texto": "Ese hombre era Andrei Chikatilo. Había nacido en 1936 en un pueblo de Ucrania, entonces parte de la Unión Soviética. De adulto era un hombre gris, casado, con dos hijos, que vivía en Novocherkassk. Fue profesor y después empleado de suministros, un puesto que lo obligaba a viajar."},
+        {"voz": "ximena", "texto": "Su primer crimen documentado es de diciembre de 1978, en Shakhty: una niña de nueve años. La justicia soviética condenó por aquel asesinato a otro hombre, Aleksandr Kravchenko, que tenía antecedentes. Kravchenko fue ejecutado en julio de 1983."},
+        {"voz": "alvaro", "texto": "Era inocente. Anoto la secuencia, porque es la más dura del expediente. Un crimen sin resolver, un sospechoso con antecedentes y un sistema que necesitaba un culpable. El verdadero autor siguió libre."},
+        {"voz": "ximena", "texto": "A partir de 1982, los asesinatos se multiplicaron en la región de Rostov y en otras ciudades. Sus víctimas fueron niños y niñas, adolescentes y mujeres jóvenes, muchas veces personas vulnerables. Los abordaba en estaciones de tren y de autobús, y los llevaba hacia zonas arboladas cerca de las vías. A los niños los atraía con golosinas, sellos o la promesa de ver un vídeo."},
+        {"voz": "ximena", "texto": "La policía tenía un problema de fondo. En 1994, la prensa recordaba que la Unión Soviética tenía poquísima experiencia con este tipo de criminal. Y en los años ochenta, los periódicos apenas informaban, así que la población recibió pocas advertencias."},
+        {"voz": "ximena", "texto": "En septiembre de 1984 lo detuvieron en una estación de Rostov por comportamiento sospechoso. Pero su grupo sanguíneo no coincidía con el de las muestras halladas en las víctimas, y quedó casi descartado. Lo condenaron por un robo en su trabajo y salió ese mismo año."},
+        {"voz": "alvaro", "texto": "Otra oportunidad perdida. Años después se supo la razón: padecía una rareza médica por la que su grupo sanguíneo no coincidía con el de sus fluidos. Una prueba bien hecha, mal interpretada, es peor que ninguna."},
+        {"voz": "ximena", "texto": "La investigación se convirtió en una de las mayores operaciones policiales de la historia soviética. La dirigía el detective Viktor Burakov. Participaron cientos de agentes, y se revisó a miles de sospechosos. Se la conoció como Lesopolosa, la franja de bosque junto a las vías."},
+        {"voz": "ximena", "texto": "Burakov hizo algo poco habitual en la Unión Soviética: consultó a un psiquiatra, Alexander Bukhanovsky. En 1985 elaboró uno de los primeros perfiles psicológicos de un criminal en el país. El retrato describía a alguien de apariencia normal, muy lejos del monstruo que imaginaba la gente."},
+        {"voz": "alvaro", "texto": "Esto lo subrayo. El perfil decía que el culpable podía ser un hombre casado, con trabajo y sin aspecto de peligro. Eso dificultaba la búsqueda, porque cualquiera podía serlo. Y facilitaba otra cosa: que nadie sospechara de un vecino."},
+        {"voz": "ximena", "texto": "En 1990, la policía llenó de agentes las estaciones de la zona. Y así llegamos al control de Donleskhoz, a aquel informe y a un nombre que alguien relacionó con el cuerpo hallado."},
+        {"voz": "ximena", "texto": "Los investigadores lo vigilaron durante días. Hasta que, el 20 de noviembre de 1990, lo detuvieron en Novocherkassk. Pero detenerlo no era lo mismo que probar nada."}
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una jaula en Rostov",
+      "tipo": "juicio",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. Una jaula en Rostov."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Andrei Chikatilo, detenido el 20 de noviembre de 1990 tras el control de Donleskhoz. Lo dejamos en una celda, sin haber admitido nada."},
+        {"voz": "ximena", "texto": "Durante días lo negó todo. Hasta que Bukhanovsky habló con él y le leyó el perfil que había redactado años atrás. Entonces, hacia finales de noviembre, empezó a confesar."},
+        {"voz": "ximena", "texto": "Antes del juicio lo examinó el Instituto Serbski de Moscú, a partir de agosto de 1991. Los médicos lo declararon apto para ser juzgado. El diagnóstico fue un trastorno de la personalidad, pero los expertos concluyeron que podía responder de sus actos."},
+        {"voz": "alvaro", "texto": "Aquí el perfil hizo su trabajo. No como prueba, sino como espejo: un hombre que se creía invisible se vio descrito en un papel. Es una hipótesis mía. Pero la confesión llegó justo después."},
+        {"voz": "ximena", "texto": "Confesó cincuenta y seis asesinatos. Los investigadores no conocían unos veinte de ellos. La policía revisó sus registros de trabajo y de viaje: había estado en cada ciudad cuando se cometió un crimen."},
+        {"voz": "ximena", "texto": "La mayoría de los crímenes ocurrieron en Rostov y Novocherkassk. Pero también hubo víctimas en Taskent, Zaporiyia y Sverdlovsk. Era un empleado que viajaba, y los viajes eran su coartada y su método."},
+        {"voz": "ximena", "texto": "El juicio se abrió en abril de 1992, en Rostov. Chikatilo se sentó en una jaula metálica, en parte para protegerlo de los familiares de las víctimas. Le acusaban de cincuenta y tres asesinatos. El expediente llenaba doscientos veintidós volúmenes."},
+        {"voz": "ximena", "texto": "La lectura de los cargos duró casi una semana. Familiares de algunas víctimas asistían a las sesiones. En una de ellas, el hermano de una víctima le lanzó un trozo de metal, y otros familiares lo protegieron de la rabia de la sala."},
+        {"voz": "alvaro", "texto": "Esa jaula decía algo. El país, que había ejecutado a un inocente por el primer crimen, tenía ahora que condenar al verdadero. Cada familia en la sala quería lo mismo. Algunas lo dijeron a gritos."},
+        {"voz": "ximena", "texto": "La defensa pidió la absolución y el fiscal, la pena de muerte. El día del veredicto, lo sacaron de la sala varias veces porque no dejaba de gritar. Su mujer, que dijo no saber nada, se había ido a Ucrania tras recibir amenazas."},
+        {"voz": "ximena", "texto": "El 14 de octubre de 1992, el juez Leonid Akubzhanov lo declaró culpable de cincuenta y dos asesinatos: veintiún chicos, catorce chicas y diecisiete mujeres jóvenes. Del otro, lo absolvió por falta de pruebas. Al día siguiente lo condenó a muerte."},
+        {"voz": "ximena", "texto": "El Tribunal Supremo de Rusia, en 1993, rechazó su recurso, pero consideró que no estaban suficientemente probadas nueve de las muertes. Entre ellas, la de aquella niña de Shakhty. Mantuvo la condena por las demás."},
+        {"voz": "alvaro", "texto": "Hago cuentas. Cincuenta y seis confesados, cincuenta y dos condenados, nueve que el Supremo no sostuvo. Cada cifra responde a una pregunta distinta. Ninguna le devuelve un hijo a una madre."},
+        {"voz": "ximena", "texto": "Boris Yeltsin rechazó su petición de indulto. Chikatilo fue ejecutado el 14 de febrero de 1994, en una prisión del sur de Rusia. Años después, Rusia dejó de aplicar la pena de muerte."},
+        {"voz": "ximena", "texto": "El error del primer crimen se reconoció. Aleksandr Kravchenko recibió un perdón póstumo. Pero eso no le devolvió la vida."},
+        {"voz": "alvaro", "texto": "Su caso es el argumento más citado contra la pena de muerte. Un sistema con prisa por tener un culpable encontró uno, y se equivocó. Lo digo sin acusar a nadie en concreto. Lo que consta es el resultado: doce años entre el primer crimen y su detención."},
+        {"voz": "ximena", "texto": "La última víctima fue Svetlana Korostik, de poco más de veinte años. Su muerte, en noviembre de 1990, fue la que permitió cerrar el cerco."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Svetlana Korostik. A chicos y chicas que solo esperaban un tren, y a mujeres jóvenes. Y a las familias que esperaron más de una década."},
+        {"voz": "ximena", "texto": "Fin del expediente de Andrei Chikatilo. Archivo de TRUE CRIME CALENDAR."}
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes principales: Wikipedia (en), UPI (18/4/1992, 14/10/1992, 15/2/1994), Time (octubre de 1992), Washington Post y Britannica (solo vistos en el buscador). DISCREPANCIAS. 1) La ficha dice que la investigación fue «una de las mayores de la URSS»; consta (UPI 1992): 550 agentes y miles de sospechosos; el v2 hablaba de «cientos de miles de personas» y no se ha podido contrastar; se quitó. 2) Víctima del primer asesinato: Wikipedia, 9 años; UPI (1992), 8 años. El guion dice «nueve años» y no da el nombre (era menor y no consta que la familia haya hablado en público; se cumple la regla común). 3) Primera detención: la ficha y el v2 hablan de 1984 en una estación de Rostov; Wikipedia: septiembre de 1984, condena por robo, liberado el 12 de diciembre; UPI dice que la policía lo detuvo «dos veces» antes. 4) La ficha dice que «ejecutaron a un inocente»: Kravchenko, condenado a muerte en 1979, pena conmutada a 15 años en 1980, vuelto a juzgar y ejecutado en julio de 1983 (Wikipedia); recibió un perdón póstumo (Wikipedia); no hemos encontrado fecha ni segunda fuente de la rehabilitación. 5) Veredicto: Wikipedia da 14-15 de octubre de 1992; UPI, condena el miércoles 14; sentencia el 15. Wikipedia añade 86 años de cárcel por los otros delitos (no se menciona). 6) Absuelto del asesinato de una mujer joven por falta de pruebas (Wikipedia); no se da el nombre. 7) El Supremo ruso (verano de 1993) consideró no probadas nueve muertes (Wikipedia); sin segunda fuente. 8) Lugar de la ejecución: Wikipedia, Novocherkassk; UPI, «una prisión cerca de Rostov»; Britannica, Moscú. El guion dice «una prisión del sur de Rusia». Fecha: 14 de febrero de 1994 (Wikipedia, UPI). 9) Fecha del control en Donleskhoz: 6 de noviembre de 1990 (v2, Wikipedia); el v2 hablaba de un dedo vendado y manchas, no verificados y quitados. UPI dice que el informe «estuvo semanas sobre una mesa». 10) El v2 decía que «oficialmente, los asesinos en serie se consideraban un fenómeno occidental»: no se ha podido verificar; se reemplaza por lo que dice UPI (1994: poca experiencia). 11) La operación: Wikipedia la llama «Forest Path»; en ruso, Lesopolosa significa franja de bosque; el guion usa Lesopolosa. 12) Confesión: cincuenta y seis (Wikipedia), 55 (UPI 1992, que también dice que admitió 53); policía había vinculado 38 y él confesó 36 de esos (Wikipedia); el guion dice 56 y «unos veinte» desconocidos (UPI 1992: «20 crímenes desconocidos»). 13) Quitado del v2: el vínculo con Pichushkin (tiene su propio expediente). 14) Nombres de víctimas: solo Svetlana Korostik (adulta, nombre público en UPI y Wikipedia). 15) Por prudencia no se describen mutilaciones, caníbalismo ni métodos."
 }

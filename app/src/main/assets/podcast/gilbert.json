@@ -1,131 +1,190 @@
 {
   "id": "gilbert",
-  "titulo": "Cuando los números hablan",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Kristen Gilbert": "Krísten Guílbert",
     "Gilbert": "Guílbert",
     "Northampton": "Norzámpton",
     "Massachusetts": "Masachúsets",
+    "Leeds": "Lids",
+    "Springfield": "Spríngfild",
+    "Frank Bertrand": "Frank Bértran",
     "Stanley Jagodowski": "Stánli Yagodóuski",
     "Henry Hudon": "Jénri Jiúdon",
     "Kenneth Cutting": "Kéneth Cáting",
     "Edward Skwira": "Éduard Skuíra",
+    "Carswell": "Cársuel",
+    "Texas": "Téjas",
     "Niels Högel": "Nils Jéguel"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Northampton, Massachusetts, principios de 1996. Un grupo de enfermeras del hospital de veteranos pide hablar con sus superiores. Traen una sospecha difícil de pronunciar en voz alta, porque señala a una de las suyas."
+      "n": 1,
+      "titulo": "Ampollas que faltaban",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Kristen Gilbert, el ángel de la muerte de Massachusetts. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Ampollas que faltaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Northampton, Massachusetts, principios de 1996. En el hospital de veteranos de Leeds, tres enfermeras piden hablar con sus superiores. Traen una sospecha difícil de decir en voz alta, porque señala a una compañera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su planta, la planta C, las emergencias cardíacas se han multiplicado. Muchas ocurren en los turnos de una misma enfermera. Y en los armarios faltan ampollas de epinefrina, un fármaco que acelera el corazón y que se usa en las reanimaciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto lo que más me inquieta. Quienes dieron la alarma no fueron los sistemas de control del hospital. Fueron compañeras. Habían visto el patrón antes de que cualquier informe lo recogiera. Y hablaron sabiendo que señalaban a una de las suyas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kristen Gilbert había nacido en 1967 en Massachusetts. Trabajaba en el centro médico de veteranos de Northampton desde 1989, casi siempre en cuidados intensivos. Tenía dos hijos y estaba casada. Sus compañeros la veían competente y rápida en las emergencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alguna vez, entre colegas, bromeaban con llamarla el ángel de la muerte, porque en sus turnos había muchas paradas cardíacas. Era una broma, hasta que dejó de serlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que tiene de insidioso. En una planta de enfermos graves, mueren pacientes. Nadie se extraña. Una coincidencia no es una prueba, y la tentación de no mirar es grande."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1995 los casos aumentaron de forma llamativa. Cuando se hizo el recuento más tarde, los fiscales calcularon que Gilbert había estado de turno en cerca de la mitad de las muertes ocurridas en esa planta durante sus siete años allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los fiscales, la tasa de muertes en su turno de tarde se triplicó después de que ella pasara a ese turno, en 1991, y volvió a niveles anteriores cuando cambió al de noche. Y según el Boston Globe, el enfermero Frank Bertrand reanimó a un paciente al que, según la acusación, Gilbert había manipulado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las ampollas de epinefrina, una sustancia concentrada que no se usaba de rutina en esa planta, desaparecían de los armarios. Según los análisis posteriores, el hospital solo pudo justificar setenta y cinco de las ciento veinticinco ampollas dispensadas en el periodo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me detengo en el dato. La epinefrina es una sustancia que el cuerpo produce por sí mismo. Eso la hace muy difícil de rastrear como prueba. Por eso los números pesaban tanto: faltaban el arma y el testigo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En febrero de 1996, Gilbert dejó el hospital. Se abrió una investigación federal, porque se trataba de un hospital que depende del gobierno de Estados Unidos. Los investigadores revisaron historiales, recuentos de fármacos y turnos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo año ocurrió algo que cambió la forma de ver el caso. Alguien llamó al hospital con una falsa amenaza de bomba. Según la acusación, era Gilbert, que quería vengarse de compañeros y de un antiguo novio que habían colaborado con los investigadores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue juzgada por la amenaza de bomba en enero de 1998 y la condenaron en abril. Aún no había cargos por asesinato. Pero un jurado ya la había declarado culpable de aquella llamada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un buen ejemplo de cómo se construye un caso sin cuerpo del delito claro. Primero, un delito pequeño que se puede probar. Después, los demás. La amenaza de bomba no demostraba nada sobre los pacientes. Pero sí cambiaba cómo se miraba a quien la hizo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de noviembre de 1998, un gran jurado federal la acusó de matar a cuatro pacientes y de intentar matar a otros tres. Todos eran veteranos del ejército, hombres ingresados para recibir cuidados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaban un juicio, una estadística discutida y la decisión de un jurado sobre la pena de muerte. En la cinta dos: un jurado en Springfield."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "En su planta, las emergencias cardíacas se han disparado. Muchas ocurren en los turnos de una misma compañera. Y en el almacén faltan ampollas de epinefrina, un fármaco que acelera el corazón y que se usa en las reanimaciones."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Una compañera? Eso tuvo que ser durísimo de denunciar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Lo fue. Pero lo hicieron. Fueron ellas, y no ningún sistema de control, quienes dieron la voz de alarma. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Kristen Gilbert, el ángel de la muerte de Massachusetts."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Kristen Gilbert nació en 1967 en Massachusetts. Estudió enfermería y, a finales de los ochenta, empezó a trabajar en el centro médico de veteranos de Northampton, un hospital que depende del gobierno federal. Estaba casada y tenía dos hijos pequeños."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sus compañeros la consideraban competente y rápida en las emergencias. Era de las primeras en llegar cuando sonaba una alarma de parada cardíaca. Con el tiempo, esa rapidez empezó a resultar inquietante."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1995 y 1996, el número de muertes en su planta creció de forma llamativa. Y la mayoría coincidía con sus turnos. En aquella planta había pacientes mayores, muchos con enfermedades crónicas, y que alguno muriera no extrañaba a casi nadie."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y bastaba con eso para acusarla?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No, y esa es la clave del caso. Una coincidencia no es una prueba. Los investigadores necesitaban mucho más que una sospecha, por fundada que pareciera."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La investigación federal fue larga. Se exhumaron cuerpos de pacientes fallecidos y se analizaron en busca de epinefrina. Al mismo tiempo, un estadístico estudió los turnos y las muertes de varios años."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su conclusión fue contundente: era muy improbable que aquella acumulación de muertes en sus turnos fuera fruto del azar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Había además una dificultad añadida. La epinefrina es una sustancia que el propio cuerpo produce, lo que hacía muy complicado demostrar que alguien la había administrado de forma deliberada."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "O sea, que la prueba podía confundirse con algo natural."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Por eso los análisis de laboratorio, por sí solos, no bastaban. Había que sumar todas las piezas: los turnos, los fármacos que faltaban y los testimonios."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y mientras tanto, ¿ella seguía trabajando allí?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. Dejó el hospital en 1996, cuando empezaron las sospechas. Ese mismo año telefoneó al centro con una falsa amenaza de bomba, un delito por el que fue condenada antes de que llegara el juicio por asesinato."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Otro testimonio pesó mucho: el de un hombre con quien había mantenido una relación, empleado del propio hospital. Declaró que ella le había confesado haber provocado muertes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El juicio llegó en otoño de 2000, ante un tribunal federal. La acusación sostuvo que provocaba las crisis para lucirse en las reanimaciones y llamar la atención de aquel compañero."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué papel jugó la estadística en el juicio?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Un papel central, y discutido. El tribunal debatió hasta qué punto podía presentarse ante el jurado, porque una probabilidad no demuestra quién hizo algo. El caso se estudia hoy en cursos de estadística y de derecho de todo el mundo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En marzo de 2001, el jurado la declaró culpable de cuatro asesinatos y de dos intentos de asesinato. Las víctimas eran veteranos del ejército ingresados en el hospital."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La fiscalía pidió la pena de muerte, pero el jurado no la impuso. Fue condenada a cadena perpetua sin posibilidad de libertad condicional. Massachusetts no tiene pena de muerte, pero el caso se juzgó en un tribunal federal porque los hechos ocurrieron en un hospital federal."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Hoy, ¿sigue en prisión?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sí. Cumple cadena perpetua en una prisión federal."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los cuatro veteranos por cuya muerte fue condenada son Stanley Jagodowski, Henry Hudon, Kenneth Cutting y Edward Skwira. Hombres que habían servido a su país y que estaban ingresados para recibir cuidados."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso dejó dos lecciones. La primera, el valor de unas compañeras que se atrevieron a hablar, sabiendo lo que se jugaban. La segunda, la importancia de controlar los fármacos y de vigilar los patrones de mortalidad en los hospitales."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, su expediente comparte etiqueta con otros ángeles de la muerte, sanitarios que traicionaron la confianza de sus pacientes, como el enfermero alemán Niels Högel. Un patrón que, por desgracia, se ha repetido en distintos países. Hoy muchos hospitales analizan de forma sistemática las muertes inesperadas y el uso de fármacos de riesgo, en parte por casos como este."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Kristen Gilbert. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un jurado en Springfield",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un jurado en Springfield."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Kristen Gilbert. Octubre de 2000. En un tribunal federal de Springfield, Massachusetts, empieza el juicio. La fiscalía pide la pena de muerte, si hay condena por asesinato capital."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa sostenía que las muertes eran naturales. No había testigos presenciales ni confesión. La acusación se apoyaba en las ampollas que faltaban, en los turnos y en el testimonio de las enfermeras que habían visto las emergencias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo difícil del caso. No hay una escena del crimen que enseñar. Hay un patrón, un fármaco desaparecido y una serie de pacientes. Un jurado tiene que decidir si todo eso, junto, basta más allá de toda duda razonable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La estadística tuvo un papel en el debate. Los fiscales calculaban una probabilidad entre cien millones de que la coincidencia de sus turnos fuera azar. Cuánto de eso pudo oír el jurado fue discutido, porque una probabilidad no dice quién hizo algo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa sostuvo que las estadísticas inducían a error. Es una objeción seria en abstracto: si buscas patrones entre cientos de muertes, siempre habrá algún turno con más que otros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso la estadística, por sí sola, no condena a nadie. Fue una pieza de un conjunto: las ampollas desaparecidas, las emergencias provocadas y el testimonio de quienes estaban allí. Es lo que conviene recordar cuando se cita este caso en los manuales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la acusación, el móvil era sentirse importante. Gilbert provocaba las emergencias para lucirse en las reanimaciones y para llamar la atención de un compañero, un policía del hospital con quien tenía una relación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es la hipótesis de la fiscalía, apoyada por un psiquiatra. Pero la psicología de este caso es difícil de probar. El jurado no tenía que decidir por qué, sino si lo hizo. Y esa distinción importa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 2001, el jurado la declaró culpable de tres asesinatos en primer grado, uno en segundo grado y dos intentos de asesinato. Las víctimas eran Stanley Jagodowski, Henry Hudon, Kenneth Cutting y Edward Skwira."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran veteranos, hombres que habían servido a su país. La madre y la hermana de Henry Hudon, según el Boston Globe, estaban convencidas de que Gilbert había matado a su hijo y hermano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía pidió la pena de muerte. El jurado no la recomendó. Gilbert fue condenada a cuatro cadenas perpetuas consecutivas, sin libertad condicional, más veinte años. Massachusetts no tiene pena capital, pero el caso se juzgó en un tribunal federal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que olvidamos: que no hubiera pena de muerte no fue un perdón. Fue una decisión del jurado, que sopesó lo que había. Y deja a las familias con una condena que dura toda la vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cumple su condena en el centro médico federal de Carswell, en Texas. En 2003 retiró su recurso federal para pedir un nuevo juicio. Ella siempre mantuvo que era inocente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los fiscales sospechaban que había causado más muertes, pero solo cuatro quedaron probadas ante un tribunal. Se habló de más muertes en aquella planta, pero son sospechas. Ninguna otra se juzgó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los casos de enfermeros y médicos asesinos, como el de Niels Högel en Alemania, comparten un patrón. Un profesional de confianza, una planta de enfermos graves y una cadena de coincidencias que nadie une a tiempo. Controlar los fármacos y vigilar la mortalidad ayuda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Familias de pacientes fallecidos presentaron además demandas civiles contra el gobierno federal. Una de ellas llegó al Tribunal de Apelación del Primer Circuito, que la resolvió en 2004."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó dos lecciones. La primera, el valor de unas compañeras que se atrevieron a hablar. La segunda, que un hospital debe vigilar sus propios números, y atender a quien los cuestiona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y dejó cuatro nombres. Cuatro veteranos que estaban ingresados para curarse, y que confiaban en quienes los cuidaban. Sus familias merecen que se los recuerde por lo que fueron, y no solo por cómo murieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Kristen Gilbert. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha dice que la estadística fue clave en el juicio. Según varias fuentes, el juez limitó la presentación del análisis estadístico ante el jurado (pesó sobre todo en la instrucción); el guion lo describe como «central y discutido». Revisar si se prefiere otra formulación."
+  "nota_revision": "Fuentes: Wikipedia en inglés, Boston Globe (serie del 8/10/2000), sentencia del Tribunal de Apelación del Primer Circuito (Cascone v. United States, 2004) y prensa. DISCREPANCIAS CON EL V2/FICHA: (1) El v2 decía «un hombre con quien había mantenido una relación declaró que ella le había confesado haber provocado muertes»: no he encontrado fuente para la confesión; las fuentes (Wikipedia, Primer Circuito) hablan de un policía del hospital con quien tenía una relación y de la amenaza de bomba contra compañeros y un antiguo novio. Se quitó la confesión. (2) El v2 dice que la condenaron a «cuatro asesinatos y dos intentos»: Wikipedia aclara tres asesinatos en primer grado y uno en segundo, más dos intentos (la acusación hablaba de tres intentos). (3) La estadística: el v2 dice que tuvo un «papel central» en el juicio; el Boston Globe dice que los fiscales calculaban una probabilidad de 1 entre 100 millones; una nota docente de Berkeley indica que la prueba estadística no se presentó al jurado; no he podido verificarlo en la sentencia, así que el guion solo dice que su peso ante el jurado fue discutido. (4) Cifras: el 'ciento veinticinco / setenta y cinco' ampollas viene del Primer Circuito (resultado de búsqueda); 'cerca de la mitad de las muertes' y '1 entre 100 millones', de los fiscales según el Globe. (5) El v2 afirmaba que dejó el hospital en 1996 «cuando empezaron las sospechas»; el Primer Circuito dice febrero de 1996 y que la investigación federal empezó ese mes. (6) Condenas: amenaza de bomba, enero-abril de 1998; acusación por asesinato, 19/11/1998; juicio desde el 16/10/2000; condena en marzo de 2001 (Wikipedia); cadenas perpetuas: cuatro consecutivas más 20 años. (7) La ficha dice 1995–1996 (periodo): correcto. Respeto: se nombran los cuatro veteranos (adultos, nombres públicos en la sentencia); se omite el método de inyección. Nombre de nacimiento: Strickland (Wikipedia), no incluido."
 }

@@ -1,128 +1,207 @@
 {
   "id": "deangelo",
-  "titulo": "El árbol genealógico",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Joseph James DeAngelo": "Yósef Yéims Diányelo",
     "DeAngelo": "Diányelo",
     "Golden State Killer": "Góulden Stéit Kíler",
-    "Golden State": "Góulden Stéit",
     "East Area Rapist": "Íst Érea Réipist",
     "Original Night Stalker": "Oríyinal Náit Stóker",
+    "Visalia Ransacker": "Visélia Ránsaker",
+    "Visalia": "Visélia",
+    "Claude Snelling": "Clod Snéling",
     "Michelle McNamara": "Michél Macnamára",
     "McNamara": "Macnamára",
+    "I'll Be Gone in the Dark": "Ail Bi Gon in de Dark",
     "Paul Holes": "Pol Jóuls",
+    "Barbara Rae-Venter": "Bárbara Rei Vénter",
+    "GEDmatch": "Yed Match",
     "Citrus Heights": "Sítrus Jáits",
+    "Rancho Cordova": "Rancho Córdova",
+    "Brian y Katie Maggiore": "Bráian y Kéiti Mayóre",
+    "Goleta": "Goléta",
     "Dana Point": "Déina Póint",
     "Irvine": "Érvain",
-    "Brian y Katie Maggiore": "Bráian y Kéiti Mayóre",
-    "Janelle Cruz": "Yanél Cruz"
+    "Janelle Cruz": "Yanél Cruz",
+    "Exeter": "Éxeter",
+    "Auburn": "Óbern",
+    "Sacramento": "Sacraménto",
+    "Patton Oswalt": "Pátton Ósualt",
+    "Corcoran": "Corcóran",
+    "FBI": "efe be ái"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Primavera de 2018, cerca de Sacramento, en California. Un hombre de setenta y dos años aparca su coche frente a una tienda y entra a comprar. Mientras tanto, unos agentes de paisano se acercan al vehículo y toman una muestra de la manilla de la puerta."
+      "n": 1,
+      "titulo": "La manilla de un coche",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Joseph James DeAngelo, el asesino del Golden State. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La manilla de un coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "California, 18 de abril de 2018. Unos investigadores recogen una muestra de la manilla de la puerta de un coche aparcado. Otra, de un pañuelo de papel tirado en la basura de la calle. Son muestras que cualquiera abandona. Pero llevan cuarenta años esperando algo así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El coche es de un hombre de setenta y dos años, mecánico jubilado, que vive en Citrus Heights, junto a Sacramento. Seis días después, el 24 de abril, lo detienen en su casa. Se llama Joseph James DeAngelo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto el detalle que me inquieta. Un hombre sin antecedentes recientes, casado y con hijas, que vivía cerca de donde ocurrieron muchos de los ataques. Cuarenta años buscando a un monstruo, y vivía en un barrio tranquilo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "DeAngelo había nacido el 8 de noviembre de 1945 en Bath, Nueva York. Sirvió en la Marina durante la guerra de Vietnam. Después estudió criminología y entró en la policía. Fue agente en Exeter, de 1973 a 1976, y en Auburn, hasta 1979."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En julio de 1979 lo detuvieron por robar en una tienda. Lo despidieron en octubre. Para entonces, el miedo ya se había extendido por California, y los investigadores buscaban a un hombre al que no sabían ponerle nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo había empezado en Visalia, en 1974, con una serie de robos en casas. Los investigadores lo llamaron el Visalia Ransacker. En 1975 murió asesinado Claude Snelling, en su casa de Visalia. Fue el primero de los trece asesinatos que hoy se le atribuyen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1976 y 1979 aparece otro nombre en los periódicos: el East Area Rapist. Un hombre que vigila las casas de la zona de Sacramento y entra por la noche. Cometerá más de cincuenta agresiones sexuales. Las víctimas son mujeres, a menudo con sus parejas dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que me cuesta de este expediente. Eran decenas de supervivientes con una misma descripción, y cada policía tenía un trozo. Jurisdicciones distintas, informes distintos, nombres distintos. Un solo hombre, repartido en varios archivos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de febrero de 1978, en Rancho Cordova, los investigadores encuentran muertos a Brian y Katie Maggiore, un matrimonio joven que paseaba a su perro. Según la investigación, el asesino se cruzó con ellos y los mató. Son los primeros asesinatos de la etapa de Sacramento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A partir de 1979 el rastro baja al sur. Goleta, Ventura, Dana Point, Irvine. Parejas y mujeres asesinadas en sus casas. Allí lo llamaron Original Night Stalker. El último crimen conocido ocurrió en mayo de 1986: Janelle Cruz, de dieciocho años, en Irvine. Y después, silencio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cosa más. El caso lo llevaban agencias que no compartían datos con facilidad. Fue la ciencia, y no la policía, la que unió los archivos: el ADN de 2001. Cada caso se había investigado por separado, y eso retrasó años la respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2001, el análisis de ADN demostró lo que nadie había podido probar. El violador del norte y el asesino del sur eran la misma persona. Desde entonces se usó un solo acrónimo, y después una sola pregunta: ¿quién era?"
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tenían un perfil genético y ningún nombre con el que compararlo. En 2016 el FBI ofreció cincuenta mil dólares de recompensa. Y volvieron a mirar los casos. Eso es lo que un investigador tozudo aprende pronto: los casos fríos no se cierran, se aplazan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una de las personas que no los dejó caer fue la escritora Michelle McNamara. Escribió sobre el caso, popularizó el apodo de Golden State Killer y conectó a supervivientes, aficionados y policías. Murió el 21 de abril de 2016, sin saber quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su marido, el actor Patton Oswalt, y otros colaboradores terminaron el libro, que se publicó después de su muerte. Hoy su nombre está unido al apodo del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su libro, I'll Be Gone in the Dark, quedó casi terminado y se publicó el 27 de febrero de 2018. Dos meses después, el caso se resolvía. Pero ¿cómo? Para eso no sirvieron las huellas ni los testigos. Hizo falta algo distinto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una técnica que entonces casi nadie conocía. En la cinta dos: un árbol genealógico, una confesión en un tribunal y las voces de quienes llevaban cuarenta años esperando."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Días después, el laboratorio da el resultado, y los investigadores apenas pueden creerlo. Ese ADN apunta a un criminal al que California lleva más de cuarenta años buscando."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Cuarenta años. ¿Y cómo llegaron hasta él después de tanto tiempo?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Gracias a una técnica que entonces casi nadie conocía. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Joseph James DeAngelo, el asesino del Golden State."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en 1945 en el estado de Nueva York. Sirvió en la Marina durante la guerra de Vietnam y, en los años setenta, trabajó como policía en dos pequeñas localidades de California."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1979 lo despidieron del cuerpo tras sorprenderlo robando en una tienda. Para entonces ya llevaba años con una doble vida que nadie a su alrededor sospechaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A mediados de los setenta, una oleada de asaltos nocturnos aterrorizó el área de Sacramento. Un desconocido entraba en las casas de madrugada, después de haberlas vigilado. Cometió decenas de agresiones sexuales. La prensa lo llamó East Area Rapist."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1978, en Rancho Cordova, un joven matrimonio que paseaba a su perro fue asesinado a tiros. Eran Brian y Katie Maggiore. Todo apunta a que se cruzaron con él por casualidad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Después, los ataques se desplazaron al sur de California: Goleta, Ventura, Dana Point, Irvine. Parejas y mujeres asesinadas en sus casas. Allí lo llamaron Original Night Stalker. El último crimen conocido fue en 1986: Janelle Cruz, de dieciocho años, en Irvine. Y luego, silencio."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y por qué tardaron tanto en relacionarlo todo?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Eran jurisdicciones distintas, apodos distintos y pistas dispersas. Hasta 2001 los análisis de ADN no demostraron que el violador del norte y el asesino del sur eran la misma persona. Pero no había un nombre con el que comparar ese perfil."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Durante décadas, el caso se mantuvo vivo gracias a investigadores obstinados, como Paul Holes, y a la escritora Michelle McNamara, que popularizó el apodo de Golden State Killer y conectó a víctimas, aficionados y policías."
-    },
-    {
-      "voz": "ximena",
-      "texto": "McNamara murió en 2016 sin ver resuelto el caso. Su libro se publicó en 2018, apenas dos meses antes de la detención."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y entonces llega la técnica nueva."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La genealogía genética. Los investigadores subieron el perfil del asesino a una base de datos pública de genealogía, de las que usan los aficionados para encontrar a sus parientes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No encontraron al asesino, sino a primos lejanos. A partir de ellos, con registros civiles y árboles familiares, reconstruyeron una familia entera hasta llegar a un puñado de candidatos. Uno de ellos vivía en Citrus Heights y había sido policía."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Era Joseph James DeAngelo, un mecánico jubilado que llevaba décadas viviendo en un barrio tranquilo de las afueras de Sacramento, muy cerca de donde había empezado todo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras la muestra de la manilla y una segunda prueba, lo detuvieron en su casa el 24 de abril de 2018."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un expolicía. Quizá una de las ironías más amargas de todo el caso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En junio de 2020, a cambio de evitar la pena de muerte, se declaró culpable de trece asesinatos y de numerosos secuestros. También admitió decenas de agresiones sexuales que ya no podían juzgarse porque habían prescrito."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En agosto de 2020 fue condenado a varias cadenas perpetuas consecutivas, sin posibilidad de libertad condicional. Durante las audiencias, decenas de supervivientes y familiares hablaron ante él, algunos después de más de cuarenta años de silencio."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Después de tantas décadas, poder hablar tuvo que ser muy importante."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Lo fue. Y el caso cambió la investigación criminal. Tras su detención, la genealogía genética se ha usado para resolver cientos de casos antiguos y para devolver el nombre a personas que llevaban décadas sin identificar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "También abrió un debate necesario sobre la privacidad: qué uso puede hacer la policía de los datos genéticos que los ciudadanos comparten para buscar a sus familias, y quién decide los límites. Los usuarios de aquella base de datos no sabían que la policía podía consultarla."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero el centro de esta historia son las víctimas. Trece personas asesinadas y decenas de supervivientes que, durante años, no supieron quién había entrado en sus casas aquellas noches."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Joseph James DeAngelo. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un árbol genealógico",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un árbol genealógico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Joseph James DeAngelo. Diciembre de 2017. Los investigadores tienen el ADN de un agresor, extraído de pruebas de un caso de Ventura. Y deciden hacer algo que nunca se había hecho así en un caso de esta dimensión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Suben ese perfil a GEDmatch, una base de datos pública en la que los aficionados a la genealogía comparan su ADN para encontrar parientes. Entre los investigadores estaban Paul Holes y la genealogista Barbara Rae-Venter."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No buscaban al asesino. Buscaban a sus primos. A partir de coincidencias lejanas, con registros civiles y árboles familiares, reconstruyeron familias enteras. Fue un trabajo de meses. Y los candidatos fueron quedando fuera, uno a uno, por edad y por lugar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al final quedó un nombre: DeAngelo. Faltaba confirmarlo. Por eso, el 18 de abril de 2018, recogieron las muestras de su coche y de su basura. El laboratorio dijo que coincidían con el ADN del caso. El 24 de abril lo detuvieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al principio le imputaron ocho asesinatos. Después se añadieron más, entre ellos el de Snelling, en 1975. Las violaciones y los robos no se podían juzgar porque los plazos legales habían prescrito. La fiscalía iba a por los asesinatos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una ironía amarga. Los supervivientes no podían ver a su agresor juzgado por lo que les hizo a ellos. Por eso, lo que siguió me parece tan importante. Y lo cuento con respeto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 29 de junio de 2020, DeAngelo se declaró culpable de trece asesinatos y de trece secuestros. A cambio, se descartó la pena de muerte. También reconoció, sin que pudieran juzgarse, decenas de delitos más cometidos contra otras víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 21 de agosto de 2020 fue condenado a cadenas perpetuas consecutivas, sin posibilidad de libertad condicional. Durante las audiencias, decenas de supervivientes y de familiares hablaron ante él. Algunos, después de más de cuarenta años de silencio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escuchar a alguien a la cara después de cuarenta años, cuando durante tanto tiempo ni siquiera supiste quién era. Yo no sé lo que eso significa. Pero creo que es lo más cercano a la justicia que este caso podía dar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "DeAngelo pidió perdón al final, en unas pocas palabras. Cumple su condena en una prisión estatal de California, en Corcoran."
+        },
+        {
+          "voz": "ximena",
+          "texto": "DeAngelo tenía setenta y cuatro años cuando le leyeron la sentencia. Habían pasado cuarenta y cinco años desde el primer crimen que se le atribuye, el de 1975, y treinta y cuatro desde el último, el de 1986."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esas cifras dan vértigo. Durante todo ese tiempo, una persona pudo vivir, trabajar y criar a su familia sin que nada la delatara. No se resolvió por intuición, sino por paciencia, por ciencia y por un cambio en las reglas del juego."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso cambió la investigación criminal. La genealogía genética se ha usado después para resolver muchos casos antiguos y para devolver nombre a personas sin identificar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según ABC News, fue la primera detención pública lograda con esta técnica. Desde entonces se ha identificado de la misma manera a más de ciento cincuenta sospechosos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con el acuerdo, DeAngelo admitió además ciento sesenta y un delitos no imputados, contra sesenta y una víctimas, según la nota de la fiscalía de Contra Costa. Eran hechos que ya no podían juzgarse, pero que quedaron reconocidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "También abre un debate necesario. Los usuarios de aquella base de datos no sabían que la policía podría consultarla. La técnica es poderosa. Los límites los tiene que fijar la sociedad, no el entusiasmo del momento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero dejar una nota de prudencia. Una técnica así exige reglas claras: quién consulta qué base de datos, con qué autorización y con qué límites. El caso de 2018 abrió esa discusión. Y sigue abierta, como debe ser."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el centro de esta historia son ellas y ellos. Trece personas asesinadas, entre ellas Claude Snelling, Brian y Katie Maggiore, y Janelle Cruz. Y decenas de supervivientes que no supieron durante años quién había entrado en sus casas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Joseph James DeAngelo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes: Wikipedia en inglés (Joseph James DeAngelo y Michelle McNamara), ABC News (cronología), NPR, resumen de la fiscalía de Contra Costa (nota de prensa del 29/6/2020, no abierta por bloqueo del servidor, confirmada en buscador). DISCREPANCIAS CON EL V2/FICHA: (1) El v2 abre con DeAngelo «aparcando frente a una tienda»: no consta en Wikipedia; solo que se tomó una muestra de la manilla del coche y otra de la basura el 18/4/2018. Se quitó la tienda. (2) El v2 decía «dos pequeñas localidades» (Exeter 1973-76 y Auburn 1976-79: correcto) y que fue despedido «en 1979»: detenido en julio de 1979, despedido en octubre. (3) El v2 decía que los Maggiore fueron asesinados en 1978 «sin relación previa»; Wikipedia da el 2/2/1978, ambos disparos; no se detalla método. (4) El v2 afirmaba «trece asesinatos»; coincide, pero el primero es el de Claude Snelling, en Visalia, 1975 (septiembre, Wikipedia; ABC dice septiembre de 1975), que el v2 omitía. (5) El v2 decía «subieron el perfil a una base de datos pública»; Wikipedia nombra GEDmatch (diciembre de 2017); ABC no la nombra. (6) Condena: Wikipedia da 13 cadenas perpetuas consecutivas más 8 años; CNN (resultado de búsqueda) dice 11 consecutivas más otra y 8 años; el guion dice solo «cadenas perpetuas consecutivas». (7) Secuestros: la fiscalía de Contra Costa habla de 13 secuestros con robo; CNN/NPR hablan de cargos relacionados con violación en el resumen del acuerdo; el guion dice «trece secuestros». (8) El v2 dice que «McNamara murió en 2016 sin ver resuelto el caso»: correcto (21/4/2016, causa accidental). (9) La ficha dice 1974–1986: correcto (Visalia, 1974). (10) Wikipedia dice que lo detuvieron en su casa de Sacramento; la ficha y el guion dicen Citrus Heights, que pertenece a la zona. (11) Cifras de agresiones: Wikipedia «más de 50 violaciones y más de 220 robos»; el guion dice «más de cincuenta agresiones sexuales». La fiscalía añade 161 delitos no imputados con 61 víctimas (resumen de búsqueda), no se cita. Respeto: no se describen los crímenes; solo se nombran víctimas adultas con nombre público."
 }

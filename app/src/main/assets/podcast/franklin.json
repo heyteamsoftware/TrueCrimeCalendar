@@ -1,6 +1,6 @@
 {
   "id": "franklin",
-  "titulo": "Un trozo de pizza",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Lonnie David Franklin Jr.": "Lóni Déivid Fránklin Yúnior",
@@ -9,36 +9,63 @@
     "Grim Sleeper": "Grim Slíper",
     "South Los Angeles": "Sáuz Los Ányeles",
     "LA Weekly": "Ele A Uíkli",
-    "Christine Pelisek": "Cristín Pélisec",
     "Enietra Washington": "Eniétra Uáshington",
-    "Christopher": "Crístofer",
-    "San Quentin": "San Cuéntin"
-  },
-  "bloques": [
-    { "voz": "ximena", "texto": "Verano de 2010. Una pizzería en el sur de California. Un camarero recoge una mesa: platos, cubiertos, servilletas, un trozo de pizza a medio comer. Nada extraño. Salvo que ese camarero es un policía de incógnito, y lo que acaba de recoger va directo a un laboratorio." },
-    { "voz": "ximena", "texto": "Poco después, el resultado confirma lo que los investigadores llevaban más de veinte años buscando. El cliente de aquella mesa es un hombre de cincuenta y siete años, un abuelo conocido en su barrio." },
-    { "voz": "alvaro", "texto": "¿Más de veinte años? ¿Desde cuándo duraba esta búsqueda?" },
-    { "voz": "ximena", "texto": "Desde mediados de los ochenta. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Lonnie David Franklin Jr., al que la prensa llamó Grim Sleeper, algo así como el siniestro durmiente." },
-    { "voz": "ximena", "texto": "Franklin nació en 1952 en Los Ángeles. Tras pasar por el Ejército, trabajó durante años para el Ayuntamiento, primero en la recogida de basuras y después como mecánico en un garaje municipal. En su barrio de South Los Angeles era un vecino conocido." },
-    { "voz": "ximena", "texto": "Entre 1985 y 1988, varias mujeres jóvenes aparecieron asesinadas en callejones de esa zona de la ciudad. Eran mujeres negras, muchas en situación vulnerable, algunas con problemas de adicción en plena epidemia del crack." },
-    { "voz": "alvaro", "texto": "¿Y por eso recibieron menos atención?" },
-    { "voz": "ximena", "texto": "Eso denunciaron sus familias. Sentían que la policía no trataba aquellas muertes con la urgencia que merecían. Vecinas y activistas del barrio se organizaron para exigir respuestas y para advertir a la comunidad de que había un asesino en serie." },
-    { "voz": "ximena", "texto": "En 1988 hubo una superviviente. Enietra Washington aceptó que un hombre la llevara en su coche. Él le disparó y la dejó malherida, pero ella sobrevivió. Recordaba el coche, la cara de su agresor y que él le había hecho una fotografía. Años después, esa fotografía aparecería en casa de Franklin." },
-    { "voz": "ximena", "texto": "Después, los crímenes parecieron detenerse. Hasta que en 2002 apareció una nueva víctima vinculada por las pruebas balísticas y genéticas al mismo autor." },
-    { "voz": "ximena", "texto": "En 2008, la periodista Christine Pelisek, de LA Weekly, sacó el caso a la luz y lo bautizó como Grim Sleeper, por esa aparente pausa de trece años. Aparente, porque los investigadores sospechan que nunca dejó de actuar del todo." },
-    { "voz": "ximena", "texto": "Aquel artículo tuvo otro efecto: muchas familias supieron entonces, por la prensa, que la muerte de su hija o de su hermana formaba parte de una serie. La policía había creado un equipo especial, pero el barrio no había sido informado." },
-    { "voz": "alvaro", "texto": "¿Y cómo llegaron hasta él, si su ADN no estaba en ninguna base de datos?" },
-    { "voz": "ximena", "texto": "Con una técnica nueva y polémica: la búsqueda familiar de ADN, que California autorizó en 2008. La idea es buscar en la base de datos de delincuentes no al autor, sino a un pariente cercano cuyo perfil se le parezca mucho." },
-    { "voz": "ximena", "texto": "Un primer intento no dio resultado. Pero en 2010 apareció una coincidencia parcial con un joven condenado por un delito de armas: Christopher Franklin. Su perfil indicaba que el autor podía ser su padre." },
-    { "voz": "ximena", "texto": "Los investigadores siguieron entonces a Lonnie Franklin hasta aquella pizzería. El análisis de lo que dejó en la mesa confirmó la coincidencia. Fue detenido el 7 de julio de 2010." },
-    { "voz": "alvaro", "texto": "Uno de los primeros grandes éxitos de esa técnica, ¿no?" },
-    { "voz": "ximena", "texto": "Sí, y abrió un debate que continúa. Para unos, es una herramienta valiosísima. Para otros, una intromisión, porque pone bajo sospecha a familiares que no han hecho nada. Hoy, técnicas genéticas parecidas se usan cada vez más para resolver casos antiguos." },
-    { "voz": "ximena", "texto": "En su casa, la policía encontró cientos de fotografías de mujeres. Muchas no estaban identificadas. Se publicaron más de un centenar para localizarlas y averiguar si había más víctimas." },
-    { "voz": "ximena", "texto": "El juicio llegó en 2016, casi seis años después de la detención. Enietra Washington declaró contra él. Franklin fue declarado culpable de diez asesinatos y un intento de asesinato, y condenado a muerte." },
-    { "voz": "ximena", "texto": "Nunca fue ejecutado. En California no se ejecuta a nadie desde 2006. Murió en su celda de San Quentin en marzo de 2020." },
-    { "voz": "alvaro", "texto": "¿Qué queda de este caso, más allá de la técnica?" },
-    { "voz": "ximena", "texto": "Quedan diez mujeres con nombre, y familias que esperaron décadas. Quedan las preguntas sobre por qué esas muertes, en ese barrio, tardaron tanto en tratarse como una prioridad. Y queda la sospecha de que la lista podría ser más larga." },
-    { "voz": "ximena", "texto": "También queda el ejemplo de una superviviente que se atrevió a declarar casi treinta años después, frente al hombre que había intentado matarla. Hasta aquí el expediente de Lonnie David Franklin Jr. Esto ha sido TRUE CRIME CALENDAR." }
+    "Christopher Franklin": "Crístofer Fránklin",
+    "Henrietta Wright": "Henriéta Rait",
+    "Janecia Peters": "Yanísia Pítirs",
+    "San Quentin": "San Cuéntin" },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un trozo de pizza",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Lonnie David Franklin Jr., Grim Sleeper. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un trozo de pizza." },
+        { "voz": "ximena", "texto": "Verano de 2010. Una pizzería en el sur de California. Un camarero recoge una mesa: platos, cubiertos, servilletas, un trozo de pizza a medio comer. Nada extraño. Salvo que ese camarero es un policía de incógnito, y lo que acaba de recoger va directo a un laboratorio." },
+        { "voz": "ximena", "texto": "El resultado confirma lo que los investigadores llevaban más de veinte años buscando. El cliente de aquella mesa tiene cincuenta y siete años. Es un abuelo conocido en su barrio de Los Ángeles." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Cuenta bien: las primeras muertes son de 1985. Veinticinco años para dar con él, y no por falta de pistas: había un arma, había balística, había una superviviente. Hizo falta una técnica de ADN nueva, polémica, y un trozo de pizza." },
+        { "voz": "ximena", "texto": "Lonnie David Franklin Jr. nació el 30 de agosto de 1952 en Los Ángeles. Pasó por el Ejército y trabajó durante años para el Ayuntamiento, en la recogida de basuras y como mecánico en un garaje municipal. En South Los Angeles era un vecino conocido." },
+        { "voz": "ximena", "texto": "Entre 1985 y 1988, varias mujeres aparecieron asesinadas en esa zona de la ciudad. Eran mujeres negras, muchas en situación vulnerable, algunas con problemas de adicción en plena epidemia del crack." },
+        { "voz": "alvaro", "texto": "Sus familias y sus vecinos denunciaron que la policía no trató esas muertes con la urgencia debida. Lo anoto sin adjetivos: es una queja documentada en la prensa y en boca de las propias familias. Vecinas y activistas se organizaron para exigir respuestas." },
+        { "voz": "ximena", "texto": "Una de ellas, Henrietta Wright, era madre de cinco hijos y apareció muerta en 1986. Su familia esperó treinta años un veredicto." },
+        { "voz": "ximena", "texto": "En 1988 hubo una superviviente. Enietra Washington aceptó que un hombre la llevara en su coche. Él le disparó y la dejó gravemente herida, pero sobrevivió. Recordaba el coche, la cara de su agresor y que él le había hecho una fotografía." },
+        { "voz": "alvaro", "texto": "Una superviviente con memoria: el coche, el rostro, la fotografía. Con eso, la policía tenía una descripción. Y, de pronto, los asesinatos parecieron detenerse." },
+        { "voz": "ximena", "texto": "En 2002 apareció una nueva víctima, una chica de quince años, vinculada por las pruebas balísticas y genéticas al mismo autor. Hubo más hasta 2007." },
+        { "voz": "ximena", "texto": "De esa pausa de más de una década viene el apodo: Grim Sleeper, algo así como el siniestro durmiente. Los investigadores sospechan que nunca dejó de actuar del todo. En 2007 el ADN de un crimen reciente enlazó casos antiguos, y se formó un equipo especial." },
+        { "voz": "ximena", "texto": "En 2008, un reportaje del semanario LA Weekly sacó el caso a la luz. Muchas familias supieron entonces, por la prensa, que la muerte de su hija o de su hermana formaba parte de una serie. El barrio no había sido informado." },
+        { "voz": "alvaro", "texto": "Esto me incomoda. Que unas familias se enteraran por un periódico. No sé qué razones tuvo la policía para no avisarlas y no voy a inventarlas. Anoto el hecho: lo supieron por la prensa." },
+        { "voz": "ximena", "texto": "¿Cómo dar con él, si su ADN no estaba en ninguna base de datos? Con una técnica nueva y polémica, la búsqueda familiar, que California autorizó en 2008. Se busca no al autor, sino a un pariente cercano cuyo perfil se le parezca mucho." },
+        { "voz": "ximena", "texto": "Un primer intento, a finales de 2008, no dio resultado. Pero en 2010 apareció una coincidencia parcial con un joven condenado por un delito de armas, Christopher Franklin. Su perfil indicaba que el autor podía ser su padre." },
+        { "voz": "ximena", "texto": "Los investigadores siguieron entonces a Lonnie Franklin hasta aquella pizzería. El análisis de lo que dejó en la mesa confirmó la coincidencia. Fue detenido el 7 de julio de 2010, tras casi veinticinco años de búsqueda y de familias que esperaban." },
+        { "voz": "alvaro", "texto": "Una detención, y una pregunta que sigue abierta: ¿fueron solo diez? Lo que la policía encontró en su casa, en el registro posterior, tardaría años en entenderse." }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Mil fotografías",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Mil fotografías." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Lonnie David Franklin Jr., el hombre al que la prensa llamó Grim Sleeper y que fue condenado por diez asesinatos en South Los Angeles. Empezamos por lo que apareció en su casa." },
+        { "voz": "ximena", "texto": "La policía encontró más de mil fotografías y cientos de horas de vídeo, con imágenes de mujeres. Muchas no estaban identificadas. Meses después, se publicaron más de un centenar de fotos para pedir ayuda al público y averiguar si había más víctimas." },
+        { "voz": "alvaro", "texto": "Nota del inspector. No miro esas imágenes, ni vamos a describirlas. Anoto su función en el expediente: hacían preguntas. ¿Quiénes son, siguen vivas, hay más? Algunas siguen sin respuesta, y cada una es una mujer que alguien echa de menos." },
+        { "voz": "ximena", "texto": "El juicio llegó en 2016, casi seis años después de la detención. Empezó el 16 de febrero. Enietra Washington declaró contra él, casi treinta años después del disparo." },
+        { "voz": "alvaro", "texto": "Una superviviente frente al hombre que la hirió. Su testimonio fue clave: su relato coincidía con el patrón de las demás muertes. Hay que valorar lo que cuesta sentarse a declarar, tantos años después, y mirar de frente a quien te disparó." },
+        { "voz": "ximena", "texto": "El 5 de mayo de 2016, el jurado lo declaró culpable de diez asesinatos, los de nueve mujeres y una chica de quince años, y de un intento de asesinato. El 6 de junio recomendó la pena de muerte. El 10 de agosto, el juez la dictó." },
+        { "voz": "ximena", "texto": "En la vista de sentencia, familiares de las víctimas hablaron en el tribunal. La hermana de Janecia Peters le dijo que no se había llevado a cualquiera de la calle, sino a alguien muy querida." },
+        { "voz": "alvaro", "texto": "Cuando la madre de otra víctima le preguntó por qué, según la prensa, él respondió moviendo los labios que no lo sabía. Treinta años de preguntas, y esa fue la respuesta. Lo cuento tal como lo recogió la crónica." },
+        { "voz": "ximena", "texto": "Franklin nunca fue ejecutado. En California no se ejecuta a nadie desde 2006, y cuando se dictó su sentencia esperaban turno más de setecientos presos. Murió en su celda de San Quentin el 28 de marzo de 2020, a los sesenta y siete años. La causa no se hizo pública." },
+        { "voz": "alvaro", "texto": "Y queda la sombra de la pausa. La policía lo ha vinculado con al menos otros seis crímenes sin resolver que nunca llegaron a cargos. Es una sospecha de los investigadores, no una condena. Pero cuenta como parte del expediente." },
+        { "voz": "ximena", "texto": "El caso fue uno de los primeros grandes éxitos de la búsqueda familiar de ADN, y abrió un debate que continúa. Para unos, es una herramienta valiosísima. Para otros, una intromisión, porque pone bajo sospecha a familiares que no han hecho nada." },
+        { "voz": "alvaro", "texto": "Otro hecho que anoto: según una de las fuentes, su perfil no estaba en ninguna base porque no se le tomó una muestra tras una condena anterior por un delito grave. Si es así, el fallo no estuvo solo en el laboratorio." },
+        { "voz": "ximena", "texto": "Quedan, además, las preguntas sobre por qué esas muertes, en ese barrio, tardaron tanto en tratarse como una prioridad. Es la queja de las familias; la ley no la resuelve, pero el archivo debe recogerla." },
+        { "voz": "alvaro", "texto": "Hoy se usan técnicas genéticas parecidas para resolver casos antiguos, y con ellas llegan los mismos dilemas sobre la privacidad. Y cada vez que se resuelve uno, pienso en los años perdidos, y en las familias que esperaron." },
+        { "voz": "ximena", "texto": "Las víctimas no fueron una estadística. Henrietta Wright era madre de cinco hijos. Janecia Peters era una hermana muy querida. Eran hijas, madres y vecinas de un barrio que las buscó cuando nadie más lo hacía." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a nueve mujeres y a una chica de quince años. A Enietra Washington, que sobrevivió y declaró. Y a las familias que esperaron treinta años." },
+        { "voz": "ximena", "texto": "Fin del expediente de Lonnie David Franklin Jr., Grim Sleeper. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Víctimas: adultas nombradas solo Henrietta Wright (apareció muerta en 1986; su tía habló en público tras el veredicto, CSM 2016) y Janecia Peters (su hermana habló en la sentencia, ABC7 2016); la chica de quince años (2002, menos de 30 años) no se nombra; la superviviente Enietra Washington (testigo en juicio público; el v2 ya la nombraba) sí. Discrepancias: 1) Ficha y v2: pausa de 13 años; Wikipedia y ABC7: 14 (1988 a 2002). El guion dice «más de una década». 2) Primeros asesinatos: Wikipedia 1984 (no condenado) y 1985 (condenas). El guion usa 1985. 3) Christopher Franklin: Wikipedia dice condena por armas en 2008; otras fuentes, detención en 2009; la hoja de la Fiscalía de California habla de una primera búsqueda familiar el 3/12/2008 sin resultado y coincidencia en 2010. El guion dice «a finales de 2008» y «en 2010». 4) Pelisek: el guion no nombra a la periodista de LA Weekly; no pude verificar su autoría en las fuentes consultadas; el v2 sí la nombraba. 5) Pizza y camarero de incógnito: Wikipedia («restaurant») y Stanford Law (pizza abandonada); lo del «camarero» es del v2. 6) Fotografías: Wikipedia, más de mil fotos y cientos de horas de vídeo, 180 fotos publicadas en diciembre de 2010; el guion dice «más de un centenar», como el v2. 7) Que no se le tomó ADN tras una condena anterior (2003): solo Wikipedia; el guion lo atribuye a una fuente. 8) Seis crímenes más sin cargos: CSM 2016. 9) «Más de setecientos presos» esperando ejecución: 764 según ABC7 (Silverman). 10) Muerte: 28/3/2020, 67 años, causa no pública (Wikipedia). 11) Juicio: empezó el 16/2/2016; veredicto 5/5/2016; recomendación de muerte 6/6/2016; sentencia 10/8/2016. 12) Una de las diez víctimas era una chica de quince años (2002): ABC7, CSM. 13) Franklin fue discharged del Ejército en 1975 tras una condena en Alemania: no se usa (no esencial). Fuentes de la crítica a la policía: CSM, Wikipedia. No se describen los métodos ni las fotografías."
 }

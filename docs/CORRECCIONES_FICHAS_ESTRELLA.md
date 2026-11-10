@@ -146,3 +146,25 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 
 - **Pavlinac:** fue condenada a cadena perpetua con un mínimo de diez años, no a «diez años».
 - **Víctimas:** desde el 27 de agosto de 2026 las ocho confirmadas están identificadas («Claudia» es Lydia Jane Wade McWhorter). Hay que comprobarlo en dos fuentes.
+
+## bellfield
+
+- No se nombra a Milly Dowler, aunque la ficha sí (caso de 2002, menor).
+- Detenido en 2004 y acusado en 2006; el episodio antiguo hablaba de «prisión preventiva» desde 2004.
+
+## escalero
+
+- Se entregó en 1993 (El País); Wikipedia lo sitúa en 1994. El juicio fue a finales de febrero de 1996.
+- 11 casos probados y 4 reconocidos sin pruebas.
+
+## dahmer
+
+- Las 15 cadenas son las de Wisconsin; con la de Ohio son 16.
+
+## fish
+
+- Fue acusado por el secuestro de Grace Budd, Charles Pope, que fue absuelto en 1930.
+
+## murano
+
+- Murió el 26 de abril de 2014. Fue condenada el 18 de junio de 1985 y liberada el 20 de noviembre de 1995.

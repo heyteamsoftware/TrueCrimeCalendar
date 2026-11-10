@@ -1,46 +1,194 @@
 {
   "id": "kurten",
-  "titulo": "Una carta en la dirección equivocada",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Peter Kürten": "Péter Kírten",
     "Kürten": "Kírten",
     "Düsseldorf": "Dúseldorf",
-    "Christine Klein": "Cristíne Kláin",
     "Mülheim": "Múljaim",
-    "Rosa Ohliger": "Rósa Óliguer",
-    "Gertrud Albermann": "Guértrud Álberman",
-    "Ernst Gennat": "Ernst Guenát",
     "Maria Budlick": "María Búdlik",
+    "Budlick": "Búdlik",
+    "Ernst Gennat": "Ernst Guenát",
+    "Gennat": "Guenát",
     "Auguste": "Augúste",
+    "Karl Berg": "Karl Berg",
+    "Klingelpütz": "Klíngelpits",
     "Fritz Lang": "Frits Lang",
-    "«M,": "«Eme,",
-    "Fritz Haarmann": "Frits Járman",
-    "Hannover": "Janóver",
+    "Rochus": "Rójus",
     "Weimar": "Váimar"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Düsseldorf, mayo de 1930. En una oficina de correos, un empleado abre una carta que no ha podido entregar: la dirección está mal escrita. Dentro, una joven le cuenta a una amiga lo que le ocurrió días antes con un desconocido. El empleado decide llevarla a la policía." },
-    { "voz": "ximena", "texto": "Esa carta extraviada va a desenmascarar al hombre que llevaba más de un año aterrorizando a toda una ciudad." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Peter Kürten, el vampiro de Düsseldorf. Un caso de la Alemania de entreguerras que acabaría relacionado con una de las películas más famosas de la historia del cine." },
-    { "voz": "alvaro", "texto": "Antes de llegar a la película: ¿quién era este hombre?" },
-    { "voz": "ximena", "texto": "Kürten nació en 1883 en Mülheim, junto a Colonia, en una familia numerosa y muy pobre, con un padre alcohólico y violento. Desde muy joven entró y salió de la cárcel por robos y otros delitos. Pasó en prisión buena parte de su vida adulta." },
-    { "voz": "ximena", "texto": "En 1913 asesinó a una niña, Christine Klein, en la posada familiar de Mülheim. El crimen quedó sin resolver durante años, y las sospechas recayeron sobre un familiar de la niña. El verdadero autor siguió libre, y nadie lo relacionaría con aquel crimen hasta su propia confesión, diecisiete años después." },
-    { "voz": "ximena", "texto": "Después vinieron la guerra, más condenas y, a mediados de los años veinte, un nuevo comienzo en Düsseldorf. Se había casado, trabajaba y vestía con esmero. Para sus vecinos era un hombre amable, discreto y siempre bien arreglado." },
-    { "voz": "alvaro", "texto": "Y en 1929, de repente, todo estalla." },
-    { "voz": "ximena", "texto": "Sí. A lo largo de 1929, Düsseldorf sufrió una oleada de ataques nocturnos contra mujeres, hombres y niños. Los métodos cambiaban y las víctimas no tenían nada en común. Eso desconcertaba por completo a la policía, que no sabía si buscaba a uno o a varios agresores." },
-    { "voz": "ximena", "texto": "Entre las víctimas mortales hubo niñas muy pequeñas, como Rosa Ohliger, de ocho años, y Gertrud Albermann, de cinco. La prensa empezó a hablar del «vampiro de Düsseldorf», y la ciudad vivió meses de auténtico pánico. Las familias vigilaban a sus hijos, y mucha gente evitaba salir sola al caer la noche." },
-    { "voz": "alvaro", "texto": "¿Y la policía no tenía ninguna pista?" },
-    { "voz": "ximena", "texto": "Tenía demasiadas. Llegaron miles de denuncias, muchas de ellas inútiles, y hubo confesiones falsas. Desde Berlín acudió a ayudar el célebre comisario Ernst Gennat. El propio asesino escribió a la prensa con indicaciones para encontrar un cuerpo. Aun así, nadie dio con él." },
-    { "voz": "ximena", "texto": "Hasta la carta de mayo de 1930. La joven que la había escrito, Maria Budlick, había sobrevivido a aquel encuentro y recordaba bien el camino. Pudo guiar a los agentes hasta la calle y el edificio adonde la había llevado aquel hombre. Kürten se dio cuenta de que lo habían localizado." },
-    { "voz": "ximena", "texto": "Entonces hizo algo inesperado: se lo contó todo a su esposa, Auguste. Le sugirió incluso que lo denunciara para cobrar la recompensa. Ella fue a la policía y, el 24 de mayo de 1930, Kürten fue detenido sin oponer resistencia." },
-    { "voz": "alvaro", "texto": "Un final casi increíble después de tantos meses de miedo." },
-    { "voz": "ximena", "texto": "En el juicio, celebrado en Düsseldorf en 1931, confesó con todo detalle. Fue condenado a muerte por nueve asesinatos, aunque se le atribuyen además decenas de ataques. El 2 de julio de 1931 fue guillotinado en Colonia. Tenía cuarenta y ocho años." },
-    { "voz": "ximena", "texto": "Antes de su ejecución, el psiquiatra forense Karl Berg lo entrevistó durante meses. Publicó sus conclusiones en un libro titulado «El sádico», que se convirtió en una referencia para la criminología de la época y todavía hoy se cita cuando se habla de este tipo de criminales." },
-    { "voz": "ximena", "texto": "Ese mismo año, el director Fritz Lang estrenó «M, el vampiro de Düsseldorf», la historia de una ciudad entera que busca a un asesino de niños. La película, que bebe del clima creado por este caso, es hoy un clásico absoluto del cine." },
-    { "voz": "alvaro", "texto": "Y la película, curiosamente, se centra más en la ciudad que en el asesino." },
-    { "voz": "ximena", "texto": "Exacto: en el miedo, la histeria y la búsqueda colectiva. En nuestro archivo, Kürten comparte capítulo con otros crímenes de la Alemania de entreguerras, como el de Fritz Haarmann, el vampiro de Hannover. Fue una época de crisis, de miedo y de prensa sensacionalista en la República de Weimar." },
-    { "voz": "ximena", "texto": "Hoy recordamos a Christine Klein, a Rosa Ohliger, a Gertrud Albermann y al resto de sus víctimas, y también a Maria Budlick, cuya carta perdida lo cambió todo. Hasta aquí el expediente de Peter Kürten. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una carta mal dirigida",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Peter Kürten, el vampiro de Düsseldorf. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una carta mal dirigida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Düsseldorf, 19 de mayo de 1930. En una oficina de correos, un empleado abre una carta que no ha podido entregar: la dirección está mal escrita. Dentro, una joven le cuenta a una amiga lo que le ocurrió días antes con un desconocido. El empleado decide llevarla a la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa carta extraviada va a desenmascarar al hombre que llevaba más de un año aterrorizando a toda una ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un año de batidas, informes y miles de denuncias. Y lo que lo resuelve es un sobre mal escrito. En este archivo he visto muchas veces que las grandes pistas no vienen de la ciencia, sino de la casualidad y de alguien que se atreve a hablar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde febrero de 1929, Düsseldorf sufría una oleada de ataques contra mujeres, hombres y niños. Los métodos cambiaban. Las víctimas no tenían nada en común. La policía no sabía si buscaba a un agresor o a varios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre las víctimas mortales hubo niñas muy pequeñas: una de ocho años y otra de cinco, a las que no nombramos. La prensa empezó a hablar del vampiro de Düsseldorf. La ciudad vivió meses de pánico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pregunto: ¿por qué tardaron tanto? Una razón es que los ataques no se parecían entre sí. Cuando todo cambia, el patrón es difícil de ver. Y a veces el error es suponer que un asesino repite siempre lo mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegaron miles de denuncias, muchas inútiles, y hubo confesiones falsas. Desde Berlín acudió a ayudar Ernst Gennat, jefe de la policía criminal, uno de los investigadores más respetados de la Alemania de su tiempo. Se le atribuye el término asesino en serie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El propio autor escribió cartas a la prensa y a la policía. Un grafólogo confirmó que todas eran de la misma mano. Gennat concluyó entonces que un solo hombre estaba detrás de la mayoría de los ataques."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que supone. Un hombre que escribe a los periódicos porque quiere ser leído. Ese deseo de atención lo acabó traicionando, aunque por entonces nadie lo sabía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era? Peter Kürten, un hombre de cuarenta y seis años que vivía con su esposa, Auguste, en un piso de la ciudad. Para sus vecinos era amable, discreto y siempre bien vestido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido en 1883 en Mülheim, junto a Colonia, y pasó buena parte de su vida adulta en prisión por robos y otros delitos. Nadie en el vecindario lo relacionaba con las noticias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de mayo de 1930, Maria Budlick, una joven de veinte años que acababa de llegar a Düsseldorf en busca de trabajo, fue atacada por un hombre. Ella sobrevivió. No lo denunció, pero escribió una carta a una amiga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa es la carta que acabó en la oficina de correos. Gennat la leyó, entrevistó a Maria Budlick y el 21 de mayo la acompañó hasta el edificio que ella recordaba. La casera confirmó el nombre del inquilino: Peter Kürten."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una joven sin empleo, sola en una ciudad extraña, que sobrevive y escribe a una amiga. Sin esa carta no habría caso. Anoto su nombre porque esta vez sí podemos hacerlo: Maria Budlick."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al ver llegar a la policía, Kürten comprendió que lo habían localizado y desapareció. Volvió a casa el 23 de mayo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y entonces hizo algo inesperado. Se lo contó todo a su esposa. Le dijo que era el vampiro de Düsseldorf y le sugirió que lo denunciara para cobrar la recompensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Auguste fue a la policía. El 24 de mayo de 1930, Kürten fue detenido junto a la iglesia de San Rochus, sin oponer resistencia. Ahora quedaba lo más difícil: entender qué había hecho, y cómo se juzgaba a alguien así. Eso ocupa la cinta dos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "El libro del doctor Berg",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. El libro del doctor Berg."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta anterior, una carta extraviada llevó a la policía de Düsseldorf hasta Peter Kürten. Su mujer lo denunció el 24 de mayo de 1930, y lo detuvieron. Entonces empezó a hablar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reconoció crímenes de los últimos años y otros mucho más antiguos. Entre ellos, el de una niña de nueve años, asesinada en 1913 en la posada de su familia en Mülheim. Aquel caso había quedado sin resolver durante diecisiete años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Dos hechos que conviene separar. Primero, que confesó. Segundo, que la policía tuvo que comprobar cada confesión, porque en este caso ya había habido confesiones falsas. Lo probado es lo que un tribunal pudo sostener."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes del juicio, el psiquiatra forense Karl Berg lo entrevistó durante meses. Kürten habló con detalle de su vida y de sus actos. Berg, como otros peritos, concluyó que era responsable de lo que había hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había crecido en una familia muy pobre, con un padre alcohólico y violento, y pasó en prisión muchos años: diecisiete estancias en prisión entre 1899 y 1930. Berg lo describió como un sádico. Pero la infancia no explica todo, y menos aún lo justifica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que decir algo sobre Berg. Su estudio se convirtió en una referencia para la criminología. Pero hoy algunos historiadores critican que fuera comprensivo con el padre de Kürten. Un buen informe también se puede leer con ojo crítico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en Düsseldorf en abril de 1931. Kürten dijo al principio que no era responsable por locura, pero luego cambió la declaración y lo reconoció todo. Según la prensa, disfrutaba de la atención del público."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otros hechos que él contó de su infancia y juventud no se juzgaron, por falta de pruebas y por la edad penal de entonces. El tribunal solo pudo sostener lo que se podía probar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frontera entre lo que alguien dice y lo que se puede probar es la base de un juicio justo, incluso con un acusado así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 22 de abril, el tribunal lo declaró culpable de nueve asesinatos y de varios intentos de asesinato, y lo condenó a muerte. Se le atribuyen, además, decenas de ataques. Su petición de clemencia fue rechazada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nueve asesinatos probados y varios intentos en la sentencia. Los autores dan cifras distintas de ataques, y algunos libros populares dan cifras más altas. Prefiero quedarme con lo que consta en la sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de julio de 1931, a las seis de la mañana, Peter Kürten fue guillotinado en la prisión de Klingelpütz, en Colonia. Tenía cuarenta y ocho años. Auguste Kürten recibió la recompensa, cuatro mil marcos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El libro de Berg, «El sádico», se publicó poco después y se considera el primer estudio psicológico de un asesino en serie de tipo sexual. Aún se cita en la criminología."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo año se estrenó en Berlín la película de Fritz Lang «M». Muchos la han relacionado con Kürten y con otros asesinos de la época. Lang lo negó años después: dijo que en Alemania había entonces varios casos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que sí tiene la película en común con el caso es el clima. Una ciudad entera con miedo, una policía desbordada, una prensa que alimenta el pánico y un público que busca culpables. Eso es lo que vivió Düsseldorf."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue la República de Weimar, una época de crisis y de prensa sensacionalista. Y de víctimas a las que se recuerda poco, porque el nombre del verdugo ocupó todos los titulares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este archivo intenta corregirlo, y dar a las víctimas el espacio que la prensa de entonces les negó. Eran personas que perdieron la vida o cambiaron para siempre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a las víctimas de Peter Kürten: a la niña asesinada en 1913, a las niñas de ocho y cinco años, y a todas las personas que murieron o sobrevivieron. Y a Maria Budlick, cuya carta perdida lo cambió todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Peter Kürten. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias entre fuentes y con la ficha. 1) Cifras: la ficha dice «decenas de ataques y al menos nueve asesinatos»: coincide con la sentencia del 22 de abril de 1931 (nueve condenas a muerte por nueve asesinatos; siete intentos de asesinato según Wikipedia y Crime+Investigation); las cifras de ataques varían (Wikipedia: 31 o más intentos; Lto: más de veinte intentos y al menos ocho asesinatos en 1929-1930; Crime+Investigation: 79 actos delictivos; web.de: unos 70 confesados). El guion dice «nueve asesinatos» y «varios intentos». 2) Inicio del juicio: 13 de abril de 1931 (Wikipedia, Crime+Investigation) o 14 de abril (otra búsqueda): el guion dice «abril de 1931». La ficha y el episodio anterior decían «juicio en 1931» y ejecución el 2 de julio de 1931: confirmado (Klingelpütz, Colonia, 48 años). 3) Nombre de la superviviente: Maria Budlick (Wikipedia, Crime+Investigation), Butlies (web.de), Büdlick (Xataka): el guion usa Budlick. Fecha del ataque: 14 de mayo de 1930; carta abierta el 19 de mayo (Wikipedia); visita al edificio el 21 de mayo. Xataka no menciona la carta y dice que ella describió al atacante; web.de y Crime+Investigation sí la mencionan. 4) Papel de la esposa: Wikipedia, Crime+Investigation y web.de: le confesó el 23 de mayo y ella avisó a la policía; Xataka lo presenta como no confirmado. Lugar de la detención: iglesia de San Rochus (Wikipedia, Crime+Investigation, web.de dice que fue en Prinz-Georg-Straße y que quedó citado en la iglesia): el guion dice «junto a la iglesia de San Rochus». La recompensa cobrada de 4.000 marcos solo la recoge Wikipedia (web.de habla de una recompensa de 15.000). 5) Menores: el episodio anterior nombraba a Christine Klein, Rosa Ohliger y Gertrud Albermann. Por la regla común, aunque el caso tiene casi cien años, no consta que sus familias hayan hablado en público; el guion las describe como «una niña de nueve años» (1913), «una de ocho años y otra de cinco». La edad de Christine Klein varía: 9 (Wikipedia, web.de), 10 (Crime+Investigation) o «menos de 15» (Xataka). Maria Budlick (20 años) sí se nombra. 6) Gennat: Wikipedia y Lto lo sitúan en el caso; web.de, Xataka y Crime+Investigation no lo mencionan; la atribución del término Serienmörder a Gennat viene de Lto. 7) Película M: estrenada el 11 de mayo de 1931 (Wikipedia). Lang lo negó en 1963 (entrevista con Gero Gandert, Wikipedia); el episodio anterior decía que «bebe del clima de este caso». 8) Karl Berg: perito; su libro «Der Sadist»/«The Sadist» (1932 según Xataka; 1931 según Lto); el guion dice «poco después». Dudas: el lugar y la forma del encuentro con Budlick se omiten; no se ha podido leer a Britannica (403); la cabeza de Kürten conservada en un museo de Wisconsin (Lto) no se menciona."
 }

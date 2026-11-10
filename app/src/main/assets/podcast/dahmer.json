@@ -1,44 +1,181 @@
 {
   "id": "dahmer",
-  "titulo": "Las esposas en la muñeca",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "Milwaukee": "Miluóki",
-    "Tracy Edwards": "Tréisi Éduards",
     "Jeffrey Dahmer": "Yéfri Dámer",
     "Dahmer": "Dámer",
-    "Bath": "Baz",
-    "Ohio": "Oháio",
+    "Tracy Edwards": "Tréisi Éduards",
+    "Milwaukee": "Miluóki",
     "Steven Hicks": "Stíven Jiks",
-    "Hicks": "Jiks",
     "Konerak Sinthasomphone": "Kónerak Sintasómpon",
     "Konerak": "Kónerak",
+    "Oxford Apartments": "Óxford Apártments",
+    "Bath": "Baz",
+    "Ohio": "Oháio",
     "Wisconsin": "Uiscónsin",
-    "Portage": "Pórtach"
+    "Portage": "Pórtach",
+    "Laurence Gram": "Lórens Gram"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Milwaukee, 22 de julio de 1991, cerca de la medianoche. Dos policías patrullan cuando un hombre corre hacia ellos con unas esposas colgando de una muñeca. Dice que acaba de escapar de otro hombre, que lo había esposado en un apartamento cercano." },
-    { "voz": "ximena", "texto": "Se llama Tracy Edwards. Guía a los agentes hasta el número novecientos veinticuatro de la calle Veinticinco Norte, y hasta la puerta del apartamento doscientos trece. Su huida va a poner fin a trece años de crímenes que nadie había sabido ver." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Jeffrey Dahmer, conocido como el caníbal de Milwaukee. Un caso que conmocionó a Estados Unidos y que, sobre todo, obligó a la policía a mirarse al espejo." },
-    { "voz": "ximena", "texto": "Dahmer nació en Milwaukee en 1960 y creció en Bath, una pequeña localidad de Ohio. Fue un adolescente solitario, con un problema serio con el alcohol. En 1978, recién terminado el instituto, cometió su primer asesinato: la víctima fue un joven de dieciocho años, Steven Hicks." },
-    { "voz": "alvaro", "texto": "¿Y nadie se enteró de lo que había pasado?" },
-    { "voz": "ximena", "texto": "Nadie. Hicks figuró durante trece años como desaparecido. Dahmer pasó por el ejército, del que fue expulsado por su alcoholismo, y acabó viviendo con su abuela en las afueras de Milwaukee. En 1987 volvió a matar. A partir de ahí, los crímenes se sucedieron." },
-    { "voz": "ximena", "texto": "Sus víctimas fueron hombres y adolescentes, en su mayoría jóvenes negros, asiáticos y latinos, muchos de ellos gais o en situaciones vulnerables. Los abordaba en bares o en la calle y les ofrecía dinero por acompañarle a su casa. Allí los sedaba." },
-    { "voz": "ximena", "texto": "En 1989 fue condenado por agredir sexualmente a un adolescente de trece años. Cumplió una pena corta, en un régimen que le permitía salir a trabajar. El sistema tuvo en sus manos a un depredador y no lo vio. Y hay un dato terrible: aquel chico era el hermano mayor de alguien que pronto aparecerá en esta historia." },
-    { "voz": "alvaro", "texto": "Y todavía falta el episodio que más indignación causó, ¿no?" },
-    { "voz": "ximena", "texto": "Así es. Mayo de 1991. Unas vecinas encuentran en la calle a un chico de catorce años, aturdido y desorientado. Es Konerak Sinthasomphone, el hermano pequeño de aquel adolescente. Llaman a la policía. Pero Dahmer aparece, asegura que es su pareja, que es mayor de edad y que ha bebido demasiado." },
-    { "voz": "ximena", "texto": "Los agentes le creen. Devuelven al chico al apartamento, pese a las protestas de las vecinas, que vuelven a llamar después para insistir. Nadie les hace caso. Konerak fue asesinado esa misma noche." },
-    { "voz": "alvaro", "texto": "Es estremecedor. Lo tuvieron delante y lo dejaron ir." },
-    { "voz": "ximena", "texto": "Dos meses después, la noche de la huida de Tracy Edwards, los agentes sí subieron al apartamento. En pocos minutos encontraron fotografías y pruebas que confirmaban lo peor. Dahmer fue detenido allí mismo." },
-    { "voz": "ximena", "texto": "Confesó diecisiete asesinatos. En el juicio de 1992 su defensa alegó locura, pero el jurado lo consideró responsable de sus actos. Fue condenado a quince cadenas perpetuas consecutivas. En Wisconsin no existía la pena de muerte." },
-    { "voz": "ximena", "texto": "En la vista de la sentencia, varios familiares de las víctimas hablaron ante el tribunal. Su dolor y su rabia, retransmitidos por televisión, quedaron grabados en la memoria del país mucho más que cualquier palabra del acusado." },
-    { "voz": "ximena", "texto": "No llegó a cumplir mucho tiempo. En noviembre de 1994, otro preso lo mató en la prisión de Columbia, en Portage, Wisconsin." },
-    { "voz": "alvaro", "texto": "¿Y qué cambió después de todo esto?" },
-    { "voz": "ximena", "texto": "Mucho. Dos de los agentes que atendieron la llamada sobre Konerak fueron despedidos, aunque más tarde los readmitieron tras recurrir. Las comunidades negra, asiática y gay de Milwaukee denunciaron que la policía no tomaba en serio las desapariciones de los suyos, y el debate llegó a todo el país. Hoy el caso se cita a menudo como ejemplo de cómo los prejuicios pueden cegar una investigación." },
-    { "voz": "ximena", "texto": "El edificio de apartamentos fue demolido en 1992. Hoy, el lugar donde estuvo es un solar vacío. No hay nada que recuerde lo que pasó allí." },
-    { "voz": "ximena", "texto": "Tres décadas después, en 2022, una serie de televisión sobre el caso volvió a abrir la herida. Algunas familias de las víctimas protestaron porque nadie les había consultado y porque, otra vez, el foco estaba puesto en el asesino." },
-    { "voz": "alvaro", "texto": "Una crítica que, en el fondo, nos interpela también a quienes contamos estas historias." },
-    { "voz": "ximena", "texto": "Por eso terminamos con ellas. Diecisiete personas, entre ellas Steven Hicks y Konerak Sinthasomphone, con familias, amigos y un futuro por delante. Y Tracy Edwards, que logró escapar. Hasta aquí el expediente de Jeffrey Dahmer. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Unas esposas en la calle",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Jeffrey Dahmer. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Unas esposas en la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milwaukee, 22 de julio de 1991, cerca de la medianoche. Dos policías patrullan por el norte de la ciudad cuando un hombre corre hacia ellos con unas esposas colgando de una muñeca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Tracy Edwards, tiene treinta y dos años, y dice que acaba de escapar de un hombre que lo había esposado en su apartamento, a pocas manzanas de allí. Los guía hasta el número novecientos veinticuatro de la calle Veinticinco Norte: los Oxford Apartments, apartamento doscientos trece."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Quiero que te fijes en esto. Edwards llegó a la policía por su propio pie, y su testimonio bastó para que los agentes subieran. Y la policía, esta vez, lo escuchó. Un detalle que parece pequeño y que acabó con trece años de crímenes. Lo que ocurrió con otros, antes, es el verdadero expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes suben al apartamento. En pocos minutos encuentran fotografías y pruebas que confirman lo peor. Jeffrey Dahmer, un hombre de treinta y un años, queda detenido allí mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dahmer había nacido en Milwaukee en 1960 y se había criado en Bath, una pequeña localidad de Ohio. Fue un adolescente solitario, con un problema serio con el alcohol. Entró en el ejército, estuvo destinado en Alemania Occidental y lo licenciaron en 1981 por su alcoholismo. Después volvió a vivir en Wisconsin, en casa de su abuela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 1978, tres semanas después de acabar el instituto, ocurrió su primer asesinato. La víctima fue Steven Hicks, un joven de dieciocho años. Nadie lo relacionó con Dahmer. Hicks figuró durante años como desaparecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto un hecho que lo explica casi todo. Dahmer mató una vez y no pasó nada. Nadie preguntó por él. Pasaron nueve años hasta el siguiente. En noviembre de 1987, ya en Milwaukee, volvió a matar. Y a partir de entonces los crímenes se sucedieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus víctimas fueron hombres y adolescentes, en su mayoría jóvenes negros, asiáticos y latinos, algunos de ellos gais o en situaciones vulnerables. Los abordaba en bares o en la calle y los llevaba a su casa con alguna excusa. Dieciséis de ellos, en Wisconsin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1988, Dahmer fue detenido por agredir sexualmente a un chico de trece años. En 1989 se declaró culpable y recibió cinco años de libertad condicional y un año en una prisión del condado, con permiso para salir a trabajar. Debía registrarse como delincuente sexual."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco años de libertad condicional. El sistema tuvo ante sí a un hombre que ya había hecho daño a un menor y lo dejó marcharse con un permiso para trabajar. Hay un dato que lo vuelve todavía más amargo: ese chico era el hermano mayor de otro que aparecerá en esta cinta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la noche del 26 de mayo de 1991, tres vecinas encuentran en la calle a un chico desnudo, aturdido y desorientado. Es Konerak Sinthasomphone, de catorce años, hermano pequeño de aquel adolescente. Llaman al número de emergencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegan dos agentes. Dahmer aparece y asegura que es su pareja, que es mayor de edad y que ha bebido demasiado. Las vecinas protestan y vuelven a llamar, pero los agentes le creen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Acompañan al chico hasta el apartamento. Después se van. El incidente queda anotado como una disputa doméstica. Dahmer mató a Konerak esa misma noche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hace falta imaginar nada más. Los agentes tuvieron a Konerak delante, y lo devolvieron. Había tres testigos que insistieron. No se escuchó a ninguna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos meses después, Tracy Edwards echó a correr por la calle y la policía sí subió hasta la puerta. Dahmer confesó diecisiete asesinatos. Cómo se juzgó a un hombre así, y qué pasó con los dos agentes de aquella noche de mayo, es lo que cuenta la cinta dos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Quince cadenas perpetuas",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Quince cadenas perpetuas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta anterior, Tracy Edwards escapó el 22 de julio de 1991 de un apartamento de Milwaukee. Jeffrey Dahmer fue detenido allí y confesó diecisiete asesinatos entre 1978 y 1991: dieciséis en Wisconsin y uno en Ohio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 13 de enero de 1992, Dahmer se declaró culpable pero demente de quince asesinatos cometidos en Wisconsin. Debía decidir un jurado si, además de culpable, era responsable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 30 de enero de 1992, en Milwaukee, ante el juez Laurence Gram. La única cuestión era si estaba loco, según la ley, cuando mató."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Esto es importante. Nadie discutía los hechos. La defensa defendía que Dahmer estaba loco. La fiscalía sostenía que era un hombre que sabía perfectamente lo que hacía y que planeó cada paso. Los peritos de ambas partes discreparon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de febrero, el jurado lo declaró sano de mente, es decir, responsable de sus actos. Dos días después, el juez Gram lo condenó a quince cadenas perpetuas consecutivas, una por cada uno de los asesinatos de Wisconsin. Según la prensa de la época, sumaban novecientos cincuenta y siete años. En ese estado no existía la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la vista de la sentencia, varios familiares de las víctimas hablaron ante el tribunal. Su dolor y su rabia quedaron grabados en la memoria del país mucho más que cualquier palabra del acusado. Dahmer dijo que esperaba que Dios lo perdonara, y reconoció que los familiares no podían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que dijo el juez: que la condena estaba pensada para que no recuperara nunca la libertad, y que las víctimas eran personas reales. Es lo mínimo que se podía decir en esa sala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la detención, muchas familias supieron por fin qué había sido de sus hijos y hermanos, desaparecidos durante meses o años. Para muchas fue el final de una búsqueda sin respuestas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después, Ohio le impuso otra cadena perpetua por el asesinato de Steven Hicks. Por eso a menudo se cuentan dieciséis condenas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 1994, Dahmer murió en la prisión de Columbia, en Portage, Wisconsin. Otro preso lo mató. Tenía treinta y cuatro años. Había cumplido menos de tres años de condena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahora vuelvo a lo que me quita el sueño: los dos agentes. Cuando el caso saltó a la prensa, la policía de Milwaukee los suspendió. Los dos admitieron el cargo de no haber investigado lo que tenían delante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jefe de policía, Philip Arreola, los apartó de sus puestos en cuanto se conoció lo ocurrido. Los agentes fueron despedidos en 1991. En noviembre de 1992, la comisión de policía de Milwaukee mantuvo el despido. Su presidente habló de una negligencia grave y de un desprecio total por los procedimientos básicos. La defensa los llamó chivos expiatorios."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las comunidades negra, asiática y gay de Milwaukee denunciaron que la policía no tomaba en serio las desapariciones de los suyos. El debate llegó a todo el país. Y es una acusación difícil de contestar con lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1994, un juez de apelación ordenó readmitir a los dos agentes y pagarles los salarios atrasados. Años después, uno de ellos presidió el sindicato de la policía de Milwaukee."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El edificio de los Oxford Apartments fue demolido en 1992. En 2022, una serie de televisión sobre el caso volvió a abrir la herida. Algunas familias protestaron: nadie les había consultado, y otra vez el foco estaba en el asesino."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una crítica que nos interpela también a quienes contamos estas historias. Por eso, quiero cerrar esta cinta con un hecho. Cada nombre de esta historia pertenece a alguien con familia, con amigos y con futuro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a las diecisiete personas que murieron entre 1978 y 1991. A Steven Hicks, de dieciocho años, y a Konerak Sinthasomphone, de catorce. A los otros quince. A sus familias. Y a Tracy Edwards, que logró escapar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Jeffrey Dahmer. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": "La ficha dice «15 cadenas perpetuas»: es la condena del juicio de Wisconsin (1992). Después, en Ohio, recibió una más por el asesinato de Steven Hicks, así que en total suelen contarse 16. El guion habla solo de las quince de Wisconsin para no contradecir la ficha."
+  "nota_revision": "Discrepancias con la ficha y el episodio anterior. 1) Condenas: la ficha dice 15 cadenas perpetuas (Wisconsin, 17 de febrero de 1992, Deseret News y AP); Ohio añadió otra por Steven Hicks, y Wikipedia suma 16 y 941 años, mientras la prensa de la época habla de 957 años por las 15 de Wisconsin: el guion usa 957 para las quince y dice que a menudo se cuentan 16. 2) Konerak Sinthasomphone: Wikipedia sitúa el encuentro el 26 de mayo de 1991 (muerte en la madrugada del 27); el AP de noviembre de 1992 (Deseret) dice 17 de mayo: el guion usa «noche del 26 de mayo». 3) El parentesco del chico de trece años agredido en 1988 con Konerak (hermano mayor) viene del episodio anterior y de Wikipedia; no se pudo contrastar en una segunda fuente accesible; ese chico no se nombra. 4) Los dos agentes: despedidos en 1991 (AP: admitieron el cargo administrativo de no investigar), la comisión confirmó el despido en noviembre de 1992 (AP), un juez ordenó readmitirlos con salarios atrasados en 1994 y uno de ellos presidió el sindicato de policía de Milwaukee de 2005 a 2009 (Wikipedia, John Balcerzak); el guion no los nombra; la readmisión solo consta en Wikipedia y webs secundarias. El jefe Philip Arreola los apartó tras la detención de Dahmer (resultado de búsqueda, no verificado en la fuente original). 5) Tracy Edwards tenía 32 años (Wikipedia); sin segunda fuente. 6) Demolición de los Oxford Apartments en 1992 y críticas de familiares a la serie de 2022: datos del episodio anterior, no verificados de nuevo. 7) Respeto: Konerak (14 años, 1991, más de 30 años, familia con presencia pública, nombre central del caso) se mantiene; el chico de 1988 y las otras 15 víctimas no se nombran; Steven Hicks (18 años) sí. Sin detalles de los métodos ni de lo hallado en el apartamento. 8) Dudas: no se pudo abrir The New York Times ni el Milwaukee Journal Sentinel."
 }

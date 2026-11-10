@@ -1,6 +1,6 @@
 {
   "id": "haarmann",
-  "titulo": "El confidente de la estación",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Fritz Haarmann": "Frits Járman",
@@ -9,35 +9,62 @@
     "Leine": "Láine",
     "Friedel Rothe": "Frídel Róte",
     "Hans Grans": "Jans Grans",
-    "Theodor Lessing": "Teódor Lésing",
+    "Theodor Lessing": "Téodor Lésing",
     "Lessing": "Lésing",
-    "Peter Kürten": "Péter Kírten",
+    "Ernst Schultze": "Ernst Shúltse",
+    "Stöcken": "Stéken",
+    "Marienbad": "Marienbat",
     "Der Totmacher": "Der Tótmajer"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Mayo de 1924, Hannover. Unos niños que juegan a orillas del río Leine encuentran un cráneo humano. En las semanas siguientes aparecen más. La ciudad entra en pánico y circulan rumores de todo tipo." },
-    { "voz": "ximena", "texto": "Cuando se rastrean el río y sus orillas, aparecen restos de muchas personas jóvenes. Alguien lleva años matando en Hannover. Y el culpable está mucho más cerca de la policía de lo que nadie imagina: entre sus propios confidentes." },
-    { "voz": "alvaro", "texto": "¿Un confidente de la policía?" },
-    { "voz": "ximena", "texto": "Exactamente. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Fritz Haarmann, el vampiro de Hannover." },
-    { "voz": "ximena", "texto": "Haarmann nació en Hannover en 1879. Tuvo una juventud difícil: pasó por instituciones psiquiátricas y por la cárcel por robos, fraudes y abusos. Al terminar la Primera Guerra Mundial vivía de pequeños negocios en el mercado negro, sobre todo de ropa usada." },
-    { "voz": "ximena", "texto": "Era la Alemania de la posguerra: hambre, inflación, desempleo y miles de jóvenes desarraigados que llegaban a las ciudades buscando trabajo. En 1923, la hiperinflación llegó a hacer que el dinero perdiera su valor de un día para otro. Muchos jóvenes pasaban por la estación central de Hannover. Y allí estaba Haarmann." },
-    { "voz": "ximena", "texto": "Se había convertido en confidente de la policía. Les pasaba información sobre ladrones y traficantes y, a cambio, se movía con libertad por la estación. A veces incluso se presentaba como agente para pedir la documentación a los jóvenes." },
-    { "voz": "alvaro", "texto": "O sea, que usaba esa autoridad para ganarse su confianza." },
-    { "voz": "ximena", "texto": "Así es. Ofrecía a chicos y jóvenes de entre diez y veintidós años un lugar donde dormir, comida o trabajo, y los llevaba a su vivienda. Muchos no volvieron a ser vistos. Después vendía su ropa y sus pertenencias en el mercado." },
-    { "voz": "ximena", "texto": "Hubo señales. En 1918, los padres de un chico desaparecido, Friedel Rothe, señalaron a Haarmann. La policía registró su casa, pero no encontró al joven. Años después, Haarmann reconoció que los agentes habían estado muy cerca de descubrirlo todo." },
-    { "voz": "alvaro", "texto": "¿Y nadie relacionó todas esas desapariciones?" },
-    { "voz": "ximena", "texto": "En una ciudad con tantos jóvenes de paso, las desapariciones se atribuían a fugas. Y Haarmann contaba con su condición de confidente. Pero tras los hallazgos del río, la policía de Hannover recurrió a agentes llegados de Berlín, que no lo conocían, para vigilarlo." },
-    { "voz": "ximena", "texto": "En junio de 1924 lo detuvieron tras un altercado con un joven en la estación. Al registrar su vivienda aparecieron ropas y objetos que las familias de chicos desaparecidos reconocieron. Tenía cuarenta y cuatro años. Haarmann confesó." },
-    { "voz": "ximena", "texto": "En el juicio, a finales de 1924, se le acusó de veintisiete asesinatos. Fue condenado por veinticuatro y sentenciado a muerte. Su cómplice y antiguo amante, Hans Grans, también fue juzgado y condenado por su participación. Su pena de muerte se anuló después y acabó cumpliendo una condena de prisión." },
-    { "voz": "alvaro", "texto": "¿Y la policía? ¿Dio alguna explicación?" },
-    { "voz": "ximena", "texto": "Ese fue uno de los grandes escándalos. El filósofo y periodista Theodor Lessing cubrió el juicio y criticó con dureza que el principal sospechoso fuera un colaborador de la policía. Acabaron expulsándolo de la sala." },
-    { "voz": "ximena", "texto": "Lessing denunció que una sociedad tan desigual había dejado a aquellos jóvenes a merced de cualquiera, y que las autoridades habían mirado hacia otro lado. Sus artículos le granjearon muchos enemigos. En 1933, ya en el exilio, Lessing fue asesinado por simpatizantes nazis." },
-    { "voz": "ximena", "texto": "Haarmann fue guillotinado en Hannover en abril de 1925. Su caso, junto a otros como el de Peter Kürten, marcó la imagen de la Alemania de entreguerras: un país en crisis donde el crimen parecía crecer en la sombra." },
-    { "voz": "alvaro", "texto": "Y el caso pasó también a la cultura popular." },
-    { "voz": "ximena", "texto": "Sí. Inspiró canciones populares, obras de teatro y películas, como Der Totmacher, de 1995, basada en las actas de sus entrevistas con el psiquiatra que lo examinó. Hannover, en cambio, prefirió durante mucho tiempo no recordarlo." },
-    { "voz": "ximena", "texto": "El caso dejó también una lección incómoda sobre el uso de confidentes: cuando la policía protege a quien le resulta útil, puede acabar cerrando los ojos ante lo que hace. Una advertencia que sigue vigente casi un siglo después." },
-    { "voz": "ximena", "texto": "Pero el centro de esta historia deben ser los veinticuatro jóvenes que la justicia reconoció como víctimas. Chicos pobres, aprendices, fugados de casa, que buscaban una oportunidad en una ciudad que no supo protegerlos." },
-    { "voz": "ximena", "texto": "Muchas de sus familias tardaron años en saber qué había sido de ellos. Algunas lo supieron al reconocer una prenda de ropa entre los objetos recuperados. Hasta aquí el expediente de Fritz Haarmann, el vampiro de Hannover. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El cráneo del Leine",
+      "tipo": "hallazgo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Fritz Haarmann, el vampiro de Hannover. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. El cráneo del Leine."},
+        {"voz": "ximena", "texto": "Mayo de 1924, Hannover. Unos niños que juegan a orillas del río Leine encuentran un cráneo humano. En las semanas siguientes aparecen más. La ciudad entra en pánico y circulan rumores de todo tipo."},
+        {"voz": "ximena", "texto": "Entre los huesos hay restos de gente joven. Alguien lleva años matando en Hannover. Los rumores se extienden por toda la ciudad, día tras día, mientras la policía sigue sin respuestas. Y el culpable está mucho más cerca de la policía de lo que nadie imagina."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Anoto el contexto. Es la Alemania de la posguerra: hambre, inflación, desempleo. Miles de jóvenes sin casa llegan a las estaciones buscando trabajo. En 1923, la hiperinflación llegó a hacer que el dinero perdiera su valor de un día para otro. Un chico que no vuelve a su casa no siempre hace saltar una alarma."},
+        {"voz": "ximena", "texto": "Fritz Haarmann había nacido en Hannover en 1879. Tenía un largo historial de delitos, con condenas por delitos sexuales contra chicos desde 1896, y había pasado por instituciones psiquiátricas y por la cárcel. Al terminar la Primera Guerra Mundial vivía de pequeños negocios en el mercado negro, sobre todo de ropa usada."},
+        {"voz": "ximena", "texto": "Y era confidente de la policía. Les pasaba información sobre ladrones y traficantes y, a cambio, se movía con libertad por la estación central. Eso le permitía acercarse a los jóvenes que llegaban a la ciudad. Vivía con un joven, Hans Grans, su amante, que acabaría sentándose con él en el banquillo."},
+        {"voz": "alvaro", "texto": "Un confidente es útil porque conoce el hampa. Pero quien necesita a un informante le debe algo. Y eso, a veces, significa cerrar los ojos. Es una hipótesis mía; el hecho es que lo era."},
+        {"voz": "alvaro", "texto": "Pensemos en lo que eso significa. Un hombre con antecedentes, protegido por la propia policía. Los chicos no tenían ningún motivo para desconfiar."},
+        {"voz": "ximena", "texto": "Las víctimas eran chicos y jóvenes de entre diez y veintidós años. Muchos eran muchachos sin casa o fugados de la suya. La ciudad, según recuerda hoy el propio Hannover, tramitó las denuncias de desaparición con retraso. La policía acabó relacionando con él a veintisiete chicos desaparecidos. Y se sospechó que la cifra era mayor, porque muchas denuncias se presentaron tarde."},
+        {"voz": "ximena", "texto": "La primera desaparición documentada es la de Friedel Rothe, en septiembre de 1918. Los padres de aquel chico señalaron a Haarmann. La policía registró su vivienda, pero no encontró nada. Años después, el propio Haarmann reconoció que los agentes habían estado cerca de descubrirlo todo."},
+        {"voz": "alvaro", "texto": "Hubo señales. Hubo registros. Y no hubo nadie que las uniera. Es lo que más me pesa de este expediente: la información existía, pero repartida entre papeles que nadie cruzó."},
+        {"voz": "ximena", "texto": "Tras los hallazgos del río, la policía por fin sospechó de un asesino en serie. El 13 de junio de 1924 apareció un cuarto cráneo. Desde el 17 de junio, Haarmann estaba vigilado por policías que no se dejaban ver. Ahora el confidente de la policía era el sospechoso, y los policías que lo seguían no podían delatarse."},
+        {"voz": "ximena", "texto": "El 22 de junio de 1924 lo detuvieron tras un incidente con un chico de quince años en la estación. Al registrar su vivienda aparecieron manchas y ropa que familias de desaparecidos reconocieron. Tenía cuarenta y cuatro años."},
+        {"voz": "ximena", "texto": "Confesó, por etapas. Más tarde se retractó. Y volvió a confirmar siete muertes en los primeros días de julio. Según el relato más aceptado, tras una pausa de unos cinco años después de 1918, los crímenes se habían reanudado en 1923."},
+        {"voz": "alvaro", "texto": "Con esa confesión se resolvía una pregunta y se abría otra mucho más grande. Cuántos eran. Y cómo había sido posible, durante años, delante de todos. Para eso hizo falta un juicio. Y un periodista al que echaron de la sala."}
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "La palabra que faltaba",
+      "tipo": "juicio",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. La palabra que faltaba."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Fritz Haarmann, detenido en Hannover el 22 de junio de 1924. Lo dejamos confesando, por etapas, ante una ciudad que no sabía cuántos eran."},
+        {"voz": "ximena", "texto": "El 5 de julio de 1924 bajaron el nivel del río Leine para buscar. Se recuperaron unos trescientos fragmentos de huesos, que los peritos atribuyeron a un mínimo de veintidós personas."},
+        {"voz": "ximena", "texto": "El juicio se celebró en Hannover del 4 al 19 de diciembre de 1924, en catorce sesiones. Lo acusaron de veintisiete asesinatos cometidos entre 1918 y 1924. Él reconoció nueve, consideró posibles otros doce y negó seis."},
+        {"voz": "alvaro", "texto": "Esa vacilación es el problema que nunca se resolvió. Haarmann dio cifras distintas, la acusación manejó otras, y algunas desapariciones quizá nunca se investigaron. El número real no se conoce, y yo no voy a inventarlo."},
+        {"voz": "ximena", "texto": "El psiquiatra Ernst Schultze lo declaró plenamente responsable de sus actos. Hoy se considera que aquel informe fue, como mínimo, discutible."},
+        {"voz": "ximena", "texto": "El filósofo y periodista Theodor Lessing cubrió el juicio y criticó con dureza el papel de la policía, que había empleado a Haarmann como confidente. Lo expulsaron de la sala. En 1925 reveló que Haarmann había sido espía de la policía de Hannover, y publicó un libro sobre el caso: «Haarmann. La historia de un hombre lobo»."},
+        {"voz": "alvaro", "texto": "Lessing hizo lo que debía hacer un periodista: preguntó por qué nadie había parado antes a un hombre que la policía conocía bien. Le salió caro. En 1933, ya en el exilio, unos nazis lo mataron a tiros en Marienbad, en Checoslovaquia."},
+        {"voz": "ximena", "texto": "El 19 de diciembre de 1924, Haarmann fue condenado a muerte. El tribunal lo dio por culpable de veinticuatro de los asesinatos. No recurrió la sentencia. Fue guillotinado en Hannover el 15 de abril de 1925."},
+        {"voz": "ximena", "texto": "Su amante y cómplice, Hans Grans, fue condenado a muerte en 1924 por inducir a uno de los asesinatos. En una nueva vista, en 1926, la pena pasó a doce años de cárcel por ayudar a Haarmann. Haarmann dijo a la policía que Grans sabía de muchas muertes. Más tarde escribió una carta para exculparlo. Murió en 1975."},
+        {"voz": "alvaro", "texto": "Hay otra cosa que consta y que me incomoda. Según una memoria publicada en 1961, durante los interrogatorios se recurrió a escenas de intimidación en su celda, que hoy serían ilegales. No cambia lo que hizo. Pero así se obtuvo parte de lo que sabemos."},
+        {"voz": "ximena", "texto": "También hubo rumores de que vendía carne humana. Nunca se probaron. Un perito declaró que la carne hallada en su casa no era humana. La cabeza de Haarmann se conservó en una facultad de medicina hasta 2014, cuando se incineró y se enterró sin nombre."},
+        {"voz": "ximena", "texto": "En febrero de 1925, los restos de las víctimas se enterraron en una tumba de honor, en el cementerio de Stöcken. Los padres y la ciudad discutieron durante años sobre la inscripción del monumento. En abril de 1928 se erigió, por fin, un monumento de granito."},
+        {"voz": "ximena", "texto": "El texto, grabado en el granito, dice: «A la memoria de nuestros queridos hijos, fallecidos entre septiembre de 1918 y julio de 1924». La administración del cementerio no permitió que pusiera «asesinados»."},
+        {"voz": "alvaro", "texto": "Esa palabra que no se dejó escribir lo dice todo. Los padres querían que se nombrara lo que les habían hecho a sus hijos. La ciudad prefirió una fórmula más tranquila. Hannover, durante mucho tiempo, prefirió no recordar."},
+        {"voz": "ximena", "texto": "El caso inspiró películas y obras de teatro, entre ellas «Der Totmacher», de 1995, basada en las actas de sus entrevistas con el psiquiatra. También se ha dicho que influyó en «M», de Fritz Lang."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Friedel Rothe y a los jóvenes de entre diez y veintidós años a quienes la justicia dio por víctimas. Y a unos padres que pelearon para que se escribiera una sola palabra."},
+        {"voz": "ximena", "texto": "Fin del expediente de Fritz Haarmann. Archivo de TRUE CRIME CALENDAR."}
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en y de), hannover.de («100 Jahre Kriminalfall Haarmann»), Wikipedia (en, Theodor Lessing). El resto, de la lectura de los índices. DISCREPANCIAS. 1) Fecha de la ejecución: Wikipedia (en y de) y los titulares de la época citados en sus referencias dan el 15 de abril de 1925; hannover.de dice el 25 de abril. El guion dice el 15. 2) Condenado por 24 de 27: Wikipedia (en); Wikipedia (de) dice que las fuentes difieren sobre el recuento final. El guion dice 24, como la ficha. 3) Opinión de que Grans fue condenado a muerte en 1924: Wikipedia (en); el v2 decía que la pena «se anuló después»; en realidad hubo una nueva vista en 1926 con doce años. Grans estuvo en Sachsenhausen de 1937 a 1945 (Wikipedia en) y murió en 1975: no se menciona. 4) Los «agentes de Berlín» del v2 no se han podido verificar y se han quitado; se dice «policías que no se dejaban ver». También se quitó que Haarmann «se presentaba como agente» y que «vendía la ropa en el mercado» (no verificado). 5) Hallazgo de los cráneos: mayo y junio de 1924 (Wikipedia de; el cuarto cráneo el 13/6); vigilancia desde el 17/6; detención el 22/6 tras un incidente con un chico de 15 años (no se nombra). 6) Veintidós personas / unos 300 fragmentos de hueso el 5 de julio de 1924: solo Wikipedia (de). 7) La memoria de 1961 sobre los interrogatorios con montajes de intimidación: solo Wikipedia (de). 8) Confesión: nueve reconocidas, doce posibles y seis negadas (hannover.de). La confirmación de siete muertes los días 1 y 2 de julio es de Wikipedia (de). 9) Friedel Rothe: primera víctima documentada en septiembre de 1918 (Wikipedia de); la ficha del v2 sitúa la denuncia en 1918; los padres señalaron a Haarmann (v2; hannover.de recoge que se registró su vivienda). Se mantiene el nombre porque los padres hablaron en público (denuncia, luego la disputa por el monumento); era un caso de hace más de cien años y el nombre es el de la primera víctima registrada. No se nombra a ninguna otra víctima. 10) Los apodos «vampiro» y «hombre lobo» no se explican. 11) Lessing: asesinado la noche del 30 de agosto de 1933 en Marienbad por nazis de los Sudetes (Wikipedia en). La ficha dice «condenado por 24; su cómplice Grans también juzgado»: correcto. 12) La sentencia de 1995 de «Der Totmacher» está en el v2; Wikipedia (en) cita la influencia en «M» como «afirmación». 13) El psicólogo Ernst Schultze: «plenamente responsable», juzgado después discutible (Wikipedia de). RESPETO: no se describen mutilaciones ni métodos; solo se nombra a Friedel Rothe. Se omite el apodo «el carnicero»."
 }
