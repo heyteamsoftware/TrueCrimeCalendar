@@ -53,11 +53,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Dentro del cuartel. La versión oficial dice que fue durante un rastrillaje, a las cuatro y media de la tarde. Pero hay testimonios, entre ellos el de un general, que sugieren que se encontró antes. Esto no está aclarado."
+          "texto": "Dentro del cuartel. La versión oficial dice que fue durante un rastrillaje, a las cuatro y media de la tarde. Pero hay testimonios que sugieren que se encontró antes. Esto no está aclarado."
         },
         {
           "voz": "ximena",
-          "texto": "La conmoción en Argentina fue enorme: el caso desacreditó la Colimba, tal como se conocía popularmente al servicio militar. El juez federal Rubén Caro procesó el 4 de julio a un subteniente, Ignacio Canevaro, y a dos soldados, Cristian Suárez y Víctor Salazar. Un sargento, Carlos Sánchez, fue acusado de encubrimiento."
+          "texto": "La conmoción en Argentina fue enorme: el caso desacreditó la Colimba, tal como se conocía popularmente al servicio militar. El juez federal Rubén Caro procesó a un subteniente, Ignacio Canevaro, y a dos soldados, Cristian Suárez y Víctor Salazar. Un sargento, Carlos Sánchez, fue acusado de encubrimiento."
         },
         {
           "voz": "ximena",
@@ -69,7 +69,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Mientras tanto, la sociedad ya había sacado sus conclusiones. El 31 de agosto de 1994, el presidente Carlos Menem decretó el fin del servicio militar obligatorio, que se sustituyó por un sistema voluntario y remunerado."
+          "texto": "Mientras tanto, la sociedad ya había sacado sus conclusiones. El 31 de agosto de 1994, el presidente Carlos Menem anunció el fin del servicio militar obligatorio, y una ley lo sustituyó poco después por un sistema voluntario y remunerado."
         },
         {
           "voz": "ximena",
@@ -77,7 +77,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cumplieron sus penas. Salazar y Suárez obtuvieron la libertad condicional en el año 2000, y Canevaro salió en 2004. Pero hay una cuenta que nunca se cerró: hasta dónde llegó el encubrimiento."
+          "texto": "Todos cumplieron sus penas. Pero hay una cuenta que nunca se cerró: hasta dónde llegó el encubrimiento."
         },
         {
           "voz": "ximena",
@@ -102,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "Hallazgo: la versión oficial (rastrillaje del 6 de abril, 16.30) está discutida (Río Negro 2024 recoge un general y una civil que sugieren que fue antes). La Capital sitúa el hallazgo a unos 700 metros de la compañía. Peritaje alternativo (Brailovsky, muerte el 8 o 9 de marzo por mala atención médica): se menciona sin nombre y sin adoptarlo. Prescripción: 2005 prescrita, 2007 Casación la revocó (Infobae), 2024 Río Negro la da por prescrita; se dice así. Los soldados condenados se nombran por constar en la sentencia. Sánchez 3 años (Río Negro). La frase de que sus padres supieron dos semanas después sale de La Capital. No se describen las lesiones. 'Durante un mes' del Ejército: del 6 de marzo al 6 de abril. El texto 'un tribunal consideró probado el encubrimiento' se apoya en la condena de Sánchez."
+  "nota_revision": "Hallazgo: la versión oficial (rastrillaje del 6 de abril, 16.30) está discutida (Río Negro 2024 recoge testimonios que sugieren que fue antes). Peritaje alternativo (muerte el 8 o 9 de marzo por mala atención médica): se menciona sin nombre y sin adoptarlo. Prescripción: 2005 prescrita, 2007 Casación la revocó (Infobae), 2024 Río Negro la da por prescrita. Los condenados se nombran por constar en la sentencia. Revisión: quitadas las fechas de libertad condicional (sin fuente) y la del procesamiento; fin de la conscripción: anuncio de Menem el 31/08/1994 y ley posterior (fecha exacta de la ley, 1994-1995, sin comprobar). No se describen las lesiones."
 }

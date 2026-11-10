@@ -33,15 +33,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "París, 11 de marzo de 1892. Hacia las seis de la tarde, un hombre deja un paquete en el número 136 del bulevar Saint-Germain y sale del edificio. Poco después, una explosión sacude la escalera y los cristales de toda la calle."
+          "texto": "París, 11 de marzo de 1892. Un hombre deja un paquete en el número 136 del bulevar Saint-Germain y sale del edificio. Poco después, una explosión sacude la escalera y los cristales de toda la calle."
         },
         {
           "voz": "ximena",
-          "texto": "En el cuarto piso vive un magistrado, Edmond Benoît. Quedó ileso. Hubo un herido, y daños materiales graves. Pero la bomba no había sido puesta en el edificio por casualidad."
+          "texto": "Allí vive un magistrado, Edmond Benoît. Hubo un herido, y daños materiales graves. Pero la bomba no había sido puesta en el edificio por casualidad."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un paquete de dinamita en la casa de un juez. El mensaje no es para los vecinos, es para el sistema judicial entero. Y quien lo dejó sabía muy bien en qué piso vivía Benoît."
+          "texto": "Primera nota. Un paquete de dinamita en la casa de un juez. El mensaje no es para los vecinos, es para el sistema judicial entero. Y quien lo dejó sabía muy bien dónde vivía Benoît."
         },
         {
           "voz": "ximena",
@@ -81,7 +81,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 26 de abril de 1892, el tribunal de París le condenó a trabajos forzados a perpetuidad por los atentados. Asumió él solo la responsabilidad y dijo que actuaba para vengar a los condenados de Clichy."
+          "texto": "El 26 de abril de 1892, el tribunal de París le condenó a trabajos forzados a perpetuidad por los atentados. Declaró que actuaba para vengar a los condenados de Clichy."
         },
         {
           "voz": "ximena",
@@ -93,11 +93,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fue guillotinado el 11 de julio de 1892 en Montbrison. No pidió la gracia y se negó a recibir al capellán. Sus últimas palabras quedaron cortadas, y nunca se supo con certeza cómo terminaban."
+          "texto": "Fue guillotinado el 11 de julio de 1892 en Montbrison. No pidió la gracia y se negó a recibir al capellán."
         },
         {
           "voz": "ximena",
-          "texto": "Después de su muerte, algunos anarquistas lo convirtieron en un mito. Se escribieron canciones y elogios. Y hubo más atentados: en 1893 una bomba en el Parlamento francés, y en 1894 el asesinato del presidente Sadi Carnot."
+          "texto": "Después de su muerte, algunos anarquistas lo convirtieron en un mito. Se escribieron canciones y elogios. En los años siguientes hubo más atentados: en 1893 una bomba en el Parlamento francés, y en 1894 el asesinato del presidente Sadi Carnot."
         },
         {
           "voz": "alvaro",
@@ -114,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "El número de heridos de la calle de Clichy (siete) es de la Wikipedia francesa y de Encyclopedia.com; la ficha dice 1 herido (bulevar). Fecha de la bomba: Maitron y Wikipedia francesa (11 de marzo). Bomba del restaurante Véry (días después de la ejecución según Encyclopedia.com, 25 de abril según la Wikipedia francesa) no se menciona. No se nombra al ermitaño (Jacques Brunel, 93 años según la Wikipedia francesa). El año anterior (1891) de la manifestación de Clichy no están en la ficha (1891, Wikipedia francesa, no verificado): revisar. 'Diez agentes': Encyclopedia.com. 'Terror' y vínculos con los atentados de 1893 y 1894: Encyclopedia.com y Wikipedia francesa (Vaillant y Caserio). 'Condenado también por varios crímenes que probablemente no cometió': Encyclopedia.com. 'Los 40.000 francos' no se usan."
+  "nota_revision": "El número de heridos de la calle de Clichy (siete) es de la Wikipedia francesa y de Encyclopedia.com; la ficha dice 1 herido (bulevar). Fecha de la bomba: Maitron y Wikipedia francesa (11 de marzo). Bomba del restaurante Véry no se menciona. No se nombra al ermitaño. Revisión: quitados la hora (las seis de la tarde, sin fuente), el piso (cuarto) y que Benoît 'quedó ileso' (la ficha solo habla de un herido), y las 'últimas palabras'. La manifestación de Clichy en 1891 sale de la Wikipedia francesa y es de dominio común. 'Diez agentes': Encyclopedia.com. 'Condenado también por varios crímenes que probablemente no cometió': Encyclopedia.com."
 }

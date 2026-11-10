@@ -31,15 +31,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su mujer esperó en la terminal. Llamó a casa y nadie contestó. Sus compañeros, entre ellos Alexanko, tampoco lograron localizarlo. Empezaron a sospechar que algo iba muy mal."
+          "texto": "Su mujer esperó en la terminal. Sus compañeros, entre ellos Alexanko, tampoco lograron localizarlo. Empezaron a sospechar que algo iba muy mal."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un futbolista famoso desaparece a la salida de un estadio. Dos hombres armados, según la policía, lo abordaron cuando iba en el coche. Nadie vio nada útil. Y los autores se escondían tras un nombre inventado."
+          "texto": "Primera nota. Un futbolista famoso desaparece a la salida de un estadio. Dos hombres armados, según la policía, lo abordaron cuando iba en el coche. Y los autores se escondían tras un nombre inventado."
         },
         {
           "voz": "ximena",
-          "texto": "Se hacían llamar «Batallón Catalano-Español». Al día siguiente, uno de ellos telefoneó a La Vanguardia con un mensaje político: el equipo no ganaría la Liga «de los separatistas»."
+          "texto": "Se hacían llamar «Batallón Catalano-Español». Al día siguiente, uno de ellos telefoneó a La Vanguardia con un mensaje político, dirigido contra las aspiraciones del Barça de ganar la Liga."
         },
         {
           "voz": "alvaro",
@@ -47,7 +47,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pedían cien millones de pesetas, ingresados en un banco suizo. Mientras tanto, el equipo se hundía: perdió en Madrid y sumó un solo punto en los cinco partidos siguientes. Los jugadores dijeron después que no estaban para jugar."
+          "texto": "Pedían cien millones de pesetas, ingresados en un banco suizo. Mientras tanto, el equipo se hundió en la Liga. Los jugadores dijeron después que no estaban para jugar."
         },
         {
           "voz": "ximena",
@@ -63,7 +63,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El club accedió a pagar. El dinero era real, y la policía española preparó la operación con la policía suiza. El 25 de marzo se ingresó en una cuenta en Ginebra, y alguien acudió a retirar una parte."
+          "texto": "El club accedió a pagar. El dinero era real, y la policía española preparó la operación con la policía suiza. El dinero se ingresó en una cuenta en Ginebra, y alguien acudió a retirar una parte."
         },
         {
           "voz": "alvaro",
@@ -79,7 +79,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El policía recordaba una escena que me quedó grabada. Quini estaba bajo un colchón, convencido de que iban a matarlo. No se fiaba de nadie que entrara en ese cuarto."
+          "texto": "El comisario recordaba una escena que le quedó grabada: Quini, en aquel cubículo, no se fiaba de nadie que entrara en el cuarto. Llevaba semanas sin saber cuándo terminaría."
         },
         {
           "voz": "ximena",
@@ -91,7 +91,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Otra nota. Eran tres hombres sin trabajo que pensaron que un hombre pacífico no se resistiría. Eligieron a Quini porque, si él no pagaba, pagaría su club. No lo hacen más justo. Lo hacen más triste."
+          "texto": "Otra nota. Eran tres hombres sin trabajo. Según el comisario, eligieron a Quini porque era un hombre querido y pacífico. Eso no lo hace más justo. Lo hace más triste."
         },
         {
           "voz": "ximena",
@@ -112,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: Vozpópuli dice que lo abordaron en una gasolinera y la ficha que salía en coche hacia el aeropuerto (se dice solo que lo abordaron cuando iba en el coche); Vozpópuli dice electricistas, ficha y selección dicen en paro (se dice en paro). Solo el FC Barcelona nombra a uno (Díaz Esteban, el que cobró en Ginebra). Vozpópuli sitúa el taller en la calle Jerónimo Vicens sin certeza (no se nombra); un captor no estaba en el zulo (no se dice más). Vozpópuli habla de 24 días encerrado; contando desde el 1 al 25 de marzo son 24. 'Dos hombres armados' lo dice Vozpópuli (dos personas); la ficha, a punta de pistola. Fecha de sentencia: FC Barcelona. Se dice que murió años después sin concretar fecha."
+  "nota_revision": "Contradicciones: Vozpópuli dice que lo abordaron en una gasolinera y la ficha que salía en coche hacia el aeropuerto (se dice solo que lo abordaron cuando iba en el coche); Vozpópuli dice electricistas, ficha y selección dicen en paro (se dice en paro). Solo el FC Barcelona nombra a uno (Díaz Esteban, el que cobró en Ginebra). Revisión: quitadas la frase literal del mensaje a La Vanguardia, la racha de puntos del equipo, el 25 de marzo como fecha del ingreso (es la de la liberación), la frase de que Quini creía que iban a matarlo y el motivo atribuido a los secuestradores sin fuente. Fecha de sentencia (15/01/1982): FC Barcelona. Se dice que murió años después sin concretar fecha."
 }

@@ -55,7 +55,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La moto, una Indian con sidecar, fue la clave. En menos de tres días, según una crónica, la Guardia Civil la localizó en un garaje de Ciudad Lineal, con armas y munición. De ahí se llegó a la casa de Pedro Mateu."
+          "texto": "La moto, una Indian con sidecar, fue la clave. En menos de tres días, según una crónica, la policía la localizó en un garaje de Ciudad Lineal, con armas y munición. De ahí se llegó a la casa de Pedro Mateu."
         },
         {
           "voz": "ximena",
@@ -63,7 +63,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en lo que no pasó. Alguien que huye después de un atentado político suele tener una red, un lugar al que ir, gente que lo esconda. Los tres eran sindicalistas barceloneses, de la CNT."
+          "texto": "Fíjate en lo que no pasó. Los tres eran sindicalistas barceloneses, de la CNT, y dos de ellos lograron salir de España. No fue un crimen improvisado."
         },
         {
           "voz": "ximena",
@@ -79,7 +79,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Alemania extraditó a Nicolau en 1922, con la condición de que no se le aplicara la pena de muerte. Casanellas, desde la Unión Soviética, escribió cartas asumiendo que era el único responsable. Se le juzgó en rebeldía."
+          "texto": "Alemania extraditó a Nicolau en 1922, con la condición de que no se le aplicara la pena de muerte. Casanellas, desde la Unión Soviética, asumió, según El Independiente, la responsabilidad. Se le juzgó en rebeldía."
         },
         {
           "voz": "ximena",
@@ -99,7 +99,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "No cambiaron. Dato fue enterrado dos días después. El Gobierno decretó tres días de luto, y sus restos se trasladaron al año siguiente al Panteón de Hombres Ilustres."
+          "texto": "No cambiaron. Dato fue enterrado dos días después. El Gobierno decretó tres días de luto."
         },
         {
           "voz": "ximena",
@@ -116,5 +116,5 @@
       ]
     }
   ],
-  "nota_revision": "Discrepancias: Wikipedia dice cadena perpetua desde el principio; el Congreso y El Independiente, condena a muerte conmutada (se sigue la segunda). Amnistía de 1931: la ficha dice Mateu y Nicolau; El Independiente dice que los tres; el guion nombra solo a Mateu y Nicolau. Edad de Dato (64). Hora: 20:15 (El Independiente) o 'al caer la tarde'. Cinco impactos y ocho balazos: Congreso; otra fuente dice tres disparos mortales (no se usa). 'Mateu: carta/entrevista 1967': El Independiente. 'Ley de fugas' explicación citada de Mateu en el juicio. 'Dictadura' alude a Primo de Rivera (1923). Tercer presidente asesinado: Congreso."
+  "nota_revision": "Discrepancias: Wikipedia dice cadena perpetua desde el principio; el Congreso y El Independiente, condena a muerte conmutada (se sigue la segunda). Amnistía de 1931: la ficha dice Mateu y Nicolau; El Independiente dice que los tres; el guion nombra solo a Mateu y Nicolau. Edad de Dato (64). Hora: 20:15 (El Independiente) o 'al caer la tarde'. Cinco impactos y ocho balazos: Congreso; otra fuente dice tres disparos mortales (no se usa). Revisión: quitado el traslado de los restos al Panteón de Hombres Ilustres (sin fuente), 'Guardia Civil' (la ficha solo dice que la moto apareció) y atribuida a El Independiente la carta de Casanellas. Edad 64: nace el 12/08/1856 (RAH, conocido). 'Tercer presidente asesinado': Congreso."
 }

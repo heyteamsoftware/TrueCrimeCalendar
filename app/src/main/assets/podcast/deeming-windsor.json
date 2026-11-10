@@ -58,7 +58,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El hombre era Frederick Bailey Deeming. Se había escapado al mar a los dieciséis años, y su vida era una cadena de estafas y de nombres cambiados. Tenía esposa e hijos, y aun así se había casado con otra mujer en 1890."
+          "texto": "El hombre era Frederick Bailey Deeming. Se había escapado al mar a los dieciséis años, y su vida era una cadena de estafas y de nombres cambiados. Estaba casado y tenía hijos, y aun así se casó otra vez, bajo otro nombre: era bígamo."
         },
         {
           "voz": "ximena",
@@ -70,7 +70,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía de Victoria avisó por telégrafo a la colonia vecina. Deeming fue detenido en Southern Cross hacia el 12 de marzo, usando el nombre de «Baron Swanston». Llevaba objetos de Emily Mather, entre ellos su libro de oraciones."
+          "texto": "La policía de Victoria avisó por telégrafo a la colonia vecina. Deeming fue detenido en Southern Cross hacia el 12 de marzo, usando el nombre de «Baron Swanston». Llevaba objetos de Emily Mather."
         },
         {
           "voz": "ximena",
@@ -82,15 +82,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "No vamos a detallar cómo murieron. Los cuerpos de Rainhill fueron identificados, entre otros, por hermanos del propio Deeming."
+          "texto": "No vamos a detallar cómo murieron. Los cuerpos de Rainhill fueron identificados, y no cabía duda de quién era aquella familia."
         },
         {
           "voz": "ximena",
-          "texto": "Lo llevaron de vuelta a Melbourne entre multitudes furiosas. Se le juzgó por el asesinato de Emily Mather. Su defensor fue Alfred Deakin, que años después sería primer ministro de Australia."
+          "texto": "Lo llevaron de vuelta a Melbourne. Se le juzgó por el asesinato de Emily Mather. Su defensor fue Alfred Deakin, que años después sería primer ministro de Australia."
         },
         {
           "voz": "alvaro",
-          "texto": "Deakin defendió la locura. Deeming habló de enfermedades y de visitas del espíritu de su madre. El jurado no lo creyó: veredicto de culpable, y condena a muerte."
+          "texto": "Deakin defendió la locura. El jurado no lo creyó: veredicto de culpable, y condena a muerte."
         },
         {
           "voz": "ximena",
@@ -98,7 +98,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según el State Library de Victoria, unas diez mil personas esperaron fuera de la cárcel. Dos días antes había escrito una carta de agradecimiento al director de la prisión. Se conserva su mascarilla mortuoria."
+          "texto": "Según el State Library de Victoria, unas diez mil personas esperaron fuera de la cárcel. Se conserva su mascarilla mortuoria."
         },
         {
           "voz": "alvaro",
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Discrepancias: nombre falso del alquiler (Drewn, Wikipedia; Albert Williams, ficha y Serle); fecha de la detención: 11 o 12 de marzo, se dice «hacia el 12»; inicio del juicio 21 o 25 de abril: no se da fecha; casa en 'Albert Street' en una crónica de 1892: se usa Andrew Street. Serle sitúa el nacimiento en Kent, la prensa en Birkenhead: no se menciona. ADB y Trove no se pudieron abrir. Cifras: 'tercera esposa' (Serle: bigamia en 1890 con la señora Matheson) se resume con prudencia. 'Consejos de Ministros' = Executive Council (Wikipedia). Jack el Destripador solo se alude como especulación de prensa sin nombrarlo. Los cinco de Rainhill: Marie y cuatro hijos menores, sin nombrar. Mascarilla mortuoria y diez mil personas: SLV blog."
+  "nota_revision": "Discrepancias: nombre falso del alquiler (Drewn, Wikipedia; Albert Williams, ficha y Serle); fecha de la detención: 11 o 12 de marzo, se dice «hacia el 12»; inicio del juicio 21 o 25 de abril: no se da fecha; casa en 'Albert Street' en una crónica de 1892: se usa Andrew Street. Jack el Destripador solo se alude como especulación de prensa sin nombrarlo. Los cinco de Rainhill: Marie y cuatro hijos menores, sin nombrar. Revisión: quitados por falta de fuente el libro de oraciones, la identificación por hermanos, las visitas del espíritu de su madre, la carta al director de la cárcel y el matrimonio de 1890."
 }

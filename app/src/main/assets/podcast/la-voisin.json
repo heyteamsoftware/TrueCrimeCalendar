@@ -43,7 +43,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Una mujer que sabía más secretos de la corte que muchos ministros. Y vivía a la vista de todos, con jardines y fiestas, en un barrio de París. Hasta que alguien habló."
+          "texto": "Primera nota. Una mujer que conocía muchos secretos de la gente de la corte. Y vivía a la vista de todos, con jardines y fiestas, en un barrio de París. Hasta que alguien habló."
         },
         {
           "voz": "ximena",
@@ -63,7 +63,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Entre 1679 y 1682 interrogó a cientos de personas. El Ministerio de Justicia francés da 442 acusados. Cerca de una docena de magistrados del Parlamento de París lo componían."
+          "texto": "Entre 1679 y 1682 interrogó a cientos de personas. El Ministerio de Justicia francés da 442 acusados."
         },
         {
           "voz": "alvaro",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Voisin fue juzgada en febrero de 1680. Admitió vender venenos y servicios mágicos, y nombró a algunos clientes. El 22 de febrero fue condenada a muerte y quemada en la plaza de Grève, ante mucha gente."
+          "texto": "La Voisin fue juzgada en febrero de 1680. El 22 de febrero fue condenada a muerte y quemada en la plaza de Grève, ante mucha gente."
         },
         {
           "voz": "ximena",
@@ -83,7 +83,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El rey ordenó que los magistrados dejasen de usar registros en esos interrogatorios, y que esas hojas se guardasen en un cofre sellado. Mandó a la cámara no tratar más casos en que apareciera el nombre de Montespan."
+          "texto": "El rey ordenó guardar aquellas hojas en un cofre sellado, y apartó de la cámara los casos en que aparecía el nombre de Montespan."
         },
         {
           "voz": "ximena",
@@ -95,7 +95,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1709, el rey quemó con sus propias manos los papeles acusadores del cofre. Fue el último acto del asunto de los venenos."
+          "texto": "En 1709, el rey ordenó destruir los papeles acusadores del cofre. Fue el último acto del asunto de los venenos."
         },
         {
           "voz": "alvaro",
@@ -103,7 +103,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La Voisin murió en la hoguera, pero el asunto sobrevivió muchos años a ella: el rey tuvo en su cofre, hasta 1709, un secreto que no quiso dejar que nadie juzgara."
+          "texto": "La Voisin murió en la hoguera, pero el asunto sobrevivió muchos años a ella: hasta 1709, el rey guardó en un cofre un secreto que no quiso dejar que nadie juzgara."
         },
         {
           "voz": "ximena",
@@ -112,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Siglo XVII, antes de la horquilla habitual. Discrepancias: sobre si Bosse nombró a La Voisin bajo tortura (Ministerio de Justicia) o la traicionó (The Connexion): el guion lo dice con ambas versiones. Balance: Justicia francesa 442 acusados, 34 ejecutados, 5 a galeras, 23 desterrados; Britannica y The Connexion, 36. La mención de abortos y misas negras sale de la ficha; no se dan cifras de víctimas. Montespan nunca fue juzgada y las acusaciones de Marguerite se atribuyen con prudencia. 'En el patio de jardines, fiestas' sale de The Connexion (Villeneuve-sur-Gravois). El lugar de la detención (la iglesia) solo lo da Wikipedia. Que la sala estaba tapizada de negro con antorchas: Ministerio de Justicia. Que Marguerite se salvó de la pena de muerte: se interpreta del texto del Ministerio ('échappe au bûcher'). 'Criaturas que no llegaron a nacer' alude a los abortos, sin detalles."
+  "nota_revision": "Siglo XVII, antes de la horquilla habitual. Discrepancias: sobre si Bosse nombró a La Voisin bajo tortura (Ministerio de Justicia) o la traicionó (The Connexion): el guion lo dice con ambas versiones. Balance: Justicia francesa 442 acusados, 34 ejecutados, 5 a galeras, 23 desterrados; Britannica y The Connexion, 36. Revisión: quitadas la admisión de culpa de La Voisin en el juicio y el número de magistrados (sin fuente contrastada) y suavizado 'secretos de la corte'. Montespan nunca fue juzgada y las acusaciones de Marguerite se atribuyen con prudencia. El lugar de la detención (la iglesia) solo lo da Wikipedia. Sala tapizada de negro: Ministerio de Justicia. Marguerite se salvó de la pena de muerte: se interpreta del texto del Ministerio. Los papeles destruidos en 1709: dato extendido (Wikipedia/Somerset), sin segunda fuente abierta."
 }

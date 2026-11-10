@@ -28,11 +28,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Nota del inspector. Lo que me interesa de esta detención es que nadie lo buscaba a él. No había orden contra ese hombre. Fue una patrulla corriente y un maletín sospechoso. Y el detenido, para empezar, da a los agentes un nombre falso."
+          "texto": "Nota del inspector. Lo que me interesa de esta detención es que nadie lo buscaba a él. No había orden contra ese hombre. Fue una patrulla corriente y un maletín sospechoso."
         },
         {
           "voz": "ximena",
-          "texto": "Cuando por fin se establece su identidad, la sorpresa es doble. Se llama Daniel Camargo Barbosa, es colombiano y tiene cincuenta y seis años. Y en su país lo daban por muerto."
+          "texto": "Cuando se establece su identidad, la sorpresa es doble. Se llama Daniel Camargo Barbosa, es colombiano y tiene cincuenta y seis años. Y en su país lo daban por muerto."
         },
         {
           "voz": "ximena",
@@ -143,7 +143,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En noviembre de 1994, Daniel Camargo Barbosa murió apuñalado en la cárcel. Lo mató otro recluso, Geovanny Noguera, que acababa de ser trasladado desde Guayaquil. Según la prensa, era familiar de una de sus víctimas."
+          "texto": "En noviembre de 1994, Daniel Camargo Barbosa murió apuñalado en la cárcel. Lo mató otro recluso, que acababa de ser trasladado desde Guayaquil. Según la prensa, era familiar de una de sus víctimas."
         },
         {
           "voz": "alvaro",
@@ -159,11 +159,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según la crónica de la agencia France Presse tras su muerte, unas treinta víctimas habían podido identificarse. De otras, unas veinte, no fue posible: el tiempo había borrado lo que quedaba de ellas."
+          "texto": "Según la crónica de la agencia France Presse tras su muerte, unas treinta víctimas habían podido identificarse. De otras, unas veinte, no fue posible. Otras fuentes dan cifras distintas, y ninguna está comprobada."
         },
         {
           "voz": "alvaro",
-          "texto": "Esa es la cifra que más me pesa. No los setenta, ni los ciento cincuenta. Las veinte sin nombre. Detrás de cada una hay una familia en Guayaquil, en Quevedo o en Machala que quizá sigue esperando saber si su hija estaba entre ellas."
+          "texto": "Lo que más me pesa no son los setenta ni los ciento cincuenta. Son las víctimas sin nombre. Detrás de cada una hay una familia en Guayaquil, en Quevedo o en Machala que quizá sigue esperando saber si su hija estaba entre ellas."
         },
         {
           "voz": "ximena",
@@ -180,5 +180,5 @@
       ]
     }
   ],
-  "nota_revision": "FUENTES en web/datos/fuentes/camargo.json. DISCREPANCIAS CON LA FICHA: 1) Alias: la ficha dice «El sádico del Chinchiná»; las fuentes (El Tiempo, 15/11/1994 y 2018/2021) dicen «el sádico del Charquito», por la vereda El Charquito de Soacha. El guion usa «Charquito»: conviene corregir la ficha (campo a). 2) Ficha (st): «asesinado en la penitenciaría García Moreno». Wikipedia en castellano dice «Centro de Rehabilitación de Varones n.º 2 de Quito»; El Tiempo/AFP y Vistazo no nombran la cárcel. El guion dice «una cárcel de Quito». 3) Ficha (per) 1974–1986 y v2 «setenta y dos asesinatos»: Vistazo y Wikipedia en castellano dan 71 confesados; Wikipedia en inglés, 72; El Tiempo/AFP, «más de cincuenta». El guion dice «más de setenta». OTRAS DISCREPANCIAS: lugar de nacimiento (Anolaima según Wikipedia en inglés y Vistazo; La Mesa según El Tiempo 2021): el guion dice «Cundinamarca». Condenas en Colombia en los años sesenta (1964, de 3 a 8 años, según Wikipedia en inglés; 1967-1968 y 5 años según El Tiempo y Wikipedia en castellano): el guion dice «en los años sesenta». Condena de Barranquilla: 30 rebajada a 25 (Wikipedia en inglés), 25 (Vistazo, Wikipedia en castellano), 30 (El Tiempo 2021), 24 (El Tiempo/AFP 1994, que además habla de «unas veinte mujeres»); el guion dice «unos veinticinco años» por el asesinato de una niña. Fuga: 23/11/1984 según Vistazo; método discutido (canoa y tres días a la deriva, según El Tiempo y Wikipedia en castellano; traje de buceo y lancha de suministros, según Vistazo); el guion da las dos versiones. Año de la condena de 16 años: 1986 (Vistazo) o 1989 (Wikipedia en inglés): el guion no da año. Edad de la última víctima: 9 años (Wikipedia en inglés) o 12 (El Tiempo/AFP): el guion dice «una niña». Muerte: 13/11/1994 (las dos Wikipedias); El Tiempo/AFP, fechado el 15, dice «la víspera»; el guion dice «noviembre de 1994». Parentesco del agresor: «sobrino» (Wikipedias), «pariente» (Vistazo), «familiar» (El Tiempo 2021); El Tiempo/AFP no lo menciona; el guion dice «según la prensa, familiar de una de sus víctimas». Coincidencia con Pedro Alonso López: solo la recoge Wikipedia en castellano; se mantiene con prudencia («según algunas fuentes… no está bien documentada»). Se dejan fuera por tener una sola fuente: el nombre falso (Manuel Bulgarín Solís), el ejemplar de «Crimen y castigo» del maletín, la superviviente que lo identificó, la entrevista de Francisco Febres Cordero (diario Hoy), la madrastra y la conversión religiosa en prisión. No se nombra a ninguna víctima (menores)."
+  "nota_revision": "FUENTES en web/datos/fuentes/camargo.json. DISCREPANCIAS CON LA FICHA: 1) Alias: la ficha dice «El sádico del Chinchiná»; las fuentes (El Tiempo, 15/11/1994 y 2018/2021) dicen «el sádico del Charquito», por la vereda El Charquito de Soacha. El guion usa «Charquito»: conviene corregir la ficha (campo a). 2) Ficha (st): «asesinado en la penitenciaría García Moreno». Wikipedia en castellano dice «Centro de Rehabilitación de Varones n.º 2 de Quito»; El Tiempo/AFP y Vistazo no nombran la cárcel. El guion dice «una cárcel de Quito». 3) Ficha (per) 1974–1986 y v2 «setenta y dos asesinatos»: Vistazo y Wikipedia en castellano dan 71 confesados; Wikipedia en inglés, 72; El Tiempo/AFP, «más de cincuenta». El guion dice «más de setenta». OTRAS DISCREPANCIAS: lugar de nacimiento (Anolaima según Wikipedia en inglés y Vistazo; La Mesa según El Tiempo 2021): el guion dice «Cundinamarca». Condenas en Colombia en los años sesenta (1964, de 3 a 8 años, según Wikipedia en inglés; 1967-1968 y 5 años según El Tiempo y Wikipedia en castellano): el guion dice «en los años sesenta». Condena de Barranquilla: 30 rebajada a 25 (Wikipedia en inglés), 25 (Vistazo, Wikipedia en castellano), 30 (El Tiempo 2021), 24 (El Tiempo/AFP 1994, que además habla de «unas veinte mujeres»); el guion dice «unos veinticinco años» por el asesinato de una niña. Fuga: 23/11/1984 según Vistazo; método discutido (canoa y tres días a la deriva, según El Tiempo y Wikipedia en castellano; traje de buceo y lancha de suministros, según Vistazo); el guion da las dos versiones. Año de la condena de 16 años: 1986 (Vistazo) o 1989 (Wikipedia en inglés): el guion no da año. Edad de la última víctima: 9 años (Wikipedia en inglés) o 12 (El Tiempo/AFP): el guion dice «una niña». Muerte: 13/11/1994 (las dos Wikipedias); El Tiempo/AFP, fechado el 15, dice «la víspera»; el guion dice «noviembre de 1994». Parentesco del agresor: «sobrino» (Wikipedias), «pariente» (Vistazo), «familiar» (El Tiempo 2021); El Tiempo/AFP no lo menciona; el guion dice «según la prensa, familiar de una de sus víctimas». Coincidencia con Pedro Alonso López: solo la recoge Wikipedia en castellano; se mantiene con prudencia («según algunas fuentes… no está bien documentada»). Se dejan fuera por tener una sola fuente: el nombre falso (Manuel Bulgarín Solís), el ejemplar de «Crimen y castigo» del maletín, la superviviente que lo identificó, la entrevista de Francisco Febres Cordero (diario Hoy), la madrastra y la conversión religiosa en prisión. No se nombra a ninguna víctima (menores). Verificación (estrella-1): se quita el nombre falso del detenido (solo Wikipedia en inglés) y el nombre del recluso que lo mató (no consta condena; solo prensa). La ubicación de la detención (Los Granados, Wikipedia en inglés) es compatible con El Telégrafo (2016, el policía Fernando Gómez: cerca del cementerio de El Batán, sobre las 19:00, un hombre salía de un bosque con un maletín al hombro). Cifras de identificadas: AFP dice unas 30; El Universo (23/11/2009) habla de más de 67 casos identificados y 71 mujeres; por eso el guion lo atribuye y dice que las fuentes difieren. Fuentes nuevas: El Universo y El Telégrafo."
 }

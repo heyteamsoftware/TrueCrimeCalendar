@@ -37,7 +37,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. La palabra clave es «buscaban». No fue un tiroteo al azar, y según la sentencia, el plan se había preparado en el sindicato vertical del transporte. Eran los últimos años de la dictadura, y la democracia aún no existía."
+          "texto": "Primera nota. La palabra clave es «buscaban». No fue un tiroteo al azar, y según la sentencia, el plan se había preparado en el sindicato vertical del transporte. Franco había muerto catorce meses antes, y la democracia aún no estaba asentada."
         },
         {
           "voz": "ximena",
@@ -45,7 +45,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los heridos fueron Miguel Sarabia, Alejandro Ruiz-Huerta, Luis Ramos y Lola González. Sobrevivieron, y su testimonio fue clave para reconstruir lo ocurrido."
+          "texto": "Los heridos fueron Miguel Sarabia, Alejandro Ruiz-Huerta, Luis Ramos y Lola González. Sobrevivieron."
         },
         {
           "voz": "alvaro",
@@ -53,7 +53,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El funeral fue el 26 de enero. Más de cien mil personas acompañaron el cortejo por las calles de Madrid, en silencio y sin incidentes. Fue una despedida multitudinaria, silenciosa."
+          "texto": "El funeral fue el 26 de enero. Más de cien mil personas acompañaron el cortejo por las calles de Madrid, en silencio y sin incidentes."
         },
         {
           "voz": "alvaro",
@@ -81,19 +81,19 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Veinte años sin rastro. Y luego un hallazgo casi administrativo: en 2018, la policía federal brasileña lo localizó trabajando de conductor en São Paulo."
+          "texto": "Veinte años sin rastro. Y luego un hallazgo casi administrativo: en 2018, la policía brasileña lo localizó en Brasil."
         },
         {
           "voz": "ximena",
-          "texto": "Fue detenido en diciembre de 2018 y entregado a España. Su defensa alegó prescripción y otros argumentos, y el proceso se alargó trece meses. Llegó al aeropuerto de Barajas el 7 de febrero de 2020 y esa misma mañana ingresó en prisión en Soto del Real."
+          "texto": "Fue detenido en diciembre de 2018. Su defensa alegó prescripción y otros argumentos, y el proceso de extradición se alargó más de un año. Llegó al aeropuerto de Barajas el 7 de febrero de 2020 y esa misma mañana ingresó en prisión en Soto del Real."
         },
         {
           "voz": "alvaro",
-          "texto": "Nada de esto devuelve a los muertos. Pero casi cuarenta y tres años después de la matanza, uno de los condenados volvía por fin a la cárcel. Para las familias, esa fecha pesó."
+          "texto": "Nada de esto devuelve a los muertos. Pero más de cuarenta y tres años después de la matanza, uno de los condenados volvía a la cárcel."
         },
         {
           "voz": "ximena",
-          "texto": "Cinco nombres que no se deben perder: Enrique, Luis Javier, Francisco Javier, Serafín y Ángel. Y cuatro que sobrevivieron para recordarlo. Una noche que dejó a España pensando en sus abogados laborales, en su futuro y en lo que costaba la libertad. Archivo de la memoria de una noche que cambió la forma en que España miró a sus abogados, sus sindicatos y su futuro."
+          "texto": "Cinco nombres que no se deben perder: Enrique, Luis Javier, Francisco Javier, Serafín y Ángel. Y cuatro personas que sobrevivieron para recordarlo. Una noche que marcó a los abogados laboralistas, a los sindicatos y a toda la Transición."
         },
         {
           "voz": "ximena",
@@ -102,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "Tono neutro por la carga política. Discrepancias: sentencia firmada el 29 de febrero y pública el 4 de marzo (se dicen ambas); 193 años por autor material (Diario 16 daba 139, no cuadra con su total); Albaladejo 73 años (Wikipedia da 63 en otro apartado). No se afirma qué ocurrió después de la extradición (la ficha no confirma excarcelación). Detención en Brasil, no en Bolivia (Bolivia fue en los noventa por narcotráfico; Público). El máximo de cumplimiento real y la frase 'primera gran manifestación pacífica' son contexto general no contrastado en las fuentes abiertas: revisar. Otros dos condenados por tenencia de armas: la ficha. Se dice 'la mayor parte de sus penas' sin cifras, porque no se comprobó. Nombres de las víctimas y heridos: Wikipedia; contrastar con otra fuente."
+  "nota_revision": "Tono neutro por la carga política. Discrepancias: sentencia firmada el 29 de febrero y pública el 4 de marzo (se dicen ambas); 193 años por autor material (Diario 16 daba 139, no cuadra con su total); Albaladejo 73 años (la Wikipedia da 63 en otro apartado). No se afirma qué ocurrió después de la extradición. Revisión: quitado que García Juliá trabajara de conductor (la Wikipedia no lo dice), la frase de que el testimonio de los heridos fue clave y la de la 'dictadura' (era la Transición). Nombres de víctimas y heridos contrastados con la Wikipedia en castellano; solo una fuente. Lerdo de Tejada: delito prescrito en 1997 según la Wikipedia, sin pena concreta."
 }

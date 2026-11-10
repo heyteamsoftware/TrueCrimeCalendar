@@ -35,7 +35,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La directora duda. Pero la carta parece auténtica y la niña es la hija de uno de los industriales más ricos de Cheshire. Ellen Turner sube al carruaje. La carta era falsa."
+          "texto": "La directora la deja marchar. La carta parece auténtica y la niña es la hija de un rico fabricante de Cheshire. Ellen Turner sube al carruaje. La carta era falsa."
         },
         {
           "voz": "alvaro",
@@ -51,7 +51,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Mira lo que buscaba. No era amor. Wakefield, viudo de una heredera, quería una heredera nueva con la que sostener una carrera política. Y escogió una niña de quince años a la que podía engañar."
+          "texto": "Mira lo que buscaba. No era amor. Según la ficha, buscaba la herencia. Wakefield, según una crónica, ya había estado casado con otra heredera, y escogió a una niña de quince años a la que podía engañar."
         },
         {
           "voz": "ximena",
@@ -63,15 +63,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Wakefield contaba con que la vergüenza le frenara. Que ningún padre querría el escándalo de reclamar a una hija ya casada. Se equivocó."
+          "texto": "Un matrimonio hecho en Escocia parecía irrevocable. Pero la familia no lo aceptó."
         },
         {
           "voz": "ximena",
-          "texto": "En Calais, un agente de policía londinense llevaba una orden que no tenía validez en Francia. Wakefield dejó marchar a Ellen. Ella volvió a casa y dijo que no era su esposa."
+          "texto": "En Calais, un agente de policía londinense llevaba una orden que no tenía validez en Francia. Wakefield dejó marchar a Ellen. Ella volvió a Inglaterra."
         },
         {
           "voz": "ximena",
-          "texto": "En 1827, Wakefield regresó a Inglaterra, convencido de que podía presionar para que se aceptase la boda. Fue detenido. En Lancaster, un jurado deliberó cuarenta y cinco minutos, según HistoryDaily, y declaró culpables a los dos hermanos."
+          "texto": "En 1827 los dos hermanos fueron detenidos. En Lancaster, un jurado deliberó cuarenta y cinco minutos, según HistoryDaily, y declaró culpables a los dos."
         },
         {
           "voz": "ximena",
@@ -79,11 +79,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Hay que recordar que el delito se juzgó como un delito menor, pero la condena fue de tres años de cárcel. La víctima era rica, y el caso se tomó muy en serio. El Parlamento llegó a ocuparse del asunto."
+          "texto": "Fueron juzgados por el rapto y condenados a tres años de cárcel. El Parlamento llegó a ocuparse del asunto."
         },
         {
           "voz": "ximena",
-          "texto": "La condena no deshacía el matrimonio. En aquella época, divorciarse exigía una ley del Parlamento. William Turner usó su influencia, y en pocas semanas, en 1827, una ley anuló el matrimonio."
+          "texto": "La condena no deshacía el matrimonio. En aquella época, divorciarse exigía una ley del Parlamento. En 1827, una ley anuló el matrimonio."
         },
         {
           "voz": "alvaro",
@@ -91,7 +91,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Ellen Turner se casó de nuevo a los diecisiete años con un vecino rico aprobado por su padre. Murió de parto a los diecinueve."
+          "texto": "Ellen Turner se casó de nuevo a los diecisiete años con un vecino de Cheshire. Murió de parto a los diecinueve."
         },
         {
           "voz": "ximena",
@@ -112,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Víctima menor: caso de hace casi dos siglos y su nombre forma parte del nombre histórico del caso (Ellen Turner), se mantiene. Fechas: Clifford da 1827 para el rapto (error, fue 1826); HistoryDaily fecha el juicio el 23 de mayo de 1827 y Wikipedia el 23 de marzo: no se da el mes. La cárcel (Newgate / Lancaster) no se concreta. 'Misdemeanour' y 'condena severa' son comentario del inspector, comprobar con el Hansard. 'Viudo de una heredera' sale de HistoryDaily (se dice 'heredera' sin más). La frase de Ellen 'por su padre' sale de HistoryDaily. El 'anuncio en prensa' el 11 de marzo y Calais, de HistoryDaily. No se menciona a Thevenot. No se dice que el matrimonio no se consumara."
+  "nota_revision": "Víctima menor: caso de hace casi dos siglos y su nombre forma parte del nombre histórico del caso (Ellen Turner), se mantiene. Fechas: Clifford da 1827 para el rapto (error, fue 1826); HistoryDaily fecha el juicio el 23 de mayo de 1827 y Wikipedia el 23 de marzo: no se da el mes. Revisión: quitados 'delito menor / condena severa' (sin comprobar en Hansard), el motivo político de Wakefield, la frase de que Ellen dijo que no era su esposa, que William Turner 'usó su influencia' y que el segundo marido fuese 'aprobado por su padre'. 'Viudo de una heredera', la frase de Ellen 'por su padre', el anuncio de prensa del 11 de marzo y Calais salen de HistoryDaily (una sola fuente web; Hansard confirma el trámite de la ley de nulidad). La muerte de Ellen a los 19 (ODNB, no abierto) sin segunda fuente."
 }

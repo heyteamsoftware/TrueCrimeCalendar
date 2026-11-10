@@ -39,7 +39,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Salvador Puig Antich nació en Barcelona en 1948, en una familia obrera. Su padre, militante catalanista en la República, había estado internado en Argelès-sur-Mer tras la Guerra Civil. Militaba en el Movimiento Ibérico de Liberación, el MIL, un grupo armado anticapitalista y anarquista nacido a finales de 1969."
+          "texto": "Salvador Puig Antich nació en Barcelona en 1948, en una familia obrera. Militaba en el Movimiento Ibérico de Liberación, el MIL, un grupo armado anticapitalista y anarquista nacido a finales de 1969."
         },
         {
           "voz": "ximena",
@@ -55,7 +55,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Mi nota más incómoda. La defensa denunció que el proceso no tuvo garantías. Según el Salto, se ocultaron pruebas y se impidió declarar a testigos de la defensa. Quién disparó exactamente al subinspector es algo que se discute desde hace décadas: hubo varios tiradores en el portal."
+          "texto": "Mi nota más incómoda. La defensa denunció que el proceso no tuvo garantías. Según el Salto, se ocultaron pruebas y se impidió declarar a testigos de la defensa. Quién disparó exactamente al subinspector es algo que se ha discutido desde entonces."
         },
         {
           "voz": "ximena",
@@ -67,7 +67,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fueron las dos últimas ejecuciones con garrote vil en España. El garrote vil, un método de otro siglo, se usó en España por última vez ese día."
+          "texto": "Según se recuerda, fueron las dos últimas ejecuciones con garrote vil en España."
         },
         {
           "voz": "ximena",
@@ -104,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Cuidado máximo: la ficha no atribuye los disparos a nadie (se discute). El guion no dice que Puig Antich matara al subinspector; dice que se le condenó y que la sentencia es hoy nula. Lugar de la detención: la ficha dice portal de la calle de Girona; El Salto habla de una cita en el bar El Funicular y elDiario.es de un atraco en Bellver de Cerdanya (no se usan). 'Las dos últimas ejecuciones con garrote vil' y 'hubo varios tiradores' no se han contrastado en las fuentes abiertas (la segunda sale de la nota de la ficha): revisar. La cita de Immaculada es parafraseada de elDiario.es. La cifra de edad (25) sale de nacer en 1948."
+  "nota_revision": "Cuidado máximo: la ficha no atribuye los disparos a nadie (se discute). El guion no dice que Puig Antich matara al subinspector; dice que se le condenó y que la sentencia es hoy nula. Lugar de la detención: la ficha dice portal de la calle de Girona; El Salto habla de una cita en el bar El Funicular y elDiario.es de un atraco en Bellver de Cerdanya (no se usan). Revisión: quitado el dato del padre internado en Argelès (sin fuente en la ficha) y 'hubo varios tiradores'. 'Las dos últimas ejecuciones con garrote vil' (Puig Antich y Welzel el 2/03/1974) es dato histórico muy extendido pero sin fuente abierta en la ficha: se atribuye con 'según se recuerda'. La cita de Immaculada es parafraseada de elDiario.es. La edad (25) sale de nacer en 1948."
 }
