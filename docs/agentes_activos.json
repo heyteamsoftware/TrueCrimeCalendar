@@ -7,10 +7,6 @@
       "tipo": "revisión"
     },
     {
-      "nombre": "Revisión guiones: casos nuevos de octubre",
-      "tipo": "revisión"
-    },
-    {
       "nombre": "Revisión guiones: casos estrella 9 (8 casos)",
       "tipo": "revisión"
     },
@@ -21,6 +17,14 @@
     {
       "nombre": "Diseño: dos prototipos de renovación de interfaz",
       "tipo": "diseño"
+    },
+    {
+      "nombre": "Revisión guiones: casos nuevos de noviembre",
+      "tipo": "revisión"
+    },
+    {
+      "nombre": "Revisión guiones: casos nuevos de diciembre",
+      "tipo": "revisión"
     }
   ]
 }
