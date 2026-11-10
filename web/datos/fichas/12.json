@@ -235,9 +235,9 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Murray Teigh Bloom, «The Man Who Stole Portugal» (Secker & Warburg, 1966; citado por Wigan)",
-        "url": "https://openlibrary.org/search?q=The+Man+Who+Stole+Portugal",
-        "tipo": "libro"
+        "titulo": "Redacción, «História do burlão Alves dos Reis inspira filme britânico “O homem que roubou Portugal”», ECO (7 de mayo de 2026), con la biografía del Banco de Portugal",
+        "url": "https://eco.sapo.pt/2026/05/07/historia-do-burlao-alves-dos-reis-inspira-filme-britanico-o-homem-que-roubou-portugal/",
+        "tipo": "hemeroteca"
       },
       {
         "titulo": "Wikipedia (en inglés), «Alves dos Reis» (punto de partida; consultada por sus referencias)",
@@ -245,7 +245,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La efeméride es la publicación de O Século; la detención fue el 6 de diciembre. Las fuentes difieren en la muerte de Hennies (1936 según Wikipedia; 1957 según Wigan y la Algarve History Association). Wigan sitúa el juicio en Oporto. La ubicación de la antigua redacción de O Século en la calle del mismo nombre conviene comprobarla."
+    "nota_revision": "La efeméride es la publicación de O Século; la detención fue el 6 de diciembre. Las fuentes difieren en la muerte de Hennies (1936 según Wikipedia; 1957 según Wigan y la Algarve History Association). Wigan sitúa el juicio en Oporto. La Rua de O Século existe en el Bairro Alto (comprobado en el mapa). Verificados en Wigan (LSE): el 5 de diciembre, la detención al día siguiente a bordo del barco desde Angola, los 200.000 billetes, la condena de 1930, la liberación en 1945 y los Lores en 1932. Se sustituye la búsqueda de Open Library por ECO, que cita la biografía del Banco de Portugal."
   },
   {
     "id": "atentado-das",
@@ -303,7 +303,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Cifras discrepantes: 50 muertos (El Espectador), 60 (El Colombiano) o 63 (El Tiempo, Wikipedia); heridos entre 500 y más de 2.000. Hora: 7:30 o 7:37. Wikipedia habla de un camión con 9.000 kg; se sigue a la prensa colombiana (bus con unos 500 kilos). El Tiempo (2020) dice que el proceso judicial sigue formalmente abierto, sin acusados vivos conocidos."
+    "nota_revision": "Cifras discrepantes: 50 muertos (El Espectador), 60 (El Colombiano) o 63 (El Tiempo, Wikipedia); heridos entre 500 y más de 2.000. Hora: 7:30 o 7:37. Wikipedia habla de un camión con 9.000 kg; se sigue a la prensa colombiana (bus con unos 500 kilos). El Tiempo (2020) cuenta que solo hay dos condenados (1994) y que los señalados como autores intelectuales (Escobar, Rodríguez Gacha, «Pinina», «Chalo» Marín) están muertos: no hay acusados vivos con un proceso en curso. Verificados: bus con 500 kilos, 7:30 y Maza ileso por su oficina blindada."
   },
   {
     "id": "robo-museo-van-gogh",
@@ -316,7 +316,7 @@
     "p": "Países Bajos",
     "f": "🇳🇱",
     "per": "2002–2016",
-    "st": "Octave Durham y Henk Bieslijn fueron condenados en 2004 a cuatro años y medio y a cuatro años de cárcel, y un tribunal de apelación mantuvo la condena en 2005. Los cuadros se recuperaron en Italia en 2016 y volvieron a colgarse en el museo en 2019.",
+    "st": "Octave Durham y Henk Bieslijn fueron condenados en 2004 a cuatro años y medio y a cuatro años de cárcel por el robo, que siempre negaron. Los cuadros se recuperaron en Italia en 2016 y volvieron a colgarse en el museo en 2019.",
     "c": "En la madrugada del sábado 7 de diciembre de 2002, dos ladrones treparon con una escalera hasta un tejado de la parte trasera del Museo Van Gogh de Ámsterdam, rompieron una ventana con un mazo y descolgaron «Vista del mar en Scheveningen» (1882) y «Congregación saliendo de la iglesia reformada de Nuenen» (1884-1885). Bajaron por la fachada con una cuerda y huyeron antes de que llegara la policía. El ADN de dos gorras que perdieron llevó a la condena de Octave Durham y Henk Bieslijn en 2004. En septiembre de 2016 la policía italiana encontró los cuadros en una casa de Castellammare di Stabia ligada a la Camorra.",
     "mo": "Escalada nocturna con escalera, ventana rota a mazazos y descenso con cuerda, todo en pocos minutos. Los cuadros acabaron en poder de un narcotraficante de la Camorra.",
     "loc": [
@@ -371,7 +371,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Penas: cuatro años y medio (Durham) y cuatro (Bieslijn) en primera instancia según NOS y AP (2004); NL Times dice que Durham fue condenado en 2005 a tres años y medio, quizá en apelación; según The New York Times cumplió algo más de 25 meses. Smithsonian y la página del FBI (fuentes de la selección) dieron error 403."
+    "nota_revision": "Penas: cuatro años y medio (Durham) y cuatro (Bieslijn) en primera instancia según NOS y AP (2004); NL Times dice que Durham fue condenado en 2005 a tres años y medio, quizá en apelación; según The New York Times cumplió algo más de 25 meses. Smithsonian y la página del FBI (fuentes de la selección) dieron error 403. Se quita de la ficha que un tribunal de apelación mantuviera la condena en 2005: ninguna fuente abierta lo dice."
   },
   {
     "id": "secuestro-sinatra-jr",
@@ -484,11 +484,6 @@
         "tipo": "enciclopedia"
       },
       {
-        "titulo": "Marina Bellot, entrevista a Bruno Fuligni, «Dans les archives inédites du ministère de l'Intérieur», RetroNews (BnF), 22 de noviembre de 2024",
-        "url": "https://www.retronews.fr/politique/interview/2020/12/08/archives-ministere-de-linterieur",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "«L'interrogatoire de Vaillant», Le Matin (11 de diciembre de 1893), traducción de Mitchell Abidor",
         "url": "https://theanarchistlibrary.org/library/auguste-vaillant-the-interrogation-of-auguste-vaillant",
         "tipo": "hemeroteca"
@@ -499,7 +494,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Heridos: unos cincuenta leves según Wikipedia en francés y una veintena de diputados según otras fuentes; no se da cifra exacta. La Asamblea Nacional (Sycomore) fecha la ejecución el 7 de febrero de 1894; Hérodote, Wikipedia y The New York Times (6 de febrero de 1894) dan el 5. La fecha del juicio no se confirmó con dos fuentes. No se pudieron abrir Gallica, Maitron, Le Monde ni el IISG (fuente de la selección). Lugar de la ejecución deducido (era el habitual en París en 1894)."
+    "nota_revision": "Heridos: unos cincuenta leves según Wikipedia en francés y una veintena de diputados según otras fuentes; no se da cifra exacta. La Asamblea Nacional (Sycomore) fecha la ejecución el 7 de febrero de 1894; Hérodote, Wikipedia y The New York Times (6 de febrero de 1894) dan el 5. La fecha del juicio no se confirmó con dos fuentes. Se quita la entrevista de RetroNews, que solo cita a Vaillant de pasada. Verificados en Hérodote, Wikipedia en francés y Le Matin: hacia las 16 h, bomba de clorato con clavos de zapatero, interrogatorio en el Hôtel-Dieu y ejecución el 5 de febrero de 1894. No se pudieron abrir Gallica, Maitron, Le Monde ni el IISG (fuente de la selección). Lugar de la ejecución deducido (era el habitual en París en 1894)."
   },
   {
     "id": "robo-300-millones-yenes",
@@ -514,7 +509,7 @@
     "per": "1968",
     "st": "Sin resolver. El delito prescribió el 10 de diciembre de 1975 y la responsabilidad civil en 1988. Nadie fue condenado y el dinero no apareció.",
     "c": "La mañana lluviosa del 10 de diciembre de 1968, un joven vestido de policía en moto detuvo en Fuchu, al oeste de Tokio, el coche del banco Nippon Shintaku que llevaba 294.307.500 yenes en pagas extra para los empleados de la fábrica de Toshiba. Dijo que habían puesto dinamita en el vehículo, hizo bajar a los cuatro empleados, encendió una bengala bajo el coche para simular el peligro y se marchó con el dinero. La policía movilizó a más de 170.000 agentes y estudió a más de 100.000 personas, sin resultado. El delito prescribió en 1975 sin culpable.",
-    "mo": "Suplantó a un policía con una moto robada pintada como las oficiales y aprovechó las cartas de amenaza que había recibido el banco para hacer creíble la bomba. Cambió varias veces de coche robado y dejó en el lugar objetos corrientes para despistar.",
+    "mo": "Suplantó a un policía con una moto pintada de blanco como las de la policía y aprovechó las cartas de amenaza que había recibido el banco para hacer creíble la bomba. Cambió varias veces de coche robado y dejó en el lugar objetos corrientes para despistar.",
     "loc": [
       [
         35.6862,
@@ -543,8 +538,8 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "The Japan Times, «Japan Times 1968: Bandit steals ¥294 million in daring daylight robbery» (reedición del 1 de diciembre de 2018)",
-        "url": "https://www.japantimes.co.jp/news/2018/12/01/national/history/japan-times-1968-bandit-steals-294-million-daring-daylight-robbery/",
+        "titulo": "«Who was the mysterious motorcyclist behind infamous Japanese heist? After 50 years, the case remains unsolved», South China Morning Post (2018)",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/2177413/who-was-mysterious-motorcyclist-behind-infamous-japanese-heist",
         "tipo": "hemeroteca"
       },
       {
@@ -553,7 +548,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "No se nombra a ningún sospechoso. Cifras de la investigación según la fuente: 171.346 agentes y 110.000 personas investigadas (Wikipedia en japonés) o 118.000 interrogados (AFP). The Japan Times solo se pudo leer en el extracto del buscador (403); el SCMP (fuente de la selección) también dio 403; Yomiuri y NHK no se pudieron abrir. Coordenadas aproximadas al muro norte de la prisión."
+    "nota_revision": "No se nombra a ningún sospechoso. Cifras de la investigación según la fuente: 171.346 agentes y 110.000 personas investigadas (Wikipedia en japonés) o 118.000 interrogados (AFP). Se sustituye The Japan Times (403) por el SCMP, que sí se abrió (en su réplica) y confirma la bengala, las cartas de amenaza y la prescripción de diciembre de 1975. Que la moto fuera robada no consta en las fuentes abiertas: se dice solo que estaba pintada de blanco."
   },
   {
     "id": "robo-lufthansa-jfk",
@@ -683,13 +678,13 @@
     "f": "🇦🇺",
     "per": "2001",
     "st": "Condenado el 13 de diciembre de 2005 a cadena perpetua, con un mínimo de 28 años, por el asesinato de Peter Falconio y la agresión y el intento de secuestro de Joanne Lees. Perdió sus recursos en 2007 y murió en prisión en julio de 2025 sin revelar dónde está el cuerpo.",
-    "c": "La noche del 14 de julio de 2001, un hombre hizo parar en la Stuart Highway, cerca de Barrow Creek, en el interior de Australia, la furgoneta en la que viajaban el británico Peter Falconio, de 28 años, y su novia, Joanne Lees. Falconio desapareció y Lees, maniatada, logró huir y esconderse durante horas entre la maleza. El ADN hallado en su camiseta llevó a la detención de Bradley John Murdoch. Tras un juicio de unas ocho semanas, un jurado de Darwin lo declaró culpable el 13 de diciembre de 2005. El cuerpo de Falconio nunca apareció.",
-    "mo": "Hizo detenerse a la pareja de noche en una carretera desierta; según la acusación, disparó a Falconio, ató a Lees con unas esposas caseras e hizo desaparecer el cuerpo.",
+    "c": "La noche del 14 de julio de 2001, un hombre hizo parar en la Stuart Highway, cerca de Barrow Creek, en el interior de Australia, la furgoneta en la que viajaban el británico Peter Falconio, de 28 años, y su novia, Joanne Lees. Falconio desapareció y Lees, maniatada, logró huir y esconderse durante horas entre la maleza. El ADN hallado en su camiseta llevó a la detención de Bradley John Murdoch. Tras un juicio de casi dos meses, un jurado de Darwin lo declaró culpable el 13 de diciembre de 2005. El cuerpo de Falconio nunca apareció.",
+    "mo": "Hizo detenerse a la pareja de noche en una carretera desierta; según la acusación, disparó a Falconio, ató a Lees con bridas de plástico e hizo desaparecer el cuerpo.",
     "loc": [
       [
-        -21.415,
-        133.88,
-        "Stuart Highway, unos 13 km al norte de Barrow Creek (lugar del ataque)"
+        -21.4533,
+        133.927,
+        "Stuart Highway, unos 10 km al norte de Barrow Creek (lugar del ataque)"
       ],
       [
         -12.4634,
@@ -732,7 +727,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La muerte de Murdoch (15 de julio de 2025, hospital de Alice Springs) se comprobó en Wikipedia y en el resumen del buscador de SBS y AAP; esas dos páginas no se abrieron enteras. El periodo mínimo de 28 años se fijó después del veredicto (The Irish Times dice que se fijaría más tarde). Coordenadas del lugar del ataque aproximadas."
+    "nota_revision": "La muerte de Murdoch (15 de julio de 2025, hospital de Alice Springs) se comprobó en Wikipedia y en el resumen del buscador de SBS y AAP; esas dos páginas no se abrieron enteras. El periodo mínimo de 28 años se fijó después del veredicto (The Irish Times dice que se fijaría más tarde). Coordenadas corregidas a las de Wikipedia (antes unos 6 km al noroeste). Las fuentes dicen «nueve semanas» (Irish Times) y 37 días de juicio. La muerte de Murdoch figura en SBS y AAP, ambas abiertas. Los recursos se agotaron el 21 de junio de 2007, cuando el Tribunal Supremo de Australia denegó la autorización (Wikipedia)."
   },
   {
     "id": "kaspar-hauser",
@@ -745,7 +740,7 @@
     "p": "Alemania",
     "f": "🇩🇪",
     "per": "1828–1833",
-    "st": "Sin resolver. Nunca se identificó al agresor y algunos médicos de la época pensaron que la herida pudo ser autoinfligida. Los análisis de ADN de 1996 y 2024 descartaron que fuera un príncipe de Baden.",
+    "st": "Sin resolver. Nunca se identificó al agresor y algunos médicos de la época pensaron que la herida pudo ser autoinfligida. Un análisis de ADN de 2024 descartó que fuera un príncipe de la casa de Baden; los de 1996 y 2002 se consideran no concluyentes.",
     "c": "En mayo de 1828 apareció en Núremberg un muchacho de unos 16 años, Kaspar Hauser, que apenas sabía hablar y decía haber pasado la vida encerrado en una celda oscura. Su caso atrajo a toda Europa. El 14 de diciembre de 1833, ya instalado en Ansbach, volvió a casa con una puñalada en el pecho y contó que un desconocido lo había citado en el Hofgarten y lo había herido; allí apareció una nota escrita en espejo. Murió el 17 de diciembre. Nadie fue detenido y los forenses no descartaron que se hiriera él mismo. Su origen sigue siendo un enigma.",
     "mo": "Desconocido. Según Hauser, un hombre lo atrajo al parque con un pretexto y lo apuñaló; se halló una bolsa con una nota en escritura especular firmada con iniciales.",
     "loc": [
@@ -795,7 +790,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Caso sustituido por indicación del coordinador (antes, el asesinato de Sidónio Pais). History (Reino Unido) fecha mal el ataque («hacia noviembre de 1831»); se sigue a Wikipedia y epd (14 de diciembre, muerte tres días después). Un análisis de pelo de 2002 para la ZDF dio parecido con la casa de Baden, pero nunca se publicó oficialmente. La Britannica (fuente de la selección) no se abrió. Coordenadas del Hofgarten aproximadas."
+    "nota_revision": "Caso sustituido por indicación del coordinador (antes, el asesinato de Sidónio Pais). History (Reino Unido) fecha mal el ataque («hacia noviembre de 1831»); se sigue a Wikipedia y epd (14 de diciembre, muerte tres días después). Se corrige la ficha: antes decía que los análisis de 1996 y 2024 descartaron la teoría; History (Reino Unido) llama no concluyentes a los de 1996 y 2002 y solo el de 2024 está respaldado con claridad (Stuttgarter Zeitung, Il Post). Un análisis de pelo de 2002 para la ZDF dio parecido con la casa de Baden, pero nunca se publicó oficialmente. La Britannica (fuente de la selección) no se abrió. Coordenadas del Hofgarten aproximadas."
   },
   {
     "id": "condena-eichmann",
@@ -808,7 +803,7 @@
     "p": "Israel",
     "f": "🇮🇱",
     "per": "1938–1945 (crímenes); 1961–1962 (juicio)",
-    "st": "Condenado a muerte el 15 de diciembre de 1961. El Tribunal Supremo rechazó su recurso el 29 de mayo de 1962, el presidente Ben-Zvi le negó el indulto y fue ahorcado en la prisión de Ramla en la noche del 31 de mayo al 1 de junio de 1962. Es la única ejecución judicial de la historia de Israel.",
+    "st": "Condenado a muerte el 15 de diciembre de 1961. El Tribunal Supremo rechazó su recurso el 29 de mayo de 1962, el presidente Ben-Zvi le negó el indulto y fue ahorcado en la prisión de Ramla en la noche del 31 de mayo al 1 de junio de 1962.",
     "c": "Adolf Eichmann, el oficial de las SS que organizó la deportación de más de un millón y medio de judíos a guetos y campos de exterminio, huyó a Argentina tras la guerra con el nombre de Ricardo Klement. Agentes del Mossad lo capturaron en mayo de 1960 cerca de su casa en las afueras de Buenos Aires y lo llevaron en secreto a Israel. El juicio empezó el 11 de abril de 1961 en Jerusalén y se basó en el testimonio de supervivientes. El 11 y 12 de diciembre el tribunal lo declaró culpable y el 15 de diciembre de 1961 lo condenó a muerte.",
     "mo": "Dirigió desde la oficina IV B4 de la Seguridad del Reich la organización y el transporte de las deportaciones masivas de judíos durante el Holocausto. En el juicio se presentó como un simple engranaje que cumplía órdenes.",
     "loc": [
@@ -851,7 +846,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "El veredicto de culpabilidad se leyó el 11 y 12 de diciembre (AFP lo sitúa el 15, junto con la pena). Ejecución: «noche del 31 de mayo al 1 de junio» (Yad Vashem, según el buscador), «1 de junio» (USHMM) o «31 de mayo a medianoche» (AFP, EBSCO). Captura: el 11 de mayo de 1960 según Wikipedia; USHMM da el 20 de mayo, día del vuelo. La exposición de Yad Vashem (fuente de la selección) dio error 403."
+    "nota_revision": "El veredicto de culpabilidad se leyó el 11 y 12 de diciembre (AFP lo sitúa el 15, junto con la pena). Ejecución: «noche del 31 de mayo al 1 de junio» (Yad Vashem, según el buscador), «1 de junio» (USHMM) o «31 de mayo a medianoche» (AFP, EBSCO). Captura: el 11 de mayo de 1960 según Wikipedia; USHMM da el 20 de mayo, día del vuelo. La exposición de Yad Vashem (fuente de la selección) dio error 403. Se quita de la ficha la frase «única ejecución judicial de la historia de Israel»: ninguna fuente abierta la sostiene tal cual. Verificados: más de 1,5 millones de deportados (USHMM), recurso rechazado el 29 de mayo de 1962 y ahorcado el 1 de junio (Wikipedia)."
   },
   {
     "id": "asesinato-narutowicz",
@@ -866,7 +861,7 @@
     "per": "1922–1923",
     "st": "Niewiadomski fue condenado a muerte por el tribunal de distrito de Varsovia el 30 de diciembre de 1922, en un juicio de un solo día, y fusilado en las laderas de la Ciudadela de Varsovia el 31 de enero de 1923.",
     "c": "Gabriel Narutowicz, ingeniero y profesor en Zúrich, fue elegido primer presidente de la Polonia independiente el 9 de diciembre de 1922 con los votos de la izquierda y de las minorías, entre protestas de la derecha nacionalista. Juró el cargo el día 11. El 16 de diciembre, poco después del mediodía, durante la inauguración de una exposición en la galería Zachęta de Varsovia, el pintor Eligiusz Niewiadomski le disparó tres veces por la espalda y lo mató. El autor se dejó detener allí mismo. Fue condenado a muerte el 30 de diciembre y fusilado en enero de 1923.",
-    "mo": "Tres disparos de pistola por la espalda mientras el presidente contemplaba un cuadro en una sala de la galería. Dijo en el juicio que su primer objetivo había sido Józef Piłsudski.",
+    "mo": "Tres disparos de pistola por la espalda mientras el presidente contemplaba un cuadro en una sala de la galería. En el juicio sostuvo que llevaba tiempo planeando atentar contra Józef Piłsudski y que Narutowicz le era indiferente.",
     "loc": [
       [
         52.2392,
@@ -912,7 +907,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Hora del ataque: hacia las 12:12 según Wikipedia en polaco y hacia las 12:15 según dzieje.pl. El arma se describe como pistola Ruby española (Wikipedia) o «Browning» (IPN). Culture.pl (fuente de la selección) dio error 403."
+    "nota_revision": "Hora del ataque: hacia las 12:12 según Wikipedia en polaco y hacia las 12:15 según dzieje.pl. El arma se describe como pistola Ruby española (Wikipedia) o «Browning» (IPN). Culture.pl (fuente de la selección) dio error 403. Verificados con IPN y dzieje.pl: tres disparos poco después de las 12, condena el 30 de diciembre y fusilamiento el 31 de enero de 1923; elección el 9 y juramento el 11 de diciembre (Wikipedia en polaco)."
   },
   {
     "id": "detencion-steve-wright",
@@ -926,7 +921,7 @@
     "f": "🇬🇧",
     "per": "1999–2006",
     "st": "Condenado el 21 de febrero de 2008 por los cinco asesinatos de Ipswich y castigado al día siguiente con cadena perpetua sin posibilidad de libertad. En febrero de 2026 se declaró culpable en el Old Bailey de un secuestro y asesinato de 1999 y recibió otra perpetua con un mínimo de 40 años.",
-    "c": "Entre el 2 y el 12 de diciembre de 2006 aparecieron en el campo, alrededor de Ipswich, los cuerpos de cinco mujeres que ejercían la prostitución en la ciudad: Gemma Adams, Tania Nicol, Anneli Alderton, Paula Clennell y Annette Nicholls. Tras detener y dejar en libertad a otro sospechoso, la policía de Suffolk arrestó el 19 de diciembre a Steve Wright, de 48 años; restos de sangre en su coche y otras pruebas de ADN lo relacionaban con las víctimas. Fue acusado de los cinco crímenes dos días después y condenado en 2008. En 2026 confesó otro asesinato de 1999.",
+    "c": "Entre el 2 y el 12 de diciembre de 2006 aparecieron en el campo, alrededor de Ipswich, los cuerpos de cinco mujeres que ejercían la prostitución en la ciudad: Gemma Adams, Tania Nicol, Anneli Alderton, Paula Clennell y Annette Nicholls. Tras detener y dejar en libertad a otro sospechoso, la policía de Suffolk arrestó el 19 de diciembre a Steve Wright, de 48 años; restos de sangre en su coche y otras pruebas de ADN lo relacionaban con las víctimas. Fue acusado de los cinco crímenes dos días después y condenado en 2008. En 2026 se declaró culpable de otro asesinato, de 1999.",
     "mo": "Recogía en su coche a mujeres de la zona de prostitución de Ipswich, las mataba y abandonaba sus cuerpos en zonas rurales cercanas a la carretera entre Ipswich y Felixstowe.",
     "loc": [
       [
@@ -973,12 +968,17 @@
         "tipo": "judicial"
       },
       {
+        "titulo": "PA Media, «Serial killer Steve Wright jailed for 1999 teenager's murder», Express & Star (6 de febrero de 2026)",
+        "url": "https://www.expressandstar.com/uk-news/2026/02/06/serial-killer-steve-wright-jailed-for-1999-teenagers-murder",
+        "tipo": "hemeroteca"
+      },
+      {
         "titulo": "Wikipedia (en inglés), «Steve Wright (serial killer)» (punto de partida; consultada por sus referencias)",
         "url": "https://en.wikipedia.org/wiki/Steve_Wright_(serial_killer)",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. El proceso de 1999 terminó con la sentencia del 6 de febrero de 2026 (CPS). Las fuentes de 2006 hablan de «prostitutas»; se usa una fórmula respetuosa. La detención del 19 de diciembre se deduce de AP («el martes») y de Wikipedia. El Guardian (fuente de la selección), la BBC y The Independent no se pudieron abrir. Coordenadas de la A14 aproximadas."
+    "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. El proceso de 1999 terminó con la sentencia del 6 de febrero de 2026 (CPS y PA Media/Express & Star coinciden: perpetua con mínimo de 40 años, tras declararse culpable el lunes anterior). Al ser una declaración de culpabilidad previa al juicio, no se encontró ningún recurso. La acusación de 2006 fue el jueves 21 de diciembre (AP). Las fuentes de 2006 hablan de «prostitutas»; se usa una fórmula respetuosa. La detención del 19 de diciembre se deduce de AP («el martes») y de Wikipedia. El Guardian (fuente de la selección), la BBC y The Independent no se pudieron abrir. Coordenadas de la A14 aproximadas."
   },
   {
     "id": "atentado-carrero-blanco",
@@ -996,13 +996,13 @@
     "mo": "El comando alquiló un bajo en la calle haciéndose pasar por escultor, excavó un túnel hasta el centro de la calzada y detonó la carga a distancia al paso del coche, en el recorrido diario del almirante.",
     "loc": [
       [
-        40.4317,
-        -3.686,
+        40.4342,
+        -3.6854,
         "Calle Claudio Coello, 104, Madrid (lugar de la explosión)"
       ],
       [
-        40.4316,
-        -3.6868,
+        40.4344,
+        -3.686,
         "Iglesia de San Francisco de Borja, calle Serrano (de donde salía Carrero)"
       ]
     ],
@@ -1031,12 +1031,17 @@
         "tipo": "hemeroteca"
       },
       {
+        "titulo": "Redacción, «Atentado contra Carrero Blanco: el magnicidio que quizá cambió la historia de España», Onda Vasca",
+        "url": "https://www.ondavasca.com/atentado-contra-carrero-blanco-el-magnicidio-que-quiza-cambio-la-historia-de-espana/",
+        "tipo": "hemeroteca"
+      },
+      {
         "titulo": "Wikipedia (en castellano), «Operación Ogro» (punto de partida; consultada por sus referencias)",
         "url": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Ogro",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Explosivo: ocho kilos de goma-2 según EFE y 50 kilos de dinamita según El Independiente; no se da cifra. Hora: 9:27 (El Independiente, Wikipedia) o hacia las 9:30. Composición del comando: Argala, Atxulo y Kiskur según Fernández Soldevilla y Wikipedia; EFE nombra a Ezkerra, Wilson y Argala. La amnistía de 1977 solo la menciona Wikipedia; EFE confirma que nadie fue juzgado. No se pudo abrir El País. Coordenadas del número 104 aproximadas."
+    "nota_revision": "Explosivo: ocho kilos de goma-2 según EFE y 50 kilos de dinamita según El Independiente; no se da cifra. Hora: 9:27 (El Independiente, Wikipedia) o hacia las 9:30. Composición del comando: Argala, Atxulo y Kiskur según Fernández Soldevilla y Wikipedia; EFE nombra a Ezkerra, Wilson y Argala. La amnistía de 1977 como motivo de que nadie fuera juzgado la dan Wikipedia (Operación Ogro y Luis Carrero Blanco) y Onda Vasca (que la cita para los autores materiales identificados); EFE confirma que nadie fue juzgado. Onda Vasca es una fuente menos sólida que la prensa nacional: duda menor. No se pudo abrir El País. Coordenadas corregidas a las de Claudio Coello, 104 y la parroquia de San Francisco de Borja (Serrano, 104), unos 280 m más al norte."
   },
   {
     "id": "bonnot-rue-ordener",
@@ -1054,8 +1059,8 @@
     "mo": "Atraco motorizado: esperaron al cobrador ante la sucursal bancaria en un coche robado, le dispararon y huyeron a toda velocidad, en una época en que la policía iba a pie o en bicicleta.",
     "loc": [
       [
-        48.8925,
-        2.35,
+        48.8936,
+        2.3375,
         "Rue Ordener, París (asalto al cobrador ante la sucursal de la Société Générale)"
       ],
       [
@@ -1100,17 +1105,12 @@
         "tipo": "libro"
       },
       {
-        "titulo": "Excelsior, portada del 22 de diciembre de 1911 (Gallica, BnF)",
-        "url": "https://gallica.bnf.fr/ark:/12148/bpt6k4601362p/f1.image.zoom",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en francés), «Bande à Bonnot» (punto de partida; consultada también la versión inglesa «Ordener attack»)",
         "url": "https://fr.wikipedia.org/wiki/Bande_%C3%A0_Bonnot",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Se sustituye la web divulgativa de la selección por Criminocorpus, el INA y la crónica de Méric. El Excelsior de Gallica no se pudo abrir (403); se cita porque lo referencia Wikipedia. Número de la calle: 146 (Renneville, Méric), 148 o 158 según otras fuentes. Quién disparó: Garnier según Renneville y Anne Steiner; Callemin se lo atribuyó en sus memorias. Caby reconoció también a Dieudonné, cuya participación se discute. Coordenadas de la calle Ordener aproximadas."
+    "nota_revision": "Se sustituye la web divulgativa de la selección por Criminocorpus, el INA y la crónica de Méric. Se quita la portada de Excelsior en Gallica (403, no verificable). Número de la calle: 146 (Renneville, Méric), 148 o 158 según otras fuentes. Quién disparó: Garnier según Renneville y Anne Steiner; Callemin se lo atribuyó en sus memorias. Caby reconoció también a Dieudonné, cuya participación se discute. Coordenadas corregidas al número 146 de la rue Ordener (antes casi 1 km al este). El juicio de febrero de 1913 (del 3 al 27) consta en Wikipedia en francés; las ejecuciones del 21 de abril de 1913 y el indulto de Dieudonné no se confirmaron en una de las fuentes citadas (sí en la ficha de Dieudonné en Wikipedia para Callemin y Dieudonné): duda menor."
   },
   {
     "id": "condena-dreyfus",
@@ -1125,7 +1125,7 @@
     "per": "1894–1906",
     "st": "Inocente. El Tribunal de Casación anuló las condenas el 12 de julio de 1906 y Dreyfus fue readmitido en el ejército. El verdadero autor del espionaje era el comandante Esterhazy, absuelto por un tribunal militar en 1898.",
     "c": "El 22 de diciembre de 1894, tras un juicio a puerta cerrada en la calle del Cherche-Midi de París, un consejo de guerra condenó por unanimidad al capitán Alfred Dreyfus, oficial judío de origen alsaciano, a deportación perpetua y degradación por entregar secretos militares a Alemania. La única prueba era una nota manuscrita, y los jueces recibieron en secreto un expediente que la defensa nunca vio. Fue degradado en la Escuela Militar y enviado a la isla del Diablo. El «Yo acuso» de Zola (1898) convirtió el caso en una crisis nacional; Dreyfus fue indultado en 1899 y rehabilitado en 1906.",
-    "mo": "Error judicial: una nota anónima atribuida a Dreyfus por su letra, un expediente secreto con documentos falsos entregado al tribunal sin conocimiento de la defensa y un clima de antisemitismo.",
+    "mo": "Error judicial: una nota anónima atribuida a Dreyfus por su letra, un expediente secreto entregado al tribunal durante la deliberación sin conocimiento de la defensa y un clima de antisemitismo.",
     "loc": [
       [
         48.8494,
@@ -1173,7 +1173,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Fecha confirmada con la Asamblea Nacional, RetroNews y el Museo del Colegio de Abogados de París. La Jewish Virtual Library (fuente de la selección) se abrió vacía. Coordenadas de la calle del Cherche-Midi aproximadas (antiguo edificio de los consejos de guerra)."
+    "nota_revision": "Fecha confirmada con la Asamblea Nacional, RetroNews y el Museo del Colegio de Abogados de París. La Jewish Virtual Library (fuente de la selección) se abrió vacía. Coordenadas de la calle del Cherche-Midi aproximadas (antiguo edificio de los consejos de guerra). La página de la Asamblea Nacional se abre y confirma la condena de diciembre de 1894 y el expediente secreto; el día 22 y la unanimidad constan en RetroNews y el Museo del Colegio de Abogados."
   },
   {
     "id": "sophie-toscan-du-plantier",
@@ -1241,7 +1241,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Presunción de inocencia: Bailey nunca fue acusado en Irlanda. La Garda dice que la investigación sigue «activa» (2022); no hay proceso judicial abierto y el principal sospechoso murió en 2024, por lo que se mantiene el caso. Fecha: el hallazgo fue el 23 de diciembre según Echo Live y Southern Star; Wikipedia sitúa el crimen en la noche del 23 y The Irish Times (2008) cita el día 24 en la descripción del forense: conviene revisarlo. La muerte de Bailey (21 de enero de 2024) se comprobó en Wikipedia y en los titulares del buscador (Southern Star, Echo Live, Irish Times), sin abrir las páginas. Coordenadas de Dreenane aproximadas."
+    "nota_revision": "Presunción de inocencia: Bailey nunca fue acusado en Irlanda (Southern Star, Echo Live). La Garda anunció una revisión completa en 2022; no hay proceso judicial abierto y el principal sospechoso murió en 2024, por lo que se mantiene el caso. Fecha: el cuerpo se halló a primera hora del 23 de diciembre de 1996 (Echo Live, Southern Star, y su nota sobre la muerte de Bailey); el «24 de diciembre» de The Irish Times (2008) es el día en que el forense describe la escena. La condena en rebeldía de París fue en 2019 (25 años) y la muerte de Bailey el 21 de enero de 2024, ambas en The Southern Star (páginas abiertas). Coordenadas de Dreenane aproximadas."
   },
   {
     "id": "robo-piedra-de-scone",
@@ -1255,7 +1255,7 @@
     "f": "🇬🇧",
     "per": "1950–1951",
     "st": "Nadie fue procesado: el Gobierno británico decidió que no era de interés público llevar a juicio a los estudiantes. La piedra volvió a Westminster y en 1996 fue trasladada al castillo de Edimburgo.",
-    "c": "En la madrugada del día de Navidad de 1950, cuatro estudiantes de la Universidad de Glasgow partidarios de la autonomía escocesa, Ian Hamilton, Gavin Vernon, Kay Matheson y Alan Stuart, entraron en la abadía de Westminster y sacaron de debajo del trono de la coronación la Piedra de Scone, sobre la que se coronaba a los reyes escoceses. Al arrastrarla se partió en dos. Escondieron los trozos en Inglaterra, la llevaron a Escocia y un cantero de Glasgow la reparó. El 11 de abril de 1951 apareció en el altar de la abadía de Arbroath, cubierta con una bandera escocesa. Ninguno fue juzgado.",
+    "c": "El día de Navidad de 1950, cuatro estudiantes de la Universidad de Glasgow partidarios de la autonomía escocesa, Ian Hamilton, Gavin Vernon, Kay Matheson y Alan Stuart, planearon el golpe; de madrugada, Hamilton, Vernon y Stuart entraron en la abadía de Westminster, con Matheson esperando en el coche, y sacaron de debajo del trono de la coronación la Piedra de Scone, sobre la que se coronaba a los reyes escoceses. Al arrastrarla se partió en dos. Escondieron los trozos en Inglaterra, la llevaron a Escocia y un cantero de Glasgow la reparó. El 11 de abril de 1951 apareció en el altar de la abadía de Arbroath, cubierta con una bandera escocesa. Ninguno fue juzgado.",
     "mo": "Entraron de noche en la abadía, desmontaron la piedra del trono y la sacaron a rastras hasta un coche; ocultaron los dos fragmentos en Kent y en las Midlands antes de llevarlos a Escocia.",
     "loc": [
       [
@@ -1318,8 +1318,8 @@
     "p": "Ruanda",
     "f": "🇷🇼",
     "per": "1985",
-    "st": "Sin culpable aceptado. Un tribunal ruandés de Ruhengeri condenó a muerte en rebeldía a su ayudante estadounidense Wayne McGuire, que había salido del país, siempre negó el crimen y nunca fue entregado. Un rastreador ruandés acusado como cómplice murió en prisión antes del juicio.",
-    "c": "La primatóloga estadounidense Dian Fossey, que estudiaba desde 1967 a los gorilas de montaña en el centro de investigación Karisoke, en los volcanes Virunga, y combatía a los cazadores furtivos, fue asesinada a machetazos en su cabaña la noche del 26 de diciembre de 1985; su cuerpo se encontró la mañana del 27. Las autoridades ruandesas acusaron a su ayudante Wayne McGuire, que regresó a Estados Unidos en julio de 1986 y fue condenado a muerte en rebeldía. Él sostuvo que era un chivo expiatorio, y muchos creen que la mataron por su lucha contra los furtivos.",
+    "st": "Sin culpable aceptado. Un tribunal ruandés de Ruhengeri condenó a muerte en rebeldía a su ayudante estadounidense Wayne McGuire, que había salido del país, siempre negó el crimen y nunca fue entregado. Las autoridades ruandesas acusaron además a cinco ruandeses del campamento como cómplices.",
+    "c": "La primatóloga estadounidense Dian Fossey, que estudiaba desde 1967 a los gorilas de montaña en el centro de investigación Karisoke, en los volcanes Virunga, y combatía a los cazadores furtivos, fue asesinada a machetazos en su cabaña la noche del 26 de diciembre de 1985; su cuerpo se encontró la mañana del 27. Las autoridades ruandesas acusaron a su ayudante Wayne McGuire, que salió de Ruanda en julio de 1986 y fue condenado a muerte en rebeldía. Él sostuvo que era un chivo expiatorio, y muchos creen que la mataron por su lucha contra los furtivos.",
     "mo": "Ataque nocturno a machetazos dentro de su cabaña, en el extremo del campamento.",
     "loc": [
       [
@@ -1363,7 +1363,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Fecha: el crimen fue la noche del 26 y el cuerpo se halló la mañana del 27 (Time, Deseret). Condena de McGuire: diciembre de 1986 y muerte en la horca según UPI (solo leído en el extracto del buscador); 1987 y fusilamiento según Scripps Howard (1988). Presunción de inocencia: no se le presenta como autor. No se nombra a otros sospechosos sin condena. No se pudieron abrir Los Angeles Times (fuente de la selección), The New York Times ni Vanity Fair."
+    "nota_revision": "Fecha: el crimen fue la noche del 26 y el cuerpo se halló la mañana del 27 (Time, Deseret). Condena de McGuire: diciembre de 1986 y muerte en la horca según UPI (solo leído en el extracto del buscador); 1987 y fusilamiento según Scripps Howard (1988). Presunción de inocencia: no se le presenta como autor. No se nombra a otros sospechosos sin condena. No se pudieron abrir Los Angeles Times (fuente de la selección), The New York Times ni Vanity Fair. Se quita de la ficha que un rastreador acusado de cómplice muriera en prisión: no consta en las fuentes abiertas (Time habla de cinco ruandeses acusados como cómplices)."
   },
   {
     "id": "asesinato-daniella-perez",
@@ -1376,9 +1376,9 @@
     "p": "Brasil",
     "f": "🇧🇷",
     "per": "1992",
-    "st": "Guilherme de Pádua y Paula Thomaz fueron condenados en 1997 por homicidio cualificado a unos 19 años y a 18 años y medio. Salieron en 1999 tras cumplir cerca de un tercio de la pena. Pádua murió en Belo Horizonte el 6 de noviembre de 2022.",
+    "st": "Guilherme de Pádua y Paula Thomaz fueron condenados en 1997 por homicidio cualificado a unos 19 años y a 18 años y medio. Salieron en 1999 tras cumplir unos seis años. Pádua murió el 6 de noviembre de 2022.",
     "c": "El 28 de diciembre de 1992, al salir de una grabación, la actriz Daniella Perez, de 22 años, hija de la guionista Glória Perez, fue asesinada a puñaladas en un descampado de Barra da Tijuca, en Río de Janeiro. Los autores eran Guilherme de Pádua, su compañero de reparto en la telenovela «De Corpo e Alma», y la esposa de este, Paula Thomaz. Pádua confesó horas después. En 1997 ambos fueron condenados por homicidio cualificado. La campaña de Glória Perez, con más de un millón de firmas, llevó a incluir el homicidio cualificado entre los crímenes atroces en 1994.",
-    "mo": "Pádua cortó el paso al coche de la actriz, la obligó a subir al suyo y la llevó a un descampado, donde ambos la apuñalaron; habían tapado la matrícula para no ser identificados.",
+    "mo": "Pádua abordó a la actriz al terminar la grabación, la obligó a subir a su coche, que conducía su esposa, y la llevaron a un descampado, donde la mataron a puñaladas. Un testigo anotó la matrícula del coche.",
     "loc": [
       [
         -23.0004,
@@ -1387,9 +1387,7 @@
       ]
     ],
     "vin": [],
-    "g": [
-      "hispanoamerica"
-    ],
+    "g": [],
     "estrella": false,
     "tipo_efemeride": "crimen",
     "titulo_caso": "El asesinato de Daniella Perez",
@@ -1416,7 +1414,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Penas discrepantes para Pádua: 19 años (CNN Brasil), 19 años y medio (Observador) o 20 (Metrópoles); 18 años y medio para Thomaz (CNN Brasil). CNN Brasil sitúa por error la muerte de Pádua en 2023. La Ley 8.930/1994 solo se comprobó en Wikipedia y en extractos de Jusbrasil (403); Planalto bloqueó el acceso. O Globo (fuente de la selección) no se pudo abrir. Familia muy presente en los medios: se evita cualquier detalle morboso. Brasil se incluye en el grupo «hispanoamerica» por su región en la selección. Coordenadas de Barra da Tijuca generales."
+    "nota_revision": "Penas discrepantes para Pádua: 19 años (CNN Brasil), 19 años y medio (Observador) o 20 (Metrópoles); 18 años y medio para Thomaz (CNN Brasil). CNN Brasil sitúa por error la muerte de Pádua en 2023. La Ley 8.930/1994 solo se comprobó en Wikipedia y en extractos de Jusbrasil (403); Planalto bloqueó el acceso. O Globo (fuente de la selección) no se pudo abrir. Familia muy presente en los medios: se evita cualquier detalle morboso. Se quita el grupo «hispanoamerica» (Brasil no es hispanoamericano), como pedía el encargo. Coordenadas de Barra da Tijuca generales. Metropoles se abrió con WebFetch (20 años y seis años y nueve meses cumplidos; no dice dónde murió, por eso se quita «Belo Horizonte»). El arma se discute (tijera según CNN, puñal según la pericia citada en Wikipedia): la ficha dice solo «puñaladas»."
   },
   {
     "id": "masacre-de-floresta",
@@ -1430,7 +1428,7 @@
     "f": "🇦🇷",
     "per": "2001",
     "st": "Condenado a prisión perpetua el 10 de marzo de 2003 por el Tribunal Oral en lo Criminal 13 por triple homicidio con alevosía; la Cámara de Casación confirmó la pena en junio de 2003. Murió el 24 de julio de 2020.",
-    "c": "En la madrugada del 29 de diciembre de 2001, días después del estallido social que derribó al Gobierno de De la Rúa, cuatro jóvenes veían la televisión en el minimercado de una gasolinera de Gaona y Bahía Blanca, en el barrio porteño de Floresta. Tras un comentario de uno de ellos sobre la policía, el suboficial de la Policía Federal Juan de Dios Velaztiqui, de 61 años, que custodiaba el lugar, mató a tiros a Maximiliano Tasca, Cristian Gómez y Adrián Matassa; el cuarto escapó. Intentó simular un asalto colocando un cuchillo. En 2003 fue condenado a perpetua.",
+    "c": "En la madrugada del 29 de diciembre de 2001, días después del estallido social que derribó al Gobierno de De la Rúa, cuatro jóvenes veían la televisión en el minimercado de una gasolinera de Gaona y Bahía Blanca, en el barrio porteño de Floresta. Tras un comentario de uno de ellos sobre la policía, el suboficial de la Policía Federal Juan de Dios Velaztiqui, que custodiaba el lugar, mató a tiros a Maximiliano Tasca, Cristian Gómez y Adrián Matassa; el cuarto escapó. Intentó simular un asalto colocando un cuchillo. En 2003 fue condenado a perpetua.",
     "mo": "Disparos a quemarropa contra jóvenes desarmados; después movió los cuerpos, dejó un cuchillo junto a uno de ellos y llamó a la comisaría para fingir un enfrentamiento con ladrones.",
     "loc": [
       [
@@ -1475,7 +1473,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Hora: hacia las 4:10 según Wikipedia; las demás fuentes dicen solo «madrugada». Edades: Tasca y Gómez, 25; Matassa, 23 (La Nación, Gobierno). La muerte de Velaztiqui (24 de julio de 2020) solo la da la nota del Gobierno. Clarín (fuente de la selección) no se pudo abrir. Coordenadas aproximadas."
+    "nota_revision": "Hora: hacia las 4:10 según Wikipedia; las demás fuentes dicen solo «madrugada». Edades: Tasca y Gómez, 25; Matassa, 23 (La Nación, Gobierno). La muerte de Velaztiqui (24 de julio de 2020) solo la da la nota del Gobierno. Clarín (fuente de la selección) no se pudo abrir. Edad de Velaztiqui: 61 (Infobae) o 62 (Gobierno): se quita de la ficha. Condena del 10 de marzo de 2003 en Infobae y muerte el 24 de julio de 2020 en la nota del Gobierno. Coordenadas aproximadas."
   },
   {
     "id": "incendio-dupont-plaza",
@@ -1488,7 +1486,7 @@
     "p": "Puerto Rico",
     "f": "🇵🇷",
     "per": "1986",
-    "st": "Los tres autores se declararon culpables. En 1987 un tribunal federal condenó a Escudero Aponte y a José Francisco Rivera López a 99 años y a Armando Jiménez Rivera a 75; los dos últimos recibieron además 96 cadenas perpetuas en un tribunal de Puerto Rico. Las demandas civiles se cerraron con indemnizaciones de más de 200 millones de dólares.",
+    "st": "Los tres autores se declararon culpables. En 1987 un tribunal federal condenó a Escudero Aponte y a Francisco Rivera López a 99 años y a Armando Jiménez Rivera a 75; Rivera y Jiménez recibieron además 96 cadenas perpetuas en un tribunal de Puerto Rico. Las demandas civiles se cerraron con indemnizaciones de unos 240 millones de dólares.",
     "c": "La tarde del 31 de diciembre de 1986, minutos después de que el sindicato de empleados del hotel Dupont Plaza, en el Condado de San Juan, votara ir a la huelga, tres trabajadores prendieron fuego con combustible de cocina a muebles nuevos almacenados junto al salón de baile. El humo tóxico llegó en pocos minutos al casino, lleno de clientes, que encontraron puertas de emergencia cerradas. Murieron 97 personas, la mayoría por asfixia, y unas 140 resultaron heridas. Los tres autores, Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera, se declararon culpables y fueron condenados a largas penas.",
     "mo": "Incendio provocado en plena disputa laboral para asustar a los clientes: rociaron con combustible muebles envueltos en plástico en un almacén junto al salón de baile.",
     "loc": [
@@ -1523,16 +1521,11 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "«Three sentenced in San Juan hotel fire that killed 97», The Washington Post (23 de junio de 1987)",
-        "url": "https://www.washingtonpost.com/archive/politics/1987/06/23/three-sentenced-in-san-juan-hotel-fire-that-killed-97/ccdcf3af-f847-4551-ae87-b4f57cd57354/",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en inglés), «Dupont Plaza Hotel arson» (punto de partida; consultada por sus referencias)",
         "url": "https://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Cifra de muertos: 97 (UPI, EBSCO, The Washington Post) frente a 96 o 98 en otras fuentes. Hora: hacia las 15:15 (UPI) o las 15:30 (EBSCO, Wikipedia); NotiCel dice las 14:00. Wikipedia atribuye 75 años a Jiménez y 99 a Escudero y Rivera, como UPI. The Washington Post solo se leyó en el titular (403). El Chicago Tribune (fuente de la selección) no se pudo abrir."
+    "nota_revision": "Cifra de muertos: 97 (UPI, EBSCO, The Washington Post) frente a 96 o 98 en otras fuentes. Hora: hacia las 15:15 (UPI) o las 15:30 (EBSCO, Wikipedia); NotiCel dice las 14:00. Wikipedia atribuye 75 años a Jiménez y 99 a Escudero y Rivera, como UPI. Se quita The Washington Post (403, no verificable). Según UPI (diciembre de 1987), Escudero Aponte aún esperaba juicio en el tribunal de Puerto Rico por 96 cargos de asesinato en primer grado; no se encontró el resultado. Indemnizaciones de 240 millones: NotiCel. El Chicago Tribune (fuente de la selección) no se pudo abrir."
   }
 ]
