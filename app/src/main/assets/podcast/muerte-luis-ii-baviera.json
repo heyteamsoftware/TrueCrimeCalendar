@@ -39,7 +39,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un agua de poco más de un metro de profundidad. Un nadador, según las fuentes, que lo había sido en su juventud. Y una hora exacta en un reloj. Cada detalle de este caso parece una pregunta."
+          "texto": "Primera nota. Un agua de metro y medio de profundidad. Un nadador, según las fuentes, que lo había sido en su juventud. Y una hora exacta en un reloj. Cada detalle de este caso parece una pregunta."
         },
         {
           "voz": "ximena",
@@ -47,7 +47,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y ese informe tiene una debilidad que conviene apuntar. Según los historiadores, ninguno de los firmantes había examinado al rey. Gudden solo lo había visto una vez, doce años antes. Se apoyaron en el testimonio de empleados."
+          "texto": "Y ese informe tiene una debilidad que conviene apuntar. Según la Wikipedia, ninguno de los firmantes había examinado al rey. Gudden solo lo había visto una vez, doce años antes. Se apoyaron en el testimonio de empleados."
         },
         {
           "voz": "ximena",
@@ -59,7 +59,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Una orden ambigua. No estaba claro si los asistentes debían seguirlos de lejos. Y nadie vio nada. Ni los asistentes, ni los gendarmes que patrullaban el parque. Esto es lo más inquietante de la escena."
+          "texto": "Una orden ambigua. No estaba claro si los asistentes debían seguirlos de lejos. Y nadie vio nada. Ni los asistentes, ni los gendarmes que patrullaban el parque."
         },
         {
           "voz": "ximena",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Las objeciones están a la vista. Un rey que, según algunas fuentes, no había expresado ideas suicidas. Un psiquiatra que muere con señales de lucha. Hay quien piensa que el rey quiso ahogarse y Gudden murió al intentar impedirlo. Es una hipótesis razonable. No es una certeza."
+          "texto": "Las objeciones están a la vista. Un rey que, según una de las fuentes, no había expresado ideas suicidas. Un psiquiatra que muere con señales de lucha. El psiquiatra Wilhelm Wöbking sostuvo en 1986 que el rey quiso ahogarse y que Gudden murió al intentar impedirlo. Es una hipótesis razonable. No es una certeza."
         },
         {
           "voz": "ximena",
@@ -87,7 +87,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo que queda sin aclarar es esto: qué pasó exactamente en esos veinte minutos junto a la orilla. Y es probable que no lo sepamos nunca."
+          "texto": "Lo que queda sin aclarar es esto: qué pasó exactamente junto a la orilla entre las seis y media de la tarde y el hallazgo. Y es probable que no lo sepamos nunca."
         },
         {
           "voz": "ximena",
@@ -95,7 +95,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Merece una línea en el archivo. Bernhard von Gudden murió esa noche, cumpliendo su deber, o lo que él creía su deber."
+          "texto": "Merece una línea en el archivo. Bernhard von Gudden murió esa noche junto al rey, y su muerte también está sin explicar."
         },
         {
           "voz": "ximena",
@@ -103,5 +103,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: Deutsches Ärzteblatt y en.wikipedia (Schlösserverwaltung, Liebhart y Abendzeitung sin abrir). Hora del hallazgo: Wikipedia da las 22:30; el guion dice pasadas las diez de la noche. Reloj parado a las 18:54 (otras fuentes 18:53). El informe esta fechado el 8 de junio (Ärzteblatt) y Wikipedia dice a comienzos de junio; el guion dice a comienzos de junio. Que ninguno de los cuatro examino al rey (Gudden lo vio una vez, doce años antes) es de Wikipedia; el Ärzteblatt dice que Gudden no lo examinó personalmente. Las teorias de disparos desde la orilla (Lidl, abrigo) no estan probadas. La Wikipedia dice que no hubo agua en los pulmones, que el agua tenia 1,5 m y que el rey no habia expresado ideas suicidas en la crisis; son objeciones senaladas allí. Wöbking (1986) por el Ärzteblatt. La procesión y el corazón en Altötting, de Wikipedia."
 }

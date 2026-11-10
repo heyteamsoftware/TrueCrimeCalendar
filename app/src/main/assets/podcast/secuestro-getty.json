@@ -1,0 +1,115 @@
+{
+  "id": "secuestro-getty",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "John Paul Getty III": "Yon Pol Géti Terzero",
+    "Getty": "Géti",
+    "J. Paul Getty": "Yei Pol Géti",
+    "Paul": "Pol",
+    "Roma": "Roma",
+    "Plaza Farnese": "Plaza Farnese",
+    "'Ndrangheta": "Ndrángueta",
+    "Il Messaggero": "Il Mesádyero",
+    "Lauria": "Láuria",
+    "Lagonegro": "Lagonégro",
+    "Piromalli": "Piromáli",
+    "Mammoliti": "Mamolíti",
+    "Calabria": "Calábria",
+    "Potenza": "Poténza"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una carta de rescate que parecía una broma",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de John Paul Getty tercero. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una carta de rescate que parecía una broma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roma, julio de 1973. Pocos días después de la madrugada del 10, la madre de un chico de dieciséis años recibe una carta. Dice: «Estoy en manos de secuestradores. No dejéis que me maten. Que la policía no intervenga. No lo toméis como una broma»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero muchos lo tomaron como una broma. El chico se llamaba John Paul Getty tercero, y era nieto del hombre más rico de Estados Unidos, el magnate del petróleo J. Paul Getty."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el problema de fondo. Un chico de dieciséis años, rebelde, sin dinero y con fama de fiestero. Su familia pensó que podía tratarse de un montaje para sacar dinero al abuelo. Esa sospecha, que se manejó entonces, nunca se probó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía italiana investigó con lentitud, a la espera de más pruebas. Llegaron dos cartas más y una llamada telefónica a su madre. Los secuestradores decían ser de la 'Ndrangheta, la mafia calabresa. Pedían diecisiete millones de dólares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El abuelo se negó a pagar. Su razón, según la prensa de la época, era de principio: tenía otros catorce nietos, y si pagaba por uno, podían secuestrar a los demás."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Esa lógica es dura pero comprensible. Lo que no tiene excusa es lo que vino después, el coste humano de la espera. Una negativa que dura meses no es una cuestión de principios para quien está retenido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El niño pasó cinco meses escondido en el sur de Italia, en el campo, vigilado por una banda ligada a la 'Ndrangheta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre, el diario Il Messaggero recibió un sobre. Dentro había una carta, un mechón de pelo y una parte de una oreja del joven. La demanda de dinero había bajado a unos tres millones de dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a decir más de ese sobre. Basta saber que ya nadie pensó que fuera una broma. Eso, y lo que significa: la violencia como método de negociación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al final, el abuelo aceptó pagar unos tres millones de dólares. De ellos, puso 2,2 de su bolsillo. El resto lo prestó a su hijo, el padre del chico, con intereses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de diciembre de 1973, John Paul apareció libre en una autopista, cerca de Lauria, en el sur de Italia. Llevaba cinco meses secuestrado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la crónica fría. El rescate se pagó, el chico volvió. Pero casi todo ese dinero se perdió. Los secuestradores no se enriquecieron en proporción al daño que causaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía italiana siguió el rastro. En 1976, el juicio de Lagonegro condenó a dos de los acusados como autores materiales. Dos presuntos jefes de la 'Ndrangheta, Girolamo Piromalli y Saverio Mammoliti, fueron absueltos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Recuérdalo: una absolución es una absolución. Piromalli y Mammoliti fueron juzgados y no condenados. Quienes sí lo fueron son los dos hombres que ejecutaron el secuestro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaron preguntas. Quién dirigió realmente la operación. Adónde fue el dinero. Y, sobre todo, cuánto sabía el entorno del joven."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Getty tercero se sometió a una operación para reparar la oreja, estudió, se casó y tuvo un hijo. Pero las secuelas de aquellos meses lo acompañaron el resto de su vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1981 sufrió un derrame cerebral que lo dejó sin poder hablar ni moverse. Su madre lo cuidó hasta su muerte, en 2011, a los cincuenta y cuatro años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedó una lección: la suma no se discute cuando hay una vida. Pero también otra. Cuando una familia tarda en creer a la víctima, no es solo una mala decisión. Es parte de lo que le pasa a la víctima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de John Paul Getty tercero. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Rolling Stone (20/3/2018) y Wikipedia en inglés/italiano no abierta; La Gazzetta del Mezzogiorno y el Washington Post no se pudieron leer (la página de la Gazzetta devolvió otras noticias; el Post, vacío). Por tanto el detalle sale de Rolling Stone y de la ficha, ya verificada. Discrepancia ya señalada en la ficha: plaza Navona (Rolling Stone) o plaza Farnese (Gazzetta, Wikipedia): el guion dice «en el centro de Roma». Cifras: Rolling Stone da 17 millones de dólares pedidos al principio y 3,2 millones en noviembre, y un pago de unos 3 millones, de los que el abuelo puso 2,2: el guion da las cifras con prudencia. Que fuera un montaje del propio joven se recoge solo como sospecha que tuvo la familia y que quedó sin probar (Rolling Stone: «unproven»). Se deja fuera la historia de la familia Getty, su muerte en 2011 tras años de secuelas, la película y la serie. Se menciona la oreja sin detalle; se nombra a la víctima, que era menor, por ser un caso de hace más de 50 años conocido por su nombre. Los capos absueltos se mencionan sin entrar en el juicio."
+}

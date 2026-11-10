@@ -1,122 +1,201 @@
 {
   "id": "rwest",
-  "titulo": "El secreto del patio",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Rosemary West": "Róusmeri Uést",
-    "Rosemary Letts": "Róusmeri Léts",
-    "Rosemary": "Róusmeri",
     "Fred West": "Fred Uést",
-    "Heather West": "Jéder Uést",
     "Heather": "Jéder",
-    "Charmaine": "Charméin",
-    "Anne Marie": "An Marí",
     "Gloucester": "Glóster",
     "Cromwell Street": "Crómuel Strit",
     "Midland Road": "Mídland Róud",
     "Hazel Savage": "Jéisel Sávich",
     "Winchester": "Uínchester",
     "Devon": "Dévon",
+    "Northam": "Nórzam",
+    "Cheltenham": "Chéltenam",
     "Lucy Partington": "Lúsi Pártinton",
-    "Cheltenham": "Chéltenam"
+    "Lynda Gough": "Linda Gof",
+    "Caroline Owens": "Káraulain Óuens",
+    "Mantell": "Mantél",
+    "Jack Straw": "Yak Stro",
+    "Winson Green": "Uínson Grin"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Gloucester, oeste de Inglaterra, febrero de 1994. Un grupo de policías llega a una casa del número 25 de Cromwell Street con una orden de registro poco habitual. No vienen a buscar documentos ni objetos. Vienen a excavar el jardín."
+      "n": 1,
+      "titulo": "Bajo el patio",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Rosemary West y la casa de Cromwell Street. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Bajo el patio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gloucester, oeste de Inglaterra, febrero de 1994. Un grupo de policías llega a una casa del número 25 de Cromwell Street con una orden de registro poco habitual. No vienen a buscar documentos. Vienen a excavar el jardín."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buscan a una chica que lleva siete años sin dar señales de vida: Heather West, de dieciséis años cuando desapareció. Sus padres decían que se había marchado de casa. Pero entre los hermanos circulaba una frase que se repetía como una broma siniestra: que Heather estaba bajo el patio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Una broma de casa, y una detective que no la olvidó. Esta cinta es de Rosemary West, la madre de Heather. Y mi pregunta durante toda ella es una sola: ¿qué sabía? La respuesta que dio un tribunal la oirás en la cinta dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rosemary Letts había nacido el 29 de noviembre de 1953 en Northam, Devon, la quinta de siete hermanos. Su padre, según las fuentes, era un hombre violento con su mujer y sus hijos. En la escuela la acosaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A comienzos de 1969, con quince años, conoció a Fred West en una parada de autobús de Cheltenham. Él tenía veintisiete años y ya había estado casado. Su familia no aprobaba la relación. Pasó un tiempo en un centro para adolescentes con problemas, y después se fue con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1970 nació Heather, su primera hija. Y en 1971 desapareció una niña de ocho años, hija de Fred, que vivía con ellos en Midland Road. Fred estaba entonces en prisión. Rose tenía diecisiete años. Más adelante se hallaron sus restos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que pesó contra ella más tarde. La niña estaba a su cargo cuando desapareció. Rosemary nunca lo ha admitido. Pero ese caso, el más antiguo, es uno de los diez por los que la condenaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se casaron el 29 de enero de 1972 y se instalaron en Cromwell Street. Tuvieron ocho hijos. La casa se llenó de niños, de inquilinos y de visitas. Para los vecinos, Fred era un manitas siempre haciendo obras. De Rose se hablaba menos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1972 una niñera de diecisiete años, Caroline Owens, denunció que la pareja la había retenido y agredido. En enero de 1973 se declararon culpables de cargos menores, y los multaron con cincuenta libras cada uno."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una multa. Cincuenta libras cada uno. Anoto la cifra tal como consta en las fuentes. Desde mi mesa, es uno de los fallos más graves de esta historia. Esa mujer los denunció y el sistema lo trató como un asunto menor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1973 y 1979 desaparecieron varias jóvenes que tenían relación con la casa: inquilinas, niñeras, chicas que esperaban un autobús. Una de ellas era Lucy Partington, una estudiante universitaria de veintiún años. Muchas apenas fueron buscadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Heather, la primera hija de Rose y Fred, desapareció en 1987. Nadie la buscó de verdad. Sus padres dijeron que se había ido de casa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con eso empiezo a entender por qué tardó tanto. Las instituciones miraban cada pieza por separado: un caso de abusos, una denuncia, una joven que se fue de casa. Nadie juntó los papeles. Y los que sí podían contar algo eran niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1992 la policía arrestó a Rose y a Fred por maltrato infantil. El caso se vino abajo en junio de 1993, cuando su hija se negó a declarar. La detective Hazel Savage, que no olvidó el asunto de Heather, siguió investigando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de febrero de 1994, Fred y Rose fueron detenidos como sospechosos de la muerte de Heather. Fred acabó admitiendo que la había matado. El día 26 aparecieron los primeros restos en el jardín."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rose quedó en libertad bajo fianza el 27 de febrero. Dos semanas después, su abogado dijo que ella no tenía ninguna implicación. Pero los equipos seguían encontrando restos. El 20 de abril la detuvieron de nuevo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Piénsalo. Dos meses entre una detención y la siguiente. En ese tiempo Fred decía una cosa, Rose otra, y los equipos de excavación seguían encontrando lo que cada uno negaba conocer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaban los cargos, un juicio en Winchester y la pregunta que ningún acusado aclaró en voz alta: ¿qué sabía ella? En la cinta dos: un jurado, una sentencia y una casa que ya no existe."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Buscan a una chica desaparecida en 1987, Heather West. Sus padres llevan años diciendo que se marchó de casa. Pero entre sus hermanos circulaba una frase inquietante, que se repetía casi como una broma: que Heather estaba bajo el patio."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una broma familiar… que no era ninguna broma."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No lo era. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Rosemary West, la cómplice de la casa de los horrores."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Rosemary Letts nació en noviembre de 1953 en Devon, en el suroeste de Inglaterra, en una familia marcada por la violencia de un padre muy autoritario. Con quince años conoció a Fred West, doce años mayor que ella. Poco después se fue a vivir con él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fred tenía ya dos niñas a su cargo: su hija Anne Marie y su hijastra Charmaine. En 1971, mientras Fred cumplía una condena en prisión, Charmaine, de ocho años, desapareció de la casa de Midland Road."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Años después se hallaron sus restos, y la acusación sostuvo que fue Rosemary quien la mató, estando sola con las niñas. Rosemary tenía entonces diecisiete años. Ella siempre lo ha negado."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Así que no fue solo una cómplice pasiva."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Según el tribunal, no. En 1972 se casaron y se instalaron en el número 25 de Cromwell Street. La casa se llenó de niños, de inquilinos y de visitas. Y también de secretos que nadie quiso ver."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A finales de 1972, una joven que había trabajado para ellos como niñera los denunció por agredirla. El caso terminó con una simple multa. Fue una de las oportunidades perdidas más graves de esta historia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En los años siguientes desaparecieron varias jóvenes que tenían relación con la casa o que se cruzaron con la pareja. Algunas vivían allí como inquilinas; otras hacían autoestop o esperaban un autobús, como Lucy Partington, una estudiante universitaria que desapareció una noche de diciembre de 1973 en Cheltenham."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1987 desapareció Heather, la hija mayor de Fred y Rosemary, con dieciséis años. Sus padres contaron que se había ido de casa. Nadie la buscó de verdad."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué hizo que la policía volviera a mirar esa casa?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1992, una denuncia por abusos a una de sus hijas llevó a la detención de la pareja. El juicio se vino abajo, pero una detective veterana, Hazel Savage, que conocía a la familia de antiguo, no dejó de investigar la desaparición de Heather."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así llegó la orden de registro de 1994. Fred West confesó, y la policía encontró los restos de Heather y de otras jóvenes en la casa y en el jardín. También aparecieron restos en Midland Road. La excavación duró semanas, seguida por la prensa de medio mundo. A Fred West se le acusó de doce asesinatos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué pasó con Fred West?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se quitó la vida en prisión el 1 de enero de 1995, antes de ser juzgado. Rosemary quedó sola ante el tribunal. Su defensa sostuvo que ella no sabía nada de lo que había hecho su marido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El juicio se celebró en Winchester en otoño de 1995. No había confesión ni pruebas forenses que la situaran directamente en cada crimen. Pero los testimonios de supervivientes, como aquella antigua niñera, y de su propia familia fueron demoledores."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue declarada culpable de diez asesinatos, entre ellos los de su hija Heather y su hijastra Charmaine. La condenaron a cadena perpetua, y más tarde se estableció que nunca saldría de prisión. Sigue presa y nunca ha admitido su culpabilidad."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y la casa de Cromwell Street?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue demolida en 1996. Hoy, en su lugar, hay un paso peatonal. Se derribó para evitar que se convirtiera en un lugar de peregrinación morbosa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso dejó preguntas muy duras para la policía y los servicios sociales: denuncias que no prosperaron, señales que nadie conectó y jóvenes desaparecidas a las que nadie buscó, porque se daba por hecho que se habían marchado por su cuenta."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Este expediente está ligado al de su marido, Fred West, que tiene su propio capítulo en este archivo. Pero aquí las protagonistas deben ser ellas: Charmaine, Heather y las demás jóvenes que nunca salieron de aquellas casas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Rosemary West. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una casa que ya no existe",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una casa que ya no existe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Rosemary West. Primavera de 1994. Mientras la policía excava, Rose pasa de sospechosa a acusada. El 25 de abril aparece ante un tribunal acusada de la muerte de una joven, Lynda Gough."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo la acusan junto a Fred de cinco asesinatos más. El día 26, del de su hija Heather. Fred está acusado de doce asesinatos en total. Ella, de diez: nueve mujeres cuyos cuerpos aparecieron en Cromwell Street y la niña de 1971."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos acusados, dos versiones. Fred contó a la policía que ella no tenía nada que ver. Es lo que él decía. Pero hay una cosa que él ya no podrá repetir ante un juez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En total hubo doce víctimas, entre 1967 y 1987, la mayoría jóvenes. Rose fue acusada de diez. Las otras dos corresponden a crímenes anteriores a que ella conociera a Fred, y solo se le imputaron a él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 1 de enero de 1995, Fred West se quitó la vida en la prisión de Winson Green, en Birmingham, mientras esperaba el juicio. Rosemary quedó sola ante el tribunal. Fred nunca respondió a los doce cargos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 3 de octubre de 1995 en el Tribunal de la Corona de Winchester, ante el juez Mantell. Duró siete semanas. Brian Leveson dirigió la acusación. La defensa sostuvo que Rose no sabía nada de lo que hacía su marido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí no había una confesión. Ni una prueba forense que la situara en cada crimen. La acusación se apoyó en otras cosas: los testimonios de supervivientes como la antigua niñera, el de varios de sus hijos y el hecho de que los restos estaban en su casa. Y en ella misma, porque declaró."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay quien se pregunta si el jurado pudo juzgar a Rose sin la sombra de Fred. Es una duda legítima. Yo anoto lo que consta: un veredicto unánime, tras siete semanas de juicio y de testimonios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rose declaró en su propia defensa, en contra del consejo de su abogado.. Ella sigue sosteniendo que es inocente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 22 de noviembre de 1995, el jurado la declaró culpable de diez asesinatos, por unanimidad. Fue condenada a cadena perpetua y se recomendó que nunca saliera de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto cómo se zanjó la duda de la pena. En 1997, el ministro del Interior, Jack Straw, fijó una condena de por vida: ya no hay fecha en la que pueda pedir la libertad. Su recurso de 1996 fue rechazado, y en 2001 abandonó los demás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sigue en prisión y nunca ha admitido su culpabilidad. La casa de Cromwell Street fue derribada en octubre de 1996. Se destruyeron los escombros para que nadie pudiera llevarse un recuerdo. En su lugar hay hoy un paso peatonal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Estoy de acuerdo con que no quede un lugar al que ir en peregrinación. Pero pido que no se borre lo que enseña: durante más de veinte años hubo señales de alarma que nadie unió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó preguntas muy duras para la policía y los servicios sociales: denuncias que no prosperaron, jóvenes desaparecidas a las que nadie buscó porque se daba por hecho que se habían ido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay también un caso sin cerrar. La policía cree que Fred pudo ser responsable de la desaparición de una chica de quince años en 1968. Nunca se halló su cuerpo, y nadie fue acusado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los hijos de la pareja crecieron en aquella casa, y varios han hablado en público años después. Sus voces, y las de los hermanos de Heather, son también parte de esta historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Algunas familias tardaron más de veinte años en saber qué había sido de sus hijas. Marian Partington, hermana de Lucy, escribió años después un libro sobre ese largo duelo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lynda Gough, Lucy Partington, Heather, y las demás jóvenes que entraron en aquella casa y no salieron. Son ellas quienes deben ocupar el centro de esta historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Rosemary West. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Pareja con fwest (otro agente); hechos y cifras comparados con el guion de fwest: doce víctimas (1967–1987); Fred acusado de doce; Rose, de diez; juicio en Winchester (3/10/1995), veredicto el 22/11/1995; Fred se suicidó el 1/1/1995 en Winson Green; demolición en octubre de 1996; Hazel Savage; Heather, 16 años, desaparecida en 1987; Lucy Partington, 21 años (hermana Marian). Fuentes: Wikipedia en inglés, Crime + Investigation (dos páginas), Yahoo News UK (cronología). DISCREPANCIAS CON EL V2/FICHA: (1) La ficha y el v2 dicen que Charmaine era «hijastra» de Rose: Wikipedia dice «stepdaughter of Fred», es decir, hija de la primera mujer de Fred (Rena); C&I habla de «dos de sus hijas» como víctimas. El guion dice «una niña de ocho años, hija de Fred». (2) El v2 decía que Rosemary tenía diecisiete años cuando desapareció Charmaine y que 'según la acusación, la mató estando sola': Wikipedia dice que se cree que fue hacia el 20/6/1971, con Fred en prisión. (3) Niñera: el v2 dice finales de 1972, correcto; Wikipedia: diciembre de 1972, multa en enero de 1973 (50 libras cada uno). (4) Fecha de la orden de registro: 23 de febrero (Yahoo, C&I) o 24: el guion dice «febrero de 1994». (5) Detención: 25/2/1994, libertad bajo fianza el 27/2, nueva detención el 20/4, primer cargo el 25/4 (Lynda Gough), cinco cargos conjuntos el 6/5, Heather el 26/5 (Yahoo). La infografía de Wikipedia da abril de 1994 para la detención; el cuerpo de Wikipedia, febrero. (6) El v2 decía que la detective Savage era «veterana» y que investigó desde 1992: C&I la llama Detective Constable; Wikipedia y fwest dicen agosto de 1992 (registro por abusos) y 1993 (proceso se cae). (7) Condena: unanimidad, 22/11/1995 (Wikipedia: 21-22; C&I: 22). Tarifa de por vida: Jack Straw, julio de 1997 (Wikipedia). Apelación de 1996 rechazada; abandonó el recurso en septiembre de 2001 (Wikipedia). (8) Rose declaró en su defensa contra el consejo de su abogado (Wikipedia). (9) La ficha dice 25 Cromwell Street y Midland Road: correcto. (10) Cárcel actual: HMP New Hall (Wikipedia, 2026). El guion dice solo que sigue presa. (11) Respeto: se nombra a Heather (16 años), por acuerdo con fwest (sus hermanos han hablado en público); no se nombra a la niña de 1971 ni a las menores (Carol Ann Cooper, Shirley Hubbard, Alison Chambers); se nombran Lynda Gough (19) y Lucy Partington (21), adultas; se nombra a Caroline Owens (superviviente que declaró en juicio, nombre público). Se omiten métodos y detalles. (12) 'Siete semanas de juicio' (C&I). (13) La infancia de Rose: padre violento (C&I, 'despot' en C&I); 'bullied' (C&I); estancia en un centro para adolescentes en agosto de 1969 (Wikipedia)."
 }

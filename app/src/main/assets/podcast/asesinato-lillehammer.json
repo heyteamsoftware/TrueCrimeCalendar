@@ -4,8 +4,8 @@
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Lillehammer": "Lilehámer",
-    "Mosad": "Mosád",
     "Ahmed Bouchikhi": "Áhmed Buchíki",
+    "Mosad": "Mosád",
     "Bouchikhi": "Buchíki",
     "Salameh": "Salamé",
     "Ali Hassan Salameh": "Alí Jasán Salamé",
@@ -34,7 +34,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dos hombres bajan del coche y disparan. El hombre muere delante de su esposa. Los agresores se suben a otro vehículo y huyen."
+          "texto": "Dos hombres bajan del coche y disparan. El hombre muere delante de su esposa. Los agresores huyen en otro vehículo."
         },
         {
           "voz": "alvaro",
@@ -54,11 +54,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía noruega actuó rápido. Un coche sospechoso había sido visto cerca del lugar. Al día siguiente, uno de los agentes llevó ese mismo vehículo al aeropuerto, y la policía detuvo allí a dos personas."
+          "texto": "La policía noruega actuó rápido. Un coche sospechoso había sido visto cerca del lugar. Al día siguiente, un agente lo llevó al aeropuerto con un colaborador local, y la policía detuvo allí a los dos."
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí está el fallo de oficio que me llama la atención: siguieron usando el coche del crimen. Un coche que ya ha sido visto, mantenido a disposición del equipo. Un detalle tan pequeño tumbó la operación."
+          "texto": "Aquí está el fallo de oficio que me llama la atención: siguieron usando un coche que ya estaba señalado como sospechoso. Un descuido tan pequeño contribuyó a hundir la operación."
         },
         {
           "voz": "ximena",
@@ -66,7 +66,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Entre los objetos que la policía encontró había documentos y llaves que llevaron a pisos de Mosad en París y en otras ciudades. La operación acabó destapando una red mucho más grande."
+          "texto": "En poder de uno de ellos había documentos y llaves que llevaron a un piso en París y a otros más en Francia. La operación acabó destapando una red mucho más grande, y los agentes tuvieron que abandonar sus refugios en Europa."
         },
         {
           "voz": "ximena",
@@ -74,7 +74,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cinco años y medio como máximo por un asesinato. Y ni siquiera lo cumplieron. Los cinco condenados fueron indultados tras unos veintidós meses y volvieron a Israel. Los tiradores no pasaron por un tribunal."
+          "texto": "Cinco años y medio como máximo por un asesinato. Y ni siquiera lo cumplieron. Los cinco condenados fueron indultados tras unos veintidós meses y volvieron a Israel. Los tiradores no pasaron por un tribunal. En 1998 la fiscalía noruega llegó a acusar al jefe de la operación, pero retiró el cargo un año después. Esa persona nunca fue condenada."
         },
         {
           "voz": "ximena",
@@ -90,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Ahmed Bouchikhi tenía unos treinta años. No era ningún objetivo: era un hombre que volvía a casa del cine con su mujer."
+          "texto": "Ahmed Bouchikhi tenía unos treinta años. No era ningún objetivo: era un hombre que volvía a casa del cine con su mujer, que esperaba un hijo, y que murió a su lado por un parecido físico. Su familia tuvo que esperar veintitrés años para recibir una compensación."
         },
         {
           "voz": "alvaro",
@@ -102,5 +102,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Cerrado en lo judicial (cinco condenados y luego indultados); los dos tiradores nunca fueron juzgados. Fuentes abiertas: Store norske leksikon (WebFetch), Il Post (WebFetch) y JTA (WebFetch). History Today dio 403 y no se abrió. Discrepancias: condenados por «complicidad» (ficha, SNL) o por asesinato (Il Post); penas de uno a cinco años y medio (ficha, SNL) o de dos a cinco (Il Post): el guion usa la ficha. Detenidos: seis (SNL), cinco (Il Post). Los que escaparon: nueve (SNL) o dos (Il Post): el guion dice «nueve, entre ellos los dos tiradores». Familia indemnizada: SNL dice viuda y dos hijos; JTA, viuda, una hija y un hijo de un matrimonio anterior: el guion no lo detalla. Coche: Il Post dice que el coche del crimen quedó abandonado en un campo y que huyeron en un Peugeot alquilado, pero que al día siguiente un agente llevó «el coche» al aeropuerto; la ficha dice que siguieron usando el mismo coche: el guion habla de «un coche ya señalado como sospechoso». Acusación del jefe de la operación en 1998 y retirada en 1999: de la nota de la ficha (no abierta por mí), sin nombrarlo. Cantidad de la indemnización: secreta (JTA; Ha'aretz: unos 400.000 dólares, no usado). La ficha da «unos 22 meses» de condena antes del indulto (Il Post: 22 meses). Ortografía: Bouchikhi (ficha, SNL) o Bouchiki."
 }

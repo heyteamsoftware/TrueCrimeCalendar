@@ -32,7 +32,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Condado de San Diego, California, 26 de marzo de 1997. Alguien llama al número de emergencias desde un teléfono público, en la localidad de Carlsbad. No da su nombre. Solo dice que hay que ir a una casa de Rancho Santa Fe."
+          "texto": "Condado de San Diego, California, 26 de marzo de 1997. Alguien llama al número de emergencias desde un teléfono público, en la localidad de Carlsbad. No da su nombre. Denuncia unas muertes en una casa de Rancho Santa Fe."
         },
         {
           "voz": "ximena",
@@ -40,7 +40,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. No hay desorden, ni señales de lucha, ni sangre. Es una escena de una calma casi insoportable. La policía tuvo que entender cuanto antes que aquello no era un crimen en el sentido corriente."
+          "texto": "Primera nota. Según HISTORY, no había señales visibles de sangre ni de violencia. Una escena en calma, y por eso más difícil de entender."
         },
         {
           "voz": "ximena",
@@ -52,7 +52,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quiero que se entienda por qué avisó así. Sabía lo que iba a encontrar. Y aun así fue hasta la puerta. Esa persona es parte de este expediente."
+          "texto": "Fíjate en el orden. Recibió una despedida, fue a comprobarlo y dio la alarma. Sin esa llamada, nadie habría sabido nada aquella tarde. Que conste."
         },
         {
           "voz": "ximena",
@@ -68,15 +68,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El grupo venía de lejos. Applewhite, hijo de un pastor presbiteriano, había conocido en 1972 a una enfermera, Bonnie Nettles. Juntos empezaron a predicar que eran enviados de otro nivel de existencia, con los nombres de «Do» y «Ti»."
+          "texto": "El grupo venía de lejos. Applewhite, hijo de un pastor presbiteriano, había conocido en 1972 a una enfermera, Bonnie Nettles. Juntos empezaron a presentarse como enviados de un nivel superior de existencia, con los nombres de «Do» y «Ti»."
         },
         {
           "voz": "ximena",
-          "texto": "En 1975 convencieron a unos veinte vecinos de un pueblo de Oregón para que lo dejaran todo y los siguieran. Una noticia de la televisión estadounidense de la época se preguntó si habían sido secuestrados."
+          "texto": "En 1975 convencieron a unos veinte vecinos de un pueblo de Oregón para que lo dejaran todo y los siguieran. La televisión estadounidense de la época se preguntó si se los habían llevado a la fuerza."
         },
         {
           "voz": "alvaro",
-          "texto": "Eso explica algo importante. Estas personas no fueron obligadas a marcharse. Se fueron, en su mayoría, por decisión propia, y eso es lo que hace tan difícil mirar el caso."
+          "texto": "Veintidós años, dice su propia web, llevaban en lo que llamaban su «clase» en la Tierra. Veintidós años de una misma promesa."
         },
         {
           "voz": "ximena",
@@ -88,7 +88,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y aquí viene lo que me incomoda. La casa estaba en una urbanización tranquila, con vecinos, y nadie sospechó. Eso no es una acusación: es una advertencia."
+          "texto": "Mira la lista: veintiuna mujeres y dieciocho hombres, de edades muy distintas. Aquí no había solo jóvenes que no sabían lo que hacían."
         },
         {
           "voz": "ximena",
@@ -104,11 +104,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tampoco hace falta que quede. Lo que sí debe quedar es que cada uno de ellos tenía una vida, una familia y un nombre."
+          "texto": "Tampoco hace falta que quede. Lo que sí debe quedar es que cada uno de ellos tenía una vida y un nombre."
         },
         {
           "voz": "ximena",
-          "texto": "Fueron treinta y nueve personas. No las nombramos aquí; sus nombres no son lo importante para este archivo. Lo importante es que existieron."
+          "texto": "Fueron treinta y nueve personas. No las nombramos aquí: eran adultos de edades muy distintas, y cada uno tuvo una vida antes de la secta."
         },
         {
           "voz": "ximena",
@@ -116,5 +116,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: Times of San Diego (2017), HISTORY (2026) y Wikipedia en inglés. Sin fuente policial o forense. Se omite el método (como pedía la selección) y no se nombra a ninguna víctima. La llamada se hizo desde un teléfono público de Carlsbad (Times of San Diego); la ficha habla del 911. Calle: Colina Norte, renombrada Paseo Victoria. Los datos de la doctrina del grupo (Do y Ti, nave tras el Hale-Bopp, «graduación») salen de HISTORY y Wikipedia y se exponen sin detalle. No se menciona ningún detalle de la vida personal de Applewhite."
 }

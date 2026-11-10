@@ -41,3 +41,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **hindley:** repite los nombres de menores de brady; aplicar la misma decisión a las dos cintas.
 - **Pronunciación (a oído al grabar):** trujillo, tobagi, nakens y los nombres japoneses de sada-abe.
 - **sandino:** el guion incluye la versión de Somoza sobre el embajador Lane, atribuida y discutida por Belli; la ficha decía no incluirla. Decidir. Pronunciaciones a oído: reg-murphy, cinco-de-yuba y olof-palme. Las notas de revisión de febrero 16-29 son largas.
+- **puig-antich y matanza-atocha:** datos de contexto sin fuente abierta (últimas ejecuciones con garrote vil; edad de Dato). Pronunciación de «Puig Antich».

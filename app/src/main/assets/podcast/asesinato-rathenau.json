@@ -1,0 +1,107 @@
+{
+  "id": "asesinato-rathenau",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Walther Rathenau": "Válter Rátenau",
+    "Rathenau": "Rátenau",
+    "Koenigsallee": "Kénigsale",
+    "Grunewald": "Grúnevalt",
+    "Berlín": "Berlín",
+    "Rapallo": "Rapállo",
+    "Organización Cónsul": "Organización Cónsul",
+    "Erwin Kern": "Érvin Kern",
+    "Kern": "Kern",
+    "Hermann Fischer": "Hérman Físcher",
+    "Fischer": "Físcher",
+    "Ernst Werner Techow": "Ernst Vérner Técov",
+    "Techow": "Técov",
+    "Saaleck": "Sálek",
+    "Reichstag": "Raixstag",
+    "Wirth": "Virt",
+    "Joseph Wirth": "Yósef Virt",
+    "AEG": "a e ge"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cabriolet en la Koenigsallee",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Walther Rathenau. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cabriolet en la Koenigsallee."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Berlín, sábado 24 de junio de 1922. Hacia las diez y tres cuartos de la mañana, un ministro sale de su villa del barrio de Grunewald en un coche descubierto. Va al ministerio. No lleva escolta, aunque había recibido amenazas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es Walther Rathenau, ministro de Asuntos Exteriores, industrial judío, hijo del fundador de la empresa eléctrica AEG. Dos meses antes había firmado el Tratado de Rapallo con la Unión Soviética."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre amenazado, sin protección, a la misma hora y por el mismo camino de todos los días. Quien lo esperaba no necesitaba espiar mucho. Solo hacía falta paciencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la Koenigsallee, un coche abierto lo adelanta. Al volante va Ernst Werner Techow. En el asiento de atrás, Erwin Kern dispara con una metralleta y Hermann Fischer lanza una granada de mano. Rathenau muere a los pocos minutos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los tres eran jóvenes. Venían de los ambientes nacionalistas de la posguerra, de excombatientes y de exmarinos, donde la derrota se explicaba con una conspiración. Atento a esto, porque el crimen empieza antes del disparo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores eran miembros de la Organización Cónsul, un grupo de extrema derecha. Según la Fundación Konrad Adenauer, en esos ambientes circulaban fantasías sobre una «república de los judíos» y se acusaba a Rathenau de ser un político que cedía ante el extranjero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el clima. Cada insulto en los periódicos y en las reuniones fue allanando el camino. No lo digo yo: lo dijo el canciller Joseph Wirth ante el Reichstag. Echó la culpa al extremismo de derechas y pronunció una frase muy citada: el enemigo está a la derecha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Millones de personas salieron a la calle. El ataúd se expuso en el Reichstag y el 27 de junio hubo un acto de Estado. En el entierro, los trabajadores del transporte pararon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno aprobó medidas de urgencia y, el 21 de julio, la Ley de Protección de la República."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La policía fue rápida. Un cómplice que había presumido de lo que se preparaba fue detenido a los dos días y confesó. Después cayeron otros. Kern y Fischer fueron localizados el 17 de julio en el castillo de Saaleck. Murieron durante el cerco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1922, un tribunal especial creado para proteger la República juzgó a trece personas. Hubo diez condenas. Ernst Werner Techow, el conductor, fue condenado a quince años de prisión, y se libró de la pena de muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto una duda de los historiadores. Para la Fundación Adenauer, aquel primer juicio trató el crimen como obra de unos individuos, sin investigar a fondo la red. Un segundo proceso, dos años después, se centró en la Organización Cónsul, y las condenas fueron leves."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedó una paradoja. La República salió reforzada unos meses y, a la vez, no hizo justicia completa. Pasado el primer impacto, el recuerdo de Rathenau se fue apagando a mediados de los años veinte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los nazis retiraron la placa del lugar del atentado. En 1946 se colocó en la Koenigsallee un monolito, y en 1957 una plaza de Berlín recibió su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rathenau tenía cincuenta y cuatro años. Fue industrial, organizó la economía de guerra alemana y llegó a ministro. Hoy se lo recuerda como un mártir de la democracia alemana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Walther Rathenau. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Konrad-Adenauer-Stiftung, LeMO (DHM) y Wikipedia (en alemán); el PDF del Bundestag no se pudo leer (flujos comprimidos). Cifra de disparos: no se da (Bundestag: nueve; Wikipedia alemana: cinco impactos). Hora de salida (10:45) y trayecto: Wikipedia alemana. Detención del cómplice a los dos días (26 de junio, Willi Günther, que confesó): Wikipedia alemana; el guion no da su nombre. Muerte de Kern y Fischer: la Wikipedia alemana dice que Kern murió por un disparo policial y Fischer se suicidó; el guion dice «murieron durante el cerco». Juicio: Wikipedia alemana 3 al 14 de octubre de 1922, 13 acusados, diez condenados; Techow quince años de Zuchthaus; no menciona Leipzig (la ficha sí); el guion dice «tribunal especial». La frase de Wirth «der Feind steht rechts» sale de Wikipedia alemana; la Fundación Adenauer solo recoge que Wirth culpó al extremismo de derechas. La Fundación Adenauer habla de un segundo proceso a la Organización Cónsul con penas leves: Wikipedia alemana no lo menciona; el Bundestag dice que no se probó un complot. «Cincuenta y cuatro años»: nació el 29 de septiembre de 1867 (LeMO). «Ingeniero de la guerra» es impreciso (dirigió la sección de materias primas de guerra): cambiar si se duda. «Hijo del fundador de la AEG»: LeMO. Techow no se presenta como autor de disparos, sino como conductor condenado por complicidad."
+}
