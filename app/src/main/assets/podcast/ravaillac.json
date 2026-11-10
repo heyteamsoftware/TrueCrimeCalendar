@@ -8,12 +8,9 @@
     "rue de la Ferronnerie": "rü de la Ferronerí",
     "place de Grève": "plás de Grév",
     "Sully": "Sulí",
-    "Épernon": "Epernón",
     "Angulema": "Angulema",
-    "Henri": "Henri",
     "Louvre": "Lúvr",
-    "Conciergerie": "Consiersrí",
-    "Médicis": "Medísis"
+    "Conciergerie": "Consiersrí"
   },
   "cintas": [
     {
@@ -32,6 +29,10 @@
         {
           "voz": "ximena",
           "texto": "París, 14 de mayo de 1610. Por la tarde, el rey Enrique IV sale del Louvre en carroza. Va a visitar a su amigo el duque de Sully, que está enfermo. Hay poca escolta, y ninguna de caballería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquella mañana, según Herodote, el rey estaba inquieto. Se dice que murmuró que algo le perturbaba mucho. Quienes lo cuentan lo saben después del final, y eso conviene tenerlo presente."
         },
         {
           "voz": "ximena",

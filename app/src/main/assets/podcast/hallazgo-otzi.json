@@ -1,0 +1,113 @@
+{
+  "id": "hallazgo-otzi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ötzi": "Ötsi",
+    "Tisenjoch": "Tísenyoj",
+    "Simon": "Símon",
+    "Bolzano": "Bolsáno",
+    "Messner": "Mésner",
+    "Spindler": "Espíndler",
+    "Innsbruck": "Ínsbruk",
+    "Similaun": "Similáun"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cuerpo en el Tisenjoch",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El hombre de hielo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cuerpo en el Tisenjoch."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alpes de Ötztal, 19 de septiembre de 1991. A tres mil doscientos diez metros de altitud, junto al paso de Tisenjoch, una pareja de excursionistas alemanes, Erika y Helmut Simon, se desvía del camino. En el hielo, medio derretido, asoma un cuerpo. Solo la parte de arriba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Piensa como ellos. Un cadáver en un glaciar. Para cualquiera, un montañero que murió en un accidente, quizá hace unos años. Nadie pensó que estaba delante de un crimen. Ni siquiera que estaba delante de un muerto reciente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Simon avisaron al encargado del refugio de Similaun, que llamó a la policía austriaca y a los carabinieri. El primer intento de rescate, el día 20, fracasó por el mal tiempo. Sacaron del hielo un hacha y poco más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo más curiosos. Entre ellos, el alpinista Reinhold Messner, que vio un dibujo del hacha y fue el primero en sospechar que aquel hombre era muy antiguo. El 23 de septiembre, con picos de hielo y delante de una cámara de televisión, lo liberaron. Supervisó el traslado un forense de Innsbruck. No había ningún arqueólogo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con ese método, el cuerpo sufrió daños. La cadera y el brazo izquierdo se estropearon en la extracción. Esta es la parte del archivo que más me duele: lo más valioso, y lo trataron como un accidente de montaña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El día 24, el arqueólogo Konrad Spindler examinó la momia y calculó que tenía al menos cuatro mil años. Después, el carbono catorce lo confirmó: más de cinco mil trescientos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aún quedaba una cuestión de fronteras. El 2 de octubre se midió el lugar con precisión. El cuerpo estaba a noventa y dos metros dentro de Italia. Hoy se conserva en Bolzano, en el Museo Arqueológico del Tirol del Sur, desde 1998."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era un hombre de unos cuarenta y cinco años que vivió hacia el 3300 antes de Cristo, en la Edad del Cobre. Llevaba un hacha de cobre, un cuchillo de piedra, un arco y un carcaj con flechas. Alguien lo apodó Ötzi, por los Alpes de Ötztal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Durante diez años se creyó que había muerto de frío. Que se perdió, que se agotó, que se sentó a esperar. Hasta que en 2001 alguien miró mejor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las radiografías y un escáner mostraron una punta de flecha clavada en el hombro izquierdo. Había rasgado la ropa y dañado vasos sanguíneos. El hombre se desangró."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ahora los datos tienen otra cara. Un corte reciente en la base del pulgar, que llegaba al hueso. Moratones en las manos y el pecho. Quizá un golpe en la cabeza. Heridas que podrían apuntar a una pelea."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un análisis de 2003 halló, según se informó, sangre de al menos cuatro personas distintas en su ropa y sus armas. Se ha discutido mucho qué significa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo marco con prudencia. Es lo que se informó, y las interpretaciones varían. Quizá hubo una pelea. Quizá cargó con un herido. No tenemos nada más. No hay un testigo ni un rastro de quién disparó. El culpable, si lo hubo, murió hace cinco mil años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sabemos también que su última comida fue carne de cabra montés y de ciervo, trigo y pan con hierbas. Las fuentes no coinciden en cuánto antes de su muerte la comió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Fue un robo? No parece. Entre sus cosas seguía el hacha de cobre, muy valiosa para su época. Quien le disparó no se la llevó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tampoco sabemos del todo dónde murió. Una propuesta de 2010 sostiene que murió más abajo y que el deshielo lo movió. Otros investigadores lo discuten."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y sin embargo, lo que más llama la atención es lo cercano que resulta. Un hombre que cruzaba un paso de montaña con sus herramientas y su comida, y al que alguien disparó una flecha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el asesinato más antiguo de nuestro archivo. No hay juicio posible. Pero hay un hombre, con una vida, con un camino. Y hay quienes, a pesar de los miles de años, quieren saber qué le pasó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy descansa en una cámara fría de Bolzano y se le ve a través de una pequeña ventana. Un hombre que murió en el Tisenjoch, hace más de cinco mil años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El hombre de hielo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso prehistórico sin autor. Fuentes abiertas: iceman.it (el hallazgo y el museo), Scientific American y Wikipedia en inglés (herida, otras heridas, sangre de cuatro personas en 2003, última comida, propuesta de 2010). Britannica dio error 403. Se dice 'según se informó' para el análisis de 2003. Discrepancia menor: Scientific American sitúa la herida en la espalda; Wikipedia y la ficha, en el hombro izquierdo; el guion dice solo 'una punta de flecha clavada en el hombro izquierdo'. Datación: 'más de cinco mil trescientos' según el museo; Scientific American da 5.300-5.050 cal. B.P. La edad de unos 45 años y la fecha 3300 a. C. son de Britannica (no se pudo abrir; vienen de la ficha). El nombre Ötzi lo puso el periodista Karl Wendl. Sin nombrar a las víctimas (no hay)."
+}

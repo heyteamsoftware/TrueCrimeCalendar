@@ -1,0 +1,106 @@
+{
+  "id": "asesinato-mohamed-budiaf",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mohamed Budiaf": "Mohámed Budiáf",
+    "Budiaf": "Budiáf",
+    "Annaba": "Anába",
+    "Argel": "Argel",
+    "Argelia": "Argelia",
+    "Lambarek Boumaarafi": "Lambarék Bumaarafi",
+    "Boumaarafi": "Bumaarafi",
+    "Fatiha Budiaf": "Fatíja Budiáf",
+    "Fatiha": "Fatíja",
+    "Alto Comité de Estado": "Alto Comité de Estado",
+    "Frente de Liberación Nacional": "Frente de Liberación Nacional",
+    "FLN": "efe ele ene",
+    "Amnistía Internacional": "Amnistía Internacional"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un discurso ante las cámaras",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato del presidente Budiaf. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un discurso ante las cámaras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Annaba, Argelia, lunes 29 de junio de 1992. El presidente del país inaugura una casa de la cultura. Es su primera visita fuera de Argel. Habla ante las cámaras de televisión, delante de un público. De pronto, le disparan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era Mohamed Budiaf. Uno de los fundadores del Frente de Liberación Nacional, el movimiento que llevó a Argelia a la independencia. Llevaba solo unos meses en el cargo, tras casi veintisiete años de exilio, sobre todo en Marruecos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un acto público, cámaras, el presidente en su primera salida del palacio. Lo que quedó a la vista de las cámaras fue el disparo. Lo que quedó fuera de plano es todo lo que había detrás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender por qué importaba, hay que recordar el momento. Los militares habían anulado la segunda vuelta de las elecciones legislativas después de que el Frente Islámico de Salvación ganara la primera. Luego instalaron un Alto Comité de Estado y llamaron a Budiaf desde su exilio para presidirlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un hombre con prestigio de la guerra de independencia, que tras la independencia se enfrentó a la nueva dirección del FLN y fundó su propio partido de oposición. Un símbolo útil, pero también un hombre que hablaba de reformas. Según Wikipedia, había lanzado una campaña contra la corrupción y apartado a varios altos mandos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor fue Lambarek Boumaarafi, un oficial de su escolta. Según lo que se contó entonces, actuó solo y movido por simpatías islamistas. Nadie reivindicó el atentado. La agencia UPI lo describió como «evidentemente bien planeado y perfectamente ejecutado»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se sospechó primero del Frente Islámico. Algunos políticos argelinos pensaron en sectores del ejército descontentos o en el antiguo partido gobernante. Eran sospechas, no hechos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aviso. Todo lo que sigue sobre complots son dudas de otros. No tengo pruebas, y no las ha reunido ningún tribunal. Lo digo claro porque el caso se presta a las leyendas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Budiaf llevaba unos cuatro meses en el cargo. Los cuatro miembros que quedaban del Alto Comité de Estado asistieron a la ceremonia en la mezquita. Se esperaba que nombrasen pronto a otro presidente, y los observadores creían que los militares, que tenían el poder real, preferirían a otro civil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El funeral fue el miércoles. Decenas de miles de personas acompañaron el féretro entre el palacio presidencial y la gran mezquita de Argel, y el cortejo tuvo que cambiar de ruta varias veces por la multitud. Fue enterrado en el cementerio de El Alia, en la zona reservada a los mártires nacionales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entre la gente había quien ondeaba la bandera y quien gritaba a favor del Frente Islámico de Salvación, que Budiaf había ilegalizado. Un país partido en dos que lo despedía a la vez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1995, Boumaarafi fue condenado a muerte en un juicio a puerta cerrada. Según Amnistía Internacional, el proceso se celebró en el tribunal criminal de Argel. La pena no se ejecutó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y esto es lo que no se puede olvidar: un juicio cerrado. Sin público, sin periodistas. Con un caso así, lo que no se ve alimenta las dudas, aunque no las pruebe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su viuda, Fatiha Budiaf, sostiene desde hace años que hubo un complot y que el crimen nunca se investigó como es debido. Pide que se reabra el caso. Ningún tribunal le ha dado la razón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su esposa fundó la Fundación Budiaf, que recibió en 1998 el Premio Príncipe de Asturias. Hoy se le suele llamar mártir, y su tumba está entre las de los héroes nacionales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue un hombre que volvió a su país con la esperanza de cambiarlo y murió a los pocos meses. Lo que quedó fue la pregunta de quién lo quería muerto, sin respuesta oficial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato del presidente Budiaf. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: UPI (1992) y Wikipedia (en inglés); Jeune Afrique dio 403 y Amnistía/Universalis no se abrieron (la condena a muerte de junio de 1995 y el tribunal criminal de Argel salen de la ficha). Discrepancias: Jeune Afrique habla de cadena perpetua y sitúa la condena en 1996 (según la ficha); se sigue a Amnistía y Universalis. Wikipedia: teniente; la ficha: oficial. Wikipedia dice que Boumaarafi actuó solo por simpatías islamistas «se dijo»; atribuido en el guion. Las teorías de complot se atribuyen a terceros y a la viuda; no se nombra a ninguno de los cuatro exoficiales que ella acusó en 2016. Datos que NO constan en las fuentes abiertas y deben revisarse: «Es su primera visita fuera de Argel» (ficha); «ante un público». «En 1998 su esposa creó la Fundación» (Wikipedia: la fundación recibió el premio en 1998; la fecha de creación no consta): revisar el texto. «Casi veintisiete años de exilio»: Wikipedia, «about 27 years». Marruecos: Wikipedia. Funeral «el miércoles»: UPI (1 de julio de 1992 fue miércoles). Arafat y otros detalles del funeral: no usados."
+}

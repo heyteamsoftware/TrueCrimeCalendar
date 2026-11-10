@@ -1,0 +1,106 @@
+{
+  "id": "joe-orton",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Joe Orton": "Yo Órton",
+    "Orton": "Órton",
+    "Kenneth Halliwell": "Kéneth Jálliwel",
+    "Halliwell": "Jálliwel",
+    "Noel Road": "Nóel Roud",
+    "Islington": "Ísling-ton",
+    "Entertaining Mr Sloane": "Entertéining Míster Slóun",
+    "Loot": "Lut",
+    "Richard Lester": "Ríchard Léster",
+    "Golders Green": "Góldes Grin",
+    "Harold Pinter": "Járold Pínter",
+    "What the Butler Saw": "Uat de Bátler Só",
+    "John Lahr": "Yon Lar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un chófer en Noel Road",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Joe Orton. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un chófer en Noel Road."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 10 de agosto de 1967. Por la mañana, un chófer llega al número 25 de Noel Road, en el barrio de Islington. Viene a recoger al dramaturgo Joe Orton para llevarle a una reunión con el director Richard Lester sobre un guion de cine. Allí encuentran los cuerpos de Orton y de su compañero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Orton tenía treinta y cuatro años. En tres años había pasado de ser un desconocido a ser el autor más comentado del teatro británico, con obras como «Entertaining Mr Sloane» y «Loot», comedias negras que escandalizaban y hacían reír."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido en Leicester, en 1933, hijo de un jardinero del ayuntamiento y de una obrera del calzado. Llegó a Londres en 1951 para estudiar teatro, y allí conoció a Halliwell."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Aquel piso era diminuto y austero. Vivían allí dos hombres que se habían conocido en 1951 en la escuela de arte dramático y que llevaban quince años juntos. Durante mucho tiempo habían vivido del dinero de Halliwell y del subsidio de paro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kenneth Halliwell era el compañero de Orton. En 1962, los dos fueron condenados a seis meses de cárcel por robar libros de las bibliotecas públicas de Islington y alterar sus cubiertas con imágenes y textos burlones. La prensa lo contó como una broma de mal gusto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Esa condena marcó un antes y un después. Según sus biógrafos, la cárcel le dio a Orton la distancia para escribir con voz propia. Cuando llegó el éxito, el éxito era suyo, no de los dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según lo que recogen las fuentes, Halliwell se sentía cada vez más amenazado y aislado por el triunfo de su compañero, y dependía de antidepresivos y barbitúricos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. El día del crimen, Halliwell habló tres veces por teléfono con su médico, que le había concertado una cita con un psiquiatra para la mañana siguiente. En la última llamada, le dijo que se encontraba mejor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la noche del 9 de agosto de 1967, Halliwell mató a Orton a martillazos en el piso. Después se quitó la vida con una sobredosis de barbitúricos. No hubo juicio: el único autor del crimen murió esa misma noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dejó una nota. Decía: «Si leéis su diario, todo quedará explicado. Sobre todo la última parte»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con muchísimas reservas. Los diarios de Orton se publicaron más tarde y cuentan su vida privada con crudeza. No son una explicación. Y el último apunte es del 1 de agosto y se corta en mitad de una frase: pudieron faltar páginas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una pista más, atribuida. El Sunday Times contó en 1970 que cuatro días antes del crimen Orton había contado a una persona cercana que quería terminar la relación, aunque no sabía cómo. Un testimonio, no una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los dos fueron incinerados en Golders Green. El dramaturgo Harold Pinter leyó el elogio fúnebre y lo cerró diciendo que Orton había sido un escritor extraordinario. A sugerencia de la familia de Halliwell, sus cenizas se esparcieron juntas. No hay memorial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y esto es lo que me deja pensando: una relación en la que uno brilla y el otro se apaga. Nadie puede decir si alguien habría podido evitarlo. El expediente solo conserva los síntomas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La obra de Orton siguió viva. «What the Butler Saw» se estrenó en 1969, más de un año después de su muerte, y John Lahr escribió su biografía en 1978. Los libros que él y Halliwell alteraron se conservan hoy en la colección local de Islington."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Orton murió joven, en su mejor momento. Eso fue lo que le quitaron: los años que le quedaban para seguir escribiendo. Hoy se habla de lo «ortoniano» para describir una comedia oscura, absurda y cruel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Joe Orton. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: London Remembers, Wikipedia en inglés (apartado «Murder», que pide más referencias). Esta fuente es floja y no hay crónica de prensa de 1967 abierta; el New Statesman (2017) no se pudo abrir. Los datos de las tres llamadas al médico, la nota de Halliwell y la entrevista a la amiga (Sunday Times, 1970) salen solo de Wikipedia. No se recogen: la hipótesis de Richard Brooks sobre un productor (Sunday Times, 2017), por señalar a una persona concreta sin comprobar; el número de golpes; el método de suicidio concreto (el guion dice solo «sobredosis de barbitúricos», como la ficha y Wikipedia dicen Nembutal); los detalles sexuales de los diarios. Contradicción: ficha y London Remembers dicen que Halliwell murió «con sobredosis / sleeping pills», Wikipedia dice Nembutal. La investigación judicial (inquest) en St Pancras no se ha comprobado. La frase de Pinter se parafrasea (Wikipedia la da en inglés como «bloody marvellous writer»). «Quince años juntos» según la ficha (de 1951 a 1967). Las cenizas se mezclaron a sugerencia de la familia de Halliwell, a través de la agente de Orton (Wikipedia). La nota «No hubo juicio ni detenciones» es deducción de la ficha («cerrado sin juicio»)."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "thompson-bywaters",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ilford": "Ílford",
+    "Belgrave Road": "Bélgrev Roud",
+    "Edith Thompson": "Ídit Tómpson",
+    "Edith": "Ídit",
+    "Percy Thompson": "Pérsi Tómpson",
+    "Percy": "Pérsi",
+    "Frederick Bywaters": "Fréderik Báiguaters",
+    "Bywaters": "Báiguaters",
+    "Old Bailey": "Old Béili",
+    "Shearman": "Shírman",
+    "Holloway": "Jólowei",
+    "Pentonville": "Péntonvil",
+    "Bridgeman": "Brídyman"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Sesenta cartas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de Ilford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Sesenta cartas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ilford, a las afueras de Londres. La noche del 3 de octubre de 1922, un matrimonio vuelve a casa después de una función de teatro. En Belgrave Road, un hombre sale de entre las sombras y apuñala al marido. Percy Thompson muere antes de que llegue ayuda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Dos testigos del crimen: la esposa, Edith, y un hombre del que ella no sabía nada. Eso dijo. Pero este caso no se decide por quién tenía el cuchillo. Eso nunca estuvo en duda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor fue Frederick Bywaters, un marinero mercante de veinte años. Fue detenido esa misma noche. Edith Thompson, de veintinueve, dio su nombre a la policía. Bywaters y ella eran amantes desde el verano de 1921."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al registrar, la policía encontró más de sesenta cartas de ella a él. Hablaban del deseo de verse libre de su marido. Algunas mencionaban veneno y vidrio molido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Aquí está el nudo. ¿Eran planes, o eran fantasías de una mujer que escribía a un amante embarcado? Las autopsias de Percy no hallaron rastro de veneno ni de vidrio. Nadie lo había usado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bywaters dijo siempre lo mismo: Edith no sabía nada de sus planes y no le había pedido que matase a su marido. Lo repitió en el juicio, ante un tribunal que no quería escucharlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 6 de diciembre de 1922 en el Old Bailey, ante el juez Shearman. Edith testificó contra el consejo de su abogado. Dio mala impresión. El 11 de diciembre, el jurado declaró culpables a los dos. Los dos fueron condenados a muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. A ella no se la acusó de empuñar un arma. Se la condenó como instigadora, por sus palabras en papel. La acusación leyó esas cartas como un plan acordado. Críticos posteriores dicen que el resumen del juez fue deficiente y el juicio, prejuicioso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal de Apelación confirmó las condenas. Cerca de un millón de personas firmaron una petición para que no se ejecutara a Edith. El ministro del Interior, William Bridgeman, no concedió el indulto, ni siquiera cuando Bywaters volvió a declarar que ella era inocente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los dos fueron ahorcados a la vez el 9 de enero de 1923: ella en la prisión de Holloway y él en la de Pentonville. Edith fue la primera mujer ejecutada en el Reino Unido desde 1907."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Última nota. Decenas de años después, el caso sigue en revisión. En 2018 un juez, David Radford, dijo que el resumen del juez del juicio fue deficiente y que la condena pudo no ser segura. Eso no es una absolución, pero es un aviso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2018, los restos de Edith fueron trasladados al cementerio de la City de Londres, cerca de sus padres. En marzo de 2023, el Gobierno británico remitió su solicitud de indulto póstumo a la Comisión de Revisión de Casos Penales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la prensa, en 2024 la solicitud seguía en estudio. No hemos encontrado una decisión final."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no sabremos es cuánto sabía Edith. Si las cartas eran un plan o una fantasía, y lo que dice cada línea sigue discutido. Pero sí sabemos qué se hizo con ella: se la ahorcó por palabras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Percy Thompson tenía veintitantos años cuando murió, y su asesinato tampoco fue un invento. Del hombre que murió esa noche queda poco en los libros. El archivo guarda su nombre junto a los otros dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El crimen de Ilford. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "PENDIENTE DE REVISAR (ver abajo). Fuentes abiertas: Wikipedia (en) y la ficha; BBC, The Independent y The Times no abrieron desde aquí. La edad de Percy no figura en las fuentes abiertas (se quita). El crimen fue hacia la medianoche del 3 al 4 de octubre; las fuentes lo fechan el 3. Estado actual: sin decisión final conocida de la Comisión de Revisión (ficha). Edith dio el nombre de Bywaters a la policía (Wikipedia)."
+}

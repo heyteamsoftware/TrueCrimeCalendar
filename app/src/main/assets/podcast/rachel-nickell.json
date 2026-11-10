@@ -1,0 +1,117 @@
+{
+  "id": "rachel-nickell",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Rachel Nickell": "Réichel Níkel",
+    "Nickell": "Níkel",
+    "Wimbledon Common": "Uímbledon Cómon",
+    "Colin Stagg": "Cólin Stag",
+    "Stagg": "Stag",
+    "Robert Napper": "Róbert Néiper",
+    "Napper": "Néiper",
+    "Old Bailey": "Old Béili",
+    "Broadmoor": "Brodmur",
+    "Scotland Yard": "Escótland Yard",
+    "John Yates": "Yon Yeits",
+    "Yates": "Yeits"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una partícula demasiado pequeña",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Rachel Nickell. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una partícula demasiado pequeña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 2004. Doce años antes, al examinar el cuerpo de una mujer, se había recogido una partícula de ADN tan diminuta que no se podía analizar. Los avances de la ciencia por fin lo permiten. Y la coincidencia señala a un hombre que ya estaba internado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo había ocurrido el 15 de julio de 1992 en Wimbledon Common, un gran parque del sur de Londres. Ese día, una mujer de veintitrés años fue asesinada a plena luz del día. Se llamaba Rachel Nickell. Paseaba con su hijo de dos años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un parque, de día, un crimen a la vista de un niño que no podía contarlo. No había nada que lo explicara, ni testigos que pudieran declarar. Y esa ausencia empujó a la policía a hacer algo que se pagaría muy caro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores buscaron sin descanso. Llegaron a identificar a más de seis mil posibles sospechosos y hubo treinta y cuatro detenciones. Pero la atención se fijó en un hombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Colin Stagg y vivía cerca del parque. La policía lo vigilaba y montó una operación encubierta. Una agente se hizo pasar por una mujer interesada en él para intentar sacarle una confesión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Esta es la parte que no se puede dejar sin decir. Stagg no tenía nada que ver con el crimen. El juez criticó la operación y el uso de un perfil elaborado por un psicólogo forense."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Stagg pasó trece meses en prisión preventiva. En 1994, el juicio se vino abajo. El juez rechazó las pruebas de la operación encubierta, antes de que el caso llegara a un jurado, y criticó duramente la actuación de la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un inocente quedó marcado durante años. Y mientras tanto, el verdadero autor seguía suelto. Esa es la segunda víctima del error."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El nombre de Robert Napper llegó a las manos de la policía mucho antes. Los registros muestran que, al menos en siete ocasiones, apareció en el radar de los investigadores, y que su nombre se asoció con ataques en el sur de Londres. Nunca se le persiguió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1993 Napper asesinó a una mujer y a su hija de cuatro años. Dos años después, en 1995, se declaró culpable de eso y de otros ataques. Fue internado en el hospital psiquiátrico de alta seguridad de Broadmoor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pongo la cifra que más pesa. Si se hubieran unido los hilos de aquellas investigaciones, la mujer y su hija podrían estar vivas. No lo digo yo; lo reconoció la propia policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2004 se confirmó la coincidencia de ADN entre la partícula hallada en el cuerpo de Rachel y Napper. Fue interrogado en Broadmoor en 2006. No confesó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de diciembre de 2008, Napper se declaró culpable en el Old Bailey de homicidio por responsabilidad disminuida. El juez lo calificó de hombre muy peligroso y ordenó que siguiera internado sin límite de tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo día, Scotland Yard pidió perdón. El comisario John Yates se disculpó públicamente con Colin Stagg y dijo que era completamente inocente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Las disculpas llegan tarde, pero cuentan. Quedan escritas. A Stagg le abonaron además más de setecientas mil libras de indemnización ese año, aunque eso no devuelve esos años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres de Rachel, Andrew y Monica, asistieron a la lectura. Dijeron que habían aceptado hace mucho su muerte, y que esperaban poder cerrar un capítulo. También afirmaron que no sentían que la policía hubiera dado menos que lo mejor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su declaración, hablaron de lo que habían perdido: una hija con quien hablar en la vejez y los nietos que no podrían tener."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que el expediente debería dejar. Rachel Nickell no fue un caso, fue una mujer de veintitrés años con un hijo pequeño y una vida por delante. Todo lo demás es la historia de cómo se la buscó la justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hijo de Rachel era un niño de dos años. Este archivo no dice su nombre, y así debe seguir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Rachel Nickell. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: The Guardian (18/12/2008), BBC News (18/12/2008) y The Independent (19/12/2008). Crime+Investigation y Wikipedia no se abrieron. El hijo de Rachel, que presenció el crimen siendo un niño pequeño, no se nombra. Tampoco se dan los nombres de la mujer y su hija de cuatro años, víctimas de Napper en 1993 (el crimen es reciente y no consta que la familia haya pedido su difusión). No se describen las heridas ni el componente sexual. Discrepancias: la forma en que acabó el juicio contra Stagg (la BBC: las pruebas se declararon inadmisibles y el caso se desestimó; el Guardian: el juez desestimó el caso antes de llegar al jurado, criticando a la policía): el guion dice que el juez lo rechazó antes de llegar al jurado. La indemnización a Stagg (706.000 libras según la BBC): el guion dice «más de setecientas mil libras». Napper tenía esquizofrenia paranoide y síndrome de Asperger según los psiquiatras (BBC); el guion solo dice que fue internado por su estado mental, sin diagnóstico. El pasaje de 2004: la BBC dice que la coincidencia de ADN se confirmó en 2004; la ficha lo recoge igual. Colin Stagg: inocente; la policía y la fiscalía lo han declarado así públicamente."
+}

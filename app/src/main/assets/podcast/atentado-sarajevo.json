@@ -1,0 +1,115 @@
+{
+  "id": "atentado-sarajevo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sarajevo": "Sarayévo",
+    "Francisco Fernando": "Francisco Fernando",
+    "Austria-Hungría": "Áustria-Hungría",
+    "Gavrilo Princip": "Gavrílo Príntsip",
+    "Princip": "Príntsip",
+    "Nedeljko Čabrinović": "Nedélko Chabrínovich",
+    "Čabrinović": "Chabrínovich",
+    "Grabež": "Grábesh",
+    "Trifko Grabež": "Trifko Grábesh",
+    "Danilo Ilić": "Dánilo Ílich",
+    "Ilić": "Ílich",
+    "Schiller": "Chíler",
+    "Joven Bosnia": "Joven Bosnia",
+    "Terezín": "Terezín",
+    "Sofía": "Sofía",
+    "Bosnia": "Bosnia",
+    "Čubrilović": "Chubrílovich",
+    "Vaso Čubrilović": "Váso Chubrílovich"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una calle equivocada",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado de Sarajevo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una calle equivocada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sarajevo, domingo 28 de junio de 1914. Es media mañana. Un coche descubierto, con el archiduque Francisco Fernando, heredero de Austria-Hungría, y su esposa Sofía, avanza por la ciudad en comitiva. A las diez y diez, alguien lanza un objeto contra su coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es una bomba. Rebota y estalla bajo el coche de detrás. Entre dieciséis y veinte personas resultan heridas. El autor, un joven llamado Nedeljko Čabrinović, traga una pastilla de cianuro y salta al río, pero sobrevive y la policía lo saca del agua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. El atentado ya había fallado. La comitiva podría haber acelerado y salido de la ciudad. No lo hizo. Esa decisión, y la que vino después, cambiaron el siglo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el ayuntamiento, el archiduque habló con irritación del ataque y luego agradeció a la multitud. Después, las autoridades debatieron qué hacer. Decidieron ir a visitar a los heridos en el hospital."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se cambió el recorrido, pero no se avisó a los conductores. El chófer giró hacia una calle distinta. El gobernador le ordenó parar, y el coche se detuvo, calado, delante de una tienda llamada Schiller."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un chófer que se equivoca de calle. Un coche que se cala justo delante de un joven. Podría ser una novela. Es un acta. Y aquí no hay misterio: hay una cadena de errores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí estaba Gavrilo Princip, de diecinueve años. Disparó a muy poca distancia contra la pareja. Sofía murió al llegar a la residencia del gobernador, y Francisco Fernando, unos diez minutos después, hacia las once y media."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Princip había nacido en 1894, hijo de un cartero, en una familia de nueve hermanos, de los que seis murieron de niños. Tenía mala salud desde pequeño. En 1912 se había ido a Belgrado, donde pasó dos años entre nacionalistas partidarios de unir Bosnia con Serbia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No era una acción de un hombre solo. Los seis conjurados, miembros de Joven Bosnia, un grupo de jóvenes nacionalistas, eran coordinados por Danilo Ilić. Todos fueron detenidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Princip había recibido dos bombas, un revólver y cianuro. Le habían ordenado quitarse la vida después. No murió: lo detuvieron vivo, y eso le cambió el destino. Se convirtió en un acusado que podía hablar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio de Sarajevo se celebró del 12 al 23 de octubre de 1914. La sentencia se leyó el 28. Princip, Čabrinović y Trifko Grabež fueron condenados a veinte años, la pena máxima para quienes eran menores de veinte años. Danilo Ilić fue condenado a muerte y ahorcado el 3 de febrero de 1915."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle técnico con peso histórico. A Princip le faltaban veintisiete días para cumplir veinte años. La ley austrohúngara no permitía la pena de muerte para menores de esa edad. De esos veintisiete días dependió que no fuera ahorcado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Vaso Čubrilović recibió dieciséis años. Nueve acusados fueron absueltos. Čabrinović, igual que Princip, murió de tuberculosis en prisión. Ilić fue el único que acabó en la horca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el tribunal, Princip dijo que era hijo de campesinos y que sabía lo que ocurría en las aldeas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí no entro en quién ayudó, ni en qué papel tuvo Serbia. Los historiadores lo debaten aún, y mi expediente es el de lo que ocurrió en esa calle y en esa sala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El atentado desencadenó la crisis de julio. Austria-Hungría declaró la guerra a Serbia y se encendió la Primera Guerra Mundial. Princip murió de tuberculosis el 28 de abril de 1918, en un hospital junto a la prisión de Terezín. Aún no había acabado la guerra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se les recuerda como la pareja que murió en Sarajevo, y la historia se ha centrado tanto en el asesino que ha olvidado a la pareja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado de Sarajevo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Spartacus Educational y Wikipedia (en inglés); Britannica, Dedijer y Clark no se leyeron. No se entra en la implicación de Serbia ni en la Mano Negra (Spartacus dice que Princip se unió a ella; la ficha no entra). «Joven Bosnia»: Spartacus no usa el término; sale de la ficha. Heridos: Wikipedia, entre 16 y 20; ficha, «varios». «Media mañana» es aproximación a las 10:10. Seis conjurados coordinados por Ilić: Wikipedia. «Princip fue condenado a 20 años por ser menor de 20 años»: Wikipedia/ficha. A Princip le faltaban 27 días para cumplir 20 (nota de la ficha, citando Wikipedia). Muerte de Princip en un hospital junto a la prisión: Britannica según la ficha. Cita en el tribunal: Spartacus."
+}

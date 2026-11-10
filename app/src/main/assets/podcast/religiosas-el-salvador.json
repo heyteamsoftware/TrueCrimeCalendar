@@ -1,0 +1,130 @@
+{
+  "id": "religiosas-el-salvador",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "El Salvador": "El Salvadór",
+    "Comalapa": "Comalápa",
+    "Maura Clarke": "Mora Clark",
+    "Ita Ford": "Ita Ford",
+    "Dorothy Kazel": "Dórozi Kézel",
+    "Jean Donovan": "Yin Dónovan",
+    "Maryknoll": "Mérinol",
+    "Santiago Nonualco": "Santiágo Nonuálco",
+    "Colindres": "Colíndres",
+    "Robert White": "Róbert Guait",
+    "Vides Casanova": "Bídes Casanóba",
+    "Managua": "Managua",
+    "Chalatenango": "Chalatenángo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una furgoneta en Comalapa",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Las cuatro religiosas estadounidenses. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una furgoneta en Comalapa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Salvador, 2 de diciembre de 1980. Es de noche, en plena guerra civil. En el aeropuerto internacional de Comalapa aterriza un vuelo procedente de Managua. Dos mujeres esperan a otras dos. Ninguna de las cuatro volverá a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran Maura Clarke e Ita Ford, religiosas de la congregación Maryknoll; Dorothy Kazel, ursulina; y Jean Donovan, misionera laica. Las cuatro eran estadounidenses. Trabajaban con refugiados y familias pobres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Ninguna llevaba armas ni escondía nada. Estaban allí para ayudar. Pero en un país en guerra, donde la Iglesia estaba en el punto de mira, eso ya bastaba para ser vigiladas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kazel y Donovan habían ido a recoger a Clarke y a Ford, que volvían de una reunión. Salieron del aeropuerto en una furgoneta. Cinco guardias nacionales, vestidos de civil, las siguieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las llevaron a un paraje aislado y allí las mataron. No vamos a contar más: lo que sufrieron no es material para este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, un lechero encontró los cuerpos junto a un camino, cerca de Santiago Nonualco. La Guardia Nacional ordenó enterrarlos en una fosa ese mismo día."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Enterrarlos deprisa, sin avisar a nadie. Es el gesto de quien quiere que el caso desaparezca. Esta vez no funcionó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 4 de diciembre abrieron la fosa en presencia del embajador de Estados Unidos, Robert White. Un sacerdote misionero de la zona identificó los cuerpos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las investigaciones las llevaron los propios cuerpos de seguridad. Según George Black, que lo estudió para la revista The New Republic, estaban pensadas para proteger a los oficiales superiores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando el investigado es quien investiga, el resultado se conoce de antemano. Durante años, la versión oficial fue siempre la misma: un subsargento que actuó por su cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1984, un tribunal salvadoreño condenó a cinco guardias nacionales a treinta años de cárcel. Al frente del grupo estaba el subsargento Luis Antonio Colindres Alemán."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero los mandos quedaron intactos. En 1993, la Comisión de la Verdad de Naciones Unidas concluyó que los guardias habían cumplido órdenes superiores y que altos mandos conocían esas órdenes y las ocultaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Señaló además que el ministro de Defensa de entonces, José Guillermo García, no hizo ningún esfuerzo serio por investigar a los responsables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una comisión de la ONU lo dice con todas las letras. Y aun así, ningún jefe militar ha sido condenado por este crimen. Lo que me interesa es por qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1998, representantes del Comité de Abogados por los Derechos Humanos entrevistaron a cuatro de los condenados. Por primera vez dijeron que habían actuado por órdenes de oficiales superiores. Después recibieron amenazas de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo año, varios de los condenados salieron en libertad, entre ellos Colindres. La fiscalía salvadoreña se negó repetidamente a tomarles declaración formal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dieciocho años después de los hechos, la pregunta de quién dio la orden seguía sin respuesta judicial en el país donde ocurrió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las familias lo intentaron en Estados Unidos. En 1999 demandaron a dos antiguos mandos que vivían en Florida: Carlos Eugenio Vides Casanova, director de la Guardia Nacional, y el ministro José Guillermo García. En noviembre de 2000, el jurado falló a favor de los demandados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2025, Black publicó que una grabación de un informante de la embajada estadounidense, durante años dada por perdida, había aparecido y se había desclasificado. Según él, indica que Colindres recibió instrucciones de un superior."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto como la tesis de un autor, no como un hecho probado. Pero apunta en la misma dirección que la ONU: lo que se dijo en 1980 no era toda la verdad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ita Ford tenía cuarenta años; Maura Clarke, cuarenta y nueve; Dorothy Kazel, cuarenta y uno; y Jean Donovan, veintisiete."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Clarke y Ford fueron enterradas en Chalatenango. Hoy se las recuerda por lo que hacían: acompañar a quienes huían de la guerra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Las cuatro religiosas estadounidenses. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Lawyers Committee (LCHR) y The New Republic/Yahoo (Black, 2025); sin abrir El Diario de Hoy, NYT ni la Comisión de la Verdad. Se omite a propósito la violencia sexual y el método. Edades (40, 49, 41, 27) de Black. Salida de 1998: LCHR dice que tres fueron liberados y Colindres en libertad condicional; Black solo detalla la de Colindres: el guion dice «varios, entre ellos Colindres». La tesis de la grabación (Gettinger) se atribuye a Black. Entierro de Clarke y Ford en Chalatenango tomado de la ficha, sin comprobar en las fuentes abiertas. La fosa se abrió el 4 de diciembre ante el embajador White (Black; la ficha lo recoge igual)."
+}

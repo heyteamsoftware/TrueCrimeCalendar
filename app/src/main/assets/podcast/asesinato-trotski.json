@@ -1,0 +1,41 @@
+{
+  "id": "asesinato-trotski",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Jacques Mornard": "Yac Mornár",
+    "Sylvia Ageloff": "Silvia Águeloff",
+    "Stalin": "Estálin",
+    "Esteban Volkov": "Esteban Vólkov",
+    "International Spy Museum": "Internáshonal Spai Miusíum"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un abrigo en pleno verano",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El piolet de Coyoacán. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un abrigo en pleno verano." },
+        { "voz": "ximena", "texto": "Coyoacán, Ciudad de México, 20 de agosto de 1940. Unos meses antes, en mayo, la casa ya había sufrido otro atentado, y la seguridad se había reforzado. Alrededor de las cinco y veinte de la tarde, un visitante se presenta en una casa muy vigilada. Se queja de sed, aunque lleva sombrero y un abrigo en un día de calor. Dice que quiere enseñar un artículo al dueño." },
+        { "voz": "ximena", "texto": "El dueño es León Trotski, antiguo dirigente de la revolución rusa, exiliado desde hace años. Trabaja en su despacho. Los guardias conocen a ese visitante. Lo han visto en la casa muchas veces." },
+        { "voz": "alvaro", "texto": "Primera nota. Esa casa tenía muros, torres y guardias, pero el hombre que mató a Trotski no los saltó. Entró por la puerta, con la confianza ganada. Es la parte que más me inquieta del expediente." },
+        { "voz": "ximena", "texto": "Se hacía llamar Jacques Mornard. En realidad era Ramón Mercader, un comunista de origen catalán al servicio de la policía política soviética. Se había ganado la confianza del entorno de Trotski a través de una secretaria, Sylvia Ageloff, con la que mantenía una relación." },
+        { "voz": "alvaro", "texto": "Fíjate en el engaño. Una relación sentimental fingida para llegar a la casa de un hombre. La joven fue utilizada, como tantos otros que no sabían nada. Y el propio Trotski había relajado las normas de seguridad." },
+        { "voz": "ximena", "texto": "Aquella tarde, Mercader subió al despacho. Atacó a Trotski por la espalda con un piolet que llevaba escondido en el abrigo. El grito se oyó en toda la casa. Los guardias llegaron enseguida." },
+        { "voz": "ximena", "texto": "Trotski aún pudo ponerse en pie y salió del despacho, y avisó a su mujer, Natalia, de quién lo había atacado. Cayó poco después. Fue trasladado a un hospital, el Puesto Central de Socorros de la Cruz Verde. Murió al día siguiente, el 21 de agosto." },
+        { "voz": "ximena", "texto": "Mercader fue detenido en el acto. Mantuvo su falsa identidad durante años; la verdadera se estableció mucho más tarde." },
+        { "voz": "alvaro", "texto": "Y aquí está lo clave. Un asesino con un nombre falso y una historia ensayada. Las autoridades mexicanas tuvieron que investigar con casi nada. Según la historiografía, la orden vino de Stalin, a través de la policía política soviética." },
+        { "voz": "ximena", "texto": "Un tribunal de México lo condenó a veinte años de prisión, aunque alguna fuente dice diecinueve. Cumplió casi veinte años en la cárcel de Lecumberri, hasta que salió el 6 de mayo de 1960." },
+        { "voz": "ximena", "texto": "Al salir viajó a la Unión Soviética, donde fue condecorado como héroe. Murió en La Habana, en 1978. En 1989, la prensa soviética reconoció por fin que Moscú había ordenado el asesinato." },
+        { "voz": "alvaro", "texto": "Un dato de mi libreta. Mercader llevaba además una pistola y un puñal, y aun así usó el piolet. Hasta la prensa se ha preguntado por qué. El piolet desapareció durante más de seis décadas. Pasó de un depósito de pruebas a manos privadas, y un coleccionista estadounidense lo compró. Hoy está en el International Spy Museum, en Washington." },
+        { "voz": "ximena", "texto": "Esteban Volkov, nieto de Trotski, era entonces un niño y vio a su abuelo herido en el suelo. Años después dijo que la suerte del arma no le interesaba." },
+        { "voz": "alvaro", "texto": "¿Qué queda por aclarar? Poco, en lo esencial. El autor material fue juzgado y condenado. Lo discutido son detalles: dónde nació Mercader, cuántos años le dieron, quién dio cada orden dentro del aparato soviético." },
+        { "voz": "ximena", "texto": "Lo que sí se sabe es que Trotski murió con sesenta años, tras años de exilio de país en país. Vivía en una casa con jardín, con su mujer y con su nieto Esteban Volkov." },
+        { "voz": "alvaro", "texto": "Se le puede discutir como político. Pero fue asesinado por la espalda, mientras escribía, a manos de alguien al que había dejado entrar. Eso es lo que guarda esta caja." },
+        { "voz": "ximena", "texto": "Fin del expediente: El piolet de Coyoacán. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en español (hora de las 17.20, abrigo, secretaria, hospital, 21 de agosto), The Guardian 2017 (piolet: depósito de pruebas, coleccionista, Spy Museum), EFE/El Día (solo una frase). NYT, Britannica y Life no se abrieron: el reconocimiento soviético de 1989 sale del titular del NYT de la ficha; no se leyó. Contradicciones: condena de 20 años (ficha, Wikipedia inglesa) frente a 19 (Wikipedia en español): el guion lo dice. Fecha de liberación 6 de mayo de 1960 solo en Wikipedia. Hora del ataque: 17.20 es la hora de la visita (Wikipedia), el Guardian dice «tarde/noche». El Guardian dice que le clavó el piolet; no se detalla. Se quitó la afirmación de que Mercader alegara razones personales (no verificada). «Murió en un país que lo acogió»: México le concedió asilo (conocimiento general, no leído en las fuentes). «Cerca de trescientas mil personas» al entierro se omite (sin cita). Los guardias «conocían al visitante» y lo habían visto muchas veces: Wikipedia («visitó a la familia en una decena de ocasiones»). Presencia de Volkov como niño: cita del Guardian."
+}

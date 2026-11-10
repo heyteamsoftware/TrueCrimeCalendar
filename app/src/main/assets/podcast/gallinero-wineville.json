@@ -1,0 +1,106 @@
+{
+  "id": "gallinero-wineville",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Wineville": "Uáinvil",
+    "Walter Collins": "Uálter Cólins",
+    "Christine Collins": "Críst-in Cólins",
+    "Gordon Stewart Northcott": "Górdon Stíuart Nórzcot",
+    "Northcott": "Nórzcot",
+    "Sarah Louise": "Sara Luís",
+    "Sanford Clark": "Sánford Clark",
+    "Jessie": "Yési",
+    "Riverside": "Ríversaid",
+    "San Quentin": "San Cuéntin",
+    "Mira Loma": "Mira Lóma",
+    "Arthur Hutchins": "Árzur Jáchins",
+    "Changeling": "Chéinyling"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El niño equivocado",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los crímenes del gallinero de Wineville. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El niño equivocado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ángeles, agosto de 1928. La policía presenta a una madre a un chico que dice llamarse Walter Collins. El verdadero Walter desapareció en marzo, con nueve años. Su madre, Christine Collins, mira al chico y dice a los agentes que ese no es su hijo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una madre afirma que no es su hijo, y la policía insiste en que sí. Un caso desesperado queda cerrado con un chico equivocado. Un desaparecido menos en las estadísticas. Menos para ella, que no se calló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Christine Collins llevó pruebas, como la ficha dental y testimonios de quienes conocían al niño. Los agentes la presionaron para que aceptase al chico. Por no hacerlo, acabó internada en la sala psiquiátrica de un hospital."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más tarde el chico confesó: se llamaba Arthur Hutchins y no era Walter. Christine Collins salió del hospital. Después ganó un juicio contra el capitán de policía que la había mandado allí, aunque nunca llegó a cobrar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Fíjate en el orden. Primero se perdió un niño. Después se desacreditó a una madre que decía la verdad. Y mientras tanto, otra cosa estaba pasando en una granja de gallinas, y nadie en la policía lo sabía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa granja estaba en Wineville, en el condado de Riverside. La tenía un joven nacido en Canadá, Gordon Stewart Northcott. Con él vivían su madre, Sarah Louise, y su sobrino adolescente, Sanford Clark, retenido allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1928 la hermana del chico, Jessie, fue a visitarlos. Su hermano le contó lo que ocurría. Ella lo denunció ante un cónsul, y la policía de Los Ángeles avisó a inspectores federales de inmigración."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Cuando los inspectores llegaron a la granja, el 31 de agosto, Northcott ya había huido. Lo que movió el caso no fue una investigación de la policía. Fue un adolescente que se atrevió a hablar, y una hermana que lo escuchó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Northcott y su madre fueron detenidos en la Columbia Británica el 19 de septiembre. Errores de papeleo retrasaron su regreso hasta el 30 de noviembre. Sarah Louise confesó, se retractó y volvió a confesar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el terreno de la granja se hallaron restos parciales. Ninguno pudo vincularse con Walter Collins. Entre las víctimas había dos hermanos de diez y doce años, desaparecidos en mayo de 1928 en Pomona, y un chico mexicano. No vamos a detallar nada más."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ojo con las cifras. Hay fuentes que hablan de al menos tres víctimas y otras de muchas más. Lo seguro es lo que se probó en el juicio: tres muertes. Todo lo demás son estimaciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en enero de 1929 en Riverside. Northcott despidió a sus abogados y se defendió él mismo. El 8 de febrero un jurado lo declaró culpable de tres asesinatos, y el juez lo condenó a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su madre se declaró culpable del asesinato de Walter Collins y recibió cadena perpetua. Salió en libertad condicional en 1940. Sanford Clark pasó por un correccional y rehízo su vida en Canadá, donde murió en 1991."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Última nota. Northcott fue ahorcado en San Quentin el 2 de octubre de 1930. Poco antes negó haber matado a Walter. Su muerte no zanjó la duda: ningún resto se identificó nunca como el de ese niño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Wineville cambió de nombre en 1930, en parte por la publicidad del caso. Hoy es Mira Loma. En 2008, la película Changeling contó la historia de Christine Collins."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El archivo guarda algo más sencillo: el nombre de un niño de nueve años que salió de casa en marzo de 1928, y el de su madre, que no aceptó que otro ocupara su lugar. Tenía razón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Los crímenes del gallinero de Wineville. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en), Crime Museum y la ficha; el LA Times 2004 y el NYT no abrieron. Cifra de víctimas: condenado por tres, la madre por Walter Collins; las estimaciones van de tres a veinte (Crime Museum), por eso no se da total. Menores: solo se nombra a Walter Collins (el caso se conoce por su nombre, es de 1928 y su madre es figura pública); los hermanos Winslow y el chico mexicano van sin nombre. A Christine Collins la internaron en la sala psiquiátrica de un hospital (Wikipedia, Crime Museum; la duración no se indica). El capitán que la envió no se nombra; ganó el juicio y no cobró (Wikipedia). Fechas: huida 31 de agosto, detención 19 de septiembre, regreso 30 de noviembre de 1928; veredicto 8 de febrero de 1929 (Wikipedia). El nombre del chico impostor, Arthur Hutchins, sale de Crime Museum; Wikipedia lo escribe «Hutchens». La ficha dice que Northcott fue condenado por tres asesinatos; Wikipedia y Crime Museum precisan los Winslow y un chico sin identificar. Negó haber matado a Walter antes de morir (Wikipedia). Libertad condicional de la madre en 1940 (ficha). La condena de la madre por Walter Collins no implica que se hallaran restos suyos."
+}

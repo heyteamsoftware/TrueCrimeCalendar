@@ -14,6 +14,7 @@
     "María Victoria Gómez Méndez": "María Victoria Gómez Méndez",
     "Quirón": "Quirón",
     "Previasa": "Previása",
+    "Mont Ventoux": "Mon Ventú",
     "Audiencia Nacional": "Audiencia Nacional",
     "París": "París"
   },
@@ -65,15 +66,19 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Ojo con esto. Es la versión de un condenado, y la sentencia de 2017 no la dio por probada: descartó el cargo de homicidio porque su relato no estaba corroborado. Tras dictarse la sentencia, Silva Sande envió una carta diciendo que el cuerpo estaba en los Pirineos. El tribunal observó que esa zona queda lejos del monte donde él había situado antes el lugar. No cuadra."
+          "texto": "Ojo con esto. Es la versión de un condenado, y la sentencia de 2017 no la dio por probada: descartó el cargo de homicidio porque su relato no estaba corroborado. Después, Silva Sande envió una carta diciendo que el cuerpo estaba en los Pirineos. El tribunal observó que eso queda lejos del Mont Ventoux, donde él lo había situado antes."
         },
         {
           "voz": "ximena",
-          "texto": "Hubo condenas. En 1998, la Audiencia Nacional condenó a tres miembros de los GRAPO por el secuestro. En 2007, Silva Sande recibió veintiocho años. En 2012 se detuvo a otros tres."
+          "texto": "Hubo condenas. En 1998, la Audiencia Nacional condenó a tres miembros de los GRAPO por el secuestro. En 2007, Silva Sande recibió veintiocho años."
         },
         {
           "voz": "ximena",
           "texto": "En diciembre de 2017, la Audiencia Nacional condenó a treinta años de cárcel a José Antonio Ramón Teijelo y a María Victoria Gómez Méndez por detención ilegal sin dar razón del paradero. Entre las pruebas, informes de grafología que relacionaron la escritura del armario con las cartas de Cordón, y ADN en el sobre de una carta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tribunal no vio probado que esos dos acusados negociaran o cobraran el rescate, y por eso rechazó el delito de estafa. Lo que sí dio por probado es que las cartas de Cordón pasaban por los secuestradores antes de llegar a su familia, que leía solo lo que la organización permitía."
         },
         {
           "voz": "alvaro",
@@ -81,11 +86,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 2012, un juzgado de Zaragoza declaró fallecido a Cordón. Su cuerpo no ha aparecido. Los terroristas lo enterraron en un lugar que nadie ha podido localizar."
+          "texto": "En 2012, un juzgado de Zaragoza declaró fallecido a Cordón. Su cuerpo no ha aparecido. Según el Ayuntamiento, los terroristas enterraron su cuerpo en un lugar que nadie ha podido localizar."
         },
         {
           "voz": "ximena",
-          "texto": "Zaragoza tiene una placa que lo recuerda, dentro de su serie de homenajes a víctimas del terrorismo."
+          "texto": "En Zaragoza hay una placa que lo recuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Han pasado más de treinta años. Hay condenados, hay sentencias y hay una declaración de fallecimiento, pero no hay tumba. Su familia pagó un rescate creyéndolo vivo y todavía no ha podido despedirse de él."
         },
         {
           "voz": "alvaro",
@@ -98,5 +107,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Ayuntamiento de Zaragoza y nota del CGPJ sobre la sentencia de 2017; no se abrieron Wikipedia, Telemadrid ni El Imparcial. Discrepancias: el Ayuntamiento y la sentencia dicen que fue un cautiverio de unas semanas; la muerte (Silva Sande: caída por una ventana; la investigación de 2012: julio de 1995) no está probada judicialmente: el homicidio fue descartado en 2017. El Ayuntamiento afirma «murió durante el secuestro» y que los terroristas enterraron su cuerpo; el guion lo da como versión no probada. La ficha dice que el armario estaba en la casa de Bron y el CGPJ habla de un piso en Lyon, con un armario en el desván: el guion cita ambos. «Marcas y números» para contar los días: Ayuntamiento. «Una carta diciendo que el cuerpo estaba en los Pirineos» y la distancia con Mont Ventoux: CGPJ; en el guion se dice «el monte» sin nombre, revisar. Silva Sande declaró «ante un juez» (Marlaska en 2008 según la ficha; las crónicas). La placa de Zaragoza: el Ayuntamiento muestra una fotografía; «serie de homenajes» NO está contrastado. «En 2012 se detuvo a otros tres»: Telemadrid (título de la ficha), sin abrir. La edad de Cordón no consta."
+  "nota_revision": "Fuentes abiertas: Ayuntamiento de Zaragoza y nota del CGPJ sobre la sentencia de 2017; no se abrieron Wikipedia, Telemadrid ni El Imparcial. Discrepancias: el Ayuntamiento y la sentencia dicen que fue un cautiverio de unas semanas; la muerte (Silva Sande: caída por una ventana; la investigación de 2012: julio de 1995) no está probada judicialmente: el homicidio fue descartado en 2017. El Ayuntamiento afirma «murió durante el secuestro» y que los terroristas enterraron su cuerpo; el guion lo da como versión no probada. La ficha dice que el armario estaba en la casa de Bron y el CGPJ habla de un piso en Lyon, con un armario en el desván: el guion cita ambos. «Marcas y números» para contar los días: Ayuntamiento. «Una carta diciendo que el cuerpo estaba en los Pirineos» y la distancia con Mont Ventoux: CGPJ; en el guion se dice «el monte» sin nombre, revisar. Silva Sande declaró «ante un juez» (Marlaska en 2008 según la ficha; las crónicas). La placa de Zaragoza: el Ayuntamiento muestra una fotografía. La edad de Cordón no consta."
 }

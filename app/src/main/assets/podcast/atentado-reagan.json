@@ -1,0 +1,128 @@
+{
+  "id": "atentado-reagan",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ronald Reagan": "Rónald Réigan",
+    "Reagan": "Réigan",
+    "Washington Hilton": "Uóshington Jílton",
+    "Hilton": "Jílton",
+    "Hinckley": "Jínkli",
+    "John Hinckley": "Yon Jínkli",
+    "James Brady": "Yéims Bréidi",
+    "Brady": "Bréidi",
+    "Timothy McCarthy": "Címoti Macárzi",
+    "McCarthy": "Macárzi",
+    "Thomas Delahanty": "Tómas Delajánti",
+    "Delahanty": "Delajánti",
+    "Jodie Foster": "Yódi Fóster",
+    "Foster": "Fóster",
+    "Jerry Parr": "Yéri Par",
+    "George Washington": "Yorch Uóshington",
+    "Nashville": "Náshvil",
+    "Taxi Driver": "Táksi Dráiver",
+    "Elizabeths": "Elísabez"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Treinta pies hasta la limusina",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra Reagan. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Treinta pies hasta la limusina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Washington, 30 de marzo de 1981. Es la primera hora de la tarde. El presidente Ronald Reagan sale del hotel Washington Hilton tras pronunciar un discurso ante un sindicato. Solo tiene que recorrer unos treinta pies, unos nueve metros, hasta la limusina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fuera esperan periodistas y curiosos. Entre ellos hay un hombre de veinticinco años que lleva un revólver. Cuando el presidente levanta la mano para saludar, el hombre dispara seis veces."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Nueve metros. El Servicio Secreto había inspeccionado ese hotel más de cien veces. Tenía un pasillo cerrado, pensado para estos casos. Solo quedaban al descubierto esos nueve metros, y fue ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El portavoz de la Casa Blanca, James Brady, cae herido en la cabeza. El agente del Servicio Secreto Timothy McCarthy recibe un disparo en el costado y el policía Thomas Delahanty, en el cuello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un agente, Jerry Parr, empuja a Reagan al interior de la limusina. El presidente, según HISTORY, no sabe aún que le han disparado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la secuencia. El presidente no sabía que estaba herido, el tirador fue reducido en segundos y todo quedó grabado en vídeo, según la CBS. Rara vez un atentado queda tan documentado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La bala no le dio de lleno. Rebotó en el lateral de la limusina y le entró por debajo del brazo izquierdo, lesionando un pulmón. Reagan, con setenta años, entró en el hospital de la Universidad George Washington caminando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes de la operación bromeó con su esposa, Nancy: «Cariño, se me olvidó agacharme». Fue operado, se recuperó, y el 11 de abril volvió a la Casa Blanca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frase la recoge HISTORY. Detrás había un hombre de setenta años con un pulmón dañado, y tres heridos más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor de los disparos fue reducido en el acto. Se llamaba John Hinckley Jr. y no lo escondió: quería impresionar a la actriz Jodie Foster, a la que llevaba tiempo acosando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo más desconcertante. Hinckley había visto varias veces la película Taxi Driver, y escribió a Foster que no podía esperar más para impresionarla. Según los documentos, el motivo no era político: era una obsesión personal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hinckley ya había sido detenido en octubre de 1980 en un aeropuerto de Nashville por llevar armas. Fue multado. Cinco meses después estaba en Washington."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay un hilo que nadie tiró. Según Wikipedia, el FBI no relacionó aquel arresto con el presidente y no avisó al Servicio Secreto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio llegó en 1982. La defensa sostuvo que Hinckley estaba enfermo. El 21 de junio, el jurado lo declaró no culpable por enajenación mental, y lo internaron en el hospital psiquiátrico de St. Elizabeths, en Washington."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser exacto con las palabras. Hinckley no fue condenado. Fue declarado no culpable por enajenación mental. Es una fórmula distinta de la condena y de la absolución, y la decisión provocó una gran crítica pública."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquel veredicto llevó a endurecer en Estados Unidos la defensa por enajenación mental. La ley federal sobre esa defensa se reformó en 1984."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2014 murió James Brady. El forense calificó su muerte de homicidio por las lesiones del disparo, pero la fiscalía decidió no presentar cargos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Brady fue la víctima que más sufrió. Quedó con daños cerebrales permanentes y se convirtió en un defensor del control de armas. En 1993 el Congreso aprobó la ley que lleva su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hinckley fue ganando libertad poco a poco, con salidas supervisadas. Según Wikipedia, en 2016 dejó el régimen de internamiento, y el 15 de junio de 2022 quedó libre de toda supervisión judicial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hay secreto que aclarar: sabemos quién y por qué. Lo que queda es la memoria de Brady, de McCarthy y de Delahanty."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado contra Reagan. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Persona viva y no culpable por enajenación: no se le llama asesino ni condenado. Fuentes abiertas: CBS News, HISTORY (Sky HISTORY UK) y Wikipedia en inglés; NPR y UPI de 2022 no se abrieron (la liberación total del 15 de junio de 2022 sale de la ficha). Discrepancias: HISTORY escribe Delahaney (Thomas Delahanty es lo correcto); HISTORY dice que la bala le dio en el pulmón y CBS/Wikipedia que rebotó en la limusina; el guion sigue a Wikipedia. Brady: forense de 2014 homicidio, sin cargos (CBS; Wikipedia, 2015). La reforma de la defensa por enajenación de 1984 solo consta en Wikipedia y en la ficha. La hora (primera hora de la tarde) es aproximada. Hinckley salió del internamiento en 2016 (Wikipedia)."
+}

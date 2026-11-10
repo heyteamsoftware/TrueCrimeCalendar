@@ -1,0 +1,102 @@
+{
+  "id": "robo-el-dioni",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dionisio Rodríguez": "Dionisio Rodríguez",
+    "Candi": "Cándi",
+    "Joaquín Sabina": "Joaquín Sabina",
+    "Río de Janeiro": "Río de Yanéiro",
+    "Brasil": "Brasil"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un furgón sin nadie al volante",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo del furgón de El Dioni. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un furgón sin nadie al volante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 28 de julio de 1989. Un furgón blindado de la empresa de seguridad Candi hace su ruta de recogida de dinero. Son las siete y veinte de la tarde. Dos de los tres vigilantes han bajado del vehículo. En el furgón se queda uno solo, al volante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Dionisio Rodríguez. Nadie lo sabe todavía, pero no va a esperar a sus compañeros. Arranca y se lleva el furgón con unos trescientos millones de pesetas dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No hubo asalto, ni disparos, ni rehenes. No hizo falta nada de eso, porque el que robó era el que tenía la llave y las sacas. El mejor sistema de seguridad del mundo no sirve cuando el riesgo está sentado en el asiento del conductor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los datos que se han publicado, Rodríguez llevaba desde los catorce años trabajando para Candi y había llegado a escolta. Aquel año lo bajaron de nuevo a vigilante. Él ha dicho que se sintió ofendido porque su sueldo se redujo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la palabra clave: dicho. Es su explicación, no un hecho comprobado. Un recorte de sueldo explica un enfado, no un robo. Pero cuando el único testigo de un motivo es el propio autor, hay que dejarlo como declaración."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llevó el furgón hasta donde tenía su propio coche y pasó allí las sacas. Después, según su propia versión, entregó parte del dinero a tres amigos, de los que dice no haber vuelto a saber nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y se marchó a Brasil. Allí, según Wikipedia, cambió de imagen con un peluquín y pasó unas semanas con lujo, en un hotel caro. Las fuentes dan entre unas semanas y dos meses."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la logística: una persona sola, un coche, un billete de avión. Ni red, ni cómplices comprobados, ni plan de huida elaborado. Se escapó a un país donde, al final, bastó un aviso desde España para encontrarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de septiembre de 1989, la policía brasileña lo detuvo tras ser avisada desde España. Pasó entre diez meses y un año en una cárcel de Río de Janeiro, hasta que fue extraditado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En España lo juzgaron por apropiación indebida y lo condenaron a tres años y cuatro meses de prisión. No consta que hubiera ningún herido ni que se usara ninguna violencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Del juicio no tengo más detalles: las fuentes que he abierto no los explican. Lo que sí consta es lo que no se recuperó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De los casi trescientos millones de pesetas, solo se recuperaron unos ciento setenta y cinco. La mayor parte del resto nunca apareció. Salió de prisión en mayo de 1995, en libertad condicional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La cifra del botín varía de una publicación a otra: de 298 a 320 millones. Y casi todo lo que sabemos de lo que hizo con él lo sabemos por boca de su protagonista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y entonces ocurrió algo curioso. El vigilante se convirtió en personaje popular. Joaquín Sabina le dedicó una canción, «Con un par», en su disco de 1990."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rodríguez, conocido como El Dioni, abrió bares, apareció en televisión, publicó discos y un libro. Un robo sin violencia se convirtió en folclore."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tengo mis reservas. La memoria colectiva ha convertido en simpático un delito, y se ha olvidado un detalle: el dinero no era suyo, y la empresa para la que trabajaba confiaba en sus vigilantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente no tiene víctimas mortales ni heridos. Tiene una pregunta sobre la confianza, y un hombre que fue juzgado, cumplió su condena y salió en 1995."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo del furgón de El Dioni. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado: condenado y cumplida la pena. Sin víctimas. El protagonista vive: solo se cuenta lo público y su condena; nada de su vida posterior salvo la fama (Sabina, bares, libro). Fuentes abiertas: El Tiempo (Colombia) y Wikipedia (es), ambas con WebFetch. Discrepancias: botín 298 millones (Wikipedia), 300 (El Tiempo, ficha), 320 (otras; el guion dice «unos trescientos» y «de 298 a 320»). Estancia en Brasil: unas semanas (ficha) o dos meses (El Tiempo); cárcel en Brasil: diez meses (Wikipedia) o un año (El Tiempo); el guion da el intervalo. Hora del robo, 19:20: Wikipedia. Lo del recorte de sueldo es su explicación (El Tiempo); se presenta como dicho. Condena de tres años y cuatro meses y 175 millones recuperados: Wikipedia; salida de prisión en mayo de 1995 con libertad condicional: Wikipedia (El Tiempo dice que cumplió tres años). No se opinó sobre el juicio, que ninguna fuente abierta detalla. El Temps (1991) y Gestalten no se abrieron. Lugar exacto del robo no consta."
+}

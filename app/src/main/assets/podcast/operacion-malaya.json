@@ -40,7 +40,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Eso dice mucho del método. Durante meses se fue acumulando información, sin ruido, hasta que se pudo actuar a la vez en muchos sitios. La operación no cayó de golpe: se construyó gota a gota."
+          "texto": "Desde noviembre de 2005 se fue acumulando información hasta poder actuar a la vez en muchos sitios. La operación no cayó de golpe: se construyó gota a gota."
         },
         {
           "voz": "ximena",
@@ -56,11 +56,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Lo blanqueaba, siempre según la sentencia, con sociedades, fincas y obras de arte. Todo eso se juzgó. Y no hace falta imaginarlo: está en los autos."
+          "texto": "Lo blanqueaba, siempre según la sentencia, con sociedades, fincas y obras de arte. Todo eso se juzgó."
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí la víctima no tiene cara. Es una ciudad. Cada licencia comprada es una decisión pública que se tomó por dinero, y no por interés general. Los vecinos pagaron esa diferencia sin saberlo."
+          "texto": "Aquí la víctima no tiene cara. Es una ciudad. Cada licencia comprada es una decisión pública que se tomó por dinero, y no por interés general. Esa diferencia la pagó el interés general."
         },
         {
           "voz": "ximena",
@@ -72,7 +72,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Una precisión sobre las cifras. Las de los detenidos del primer día varían: las agencias contaron dieciocho la misma mañana y la EFE habló después de una veintena en total. No importa el número exacto. Importa que no era un caso de una persona."
+          "texto": "Una precisión sobre las cifras. Las de los detenidos del primer día varían: las agencias contaron dieciocho la misma mañana y la EFE habló después de una veintena en total."
         },
         {
           "voz": "ximena",
@@ -84,7 +84,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuidado con una cosa. Hubo absoluciones, y hubo piezas aparte, juzgadas después. Aquí hablo de los condenados, por sentencia. A los demás, ni se les nombra: la ley es igual para todos."
+          "texto": "Cuidado con una cosa. Hubo piezas aparte, juzgadas después. Aquí hablo solo de condenados por sentencia. A los demás, ni se les nombra: todos tienen presunción de inocencia."
         },
         {
           "voz": "ximena",
@@ -100,7 +100,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esa es la memoria que le corresponde a este expediente. No hay un muerto que nombrar. Hay una ciudad entera que, durante años, fue gobernada por quienes la vendían."
+          "texto": "Esa es la memoria que le corresponde a este expediente. No hay un muerto que nombrar. Hay una ciudad cuyo Ayuntamiento, según las sentencias, tomó durante años decisiones públicas a cambio de dinero."
         },
         {
           "voz": "ximena",
@@ -108,5 +108,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: Cooperativa.cl (agencias, 29 de marzo de 2006), Periódico de Ibiza/EFE (cronología de 2010), infoLibre (4 de octubre de 2013) y Wikipedia en español; las notas del CGPJ no se abrieron, y la pena de 17 años de Roca en el Supremo y los 48 condenados salen de la ficha. Discrepancias: detenidos el 29 de marzo, 18 (Cooperativa), una veintena entre el 29 de marzo y el 1 de abril (EFE), 29 en la primera fase (Wikipedia); la pena de Yagüe (siete años y nueve meses según infoLibre; seis años según la ficha, rebajada a cinco y medio por el Supremo): el guion no da cifra. Solo se nombra a condenados (Yagüe y Roca). Origen del nombre (la «gota malaya»): Wikipedia. El dato de que otros ayuntamientos siguieron el modelo y de las deudas de condenados con Hacienda sale de Wikipedia."
 }

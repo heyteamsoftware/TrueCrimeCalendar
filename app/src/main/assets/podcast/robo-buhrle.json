@@ -1,0 +1,113 @@
+{
+  "id": "robo-buhrle",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bührle": "Bürle",
+    "Cézanne": "Sezán",
+    "Degas": "Degá",
+    "Monet": "Moné",
+    "Van Gogh": "Van Gog",
+    "Vétheuil": "Vetéi",
+    "Lukas Gloor": "Lúkas Glor",
+    "Prsluk": "Perslúk"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Dos cuadros en un aparcamiento",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de la colección Bührle. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Dos cuadros en un aparcamiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Zúrich, domingo 10 de febrero de 2008. La Fundación Bührle, una colección privada de arte, está a punto de cerrar. Tres hombres con pasamontañas y armas entran en la sala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los testigos, hablaban alemán con acento eslavo. Se llevaron cuatro cuadros y huyeron en coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cuatro cuadros, a punta de pistola, poco antes de cerrar. No se llevaron cualquier cosa: eligieron cuatro obras de pintores que cualquier coleccionista del mundo conoce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran «El niño del chaleco rojo», de Cézanne. «El conde Lepic y sus hijas», de Degas. «Campo de amapolas cerca de Vétheuil», de Monet. Y «Ramas de castaño en flor», de Van Gogh. Se calculó su valor en unos ciento ochenta millones de francos suizos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo el Cézanne se valoraba en cien millones de francos. En aquel momento se describió el robo como el mayor robo de arte de la historia de Europa, según el medio The Local."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle me inquieta de verdad. Los ladrones cortaron los lienzos de los marcos. Un cuadro sin marco es más fácil de ocultar, pero también más frágil. Lo dijo el director de la fundación, Lukas Gloor: quedaron en un estado muy delicado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diez días después, el 18 de febrero, la policía suiza encontró el Monet y el Van Gogh en el coche de huida. Estaba aparcado junto a un hospital psiquiátrico de Zúrich."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los ladrones abandonan dos cuadros y se llevan dos. ¿Por qué? Ninguna fuente lo explica, y no pienso inventarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los otros dos, el Degas y el Cézanne, desaparecieron durante años. La policía de Zúrich mantuvo la investigación abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una pista hallada en el coche de huida llevó a un hombre en Serbia que ya había cometido delitos en Suiza. Así empezó la operación Europe Prsluk, palabra que en serbio significa chaleco. Duró cuatro años, con hasta treinta investigadores de seis países. Usaron escuchas, vigilancias y agentes encubiertos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuatro años siguiendo un hilo. Es el trabajo menos vistoso de una investigación, y el que más resultados da. Aquí no hubo un golpe de suerte. Hubo paciencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de abril de 2012, la policía serbia detuvo a cuatro hombres en Belgrado. Las fuerzas especiales se incautaron del Cézanne, que estaba escondido en un coche. Los registros posteriores dieron con dinero en efectivo y armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores serbios dijeron que seguían el cuadro tras una posible venta a un comprador dispuesto a pagar tres millones de euros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay una sorpresa. El Degas ya estaba de vuelta desde hacía meses. Las autoridades no lo habían anunciado, porque temían que dar la noticia pusiera en peligro la búsqueda del Cézanne."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 23 de abril de 2012, el Cézanne fue entregado en Belgrado a una delegación suiza y volvió a Zúrich en avión. Con él, los cuatro cuadros volvían a estar en manos de la fundación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Degas tenía varios desgarros y cortes, pero no en las zonas centrales. El Cézanne, daños en una esquina. El director de la fundación confiaba en poder restaurarlos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuadros recuperados, ladrones detenidos. Parece un final redondo. Pero ahí está mi duda: el proceso se siguió en Serbia, y las fuentes que he podido abrir no recogen ninguna sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por eso aquí no hay nombres. Cuatro hombres fueron detenidos y la fiscalía serbia contra el crimen organizado los acusó. Mientras no conste una condena, son acusados, no culpables."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los cuatro cuadros están de nuevo en la fundación, después de unos cuatro años de búsqueda y de una operación en la que participaron seis países. Y vuelven a estar a la vista de quienes los van a mirar, que es para lo que pintaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de la colección Bührle. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: nota de prensa de la Fiscalía de Zúrich (27/4/2012), swissinfo, The Local y Wikipedia; NPR no abrió (timeout). Contradicciones: Degas recuperado «unos meses antes» de abril de 2012 (Zúrich, swissinfo) frente a 2009 (The Local): el guion dice «meses antes, sin anunciarlo». Nacionalidad de los detenidos: un macedonio y tres serbios (Zúrich) o tres serbios y un montenegrino (swissinfo); el guion dice «cuatro hombres» sin nacionalidad. Fecha de las detenciones: 11 de abril de 2012 (Zúrich); entrega del Cézanne el 23 de abril (Zúrich), «recuperado el 12 de abril» (Wikipedia). Sentencia: no consta en ninguna fuente abierta; el guion dice que el proceso corría en Serbia y no nombra a nadie ni da condenas. Valor: Wikipedia 180 millones de francos; swissinfo valora solo el Cézanne en 100 millones; The Local lo estima igual. Zúrich: se emplearon 2,8 millones de euros en pagos relacionados con la recuperación (un dato que se omite por delicado). Que los ladrones hablaban alemán con acento eslavo lo dice The Local (testigos); se atribuye. No hubo heridos según ninguna fuente, pero no consta, por eso no se afirma. El coche: «cerca de un hospital» (Wikipedia) o «hospital psiquiátrico» (ficha, The Local, swissinfo)."
+}

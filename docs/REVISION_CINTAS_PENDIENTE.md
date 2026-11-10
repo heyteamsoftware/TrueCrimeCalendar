@@ -46,3 +46,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **Menores no nombradas** en bundy, starkweather, nilsen y romasanta por falta de familia pública. Pronunciaciones a oído en abril 1-15 (Lorrén, Búbak, Yeims Erl Rei). Sancho Alegre y Zapata: solo dos fuentes abiertas.
 - **Pronunciaciones a oído en junio 1-15:** Matteotti, Anglin, Evers, Gudden, Livraga. Soldevila y Pérez Zujovic se apoyan en pocas fuentes.
 - **crimen-fago:** el ADN y la confesión salen solo de un reportaje de blog (Escapada Rural); contrastar con la sentencia o prensa. Pronunciaciones de enero 1-15 (Yablónski, Méserli, Vitét, Garsía Bólster, Jáunsdich).
+- **atentado-juan-pablo-ii:** la cita del fiscal Marini sale de una sola fuente (CSM). **caso-almeria:** la reparación simbólica de 2023 no tiene crónica posterior. Pronunciación de Ağca (Adyá).

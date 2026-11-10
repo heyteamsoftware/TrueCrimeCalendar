@@ -1,127 +1,73 @@
 {
   "id": "fernandez",
-  "titulo": "Correo sentimental",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Raymond Fernandez": "Réimond Fernández",
-    "Raymond": "Réimond",
     "Fernandez": "Fernández",
     "Martha Beck": "Márta Bek",
-    "Martha": "Márta",
-    "Connecticut": "Conéticat",
-    "Valley Stream": "Váli Strím",
-    "Janet Fay": "Yánet Féi",
-    "Byron Center": "Báiron Sénter",
+    "Janet Fay": "Yánet Fei",
     "Delphine Downing": "Delfín Dáuning",
-    "Delphine": "Delfín",
-    "Rainelle Downing": "Reinél Dáuning",
-    "Rainelle": "Reinél",
-    "Downing": "Dáuning",
+    "Valley Stream": "Váli Strim",
+    "Grand Rapids": "Grand Rápids",
+    "Bridgeport": "Brídyport",
+    "Connecticut": "Conéticat",
     "Sing Sing": "Sin Sin",
-    "Lonely Hearts Killers": "Lóunli Jarts Kílers",
-    "Arturo Ripstein": "Arturo Rípstein"
+    "Ferdinand Pecora": "Férdinand Pecóra",
+    "Thomas Dewey": "Tómas Dúi",
+    "Lonely Hearts Killers": "Lónli Jarts Kílers"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Florida, 1947. Una enfermera de veintisiete años, divorciada y madre de dos hijos, recibe por correo una carta de un club de corazones solitarios. Según se contó después, alguien la había inscrito sin que ella lo supiera. La carta viene de Nueva York y la firma un tal Raymond."
+      "n": 1,
+      "titulo": "Un peluquín negro",
+      "tipo": "notas",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Raymond Fernandez, el asesino de los corazones solitarios. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. Un peluquín negro."},
+        {"voz": "ximena", "texto": "Nueva York, 1947. Un hombre de treinta y dos años, calvo, con un peluquín negro barato, abre su correo en una habitación de la ciudad. Son cartas de mujeres que buscan compañía. Viudas, solteras, divorciadas. Las ha conseguido en un club de correspondencia de corazones solitarios."},
+        {"voz": "ximena", "texto": "Se llama Raymond Fernandez. Para él, cada carta es una oportunidad. Cada mujer sola, un posible botín."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Quiero fijar una cosa desde el principio. Un club de corazones solitarios no era un delito. Era una necesidad real de mucha gente en la posguerra. Lo criminal fue lo que él hizo con esas listas: leerlas como un catálogo de ahorros."},
+        {"voz": "ximena", "texto": "Raymond Fernandez había nacido el 17 de diciembre de 1914 en Hawái, de padres españoles. La familia se mudó pronto a Bridgeport, en Connecticut. De adolescente trabajó en la granja de un tío en España, se casó allí con Encarnación Robles y tuvo cuatro hijos, a los que después abandonó. Su segundo apellido era Martínez."},
+        {"voz": "ximena", "texto": "Según algunas fuentes, durante la Segunda Guerra Mundial sirvió en la marina mercante española y colaboró con los servicios de inteligencia británicos. Hacia el final de la guerra, un golpe grave en la cabeza lo dejó calvo y con fuertes dolores."},
+        {"voz": "alvaro", "texto": "Esa herida aparece en casi todas las biografías. Su entorno decía que desde entonces fue otro hombre. Yo la menciono con cautela: no hay un informe médico que la una a lo que vino después. Es una explicación cómoda, y por eso desconfío."},
+        {"voz": "ximena", "texto": "Después fue un delincuente de poca monta. Robó ropa y cumplió un año de cárcel. En la celda, según contó él mismo, un compañero lo convenció de la magia negra. Desde entonces creía tener poder sobre las mujeres."},
+        {"voz": "ximena", "texto": "Su oficio fue el engaño. Escribía a mujeres que buscaban pareja a través de clubes y anuncios. Las seducía por carta, se ganaba su confianza, se quedaba con sus ahorros y desaparecía. Ya en 1946, según un resumen del caso, había vaciado la cuenta de su primera víctima."},
+        {"voz": "alvaro", "texto": "Fíjate en el diseño. Un solo estafador, una lista de mujeres solas y una carta bien escrita. No hace falta violencia para empezar. Y las víctimas no denunciaban fácilmente: les daba vergüenza haber creído. Es una hipótesis, pero encaja con lo que dice la historia del fraude sentimental."},
+        {"voz": "ximena", "texto": "En 1947 una enfermera de Florida respondió a una de sus cartas. Se llamaba Martha Beck. Su historia, la de ella, tiene su propio expediente en este archivo. Aquí basta saber que, con ella, la estafa dejó de ser solo una estafa."},
+        {"voz": "ximena", "texto": "Se presentaban como hermanos. Él cortejaba a las mujeres. Ella estaba presente en cada visita. Las víctimas veían a un hombre educado con su hermana. No veían una pareja."},
+        {"voz": "ximena", "texto": "A principios de enero de 1949, en un apartamento de Valley Stream, en Long Island, murió Janet Fay. Era una viuda de sesenta y seis años, de Albany. Había entregado a Fernandez unos cuatro mil dólares, además de joyas y bonos. Creía que iba a casarse con él."},
+        {"voz": "ximena", "texto": "Semanas después, a finales de febrero, la pareja estaba en una casa cerca de Grand Rapids, en Míchigan. Allí vivía otra viuda, Delphine Downing, con su hija de dos años. Delphine había conocido a Raymond, como las demás, por carta."},
+        {"voz": "alvaro", "texto": "Dos casas, dos viudas, una niña. Y un mismo patrón de confianza fabricada. Los vecinos se dieron cuenta de lo que no cuadraba. Dejaron de ver a la madre y a la niña, y avisaron a la policía."},
+        {"voz": "ximena", "texto": "El 1 de marzo de 1949, los agentes llamaron a la puerta y detuvieron a la pareja. Los dos acabarían confesando."},
+        {"voz": "ximena", "texto": "Pero Míchigan no tenía pena de muerte. Y Nueva York, sí. Faltaba saber dónde los juzgarían."}
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Ella responde. Él viaja a conocerla a finales de ese mismo año. Y de aquel encuentro nace una de las parejas criminales más tristemente célebres de Estados Unidos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Una historia de amor por carta que acaba en asesinato?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exactamente eso. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Raymond Fernandez, el asesino de los corazones solitarios."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en Hawái en 1914, en una familia de origen español, y creció en Connecticut. De joven vivió una temporada en España, donde se casó y tuvo hijos. Durante la Segunda Guerra Mundial, según algunas fuentes, colaboró con los servicios de inteligencia británicos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En los años cuarenta sufrió una grave herida en la cabeza en un accidente a bordo de un barco. Su entorno aseguró que, desde entonces, su carácter cambió. Poco después pasó por prisión por robo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A su salida encontró su oficio: el engaño. Escribía a mujeres solas, a menudo viudas, que buscaban pareja a través de anuncios y clubes de correspondencia. Las seducía por carta, se ganaba su confianza y desaparecía con su dinero. En la posguerra, miles de personas solas, muchas de ellas viudas, recurrían a esos clubes para encontrar pareja."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un estafador, entonces. ¿Cuándo se convierte en asesino?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cuando aparece Martha Beck. Ella dejó atrás su vida en Florida, incluidos sus hijos, para seguirle. Él le contó cómo se ganaba la vida, y ella decidió unirse al negocio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se presentaban como hermanos. Él cortejaba a la víctima; ella vigilaba de cerca. Así podían convivir con ellas sin levantar sospechas. Según se expuso después, los celos de Martha convirtieron las estafas en algo mucho más peligroso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En enero de 1949, en Valley Stream, cerca de Nueva York, mataron a Janet Fay, una viuda de sesenta y seis años que había viajado para casarse con Raymond y que le había confiado sus ahorros."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una mujer que solo buscaba empezar una nueva vida."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Semanas después se instalaron en Byron Center, en Míchigan, en casa de Delphine Downing, una joven viuda con una hija de dos años, Rainelle. Delphine había conocido a Raymond, como las demás, a través de las cartas. Allí mataron a las dos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cómo los atraparon?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los vecinos notaron que la madre y la niña habían desaparecido y avisaron a la policía. Los agentes encontraron a la pareja en la casa y los detuvieron a finales de febrero de 1949."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En los interrogatorios confesaron. La prensa llegó a hablar de muchas más víctimas, hasta veinte, pero solo se probaron tres asesinatos: el de Janet Fay y los de Delphine y Rainelle Downing."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Míchigan no tenía pena de muerte. Por eso fueron trasladados a Nueva York, donde se les juzgó por el asesinato de Janet Fay. El juicio, en 1949, fue un escándalo mediático que llenó portadas durante semanas. La prensa siguió cada gesto entre ambos, sus reproches y sus reconciliaciones."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y el jurado los condenó a muerte."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A los dos. Tras los recursos, Raymond Fernandez y Martha Beck murieron en la silla eléctrica de la prisión de Sing Sing la misma noche, el 8 de marzo de 1951. Él fue ejecutado primero; ella, minutos después."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su historia ha inspirado varias películas. Entre ellas, «Profundo carmesí», del director Arturo Ripstein, que trasladó el caso al México de los años cuarenta. En Estados Unidos, el caso inspiró también «Los asesinos de la luna de miel», de 1970."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso también dejó una advertencia que suena muy actual: el peligro de los engaños sentimentales a distancia. Hoy se habla de estafas del amor por internet; entonces, el correo cumplía ese papel."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Las cartas de entonces, los mensajes de ahora."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Este expediente está ligado al de Martha Beck, su pareja y cómplice, que tiene su propio capítulo en este archivo. Juntos fueron conocidos como los Lonely Hearts Killers, los asesinos de los corazones solitarios."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y no olvidemos a las víctimas: mujeres que buscaban compañía y una niña de dos años que no tuvo ninguna oportunidad. Y también las mujeres que perdieron sus ahorros y su confianza en aquellas estafas. A ellas se debe la memoria de este caso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Raymond Fernandez. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una libreta con veinte nombres",
+      "tipo": "juicio",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. Una libreta con veinte nombres."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Raymond Fernandez, detenido el 1 de marzo de 1949 en Míchigan junto a Martha Beck. Lo dejamos entre dos estados, y una decisión."},
+        {"voz": "ximena", "texto": "Los dos habían confesado en Míchigan. Allí no había pena de muerte. Las autoridades decidieron entregarlos a Nueva York para juzgarlos por la muerte de Janet Fay. Fue el único asesinato por el que se les procesó."},
+        {"voz": "alvaro", "texto": "Anoto lo que la ficha del caso cuenta de otra manera: dice que los condenaron por tres muertes. Las fuentes señalan que solo se juzgó una. Las dos de Míchigan nunca llegaron a un tribunal. Eso no las hace menos reales."},
+        {"voz": "ximena", "texto": "El juicio se celebró en Nueva York del 9 de junio al 18 de agosto de 1949. Presidió el juez Ferdinand Pecora. La acusación estaba a cargo de tres fiscales: Edward Breslin, James Gehrig y Edward Robinson. La defensa, de John Minton y Herbert Rosenberg. La defensa pidió que se les considerara mentalmente enfermos, con el apoyo de un psiquiatra."},
+        {"voz": "ximena", "texto": "Fernandez había confesado al ser detenido. Luego intentó retractarse y dijo que había confesado para proteger a Martha Beck. Su abogado llegó a sostener que él no había participado en la muerte de Janet Fay."},
+        {"voz": "alvaro", "texto": "Aquí hay algo que el jurado también debió de ver. Un acusado que confiesa, que se desdice, y cuyo abogado defiende que no tuvo parte. Cada versión se contradice con la anterior. Es frecuente. Y rara vez ayuda."},
+        {"voz": "ximena", "texto": "La acusación presentó la prueba material: el cuerpo de la viuda, hallado bajo un suelo de cemento nuevo en una casa alquilada de Valley Stream. Y una libreta de Fernandez, con una lista de unas veinte mujeres desaparecidas."},
+        {"voz": "alvaro", "texto": "Esa libreta me interesa por lo que no sabemos. Se dijo que contenía una lista de mujeres que no aparecían. Pero la justicia no probó ni un crimen más. Los periódicos hablaron de decenas; el tribunal, de una."},
+        {"voz": "ximena", "texto": "El 18 de agosto de 1949, tras doce horas y media de deliberación, el jurado declaró culpables a los dos de asesinato en primer grado. La pena de muerte era obligatoria."},
+        {"voz": "ximena", "texto": "Recurrieron. El Tribunal de Apelaciones del estado denegó un nuevo juicio. El gobernador Thomas Dewey rechazó el indulto. El Tribunal Supremo de Estados Unidos no aceptó revisar el caso. Fernandez se quejó de malos tratos en Sing Sing, y un juez le denegó el hábeas corpus."},
+        {"voz": "ximena", "texto": "El 8 de marzo de 1951, en Sing Sing, murieron los dos en la silla eléctrica. Primero él, después ella. Fernandez tenía treinta y seis años. Habían pasado más de año y medio desde el veredicto."},
+        {"voz": "alvaro", "texto": "¿Cuántas fueron? Ellos presumieron de hasta diecisiete. Las pruebas apuntan a bastantes menos: probablemente cuatro, según un resumen. La justicia solo condenó una. No inventaré un número. La cifra real, si existió, se fue con ellos."},
+        {"voz": "ximena", "texto": "La prensa los llamó los Lonely Hearts Killers, los asesinos de los corazones solitarios. Y se fijó mucho en ella, en su cuerpo y su vida íntima, y mucho menos en él, al que describía como un seductor latino. Esa diferencia dice algo de la época. Su expediente, el de Martha Beck, lo cuenta con más detalle."},
+        {"voz": "ximena", "texto": "La historia ha inspirado películas. «Los asesinos de la luna de miel», de 1970, y «Profundo carmesí», de 1996, que la traslada a México."},
+        {"voz": "alvaro", "texto": "Hoy los engaños sentimentales llegan por internet. Antes llegaban por correo. Lo que cambia es la velocidad. Lo que no cambia es el truco: una persona que parece quererte y te pide dinero o confianza. Conviene desconfiar. Y conviene no avergonzarse de haber sido engañado."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Janet Fay, viuda de sesenta y seis años. A Delphine Downing y a su hija de dos años. Y a las mujeres que perdieron sus ahorros y su confianza."},
+        {"voz": "ximena", "texto": "Fin del expediente de Raymond Fernandez. Archivo de TRUE CRIME CALENDAR."}
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Versión 3 en 2 cintas. Contada desde Fernandez; la pareja (beck) lleva el historial de ella. Cifras comunes con beck: Janet Fay (66 años, enero de 1949, Valley Stream), Delphine Downing y su hija de dos años (finales de febrero de 1949, zona de Grand Rapids), detención el 1/3/1949, juicio en Nueva York del 9/6 al 18/8/1949 solo por Fay, jurado 12 h y media, ejecución el 8/3/1951 en Sing Sing (él primero), 17 atribuidas. Fuentes: Wikipedia (en, «Raymond Fernandez and Martha Beck»), Encyclopedia.com (Great American Trials), History.com, Yahoo/People. DISCREPANCIAS. 1) Ficha y v2: «condenados por tres asesinatos»; las fuentes dicen que solo se juzgó y condenó el de Janet Fay. 2) Cuántas víctimas: ficha «3»; Wikipedia, de 3 a 20; History.com, «hasta 17, las pruebas sugieren cuatro»; Great American Trials, una libreta con unas 20 mujeres desaparecidas. 3) Peluquín y calvicie: History.com; v2 hablaba de herida en el accidente a bordo de un barco: Wikipedia y History.com la sitúan en o tras la guerra; el guion dice «hacia el final de la guerra, un golpe grave». 4) «Colaboró con los servicios de inteligencia británicos»: Wikipedia (en); v2 «según algunas fuentes»; se mantiene así. 5) Primer año de cárcel por robar ropa y la historia de la magia negra: Wikipedia y Yahoo; History.com, «creía tener poder sobre las mujeres». 6) «Libreta con 20 mujeres desaparecidas»: solo Great American Trials; se atribuye a «un resumen del caso» y la cifra. 7) Delphine Downing: 28 años (Wikipedia, Yahoo) o 41 (Great American Trials); no se da. Casa: cerca de Grand Rapids (Beck), Byron Center (v2). 8) Cómo se llegó a ellos: vecinos (Wikipedia, Great American Trials); History.com: Fernandez desafió a la policía. El guion dice vecinos, como beck. 9) Su abogado sostuvo que Fernandez no participó en la muerte de Fay (Great American Trials); luego dijo que confesó para proteger a Beck (Wikipedia). 10) Deliberación: 12,5 horas (Great American Trials, AP). 11) Apelaciones, Dewey y Supremo: Great American Trials. «Hábeas corpus» denegado por malos tratos: Great American Trials. 12) Ejecución: 8/3/1951; él primero (Great American Trials, Wikipedia); v2 decía «la misma noche»; no consta y se quitó; se dice «primero él, después ella». 13) Edad: 36 (Wikipedia). 14) Películas: «Profundo carmesí» (1996, México); el v2 citaba a Arturo Ripstein: en la ficha de beck se quitó por no estar confirmado; aquí también. RESPETO: no se describen métodos; no se nombra a la niña de dos años; sí a Janet Fay y Delphine Downing (adultas, nombres públicos). El v2 decía que la niña era «Rainelle»: no se usa. La ficha y el v2 dicen «nacido en Hawái 1914, criado en Connecticut»: coincide con Wikipedia."
 }

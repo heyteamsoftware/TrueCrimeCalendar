@@ -1,0 +1,129 @@
+{
+  "id": "gran-robo-oro",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "South Eastern Railway": "Sauz Ístern Réilwei",
+    "London Bridge": "Lándon Brich",
+    "Folkestone": "Fóuksston",
+    "Boulogne": "Bulón",
+    "Edward Agar": "Édguard Éigar",
+    "Agar": "Éigar",
+    "William Pierce": "Uíliam Pirs",
+    "Pierce": "Pirs",
+    "James Burgess": "Yéims Bérgues",
+    "Burgess": "Bérgues",
+    "William Tester": "Uíliam Téster",
+    "Tester": "Téster",
+    "Fanny Kay": "Fani Kei",
+    "Newgate": "Niúgueit",
+    "Old Bailey": "Old Béili",
+    "Redhill": "Redjil"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Tres cajas con perdigones",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El gran robo del oro. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Tres cajas con perdigones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 15 de mayo de 1855. A las ocho y media de la tarde sale de la estación de London Bridge el tren correo hacia Folkestone, camino de París. En el furgón van tres cajas de madera con unos ciento dos kilos de oro. Valen doce mil libras de la época."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las cajas viajan cerradas en cajas fuertes de hierro, con dos cerraduras cada una. Parece imposible abrirlas durante el viaje."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un tren en marcha, un guarda de confianza y una caja fuerte. Todo parece perfecto. Pero la seguridad que se cree perfecta es la que menos se vigila."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche, escondido en el tren, viaja Edward Agar. Es un ladrón y cerrajero experto. Antes de la estación de Redhill, abre una de las cajas fuertes y saca el oro. Lo sustituye por perdigones de plomo y vuelve a sellarlo todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hace lo mismo con las otras cajas. Después, él y su cómplice, William Pierce, abandonan el tren. Y el tren sigue su camino hacia Francia con unas cajas que ya no valen nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La clave no fue la fuerza, sino la preparación. Meses antes, alguien había copiado las llaves. Y esas copias hicieron lo que no podía hacer ninguna palanca: abrir sin dejar rastro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Historic UK, un empleado de la compañía, William Tester, tuvo las llaves un momento durante unas reparaciones y sacó impresiones en cera. Otro, James Burgess, era el guarda del tren."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El plan lo prepararon Pierce, un antiguo empleado despedido por jugar y beber, y Agar. Las fuentes no coinciden en quién fue el cerebro. Con ellos colaboraron la compañera de Agar, Fanny Kay, y los dos empleados de la South Eastern Railway."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tester, que trabajaba en las oficinas de Londres, facilitaba horarios y datos del transporte. Y se aseguró de que Burgess fuera el guarda del tren esa noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Agar había hecho antes una prueba con su propio oro para aprender cómo se manejaban los envíos. Fue otra precaución de un plan que se preparó con paciencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al llegar a Boulogne, las cajas pesaban menos de lo esperado. Aun así siguieron hasta París. Allí las abrieron y apareció el plomo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ingleses y franceses se echaron la culpa unos a otros. Se ofreció una recompensa de trescientas libras. Durante más de un año, nadie fue detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el tiempo. Nadie resolvió el robo. Lo resolvió una promesa incumplida. Eso me interesa más que el oro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Agar fue detenido por otra causa, falsificación, y condenado a deportación a Australia. Desde la cárcel pidió a Pierce que diera una parte del botín a Fanny Kay, madre de su hijo. Pierce se negó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kay, sin dinero, fue en el verano de 1856 a la cárcel de Newgate y lo contó todo. Agar, enfadado por cómo habían tratado a su compañera, confirmó su relato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en el Old Bailey en enero de 1857. Agar declaró contra sus tres cómplices. El jurado tardó pocos minutos en declararlos culpables de hurto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando una banda se rompe, el primero que habla gana. Agar declaró contra los otros tres y no fue juzgado de nuevo por el robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Burgess y Tester recibieron catorce años de deportación. Pierce, dos años de trabajos forzados. Agar ya cumplía su condena por falsificación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Historic UK, los lingotes se habían fundido tras el robo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un robo sin víctimas directas, y por eso se recuerda con una media sonrisa. Pero detrás hay una traición dentro de la compañía, y un delito que se destapó por un pacto de pareja que salió mal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "KentOnline lo llama el primer gran robo de un tren. Y fue, sobre todo, un golpe de paciencia: meses de espera para unas horas de viaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El gran robo del oro. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Dónde se detectó la diferencia de peso: la ficha dice que en Boulogne una caja pesaba menos y en París se vio el plomo; KentOnline dice que se notó ligera en Boulogne y se abrieron en París; Historic UK dice que se pesaron en París (Banque de France). Se dice «en Francia». Penas: catorce años de deportación para Burgess y Tester y dos años de trabajos forzados para Pierce (The Times, vía ficha); Historic UK solo dice que Burgess, Tester y Agar fueron deportados sin cumplir toda la pena. Agar ya cumplía condena por falsificación (condena a deportación); su colaboración con la justicia se presenta como testimonio contra sus cómplices. Cantidad de oro: unos 102 kilos, 12.000 libras (ficha y Historic UK). Detalles de moldes de cera y de llaves: Historic UK y KentOnline coinciden. El papel de cada uno (el cerebro) varía entre fuentes: Historic UK da a Pierce la idea y a Agar la pericia; KentOnline presenta a Agar como cerebro: el guion no lo resuelve. Fanny Kay fue su compañera (no esposa); se menciona que era madre de su hijo (Historic UK, KentOnline). Hora de salida del tren: 20:30 (Historic UK)."
+}

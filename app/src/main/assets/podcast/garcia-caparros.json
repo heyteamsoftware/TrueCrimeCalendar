@@ -1,0 +1,112 @@
+{
+  "id": "garcia-caparros",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "García Caparrós": "García Caparrós",
+    "Rosa Burgos": "Rosa Burgos",
+    "Eva García Sempere": "Eva García Sempere"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una bandera en el balcón",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La muerte de García Caparrós. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una bandera en el balcón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Málaga, 4 de diciembre de 1977. Una multitud llena el centro de la ciudad. Según La Marea, hay unas doscientas mil personas pidiendo la autonomía para Andalucía. Hasta que alguien sube al balcón de la Diputación con una bandera verde y blanca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Diputación había decidido que allí solo ondeara la bandera de España. Hubo provocaciones de grupos de ultraderecha, y los manifestantes lanzaron piedras y naranjas. Entonces, la Policía Armada cargó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Nadie salió de casa ese día a pelearse con la policía. Fue una manifestación pacífica que se rompió en cuestión de minutos. Varios testigos hablan de agentes presas del pánico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En esa carga, un joven de dieciocho años recibió un disparo en la calle Comandante Benítez, junto a la Alameda de Colón. Se llamaba Manuel José García Caparrós. Trabajaba en la fábrica de Cervezas Victoria y estaba afiliado a Comisiones Obreras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió poco después. En el certificado de defunción consta una hemorragia interna por herida de arma de fuego."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el momento. Un chico que no era un dirigente ni un agitador, un trabajador que estaba en la calle como miles de personas. La noche siguió con disturbios por toda la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién disparó? Varios testigos coincidieron en que fue un policía corpulento, de unos cincuenta años, que entonces fue identificado como cabo. Un periodista, Juan de Dios Mellado, afirma que lo vio con la pistola en la mano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se manejó otra hipótesis: que disparara un ultraderechista desde un edificio. Perdió fuerza porque los testimonios coincidían en el agente. Pero te aviso: coincidir no es probar. Nadie fue juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se sobreseyó. La familia y los periodistas sostienen que los testigos fueron silenciados. Una comisión del Congreso investigó los hechos, pero sus actas siguen bajo secreto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La diputada Eva García Sempere pudo consultarlas solo de forma limitada, con los nombres tachados. Según ella, un informe del Ministerio de Gobernación de diciembre de 1977 ya daba por hecho que el autor era un policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que me cuesta aceptar. Al día siguiente de los hechos, el propio Estado sabía o suponía quién era el autor. Y cuarenta y ocho años después seguimos sin su nombre en un acta pública."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005, la secretaria judicial Rosa Burgos pudo estudiar el sumario y las actas de la comisión. Concluyó que la bala era de nueve milímetros y que el arma era una pistola Star, de las que usaba entonces la Policía Armada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También averiguó que la chaqueta con el agujero de la bala se entregó a la familia en vez de conservarse como prueba. Y que un informe de balística halló similitudes entre la bala y la pistola de un agente. Después, otro informe dudó de que esa bala hubiera estado en un cuerpo humano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esta es la clave: hay un agente señalado por una investigadora, un informe que lo apoya y otro que lo pone en duda. No voy a dar su nombre, ni sus iniciales. No lo condenó nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras su muerte hubo protestas, una huelga general y un funeral multitudinario. El presidente de la Diputación, Francisco Cabeza, dimitió poco después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus hermanas, Loli y Paqui, no han dejado de pedir justicia. Quieren saber, dijeron, quién manchó el nombre de todos los andaluces. En 2024 denunciaron al Ministerio del Interior por ocultar el crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 5 de diciembre de 2024, el Gobierno anunció que lo reconocía como víctima del posfranquismo. Casi medio siglo después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Reconocimiento y reparación, sí. Pero en febrero de 2026, Interior le negó la condición de víctima del terrorismo. Alegó que los hechos no encajan en la ley y que no hay sentencia ni proceso penal. Es decir: sin juicio, no hay reconocimiento. Y sin reconocimiento, no hay juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Burgos considera posible reabrir el caso si aparecen nuevos testigos. Pero advierte que el autor podría haber muerto ya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy, en el lugar donde cayó, un monumento recuerda su nombre. Fue el primer andaluz que murió por la autonomía. Tenía dieciocho años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La muerte de García Caparrós. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: La Marea (2017), El Debate (2024), The Objective (2026). No se abrió la PDF de la Junta ni El País. No se nombra al agente ni se dan sus iniciales (M.P.R. en La Marea). Cifra de asistentes (200.000): La Marea. Calle: La Marea dice Comandante Benítez, Wikipedia Alameda de Colón: mismo punto; el guion dice «calle Comandante Benítez, junto a la Alameda de Colón». Denuncia de 2024: las hermanas anunciaron una querella criminal contra Interior (El Debate); nombres de hermanas varían (Loli, Puri, Paqui). «Primer andaluz que murió por la autonomía» y el «monumento» no se han comprobado en fuente abierta: ver si se mantienen. Cuadro: se afirma que el informe de Gobernación asumía policía (lo dice una diputada, atribuido)."
+}

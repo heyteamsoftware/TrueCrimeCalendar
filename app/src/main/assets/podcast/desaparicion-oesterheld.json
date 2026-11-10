@@ -1,0 +1,101 @@
+{
+  "id": "desaparicion-oesterheld",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Héctor Germán Oesterheld": "Éctor Germán Ésterjeld",
+    "Oesterheld": "Ésterjeld",
+    "Sheraton": "Sheratón",
+    "El Vesubio": "El Vesúbio"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El viejo que escribía historias",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El autor de El Eternauta, desaparecido. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El viejo que escribía historias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Argentina, 1977. En una carta que un preso político escribe a sus hijos desde un centro clandestino de detención, aparece una frase sobre otro cautivo: «el viejo», el autor de «El Eternauta». Dice que se pasa el día escribiendo historias que nadie tiene intención de publicarle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa carta llegó a los tribunales décadas después, como prueba. Es una de las pocas huellas que dejó Héctor Germán Oesterheld desde el lugar donde estuvo secuestrado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un guionista que sigue escribiendo cuando lo tienen preso. Eso dice más que cualquier informe. Y apunto otra cosa: de lo que vivió ahí dentro solo sabemos lo que contaron quienes sobrevivieron. De él no queda ni un papel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Oesterheld nació en 1919. Escribió guiones de historietas desde los años cincuenta. Su obra más conocida, «El Eternauta», tiene un héroe colectivo. Con el tiempo, su compromiso político creció. Cuando llegó la dictadura de 1976, militaba en Montoneros, igual que sus hijas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la sentencia del Juicio a las Juntas, en septiembre de 1976 miembros del Ejército entraron en su casa de Beccar, cerca de Buenos Aires, para llevárselo. No estaba. Vivió en la clandestinidad. Otras fuentes sitúan su secuestro el 27 de abril de 1977 en La Plata."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Aquí hay un matiz que conviene anotar. La sentencia de 1985 dio por probado que lo privó de libertad personal del Ejército en abril de 1977, pero reconoció que no pudo fijar el lugar ni las circunstancias exactas. Lo demás se reconstruyó después, con testimonios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Supervivientes lo vieron en El Vesubio, a finales de 1977 y principios de 1978. También en El Sheraton, que funcionaba en una subcomisaría de La Matanza, y en El Campito, en Campo de Mayo. Contaron que dibujaba y escribía, y que regalaba dibujos a otras compañeras de cautiverio para que se alegraran un poco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de ellos lo recordó extremadamente delgado, y otros, derrotado. En el Sheraton cumplió cincuenta y ocho años, el 23 de julio de 1977. Un testigo dijo que le contó que intentaba escribir un guion de época y que había sufrido mucho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una cosa que no se apunta con facilidad. Sus cuatro hijas también fueron secuestradas, y dos de ellas estaban embarazadas. Según los testimonios, los captores usaron su secuestro contra él. No voy a ir más allá. Ninguna de las cuatro volvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su mujer fue a los tribunales en julio de 1979. Presentó una causa de «ausencia simple», porque no tenía noticias de él desde mayo de 1977."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La reconstrucción llegó con el Juicio a las Juntas, en 1985. Su caso fue el número trescientos setenta y siete. El tribunal concluyó que lo había secuestrado el Ejército y que estuvo preso en El Vesubio. No se ha probado que recuperara la libertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después hubo más juicios por los centros donde estuvo: tres por El Vesubio, varios por El Sheraton, incluido uno en 2023, y la megacausa de Campo de Mayo. En total, más de cuarenta condenados vinculados a su caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarenta condenas y un vacío. Nunca se ha sabido cuándo ni dónde murió. Sus restos no han aparecido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan los nietos. Dos de sus hijas esperaban un hijo, que deberían haber nacido a finales de 1976 y de 1977. La familia sigue buscándolos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2025, una serie de televisión sobre «El Eternauta» llevó su nombre a un público nuevo. Los tribunales siguen sin saber dónde está."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la ironía, y no es de las que me gustan. Escribió sobre un héroe colectivo. Y fueron quienes compartieron su cautiverio los que contaron su historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Oesterheld fue guionista, padre y abuelo. Lo que queda de él es lo que dibujó, lo que escribió y lo que recuerdan quienes lo conocieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El autor de El Eternauta, desaparecido. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "No se nombra a las hijas. No se detallan torturas (la sentencia dice que no está probado que fuera torturado; algunos testigos hablan de maltrato psicológico, que no se cuenta). Fuentes abiertas: Equipo Nizkor (Causa 13/84, caso 377: abril de 1977, registro de la casa en septiembre de 1976, El Vesubio entre finales de 1977 y principios de 1978, ausencia simple de julio de 1979, no probado que recuperase la libertad), Tiempo Argentino (mayo de 2025: Vesubio I-III, Sheraton incl. Sheraton IV en 2023, Campo de Mayo, 58 cumpleaños el 23 de julio de 1977, dibujos regalados, la carta de un compañero de cautiverio, los nietos que deberían haber nacido en noviembre de 1976 y diciembre de 1977, serie de 2025 de El Eternauta) y Wikipedia en español (27 de abril de 1977 en La Plata, militancia en Montoneros, desaparecido después de enero de 1978). Contradicciones: Nizkor solo dice «abril de 1977» y no fija el lugar; el 27 de abril y La Plata son de Wikipedia y Tiempo Argentino («abril de 1977» en La Plata). La ficha dice «cuatro hijas asesinadas»; las fuentes abiertas dicen «secuestradas»; el guion dice que ninguna volvió. Datos de la carta, la frase 'el viejo' y 'dibujos': Tiempo Argentino. No se ha comprobado si queda algún tramo en curso."
+}

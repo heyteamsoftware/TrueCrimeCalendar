@@ -1,0 +1,109 @@
+{
+  "id": "matanza-legacion-teheran",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Griboyédov": "Griboyédov",
+    "Alexandr Griboyédov": "Alexándr Griboyédov",
+    "Mirza Yaqub": "Mírza Yákub",
+    "Yaqub": "Yákub",
+    "Turkmenchay": "Turkmenchái",
+    "Máltsov": "Máltsov",
+    "Iván Máltsov": "Iván Máltsov",
+    "Jusró Mirza": "Jusró Mirza"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El refugio de Mirza Yaqub",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de la legación rusa. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El refugio de Mirza Yaqub."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Teherán, 11 de febrero de 1829. Una multitud rodea el edificio de la legación rusa. Dentro está el embajador, el dramaturgo Alexandr Griboyédov, con su personal y una pequeña guardia de cosacos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La mecha de todo es un refugio. Días antes, un hombre ha cruzado la puerta de la legación pidiendo amparo: Mirza Yaqub, un armenio que servía como eunuco en la corte del sah."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. El hombre pide amparo y lo invoca con un papel en la mano: el tratado de Turkmenchay, firmado el año anterior tras la guerra entre Rusia y Persia. Uno de sus artículos permitía a los armenios y a los georgianos que habían sido súbditos rusos regresar a Rusia. Con ese artículo en la mano, Yaqub pidió ser protegido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con Yaqub llegaron dos mujeres armenias. Los mulás empezaron a llamar a la calle contra la legación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un eunuco de la corte y dos mujeres, refugiados en una embajada extranjera. Es una de esas historias que, contadas en la calle, se convierten en fuego. Y los mulás hicieron de eso su bandera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La multitud asaltó el edificio. Los cosacos de la guardia resistieron durante más de una hora, pero eran pocos frente a la multitud, y los sitiados terminaron encerrados en una habitación al fondo del edificio. Murieron el embajador y casi todo su personal, decenas de personas según las fuentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo se salvó el primer secretario, Iván Máltsov. Un secretario persa que sobrevivió declaró que la causa del desastre había sido Mirza Yaqub."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Qué pasó de verdad? Las fuentes que manejo recogen al menos tres versiones, y ninguna está probada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera, la oficial: Griboyédov se habría comportado de forma provocadora, incluso sacando a mujeres de los harenes. Los historiadores la consideran poco sostenible, porque el embajador se atuvo al tratado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda: la huella británica. Un autor la defiende, con cartas e informes de la época. Pero otro texto recuerda que no hay pruebas directas. Dejo constancia de que existe, y de que no es una acusación contra nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La tercera versión mira al propio Yaqub. Era, según un autor, el guardián de los secretos y las cuentas del harén, y el sah no quería pagar la indemnización de guerra. Esa versión sostiene que alguien señaló a Yaqub ante la multitud, y que las autoridades no hicieron nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjese en un dato que apunta en esa dirección. El gobernador de Teherán, hijo del sah, no disolvió la multitud. Y la guardia persa asignada a la legación, según esa versión, no tenía armas. Son indicios, no pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue juzgado. Los historiadores siguen discutiendo el papel de la corte persa, del clero y de los británicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para evitar una guerra, el sah envió a San Petersburgo una misión de disculpa, encabezada por su nieto Jusró Mirza. Pidió perdón al zar en nombre de su familia. Llevaba un regalo: un gran diamante, el diamante Sah."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según Vokrug Sveta, el zar Nicolás Primero declaró el incidente olvidado, y Rusia perdonó a Persia la novena parte de la indemnización de guerra y aplazó cinco años la décima. Una solución entre potencias. Lo que se había pagado por ella eran vidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Griboyédov era autor de «La desgracia de tener ingenio», una de las comedias más famosas de la literatura rusa. Era también diplomático, y se le recuerda como ambas cosas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un diplomático, un escritor, una guardia de cosacos y unos diecisiete sitiados en una última habitación. Nadie respondió por ellos ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquel 11 de febrero no cayó solo un embajador. Cayeron también los hombres que lo acompañaban, cuyos nombres casi nadie recuerda. Este archivo los guarda, aunque sea sin nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de la legación rusa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Nadie fue juzgado. Fuentes abiertas: Vokrug Sveta (ruso), Radio Svoboda (ruso, entrevista con L. Arinshtein) y Encyclopædia Iranica (403, no abrió). Fecha: 11 de febrero de 1829 (calendario gregoriano; 30 de enero ruso). Muertos: Vokrug Sveta cita unos 17 sitiados en la última habitación, la ficha habla de unos 54 más Griboyédov y Svoboda de más de 60; el guion dice «decenas». Quién pidió perdón: Vokrug Sveta dice que la misión fue de Josró Mirza, nieto del sah, y no del sah en persona; el guion dice «una misión enviada por el sah» y menciona a su nieto. Pronunciación: la clave «Jusró Mirza» solo se usa si el texto lo dice así. Versiones sobre las causas (oficial, británica, eliminación de Yaqub) se atribuyen a las dos fuentes; ninguna está probada. Se omiten los detalles de la muerte de Griboyédov y el trato a los cadáveres. Que Rusia perdonó una parte de la indemnización (la novena parte, y aplazó la décima) sale de Vokrug Sveta y no se ha verificado en otra fuente."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "asesinato-juan-gerardi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Juan José Gerardi": "Juan José Yerárdi",
+    "Gerardi": "Yerárdi",
+    "Byron Lima Estrada": "Báiron Lima Estráda",
+    "Byron Lima Oliva": "Báiron Lima Olíva",
+    "Quiché": "Quiché"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Dos días después del informe",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Gerardi. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Dos días después del informe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ciudad de Guatemala, 24 de abril de 1998. En un acto público, la Iglesia presenta un informe de cuatro tomos con miles de testimonios sobre la guerra civil. Se titula «Guatemala: Nunca Más». Dice que la mayor parte de las atrocidades las cometió el Ejército. Quien lo presenta es un obispo de setenta y cinco años, Juan José Gerardi."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, en la noche del 26 de abril, el obispo es asesinado en el garaje de la casa parroquial de San Sebastián, donde vivía. Lo encontró otro sacerdote que compartía la casa. Tardó horas en avisar a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un obispo presenta un informe sobre crímenes del Ejército y muere dos días después en su propia casa. Lo apunto sin sacar conclusiones: la conclusión la sacó un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gerardi había sido obispo de Verapaz y de Quiché, dos de las regiones más golpeadas por la guerra. Defendió las lenguas mayas, denunció matanzas y recibió amenazas de muerte. En 1980 le prohibieron volver al país, y vivió exiliado en Costa Rica. Al volver, dirigió el proyecto de Recuperación de la Memoria Histórica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. La investigación empezó mal. En las cintas de la escena del crimen se ve al fiscal examinando objetos sin guantes. Las muestras se enviaron al laboratorio en recipientes sin sellar. Un error así no se corrige después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, se lanzaron hipótesis para desviar la atención. Se habló de un crimen pasional, de un ataque de un perro, de una banda de ladrones de imágenes religiosas. El Gobierno insistió durante meses en que era un delito común."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según la crónica del caso, esas hipótesis desorientaron la investigación. Pero hubo una pista concreta: un taxista vio un vehículo dar vueltas alrededor de la parroquia. Su matrícula llevaba a una base militar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los registros de esa matrícula desaparecieron de los archivos del Estado. El taxista tuvo que salir al exilio. Los fiscales y los jueces del caso recibieron amenazas, y a una de las juezas le explotó una granada en su casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En julio de 1998 fue detenido el sacerdote que había encontrado el cuerpo, Mario Orantes, como cómplice. En 1999 el rumbo de la investigación cambió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio terminó el 8 de junio de 2001. Tras escuchar a más de cien testigos y estudiar pruebas periciales, el tribunal declaró que Gerardi fue víctima de una ejecución extrajudicial. Condenó como autores al coronel retirado Byron Lima Estrada, a su hijo, el capitán Byron Lima Oliva, y al exsargento José Obdulio Villanueva, a treinta años cada uno. Y al sacerdote Orantes, como cómplice, a veinte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que significa. Fue la primera vez en la historia de Guatemala que un tribunal civil condenó a militares. Los dos Lima estaban adscritos al Estado Mayor Presidencial, un órgano de inteligencia militar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después, las penas de los Lima se rebajaron a veinte años en apelación. Villanueva fue asesinado en 2003 durante un motín en la cárcel. Y en 2016, el capitán Lima Oliva murió asesinado en otra prisión, durante una matanza que dejó catorce muertos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro con lo que falta. La sentencia dejó abierto procesar a los mandos que dieron las órdenes. No hay constancia de que se haya abierto un juicio. Hubo ejecutores, y hubo un cómplice. De quién decidió, el tribunal no pudo decir más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El informe «Guatemala: Nunca Más» documentó más de cincuenta y cuatro mil violaciones de derechos humanos durante la guerra. Para Gerardi, el trabajo de la verdad tenía que volver adonde había nacido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una frase suya que recoge BBC Mundo: «Conocer la verdad duele pero es, sin duda, una acción altamente saludable y liberadora»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le recuerda como el obispo que quiso devolver la memoria a un país que había aprendido a callar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Gerardi. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "No se detallan los hechos físicos del crimen (la fuente los describe de forma gráfica). Fuentes abiertas: Wikipedia en español (informe de 4 tomos el 24 de abril, noche del 26, hallazgo por el sacerdote que compartía la casa y demora en avisar, errores del fiscal, hipótesis de desvío, taxista y matrícula de la base militar, amenazas a jueces y fiscales, granada, detención de Orantes el 22 de julio de 1998, fallo del 8 de junio de 2001, asesinato de Villanueva en 2003, muerte de Lima Oliva en 2016) y BBC Mundo (biografía, exilio, cita). Las condenas de 30 años y 20 años y la rebaja de los Lima a 20 en apelación vienen de la ficha (Wikipedia en inglés). Contradicción de fecha: la sentencia se da el 8 de junio de 2001 (BBC, Wikipedia); Amnistía dice «julio de 2001». El guion no nombra al taxista ni a los testigos. La declaración de la viuda del capitán Lima sobre un expresidente municipal (2017) se omite por acusar a una persona fallecida no condenada. El caso sigue abierto en la fiscalía respecto a otros implicados (Wikipedia en español) pero no consta ninguna acusación; hay que valorarlo. No se pudieron abrir la BBC ni el New York Times en la ficha; sí BBC Mundo y InSight Crime."
+}

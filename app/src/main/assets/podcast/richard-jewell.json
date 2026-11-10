@@ -1,0 +1,115 @@
+{
+  "id": "richard-jewell",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Richard Jewell": "Ríchard Yúel",
+    "Jewell": "Yúel",
+    "Atlanta": "Atlanta",
+    "Centennial Olympic Park": "Senténial Olímpic Park",
+    "Alice Hawthorne": "Alis Jáuzorn",
+    "Eric Rudolph": "Érik Rúdolf",
+    "Rudolph": "Rúdolf",
+    "Atlanta Journal-Constitution": "Atlanta Yórnal Constitúshon",
+    "Tom Brokaw": "Tom Brócau",
+    "NBC": "ene be sí",
+    "FBI": "efe be i",
+    "Janet Reno": "Yánet Réno",
+    "Birmingham": "Bírmingjam",
+    "Alabama": "Alabama"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una mochila abandonada",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Richard Jewell y la bomba del parque olímpico de Atlanta. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una mochila abandonada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Atlanta, madrugada del 27 de julio de 1996. Son los Juegos Olímpicos. En el Centennial Olympic Park suena un concierto gratuito, y hay miles de personas bailando. Un vigilante contratado para la seguridad, Richard Jewell, encuentra una mochila abandonada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un vigilante ve una mochila sola y no mira hacia otro lado. Avisa a la policía, sin esperar a que otro lo haga. Entre una multitud, es exactamente lo que se espera de alguien en su puesto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras los agentes se acercaban, Jewell ayudó a alejar al público de la zona. La policía había recibido además un aviso anónimo. Pero la bomba, una bomba de tubo con clavos, estalló antes de la hora que dijo el aviso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió una mujer, Alice Hawthorne, que había ido al concierto con su hija. Un cámara turco falleció de un infarto. Más de cien personas resultaron heridas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo resumo en una frase: su aviso y su ayuda para alejar al público salvaron vidas. Esa es la parte del caso que nunca debió quedar en segundo plano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero tres días después, el periódico Atlanta Journal-Constitution publicó que el FBI consideraba a Jewell un posible sospechoso. La base era un perfil de «atacante solitario»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante semanas lo trataron en público como culpable. El presentador Tom Brokaw llegó a decir en la cadena NBC que el FBI probablemente tenía bastante para detenerlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el error de fondo, y no solo del FBI. Se confundió un perfil con una prueba. Y una filtración con una sentencia. Mientras tanto, no había nada concreto contra él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI registró su casa dos veces, interrogó a sus conocidos y lo mantuvo bajo vigilancia constante. Un informe posterior del Departamento de Justicia concluyó que el FBI usó engaños para intentar que renunciara a sus derechos. Pero no halló violación intencionada de derechos ni conducta delictiva."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de octubre de 1996, la fiscalía federal le comunicó por escrito que no era objetivo de la investigación. En julio de 1997, la fiscal general, Janet Reno, dijo: «Creo que le debemos una disculpa»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una disculpa casi un año después de la bomba. Lo anoto como lo que es: una reparación tardía, que no le devuelve los meses perdidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El verdadero autor era Eric Rudolph, un extremista que se escondió cinco años en las montañas de Carolina del Norte. Lo capturaron el 31 de mayo de 2003."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril de 2005 se declaró culpable de cuatro atentados, el del parque, dos más en Atlanta y su zona, y uno en Birmingham, Alabama, donde murió un policía. Cumple varias cadenas perpetuas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Jewell nunca fue acusado, y su nombre quedó limpio por escrito. Pero eso no borra el daño: durante meses lo señalaron en público como el hombre que había puesto la bomba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jewell demandó a varios medios. NBC pagó quinientos mil dólares, aunque defendió su cobertura; CNN y otros llegaron a acuerdos. El único que no pagó, el periódico de Atlanta, ganó en 2011 en el tribunal de apelaciones de Georgia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2006, el gobernador de Georgia le rindió homenaje por sus actos aquella noche. Dijo que merecía ser recordado como un héroe. Jewell trabajó como ayudante del sheriff del condado de Meriwether, en Georgia, hasta el final de su vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Murió en 2007, con cuarenta y cuatro años, por una enfermedad del corazón. Su vida pública fue una sola noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alice Hawthorne, el cámara turco y los más de cien heridos son el centro de este expediente. Y también un vigilante que hizo bien su trabajo, y a quien la prensa trató como culpable sin pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Richard Jewell y la bomba del parque olímpico de Atlanta. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado: Rudolph condenado (2005); Jewell inocente, nunca acusado. Fuentes abiertas: Departamento de Justicia (2005), History.com y Wikipedia (inglés). Britannica no se pudo extraer. Discrepancias: fecha de la carta de exculpación: 26 de octubre de 1996 (Wikipedia; Britannica habla de la rueda de prensa del 28, no usado); el guion pone el 26. Heridos: «más de cien». Atentados de Rudolph: el DOJ habla de cuatro (Centennial, Sandy Springs, Otherside Lounge y Birmingham); History.com habla de tres bombas y el asesinato del policía: el guion dice cuatro atentados, de los que dos en la zona de Atlanta. El aviso anónimo y que la bomba estalló antes de lo anunciado: History.com. Hora de la bomba no se da. Víctima citada: Alice Hawthorne (adulta, nombre del DOJ); el cámara turco no se nombra; su hija no se nombra. Citas: Reno («Creo que le debemos una disculpa», Wikipedia, 1997), Brokaw (Wikipedia). Demandas: NBC 500.000 dólares (Wikipedia), el AJC ganó en 2011. Jewell murió el 29 de agosto de 2007 a los 44 años (Wikipedia); no se dan más detalles de su muerte."
+}
