@@ -36,7 +36,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Es una llamada de trámite. No hay pánico. Pero ella sabía que la citaban en un lugar que no era neutral. Cuatro días antes, había oído hablar de un plan para llevársela."
+          "texto": "Primera nota. Es una llamada de trámite. No hay pánico. Pero ella sabía que la citaban en un lugar que no era neutral. Cuatro días antes, dos hombres del club habían ido a su casa."
         },
         {
           "voz": "ximena",
@@ -56,15 +56,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 30 de junio, dos empleados del club Carousel se presentaron en su casa haciéndose pasar por anunciantes. Lo que buscaban, según se supo después, era llevársela. Su socio abrió la puerta, y ella, desde dentro, escuchó la visita."
+          "texto": "El 30 de junio, dos empleados del club Carousel se presentaron en su casa haciéndose pasar por anunciantes. Según se supo después, lo que buscaban era llevársela. Su socio abrió la puerta."
         },
         {
           "voz": "ximena",
-          "texto": "A pesar del aviso, cuatro días después acudió a la cita en el club. Según la investigación, la cita para hablar de publicidad era un pretexto para retenerla."
+          "texto": "Cuatro días después acudió a la cita en el club. Según la investigación judicial, la cita para hablar de publicidad era un pretexto."
         },
         {
           "voz": "ximena",
-          "texto": "Su pareja de entonces contó que había recibido llamadas amenazantes. Farrell denunció su desaparición el 5 de julio. El 7, un bolso suyo apareció al borde de una carretera cerca de Penrith."
+          "texto": "Farrell denunció su desaparición el 5 de julio. El 7, un bolso suyo apareció al borde de una carretera cerca de Penrith."
         },
         {
           "voz": "alvaro",
@@ -72,11 +72,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los testigos no coincidieron. Una empleada del club dijo primero que Juanita había salido sola. Más adelante cambió su versión. Un agente inmobiliario dijo haberla visto subir a un coche con dos hombres."
+          "texto": "Los testigos no coincidieron. Una empleada del club dijo primero que Juanita había salido sola. Más adelante cambió su versión. Ninguna versión llegó a aclarar su paradero."
         },
         {
           "voz": "ximena",
-          "texto": "En 1977 hubo acusaciones por conspirar para secuestrarla. Uno de los acusados admitió que la historia del anuncio era una excusa. Dos empleados del club acabaron condenados, uno en 1981 y otro en 1983."
+          "texto": "En 1977 hubo acusaciones por conspirar para secuestrarla. Dos empleados del club acabaron condenados, uno en 1981 y otro en 1983."
         },
         {
           "voz": "alvaro",
@@ -88,7 +88,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su cuerpo nunca apareció. En 1994, una comisión parlamentaria criticó que el organismo contra el crimen hubiera protegido como informador a un hombre que, además, era sospechoso. Nadie fue acusado de su muerte."
+          "texto": "Su cuerpo nunca apareció. En 1994, una comisión parlamentaria criticó la actuación del organismo contra el crimen en el caso. Nadie fue acusado de su muerte."
         },
         {
           "voz": "alvaro",
@@ -96,15 +96,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 2021, la policía de Nueva Gales del Sur duplicó la recompensa: un millón de dólares australianos por información sobre su desaparición o sobre el lugar donde descansan sus restos."
+          "texto": "En 2021, la policía de Nueva Gales del Sur ofrece una recompensa: un millón de dólares australianos por información sobre su desaparición o sobre el lugar donde descansan sus restos."
         },
         {
           "voz": "ximena",
-          "texto": "Su primo, Francis Foy, pidió ayuda en público. Dijo que la familia la quería y la echa de menos, y que desea poder darle un entierro digno."
+          "texto": "Su familia ha pedido ayuda en público: quiere poder darle un entierro digno."
         },
         {
           "voz": "ximena",
-          "texto": "En el cementerio de South Head, en Vaucluse, una cruz blanca la recuerda. En Woolloomooloo, un centro comunitario lleva su nombre."
+          "texto": "Un centro comunitario del barrio de Woolloomooloo lleva su nombre."
         },
         {
           "voz": "alvaro",
@@ -117,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y The Guardian (21/6/2021, leída por curl). La página de la policía de Nueva Gales del Sur está tras un muro anti-bots y el SMH no se pudo leer. Por tanto el detalle sale sobre todo de Wikipedia y se ha dejado lo que The Guardian confirma. Se ha dejado fuera, por no estar acreditado: los nombres de los dos condenados, la pena de cada uno, los giros testimoniales de una empleada del club (cambió su versión en 2000 y 2004) y la información atribuida al fallecido Trigg. No se nombra a ninguna persona como autora; solo se dice que dos empleados del club fueron condenados por conspirar. La ficha dice «dos empleados del club»; Wikipedia añade que hubo una absolución en 1980 de un tercer acusado (no se menciona). El 7 de julio del bolso y la identificación de la hora de la llamada (10:30) salen de Wikipedia."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y The Guardian (21/6/2021, leída por curl). La página de la policía de Nueva Gales del Sur está tras un muro anti-bots y el SMH no se pudo leer. Por tanto el detalle sale sobre todo de Wikipedia y se ha dejado lo que The Guardian confirma. Se ha dejado fuera, por no estar acreditado: los nombres de los dos condenados, la pena de cada uno, los giros testimoniales de una empleada del club (cambió su versión en 2000 y 2004) y la información atribuida al fallecido Trigg. No se nombra a ninguna persona como autora; solo se dice que dos empleados del club fueron condenados por conspirar. La ficha dice «dos empleados del club»; Wikipedia añade que hubo una absolución en 1980 de un tercer acusado (no se menciona). El 7 de julio del bolso y la identificación de la hora de la llamada (10:30) salen de Wikipedia. VERIFICACIÓN nuevos-julio: ficha débil; quitado lo que solo constaba en Wikipedia sin atribución: la declaración de uno de los acusados, el testigo inmobiliario, las llamadas a su pareja, la crítica a un informante sospechoso (1994), el nombre del primo, la cruz de South Head, y «duplicó» la recompensa (la ficha dice solo que la ofrece desde 2021). La hora de la llamada (10:30) y el bolso del día 7 siguen solo en Wikipedia. Nadie señalado."
 }

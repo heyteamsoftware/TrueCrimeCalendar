@@ -25,11 +25,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dentro está el Códice Calixtino. Un libro del siglo doce, una especie de guía del Camino de Santiago. Había desaparecido de la catedral hacía exactamente un año."
+          "texto": "Dentro está el Códice Calixtino. Un libro del siglo doce, una especie de guía del Camino de Santiago. Había desaparecido de la catedral hacía casi un año."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Fíjate en el contraste. Es el manuscrito más famoso del Camino, y estaba entre ladrillos. Los policías buscaban billetes cuando lo encontraron. Casi por casualidad. Casi."
+          "texto": "Primera nota. Fíjate en el contraste. Es el manuscrito más famoso del Camino, y estaba entre ladrillos. Los policías buscaban billetes cuando lo encontraron."
         },
         {
           "voz": "ximena",
@@ -61,7 +61,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esto me parece lo más inteligente de la investigación. Dejaron de buscar el libro y siguieron el dinero. Y en ese camino, el hijo del detenido habló de un garaje, a doscientos metros de la casa."
+          "texto": "Esto me parece lo más inteligente de la investigación. Dejaron de buscar el libro y siguieron el dinero. Y en ese camino, uno de los detenidos acabó revelando dónde estaba el libro: un garaje."
         },
         {
           "voz": "ximena",
@@ -73,7 +73,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Quiero subrayar esto: no solo se llevó el libro. Durante años se había llevado dinero de las colectas. La sentencia le obligó a indemnizar a la catedral con casi dos millones de euros. El códice fue lo que lo delató."
+          "texto": "Quiero subrayar esto: no solo se llevó el libro. Durante años se había llevado dinero de las colectas. El códice fue lo que lo delató."
         },
         {
           "voz": "ximena",
@@ -93,7 +93,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 2017 la Unesco incluyó el manuscrito en su Registro de la Memoria del Mundo. Y su historia sirvió para revisar cómo se protege el patrimonio."
+          "texto": "En 2017 la Unesco incluyó el manuscrito en su Registro Internacional de la Memoria del Mundo. Y su historia sirvió para revisar cómo se protege el patrimonio."
         },
         {
           "voz": "alvaro",
@@ -106,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Poder Judicial (sentencia de 2015, nota de prensa), El País (4/7/2012) e Infobae (5/7/2026). Discrepancias: cómo estaba envuelto el códice (bolsas de basura y cartones según El País; periódicos según Infobae; la ficha dice «bolsas»): el guion dice «bolsas de basura y cartones», lo de El País, que es el testimonio de la fecha. La pena final tras el Supremo (nueve años según el TSJ de Galicia; ocho años y dos meses según Infobae): el guion no da cifra. El móvil (venganza por su salida de la catedral) lo atribuye El País a la policía como sospecha e Infobae lo da por hecho: el guion dice «según la policía». La muerte de Castiñeiras en 2024 y su excarcelación en 2019 salen de una sola fuente (Infobae) y no se recogen. Se deja fuera el nombre del deán. En el registro se hallaron más de un millón de euros (1,2 millones según El País)."
+  "nota_revision": "Fuentes abiertas: Poder Judicial (sentencia de 2015, nota de prensa), El País (4/7/2012) e Infobae (5/7/2026). Discrepancias: cómo estaba envuelto el códice (bolsas de basura y cartones según El País; periódicos según Infobae; la ficha dice «bolsas»): el guion dice «bolsas de basura y cartones», lo de El País, que es el testimonio de la fecha. La pena final tras el Supremo (nueve años según el TSJ de Galicia; ocho años y dos meses según Infobae): el guion no da cifra. El móvil (venganza por su salida de la catedral) lo atribuye El País a la policía como sospecha e Infobae lo da por hecho: el guion dice «según la policía». La muerte de Castiñeiras en 2024 y su excarcelación en 2019 salen de una sola fuente (Infobae) y no se recogen. Se deja fuera el nombre del deán. En el registro se hallaron más de un millón de euros (1,2 millones según El País). VERIFICACIÓN nuevos-julio: segunda fuente en.wikipedia (Codex Calixtinus): robo el 3/7/2011 (echado en falta el 5), hallazgo el 4/7/2012, un familiar detenido reveló el garaje (no consta que fuera el hijo: corregido), 10 años en febrero de 2015, Unesco 2017. Quitados «a doscientos metros» e «indemnizar casi dos millones» (sin fuente)."
 }

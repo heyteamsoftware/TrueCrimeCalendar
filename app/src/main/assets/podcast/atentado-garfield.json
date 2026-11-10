@@ -65,7 +65,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y aquí viene la segunda parte del expediente, la más incómoda. Los médicos no lograban encontrar la bala. Exploraron la herida con las manos y con instrumentos que no estaban esterilizados."
+          "texto": "Y aquí viene la segunda parte del expediente, la más incómoda. Los médicos no lograban encontrar la bala. Exploraron la herida con instrumentos y con las manos sin esterilizar, como se hacía entonces."
         },
         {
           "voz": "ximena",
@@ -77,7 +77,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Semanas después lo trasladaron a la costa de Nueva Jersey, a Elberon, para que se recuperara junto al mar, con su familia. Murió allí el 19 de septiembre, después de ochenta días, por una infección generalizada."
+          "texto": "Semanas después lo trasladaron a la costa de Nueva Jersey, a Elberon, para que se recuperara junto al mar, con su familia. Murió allí el 19 de septiembre, después de ochenta días, a causa de las complicaciones tras el disparo."
         },
         {
           "voz": "ximena",
@@ -114,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: History.com y Wikipedia en inglés (Britannica y Smithsonian dan 403). No se pudo abrir el libro de Alexander (1882). No hay contradicciones con la ficha. Se deja fuera la discusión sobre cuánto contribuyó el tratamiento médico a la muerte (Wikipedia: la mayoría de historiadores creen que mejores cuidados lo habrían salvado; el guion lo dice con prudencia). Se deja fuera la cita de Guiteau al ser detenido y su cordura (el guion solo dice que la defensa alegó locura). Caso cerrado, con condena y ejecución."
+  "nota_revision": "Fuentes abiertas: History.com y Wikipedia en inglés (Britannica y Smithsonian dan 403). No se pudo abrir el libro de Alexander (1882). No hay contradicciones con la ficha. Se deja fuera la discusión sobre cuánto contribuyó el tratamiento médico a la muerte (Wikipedia: la mayoría de historiadores creen que mejores cuidados lo habrían salvado; el guion lo dice con prudencia). Se deja fuera la cita de Guiteau al ser detenido y su cordura (el guion solo dice que la defensa alegó locura). Caso cerrado, con condena y ejecución. VERIFICACIÓN nuevos-julio: fechas y hechos coherentes con la ficha, la ley Pendleton (1883) y la enmienda 25 (1967). Suavizada la causa de muerte (sin diagnóstico). Sin citas de Guiteau."
 }

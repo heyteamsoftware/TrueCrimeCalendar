@@ -263,3 +263,7 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 - **bellfield:** el campo `c` nombra a la menor (Milly Dowler); quitar el nombre.
 - **black:** se declaró culpable en el Tribunal Superior de Edimburgo (10 de agosto de 1990), no en Selkirk.
 - **bianchi:** admitió cinco asesinatos y Buono fue condenado por nueve; no «diez los primos».
+
+- **escalero:** el periodo empieza en agosto de 1986 (El País), no en 1987.
+- **magnotta:** el traslado a La Macaza fue en 2022 y se conoció en 2024.
+- **berkowitz:** la última denegación de libertad condicional comprobada es de mayo de 2024.

@@ -55,7 +55,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Murieron al menos ciento sesenta y siete personas. Más de seiscientas personas resultaron heridas. Dos tercios de las víctimas eran niños. Las cifras exactas nunca se fijaron. Una fotografía del payaso Emmett Kelly con un cubo de agua dio la vuelta a los periódicos, y el día quedó en la memoria como el día en que los payasos lloraron."
+          "texto": "Murieron al menos ciento sesenta y siete personas. Más de setecientas personas resultaron heridas, y muchas de las víctimas eran niños. Las cifras exactas nunca se fijaron. Una fotografía del payaso Emmett Kelly con un cubo de agua dio la vuelta a los periódicos, y el día quedó en la memoria como el día en que los payasos lloraron."
         },
         {
           "voz": "ximena",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pero la investigación sí encontró fallos de organización. Los extintores del circo estaban enterrados en un almacén. Los camiones de bomberos del circo estaban a más de cuatrocientos metros. Y no habían avisado al cuerpo de bomberos de Hartford de que iban a actuar."
+          "texto": "Pero la investigación sí encontró fallos de organización. Los medios para apagar el fuego eran muy escasos para una carpa así. Y nadie había previsto cómo evacuar a miles de personas."
         },
         {
           "voz": "ximena",
@@ -83,7 +83,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1950, seis años después, la policía de Ohio detuvo a Robert Segee por unos incendios. Había trabajado en el circo de joven, y en un interrogatorio dijo que había provocado el de Hartford."
+          "texto": "En 1950, seis años después, la policía de Ohio detuvo a Robert Segee por otros incendios. Había trabajado en el circo de adolescente, y en un interrogatorio dijo que había provocado el de Hartford."
         },
         {
           "voz": "ximena",
@@ -108,5 +108,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: ConnecticutHistory.org, History.com y Wikipedia en inglés (la guía de la Connecticut State Library y el libro de Cohn y Bollier no se consultaron). Cifras: el guion dice «al menos 167» muertos y «más de seiscientos» heridos sin entrar en la diferencia (167/168/169; 682 según History.com, más de 700 según Wikipedia). Asistencia: ConnecticutHistory.org dice entre seis y ocho mil; Wikipedia, unas 7.000; el guion dice «unas siete mil». Condenas de los cuatro responsables: History.com habla de «homicidio involuntario», ConnecticutHistory.org de negligencia y que se declararon «no contest», cumplieron cerca de un año y fueron indultados; el guion dice «negligencia». De Segee: History.com dice que fue condenado en Ohio a dos penas de 22 años (por otros incendios); ConnecticutHistory.org dice que se le internó en un hospital psiquiátrico; el guion solo dice que confesó, se retractó y no fue juzgado por Hartford (la ficha). Se deja fuera el relato de su salud mental. La niña no identificada («Little Miss 1565»): se menciona sin entrar en las teorías sobre su identidad ni dar nombres."
+  "nota_revision": "Fuentes abiertas: ConnecticutHistory.org, History.com y Wikipedia en inglés (la guía de la Connecticut State Library y el libro de Cohn y Bollier no se consultaron). Cifras: el guion dice «al menos 167» muertos y «más de seiscientos» heridos sin entrar en la diferencia (167/168/169; 682 según History.com, más de 700 según Wikipedia). Asistencia: ConnecticutHistory.org dice entre seis y ocho mil; Wikipedia, unas 7.000; el guion dice «unas siete mil». Condenas de los cuatro responsables: History.com habla de «homicidio involuntario», ConnecticutHistory.org de negligencia y que se declararon «no contest», cumplieron cerca de un año y fueron indultados; el guion dice «negligencia». De Segee: History.com dice que fue condenado en Ohio a dos penas de 22 años (por otros incendios); ConnecticutHistory.org dice que se le internó en un hospital psiquiátrico; el guion solo dice que confesó, se retractó y no fue juzgado por Hartford (la ficha). Se deja fuera el relato de su salud mental. La niña no identificada («Little Miss 1565»): se menciona sin entrar en las teorías sobre su identidad ni dar nombres. VERIFICACIÓN nuevos-julio: en.wikipedia: Segee confesó en 1950, se retractó, nunca fue juzgado por Hartford y fue condenado en Ohio por otros incendios; heridos «más de 700»; la niña 1565 fue identificada en 1991 como Eleanor Cook, identificación discutida (el guion dice «se discute», sin nombre). Quitados extintores enterrados, camiones a 400 m, falta de aviso a bomberos y «dos tercios niños» (no confirmados)."
 }

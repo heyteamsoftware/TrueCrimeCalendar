@@ -54,7 +54,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí está la ironía. Los secuestradores creían que los Ross eran ricos. Pero la familia estaba endeudada tras la crisis de 1873. Veinte mil dólares era una cifra imposible."
+          "texto": "Aquí está la ironía. Es probable que los secuestradores creyeran que los Ross eran ricos. Pero la familia atravesaba apuros tras la crisis de 1873. Veinte mil dólares era una cifra imposible."
         },
         {
           "voz": "ximena",
@@ -74,7 +74,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía ya buscaba a Mosher por la letra de otra carta de rescate. Y Walter, al verlos, los reconoció como los hombres del carruaje."
+          "texto": "Walter, al ver los cuerpos, los reconoció como los hombres del carruaje. De Mosher recordaba un rasgo muy concreto de la cara."
         },
         {
           "voz": "alvaro",
@@ -86,7 +86,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1875 se juzgó a William Westervelt, un antiguo policía de Filadelfia, cuñado de Mosher. Las pruebas contra él eran escasas, y Walter dijo que no era uno de los hombres del carruaje. Fue absuelto del secuestro. Lo condenaron solo por conspiración. Siempre defendió su inocencia."
+          "texto": "En 1875 se juzgó a William Westervelt, un antiguo policía de Filadelfia, cuñado de Mosher. Las pruebas contra él eran escasas, y Walter dijo que no era uno de los hombres del carruaje. Fue absuelto del secuestro. Lo condenaron solo por conspiración, a seis años de cárcel. Siempre defendió su inocencia."
         },
         {
           "voz": "alvaro",
@@ -94,11 +94,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Christian Ross dedicó el resto de su vida a buscarlo. Publicó un libro en 1876 para financiar la búsqueda. Dio conferencias. Gastó unos sesenta mil dólares."
+          "texto": "Christian Ross dedicó el resto de su vida a buscarlo. Publicó un libro en 1876 para financiar la búsqueda. Dio conferencias. Gastó unos sesenta mil dólares, según se cuenta."
         },
         {
           "voz": "ximena",
-          "texto": "Durante años, él y su esposa recibieron a más de quinientas personas que decían ser Charley. Todas eran impostores. Décadas después, en 1934, un hombre aún reclamó ser Charley; en 2011, un análisis genético lo desmintió."
+          "texto": "Durante años, la familia recibió a más de quinientos setenta chicos y hombres que decían ser Charley. Todos eran impostores. En 1934, un carpintero de Arizona aún reclamó ser Charley; en 2011, un análisis genético lo desmintió."
         },
         {
           "voz": "alvaro",
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: ushistory.org (Historic Germantown) y Wikipedia en inglés (Smithsonian bloqueada con 403; PSU sin respuesta). Discrepancias: la edad de Walter (cinco según la ficha y Wikipedia, seis según ushistory.org): no se da en el guion. La fecha del tiroteo de Bay Ridge (13 o 14 de diciembre): el guion dice solo «en diciembre». Lo que dijo Douglas antes de morir: Wikipedia dice que los testimonios se contradicen y que no dio pistas claras del paradero del niño; el guion lo atribuye con prudencia. No se da la pena de Westervelt (solo la recoge Wikipedia). Sin resolver: se dice que Mosher y Douglas fueron los señalados, nunca juzgados."
+  "nota_revision": "Fuentes abiertas: ushistory.org (Historic Germantown) y Wikipedia en inglés (Smithsonian bloqueada con 403; PSU sin respuesta). Discrepancias: la edad de Walter (cinco según la ficha y Wikipedia, seis según ushistory.org): no se da en el guion. La fecha del tiroteo de Bay Ridge (13 o 14 de diciembre): el guion dice solo «en diciembre». Lo que dijo Douglas antes de morir: Wikipedia dice que los testimonios se contradicen y que no dio pistas claras del paradero del niño; el guion lo atribuye con prudencia. No se da la pena de Westervelt (solo la recoge Wikipedia). Sin resolver: se dice que Mosher y Douglas fueron los señalados, nunca juzgados. VERIFICACIÓN nuevos-julio: segunda fuente en.wikipedia (Kidnapping of Charley Ross). Quitado «la policía buscaba a Mosher por la letra de otra carta» (sin fuente; fue Walter quien los identificó); «endeudada» pasa a «apuros». Confirmados: más de 570 reclamantes, Gustave Blair 1934 (Arizona), ADN 2011, 60.000 dólares, Westervelt 6 años por conspiración, muertes de padre (1897) y madre (1912), Charley Project."
 }
