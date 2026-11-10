@@ -166,10 +166,15 @@ const ICO = {
 
 /* ---------- Estado de la vista ---------- */
 let filter="all", query="";
+/* ---------- Favoritos: localStorage «tcc_favs» = [id, …] (el más reciente, al final) ---------- */
+const FAVS=new Set();
+try{ const f=JSON.parse(localStorage.getItem("tcc_favs")||"[]"); if(Array.isArray(f)) f.forEach(id=>{ if(typeof id==="string") FAVS.add(id); }); }catch(_){}
+function favWrite(){ try{ localStorage.setItem("tcc_favs",JSON.stringify([...FAVS])); }catch(_){} }
 let today=new Date(); today.setHours(0,0,0,0);
 let vy=today.getFullYear(), vm=today.getMonth()+1, selDay=null;
 function matches(e){
   if(query && !e.hay.includes(query)) return false;
+  if(filter==="fav") return FAVS.has(e.id);
   if(filter==="links") return e.links.length>0;
   if(filter==="estrella") return e.e;
   if(filter!=="all") return e.g.includes(filter);
@@ -179,7 +184,7 @@ function matches(e){
 /* ---------- Grupos (pestañas de cartulina): solo se ven con la búsqueda abierta ---------- */
 const MIXED = D.some(e=>!e.e);                     // hay casos estrella y casos del archivo
 const usedG = new Set(D.flatMap(e=>e.g));
-$("filters").innerHTML=[["all","Todos"],...(MIXED?[["estrella","Casos estrella"]]:[]),["links","Con vínculos"],
+$("filters").innerHTML=[["all","Todos"],["fav","Favoritos"],...(MIXED?[["estrella","Casos estrella"]]:[]),["links","Con vínculos"],
     ...Object.keys(GROUPS).filter(g=>usedG.has(g)).map(g=>[g,GROUPS[g]]), ...[...usedG].filter(g=>!GROUPS[g]).map(g=>[g,grpName(g)])]
   .map(([k,l])=>`<button class="tag" data-f="${esc(k)}" aria-pressed="${k==="all"}">${esc(l)}</button>`).join("");
 if(!MIXED){ const lp=$("lgPencil"); if(lp) lp.hidden=true; }
@@ -280,7 +285,7 @@ function card(e,y){
   const r=jitter(e.id,.9).toFixed(2), dx=jitter(e.id+"x",4).toFixed(1);
   const star = MIXED && e.e;
   return `<button class="card${star?" star":""}" data-id="${e.id}" style="--r:${r}deg;--dx:${dx}px">${e.links.length?CLIP:""}
-    <span class="ref">Nº ${expNo(e)}</span>${star?`<span class="cstar ink" aria-hidden="true">${STAR_MINI}</span>`:""}
+    <span class="ref">Nº ${expNo(e)}</span>${FAVS.has(e.id)?`<span class="cfav" aria-hidden="true"></span><span class="sr">En favoritos. </span>`:""}${star?`<span class="cstar ink" aria-hidden="true">${STAR_MINI}</span>`:""}
     <div class="dbox ink"><b>${pad(dayIn(e,yr))}</b><span>${MES3[e.m-1]}</span></div>
     <div class="bd">${star?`<span class="sr">Caso estrella. </span>`:""}<div class="nm">${esc(e.title)}</div>${e.sub?`<div class="al">${esc(e.sub)}</div>`:""}
     <div class="meta">${e.v?`<span>Víctimas: <b>${esc(e.v)}</b></span>`:""}${e.p?`<span>${esc(e.p)}</span>`:""}${lk}</div>
@@ -316,11 +321,14 @@ $("showMonth").onclick=()=>{ selDay=null; renderCal(0); };
 
 /* ---------- Búsqueda ---------- */
 function renderRes(){
-  const list=D.filter(matches);
+  let list=D.filter(matches);
+  const soloFav = filter==="fav" && !query;
+  if(soloFav){ const orden=[...FAVS]; list=list.slice().sort((a,b)=>orden.indexOf(b.id)-orden.indexOf(a.id)); }   // los últimos guardados, primero
+  $("resTitle").textContent = soloFav ? "Mis favoritos" : "Resultados de la búsqueda";
   $("resCount").textContent=`(${list.length})`;
   let h="", lastM=0;
-  list.forEach(e=>{ if(e.m!==lastM){ h+=`<div class="month-sep">${MESES[e.m-1]}</div>`; lastM=e.m; } h+=card(e,today.getFullYear()); });
-  $("resCards").innerHTML = h || `<div class="empty">No hay expedientes que coincidan.</div>`;
+  list.forEach(e=>{ if(!soloFav && e.m!==lastM){ h+=`<div class="month-sep">${MESES[e.m-1]}</div>`; lastM=e.m; } h+=card(e,today.getFullYear()); });
+  $("resCards").innerHTML = h || `<div class="empty">${soloFav?"Aún no has guardado ningún caso. Abre un expediente y toca el marcapáginas de arriba para tenerlo aquí.":"No hay expedientes que coincidan."}</div>`;
 }
 $("page").addEventListener("click",ev=>{ const b=ev.target.closest(".card"); if(b) openP(b.dataset.id); });
 function renderAll(){
@@ -329,6 +337,7 @@ function renderAll(){
   if(!document.body.classList.contains("v-map")) document.body.classList.toggle("v-res",searching);
   renderCal(0); if(searching) renderRes();
   if(world) drawWorld();
+  $("tFav").setAttribute("aria-pressed", filter==="fav" && !$("searchWrap").hidden);
 }
 let qt;
 $("q").addEventListener("input",ev=>{
@@ -339,6 +348,26 @@ $("q").addEventListener("keydown",ev=>{ if(ev.key==="Enter") ev.target.blur(); }
 function clearSearch(focus){ $("q").value=""; $("searchWrap").classList.remove("has"); if(query){ query=""; renderAll(); } if(focus) $("q").focus(); }
 $("clr").onclick=()=>clearSearch(true);
 function setFilter(f){ filter=f; [...$("filters").children].forEach(c=>c.setAttribute("aria-pressed",c.dataset.f===f)); }
+/* Favoritos: abre la búsqueda con el grupo «Favoritos» elegido; otra pulsación lo cierra */
+$("tFav").onclick=()=>{
+  const w=$("searchWrap");
+  if(!w.hidden && filter==="fav"){ $("tSearch").onclick(); return; }
+  if(document.body.classList.contains("v-map")) showView("cal");
+  w.hidden=false; $("filters").hidden=false; $("tSearch").setAttribute("aria-expanded","true");
+  setFilter("fav"); renderAll();
+  window.scrollTo({top:0,behavior:"smooth"});
+};
+function favSync(){
+  const on=!!current && FAVS.has(current.id), b=$("pFav");
+  b.setAttribute("aria-pressed",on);
+  b.setAttribute("aria-label", on?"Quitar de favoritos":"Guardar en favoritos");
+}
+$("pFav").onclick=()=>{
+  if(!current) return;
+  if(FAVS.has(current.id)) FAVS.delete(current.id); else FAVS.add(current.id);
+  favWrite(); favSync(); SFX.play("page");
+  renderAll();
+};
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
   w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
@@ -1660,6 +1689,7 @@ function openP(id,fromHistory){
   dropObservers(); deckIO=null;
   if(pmap){ pmap.remove(); pmap=null; }
   $("pExp").textContent="Nº "+expNo(e)+" · "+e.title.toUpperCase(); $("pExp").title="Expediente Nº "+expNo(e);
+  favSync();
   const [stTxt,stCls]=estado(e);
   const direct=e.links, grp=e.g.map(g=>({g,others:D.filter(o=>o!==e&&o.g.includes(g))})).filter(x=>x.others.length);
   let lh="";

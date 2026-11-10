@@ -241,3 +241,10 @@ Los audios v3 se guardan con la voz limpia (así se comprimen a 12 kbps sin sona
 - El efecto solo se aplica a las cintas v3. No se aplica a los episodios v2 (ya lo llevan grabado) ni a los sonidos de la grabadora.
 - Se acepta una imprecisión de unos 250 ms en el paso de un elemento a otro.
 - Siseo, cortes y chasquidos son aleatorios en el móvil: no hace falta que coincidan con las muestras.
+
+## 9. Favoritos
+
+- El usuario puede guardar cualquier caso como favorito con el marcapáginas de la cabecera del expediente (`#pFav`).
+- Se guardan en el móvil, en `localStorage`, con la clave `tcc_favs`: una lista de ids, con el último guardado al final. No pasan por Android.
+- La sección «Mis favoritos» se abre con el marcapáginas de la barra superior (`#tFav`) o con el grupo «Favoritos» de la búsqueda. Muestra primero los últimos guardados.
+- Las fichas de los casos guardados llevan un marcapáginas rojo.

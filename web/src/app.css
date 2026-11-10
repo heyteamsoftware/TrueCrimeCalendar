@@ -671,4 +671,11 @@ body.has-mini{--mini-h:64px}
   .cover{display:none}
   .reel svg,.mreel{animation:none!important}
 }
+/* ---------- Favoritos: marcapáginas ---------- */
+.ib[aria-pressed=true] svg,.tool#tFav[aria-pressed=true] svg{fill:currentColor}
+#pFav[aria-pressed=true]{color:#e9b44c}
+.card .cfav{position:absolute;right:14px;top:-3px;width:15px;height:26px;background:var(--red);opacity:.85;
+  clip-path:polygon(0 0,100% 0,100% 100%,50% 76%,0 100%);pointer-events:none}
+.card:has(.cfav) .ref{right:36px}
+.tools .tool{width:40px}
 </style>
