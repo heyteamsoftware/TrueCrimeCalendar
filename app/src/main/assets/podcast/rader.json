@@ -1,6 +1,6 @@
 {
   "id": "rader",
-  "titulo": "El disquete que habló",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Dennis Rader": "Dénis Réider",
@@ -10,32 +10,74 @@
     "Park City": "Park Síti",
     "BTK": "be te ka",
     "Ken Landwehr": "Ken Lándguer",
-    "scouts": "escáuts"
+    "Landwehr": "Lándguer",
+    "scouts": "escáuts",
+    "Joseph": "Yósef",
+    "Julie": "Yúli",
+    "Josephine": "Yósefin",
+    "Kathryn Bright": "Cázrin Bráit",
+    "Kevin": "Kévin",
+    "Shirley Vian": "Shírli Váian",
+    "Nancy Fox": "Nánsi Fox",
+    "Marine Hedge": "Marín Jech",
+    "Vicki Wegerle": "Víqui Uégerli",
+    "Dolores Davis": "Dolores Déivis",
+    "Richard LaMunyon": "Ríchard Lamúnion",
+    "Gregory Waller": "Grégori Uóler"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Febrero de 2005. A una televisión local de Wichita, en Kansas, llega un sobre acolchado. Dentro hay un disquete de ordenador. El remitente es un hombre que lleva más de treinta años burlándose de la policía. Y esta vez, sin saberlo, acaba de firmar su propia detención." },
-    { "voz": "alvaro", "texto": "¿Un disquete? ¿Después de tres décadas, todo se decide por un disquete?" },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dennis Rader, conocido como BTK, unas siglas que él mismo eligió para describir sus crímenes y que no vamos a desarrollar aquí." },
-    { "voz": "ximena", "texto": "Dennis Rader nació el 9 de marzo de 1945 y creció en Wichita. Sirvió en la Fuerza Aérea, se casó, tuvo dos hijos y se instaló en Park City, una pequeña localidad cercana. Trabajó instalando sistemas de alarma y, más tarde, como inspector municipal." },
-    { "voz": "ximena", "texto": "Era también presidente del consejo de su iglesia luterana y monitor de los scouts. Para sus vecinos, un hombre gris, metódico y algo estricto con las normas. Nadie sospechaba nada." },
-    { "voz": "ximena", "texto": "Su primer crimen conocido fue en enero de 1974: asesinó a cuatro miembros de la familia Otero en su casa de Wichita. Después vinieron otras víctimas. En total, entre 1974 y 1991, mató a diez personas." },
-    { "voz": "alvaro", "texto": "Y entre crimen y crimen, ¿qué hacía? Porque lo extraño de este caso es que hablaba." },
-    { "voz": "ximena", "texto": "Exacto. En octubre de 1974 dejó una carta escondida en un libro de la biblioteca pública de Wichita. Después escribió a periódicos y televisiones. Se atribuía los crímenes, daba detalles que solo el autor podía conocer y exigía atención. Hasta propuso su propio apodo." },
-    { "voz": "ximena", "texto": "Luego llegó el silencio. A finales de los setenta dejó de escribir. Siguió matando hasta 1991, pero nadie relacionó aquellas muertes con él. Muchos pensaron que había muerto o que estaba en prisión por otra causa. El caso se convirtió en una leyenda local sin resolver." },
-    { "voz": "alvaro", "texto": "¿Y qué le hizo volver a escribir después de tantos años?" },
-    { "voz": "ximena", "texto": "En 2004, al cumplirse treinta años del primer crimen, un periódico de Wichita publicó un reportaje sobre el caso. Poco después llegó una carta con documentos de un asesinato de 1986 que nadie había relacionado con él. BTK estaba de vuelta." },
-    { "voz": "ximena", "texto": "Durante casi un año envió mensajes, paquetes y acertijos. La policía, con el teniente Ken Landwehr al frente de la investigación, decidió seguirle el juego. Cuanto más hablara, más posibilidades había de que cometiera un error." },
-    { "voz": "ximena", "texto": "Y entonces Rader hizo una pregunta increíble. En una de sus notas preguntó a la policía si se podía rastrear un disquete. Pidió que le contestaran con un anuncio en el periódico. La policía publicó el anuncio. Le dijeron, en esencia, que no había peligro." },
-    { "voz": "alvaro", "texto": "Le mintieron. Y él se lo creyó." },
-    { "voz": "ximena", "texto": "En el disquete que envió a la televisión había un único archivo de texto. Pero sus metadatos, la información oculta que guarda el propio archivo, contenían dos pistas: el nombre de una iglesia luterana y un nombre de usuario, Dennis. Una búsqueda en internet hizo el resto." },
-    { "voz": "ximena", "texto": "El presidente del consejo de esa iglesia se llamaba Dennis Rader. Junto a su casa, los agentes vieron un vehículo parecido al que había captado una cámara de seguridad en una de sus entregas. Pero necesitaban algo más sólido." },
-    { "voz": "ximena", "texto": "La prueba llegó por vía genética. Con una orden judicial, la policía analizó una muestra médica de su hija, guardada en una clínica universitaria. El perfil mostraba un parentesco directo con el ADN recogido en uno de los crímenes. El 25 de febrero de 2005, Dennis Rader fue detenido." },
-    { "voz": "ximena", "texto": "Confesó durante horas. En junio de 2005 se declaró culpable de los diez asesinatos y, en una audiencia pública, los relató con una frialdad que estremeció a la sala. No vamos a reproducir aquello." },
-    { "voz": "ximena", "texto": "En agosto fue condenado a diez cadenas perpetuas consecutivas. La pena de muerte no era posible: cuando cometió sus crímenes, no estaba en vigor en Kansas. Hoy cumple condena en una prisión del estado." },
-    { "voz": "alvaro", "texto": "¿Y qué cambió después de este caso?" },
-    { "voz": "ximena", "texto": "Se convirtió en un ejemplo de manual de informática forense: demostró que un simple archivo digital puede delatar a su autor. Y abrió otro debate, todavía vivo, sobre los límites del uso de muestras médicas de familiares para identificar a sospechosos." },
-    { "voz": "ximena", "texto": "Pero el centro de esta historia son las diez víctimas, entre ellas cuatro miembros de la familia Otero, y unas familias que esperaron más de treinta años una respuesta. También la propia hija de Rader ha contado públicamente cómo descubrió quién era su padre." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Dennis Rader. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un disquete morado",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Dennis Rader, el asesino que se llamaba a sí mismo BTK. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un disquete morado." },
+        { "voz": "ximena", "texto": "Mediados de febrero de 2005. A una televisión local de Wichita, en Kansas, llega un paquete por correo. Dentro hay un disquete de ordenador, de color morado. El remitente firma con tres letras que la ciudad conoce desde hace treinta años: BTK. Unas siglas que eligió él mismo y que no vamos a desarrollar." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Lo extraordinario no es el disquete. Es lo que pasó un mes antes. Ese hombre preguntó a la policía, por escrito, si podían rastrear un disquete hasta un ordenador. Y añadió dos palabras: «Sé sincero». La policía le contestó. Y no fue sincera." },
+        { "voz": "ximena", "texto": "Volvamos al principio. Wichita, 15 de enero de 1974. Un hombre entra en la casa de la familia Otero. Mata a Joseph y a Julie, y a dos de sus hijos: Joseph, de nueve años, y Josephine, de once. Dos hermanos mayores encuentran la escena al volver del colegio." },
+        { "voz": "ximena", "texto": "En abril mata a Kathryn Bright, de veintiún años. Su hermano Kevin recibe un disparo, pero consigue huir y sobrevive." },
+        { "voz": "ximena", "texto": "En octubre de 1974, el asesino escribe. Una carta llega al periódico de la ciudad: se atribuye las muertes de los Otero y se pone un nombre. Será la primera de muchas." },
+        { "voz": "ximena", "texto": "En 1977 mata a Shirley Vian, en marzo, y a Nancy Fox, en diciembre. En febrero de 1978 escribe a una televisión: reivindica sus crímenes y se compara con otros asesinos famosos. Poco después, el jefe de policía, Richard LaMunyon, habla del caso en televisión." },
+        { "voz": "alvaro", "texto": "Según contó después LaMunyon, los especialistas en conducta les dijeron que aquel hombre tenía más cosas que decir, y que había que darle a alguien con quien hablar. Una apuesta arriesgada: alimentar su ego para que se equivoque. En los setenta no funcionó." },
+        { "voz": "ximena", "texto": "Las cartas se espaciaron y BTK pareció desaparecer. No había dejado de matar. En 1985 mató en Park City, un pueblo junto a Wichita, a Marine Hedge, una vecina de su misma calle. En 1986, a Vicki Wegerle. En 1991, a Dolores Davis." },
+        { "voz": "alvaro", "texto": "Ninguna de esas tres muertes se atribuyó entonces a BTK. Las dos de Park City no se relacionaron con él hasta que él mismo las confesó. LaMunyon siempre sostuvo que el asesino era alguien de la comunidad, que nunca se había ido. Tenía razón." },
+        { "voz": "ximena", "texto": "Porque Dennis Rader vivía allí. Nació en marzo de 1945 y creció en la zona de Wichita. Sirvió en la Fuerza Aérea, se casó en 1971 y tuvo dos hijos. En los noventa era el inspector municipal de Park City. Y presidía el consejo de su iglesia luterana, además de ser monitor de los scouts." },
+        { "voz": "ximena", "texto": "Enero de 2004. El periódico de Wichita publica un reportaje por los treinta años del primer crimen. En marzo, un reportero recibe un sobre sin texto: fotografías y la copia de un carné de conducir. Eran de Vicki Wegerle, asesinada en 1986. Nadie lo había relacionado con BTK. Había vuelto." },
+        { "voz": "alvaro", "texto": "La policía, con el teniente Ken Landwehr al frente, decidió seguirle el juego. Cuanto más hablara, más fácil sería que se equivocara. Un antiguo perfilador del FBI diría después que, si no hubiera vuelto a dar señales de vida, quizá el caso nunca se habría resuelto." },
+        { "voz": "ximena", "texto": "Durante casi un año mandó paquetes, muñecas y acertijos. En una sopa de letras, los investigadores verían después un grupo de letras que formaba «D. Rader», junto a números de su dirección." },
+        { "voz": "ximena", "texto": "En enero de 2005 dejó una nota en una camioneta aparcada junto a una tienda. Era la pregunta del disquete. Pedía la respuesta en los anuncios por palabras del periódico: «Rex, todo irá bien». El anuncio salió el 30 de enero." },
+        { "voz": "alvaro", "texto": "Le dijeron, en esencia, que no había peligro. Era mentira, y él se lo creyó. Así que en febrero mandó el disquete. Los datos internos de un archivo guardaban dos pistas: el nombre de una iglesia luterana de Wichita y un nombre de usuario, Dennis." },
+        { "voz": "ximena", "texto": "Una búsqueda en internet hizo el resto. El presidente del consejo de esa iglesia se llamaba Dennis Rader. Tenía cincuenta y nueve años y vivía en Park City." },
+        { "voz": "alvaro", "texto": "Pero un nombre en un archivo no es una prueba. Necesitaban algo que se sostuviera ante un juez. Y lo encontraron en un sitio que nadie esperaba: una muestra médica guardada en una clínica." }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una muestra en una clínica",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Una muestra en una clínica." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Dennis Rader, el hombre que firmaba como BTK y que mató a diez personas en Wichita y en Park City, en Kansas, entre 1974 y 1991. En febrero de 2005, un disquete había llevado a la policía hasta su nombre." },
+        { "voz": "ximena", "texto": "Faltaba la prueba. Con una orden judicial, los investigadores obtuvieron una muestra de tejido de su hija, guardada en su historial médico en una clínica universitaria de Kansas. Ella no lo sabía: la policía no quería que Rader se diera cuenta de que iban a por él." },
+        { "voz": "ximena", "texto": "El perfil genético de la hija mostraba un parentesco directo con el ADN recogido en tres de las escenas de los crímenes. El autor tenía que ser su padre." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Este paso abrió un debate que sigue vivo: hasta dónde puede llegar la policía con los datos médicos de un familiar. En la vista de la condena, Rader dijo que lo único que le dolía de la investigación era el uso del ADN de su hija." },
+        { "voz": "ximena", "texto": "Viernes, 25 de febrero de 2005, hacia el mediodía. Rader vuelve a comer a su casa, en Park City. Una fila de coches de policía le corta el paso. Cuando un agente le pregunta si sabe por qué se lo llevan, contesta, según su propio relato, que tiene sus sospechas." },
+        { "voz": "ximena", "texto": "Al día siguiente, el jefe de la policía de Wichita lo anunció en una frase: BTK había sido detenido. En los interrogatorios, Rader habló durante horas. El director de la oficina de investigación de Kansas diría después que no había manera de hacerle callar." },
+        { "voz": "alvaro", "texto": "Y lo que contó cambió el mapa del caso. Las muertes de Marine Hedge y de Dolores Davis, en Park City, no estaban en la lista de BTK. Nadie las había relacionado con él. Lo hizo él mismo. Con esas dos, la cifra quedó en diez asesinatos." },
+        { "voz": "ximena", "texto": "Se le acusó de diez asesinatos. El 27 de junio de 2005 se declaró culpable de todos. Y ante el juez los relató uno por uno, con una frialdad que estremeció a la sala. No vamos a reproducir aquello." },
+        { "voz": "ximena", "texto": "En agosto llegó la vista para fijar la pena. Duró dos días. Los familiares de las víctimas hablaron ante el tribunal. Kevin, el hermano de Kathryn Bright, que había sobrevivido a aquel disparo de 1974, dijo que Rader no había tenido piedad con nadie." },
+        { "voz": "ximena", "texto": "Rader habló durante media hora. Citó la Biblia, dio las gracias a la policía y pidió perdón. Algunos familiares se levantaron y salieron de la sala." },
+        { "voz": "ximena", "texto": "El 18 de agosto de 2005, el juez Gregory Waller lo condenó a diez cadenas perpetuas consecutivas: un mínimo de ciento setenta y cinco años sin posibilidad de libertad condicional. Era la pena más dura posible. La pena de muerte no podía aplicarse: Kansas no la tenía cuando se cometieron los crímenes." },
+        { "voz": "alvaro", "texto": "Después de la sentencia, la policía reveló algo que me hiela la sangre. Rader tenía elegida otra víctima, una persona que vivía cerca de Wichita. Y una fecha: el 22 de octubre de 2004. El juego con la prensa no le había quitado las ganas de matar." },
+        { "voz": "ximena", "texto": "Al día siguiente lo trasladaron a la prisión de El Dorado. Sigue preso en Kansas. Su hija ha contado públicamente, en un libro, cómo descubrió quién era su padre." },
+        { "voz": "alvaro", "texto": "Queda una pregunta: ¿hubo más? En 2005, los investigadores dijeron que solo podían atribuirle diez. En 2023, un sheriff de Oklahoma lo señaló como sospechoso en casos antiguos de su zona. No consta que se le haya acusado de ninguno, y en uno de ellos las autoridades concluyeron después que el autor era otro." },
+        { "voz": "ximena", "texto": "El caso BTK se cita a menudo como ejemplo de informática forense. Demostró que un archivo digital puede delatar a su autor. Y que un asesino que busca público acaba, a veces, firmando su propia detención." },
+        { "voz": "alvaro", "texto": "Pero no se resolvió solo. El fiscal del condado recordó en 2025 a Ken Landwehr, el teniente que dirigió la búsqueda: dijo que había sido mejor policía de lo que Rader fue criminal. Hubo años de trabajo y miles de muestras." },
+        { "voz": "ximena", "texto": "Este expediente lleva un nombre que él mismo eligió, pero no le pertenece. Pertenece a Joseph, Julie, Joseph y Josephine Otero. A Kathryn Bright, a Shirley Vian, a Nancy Fox, a Marine Hedge, a Vicki Wegerle y a Dolores Davis. Y a sus familias, que esperaron más de treinta años." },
+        { "voz": "ximena", "texto": "Fin del expediente de Dennis Rader. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/rader.json. Discrepancias: 1) Pena mínima: AP (Lawrence Journal-World y CBS, 19/8/2005) y Wikipedia dicen 175 años sin libertad condicional; NPR habla de 40 años sin libertad condicional («hard 40»). El guion sigue a AP. 2) ADN: Wikipedia dice que el ADN de las uñas de Vicki Wegerle coincidió con el perfil familiar sacado de una citología de la hija (clínica de la Universidad Estatal de Kansas). AP (20/8/2005) habla de ADN de tres escenas de crimen, y AP (4/3/2005, citando a The Wichita Eagle) de una muestra de tejido del historial médico de la hija. El guion dice «una muestra de tejido» y «tres de las escenas». 3) Fecha de la acusación formal: Wikipedia dice el 28/2/2005; AP (4/3/2005) dice «el martes», es decir, el 1/3/2005. El guion no da la fecha. 4) Nombre de Julie Otero: «Julie» en Wikipedia y en AP; «Julia» en KWCH (2025). 5) Edad de Dolores Davis: 62 según Wikipedia, 63 según AP. El guion no da la edad. 6) El guion v2 decía que en octubre de 1974 dejó la carta «escondida en un libro de la biblioteca pública». Wikipedia y Dateline (NBC) solo dicen que la primera carta llegó al periódico; no he encontrado una segunda fuente para lo del libro, así que el guion dice «Una carta llega al periódico de la ciudad». 7) Dos versiones de cómo llegó el disquete a la iglesia: AP (4/3/2005) cuenta que Rader pidió al pastor imprimir en enero un orden del día desde un disquete, en el ordenador de la iglesia; Wikipedia, NBC y AP (20/8/2005) dicen que los metadatos llevaban a la iglesia y al usuario «Dennis». No se contradicen y el guion no entra en ese detalle. 8) Investigaciones de 2023: NBC (23/8/2023) recoge que el sheriff del condado de Osage (Oklahoma) lo señaló como «principal sospechoso» en casos de Oklahoma y Misuri. Según las referencias de Wikipedia, el fiscal dijo en septiembre de 2023 que no había pruebas suficientes para acusarle. KWCH (25/2/2025) dice que las autoridades concluyeron después que no era sospechoso y que el autor había muerto (parece referirse al caso de Misuri). El guion dice «No consta que se le haya acusado de ninguno» y que en uno de ellos se concluyó que el autor era otro: hay que revisarlo si aparece algo nuevo. Fuente única (Wikipedia), mencionado con prudencia: el libro de la hija (Kerri Rawson, 2019); el guion no da su nombre ni el título. Dejado fuera por falta de segunda fuente: lugar de nacimiento (Pittsburg, Kansas), trabajo en una empresa de alarmas (ADT, 1974-1988), divorcio exprés de la mujer (26/7/2005), vehículo grabado por la cámara de la tienda. Respeto: se nombra a los dos niños Otero (Joseph, 9 años, y Josephine, 11). Es un caso de hace más de cincuenta años, sus nombres son públicos y la familia (Charlie y Carmen Otero) ha hablado públicamente. Mismo criterio que en brady, pendiente de que el usuario decida. No se nombra a la víctima elegida para el 22/10/2004 ni a los hermanos Otero que encontraron la escena. No se describe ningún crimen. Comprobado: fechas de los asesinatos (15/1/1974 Otero; 4/4/1974 Bright, con su hermano Kevin herido de bala; marzo de 1977 Vian; diciembre de 1977 Fox; 1985 Hedge, vecina de su manzana, según Dateline; 1986 Wegerle; 1991 Davis); carta de octubre de 1974; carta de febrero de 1978 a KAKE y LaMunyon en televisión (Dateline); muertes de Park City no relacionadas con BTK hasta su confesión (AP, 20/8/2005); reportaje del Eagle de enero de 2004 y sobre de marzo de 2004 al reportero Hurst Laviana con fotos y la copia del carné de Wegerle (Dateline, KWCH); sopa de letras con «D. Rader» (AP 4/3/2005; Dateline); nota en una camioneta en un Home Depot (Dateline); pregunta «Be honest» y anuncio «Rex, it will be OK» del 30/1/2005 (AP 20/8/2005; Wikipedia); disquete enviado a KSAS-TV el 16/2/2005 con «Christ Lutheran Church» y «Dennis» en los metadatos, búsqueda en Google; detención el 25/2/2005 a mediodía, volviendo a comer, cerca de su casa en Park City (Dateline; KWCH); «BTK is arrested» (KWCH; Wikipedia); «couldn't shut him up» (director de la KBI, AP); declaración de culpabilidad el 27/6/2005; vista de dos días y sentencia del 18/8/2005, juez Gregory Waller, sin pena de muerte posible (AP; CBS); palabras de Kevin Bright (CBS); víctima elegida para el 22/10/2004 (AP 20/8/2005); traslado a El Dorado el 19/8/2005; frase del fiscal Marc Bennett sobre Landwehr (KWCH, 2025)."
 }

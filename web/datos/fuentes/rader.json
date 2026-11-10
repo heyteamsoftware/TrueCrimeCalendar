@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Dennis Rader», con sus referencias a The Wichita Eagle y a los documentos del caso",
+    "url": "https://en.wikipedia.org/wiki/Dennis_Rader",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "Associated Press, en Lawrence Journal-World: Sharon Cohen, «Computer disk, DNA and messages helped lead police to BTK suspect» (4 de marzo de 2005)",
+    "url": "https://www2.ljworld.com/news/2005/mar/04/computer_disk_dna/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Associated Press, en Lawrence Journal-World: Roxana Hegeman, «BTK gets 175 years» (19 de agosto de 2005)",
+    "url": "https://www2.ljworld.com/news/2005/aug/19/btk_gets_175_years/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Associated Press, en Lawrence Journal-World: Roxana Hegeman, «Police break silence on BTK manhunt», con los documentos policiales del caso (20 de agosto de 2005)",
+    "url": "https://www2.ljworld.com/news/2005/aug/20/police_break_silence_btk_manhunt/",
+    "tipo": "policial"
+  },
+  {
+    "titulo": "CBS News: «BTK gets 10 consecutive life terms» (18 de agosto de 2005)",
+    "url": "https://www.cbsnews.com/news/btk-gets-10-consecutive-life-terms/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Dateline NBC: Edie Magnus, «31 years of the BTK killer» (12 de agosto de 2005)",
+    "url": "https://www.nbcnews.com/id/wbna8916264",
+    "tipo": "documental"
+  },
+  {
+    "titulo": "NPR: «BTK Killer Sentenced to 10 Life Terms» (18 de agosto de 2005)",
+    "url": "https://www.npr.org/2005/08/18/4806125/btk-killer-sentenced-to-10-life-terms",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "NBC News: Marlene Lenthang, «BTK serial killer named as 'prime suspect' in at least 2 unsolved cases» (23 de agosto de 2023)",
+    "url": "https://www.nbcnews.com/news/amp/rcna101355",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "KWCH 12 News (Wichita): «On This Day: Dennis Rader arrested 20 years ago, Feb. 25, 2005» (25 de febrero de 2025)",
+    "url": "https://www.kwch.com/2025/02/25/this-day-dennis-rader-arrested-20-years-ago-feb-25-2005/",
+    "tipo": "hemeroteca"
+  }
+]

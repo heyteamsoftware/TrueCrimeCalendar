@@ -39,7 +39,7 @@ Hecho antes: `brady` (piloto).
 | enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
 | febrero A | ishikawa norris hansen ridgway | ✓ hecho (4/4) |
 | febrero B | cullen muehlberg wuornos ramirez | ✓ hecho (4/4) |
-| marzo A | toole rader gaskins king | lanzado |
+| marzo A | toole rader gaskins king | ✓ hecho (4/4) |
 | marzo B | ireland gacy kraft toppan | ✓ hecho (4/4) |
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
 | abril B | landru harvey yoo black | lanzado |
@@ -102,3 +102,4 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
   - 18/8: Julien Lahaut, en lugar de Galán (proceso abierto).
 
   Hispanoamérica ha perdido varios casos (UCA, Galán y Asunta). Al unir hay que comprobar la cuota.
+- **Fechas de los casos estrella:** gaskins y king tienen mal la fecha de nacimiento, que es la que decide su día. Se comprueban las 100 (`docs/FECHAS_ESTRELLA_ENCARGO.md`).

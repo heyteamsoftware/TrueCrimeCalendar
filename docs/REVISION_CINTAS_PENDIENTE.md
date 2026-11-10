@@ -27,3 +27,8 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
   - El guion dice que la decisión «estaba pendiente»: hay que revisarlo antes de publicar.
 - **gacy:** se nombra a víctimas menores de hace más de 40 años. La familia Piest es pública; comprobar las demás.
 - **gacy:** comprobar si se ha identificado a alguna de las 5 víctimas que quedaban sin identificar después de 2021.
+- **king:** se nombra a Sonia Carabantes, de 17 años, en un caso de 2003. Tiene menos de 30 años, así que por la regla común hay que quitar el nombre.
+- **toole:** se nombra a Adam Walsh. Es el nombre histórico del caso y la familia es pública, así que se mantiene.
+- **rader:** se nombra a los niños Otero. La familia ha hablado en público (Charlie Otero), así que se mantiene, comprobándolo.
+- **toole y lucas:** los informes del Dallas Times Herald (1985) y del fiscal general de Texas (1986) tienen que coincidir en las dos cintas.
+- **rader:** si hay novedades de las sospechas de Oklahoma de 2023, actualizarlo.

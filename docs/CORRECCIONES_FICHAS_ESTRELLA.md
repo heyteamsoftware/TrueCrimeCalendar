@@ -111,3 +111,20 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## ridgway
 
 - **Víctimas:** condenado por 49 asesinatos; las estimaciones van de 65 a más de 71.
+
+## gaskins (cambia el día del calendario)
+
+- **Nacimiento:** 31 de marzo de 1933 según la South Carolina Encyclopedia y Wikipedia. La ficha dice el 13; solo Crime+Investigation da esa fecha.
+- **Víctimas:** 10 condenas (9 asesinatos de los años setenta más Rudolph Tyner); la ficha dice 9.
+
+## king (cambia el día del calendario)
+
+- **Nacimiento:** ninguna fuente da el 14 de marzo de 1965. La Wikipedia en inglés dice el 2 de agosto de 1967 (nacido Anthony Bromwich). EFE (2005) y The Independent (2003) apuntan a agosto de 1965.
+
+## toole
+
+- **Cuerpo de Adam Walsh:** solo se encontró la cabeza, cerca de Vero Beach, no «sus restos».
+
+## gaskins
+
+- Walter Neely estuvo presente en dos de los asesinatos y fue condenado a muerte con Gaskins en 1976 (la pena se le redujo después a cadena perpetua). No «colaboró» con la policía.
