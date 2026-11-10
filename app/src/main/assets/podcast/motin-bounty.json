@@ -33,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Océano Pacífico, 28 de abril de 1789. Poco después de las cinco de la madrugada, a unas treinta millas al sur de la isla de Tofua, un oficial despierta al hombre que duerme en su camarote. El capitán William Bligh sale de allí con las manos atadas."
+          "texto": "Océano Pacífico, 28 de abril de 1789. Antes del amanecer, cerca de la isla de Tofua, un oficial despierta al hombre que duerme en su camarote. El capitán William Bligh sale de allí con las manos atadas."
         },
         {
           "voz": "alvaro",
@@ -57,11 +57,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Era casi una sentencia de muerte. Pero Bligh era un navegante meticuloso. Con un compás, un sextante y la ayuda de sus hombres, rumbo al oeste, hizo escala en Tofua para buscar víveres y después navegó cuarenta y siete días más."
+          "texto": "Era casi una sentencia de muerte. Pero Bligh era un navegante meticuloso. Con un compás y un cuadrante, y la ayuda de sus hombres, rumbo al oeste, hizo escala en Tofua para buscar víveres y después cruzó el Pacífico hacia Timor. En total, el viaje duró cuarenta y siete días."
         },
         {
           "voz": "ximena",
-          "texto": "Llegaron a Kupang, en Timor, el 14 de junio de 1789. Habían recorrido más de tres mil quinientas millas náuticas en una lancha abierta. Bligh volvió a Inglaterra en 1790."
+          "texto": "Llegaron a Kupang, en Timor, el 14 de junio de 1789, tras recorrer más de tres mil quinientas millas náuticas en una lancha abierta. Bligh volvió a Inglaterra en 1790."
         },
         {
           "voz": "alvaro",
@@ -106,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: 1) Número de amotinados: Royal Museums Greenwich dice «Christian y 18 amotinados» (de 42 hombres, 22 leales y 2 pasivos); History.com dice «Christian y 25 oficiales subalternos y marineros»; Wikipedia, «25 hombres» a bordo tras el motín (incluidos leales retenidos). El guion no da cifra de amotinados. 2) Distancia: History.com, unas 3.600 millas; Wikipedia, unas 3.500 millas náuticas; RMG, 3.618 millas náuticas; el guion dice «más de tres mil quinientas millas náuticas». 3) Ahorcamientos el 28 de octubre de 1792 (Wikipedia); la ficha dice «28 o 29». 4) Navío del consejo: Wikipedia (HMS Duke, lord Hood); ahorcamiento en HMS Brunswick. 5) Los 'seis hombres y doce mujeres tahitianos' y 'dieciséis se quedaron' vienen de History.com. 6) 'Bligh criticado por los testimonios del juicio' y 'dinero/pobreza' vienen de Wikipedia (Dening). 7) 'Bligh opresivo' viene de History.com; 'sin infantes de marina' de RMG. 8) La amnistía de Adams en 1825 es de History.com. 9) La muerte de Christian a manos de otros o por enfermedad: el relato de Adams; Wikipedia dice que murieron por peleas entre ellos o a manos de sus compañeros polinesios. No se nombra a los condenados. El texto de Bligh en Gutenberg no se ha leído."
+  "nota_revision": "Contradicciones: 1) Número de amotinados: Royal Museums Greenwich dice «Christian y 18 amotinados» (de 42 hombres, 22 leales y 2 pasivos); History.com dice «Christian y 25 oficiales subalternos y marineros»; Wikipedia, «25 hombres» a bordo tras el motín (incluidos leales retenidos). El guion no da cifra de amotinados. 2) Distancia: History.com, unas 3.600 millas; Wikipedia, unas 3.500 millas náuticas; RMG, 3.618 millas náuticas; el guion dice «más de tres mil quinientas millas náuticas». 3) Ahorcamientos el 28 de octubre de 1792 (Wikipedia); la ficha dice «28 o 29». 4) Navío del consejo: Wikipedia (HMS Duke, lord Hood); ahorcamiento en HMS Brunswick. 5) Los 'seis hombres y doce mujeres tahitianos' y 'dieciséis se quedaron' vienen de History.com. 6) 'Bligh criticado por los testimonios del juicio' y 'dinero/pobreza' vienen de Wikipedia (Dening). 7) 'Bligh opresivo' viene de History.com; 'sin infantes de marina' de RMG. 8) La amnistía de Adams en 1825 es de History.com. 9) La muerte de Christian a manos de otros o por enfermedad: el relato de Adams; Wikipedia dice que murieron por peleas entre ellos o a manos de sus compañeros polinesios. No se nombra a los condenados. El texto de Bligh en Gutenberg no se ha leído. | VERIFICACIÓN nuevos-abril: Verificación (History, Royal Museums Greenwich, Wikipedia): corregido «navegó cuarenta y siete días más» (los 47 días son el viaje completo desde el motín hasta Kupang); quitado «treinta millas al sur de Tofua» (sin comprobar) y «sextante» (Bligh llevaba un cuadrante). Resto de fechas y penas coincide con la ficha. Ahorcamientos el 28 de octubre de 1792."
 }

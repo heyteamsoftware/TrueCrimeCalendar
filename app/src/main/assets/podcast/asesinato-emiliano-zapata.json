@@ -21,7 +21,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hacienda de Chinameca, Morelos, 10 de abril de 1919. Un clarín suena tres veces para honrar al invitado que entra por la puerta. Es un saludo militar. Y es la señal."
+          "texto": "Hacienda de Chinameca, Morelos, 10 de abril de 1919, por la tarde. Un clarín suena tres veces para honrar al invitado que entra por la puerta. Es un saludo militar. Y es la señal."
         },
         {
           "voz": "ximena",
@@ -57,7 +57,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 10 de abril, Zapata se acercó a la hacienda con una escolta pequeña. Lo invitaron a comer dentro. Dudó, pero dejó a un lado su prudencia habitual y aceptó."
+          "texto": "El 10 de abril, Zapata se acercó a la hacienda con una escolta pequeña. Según el relato habitual, lo invitaron a comer dentro y aceptó."
         },
         {
           "voz": "ximena",
@@ -101,7 +101,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pero la muerte de Zapata no puso fin al zapatismo. Su nombre se convirtió en bandera."
+          "texto": "Pero la muerte de Zapata no puso fin al zapatismo. Su nombre se convirtió en bandera, y sigue siéndolo."
         },
         {
           "voz": "ximena",
@@ -118,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: INAH (Lugares INAH, sala de Chinameca) y Wikipedia en español para cotejar; el PDF de la CNDH se descargó pero no se pudo leer el texto; HISTORY.com y Excélsior no se abrieron (no se usan). Número de muertos de la escolta: varía según la fuente; no se da. Los fusilados por Guajardo: no se da la cifra (la ficha avisa de que no está contrastada); se dice «un grupo de soldados federales». Hora de la emboscada: no se da («por la tarde» viene de Wikipedia). Que el cuerpo fue exhibido en Cuautla en el Palacio Municipal sale del INAH. La orden del general Pablo González: INAH y ficha; no se afirma nada sobre Carranza. «Nadie fue juzgado» sale de la ficha."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: INAH (Lugares INAH, sala de Chinameca) y Wikipedia en español para cotejar; el PDF de la CNDH se descargó pero no se pudo leer el texto; HISTORY.com y Excélsior no se abrieron (no se usan). Número de muertos de la escolta: varía según la fuente; no se da. Los fusilados por Guajardo: no se da la cifra (la ficha avisa de que no está contrastada); se dice «un grupo de soldados federales». Hora de la emboscada: no se da («por la tarde» viene de Wikipedia). Que el cuerpo fue exhibido en Cuautla en el Palacio Municipal sale del INAH. La orden del general Pablo González: INAH y ficha; no se afirma nada sobre Carranza. «Nadie fue juzgado» sale de la ficha. | VERIFICACIÓN nuevos-abril: Verificación: solo dos fuentes abiertas (INAH y Wikipedia en español), sin segunda fuente independiente. Suavizado «dudó, pero dejó a un lado su prudencia» (sin fuente) a «según el relato habitual». Responsabilidad de Pablo González y Guajardo atribuida a INAH y fuentes; nadie juzgado."
 }

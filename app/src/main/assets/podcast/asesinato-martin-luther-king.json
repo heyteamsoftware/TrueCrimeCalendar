@@ -9,7 +9,6 @@
     "Lorraine": "Lorrén",
     "James Earl Ray": "Yeims Erl Rei",
     "Ray": "Rei",
-    "Jowers": "Yáuers",
     "Raoul": "Raúl",
     "Atlanta": "Atlánta"
   },
@@ -33,7 +32,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Poco después, la policía encuentra algo en la acera, delante de una tienda de discos, a pocos pasos de una pensión. Es un bulto envuelto. Dentro hay un rifle."
+          "texto": "Poco después, la policía encuentra algo en la acera, delante de una tienda, a pocos pasos de una pensión. Es un bulto envuelto. Dentro hay un rifle."
         },
         {
           "voz": "alvaro",
@@ -61,11 +60,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Huellas, testigos y un arma: con eso, la acusación tenía lo esencial. Y Ray, un fugitivo, tenía motivos para esconderse. Dos meses de caza internacional. El 8 de junio, Scotland Yard lo detuvo en Londres, cuando intentaba salir hacia Bélgica. Más tarde dijo que quería llegar a Rodesia."
+          "texto": "Huellas, un arma y un pasaporte falso: con eso, la acusación tenía lo esencial. Dos meses de caza internacional. El 8 de junio, Scotland Yard lo detuvo en Londres, cuando intentaba salir hacia Bélgica. Más tarde dijo que quería llegar a Rodesia."
         },
         {
           "voz": "ximena",
-          "texto": "Fue extraditado y, en marzo de 1969, se declaró culpable en un tribunal de Memphis. Evitó así el juicio y la silla eléctrica. En 2000, el Departamento de Justicia siguió viendo en él al autor del disparo. Lo condenaron a noventa y nueve años de prisión."
+          "texto": "Fue extraditado y, el 10 de marzo de 1969, se declaró culpable en un tribunal de Memphis. Evitó así el juicio y la silla eléctrica. Lo condenaron a noventa y nueve años de prisión."
         },
         {
           "voz": "alvaro",
@@ -81,15 +80,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí hay que ser exacto. En 1979, un comité de la Cámara de Representantes concluyó que Ray disparó, y que quizá existió una conspiración pequeña, pero sin pruebas. No hubo más."
+          "texto": "Aquí hay que ser exacto. En 1979, un comité de la Cámara de Representantes concluyó que Ray disparó y que probablemente existió una conspiración, aunque no pudo identificar a nadie más."
         },
         {
           "voz": "ximena",
-          "texto": "En 1999, en Memphis, un jurado civil, en el proceso llamado King contra Jowers, concluyó que el dueño de un local, Loyd Jowers, y otras personas, incluidas agencias del Gobierno, habían conspirado para matar a King."
+          "texto": "En 1999, en Memphis, un jurado civil, en un proceso de la familia King contra el dueño de un restaurante cercano, concluyó que había existido una conspiración para matar a King. No era un juicio penal: nadie fue condenado."
         },
         {
           "voz": "ximena",
-          "texto": "El Departamento de Justicia lo revisó en 2000. Encontró las acusaciones de Jowers contradictorias y sin pruebas, no halló ninguna prueba fiable de ese Raoul y concluyó que no había motivo para seguir investigando."
+          "texto": "El Departamento de Justicia lo revisó en 2000. Encontró las acusaciones del dueño del restaurante contradictorias y sin pruebas, no halló ninguna prueba fiable de ese Raoul y concluyó que no había motivo para seguir investigando."
         },
         {
           "voz": "alvaro",
@@ -97,7 +96,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "King fue enterrado en Atlanta el 9 de abril. Decenas de miles de personas acompañaron el cortejo. El féretro lo llevó un carro de granja tirado por dos mulas."
+          "texto": "King fue enterrado en Atlanta el 9 de abril. Una multitud enorme acompañó el cortejo. El féretro lo llevó un carro de granja tirado por dos mulas."
         },
         {
           "voz": "alvaro",
@@ -110,5 +109,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Departamento de Justicia de EE. UU. (informe de 2000) y History.com (2025). Detención: la ficha dice Heathrow y History.com «un aeropuerto de Londres»; el DOJ dice solo Londres; el guion dice «Londres». Fecha del informe del DOJ: el sitio habla de junio de 2000 en la ficha; el guion dice «en 2000». Hospital: la ficha dice St. Joseph; History.com dice solo «un hospital de Memphis»; se dice «un hospital de Memphis». Disparo: «una sola vez» (DOJ). La familia King apoyó a Ray y sostiene que hubo conspiración (History.com); el jurado civil de 1999 le dio la razón y el DOJ lo rebatió; se cuenta como duda documentada. Que Ray se declarara culpable evitó un juicio, por lo que las pruebas no se examinaron ante un jurado penal; se dice. El Comité de la Cámara de 1979 (History.com): conspiración pequeña posible, sin pruebas. No se abrieron el artículo del NYT ni el informe del comité."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Departamento de Justicia de EE. UU. (informe de 2000) y History.com (2025). Detención: la ficha dice Heathrow y History.com «un aeropuerto de Londres»; el DOJ dice solo Londres; el guion dice «Londres». Fecha del informe del DOJ: el sitio habla de junio de 2000 en la ficha; el guion dice «en 2000». Hospital: la ficha dice St. Joseph; History.com dice solo «un hospital de Memphis»; se dice «un hospital de Memphis». Disparo: «una sola vez» (DOJ). La familia King apoyó a Ray y sostiene que hubo conspiración (History.com); el jurado civil de 1999 le dio la razón y el DOJ lo rebatió; se cuenta como duda documentada. Que Ray se declarara culpable evitó un juicio, por lo que las pruebas no se examinaron ante un jurado penal; se dice. El Comité de la Cámara de 1979 (History.com): conspiración pequeña posible, sin pruebas. No se abrieron el artículo del NYT ni el informe del comité. | VERIFICACIÓN nuevos-abril: Verificación (Wikipedia en inglés, ficha del DOJ): detención en Heathrow el 8/6/1968 hacia Bruselas, declaración de culpabilidad el 10/3/1969 y retractación a los tres días confirmadas. Corregido: el comité de 1979 hablaba de «probable» conspiración (no «quizá una pequeña», sin pruebas); la frase sobre el DOJ de 2000 estaba mal colocada en la condena. El proceso civil de 1999 ya no nombra a Loyd Jowers (sin condena penal). Funeral: la cifra «decenas de miles» se sustituye por «multitud enorme» (las fuentes dan cientos de miles). El informe del comité de 1979 no se pudo abrir directamente."
 }

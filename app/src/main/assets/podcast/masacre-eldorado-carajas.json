@@ -34,11 +34,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Caminan porque esperaban que el Estado les diera una hacienda. Se habían instalado en la finca Macaxeira, y el organismo de reforma agraria les había prometido expropiarla. Pero un informe técnico declaró productiva la propiedad. Era el final de la espera."
+          "texto": "Caminan porque esperaban que el Estado les diera una hacienda. Se habían instalado en la finca Macaxeira, que reclamaban por improductiva, y la expropiación se demoraba. Era el final de la espera."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. No eran una turba. Eran familias con un reclamo concreto y una carretera por delante. Lo que se estaba discutiendo era un informe técnico. Anótalo, porque la historia de este día empieza en un papel y acaba en el asfalto."
+          "texto": "Primera nota. No eran una turba. Eran familias con un reclamo concreto y una carretera por delante. Anótalo, porque la historia de este día empieza en un papel y acaba en el asfalto."
         },
         {
           "voz": "ximena",
@@ -46,7 +46,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Amnistía Internacional lo resumió así: una hora después de empezar el desalojo, diecinueve personas yacían muertas. Muchas habían recibido disparos de cerca. Dos más morirían después, a causa de las heridas."
+          "texto": "Amnistía Internacional lo resumió así: una hora después de empezar el desalojo, diecinueve personas yacían muertas. Varias habían recibido disparos de cerca. Dos más morirían después, a causa de las heridas."
         },
         {
           "voz": "alvaro",
@@ -74,7 +74,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El coronel fue detenido el 7 de mayo de 2012, y poco después el mayor. Habían pasado dieciséis años desde la matanza."
+          "texto": "El coronel fue detenido el 7 de mayo de 2012, y poco después el mayor. Habían pasado dieciséis años desde la matanza, y los dos condenados habían seguido en libertad mientras recurrían."
         },
         {
           "voz": "ximena",
@@ -86,7 +86,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Quedan ellos. Veintiuna personas que marchaban con los suyos, con sus hijos, hacia una ciudad lejana, para pedir un trozo de tierra."
+          "texto": "Quedan ellos. Veintiuna personas que marchaban con los suyos, con sus hijos, hacia una ciudad lejana, para pedir un trozo de tierra y una vida digna."
         },
         {
           "voz": "ximena",
@@ -103,5 +103,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: 1) Marchantes: la ficha dice unos 1.500; Brasil de Fato, más de 1.500 (de unas 3.500 familias acampadas); Wikipedia en portugués, 2.500 acampados y 4.221 con otros manifestantes. El guion usa «más de mil quinientos». 2) Policías: ficha, unos 155; Brasil de Fato, 150; Wikipedia, 155 imputados. Se dice «unos ciento cincuenta» en la cinta y 155 en la imputación. 3) Muertos: 19 en el lugar (Amnistía) y 21 en total (Brasil de Fato, Wikipedia). 4) La infobox de Wikipedia en portugués pone «condenados en 2012», pero el juicio y la condena fueron en junio de 2002 (Amnistía 2006) y la prisión en mayo de 2012 (ficha; la nota de UOL no se pudo abrir). Las penas de 228 y 158 años solo se han leído en Wikipedia en portugués. El mayor ingresó «poco después»: dato no comprobado en UOL. La orden del secretario de Seguridad y la afirmación del procurador sobre el gobernador son de Wikipedia en portugués (atribuidas). Gobernador y secretario no juzgados: Amnistía. Defensoría y Delegación Agraria: atribuido a un dirigente del MST en Brasil de Fato. 320 asesinados 1996-2019: Comisión Pastoral de la Tierra vía Brasil de Fato. Monumento de Niemeyer destruido: Wikipedia en portugués. No se nombra a las víctimas."
+  "nota_revision": "Contradicciones: 1) Marchantes: la ficha dice unos 1.500; Brasil de Fato, más de 1.500 (de unas 3.500 familias acampadas); Wikipedia en portugués, 2.500 acampados y 4.221 con otros manifestantes. El guion usa «más de mil quinientos». 2) Policías: ficha, unos 155; Brasil de Fato, 150; Wikipedia, 155 imputados. Se dice «unos ciento cincuenta» en la cinta y 155 en la imputación. 3) Muertos: 19 en el lugar (Amnistía) y 21 en total (Brasil de Fato, Wikipedia). 4) La infobox de Wikipedia en portugués pone «condenados en 2012», pero el juicio y la condena fueron en junio de 2002 (Amnistía 2006) y la prisión en mayo de 2012 (ficha; la nota de UOL no se pudo abrir). Las penas de 228 y 158 años solo se han leído en Wikipedia en portugués. El mayor ingresó «poco después»: dato no comprobado en UOL. La orden del secretario de Seguridad y la afirmación del procurador sobre el gobernador son de Wikipedia en portugués (atribuidas). Gobernador y secretario no juzgados: Amnistía. Defensoría y Delegación Agraria: atribuido a un dirigente del MST en Brasil de Fato. 320 asesinados 1996-2019: Comisión Pastoral de la Tierra vía Brasil de Fato. Monumento de Niemeyer destruido: Wikipedia en portugués. No se nombra a las víctimas. | VERIFICACIÓN nuevos-abril: Verificación (Wikipedia en portugués, Amnistía vía ficha): 155 imputados, 21 muertos, Sette Câmara, ministerio creado una semana después y monumento de Niemeyer destruido confirmados. Quitado que «un informe técnico declaró productiva la finca» (sin comprobar) y «muchas» víctimas con disparos de cerca (la fuente dice «al menos diez»). La Wikipedia en portugués no recoge el juicio de 2002 y sitúa las condenas en 2012; el guion mantiene junio de 2002 (228 y 158 años) y mayo de 2012 (ingreso en prisión), como la ficha. Duda: fecha exacta de la sentencia."
 }

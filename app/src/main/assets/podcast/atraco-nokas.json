@@ -9,9 +9,7 @@
     "Arne Sigve Klungland": "Árne Sígve Klúnglan",
     "David Toska": "Déivid Tóska",
     "Toska": "Tóska",
-    "Schumann": "Chúman",
-    "Forus": "Fórus",
-    "Málaga": "Málaga"
+    "Schumann": "Chúman"
   },
   "cintas": [
     {
@@ -33,7 +31,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Es una maniobra. Mientras la policía mira el fuego, otros hombres, armados con fusiles, con monos negros y gorros, llegan en coches grandes al edificio del Banco de Noruega, junto a la catedral."
+          "texto": "Es una maniobra. Mientras la policía mira el fuego, otros hombres, armados con fusiles, llegan al edificio del Banco de Noruega, junto a la catedral."
         },
         {
           "voz": "alvaro",
@@ -45,7 +43,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La banda era de nueve hombres. Forzaron la entrada, y en la plaza de la catedral se oyeron los tiros. Algunos testigos vieron el tiroteo y una persecución en coche."
+          "texto": "La banda era de once hombres. Forzaron la entrada, y en la plaza de la catedral se oyeron los tiros."
         },
         {
           "voz": "alvaro",
@@ -57,7 +55,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En el tiroteo murió el policía Arne Sigve Klungland. Fue el único muerto de aquel día."
+          "texto": "En el tiroteo murió el teniente de policía Arne Sigve Klungland. Fue el único muerto de aquel día. Uno de los atracadores resultó herido."
         },
         {
           "voz": "ximena",
@@ -65,7 +63,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Pero hay un número que pesa más: uno. Un agente que salió a cumplir con su trabajo y no volvió. Tenlo presente cuando oigas hablar de «el golpe del siglo»."
+          "texto": "Pero hay un número que pesa más: uno. Un agente que salió a cumplir con su trabajo y no volvió. Tenlo presente cuando oigas hablar de «el golpe del siglo». El dinero se cuenta en millones; él no tiene cifra que lo compense."
         },
         {
           "voz": "ximena",
@@ -73,19 +71,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "David Toska, al que la policía señaló como el cerebro de la banda, había huido. Lo rastrearon por su actividad en internet y lo detuvieron en Málaga un año después del robo. Reconoció haberlo planeado."
+          "texto": "David Toska, al que la policía señaló como el cerebro de la banda, había huido. Lo detuvieron en España un año después del robo. Reconoció haber participado, pero negó haber disparado."
         },
         {
           "voz": "alvaro",
-          "texto": "Los asaltantes iban enmascarados, así que los testigos servían de poco. Por eso el ADN pesó tanto. Detenido, Toska aceptó el plan, pero negó el disparo. Eso importa. Con trece acusados y nadie que dijera quién mató al agente, el juicio dependía de los indicios y del ADN."
+          "texto": "Los testigos servían de poco, así que el ADN pesó mucho. Toska aceptó su participación, pero negó el disparo. Con trece acusados y nadie que dijera quién mató al agente, el juicio dependía de los indicios y del ADN."
         },
         {
           "voz": "ximena",
-          "texto": "El juicio empezó en septiembre de 2005 y terminó en enero de 2006. Se celebró en una sala provisional en Forus, con fuertes medidas de seguridad. Los abogados criticaron que los acusados llevaran grilletes en los tobillos."
+          "texto": "El juicio de primera instancia terminó con sentencia en marzo de 2006, con fuertes medidas de seguridad."
         },
         {
           "voz": "ximena",
-          "texto": "Cuatro acusados admitieron haber participado en el atraco. Ninguno dijo quién había disparado contra el policía, y el tribunal se apoyó sobre todo en las pruebas de ADN."
+          "texto": "En el juicio, ninguno dijo quién había disparado contra el policía, y el tribunal se apoyó sobre todo en las pruebas de ADN."
         },
         {
           "voz": "alvaro",
@@ -93,23 +91,27 @@
         },
         {
           "voz": "ximena",
-          "texto": "En la apelación, en septiembre de 2006, uno de los condenados, Kjell Alrich Schumann, admitió haber hecho los disparos que mataron a Klungland. Fue una confesión tardía."
+          "texto": "En enero de 2007, el tribunal de apelación confirmó las condenas de doce de los trece acusados. Al decimotercero, absuelto antes por el jurado, se le repitió el juicio, y en septiembre de 2007 fue condenado a catorce años."
         },
         {
           "voz": "ximena",
-          "texto": "El Tribunal Supremo fijó las penas definitivas en junio de 2007. Toska recibió la pena más larga. Habían pasado más de tres años desde aquella mañana de abril, y el policía seguía sin poder volver con los suyos."
-        },
-        {
-          "voz": "alvaro",
-          "texto": "Y el dinero. Casi todo desapareció. Solo se recuperó una pequeña parte del botín. Los condenados tuvieron que pagar una indemnización a la aseguradora y a la familia del policía."
+          "texto": "Uno de los condenados, Kjell Alrich Schumann, acabó admitiendo haber hecho el disparo que mató a Klungland. Fue una confesión tardía."
         },
         {
           "voz": "ximena",
-          "texto": "Las penas sumaron, en total, unos ciento ochenta y un años de prisión. Ninguna cifra devuelve al policía a su familia."
+          "texto": "El Tribunal Supremo fijó las penas definitivas en junio de 2007. Toska recibió la pena más larga. Habían pasado más de tres años desde aquella mañana de abril."
         },
         {
           "voz": "alvaro",
-          "texto": "Cierro la cinta con el único nombre que de verdad importa. Arne Sigve Klungland. No el de la banda. El del policía."
+          "texto": "Y el dinero. Los atracadores se llevaron 57,4 millones de coronas. La mayor parte, unos cincuenta y un millones, nunca se recuperó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las penas de primera instancia sumaron ciento ochenta y un años de prisión. Ninguna cifra devuelve al policía a su familia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro la cinta con el único nombre que de verdad importa. Arne Sigve Klungland. No el de la banda. El del policía, que ese lunes salió de casa para trabajar y no volvió a ella."
         },
         {
           "voz": "ximena",
@@ -118,5 +120,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Store norske leksikon (SNL, 2025) y Wikipedia en inglés (para cotejar). Pena de Toska: SNL, 19 años por el atraco (20 en total); Wikipedia en inglés dice 21; el guion no da la cifra («la más larga»). Número de condenados: la ficha dice 13 condenados; SNL: 11 por robo con resultado de muerte, 13 a 19 años, y dos cómplices con 4 y 6 años; todos condenados. Que Schumann admitiera haber disparado en la apelación (septiembre de 2006) sale de SNL; no se afirma quién disparó en la primera instancia. Hay detalles que solo da Wikipedia en inglés (cifra de disparos, 37 empleados, indemnizaciones) y no se usan, salvo los 51 millones sin recuperar, que se dicen como «la mayor parte». La cifra de 57,4 millones de coronas sale de SNL. El artículo de VG y el informe del Ministerio no se abrieron. Wikipedia señala que no todos los datos de su cronología son coherentes."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Store norske leksikon (SNL, 2025) y Wikipedia en inglés (para cotejar). Pena de Toska: SNL, 19 años por el atraco (20 en total); Wikipedia en inglés dice 21; el guion no da la cifra («la más larga»). Número de condenados: la ficha dice 13 condenados; SNL: 11 por robo con resultado de muerte, 13 a 19 años, y dos cómplices con 4 y 6 años; todos condenados. Que Schumann admitiera haber disparado en la apelación (septiembre de 2006) sale de SNL; no se afirma quién disparó en la primera instancia. Hay detalles que solo da Wikipedia en inglés (cifra de disparos, 37 empleados, indemnizaciones) y no se usan, salvo los 51 millones sin recuperar, que se dicen como «la mayor parte». La cifra de 57,4 millones de coronas sale de SNL. El artículo de VG y el informe del Ministerio no se abrieron. Wikipedia señala que no todos los datos de su cronología son coherentes. | VERIFICACIÓN nuevos-abril: Verificación (Wikipedia en inglés, SNL): once atracadores y trece acusados; Toska confesó su participación el 12/4/2005 y negó el disparo; sentencias de primera instancia en marzo de 2006 (suman 181 años); Supremo en junio de 2007; 57,4 millones, 51 sin recuperar. Quitados: «nueve hombres» (eran once), monos negros y gorros, coches grandes, persecución, grilletes, juicio en Forus y fechas de septiembre 2005-enero 2006, «cuatro admitieron», indemnizaciones, Málaga (sin fuente) y la fecha de la confesión de Schumann (las fuentes discrepan: apelación de 2006 o dos años después)."
 }

@@ -29,15 +29,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "St. Joseph, Misuri, lunes 3 de abril de 1882. Por la mañana, en una casa de la ciudad, vive un hombre que pasa por tratante de ganado. Dice llamarse Thomas Howard y vive allí con su mujer y sus hijos."
+          "texto": "St. Joseph, Misuri, lunes 3 de abril de 1882. Por la mañana, en una casa de la ciudad, vive un hombre con nombre falso. Dice llamarse Thomas Howard y vive allí con su mujer y sus hijos."
         },
         {
           "voz": "ximena",
-          "texto": "No se llama Thomas Howard. Es Jesse James, el forajido más buscado del país, y en la casa también están dos jóvenes de su banda, los hermanos Ford."
+          "texto": "No se llama Thomas Howard. Es Jesse James, el forajido más buscado del país, de treinta y cuatro años, y en la casa también están dos jóvenes de su banda, los hermanos Ford."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Piénsalo: un hombre que ha pasado años huyendo vive con nombre falso, y deja entrar en su casa a dos hombres a los que apenas conoce. Eso no es un descuido. Es confianza, y ahí empieza esta historia."
+          "texto": "Primera nota. Piénsalo: un hombre que ha pasado años huyendo vive con nombre falso, y deja entrar en su casa a dos hombres de su banda. Eso no es un descuido. Es confianza, y ahí empieza esta historia."
         },
         {
           "voz": "ximena",
@@ -53,11 +53,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Aquella mañana, la banda se reunió en la casa para oír el plan del siguiente golpe. Jesse estaba de espaldas a los dos hermanos, colocando un cuadro en la pared."
+          "texto": "Aquella mañana, la banda estaba reunida en la casa. Jesse estaba de espaldas a los dos hermanos, colocando un cuadro en la pared."
         },
         {
           "voz": "ximena",
-          "texto": "Según la ficha del archivo, se había subido a una silla y no llevaba el arma. Robert Ford aprovechó ese momento y le disparó en la nuca. Un solo disparo, según las fuentes más fiables."
+          "texto": "Según el relato más extendido, se había subido a una silla y no llevaba el arma. Robert Ford aprovechó ese momento y le disparó en la nuca. Un solo disparo, según las fuentes más fiables."
         },
         {
           "voz": "alvaro",
@@ -65,11 +65,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su esposa y sus hijos estaban en la habitación de al lado, según un grabado de la época. Charley Ford, su hermano, estaba presente."
+          "texto": "Su mujer y sus hijos estaban en la casa. Charley Ford, hermano de Robert, estaba presente."
         },
         {
           "voz": "ximena",
-          "texto": "Los hermanos Ford se entregaron a las autoridades."
+          "texto": "Los hermanos Ford se entregaron a las autoridades poco después del disparo."
         },
         {
           "voz": "alvaro",
@@ -85,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Jesse James fue enterrado en la granja de su familia, cerca de Kearney, y mucha gente fue a visitar la tumba. Más tarde sus restos se trasladaron al cementerio de Kearney."
+          "texto": "Jesse James fue enterrado en la granja de su familia, cerca de Kearney, y mucha gente fue a visitar la tumba en los días siguientes. Más tarde sus restos se trasladaron al cementerio de Kearney."
         },
         {
           "voz": "ximena",
@@ -122,5 +122,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: State Historical Society of Missouri (Historic Missourians) y History.com (2025). Disparos: un solo disparo en la nuca (SHSMO y Stiles vía ficha); History.com dice «varias veces»; el guion dice «un disparo». Que Jesse estuviera desarmado y subido a una silla viene de la ficha; History.com dice solo que estaba de espaldas colocando un cuadro. Recompensa: ninguna de las dos fuentes da la cifra; no se da. Que la pagaran las compañías de ferrocarril viene de la ficha. Que el indulto lo concediera Crittenden consta en SHSMO. El destino posterior de Robert Ford no se ha comprobado en estas fuentes y no se cuenta. Epitafio de la lápida: History.com. No se da la fecha del traslado a Kearney Cemetery."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: State Historical Society of Missouri (Historic Missourians) y History.com (2025). Disparos: un solo disparo en la nuca (SHSMO y Stiles vía ficha); History.com dice «varias veces»; el guion dice «un disparo». Que Jesse estuviera desarmado y subido a una silla viene de la ficha; History.com dice solo que estaba de espaldas colocando un cuadro. Recompensa: ninguna de las dos fuentes da la cifra; no se da. Que la pagaran las compañías de ferrocarril viene de la ficha. Que el indulto lo concediera Crittenden consta en SHSMO. El destino posterior de Robert Ford no se ha comprobado en estas fuentes y no se cuenta. Epitafio de la lápida: History.com. No se da la fecha del traslado a Kearney Cemetery. | VERIFICACIÓN nuevos-abril: Verificación: quitados «pasa por tratante de ganado» (sin fuente), «oír el plan del siguiente golpe» (sin fuente), el grabado de la época y «apenas conoce» a los Ford (Charley llevaba años en la banda); «según la ficha del archivo» pasa a «según el relato más extendido»."
 }

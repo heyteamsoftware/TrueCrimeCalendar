@@ -33,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un agente de policía, de apellido Guijarro, se lanzó sobre él, según la crónica de la época. La gente quería lincharlo. Fue detenido allí mismo. Se llamaba Rafael Sancho Alegre, era anarquista, natural de Caspe, en Aragón, se había criado en Barcelona y, según esa crónica, llevaba apenas un mes en Madrid."
+          "texto": "Un agente de policía, de apellido Guijarro, se lanzó sobre él, según la crónica de la época. La gente quería lincharlo. Fue detenido allí mismo. Se llamaba Rafael Sancho Alegre, era anarquista, natural de Caspe, en Aragón, y se había criado en Barcelona."
         },
         {
           "voz": "ximena",
@@ -49,11 +49,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "La revista Blanco y Negro publicó una fotografía del momento: el agresor, caído en el suelo, forcejeaba con quienes lo detenían."
+          "texto": "La noticia dio la vuelta al mundo: la recogieron periódicos de Londres y de Nueva Zelanda."
         },
         {
           "voz": "alvaro",
-          "texto": "Esa imagen importa. No hubo un misterio: miles de personas vieron lo ocurrido, y de eso se ocupó la justicia después."
+          "texto": "No hubo un misterio: miles de personas vieron lo ocurrido, y de eso se ocupó la justicia después."
         },
         {
           "voz": "ximena",
@@ -114,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Wikipedia en español («Rafael Sancho Alegre») y el artículo de la revista Nuestra Historia del Casino de Madrid (n.º 72), que cita la crónica de El Imparcial. ABC, The Spectator y Papers Past no se pudieron abrir. CONTRADICCIONES: el artículo del Casino da la fecha del 14 de abril de 1903 (es un error evidente: dice «hace cien años» pero lo corrige la ficha, 13 de abril de 1913), dice que Sancho Alegre tenía 25 años y era de Barcelona (la ficha y Wikipedia: natural de Caspe, criado en Barcelona; Wikipedia da nacimiento hacia 1888, o sea unos 25 años), que disparó dos tiros de revólver y que sonó un tercero (la ficha: pistola Browning; el guion dice solo «disparó» y «una pistola»), y que lo redujo un agente de policía, de apellido Guijarro (Wikipedia no dice quién; se atribuye al artículo). La hora (1.35 de la tarde) y el número 48 de la calle de Alcalá solo salen de ese artículo; no se dan. Lugar: «a la altura de la calle de Alcalá» (la calle del Turco, hoy Marqués de Cubas, según Wikipedia; el mismo lugar donde mataron a Prim en 1870 según Wikipedia). Año de nacimiento incierto (hacia 1888, según Wikipedia); no se da la edad. Fecha de muerte: no consta; no se dice. Que Alfonso XIII intercedió para conmutar la pena es lo que dijo la prensa de la época, y así se atribuye. Mauro Bajatierra, acusado de proporcionarle la pistola, fue absuelto por falta de pruebas (Wikipedia): se cita solo como absuelto. El telegrama de abril de 1913 que decía que era francés se descartó. Que la causa se viera en julio y fuera pública sale de ABC (5-7-1913) vía ficha."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Wikipedia en español («Rafael Sancho Alegre») y el artículo de la revista Nuestra Historia del Casino de Madrid (n.º 72), que cita la crónica de El Imparcial. ABC, The Spectator y Papers Past no se pudieron abrir. CONTRADICCIONES: el artículo del Casino da la fecha del 14 de abril de 1903 (es un error evidente: dice «hace cien años» pero lo corrige la ficha, 13 de abril de 1913), dice que Sancho Alegre tenía 25 años y era de Barcelona (la ficha y Wikipedia: natural de Caspe, criado en Barcelona; Wikipedia da nacimiento hacia 1888, o sea unos 25 años), que disparó dos tiros de revólver y que sonó un tercero (la ficha: pistola Browning; el guion dice solo «disparó» y «una pistola»), y que lo redujo un agente de policía, de apellido Guijarro (Wikipedia no dice quién; se atribuye al artículo). La hora (1.35 de la tarde) y el número 48 de la calle de Alcalá solo salen de ese artículo; no se dan. Lugar: «a la altura de la calle de Alcalá» (la calle del Turco, hoy Marqués de Cubas, según Wikipedia; el mismo lugar donde mataron a Prim en 1870 según Wikipedia). Año de nacimiento incierto (hacia 1888, según Wikipedia); no se da la edad. Fecha de muerte: no consta; no se dice. Que Alfonso XIII intercedió para conmutar la pena es lo que dijo la prensa de la época, y así se atribuye. Mauro Bajatierra, acusado de proporcionarle la pistola, fue absuelto por falta de pruebas (Wikipedia): se cita solo como absuelto. El telegrama de abril de 1913 que decía que era francés se descartó. Que la causa se viera en julio y fuera pública sale de ABC (5-7-1913) vía ficha. | VERIFICACIÓN nuevos-abril: Verificación: solo dos fuentes abiertas (Wikipedia en español y revista del Casino); resto del guion contrastado con Wikipedia en español (condena, conmutación del 3/9, Bajatierra absuelto, Dueso, Santoña, Figueras, Tarrasa, Marsella 1939). Quitados: «llevaba apenas un mes en Madrid» (Wikipedia solo dice «a comienzos de 1913») y la foto de Blanco y Negro (no confirmada). Lo de Spectator y la prensa de Nueva Zelanda viene de las fuentes de la ficha, sin abrir."
 }

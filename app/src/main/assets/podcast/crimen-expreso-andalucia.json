@@ -21,11 +21,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Córdoba, la mañana del sábado 12 de abril de 1924. Llega el expreso de Madrid. Los empleados llaman a la puerta del furgón de correos. Nadie contesta."
+          "texto": "Córdoba, la mañana del sábado 12 de abril de 1924. Llega el expreso que salió de Madrid la noche anterior. Los empleados llaman a la puerta del furgón de correos. Nadie contesta."
         },
         {
           "voz": "ximena",
-          "texto": "Fuerzan la puerta. Dentro, la caja fuerte está abierta y vacía. Y dentro están los dos funcionarios que viajaban en ese vagón. Están muertos."
+          "texto": "Fuerzan la puerta. Dentro faltan los valores. Y dentro están los dos funcionarios que viajaban en ese vagón. Están muertos."
         },
         {
           "voz": "alvaro",
@@ -37,7 +37,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El tren había salido la noche anterior de la estación de Atocha, en Madrid. Entre los valores iban dinero de empresas y correspondencia."
+          "texto": "El tren había salido la noche anterior de la estación de Atocha, en Madrid. En el coche correo viajaban valores y correspondencia."
         },
         {
           "voz": "alvaro",
@@ -45,7 +45,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los asaltantes subieron en Aranjuez y se bajaron en Alcázar de San Juan con el botín. Detrás quedaron los dos hombres."
+          "texto": "Los asaltantes subieron en Aranjuez y se bajaron en Alcázar de San Juan con el botín. Detrás quedaron los dos hombres muertos."
         },
         {
           "voz": "ximena",
@@ -69,7 +69,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El crimen ocurrió en plena dictadura de Primo de Rivera. Pocos días después, los atracos a mano armada pasaron a la jurisdicción militar."
+          "texto": "El crimen ocurrió en plena dictadura de Primo de Rivera. El caso pasó enseguida a la jurisdicción militar."
         },
         {
           "voz": "ximena",
@@ -81,7 +81,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El consejo de guerra se celebró el 7 y el 8 de mayo, en la Cárcel Modelo de Madrid. La acusación pidió la pena de muerte para los autores. El tribunal condenó a muerte a tres hombres."
+          "texto": "El consejo de guerra se celebró el 7 y el 8 de mayo. La acusación pidió la pena de muerte para los autores. El tribunal condenó a muerte a tres hombres."
         },
         {
           "voz": "ximena",
@@ -97,11 +97,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los dos funcionarios fueron enterrados en Córdoba. Sus funerales, según las crónicas, reunieron a mucha gente."
+          "texto": "Los dos funcionarios fueron enterrados en Córdoba, la ciudad adonde llegó el tren. Sus funerales, según las crónicas, reunieron a mucha gente."
         },
         {
           "voz": "alvaro",
-          "texto": "Una nota sobre los acusados. Todos los condenados lo fueron por un tribunal militar, y los hechos están admitidos por la historiografía. Pero la prisa de entonces no es el estándar de hoy."
+          "texto": "Una nota sobre los acusados. Los juzgó un tribunal militar, y los hechos están admitidos por la historiografía. Pero la prisa de entonces no es el estándar de hoy."
         },
         {
           "voz": "alvaro",
@@ -114,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Wikipedia en inglés («Andalusian Mail Train Robbery», con su cronología) e Infobae (2023). El artículo de Pablo de Mora, ABC y El Debate no se abrieron. Las dos fuentes difieren en detalles que el guion evita: hora y reparto del botín (40.000 pesetas según una, 18.000 y joyas según otra), si el vino narcotizado llegó a usarse (la ficha dice que el plan fracasó), el orden de las detenciones, la pena de Donday (20 o 30 años; se dice «prisión»), la fecha de la ejecución (8 o 9 de mayo; se usa el 9, de la ficha), la absolución o condena de la viuda de Teruel (no se cuenta) y qué ocurrió exactamente entre Aranjuez y Alcázar (no se describe). No se dice «Viernes Santo» (la verificación lo quitó). Sí se dice que Sánchez Navarrete confesó (Wikipedia). La frase de que el sereno dio la pista sale de Infobae. «Folletín» de la ficha. No se describe la violencia. Las víctimas se nombran porque su nombre es público y está en toda la documentación."
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Wikipedia en inglés («Andalusian Mail Train Robbery», con su cronología) e Infobae (2023). El artículo de Pablo de Mora, ABC y El Debate no se abrieron. Las dos fuentes difieren en detalles que el guion evita: hora y reparto del botín (40.000 pesetas según una, 18.000 y joyas según otra), si el vino narcotizado llegó a usarse (la ficha dice que el plan fracasó), el orden de las detenciones, la pena de Donday (20 o 30 años; se dice «prisión»), la fecha de la ejecución (8 o 9 de mayo; se usa el 9, de la ficha), la absolución o condena de la viuda de Teruel (no se cuenta) y qué ocurrió exactamente entre Aranjuez y Alcázar (no se describe). No se dice «Viernes Santo» (la verificación lo quitó). Sí se dice que Sánchez Navarrete confesó (Wikipedia). La frase de que el sereno dio la pista sale de Infobae. «Folletín» de la ficha. No se describe la violencia. Las víctimas se nombran porque su nombre es público y está en toda la documentación. | VERIFICACIÓN nuevos-abril: Verificación (Wikipedia en inglés, Infobae): fechas, edades, consejo de guerra 7-8/5, ejecución el 9/5 y bandera negra confirmados. Quitados «caja fuerte abierta y vacía», «dinero de empresas», la Cárcel Modelo como sede del consejo de guerra y «atracos a mano armada» (la fuente solo habla de jurisdicción militar para el caso). Pena de Donday: 20 o 30 años según la fuente; se dice «prisión»."
 }

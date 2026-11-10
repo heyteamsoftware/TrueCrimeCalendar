@@ -7,10 +7,8 @@
     "Blacksburg": "Blácsburg",
     "Norris Hall": "Nórris Jol",
     "West Ambler Johnston": "Uést Ámbler Yónston",
-    "Seung-Hui Cho": "Sung-Ui Cho",
     "Liviu Librescu": "Líviu Librésku",
-    "Bush": "Bush",
-    "NBC": "ene be zé"
+    "Bush": "Bush"
   },
   "cintas": [
     {
@@ -28,11 +26,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Blacksburg, Virginia, 16 de abril de 2007. Son casi las diez de la mañana. En Norris Hall, un edificio de aulas de la universidad Virginia Tech, varias puertas principales están cerradas por dentro con cadenas. Quien las ha puesto ya ha estado antes en otro edificio del campus."
+          "texto": "Blacksburg, Virginia, 16 de abril de 2007. Son casi las diez de la mañana. En Norris Hall, un edificio de aulas de la universidad Virginia Tech, varias puertas principales están cerradas por dentro con cadenas. Quien las ha puesto ya había atacado antes en otro edificio del campus."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Unas cadenas puestas por dentro no son un arrebato. Son una decisión pensada, tomada con tiempo. Cuando las veo en el informe, entiendo que lo que había pasado por la mañana no había terminado."
+          "texto": "Primera nota. Unas cadenas puestas por dentro no son un arrebato. Cuando las veo en el informe, entiendo que lo que había pasado por la mañana no había terminado."
         },
         {
           "voz": "ximena",
@@ -56,11 +54,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El autor se llamaba Seung-Hui Cho. Tenía veintitrés años, era estudiante de último curso de Inglés y había nacido en Corea del Sur. Llegó a Estados Unidos con su familia en 1992. Actuó solo. Entre un ataque y otro mandó a la cadena NBC un paquete con fotografías y un vídeo, que llegó dos días después."
+          "texto": "El autor era un estudiante de último curso de Inglés, de veintitrés años. Actuó solo."
         },
         {
           "voz": "alvaro",
-          "texto": "Se ha escrito mucho sobre sus motivos, y no les voy a dar más espacio. Las autoridades no hallaron indicios de que hubiera elegido a sus víctimas una por una. Lo que le interesa a un archivo es otra cosa: lo que se vio antes de ese día."
+          "texto": "Se ha escrito mucho sobre sus motivos, y no les voy a dar más espacio. Lo que le interesa a un archivo es otra cosa: lo que se vio antes de ese día."
         },
         {
           "voz": "ximena",
@@ -101,5 +99,5 @@
       ]
     }
   ],
-  "nota_revision": "Se evitan los detalles del ataque y no se nombra a las víctimas, salvo al profesor Liviu Librescu (hecho público y muy difundido: sujetó la puerta de su aula; Wikipedia en inglés). Fuentes abiertas: History.com (hora, 9:40, cadenas, paquete a NBC el 18 de abril, multa de 2011), Wikipedia en inglés (correo de las 9:26, juez especial de 2005, ley NICS firmada el 5 de enero de 2008, informe del panel y privacidad) y la web oficial We Remember (edades de 18 a 76, vela y 32 minutos de guardia a medianoche; la web no explicita 'vivir por 32'; el lema 'Live for 32' aparece en su portada). La multa de 2011 solo la da History.com. 'Disputa de pareja' y persecución del novio: History.com. 'Quien ha puesto las cadenas ya ha estado antes en otro edificio' y la hora 'casi las diez' son aproximaciones de las fuentes. No se leyó entero el PDF del panel."
+  "nota_revision": "Se evitan los detalles del ataque y no se nombra a las víctimas, salvo al profesor Liviu Librescu (hecho público y muy difundido: sujetó la puerta de su aula; Wikipedia en inglés). Fuentes abiertas: History.com (hora, 9:40, cadenas, paquete a NBC el 18 de abril, multa de 2011), Wikipedia en inglés (correo de las 9:26, juez especial de 2005, ley NICS firmada el 5 de enero de 2008, informe del panel y privacidad) y la web oficial We Remember (edades de 18 a 76, vela y 32 minutos de guardia a medianoche; la web no explicita 'vivir por 32'; el lema 'Live for 32' aparece en su portada). La multa de 2011 solo la da History.com. 'Disputa de pareja' y persecución del novio: History.com. 'Quien ha puesto las cadenas ya ha estado antes en otro edificio' y la hora 'casi las diez' son aproximaciones de las fuentes. No se leyó entero el PDF del panel. | VERIFICACIÓN nuevos-abril: Verificación: cifras (32 muertos, 17 heridos de bala, 6 al saltar), correo de las 9:26, juez especial de 2005, ley NICS (5/1/2008) y multa de 2011 coinciden con las fuentes. Sin morbo: no se nombra al autor y se quita el paquete que envió a una cadena de televisión. Solo se nombra a Librescu entre las víctimas."
 }

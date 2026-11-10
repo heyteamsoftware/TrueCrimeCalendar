@@ -55,15 +55,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Hay un dato que conviene apuntar. Según la portavoz del jurado, las absoluciones se acordaron tras apenas seis horas de deliberación. Los tres días siguientes los dedicaron a un solo cargo, el único en el que no hubo acuerdo."
+          "texto": "Hay un dato que conviene apuntar. El jurado deliberó varios días, y el único cargo en el que no hubo acuerdo afectaba a un solo agente."
         },
         {
           "voz": "ximena",
-          "texto": "El 29 de abril de 1992, el jurado absolvió a los cuatro. El alcalde de Los Ángeles dijo que el veredicto lo había dejado sin palabras. En pocas horas empezaron los disturbios en el cruce de Florence y Normandie."
+          "texto": "El 29 de abril de 1992, el jurado absolvió a los cuatro, salvo en un cargo. En pocas horas empezaron los disturbios en el cruce de Florence y Normandie."
         },
         {
           "voz": "ximena",
-          "texto": "Durante tres días hubo saqueos e incendios. Se desplegó la Guardia Nacional y, después, tropas federales. Murieron más de sesenta personas, casi dos mil resultaron heridas, y hubo siete mil detenidos."
+          "texto": "Durante varios días hubo saqueos e incendios. Se desplegó la Guardia Nacional y, después, tropas federales. Murieron más de sesenta personas, casi dos mil resultaron heridas, y hubo siete mil detenidos."
         },
         {
           "voz": "alvaro",
@@ -104,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Presunción de inocencia: Wind y Briseno fueron absueltos en los dos juicios y no se nombran; solo se nombra a Koon y Powell, condenados en el juicio federal. Sin detalles gráficos de la paliza. Fuentes abiertas: History.com (video, acusación, traslado a Simi Valley, absolución del 29 de abril de 1992, disturbios: más de 60 muertos, casi 2.000 heridos, 7.000 detenidos; juicio federal y condena el 17 de abril de 1993) y Los Angeles Times (30 de abril de 1992: jurado sin afroamericanos, reacciones, Comisión Christopher), más Wikipedia en inglés (Koon y Powell 30 meses; King apareció en televisión para pedir calma; indemnización civil de 3,8 millones en 1994). Contradicciones: duración del vídeo, 89 segundos (History.com) o 81 (Los Angeles Times); el guion dice «poco más de un minuto»; la ficha da «madrugada del 3 de marzo de 1991» y History.com dice «3 de marzo». La ficha dice que el jurado no llegó a un acuerdo en un cargo contra Powell. El guion dice que el juez trasladó el juicio por el escándalo; History.com y el LA Times coinciden. La muerte de King (17 de junio de 2012, 47 años, ahogamiento accidental según la autopsia): Wikipedia en inglés. «Doce días después» del 3 de marzo = 15 de marzo (History.com). Las fuentes citadas (LA Times, Wikipedia) no dicen si el jurado federal vio el vídeo; no se afirma. Cifras de Los Ángeles: History.com (más de 60 muertos, casi 2.000 heridos, 7.000 detenidos, 3.000 edificios quemados)."
+  "nota_revision": "Presunción de inocencia: Wind y Briseno fueron absueltos en los dos juicios y no se nombran; solo se nombra a Koon y Powell, condenados en el juicio federal. Sin detalles gráficos de la paliza. Fuentes abiertas: History.com (video, acusación, traslado a Simi Valley, absolución del 29 de abril de 1992, disturbios: más de 60 muertos, casi 2.000 heridos, 7.000 detenidos; juicio federal y condena el 17 de abril de 1993) y Los Angeles Times (30 de abril de 1992: jurado sin afroamericanos, reacciones, Comisión Christopher), más Wikipedia en inglés (Koon y Powell 30 meses; King apareció en televisión para pedir calma; indemnización civil de 3,8 millones en 1994). Contradicciones: duración del vídeo, 89 segundos (History.com) o 81 (Los Angeles Times); el guion dice «poco más de un minuto»; la ficha da «madrugada del 3 de marzo de 1991» y History.com dice «3 de marzo». La ficha dice que el jurado no llegó a un acuerdo en un cargo contra Powell. El guion dice que el juez trasladó el juicio por el escándalo; History.com y el LA Times coinciden. La muerte de King (17 de junio de 2012, 47 años, ahogamiento accidental según la autopsia): Wikipedia en inglés. «Doce días después» del 3 de marzo = 15 de marzo (History.com). Las fuentes citadas (LA Times, Wikipedia) no dicen si el jurado federal vio el vídeo; no se afirma. Cifras de Los Ángeles: History.com (más de 60 muertos, casi 2.000 heridos, 7.000 detenidos, 3.000 edificios quemados). | VERIFICACIÓN nuevos-abril: Verificación (Wikipedia en inglés, History, LA Times): jurado sin afroamericanos, traslado a Simi Valley, cargo sin acuerdo (Powell), 63 muertos, mensaje televisado de King (1/5/1992), 30 meses, indemnización de 3,8 millones, muerte el 17/6/2012 (Rialto, ahogamiento accidental) confirmados. Quitados: «seis horas de deliberación» y «tres días para un solo cargo» (no consta), la frase del alcalde («sin palabras», sin fuente) y «tres días» de disturbios (duraron varios más). El plazo de «doce días» hasta la acusación es de History y no lo recoge Wikipedia. Wind y Briseno no se nombran."
 }
