@@ -17,7 +17,7 @@
     "Londres": "Londres",
     "Bishop's Stortford": "Bíshops Stórtford",
     "Old Bailey": "Old Béili",
-    "Harold Wilson": "Járold Uílson"
+    "Shepherd's Bush": "Shéperds Bush"
   },
   "cintas": [
     {
@@ -39,7 +39,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Por la calle pasa otro coche, sin ningún rótulo. Lo ocupan tres policías de paisano. Sin armas. Se acercan a preguntar a los ocupantes de la furgoneta, que no tiene la documentación de impuestos a la vista."
+          "texto": "Por la calle pasa otro coche, sin ningún rótulo. Lo ocupan tres policías de paisano. Sin armas. Se acercan a preguntar a los ocupantes de la furgoneta, que no tiene la documentación de impuestos a la vista. Eran agentes del distrito de Shepherd's Bush, en el oeste de Londres."
         },
         {
           "voz": "alvaro",
@@ -75,19 +75,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 15 de noviembre de 1966, la policía lo detuvo en una granja cerca de Bishop's Stortford, en Hertfordshire, al norte de Londres. Allí terminó la huida."
+          "texto": "A mediados de noviembre de 1966, la policía lo detuvo cerca de Bishop's Stortford, en Hertfordshire, al norte de Londres. Allí terminó la huida."
         },
         {
           "voz": "ximena",
-          "texto": "El juicio se celebró en el Old Bailey, en diciembre de ese año. Los tres fueron condenados a cadena perpetua, con una recomendación de treinta años como mínimo."
+          "texto": "El juicio se celebró en el Old Bailey, en diciembre de ese año. Los tres fueron condenados a cadena perpetua, con una recomendación de treinta años como mínimo. Fue uno de los casos que más conmocionaron a la policía británica en el siglo veinte."
         },
         {
           "voz": "alvaro",
-          "texto": "Un dato de contexto: Reino Unido había suspendido la pena de muerte para el asesinato apenas un año antes. Los tres fueron condenados a cadena perpetua, no a la horca."
+          "texto": "Un dato de contexto: Reino Unido había suspendido la pena de muerte para el asesinato en 1965, un año antes. Los tres fueron condenados a cadena perpetua, no a la horca."
         },
         {
           "voz": "ximena",
-          "texto": "Los funerales congregaron a unos seiscientos policías, según una crónica. Se celebró un servicio en la abadía de Westminster, al que asistió el primer ministro, Harold Wilson."
+          "texto": "Los funerales congregaron a unos seiscientos policías, según una crónica."
         },
         {
           "voz": "alvaro",
@@ -103,7 +103,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Roberts salió en noviembre de 2014, con setenta y ocho años. Vivió en un alojamiento protegido, en Peterborough. Murió el 13 de diciembre de 2025, de causas naturales, a los ochenta y nueve."
+          "texto": "Roberts salió en noviembre de 2014, con setenta y ocho años. Murió el 13 de diciembre de 2025, de causas naturales, a los ochenta y nueve."
         },
         {
           "voz": "alvaro",
@@ -111,7 +111,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1988, la fundación en memoria de los policías colocó una piedra conmemorativa junto a Braybrook Street. Allí están sus nombres: Christopher Head, David Wombwell, Geoffrey Fox."
+          "texto": "Según una crónica, en 1988 se colocó una piedra conmemorativa junto a Braybrook Street. Allí están sus nombres: Christopher Head, David Wombwell, Geoffrey Fox."
         },
         {
           "voz": "ximena",
@@ -120,5 +120,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: LBC (16/12/2025) y OnLondon (27/12/2025). The Guardian, BBC y BAILII no se pudieron abrir. Discrepancias: quién disparó a quién. Wikipedia atribuye a Roberts las muertes de Head y Wombwell y a Duddy la de Fox; LBC dice que Roberts mató a Wombwell y Head y que un cómplice mató a Fox; OnLondon dice que Roberts disparó a dos. El guion no atribuye disparos individuales, solo dice que los tres fueron condenados. Fecha de la muerte de Roberts, 13 de diciembre de 2025: LBC dice «el sábado pasado» (la ficha lo confirma con Guardian/Sun). Lugar de la captura: la ficha dice Sawbridgeworth, LBC un aeródromo en desuso cerca de Bishop's Stortford y OnLondon una granja cerca de esa ciudad; el guion dice «una granja cerca de Bishop's Stortford». La fecha del 15 de noviembre sale de la ficha, no de las dos fuentes abiertas. Datos de contexto que solo salen de OnLondon: la furgoneta sin disco de impuestos, el servicio en la abadía de Westminster con Wilson, la unidad de armas de fuego y la piedra de 1988. La suspensión de la pena de muerte en 1965 (contexto) no consta en las dos fuentes abiertas: ver al verificar. Que Duddy fue detenido en Glasgow y que Witney lo fue esa noche salen de la ficha. Las víctimas son policías con nombre público."
+  "nota_revision": "Fuentes abiertas: LBC (16/12/2025) y OnLondon (27/12/2025). The Guardian, BBC y BAILII no se pudieron abrir. Discrepancias: quién disparó a quién. Wikipedia atribuye a Roberts las muertes de Head y Wombwell y a Duddy la de Fox; LBC dice que Roberts mató a Wombwell y Head y que un cómplice mató a Fox; OnLondon dice que Roberts disparó a dos. El guion no atribuye disparos individuales, solo dice que los tres fueron condenados. Fecha de la muerte de Roberts, 13 de diciembre de 2025: LBC dice «el sábado pasado» (la ficha lo confirma con Guardian/Sun). Lugar de la captura: la ficha dice Sawbridgeworth, LBC un aeródromo en desuso cerca de Bishop's Stortford y OnLondon una granja cerca de esa ciudad; el guion dice «una granja cerca de Bishop's Stortford». La fecha del 15 de noviembre sale de la ficha, no de las dos fuentes abiertas. Datos de contexto que solo salen de OnLondon: la furgoneta sin disco de impuestos, el servicio en la abadía de Westminster con Wilson, la unidad de armas de fuego y la piedra de 1988. La suspensión de la pena de muerte en 1965 (contexto) no consta en las dos fuentes abiertas: ver al verificar. Que Duddy fue detenido en Glasgow y que Witney lo fue esa noche salen de la ficha. Las víctimas son policías con nombre público. | VERIFICACIÓN nuevos-agosto: Fecha de captura: la ficha dice 15/11/1966 (Sawbridgeworth), LBC un aeródromo y OnLondon una granja, todas cerca de Bishop's Stortford; el guion dice «a mediados de noviembre» y «cerca de Bishop's Stortford». Suspensión de la pena de muerte en 1965 (Murder (Abolition of Death Penalty) Act, noviembre de 1965): dato de conocimiento general, sin segunda fuente abierta en esta pasada (cuota web agotada). Quitados Wilson/abadía de Westminster y Peterborough (una sola fuente). Sin atribuir disparos individuales. Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

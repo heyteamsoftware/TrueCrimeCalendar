@@ -16,31 +16,86 @@
     "Stephen Kay": "Stíven Kei",
     "Andrea Hall": "Andréa Jol",
     "San Quentin": "San Cuéntin",
-    "San Gabriel": "San Gabriél" },
+    "San Gabriel": "San Gabriél"
+  },
   "cintas": [
     {
       "n": 1,
       "titulo": "Una furgoneta sin ventanas",
       "tipo": "hallazgo",
       "bloques": [
-        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Lawrence Bittaker, el asesino de la furgoneta de herramientas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
-        { "voz": "ximena", "texto": "Cinta uno. Una furgoneta sin ventanas." },
-        { "voz": "ximena", "texto": "Noviembre de 1979, sur de California. Entre las pertenencias de dos hombres detenidos por una infracción menor, los agentes encuentran fotografías de chicas adolescentes. Y una cinta de casete. Una cinta grabada dentro de una furgoneta." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Fíjate en el objeto. Una cinta de audio. En este archivo manejamos muchas, pero nunca habíamos tenido una como esta. No la vamos a describir. Lo que importa ahora es qué significaba que existiera: que alguien grabó lo que hacía." },
-        { "voz": "ximena", "texto": "Uno de esos hombres es Lawrence Bittaker. Nació el 27 de septiembre de 1940 en Pittsburgh y fue adoptado de bebé. Según los registros, desde muy joven entró y salió de reformatorios y cárceles por robos y otros delitos." },
-        { "voz": "ximena", "texto": "En 1977, en una prisión de San Luis Obispo, conoció a Roy Norris, ocho años más joven, que cumplía condena por agresiones sexuales. El expediente de Norris tiene su propia caja en este archivo, y cuenta lo que ocurrió desde su lado." },
-        { "voz": "ximena", "texto": "Bittaker salió en libertad a finales de 1978. Norris, en enero de 1979. A comienzos de aquel año, Bittaker compró una furgoneta de carga, sin ventanas laterales. Se convertiría en el escenario de los crímenes." },
-        { "voz": "alvaro", "texto": "Dos hombres con largos historiales por violencia, en la calle con pocos meses de diferencia. Y una furgoneta. Cualquier agente de libertad condicional sabe lo que eso significa en el papel, y lo peligroso que es. Pero la libertad vigilada de entonces no lo vio venir." },
-        { "voz": "ximena", "texto": "Entre junio y octubre de 1979, secuestraron a cinco chicas de entre trece y dieciocho años en el sur de California. Las abordaban en la costa, en carreteras o en paradas de autobús, y les ofrecían llevarlas. Ninguna volvió a casa, y sus familias empezaron una espera que, para algunas, no ha terminado." },
-        { "voz": "alvaro", "texto": "Cinco chicas en cuatro meses. ¿Cómo es posible que no los detectaran antes? Porque, en aquella época, la desaparición de una adolescente se trataba a menudo como una fuga voluntaria." },
-        { "voz": "ximena", "texto": "Además, la mayoría de los cuerpos no aparecieron, o tardaron mucho en aparecer. Algunos habían quedado en zonas remotas de las montañas de San Gabriel, al norte de Los Ángeles." },
-        { "voz": "ximena", "texto": "La última víctima, una chica de dieciséis años, desapareció en la noche de Halloween de 1979. Su cuerpo fue hallado poco después. Eso, y un testimonio de un antiguo compañero de prisión de Norris, puso a la policía sobre la pista." },
-        { "voz": "alvaro", "texto": "Otro dato que me importa: una joven había denunciado ante la policía de Hermosa Beach, a finales de septiembre, que dos hombres la habían atacado dentro de una furgoneta, y más tarde reconoció a sus agresores en fotografías. Una denuncia que llegó a tiempo. Sin ella, la lista habría sido más larga." },
-        { "voz": "ximena", "texto": "La prensa los llamaría Toolbox Killers, los asesinos de la caja de herramientas, por los utensilios que llevaban en la furgoneta. Los agentes vigilaron a la pareja. El 20 de noviembre de 1979 los detuvieron, a los dos, por violar su libertad condicional. A Bittaker, en el motel de Burbank donde vivía." },
-        { "voz": "alvaro", "texto": "Los detienen por algo menor, para tenerlos dentro mientras buscan. No hay cuerpos ni confesiones. Y de pronto aparecen las fotografías y la cinta." },
-        { "voz": "ximena", "texto": "Norris habló primero. Para evitar la pena de muerte aceptó declarar contra Bittaker, y guió a los investigadores hasta los lugares donde habían dejado a algunas de las víctimas." },
-        { "voz": "ximena", "texto": "Bittaker lo negó todo. Dijo que no había participado. Pero los investigadores tenían algo más que testimonios: fotografías, una furgoneta y una cinta de audio." },
-        { "voz": "alvaro", "texto": "Esa cinta iba a sonar en un tribunal. Nadie que estuvo allí pudo olvidarlo. Eso lo veremos en la segunda cinta, pero ya adelanto que fue la pieza que ninguna defensa pudo borrar." }
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Lawrence Bittaker, el asesino de la furgoneta de herramientas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una furgoneta sin ventanas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Noviembre de 1979, sur de California. Entre las pertenencias de dos hombres detenidos por cargos menores, los agentes encuentran fotografías de chicas adolescentes. Y una cinta de casete. Una cinta grabada dentro de una furgoneta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Fíjate en el objeto. Una cinta de audio. En este archivo manejamos muchas, pero nunca habíamos tenido una como esta. No la vamos a describir. Lo que importa ahora es qué significaba que existiera: que alguien grabó lo que hacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de esos hombres es Lawrence Bittaker. Nació el 27 de septiembre de 1940 en Pittsburgh y fue adoptado de bebé. Según los registros, desde muy joven entró y salió de reformatorios y cárceles por robos y otros delitos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1977, en una prisión de San Luis Obispo, conoció a Roy Norris, ocho años más joven, que cumplía condena por agresiones sexuales. El expediente de Norris tiene su propia caja en este archivo, y cuenta lo que ocurrió desde su lado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bittaker salió en libertad en octubre de 1978. Norris, en enero de 1979. A comienzos de aquel año, Bittaker compró una furgoneta de carga, sin ventanas laterales. Se convertiría en el escenario de los crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hombres con largos historiales por violencia, en la calle con pocos meses de diferencia. Y una furgoneta. Cualquier agente de libertad condicional sabe lo que eso significa en el papel, y lo peligroso que es. Pero la libertad vigilada de entonces no lo vio venir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre junio y octubre de 1979, secuestraron a cinco chicas de entre trece y dieciocho años en el sur de California. Las abordaban en la costa, en carreteras o en paradas de autobús, y les ofrecían llevarlas. Ninguna volvió a casa, y sus familias empezaron una espera que, para algunas, no ha terminado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco chicas en cuatro meses. ¿Cómo es posible que no los detectaran antes? Porque, en aquella época, la desaparición de una adolescente se trataba a menudo como una fuga voluntaria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Además, la mayoría de los cuerpos no aparecieron, o tardaron mucho en aparecer. Algunos habían quedado en zonas remotas de las montañas de San Gabriel, al norte de Los Ángeles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La última víctima, una chica de dieciséis años, desapareció en la noche de Halloween de 1979. Su cuerpo fue hallado poco después. Eso, y un testimonio de un antiguo compañero de prisión de Norris, puso a la policía sobre la pista."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro dato que me importa: una joven había denunciado ante la policía de Hermosa Beach, a finales de septiembre, que dos hombres la habían atacado dentro de una furgoneta, y más tarde reconoció a sus agresores en fotografías. Una denuncia que llegó a tiempo. Sin ella, la lista habría sido más larga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa los llamaría Toolbox Killers, los asesinos de la caja de herramientas, por los utensilios que llevaban en la furgoneta. Los agentes vigilaron a la pareja. El 20 de noviembre de 1979 los detuvieron a los dos: a Norris por violar su libertad condicional y a Bittaker, en el motel de Burbank donde vivía, por la denuncia de septiembre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los detienen por cargos menores, para tenerlos dentro mientras buscan. No hay cuerpos ni confesiones. Y de pronto aparecen las fotografías y la cinta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Norris habló primero. Para evitar la pena de muerte aceptó declarar contra Bittaker, y guió a los investigadores hasta los lugares donde habían dejado a algunas de las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bittaker negó su participación en las muertes y atribuyó los hechos a Norris. Pero los investigadores tenían algo más que testimonios: fotografías, una furgoneta y una cinta de audio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa cinta iba a sonar en un tribunal. Nadie que estuvo allí pudo olvidarlo. Eso lo veremos en la segunda cinta, pero ya adelanto que fue la pieza que ninguna defensa pudo borrar."
+        }
       ]
     },
     {
@@ -48,28 +103,88 @@
       "titulo": "Una sala en Torrance",
       "tipo": "juicio",
       "bloques": [
-        { "voz": "ximena", "texto": "Cinta dos. Una sala en Torrance." },
-        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Lawrence Bittaker, el hombre de la furgoneta, condenado a muerte por cinco asesinatos en 1979. Empezamos por el juicio." },
-        { "voz": "ximena", "texto": "El juicio contra Bittaker empezó el 19 de enero de 1981, en Torrance, California. El testigo estrella de la acusación fue su antiguo cómplice. Roy Norris subió al estrado y relató los cinco crímenes." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Es el momento más delicado de un juicio así. El jurado escucha a un hombre que ha confesado cinco asesinatos y que se ha librado de la pena de muerte por declarar. ¿Por qué creerle? La defensa insistió en eso: que el asesino era Norris, y que había incriminado a Bittaker." },
-        { "voz": "ximena", "texto": "La respuesta estaba en las pruebas. Fotografías de algunas víctimas, objetos personales y la cinta de audio grabada en la furgoneta durante uno de los crímenes. Se reprodujo ante el jurado. No vamos a describirla." },
-        { "voz": "alvaro", "texto": "Anoto lo que el jurado tenía delante: un testigo con motivos para mentir y unas pruebas que no dependían de él. Por eso la defensa de Bittaker, centrada en desacreditar a Norris, no bastó. Un buen juicio se apoya en lo que se puede comprobar." },
-        { "voz": "ximena", "texto": "Basta decir que fiscales y agentes con muchos años de experiencia contaron después que nunca pudieron olvidarla. Stephen Kay, el fiscal, la recordó como uno de los casos más duros de su carrera." },
-        { "voz": "ximena", "texto": "Bittaker también declaró. Admitió parte de los hechos, pero culpó de las muertes a Norris. En el juicio intentó cargar toda la culpa sobre él. El jurado no le creyó." },
-        { "voz": "alvaro", "texto": "Dos hombres, cada uno con su versión y cada uno señalando al otro. Es el patrón que los investigadores han visto repetirse en otros expedientes de parejas de cómplices. En este caso, las pruebas materiales decidieron." },
-        { "voz": "ximena", "texto": "En febrero de 1981, el jurado declaró a Bittaker culpable de los cinco asesinatos y de otros veintiún delitos. El 24 de marzo fue condenado a muerte." },
-        { "voz": "ximena", "texto": "Nunca fue ejecutado. Sus recursos fueron rechazados en 1989 por el Tribunal Supremo de California y en 1990 por el Tribunal Supremo de Estados Unidos, pero la ejecución se fue aplazando durante décadas." },
-        { "voz": "ximena", "texto": "Roy Norris, por su acuerdo, fue condenado a entre cuarenta y cinco años y cadena perpetua. Desde 2009 pudo pedir la libertad condicional, y nunca la obtuvo." },
-        { "voz": "ximena", "texto": "Pasó casi cuarenta años en el corredor de la muerte de San Quentin. Murió allí el 13 de diciembre de 2019, a los setenta y nueve años, por causas naturales. Roy Norris murió en prisión pocos meses después, el 24 de febrero de 2020." },
-        { "voz": "alvaro", "texto": "Casi cuarenta años. Para las familias, toda una vida esperando. Y para dos de ellas, una espera aún sin final: dos de las chicas nunca fueron encontradas. Esa es la parte del acuerdo con Norris que no pudo cumplirse." },
-        { "voz": "ximena", "texto": "Los restos de dos de las chicas aparecieron en febrero de 1980, gracias a las indicaciones de Norris. Los de una chica de dieciocho años, Andrea Hall, y de una joven de dieciséis nunca se han encontrado." },
-        { "voz": "ximena", "texto": "Eran adolescentes que hacían su vida en la costa de California: iban a la playa, volvían de una reunión de la iglesia o esperaban el autobús." },
-        { "voz": "alvaro", "texto": "Por qué se sigue recordando este caso: mostró la importancia de escuchar a quienes se atreven a denunciar, como aquel antiguo preso y la joven que denunció el ataque de septiembre. Y abrió el debate sobre el seguimiento de presos violentos cuando salen en libertad." },
-        { "voz": "ximena", "texto": "Se estudia también en criminología como ejemplo de crímenes cometidos por parejas de cómplices: dos personas que, juntas, se atreven a lo que quizá ninguna haría sola." },
-        { "voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a las cinco chicas de entre trece y dieciocho años que murieron en 1979. Sus familias nunca dejaron de pronunciar sus nombres." },
-        { "voz": "ximena", "texto": "Fin del expediente de Lawrence Bittaker, el asesino de la furgoneta de herramientas. Archivo de TRUE CRIME CALENDAR." }
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una sala en Torrance."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Lawrence Bittaker, el hombre de la furgoneta, condenado a muerte por cinco asesinatos en 1979. Empezamos por el juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio contra Bittaker empezó el 19 de enero de 1981, en Torrance, California. El testigo estrella de la acusación fue su antiguo cómplice. Roy Norris subió al estrado y relató los cinco crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Es el momento más delicado de un juicio así. El jurado escucha a un hombre que ha confesado cinco asesinatos y que se ha librado de la pena de muerte por declarar. ¿Por qué creerle? La defensa insistió en eso: que el asesino era Norris, y que había incriminado a Bittaker."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La respuesta estaba en las pruebas. Fotografías de algunas víctimas, objetos personales y la cinta de audio grabada en la furgoneta durante uno de los crímenes. Se reprodujo ante el jurado. No vamos a describirla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que el jurado tenía delante: un testigo con motivos para mentir y unas pruebas que no dependían de él. Por eso la defensa de Bittaker, centrada en desacreditar a Norris, no bastó. Un buen juicio se apoya en lo que se puede comprobar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Basta decir que fiscales y agentes con muchos años de experiencia contaron después que nunca pudieron olvidarla. Stephen Kay, el fiscal, la recordó como uno de los casos más duros de su carrera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bittaker también declaró, el 5 de febrero. Negó haber matado, culpó a Norris y dio su propia explicación de algunas pruebas. El jurado no le creyó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hombres, cada uno con su versión y cada uno señalando al otro. Es el patrón que los investigadores han visto repetirse en otros expedientes de parejas de cómplices. En este caso, las pruebas materiales decidieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En febrero de 1981, el jurado declaró a Bittaker culpable de los cinco asesinatos y de otros veintiún delitos. El 24 de marzo fue condenado a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nunca fue ejecutado. Sus recursos fueron rechazados en 1989 por el Tribunal Supremo de California y en 1990 por el Tribunal Supremo de Estados Unidos, pero la ejecución se fue aplazando durante décadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roy Norris, por su acuerdo, fue condenado a entre cuarenta y cinco años y cadena perpetua. Desde 2009 pudo pedir la libertad condicional, y nunca la obtuvo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasó casi cuarenta años en el corredor de la muerte de San Quentin. Murió allí el 13 de diciembre de 2019, a los setenta y nueve años, por causas naturales. Roy Norris murió en prisión apenas dos meses después, el 24 de febrero de 2020."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Casi cuarenta años. Para las familias, toda una vida esperando. Y para dos de ellas, una espera aún sin final: dos de las chicas nunca fueron encontradas. Esa es la parte del acuerdo con Norris que no pudo cumplirse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los restos de dos de las chicas aparecieron en febrero de 1980, gracias a las indicaciones de Norris. Los de una chica de dieciocho años, Andrea Hall, y de una joven de dieciséis nunca se han encontrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran adolescentes que hacían su vida en la costa de California: iban a la playa, volvían de una reunión de la iglesia o esperaban el autobús."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por qué se sigue recordando este caso: mostró la importancia de escuchar a quienes se atreven a denunciar, como aquel antiguo preso y la joven que denunció el ataque de septiembre. Y abrió el debate sobre el seguimiento de presos violentos cuando salen en libertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se estudia también en criminología como ejemplo de crímenes cometidos por parejas de cómplices: dos personas que, juntas, se atreven a lo que quizá ninguna haría sola."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a las cinco chicas de entre trece y dieciocho años que murieron en 1979. Sus familias nunca dejaron de pronunciar sus nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Lawrence Bittaker, el asesino de la furgoneta de herramientas. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Pareja con norris: mismos hechos y cifras (cinco chicas de 13 a 18 años, junio-octubre de 1979; detención 20/11/1979; Norris guía a los restos de dos de ellas el 9/2/1980; Schaefer y Hall nunca aparecieron; juicio de Bittaker en enero de 1981; veredicto en febrero de 1981; condena a muerte en marzo de 1981; murió en San Quentin en diciembre de 2019; Norris el 24/2/2020). Contado desde Bittaker: infancia, la furgoneta, la cinta, el juicio, el cumplimiento. Discrepancias: 1) Fecha de salida de Bittaker: 15/10/1978 (Wikipedia) o noviembre de 1978 (sentencia de 1989, según norris.json); el guion dice «a finales de 1978». 2) Furgoneta: comprada en febrero de 1979 (Wikipedia) o poco después de su salida (norris.json); el guion dice «a comienzos de aquel año». 3) Víctimas menores: la regla común exige familia que haya hablado en público o nombre histórico; no encontré declaraciones de las familias (NBC, KTVU, CBS no las recogen), así que NO se nombra a las menores (Lucinda Schaefer, 16; Jacqueline Gilliam, 15; Jacqueline Leah Lamp, 13; Shirley Ledford, 16) y sí a Andrea Hall (18, adulta). norris.json las nombra a todas: si el coordinador decide mantener los nombres allí, aquí se pueden restaurar (estaban en el v2). 4) Edad de Shirley Ledford: 18 según la sentencia de 1989; 16 según CDCR/UPI/prensa; el guion dice dieciséis. 5) Pena de Norris: el guion no la detalla (norris.json: 45 años a cadena perpetua; Wikipedia, una sección dice 30 años de elegibilidad). 6) Juicio en Torrance desde el 19/1/1981 y condena a muerte el 24/3/1981 (Wikipedia); veredicto «en febrero de 1981», cinco asesinatos y otros veintiún delitos (norris.json, sin segunda fuente propia). 7) Recursos: rechazados en 1989 por el Tribunal Supremo de California y en 1990 por el de Estados Unidos (Wikipedia). 8) Fiscal Stephen Kay: «uno de los casos más duros» (Wikipedia). 9) «Casi cuarenta años» en el corredor de la muerte: de 1981 a 2019 son 38; el v2 decía lo mismo. 10) La grabación: se menciona sin describirla. 11) El soplo lo da «un antiguo compañero de prisión de Norris» (Joseph Jackson según Wikipedia; no se nombra). 12) La joven del ataque de septiembre: v2 decía que «logró escapar»; norris.json aclara que a una la soltaron y otra escapó; el guion dice solo que denunció y reconoció a sus agresores. 13) Los restos de dos chicas aparecieron el 9/2/1980; la de dieciséis años que no aparece es Lucinda Schaefer y la de dieciocho, Andrea Hall (CDCR, CBS, KTVU). Wikipedia dice que algunas víctimas nunca se encontraron. Frase del inspector sobre la libertad vigilada: opinión suya, no un dato. No se describen los métodos ni la grabación."
+  "nota_revision": "Pareja con norris: mismos hechos y cifras (cinco chicas de 13 a 18 años, junio-octubre de 1979; detención 20/11/1979; Norris guía a los restos de dos de ellas el 9/2/1980; Schaefer y Hall nunca aparecieron; juicio de Bittaker en enero de 1981; veredicto en febrero de 1981; condena a muerte en marzo de 1981; murió en San Quentin en diciembre de 2019; Norris el 24/2/2020). Contado desde Bittaker: infancia, la furgoneta, la cinta, el juicio, el cumplimiento. Discrepancias: 1) Fecha de salida de Bittaker: 15/10/1978 (Wikipedia) o noviembre de 1978 (sentencia de 1989, según norris.json); el guion dice «a finales de 1978». 2) Furgoneta: comprada en febrero de 1979 (Wikipedia) o poco después de su salida (norris.json); el guion dice «a comienzos de aquel año». 3) Víctimas menores: la regla común exige familia que haya hablado en público o nombre histórico; no encontré declaraciones de las familias (NBC, KTVU, CBS no las recogen), así que NO se nombra a las menores (Lucinda Schaefer, 16; Jacqueline Gilliam, 15; Jacqueline Leah Lamp, 13; Shirley Ledford, 16) y sí a Andrea Hall (18, adulta). norris.json las nombra a todas: si el coordinador decide mantener los nombres allí, aquí se pueden restaurar (estaban en el v2). 4) Edad de Shirley Ledford: 18 según la sentencia de 1989; 16 según CDCR/UPI/prensa; el guion dice dieciséis. 5) Pena de Norris: el guion no la detalla (norris.json: 45 años a cadena perpetua; Wikipedia, una sección dice 30 años de elegibilidad). 6) Juicio en Torrance desde el 19/1/1981 y condena a muerte el 24/3/1981 (Wikipedia); veredicto «en febrero de 1981», cinco asesinatos y otros veintiún delitos (norris.json, sin segunda fuente propia). 7) Recursos: rechazados en 1989 por el Tribunal Supremo de California y en 1990 por el de Estados Unidos (Wikipedia). 8) Fiscal Stephen Kay: «uno de los casos más duros» (Wikipedia). 9) «Casi cuarenta años» en el corredor de la muerte: de 1981 a 2019 son 38; el v2 decía lo mismo. 10) La grabación: se menciona sin describirla. 11) El soplo lo da «un antiguo compañero de prisión de Norris» (Joseph Jackson según Wikipedia; no se nombra). 12) La joven del ataque de septiembre: v2 decía que «logró escapar»; norris.json aclara que a una la soltaron y otra escapó; el guion dice solo que denunció y reconoció a sus agresores. 13) Los restos de dos chicas aparecieron el 9/2/1980; la de dieciséis años que no aparece es Lucinda Schaefer y la de dieciocho, Andrea Hall (CDCR, CBS, KTVU). Wikipedia dice que algunas víctimas nunca se encontraron. Frase del inspector sobre la libertad vigilada: opinión suya, no un dato. No se describen los métodos ni la grabación. Verificación estrella-6: Bittaker declaró el 5/2/1981 negando haber matado y culpando a Norris (antes «admitió parte»); Bittaker fue detenido por la denuncia de septiembre, no por violar la libertad condicional; salió en octubre de 1978."
 }

@@ -18,7 +18,9 @@
     "Samarcanda": "Samarcánda",
     "Michele Santoro": "Miquéle Santóro",
     "Sicindustria": "Sicindústria",
-    "Rai Tre": "Rai Tre"
+    "Rai Tre": "Rai Tre",
+    "Corriere della Sera": "Corriére de la Séra",
+    "Agate": "Agáte"
   },
   "cintas": [
     {
@@ -64,7 +66,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 29 de agosto de 1991, hacia las siete y media de la mañana, Grassi salió de su casa en la via Alfieri para ir andando a trabajar. Un hombre le disparó cuatro veces. Tenía sesenta y siete años."
+          "texto": "El 29 de agosto de 1991, hacia las siete y media de la mañana, Grassi salió de su casa en la via Alfieri para ir andando a trabajar. Un hombre le disparó. Tenía sesenta y siete años."
         },
         {
           "voz": "ximena",
@@ -80,7 +82,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Favaloro se convirtió en arrepentido y ayudó a reconstruir la emboscada. Su testimonio fue decisivo para condenar a Madonia a cadena perpetua. Hoy la cumple en régimen de aislamiento especial."
+          "texto": "Favaloro se convirtió en arrepentido y ayudó a reconstruir la emboscada. Su testimonio fue decisivo para condenar a Madonia a cadena perpetua."
         },
         {
           "voz": "alvaro",
@@ -96,11 +98,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pocos meses después del asesinato, una ley creó un fondo de solidaridad para las víctimas de la extorsión. Su muerte impulsó un movimiento de comerciantes que denunciaban el pizzo."
+          "texto": "En 1992, una ley creó un fondo de solidaridad para las víctimas de la extorsión. Su muerte impulsó un movimiento de comerciantes que denunciaban el pizzo."
         },
         {
           "voz": "ximena",
-          "texto": "El 20 de septiembre de 1991, Santoro y otro presentador organizaron una noche en su memoria, emitida por canales públicos y privados. En 2023, en el lugar del crimen, su mujer y sus hijos volvieron a recordarlo con autoridades de la ciudad."
+          "texto": "El 20 de septiembre de 1991, Santoro y otro presentador organizaron una noche en su memoria, emitida por canales públicos y privados. En 2023, en el lugar del crimen, su familia volvió a recordarlo con autoridades de la ciudad."
         },
         {
           "voz": "alvaro",
@@ -117,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Il Post (2016), BlogSicilia/Italpress (2023) y Wikipedia en italiano (carta y juicios). L'Espresso, La Sicilia y Sky TG24 (archivo) no se abrieron. Discrepancias: Il Post dice que fundó MIMA (ropa interior femenina, 250 trabajadores); la ficha, BlogSicilia y Wikipedia hablan de Sigma, de pijamas y unos cien empleados: el guion usa Sigma, pijamas y cien. La hora del asesinato: 7:30 (ficha, Il Post, Wikipedia) o 7:45 (BlogSicilia): el guion dice hacia las siete y media. Madonia: Wikipedia da el nombre «Salvatore» y la ficha, «Salvino»; se usa Salvino. Fecha de la carta, 10 de enero de 1991 (Wikipedia; la ficha dice «en enero»). Detención de Madonia y Favaloro en octubre de 1991: Wikipedia. Favaloro, arrepentido y decisivo en la condena: ficha y Wikipedia. Sentencia de 2008 (18 de abril, proceso «Agate Mariano + 56»): Wikipedia; la ficha dice «sentencia firme de 2008» y no se pudo confirmar otro fallo de 2006. El cargo «cincuenta millones de liras», el programa del 11 de abril de 1991 y la carta al Corriere (30 de abril) son de Il Post y Wikipedia; el dictamen del juez de Catania es del 4 de abril de 1991 (Wikipedia). La ley antiextorsión «pocos meses después»: Wikipedia solo dice «unos meses»; la ficha dice que su muerte impulsó el movimiento. Qué protección recibió Grassi no consta en las fuentes abiertas; el guion lo deja abierto. Lo de «diecisiete años» es cálculo (1991 a 2008)."
+  "nota_revision": "Fuentes abiertas: Il Post (2016), BlogSicilia/Italpress (2023) y Wikipedia en italiano (carta y juicios). L'Espresso, La Sicilia y Sky TG24 (archivo) no se abrieron. Discrepancias: Il Post dice que fundó MIMA (ropa interior femenina, 250 trabajadores); la ficha, BlogSicilia y Wikipedia hablan de Sigma, de pijamas y unos cien empleados: el guion usa Sigma, pijamas y cien. La hora del asesinato: 7:30 (ficha, Il Post, Wikipedia) o 7:45 (BlogSicilia): el guion dice hacia las siete y media. Madonia: Wikipedia da el nombre «Salvatore» y la ficha, «Salvino»; se usa Salvino. Fecha de la carta, 10 de enero de 1991 (Wikipedia; la ficha dice «en enero»). Detención de Madonia y Favaloro en octubre de 1991: Wikipedia. Favaloro, arrepentido y decisivo en la condena: ficha y Wikipedia. Sentencia de 2008 (18 de abril, proceso «Agate Mariano + 56»): Wikipedia; la ficha dice «sentencia firme de 2008» y no se pudo confirmar otro fallo de 2006. El cargo «cincuenta millones de liras», el programa del 11 de abril de 1991 y la carta al Corriere (30 de abril) son de Il Post y Wikipedia; el dictamen del juez de Catania es del 4 de abril de 1991 (Wikipedia). La ley antiextorsión «pocos meses después»: Wikipedia solo dice «unos meses»; la ficha dice que su muerte impulsó el movimiento. Qué protección recibió Grassi no consta en las fuentes abiertas; el guion lo deja abierto. Lo de «diecisiete años» es cálculo (1991 a 2008). | VERIFICACIÓN nuevos-agosto: Quitados el régimen penitenciario de Madonia y «su mujer» en 2023 (sin fuente); la ley del fondo de solidaridad es de 1992. Madonia y Favaloro: detenciones y sentencia de 2008 solo en Wikipedia/ficha."
 }

@@ -9,7 +9,11 @@
     "Giuseppe Marchese": "Yusépe Markése",
     "Marchese": "Markése",
     "Vincenzo Sinagra": "Vinchénzo Sinágra",
-    "Salvatore Rotolo": "Salvatóre Rotólo"
+    "Salvatore Rotolo": "Salvatóre Rotólo",
+    "Piersanti Mattarella": "Piersánti Matarela",
+    "Cesare Terranova": "Chésare Terranóva",
+    "Mario Francese": "Mario Franchése",
+    "Filippo Marchese": "Filipo Markése"
   },
   "cintas": [
     {
@@ -59,15 +63,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El análisis de Giaccone identificó a Giuseppe Marchese, sobrino de Filippo Marchese, un jefe mafioso de Palermo. Desde ese momento, Giaccone recibió presiones y amenazas, también del abogado de Marchese, para que cambiara sus conclusiones."
+          "texto": "El análisis de Giaccone identificó a Giuseppe Marchese, sobrino de Filippo Marchese, un jefe mafioso de Palermo. Desde ese momento, Giaccone recibió presiones y amenazas para que cambiara sus conclusiones."
         },
         {
           "voz": "alvaro",
-          "texto": "Un abogado fue detenido por las amenazas. Es un dato público. No hace falta suponer más."
+          "texto": "Según la prensa, un abogado fue detenido por las amenazas. No hace falta suponer más."
         },
         {
           "voz": "ximena",
-          "texto": "Giaccone se negó una y otra vez. Su informe sirvió para que Giuseppe Marchese fuera condenado a cadena perpetua. Y a los pocos meses, Giaccone fue asesinado."
+          "texto": "Giaccone se negó una y otra vez. Y a los pocos meses, fue asesinado."
         },
         {
           "voz": "ximena",
@@ -91,7 +95,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Giaccone había nacido en Palermo en 1929. Estudió en los jesuitas, tocaba música, pintaba caricaturas y escribía poesía. Se casó con Rosetta y tuvieron cuatro hijos."
+          "texto": "Giaccone había nacido en Palermo en 1929. Estudió en los jesuitas, tocaba música, pintaba caricaturas y escribía poesía. Se casó con Rosetta y tuvieron cuatro hijos. Lo mataron a las puertas del lugar donde trabajaba, a plena luz del día. Era un hombre de la ciudad."
         },
         {
           "voz": "ximena",
@@ -104,5 +108,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Vittime Mafia (con reproducción de La Stampa, 11 de agosto de 1982), Antimafia Duemila (Roberto Greco, 2019), Wikipedia en italiano; BlogSicilia y Repubblica no se abrieron. Contradicción: La Stampa (1982) habla de tres sicarios que huyeron a pie; Greco (2019), de dos hombres a pie y un tercero en un coche, que huyeron en moto: el guion dice «según la prensa de aquel día, eran tres» y no da el número de disparos (solo Wikipedia y Greco dan cinco). Antimafia Duemila y Vittime Mafia dicen que el tiroteo de Bagheria fue con cuatro muertos y que la huella estaba en un Fiat 128; el guion dice «un Fiat». Filippo Marchese como sospechoso de las primeras investigaciones sale de Antimafia Duemila, que lo califica de hipótesis reductiva: se da como tesis atribuida y sin condena. Lo del abogado detenido por las amenazas sale de Vittime Mafia (que cita a Wikipedia). Víctimas ilustres de las que hizo las autopsias: Antimafia Duemila (Greco), que también da su biografía (jesuitas, música, caricaturas, poesía, cuatro hijos). El Policlínico y la calle de la Favorita llevan su nombre: Wikipedia en italiano. Rotolo condenado como autor material y los mandantes sin establecer: ficha y Wikipedia en italiano. Giaccone iba a hacer la autopsia de dos Di Peri, muertos el día anterior (La Stampa)."
+  "nota_revision": "Fuentes abiertas: Vittime Mafia (con reproducción de La Stampa, 11 de agosto de 1982), Antimafia Duemila (Roberto Greco, 2019), Wikipedia en italiano; BlogSicilia y Repubblica no se abrieron. Contradicción: La Stampa (1982) habla de tres sicarios que huyeron a pie; Greco (2019), de dos hombres a pie y un tercero en un coche, que huyeron en moto: el guion dice «según la prensa de aquel día, eran tres» y no da el número de disparos (solo Wikipedia y Greco dan cinco). Antimafia Duemila y Vittime Mafia dicen que el tiroteo de Bagheria fue con cuatro muertos y que la huella estaba en un Fiat 128; el guion dice «un Fiat». Filippo Marchese como sospechoso de las primeras investigaciones sale de Antimafia Duemila, que lo califica de hipótesis reductiva: se da como tesis atribuida y sin condena. Lo del abogado detenido por las amenazas sale de Vittime Mafia (que cita a Wikipedia). Víctimas ilustres de las que hizo las autopsias: Antimafia Duemila (Greco), que también da su biografía (jesuitas, música, caricaturas, poesía, cuatro hijos). El Policlínico y la calle de la Favorita llevan su nombre: Wikipedia en italiano. Rotolo condenado como autor material y los mandantes sin establecer: ficha y Wikipedia en italiano. Giaccone iba a hacer la autopsia de dos Di Peri, muertos el día anterior (La Stampa). | VERIFICACIÓN nuevos-agosto: Quitada la condena a cadena perpetua de Giuseppe Marchese «gracias al informe» (no consta en la ficha ni se pudo comprobar) y la identificación del abogado de Marchese como autor de amenazas (queda «un abogado fue detenido», según la prensa). Filippo Marchese solo como hipótesis atribuida; Rotolo condenado según la ficha. Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

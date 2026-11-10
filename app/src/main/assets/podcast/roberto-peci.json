@@ -12,7 +12,10 @@
     "Senzani": "Sensáni",
     "RAI": "Rai",
     "Sergio Zavoli": "Sérchio Savóli",
-    "Aldo Moro": "Áldo Móro"
+    "Aldo Moro": "Áldo Móro",
+    "Corriere della Sera": "Corriére de la Séra",
+    "Veltroni": "Veltróni",
+    "Guidelli": "Guidéli"
   },
   "cintas": [
     {
@@ -94,7 +97,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Roberto Peci era instalador de antenas, deportista, hijo y hermano. No era un símbolo ni un mensaje para nadie. Hoy una calle de San Benedetto del Tronto lleva su nombre: la misma por la que lo secuestraron."
+          "texto": "Roberto Peci era instalador de antenas, deportista, hijo y hermano. No era un símbolo ni un mensaje para nadie. Hoy una calle de San Benedetto del Tronto lleva su nombre."
         },
         {
           "voz": "ximena",
@@ -103,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones entre fuentes: edad (24 o 25 años; el guion lo dice así), duración del cautiverio (53 o 55 días; el guion dice «entre 53 y 55») y lugar del hallazgo (Fosso dello Statuario según Wikipedia italiana y Sempre per la verità; «un casolare sull'Appia» según Il Fatto Quotidiano 2010): el guion dice «casa abandonada de las afueras de Roma» y menciona la discrepancia. Fuentes abiertas: Sempre per la verità, Il Fatto Quotidiano (2010) y Wikipedia italiana. No se dan detalles de la ejecución. La pena exacta de Senzani por este crimen no consta en ninguna fuente abierta; el guion no la da. «Consultor del Ministerio de Justicia» y la docencia en Florencia y Siena salen de Il Fatto Quotidiano (2010); la ficha dice que fue detenido en 1982 (la fecha no se ha comprobado en estas fuentes). Que «una calle de San Benedetto lleva su nombre» sale de Wikipedia italiana (pie de foto). La frase sobre el paralelismo con Moro aparece en Wikipedia italiana. Que el «mensaje» a los otros arrestados fuera el motivo es la interpretación de Sempre per la verità («most likely»), y el guion lo da como tal en nota del inspector."
+  "nota_revision": "Contradicciones entre fuentes: edad (24 o 25 años; el guion lo dice así), duración del cautiverio (53 o 55 días; el guion dice «entre 53 y 55») y lugar del hallazgo (Fosso dello Statuario según Wikipedia italiana y Sempre per la verità; «un casolare sull'Appia» según Il Fatto Quotidiano 2010): el guion dice «casa abandonada de las afueras de Roma» y menciona la discrepancia. Fuentes abiertas: Sempre per la verità, Il Fatto Quotidiano (2010) y Wikipedia italiana. No se dan detalles de la ejecución. La pena exacta de Senzani por este crimen no consta en ninguna fuente abierta; el guion no la da. «Consultor del Ministerio de Justicia» y la docencia en Florencia y Siena salen de Il Fatto Quotidiano (2010); la ficha dice que fue detenido en 1982 (la fecha no se ha comprobado en estas fuentes). Que «una calle de San Benedetto lleva su nombre» sale de Wikipedia italiana (pie de foto). La frase sobre el paralelismo con Moro aparece en Wikipedia italiana. Que el «mensaje» a los otros arrestados fuera el motivo es la interpretación de Sempre per la verità («most likely»), y el guion lo da como tal en nota del inspector. | VERIFICACIÓN nuevos-agosto: Quitado que la calle con su nombre sea «la misma por la que lo secuestraron» (sin fuente). Añadidas pronunciaciones italianas. Sin señalar a nadie sin condena: Senzani condenado por su actividad en las Brigadas Rojas; el testimonio de Veltroni sigue atribuido."
 }

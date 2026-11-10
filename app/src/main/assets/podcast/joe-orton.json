@@ -15,7 +15,8 @@
     "Golders Green": "Góldes Grin",
     "Harold Pinter": "Járold Pínter",
     "What the Butler Saw": "Uat de Bátler Só",
-    "John Lahr": "Yon Lar"
+    "John Lahr": "Yon Lar",
+    "Leicester": "Léster"
   },
   "cintas": [
     {
@@ -65,11 +66,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En la noche del 9 de agosto de 1967, Halliwell mató a Orton a martillazos en el piso. Después se quitó la vida con una sobredosis de barbitúricos. No hubo juicio: el único autor del crimen murió esa misma noche."
+          "texto": "En la noche del 9 de agosto de 1967, Halliwell mató a Orton en el piso. Después se quitó la vida con una sobredosis de barbitúricos. No hubo juicio: el único autor del crimen murió esa misma noche."
         },
         {
           "voz": "ximena",
-          "texto": "Dejó una nota. Decía: «Si leéis su diario, todo quedará explicado. Sobre todo la última parte»."
+          "texto": "Dejó una nota que remitía al diario de Orton para entenderlo todo, sobre todo a su parte final."
         },
         {
           "voz": "alvaro",
@@ -81,7 +82,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los dos fueron incinerados en Golders Green. El dramaturgo Harold Pinter leyó el elogio fúnebre y lo cerró diciendo que Orton había sido un escritor extraordinario. A sugerencia de la familia de Halliwell, sus cenizas se esparcieron juntas. No hay memorial."
+          "texto": "Los dos fueron incinerados en Golders Green. El dramaturgo Harold Pinter leyó el elogio fúnebre y lo cerró diciendo que Orton había sido un escritor extraordinario. A sugerencia de la familia de Halliwell, sus cenizas se esparcieron juntas."
         },
         {
           "voz": "alvaro",
@@ -102,5 +103,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: London Remembers, Wikipedia en inglés (apartado «Murder», que pide más referencias). Esta fuente es floja y no hay crónica de prensa de 1967 abierta; el New Statesman (2017) no se pudo abrir. Los datos de las tres llamadas al médico, la nota de Halliwell y la entrevista a la amiga (Sunday Times, 1970) salen solo de Wikipedia. No se recogen: la hipótesis de Richard Brooks sobre un productor (Sunday Times, 2017), por señalar a una persona concreta sin comprobar; el número de golpes; el método de suicidio concreto (el guion dice solo «sobredosis de barbitúricos», como la ficha y Wikipedia dicen Nembutal); los detalles sexuales de los diarios. Contradicción: ficha y London Remembers dicen que Halliwell murió «con sobredosis / sleeping pills», Wikipedia dice Nembutal. La investigación judicial (inquest) en St Pancras no se ha comprobado. La frase de Pinter se parafrasea (Wikipedia la da en inglés como «bloody marvellous writer»). «Quince años juntos» según la ficha (de 1951 a 1967). Las cenizas se mezclaron a sugerencia de la familia de Halliwell, a través de la agente de Orton (Wikipedia). La nota «No hubo juicio ni detenciones» es deducción de la ficha («cerrado sin juicio»)."
+  "nota_revision": "Fuentes abiertas: London Remembers, Wikipedia en inglés (apartado «Murder», que pide más referencias). Esta fuente es floja y no hay crónica de prensa de 1967 abierta; el New Statesman (2017) no se pudo abrir. Los datos de las tres llamadas al médico, la nota de Halliwell y la entrevista a la amiga (Sunday Times, 1970) salen solo de Wikipedia. No se recogen: la hipótesis de Richard Brooks sobre un productor (Sunday Times, 2017), por señalar a una persona concreta sin comprobar; el número de golpes; el método de suicidio concreto (el guion dice solo «sobredosis de barbitúricos», como la ficha y Wikipedia dicen Nembutal); los detalles sexuales de los diarios. Contradicción: ficha y London Remembers dicen que Halliwell murió «con sobredosis / sleeping pills», Wikipedia dice Nembutal. La investigación judicial (inquest) en St Pancras no se ha comprobado. La frase de Pinter se parafrasea (Wikipedia la da en inglés como «bloody marvellous writer»). «Quince años juntos» según la ficha (de 1951 a 1967). Las cenizas se mezclaron a sugerencia de la familia de Halliwell, a través de la agente de Orton (Wikipedia). La nota «No hubo juicio ni detenciones» es deducción de la ficha («cerrado sin juicio»). | VERIFICACIÓN nuevos-agosto: Quitados el método (martillazos), la cita literal de la nota de Halliwell (autor del homicidio, fallecido) y «no hay memorial» (sin fuente). Fuentes débiles: Wikipedia en inglés, London Remembers."
 }

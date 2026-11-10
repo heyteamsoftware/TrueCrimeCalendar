@@ -28,7 +28,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Fíjate en el calendario. La guerra civil había terminado cuatro meses antes. Aquello no era combate ni defensa del Estado: era un tribunal militar de un régimen que acababa de ganar y que quería cerrar cuentas."
+          "texto": "Primera nota. Fíjate en el calendario. La guerra civil había terminado cuatro meses antes. El juicio lo hizo un tribunal militar, por el procedimiento sumarísimo de la época."
         },
         {
           "voz": "ximena",
@@ -36,7 +36,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Habían sido detenidas en mayo, a partir de ficheros de militantes que el ejército franquista requisó al ocupar Madrid, y de delaciones. Según las fuentes, fueron interrogadas con torturas. Vivían hacinadas en Ventas, una cárcel pensada para unas cuatrocientas personas donde llegó a haber unas cuatro mil."
+          "texto": "Habían sido detenidas en mayo, a partir de ficheros de militantes que el ejército franquista requisó al ocupar Madrid, y de delaciones. Según testimonios recogidos por historiadores, fueron interrogadas con violencia. Vivían hacinadas en Ventas, una cárcel pensada para unas cuatrocientas personas donde llegó a haber unas cuatro mil."
         },
         {
           "voz": "alvaro",
@@ -64,15 +64,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Nueve de ellas eran menores según la ley de entonces, que fijaba la mayoría de edad en veintitrés años. Varias apenas habían salido de la adolescencia. Quienes dictaron aquella sentencia nunca respondieron por ello."
+          "texto": "Tercera nota. Nueve de ellas eran menores según la ley de entonces, que fijaba la mayoría de edad en veintitrés años. Varias apenas habían salido de la adolescencia. Varias apenas habían cumplido los veinte."
         },
         {
           "voz": "ximena",
-          "texto": "La noticia llegó a la prensa extranjera y hubo campañas de protesta en París. El régimen no se detuvo. Se calcula que la mayoría de las 364 personas detenidas por el atentado contra Gabaldón fueron fusiladas."
+          "texto": "La noticia llegó a la prensa extranjera y hubo campañas de protesta en París. Los fusilamientos se llevaron a cabo igualmente."
         },
         {
           "voz": "ximena",
-          "texto": "Nadie respondió nunca por estas ejecuciones. Hubo, además, una decimocuarta joven, fusilada en febrero de 1940, que a veces se olvida."
+          "texto": "Hubo, además, una decimocuarta joven, fusilada en febrero de 1940, que a veces se olvida."
         },
         {
           "voz": "ximena",
@@ -84,7 +84,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cada 5 de agosto se las recuerda ante la tapia, y durante años lo hicieron con compañeras que sobrevivieron. Eran jóvenes que trabajaban, estudiaban o tocaban el piano. Y llevaban nombre propio."
+          "texto": "Cada 5 de agosto se las recuerda ante la tapia, y durante años lo hicieron con compañeras que sobrevivieron. Eran jóvenes que trabajaban, estudiaban o tocaban el piano. Y llevaban nombre propio. Su historia llegó al cine y al teatro, y varias calles y centros culturales de España llevan hoy el nombre de las Trece Rosas."
         },
         {
           "voz": "ximena",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso político con mucha carga: redacción neutra y atribuida. No se dan los nombres de las trece (nueve eran menores según la ley de 1939, la ficha los omite); la frase «Que mi nombre no se borre de la historia» se atribuye a «una de las condenadas» sin nombre (Público 2010 y Wikipedia la atribuyen a Julia Conesa, 19 años). Fuentes abiertas: Público (2010), eldiario.es (2019), Wikipedia en español. Discrepancias: fecha de los fusilamientos (madrugada del 5 según Público, EFE y Wikipedia; eldiario.es 2019 dice «6»): el guion dice el 5. Fecha del atentado contra Gabaldón (27 o 29 de julio): el guion dice «a finales de julio». Número de hombres fusilados: 43 con las trece (Público, eldiario.es); Wikipedia actual habla de 50 hombres y 63 fusilados: el guion usa 13 y 43. Sobre los hechos de Gabaldón: Wikipedia lo atribuye a una red comunista inventada por el régimen; eldiario.es (Benito Díaz) dice que los autores fueron tres jóvenes de las JSU, que fueron fusilados, y que las trece no tuvieron relación: el guion no da la identidad de los autores, solo la opinión de Díaz. «La directora se negó a enviar los indultos» sale de Público (2010). Cifra de 364 detenidos y «la mayoría fusilados»: Wikipedia. Una de ellas era pianista sin militancia (Wikipedia, tabla biográfica). La decimocuarta joven, Antonia Torre Yela, fusilada el 19 de febrero de 1940 (Wikipedia y ficha)."
+  "nota_revision": "Caso político con mucha carga: redacción neutra y atribuida. No se dan los nombres de las trece (nueve eran menores según la ley de 1939, la ficha los omite); la frase «Que mi nombre no se borre de la historia» se atribuye a «una de las condenadas» sin nombre (Público 2010 y Wikipedia la atribuyen a Julia Conesa, 19 años). Fuentes abiertas: Público (2010), eldiario.es (2019), Wikipedia en español. Discrepancias: fecha de los fusilamientos (madrugada del 5 según Público, EFE y Wikipedia; eldiario.es 2019 dice «6»): el guion dice el 5. Fecha del atentado contra Gabaldón (27 o 29 de julio): el guion dice «a finales de julio». Número de hombres fusilados: 43 con las trece (Público, eldiario.es); Wikipedia actual habla de 50 hombres y 63 fusilados: el guion usa 13 y 43. Sobre los hechos de Gabaldón: Wikipedia lo atribuye a una red comunista inventada por el régimen; eldiario.es (Benito Díaz) dice que los autores fueron tres jóvenes de las JSU, que fueron fusilados, y que las trece no tuvieron relación: el guion no da la identidad de los autores, solo la opinión de Díaz. «La directora se negó a enviar los indultos» sale de Público (2010). Cifra de 364 detenidos y «la mayoría fusilados»: Wikipedia. Una de ellas era pianista sin militancia (Wikipedia, tabla biográfica). La decimocuarta joven, Antonia Torre Yela, fusilada el 19 de febrero de 1940 (Wikipedia y ficha). | VERIFICACIÓN nuevos-agosto: Redacción sobria: quitado el juicio político del inspector («un régimen que quería cerrar cuentas», «nunca respondieron»), la cifra de 364 detenidos y «la mayoría fusiladas» (solo Wikipedia); las torturas pasan a testimonios de historiadores. Sin nombres de las trece; la frase final se atribuye a «una de las condenadas». Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

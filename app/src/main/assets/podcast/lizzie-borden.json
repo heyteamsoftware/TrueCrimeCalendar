@@ -12,7 +12,8 @@
     "Second Street": "Sécond Strit",
     "New Bedford": "Niu Bédford",
     "Massachusetts": "Masachúsets",
-    "Emma": "Ema"
+    "Emma": "Ema",
+    "Maplecroft": "Méipolcroft"
   },
   "cintas": [
     {
@@ -34,7 +35,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Andrew Borden, rico y muy tacaño, aparece en el sofá del salón. Poco después, la criada, Bridget Sullivan, y la vecina suben al piso de arriba y encuentran a su esposa, Abby, en la habitación de invitados. Los dos habían muerto a golpes de hacha."
+          "texto": "Andrew Borden, rico y de fama austera, aparece en el sofá del salón. Poco después, la criada, Bridget Sullivan, y la vecina suben al piso de arriba y encuentran a su esposa, Abby, en la habitación de invitados. Los dos habían muerto a golpes de hacha."
         },
         {
           "voz": "alvaro",
@@ -70,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juicio empezó el 5 de junio de 1893 en New Bedford. Fue el juicio del siglo diecinueve: periodistas de todo el país y largas colas a la puerta. Doce hombres formaban el jurado: en Massachusetts las mujeres no pudieron ser jurado hasta 1951."
+          "texto": "El juicio empezó el 5 de junio de 1893 en New Bedford. Fue el juicio del siglo diecinueve: periodistas de todo el país y largas colas a la puerta. Doce hombres formaban el jurado: entonces las mujeres no podían ser jurado en Massachusetts."
         },
         {
           "voz": "ximena",
@@ -82,7 +83,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 20 de junio de 1893, el jurado deliberó menos de dos horas y la absolvió por unanimidad. Dentro de la sala hubo vítores, y fuera se oyeron a más de un kilómetro."
+          "texto": "El 20 de junio de 1893, el jurado deliberó menos de dos horas y la absolvió por unanimidad. Dentro de la sala hubo vítores."
         },
         {
           "voz": "alvaro",
@@ -103,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver y absolución: el guion dice claramente que Lizzie Borden fue absuelta, que nadie más fue acusado y no la señala. Fuentes abiertas: CBS News 48 Hours (2021), Wikipedia en inglés. Detalles: hora «hacia las once» (CBS dice solo «late morning»; no consta la hora exacta en las fuentes abiertas), orden de las muertes (CBS: Abby murió antes que Andrew; el guion no da la diferencia horaria). Contradicciones menores: Wikipedia y CBS discrepan en la duración del juicio (CBS: unas tres semanas; con inicio el 5 y veredicto el 20 de junio fueron unas dos), y el guion no la cita. Se deja fuera por morbo: las calaveras mostradas en la sala, el número de golpes y las fotografías de la escena. El intento de comprar ácido prúsico, no admitido en el juicio, se menciona sin entrar en detalle. «El tío» que dormía allí es John Morse (CBS). El vestido: Lizzie y Emma dijeron que estaba manchado de pintura; Emma declaró que fue idea suya quemarlo (CBS). La cabeza de hacha: CBS dice que parecía una rotura reciente según la policía; la defensa lo discutió. Fecha de la muerte de Lizzie (1 de junio de 1927) y entierro con poca asistencia: Wikipedia y NYT."
+  "nota_revision": "Caso sin resolver y absolución: el guion dice claramente que Lizzie Borden fue absuelta, que nadie más fue acusado y no la señala. Fuentes abiertas: CBS News 48 Hours (2021), Wikipedia en inglés. Detalles: hora «hacia las once» (CBS dice solo «late morning»; no consta la hora exacta en las fuentes abiertas), orden de las muertes (CBS: Abby murió antes que Andrew; el guion no da la diferencia horaria). Contradicciones menores: Wikipedia y CBS discrepan en la duración del juicio (CBS: unas tres semanas; con inicio el 5 y veredicto el 20 de junio fueron unas dos), y el guion no la cita. Se deja fuera por morbo: las calaveras mostradas en la sala, el número de golpes y las fotografías de la escena. El intento de comprar ácido prúsico, no admitido en el juicio, se menciona sin entrar en detalle. «El tío» que dormía allí es John Morse (CBS). El vestido: Lizzie y Emma dijeron que estaba manchado de pintura; Emma declaró que fue idea suya quemarlo (CBS). La cabeza de hacha: CBS dice que parecía una rotura reciente según la policía; la defensa lo discutió. Fecha de la muerte de Lizzie (1 de junio de 1927) y entierro con poca asistencia: Wikipedia y NYT. | VERIFICACIÓN nuevos-agosto: Absuelta: el guion lo dice con claridad y no señala a nadie. Quitado «se oyeron a más de un kilómetro» (sin fuente) y el año 1951 del jurado femenino (fecha discrepante)."
 }

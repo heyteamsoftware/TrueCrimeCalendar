@@ -12,7 +12,7 @@
     "John O'Gaunt": "Yon O Gont",
     "South View": "Sauz Viu",
     "Roger Brereton": "Róyer Brírton",
-    "Firearms (Amendment) Act": "Fáirarms Amendment Act"
+    "The Guardian": "De Gárdian"
   },
   "cintas": [
     {
@@ -20,28 +20,88 @@
       "titulo": "Un día de verano en el pueblo",
       "tipo": "expediente",
       "bloques": [
-        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Hungerford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
-        { "voz": "ximena", "texto": "Cinta uno. Un día de verano en el pueblo." },
-        { "voz": "ximena", "texto": "Inglaterra, miércoles 19 de agosto de 1987. Poco después del mediodía, una mujer merienda con sus dos hijos pequeños en el bosque de Savernake, en Wiltshire. Se acerca un hombre de veintisiete años, Michael Ryan. La mujer no volverá. Los niños fueron hallados ilesos." },
-        { "voz": "ximena", "texto": "Ryan sube a su coche y conduce hacia Hungerford, el pueblo de Berkshire donde vive con su madre. Dispara en una gasolinera de la carretera A4. La cajera sobrevive y llama a la policía." },
-        { "voz": "alvaro", "texto": "Primera nota. Para los primeros agentes que acuden, el aviso es solo el de un tiroteo. Nadie sabe todavía lo que está pasando ni cuántas armas tiene ese hombre. Esa confusión de los primeros minutos marca todo lo que sigue." },
-        { "voz": "ximena", "texto": "En su calle, South View, Ryan mata a su madre y prende fuego a la casa familiar. Después recorre las calles cercanas con un fusil, disparando contra vecinos y conductores que se cruzan con él." },
-        { "voz": "ximena", "texto": "El agente Roger Brereton llega en su coche patrulla y es de los primeros en caer. Antes pudo avisar por radio de que le habían disparado. No iba armado para un tiroteo." },
-        { "voz": "alvaro", "texto": "Lo apunto con respeto. Otros agentes acudieron en seguida. Pero la policía británica de aquella época no estaba preparada para algo así, y el informe lo reconoce: el hecho pasó de un aviso corriente a algo sin precedentes." },
-        { "voz": "ximena", "texto": "Mató a dieciséis personas, además de a sí mismo, e hirió a quince. Entre los muertos hubo vecinos que estaban en su jardín o en la calle. Hungerford es un pueblo de seis mil habitantes. Todos conocían a alguien." },
-        { "voz": "ximena", "texto": "A las cinco y veinticinco de la tarde, un fusil cayó por la ventana de un colegio, el John O'Gaunt, donde Ryan había estudiado. A las seis la policía armada tenía el edificio rodeado." },
-        { "voz": "alvaro", "texto": "Un sargento habló con él durante más de una hora. Parecía tranquilo y daba a entender que quizá se entregaría. Pero a las seis y cincuenta y dos se oyó un único disparo. Se había quitado la vida." },
-        { "voz": "ximena", "texto": "La policía entró en el aula a las ocho y diez de la noche, después de planear con cuidado la operación, porque temía trampas. Fue el final de esa tarde. En las cuarenta y ocho horas siguientes, la oficina de atención a familiares de la policía recibió novecientas cuatro llamadas de gente angustiada. Pero no fue el final de las preguntas." },
-        { "voz": "alvaro", "texto": "Lo que más me inquieta de este informe es el apartado de las armas. Ryan las tenía todas legalmente: dos fusiles semiautomáticos, una pistola y tres escopetas. Nunca llegó a la policía ningún dato que desaconsejara que las tuviera." },
-        { "voz": "ximena", "texto": "Los fusiles los había comprado semanas antes, en julio y agosto, tras pedir permiso a la policía. Practicaba en clubes de tiro. Los vecinos lo recordaban como un solitario aficionado a las armas." },
-        { "voz": "ximena", "texto": "Nunca se estableció el móvil. No hubo juicio, porque el autor murió. Tampoco una explicación que bastara." },
-        { "voz": "alvaro", "texto": "Para mí esa ausencia lo cambia todo. Si no hay motivo, lo que queda es la facilidad. Alguien con armas semiautomáticas, sin vigilancia, en un día cualquiera. Eso sí se podía cambiar." },
-        { "voz": "ximena", "texto": "Y se cambió. Al año siguiente, el Parlamento aprobó la Firearms (Amendment) Act de 1988. Prohibió las armas semiautomáticas y las de acción de bombeo, y obligó a registrar todas las escopetas." },
-        { "voz": "ximena", "texto": "Hungerford no quiso ser el pueblo de la masacre. En un campo de fútbol hay una placa pequeña con los nombres de las dieciséis personas muertas. Cada 19 de agosto los leen en la iglesia." },
-        { "voz": "alvaro", "texto": "Prefiero cerrar la nota así. El nombre del autor ocupa titulares desde hace décadas. Los de los muertos, una placa. Aquí quedan los suyos: eran vecinos, y la caja los guarda." },
-        { "voz": "ximena", "texto": "Fin del expediente: La masacre de Hungerford. Archivo de TRUE CRIME CALENDAR." }
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Hungerford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un día de verano en el pueblo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Inglaterra, miércoles 19 de agosto de 1987. Poco después del mediodía, una mujer merienda con sus dos hijos pequeños en el bosque de Savernake, en Wiltshire. Se acerca un hombre de veintisiete años, Michael Ryan. La mujer no volverá. Los niños fueron hallados ilesos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ryan sube a su coche y conduce hacia Hungerford, el pueblo de Berkshire donde vive con su madre. Dispara en una gasolinera de la carretera A4. La cajera sobrevive y llama a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Para los primeros agentes que acuden, el aviso es solo el de un tiroteo. Nadie sabe todavía lo que está pasando ni cuántas armas tiene ese hombre. Esa confusión de los primeros minutos marca todo lo que sigue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su calle, South View, Ryan mata a su madre y prende fuego a la casa familiar. Después recorre las calles cercanas con un fusil, disparando contra vecinos y conductores que se cruzan con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El agente Roger Brereton llega en su coche patrulla y es de los primeros en caer. Antes pudo avisar por radio de que le habían disparado. No iba armado para un tiroteo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto con respeto. Otros agentes acudieron en seguida. Pero la policía británica de aquella época no estaba preparada para algo así, y el informe lo reconoce: el hecho pasó de un aviso corriente a algo sin precedentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mató a dieciséis personas, además de a sí mismo, e hirió a quince. Entre los muertos hubo vecinos que estaban en su jardín o en la calle. Hungerford es un pueblo de seis mil habitantes. Todos conocían a alguien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las cinco y veinticinco de la tarde, un fusil cayó por la ventana de un colegio, el John O'Gaunt, donde Ryan había estudiado. A las seis la policía armada tenía el edificio rodeado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un sargento habló con él durante más de una hora. Parecía tranquilo y daba a entender que quizá se entregaría. Pero a las seis y cincuenta y dos se oyó un único disparo. Se había quitado la vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía entró en el aula a las ocho y diez de la noche, después de planear con cuidado la operación, porque temía trampas. Fue el final de esa tarde. En las cuarenta y ocho horas siguientes, la oficina de atención a familiares de la policía recibió novecientas cuatro llamadas de gente angustiada. Pero no fue el final de las preguntas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me inquieta de este informe es el apartado de las armas. Ryan las tenía todas legalmente: dos fusiles semiautomáticos, una pistola y tres escopetas. Nunca llegó a la policía ningún dato que desaconsejara que las tuviera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los fusiles los había comprado semanas antes, en julio y agosto, tras pedir permiso a la policía. Practicaba en clubes de tiro. Los vecinos lo recordaban como un solitario aficionado a las armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nunca se estableció el móvil. No hubo juicio, porque el autor murió. Tampoco una explicación que bastara."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Para mí esa ausencia lo cambia todo. Si no hay motivo, lo que queda es la facilidad. Alguien con armas semiautomáticas, sin vigilancia, en un día cualquiera. Eso sí se podía cambiar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y se cambió. Al año siguiente, el Parlamento aprobó una nueva ley de armas de fuego, en 1988. Prohibió las armas semiautomáticas y las de acción de bombeo, y obligó a registrar todas las escopetas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hungerford no quiso ser el pueblo de la masacre. En un campo de fútbol hay una placa pequeña con los nombres de las dieciséis personas muertas. Según The Guardian, cada 19 de agosto los leen en la iglesia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Prefiero cerrar la nota así. El nombre del autor ocupa titulares desde hace décadas. Los de los muertos, una placa. Aquí quedan los suyos: eran vecinos, y la caja los guarda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Hungerford. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: informe de la policía de Thames Valley al ministro del Interior (1987, copia JESIP; hechos, horas, armas, certificados), Crime+Investigation, The Guardian (2010; cifras, placa, lectura de nombres) y BBC (no abierta). Contradicciones: C+I habla de «16 personas incluido él»; el informe policial cuenta 17 muertos contando al autor, y The Guardian 16 más él; el guion usa «dieciséis personas, además de a sí mismo» (la ficha: 16 víctimas) y quince heridos. No se nombran víctimas salvo el agente Roger Brereton (adulto, nombrado en el informe oficial). Los dos hijos de la primera víctima, hallados ilesos: no se nombran. No se describe el método. Las horas del colegio (17.25, 18.00, 18.52, 20.10) son del informe policial. El libro «Hungerford revisited» (Guardian) habla de «una placa en el campo de fútbol, no un monumento». Se dice que la madre de Ryan «ya ha muerto» al incendiar la casa (policía y Wikipedia: la mató antes). Algunos datos de armas (adquisiciones de julio y agosto) del informe policial."
+  "nota_revision": "Fuentes abiertas: informe de la policía de Thames Valley al ministro del Interior (1987, copia JESIP; hechos, horas, armas, certificados), Crime+Investigation, The Guardian (2010; cifras, placa, lectura de nombres) y BBC (no abierta). Contradicciones: C+I habla de «16 personas incluido él»; el informe policial cuenta 17 muertos contando al autor, y The Guardian 16 más él; el guion usa «dieciséis personas, además de a sí mismo» (la ficha: 16 víctimas) y quince heridos. No se nombran víctimas salvo el agente Roger Brereton (adulto, nombrado en el informe oficial). Los dos hijos de la primera víctima, hallados ilesos: no se nombran. No se describe el método. Las horas del colegio (17.25, 18.00, 18.52, 20.10) son del informe policial. El libro «Hungerford revisited» (Guardian) habla de «una placa en el campo de fútbol, no un monumento». Se dice que la madre de Ryan «ya ha muerto» al incendiar la casa (policía y Wikipedia: la mató antes). Algunos datos de armas (adquisiciones de julio y agosto) del informe policial. | VERIFICACIÓN nuevos-agosto: Sin nombres de víctimas salvo el agente Brereton (adulto, informe oficial); los niños de la primera víctima, sin nombre. Quitado el nombre inglés de la ley y atribuida la lectura de nombres."
 }

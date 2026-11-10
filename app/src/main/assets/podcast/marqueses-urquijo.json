@@ -52,7 +52,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Aquí se tuerce el expediente. Escobedo contó años después que firmó una confesión bajo presión. Esa hoja y los casquillos desaparecieron antes del juicio. Un caso que se apoya en pruebas que ya no están sobre la mesa."
+          "texto": "Tercera nota. Aquí se tuerce el expediente. Escobedo dijo que firmó una confesión bajo presión. Esa hoja y los casquillos desaparecieron antes del juicio. Un caso que se apoya en pruebas que ya no están sobre la mesa."
         },
         {
           "voz": "ximena",
@@ -60,7 +60,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esa fórmula es una confesión de duda del propio tribunal. Si lo hizo solo, ¿quién abrió la puerta? Si no, ¿quién estaba con él? Nadie respondió, y el fiscal llegó a reconocer que otros podían haberse librado."
+          "texto": "Esa fórmula deja la duda abierta. Si lo hizo solo, ¿quién abrió la puerta? Si no, ¿quién estaba con él? Nadie respondió."
         },
         {
           "voz": "ximena",
@@ -72,7 +72,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo anoto con cautela. Su abogado encargó una segunda autopsia que halló cianuro. No se demostró que nadie se lo diera. Es una duda abierta, no una conclusión."
+          "texto": "Lo anoto con cautela. Según su abogado, una segunda autopsia halló cianuro. No se demostró que nadie se lo diera. Es una duda abierta, no una conclusión."
         },
         {
           "voz": "alvaro",
@@ -80,7 +80,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Queda lo que sí consta. Dos personas fueron asesinadas en su cama, en su propia casa. Sus hijos, Miryam y Juan Manuel, perdieron a sus padres en una sola noche, y después tuvieron que verlo convertido en espectáculo."
+          "texto": "Queda lo que sí consta. Dos personas fueron asesinadas en su cama, en su propia casa. Sus hijos, Miryam y Juan Manuel, perdieron a sus padres en una sola noche, y después tuvieron que verlo convertido en espectáculo. El caso sigue citándose en España como ejemplo de una investigación que dejó demasiadas preguntas."
         },
         {
           "voz": "ximena",
@@ -93,5 +93,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: fecha de la sentencia (julio de 1983 según la ficha y Wikipedia, octubre de 1983 según ESdiario): el guion dice solo 1983. Lugar de la detención de Escobedo (Cuenca o Madrid) varía; se dice que se le detuvo el 8 de abril de 1981 y se le llevó a la Dirección General de Seguridad, según la ficha y ESdiario. Fuentes abiertas: Economist & Jurist (2021), ESdiario (2025). De ESdiario salen: administrador que mandó lavar los cuerpos (también en Economist & Jurist, que añade la destrucción de papeles), desaparición de los casquillos y de la confesión escrita, y la tortura alegada por Escobedo (no se afirma, solo que firmó «bajo presión» según él). La amenaza del 28 de julio sale de Economist & Jurist y se da como relato de prensa. Se deja fuera lo que ESdiario dice que Anastasio escribió en sus memorias de 2017 (que habría llevado a Escobedo a Somosaguas), por no estar contrastado y no haber sido juzgado; tampoco se da el número ni orden de los disparos. Anastasio huyó en 1987 según la ficha; ESdiario dice que tras tres años de prisión provisional. Segunda autopsia con cianuro: ficha y ESdiario."
+  "nota_revision": "Contradicciones: fecha de la sentencia (julio de 1983 según la ficha y Wikipedia, octubre de 1983 según ESdiario): el guion dice solo 1983. Lugar de la detención de Escobedo (Cuenca o Madrid) varía; se dice que se le detuvo el 8 de abril de 1981 y se le llevó a la Dirección General de Seguridad, según la ficha y ESdiario. Fuentes abiertas: Economist & Jurist (2021), ESdiario (2025). De ESdiario salen: administrador que mandó lavar los cuerpos (también en Economist & Jurist, que añade la destrucción de papeles), desaparición de los casquillos y de la confesión escrita, y la tortura alegada por Escobedo (no se afirma, solo que firmó «bajo presión» según él). La amenaza del 28 de julio sale de Economist & Jurist y se da como relato de prensa. Se deja fuera lo que ESdiario dice que Anastasio escribió en sus memorias de 2017 (que habría llevado a Escobedo a Somosaguas), por no estar contrastado y no haber sido juzgado; tampoco se da el número ni orden de los disparos. Anastasio huyó en 1987 según la ficha; ESdiario dice que tras tres años de prisión provisional. Segunda autopsia con cianuro: ficha y ESdiario. | VERIFICACIÓN nuevos-agosto: Sentencia de 53 años y muerte de Escobedo confirmadas con la ficha. Quitado «el fiscal llegó a reconocer que otros podían haberse librado» (sin fuente); cianuro atribuido a su abogado; la confesión bajo presión es lo que Escobedo dijo, no un hecho. Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

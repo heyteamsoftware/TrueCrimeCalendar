@@ -12,7 +12,10 @@
     "Buckinghamshire": "Bákinyamshir",
     "Glasgow": "Glásgou",
     "Leatherslade": "Lédherslid",
-    "Aylesbury": "Éilzbri"
+    "Aylesbury": "Éilzbri",
+    "Monopoly": "Monópoli",
+    "Ronnie Biggs": "Róni Bigs",
+    "Torquay": "Torkí"
   },
   "cintas": [
     {
@@ -50,7 +53,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota, y no quiero olvidarla. Mills no se recuperó del todo. Según la crónica que he leído, sufrió lesiones cerebrales y murió siete años después. Aquel robo «sin violencia» tuvo una víctima que pagó con el resto de su vida."
+          "texto": "Segunda nota, y no quiero olvidarla. Mills no se recuperó del todo. Según una crónica, nunca se recuperó del todo y murió siete años después; la relación entre su muerte y el golpe no está establecida. Aquel robo «sin violencia» dejó una víctima que sufrió sus consecuencias."
         },
         {
           "voz": "ximena",
@@ -99,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: tamaño de la banda (15 en el asalto según Crime+Investigation y British Online Archives, 16 o 17 con quienes no estaban en el lugar): el guion dice «unos quince». Botín: la cifra oficial fue 2.595.997 libras; el guion dice «unos dos millones y medio». Condenas: la ficha dice que siete fueron condenados a 30 años; Wikipedia dice que «los cabecillas» recibieron 30 años: el guion usa «los cabecillas». La detención de Reynolds en 1968 en Torquay y la condena de 25 años (Wikipedia); sin segunda fuente abierta aquí. Fuentes abiertas: Crime+Investigation (2023), British Online Archives (2023), Wikipedia en inglés. Muerte de Mills siete años después: Crime+Investigation. Tres hombres no identificados / no procesados: Crime+Investigation dice que tres escaparon (Harry Smith y Danny Pembroke fueron identificados y no acusados, el tercero nunca): el guion dice «no llegaron a ser identificados, o no se les pudo acusar». Biggs: 36 años de fuga y regreso en 2001 (British Online Archives). Tres hombres no detenidos: Crime+Investigation. Hora del robo: Pasadas las tres de la madrugada (ficha); Wikipedia sitúa la alarma hacia las 4:20."
+  "nota_revision": "Contradicciones: tamaño de la banda (15 en el asalto según Crime+Investigation y British Online Archives, 16 o 17 con quienes no estaban en el lugar): el guion dice «unos quince». Botín: la cifra oficial fue 2.595.997 libras; el guion dice «unos dos millones y medio». Condenas: la ficha dice que siete fueron condenados a 30 años; Wikipedia dice que «los cabecillas» recibieron 30 años: el guion usa «los cabecillas». La detención de Reynolds en 1968 en Torquay y la condena de 25 años (Wikipedia); sin segunda fuente abierta aquí. Fuentes abiertas: Crime+Investigation (2023), British Online Archives (2023), Wikipedia en inglés. Muerte de Mills siete años después: Crime+Investigation. Tres hombres no identificados / no procesados: Crime+Investigation dice que tres escaparon (Harry Smith y Danny Pembroke fueron identificados y no acusados, el tercero nunca): el guion dice «no llegaron a ser identificados, o no se les pudo acusar». Biggs: 36 años de fuga y regreso en 2001 (British Online Archives). Tres hombres no detenidos: Crime+Investigation. Hora del robo: Pasadas las tres de la madrugada (ficha); Wikipedia sitúa la alarma hacia las 4:20. | VERIFICACIÓN nuevos-agosto: Muerte de Mills: la relación causal con el golpe no está establecida (antes «lesiones cerebrales» como hecho). Sin atribuir a nadie sin condena (soplón sin identificar). Añadidas pronunciaciones."
 }

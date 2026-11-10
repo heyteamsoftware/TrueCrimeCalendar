@@ -17,32 +17,90 @@
     "Mendota": "Mendóuta",
     "Robert Gollmar": "Róbert Gólmar",
     "Robert Bloch": "Róbert Bloc",
-    "Alfred Hitchcock": "Álfred Jíchcoc" },
+    "Alfred Hitchcock": "Álfred Jíchcoc"
+  },
   "cintas": [
     {
       "n": 1,
       "titulo": "El último recibo",
       "tipo": "hallazgo",
       "bloques": [
-        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Ed Gein, el carnicero de Plainfield. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
-        { "voz": "ximena", "texto": "Cinta uno. El último recibo." },
-        { "voz": "ximena", "texto": "Sábado, 16 de noviembre de 1957. Plainfield, Wisconsin. Es el primer día de la temporada de caza del ciervo, y en este pueblo de apenas unos cientos de habitantes medio vecindario está en el bosque. Por la tarde, Frank Worden, ayudante del sheriff, entra en la ferretería de su madre. La tienda está vacía." },
-        { "voz": "ximena", "texto": "Su madre no está. La caja registradora ha desaparecido. En el suelo hay manchas de sangre. Pero sobre el mostrador queda un recibo, el último del día: un bidón de anticongelante." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Un recibo. Eso es todo lo que dejó el autor. Frank Worden recordó que la víspera un vecino había dicho que volvería a comprar anticongelante. Ese vecino se llamaba Ed Gein. Un papel de ferretería lo cambia todo." },
-        { "voz": "ximena", "texto": "Gein fue detenido esa misma noche. Los agentes fueron a su granja, a las afueras del pueblo. En un cobertizo encontraron a Bernice Worden, la dueña de la ferretería, de cincuenta y ocho años." },
-        { "voz": "ximena", "texto": "Dentro de la casa, entre montañas de basura y objetos acumulados durante años, hallaron cosas que dejaron conmocionados a los investigadores. No vamos a describirlas. Basta saber que sacudieron a todo Estados Unidos." },
-        { "voz": "alvaro", "texto": "Aquí hay una frontera que no cruzo. El archivo conserva los inventarios policiales. No los leeré, ni los necesito. Para entender el caso importa más otra pregunta: cómo vivió doce años solo un hombre que todo el pueblo conocía." },
-        { "voz": "ximena", "texto": "Edward Gein nació el 27 de agosto de 1906 en Wisconsin y creció en una granja aislada, junto a su hermano mayor, Henry. Su padre bebía. Su madre, Augusta, era muy religiosa y dominante, y les inculcó una visión del mundo llena de miedo y de pecado." },
-        { "voz": "ximena", "texto": "Apenas tenía amigos. Trabajaba como peón en granjas vecinas y a veces cuidaba niños. En el pueblo lo consideraban raro, pero inofensivo: un hombre tímido que de vez en cuando hacía comentarios extraños." },
-        { "voz": "ximena", "texto": "El padre murió en 1940. Henry, en 1944, durante un incendio en el campo. Y en diciembre de 1945 murió Augusta. Ed se quedó solo en la granja. Cerró las habitaciones de su madre y las dejó tal como estaban." },
-        { "voz": "alvaro", "texto": "Ojo con el hermano. El incendio de 1944 es un punto oscuro. El forense habló de asfixia, pero no se hizo autopsia, y el asunto no se investigó a fondo. No hay pruebas contra nadie. Lo que sí hay es una muerte nunca aclarada." },
-        { "voz": "ximena", "texto": "Gein explicó a los investigadores que la mayoría de lo que había en la casa procedía de tumbas. Durante años había profanado sepulturas en los cementerios de la zona, de noche. Admitió haber abierto varias." },
-        { "voz": "ximena", "texto": "Las exhumaciones posteriores confirmaron que algunas de esas tumbas habían sido abiertas. La policía comprobó una parte de lo que Gein decía; no se pudo verificar todo." },
-        { "voz": "alvaro", "texto": "Los investigadores se enfrentaron a un problema: un hombre dispuesto a hablar, pero cuyo relato no se podía comprobar entero. Hay que separar lo que se verificó de lo que se dijo. Eso vale para todo este expediente." },
-        { "voz": "ximena", "texto": "Y había más. En la casa aparecieron también restos de Mary Hogan, la dueña de una taberna de la comarca, desaparecida en diciembre de 1954. Gein admitió su muerte." },
-        { "voz": "ximena", "texto": "Mary Hogan llevaba tres años desaparecida y nadie había relacionado su caso con el de un vecino tranquilo de Plainfield." },
-        { "voz": "alvaro", "texto": "Tres años. Una taberna cerrada, una mujer ausente y ninguna pista que apuntara a la granja de al lado. Hay quien se pregunta si hubo más víctimas. A Gein nunca se le acusó de ninguna más." },
-        { "voz": "ximena", "texto": "Dos asesinatos admitidos y confirmados. Pero la justicia iba a tener que decidir qué hacer con un hombre al que los médicos veían muy enfermo. Y el pueblo, qué hacer con aquella granja." }
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Ed Gein, el carnicero de Plainfield. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El último recibo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sábado, 16 de noviembre de 1957. Plainfield, Wisconsin. Es el primer día de la temporada de caza del ciervo, y en este pueblo de apenas unos cientos de habitantes medio vecindario está en el bosque. Por la tarde, Frank Worden, ayudante del sheriff, entra en la ferretería de su madre. La tienda está vacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su madre no está. La caja registradora ha desaparecido. En el suelo hay manchas de sangre. Pero sobre el mostrador queda un recibo, el último del día: un bidón de anticongelante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un recibo. Eso es todo lo que dejó el autor. Frank Worden recordó que la víspera un vecino había dicho que volvería a comprar anticongelante. Ese vecino se llamaba Ed Gein. Un papel de ferretería lo cambia todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gein fue detenido esa misma noche. Los agentes fueron a su granja, a las afueras del pueblo. En un cobertizo encontraron a Bernice Worden, la dueña de la ferretería, de cincuenta y ocho años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro de la casa, entre montañas de basura y objetos acumulados durante años, hallaron cosas que dejaron conmocionados a los investigadores. No vamos a describirlas. Basta saber que sacudieron a todo Estados Unidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay una frontera que no cruzo. El archivo conserva los inventarios policiales. No los leeré, ni los necesito. Para entender el caso importa más otra pregunta: cómo vivió doce años solo un hombre que todo el pueblo conocía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Edward Gein nació el 27 de agosto de 1906 en Wisconsin y creció en una granja aislada, junto a su hermano mayor, Henry. Su padre bebía. Su madre, Augusta, era muy religiosa y dominante, y les inculcó una visión del mundo llena de miedo y de pecado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Apenas tenía amigos. Trabajaba como peón en granjas vecinas y a veces cuidaba niños. En el pueblo lo consideraban raro, pero inofensivo: un hombre tímido que de vez en cuando hacía comentarios extraños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El padre murió en 1940. Henry, en 1944, durante un incendio en el campo. Y en diciembre de 1945 murió Augusta. Ed se quedó solo en la granja. Cerró las habitaciones de su madre y las dejó tal como estaban."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ojo con el hermano. El incendio de 1944 es un punto oscuro. El forense habló de asfixia, pero no se hizo autopsia, y el asunto no se investigó a fondo. No hay pruebas contra nadie. Lo que sí hay es una muerte nunca aclarada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gein explicó a los investigadores que la mayoría de lo que había en la casa procedía de tumbas. Durante años había profanado sepulturas en los cementerios de la zona, de noche. Admitió haber abierto varias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las exhumaciones posteriores confirmaron que algunas de esas tumbas habían sido abiertas. La policía comprobó una parte de lo que Gein decía; no se pudo verificar todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los investigadores se enfrentaron a un problema: un hombre dispuesto a hablar, pero cuyo relato no se podía comprobar entero. Hay que separar lo que se verificó de lo que se dijo. Eso vale para todo este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y había más. En la casa aparecieron también restos de Mary Hogan, la dueña de una taberna de la comarca, desaparecida en diciembre de 1954. Gein admitió su muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mary Hogan llevaba tres años desaparecida y nadie había relacionado su caso con el de un vecino tranquilo de Plainfield."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres años. Una taberna cerrada, una mujer ausente y ninguna pista que apuntara a la granja de al lado. Hay quien se pregunta si hubo más víctimas. A Gein nunca se le acusó de ninguna más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos asesinatos admitidos y confirmados. Pero la justicia iba a tener que decidir qué hacer con un hombre al que los médicos veían muy enfermo. Y el pueblo, qué hacer con aquella granja."
+        }
       ]
     },
     {
@@ -50,28 +108,88 @@
       "titulo": "La granja que ardió",
       "tipo": "epilogo",
       "bloques": [
-        { "voz": "ximena", "texto": "Cinta dos. La granja que ardió." },
-        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Ed Gein, el carnicero de Plainfield: un granjero que mató a dos mujeres y profanó tumbas, y al que ningún tribunal castigó como a un asesino. Primero, qué se hizo con él." },
-        { "voz": "ximena", "texto": "Lo acusaron del asesinato de Bernice Worden, y compareció ante el juez el 21 de noviembre de 1957. Los psiquiatras que lo examinaron concluyeron que sufría una enfermedad mental grave. Fue declarado incapaz de afrontar un juicio." },
-        { "voz": "ximena", "texto": "Lo internaron en un hospital psiquiátrico estatal, en Waupun. La muerte de Mary Hogan nunca llegó a los tribunales: aunque él la admitió, no se le acusó por ese caso." },
-        { "voz": "alvaro", "texto": "Mi lectura de este punto es prudente. Los peritos decían que estaba enfermo, y la ley no permitía castigarlo como a un asesino sano. Pero la ley tampoco resolvió lo que las familias necesitaban: saber qué había pasado de verdad, y con quién más." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Un detalle administrativo que explica mucho. No se le acusó por Hogan, en parte por el coste de un segundo proceso, cuando ya estaba internado. Así se cerró un asesinato: con un asunto de dinero, no de justicia." },
-        { "voz": "ximena", "texto": "La granja no tuvo mejor suerte. En marzo de 1958, pocos días antes de que se subastaran sus bienes, la casa ardió. La causa nunca se determinó oficialmente, aunque se sospechó que fue intencionado. Muchos querían borrar aquel lugar del mapa." },
-        { "voz": "ximena", "texto": "Diez años después, en 1968, los médicos consideraron que Gein ya podía comparecer ante un tribunal. El juicio se celebró en noviembre, sin jurado, ante el juez Robert Gollmar." },
-        { "voz": "ximena", "texto": "El tribunal lo declaró culpable del asesinato de Bernice Worden. Pero también concluyó que, en el momento de los hechos, estaba legalmente demente. Volvió al internamiento." },
-        { "voz": "alvaro", "texto": "Una condena que no es una condena. Culpable y no imputable. Es la fórmula que da la ley a un hombre que, según los peritos, no distinguía lo que hacía. Para las familias, una pregunta sin respuesta." },
-        { "voz": "ximena", "texto": "El juez Gollmar sospechó que Gein podía estar relacionado con otras desapariciones sin resolver. Nunca se presentó acusación alguna." },
-        { "voz": "ximena", "texto": "Gein pasó el resto de su vida en instituciones. En 1978 fue trasladado al centro de salud mental de Mendota, en Madison. Murió allí el 26 de julio de 1984, a los setenta y siete años, de insuficiencia respiratoria." },
-        { "voz": "ximena", "texto": "Gein está enterrado en el cementerio de Plainfield, junto a su familia. Su lápida fue robada en el año 2000 y recuperada en 2001. Desde entonces, la tumba no lleva ninguna marca." },
-        { "voz": "alvaro", "texto": "Casi veintisiete años de internamiento. En 1982, una crónica de la agencia UPI lo describía ya mayor y con problemas de memoria, después de trabajar como jardinero en el hospital. El hombre que aterrorizó a un país envejeció en una institución, y casi nadie volvió a verlo." },
-        { "voz": "ximena", "texto": "Pero su historia no desapareció: se convirtió en materia prima del cine. El novelista Robert Bloch se inspiró libremente en el caso para escribir Psicosis, que Alfred Hitchcock llevó a la pantalla en 1960." },
-        { "voz": "ximena", "texto": "Después llegaron La matanza de Texas, en 1974, y El silencio de los corderos, en 1991. Ed Gein no fue el modelo exacto de ninguno de sus personajes, pero sí la sombra que los inspiró." },
-        { "voz": "alvaro", "texto": "Y es un problema. Al contar al monstruo del cine, nos olvidamos del hombre real y de las dos mujeres reales. La ficción simplifica. Un expediente tiene que corregir eso." },
-        { "voz": "ximena", "texto": "Mary Hogan y Bernice Worden eran mujeres de la comarca, con familia y con negocios propios. Bernice tenía cincuenta y ocho años y llevaba la ferretería. Sus nombres merecen recordarse más que cualquier película." },
-        { "voz": "alvaro", "texto": "Queda una lección. Un pueblo pequeño puede convivir años con señales que nadie relaciona, porque las ve una por una y no todas juntas. Y el caso abrió debates sobre enfermedad mental y responsabilidad penal que siguen vivos hoy." },
-        { "voz": "ximena", "texto": "Fin del expediente de Ed Gein, el carnicero de Plainfield. Archivo de TRUE CRIME CALENDAR." }
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. La granja que ardió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Ed Gein, el carnicero de Plainfield: un granjero que mató a dos mujeres y profanó tumbas, y al que ningún tribunal castigó como a un asesino. Primero, qué se hizo con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo acusaron del asesinato de Bernice Worden, y compareció ante el juez el 21 de noviembre de 1957. Los psiquiatras que lo examinaron concluyeron que sufría una enfermedad mental grave. Fue declarado incapaz de afrontar un juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo internaron en un hospital psiquiátrico estatal, en Waupun. La muerte de Mary Hogan nunca llegó a los tribunales: aunque él la admitió, no se le acusó por ese caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi lectura de este punto es prudente. Los peritos decían que estaba enfermo, y la ley no permitía castigarlo como a un asesino sano. Pero la ley tampoco resolvió lo que las familias necesitaban: saber qué había pasado de verdad, y con quién más."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un detalle administrativo que explica mucho. Según se ha escrito, no se le acusó por Hogan en parte por el coste de un segundo proceso, cuando ya estaba internado. Así se cerró un asesinato: con un asunto de dinero, no de justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La granja no tuvo mejor suerte. En marzo de 1958, pocos días antes de que se subastaran sus bienes, la casa ardió. La causa nunca se determinó oficialmente, aunque se sospechó que fue intencionado. Muchos querían borrar aquel lugar del mapa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diez años después, en 1968, los médicos consideraron que Gein ya podía comparecer ante un tribunal. El juicio se celebró en noviembre, sin jurado, ante el juez Robert Gollmar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tribunal lo declaró culpable del asesinato de Bernice Worden. Pero también concluyó que, en el momento de los hechos, estaba legalmente demente. Volvió al internamiento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una condena que no es una condena. Culpable y no imputable. Es la fórmula que da la ley a un hombre que, según los peritos, no distinguía lo que hacía. Para las familias, una pregunta sin respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez Gollmar sospechó que Gein podía estar relacionado con otras desapariciones sin resolver. Nunca se presentó acusación alguna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gein pasó el resto de su vida en instituciones. En 1978 fue trasladado al centro de salud mental de Mendota, en Madison. Murió allí el 26 de julio de 1984, a los setenta y siete años, de insuficiencia respiratoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gein está enterrado en el cementerio de Plainfield, junto a su familia. Su lápida fue robada en el año 2000 y recuperada en 2001. Desde entonces, la tumba no lleva ninguna marca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Casi veintisiete años de internamiento. En 1982, una crónica de la agencia UPI lo describía ya mayor y con problemas de memoria, después de trabajar como jardinero en el hospital. El hombre que aterrorizó a un país envejeció en una institución, y casi nadie volvió a verlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero su historia no desapareció: se convirtió en materia prima del cine. El novelista Robert Bloch se inspiró libremente en el caso para escribir Psicosis, que Alfred Hitchcock llevó a la pantalla en 1960."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después llegaron La matanza de Texas, en 1974, y El silencio de los corderos, en 1991. Ed Gein no fue el modelo exacto de ninguno de sus personajes, pero sí la sombra que los inspiró."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y es un problema. Al contar al monstruo del cine, nos olvidamos del hombre real y de las dos mujeres reales. La ficción simplifica. Un expediente tiene que corregir eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mary Hogan y Bernice Worden eran mujeres de la comarca, con familia y con negocios propios. Bernice tenía cincuenta y ocho años y llevaba la ferretería. Sus nombres merecen recordarse más que cualquier película."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una lección. Un pueblo pequeño puede convivir años con señales que nadie relaciona, porque las ve una por una y no todas juntas. Y el caso abrió debates sobre enfermedad mental y responsabilidad penal que siguen vivos hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Ed Gein, el carnicero de Plainfield. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Víctimas adultas, nombradas (Bernice Worden, 58 años; Mary Hogan). Discrepancias con el v2: 1) El guion mantiene «apenas unos cientos de habitantes» (v2). 3) Gein admitió haber profanado nueve tumbas según Wikipedia; el guion dice «varias» y que la policía comprobó algunas (tres de prueba). 4) Mary Hogan: desaparecida en diciembre de 1954 (Wikipedia; History.com dice 1954); el guion usa «diciembre de 1954». El día exacto (8/12) no se usa. 5) Caso Hogan no juzgado «por coste» (Wikipedia en inglés, única fuente consultada; History.com y UPI no lo dicen): conviene reforzarlo o quitarlo. 6) Henry Gein: el forense habló de asfixia sin autopsia (Wikipedia): el guion lo da como muerte nunca aclarada, sin acusar a nadie. 7) Que el juez Gollmar sospechara de otras desapariciones: UPI 1982. 8) Detención «en casa de unos vecinos»: dato de memoria, no verificado en las fuentes consultadas (Today I Found Out lo da). 9) El recibo: la víspera Gein dijo que volvería por anticongelante (Wikipedia/prensa; History.com no lo recoge). 10) «Doce años solo»: 1945 a 1957. 11) Muerte: 26/7/1984, 77 años, insuficiencia respiratoria por cáncer de pulmón (Wikipedia); el v2 no mencionaba el cáncer. 12) La ficha dice «Murió en un hospital psiquiátrico»: correcto. 13) Incendio de la granja: 20/3/1958 (Milwaukee Journal Sentinel, vía Wikipedia). La frase del inspector «hay quien se pregunta si hubo más víctimas» se apoya en que Gein fue sospechoso de otras desapariciones (Wikipedia, UPI). No se describe ningún objeto ni método."
+  "nota_revision": "Víctimas adultas, nombradas (Bernice Worden, 58 años; Mary Hogan). Discrepancias con el v2: 1) El guion mantiene «apenas unos cientos de habitantes» (v2). 3) Gein admitió haber profanado nueve tumbas según Wikipedia; el guion dice «varias» y que la policía comprobó algunas (tres de prueba). 4) Mary Hogan: desaparecida en diciembre de 1954 (Wikipedia; History.com dice 1954); el guion usa «diciembre de 1954». El día exacto (8/12) no se usa. 5) Caso Hogan no juzgado «por coste» (Wikipedia en inglés, única fuente consultada; History.com y UPI no lo dicen): conviene reforzarlo o quitarlo. 6) Henry Gein: el forense habló de asfixia sin autopsia (Wikipedia): el guion lo da como muerte nunca aclarada, sin acusar a nadie. 7) Que el juez Gollmar sospechara de otras desapariciones: UPI 1982. 8) Detención «en casa de unos vecinos»: dato de memoria, no verificado en las fuentes consultadas (Today I Found Out lo da). 9) El recibo: la víspera Gein dijo que volvería por anticongelante (Wikipedia/prensa; History.com no lo recoge). 10) «Doce años solo»: 1945 a 1957. 11) Muerte: 26/7/1984, 77 años, insuficiencia respiratoria por cáncer de pulmón (Wikipedia); el v2 no mencionaba el cáncer. 12) La ficha dice «Murió en un hospital psiquiátrico»: correcto. 13) Incendio de la granja: 20/3/1958 (Milwaukee Journal Sentinel, vía Wikipedia). La frase del inspector «hay quien se pregunta si hubo más víctimas» se apoya en que Gein fue sospechoso de otras desapariciones (Wikipedia, UPI). No se describe ningún objeto ni método. Verificación estrella-6: el coste como motivo de no acusar por Hogan queda como «según se ha escrito»."
 }

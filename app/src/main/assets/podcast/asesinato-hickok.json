@@ -59,7 +59,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí está la ironía. Ese hermano, según los historiadores, no existió. Un periódico local escribió que, si algún día mataba a alguien, quería que lo juzgasen en aquellos campamentos mineros."
+          "texto": "Aquí está la ironía. Ese hermano, según los historiadores, no existió. Un periódico local había escrito que, si alguna vez mataba a un hombre, no pediría mejor juicio que el de un jurado de Deadwood."
         },
         {
           "voz": "ximena",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En Yankton, McCall se declaró inocente. Sus abogados se limitaron a buscar fallos de forma y la defensa no llamó a ningún testigo. Según la crónica, a sus abogados les dijo que era un encargo y les dio nombres. Nunca se probó."
+          "texto": "En Yankton, McCall se declaró inocente. Sus abogados buscaron fallos de forma. Según la crónica, a sus abogados les dijo que era un encargo y les dio nombres. Nunca se probó."
         },
         {
           "voz": "ximena",
@@ -87,11 +87,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hickok llevaba apenas unos meses en Deadwood. Está enterrado allí, en el cementerio de Mount Moriah. Su leyenda lo sobrevivió a él y a su asesino."
+          "texto": "Hickok llevaba apenas unas semanas en Deadwood. Está enterrado allí, en el cementerio de Mount Moriah. Su leyenda lo sobrevivió a él y a su asesino. Tenía treinta y nueve años. Su tumba, en lo alto de la colina, sigue recibiendo visitantes."
         },
         {
           "voz": "ximena",
-          "texto": "Queda el hombre bajo el mito. Un pistolero cansado que ya no disparaba, al que mataron por la espalda. Eso, y una silla. A McCall la prensa de la época lo describió como un cobarde, y así lo recuerda la historia de Dakota del Sur."
+          "texto": "Queda el hombre bajo el mito. Un pistolero cansado que ya no disparaba, al que mataron por la espalda. Eso, y una silla. El nombre de McCall quedó unido para siempre al de su víctima."
         },
         {
           "voz": "ximena",
@@ -100,5 +100,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: la ficha dice que el juicio de Deadwood fue el día siguiente (3 de agosto); Wikipedia lo sitúa «al día siguiente» y que el jurado deliberó dos horas. Wikipedia atribuye la sentencia al juez Granville Bennett; SDPB (Zimny) dice que la sentencia fue al mes siguiente (enero de 1877) y la ficha nombra al juez Shannon: el guion no nombra al juez ni la fecha de la sentencia. Hickok nació en 1837 (History.com); no se da su edad. History.com: el resto de cartuchos del revólver no funcionó (Wikipedia no lo recoge). Detalle de la silla, de la tarde y la caída del caballo: Wikipedia (en inglés), basada en relatos populares; History.com sitúa el local como «n.º 10»; el guion usa Nuttall y Mann, como la ficha. La mano del muerto (ases y ochos) se da como tradición dudosa. La contratación de McCall (asesino a sueldo) aparece solo en el artículo de SDPB y se da como lo que dijo a sus abogados, sin probar. Edad de McCall: unos 24 años (Wikipedia)."
+  "nota_revision": "Contradicciones: la ficha dice que el juicio de Deadwood fue el día siguiente (3 de agosto); Wikipedia lo sitúa «al día siguiente» y que el jurado deliberó dos horas. Wikipedia atribuye la sentencia al juez Granville Bennett; SDPB (Zimny) dice que la sentencia fue al mes siguiente (enero de 1877) y la ficha nombra al juez Shannon: el guion no nombra al juez ni la fecha de la sentencia. Hickok nació en 1837 (History.com); no se da su edad. History.com: el resto de cartuchos del revólver no funcionó (Wikipedia no lo recoge). Detalle de la silla, de la tarde y la caída del caballo: Wikipedia (en inglés), basada en relatos populares; History.com sitúa el local como «n.º 10»; el guion usa Nuttall y Mann, como la ficha. La mano del muerto (ases y ochos) se da como tradición dudosa. La contratación de McCall (asesino a sueldo) aparece solo en el artículo de SDPB y se da como lo que dijo a sus abogados, sin probar. Edad de McCall: unos 24 años (Wikipedia). | VERIFICACIÓN nuevos-agosto: Hickok llegó a Deadwood en julio de 1876: «meses» pasa a «semanas». Quitado «la defensa no llamó a ningún testigo» y «la prensa lo describió como un cobarde» (sin fuente). McCall condenado y ejecutado; el móvil y el supuesto encargo van como dicho por él, sin probar. Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

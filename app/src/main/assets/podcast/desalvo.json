@@ -15,31 +15,86 @@
     "Massachusetts": "Masachúsets",
     "Bridgewater": "Brídchuoter",
     "Walpole": "Guólpol",
-    "Tony Curtis": "Tóni Cúrtis" },
+    "Tony Curtis": "Tóni Cúrtis"
+  },
   "cintas": [
     {
       "n": 1,
       "titulo": "Una botella de agua",
       "tipo": "hallazgo",
       "bloques": [
-        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Albert DeSalvo, el estrangulador de Boston. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
-        { "voz": "ximena", "texto": "Cinta uno. Una botella de agua." },
-        { "voz": "ximena", "texto": "Massachusetts, julio de 2013. Un agente de policía sigue discretamente a un hombre. En un momento dado, el hombre tira una botella de agua. El agente la recoge. Esa botella va a responder, medio siglo después, a una de las preguntas más famosas de la historia criminal de Estados Unidos." },
-        { "voz": "ximena", "texto": "El hombre de la botella no había hecho nada. Era el sobrino de alguien que llevaba cuarenta años muerto. Su ADN iba a servir para comprobar quién había sido su tío." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Quiero dejar claro el punto de partida. Durante casi cincuenta años, el único vínculo entre ese hombre y el último crimen de la serie fue su propia confesión. Una palabra, sin una sola prueba material. Eso es lo que iba a cambiar." },
-        { "voz": "ximena", "texto": "Entre junio de 1962 y enero de 1964, trece mujeres fueron asesinadas en sus casas en Boston y alrededores, entre ellos Cambridge. Según el recuento de la época, once, y trece según el que se fijó después. La mayoría vivían solas." },
-        { "voz": "ximena", "texto": "En muchos casos no había señales de que alguien hubiera forzado la puerta. Eso significaba algo inquietante: ellas mismas habían dejado entrar a su asesino. Quizá alguien que decía venir a reparar algo. La ciudad entró en pánico. Muchas mujeres dejaron de abrir la puerta a desconocidos." },
-        { "voz": "alvaro", "texto": "Cuidado con el recuento. Las primeras víctimas eran mujeres mayores; las últimas, jóvenes. Esa diferencia hizo pensar a algunos investigadores, ya entonces, que quizá no había un solo autor. Es la duda más antigua de este expediente, y no la he inventado yo." },
-        { "voz": "ximena", "texto": "La última fue Mary Sullivan, de diecinueve años, el 4 de enero de 1964. Cuando su caso quedó sin resolver, la presión sobre la policía se volvió insoportable." },
-        { "voz": "ximena", "texto": "Los crímenes se repartían entre varias ciudades, con policías distintas, y se llegó a crear una oficina especial para coordinarlas. Era una idea poco habitual en aquella época." },
-        { "voz": "alvaro", "texto": "Y aquí hay un error de método, que reconozco como inspector. Un caso con tantas piezas necesita una sola mesa donde juntarlas. Durante meses cada comisaría tuvo su carpeta. Lo digo con prudencia: es lo que cuentan los historiadores del caso." },
-        { "voz": "ximena", "texto": "¿Cómo aparece DeSalvo en esta historia? Por otros delitos. Albert DeSalvo había nacido en 1931 en Chelsea, Massachusetts, en una familia marcada por la violencia del padre." },
-        { "voz": "ximena", "texto": "A comienzos de los sesenta ya había sido detenido por hacerse pasar por cazatalentos de una agencia de modelos para entrar en casas de mujeres. La prensa lo llamó el hombre de las medidas." },
-        { "voz": "ximena", "texto": "En otoño de 1964, la policía lo relacionó con una serie de agresiones a mujeres en sus domicilios: el caso del hombre de verde, llamado así por la ropa de trabajo que llevaba. Lo internaron en el hospital de Bridgewater para evaluarlo." },
-        { "voz": "ximena", "texto": "Y allí empezó a contar algo mucho más grave. Primero a otro interno, George Nassar. Después a su abogado, el célebre F. Lee Bailey. Decía ser el estrangulador de Boston, y daba detalles de los crímenes." },
-        { "voz": "alvaro", "texto": "Me detengo en una pregunta que nadie se hizo con calma. ¿Por qué iba a contarlo un hombre internado para ser evaluado? Nunca pudo comprobarse del todo por qué hablaba. Los motivos que se barajaron entonces son hipótesis, no hechos." },
-        { "voz": "ximena", "texto": "Sus confesiones contenían detalles precisos, pero también errores. La policía no encontró pruebas físicas que respaldaran la primera confesión. Las condiciones en que habló complicaban usar sus palabras ante un tribunal." },
-        { "voz": "alvaro", "texto": "Esa versión se hizo tan popular que en 1968 llegó al cine, con Tony Curtis en el papel de DeSalvo. El cine ya había dictado sentencia. Pero el expediente seguía sin una sola prueba. Lo que vino después, medio siglo más tarde, no estaba en ninguna película." }
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Albert DeSalvo, el estrangulador de Boston. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una botella de agua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Massachusetts, julio de 2013. Un agente de policía sigue discretamente a un hombre. En un momento dado, el hombre tira una botella de agua. El agente la recoge. Esa botella va a responder, medio siglo después, a una de las preguntas más famosas de la historia criminal de Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre de la botella no había hecho nada. Era el sobrino de alguien que llevaba cuarenta años muerto. Su ADN iba a servir para comprobar quién había sido su tío."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Quiero dejar claro el punto de partida. Durante casi cincuenta años, el único vínculo entre ese hombre y el último crimen de la serie fue su propia confesión. Una palabra, sin una sola prueba material. Eso es lo que iba a cambiar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre junio de 1962 y enero de 1964, trece mujeres fueron asesinadas en sus casas en Boston y alrededores, entre ellos Cambridge. Según el recuento de la época, once, y trece según el que se fijó después. La mayoría vivían solas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En muchos casos no había señales de que alguien hubiera forzado la puerta. Eso significaba algo inquietante: ellas mismas habían dejado entrar a su asesino. Quizá alguien que decía venir a reparar algo. La ciudad entró en pánico. Muchas mujeres dejaron de abrir la puerta a desconocidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con el recuento. Las primeras víctimas eran mujeres mayores; las últimas, jóvenes. Esa diferencia hizo pensar a algunos investigadores, ya entonces, que quizá no había un solo autor. Es la duda más antigua de este expediente, y no la he inventado yo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La última fue Mary Sullivan, de diecinueve años, el 4 de enero de 1964. Cuando su caso quedó sin resolver, la presión sobre la policía se volvió insoportable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los crímenes se repartían entre varias ciudades, con policías distintas, y se llegó a crear una oficina especial para coordinarlas. Era una idea poco habitual en aquella época."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay un error de método, que reconozco como inspector. Un caso con tantas piezas necesita una sola mesa donde juntarlas. Durante meses cada comisaría tuvo su carpeta. Lo digo con prudencia: es lo que cuentan los historiadores del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Cómo aparece DeSalvo en esta historia? Por otros delitos. Albert DeSalvo había nacido en 1931 en Chelsea, Massachusetts, en una familia marcada por la violencia del padre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A comienzos de los sesenta ya había sido detenido por hacerse pasar por cazatalentos de una agencia de modelos para entrar en casas de mujeres. La prensa lo llamó el hombre de las medidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En otoño de 1964, la policía lo relacionó con una serie de agresiones a mujeres en sus domicilios: el caso del hombre de verde, llamado así por la ropa de trabajo que llevaba. Lo internaron en el hospital de Bridgewater para evaluarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y allí empezó a contar algo mucho más grave. Primero a otro interno, George Nassar. Después a su abogado, el célebre F. Lee Bailey. Decía ser el estrangulador de Boston, y daba detalles de los crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me detengo en una pregunta que nadie se hizo con calma. ¿Por qué iba a contarlo un hombre internado para ser evaluado? Nunca pudo comprobarse del todo por qué hablaba. Los motivos que se barajaron entonces son hipótesis, no hechos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus confesiones contenían detalles precisos, pero también errores. La policía no encontró pruebas físicas que respaldaran la primera confesión. Las condiciones en que habló complicaban usar sus palabras ante un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa versión se hizo tan popular que en 1968 llegó al cine, con Tony Curtis en el papel de DeSalvo. El cine ya había dictado sentencia. Pero el expediente seguía sin una sola prueba. Lo que vino después, medio siglo más tarde, no estaba en ninguna película."
+        }
       ]
     },
     {
@@ -47,26 +102,80 @@
       "titulo": "Medio siglo de duda",
       "tipo": "epilogo",
       "bloques": [
-        { "voz": "ximena", "texto": "Cinta dos. Medio siglo de duda." },
-        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Albert DeSalvo, que confesó ser el estrangulador de Boston y murió sin haber sido juzgado por esos crímenes. Veamos qué pasó con él y con la confesión." },
-        { "voz": "ximena", "texto": "En 1967 fue juzgado solo por las agresiones del hombre de verde y por robos. Un acuerdo con la fiscalía dejó fuera la pena de muerte. Recibió cadena perpetua. Nunca fue juzgado por los asesinatos del estrangulador." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Lo que se juzgó fue lo que se podía probar. La confesión de los asesinatos no bastaba para sostener una acusación. Eso significa que una de las historias más famosas del siglo no se contó nunca en un tribunal." },
-        { "voz": "ximena", "texto": "Ese mismo año llegó a fugarse del hospital de Bridgewater. Provocó un enorme revuelo, y se entregó al cabo de un día. Después lo trasladaron a la prisión de máxima seguridad de Walpole." },
-        { "voz": "ximena", "texto": "El 25 de noviembre de 1973 lo encontraron muerto en la enfermería de la prisión: otro preso lo había apuñalado. Un reo fue juzgado por su muerte, y el jurado no llegó a un veredicto. DeSalvo murió sin haber sido juzgado por los crímenes que lo hicieron famoso, y sin que nadie supiera si su confesión era cierta." },
-        { "voz": "alvaro", "texto": "Durante décadas hubo quien creyó la confesión y quien no. Los allegados no lo creían capaz. Las víctimas eran muy distintas y los métodos, inconsistentes. Una abogada de su familia señaló que la forma en que murió Mary Sullivan contradecía lo que él había contado." },
-        { "voz": "ximena", "texto": "Pero las pruebas biológicas de su caso se habían conservado. En 2013, con técnicas modernas, se obtuvo un perfil genético y se comparó con el de un familiar varón de DeSalvo, su sobrino. El resultado apuntaba a la familia: eran restos biológicos conservados desde 1964, tomados de la escena del último crimen." },
-        { "voz": "alvaro", "texto": "Pienso en quienes guardaron aquellas muestras durante casi cincuenta años, sin saber si servirían para algo. Sin ellos, la botella de agua no habría servido para nada. Una prueba conservada a tiempo vale más que mil confesiones." },
-        { "voz": "ximena", "texto": "El 11 de julio de 2013, el fiscal del condado de Suffolk, Daniel Conley, anunció que el parecido excluía a casi todos los hombres. Un juez autorizó la exhumación de los restos de DeSalvo, para compararlos directamente." },
-        { "voz": "alvaro", "texto": "Las comparaciones directas confirmaron lo que se sospechaba. Según los investigadores, el ADN del crimen era el de DeSalvo, y las fuentes oficiales hablaron de que no quedaban dudas sobre la muerte de Mary Sullivan." },
-        { "voz": "ximena", "texto": "La familia de DeSalvo, a través de su abogada, dijo que seguía viendo motivos para la duda. Un análisis privado, años antes, había hallado el ADN de otro hombre en el cuerpo. Las autoridades pusieron en cuestión esa prueba." },
-        { "voz": "alvaro", "texto": "Y aquí hay que ser exacto. El ADN resolvió un caso: el de la última víctima. Para los demás, la principal prueba sigue siendo su confesión. Algunos investigadores y familiares creen todavía que pudo haber más de un asesino." },
-        { "voz": "ximena", "texto": "Casey Sherman, sobrino de Mary Sullivan, había dudado durante años de la culpa de DeSalvo. Dijo que el resultado podía traer un enorme cierre. Su tía había sido para él un recuerdo de toda la vida." },
-        { "voz": "alvaro", "texto": "Hay una lección sobre las confesiones: incluso la de alguien que da detalles convincentes necesita pruebas que la sostengan. Para la familia de Mary Sullivan, la respuesta llegó casi cincuenta años después. Para las demás, no hay respuesta." },
-        { "voz": "ximena", "texto": "Su sobrino Casey Sherman escribió en 2003 un libro, A Rose for Mary, para pedir que se revisara el caso de su tía. Tardó diez años en llegar un resultado." },
-        { "voz": "ximena", "texto": "Este expediente lleva el nombre de quien confesó, pero no le pertenece. Pertenece a Mary Sullivan, de diecinueve años, y a las demás mujeres que murieron en sus casas entre 1962 y 1964, muchas de ellas mayores y viviendo solas. Y a sus familias." },
-        { "voz": "ximena", "texto": "Fin del expediente de Albert DeSalvo, el estrangulador de Boston. Archivo de TRUE CRIME CALENDAR." }
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Medio siglo de duda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Albert DeSalvo, que confesó ser el estrangulador de Boston y murió sin haber sido juzgado por esos crímenes. Veamos qué pasó con él y con la confesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1967 fue juzgado solo por las agresiones del hombre de verde y por robos. Un acuerdo con la fiscalía dejó fuera la pena de muerte. Recibió cadena perpetua. Nunca fue juzgado por los asesinatos del estrangulador."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo que se juzgó fue lo que se podía probar. La confesión de los asesinatos no bastaba para sostener una acusación. Eso significa que una de las historias más famosas del siglo no se contó nunca en un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo año llegó a fugarse del hospital de Bridgewater. Provocó un enorme revuelo, y se entregó al cabo de un día. Después lo trasladaron a la prisión de máxima seguridad de Walpole."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de noviembre de 1973 lo encontraron muerto en la enfermería de la prisión: otro preso lo había apuñalado. Un reo fue juzgado por su muerte, y el jurado no llegó a un veredicto. DeSalvo murió sin haber sido juzgado por los crímenes que lo hicieron famoso, y sin que nadie supiera si su confesión era cierta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Durante décadas hubo quien creyó la confesión y quien no. Los allegados no lo creían capaz. Las víctimas eran muy distintas y los métodos, inconsistentes. Quienes dudaban señalaron que lo que él contó sobre la muerte de Mary Sullivan no coincidía con lo hallado en la escena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero las pruebas biológicas de su caso se habían conservado. En 2013, con técnicas modernas, se obtuvo un perfil genético y se comparó con el de un familiar varón de DeSalvo, su sobrino. El resultado apuntaba a la familia: eran restos biológicos conservados desde 1964, tomados de la escena del último crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pienso en quienes guardaron aquellas muestras durante casi cincuenta años, sin saber si servirían para algo. Sin ellos, la botella de agua no habría servido para nada. Una prueba conservada a tiempo vale más que mil confesiones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de julio de 2013, el fiscal del condado de Suffolk, Daniel Conley, anunció que el parecido excluía a casi todos los hombres. Un juez autorizó la exhumación de los restos de DeSalvo, para compararlos directamente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las comparaciones directas confirmaron lo que se sospechaba. Según los investigadores, el ADN del crimen era el de DeSalvo, y las fuentes oficiales hablaron de que no quedaban dudas sobre la muerte de Mary Sullivan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia de DeSalvo, a través de su abogada, dijo que seguía viendo motivos para la duda. Un análisis privado, años antes, había hallado el ADN de otro hombre en el cuerpo. Las autoridades pusieron en cuestión esa prueba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay que ser exacto. El ADN resolvió un caso: el de la última víctima. Para los demás, la principal prueba sigue siendo su confesión. Algunos investigadores y familiares creen todavía que pudo haber más de un asesino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Casey Sherman, sobrino de Mary Sullivan, había dudado durante años de la culpa de DeSalvo. Dijo que el resultado podía traer un enorme cierre. La muerte de su tía había marcado a su familia durante toda la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una lección sobre las confesiones: incluso la de alguien que da detalles convincentes necesita pruebas que la sostengan. Para la familia de Mary Sullivan, la respuesta llegó casi cincuenta años después. Para las demás, no hay respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su sobrino Casey Sherman escribió en 2003 un libro, A Rose for Mary, para pedir que se revisara el caso de su tía. Tardó diez años en llegar un resultado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien confesó, pero no le pertenece. Pertenece a Mary Sullivan, de diecinueve años, y a las demás mujeres que murieron en sus casas entre 1962 y 1964, muchas de ellas mayores y viviendo solas. Y a sus familias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Albert DeSalvo, el estrangulador de Boston. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Víctimas adultas; solo se nombra a Mary Sullivan (19 años; su sobrino Casey Sherman ha hablado en público). Discrepancias: 1) Número de víctimas: la ficha y Wikipedia dicen 13; NBC News (2013) y la policía de la época hablan de 11 asesinatos. El guion dice «once, y trece según el que se fijó después» (formulación prudente; conviene decidir con el usuario). 2) La ficha y el v2 dicen que en noviembre de 1964 fue detenido; Wikipedia dice que el 27 de octubre de 1964 la policía lo vinculó con el caso del hombre de verde; el guion dice «otoño de 1964». 3) El v2 decía que se fugó en 1967 y que lo capturaron «al día siguiente»; Wikipedia: se entregó (fuga de febrero de 1967). El guion dice «se entregó al cabo de un día» (de memoria; conviene confirmar). 4) Fecha de la muerte: 25/11/1973 (Wikipedia; el v2 no daba día). 5) Sentencia de 1967: Wikipedia habla de acuerdo sin pena de muerte y cadena perpetua sin libertad condicional; el guion dice «cadena perpetua». El año (1967) coincide en el v2; el mes (enero) no se usa. 6) ADN: anuncio el 11/7/2013 (NBC, Wikipedia); familiar: sobrino varón; «excluye al 99,9 % de los hombres» según Conley (en el guion, «casi todos los hombres»); la exhumación se autorizó tras el anuncio; la comparación directa confirmó el resultado (Wikipedia). Falta la fecha de la confirmación (autopsia de los restos): no verificada. 7) Oficina especial de coordinación (Strangler Bureau del fiscal general Brooke): del v2, no verificada en Wikipedia. 8) Que cada comisaría tuviera su carpeta durante meses: afirmación del inspector, atribuida a «los historiadores del caso»; sin fuente concreta consultada. 9) Se ha quitado la hipótesis de la fama o el dinero. 10) «Las condiciones en que habló complicaban usar sus palabras»: del v2 (hipnosis, Bridgewater). 11) El análisis privado del año 2000 con ADN de otro hombre: NBC 2013 (según el abogado de la familia). 12) Detenido por hacerse pasar por cazatalentos (el hombre de las medidas): del v2, no verificado en las fuentes consultadas. 13) El libro A Rose for Mary (2003) de Casey Sherman: Wikipedia. El preso juzgado por la muerte de DeSalvo (Robert Wilson): jurado sin veredicto (Wikipedia). No se describen los métodos. Se omiten los nombres de las demás víctimas."
+  "nota_revision": "Víctimas adultas; solo se nombra a Mary Sullivan (19 años; su sobrino Casey Sherman ha hablado en público). Discrepancias: 1) Número de víctimas: la ficha y Wikipedia dicen 13; NBC News (2013) y la policía de la época hablan de 11 asesinatos. El guion dice «once, y trece según el que se fijó después» (formulación prudente; conviene decidir con el usuario). 2) La ficha y el v2 dicen que en noviembre de 1964 fue detenido; Wikipedia dice que el 27 de octubre de 1964 la policía lo vinculó con el caso del hombre de verde; el guion dice «otoño de 1964». 3) El v2 decía que se fugó en 1967 y que lo capturaron «al día siguiente»; Wikipedia: se entregó (fuga de febrero de 1967). El guion dice «se entregó al cabo de un día» (de memoria; conviene confirmar). 4) Fecha de la muerte: 25/11/1973 (Wikipedia; el v2 no daba día). 5) Sentencia de 1967: Wikipedia habla de acuerdo sin pena de muerte y cadena perpetua sin libertad condicional; el guion dice «cadena perpetua». El año (1967) coincide en el v2; el mes (enero) no se usa. 6) ADN: anuncio el 11/7/2013 (NBC, Wikipedia); familiar: sobrino varón; «excluye al 99,9 % de los hombres» según Conley (en el guion, «casi todos los hombres»); la exhumación se autorizó tras el anuncio; la comparación directa confirmó el resultado (Wikipedia). Falta la fecha de la confirmación (autopsia de los restos): no verificada. 7) Oficina especial de coordinación (Strangler Bureau del fiscal general Brooke): del v2, no verificada en Wikipedia. 8) Que cada comisaría tuviera su carpeta durante meses: afirmación del inspector, atribuida a «los historiadores del caso»; sin fuente concreta consultada. 9) Se ha quitado la hipótesis de la fama o el dinero. 10) «Las condiciones en que habló complicaban usar sus palabras»: del v2 (hipnosis, Bridgewater). 11) El análisis privado del año 2000 con ADN de otro hombre: NBC 2013 (según el abogado de la familia). 12) Detenido por hacerse pasar por cazatalentos (el hombre de las medidas): del v2, no verificado en las fuentes consultadas. 13) El libro A Rose for Mary (2003) de Casey Sherman: Wikipedia. El preso juzgado por la muerte de DeSalvo (Robert Wilson): jurado sin veredicto (Wikipedia). No se describen los métodos. Se omiten los nombres de las demás víctimas. Verificación estrella-6: quitadas la «abogada de su familia» y la idea de que Sherman conoció a su tía (nació después)."
 }

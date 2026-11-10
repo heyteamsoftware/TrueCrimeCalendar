@@ -15,32 +15,90 @@
     "Gilbert Prouteau": "Yilbér Prutó",
     "Charles Perrault": "Charl Peró",
     "Georges Bataille": "Yorch Batáy",
-    "Pierre Klossowski": "Pier Klosóvski" },
+    "Pierre Klossowski": "Pier Klosóvski"
+  },
   "cintas": [
     {
       "n": 1,
       "titulo": "El castillo de Machecoul",
       "tipo": "hallazgo",
       "bloques": [
-        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Gilles de Rais, el aristócrata maldito. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
-        { "voz": "ximena", "texto": "Cinta uno. El castillo de Machecoul." },
-        { "voz": "ximena", "texto": "15 de septiembre de 1440. Un capitán del duque de Bretaña, Jean Labbé, llega con hombres armados al castillo de Machecoul. Viene a detener a uno de los hombres más ricos de Francia. Un mariscal. Un compañero de armas de Juana de Arco." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Lo que se juega aquí es el poder. Quien manda detener a un mariscal sabe que no se detiene a cualquiera. Y también sabe que, si el caso sale bien, los bienes del detenido cambian de manos. Tengámoslo presente." },
-        { "voz": "ximena", "texto": "Gilles de Rais nació hacia 1405 en una gran familia noble de la frontera entre Bretaña y Anjou. Quedó huérfano joven y lo crio su abuelo materno. Gracias a un matrimonio ventajoso, reunió una de las mayores fortunas del reino." },
-        { "voz": "ximena", "texto": "Durante la guerra de los Cien Años luchó en el bando del futuro rey Carlos séptimo. En 1429 combatió junto a Juana de Arco para levantar el asedio de Orleans. El 17 de julio de ese año, el día de la coronación en Reims, fue nombrado mariscal de Francia." },
-        { "voz": "ximena", "texto": "Después su vida dio un giro. Dilapidó su fortuna con un derroche espectacular: un séquito enorme, una capilla privada llena de clérigos y cantores, representaciones teatrales lujosísimas. En julio de 1435 su familia consiguió del rey que se le prohibiera seguir vendiendo tierras." },
-        { "voz": "alvaro", "texto": "Y cuando se acaba el dinero, llegan los alquimistas. Gilles se rodeó de personajes que prometían fabricar oro y que, según el proceso, invocaban a demonios. El más conocido fue un clérigo italiano, Francesco Prelati. Es lo que dicen las actas, no lo que yo puedo probar." },
-        { "voz": "ximena", "texto": "En mayo de 1440 cometió un error grave. En una disputa por un castillo, irrumpió con hombres armados en la iglesia de Saint-Étienne-de-Mer-Morte y agredió a un clérigo, Jean Le Ferron. Aquello le enfrentó con su señor, el duque de Bretaña, y con la Iglesia." },
-        { "voz": "ximena", "texto": "Detenido en septiembre, se abrieron dos procesos en Nantes: uno eclesiástico, por herejía y delitos contra la fe, y otro civil. Y en ellos salió a la luz la acusación más terrible: la desaparición de numerosos niños en las tierras de sus castillos." },
-        { "voz": "alvaro", "texto": "Aquí tengo que ser prudente. Todo lo que cuento de esos niños sale de actas redactadas por sus jueces, hace casi seis siglos. Son testimonios, no pruebas materiales. Los historiadores los leen con cuidado, pero casi todos los consideran serios." },
-        { "voz": "ximena", "texto": "Eran hijos de campesinos y de familias pobres. Según el proceso, algunos criados los llevaban a los castillos de Machecoul o de Tiffauges con la promesa de un empleo o de comida. Durante años, las familias hablaron en voz baja." },
-        { "voz": "alvaro", "texto": "¿Quién se atrevía a acusar a un mariscal de Francia? Esa es la pregunta de fondo. Una familia pobre no tenía ni abogado ni voz. Solo el escándalo de la iglesia de Saint-Étienne-de-Mer-Morte abrió la puerta a que alguien las escuchara." },
-        { "voz": "ximena", "texto": "En el proceso, decenas de padres y vecinos declararon sobre hijos desaparecidos. Se manejaron cifras enormes. La sentencia eclesiástica habla de ciento cuarenta niños o más. La civil, solo de varios niños pequeños." },
-        { "voz": "alvaro", "texto": "Fíjate en la diferencia. Dos tribunales, dos cifras. Hoy se habla de entre ochenta y más de doscientas víctimas, aunque el número real nunca se conocerá. Y detrás de cada cifra hubo un niño y una familia." },
-        { "voz": "ximena", "texto": "Con él fueron detenidos varios de sus criados y colaboradores, entre ellos dos que le servían desde hacía años, Henriet y Poitou, y un clérigo, Prelati. Algunos escaparon." },
-        { "voz": "ximena", "texto": "Gilles se negó al principio a responder ante la jurisdicción de la Iglesia. Dijo que no reconocía a sus jueces. Era un señor acostumbrado a que nadie le llevara la contraria." },
-        { "voz": "alvaro", "texto": "Hay un detalle que me llama la atención. En agosto de 1440, antes incluso del arresto, el duque cedió a su hermano unas tierras que pertenecían a Gilles. No acuso a nadie. Tomo nota de quién salía ganando." },
-        { "voz": "ximena", "texto": "Pero el proceso siguió. Y a mediados de octubre, el tribunal le planteó una elección: seguir negando, con el riesgo de tortura y de ser excomulgado, o hablar. Lo que dijo a continuación cambió la historia del caso." }
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Gilles de Rais, el aristócrata maldito. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El castillo de Machecoul."
+        },
+        {
+          "voz": "ximena",
+          "texto": "15 de septiembre de 1440. Un capitán del duque de Bretaña, Jean Labbé, llega con hombres armados al castillo de Machecoul. Viene a detener a uno de los hombres más ricos de Francia. Un mariscal. Un compañero de armas de Juana de Arco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo que se juega aquí es el poder. Quien manda detener a un mariscal sabe que no se detiene a cualquiera. Y también sabe que, si el caso sale bien, los bienes del detenido cambian de manos. Tengámoslo presente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gilles de Rais nació hacia 1405 en una gran familia noble de la frontera entre Bretaña y Anjou. Quedó huérfano joven y lo crio su abuelo materno. Gracias a un matrimonio ventajoso, reunió una de las mayores fortunas del reino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante la guerra de los Cien Años luchó en el bando del futuro rey Carlos séptimo. En 1429 combatió junto a Juana de Arco para levantar el asedio de Orleans. El 17 de julio de ese año, el día de la coronación en Reims, fue nombrado mariscal de Francia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después su vida dio un giro. Dilapidó su fortuna con un derroche espectacular: un séquito enorme, una capilla privada llena de clérigos y cantores, representaciones teatrales lujosísimas. En julio de 1435 su familia consiguió del rey que se le prohibiera seguir vendiendo tierras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y cuando se acaba el dinero, llegan los alquimistas. Gilles se rodeó de personajes que prometían fabricar oro y que, según el proceso, invocaban a demonios. El más conocido fue un clérigo italiano, Francesco Prelati. Es lo que dicen las actas, no lo que yo puedo probar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1440 cometió un error grave. En una disputa por un castillo, irrumpió con hombres armados en la iglesia de Saint-Étienne-de-Mer-Morte y agredió a un clérigo, Jean Le Ferron. Aquello le enfrentó con su señor, el duque de Bretaña, y con la Iglesia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detenido en septiembre, se abrieron dos procesos en Nantes: uno eclesiástico, por herejía y delitos contra la fe, y otro civil. Y en ellos salió a la luz la acusación más terrible: la desaparición de numerosos niños en las tierras de sus castillos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí tengo que ser prudente. Todo lo que cuento de esos niños sale de actas redactadas por sus jueces, hace casi seis siglos. Son testimonios, no pruebas materiales. Los historiadores los leen con cuidado, y la mayoría los considera serios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran hijos de campesinos y de familias pobres. Según el proceso, algunos criados los llevaban a los castillos de Machecoul o de Tiffauges con la promesa de un empleo o de comida. Durante años, las familias hablaron en voz baja."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Quién se atrevía a acusar a un mariscal de Francia? Esa es la pregunta de fondo. Una familia pobre no tenía ni abogado ni voz. Solo el escándalo de la iglesia de Saint-Étienne-de-Mer-Morte abrió la puerta a que alguien las escuchara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el proceso, decenas de padres y vecinos declararon sobre hijos desaparecidos. Se manejaron cifras enormes. La sentencia eclesiástica habla de ciento cuarenta niños o más. La civil, solo de varios niños pequeños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la diferencia. Dos tribunales, dos cifras. Hoy se habla de entre ochenta y más de doscientas víctimas, aunque el número real nunca se conocerá. Y detrás de cada cifra hubo un niño y una familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con él fueron detenidos varios de sus criados y colaboradores, entre ellos dos que le servían desde hacía años, Henriet y Poitou, y un clérigo, Prelati. Algunos escaparon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gilles se negó al principio a responder ante la jurisdicción de la Iglesia. Dijo que no reconocía a sus jueces. Era un señor acostumbrado a que nadie le llevara la contraria."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un detalle que me llama la atención. En agosto de 1440, antes incluso del arresto, el duque cedió a su hermano unas tierras que pertenecían a Gilles. No acuso a nadie. Tomo nota de quién salía ganando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el proceso siguió. Y a mediados de octubre, el tribunal le planteó una elección: seguir negando, con el riesgo de tortura y de ser excomulgado, o hablar. Lo que dijo a continuación cambió la historia del caso."
+        }
       ]
     },
     {
@@ -48,28 +106,88 @@
       "titulo": "Cuatro damas en el Loira",
       "tipo": "juicio",
       "bloques": [
-        { "voz": "ximena", "texto": "Cinta dos. Cuatro damas en el Loira." },
-        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Gilles de Rais, el mariscal que fue juzgado en Nantes por la muerte de numerosos niños. Empezamos por lo que dijo en octubre de 1440." },
-        { "voz": "ximena", "texto": "Gilles lo negó todo al principio. Pero el 21 de octubre, ante el tribunal, admitió los cargos. Sus dos principales criados también hablaron. Según las actas, la amenaza de tortura y de excomunión estuvo presente en el proceso." },
-        { "voz": "alvaro", "texto": "Nota del inspector. Una confesión obtenida con amenaza de tortura vale poco. Lo sé yo y lo sabían los juristas de la época. Por eso importa que el caso no dependiera solo de su palabra. Importa lo que dijeron los padres." },
-        { "voz": "ximena", "texto": "El 23 de octubre, el tribunal civil condenó a muerte a los dos criados. Dos días después, el 25, llegó la sentencia contra Gilles. El miércoles 26 de octubre de 1440 fue ahorcado y su cuerpo, quemado, en una isla del Loira cerca de Nantes." },
-        { "voz": "ximena", "texto": "Los dos criados murieron igual, y sus restos se esparcieron. El de Gilles, no. Según la tradición, cuatro damas de alto rango pidieron su cuerpo para darle sepultura." },
-        { "voz": "alvaro", "texto": "Antes de morir, dicen las crónicas, se mostró arrepentido y sereno. No lo cuento como disculpa. Lo cuento porque la leyenda lo pinta de otra manera, y aquí intentamos separar el documento del mito." },
-        { "voz": "ximena", "texto": "Los historiadores se dividen. Algunos señalan que una confesión obtenida bajo amenaza tiene poco valor. Y que había muchos intereses en juego: el duque de Bretaña y otros poderosos aspiraban a quedarse con sus tierras. Fue su hermano, en efecto, quien recibió parte de ellas." },
-        { "voz": "ximena", "texto": "Otros historiadores, hoy mayoría, creen que la cantidad de testimonios hace muy difícil pensar que todo fuera un montaje. Y que los relatos de los criados no tienen parangón en otros procesos de la época." },
-        { "voz": "alvaro", "texto": "Tres versiones, entonces: héroe caído, monstruo o víctima de una conspiración. Yo no elijo. Lo que sí sé es que las actas se conservan, y que los padres que declararon existieron." },
-        { "voz": "ximena", "texto": "En 1992, en París, el poeta Gilbert Prouteau organizó un juicio simbólico, con jueces y abogados que no eran historiadores medievalistas. Declararon inocente a Gilles. No tuvo ningún valor jurídico, y varios especialistas lo criticaron por sus imprecisiones." },
-        { "voz": "alvaro", "texto": "Un juicio de teatro para un hombre muerto hace cinco siglos y medio. Me interesa más lo que dice de nosotros: que seguimos queriendo absolver al poderoso, aunque sea seiscientos años tarde." },
-        { "voz": "ximena", "texto": "Con el tiempo, su leyenda se mezcló con la de Barba Azul, el personaje del cuento de Charles Perrault. La relación entre ambos es discutida, y los especialistas la consideran especulativa. Su figura ha inspirado novelas y ensayos durante siglos." },
-        { "voz": "ximena", "texto": "Las actas del proceso se conservan. En 1959, los escritores Georges Bataille y Pierre Klossowski publicaron una traducción al francés moderno de aquellos documentos. Desde entonces, cualquiera puede leer lo que dijeron los testigos, aunque sea con la distancia de seis siglos." },
-        { "voz": "alvaro", "texto": "Anoto una cautela más. El propio Bataille aceptó la culpabilidad de Gilles, pero lo presentó como un monstruo sagrado, casi una figura de leyenda. Ese retrato tiene un riesgo: que el verdugo se vuelva protagonista y los niños, decorado." },
-        { "voz": "ximena", "texto": "Lo que nadie discute es que hubo familias que perdieron a sus hijos y que, en una sociedad en la que el linaje lo era todo, su voz contaba muy poco." },
-        { "voz": "alvaro", "texto": "Y sin embargo, por una vez, fueron escuchadas. Es uno de los procesos penales mejor documentados de la Edad Media. Las actas guardan algo más que una confesión: guardan las palabras de madres y padres ante un tribunal." },
-        { "voz": "ximena", "texto": "Los nombres de muchos de esos niños no han llegado hasta nosotros. Por eso este expediente no puede llevar sus nombres. Lleva algo más difícil: la certeza de que existieron y de que alguien los buscó." },
-        { "voz": "ximena", "texto": "Este expediente lleva el nombre de un mariscal, pero no le pertenece. Pertenece a los niños cuyas desapariciones recogió un tribunal en 1440. Y a unas familias de campesinos que, por una vez, hablaron en voz alta." },
-        { "voz": "ximena", "texto": "Fin del expediente de Gilles de Rais, el aristócrata maldito. Archivo de TRUE CRIME CALENDAR." }
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Cuatro damas en el Loira."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Gilles de Rais, el mariscal que fue juzgado en Nantes por la muerte de numerosos niños. Empezamos por lo que dijo en octubre de 1440."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gilles lo negó todo al principio. Pero el 21 de octubre, ante el tribunal, admitió los cargos. Sus dos principales criados también hablaron. Según las actas, la amenaza de tortura y de excomunión estuvo presente en el proceso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Una confesión obtenida con amenaza de tortura vale poco. Lo sé yo y lo sabían los juristas de la época. Por eso importa que el caso no dependiera solo de su palabra. Importa lo que dijeron los padres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 23 de octubre, el tribunal civil condenó a muerte a los dos criados. Dos días después, el 25, llegó la sentencia contra Gilles. El miércoles 26 de octubre de 1440 fue ahorcado y su cuerpo, quemado, en una isla del Loira cerca de Nantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los dos criados murieron igual, y sus restos se esparcieron. El de Gilles, no. Según la tradición, cuatro damas de alto rango pidieron su cuerpo para darle sepultura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Antes de morir, dicen las crónicas, se mostró arrepentido y sereno. No lo cuento como disculpa. Lo cuento porque la leyenda lo pinta de otra manera, y aquí intentamos separar el documento del mito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los historiadores se dividen. Algunos señalan que una confesión obtenida bajo amenaza tiene poco valor. Y que había muchos intereses en juego: el duque de Bretaña y otros poderosos aspiraban a quedarse con sus tierras. Fue su hermano, en efecto, quien recibió parte de ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otros historiadores, hoy mayoría, creen que la cantidad de testimonios hace muy difícil pensar que todo fuera un montaje. Y que los relatos de los criados no tienen parangón en otros procesos de la época."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres versiones, entonces: héroe caído, monstruo o víctima de una conspiración. Yo no elijo. Lo que sí sé es que las actas se conservan, y que los padres que declararon existieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1992, en París, el poeta Gilbert Prouteau organizó un juicio simbólico, con jueces y abogados que no eran historiadores medievalistas. Declararon inocente a Gilles. No tuvo ningún valor jurídico, y varios especialistas lo criticaron por sus imprecisiones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un juicio de teatro para un hombre muerto hace cinco siglos y medio. Me interesa más lo que dice de nosotros: que seguimos queriendo absolver al poderoso, aunque sea seiscientos años tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con el tiempo, su leyenda se mezcló con la de Barba Azul, el personaje del cuento de Charles Perrault. La relación entre ambos es discutida, y los especialistas la consideran especulativa. Su figura ha inspirado novelas y ensayos durante siglos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las actas del proceso se conservan. En 1959, los escritores Georges Bataille y Pierre Klossowski publicaron una traducción al francés moderno de aquellos documentos. Desde entonces, cualquiera puede leer lo que dijeron los testigos, aunque sea con la distancia de seis siglos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto una cautela más. El propio Bataille aceptó la culpabilidad de Gilles, pero, según algunos críticos, lo presentó como una figura casi de leyenda. Ese retrato tiene un riesgo: que el verdugo se vuelva protagonista y los niños, decorado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que nadie discute es que hubo familias que perdieron a sus hijos y que, en una sociedad en la que el linaje lo era todo, su voz contaba muy poco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y sin embargo, por una vez, fueron escuchadas. Es uno de los procesos penales mejor documentados de la Edad Media. Las actas guardan algo más que una confesión: guardan las palabras de madres y padres ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los nombres de muchos de esos niños no han llegado hasta nosotros. Por eso este expediente no puede llevar sus nombres. Lleva algo más difícil: la certeza de que existieron y de que alguien los buscó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de un mariscal, pero no le pertenece. Pertenece a los niños cuyas desapariciones recogió un tribunal en 1440. Y a unas familias de campesinos que, por una vez, hablaron en voz alta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Gilles de Rais, el aristócrata maldito. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Caso medieval; las víctimas (niños) no se nombran y casi no hay nombres conservados. Todo atribuido a las actas. Discrepancias con el v2/ficha: 1) La ficha dice «ahorcado y quemado en Nantes (1440)»; Wikipedia precisa que fue en la Île de Biesse, junto a Nantes, el miércoles 26/10/1440; el guion dice «una isla del Loira cerca de Nantes». 2) Confesión: el v2 decía que confesó «cuando el tribunal lo amenazó con la tortura»; Wikipedia en inglés dice que admitió los cargos el 21/10/1440 y que se canceló el plan de torturarlo; otras fuentes (Britannica, Famous Trials) hablan de amenaza de tortura y de excomunión. El guion dice «según las actas, la amenaza de tortura y de excomunión estuvo presente». 3) Cifras: la sentencia eclesiástica cita «ciento cuarenta niños o más»; la civil, «varios niños pequeños» (Wikipedia). La ficha dice 80 a 200+. 4) Fechas: arresto 15/9/1440 por Jean Labbé (Wikipedia; el v2 decía «detenido en su castillo de Machecoul»); nombramiento de mariscal el 17/7/1429, día de la coronación (Wikipedia; el v2 decía «ese mismo año»); interdicción real de julio de 1435 (Wikipedia); episodio de Saint-Étienne-de-Mer-Morte en mayo de 1440 (Wikipedia). Año de nacimiento: hacia 1405 (rango 1396-1406 según Wikipedia). 5) El v2 decía que sus dos criados principales fueron ejecutados con él «el mismo día»; Wikipedia dice que fueron condenados el 23/10 y ejecutados igual. El guion no afirma el mismo día. 6) «Cuatro damas de alto rango»: Wikipedia; el guion lo da como tradición. 7) 1992: juicio simbólico organizado por Gilbert Prouteau en el Senado (sala Clemenceau del palacio de Luxemburgo), juez Henri Juramy, no culpable (Wikipedia). El guion dice «en París» y no cita el Senado. 8) Consenso actual: mayoría de historiadores (Cazacu, Heers, Bouzy, Toureille) lo cree culpable; Chiffoleau y Gauvard matizan sobre el proceso (Wikipedia). 9) Hermano del duque (Arthur de Richemont) recibió tierras de Gilles: Wikipedia; la afirmación del inspector «Mientras el duque se ponía de acuerdo con el obispo de Nantes, su hermano recibía tierras» simplifica: Bourgneuf-en-Retz le fue concedido en agosto de 1440 y Tiffauges lo tomó después. Se ha dejado «su hermano recibía tierras» sin más fechas. 10) El alquimista Prelati: «según el proceso, invocaban demonios»: del v2 y Wikipedia. 11) Barba Azul: Wikipedia lo califica de especulativo. 12) La frase de los criados sin parangón: Wikipedia (sección de historiografía). Dudas: que el 21/10 haya sido la fecha de confesión se apoya en Wikipedia y en Famous Trials; que fuera ante el tribunal eclesiástico, no verificado. Se omiten los métodos de los crímenes. 13) Bataille y Klossowski, traducción de 1959 (Wikipedia). Sin segunda fuente: que Bataille aceptó la culpabilidad («monstruo sagrado»); lo dice Wikipedia."
+  "nota_revision": "Caso medieval; las víctimas (niños) no se nombran y casi no hay nombres conservados. Todo atribuido a las actas. Discrepancias con el v2/ficha: 1) La ficha dice «ahorcado y quemado en Nantes (1440)»; Wikipedia precisa que fue en la Île de Biesse, junto a Nantes, el miércoles 26/10/1440; el guion dice «una isla del Loira cerca de Nantes». 2) Confesión: el v2 decía que confesó «cuando el tribunal lo amenazó con la tortura»; Wikipedia en inglés dice que admitió los cargos el 21/10/1440 y que se canceló el plan de torturarlo; otras fuentes (Britannica, Famous Trials) hablan de amenaza de tortura y de excomunión. El guion dice «según las actas, la amenaza de tortura y de excomunión estuvo presente». 3) Cifras: la sentencia eclesiástica cita «ciento cuarenta niños o más»; la civil, «varios niños pequeños» (Wikipedia). La ficha dice 80 a 200+. 4) Fechas: arresto 15/9/1440 por Jean Labbé (Wikipedia; el v2 decía «detenido en su castillo de Machecoul»); nombramiento de mariscal el 17/7/1429, día de la coronación (Wikipedia; el v2 decía «ese mismo año»); interdicción real de julio de 1435 (Wikipedia); episodio de Saint-Étienne-de-Mer-Morte en mayo de 1440 (Wikipedia). Año de nacimiento: hacia 1405 (rango 1396-1406 según Wikipedia). 5) El v2 decía que sus dos criados principales fueron ejecutados con él «el mismo día»; Wikipedia dice que fueron condenados el 23/10 y ejecutados igual. El guion no afirma el mismo día. 6) «Cuatro damas de alto rango»: Wikipedia; el guion lo da como tradición. 7) 1992: juicio simbólico organizado por Gilbert Prouteau en el Senado (sala Clemenceau del palacio de Luxemburgo), juez Henri Juramy, no culpable (Wikipedia). El guion dice «en París» y no cita el Senado. 8) Consenso actual: mayoría de historiadores (Cazacu, Heers, Bouzy, Toureille) lo cree culpable; Chiffoleau y Gauvard matizan sobre el proceso (Wikipedia). 9) Hermano del duque (Arthur de Richemont) recibió tierras de Gilles: Wikipedia; la afirmación del inspector «Mientras el duque se ponía de acuerdo con el obispo de Nantes, su hermano recibía tierras» simplifica: Bourgneuf-en-Retz le fue concedido en agosto de 1440 y Tiffauges lo tomó después. Se ha dejado «su hermano recibía tierras» sin más fechas. 10) El alquimista Prelati: «según el proceso, invocaban demonios»: del v2 y Wikipedia. 11) Barba Azul: Wikipedia lo califica de especulativo. 12) La frase de los criados sin parangón: Wikipedia (sección de historiografía). Dudas: que el 21/10 haya sido la fecha de confesión se apoya en Wikipedia y en Famous Trials; que fuera ante el tribunal eclesiástico, no verificado. Se omiten los métodos de los crímenes. 13) Bataille y Klossowski, traducción de 1959 (Wikipedia). Sin segunda fuente: que Bataille aceptó la culpabilidad («monstruo sagrado»); lo dice Wikipedia. Verificación estrella-6: suavizado «casi todos los historiadores» y la atribución a Bataille de «monstruo sagrado»."
 }

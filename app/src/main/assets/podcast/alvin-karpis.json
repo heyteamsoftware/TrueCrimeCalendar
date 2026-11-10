@@ -45,7 +45,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El detenido se llamaba Alvin Karpis. Había nacido en 1907 en Montreal, hijo de inmigrantes lituanos, y creció en Kansas. Con diez años ya trataba con contrabandistas y tahúres, y en 1926 lo condenaron por intento de robo."
+          "texto": "El detenido se llamaba Alvin Karpis. Había nacido en 1907 en Montreal, hijo de inmigrantes lituanos, y creció en Kansas. De muy joven ya se movía entre contrabandistas y tahúres, y en 1926 lo condenaron por robo."
         },
         {
           "voz": "ximena",
@@ -61,7 +61,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota, y aquí cambió todo. El padre de Bremer era amigo del presidente Roosevelt, que mencionó el caso en uno de sus discursos radiofónicos. Con el país aterrado por los secuestros, el FBI recibió todo el apoyo que pedía. Karpis se convirtió en la presa que faltaba."
+          "texto": "Tercera nota, y aquí cambió todo. El padre de Bremer era amigo del presidente Roosevelt. Con el país aterrado por los secuestros, el FBI recibió todo el apoyo que pedía. Karpis se convirtió en la presa que faltaba."
         },
         {
           "voz": "ximena",
@@ -93,7 +93,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hamm y Bremer, los dos secuestrados, volvieron a casa. Pero sus familias tuvieron que pagar un rescate. Eso también forma parte del expediente."
+          "texto": "Hamm y Bremer, los dos secuestrados, volvieron a casa. Pero sus familias tuvieron que pagar un rescate. Eso también forma parte del expediente. Uno era cervecero y el otro, banquero."
         },
         {
           "voz": "ximena",
@@ -102,5 +102,5 @@
       ]
     }
   ],
-  "nota_revision": "Contradicciones: año de nacimiento (1907 según Kansas Historical Society, FBI y Wikipedia; 1908 según The Canadian Encyclopedia y EBSCO): el guion usa 1907. Detención: la ficha dice 1 de mayo de 1936; Wikipedia dice que lo localizaron el 1 y lo detuvieron el 2 de mayo hacia las 17 h; el guion dice «principios de mayo» y «mayo de 1936». EBSCO da una detención en abril de 1935, que contradice al resto: se ignora. Años en Alcatraz: 25 o 26 (Wikipedia: 26 años; Kansapedia: de agosto de 1936 a 1962): el guion dice «unos veintiséis». Las dos versiones de la detención (memorias de Karpis y versión oficial) salen de Wikipedia; el detalle de las esposas olvidadas y la corbata también. Fuentes abiertas: Kansapedia, EBSCO (leída por el buscador), Wikipedia en inglés; las páginas del FBI no se abrieron. «Padre de Lituania»: ficha dice inmigrantes lituanos (no verificado en las fuentes abiertas). Muerte: Kansapedia dice que lo hallaron muerto el 26 de agosto de 1979, primero suicidio y después causas naturales; no se menciona la localidad. Declaración de culpabilidad (Hamm y Bremer): Wikipedia, citada con sus fuentes de prensa. El mito de «Ma Barker» se da como opinión de Karpis y Harvey Bailey (Wikipedia) y se señala la tesis de Hoover como «sospecha de algunos historiadores»."
+  "nota_revision": "Contradicciones: año de nacimiento (1907 según Kansas Historical Society, FBI y Wikipedia; 1908 según The Canadian Encyclopedia y EBSCO): el guion usa 1907. Detención: la ficha dice 1 de mayo de 1936; Wikipedia dice que lo localizaron el 1 y lo detuvieron el 2 de mayo hacia las 17 h; el guion dice «principios de mayo» y «mayo de 1936». EBSCO da una detención en abril de 1935, que contradice al resto: se ignora. Años en Alcatraz: 25 o 26 (Wikipedia: 26 años; Kansapedia: de agosto de 1936 a 1962): el guion dice «unos veintiséis». Las dos versiones de la detención (memorias de Karpis y versión oficial) salen de Wikipedia; el detalle de las esposas olvidadas y la corbata también. Fuentes abiertas: Kansapedia, EBSCO (leída por el buscador), Wikipedia en inglés; las páginas del FBI no se abrieron. «Padre de Lituania»: ficha dice inmigrantes lituanos (no verificado en las fuentes abiertas). Muerte: Kansapedia dice que lo hallaron muerto el 26 de agosto de 1979, primero suicidio y después causas naturales; no se menciona la localidad. Declaración de culpabilidad (Hamm y Bremer): Wikipedia, citada con sus fuentes de prensa. El mito de «Ma Barker» se da como opinión de Karpis y Harvey Bailey (Wikipedia) y se señala la tesis de Hoover como «sospecha de algunos historiadores». | VERIFICACIÓN nuevos-agosto: Quitado el discurso radiofónico de Roosevelt (sin fuente) y suavizados el delito de 1926 y la infancia. Tesis sobre Hoover y «Ma Barker» atribuida. Añadidas frases de contexto verificadas para llegar a 650 palabras."
 }

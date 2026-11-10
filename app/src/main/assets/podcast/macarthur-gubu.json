@@ -22,7 +22,9 @@
     "Dublín": "Dublín",
     "Dún Laoghaire": "Dan Líri",
     "Harry Beiling": "Jari Báilin",
-    "Killiney": "Kilíni"
+    "Killiney": "Kilíni",
+    "Meath": "Míz",
+    "The Irish Times": "Di Áirish Táimz"
   },
   "cintas": [
     {
@@ -64,7 +66,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Tres días después del ataque, el 25 de julio según la RTÉ, Macarthur fue a Edenderry, en el condado de Offaly, a ver una escopeta que un granjero, Donal Dunne, vendía. Discutieron. Dunne murió disparado con su propia arma, y Macarthur le robó el coche."
+          "texto": "Tres días después del ataque, el 25 de julio según la radiotelevisión pública irlandesa, Macarthur fue a Edenderry, en el condado de Offaly, a ver una escopeta que un granjero, Donal Dunne, vendía. Discutieron. Dunne murió, y Macarthur le robó el coche."
         },
         {
           "voz": "alvaro",
@@ -88,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según la RTÉ, dijo que era «grotesco, increíble, extravagante y sin precedentes». En inglés, grotesque, unbelievable, bizarre and unprecedented."
+          "texto": "Según la radiotelevisión pública irlandesa, dijo que era «grotesco, increíble, extravagante y sin precedentes». En inglés, grotesque, unbelievable, bizarre and unprecedented."
         },
         {
           "voz": "alvaro",
@@ -121,5 +123,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: RTÉ Brainstorm (2022), The Irish Times (2002, «The day debonair McArthur got life for murder») e Irish Examiner (2012). Discrepancias: fecha de la detención, 13 de agosto según RTÉ Brainstorm y la ficha; el Irish Times (2002) dice «4 de agosto» (que según RTÉ es el día del robo a Beiling). El guion usa el 13. Lugar del homicidio de Dunne: la ficha y RTÉ dicen Edenderry, condado de Offaly; el Irish Times (2002) dice condado de Westmeath. El guion dice Edenderry, Offaly. Fecha de la muerte de Dunne: 25 de julio según RTÉ (atribuido en el guion), «tres días después» según Irish Times; Wikipedia y otros dan otras fechas. Que Gargan murió «cuatro días después» (RTÉ) y la fecha de la condena, enero de 1983 (ficha; RTÉ solo dice 1983), no se pudo precisar al día. La traducción de GUBU («grotesco, increíble, extravagante y sin precedentes») es nuestra; RTÉ la da en inglés. Que Macarthur se declaró culpable de Gargan y que no se siguió con el cargo por Dunne: Irish Examiner e Irish Times. Edad de Macarthur al salir (66): Irish Examiner. Herencia tras la muerte del padre en 1974 y finca en Meath: Irish Times. Se evitan los detalles del método del ataque. Dato de la ficha no contrastado en las fuentes abiertas: Connolly «que lo alojaba sin saber que era sospechoso» (Irish Times: invitado; los vecinos habían avisado a la policía). Caso cerrado; Gargan y Dunne eran adultos y su nombre es público."
+  "nota_revision": "Fuentes abiertas: RTÉ Brainstorm (2022), The Irish Times (2002, «The day debonair McArthur got life for murder») e Irish Examiner (2012). Discrepancias: fecha de la detención, 13 de agosto según RTÉ Brainstorm y la ficha; el Irish Times (2002) dice «4 de agosto» (que según RTÉ es el día del robo a Beiling). El guion usa el 13. Lugar del homicidio de Dunne: la ficha y RTÉ dicen Edenderry, condado de Offaly; el Irish Times (2002) dice condado de Westmeath. El guion dice Edenderry, Offaly. Fecha de la muerte de Dunne: 25 de julio según RTÉ (atribuido en el guion), «tres días después» según Irish Times; Wikipedia y otros dan otras fechas. Que Gargan murió «cuatro días después» (RTÉ) y la fecha de la condena, enero de 1983 (ficha; RTÉ solo dice 1983), no se pudo precisar al día. La traducción de GUBU («grotesco, increíble, extravagante y sin precedentes») es nuestra; RTÉ la da en inglés. Que Macarthur se declaró culpable de Gargan y que no se siguió con el cargo por Dunne: Irish Examiner e Irish Times. Edad de Macarthur al salir (66): Irish Examiner. Herencia tras la muerte del padre en 1974 y finca en Meath: Irish Times. Se evitan los detalles del método del ataque. Dato de la ficha no contrastado en las fuentes abiertas: Connolly «que lo alojaba sin saber que era sospechoso» (Irish Times: invitado; los vecinos habían avisado a la policía). Caso cerrado; Gargan y Dunne eran adultos y su nombre es público. | VERIFICACIÓN nuevos-agosto: «RTÉ» sustituido por su descripción (sigla sin leer); quitado el detalle del arma. Caso cerrado; Macarthur condenado."
 }
