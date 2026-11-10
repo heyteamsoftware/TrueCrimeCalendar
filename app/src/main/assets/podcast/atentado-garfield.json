@@ -1,0 +1,118 @@
+{
+  "id": "atentado-garfield",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Garfield": "Gárfild",
+    "Guiteau": "Guitó",
+    "Baltimore": "Báltimor",
+    "Potomac": "Potómac",
+    "Washington": "Uáshington",
+    "Elberon": "Élberon",
+    "Nueva Jersey": "Nueva Yérsi",
+    "Chester": "Chéster",
+    "Arthur": "Árzur",
+    "Blaine": "Bleín",
+    "Pendleton": "Péndleton",
+    "Alexander Graham Bell": "Alexánder Gram Bel",
+    "Bliss": "Blis"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La sala de espera de la estación",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra el presidente Garfield. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La sala de espera de la estación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Washington, sábado 2 de julio de 1881. Por la mañana, el presidente James Garfield cruza la sala de espera de la estación de ferrocarril de Baltimore y Potomac. Lleva menos de cuatro meses en el cargo. No lo acompaña ningún guardaespaldas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un hombre se coloca detrás de él y dispara dos veces. El presidente cae. El hombre no huye: se entrega allí mismo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. En 1881 no había protección permanente para un presidente. Cualquiera podía acercarse a él en un lugar público. Esa confianza se pagó cara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre se llamaba Charles Guiteau. Había hecho campaña por el partido republicano. En 1880 escribió un discurso, hizo imprimir varios cientos de copias y se convenció de que había decidido la elección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pidió su recompensa: un puesto de cónsul, primero en Viena y luego en París. Se lo negaron una y otra vez. El secretario de Estado, James Blaine, acabó diciéndole que no volviera a hablarle de ese consulado en la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la lógica. Un hombre al que nadie había encargado nada concluye que le deben un puesto. Y ante la negativa, no se resigna: decide matar. Compró un revólver y esperó su ocasión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su idea era que el vicepresidente, Chester Arthur, ocuparía el cargo y se mostraría agradecido. Al ser detenido, dijo que Arthur era ahora el presidente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Garfield no murió ese día. Lo llevaron a la Casa Blanca, donde estuvo convaleciente durante semanas. Su estado se siguió cada día en los periódicos de todo el país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene la segunda parte del expediente, la más incómoda. Los médicos no lograban encontrar la bala. Exploraron la herida con las manos y con instrumentos que no estaban esterilizados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alexander Graham Bell construyó un detector de metales para localizarla. No funcionó, en parte porque el médico principal, Willard Bliss, solo permitió usarlo en un lado del cuerpo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los historiadores lo repiten: con mejores cuidados, el presidente probablemente habría sobrevivido. La infección hizo más daño que el disparo. No lo digo yo; lo dicen ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Semanas después lo trasladaron a la costa de Nueva Jersey, a Elberon, para que se recuperara junto al mar, con su familia. Murió allí el 19 de septiembre, después de ochenta días, por una infección generalizada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chester Arthur, que había recibido la noticia en Nueva York, juró el cargo al día siguiente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio de Guiteau empezó en noviembre de 1881 y se convirtió en un espectáculo nacional. Su defensa alegó locura. Pero el propio acusado complicó las cosas: sostenía que legalmente estaba loco, pero no en el sentido médico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto la paradoja. Los abogados querían probar que estaba loco. Él no quería que lo salvaran por loco. Su estrategia chocaba con la de quien lo defendía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de enero de 1882, el jurado lo declaró culpable de asesinato. Fue ahorcado en la cárcel de Washington el 30 de junio de 1882."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Congreso aprobó en 1883 una ley que limitó los nombramientos por favores políticos, la ley Pendleton, en parte como homenaje a su memoria."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay algo que no se cerró bien. La Constitución no decía qué hacer si un presidente quedaba incapacitado durante semanas. Pasaron ochenta días con el país mirando a un presidente que no podía gobernar. La respuesta llegó en 1967."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De la estación ya no queda nada: hoy ese lugar es parte del National Mall, junto a la Galería Nacional de Arte. Fue un presidente que apenas gobernó cuatro meses. Hoy se le recuerda sobre todo por cómo murió, y por la reforma que su muerte impulsó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado contra el presidente Garfield. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: History.com y Wikipedia en inglés (Britannica y Smithsonian dan 403). No se pudo abrir el libro de Alexander (1882). No hay contradicciones con la ficha. Se deja fuera la discusión sobre cuánto contribuyó el tratamiento médico a la muerte (Wikipedia: la mayoría de historiadores creen que mejores cuidados lo habrían salvado; el guion lo dice con prudencia). Se deja fuera la cita de Guiteau al ser detenido y su cordura (el guion solo dice que la defensa alegó locura). Caso cerrado, con condena y ejecución."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "muerte-roberto-calvi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Roberto Calvi": "Robérto Cálvi",
+    "Calvi": "Cálvi",
+    "Blackfriars": "Blácfraiars",
+    "Támesis": "Támesis",
+    "Banco Ambrosiano": "Banco Ambrosiáno",
+    "Ambrosiano": "Ambrosiáno",
+    "P2": "pe dos",
+    "Londres": "Londres",
+    "Roma": "Roma"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cinco ladrillos y un andamio",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La muerte de Roberto Calvi. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cinco ladrillos y un andamio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 18 de junio de 1982. Hacia las siete y media de la mañana, un empleado de correos cruza el puente de Blackfriars. Bajo el puente, sobre el Támesis, algo cuelga de un andamio. Es un hombre bien vestido. Se ha ahorcado, o eso parece."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lleva cinco ladrillos en los bolsillos. Y unos catorce mil dólares, repartidos en tres monedas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Ladrillos y dinero. Quien se quita la vida no suele ir cargado de ladrillos, y quien roba no deja catorce mil dólares. Pero todavía no sé qué estoy mirando. Sigo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre era Roberto Calvi, de sesenta y dos años, presidente del Banco Ambrosiano de Milán. Había salido de Roma el 10 de junio con un pasaporte falso y había llegado a Londres. Italia lo buscaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde 1978 el Banco de Italia investigaba su banco. En 1981, Calvi había sido condenado por sacar dinero del país de forma ilegal: pena suspendida y multa. El día antes de aparecer muerto, el Banco de Italia lo había apartado de su puesto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Su banco se hundía, con una deuda de entre setecientos y mil quinientos millones de dólares. Se movía entre el banco del Vaticano y la logia P2. Para el fiscal Luca Tescaroli, el riesgo era que Calvi, arruinado y con una orden de arresto, contara a los investigadores adónde había ido el dinero. Es su tesis, no un hecho probado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por aquellos mismos días, su secretaria, Graziella Corrocher, murió al caer de una ventana del banco, en Milán. Se consideró un suicidio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Londres, el primer jurado, en julio de 1982, concluyó que Calvi se había quitado la vida. Un segundo jurado, un año después, dejó el veredicto abierto. La familia nunca aceptó el suicidio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto aquí un error de bulto: se dio por cerrada una muerte sospechosa en pocas semanas, con un banco quebrado y un muerto con un pasaporte falso. Los exámenes más serios llegaron años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1991 y 1992, una investigación privada, con la ayuda de la perita británica Angela Gallop, sostuvo que no pudo ahorcarse él solo. Las autoridades lo dejaron de lado. El cadáver se exhumó en 1998, y un informe de 2002 apuntó en la misma dirección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2003, la policía reabrió el caso como homicidio. En 2005 se sentaron en Roma cinco acusados, entre ellos Giuseppe Calò y Flavio Carboni, acusados de participar en el crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado ahora. El 6 de junio de 2007 la Corte de Assise de Roma los absolvió por falta de pruebas. Descartó el suicidio, sí, pero no pudo decir quién fue. Las absoluciones se confirmaron en 2010 y 2011. Para la ley, esos cinco son inocentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La última investigación, abierta en 2008, se archivó en 2016. En su decisión, la jueza escribió que la hipótesis del asesinato era difícil de superar. Según ella, habría sido fruto de una convergencia de intereses de una parte del Vaticano, de una parte de Cosa Nostra y de una parte de la masonería."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una hipótesis de una jueza, no una sentencia. Lo que añade es la causa del bloqueo: el tiempo, las pistas falsas y que las peticiones de ayuda enviadas a la Santa Sede apenas obtuvieron respuesta. Ella misma escribe que no se pudo hacer más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda un hombre al que muchos recuerdan por un apodo, «el banquero de Dios», y casi nadie por lo que fue: un financiero, un marido, un padre, que murió bajo un puente, lejos de su casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda también la tesis del suicidio, rechazada por la justicia italiana, y un expediente sin culpables. Más de cuarenta años después, nadie ha respondido judicialmente por su muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La muerte de Roberto Calvi. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: no se señala a nadie. Los cinco absueltos (Calò, Carboni, Diotallevi, Vittor y Kleinszig) no se presentan como culpables; solo se nombran Calò y Carboni como acusados en el juicio de 2005 y se dice que fueron absueltos. La hipótesis de 2016 (convergencia de intereses de una parte del Vaticano, de Cosa Nostra y de la masonería) va atribuida a la jueza (Il Fatto Quotidiano). Datos de Il Fatto Quotidiano y de Wikipedia (en inglés): la BBC, The Guardian y el Corriere siguen bloqueados. La investigación privada de 1991-1992 (Kroll Associates, con Angela Gallop) y la muerte de la secretaria (suicidio según Wikipedia; fecha imprecisa, por eso «por aquellos mismos días») salen solo de Wikipedia. La edad (62) no consta en las fuentes abiertas, es el dato general (nació en 1920): comprobar. Discrepancias menores: Wikipedia da 1998 para la exhumación y 2002 para el informe forense alemán."
+}

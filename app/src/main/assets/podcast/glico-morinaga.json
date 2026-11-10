@@ -1,0 +1,117 @@
+{
+  "id": "glico-morinaga",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Glico": "Glíco",
+    "Nishinomiya": "Nishinomíya",
+    "Katsuhisa Ezaki": "Katsújisa Ezáki",
+    "Ezaki": "Ezáki",
+    "Ibaraki": "Ibaráki",
+    "Morinaga": "Morinága",
+    "Edogawa Rampo": "Edogáwa Rampo",
+    "Marudai": "Marudái",
+    "House Foods": "Jaus Fuds",
+    "Fujiya": "Fuyíya",
+    "Osaka": "Osaka",
+    "Shiga": "Shíga"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un baño a las nueve",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El monstruo de las 21 caras. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un baño a las nueve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nishinomiya, cerca de Osaka, 18 de marzo de 1984. Hacia las nueve de la noche, dos hombres enmascarados y armados entran en la casa de Katsuhisa Ezaki, presidente de la confitera Glico, la de los caramelos que conoce todo niño japonés. Ezaki se está bañando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los intrusos atan a su mujer y a su hija mayor, de ocho años, y las encierran en el baño. Los otros dos hijos duermen y no sufren daño. Los hombres se llevan al presidente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Hasta aquí, un secuestro como otros. Hacia la medianoche dejan una carta de rescate en una cabina telefónica, para un directivo de la empresa: mil millones de yenes y cien kilos de oro. Lo que me interesa es lo que viene después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres días más tarde, el 21 de marzo, Ezaki consigue escapar del almacén de Ibaraki, en Osaka, donde lo tenían. Está vivo. El secuestro había terminado y el caso apenas empezaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril llegan cartas a la policía. Se burlan de ella. Según una, para ayudarla les dicen qué coche compraron y en qué tienda hicieron la compra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el tono. Quien secuestra para cobrar suele esconderse. Estos escriben, provocan y exhiben a la policía ante la prensa. Parece que la humillación pública les importaba tanto como el dinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo empiezan a firmar como «el monstruo de las 21 caras», el nombre de un villano de las novelas de detectives de Edogawa Rampo. Afirman haber puesto cianuro en dulces de Glico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Glico retira sus productos de las tiendas. La pérdida supera los veintiún millones de dólares y quedan sin trabajo cuatrocientos cincuenta empleados a tiempo parcial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mira lo que consiguió una amenaza. No hizo falta probar nada: bastó el anuncio para que una empresa entera vaciara sus estanterías."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio los autores escriben que perdonan a Glico. Dirigen entonces su campaña contra otras compañías de alimentación: Morinaga, Marudai, House Foods, Fujiya. Según la prensa de la época, llegaron a aparecer en tiendas dulces de Morinaga con cianuro. Nadie murió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que más me inquieta del expediente. En noviembre de 1984 la policía prepara una entrega de dinero. Un patrullero de la prefectura de Shiga se topa con un conductor que lleva un receptor con auriculares. Huye. Su coche, abandonado después, tenía una radio con la que escuchaba a la policía de seis prefecturas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores habían visto antes, durante otra entrega, a un hombre que observaba con atención. Lo describieron con «ojos de zorro». En enero de 1985 se hizo público un retrato robot. Aquel hombre nunca fue identificado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser claro. Una descripción no es un sospechoso. Con un retrato robot, un parecido es solo un parecido. Nadie fue acusado, y no voy a sugerirlo yo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 12 de agosto de 1985 llega el último mensaje. Dicen que dejan de molestar a las empresas de alimentación y que, si alguien amenaza a una de ellas, no son ellos. Y no se vuelve a saber nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Diecisiete meses de secuestro, incendios y amenazas. Y de pronto, silencio. Se ha hablado de muchos motivos para que pararan. Ninguno está probado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nunca se identificó a los autores. El secuestro prescribió en marzo de 1994. Y en febrero de 2000 prescribió el último delito de la serie. Ese mes, la prensa tituló que la policía nacional admitía su derrota."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando un delito prescribe, la ley deja de poder perseguirlo, aunque aparezca el culpable. Aquí, eso significa que si alguien supiera la verdad, ya no podría ser juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No hubo muertos, y por eso es fácil olvidarlo. Pero hubo una familia atada en un baño, un hombre que pasó tres días secuestrado, cientos de trabajadores sin empleo y un país entero que miró con miedo cada caja de chocolate."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Archivo esta cinta pensando en ellos. Entre las víctimas de este caso hay que contar a la familia Ezaki y a quienes perdieron su empleo por una amenaza que nadie llegó a probar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El monstruo de las 21 caras. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (Glico Morinaga case), y UPI y The Japan Times, que bloquearon la descarga y solo se conocen por la ficha. Segunda fuente débil. Se mantiene la versión prudente: sin nombrar sospechosos ni al hombre de los ojos de zorro, y sin el suicidio del jefe de policía de Shiga (decisión de la ficha). Los dulces de Morinaga con cianuro hallados en tiendas se atribuyen a la prensa de la época (UPI, según la ficha). Las prescripciones (marzo de 1994, febrero de 2000) y la frase de la policía admitiendo la derrota salen de Wikipedia y del titular de The Japan Times."
+}

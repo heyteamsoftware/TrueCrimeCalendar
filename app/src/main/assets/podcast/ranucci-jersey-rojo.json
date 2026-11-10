@@ -1,0 +1,112 @@
+{
+  "id": "ranucci-jersey-rojo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Marie-Dolorès Rambla": "Mari Dolórés Rámbla",
+    "Marie-Dolorès": "Mari Dolórés",
+    "Christian Ranucci": "Cristián Ranuchi",
+    "Ranucci": "Ranuchi",
+    "Les Chartreux": "Les Shartrö",
+    "Marsella": "Marsella",
+    "Belcodène": "Belcodén",
+    "Peypin": "Pepén",
+    "Niza": "Niza",
+    "Aix-en-Provence": "Ex an Provans",
+    "Paul Lombard": "Pol Lombár",
+    "Gilles Perrault": "Yil Perró",
+    "Giscard d'Estaing": "Yiscár Destén",
+    "Le Pull-over rouge": "Le Pul over ruyi",
+    "Les Baumettes": "Les Bometas"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un jersey rojo en una galería",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso del jersey rojo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un jersey rojo en una galería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Marsella, 3 de junio de 1974. Una niña de ocho años, Marie-Dolorès Rambla, juega con su hermano frente a su casa, en el barrio de Les Chartreux. Según el hermano, un hombre que decía haber perdido a su perro se la llevó en un coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después del mediodía, en un cruce de Belcodène, un coche gris se salta un stop y choca con otro. El conductor huye. Un testigo que viene detrás lo persigue y anota la matrícula. Esa pista es lo que, dos días después, llevará a los gendarmes hasta la puerta de un joven de Niza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una matrícula anotada a toda prisa por un testigo. Todo el caso cuelga de ese papel, y de ahí sale el nombre de Christian Ranucci. Un coche, una huida y un número: así empieza todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ranucci tenía veinte años, era representante comercial y vivía en Niza. Acabaría diciendo que no recordaba nada de aquel día. Esa tarde su coche quedó atascado en la galería de un antiguo cultivo de setas, cerca de Peypin. Dos hombres le ayudaron a sacarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los gendarmes encontraron en esa galería un jersey rojo. El cuerpo de la niña apareció el 5 de junio en un pinar cercano. Ese mismo día detuvieron a Ranucci en Niza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que sigue. En la custodia policial, Ranucci confesó. Indicó incluso dónde estaba el cuchillo, y los gendarmes lo hallaron donde dijo. Eso pesó mucho después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero meses más tarde, ante la jueza de instrucción, se retractó. Dijo que no recordaba los hechos y denunció presiones durante la custodia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 9 de marzo de 1976 en Aix-en-Provence. El 10 de marzo, un jurado lo declaró culpable y lo condenó a muerte. Según las crónicas, su comportamiento ante el tribunal fue hostil."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Su abogado, Paul Lombard, defendía la inocencia, pero el otro letrado no llegó a plantear esa defensa. Y el caso llegó en mal momento: Francia seguía conmocionada por otro crimen contra un niño, y parte de la opinión pedía la pena máxima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Corte de Casación rechazó el recurso el 17 de junio. El presidente Giscard d'Estaing denegó el indulto. El 28 de julio de 1976, de madrugada, Christian Ranucci fue guillotinado en la prisión de Les Baumettes, en Marsella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1978, el escritor Gilles Perrault publicó «Le Pull-over rouge», un libro que defendía que el condenado podía ser inocente. Se llevó al cine un año después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que ser prudente con los dos bandos. Para los que creen en su culpabilidad, están la confesión, la matrícula y el coche en la galería. Para los otros, un garajista habló de un coche distinto, y las manchas de una prenda nunca convencieron a todos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después de su muerte, la familia y sus abogados pidieron tres veces la revisión del proceso. Las tres fueron rechazadas, la última en 1991. Ranucci fue condenado de forma firme, y la justicia nunca reconoció un error."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso es lo que queda abierto: no si lo ejecutaron, sino si la justicia pudo equivocarse. El debate pesó en Francia cuando se discutía abolir la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes de morir, Ranucci pidió a sus abogados que intentaran rehabilitarlo. La pena de muerte se abolió en Francia en 1981, y su caso fue uno de los que alimentaron ese debate."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero la memoria que me importa es otra. Hubo una niña de ocho años que jugaba con su hermano delante de su casa. Su nombre aparece en el expediente, y es lo primero que hay que recordar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Marie-Dolorès Rambla tenía ocho años. Jugaba con su hermano delante de su casa cuando desapareció. Ella sigue siendo el centro de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El caso del jersey rojo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia francesa y ficha del INA. Contradicciones: fecha del rechazo de casación e indulto (INA: 17 y 27 de julio; Wikipedia: 17 de junio y 26 de julio); el guion da solo el 17 de junio de la ficha/Wikipedia y no fecha el indulto. Se sigue la ficha: juicio en Aix-en-Provence, ejecución el 28 de julio. Víctima menor nombrada según la nota de la ficha (caso de más de 50 años, nombre público). Caso con condena firme y ejecución; se presentan las dudas con equilibrio y sin acusar a nadie más."
+}

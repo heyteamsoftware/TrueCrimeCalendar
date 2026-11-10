@@ -1,0 +1,109 @@
+{
+  "id": "sada-abe",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sada Abe": "Sáda Ábe",
+    "Sada": "Sáda",
+    "Kichizo Ishida": "Kichiso Ishída",
+    "Kichizo": "Kichiso",
+    "Ishida": "Ishída",
+    "Ogu": "Ógu",
+    "Shinagawa": "Shinagáua",
+    "Nakano": "Nakáno",
+    "Tochigi": "Tochígui",
+    "Yokohama": "Yokojáma",
+    "Ginza": "Guínza",
+    "Tokio": "Tókio"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La habitación de Ogu",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Sada Abe. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La habitación de Ogu."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tokio, la mañana del 18 de mayo de 1936. En una casa de té del barrio de Ogu, una mujer sale de una habitación hacia las ocho. Antes de irse, ha dicho a las empleadas que no molesten al señor, que sigue durmiendo. Nadie sospecha nada. Cuando alguien abra aquella puerta, ella ya estará lejos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro estaba Kichizo Ishida, un hombre de cuarenta y dos años, dueño de un restaurante. Junto a él había una frase escrita por ella: «Sada y Kichi, solos los dos». No vamos a contar lo que le hizo. Se ha contado demasiadas veces, y casi siempre como espectáculo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esa frase no es la de alguien que quiere esconderse. Es una firma. Y con una sola indicación al personal compró el tiempo para desaparecer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Sada Abe y tenía treinta años. Nació en Tokio, en una familia de fabricantes de tatamis, la séptima de ocho hermanos. A los diecisiete la enviaron a una casa de geishas en Yokohama. Después trabajó en locales de Osaka y vivió de hombres que la mantenían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En febrero de 1936 entró de aprendiz en el restaurante de Ishida, en el barrio de Nakano. En abril empezó entre ellos una relación. La pareja pasó semanas yendo de posada en posada, y los últimos días, en esa casa de té."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de mayo los periódicos publicaron la noticia y Tokio entero se puso a buscarla. Se la veía por todas partes: una falsa alarma en el barrio de Ginza estuvo a punto de provocar una estampida. Los humoristas llamaron al caso «el incidente cinco-uno-ocho», por la fecha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El país venía de otro susto. Hacía menos de tres meses del intento de golpe militar del 26 de febrero. Una enciclopedia japonesa lo resume así: en un tiempo oscuro de militarismo y terrorismo político, este crimen ofreció a la gente una distracción. Es una lectura incómoda, pero explica la fiebre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Duró dos días. El 20 de mayo, unos detectives la encontraron en una posada cerca de la estación de Shinagawa, donde se alojaba con un nombre falso. No huyó. Según las crónicas, ella misma les dijo quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los interrogatorios explicó su motivo con pocas palabras. Dijo que lo quería tanto que había querido quedárselo para ella sola. Esa frase fue la que repitieron los periódicos y la que la convirtió en leyenda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Yo la leo con cautela. Es lo que declaró a quienes la interrogaban, y quedó fijado como verdad. Una declaración no es una explicación. Sí es un hecho que nadie más estaba en aquella habitación, y que ella nunca negó lo ocurrido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 25 de noviembre de 1936. El 21 de diciembre, el tribunal de distrito de Tokio la declaró culpable de asesinato y de profanación de cadáver. La condenó a seis años de cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Seis años por matar a un hombre. Hoy sorprende. Los textos que he podido revisar recogen la cifra, no el razonamiento que la sostiene, y no voy a inventarlo. Anoto solo que un diccionario biográfico parece dar cinco años; la sentencia fue de seis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cumplió la pena en la cárcel de mujeres de Tochigi. Una amnistía rebajó su condena y salió el 17 de mayo de 1941, cinco años después del crimen. Se cambió el nombre y vivió sin llamar la atención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1947 un libro de supuestas confesiones suyas fue un éxito de ventas. En 1948 publicó sus propias memorias, centradas en su amor por Ishida. Desde 1952 trabajó en un bar de Tokio. En 1970 desapareció de la vida pública."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que queda sin aclarar: dónde terminó sus días y cuándo murió. Nadie lo sabe con certeza. Mientras tanto, su historia pasó al cine. En 1976, El imperio de los sentidos la volvió famosa en medio mundo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y queda él. Kichizo Ishida tenía cuarenta y dos años y un restaurante en Nakano. En casi todas las películas es un personaje sin voz. Fue una persona real, y su muerte fue un crimen, no un argumento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente no cuenta lo que le hicieron. Lo que merece guardarse es que existió, y que no se le recuerde como una anécdota de una época que se divertía con el horror."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Sada Abe. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Se deja fuera lo discutido: no se da la hora de la detención (16:00 o 17:30 según las fuentes de la ficha) ni se nombra la fecha exacta de la conmutación. Contradicción menor: Wikipedia (en inglés) dice que la pena se conmutó el 10 de noviembre de 1940 y que salió el 17 de mayo de 1941; la ficha habla de amnistía. El guion dice «una amnistía rebajó su condena». La ficha da 30 años; Wikipedia, nacida el 28 de mayo de 1905, daría 30 el día del crimen. Edad de Ishida (42) solo en Wikipedia en inglés. Kotobank (Heibonsha) confirma lugar, detención y reacción de la prensa; no se abrió la sentencia. No se describe el cuerpo ni lo que hizo ella; la frase escrita junto al cuerpo sale de Wikipedia en inglés. Un diccionario biográfico de Kotobank parece dar cinco años; se sigue la sentencia de seis."
+}

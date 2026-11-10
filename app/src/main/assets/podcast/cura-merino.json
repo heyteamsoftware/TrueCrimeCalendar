@@ -1,0 +1,105 @@
+{
+  "id": "cura-merino",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Las ballenas del corsé",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El cura Merino. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Las ballenas del corsé."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 2 de febrero de 1852. Isabel II sale de la capilla del Palacio Real con rumbo a la basílica de Atocha. Va a presentar ante la Virgen a su hija, nacida mes y medio antes. En una galería, entre el público acreditado, hay un sacerdote que espera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Martín Merino. Tenía unos sesenta años. Cuando la reina pasa cerca, se acerca a ella y le clava un estilete en el costado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjese en el detalle que decide el caso: la hoja no entró. Chocó con una de las ballenas de acero del corsé, y el grueso bordado del vestido hizo el resto. Una prenda de moda salvó la vida de una reina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La reina cayó al suelo y lo primero que pidió fue que cuidaran de su hija, que estaba a salvo. El médico de la corte solo encontró una herida leve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un alabardero detuvo allí mismo al agresor. Lo llevaron a la cárcel del Saladero. En el Palacio, las campanas anunciaron enseguida que la reina estaba bien."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me interesa es el hombre. No era un desconocido sin rumbo. Según los relatos, era un cura de ideas liberales, perseguido en tiempos de Fernando Séptimo, que había estado preso y en el exilio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Volvió a España más radical. Se le atribuyeron vínculos con sociedades secretas, aunque eso se quedó en rumor. Según la crónica de El Salto, razonó a partir de la Constitución que la reina no podía actuar como actuaba. Y decidió matarla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que cita la misma crónica: antes del atentado, un consejo de guerra había condenado a fusilar a dos cabos tras un motín. Hay quien ve ahí una chispa. Es una interpretación, no una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El proceso fue rapidísimo. Se le juzgó al día siguiente. Los jueces concluyeron que no estaba loco. Merino rechazó tener defensor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Rapidez, un acusado que no se defiende y un delito contra la reina. En 1852, aquello no era un juicio de dudas. Era un trámite hacia una sentencia ya conocida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Iglesia lo degradó y lo expulsó del sacerdocio. El tribunal lo condenó a muerte a garrote vil. El 7 de febrero de 1852, cinco días después del atentado, lo ejecutaron en el Campo de Guardias, a las afueras de Madrid."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades ordenaron además reducir su cuerpo a cenizas. Dos soldados las esparcieron en una fosa sin nombre. Un castigo hecho para que no quedara nada de él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto me inquieta más que el golpe. No se quiso tumba, no se quiso memoria. El Estado borró a Merino del mapa, y con él borró cualquier pregunta sobre si actuó solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Porque esa pregunta circuló entonces. Hubo quien habló de una conspiración liberal. Los documentos que manejamos no la prueban, y los historiadores que citamos tratan a Merino como un hombre que actuó por su cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La reina dio las gracias a la Virgen de Atocha a su manera: encargó transformar las joyas que llevaba aquel día en dos coronas, una para la Virgen y otra para el Niño. Aún se conservan en el Palacio Real."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El corsé, por cierto, se conserva en el Museo Arqueológico Nacional, donado en 1871. No se expone al público. Un objeto pequeño que cambió la historia de un reinado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Merino no fue la última amenaza que sufrió Isabel II ni sería el último en pensar que matar a un rey arreglaría un país. Pero su caso quedó como el del regicida que falló por una ballena de corsé."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y a la reina, la herida leve le dejó la vida y un reinado de dieciséis años más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquel 2 de febrero fue una fiesta religiosa. La víctima era una madre que llevaba a su hija a bendecir. Que eso no se pierda en la anécdota del corsé."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El cura Merino. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado. Fuentes abiertas: El Debate (2022), El Salto (2023); la Gaceta de Madrid de 1852 es un escaneo ilegible y los libros de 1852 y 1871 no se abrieron. Discrepancias menores: tamaño del estilete (20 cm El Debate; ficha 25 cm) y por eso el guion dice solo «estilete»; edad (El Salto, unos sesenta). Que el tribunal lo juzgó al día siguiente sale de la ficha (Wikipedia); El Debate dice que fue ejecutado cinco días después y El Salto que el 7 de febrero. Los motivos políticos de Merino los recoge solo El Salto (declaración atribuida a la sentencia/proceso). Que fue fraile no se afirma. Lo del ex-voto y el corsé en el Museo Arqueológico (El Debate) se deja fuera por secundario. Sin morbo: no se describe la ejecución más que el lugar y el método."
+}

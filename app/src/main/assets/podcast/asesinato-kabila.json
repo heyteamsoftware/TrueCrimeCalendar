@@ -1,0 +1,115 @@
+{
+  "id": "asesinato-kabila",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Laurent-Désiré Kabila": "Lorán Desiré Kabíla",
+    "Kabila": "Kabíla",
+    "Kinshasa": "Kinshása",
+    "Rachidi Kasereka": "Rashídi Kasereka",
+    "Kasereka": "Kasereka",
+    "Eddy Kapend": "Édi Kapénd",
+    "Kapend": "Kapénd",
+    "Joseph Kabila": "Yóseph Kabíla",
+    "Félix Tshisekedi": "Félix Chisekédi",
+    "Brazzaville": "Brasavíl",
+    "kadogos": "kadógos",
+    "Mobutu": "Mobútu",
+    "Le Monde": "Le Mond",
+    "Congo": "Cóngo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un despacho en el Palacio de Mármol",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Kabila. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un despacho en el Palacio de Mármol."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kinshasa, 16 de enero de 2001. Es una tarde de la segunda guerra del Congo. En el Palacio de Mármol, el presidente Laurent-Désiré Kabila habla en su despacho con un asesor económico. Prepara una cumbre con Francia que espera que lo salve políticamente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un joven de su guardia personal entra en la sala y se inclina hacia él. El presidente cree que quiere decirle algo y se acerca. Según la reconstrucción que publicó más tarde la prensa, el guardia sacó entonces un arma corta y disparó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un presidente que lleva meses sin fiarse de nadie, asesinado por quien tenía a un paso. Nadie lo detuvo en la puerta. Eso lo dice todo sobre cómo vivía el palacio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kabila había llegado al poder en 1997, al derrocar a Mobutu con una rebelión. Entre sus tropas había muchos kadogos, palabra suajili para los niños soldado. Él los llamaba sus hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el relato de un participante que recogió el diario francés Le Monde, los kadogos se sentían traicionados. Decían que cobraban mal, que él los trataba con desprecio y que había aceptado reunirse con el presidente de Ruanda, enemigo de muchos de ellos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que leer esto con cuidado: es la versión de uno de los conspiradores, no un acta judicial. Pero encaja con lo que pasaba dentro del régimen. Se habló de detenciones y ejecuciones de soldados jóvenes en los meses anteriores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo relato habla de un plan escrito a mano en tres páginas, preparado a principios de enero en Brazzaville, al otro lado del río. Preveía tomar el palacio y también la radio y la televisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras los disparos hubo tiroteo en el palacio. El Gobierno dio un nombre: el subteniente Rachidi Kasereka, de dieciocho años, habría disparado y los otros escoltas lo abatieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay una grieta. Larousse y el diario The Observer, que cita a Le Monde, sostienen que Kasereka cubría la retirada y que el que disparó escapó. No puedo decidir cuál es cierta. Me quedo con lo seguro: el autor material sigue en discusión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante dos días, el país no supo nada. El Gobierno no confirmó la muerte hasta el 18 de enero. Para entonces, su hijo Joseph Kabila ya estaba en el centro de la sucesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Joseph Kabila acabó asumiendo la presidencia. La investigación se encargó a un tribunal militar especial. El juicio duró unos diez meses y tuvo 135 acusados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ciento treinta y cinco personas en un solo proceso. Y un tribunal militar, del que los condenados no podían apelar. Los abogados defensores lo denunciaron en su día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 7 de enero de 2003 se leyó la sentencia. Veintiséis condenados a muerte, entre ellos el coronel Eddy Kapend, antiguo ayudante del presidente, que según la acusación era el cabecilla. Cuarenta y cinco absueltos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Organizaciones de derechos humanos criticaron el juicio. Amnistía Internacional expresó su preocupación porque el fiscal había pedido la pena de muerte para ciento quince acusados, y porque habían detenido a esposas de acusados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que nunca se ha respondido es quién ordenó el crimen. Se habló de enemigos extranjeros, de rivales internos, de los propios kadogos. La investigación periodística apuntó a una trama interna. Ningún tribunal estableció un mandante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No consta que se ejecutara ninguna de las condenas. En enero de 2021, el presidente Félix Tshisekedi indultó a veintiocho condenados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una sentencia dura, un proceso muy criticado y una pregunta abierta. Veinte años después, el expediente sigue sin cerrarse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda un país que atravesó aquellos años en guerra y sin saber la verdad. En su historia, esa tarde de enero marca el final de una etapa y el principio de otra, con la pregunta de quién mandó matar al presidente todavía sin respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Kabila. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "El autor material no está claro: el Gobierno dijo que fue Rachidi Kasereka (abatido); Larousse y The Observer (citando a Le Monde) dicen que cubría la fuga y que el tirador huyó. El guion lo deja como discutido. El relato del plan (Brazzaville, tres páginas, 75 escoltas) es de un conspirador citado por Le Monde en The Observer; se atribuye. Indulto de 2021 tomado de la ficha (Wikipedia)."
+}

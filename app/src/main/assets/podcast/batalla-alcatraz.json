@@ -1,0 +1,124 @@
+{
+  "id": "batalla-alcatraz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alcatraz": "Alcatráz",
+    "Bernard Coy": "Bernard Coi",
+    "Coy": "Coi",
+    "Joseph Cretzer": "Yósef Crétzer",
+    "Cretzer": "Crétzer",
+    "Marvin Hubbard": "Márvin Jábard",
+    "Hubbard": "Jábard",
+    "Clarence Carnes": "Clárens Cárnes",
+    "Carnes": "Cárnes",
+    "Sam Shockley": "Sam Shókli",
+    "Shockley": "Shókli",
+    "Miran Thompson": "Mírán Tómpson",
+    "Thompson": "Tómpson",
+    "William Miller": "Uíliam Míler",
+    "Miller": "Míler",
+    "Harold Stites": "Járold Stáits",
+    "Stites": "Stáits",
+    "San Quentin": "San Cuéntin",
+    "San Francisco": "San Fransísco"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La llave del patio",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La batalla de Alcatraz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La llave del patio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Francisco, 2 de mayo de 1946. En la isla de Alcatraz, el bloque de celdas parece tranquilo. Un preso con una escoba barre un pasillo. Se llama Bernard Coy y lleva meses estudiando una cosa: los barrotes de la galería de armas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La cárcel más segura de Estados Unidos tenía un punto débil, y no era el mar. Era la rutina. Un ordenanza que barre cada día ve, sin que nadie se fije, a qué hora no mira nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Coy cumplía veinticinco años por atracar bancos. Aquella tarde, con otros presos, redujo a un funcionario y consiguió separar los barrotes de la galería de armas. Dentro había fusiles, pistolas y llaves."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En poco tiempo, seis presos tenían armas y habían liberado a otros. Habían reducido a nueve funcionarios y los habían encerrado en celdas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El plan era sencillo, y por eso tenía posibilidades. Salir al patio, llegar al muelle y hacerse con una lancha. Les faltaba una sola cosa: la llave de la puerta del patio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa llave debía estar guardada en la galería. Pero el funcionario William Miller no la había devuelto. Estaba prisionero en una celda y la escondió en el retrete."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los presos probaron otras llaves, la cerradura se atascó y no pudo abrirse. Cuando encontraron la llave, la fuga ya había sido descubierta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la ironía. Lo que iba contra el reglamento, quedarse con esa llave, fue lo que salvó la isla. Un descuido, un gesto de un hombre encerrado, y todo el plan se vino abajo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sin salida, los presos decidieron luchar. Se atrincheraron en el bloque y dispararon contra los funcionarios, dentro y fuera. Hirieron a varios rehenes. Miller, gravemente herido, dio por teléfono una declaración jurada: señaló a Joseph Cretzer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La cárcel pidió ayuda al ejército. Llegaron los marines. La batalla duró hasta la mañana del 4 de mayo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando la fuerza armada se usa dentro de una prisión, algo ha fallado antes. Es lo que me pregunto de este expediente. Se hizo todo, pero se hizo tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron dos funcionarios: William Miller, que falleció el 3 de mayo, y Harold Stites. Y tres de los presos: Bernard Coy, Joseph Cretzer y Marvin Hubbard."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los otros tres sobrevivieron. Sam Shockley y Miran Thompson fueron juzgados y condenados a muerte por el asesinato de Miller."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ambos fueron ejecutados en la cámara de gas de San Quentin el 3 de diciembre de 1948."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Del sexto no hablamos tanto. Clarence Carnes tenía veintitantos años y no fue condenado a muerte. Recibió una segunda cadena perpetua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Carnes murió en prisión en 1988. Era el más joven de los seis y el único que se salvó de la cámara de gas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una conclusión práctica que me quedo de este caso. Después de 1946 se reforzó la vigilancia en Alcatraz. Los cambios no se hicieron por lo que ocurrió allí en tres días. Se hicieron para que no pudiera ocurrir otra vez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los nombres que merecen quedar en el archivo no son los de los presos. Son los de dos funcionarios, William Miller y Harold Stites, que fueron a trabajar un jueves normal y no volvieron a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Miller, el que escondió la llave, aparece hoy en el memorial nacional de los agentes del orden de Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La batalla de Alcatraz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Heridos: la cifra varía según la fuente (14, 15 u 11 guardias) y no se da. Hora de inicio: poco después de las 13:30 (Chronicle, según la ficha); el guion dice «a primera hora de la tarde». No se detalla cómo murió Harold Stites: Wikipedia habla de fuego amigo, el Bureau of Prisons solo dice que murió; se dice solo que murió. Para Miller se usa el Bureau of Prisons: murió el 3 de mayo, tras señalar en una declaración jurada a Cretzer. Datos de Wikipedia (Coy llevaba años en Alcatraz como ordenanza, separó los barrotes, los marines taladraron el tejado) que no se pudieron contrastar con una segunda fuente se limitan a lo esencial. El San Francisco Chronicle no se pudo abrir."
+}

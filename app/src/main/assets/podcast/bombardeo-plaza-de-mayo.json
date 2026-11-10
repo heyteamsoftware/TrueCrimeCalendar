@@ -1,0 +1,105 @@
+{
+  "id": "bombardeo-plaza-de-mayo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Plaza de Mayo": "Plása de Máyo",
+    "Casa Rosada": "Casa Rosada",
+    "Perón": "Perón",
+    "Toranzo Calderón": "Toránso Calderón",
+    "Samuel Toranzo Calderón": "Samuél Toránso Calderón",
+    "Radio Mitre": "Rádio Mitre",
+    "Uruguay": "Uruguáy",
+    "Archivo Nacional de la Memoria": "Archivo Nacional de la Memoria"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una mañana de niebla",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El bombardeo de Plaza de Mayo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una mañana de niebla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buenos Aires, jueves 16 de junio de 1955. Es un día laborable. Los aviones de la Marina debían despegar a las ocho de la mañana, pero la niebla los retiene casi tres horas. Cuando por fin salen, en el centro de la ciudad hay oficinistas, vendedores y gente que cruza la plaza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un plan militar que depende de un reloj y de la niebla. Esos tres retrasos son lo único que juega a favor del presidente: le dan tiempo para enterarse de que algo se prepara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Perón fue avisado y se trasladó al Ministerio del Ejército. Los sublevados, oficiales de la Marina y de una parte de la Aeronáutica, querían matarlo y dar un golpe de Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre las doce y media y la una menos veinte empieza el ataque. Los aviones sueltan bombas y ametrallan la Plaza de Mayo, la Casa Rosada y las calles de alrededor. Una de las primeras bombas cae sobre un trolebús lleno de pasajeros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que no hay. No es un cuartel ni una base. Es una plaza abierta a plena luz, a la hora en que más gente pasa. Cualquiera que planease aquello sabía que moriría gente corriente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los ataques se repiten en oleadas hasta las cinco y cuarenta de la tarde. En total, más de cien bombas. Mientras, infantes de Marina intentan asaltar la Casa Rosada, y los granaderos que la guardan resisten. Algunos mueren allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Unos civiles armados ocupan Radio Mitre y difunden una proclama que da a Perón por muerto. No lo estaba. Sale ileso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El golpe se hunde en pocas horas. Sin apoyo del Ejército, los jefes se rinden en el Ministerio de Marina. Pero los aviones siguen volando después de la rendición, y el último vuelo rasante todavía ametralla a la multitud. Eso lo apunto en rojo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los pilotos huyen en sus aparatos hacia Uruguay. Algunos caen o amerizan cerca de Carmelo por falta de combustible. Los jefes que quedan en tierra, entre ellos el contraalmirante Samuel Toranzo Calderón, se entregan al Ejército esa misma noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Cuántos murieron? Durante décadas nadie quiso contarlos. Un trabajo del Archivo Nacional de la Memoria, presentado en 2009 y publicado en 2010, identificó al menos 308 muertos, casi todos civiles. Hubo cientos de heridos. Entre los muertos había niños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Algunas fuentes dan 309 y otras hablan de más de trescientos. Hay cuerpos que no pudieron identificarse. Yo me quedo con la cifra prudente: al menos 308. Y con una palabra: «al menos»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La justicia llegó tarde y se deshizo. En agosto de 1955, un tribunal militar condenó a Toranzo Calderón y a otros jefes del alzamiento. Tres meses después de los bombardeos, otro golpe derrocó a Perón, y las condenas quedaron sin efecto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los aviadores que habían huido a Uruguay fueron dados de baja y, tiempo después, reincorporados y amnistiados. Los civiles que apoyaron el alzamiento no fueron condenados. Nadie respondió por los muertos de la plaza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con el peronismo prohibido, hablar del bombardeo fue incómodo durante años. Los historiadores lo consideran un antecedente de la violencia política que vino después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005 se abrió una investigación oficial. En 2008, la Cámara Federal calificó el hecho de lesa humanidad: un delito que no prescribe. Ese mismo año se inauguró el primer monumento oficial cerca de la plaza. En 2009, una ley fijó indemnizaciones para las víctimas y sus familias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una distancia que no se cierra: entre el delito reconocido al fin y la imposibilidad de juzgar a nadie, cuando los responsables ya habían muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que sí quedó es la lista. Trabajadores, mujeres, extranjeros, niños: personas que aquella mañana iban a la plaza por sus asuntos, con nombre y apellido en el archivo, y la memoria de sus familias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El bombardeo de Plaza de Mayo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifras: 308 muertos identificados según el Archivo Nacional de la Memoria (algunas fuentes dan 309 o más de 300); heridos: de unos 800 a más de 1.200, el guion dice «cientos». Menores entre las víctimas: no se nombran. Hora de la rendición: no se da (Wikipedia: 15:17). Gargiulo (infantes de Marina) no se nombra: Wikipedia lo da por ejecutado y la ficha por suicidado el 17 de junio. Trolebús: la ficha dice «lleno de pasajeros»; Wikipedia añade que era escolar con niños y la Casa Rosada no lo menciona, así que se deja lo prudente. El despegue previsto a las 8 y retrasado hasta las 10:45 y la ocupación de Radio Mitre salen de Wikipedia y de la Casa Rosada. Condenas militares de agosto de 1955 anuladas tras el golpe de septiembre, aviadores amnistiados y calificación de lesa humanidad de 2008 salen de la ficha. Monumento de 2008, ley de 2009 y investigación de 2005 salen de la Casa Rosada. No se nombran los civiles opositores. Fuentes abiertas: Wikipedia (es) y Casa Rosada; el resto de la ficha no se abrió."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "miss-macao",
+  "version": 3,
+  "pronunciacion": {
+    "Miss Macao": "Mis Macáo",
+    "Macao": "Macáo",
+    "Hong Kong": "Jong Kong",
+    "Catalina": "Catalína",
+    "Dale Cramer": "Deil Créimer",
+    "Ken McDuff": "Ken Macdáf",
+    "McDuff": "Macdáf",
+    "Cramer": "Créimer",
+    "Wong Yu": "Uong Yu",
+    "Cathay Pacific": "Cáthei Pasífic"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Veinte minutos sobre el río de las Perlas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro del hidroavión Miss Macao. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Veinte minutos sobre el río de las Perlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Macao, 16 de julio de 1948. Un hidroavión Catalina, bautizado Miss Macao, despega rumbo a Hong Kong. Es un trayecto corto: unos veinte minutos. A bordo van más de veinte pasajeros y tres tripulantes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cuatro de esos pasajeros llevan traje y sombrero, como cualquier otro viajero. Pero no han subido para llegar a ningún sitio. El billete es solo su manera de pasar el control con las armas encima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El plan era tomar el avión en pleno vuelo, desviarlo, robar a los pasajeros más ricos y pedir rescate por ellos. Entre los viajeros, según las crónicas, había un directivo de una empresa de lingotes de oro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el relato de Crime and Investigation, tres de los asaltantes eran gente humilde de una isla cercana. El cuarto, con formación de piloto, había ideado el plan. Y el campesino Wong Yu conocía las islas y las costas: debía guiarlos hasta un lugar apartado donde aterrizar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo frágil del plan. Necesitaban que los pilotos obedecieran, y no iban a obedecer. Además, el avión era de la filial de una aerolínea de Hong Kong, Cathay Pacific, y volaba sobre un estuario lleno de pesqueros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al mando iba el piloto estadounidense Dale Cramer, y de primer oficial, el australiano Ken McDuff. Ninguno de los dos tenía que volar ese día: cada uno sustituía a un compañero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después del despegue, los asaltantes sacaron las pistolas y exigieron los mandos. Los pilotos se negaron. Hubo un forcejeo en la cabina, con disparos. El piloto fue alcanzado, y el aparato picó hacia el agua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sé que nadie subió a ese avión para ser héroe. Los que se resistieron decidieron en segundos y sin información. No voy a juzgar eso desde un grabador, setenta y tantos años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Miss Macao se estrelló en el estuario del río de las Perlas. Murieron veinticinco o veintiséis personas: las fuentes no coinciden en cuántas iban a bordo. Entre ellas, tres de los asaltantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo sobrevivió uno: Wong Yu. Lo rescató un pescador y lo ingresaron en un hospital con varios huesos rotos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía sospechó de él al ver el avión acribillado a balazos y comprobar que era un campesino pobre, sin motivo para viajar en un vuelo así. Terminó confesando el plan."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay una duda que dejo anotada. Los relatos cuentan dos cosas distintas sobre qué le hizo confesar: que presumió ante un falso paciente, o que le enseñaron un periódico inventado. No sabemos cuál es cierta. Una confesión sacada con engaños merece siempre una lupa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y entonces el caso se atascó. Macao llevó a Wong Yu ante un tribunal, que sugirió juzgarlo en Hong Kong: el avión estaba matriculado allí y la mayoría de los pasajeros eran de allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hong Kong, bajo administración británica, contestó que el accidente había ocurrido en aguas chinas, donde no tenía jurisdicción. Ninguna autoridad quiso juzgarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos administraciones, un acusado y ninguna sentencia. Las familias de veinticinco personas se quedaron sin un tribunal que les dijera qué había pasado. Para mí, esa es la parte más dura del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Wong Yu pasó casi tres años en la prisión de Macao. El 11 de junio de 1951 lo soltaron sin juicio y lo expulsaron a China. Murió poco después, según Wikipedia, con unos veintisiete años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "De su muerte hay rumores: que lo mataron las autoridades chinas, que fue un tifón. Nada está confirmado. Lo que consta es lo que no ocurrió: nunca fue procesado, y por eso hoy solo sabemos lo que él mismo confesó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Miss Macao pasó a la historia como el primer secuestro de un avión comercial. Y aun así ese título dice poco de quienes iban dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Iban un piloto de veintisiete años, Dale Cramer, un primer oficial de veintitrés, Ken McDuff, una azafata de Macao y pasajeros que solo querían llegar a Hong Kong."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que ese sea el recuerdo del archivo. No la audacia de los piratas, que no la hubo: un viaje corto que no llegó a su destino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro del hidroavión Miss Macao. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

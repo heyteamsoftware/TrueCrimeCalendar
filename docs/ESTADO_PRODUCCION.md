@@ -48,10 +48,10 @@ Hecho antes: `brady` (piloto).
 | mayo C | bianchi chase escalero kurten | ✓ hecho (4/4) |
 | junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |
 | julio | jones hindley magnotta onoprienko yang | lanzado |
-| agosto A | bathory miyazaki lucas alcala | en cola |
-| agosto B | gein bernardo franklin | en cola |
-| septiembre A | desalvo gillesrais kearney | en cola |
-| septiembre B | pardo bittaker fwest | en cola |
+| agosto A | bathory miyazaki lucas alcala | ✓ hecho (4/4) |
+| agosto B | gein bernardo franklin | ✓ hecho (3/3) |
+| septiembre A | desalvo gillesrais kearney | ✓ hecho (3/3) |
+| septiembre B | pardo bittaker fwest | ✓ hecho (3/3) |
 | octubre A | buono lopez iqbal chikatilo swango | en cola |
 | octubre B | pickton haarmann cotton godino | en cola |
 | noviembre A | doss lee ray watts | en cola |

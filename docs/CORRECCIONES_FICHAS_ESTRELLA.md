@@ -168,3 +168,19 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## murano
 
 - Murió el 26 de abril de 2014. Fue condenada el 18 de junio de 1985 y liberada el 20 de noviembre de 1995.
+
+## desalvo
+
+- **Víctimas:** 11 según NBC News y la policía de la época, 13 según el recuento fijado después. La ficha dice 13.
+
+## alcala
+
+- 7 condenas (5 en California y 2 en Nueva York), más la acusación de Wyoming, que no llegó a juicio. Se publicaron unas 120 fotos, no cientos.
+
+## miyazaki
+
+- 5.763 cintas de vídeo, no «casi 6.000».
+
+## kearney
+
+- Confesó 35 asesinatos y fue condenado por 21.

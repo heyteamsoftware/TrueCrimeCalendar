@@ -1,0 +1,110 @@
+{
+  "id": "secuestro-pastrana",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Andrés Pastrana": "Andrés Pastrana",
+    "Los Extraditables": "Los Extraditables",
+    "Valentín de Jesús Taborda": "Valentín de Jesús Taborda",
+    "Pablo Escobar": "Pablo Escobar",
+    "Carlos Mauro Hoyos": "Carlos Mauro Hoyos"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una finca en El Retiro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Andrés Pastrana. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una finca en El Retiro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antioquia, 25 de enero de 1988. Una patrulla de la policía recorre una finca en El Retiro, un pueblo al oriente de Medellín. No busca nada en particular. Según el alcalde del pueblo, la casualidad la lleva hasta una casa donde un solo hombre vigila a un rehén."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El rehén es Andrés Pastrana, periodista, candidato a la alcaldía de Bogotá e hijo de un expresidente. Lleva siete días desaparecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una finca cualquiera, un solo guardián y una patrulla que pasa por allí. Un secuestro de un hombre tan conocido no suele acabar por azar. Pero la prensa de entonces lo cuenta así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo había empezado la noche del 18 de enero, en la sede de su campaña, en el barrio La Soledad de Bogotá. Un grupo armado entró y se lo llevó. Los captores dijeron ser guerrilleros del M-19."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la versión que recoge Wikipedia, lo sacaron de allí en el maletero de un coche y lo llevaron hasta Antioquia, lejos de la capital."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo del M-19 era una máscara. El secuestro era obra de Los Extraditables, el grupo armado del cartel de Medellín. Querían presionar al Gobierno para que no extraditara a narcotraficantes a Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pastrana era periodista y había denunciado el narcotráfico. Un perfil del centro de estudios CIDOB, de Barcelona, afirma que el secuestro lo ordenó Pablo Escobar. La ficha del archivo habla del cartel en general."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con lo documentado. Quién dio la orden concreta no está en ningún expediente que yo pueda citar. Lo que sí está es la confesión de uno de los participantes. Llegaremos a ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Volvamos a la finca. Según El Colombiano, un agente de la policía se ofreció a quedarse como secuestrado a cambio de que el guardián no opusiera resistencia. El hombre aceptó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los captores se alejaron sin disparar un solo tiro. Pastrana apareció sano y salvo, y la operación se dio por incruenta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo raro de la escena: un rehén de ese valor, vigilado por una sola persona. Puede que los demás se hubieran ido. Puede que no esperaran a nadie. Los periódicos no lo explican."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El mismo 25 de enero fue asesinado el procurador general de la Nación, Carlos Mauro Hoyos. Dos hechos el mismo día, en un país bajo la presión del narcotráfico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos meses después, en marzo de 1988, Pastrana ganó la alcaldía de Bogotá. Más tarde fue presidente de Colombia, entre 1998 y 2002."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El caso judicial llegó muy tarde. En 1994, El Tiempo publicó que un integrante del cartel, Valentín de Jesús Taborda, aceptaba ser el autor material del secuestro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Taborda había sido capturado en la finca de El Retiro, herido en una pierna. Estuvo detenido en la cárcel Modelo de Bogotá, y a los seis meses salió en libertad con otras dos personas que, al parecer, vigilaban la casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años después se entregó junto con Pablo Escobar. Estuvo en la cárcel de La Catedral y fue uno de los cinco reclusos que no se fugaron con Escobar en 1992."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por su confesión se le rebajó una tercera parte de la pena. Un juez regional de Medellín debía decidir la condena. El Tiempo no dice cuál fue."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un rehén de ese valor, vigilado por un único hombre, y un final sin disparos. La confesión llegó seis años después. Y no sabemos más de la cadena de mando que la ordenó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De este expediente queda un hombre que volvió a casa y un policía que se ofreció a ocupar su lugar. Y queda una advertencia: en aquella Colombia, a un candidato se le secuestraba para presionar sobre una ley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El secuestro de Andrés Pastrana. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "CIDOB sitúa el secuestro en Antioquia y dice que lo ordenó Escobar (la ficha dice Los Extraditables, cartel de Medellín); el guion lo atribuye a CIDOB y se queda con lo prudente. El maletero y el M-19 vienen de Wikipedia. El asesinato del procurador Hoyos el 25 de enero de 1988 no figura en las fuentes de la ficha salvo como enlace relacionado en El Colombiano; es un hecho muy conocido. Del resultado judicial de Taborda no consta la pena. Alias Popeye (Wikipedia) no se menciona."
+}

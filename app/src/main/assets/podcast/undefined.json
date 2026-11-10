@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: undefined. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. undefined."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente undefined. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

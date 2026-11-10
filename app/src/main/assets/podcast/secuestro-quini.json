@@ -1,0 +1,116 @@
+{
+  "id": "secuestro-quini",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Quini": "Kíni",
+    "Enrique Castro": "Enríke Cástro",
+    "Camp Nou": "Camp Nóu",
+    "Hércules": "Érkules",
+    "Alexanko": "Alexánko",
+    "Ginebra": "Ginebra",
+    "Batallón Catalano-Español": "Batallón Catalano Español"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un taller en Zaragoza",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Quini. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un taller en Zaragoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barcelona, domingo 1 de marzo de 1981. El Barça acaba de ganar seis a cero al Hércules en el Camp Nou. Enrique Castro, «Quini», ha marcado dos goles. Esa noche tenía que ir a recoger a su familia al aeropuerto. No llegó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su mujer esperó en la terminal. Llamó a casa y nadie contestó. Sus compañeros, entre ellos Alexanko, tampoco lograron localizarlo. Empezaron a sospechar que algo iba muy mal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un futbolista famoso desaparece a la salida de un estadio. Dos hombres armados, según la policía, lo abordaron cuando iba en el coche. Nadie vio nada útil. Y los autores se escondían tras un nombre inventado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se hacían llamar «Batallón Catalano-Español». Al día siguiente, uno de ellos telefoneó a La Vanguardia con un mensaje político: el equipo no ganaría la Liga «de los separatistas»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un nombre de cara a la galería. Sonaba a grupo terrorista, y la policía lo trató con cautela. Pero cuando llegó la petición de rescate, el lenguaje era el de cualquier secuestro: dinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pedían cien millones de pesetas, ingresados en un banco suizo. Mientras tanto, el equipo se hundía: perdió en Madrid y sumó un solo punto en los cinco partidos siguientes. Los jugadores dijeron después que no estaban para jugar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El presidente del club, José Luis Núñez, y el propio Alexanko se ocuparon de la mujer y los hijos de Quini. En Barcelona, la sección de atracos de la policía dejó el resto de casos y se dedicó solo a este."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El problema era que buscaban a personas sin pasado. Según el comisario Juan Martínez, que lo contó años después, los tres secuestradores estaban en paro y no tenían antecedentes. Sin archivo, no hay nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores tenían una clave interna para detectar las llamadas desde cabinas. Según el comisario, se filtró a la prensa, y los captores cambiaron de zona. Él opinaba que, sin tanta presión mediática, habría acabado antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El club accedió a pagar. El dinero era real, y la policía española preparó la operación con la policía suiza. El 25 de marzo se ingresó en una cuenta en Ginebra, y alguien acudió a retirar una parte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ahí está la clave del caso. El secuestro es fácil, el cobro es lo difícil. Podían esconder a un hombre en cualquier sótano, pero el dinero tenía que pasar por una ventanilla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el comisario, el hombre que retiró el dinero fue detenido al salir del banco. El club de fútbol del Barcelona lo identifica como Víctor Manuel Díaz Esteban. Confesó y dio la dirección del escondite."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estaba en Zaragoza: el sótano de un taller, un cubículo al que se entraba por una trampilla. Los agentes lo encontraron guiados por el ruido de un ventilador. Detuvieron al vigilante en la puerta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El policía recordaba una escena que me quedó grabada. Quini estaba bajo un colchón, convencido de que iban a matarlo. No se fiaba de nadie que entrara en ese cuarto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedó libre el 25 de marzo de 1981, sin heridas, tras varias semanas encerrado. Según el comisario, había perdido mucha musculatura. Volvió a los campos poco después, y ese mismo año fue máximo goleador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres secuestradores fueron condenados a diez años de cárcel. Según el club, la sentencia es del 15 de enero de 1982. Quini renunció a la indemnización que le correspondía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra nota. Eran tres hombres sin trabajo que pensaron que un hombre pacífico no se resistiría. Eligieron a Quini porque, si él no pagaba, pagaría su club. No lo hacen más justo. Lo hacen más triste."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quini perdonó a quienes lo secuestraron. Los policías, según contó el comisario, no. Años después, Quini mantuvo el contacto con ellos y, en el trigésimo aniversario del rescate, les regaló una placa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que merece quedar es lo contrario del miedo. Un hombre que salió de un sótano y volvió a jugar. Y veinticuatro días que, según él, se hicieron larguísimos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quini murió años después, muy querido en Gijón y en Barcelona. Su secuestro no cambió el fútbol, pero sí lo que un futbolista representaba para su gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Quini. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: Vozpópuli dice que lo abordaron en una gasolinera y la ficha que salía en coche hacia el aeropuerto (se dice solo que lo abordaron cuando iba en el coche); Vozpópuli dice electricistas, ficha y selección dicen en paro (se dice en paro). Solo el FC Barcelona nombra a uno (Díaz Esteban, el que cobró en Ginebra). Vozpópuli sitúa el taller en la calle Jerónimo Vicens sin certeza (no se nombra); un captor no estaba en el zulo (no se dice más). Vozpópuli habla de 24 días encerrado; contando desde el 1 al 25 de marzo son 24. 'Dos hombres armados' lo dice Vozpópuli (dos personas); la ficha, a punta de pistola. Fecha de sentencia: FC Barcelona. Se dice que murió años después sin concretar fecha."
+}

@@ -34,3 +34,6 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **rader:** si hay novedades de las sospechas de Oklahoma de 2023, actualizarlo.
 - **jesperson:** comprobar en dos fuentes la identificación del 27 de agosto de 2026 (Lydia Jane Wade McWhorter).
 - **christie:** se nombra a Geraldine Evans, de 13 meses, en un caso de 1949. Es parte de la historia pública del caso Evans y la familia hizo campaña durante años; se mantiene, comprobándolo.
+- **Coherencia de menores entre cintas:** norris nombra a las menores de bittaker; la cinta de bittaker no. Hay que decidir una sola regla para los dos.
+- **kearney:** es el caso peor documentado; la fecha de las declaraciones de culpabilidad necesita segunda fuente.
+- **bernardo:** comprobar si hubo audiencia de libertad condicional posterior a noviembre de 2024.

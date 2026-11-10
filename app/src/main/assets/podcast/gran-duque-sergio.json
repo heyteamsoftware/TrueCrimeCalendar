@@ -1,0 +1,106 @@
+{
+  "id": "gran-duque-sergio",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kremlin": "Kremlin",
+    "Iván Kaliáyev": "Ivan Kaliáyev",
+    "Kaliáyev": "Kaliáyev",
+    "Nikólskaya": "Nikólskaya",
+    "Schlüsselburg": "Shliselburg"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La puerta Nikólskaya",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato del gran duque Sergio en el Kremlin. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La puerta Nikólskaya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Moscú, 2 de febrero de 1905, según el calendario ruso de entonces. Un joven espera en una plaza con una bomba escondida bajo el abrigo. Ve acercarse el carruaje que vigila desde hace semanas. Levanta el brazo... y no lo lanza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el coche viajan una mujer y unos niños. Eran la esposa del gran duque y sus sobrinos, los hijos de su hermano. El joven se llama Iván Kaliáyev, es poeta y es terrorista."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Lo que más me interesa de este hombre es lo que no hizo. Tenía el objetivo a tiro y lo dejó pasar, según el testimonio de sus propios compañeros, porque no quería matar a unos niños. Esa decisión importa más que la bomba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El objetivo era Sergio Aleksándrovich, tío del zar Nicolás Segundo y gobernador general de Moscú. Era un símbolo del régimen. Lo veían como un hombre autoritario y rígido, y muchos revolucionarios lo odiaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kaliáyev pertenecía a la Organización de Combate del Partido Socialista Revolucionario, un grupo que había hecho del atentado político su método. Según las memorias de uno de sus jefes, Borís Savinkov, que cita la prensa rusa, una compañera, Dora Briliant, preparaba las bombas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Conviene recordar el contexto. Era la Rusia de 1905, a punto de estallar. Nada de esto justifica un asesinato. Lo explica: se creía que la única forma de cambiar el país era matar a quienes lo gobernaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron dos días. El 17 de febrero en nuestro calendario, el 4 de febrero en el ruso, el gran duque salió en carruaje de su residencia en el Kremlin. Esta vez iba solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando acababa de cruzar la puerta Nikólskaya, Kaliáyev se acercó y arrojó la bomba. El gran duque murió en el acto. Kaliáyev fue detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos días antes había dejado pasar el coche. Esta vez, según las fuentes, el gran duque iba solo. Lo anoto porque dice mucho de su idea de la culpa: para él, la violencia tenía reglas, aunque nadie más las compartiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasados tres días, ocurrió algo que nadie esperaba. La viuda, la gran duquesa Isabel Fiódorovna, fue a verlo a la cárcel. Le dijo que rezaría por él y le dejó un icono."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Nóvaya Gazeta, la visita fue al tercer día. Otro relato la sitúa la víspera del funeral. Las fuentes no coinciden en el día, pero sí en el gesto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay algo que solo se entiende si se piensa en ella: perdonó. Le ofreció, según se dijo, que pidiera clemencia al zar. Él no la pidió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kaliáyev fue juzgado y condenado a muerte en la primavera de 1905. En una carta a sus compañeros escribió que su conciencia estaba limpia. Fue ahorcado en la fortaleza de Schlüsselburg el 23 de mayo de 1905, el 10 de mayo en el calendario ruso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los tribunales no dejan dudas sobre quién lanzó la bomba. Lo que no cierran es una pregunta incómoda: si se puede llamar «moral» a un terrorista que no quiere matar niños. Un periodista ruso lo tituló, de hecho, «el terrorista moral»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Kremlin guardó la memoria del lugar. Allí se levantó en 1908 una cruz conmemorativa, que fue derribada en 1918, tras la revolución."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2017 se colocó otra, junto a la torre Nikólskaya. Vladímir Putin asistió a la inauguración. Dijo que el asesinato fue el precursor de una gran turbulencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hace falta compartir su lectura política para anotarla. La historia no se cierra con la sentencia: se sigue discutiendo con cruces, con iconos y con discursos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el recuerdo de Sergio Aleksándrovich, muerto con cuarenta y siete años. Y de los niños que aquel día de febrero no se subieron al coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato del gran duque Sergio en el Kremlin. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Nóvaya Gazeta (2011), Kommersant (2017); Interfax y Wikipedia sin abrir. Contradicciones: Nóvaya Gazeta dice que el gran duque iba solo y la ficha no lo menciona; ficha dice que dos días antes Kaliáyev vio en el coche a la esposa y sobrinos, Nóvaya los llama «hijos del gran duque Pável» (sobrinos) y la gran duquesa. Se pone «sobrinos». Dora Briliant y Savinkov: memorias citadas por Nóvaya, atribuido. La cita «conciencia limpia» es de una carta, según Nóvaya. «Murió en el acto» (ficha) y la detención inmediata no figuran en las fuentes abiertas leídas; la edad (47) y la residencia en el Kremlin: de memoria/Wikipedia, comprobar. Visita de la viuda: tercer día (Nóvaya) o víspera del funeral (Radzinski). Cruz de 1908 derribada en 1918: Kommersant."
+}

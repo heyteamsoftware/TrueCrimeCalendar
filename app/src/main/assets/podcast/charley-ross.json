@@ -1,0 +1,123 @@
+{
+  "id": "charley-ross",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Charley Ross": "Chárli Ros",
+    "Charley": "Chárli",
+    "Germantown": "Yérmantaun",
+    "Walter": "Wólter",
+    "Christian Ross": "Crístian Ros",
+    "Bay Ridge": "Bei Ridch",
+    "Mosher": "Mósher",
+    "Douglas": "Dóglas",
+    "Westervelt": "Uéstervelt",
+    "Brooklyn": "Brúklin"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Veinticinco centavos y un carruaje",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Charley Ross. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Veinticinco centavos y un carruaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Germantown, Filadelfia, 1 de julio de 1874. Dos hermanitos juegan delante de su casa, en East Washington Lane. Faltan tres días para la fiesta del 4 de julio. Y hay dos hombres que ya les conocen: otras veces les han regalado caramelos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta vez les ofrecen petardos. Los suben a un carruaje. En una tienda, uno de los niños, Walter, recibe veinticinco centavos para entrar a elegirlos. Cuando sale, el carruaje se ha ido. Se han llevado a su hermano pequeño: Charley, de cuatro años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esos hombres no actuaron por impulso. Se ganaron la confianza de los niños durante días. Y la carta de rescate, como método, era casi una novedad en Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Walter fue devuelto a su casa ese mismo día. Charley, no. Su padre, Christian Ross, lo buscó primero por el barrio, convencido de que estaban jugando. Su madre estaba en Atlantic City, recuperándose de una enfermedad. Se enteró por los anuncios de los periódicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 3 de julio llegó la primera carta. Mal escrita, sin firma. Decía que el niño estaba a salvo y que no se avisara a la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegarían más, enviadas desde distintas oficinas de correos. Una de ellas pedía veinte mil dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está la ironía. Los secuestradores creían que los Ross eran ricos. Pero la familia estaba endeudada tras la crisis de 1873. Veinte mil dólares era una cifra imposible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aun así, el padre acudió a la policía. El caso saltó a la prensa de todo el país y hubo carteles por todas partes. Varias entregas se organizaron según las instrucciones de las cartas. Los secuestradores no aparecieron nunca a recogerlas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Es el error de quien pide un rescate que no puede cobrar sin dar la cara. Con la policía vigilando, ellos esperaban. Y mientras tanto, el niño era el único que pagaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las cartas se cortaron. Y en diciembre llegó un giro inesperado, lejos de allí, en Brooklyn."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una noche, en una casa de Bay Ridge, los habitantes oyeron ruidos y vieron a unos ladrones. Dispararon. Dos hombres murieron: William Mosher y Joseph Douglas, delincuentes conocidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía ya buscaba a Mosher por la letra de otra carta de rescate. Y Walter, al verlos, los reconoció como los hombres del carruaje."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí se juntan dos cosas que conviene separar. Una: Douglas, moribundo, habría admitido que ellos se llevaron al niño. Según las crónicas, no dio ninguna pista clara de dónde estaba. Dos: los testimonios de aquella noche se contradicen. No hay nada más que su palabra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los dos hombres que Walter señaló murieron sin juicio. Y sin ellos, ya no había quién dijera dónde estaba Charley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1875 se juzgó a William Westervelt, un antiguo policía de Filadelfia, cuñado de Mosher. Las pruebas contra él eran escasas, y Walter dijo que no era uno de los hombres del carruaje. Fue absuelto del secuestro. Lo condenaron solo por conspiración. Siempre defendió su inocencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto algo que no encaja. Se condenó a alguien por conspirar, pero nadie fue condenado por llevarse al niño. Nadie ha respondido de eso ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Christian Ross dedicó el resto de su vida a buscarlo. Publicó un libro en 1876 para financiar la búsqueda. Dio conferencias. Gastó unos sesenta mil dólares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante años, él y su esposa recibieron a más de quinientas personas que decían ser Charley. Todas eran impostores. Décadas después, en 1934, un hombre aún reclamó ser Charley; en 2011, un análisis genético lo desmintió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me llama la atención es la constancia. Ese hombre no pidió justicia, pidió a su hijo. Y no supo qué fue de él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy su nombre sigue vivo: una base de datos de personas desaparecidas lleva el nombre de Charley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su padre murió en 1897. Su madre, en 1912. Walter, el hermano que quedó en la acera con veinticinco centavos, murió en 1943. Ninguno supo qué pasó con Charley. Tenía cuatro años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Charley Ross. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: ushistory.org (Historic Germantown) y Wikipedia en inglés (Smithsonian bloqueada con 403; PSU sin respuesta). Discrepancias: la edad de Walter (cinco según la ficha y Wikipedia, seis según ushistory.org): no se da en el guion. La fecha del tiroteo de Bay Ridge (13 o 14 de diciembre): el guion dice solo «en diciembre». Lo que dijo Douglas antes de morir: Wikipedia dice que los testimonios se contradicen y que no dio pistas claras del paradero del niño; el guion lo atribuye con prudencia. No se da la pena de Westervelt (solo la recoge Wikipedia). Sin resolver: se dice que Mosher y Douglas fueron los señalados, nunca juzgados."
+}

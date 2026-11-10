@@ -1,0 +1,108 @@
+{
+  "id": "puig-antich",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Puig Antich": "Puch Antíc",
+    "Salvador": "Salvadór",
+    "Anguas": "Ángas",
+    "Movimiento Ibérico de Liberación": "Movimiento Ibérico de Liberación",
+    "Georg Michael Welzel": "Yorg Míjael Véltsel",
+    "Heinz Chez": "Jáins Chez",
+    "Carrero Blanco": "Carréro Blanco"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un portal en la calle de Girona",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Puig Antich. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un portal en la calle de Girona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barcelona, 25 de septiembre de 1973. Un portal de la calle de Girona. La Brigada Político-Social, la policía política de la dictadura, ha cercado a un joven de veinticinco años. Hay un forcejeo. Se oyen disparos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando termina, un policía está muerto: el subinspector Francisco Anguas Barragán, de veintitrés años. Y el joven, Salvador Puig Antich, está herido de gravedad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Aquí hay dos muertes que dependen de este portal: la del policía, esa misma noche, y la del detenido, cinco meses después. Y lo que ocurrió dentro, en pocos segundos, nunca se aclaró del todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salvador Puig Antich nació en Barcelona en 1948, en una familia obrera. Su padre, militante catalanista en la República, había estado internado en Argelès-sur-Mer tras la Guerra Civil. Militaba en el Movimiento Ibérico de Liberación, el MIL, un grupo armado anticapitalista y anarquista nacido a finales de 1969."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el historiador Julián Vadillo, sus acciones iban dirigidas a apoyar al movimiento obrero con folletos, ayuda a las huelgas y expropiaciones. El grupo se financiaba con atracos a bancos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que se sabe del lado del MIL. Del lado de la policía, el cerco se había cerrado tras una serie de atracos y detenciones. A Puig Antich lo interceptaron cuando acudía a una cita con otros miembros del grupo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sobrevivió a sus heridas. Lo juzgó un consejo de guerra, un tribunal militar, que lo condenó a muerte el 8 de enero de 1974. Esa causa, la 106 de 1973, es la que hoy se recuerda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi nota más incómoda. La defensa denunció que el proceso no tuvo garantías. Según el Salto, se ocultaron pruebas y se impidió declarar a testigos de la defensa. Quién disparó exactamente al subinspector es algo que se discute desde hace décadas: hubo varios tiradores en el portal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la muerte del presidente del Gobierno, Carrero Blanco, en diciembre de 1973, los intentos de lograr un indulto fracasaron. Hubo peticiones desde dentro y fuera de España, entre ellas la del canciller alemán Willy Brandt."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La mañana del 2 de marzo de 1974, en la cárcel Modelo de Barcelona, Salvador Puig Antich fue ejecutado a garrote vil. Tenía veinticinco años. Ese mismo día, en Tarragona, se ejecutó a otro condenado: Georg Michael Welzel, conocido como Heinz Chez."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fueron las dos últimas ejecuciones con garrote vil en España. El garrote vil, un método de otro siglo, se usó en España por última vez ese día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No vamos a describir la ejecución. Basta decir que el caso se convirtió en símbolo para quienes se oponían a la pena de muerte y a la dictadura, y que no se olvidó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que decir lo otro también. Anguas era un joven policía de veintitrés años que murió cumpliendo su trabajo. Su familia también perdió a un hijo en aquel portal. Pensar en una víctima no impide pensar en la otra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con la democracia llegaron los libros, las películas, los documentales y las canciones. Sus hermanas llevan décadas pidiendo que se reconozca la injusticia de aquel proceso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 2024, el Gobierno entregó a sus cuatro hermanas una declaración de reparación y reconocimiento, prevista en la Ley de Memoria Democrática de 2022. Declara ilegítimo el tribunal que lo condenó y nula su sentencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nula no significa que se sepa qué pasó en el portal. Significa que el tribunal que lo juzgó no cumplía las garantías mínimas. Son dos preguntas distintas, y la segunda sigue abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una de sus hermanas, Immaculada, dijo entonces: hace cincuenta años que luchamos por esto, por la dignidad de nuestro hermano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos familias, un portal y una dictadura. Eso es lo que guarda esta cinta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Puig Antich. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cuidado máximo: la ficha no atribuye los disparos a nadie (se discute). El guion no dice que Puig Antich matara al subinspector; dice que se le condenó y que la sentencia es hoy nula. Lugar de la detención: la ficha dice portal de la calle de Girona; El Salto habla de una cita en el bar El Funicular y elDiario.es de un atraco en Bellver de Cerdanya (no se usan). 'Las dos últimas ejecuciones con garrote vil' y 'hubo varios tiradores' no se han contrastado en las fuentes abiertas (la segunda sale de la nota de la ficha): revisar. La cita de Immaculada es parafraseada de elDiario.es. La cifra de edad (25) sale de nacer en 1948."
+}

@@ -1,6 +1,6 @@
 {
   "id": "nilsen",
-  "titulo": "Un desagüe atascado",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Dennis Nilsen": "Dénis Nílsen",
@@ -12,120 +12,160 @@
     "Fraserburgh": "Fréiserbra",
     "Peter Jay": "Píter Yéi",
     "Old Bailey": "Óuld Béili",
-    "Scotland Yard": "Escótland Iárd",
-    "Stephen Holmes": "Stíven Jóulms",
     "Kenneth Ockenden": "Kéneth Ókenden",
-    "Stephen Sinclair": "Stíven Sínclair"
+    "Stephen Sinclair": "Stíven Sínclair",
+    "Scotland Yard": "Escótland Iárd",
+    "Londres": "Lóndres",
+    "York": "Yórk",
+    "Full Sutton": "Ful Sáton"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Muswell Hill, norte de Londres, febrero de 1983. Los vecinos de un edificio de Cranley Gardens llevan días con los desagües atascados. Llaman a una empresa de desatascos, y un técnico baja con una linterna a la arqueta del edificio."
+      "n": 1,
+      "titulo": "Una arqueta en Cranley Gardens",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Dennis Nilsen, el asesino de Muswell Hill. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una arqueta en Cranley Gardens."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muswell Hill, norte de Londres, 8 de febrero de 1983. Los vecinos de un edificio de Cranley Gardens llevan días con los desagües atascados. Se lo cuentan al casero y llaman a una empresa. Un operario abre la arqueta exterior del edificio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que ve no parece simple suciedad. Avisa a su supervisor, y ambos avisan a la policía. Los agentes confirman lo peor: son restos humanos. Esa misma noche vuelven al edificio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto un detalle que me sigue inquietando. Un edificio con varios pisos, varios vecinos, y una pregunta que nadie podía contestar con certeza: ¿de quién eran aquellos restos?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, el 9 de febrero, el inspector jefe Peter Jay se encuentra con uno de los inquilinos. Le dice lo que han encontrado. El hombre no lo niega. Y empieza a hablar. Se llama Dennis Nilsen, y tiene treinta y siete años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dennis Nilsen había nacido el 23 de noviembre de 1945 en Fraserburgh, un pueblo pesquero del noreste de Escocia. Sirvió como cocinero en el ejército británico hasta 1972, y después estuvo un año en la policía de Londres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde 1974 trabajaba como funcionario en oficinas de empleo. Vivía solo. Para sus compañeros era un hombre más. Nada en su vida pública hacía pensar en lo que los detectives iban a escuchar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que me cuesta. Un empleado público, con trabajo estable y vida ordenada. Si buscas a un asesino por el aspecto que tiene, no lo encuentras. Hay que buscar por lo que hace. Y esta vez nadie lo hacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nilsen contó a los detectives que había matado a quince o dieciséis hombres desde finales de 1978. La cifra exacta nunca se ha podido establecer. Hoy se considera que mató al menos a doce, y se sospecha que pudo ser más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los crímenes empezaron en diciembre de 1978 en su piso del número 195 de Melrose Avenue, en Cricklewood. Siguieron allí hasta 1981, cuando se mudó a Cranley Gardens. El último que se conoce es Stephen Sinclair, de veinte años, en enero de 1983."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Conocía a jóvenes en bares del centro de Londres, muchos sin hogar o recién llegados a la ciudad. Los invitaba a su casa a beber y a pasar la noche. Algunos no volvieron a ser vistos por nadie."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y nadie los echó de menos. Esa es la parte más amarga. Vivían al margen: sin domicilio fijo, lejos de sus familias, en una ciudad que no preguntaba por ellos. Algunas desapariciones ni siquiera se denunciaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre las víctimas que sí se identificaron está Kenneth Ockenden, un turista canadiense de veintitrés años, en diciembre de 1979. Otros eran jóvenes de entre dieciséis y veintisiete años, muchos de los cuales nunca fueron reconocidos en su momento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero hubo hombres que sobrevivieron a sus ataques. Uno de ellos fue a la policía. Su denuncia se trató como una riña entre amantes y no prosperó. Aquella oportunidad se perdió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que más pesa del expediente. En aquella época, la policía miraba con prejuicios a los hombres gais. Una agresión entre hombres, en un piso, se despachaba como cosa privada. Esa idea retrasó años lo que un testimonio habría podido detener."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nilsen estaba ya detenido. Quedaba por saber cuántas víctimas tenía, quiénes eran y cómo los policías iban a ponerles nombre a unos restos que apenas permitían identificar a nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta dos: un juicio en el Old Bailey, una discusión sobre la mente del acusado y los nombres que tardaron décadas en llegar."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Lo que encuentra no parece simple suciedad. Vuelve al día siguiente con su supervisor y avisan a la policía. Los análisis lo confirman enseguida: son restos humanos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "En un edificio con varios pisos y varios vecinos… ¿quién podía ser?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "La respuesta llegó esa misma tarde, cuando uno de los inquilinos volvió del trabajo. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dennis Nilsen, el asesino de Muswell Hill."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nilsen nació en 1945 en Fraserburgh, un pueblo pesquero del noreste de Escocia. Pasó once años en el ejército como cocinero y después fue policía en Londres durante un breve periodo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cuando lo detuvieron trabajaba como funcionario en una oficina de empleo, donde era conocido por su actividad sindical. Vivía solo en un piso del ático, con su perra. Un hombre gris, en apariencia, como tantos otros."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Aquella tarde de febrero, el inspector Peter Jay lo esperaba en la puerta. Le dijo que habían encontrado restos humanos en el desagüe. Nilsen no lo negó. Y camino de comisaría empezó a hablar."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántas víctimas reconoció?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dijo que quince o dieciséis, desde finales de 1978, y durante días dio a los detectives una confesión larguísima. La cifra exacta nunca se ha podido establecer. Hoy se considera que mató al menos a doce jóvenes, y quizá a quince."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La mayoría de los crímenes ocurrieron en su piso anterior, en el número 195 de Melrose Avenue, en el barrio de Cricklewood. Los últimos, en Cranley Gardens, adonde se había mudado en 1981."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras la detención, la policía registró también el piso de Melrose Avenue y su jardín. Poco a poco se identificó a varias víctimas, como Kenneth Ockenden, un turista canadiense, o Stephen Sinclair, de veinte años, el último joven asesinado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para entender a sus víctimas hay que mirar el contexto. En la Inglaterra de principios de los ochenta, con un paro muy alto, muchos jóvenes llegaban a Londres buscando trabajo y acababan durmiendo en la calle."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su forma de actuar era siempre parecida. Conocía a hombres jóvenes en bares del centro de Londres, muchos sin hogar o recién llegados a la ciudad, y los invitaba a su casa a beber y a pasar la noche."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y nadie los echó de menos…"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esa es la parte más amarga. Muchos vivían al margen: sin domicilio fijo, lejos de sus familias, en una ciudad que no preguntaba por ellos. Algunas desapariciones ni siquiera llegaron a denunciarse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Además, varios hombres sobrevivieron a sus ataques. Según se supo después, al menos uno acudió a la policía, pero su denuncia no prosperó. Aquella oportunidad se perdió."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El juicio se celebró en el Old Bailey en otoño de 1983. Nilsen no negaba los hechos. La discusión era sobre su estado mental: la defensa pedía que se le considerase con la responsabilidad disminuida."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El jurado rechazó ese argumento. Lo declaró culpable de seis asesinatos y dos intentos de asesinato. Fue condenado a cadena perpetua, y años más tarde se estableció que nunca saldría de prisión."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y murió en la cárcel?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sí, en 2018, a los setenta y dos años. Nunca volvió a pisar la calle."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso obligó a Scotland Yard a mirarse al espejo. ¿Cómo pudo matar durante más de cuatro años sin que nadie lo detuviera? La respuesta incomoda: sus víctimas eran invisibles para casi todos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muchos eran jóvenes sin hogar, y algunos eran gais, en una época de prejuicios en la que no todos se atrevían a acudir a la policía. Varias víctimas tardaron años en ser identificadas, y alguna nunca lo ha sido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La primera, por ejemplo, no tuvo nombre hasta 2006. Era Stephen Holmes, un chico de catorce años. Su familia pasó más de veinticinco años sin saber qué había sido de él."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Por eso importa tanto poner nombre a cada víctima."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Y por eso este expediente no termina en el desagüe de Cranley Gardens. Termina en las familias que, durante años, siguieron buscando a hijos y hermanos de los que nadie más se acordaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y en una pregunta que sigue vigente: a quién buscamos cuando alguien desaparece, y a quién dejamos de buscar demasiado pronto."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Dennis Nilsen. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una pregunta sobre la mente",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una pregunta sobre la mente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Dennis Nilsen. Febrero de 1983. Con la confesión en la mano, la policía abre un trabajo larguísimo: registrar el piso de Cranley Gardens, y el antiguo de Melrose Avenue y su jardín."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí el problema no era probar quién. Nilsen lo contó casi todo. El problema era saber a quién había matado. Con restos tan escasos, la policía tuvo que apoyarse en comparaciones dentales y en objetos personales. Y varias víctimas no se identificaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de febrero lo acusaron del asesinato de Stephen Sinclair. Después se añadieron más cargos. El juicio empezó el 24 de octubre de 1983 en el Old Bailey, el tribunal penal central de Londres. Nilsen se declaró no culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Él no negaba los hechos. La discusión era otra: su estado mental. La defensa sostuvo que tenía responsabilidad disminuida. Es decir, que su capacidad de controlarse estaba afectada por una enfermedad mental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un argumento que en derecho inglés significa algo concreto. No es declararse loco. Es pedir que el delito sea homicidio y no asesinato. Los psiquiatras de la defensa y de la fiscalía no se pusieron de acuerdo. Y el jurado tenía que decidir a quién creer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 4 de noviembre de 1983, el jurado lo declaró culpable de seis asesinatos y de dos intentos de asesinato. Fue condenado a cadena perpetua, con una recomendación de cumplir al menos veinticinco años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1994 se cambió esa recomendación por una condena de por vida, sin posibilidad de salir. Así quedó hasta su muerte. Nilsen murió el 12 de mayo de 2018, a los setenta y dos años, en un hospital de York, tras una intervención quirúrgica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las cifras siguen sin cerrarse. Se condenó por seis asesinatos, se reconocen al menos doce y él habló de quince o dieciséis. Entre una cifra y otra hay personas sin nombre y familias sin respuesta. Eso es lo que no se resolvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para la policía londinense, el caso fue un golpe de realidad. Los registros de personas desaparecidas funcionaban mal. Los vecinos habían notado olores y humo, y no pasó nada. Y faltaban bases de datos y técnicas forenses que hoy damos por normales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muchas de las víctimas eran jóvenes sin hogar, y algunos eran gais, en una época de prejuicios. No todos se atrevían a acudir a la policía. Algunas familias estuvieron años sin saber qué había sido de sus hijos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo dejo anotado: este caso es un espejo. Muestra a quién buscamos cuando alguien desaparece, y a quién dejamos de buscar demasiado pronto. La respuesta de entonces no nos hace mejores hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por eso importa poner nombre a cada víctima, aunque sea tarde. La primera fue un chico de catorce años. Varias víctimas tardaron años en ser identificadas, y alguna, según las fuentes, nunca lo ha sido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente no termina en el desagüe de Cranley Gardens. Termina en las familias que siguieron buscando a hijos y hermanos de los que casi nadie más se acordaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Dennis Nilsen. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes: Wikipedia en inglés, Newsweek, Lawyer Monthly (cronología) y prensa. DISCREPANCIAS CON EL V2/FICHA: (1) El v2 dice «seis asesinatos y dos intentos de asesinato»: Newsweek y Lawyer Monthly dicen dos intentos; Wikipedia en inglés dice un intento (con el de Paul Nobbs por unanimidad). Se mantiene «dos». (2) El v2 dice que un técnico «bajó con una linterna» y que la policía lo esperó en la puerta «esa misma tarde»: Wikipedia: 8/2/1983 hallazgo del operario (Michael Cattran, de una empresa de desatascos); 9/2 detención tras interrogarlo el inspector jefe Peter Jay. El guion dice que la policía vuelve «esa misma noche». (3) El v2 dice que el primer niño «Stephen Holmes, de catorce años» no tuvo nombre hasta 2006: no he podido verificarlo (la página de Wikipedia está truncada); por la regla común de menores, el guion no da su nombre ni su edad exacta («un chico de catorce años, el primero»). Duda para el verificador: confirmar la identificación y si la familia ha hablado en público. (4) El v2 dice «once años en el ejército»: Wikipedia da 1961–1972. El guion dice «hasta 1972». (5) El v2 dice que Nilsen era «conocido por su actividad sindical»: no verificado, se quitó. (6) El v2 dice que «Aquella tarde de febrero el inspector Peter Jay lo esperaba en la puerta»: Wikipedia lo sitúa el 9/2; Newsweek dice que Nilsen indicó un armario a los agentes. (7) Muerte: Wikipedia, Newsweek: hospital de York, 12/5/2018 (embolia pulmonar y hemorragia retroperitoneal tras cirugía de aneurisma); Lawyer Monthly dice «HMP Full Sutton»; se dice «en un hospital de York». (8) La ficha dice 1978–1983 y 12 a 15: coincide. (9) Tarifa de por vida: diciembre de 1994 (Wikipedia; Newsweek solo dice «más tarde»). (10) Edad de las víctimas: Wikipedia da edades de 14 a 27 (se dice «entre dieciséis y veintisiete» para los que se nombran; el de 14 años se menciona aparte). Respeto: se omiten métodos y detalles; solo se nombran las víctimas adultas Ockenden y Sinclair (nombres públicos desde el juicio); no se nombra a menores ni a supervivientes."
 }

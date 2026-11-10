@@ -1,0 +1,101 @@
+{
+  "id": "barranca-yaco",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una galera en el monte",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de Barranca Yaco. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una galera en el monte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Córdoba, Argentina, 16 de febrero de 1835. Una galera avanza por el camino de regreso desde el norte. Va despacio, rodeada de monte. Dentro viaja uno de los hombres más temidos del país, el caudillo riojano Juan Facundo Quiroga. Y alguien acaba de salir al camino para avisarle de que lo esperan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el relato que recoge el historiador Pacho O'Donnell, un joven, Sandivaras, detuvo la galera antes de la posta de Ojo de Agua. Habló con el secretario de Quiroga, José Santos Ortiz: en Barranca Yaco aguardaba una partida armada con la orden de no dejar a nadie con vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Le ofrecieron un caballo para huir y, según esa versión, Ortiz lo rechazó y volvió a subir a la galera. Yo la anoto con cautela: la cuentan los historiadores, pero nadie la grabó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quiroga volvía de una misión de mediación entre las provincias de Salta y Tucumán, encargada por el gobernador de Buenos Aires, Manuel Vicente Maza. Era una misión de paz."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el primer error, y es suyo. Al pasar por Córdoba le habían dicho que había rumores de un plan, y que el golpe llegaría a la vuelta. Rechazó las escoltas que le ofrecieron los gobernadores de otras provincias. Prefirió fiarse de su fama."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El plan, según las fuentes, venía de Córdoba. Allí mandaban los hermanos Reinafé. Quiroga se había opuesto con dureza a que uno de ellos, José Vicente, fuera gobernador, una maniobra en la que estaba metido el poderoso caudillo de Santa Fe, Estanislao López."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Reinafé encargaron el trabajo a un capitán de milicias, Santos Pérez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese 16 de febrero, en Barranca Yaco, su partida cerró el paso a la galera. Según la tradición, Pérez disparó al propio Quiroga en el ojo. Una carta de Rosas habla de dieciséis personas en la comitiva y dice que murieron todas, salvo el correo y un asistente, que escaparon por el monte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dieciséis personas. No era una pelea entre rivales: era una emboscada para no dejar testigos. Y aun así, dos se salvaron. Los testigos son siempre el punto débil de un crimen perfecto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia sacudió el país. Maza dimitió. En Buenos Aires crecía la idea de que hacía falta un gobierno fuerte, y quien iba a encarnarlo era Juan Manuel de Rosas. El 3 de marzo, a punto de aceptar la gobernación, Rosas escribió una carta lamentando la muerte de Quiroga y anunciando días de sangre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rosas dirigió la investigación. En 1837, Santos Pérez y dos de los hermanos, José Vicente y Guillermo Reinafé, fueron ejecutados en Buenos Aires. Un grabado de la época muestra la ejecución en público."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pregunta obligada: ¿quién dio la orden? Los hermanos acusaron a otros hermanos, pero, según una de las crónicas, ante los jueces y ante la horca no señalaron a Rosas ni a López. Los enemigos de Rosas sí lo hicieron: aseguraron que él había movido los hilos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los críticos recordaban que el proceso fue sumario y que el abogado Marcelo Gamboa, que lo cuestionó, fue castigado. Los defensores de Rosas respondían que la culpa de los Reinafé estaba probada. Los historiadores siguen discutiéndolo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi lectura es prudente. Está documentado quién disparó y quién lo mandó ejecutar. Lo que nadie ha demostrado, con papeles, es quién estaba por encima de los Reinafé. Lo demás es política."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el cuerpo. El 9 de diciembre de 2004, un georradar detectó un hueco en una pared de una bóveda del cementerio de la Recoleta, la de la familia Demarchi."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detrás había un féretro de bronce, colocado de pie, y un corazón de chapa con una inscripción: «Quiroga... muerto en febrero». La noticia se supo en febrero de 2005, casi ciento setenta años después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La familia contó que lo ocultaron en 1877 para protegerlo de los enemigos de Rosas. No sé si es verdad. Lo cierto es que un hombre muerto en un camino de Córdoba siguió escondiéndose durante un siglo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan los otros: Ortiz, y los quince que viajaban con ellos. Casi nadie recuerda sus nombres. Murieron por ir en la misma galera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de Barranca Yaco. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Pigna (El Historiador), La Nación 2005 y O'Donnell; Caras y Caretas solo atribuye el plan a los Reinafé. Disparo en el ojo: lo da la ficha; ninguna fuente abierta lo confirma, por eso va como tradición. Aviso de Sandivaras y rechazo del caballo: solo O'Donnell, atribuido. La cifra de 16 es la de una carta de Rosas (parte interesada). Fecha de ejecución (1837): se deja el año. Ficha dice Pérez y dos Reinafé; Pigna dice «los hermanos Reinafé» en general. Ejecución con ahorcamiento según grabado, ficha dice «ejecutados». Enterramiento en Buenos Aires y la fecha de 1877 son versión familiar, atribuida."
+}

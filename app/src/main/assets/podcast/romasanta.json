@@ -1,117 +1,184 @@
 {
   "id": "romasanta",
-  "titulo": "El hombre que decía ser lobo",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "lobishome": "lobisóme",
+    "Manuel Blanco Romasanta": "Manuél Blanco Romasanta",
+    "Romasanta": "Romasanta",
     "Isabel II": "Isabel segunda",
-    "Philips": "Fílips"
+    "Philips": "Fílips",
+    "lobishome": "lobisóme",
+    "Allariz": "Alariz",
+    "Nombela": "Nombéla",
+    "Rebordechao": "Rebordechao",
+    "Ourense": "Orense",
+    "Verín": "Verín",
+    "Escalona": "Escalóna",
+    "La Esperanza": "La Esperánza"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Nombela, provincia de Toledo, verano de 1852. Un forastero que dice llamarse Antonio Gómez trabaja en el pueblo sin llamar demasiado la atención. Hasta que unos gallegos que han llegado a la comarca lo reconocen."
+      "n": 1,
+      "titulo": "Un documento a nombre de Antonio Gómez",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Manuel Blanco Romasanta, el hombre lobo de Allariz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un documento a nombre de Antonio Gómez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nombela, provincia de Toledo, 1852. Un forastero trabaja como segador en la comarca. Lleva un documento a nombre de Antonio Gómez. Pasa por un hombre más, hasta que unos gallegos que han llegado a trabajar allí lo miran dos veces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para ellos no es Antonio Gómez. Es el buhonero de la sierra de Ourense del que se había hablado en sus aldeas. Un hombre con el que se habían marchado varias mujeres y niños que nunca regresaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto la primera cautela de este expediente. Estamos a mediados del siglo diecinueve. No hay ADN, ni forenses, ni fotografías de escenas. Lo que tenemos son papeles judiciales, cartas, declaraciones y rumores. Y hay que separar unos de otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había una denuncia desde Escalona, en el mismo Toledo. Con ella, el reconocimiento de los gallegos, y la detención fue cuestión de días. Lo llevaron de vuelta a Galicia: pasó por Verín y el proceso se instruyó en Allariz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Manuel Blanco Romasanta había nacido el 18 de noviembre de 1809 en Regueiro, una aldea de Esgos, en Ourense. Sabía leer y escribir, algo poco común en la Galicia rural de su tiempo. Trabajó como sastre y se casó joven."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1833, ya viudo, se hizo buhonero. Recorría Galicia, Portugal y los pasos hacia Castilla vendiendo mercancías de aldea en aldea. Conocía las sierras y los caminos, y sabía hablar con la gente. Eso le abrió muchas puertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1844 lo acusaron en tierras de León de la muerte de un alguacil, Vicente Fernández, tras una disputa por una deuda. Lo condenaron sin que estuviera presente a diez años de prisión. Él desapareció y reapareció con otro nombre: Antonio Gómez."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle. Ya era un fugitivo antes de los casos que le hicieron famoso. Vivía con un nombre falso en Rebordechao, y esa falsedad le sirvió para ganarse una confianza que no tenía derecho a esperar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde entonces, varias mujeres de la zona, algunas con sus hijos, aceptaron viajar con él como guía. Les ofrecía trabajo en otras tierras. No llegaron nunca a su destino. Las familias recibían noticias de que estaban bien. Mientras tanto, él vendía sus ropas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los vecinos empezaron a murmurar. Se dijo que fabricaba un ungüento, o un jabón, con grasa de las desaparecidas. Era una leyenda que circulaba por las aldeas de la época, y que nadie ha podido probar nunca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí pesa el folclore. En esa Galicia existía la figura del sacamantecas, el hombre que roba la grasa de la gente. Cuando alguien desaparecía, el rumor encontraba su explicación antes que la justicia. Ni los jueces ni los historiadores han podido demostrar aquella historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por eso en el sumario el delito es otro. Mujeres y niños que desaparecieron, familias que no recibieron noticias, ropa de las víctimas vendida por Romasanta, y un hombre que huye. La acusación se apoyaba en eso, y en nada más material."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ya en el proceso, los jueces no tenían cadáveres. Los informes que se pidieron a los ayuntamientos no dieron resultado. Y los dos supuestos compañeros que Romasanta mencionó nunca fueron localizados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos preguntas que me hago. La primera: sin cuerpos, ¿qué sostenía el caso? La confesión. Y la segunda: ¿por qué confesó? Los documentos no lo explican del todo. Lo que sí hizo fue contar una historia que nadie esperaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Declaró que era un hombre lobo. Que una maldición lo convertía en lobo en noches de luna llena, y que en ese estado no se controlaba. Confesó trece asesinatos, y dijo que había actuado con otros dos compañeros, también malditos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaba un tribunal que decidiera qué creer. En la cinta dos: una sentencia, una carta que llegó de Francia y una muerte que durante siglo y medio estuvo mal contada."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Para ellos no es Antonio Gómez. Es el buhonero de la sierra de Ourense con el que se marcharon varias mujeres y niños que nunca regresaron a sus aldeas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y lo detuvieron allí mismo, tan lejos de Galicia?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Allí mismo. Y lo que contó después lo convirtió en leyenda. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Manuel Blanco Romasanta, el hombre lobo de Allariz."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en noviembre de 1809 en una aldea de Ourense. Sabía leer y escribir, algo poco común en la Galicia rural de su tiempo. Trabajó como sastre y después como buhonero, vendiendo mercancías de pueblo en pueblo por los caminos del noroeste."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Era un hombre menudo, de trato amable, que conocía bien los senderos de la sierra. Esa confianza le abrió muchas puertas en una tierra pobre, donde salir a trabajar fuera era a menudo la única esperanza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A partir de 1843, varias mujeres de la zona de Rebordechao, algunas con sus hijos, aceptaron viajar con él. Les prometía trabajo en casas acomodadas de otras ciudades. Nunca llegaron a su destino."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para tranquilizar a los familiares, él traía noticias: que estaban bien, que habían encontrado colocación, que pronto escribirían. Mientras tanto, vendía sus ropas y sus pertenencias."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y nadie sospechó en todos esos años?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con el tiempo empezaron a circular rumores. Se llegó a decir que comerciaba con la grasa de sus víctimas, una acusación que formaba parte del folclore de la época y que nunca se probó."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cuando las sospechas crecieron, huyó de Galicia con documentación falsa a nombre de Antonio Gómez. Así llegó a tierras de Toledo, donde fue detenido en aquel verano de 1852. Para entonces, además, se le relacionaba con la muerte de un alguacil en tierras de León, años atrás."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Lo trasladaron a Allariz, donde se instruyó el proceso. Allí confesó trece asesinatos. Pero dio una explicación sorprendente: aseguró que una maldición lo convertía en lobo y que, en ese estado, no podía controlarse."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una defensa de hombre lobo. ¿Y el tribunal se la creyó?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. Los jueces concluyeron que no había ninguna transformación y que sabía perfectamente lo que hacía. Le atribuyeron nueve asesinatos; los otros cuatro no los consideraron probados. Los médicos que lo examinaron tampoco apreciaron locura."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Para la justicia, entonces, no hubo ningún lobo. Solo un hombre que sabía muy bien lo que hacía."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue condenado a muerte, y la sentencia se confirmó en apelación en 1853. Parecía el final de la historia. Pero entonces llegó una carta desde Francia."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Una carta? ¿De quién?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "De un hipnotista francés que firmaba como doctor Philips. Sostenía que Romasanta sufría una enfermedad mental, la licantropía, y pedía poder estudiarlo antes de que fuera ejecutado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La reina Isabel II conmutó la pena de muerte por cadena perpetua. La decisión fue polémica entonces, y todavía hoy se discute qué peso real tuvo aquel informe en el indulto."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Romasanta murió en prisión. Durante mucho tiempo se aseguró que había sido en Ceuta, años después. Investigaciones más recientes apuntan a que murió antes, en una cárcel gallega. Su final, como su vida, quedó envuelto en dudas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy se le considera el primer asesino en serie documentado de España. La documentación del proceso ha llegado hasta nuestros días, y ha permitido a historiadores y criminólogos reconstruir el caso con bastante detalle. El caso abrió además un debate, muy moderno para su época, sobre la frontera entre la locura y la responsabilidad penal."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su historia ha inspirado novelas y películas, como «El bosque del lobo», de Pedro Olea, o «Romasanta», de Paco Plaza, y ha alimentado la vieja leyenda gallega del lobishome, el hombre lobo. Pero el caso real no tiene nada de sobrenatural."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Porque detrás de la leyenda hay una realidad mucho más terrenal."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Un hombre que supo aprovecharse de la pobreza, del aislamiento de las aldeas y de la necesidad de muchas familias de buscar trabajo lejos de casa. La leyenda del lobo sirvió, sobre todo, para ocultar eso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sus víctimas eran mujeres y niños humildes, que confiaron en él porque buscaban una vida mejor. Varias pertenecían a la misma familia. Son ellas quienes deberían ocupar el centro de esta historia, y no el mito."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Manuel Blanco Romasanta. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una carta de Francia",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una carta de Francia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Manuel Blanco Romasanta. Allariz, 1852. El juicio se alarga casi un año. Los médicos examinan al acusado. Y su informe, de octubre de 1852, es claro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con una base muy ligada a la frenología, la ciencia de su época, concluyeron que no estaba loco. Que no padecía ninguna enfermedad mental y que había inventado su dolencia. Hoy sabemos que la frenología no tiene valor científico. Pero ese era el criterio de entonces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía lo acusó de nueve asesinatos. De los trece que confesó, los otros cuatro no se consideraron probados. El abogado defensor, Manuel Rúa Figueroa, intentó demostrar que era un demente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 6 de abril de 1853, el juez de Allariz lo condenó a muerte por garrote vil. Además, fijó una indemnización de mil reales por cada víctima. Los jueces no creyeron en ningún hombre lobo. Creyeron en un hombre que sabía lo que hacía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una ironía en esa sentencia. Aceptar la transformación en lobo habría obligado a los jueces a reconocer algo sobrenatural, y no cabía en su mundo. Prefirieron una explicación terrenal: un hombre que sabía lo que hacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Conviene recordar sobre qué se condenó. Según los investigadores, la fiscalía basó su acusación casi solo en la confesión y en la venta de las ropas de las víctimas. No aparecieron cadáveres, y esa ausencia es la gran laguna del caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hoy un caso así se discutiría de otra manera: sin cuerpos, sin pruebas materiales y con una confesión que nadie podía contrastar. Pero hubo un proceso de casi un año, con médicos, defensa y recursos. Juzgamos con la medida de entonces, y con prudencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Parecía el final. Pero entonces llegó una carta. La envió un hipnólogo francés que firmaba como Philips. Pedía poder examinar a Romasanta, para demostrar que su afección era una enfermedad, la licantropía, y que no era responsable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El gobierno de Isabel II suspendió la ejecución. No se conocen resultados de aquel examen, y no se sabe con certeza si llegó a realizarse. La fiscalía se opuso a cualquier examen hipnótico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las sentencias que siguieron se contradicen en las fuentes. En noviembre de 1853, la Audiencia de A Coruña impuso cadena perpetua. El fiscal recurrió. En mayo de 1854, un indulto real conmutó definitivamente la pena de muerte por cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la reserva. Las fechas exactas de aquellos días de mayo varían según la fuente, entre el 13 y el 20. Y el orden de las decisiones también. Lo seguro es el resultado: Romasanta no fue ejecutado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante siglo y medio se creyó que murió poco después, en una cárcel gallega. Investigaciones recientes, con un periódico de la época, La Esperanza, sitúan su muerte en Ceuta, el 14 de diciembre de 1863, de cáncer de estómago."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para las familias de las aldeas, la historia no acabó con la sentencia. No recuperaron a los suyos, y no hubo cuerpos que enterrar, porque nunca aparecieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le considera el primer asesino en serie documentado de España. Su historia inspiró novelas y películas, como El bosque del lobo, de Pedro Olea. Y alimentó la vieja leyenda gallega del lobishome."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero el caso real no tiene nada de sobrenatural. Hay una lección más seria. Se discutió, ya en 1852, si era un enfermo o un culpable. Esa frontera entre la locura y la responsabilidad sigue discutiéndose hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay que decir algo más. Hay quien sostiene hipótesis sobre su identidad o su cuerpo. Las fuentes serias avisan de que no se ha podido confirmar ninguna. No vamos a hablar de lo que no está probado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detrás de la leyenda hay una realidad más terrenal. Mujeres y niños humildes que confiaron en un guía porque buscaban una vida mejor. Son ellas, y ellos, quienes deberían ocupar el centro de esta historia, y no el mito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Manuel Blanco Romasanta. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha solo dice «murió en prisión». La fecha y el lugar de su muerte son discutidos: la versión tradicional habla de Ceuta (1863) y estudios recientes apuntan a A Coruña (1854). El guion lo formula con prudencia."
+  "nota_revision": "Fuentes: Wikipedia en castellano e inglés, Revista Quadernos de Criminología, COPE (Crímenes históricos), National Geographic Historia (no abierta por bloqueo). Caso histórico del siglo XIX; fuentes secundarias, sin acceso a las actas originales. DISCREPANCIAS CON EL V2/FICHA: (1) El v2 dice que los jueces «no consideraron probados» cuatro asesinatos; Wikipedia inglesa añade que fue por pruebas forenses de ataques de lobo reales, mientras que la Revista Quadernos de Criminología dice que no apareció ningún cadáver. El guion solo dice que no se consideraron probados. (2) El v2 daba por confirmada una condena de muerte «en apelación en 1853» y la conmutación; las fuentes se contradicen: sentencia de Allariz 6/4/1853 (garrote vil), sentencia de la Audiencia de A Coruña 9/11/1853 (cadena perpetua), recurso del fiscal, indulto real el 13 (Wikipedia en), 17 (Revista) o 20 de mayo de 1854. El guion dice «mayo de 1854» y reconoce que varía. (3) El v2 y la ficha dicen que la pena fue conmutada «tras el informe» de Philips; las fuentes dicen que Philips pidió examinar al reo y que no se conocen resultados; la reina llevó el caso al Supremo (COPE) y el indulto es real; el guion lo matiza. Identidad de Philips: Wikipedia en sugiere que pudo ser Joseph-Pierre Durand de Gros; no se menciona. (4) El v2 ponía la muerte «en Ceuta años después» o «en una cárcel gallega»: 14/12/1863, Ceuta, cáncer de estómago, según La Esperanza del 21/12/1863 (Revista, Wikipedia); el guion lo dice. (5) El v2 decía que Romasanta «huyó con documentación falsa al detectar sospechas»; según las fuentes ya era fugitivo desde 1844 por la muerte de un alguacil (condenado en rebeldía a diez años), y Antonio Gómez era su nombre desde entonces. (6) El v2 decía que se le relacionó con la muerte de un alguacil «en tierras de León»: Wikipedia: Ponferrada (León), 1844, alguacil Vicente Fernández. (7) Fecha de detención: Wikipedia inglesa dice septiembre de 1852; la Revista dice que ya estaba interrogado en Verín en agosto de 1852: el guion solo dice 1852. (8) COPE dice que el jurado lo condenó y que su abogado era Rúa Figueroa; Wikipedia no lo dice; el guion nombra al abogado según COPE. (9) Datos no incluidos: Wikipedia y COPE recogen que fue inscrito como «Manuela» al nacer y hay hipótesis (hermafroditismo, síndrome adrenogenital) que las fuentes más serias consideran sin confirmar; se menciona solo que hay «hipótesis» sin darlas. (10) La grasa/jabón: leyenda, nunca probada. (11) Víctimas: se omiten los nombres, incluidos los de los menores (caso histórico, pero la regla común pide fuente de que la familia haya hablado en público). Los 13 confesados y los 9 de la acusación se mantienen. La ficha dice 9: correcto (condenado por 9)."
 }

@@ -1,0 +1,117 @@
+{
+  "id": "aceite-colza",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Garrafas sin etiqueta",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El aceite de colza. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Garrafas sin etiqueta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 1 de mayo de 1981. En Torrejón de Ardoz muere un niño de ocho años. Los médicos habían hablado de una neumonía atípica. Nadie sospecha que no está solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En las semanas siguientes, los hospitales de Madrid y del centro y el noroeste de España se llenan de gente con fiebre, dolores musculares y problemas para respirar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una enfermedad que llena las urgencias de familias enteras no parece una infección corriente. Parece algo que todos han comido, o respirado, o bebido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante semanas se habló de un virus o de una bacteria. Pasó más de un mes antes de que se dijera lo que había detrás: un alimento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de junio de 1981, las autoridades señalaron como causa un aceite. Se vendía como aceite de mesa, sin etiqueta, en garrafas y a través de vendedores ambulantes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pregunta obvia: ¿cómo se vende aceite sin marca a miles de personas sin que nadie lo note? Porque no costaba mucho menos. Quien lo compraba creía hacer una compra normal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No era aceite de oliva. Era aceite de colza importado de Francia para uso industrial. Para que nadie lo comiera, se había desnaturalizado con anilina, una sustancia tóxica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Varios industriales intentaron quitarle ese desnaturalizante y lo desviaron al consumo humano. Es lo que la justicia dio por probado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está la clave del caso: el negocio. Un producto barato, comprado con un permiso para un uso, vendido para otro. Esa es la estafa. El resto fue la consecuencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Hospital Infantil Niño Jesús, en Madrid, fue donde se relacionó la enfermedad con el aceite. Ahí empezó a seguirse el rastro del aceite."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo unos veinte mil afectados. La sentencia de 1989 reconoció trescientas treinta muertes. Las asociaciones de afectados hablan de cifras mucho mayores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa diferencia no es un detalle. Cuando las cifras oficiales y las de las familias se separan tanto, suele ser porque hay muertes que nunca se llegaron a atribuir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fueron juzgados treinta y ocho aceiteros, con unos mil quinientos testigos y doscientos peritos. En 1989, la Audiencia Nacional condenó a varios de ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal Supremo revisó el caso en 1992. Condenó a los aceiteros por delitos contra la salud pública, estafa e imprudencia. Entre los nombres que recoge el análisis de la sentencia figuran Juan Miguel Bengoechea y Ramón Ferrero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y quedaba otra pregunta, la que más incomodaba: ¿no había controles? ¿Quién debía vigilar que el aceite industrial no acabara en una cocina?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una segunda causa, abierta en 1992, buscó la respuesta. En 1997, el Supremo condenó por imprudencia a dos altos funcionarios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y declaró al Estado responsable civil subsidiario: si los condenados no podían pagar las indemnizaciones, tendría que hacerlo el Estado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un punto que sigue sin cerrarse. Los científicos han estudiado durante décadas qué compuesto exacto causó la enfermedad, y el mecanismo todavía no se conoce del todo. La relación con el aceite, sí, está probada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy se sigue controlando a unos quince mil supervivientes. Según el especialista Manuel Posada, aproximadamente un tercio está bien, otro tercio tiene síntomas leves o moderados y otro tercio sufre complicaciones graves y crónicas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2008 se cerró la unidad especializada del Hospital Carlos III. Los afectados llevan años pidiendo una unidad de referencia que los atienda a todos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi última nota es para quien lea este expediente en un archivo y piense que fue un accidente. Fue un fraude. Hubo víctimas porque alguien eligió ganar dinero antes que preguntarse qué iba a comer la gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el niño de Torrejón, el primero que se reconoció. Y miles de personas que despertaron un día con un dolor que no se iba. Muchas siguen viviendo con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El aceite de colza. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "No se nombra a la primera víctima (menor). Cifras de muertos dispares: unos 300-330 (sentencia de 1989, OMS), más de 1.100 y entre 3.000 y 5.563 según asociaciones de afectados; el guion usa «330 reconocidas en la sentencia de 1989» y «unos trescientos» sin más. Fechas de las sentencias (1989 Audiencia Nacional; 1992 y 1997 Supremo) tomadas de la ficha e InDret. Penas exactas no contrastadas y fuera del guion. No se recoge la hipótesis de los plaguicidas. El mecanismo exacto de la toxina sigue sin aclarar (Environmental Health Perspectives 2002). El número de condenados en 1989 no se concreta."
+}

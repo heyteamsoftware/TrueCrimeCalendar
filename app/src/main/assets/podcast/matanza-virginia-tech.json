@@ -1,0 +1,105 @@
+{
+  "id": "matanza-virginia-tech",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Virginia Tech": "Virgínia Tec",
+    "Blacksburg": "Blácsburg",
+    "Norris Hall": "Nórris Jol",
+    "West Ambler Johnston": "Uést Ámbler Yónston",
+    "Seung-Hui Cho": "Sung-Ui Cho",
+    "Liviu Librescu": "Líviu Librésku",
+    "Bush": "Bush",
+    "NBC": "ene be zé"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Las puertas con cadena",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de Virginia Tech. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Las puertas con cadena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Blacksburg, Virginia, 16 de abril de 2007. Son casi las diez de la mañana. En Norris Hall, un edificio de aulas de la universidad Virginia Tech, varias puertas principales están cerradas por dentro con cadenas. Quien las ha puesto ya ha estado antes en otro edificio del campus."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Unas cadenas puestas por dentro no son un arrebato. Son una decisión pensada, tomada con tiempo. Cuando las veo en el informe, entiendo que lo que había pasado por la mañana no había terminado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo había empezado hacia las siete y cuarto, en la residencia West Ambler Johnston. Allí murieron una estudiante de primer curso y un residente encargado de la planta. La policía llegó enseguida. Creyó que era un episodio aislado, una disputa de pareja, y fue tras el novio de la chica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Es un error comprensible, y lo apunto igual. La policía trabajó con la hipótesis más probable, no con la correcta. Y mientras tanto, el campus seguía abierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La universidad avisó por correo electrónico a la comunidad a las nueve y veintiséis. Habían pasado unas dos horas desde el primer ataque. Unos minutos más tarde empezó el segundo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Duró unos diez minutos. En total murieron treinta y dos personas, veintisiete estudiantes y cinco profesores. Diecisiete personas resultaron heridas de bala y otras seis se hirieron al saltar por las ventanas. Cuando la policía entraba en el edificio, el autor se quitó la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a repetir lo que pasó dentro de las aulas. Anoto algo que sí está documentado: la gente se defendió. Pusieron mesas contra las puertas. Un profesor, Liviu Librescu, superviviente del Holocausto, sujetó la puerta con su cuerpo mientras sus alumnos salían por las ventanas. Él murió allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor se llamaba Seung-Hui Cho. Tenía veintitrés años, era estudiante de último curso de Inglés y había nacido en Corea del Sur. Llegó a Estados Unidos con su familia en 1992. Actuó solo. Entre un ataque y otro mandó a la cadena NBC un paquete con fotografías y un vídeo, que llegó dos días después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se ha escrito mucho sobre sus motivos, y no les voy a dar más espacio. Las autoridades no hallaron indicios de que hubiera elegido a sus víctimas una por una. Lo que le interesa a un archivo es otra cosa: lo que se vio antes de ese día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005, tras las acusaciones de acoso de dos compañeras, un juez especial de Virginia lo declaró enfermo mental y le ordenó seguir un tratamiento ambulatorio. Como no fue ingresado, pudo comprar armas. Y algunos profesores se habían preocupado por sus escritos violentos en clase."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El gobernador de Virginia nombró un panel de revisión. Su informe, de agosto de 2007, criticó a los responsables de la universidad por no actuar de un modo que quizá habría reducido el número de víctimas. Señaló también fallos en la atención a la salud mental y una mala interpretación de las leyes de privacidad, que impidió compartir información."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta del informe no es una persona sola. Es que cada institución conocía un trozo: la universidad, el juzgado, el sistema de antecedentes. Y nadie tenía el cuadro entero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo consecuencias. Virginia cerró un vacío legal que permitía comprar armas a personas declaradas con problemas mentales. En enero de 2008, el presidente Bush firmó una ley federal para mejorar los registros del sistema nacional de antecedentes. Y en 2011, el Departamento de Educación multó a Virginia Tech por no avisar a tiempo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hubo juicio. El único autor había muerto. Un expediente así no termina con una sentencia que leer. Termina con una pregunta: qué se habría podido hacer entre las siete y cuarto y las nueve y cuarenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron treinta y dos personas, de entre dieciocho y setenta y seis años. Eran estudiantes y profesores de distintas carreras, religiones y países."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cada 16 de abril, a medianoche, en la universidad se enciende una vela ceremonial. Se leen los treinta y dos nombres, y los cadetes montan guardia durante treinta y dos minutos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La universidad pide algo sencillo: vivir por treinta y dos. Yo apunto lo mismo en este archivo: que se les recuerde a ellos, y no a quien los mató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de Virginia Tech. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Se evitan los detalles del ataque y no se nombra a las víctimas, salvo al profesor Liviu Librescu (hecho público y muy difundido: sujetó la puerta de su aula; Wikipedia en inglés). Fuentes abiertas: History.com (hora, 9:40, cadenas, paquete a NBC el 18 de abril, multa de 2011), Wikipedia en inglés (correo de las 9:26, juez especial de 2005, ley NICS firmada el 5 de enero de 2008, informe del panel y privacidad) y la web oficial We Remember (edades de 18 a 76, vela y 32 minutos de guardia a medianoche; la web no explicita 'vivir por 32'; el lema 'Live for 32' aparece en su portada). La multa de 2011 solo la da History.com. 'Disputa de pareja' y persecución del novio: History.com. 'Quien ha puesto las cadenas ya ha estado antes en otro edificio' y la hora 'casi las diez' son aproximaciones de las fuentes. No se leyó entero el PDF del panel."
+}
