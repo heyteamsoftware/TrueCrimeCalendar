@@ -1,0 +1,123 @@
+{
+  "id": "birmingham-pubs",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Birmingham": "Bírmingam",
+    "Mulberry Bush": "Málberi Bush",
+    "Tavern in the Town": "Távern in de Taun",
+    "Rotunda": "Rotónda",
+    "Birmingham Post": "Bírmingam Post",
+    "Paddy Hill": "Pádi Jil",
+    "Hugh Callaghan": "Hiu Cálagan",
+    "Gerard Hunter": "Yérard Hánter",
+    "Richard McIlkenny": "Ríchard Maklkeni",
+    "William Power": "Uíliam Páuer",
+    "John Walker": "Yon Uóker",
+    "Judith Ward": "Yúdit Uord",
+    "IRA": "i erre a",
+    "Kenneth Baker": "Kénet Béiker"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Ocho horas y once minutos",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los atentados de los pubs de Birmingham. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Ocho horas y once minutos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Birmingham, 21 de noviembre de 1974. A las ocho y once minutos de la noche suena un teléfono en la redacción del periódico Birmingham Post. Una voz da un aviso en clave: habrá bombas en dos edificios del centro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Menciona la Rotunda y la oficina de Hacienda, en la calle New Street. No dice nada de pubs."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en lo que falta. Dos pubs llenos un jueves por la noche, y el aviso apunta a dos oficinas. Con un mensaje así, la policía buscaba en el sitio equivocado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera bomba estalla a las ocho y dieciocho en el Mulberry Bush, a los pies de la Rotunda. Dos minutos después estalla la segunda en el Tavern in the Town, un pub en un sótano de New Street."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron veintiuna personas y más de ciento ochenta resultaron heridas. Entre las víctimas había adolescentes. Los dos pubs estaban llenos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los primeros agentes llegaron a la Rotunda antes de la primera explosión, pero buscaron dentro del edificio de oficinas, creyendo que la bomba estaba allí. Ninguno de los pubs fue evacuado. El aviso había llegado a los agentes de a pie hacia las ocho y catorce: quedaban cuatro minutos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La investigación judicial de 2019 concluyó que el aviso fue completamente inadecuado y que la policía de la ciudad estaba escasa de efectivos: había agentes desplazados a otro lugar por un funeral. No encontró errores de la policía en la respuesta al aviso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma noche, la policía detuvo a seis hombres irlandeses que viajaban hacia Belfast. Eran Hugh Callaghan, Paddy Hill, Gerard Hunter, Richard McIlkenny, William Power y John Walker."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un antiguo sargento declaró en 2019 que, de haber sabido que el aviso llevaba una palabra clave del IRA, habrían evacuado en vez de buscar. Un detalle de procedimiento, que importaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí empieza el segundo caso, el de la justicia. Seis hombres detenidos por viajar de noche, justo después de una masacre, con un país pidiendo culpables."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1975 fueron condenados a cadena perpetua. Según los resúmenes del caso, hubo interrogatorios con malos tratos y unas pruebas forenses defectuosas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron casi diecisiete años en prisión. Durante ese tiempo fueron llamados los mayores asesinos en masa de Gran Bretaña."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que se oiga esto bien. Mientras ellos estaban dentro, los verdaderos autores seguían libres, y las familias de los veintiún muertos esperaban una respuesta que no era esa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de marzo de 1991, el Tribunal de Apelación de Londres anuló las condenas. El juez dijo que, a la vista de las nuevas pruebas, las apelaciones se aceptaban y los hombres quedaban libres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salieron a la calle entre aplausos de cientos de personas. Uno de ellos preguntó, según el Guardian, por qué Judith Ward seguía en prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquel mismo día, el ministro del Interior, Kenneth Baker, anunció una comisión real sobre el sistema de justicia penal. Era la primera vez que se reconocía que la ley había fallado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para las víctimas del atentado la historia no terminó ahí. En abril de 2019, un jurado de investigación judicial concluyó que los veintiún muertos lo fueron de forma ilegal. El jurado señaló al IRA como autor de los atentados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie ha sido juzgado ni condenado por los atentados de los pubs de Birmingham."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es lo que queda sin aclarar. Un crimen sin condenados, y seis hombres inocentes que pagaron por él. Ninguna de esas dos heridas se cierra con la otra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que quede en el archivo la lista de las veintiuna personas que salieron una noche de jueves a tomar algo con amigos y no volvieron a casa. Y la de seis hombres que volvieron a casa casi diecisiete años tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Los atentados de los pubs de Birmingham. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver y error judicial. Nadie ha sido condenado por los atentados. Se dice que las investigaciones judiciales de 2019 concluyeron que el IRA Provisional los cometió y que 21 personas murieron de forma ilegal. No se nombra a los cuatro presuntos implicados que citó un antiguo miembro del IRA (nunca acusados). Fuentes abiertas: The Guardian (15/3/1991), The Irish Times (5/4/2019), CAIN (solo el contexto de 1974; no recoge el detalle de los atentados en el texto abierto). Discrepancia: la ficha sitúa la anulación en el Royal Courts of Justice y The Guardian habla de familias y gente «fuera del Old Bailey»; el guion dice solo «Tribunal de Apelación de Londres». Heridos: 220 según Irish Times; la ficha da 180-220; el guion dice «más de ciento ochenta». Horas: aviso 20:11 y bombas 20:18 y 20:20 (Irish Times). Víctimas menores: no se nombran (1974, pero sin constancia de familia pública); solo se dice que había adolescentes. Se omite el trato en los interrogatorios porque las fuentes abiertas no detallan los malos tratos. El guion no entra en la prueba forense defectuosa más allá de decir que el Tribunal de Apelación aceptó nueva prueba. Pronunciaciones a oído."
+}

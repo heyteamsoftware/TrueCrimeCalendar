@@ -1,0 +1,122 @@
+{
+  "id": "robo-lufthansa-jfk",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Lufthansa": "Lúftansa",
+    "John F. Kennedy": "Yon F. Kénedi",
+    "Kennedy": "Kénedi",
+    "Louis Werner": "Luis Wérner",
+    "Werner": "Wérner",
+    "Jimmy Burke": "Yími Burk",
+    "Burke": "Burk",
+    "Lucchese": "Lukése",
+    "Henry Hill": "Énri Jil",
+    "Brooklyn": "Brúklin",
+    "Vincent Asaro": "Vínsent Asáro",
+    "Asaro": "Asáro",
+    "Valenti": "Valénti",
+    "Gaspare Valenti": "Gaspáre Valénti",
+    "Nueva York": "Nueva York",
+    "Goodfellas": "Gudfélas",
+    "Brink's": "Brinks"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Edificio 261",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de Lufthansa. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Edificio 261."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueva York, aeropuerto John F. Kennedy. Son las tres de la madrugada del 11 de diciembre de 1978. En el edificio 261, la terminal de carga de Lufthansa, unos hombres enmascarados entran sin forzar nada. Dentro hay empleados del turno de noche. Y una cámara acorazada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Retienen al personal. Esposan a los trabajadores en una sala de descanso. Y obligan a un supervisor a abrir la cámara. Todo dura algo más de una hora."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un robo así no sale de la nada. Dinero en efectivo de bancos europeos, sin marcar, que a veces pasaba la noche en el aeropuerto cuando los furgones blindados ya se habían ido. Alguien tuvo que saberlo desde dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llevaron más de cinco millones de dólares en efectivo y casi un millón en joyas. Fue, en su momento, el mayor robo en dinero en efectivo cometido en Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie resultó herido en el asalto. Es lo que lo hace distinto de lo que vino después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y lo que vino después fue el verdadero problema de la banda. Una furgoneta abandonada en Brooklyn. Huellas dentro. Un golpe perfecto con un error muy tonto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La información había salido de un empleado de la propia empresa de carga, endeudado por el juego: Louis Werner. Había contado el plan a un intermediario, y este a su vez a una banda ligada a la familia mafiosa Lucchese."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los investigadores, el cerebro era James Burke, «Jimmy el Caballero», un delincuente de esa órbita. Burke nunca fue acusado del robo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en esa palabra: según. Por lo que he leído, la lista de sospechosos era corta y nadie quiso hablar. Y entonces empezaron a desaparecer los que sabían demasiado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En las semanas y meses siguientes, varios implicados fueron asesinados o desaparecieron. En el verano de 1979, ocho hombres relacionados con el robo habían muerto o desaparecido, según una de las crónicas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nadie quiso cobrar a plena luz. Quien se enriquecía llamaba la atención. Y quien llamaba la atención, o quien podía hablar, no duraba. Es la regla de una banda que no se fía ni de sí misma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI no pudo relacionar a la banda con el robo. Lo que sí pudo, con el testimonio del hombre que había ideado el plan, fue condenar a Werner. Se negó a delatar a nadie. En 1979, a quince años de cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tengo que anotar algo importante. Werner fue el único condenado por el robo. Es el hombre que pasó la información. No el que cargó la furgoneta, ni el que repartió el dinero, ni el que lo planeó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo otros procesos contra los mafiosos de la época, pero por delitos distintos. En 2015, un hombre de ochenta años, Vincent Asaro, fue juzgado en Brooklyn, acusado de ayudar a planear el golpe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía se apoyó en un primo suyo, que declaró que el botín había sido mucho mayor de lo esperado: seis millones, en lugar de dos. La defensa dijo que los testigos mentían para reducir sus propias penas. El jurado lo absolvió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución es una absolución. Nadie más ha respondido ante un tribunal por el robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El dinero nunca se recuperó, ni siquiera en parte importante. Medio siglo después, nadie sabe adónde fue a parar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia llegó al cine en «Uno de los nuestros», de Martin Scorsese, en 1990. Hizo famoso el golpe. Pero ocultó, quizá, a quienes pagaron el precio después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El expediente no tiene héroes. Hay un empleado endeudado, una furgoneta abandonada y muchos nombres de hombres que no llegaron a envejecer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de Lufthansa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Botín: más de cinco millones en efectivo y casi un millón en joyas (History); unos 5,875 millones (Wikipedia, según la ficha); «seis millones» según el testigo Valenti (AP/CSM). El guion dice «unos seis millones de dólares en total». Burke nunca fue acusado del robo: el guion lo presenta como «según los investigadores» y no dice que ordenara ningún asesinato (History atribuye a Burke la muerte del conductor; la ficha no lo respalda ni lo niega y se deja fuera). El guion dice «ocho hombres relacionados con el robo habían muerto o desaparecido» (History, verano de 1979). Pena de Werner: 15 años (ficha); History solo dice que fue condenado. Asaro fue absuelto en noviembre de 2015 (CSM); el guion lo cuenta como absolución sin más. La película «Uno de los nuestros» es Goodfellas. Se deja fuera el plan original, el papel de Hill y las condenas posteriores de Burke y Vario por otros delitos."
+}

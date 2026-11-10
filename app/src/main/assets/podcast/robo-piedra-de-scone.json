@@ -1,0 +1,126 @@
+{
+  "id": "robo-piedra-de-scone",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Scone": "Scun",
+    "Westminster": "Uéstminster",
+    "Glasgow": "Glásgou",
+    "Ian Hamilton": "Íen Jámilton",
+    "Gavin Vernon": "Gávin Vérnon",
+    "Alan Stuart": "Álan Stiúart",
+    "Kay Matheson": "Kei Mázeson",
+    "Scottish Banner": "Scótish Bánner",
+    "Kent": "Kent",
+    "Ford Anglia": "Ford Ánglia",
+    "Robert Gray": "Róbert Grei",
+    "Sally Foster": "Sali Fóster",
+    "Mitchell": "Mítchel",
+    "Arbroath": "Arbróaz",
+    "Royal Mile": "Róyal Máil",
+    "Perth": "Perz",
+    "Edimburgo": "Edimburgo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un abrigo en el asiento trasero",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de la Piedra de Scone. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un abrigo en el asiento trasero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, madrugada del día de Navidad de 1950. Un policía se acerca a un coche aparcado junto a la abadía de Westminster. Dentro, una pareja. Y en el asiento de atrás, tapado con un abrigo, un bloque de piedra de unos ciento cincuenta kilos que acaba de salir de la abadía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es la escena más arriesgada del expediente. Un agente a pocos pasos de una piedra robada de Westminster, y no la ve. Según la crónica, se limitó a mandar circular a la pareja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que acababan de sacar era la Piedra de Scone, también llamada la Piedra del Destino. Durante siglos, los reyes de Escocia se coronaron sobre ella. En 1296 Eduardo Primero de Inglaterra se la llevó y desde entonces estaba bajo el trono de la coronación en Westminster."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores eran cuatro estudiantes de la Universidad de Glasgow, partidarios de que Escocia tuviera más autonomía: Ian Hamilton, Gavin Vernon, Alan Stuart y Kay Matheson."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No eran ladrones. Querían un símbolo. Y lo hicieron en la madrugada de Navidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Scottish Banner, Hamilton había intentado antes esconderse en la abadía al cerrar, pero un vigilante nocturno lo descubrió y lo echó. Volvieron en la madrugada de Navidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres de ellos forzaron una puerta con una palanca y entraron. Kay Matheson esperaba al volante de un Ford Anglia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los detalles técnicos de la apertura no me interesan. Sí uno de los fallos: la piedra pesaba demasiado para unos estudiantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al arrastrarla hacia la puerta, se partió en dos. Hamilton se llevó el trozo pequeño, de unos cuarenta kilos. El grande se quedó en la abadía hasta que él volvió solo a buscarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esconder la piedra fue otra aventura. Una parte quedó enterrada en Kent. La otra se la llevó Matheson a casa de un amigo. Semanas después, ambos fragmentos llegaron a Escocia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La policía reaccionó con una ironía histórica. Por primera vez en unos cuatrocientos años, se cerró la frontera entre Escocia e Inglaterra para buscarla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Glasgow, un cantero, Robert Gray, unió los dos trozos con espigas metálicas. Una investigación posterior de la profesora Sally Foster descubrió que regaló treinta y cuatro fragmentos de su trabajo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de abril de 1951, la piedra apareció en la abadía de Arbroath, cubierta con una bandera escocesa. Era el lugar donde se firmó la Declaración de Arbroath en 1320."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Cómo llegó la policía a los estudiantes? Según Scottish Banner, los detectives supieron que Hamilton había sacado de la biblioteca Mitchell de Glasgow todos los libros sobre la piedra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ninguno fue procesado. El Gobierno británico decidió que no era de interés público llevarlos a juicio. La piedra volvió a Londres y se usó en la coronación de Isabel Segunda en 1953."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una duda que se repite: ¿es la piedra auténtica? Historic Environment Scotland responde que sí, y en 1998 los geólogos la identificaron como una arenisca de la zona de Scone."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La piedra regresó a Escocia en 1996. El 30 de noviembre, día de San Andrés, unas diez mil personas la vieron pasar por la Royal Mile camino del castillo de Edimburgo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy se exhibe en el Museo de Perth, según Scottish Banner, y viajó brevemente a Londres para la coronación de Carlos Tercero en 2023."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un caso raro: un robo sin víctimas, sin violencia, que se recuerda con cariño. Pero también hay un daño real: una piedra de unos cuatrocientos millones de años, partida en dos por querer demostrar algo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una Navidad, cuatro estudiantes y un abrigo bastaron para devolver a Escocia su historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de la Piedra de Scone. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Scottish Banner (2025) e Historic Environment Scotland (20 hechos). Discrepancias: HES habla de «tres estudiantes» y de que se rompió una esquina; Scottish Banner y la ficha, cuatro estudiantes (tres entraron) y rotura en dos. Escondites: la ficha dice Kent y las Midlands; Scottish Banner, Kent y casa de un amigo (el guion lo dice así). Hora: madrugada del 25. El policía y el abrigo: solo Scottish Banner. «Mientras Londres dormía» y «la abadía vacía» son contexto, no citados. Autenticidad: HES (hecho 18, es la piedra de 1296) y hecho 17 (1998, arenisca de Scone). «La piedra volvió a Londres» y «coronación de 1953» de Scottish Banner. Museo de Perth: Scottish Banner (la ficha dice que se guarda en Edimburgo desde 1996). Revisar la pronunciación de Scone, Arbroath, Foster."
+}

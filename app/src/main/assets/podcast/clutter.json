@@ -1,0 +1,108 @@
+{
+  "id": "clutter",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Clutter": "Clóter",
+    "Holcomb": "Jóucom",
+    "Kansas": "Cánsas",
+    "Richard Hickock": "Ríchard Jíkok",
+    "Hickock": "Jíkok",
+    "Perry Smith": "Pérri Esmiz",
+    "Smith": "Esmiz",
+    "Truman Capote": "Trúman Capóti",
+    "Garden City": "Gárden Síti",
+    "Lansing": "Lánsing",
+    "Floyd Wells": "Flóid Uels"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una caja fuerte que no existía",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de la familia Clutter. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una caja fuerte que no existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Holcomb, Kansas, mediados de noviembre de 1959. Un pueblo diminuto, con una vía de tren que lo cruza, una oficina de correos, una gasolinera que también es café y una escuela moderna. Allí viven granjeros prósperos. Hasta aquella mañana, casi nadie fuera de la zona había oído hablar de Holcomb."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El domingo 15 de noviembre se descubrió en una granja a las afueras que algo terrible había ocurrido durante la noche. La familia Clutter había sido asesinada. Herbert, un agricultor próspero, su mujer, Bonnie, y sus dos hijos adolescentes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una granja aislada, una familia respetable, un botín ridículo. Nada de esto tenía sentido para quienes vivían allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mataron a las cuatro personas de la casa a tiros. No daremos detalles. Los autores se llevaron una radio portátil, unos prismáticos y menos de cincuenta dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me inquieta es la desproporción. Cuatro vidas por un botín de cincuenta dólares. Y ni siquiera por eso: iban a por otra cosa, y esa cosa no existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa cosa era una caja fuerte. Un exconvicto, Floyd Wells, que había trabajado como peón para Herbert Clutter, le había hablado de ella en la prisión a su compañero de celda, Richard Hickock. Hickock creyó que podía hacerse con el dinero y empezar de nuevo en México."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En realidad, Clutter no tenía caja fuerte. Hacía casi todos sus pagos con cheques. Pero Hickock recurrió a otro excompañero de prisión, Perry Smith, y los dos recorrieron en coche más de seiscientos kilómetros hasta Holcomb."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hombres en libertad condicional, un dato falso pasado de boca en boca en una cárcel, y un plan que creyeron perfecto. Todo, por un rumor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores de la oficina de investigación de Kansas tenían muy poco. Durante semanas no hubo detenidos. La clave llegó por el mismo camino por el que había empezado: el antiguo compañero de celda, Wells, habló y dio los nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hickock y Smith huyeron. El 30 de diciembre de 1959, seis semanas después de los crímenes, fueron detenidos en Las Vegas, en Nevada. Los llevaron de vuelta a Kansas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en marzo de 1960 en Garden City. El jurado los declaró culpables de asesinato en primer grado, con cuatro cargos, y los condenaron a muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pasaron cinco años de espera. El 14 de abril de 1965 los dos fueron ahorcados en la penitenciaría estatal de Kansas, en Lansing. No hay duda sobre su culpabilidad: ambos fueron condenados y ejecutados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El escritor Truman Capote se enteró del crimen, viajó a Kansas con su amiga Harper Lee. Entrevistaron a vecinos e investigadores. Capote tardó seis años: el resultado fue «A sangre fría», que The New Yorker publicó por entregas en 1965 y salió como libro en 1966."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hago una advertencia. «A sangre fría» es un libro, no un expediente. Lo que sabemos de aquella noche procede en parte de lo que contaron los dos condenados, y cada uno contó una historia distinta de quién hizo qué. Por eso cuido lo que afirmo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El libro convirtió el caso en una referencia del género criminal. Pero también corre el riesgo de que recordemos más a los asesinos que a quienes murieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Herbert Clutter tenía cuarenta y ocho años. Era un agricultor próspero y activo en su comunidad. Bonnie, su mujer, tenía cuarenta y cinco. Sus dos hijos, adolescentes, iban al instituto de Holcomb y participaban en el club agrícola 4-H."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Unas mil personas asistieron al funeral en Garden City, y la mayoría acudió al entierro. Eso es lo que quiero dejar en el archivo: no una caja fuerte que no existía, sino una familia a la que un pueblo entero despidió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de la familia Clutter. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: The New Yorker (Capote, 25/9/1965; solo el arranque sobre Holcomb), Wikipedia en inglés (detalles de la ficha: Wells, la caja fuerte inexistente, botín, detención en Las Vegas el 30/12, juicio, ejecución a las 0:41 y 1:19 del 14/4/1965, funeral de unas mil personas, edades de los padres, Capote y Harper Lee). Britannica, Garden City PD y Time no se abrieron o no dieron texto. Segunda fuente de la detención en Las Vegas: solo Wikipedia (ya señalado en la ficha). Cómo se descubrieron los cuerpos: la ficha dice solo «domingo 15» (New Yorker), no se cuentan quién los encontró. Los hijos adolescentes no se nombran (15 y 16 años). Se evita todo detalle de los hechos. «Más de seiscientos kilómetros» sale de las 400 millas de Wikipedia. «Más de cinco años en el corredor de la muerte»: de marzo de 1960 a abril de 1965 (deducción). Fecha del juicio (marzo de 1960) de la ficha. Que la oficina de investigación de Kansas investigara: Wikipedia. Discrepancia ficha/fuentes: ninguna; matiz de Britannica sobre el 14 como «último día». Pronunciaciones a oído: Clutter, Holcomb, Hickock."
+}

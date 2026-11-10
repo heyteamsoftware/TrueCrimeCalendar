@@ -1,0 +1,122 @@
+{
+  "id": "asesinato-dian-fossey",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dian Fossey": "Dían Fósi",
+    "Fossey": "Fósi",
+    "Karisoke": "Karisóke",
+    "Virunga": "Virúnga",
+    "Nyiramacibili": "Ñiramachibíli",
+    "Louisville": "Lúisvil",
+    "Time": "Táim",
+    "Ruhengeri": "Ruenyeri",
+    "Wayne McGuire": "Uéin Maguáir",
+    "McGuire": "Maguáir",
+    "Ian Redmond": "Íen Rédmond",
+    "Deseret News": "Dezeré Niús",
+    "Jane Lancaster": "Yein Lánkaster"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La mujer que vivía sola en el bosque",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Dian Fossey. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La mujer que vivía sola en el bosque."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ruanda, 27 de diciembre de 1985. En un campamento de investigación, entre los volcanes Virunga, hallan sin vida a la mujer que llevaba casi dieciocho años viviendo en ese bosque. Está en el dormitorio de su cabaña de dos habitaciones. Dian Fossey está muerta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Nadie ha demostrado nunca quién la mató. Una cabaña aislada, de noche, en una montaña llena de furtivos. Cuando todos tienen motivos, ninguna pista basta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dian Fossey tenía cincuenta y tres años y era una primatóloga estadounidense, antigua terapeuta ocupacional de Louisville. Desde 1967 estudiaba a los gorilas de montaña en el centro Karisoke."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los ruandeses la llamaban Nyiramacibili: la mujer que vive sola en el bosque. Según la revista Time, sus colegas decían que se sentía más cómoda con los gorilas que con las personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y los gorilas estaban en peligro. Fossey no se limitaba a observarlos. Combatía a los cazadores furtivos con métodos duros: según Time, quemaba chozas, destruía trampas y pagaba a guardias para que le llevaran sospechosos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió la noche del 26 de diciembre, y su cuerpo se halló la mañana del 27. Al principio, sus colegas sospecharon de los furtivos a los que se había enfrentado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es la hipótesis más repetida en los años siguientes, y la que mantienen amigos de su ayudante. Pero atiende: es una hipótesis, no una conclusión. Nadie la ha demostrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades ruandesas siguieron otra línea. En 1986 anunciaron una orden de arresto contra Wayne McGuire, un estudiante de doctorado estadounidense, su último ayudante de investigación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un funcionario ruandés lo llamó autor principal del asesinato y dijo que cinco trabajadores ruandeses del campamento eran cómplices. El supuesto móvil, según Time, era robar los datos que Fossey había reunido durante años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "McGuire salió de Ruanda a finales de julio de 1986, tras oír rumores de su detención. Estados Unidos no tiene tratado de extradición con Ruanda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí debo ser claro: un tribunal de Ruhengeri lo condenó a muerte en ausencia. Pero él siempre negó haberlo hecho y nunca fue juzgado en un tribunal estadounidense. Para este archivo, es un condenado en rebeldía que se declaró inocente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fecha de la condena no está clara: una fuente la sitúa en diciembre de 1986 y otra en 1987. Y tampoco el método de ejecución previsto: horca según una, fusilamiento según otra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Había dudas. El biólogo Ian Redmond, que conocía a Fossey y a McGuire, llamó al cargo un disparate. Según Time, McGuire llevaba cinco meses en Ruanda cuando ocurrió todo, hablaba poco francés y se quedó siete meses más en el campamento tras la muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1988, el periódico Deseret News recogió su versión. McGuire dijo que la pregunta de fondo seguía sin respuesta: quién la mató y por qué. Se negó a especular sobre el culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La antropóloga Jane Lancaster, que lo conocía, opinó que el gobierno ruandés le culpó por ser la única persona blanca en el campamento además de Fossey. Es una opinión, no una prueba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tampoco las pruebas de Ruanda se conocen en detalle. Time cita al funcionario ruandés, que hablaba de pruebas serias y corroboradas. Pero esas pruebas no se hicieron públicas, al menos en las fuentes que he podido leer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso sigue sin culpable aceptado. Y mientras tanto, la fama de Fossey creció con el libro y la película Gorilas en la niebla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fossey está enterrada en el propio campamento, al lado de los gorilas que protegió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda es su trabajo: dieciocho años en el bosque, junto a los gorilas de montaña, y una lucha contra los furtivos que acabó siendo toda su vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una mujer que eligió vivir lejos de todos, y murió sin que se aclare quién la mató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Dian Fossey. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: no se presenta a McGuire como autor; se dice que fue condenado en rebeldía en Ruanda, que siempre lo negó y que nunca fue entregado ni juzgado en EE. UU. Fuentes abiertas: Time (1986) y Deseret News (1988). Discrepancias: condena en diciembre de 1986 y horca (UPI, solo extracto, según la ficha) frente a 1987 y fusilamiento (Scripps Howard): el guion lo dice así. Time no dice quién halló el cuerpo; la fecha de la muerte (noche del 26, hallazgo el 27) sale de la ficha y Time/Deseret dan el 27. Sobre Lancaster y la hipótesis de los furtivos: opiniones atribuidas. El guion no describe método ni heridas. Pasaje «enterrada en el campamento» sale de la ficha (loc: cabaña y sepultura), no de las fuentes abiertas; la cifra de los gorilas («cuántos quedaban») es una frase general, revisar. Pronunciación a oído: Nyiramacibili, Ruhengeri."
+}
