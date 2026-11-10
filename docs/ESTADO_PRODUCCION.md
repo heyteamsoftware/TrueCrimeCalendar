@@ -123,3 +123,11 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - Los vínculos entre meses de `docs/VINCULOS_PROPUESTOS.md` aún no están puestos.
 - Pendiente de decisión del usuario: las fechas de 7 casos estrella (`docs/DECISIONES_FECHAS_ESTRELLA.md`).
 - Siguiente fase: guiones de los 276 casos nuevos (una cinta cada uno), por mitades de mes.
+
+## 10 de noviembre, noche: sesión interrumpida
+
+- Al cerrarse la sesión se cortaron 13 agentes. Se relanzaron como agentes nuevos que siguen desde lo guardado:
+  - guiones estrella (bryant, holmes, corll, hogel);
+  - casos nuevos de febrero 1-15 y agosto, septiembre, octubre 1-15 y octubre 16-31.
+- **Pendiente de relanzar** (se hará poco a poco): noviembre 1-15, noviembre 16-30, diciembre 1-15, diciembre 16-31 y la verificación de los guiones nuevos de enero.
+- Guiones validados: 295 de 297 (fallan por pocas palabras matanza-san-valentin, puerto-hurraco y thompson-bywaters, que ya tienen agente asignado).

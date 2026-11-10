@@ -1,0 +1,111 @@
+{
+  "id": "atentado-carrero-blanco",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Carrero Blanco": "Carréro Blanco",
+    "Claudio Coello": "Cláudio Coéyo",
+    "Txikia": "Chikia",
+    "Dodge Dart": "Dodch Dart",
+    "Pérez Mogena": "Pérez Mogéna",
+    "Bueno Fernández": "Bueno Fernández"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un bajo en Claudio Coello",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Operación Ogro. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un bajo en Claudio Coello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 20 de diciembre de 1973. Son casi las nueve y media de la mañana. Un coche oficial, un Dodge Dart negro, sale de la iglesia de San Francisco de Borja, en la calle Serrano, y se dirige hacia su casa. Es el trayecto de todos los días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De pronto, una explosión abre un cráter en la calle Claudio Coello. El coche sale despedido por encima de un edificio de cinco plantas y cae en el patio interior de una casa de los jesuitas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un coche blindado, pesado, volando por encima de un tejado. Eso no es un accidente ni un atentado improvisado. Eso es una obra de ingeniería, y alguien llevaba meses trabajando en ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro viajaba el presidente del Gobierno, el almirante Luis Carrero Blanco, mano derecha del dictador Francisco Franco. También murieron su conductor y su escolta. Fueron tres muertos y siete heridos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "ETA lo reivindicó ese mismo día. Lo llamó Operación Ogro. El comando Txikia había alquilado un bajo en la calle Claudio Coello, haciéndose pasar por escultores, y desde allí excavó un túnel hasta el centro de la calzada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me inquieta es la rutina. Carrero iba a misa cada mañana, por el mismo recorrido. Tenía pocas medidas de seguridad. Quien vigilaba su rutina durante semanas solo necesitaba tener paciencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según relata la prensa, los autores trabajaban a plena luz del día, con monos de trabajo, tendiendo cables y sacando tierra. Nadie sospechó. Después colocaron la carga bajo la calzada y esperaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La policía de la época tenía otra explicación para los vecinos: unas obras. Hoy sabemos que bajo ellos había un túnel que cruzaba la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El comando detonó la carga a distancia, al paso del coche. Después huyeron. La investigación siguió, pero nadie fue juzgado nunca por el atentado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según varias fuentes, quienes fueron identificados como autores materiales se beneficiaron de la amnistía de 1977, ya en la Transición. El caso se archivó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí empiezan las sombras. Hay autores que sostienen que ETA fue solo la mano ejecutora y que más gente salió ganando con aquella muerte. Otros, como el historiador Gaizka Fernández Soldevilla, responden que el sumario, de más de tres mil folios, basta para explicar lo ocurrido sin teorías conspirativas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo digo con claridad: son tesis de autores, no hechos probados. Lo que sí está probado es que ETA lo planeó, lo ejecutó y lo reivindicó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para muchos españoles de la época, el atentado cambió la historia. Franco estaba ya enfermo y Carrero era el hombre que debía garantizar la continuidad del régimen. Según los historiadores, su muerte desestabilizó la sucesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero la historia grande ha tapado a las personas. Fernández Soldevilla llama «los grandes olvidados» a las otras dos víctimas mortales y a los siete heridos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "José Luis Pérez Mogena, el conductor, tenía treinta y tres años. Estaba casado y tenía dos hijos. Juan Antonio Bueno Fernández, el inspector que hacía de escolta, tenía cincuenta y uno, era natural de Maranchón, en Guadalajara, y estaba casado, con un hijo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hombres que cumplían con su trabajo aquella mañana. No eligieron estar en ese coche, y casi nunca se les nombra cuando se cuenta este caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También el almirante tenía familia: casado, con cinco hijos. Aquel día murió a los setenta años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dejo una pregunta abierta para el archivo: quién más supo de aquel túnel, y qué se hizo con lo que se sabía. Los autores de los libros no se ponen de acuerdo, y sin juicio no habrá respuesta oficial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la calle Claudio Coello ya no hay cráter. Hay tráfico, y portales como los demás. Pero hay tres nombres que merecen no perderse en la historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Operación Ogro. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Explosivo: ocho kilos de goma-2 (EFE) o cincuenta de dinamita (El Independiente): no se da cifra. Hora: 9:27 (El Independiente) o hacia las 9:30: el guion dice «hacia las nueve y media». Altura del vuelo del coche: 20 m (EFE) o 35-40 m (El Independiente): no se da; solo «por encima de un edificio». Composición del comando: EFE nombra a Ezkerra, Wilson y Argala; Fernández Soldevilla y Wikipedia, otros: no se nombra a nadie. Amnistía de 1977: Wikipedia y Onda Vasca (fuente menos sólida); EFE confirma solo que nadie fue juzgado; el guion dice «según varias fuentes». Teorías sobre quién más se beneficiaba (Cerdán, Villar, vía EFE) se atribuyen y se contrapone la tesis de Fernández Soldevilla (el sumario basta para explicar los hechos); no se afirma nada sobre implicación de terceros. Edades y familias de las víctimas: Fernández Soldevilla (The Objective). Siete heridos, entre ellos dos niñas: The Objective. Se evitan detalles gráficos."
+}

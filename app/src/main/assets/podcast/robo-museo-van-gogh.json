@@ -49,7 +49,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en cuáles eligieron. No las más famosas del museo. Dos cuadros de juventud, fáciles de transportar. Un ladrón con un comprador a la vista habría ido a por los girasoles."
+          "texto": "Fíjate en cuáles eligieron. No las más famosas del museo. Dos cuadros tempranos, de formato manejable."
         },
         {
           "voz": "ximena",
@@ -73,7 +73,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Siempre lo negaron. Y aquí está el problema que me interesa: había dos condenados, pero los cuadros no aparecían. Nadie sabía dónde estaban. Una condena sin obras es una historia a medias."
+          "texto": "Durante años lo negaron. Pero había un problema: dos condenados y ni rastro de los cuadros. Una condena sin obras es una historia a medias."
         },
         {
           "voz": "ximena",
@@ -101,15 +101,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El conservador Pieter van Os lo llamó un milagro. Quince años después de la noche del tejado, los cuadros habían sobrevivido."
+          "texto": "El conservador Pieter van Os lo llamó un milagro. Después de catorce años y de unas manos que no sabían de arte, los cuadros habían sobrevivido."
         },
         {
           "voz": "ximena",
-          "texto": "El 17 de abril de 2019, los dos cuadros volvieron a colgar en el museo de Ámsterdam. Durham y Bieslijn no dijeron nada: seguían negando su participación."
+          "texto": "El 17 de abril de 2019, los dos cuadros volvieron a colgar en el museo de Ámsterdam. Antes, en 2017, Durham había contado a un periódico, según NL Times, que ellos habían querido llevarse «Los girasoles» y «Los comedores de patatas», pero que uno estaba demasiado vigilado y el otro era demasiado grande para la ventana."
         },
         {
           "voz": "alvaro",
-          "texto": "No sabemos si eran los autores, ni cómo llegó una pieza robada en Holanda a manos de la Camorra. Lo que sabemos es lo que dijo el tribunal. Y lo que cuelga hoy en una pared de Ámsterdam."
+          "texto": "Los dos hombres acabaron en prisión, y cuenta el propio Durham que los cuadros solo se vendieron a la mafia italiana tras varios intentos fallidos. Lo que importa es que hoy cuelgan otra vez en una pared de Ámsterdam."
         },
         {
           "voz": "ximena",
@@ -118,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "BORRADOR"
+  "nota_revision": "Fuentes abiertas: NOS (2016), The Art Newspaper (2019), NL Times (2017). CONTRADICCIÓN CON LA FICHA: la ficha dice que ambos condenados siempre lo negaron; NL Times (Telegraaf, 2017) recoge que Durham, tras negarlo durante años, contó cómo hicieron el robo. El guion dice «durante años lo negaron» y recoge su relato atribuido. Penas: NOS 4,5 y 4 años (2004); NL Times dice que Durham fue condenado en 2005 a 3,5 años (quizá en apelación): el guion solo da las de 2004. Se omiten los dos asesinatos ligados a los posibles compradores y el nombre del jefe del clan. Camorra 2010 (policía italiana) y la caverna en la pared: NOS y Art Newspaper."
 }
