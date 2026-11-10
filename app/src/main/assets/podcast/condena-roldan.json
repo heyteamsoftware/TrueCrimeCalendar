@@ -4,7 +4,6 @@
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Bangkok": "Bángkok",
-    "Laos": "Láos",
     "Diario 16": "Diario dieciséis"
   },
   "cintas": [
@@ -27,7 +26,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Una esquela falsa para borrar a un testigo. Es el tipo de detalle que parece de película, pero lo cuenta El Independiente. Y todo viene de un hombre al que habían condenado cinco meses antes: Luis Roldán."
+          "texto": "Primera nota. Una esquela falsa. Es el tipo de detalle que parece de película, pero lo cuenta El Independiente. Y todo viene de un hombre al que habían condenado cinco meses antes: Luis Roldán."
         },
         {
           "voz": "ximena",
@@ -55,7 +54,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 27 de febrero de 1995 se entregó a la policía en el aeropuerto de Bangkok, en Tailandia. En la operación intervino un espía, Francisco Paesa, que cobró trescientos millones de pesetas, según El Independiente. Paesa habría falsificado documentos de Laos para simular que Roldán llevaba allí todo ese tiempo."
+          "texto": "El 27 de febrero de 1995 se entregó a la policía en el aeropuerto de Bangkok, en Tailandia. En la operación intervino un espía, Francisco Paesa, que según El Independiente cobró trescientos millones de pesetas."
         },
         {
           "voz": "alvaro",

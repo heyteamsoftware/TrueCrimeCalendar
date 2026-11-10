@@ -3,7 +3,6 @@
   "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "George Moran": "Yorch Móran",
     "Bugs Moran": "Bags Móran",
     "Moran": "Móran",
     "North Clark Street": "Nors Clark Strit",
@@ -18,12 +17,6 @@
     "Michigan": "Míchigan",
     "Charles Skelly": "Charles Skéli",
     "Thompson": "Tómpson",
-    "McGurn": "Maguérn",
-    "Jack McGurn": "Yak Maguérn",
-    "Anselmi": "Anselmi",
-    "Scalise": "Escalíse",
-    "Albert Anselmi": "Álbert Anselmi",
-    "John Scalise": "Yon Escalíse",
     "Highball": "Jaibol",
     "Bundesen": "Bundésen"
   },
@@ -59,7 +52,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Un hombre que se retrasa y se salva. Eso lo cambia todo. George Moran dijo a un periodista que solo Capone mataba así. Si el objetivo era Moran, el plan falló. Si no lo era, fue una matanza de otro tipo. Nadie lo ha aclarado."
+          "texto": "Un hombre que se retrasa y se salva. Eso lo cambia todo. Moran acusó en público a Capone, sin que nunca se probara. Si el objetivo era Moran, el plan falló. Si no lo era, fue una matanza de otro tipo. Nadie lo ha aclarado."
         },
         {
           "voz": "ximena",
@@ -83,7 +76,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía detuvo en febrero a tres hombres vinculados con esa banda: Jack McGurn, Albert Anselmi y John Scalise. Los acusaron, pero tuvieron que retirar los cargos por falta de pruebas."
+          "texto": "La policía detuvo a varios hombres vinculados con esa banda y acusó a tres de ellos, pero tuvo que retirar los cargos por falta de pruebas. Nadie fue condenado."
         },
         {
           "voz": "alvaro",
@@ -91,11 +84,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "En diciembre de 1929, un hombre llamado Fred Burke, borracho, tuvo un accidente de coche en St. Joseph, Michigan. Mató a tiros a un policía, Charles Skelly. En su casa, la policía encontró metralletas Thompson."
+          "texto": "En diciembre de 1929, un hombre llamado Fred Burke tuvo un accidente de coche en St. Joseph, Michigan. Mató a tiros a un policía, Charles Skelly. En su casa, la policía encontró metralletas Thompson."
         },
         {
           "voz": "ximena",
-          "texto": "Los análisis balísticos mostraron que eran las armas de San Valentín. Burke, buscado, fue capturado en marzo de 1931. Lo condenaron a cadena perpetua en Míchigan. Pero no por la matanza, sino por matar al policía. Murió en prisión en 1940."
+          "texto": "Los análisis balísticos las vincularon con las armas de San Valentín. Burke fue capturado en marzo de 1931. Lo condenaron a cadena perpetua en Míchigan, pero no por la matanza, sino por matar al policía. Nunca fue juzgado por los siete muertos. Murió en prisión en 1940."
         },
         {
           "voz": "alvaro",
@@ -124,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Sin condena por la matanza. Fuentes abiertas: Mob Museum, History.com y Wikipedia (Encyclopedia of Chicago dio ECONNREFUSED; WTTW 403). Discrepancias: número de pistoleros (History.com, cuatro vestidos de policía; Wikipedia, de cuatro a seis, dos vestidos de policía): el guion dice «varios hombres, algunos disfrazados de policías». Hora: 10:30 (ficha y Wikipedia). Palabras de Frank Gusenberg: «No one shot me» (Wikipedia) / «No one, nobody shot me» (History.com): el guion dice que dijo que nadie le había disparado y no cita nombre. Víctimas: siete hombres de la banda y su entorno; Wikipedia aclara que dos (Schwimmer y May) no eran miembros; el guion dice «miembros y colaboradores». Capone: se dice que la matanza «se atribuyó» a su organización y que nadie fue procesado; Capone estaba en Florida (coartada; History.com la llama «a prueba de todo», Wikipedia lo menciona de pasada), pero el guion no la desarrolla. McGurn, Anselmi y Scalise: cargos retirados por falta de pruebas (Wikipedia). Burke: capturado en marzo de 1931, condenado a cadena perpetua por matar al policía Skelly (Wikipedia, History.com); nunca juzgado por la matanza. Cierre de la investigación del forense: 17 de noviembre de 1931, «por personas desconocidas» (Wikipedia). El perro Highball (Mob Museum) se cuenta como curiosidad atribuida. Se omite la confesión de 1935 de Byron Bolton (discutida por historiadores). AMPLIACIÓN (agente de febrero/agosto): añadidos, de Wikipedia («Saint Valentine's Day massacre»): Cadillac negro, Moran se fue a un café y estuvo cuatro días en un hospital de Evanston con nombre falso y dijo a un periodista que solo Capone mataba así (cita parafraseada); panel de ciudadanos de Bundesen en lugar del jurado habitual y laboratorio de balística pagado por un empresario; el perro Highball alertó a los vecinos (se sustituye la atribución al Museo de la Mafia y se quita «único testigo»); Capone presentó una nota médica y declaró el 20 de marzo; Burke condenado en Míchigan y muerto en prisión en 1940; ladrillos vendidos y los restantes en el Museo de la Mafia (se quita la cifra «trescientos», no confirmada); ley de 1934 con impuesto de 200 dólares, vinculada a la violencia de la época y no solo a la matanza."
+  "nota_revision": "Sin condena por la matanza. Fuentes abiertas: Mob Museum, History.com y Wikipedia (Encyclopedia of Chicago dio ECONNREFUSED; WTTW 403). Discrepancias: número de pistoleros (History.com, cuatro vestidos de policía; Wikipedia, de cuatro a seis, dos vestidos de policía): el guion dice «varios hombres, algunos disfrazados de policías». Hora: 10:30 (ficha y Wikipedia). Palabras de Frank Gusenberg: «No one shot me» (Wikipedia) / «No one, nobody shot me» (History.com): el guion dice que dijo que nadie le había disparado y no cita nombre. Víctimas: siete hombres de la banda y su entorno; Wikipedia aclara que dos (Schwimmer y May) no eran miembros; el guion dice «miembros y colaboradores». Capone: se dice que la matanza «se atribuyó» a su organización y que nadie fue procesado; Capone estaba en Florida (coartada; History.com la llama «a prueba de todo», Wikipedia lo menciona de pasada), pero el guion no la desarrolla. McGurn, Anselmi y Scalise: cargos retirados por falta de pruebas (Wikipedia). Burke: capturado en marzo de 1931, condenado a cadena perpetua por matar al policía Skelly (Wikipedia, History.com); nunca juzgado por la matanza. Cierre de la investigación del forense: 17 de noviembre de 1931, «por personas desconocidas» (Wikipedia). El perro Highball (Mob Museum) se cuenta como curiosidad atribuida. Se omite la confesión de 1935 de Byron Bolton (discutida por historiadores). AMPLIACIÓN (agente de febrero/agosto): añadidos, de Wikipedia («Saint Valentine's Day massacre»): Cadillac negro, Moran se fue a un café y estuvo cuatro días en un hospital de Evanston con nombre falso y dijo a un periodista que solo Capone mataba así (cita parafraseada); panel de ciudadanos de Bundesen en lugar del jurado habitual y laboratorio de balística pagado por un empresario; el perro Highball alertó a los vecinos (se sustituye la atribución al Museo de la Mafia y se quita «único testigo»); Capone presentó una nota médica y declaró el 20 de marzo; Burke condenado en Míchigan y muerto en prisión en 1940; ladrillos vendidos y los restantes en el Museo de la Mafia (se quita la cifra «trescientos», no confirmada); ley de 1934 con impuesto de 200 dólares, vinculada a la violencia de la época y no solo a la matanza. VERIFICACIÓN (nuevos-febrero): quitados los nombres de McGurn, Anselmi y Scalise (acusados sin condena); Burke solo condenado por el policía Skelly."
 }
