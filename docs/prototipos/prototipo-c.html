@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Prototipo C · «Teletexto» — TRUE CRIME CALENDAR</title>
+<meta name="viewport" content="width=1400">
+<style>
+/* PROTOTIPO C · «TELETEXTO»
+   Todo es una rejilla de caracteres de 34 columnas (celda de 12 × 20 px), ocho colores planos y gráficos de mosaico.
+   La tipografía «TCC Mosaico» es propia: matriz de 5 × 9 con redondeo de diagonales, incrustada aquí abajo. */
+@font-face{font-family:"TCC Mosaico";src:url(data:font/ttf;base64,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AAAzETMRMsgCvP1EAAEBXgAAAiYCvAADAAAhETMRAV7IArz9RAAAAAAFADIAyAImArwAAwAHAAsADwATAAATNSEVAREzESERMxElNTMVBzUhFTIB9P4MZAEsZP7UZMgBLAJYZGT+cAGQ/nABkP5wyGRkyGRkAAAAAAsAMgDIAiYCvAADAAcACwAPABMAFwAbAB8AIwAnACsAABM1IRUBETMRIREzESURMxE3NTMVMzUzFRcRMxElNTMVBzUzFTM1MxUjNTMVlgEs/qIyASwy/j4yMjLIMjIy/tRkyDLIMvrIAlhkZP6iAZD+cAGQ/nAyASz+1PoyMjIy+gEs/tRkZGTIlpaWlmRkAAEAAAABAAA1rPN1Xw889QALA+gAAAAAAAAAAAAAAAAAAAAAAAD/BgJYAu4AAAAIAAIAAQAAAAAAAQAAAu7/BgAAAlgAAAAAAlgAAQAAAAAAAAAAAAAAAAAAAJgCWABkAlgAAAJYAPoCWACWAlgAMgJYADICWAAyAlgAMgJYAPoCWACWAlgAlgJYADICWAAyAlgAlgJYAJYCWACWAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAlgJYADICWAAyAlgAlgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAMgJYAJYCWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAD6AlgAAAJYAPoCWAAyAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAlgJYADICWAAyAlgAMgJYADICWAAyAlgAlgJYADICWAAyAlgAlgJYAJYCWACWAlgAlgJYAJYCWAAyAlgAlgJYADICWAAyAlgA+gJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYADICWACWAlgAMgJYADICWAAyAlgAMgJYADICWAAyAlgAMgJYAV4CWAAyAlgAMgAAAAAAAAAcAAAAHAAAAEAAAABoAAAA0AAAAWwAAAH8AAACzAAAAuQAAANkAAAD4AAABGwAAAScAAAE4AAABPwAAAUUAAAFkAAABkAAAAZ8AAAHNAAAB9AAAAhAAAAIzAAACXAAAAnkAAAKoAAAC0QAAAtoAAALuAAADFQAAAx8AAANFAAADawAAA50AAAO6AAAD2wAABAIAAAQmAAAENwAABEQAAARpAAAEdgAABIUAAASfAAAEyQAABNIAAATpAAAFAwAABSUAAAU+AAAFaAAABZAAAAWzAAAFvQAABdUAAAXyAAAGCgAABjgAAAZWAAAGewAABogAAAalAAAGsgAABrgAAAbWAAAG9gAABxQAAAc1AAAHVgAAB3QAAAeWAAAHsgAAB8QAAAfhAAAIAAAACA8AAAgoAAAIRAAACGYAAAh/AAAImAAACLEAAAjOAAAI6wAACQYAAAkjAAAJOwAACWkAAAmEAAAJoAAACaYAAAmmAAAJsAAACcoAAAnwAAAKEAAAChYAAAo5AAAKYAAACoUAAAqrAAAKxAAACtwAAAsBAAALKwAAC0EAAAtiAAALgAAAC6cAAAvTAAAL/AAADCYAAAw9AAAMZAAADI4AAAy1AAAM2QAADPoAAA0JAAANEAAADRcAAA0oAAANOQAADUIAAA1LAAANUgAADV0AAA1rAAANfwAADZsAAA23AAAN0gAADe4AAA4JAAAOJgAADi0AAA40AAAORQAADlYAAA5lAAAOcgAADoIAAA6kAAAOsgAADtsAAA8LAAAPFAAADykAAA8vAAAPNgAAD0oAAA9uAABAAAAmABEABEAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABgBOAAMAAQQJAAEAFgAAAAMAAQQJAAIADgAWAAMAAQQJAAMAHgAkAAMAAQQJAAQAFgBCAAMAAQQJAAUAFgBYAAMAAQQJAAYAJABuAFQAQwBDACAATQBvAHMAYQBpAGMAbwBSAGUAZwB1AGwAYQByAFQAQwBDACAATQBvAHMAYQBpAGMAbwAgADEALgAwAFQAQwBDACAATQBvAHMAYQBpAGMAbwBWAGUAcgBzAGkAbwBuACAAMQAuADAAVABDAEMATQBvAHMAYQBpAGMAbwAtAFIAZQBnAHUAbABhAHIAAwAAAAAAAP+cADIAAAABAAAAAAAAAAAAAAAAAAAAAA==) format("truetype")}
+:root{
+  --k:#000; --r:#e62b20; --g:#27d64a; --y:#ffe01a; --b:#2333dd; --m:#ee45c6; --c:#20d9e4; --w:#f3f3ec; --d:#8b8b85;
+  --mes:var(--c);            /* enero: cian. Cada mes, una pareja de colores de la carta */
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1400px;height:1000px;overflow:hidden}
+body{background:#c8c6bd;display:flex;justify-content:center;gap:41px;padding-top:26px;font:20px/20px "TCC Mosaico","Lucida Console",monospace;color:var(--w);-webkit-font-smoothing:none}
+.col{width:412px}
+.cap{margin-top:11px;padding:0 2px;display:flex;justify-content:space-between;color:#55534c;font-size:20px;white-space:pre}
+.cap b{font-weight:400;color:#14140f}
+.phone{position:relative;width:412px;height:915px;overflow:hidden;background:var(--k);border-radius:22px}
+.tx{position:absolute;left:2px;top:8px;width:408px;height:860px;overflow:hidden}
+
+/* ---------- Filas y atributos ---------- */
+.r{height:20px;display:flex;justify-content:space-between;overflow:hidden}
+.r2{height:40px}
+.r>span{flex:none;white-space:pre}
+.r>.ld{flex:1 1 0;min-width:0;overflow:hidden;color:var(--b)}
+.r>.ld::before{content:"··································"}
+.gap{height:20px}
+.k{color:var(--k)} .fr{color:var(--r)} .fg{color:var(--g)} .fy{color:var(--y)} .fb{color:var(--b)} .fm{color:var(--m)} .fc{color:var(--c)} .fw{color:var(--w)} .fd{color:var(--d)}
+.bk{background:var(--k)} .br{background:var(--r)} .bg{background:var(--g)} .by{background:var(--y)} .bb{background:var(--b)} .bm{background:var(--m)} .bc{background:var(--c)} .bw{background:var(--w)}
+.dh{display:inline-block;transform:scaleY(2);transform-origin:0 0}                 /* doble altura */
+.ds{display:inline-block;transform:scale(2);transform-origin:0 0}                  /* doble tamaño */
+.p{width:32ch;margin-left:1ch;white-space:normal;overflow-wrap:normal}             /* párrafo a 32 columnas */
+@keyframes flash{0%,62%{color:var(--fa,var(--r))}63%,100%{color:var(--fz,var(--w))}}
+.fl{animation:flash 1.3s steps(1) infinite}                                        /* atributo «parpadeo» */
+svg{display:block;shape-rendering:crispEdges}
+
+/* ---------- Teclas de color (pie de todas las páginas) ---------- */
+.fast{position:absolute;left:2px;right:2px;bottom:7px;height:40px;display:grid;grid-template-columns:9ch 8ch 8ch 9ch;color:var(--k);white-space:pre}
+.fast div{padding-left:1ch;overflow:hidden}
+.fast div span{display:block;height:20px}
+
+/* ---------- Calendario ---------- */
+.grid{display:grid;grid-template-columns:repeat(7,4ch);column-gap:1ch}
+.cell{position:relative;height:40px;margin-bottom:20px;background:var(--b);color:var(--w)}
+.cell .n{position:absolute;left:0;top:0;width:2ch;text-align:right}
+.cell .s{position:absolute;right:0;top:0}
+.cell .x{position:absolute;right:0;top:20px}
+.cell.e{background:var(--y);color:var(--k)}
+.cell.off{background:none;color:var(--b)}
+.cell.hoy{background:var(--r);color:var(--w)}
+.cell .h{position:absolute;left:0;top:40px;width:4ch;text-align:center;color:var(--r)}
+.btn{display:block;height:40px;overflow:hidden;flex:none}
+.btn span{display:block;height:20px;white-space:pre}
+.art{position:relative}
+.art .ov{position:absolute;white-space:pre}
+</style>
+</head>
+<body>
+
+<!-- ============ 1 · CALENDARIO (página 100) ============ -->
+<div class="col">
+<div class="phone">
+<div class="tx">
+<div class="r fd"><span> 9:41</span><span>4G ■■■□ </span></div>
+<div class="r"><span> P100 <span class="fc">TCC·TEXTO</span>  Sáb 02 Ene <span class="fy">09:41</span></span></div>
+<div class="r r2 bb"><span id="mastL"></span><span class="dh fy">TRUE CRIME CALENDAR</span><span id="mastR"></span></div>
+<div class="r"><span> <span class="fc">600</span> Buscar <span class="fc">700</span> Mapa <span class="fc">800</span> Ajustes</span></div>
+<div class="r bc k"><span> HOY · SÁBADO 2 DE ENERO</span><span>P.102 </span></div>
+<div class="art" id="hero"></div>
+<div class="r r2"><span> <span class="ds fy">IAN BRADY</span></span><span class="by k" style="height:20px"> ★ ESTRELLA </span></div>
+<div class="r"><span> «El asesino de los páramos»</span></div>
+<div class="r fc"><span> Nació un día como hoy, en 1938</span></div>
+<div class="r r2"><span class="btn bw k" style="width:16ch"><span> ▶ ESCUCHAR</span><span> 2 cintas·10:58</span></span><span class="btn by k" style="width:17ch"><span> EXPEDIENTE    ›</span><span> ficha y mapa</span></span></div>
+<div class="gap"></div>
+<div class="r r2 bc k"><span class="dh"> ‹ DIC</span><span class="dh">ENERO DE 2027</span><span class="dh">FEB › </span></div>
+<div class="r fc"><span>LUN  MAR  MIÉ  JUE  VIE  SÁB  DOM</span></div>
+<div class="grid" id="grid"></div>
+<div class="r"><span> <span class="fy">■</span>ESTRELLA <span class="fb">■</span>ARCHIVO <span class="fc">×2</span> DOS CASOS</span></div>
+<div class="r bb"><span> 33 CASOS EN ENERO</span><span class="fy">EN LISTA 501 </span></div>
+<div class="r"><span> <span class="fc">03</span> Asedio de Sidney Street </span><span class="ld"></span><span class="fy"> 103 </span></div>
+<div class="r"><span> <span class="fc">04</span> <span class="fy">★</span>Lucy Letby </span><span class="ld"></span><span class="fy"> 104 </span></div>
+<div class="r"><span> <span class="fc">05</span> La familia Yablonski </span><span class="ld"></span><span class="fy"> 105 </span></div>
+</div>
+<div class="fast">
+  <div class="br fw"><span>‹ AYER</span><span>101</span></div>
+  <div class="bg"><span>MAÑANA›</span><span>103</span></div>
+  <div class="by"><span>▶CINTAS</span><span>2·10:58</span></div>
+  <div class="bc"><span>MESES</span><span>500</span></div>
+</div>
+</div>
+<div class="cap"><b>1·CALENDARIO</b><span>cada día, una página</span></div>
+</div>
+
+<!-- ============ 2 · EXPEDIENTE (página 102) ============ -->
+<div class="col">
+<div class="phone">
+<div class="tx">
+<div class="r fd"><span> 9:41</span><span>4G ■■■□ </span></div>
+<div class="r"><span> P102 <span class="fc">TCC·TEXTO</span>  Sáb 02 Ene <span class="fy">09:41</span></span></div>
+<div class="r bc k"><span> EXPEDIENTE 1938-001</span><span>‹101 103› </span></div>
+<div class="r r2"><span> <span class="ds fy">IAN BRADY</span></span><span class="by k" style="height:20px"> ★ ESTRELLA </span></div>
+<div class="r"><span> «El asesino de los páramos»</span></div>
+<div class="r fc"><span> Nació un día como hoy</span></div>
+<div class="r fc"><span> hace 89 años · 2 ene. 1938</span></div>
+<div class="gap"></div>
+<div style="display:flex;justify-content:space-between">
+  <div style="width:20ch">
+    <div class="r bb"><span> FICHA</span><span class="fy">1/4 </span></div>
+    <div class="r fc"><span> VÍCTIMAS</span></div>
+    <div class="r r2"><span> <span class="dh">5</span></span></div>
+    <div class="r fc"><span> PAÍS</span></div>
+    <div class="r"><span> Reino Unido</span></div>
+    <div class="r fc"><span> ACTIVIDAD</span></div>
+    <div class="r"><span> 1963–1965</span></div>
+    <div class="r fc"><span> LUGARES</span></div>
+    <div class="r"><span> <span class="fy">1</span> Páramo de</span></div>
+    <div class="r"><span>   Saddleworth</span></div>
+    <div class="r"><span> <span class="fy">2</span> Hattersley</span></div>
+  </div>
+  <div class="art" id="gb" style="width:13ch"></div>
+</div>
+<div class="gap"></div>
+<div class="r bb"><span> EL CASO</span><span class="fy">2/4 </span></div>
+<div class="p">Junto a su pareja Myra Hindley secuestró y asesinó a cinco menores en el área de Mánchester, en los llamados «asesinatos de los páramos». Varias víctimas fueron enterradas en el páramo de Saddleworth; el cuerpo de Keith Bennett nunca se ha encontrado. Fue detenido en 1965 tras la denuncia de David Smith, cuñado de Hindley, que presenció el último crimen.</div>
+<div class="r br fw"><span> SITUACIÓN JUDICIAL</span><span>3/4 </span></div>
+<div class="p">Cadena perpetua. Murió en el hospital de alta seguridad de Ashworth (2017).</div>
+<div class="gap"></div>
+<div class="r"><span> <span class="fc">VÍNCULO</span> Myra Hindley </span><span class="ld"></span><span class="fy"> 304 </span></div>
+<div class="r"><span> <span class="fc">FUENTES</span> 10 referencias </span><span class="ld"></span><span class="fy"> 4/4 </span></div>
+</div>
+<div class="fast">
+  <div class="br fw"><span>‹ DÍA 1</span><span>101</span></div>
+  <div class="bg"><span>DÍA 3 ›</span><span>103</span></div>
+  <div class="by"><span>▶CINTAS</span><span>2·10:58</span></div>
+  <div class="bc"><span>ENERO</span><span>501</span></div>
+</div>
+</div>
+<div class="cap"><b>2·EXPEDIENTE</b><span>ficha, caso y mapa</span></div>
+</div>
+
+<!-- ============ 3 · GRABADORA (página 102, cintas) ============ -->
+<div class="col">
+<div class="phone">
+<div class="tx">
+<div class="r fd"><span> 9:41</span><span>4G ■■■□ </span></div>
+<div class="r"><span> P102 <span class="fc">TCC·TEXTO</span>  Cinta 1/2  <span class="fy">09:41</span></span></div>
+<div class="r bc k"><span> CINTAS · IAN BRADY</span><span>1938-001 </span></div>
+<div class="r"><span> <span class="fg">▶ REPRODUCIENDO</span></span><span class="fd">casete gastado </span></div>
+<div class="art" id="deck">
+  <span class="ov fc" style="left:13ch;top:0"> PLETINA </span>
+  <span class="ov k" style="left:5ch;top:20px">A  TCC·ARCHIVO SONORO</span>
+  <span class="ov k" style="left:5ch;top:40px">UNA CABINA EN HATTERSLEY</span>
+  <span class="ov k" style="left:5ch;top:60px">1 DE 2 · EXP. 1938-001</span>
+</div>
+<div class="r r2"><span> <span class="ds fy">02:14</span></span><span class="btn" style="text-align:right"><span>de 05:27 </span><span class="fc">1 DE 2 · EL HALLAZGO </span></span></div>
+<div class="r"><span> <span id="prog" style="display:inline-block;width:32ch;height:20px;vertical-align:top"></span></span></div>
+<div class="gap"></div>
+<div class="r r2" id="keys">
+  <span class="btn bb" style="width:8ch"><span>   &#xE001;</span><span>EXPULSAR</span></span>
+  <span class="btn bb" style="width:5ch"><span> ◀◀</span><span>−15 s</span></span>
+  <span class="btn by k" style="width:5ch"><span>  &#xE000;</span><span>PAUSA</span></span>
+  <span class="btn bb" style="width:5ch"><span> ▶▶</span><span>+30 s</span></span>
+  <span class="btn bb" style="width:7ch"><span>  ▶&#xE002;</span><span>CINTA 2</span></span>
+</div>
+<div class="gap"></div>
+<div class="r bb"><span> CAJA DE CINTAS</span><span class="fy">ARRASTRA O TOCA </span></div>
+<div class="art" id="box">
+  <span class="ov fd" style="left:3ch;top:20px">1 · A MEDIAS</span><span class="ov fd" style="left:2ch;top:40px">EN LA PLETINA</span>
+  <span class="ov k" style="left:20ch;top:20px">2 · EPÍLOGO</span>
+  <span class="ov fl" style="left:16ch;top:20px;--fa:var(--y);--fz:var(--w)">◀◀</span>
+</div>
+<div class="r"><span> <span class="fm">2</span> Lo que aún guarda el páramo</span></div>
+<div class="r fc"><span>   Epílogo · 05:31 · <span class="fy">Sin escuchar</span></span></div>
+<div class="r bb"><span> LEER EL CASO</span><span class="fy">TOCA UN BLOQUE </span></div>
+<div class="p fd">en las colinas al noreste de la ciudad, como de un lugar suyo.</div>
+<div class="r by k"><span> 02:13 ARCHIVO</span><span>◀ SONANDO </span></div>
+<div class="p">En la casa había libros, cuadernos y muchos papeles. Los agentes lo revisaron todo, página por página. En un cuaderno escolar, entre garabatos y nombres sueltos, apareció uno que les sonaba: John Kilbride.</div>
+<div class="r fc"><span> 02:28 ARCHIVO</span></div>
+<div class="p">Un niño de doce años que desapareció un sábado de noviembre de 1963 en el mercado de Ashton-under-Lyne. Llevaba casi dos años en los carteles de niños desaparecidos.</div>
+</div>
+<div class="fast">
+  <div class="br fw"><span>‹ FICHA</span><span>102</span></div>
+  <div class="bg"><span>CINTA 2</span><span>05:31</span></div>
+  <div class="by"><span>LEER</span><span>guion</span></div>
+  <div class="bc"><span>ENERO</span><span>501</span></div>
+</div>
+</div>
+<div class="cap"><b>3·GRABADORA</b><span>cinta 1 en la pletina</span></div>
+</div>
+
+<script>
+/* ---------- Mosaicos: cada celda de texto son 2 × 3 bloques (6 px de ancho; 6, 8 y 6 px de alto) ---------- */
+const COL={k:"#000",r:"#e62b20",g:"#27d64a",y:"#ffe01a",b:"#2333dd",m:"#ee45c6",c:"#20d9e4",w:"#f3f3ec",d:"#8b8b85"};
+const YO=[0,6,14], HH=[6,8,6];
+function mosaic(el,cols,rows,paint){          // paint(x,y) devuelve "c" (bloque contiguo), "c." (bloque separado) o null
+  let s="";
+  for(let y=0;y<rows*3;y++){ const Y=Math.floor(y/3)*20+YO[y%3], h=HH[y%3];
+    for(let x=0;x<cols*2;x++){ const p=paint(x,y); if(!p) continue;
+      const c=COL[p[0]];
+      s+= p.length>1 ? `<rect x="${x*6+1}" y="${Y+1}" width="4" height="${h-2}" fill="${c}"/>` : `<rect x="${x*6}" y="${Y}" width="6" height="${h}" fill="${c}"/>`; } }
+  el.style.height=rows*20+"px";
+  el.insertAdjacentHTML("afterbegin",`<svg width="${cols*12}" height="${rows*20}" viewBox="0 0 ${cols*12} ${rows*20}">${s}</svg>`);
+}
+const $=id=>document.getElementById(id);
+const disc=(x,y,cx,cy,r)=>(x-cx)*(x-cx)+(y-cy)*(y-cy)<=r*r;
+
+/* cabecera: trama a los lados del título */
+["mastL","mastR"].forEach((i,n)=>{ $(i).style.width="7ch"; mosaic($(i),7,2,(x,y)=> (x+y+n)%2===0 && x>1 && x<12 ? "c." : null); });
+
+/* la cabina de Hattersley en el páramo, de madrugada (34 × 7 celdas) */
+const STARS=new Set(["4,1","9,9","22,2","27,6","33,1","38,5","44,2","62,3","65,8","30,9","19,5","45,8","2,7","59,1","24,10","36,10"]);
+mosaic($("hero"),34,7,(x,y)=>{
+  const near=16.4+1.2*Math.sin(x/6.5+1)-(x>34?Math.min(3.4,(x-34)/5):0), far=11.4+1.7*Math.sin(x/9+2.4)+(x>40?(x-40)/9:0);
+  if(x>=48&&x<=56){                                                           // cabina
+    if(y===2 && x>=50&&x<=54) return "r";
+    if(y===3 && x>=49&&x<=55) return "r";
+    if(y===4 && x>=49&&x<=55) return (x>=50&&x<=54)?"w":"r";
+    if(y>=5 && y<=12 && x>=49&&x<=55){ if((x===50||x===52||x===54) && (y===6||y===8||y===10)) return (x===52&&y===8)?"y":"w"; return "r"; }
+    if(y===13) return "r"; }
+  if(y>=near) return "g";
+  if(disc(x,y,12,5,3.4)) return "y";
+  if(y>=far) return "b";
+  if(STARS.has(x+","+y)) return "w";
+  return null;
+});
+
+/* pletina: marco de mosaico separado y, dentro, la cinta 1 (carcasa, etiqueta de dos líneas y ventana con los carretes) */
+mosaic($("deck"),34,9,(x,y)=>{
+  const u=x-8, v=y-3;
+  if(u>=0&&u<52&&v>=0&&v<21 && !((u===0||u===51)&&(v===0||v===20))){
+    if(v>=3&&v<=8&&u>=2&&u<=49) return "y";                                   // etiqueta
+    if(v>=10&&v<=17&&u>=9&&u<=42){                                           // ventana
+      if(disc(u,v,17.5,13.5,1)||disc(u,v,34.5,13.5,1)) return "k";
+      if(disc(u,v,17.5,13.5,2.1)||disc(u,v,34.5,13.5,2.1)) return "w";
+      if(disc(u,v,17.5,13.5,4.1)||disc(u,v,34.5,13.5,2.9)) return "r";
+      return "k"; }
+    if(v===19&&(u===13||u===14||u===25||u===26||u===37||u===38)) return "k";  // orificios
+    return "w";
+  }
+  if(x<2||x>65) return null;
+  if(y===1||y===25||((x<4||x>63)&&y>0&&y<26)) return (y===1&&x>=26&&x<=43)?null:"b.";
+  return null;
+});
+/* caja de cintas: el hueco de la cinta 1 (mosaico separado) y la cinta 2 */
+mosaic($("box"),34,4,(x,y)=>{
+  const u=x-38, v=y;
+  if(u>=0&&u<28 && !((u===0||u===27)&&(v===0||v===11))){
+    if(v>=3&&v<=5&&u>=2&&u<=25) return "w";
+    if(v>=6&&v<=8&&u>=7&&u<=20){ if(v===7&&(u===10||u===11||u===16||u===17)) return "w"; return "k"; }
+    if(v===10&&(u===8||u===13||u===14||u===19)) return "k";
+    return "m";
+  }
+  if(x>=2&&x<=31&&(y===0||y===11||x<4||x>29)) return "b.";
+  return null;
+});
+/* avance de la cinta: 32 columnas = 64 bloques; 02:14 de 05:27 */
+mosaic($("prog"),32,1,(x,y)=>{ const k=Math.round(64*134/327); return x===k||x===k+1 ? "w" : y!==1 ? null : x<k ? "y" : "b."; });
+
+/* islas británicas en mosaico (rasterizadas de la geografía que ya lleva la app) */
+const GB=["..........................","..........................","........#..####...........","........#..###............","..........####..#.........","........#.########........","..........#######.........","..........#######.........",".........#.#####..........","..........######..........",".........##.######........","..........#.#######.......",".....#####.########.......","....######..#..####.......",".....######...######......","..########......#####.....","..#######......#######....","..#######......#######....","...#######...#########....","..#######....############.","..#######....############.",".#######....#############.",".#####.....#############..","..#...........#########...",".............###########..","............###########..#","............###..........#","...........#............##",".......................###"];
+mosaic($("gb"),13,11,(x,y)=>{
+  const yy=y-3;
+  if((x===17||x===18)&&(yy===17||yy===18)) return x===17?"w":"r";
+  return (yy>=0&&GB[yy]&&GB[yy][x]==="#") ? "g" : "b";
+});
+$("gb").insertAdjacentHTML("beforeend",`<span class="ov fy" style="left:0;top:0"> REINO UNIDO</span><span class="ov fw" style="left:10ch;top:100px">1·2</span>`);
+
+/* calendario de enero de 2027 (el día 1 cae en viernes) */
+const STAR=new Set([2,4,7,8,9,14,17,19,20,21,22,25]), DOS=new Set([9,25]);
+let h="";
+for(const d of [28,29,30,31]) h+=`<div class="cell off"><span class="n dh">${d}</span></div>`;
+for(let d=1;d<=31;d++){
+  const cls=d===2?"hoy":STAR.has(d)?"e":"";
+  h+=`<div class="cell ${cls}"><span class="n dh">${d}</span>${STAR.has(d)?'<span class="s">★</span>':''}${DOS.has(d)?'<span class="x">×2</span>':''}${d===2?'<span class="h fl">HOY</span>':''}</div>`;
+}
+$("grid").innerHTML=h;
+
+/* comprobación de maqueta: marca las filas cuyo texto no cabe en 34 columnas */
+document.querySelectorAll(".r,.btn span,.fast div").forEach(e=>{ if(e.scrollWidth>e.clientWidth+1) e.setAttribute("data-desborda",e.textContent.trim().slice(0,30)); });
+</script>
+</body>
+</html>

@@ -15,12 +15,8 @@
       }
     },
     {
-      "nombre": "Grabación de audio: tanda 2",
-      "tipo": "audio",
-      "progreso": {
-        "carpetas": "app/src/main/assets/audio",
-        "lista": "tools/tandas/tanda2.txt"
-      }
+      "nombre": "Subida de las 477 cintas al servidor",
+      "tipo": "subida"
     }
   ],
   "nota": "progreso.archivos: rutas que el agente debe dejar escritas; progreso.carpetas + progreso.lista: una carpeta por id; progreso.hecho/total: a mano."

@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Prototipo D · «Atlas» — TRUE CRIME CALENDAR</title>
+<meta name="viewport" content="width=1400">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;700;800&family=Overpass+Mono:wght@400;600&family=Spectral:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap" rel="stylesheet">
+<style>
+/* PROTOTIPO D · «ATLAS»
+   La app es un atlas: cada mes es una lámina, cada caso es un lugar con sus coordenadas.
+   Papel de mapa, mar azul pálido, tinta azul negra y una tinta de sobreimpresión por mes (enero: magenta de carta náutica). */
+:root{
+  --paper:#f2f0e6; --land:#f8f5e7; --buff:#ece3c6; --sea:#cfe1e2; --sea-2:#8fb7bf; --ink:#17262e; --ink-2:#56666c; --ink-3:#8c999c;
+  --cont:#bf9160; --wood:#d3ddb4; --over:#c4207c;
+  --serif:"Spectral","Georgia","Times New Roman",serif;
+  --sans:"Overpass","Segoe UI","Helvetica Neue",Arial,sans-serif;
+  --mono:"Overpass Mono","Consolas","Lucida Console",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1400px;height:1000px;overflow:hidden}
+body{background:#24353c;font-family:var(--sans);color:var(--ink);display:flex;justify-content:center;gap:41px;padding-top:26px;-webkit-font-smoothing:antialiased}
+.col{width:412px}
+.cap{font:600 11.5px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:#93a6ab;margin-top:14px;display:flex;justify-content:space-between}
+.cap b{color:#eef0e8;font-weight:700}
+.phone{position:relative;width:412px;height:915px;overflow:hidden;background:var(--paper);border-radius:22px}
+.sb{height:26px;display:flex;align-items:center;justify-content:space-between;padding:0 18px;font:600 12px/1 var(--sans);letter-spacing:.02em}
+.sb i{display:inline-block;width:20px;height:9px;border:1.3px solid var(--ink);border-radius:2px;position:relative}
+.sb i::before{content:"";position:absolute;inset:1px 6px 1px 1px;background:var(--ink)}
+.pad{padding:0 14px}
+svg{display:block}
+.ico{width:21px;height:21px;fill:none;stroke:var(--ink);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.lab{font:600 10px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
+.mono{font-family:var(--mono);letter-spacing:0}
+.over{color:var(--over)}
+
+/* ---------- 1 · Lámina del mes ---------- */
+.head{display:flex;align-items:flex-end;justify-content:space-between;padding:6px 0 8px}
+.head h1{font:800 14px/1 var(--sans);letter-spacing:.2em}
+.head p{font:italic 500 13.5px/1 var(--serif);color:var(--ink-2);margin-top:6px}
+.head .tools{display:flex;gap:16px;padding-bottom:1px}
+.plate-t{display:flex;justify-content:space-between;align-items:baseline;border-top:1.5px solid var(--ink);padding:6px 0 5px}
+.plate{position:relative;border:1px solid var(--ink);background:var(--sea);height:198px}
+.plate svg{position:absolute;left:0;top:0}
+.plate .deg{position:absolute;font:400 8.5px/1 var(--mono);color:var(--ink-2)}
+.plate .fix{position:absolute;background:var(--over);color:#fff;font:600 9.5px/1 var(--mono);padding:3px 5px 2px;white-space:nowrap}
+.today{position:relative;margin-top:11px;border:1.5px solid var(--ink);padding:3px}
+.today::before{content:"";position:absolute;left:176.5px;top:-13px;width:1px;height:12px;background:var(--over)}
+.today .in{border:.5px solid var(--ink);display:grid;grid-template-columns:76px 1fr;min-height:132px}
+.today .day{border-right:.5px solid var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px}
+.today .day b{font:600 66px/.8 var(--serif);color:var(--over);letter-spacing:-.03em;margin-top:6px}
+.today .tx{padding:9px 11px 0}
+.today h2{font:600 31px/1 var(--serif);letter-spacing:-.012em;margin-top:6px}
+.today .ali{font:italic 500 16.5px/1.1 var(--serif);margin-top:3px}
+.today .efe{font:700 10.5px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--over);margin-top:8px}
+.today .pos{font:400 10.5px/1.35 var(--mono);color:var(--ink-2);margin-top:6px}
+.today .act{grid-column:1/3;display:grid;grid-template-columns:1fr 1fr;border-top:.5px solid var(--ink);height:38px}
+.today .act span{display:flex;align-items:center;gap:8px;padding:0 11px;font:700 11px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase}
+.today .act span+span{background:var(--ink);color:var(--paper);justify-content:space-between}
+.today .act svg{width:11px;height:11px;fill:currentColor}
+
+.gt{display:flex;justify-content:space-between;align-items:baseline;margin-top:12px}
+.gh{display:grid;grid-template-columns:18px repeat(7,1fr);margin-top:6px;font:600 9.5px/1 var(--mono);color:var(--ink-2);text-align:center;padding-bottom:3px}
+.grid{display:grid;grid-template-columns:18px repeat(7,1fr);border-top:1px solid var(--ink)}
+.grid .wk{font:400 9px/1 var(--mono);color:var(--ink-2);display:flex;align-items:center;border-bottom:.5px solid rgba(23,38,46,.35)}
+.d{position:relative;height:42px;border-left:.5px solid rgba(23,38,46,.35);border-bottom:.5px solid rgba(23,38,46,.35)}
+.d:nth-child(8n){border-right:1px solid var(--ink)}
+.d .n{position:absolute;left:5px;top:5px;font:700 17px/1 var(--sans)}
+.d .c{position:absolute;left:5px;bottom:4px;font:400 9px/1 var(--mono);color:var(--ink-2)}
+.d .m{position:absolute;right:4px;top:4px;width:12px;height:12px}
+.d .m2{position:absolute;right:4px;top:18px;width:12px;height:12px}
+.d.e{background:var(--buff)}
+.d.off{background:repeating-linear-gradient(135deg,transparent 0 3.5px,rgba(23,38,46,.1) 3.5px 4px)}
+.d.off .n{font-weight:400;color:var(--ink-3)}
+.d.row,.d.colx{box-shadow:inset 0 0 0 99px rgba(196,32,124,.07)}
+.d.hoy{background:var(--over);color:#fff;box-shadow:none;outline:1.5px solid var(--ink);outline-offset:-1px;z-index:1}
+.d.hoy .c{color:#fff}
+.grid .last{border-bottom:1px solid var(--ink)}
+.lg{display:flex;gap:14px;align-items:center;padding:7px 0 0 18px;font:600 9.5px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2)}
+.lg svg{display:inline-block;width:11px;height:11px;vertical-align:-2px;margin-right:5px}
+.lg em{margin-left:auto;font-style:normal;color:var(--ink);border-bottom:1.2px solid var(--over);padding-bottom:1px}
+.idx{margin-top:10px;border-top:1.5px solid var(--ink)}
+.row{display:grid;grid-template-columns:36px 1fr auto;gap:9px;align-items:center;padding:7px 0 6px;border-bottom:.5px solid var(--ink)}
+.row .dn{font:700 22px/1 var(--sans);text-align:center}
+.row .dn small{display:block;font:600 8.5px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);margin-top:3px}
+.row h4{font:600 16px/1.1 var(--serif)}
+.row h4 svg{display:inline-block;width:11px;height:11px;margin-left:5px;vertical-align:-1px}
+.row p{font:400 11px/1.2 var(--sans);color:var(--ink-2);margin-top:3px}
+.row .co{font:400 9.5px/1.4 var(--mono);color:var(--ink-2);text-align:right}
+.months{position:absolute;left:0;right:0;bottom:0;height:50px;background:var(--paper);border-top:1.5px solid var(--ink);padding:10px 14px 0;z-index:5}
+.months .bar{display:grid;grid-template-columns:repeat(12,1fr);height:7px;border:1px solid var(--ink)}
+.months .bar i:nth-child(odd){background:var(--ink)}
+.months .bar i.on{background:var(--over);outline:2px solid var(--over)}
+.months .ml{display:grid;grid-template-columns:repeat(12,1fr);margin-top:7px;font:600 9.5px/1 var(--mono);text-align:center;color:var(--ink-2)}
+.months .ml b{color:var(--over);font-weight:600}
+
+/* ---------- 2 · Hoja del caso ---------- */
+.nav{display:flex;align-items:center;justify-content:space-between;height:40px;border-bottom:1.5px solid var(--ink)}
+.nav .l{display:flex;align-items:center;gap:7px;font:700 11px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase}
+.nav .c{font:600 11px/1 var(--mono)}
+.adj{display:grid;grid-template-columns:repeat(3,24px);height:22px;border:1px solid var(--ink);font:600 10px/20px var(--mono);text-align:center}
+.adj span+span{border-left:1px solid var(--ink)}
+.adj .on{background:var(--ink);color:var(--paper)}
+.kick{display:flex;justify-content:space-between;align-items:center;margin-top:11px}
+.kick .st{display:flex;align-items:center;gap:6px;color:var(--ink)}
+.kick .st svg{width:11px;height:11px}
+.ttl{font:600 52px/.95 var(--serif);letter-spacing:-.02em;margin-top:7px}
+.ali2{font:italic 500 20px/1.1 var(--serif);margin-top:3px}
+.efe2{font:700 10.5px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--over);margin-top:9px}
+.map{position:relative;margin-top:11px;border:1px solid var(--ink);height:232px;background:var(--land)}
+.map svg{position:absolute;left:0;top:0;width:100%;height:100%}
+.leg{border:1px solid var(--ink);border-top:0;display:grid;grid-template-columns:1fr 1fr}
+.leg div{padding:7px 9px 6px;display:grid;grid-template-columns:20px 1fr;column-gap:6px}
+.leg div+div{border-left:.5px solid var(--ink)}
+.leg i{grid-row:1/4;width:18px;height:18px;border-radius:50%;background:var(--over);color:#fff;font:700 11px/19px var(--sans);font-style:normal;text-align:center}
+.leg b{font:600 14.5px/1.05 var(--serif)}
+.leg em{font:italic 400 12.5px/1.15 var(--serif);color:var(--ink-2)}
+.leg span{font:400 9.5px/1.3 var(--mono);color:var(--ink-2);margin-top:2px}
+.facts{display:grid;grid-template-columns:.62fr 1.1fr 1fr 1.05fr;border-bottom:1.5px solid var(--ink)}
+.facts div{padding:8px 8px 7px 0}
+.facts div+div{border-left:.5px solid var(--ink);padding-left:9px}
+.facts b{display:block;font:600 17px/1 var(--serif);margin-top:6px;white-space:nowrap}
+.facts div:first-child b{font-size:30px;line-height:.7;color:var(--over);margin-top:9px}
+.body{font:400 14.6px/1.4 var(--serif);margin-top:9px;hyphens:auto}
+.note{margin-top:9px;border-left:3px solid var(--over);padding:1px 0 1px 10px}
+.note p{font:500 14px/1.3 var(--serif);margin-top:4px}
+.h5{display:flex;justify-content:space-between;align-items:baseline;margin-top:11px;padding-bottom:5px;border-bottom:1px solid var(--ink)}
+.h5 b{font:800 11px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase}
+.link{display:grid;grid-template-columns:30px 1fr auto;gap:9px;align-items:center;padding:7px 0;border-bottom:.5px solid var(--ink)}
+.link .sh{width:30px;height:24px;border:1px solid var(--ink);display:grid;grid-template-columns:1fr 1fr}
+.link .sh i{border-left:1px solid var(--ink);background:var(--ink)}
+.link h4{font:600 15.5px/1.05 var(--serif)}
+.link p{font:400 11px/1.2 var(--sans);color:var(--ink-2);margin-top:2px}
+.link .go{font:400 17px/1 var(--sans)}
+.src{font:400 12.5px/1.3 var(--serif);padding:6px 0 0 22px;position:relative}
+.src i{position:absolute;left:0;top:7px;font:600 9.5px/1.3 var(--mono);font-style:normal;color:var(--over)}
+.listen{position:absolute;left:0;right:0;bottom:0;height:56px;background:var(--ink);color:var(--paper);display:flex;align-items:center;gap:12px;padding:0 14px;z-index:5}
+.listen .pl{width:36px;height:36px;border-radius:50%;background:var(--over);display:grid;place-items:center;flex:none}
+.listen .pl svg{width:13px;height:13px;fill:#fff;margin-left:2px}
+.listen h4{font:600 17px/1 var(--serif)}
+.listen p{font:600 10px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#a9b8bb;margin-top:5px}
+.listen .mini{margin-left:auto;font:600 10px/1 var(--mono);color:#a9b8bb;text-align:right;line-height:1.5}
+.fade{position:absolute;left:0;right:0;height:26px;background:linear-gradient(rgba(242,240,230,0),var(--paper));z-index:4;pointer-events:none}
+
+/* ---------- 3 · Registros sonoros ---------- */
+.rec{position:relative;margin-top:10px;height:204px}
+.rec svg{position:absolute;inset:0;width:100%;height:100%}
+.now{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:end;margin-top:11px}
+.now .t{font:600 40px/.8 var(--mono);letter-spacing:-.04em}
+.now .t small{font:400 12px/1 var(--mono);color:var(--ink-2);letter-spacing:0;margin-left:5px}
+.now .w{text-align:right}
+.now .w b{display:block;font:italic 500 19px/1.05 var(--serif);margin-top:5px}
+.scale{position:relative;margin-top:11px;height:30px}
+.scale .bar{position:absolute;left:0;right:0;top:0;height:9px;border:1px solid var(--ink);display:flex}
+.scale .bar i{height:100%;border-right:1px solid var(--ink)}
+.scale .bar i:nth-child(odd){background:rgba(23,38,46,.13)}
+.scale .bar i:last-child{border-right:0}
+.scale .fill{position:absolute;left:1px;top:1px;height:7px;width:156px;background:var(--over)}
+.scale .pin{position:absolute;left:150px;top:-5px;width:14px;height:19px}
+.scale .tk{position:absolute;top:14px;font:400 9px/1 var(--mono);color:var(--ink-2);transform:translateX(-50%)}
+.keys{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:6px}
+.key{height:46px;border:1.2px solid var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;font:700 9px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase}
+.key svg{width:15px;height:13px;fill:var(--ink)}
+.key.on{background:var(--ink);color:var(--paper)}
+.key.on svg{fill:var(--paper)}
+.box{position:relative;display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:9px;height:104px}
+.slot{border:1px dashed var(--ink-2);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;text-align:center}
+.slot b{font:italic 500 16px/1 var(--serif);color:var(--ink-2)}
+.tape2{position:relative}
+.tape2 svg{position:absolute;left:0;top:-4px;width:186px;height:112px;transform:rotate(-4deg);transform-origin:50% 50%}
+.box .hint{position:absolute;left:150px;top:-13px;width:86px;height:40px}
+.t2cap{display:flex;justify-content:space-between;margin-top:9px}
+.it{position:relative;margin-top:2px;padding-left:58px}
+.it::before{content:"";position:absolute;left:44px;top:6px;bottom:0;border-left:1.2px dashed var(--ink-2)}
+.wp{position:relative;padding:8px 0 4px}
+.wp .tm{position:absolute;left:-58px;top:9px;width:38px;font:600 10.5px/1 var(--mono);text-align:right}
+.wp .dot{position:absolute;left:-19px;top:8px;width:11px;height:11px;border-radius:50%;border:1.3px solid var(--ink);background:var(--paper)}
+.wp.done .dot{background:var(--ink)}
+.wp.now2 .dot{left:-21px;top:6px;width:15px;height:15px;border:4px solid var(--over);background:#fff}
+.wp p{font:400 14.3px/1.36 var(--serif);margin-top:4px}
+.wp.done p,.wp.done .tm{color:var(--ink-3)}
+.wp.now2 .tm{color:var(--over)}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <symbol id="st" viewBox="0 0 12 12"><polygon points="6,1 7.23,4.3 10.76,4.46 8,6.65 8.94,10.05 6,8.1 3.06,10.05 4,6.65 1.24,4.46 4.77,4.3" fill="currentColor"/></symbol>
+    <symbol id="ar" viewBox="0 0 12 12"><circle cx="6" cy="6" r="3.4" fill="none" stroke="currentColor" stroke-width="1.3"/></symbol>
+    <pattern id="urb" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="4" stroke="#17262e" stroke-width=".7" opacity=".28"/></pattern>
+    <pattern id="grille" width="6" height="5" patternUnits="userSpaceOnUse"><rect x="0" y="1.5" width="4" height="1.6" rx=".8" fill="#17262e"/></pattern>
+  </defs>
+</svg>
+
+<!-- ============ 1 · LÁMINA DEL MES ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <header class="head">
+      <div><h1>TRUE CRIME CALENDAR</h1><p>Atlas de casos · Lámina I, enero de 2027</p></div>
+      <div class="tools">
+        <svg class="ico" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.2"/><path d="M15.2 15.2 21 21"/></svg>
+        <svg class="ico" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg>
+      </div>
+    </header>
+    <div class="plate-t"><span class="lab">Planisferio de enero · 33 casos</span><span class="lab mono">14 ★ · 19 ○</span></div>
+    <div class="plate" id="plate"></div>
+
+    <article class="today">
+      <div class="in">
+        <div class="day"><span class="lab">Hoy · sáb</span><b>2</b><span class="lab">enero</span></div>
+        <div class="tx">
+          <span class="lab" style="color:var(--ink);display:flex;align-items:center;gap:5px"><svg width="11" height="11"><use href="#st"/></svg>Caso estrella · hoja 1938-001</span>
+          <h2>Ian Brady</h2>
+          <p class="ali">«El asesino de los páramos»</p>
+          <p class="efe">Nació un día como hoy · hace 89 años</p>
+          <p class="pos">Páramo de Saddleworth, Reino Unido<br>53°31′48″N 1°57′00″O</p>
+        </div>
+        <div class="act"><span><svg viewBox="0 0 12 12"><path d="M2 1l9 5-9 5z"/></svg>2 cintas · 10 min 58 s</span><span>Abrir la hoja <b style="font:400 16px/1 var(--sans)">→</b></span></div>
+      </div>
+    </article>
+
+    <div class="gt"><span class="lab">Cuadrícula de enero</span><span class="lab">Semana ↓ &nbsp; día →</span></div>
+    <div class="gh"><span></span><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
+    <div class="grid" id="grid"></div>
+    <div class="lg"><span><svg><use href="#st"/></svg>Caso estrella</span><span><svg><use href="#ar"/></svg>Caso del archivo</span><em>Nomenclátor</em></div>
+
+    <div class="idx">
+      <div class="row"><div class="dn">3<small>dom</small></div><div><h4>El asedio de Sidney Street</h4><p>Stepney, Londres · hace 116 años del crimen</p></div><div class="co">51°31′N<br>0°03′O</div></div>
+      <div class="row"><div class="dn">4<small>lun</small></div><div><h4>Lucy Letby<svg><use href="#st"/></svg></h4><p>Chester, Reino Unido · nació en 1990</p></div><div class="co">53°12′N<br>2°54′O</div></div>
+    </div>
+  </div>
+  <div class="fade" style="bottom:50px"></div>
+  <nav class="months">
+    <div class="bar"><i class="on"></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+    <div class="ml"><b>ENE</b><span>FEB</span><span>MAR</span><span>ABR</span><span>MAY</span><span>JUN</span><span>JUL</span><span>AGO</span><span>SEP</span><span>OCT</span><span>NOV</span><span>DIC</span></div>
+  </nav>
+</div>
+<div class="cap"><b>1 · Calendario</b><span>el mes es una lámina del atlas</span></div>
+</div>
+
+<!-- ============ 2 · HOJA DEL CASO ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <div class="nav">
+      <span class="l"><svg class="ico" viewBox="0 0 24 24"><path d="M13 5l-7 7 7 7M6 12h14"/></svg>Enero</span>
+      <span class="c">HOJA 1938-001</span>
+      <span class="adj"><span>1</span><span class="on">2</span><span>3</span></span>
+    </div>
+    <div class="kick"><span class="lab st"><svg><use href="#st"/></svg>Caso estrella</span><span class="lab">Sábado 2 de enero</span></div>
+    <h1 class="ttl">Ian Brady</h1>
+    <p class="ali2">«El asesino de los páramos»</p>
+    <p class="efe2">Nació un día como hoy · hace 89 años</p>
+
+    <div class="map">
+      <svg viewBox="0 0 384 232" preserveAspectRatio="xMidYMid slice">
+        <!-- altos del este: tintas hipsométricas y curvas de nivel -->
+        <path d="M230 0 C220 26 236 44 226 70 C218 92 232 108 222 132 C214 152 230 176 224 200 C222 214 226 224 224 232 H384 V0Z" fill="#f1ead0"/>
+        <path d="M262 0 C252 22 270 40 258 58 C276 64 300 78 328 96 C350 108 370 112 384 108 V0Z" fill="#e9dfbd"/>
+        <path d="M268 232 C262 208 276 190 268 172 C286 166 310 150 340 138 C360 132 374 134 384 136 V232Z" fill="#e9dfbd"/>
+        <path d="M288 0 C284 20 298 36 322 50 C344 62 366 70 384 70 V0Z" fill="#dfd3aa"/>
+        <path d="M300 232 C298 212 310 196 330 184 C352 172 372 170 384 172 V232Z" fill="#dfd3aa"/>
+        <!-- arbolado del valle -->
+        <path d="M238 150 C262 138 300 126 350 104 L356 112 C310 134 270 148 244 160Z" fill="#d3ddb4"/>
+        <!-- zona urbana de Mánchester -->
+        <path d="M0 62 C30 50 58 60 84 54 C112 46 140 40 164 52 C180 62 172 78 190 92 C206 104 204 122 196 134 C212 148 222 168 208 182 C190 192 176 180 160 190 C148 204 132 226 116 232 H0Z" fill="url(#urb)"/>
+        <g fill="none" stroke="#bf9160" stroke-width=".8">
+          <path d="M230 0 C220 26 236 44 226 70 C218 92 232 108 222 132 C214 152 230 176 224 200 C222 214 226 224 224 232"/>
+          <path d="M246 0 C236 24 254 42 242 64 C258 70 250 92 240 116 C262 122 286 112 316 104 C296 122 262 132 240 142 C234 160 248 180 244 204 C242 216 246 226 246 232" opacity=".8"/>
+          <path d="M262 0 C252 22 270 40 258 58 C276 64 300 78 328 96 C350 108 370 112 384 108"/>
+          <path d="M268 232 C262 208 276 190 268 172 C286 166 310 150 340 138 C360 132 374 134 384 136"/>
+          <path d="M288 0 C284 20 298 36 322 50 C344 62 366 70 384 70"/>
+          <path d="M300 232 C298 212 310 196 330 184 C352 172 372 170 384 172"/>
+          <path d="M306 0 C306 14 318 26 340 34 C360 42 374 42 384 40" opacity=".8"/>
+          <path d="M296 62 C300 52 316 48 326 56 C332 64 322 72 310 70 C302 70 296 68 296 62Z" opacity=".8"/>
+          <path d="M324 232 C326 216 340 204 360 198 C372 196 380 196 384 198" opacity=".8"/>
+        </g>
+        <!-- embalses y ríos -->
+        <g fill="#cfe1e2" stroke="#6ea4b2" stroke-width=".8">
+          <path d="M243 70 C247 64 254 66 256 72 C254 78 246 78 243 70Z"/>
+          <path d="M252 140 C262 134 274 132 284 128 L286 132 C276 136 264 140 254 144Z"/>
+          <path d="M292 124 C304 120 318 114 330 108 L332 112 C320 118 306 124 294 128Z"/>
+        </g>
+        <path d="M0 150 C30 158 60 150 92 166 C120 178 138 204 150 232" fill="none" stroke="#6ea4b2" stroke-width="1"/>
+        <path d="M252 142 C236 150 226 158 214 176 C204 190 186 198 170 214" fill="none" stroke="#6ea4b2" stroke-width=".9"/>
+        <!-- retícula -->
+        <g stroke="#17262e" stroke-width=".4" opacity=".4"><path d="M61.7 0V232M233.1 0V232M0 103.3H384M0 199.4H384M0 7.4H384"/></g>
+        <!-- carreteras -->
+        <g fill="none" stroke="#17262e" stroke-linejoin="round">
+          <path d="M65 126 C84 134 100 140 117 146 C140 152 160 156 178 160 C192 162 202 164 213 167 C232 170 250 170 268 169 C300 168 344 150 384 146" stroke-width="1.5"/>
+          <path d="M169 116 C182 108 196 96 206 86 C214 78 220 68 226 63 C240 60 254 66 268 69 C290 70 320 62 350 54 C364 50 376 48 384 48" stroke-width="1.5"/>
+          <path d="M65 126 C100 124 138 120 169 116 C180 118 188 120 194 122 C200 136 206 152 213 167" stroke-width=".9"/>
+          <path d="M153 56 C158 76 164 96 169 116 C172 132 176 146 178 160 C164 180 142 198 125 209" stroke-width=".9"/>
+          <path d="M254 138 C290 126 324 114 350 109 C364 106 376 104 384 102" stroke-width=".9" stroke-dasharray="5 2.5"/>
+        </g>
+        <g font-family="Overpass Mono,Consolas,monospace" font-size="7.5" font-weight="600" fill="#17262e">
+          <rect x="296" y="55" width="24" height="11" fill="#f8f5e7" stroke="#17262e" stroke-width=".6"/><text x="308" y="63.3" text-anchor="middle">A635</text>
+          <rect x="318" y="148" width="20" height="11" fill="#f8f5e7" stroke="#17262e" stroke-width=".6"/><text x="328" y="156.3" text-anchor="middle">A57</text>
+        </g>
+        <!-- poblaciones -->
+        <g fill="#f8f5e7" stroke="#17262e" stroke-width="1"><circle cx="169" cy="116" r="2.6"/><circle cx="178" cy="160" r="2.6"/><circle cx="153" cy="56" r="2.6"/><circle cx="268" cy="169" r="2.6"/><circle cx="125.5" cy="209" r="2.6"/><circle cx="194" cy="122" r="2.2"/></g>
+        <rect x="58" y="119" width="14" height="14" fill="#17262e"/>
+        <g font-family="Overpass,Segoe UI,sans-serif" fill="#17262e" paint-order="stroke" stroke="#f8f5e7" stroke-width="2.6" stroke-linejoin="round">
+          <text x="14" y="112" font-size="12.5" font-weight="800" letter-spacing="2.2">MÁNCHESTER</text>
+          <text x="120" y="110" font-size="9.5" font-weight="600">Ashton-u.-Lyne</text>
+          <text x="140" y="174" font-size="9.5" font-weight="600">Hyde</text>
+          <text x="112" y="50" font-size="9.5" font-weight="600">Oldham</text>
+          <text x="274" y="182" font-size="9.5" font-weight="600">Glossop</text>
+          <text x="74" y="213" font-size="9.5" font-weight="600">Stockport</text>
+        </g>
+        <g font-family="Spectral,Georgia,serif" font-style="italic" paint-order="stroke" stroke="#f1ead0" stroke-width="2.4" stroke-linejoin="round">
+          <text x="278" y="26" font-size="11" font-weight="600" letter-spacing="2.4" fill="#7c5a33">PÁRAMO DE</text>
+          <text x="270" y="40" font-size="11" font-weight="600" letter-spacing="2.4" fill="#7c5a33">SADDLEWORTH</text>
+          <text x="282" y="214" font-size="10" font-weight="500" letter-spacing="2" fill="#5d7335">PEAK DISTRICT</text>
+          <text x="330" y="88" font-size="8.5" font-weight="500" fill="#7c5a33">· 582 Black Hill</text>
+          <text x="262" y="124" font-size="8.5" font-weight="500" fill="#3e7686" transform="rotate(-19 262 124)">Longdendale</text>
+        </g>
+        <!-- lugares del caso: sobreimpresión -->
+        <path d="M267.4 68.8 L212.6 166.7" stroke="#c4207c" stroke-width="1" stroke-dasharray="1 3" stroke-linecap="round" fill="none"/>
+        <text x="244" y="118" font-family="Overpass Mono,Consolas,monospace" font-size="8" font-weight="600" fill="#c4207c" paint-order="stroke" stroke="#f1ead0" stroke-width="2.4" transform="rotate(-61 244 118)">11 km</text>
+        <g font-family="Overpass,Segoe UI,sans-serif" font-weight="700" font-size="11" text-anchor="middle" fill="#fff">
+          <circle cx="267.4" cy="68.8" r="9" fill="#c4207c" stroke="#fff" stroke-width="1.5"/><text x="267.4" y="72.8">1</text>
+          <circle cx="212.6" cy="166.7" r="9" fill="#c4207c" stroke="#fff" stroke-width="1.5"/><text x="212.6" y="170.7">2</text>
+        </g>
+        <!-- escala y norte -->
+        <g transform="translate(12 214)" font-family="Overpass Mono,Consolas,monospace" font-size="7.5" fill="#17262e">
+          <rect x="-5" y="-13" width="124" height="25" fill="#f8f5e7" opacity=".9"/>
+          <rect x="0" y="0" width="103.6" height="5" fill="#f8f5e7" stroke="#17262e" stroke-width=".8"/><rect x="0" y="0" width="25.9" height="5" fill="#17262e"/><rect x="51.8" y="0" width="25.9" height="5" fill="#17262e"/>
+          <text x="0" y="-3">0</text><text x="51.8" y="-3" text-anchor="middle">5</text><text x="103.6" y="-3" text-anchor="end">10 km</text>
+        </g>
+        <g transform="translate(366 22)" fill="#17262e"><path d="M0 -14 L5 6 L0 2 L-5 6Z"/><text x="0" y="17" text-anchor="middle" font-family="Overpass,Segoe UI,sans-serif" font-weight="800" font-size="9">N</text></g>
+        <g font-family="Overpass Mono,Consolas,monospace" font-size="7.5" fill="#56666c"><text x="64" y="9">2°15′O</text><text x="236" y="9" paint-order="stroke" stroke="#f1ead0" stroke-width="2">2°00′O</text><text x="3" y="100">53°30′N</text><text x="3" y="196">53°25′N</text></g>
+      </svg>
+    </div>
+    <div class="leg">
+      <div><i>1</i><b>Páramo de Saddleworth</b><em>enterramientos</em><span>53°31′48″N 1°57′00″O</span></div>
+      <div><i>2</i><b>Hattersley</b><em>domicilio, último crimen</em><span>53°26′42″N 2°01′48″O</span></div>
+    </div>
+    <div class="facts">
+      <div><span class="lab">Víctimas</span><b>5</b></div>
+      <div><span class="lab">País</span><b>Reino Unido</b></div>
+      <div><span class="lab">Actividad</span><b>1963–1965</b></div>
+      <div><span class="lab">Nacimiento</span><b>2 ene. 1938</b></div>
+    </div>
+    <p class="body" lang="es">Junto a su pareja Myra Hindley secuestró y asesinó a cinco menores en el área de Mánchester, en los llamados «asesinatos de los páramos». Varias víctimas fueron enterradas en el páramo de Saddleworth; el cuerpo de Keith Bennett nunca se ha encontrado. Fue detenido en 1965 tras la denuncia de David Smith, cuñado de Hindley, que presenció el último crimen.</p>
+    <div class="note"><span class="lab over">Situación judicial</span><p>Cadena perpetua. Murió en el hospital de alta seguridad de Ashworth (2017).</p></div>
+    <div class="h5"><b>Hojas contiguas</b><span class="lab">1 vínculo</span></div>
+    <div class="link"><div class="sh"><span></span><i></i></div><div><h4>Myra Hindley</h4><p>Pareja y cómplice en todos los crímenes</p></div><span class="go">→</span></div>
+    <div class="h5"><b>Fuentes</b><span class="lab">10 referencias</span></div>
+    <p class="src"><i>01</i>The Guardian: Peter Stanford, obituario de Myra Hindley (16 de noviembre de 2002).</p>
+  </div>
+  <div class="fade" style="bottom:56px"></div>
+  <div class="listen">
+    <div class="pl"><svg viewBox="0 0 12 12"><path d="M2 1l9 5-9 5z"/></svg></div>
+    <div><h4>Escuchar el caso</h4><p>2 cintas · 10 min 58 s</p></div>
+    <div class="mini">1 a medias<br>2 sin escuchar</div>
+  </div>
+</div>
+<div class="cap"><b>2 · Expediente</b><span>una hoja con su mapa y su leyenda</span></div>
+</div>
+
+<!-- ============ 3 · REGISTROS SONOROS ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <div class="nav">
+      <span class="l"><svg class="ico" viewBox="0 0 24 24"><path d="M13 5l-7 7 7 7M6 12h14"/></svg>Ian Brady</span>
+      <span class="c">REGISTROS SONOROS</span>
+      <span class="adj" style="grid-template-columns:repeat(2,24px)"><span class="on">1</span><span>2</span></span>
+    </div>
+
+    <div class="rec">
+      <svg viewBox="0 0 384 204">
+        <rect x="1" y="1" width="382" height="202" rx="12" fill="#e7e4d6" stroke="#17262e" stroke-width="1.4"/>
+        <rect x="14" y="14" width="258" height="176" rx="5" fill="#cfe1e2" stroke="#17262e" stroke-width="1.1"/>
+        <!-- la cinta 1, dentro -->
+        <g>
+          <rect x="24" y="24" width="238" height="156" rx="7" fill="#f8f5e7" stroke="#17262e" stroke-width="1.3"/>
+          <rect x="36" y="34" width="214" height="62" fill="#fff" stroke="#17262e" stroke-width=".8"/>
+          <rect x="36" y="34" width="214" height="7" fill="#c4207c"/>
+          <text x="44" y="64" font-family="Spectral,Georgia,serif" font-style="italic" font-weight="500" font-size="19" fill="#17262e">Una cabina en Hattersley</text>
+          <path d="M44 72H242" stroke="#17262e" stroke-width=".5"/>
+          <text x="44" y="87" font-family="Overpass Mono,Consolas,monospace" font-size="8.5" fill="#56666c">CINTA 1 DE 2 · HOJA 1938-001</text>
+          <text x="242" y="87" text-anchor="end" font-family="Overpass Mono,Consolas,monospace" font-size="8.5" font-weight="600" fill="#17262e">05:27</text>
+          <rect x="66" y="106" width="154" height="46" rx="23" fill="#cfe1e2" stroke="#17262e" stroke-width="1"/>
+          <circle cx="96" cy="129" r="20" fill="#17262e"/><circle cx="190" cy="129" r="13.5" fill="#17262e"/>
+          <g fill="#f8f5e7" stroke="#17262e" stroke-width=".8"><circle cx="96" cy="129" r="8.5"/><circle cx="190" cy="129" r="8.5"/></g>
+          <g stroke="#17262e" stroke-width="1.6" stroke-linecap="round"><path d="M96 123v-3M101.2 132l2.6 1.5M90.8 132l-2.6 1.5M190 123v-3M195.2 132l2.6 1.5M184.8 132l-2.6 1.5"/></g>
+          <path d="M70 180 L80 160 H206 L216 180" fill="none" stroke="#17262e" stroke-width="1"/>
+          <g fill="#17262e"><circle cx="104" cy="170" r="2.6"/><circle cx="182" cy="170" r="2.6"/><rect x="134" y="167" width="18" height="6" rx="1"/></g>
+          <g fill="none" stroke="#17262e" stroke-width=".8"><circle cx="33" cy="33" r="2.2"/><circle cx="253" cy="33" r="2.2"/><circle cx="33" cy="171" r="2.2"/><circle cx="253" cy="171" r="2.2"/></g>
+        </g>
+        <!-- panel derecho -->
+        <rect x="286" y="16" width="84" height="64" fill="url(#grille)" opacity=".85"/>
+        <text x="286" y="100" font-family="Overpass,Segoe UI,sans-serif" font-weight="600" font-size="8" letter-spacing="1.2" fill="#56666c">CONTADOR</text>
+        <g font-family="Overpass Mono,Consolas,monospace" font-weight="600" font-size="15" fill="#17262e" text-anchor="middle">
+          <rect x="286" y="105" width="84" height="26" fill="#f8f5e7" stroke="#17262e" stroke-width="1"/><path d="M314 105v26M342 105v26" stroke="#17262e" stroke-width=".6"/>
+          <text x="300" y="123.5">1</text><text x="328" y="123.5">3</text><text x="356" y="123.5">4</text>
+        </g>
+        <circle cx="291" cy="150" r="4.5" fill="#c4207c"/><text x="301" y="153" font-family="Overpass,Segoe UI,sans-serif" font-weight="700" font-size="8" letter-spacing="1" fill="#17262e">REPRODUCE</text>
+        <circle cx="291" cy="168" r="4.5" fill="none" stroke="#17262e" stroke-width="1"/><text x="301" y="171" font-family="Overpass,Segoe UI,sans-serif" font-weight="600" font-size="8" letter-spacing="1" fill="#56666c">FIN DE CINTA</text>
+        <text x="286" y="190" font-family="Spectral,Georgia,serif" font-style="italic" font-size="10.5" fill="#56666c">casete gastado</text>
+      </svg>
+    </div>
+
+    <div class="now">
+      <div class="t">02:14<small>/ 05:27</small></div>
+      <div class="w"><span class="lab over">Cinta 1 de 2 · El hallazgo</span><b>Una cabina en Hattersley</b></div>
+    </div>
+    <div class="scale">
+      <div class="bar"><i style="flex:60"></i><i style="flex:60"></i><i style="flex:60"></i><i style="flex:60"></i><i style="flex:60"></i><i style="flex:27"></i></div>
+      <div class="fill"></div>
+      <svg class="pin" viewBox="0 0 14 19"><path d="M7 18 C3 12 1 9.5 1 6.6 A6 6 0 0 1 13 6.6 C13 9.5 11 12 7 18Z" fill="#c4207c" stroke="#17262e" stroke-width="1"/><circle cx="7" cy="6.8" r="2" fill="#fff"/></svg>
+      <span class="tk" style="left:0;transform:none">0</span><span class="tk" style="left:70.5px">1</span><span class="tk" style="left:141px">2</span><span class="tk" style="left:211.4px">3</span><span class="tk" style="left:281.8px">4</span><span class="tk" style="left:352.3px">5</span><span class="tk" style="right:0;left:auto;transform:none">min</span>
+    </div>
+    <div class="keys">
+      <div class="key"><svg viewBox="0 0 16 14"><path d="M8 1l6 6H2zM2 9.5h12V13H2z"/></svg>Expulsar</div>
+      <div class="key"><svg viewBox="0 0 16 14"><path d="M8 1v12L1 7zM15 1v12L8 7z"/></svg>−15 s</div>
+      <div class="key on"><svg viewBox="0 0 16 14"><path d="M3 1h3.6v12H3zM9.4 1H13v12H9.4z"/></svg>Pausa</div>
+      <div class="key"><svg viewBox="0 0 16 14"><path d="M1 1l7 6-7 6zM8 1l7 6-7 6z"/></svg>+30 s</div>
+      <div class="key"><svg viewBox="0 0 16 14"><path d="M1 1l8 6-8 6zM11 1h3.4v12H11z"/></svg>Cinta 2</div>
+    </div>
+
+    <div class="h5"><b>Caja de cintas</b><span class="lab">Arrastra o toca para cambiar</span></div>
+    <div class="box">
+      <div class="slot"><b>Cinta 1</b><span class="lab">En la grabadora</span><span class="lab mono" style="letter-spacing:0">a medias · 02:14</span></div>
+      <div class="tape2">
+        <svg viewBox="0 0 186 112">
+          <rect x="1" y="1" width="184" height="110" rx="6" fill="#f8f5e7" stroke="#17262e" stroke-width="1.3"/>
+          <rect x="10" y="9" width="166" height="46" fill="#fff" stroke="#17262e" stroke-width=".8"/>
+          <rect x="10" y="9" width="166" height="6" fill="#17262e"/>
+          <text x="16" y="32" font-family="Spectral,Georgia,serif" font-style="italic" font-weight="500" font-size="13.5" fill="#17262e">Lo que aún guarda</text>
+          <text x="16" y="47" font-family="Spectral,Georgia,serif" font-style="italic" font-weight="500" font-size="13.5" fill="#17262e">el páramo</text>
+          <text x="170" y="47" text-anchor="end" font-family="Overpass Mono,Consolas,monospace" font-size="8" font-weight="600" fill="#17262e">05:31</text>
+          <rect x="46" y="62" width="94" height="28" rx="14" fill="#cfe1e2" stroke="#17262e" stroke-width=".9"/>
+          <circle cx="62" cy="76" r="11.5" fill="#17262e"/><circle cx="124" cy="76" r="6.5" fill="#17262e"/>
+          <g fill="#f8f5e7" stroke="#17262e" stroke-width=".7"><circle cx="62" cy="76" r="5"/><circle cx="124" cy="76" r="5"/></g>
+          <path d="M48 111 L55 97 H131 L138 111" fill="none" stroke="#17262e" stroke-width=".9"/>
+          <g fill="#17262e"><circle cx="72" cy="104" r="1.8"/><circle cx="114" cy="104" r="1.8"/></g>
+        </svg>
+      </div>
+      <svg class="hint" viewBox="0 0 86 40"><path d="M80 34 C70 12 44 6 12 12" fill="none" stroke="#c4207c" stroke-width="1.3" stroke-dasharray="4 3" stroke-linecap="round"/><path d="M19 5 L10 12.5 L20 17" fill="none" stroke="#c4207c" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </div>
+    <div class="t2cap"><span class="lab">&nbsp;</span><span class="lab">Cinta 2 · Epílogo · <span class="over">sin escuchar</span></span></div>
+
+    <div class="h5" style="margin-top:9px"><b>Leer el caso</b><span class="lab">Toca un hito para saltar a él</span></div>
+    <div class="it">
+      <div class="wp done"><span class="tm">01:54</span><i class="dot"></i><span class="lab" style="color:var(--ink-3)">Nota del inspector</span><p>Y que hablaba del páramo de Saddleworth, en las colinas al noreste de la ciudad, como de un lugar suyo.</p></div>
+      <div class="wp now2"><span class="tm">02:13</span><i class="dot"></i><span class="lab over">Archivo · sonando</span><p>En la casa había libros, cuadernos y muchos papeles. Los agentes lo revisaron todo, página por página. En un cuaderno escolar, entre garabatos y nombres sueltos, apareció uno que les sonaba: John Kilbride.</p></div>
+      <div class="wp"><span class="tm">02:28</span><i class="dot"></i><span class="lab">Archivo</span><p>Un niño de doce años que desapareció un sábado de noviembre de 1963 en el mercado de Ashton-under-Lyne.</p></div>
+    </div>
+  </div>
+  <div class="fade" style="bottom:0;height:34px"></div>
+</div>
+<div class="cap"><b>3 · Grabadora</b><span>cinta 1 sonando, cinta 2 en la caja</span></div>
+</div>
+
+<script>
+/* ---------- Planisferio (proyección estereográfica de Gall, centrada en 10° E), con la geografía que ya lleva la app ---------- */
+const LAND="M198.9 152.9L197.3 149.8L196.8 144.6L193.8 138.3L194.7 132.7L196.0 130.5L195.6 126.1L194.4 123.2L195.3 122.8L194.5 122.9L192.0 118.8L575.7 118.5L192.1 118.6L576.0 118.5L574.6 116.0L575.3 114.8L192.0 115.0L575.9 115.0L575.3 114.6L575.7 110.1L574.1 108.9L571.8 109.7L571.2 108.0L569.3 106.8L563.2 109.1L561.9 108.4L556.5 109.4L552.0 105.8L550.7 102.5L548.9 100.8L549.2 99.8L548.3 100.0L547.4 99.2L547.5 97.9L548.9 97.9L547.8 98.0L546.6 96.2L548.2 92.5L548.0 89.0L547.1 88.1L548.4 84.1L551.5 78.6L554.5 76.6L555.5 72.2L558.0 70.2L559.0 67.6L563.3 68.6L566.7 66.6L575.7 65.4L192.1 65.5L192.4 66.3L193.1 65.8L192.5 67.1L193.2 68.4L192.0 70.0L194.4 71.8L197.5 72.4L198.1 73.8L201.7 75.4L202.8 74.4L202.8 72.7L204.4 71.7L208.2 73.6L212.3 74.6L214.5 73.5L215.6 74.2L217.8 73.9L219.7 69.4L219.9 66.2L216.3 67.3L214.7 66.2L213.0 67.1L212.2 66.3L210.6 66.3L211.5 65.9L210.4 65.9L210.4 64.5L209.4 64.1L210.3 63.8L209.3 61.6L212.3 61.0L213.2 60.5L212.4 59.8L214.7 60.0L216.9 58.6L218.7 58.5L222.3 60.2L225.5 59.5L225.5 57.5L220.4 53.9L222.4 52.5L221.6 51.7L223.0 50.7L218.9 52.0L218.7 53.1L220.3 53.6L220.2 54.1L217.5 55.1L216.0 53.5L217.2 52.5L215.3 52.2L215.0 51.8L216.1 51.7L215.2 50.8L215.3 51.7L214.2 51.8L212.9 53.1L212.9 54.4L212.2 54.2L210.7 57.9L212.2 60.1L210.7 60.1L209.3 61.5L209.9 60.7L208.1 60.1L206.7 60.5L206.9 61.6L205.5 60.8L206.2 62.8L205.4 63.2L207.0 64.8L205.9 64.6L206.0 66.7L205.3 66.7L203.9 64.6L206.0 64.2L203.9 63.9L203.9 63.0L201.9 61.0L202.2 59.0L198.4 56.4L196.9 53.7L196.1 54.4L195.4 53.0L194.4 53.5L194.6 55.3L196.8 58.3L198.6 58.8L198.3 59.4L201.0 61.3L200.9 61.8L199.4 60.9L199.0 61.9L199.7 63.0L198.1 64.6L198.6 63.1L198.1 61.6L193.2 58.1L192.0 55.6L574.7 55.0L571.9 57.0L569.7 56.3L568.8 56.9L568.8 58.7L566.4 60.0L565.3 61.8L565.5 63.4L564.6 65.0L563.0 66.3L560.7 66.3L559.3 67.3L558.0 65.5L555.7 65.9L555.5 56.9L557.1 56.0L563.6 56.5L564.2 53.4L564.7 54.2L564.1 52.2L563.1 51.4L563.5 50.8L560.7 49.9L560.3 48.8L563.9 48.6L563.4 47.0L565.8 47.3L567.2 45.0L569.8 44.3L569.0 44.0L569.9 44.2L569.6 43.4L571.2 41.3L573.0 41.3L573.5 40.6L574.4 41.1L574.5 40.3L575.8 40.8L574.6 39.6L574.0 36.6L574.0 35.8L575.1 35.7L574.3 35.2L576.0 34.2L192.7 33.9L192.3 35.8L193.0 36.1L192.2 37.1L576.0 37.1L192.0 37.2L576.0 37.3L575.4 38.4L575.9 38.9L192.0 39.0L575.9 39.3L192.2 39.3L193.5 40.2L195.2 39.4L196.9 40.7L196.1 39.9L199.7 38.9L202.0 39.5L203.9 37.5L203.3 38.5L203.9 38.6L203.8 35.8L204.5 34.2L205.4 34.0L206.6 35.2L207.3 34.7L207.5 32.9L206.7 32.9L206.4 31.5L213.5 30.3L211.7 28.9L205.9 30.4L204.2 29.1L204.3 24.5L208.4 21.3L207.6 19.7L205.2 19.7L204.2 20.7L204.3 22.2L203.5 23.3L199.9 25.7L199.7 28.9L201.6 30.5L200.5 31.2L201.1 31.1L200.8 31.6L198.6 32.4L199.4 32.7L198.4 36.5L195.5 37.9L192.6 30.5L192.2 31.8L575.6 31.6L573.3 33.5L571.3 32.4L572.2 30.8L570.8 31.4L572.8 29.2L570.8 30.7L571.4 28.9L570.7 28.3L573.4 28.0L571.0 28.2L570.6 26.8L572.5 26.8L570.8 26.3L574.0 25.3L572.5 25.4L573.4 24.7L574.5 25.1L574.5 23.8L576.0 24.2L192.0 24.2L193.3 23.0L192.1 23.9L575.9 23.9L575.9 23.1L192.0 22.9L194.9 20.9L194.3 20.6L195.0 19.3L196.3 18.9L195.3 19.0L195.4 18.3L197.8 17.2L196.7 17.1L198.0 17.0L197.1 16.1L200.1 15.0L198.9 14.8L200.8 13.0L201.4 13.3L202.3 12.3L202.3 13.1L203.0 12.1L202.8 13.2L203.3 12.1L204.8 12.3L204.1 11.5L205.5 11.2L206.2 12.0L207.6 10.0L208.8 10.3L208.0 11.8L209.6 10.2L209.7 11.2L211.4 9.9L211.4 11.5L212.1 10.3L214.3 11.2L212.0 11.7L213.0 12.5L215.5 12.1L216.5 12.5L215.9 13.0L217.0 13.1L216.7 13.7L219.6 13.5L225.0 16.3L225.3 17.9L222.6 19.3L215.4 17.3L218.3 19.5L218.7 22.3L221.3 23.4L221.9 22.9L220.4 21.7L220.7 21.0L223.7 22.0L224.5 21.7L223.8 20.2L226.4 18.5L228.4 19.4L228.5 15.3L227.6 14.5L230.3 14.9L231.1 16.0L229.2 16.9L230.9 18.0L232.2 17.7L233.3 15.9L237.2 15.1L238.7 13.9L239.5 13.9L238.1 15.3L244.3 13.9L245.0 15.1L246.3 13.9L245.5 12.7L246.3 12.3L249.8 12.9L254.4 15.1L255.1 14.0L252.7 12.8L253.1 10.5L252.4 9.9L254.2 8.7L255.4 6.2L257.6 6.3L259.0 6.7L258.0 9.1L258.9 10.1L258.8 13.9L259.8 14.8L257.6 18.2L254.9 18.0L258.2 19.0L261.1 16.2L260.7 15.0L261.5 14.1L262.9 13.9L263.7 16.2L265.5 16.5L264.1 16.2L264.2 14.1L260.0 13.5L260.6 10.8L259.3 9.2L261.3 7.8L261.1 6.5L262.0 6.9L262.1 9.5L265.6 10.1L262.4 8.3L264.7 8.3L263.9 7.8L265.0 7.3L270.0 8.6L269.0 10.8L269.9 10.2L270.0 11.8L270.7 10.9L270.0 9.8L270.4 8.7L267.5 7.1L267.3 5.0L274.0 4.3L272.8 5.2L273.8 5.9L273.0 5.2L274.7 4.5L273.1 3.5L274.4 3.4L272.8 2.8L274.2 2.5L274.1 1.7L281.7 0.2L280.4 0.2L280.8 -0.2L284.3 0.2L286.6 -0.5L287.8 -0.1L287.5 0.4L287.8 -0.3L286.8 -1.1L289.7 -0.9L289.0 -1.2L289.1 -2.1L292.5 -3.6L294.5 -2.9L292.5 -2.3L295.9 -1.9L294.8 -1.1L299.9 -1.5L302.8 0.3L302.4 0.9L301.3 0.4L302.6 1.1L301.8 2.0L293.5 6.5L299.5 4.7L298.4 4.6L298.9 4.1L301.9 4.3L302.6 6.8L302.1 6.5L303.0 4.9L307.7 4.9L308.2 5.1L307.7 5.6L309.1 6.1L312.0 6.3L313.2 5.7L313.0 4.8L314.2 4.6L319.0 5.9L318.5 6.3L319.2 6.7L318.3 7.0L319.2 7.9L317.6 7.3L321.2 10.5L322.8 8.2L323.9 9.2L326.5 8.8L328.5 9.8L328.8 8.9L330.7 9.1L330.0 8.2L330.9 7.7L329.7 7.4L331.8 6.9L331.4 6.3L335.3 6.8L337.3 7.2L335.2 7.7L338.0 7.5L336.1 8.7L339.6 7.5L341.3 8.1L340.2 8.6L342.0 9.0L341.4 9.6L342.6 9.3L344.0 10.4L348.5 9.9L351.3 10.4L351.8 12.4L353.0 12.7L352.9 14.7L354.5 12.6L360.4 12.5L362.3 14.3L363.7 13.8L362.8 12.7L363.2 11.8L369.0 12.2L378.3 16.4L379.7 19.0L379.1 17.4L380.1 17.4L382.1 17.7L384.3 19.4L383.3 20.1L382.5 19.8L382.8 20.4L381.0 20.0L381.6 21.2L380.7 21.6L381.5 22.3L380.6 22.6L378.2 21.6L377.5 20.4L375.0 20.4L374.9 18.7L374.2 18.8L373.6 19.4L374.0 20.3L372.7 21.6L371.8 22.0L369.5 21.1L370.2 21.7L367.5 21.8L369.1 21.5L371.4 22.4L372.9 25.3L372.4 26.1L370.2 25.3L365.7 27.5L363.0 30.1L361.8 29.1L358.7 30.3L358.8 29.3L357.3 30.4L356.0 30.0L354.1 33.4L355.4 33.8L354.9 34.8L355.6 36.4L355.0 36.7L354.9 36.0L354.2 36.7L354.2 38.9L352.1 39.8L352.0 41.5L350.4 41.7L350.0 43.6L348.5 44.9L347.3 38.1L347.7 35.7L348.7 33.8L350.2 33.5L354.2 29.3L356.0 28.5L356.5 26.1L357.8 25.8L356.7 25.4L355.6 25.7L355.3 27.4L352.2 29.0L352.3 26.8L348.9 27.2L345.9 30.4L346.8 31.5L342.7 32.0L343.6 31.3L341.0 30.5L340.0 31.4L333.4 31.4L325.6 38.6L327.2 39.1L327.2 40.4L328.2 39.6L327.7 40.8L329.1 40.2L329.0 40.8L329.3 39.6L330.4 39.7L332.1 41.2L331.6 41.6L332.3 43.0L330.8 48.9L325.8 55.9L323.4 57.6L321.9 56.8L319.7 59.1L319.7 60.3L317.4 61.9L317.2 62.7L319.4 65.8L319.2 68.5L316.3 69.7L316.4 64.8L314.3 64.3L315.3 63.5L315.1 62.3L314.0 61.6L310.6 63.4L311.7 60.8L311.3 60.1L308.2 62.8L307.0 62.8L306.8 63.9L308.2 64.4L308.4 65.6L310.1 64.7L312.2 65.3L309.5 67.0L308.4 69.0L309.6 69.8L311.3 73.2L309.4 73.1L311.3 74.5L309.5 75.4L311.6 75.9L311.1 78.1L308.4 81.0L308.9 82.0L305.6 85.3L303.2 86.2L302.4 85.1L302.5 86.3L299.1 87.5L299.0 88.9L298.6 87.3L297.2 86.7L295.1 87.9L294.0 90.6L297.4 95.4L298.1 99.0L297.6 100.6L295.0 101.8L295.0 102.5L294.5 102.1L295.0 102.8L294.2 102.4L294.6 103.2L293.5 104.1L293.4 102.3L291.4 101.2L290.8 99.5L289.0 98.9L289.0 97.9L288.0 98.0L287.2 103.3L287.8 103.3L288.5 106.0L291.4 108.5L292.5 113.5L289.4 111.6L288.1 107.0L286.2 104.7L286.8 100.1L285.6 93.8L284.6 92.7L283.1 94.9L282.4 93.9L281.8 94.5L282.2 92.5L281.1 90.1L281.6 90.0L279.8 88.2L278.0 84.5L277.6 86.8L277.3 86.0L276.9 86.9L276.8 86.2L276.6 87.0L276.3 86.5L276.0 87.2L275.9 86.4L275.3 87.1L275.1 86.1L273.9 88.8L272.3 89.6L269.1 93.8L267.0 94.9L266.5 101.9L265.5 102.9L266.0 103.4L265.0 103.5L264.0 104.9L263.0 103.8L259.6 93.9L259.0 86.3L258.3 86.2L258.2 87.7L256.5 88.1L254.9 86.2L256.5 85.1L254.7 85.2L254.7 84.1L253.4 84.1L252.2 81.8L246.8 82.4L243.0 81.7L241.8 79.7L239.6 80.5L236.4 78.7L234.7 75.5L233.6 75.0L232.5 75.7L232.2 76.6L234.8 80.3L235.4 82.7L235.7 81.2L236.3 81.3L236.1 83.5L239.1 83.7L241.5 80.7L241.8 83.3L244.0 84.6L245.1 86.2L243.1 88.9L243.0 90.6L240.1 93.2L237.4 93.9L237.0 95.0L233.2 97.1L228.2 99.0L226.4 92.7L223.2 88.0L222.4 84.3L218.3 78.4L218.6 76.4L217.8 78.8L216.0 75.8L219.5 84.0L219.4 85.3L220.7 86.6L221.3 90.8L222.5 91.8L223.8 95.7L225.3 96.3L227.6 99.3L226.7 100.4L229.3 101.8L235.5 99.8L236.1 101.9L232.5 109.5L224.2 118.7L222.7 123.1L223.5 124.3L223.7 128.2L224.7 129.0L224.9 134.4L223.8 136.6L218.3 140.9L219.2 146.7L216.3 148.9L216.0 152.3L213.3 156.6L209.7 160.0L202.3 161.4L200.9 160.6L200.8 157.2L198.9 152.9ZM120.3 108.1L120.6 107.6L123.4 107.7L126.7 110.0L128.1 113.8L125.2 117.3L127.0 116.5L127.6 117.9L128.7 117.5L128.4 118.7L130.8 116.1L133.7 117.5L133.6 119.4L135.1 118.3L138.7 119.0L141.7 121.6L143.6 122.0L144.2 125.6L140.8 131.6L139.9 131.8L139.6 138.3L137.6 144.0L136.5 145.2L133.7 145.4L129.4 148.5L129.3 152.9L125.8 157.7L127.4 155.4L126.6 154.9L125.2 159.2L123.6 161.3L119.6 161.1L119.3 158.2L118.9 160.8L120.4 162.3L120.8 164.6L119.3 166.7L114.8 167.2L114.8 170.3L111.9 170.2L112.0 172.1L113.3 172.1L113.5 172.9L112.0 172.9L112.7 173.3L111.7 174.2L111.3 176.4L109.9 176.8L109.2 178.0L111.1 179.7L111.1 180.9L109.4 182.4L108.9 184.1L107.8 184.1L108.4 184.3L107.2 186.6L108.4 187.7L105.8 188.5L105.3 190.3L104.1 189.4L104.8 189.6L105.4 188.5L103.5 189.3L103.8 188.5L105.1 188.2L103.8 188.1L103.3 189.0L102.8 188.6L103.3 188.0L102.4 188.3L102.1 187.4L104.0 187.6L104.0 186.8L103.3 186.4L103.9 186.9L102.9 187.3L101.2 185.1L101.7 184.6L102.6 185.6L102.8 184.9L102.4 185.4L101.7 184.4L102.6 183.5L101.8 181.0L103.0 181.2L102.7 180.4L101.7 180.5L102.1 179.1L100.6 179.0L102.4 177.0L102.0 178.2L102.7 177.6L102.6 178.8L102.7 177.1L103.5 177.1L103.0 176.5L103.8 175.8L103.2 175.1L104.2 171.2L102.9 171.6L102.4 170.6L103.2 167.8L102.8 165.1L105.1 158.5L106.5 140.9L106.3 139.2L105.1 137.8L100.3 134.2L97.3 126.4L94.7 122.9L94.6 120.8L96.3 118.6L96.2 117.9L95.7 118.8L95.0 118.2L95.0 116.7L95.9 114.3L97.2 113.7L99.1 110.2L98.8 106.8L97.7 104.9L98.4 104.8L96.6 103.7L95.5 104.7L96.0 105.6L95.1 106.0L94.9 105.1L92.2 104.3L90.4 102.0L90.6 102.9L90.0 102.5L89.9 101.0L88.0 98.0L83.9 97.2L80.7 94.2L78.4 95.0L71.0 91.5L68.8 89.3L68.5 85.8L64.7 81.7L64.8 80.5L62.2 77.8L60.0 73.6L58.7 73.1L59.1 75.5L62.3 80.3L63.3 83.5L64.6 84.6L64.0 85.4L62.1 83.2L61.5 80.9L58.7 78.8L59.7 78.9L59.7 77.9L57.9 76.1L56.0 71.2L52.6 69.3L50.7 65.1L51.7 64.4L50.1 64.5L48.7 61.2L49.1 52.3L49.9 52.4L49.0 52.2L48.3 49.0L50.4 49.4L50.0 50.6L50.6 49.7L50.5 50.9L50.9 49.6L50.3 47.4L49.1 47.2L49.2 46.2L48.3 46.5L48.2 45.1L46.8 45.7L46.4 44.8L45.1 44.7L46.2 43.8L45.0 43.8L45.4 42.7L46.2 43.2L45.9 42.0L44.7 43.6L44.7 41.9L43.6 40.9L44.9 41.3L44.2 40.3L43.1 41.3L42.3 40.5L43.1 37.7L42.6 38.4L42.6 37.0L42.1 38.9L41.6 36.7L40.4 37.5L41.0 36.5L39.0 34.9L39.3 33.7L38.4 33.4L38.5 32.6L37.6 32.7L36.9 31.1L37.2 33.1L36.1 31.7L35.2 31.8L36.2 32.7L35.6 33.1L32.2 30.9L33.1 30.4L32.6 30.1L31.6 30.6L30.5 29.9L27.6 30.1L27.0 28.9L25.7 29.3L25.0 28.8L25.3 28.2L23.6 28.6L23.7 28.0L22.9 28.7L23.5 29.3L23.0 30.1L22.0 29.9L19.5 31.5L20.2 30.5L19.4 30.5L19.9 28.8L22.3 28.6L21.3 28.1L21.7 27.5L18.1 29.6L18.5 30.1L16.9 31.5L17.7 32.2L12.3 36.7L7.1 38.7L8.9 37.0L10.4 37.1L10.3 36.3L13.4 34.3L14.1 31.6L12.6 32.5L12.7 31.8L11.9 31.8L11.8 32.8L10.3 31.7L8.4 32.4L8.6 28.9L7.9 30.1L6.7 30.4L5.0 29.2L7.0 28.8L4.7 28.2L4.2 27.0L6.0 24.5L9.5 23.9L9.1 22.3L9.8 21.7L7.7 22.4L4.1 22.0L3.3 21.0L4.1 20.8L2.0 20.1L5.9 18.4L6.8 18.4L6.7 19.3L9.6 19.1L8.1 17.7L9.0 18.6L10.4 18.5L6.9 17.4L3.4 15.1L4.0 14.1L6.2 13.9L8.7 11.3L10.5 10.8L10.8 11.4L11.0 10.4L14.4 9.2L15.4 9.8L15.0 10.3L15.8 9.8L18.9 10.3L19.3 11.1L28.6 11.7L37.1 14.5L36.4 13.7L38.0 12.6L38.2 13.4L43.2 11.8L39.8 13.4L39.3 14.4L40.8 13.0L41.6 13.5L42.5 12.5L43.9 12.4L45.1 11.5L44.8 10.9L47.4 13.2L48.5 11.7L48.7 13.2L51.1 12.3L58.7 14.2L59.8 15.0L58.5 16.1L63.9 15.8L66.1 17.1L65.6 17.4L66.9 18.7L66.2 16.1L68.5 14.6L65.4 15.2L68.1 14.0L69.9 15.6L72.2 16.2L75.8 16.3L76.1 15.6L77.4 16.5L76.1 15.1L79.0 15.3L78.5 16.7L79.6 17.6L78.5 17.5L79.2 18.3L79.5 15.7L81.7 14.6L81.2 13.9L80.4 14.2L81.6 13.0L78.3 11.6L79.1 10.9L78.5 9.6L80.1 8.1L81.3 8.6L83.7 11.6L82.9 11.5L83.2 11.9L82.3 12.6L84.9 13.0L84.0 13.3L85.1 15.3L86.1 13.4L87.4 14.2L87.1 15.8L88.1 17.3L89.9 14.5L90.8 14.3L90.1 12.3L93.5 12.6L94.6 13.6L93.9 14.1L94.6 14.5L93.3 14.9L94.4 17.5L92.2 18.8L90.8 17.6L91.9 19.1L88.8 18.5L89.6 19.2L88.2 20.6L83.8 19.5L88.5 20.9L86.8 23.1L85.3 22.8L84.5 23.8L81.4 22.8L84.6 24.3L82.8 25.2L83.3 25.6L82.6 26.3L81.9 26.0L80.3 29.2L80.0 31.7L80.7 33.0L80.9 32.2L81.9 32.3L82.3 35.3L84.7 34.8L89.9 37.5L90.3 38.3L93.4 38.4L94.1 43.0L95.3 43.7L95.1 44.7L95.9 44.5L96.7 45.3L96.3 44.4L96.8 43.9L97.2 44.6L97.7 42.9L96.3 39.0L98.4 38.0L99.7 36.2L99.3 33.9L97.6 32.3L98.9 30.1L98.6 28.7L97.9 28.7L98.7 27.4L98.0 26.1L98.8 25.6L101.7 26.4L102.7 25.8L105.1 28.1L107.2 28.3L107.0 30.0L106.0 30.0L106.9 30.2L107.4 31.3L106.5 32.2L108.4 32.2L107.7 33.7L108.8 32.7L109.1 33.5L110.5 32.2L110.9 32.8L112.0 31.1L111.5 30.5L112.5 29.6L113.7 31.5L113.1 31.7L114.3 32.4L113.6 32.9L114.6 32.7L113.9 33.5L115.2 33.6L114.7 34.3L115.9 35.1L115.9 35.7L114.7 35.5L117.0 37.2L116.7 38.4L117.6 38.0L117.5 38.8L118.1 38.1L120.1 39.1L116.9 40.7L117.0 41.3L120.1 39.8L120.2 41.0L121.6 41.0L121.3 42.4L121.9 43.0L117.2 46.1L110.4 46.1L107.0 49.3L105.6 48.9L106.8 49.3L106.7 50.0L102.1 53.4L101.6 54.2L102.9 53.5L108.5 48.6L111.4 47.6L112.8 48.2L112.7 48.9L110.2 49.5L112.3 50.0L111.7 51.0L112.5 52.3L116.2 53.7L112.8 54.8L111.5 56.4L110.8 54.9L113.7 53.6L112.1 53.6L112.4 52.7L108.7 55.1L108.0 54.8L106.5 56.0L105.6 58.1L106.7 59.1L105.2 58.9L102.4 60.5L102.4 59.7L102.3 61.9L101.4 63.1L100.8 62.3L101.3 61.6L100.8 61.9L101.3 63.9L100.3 65.7L100.4 62.3L99.7 62.6L99.9 64.3L99.0 63.9L99.2 63.2L100.0 65.8L98.9 65.4L100.3 66.0L100.8 67.6L100.3 66.4L100.5 67.2L99.5 67.0L100.5 67.6L100.1 68.3L99.2 68.0L99.8 69.0L95.1 72.3L94.5 74.1L95.9 80.1L95.5 82.3L94.8 82.4L93.1 79.2L93.2 77.3L91.7 75.6L90.3 76.2L89.3 75.1L85.1 75.2L86.0 75.7L86.0 77.1L85.2 76.4L84.5 76.9L83.3 76.0L81.2 75.8L80.3 76.6L80.0 76.2L79.1 77.6L78.2 77.5L77.0 79.2L77.7 81.2L77.2 87.1L79.0 90.8L80.6 91.7L83.7 91.3L85.0 87.9L88.5 87.1L86.5 94.7L90.7 94.6L92.4 95.5L91.9 100.7L93.8 103.7L96.9 103.0L99.4 105.0L101.1 101.4L105.1 99.2L104.4 102.6L104.9 103.6L105.5 103.2L105.1 101.1L106.9 100.5L106.7 99.5L108.7 101.7L110.7 101.5L111.9 102.3L115.3 101.4L114.2 101.7L116.5 103.2L115.6 104.2L118.2 104.9L119.0 105.8L118.8 107.0L119.5 106.5L120.3 108.1ZM18.2 33.8L18.8 34.4L16.7 35.3L16.5 34.2L17.4 34.7L17.2 33.7L18.2 33.8ZM38.9 36.3L40.3 37.7L40.5 38.9L38.7 37.2L38.9 36.3ZM178.5 43.9L175.7 43.5L176.9 42.8L176.8 41.5L178.4 41.2L177.5 39.2L178.1 38.5L175.9 38.7L176.2 36.6L175.2 37.9L175.8 35.6L174.8 35.6L176.1 32.5L178.1 32.4L176.9 34.2L179.3 34.1L177.8 36.2L178.5 36.4L177.3 36.7L179.0 37.0L181.2 39.9L181.5 40.7L180.6 40.5L181.6 41.2L181.4 41.9L183.2 42.2L181.8 44.2L182.8 44.3L182.4 45.0L175.3 46.4L178.5 43.9ZM173.6 38.3L174.8 38.1L175.5 39.3L174.6 40.1L174.6 42.9L170.8 44.1L170.3 43.0L172.0 42.2L170.8 42.4L171.8 41.4L170.6 41.0L171.1 40.4L170.6 39.7L172.2 39.7L172.5 38.2L173.6 38.3ZM314.1 127.1L317.1 126.1L313.4 128.6L313.3 127.7L314.1 127.1ZM310.4 85.8L310.1 86.7L309.5 84.4L311.0 82.2L310.4 85.8ZM266.6 102.6L268.7 105.9L268.4 107.0L267.2 107.6L266.5 106.5L266.6 102.6ZM235.0 -10.6L236.5 -10.0L233.6 -8.9L231.1 -9.2L235.0 -10.6ZM253.6 -0.5L246.8 1.4L243.8 3.1L241.7 5.5L239.3 5.4L238.7 4.6L241.2 3.1L240.6 2.8L241.6 2.1L241.0 1.7L246.6 -0.6L250.1 -0.8L253.5 -2.1L254.9 -1.5L253.6 -0.5ZM240.3 5.5L241.5 5.7L240.3 8.2L242.4 10.8L238.3 10.3L239.1 9.8L238.3 9.0L236.3 8.8L238.1 5.7L240.3 5.5ZM284.3 -10.9L285.7 -10.2L285.0 -9.1L281.2 -8.6L279.0 -9.3L280.9 -10.8L284.3 -10.9ZM285.5 -8.9L285.5 -8.0L286.5 -8.6L288.1 -8.0L287.0 -7.0L287.9 -6.4L287.4 -6.0L282.7 -6.5L280.6 -7.4L282.7 -8.7L285.5 -8.9ZM291.1 -6.9L290.6 -6.0L292.1 -6.7L293.7 -5.3L287.2 -4.3L289.7 -7.1L291.1 -6.9ZM330.7 0.4L331.5 0.8L332.3 -0.3L336.4 1.0L335.0 2.0L333.1 0.6L334.0 2.1L330.3 2.1L329.7 2.8L327.5 1.6L327.8 0.5L329.4 -0.4L330.7 0.4ZM337.9 1.3L342.2 1.7L339.5 2.5L337.2 1.7L337.5 0.9L337.9 1.3ZM333.6 39.5L335.7 48.6L335.0 47.6L334.0 47.7L333.4 50.0L334.5 52.1L334.3 52.6L333.4 51.6L332.9 52.8L333.0 44.5L332.4 42.9L333.6 39.5ZM373.3 9.0L376.0 9.6L372.0 10.4L373.3 9.0ZM234.9 13.5L233.5 14.4L232.8 13.9L233.6 12.9L234.9 13.5ZM248.9 -10.1L248.0 -10.3L248.7 -10.7L251.1 -10.9L248.9 -10.1ZM247.6 -10.4L246.5 -9.5L244.6 -9.7L245.0 -10.4L247.6 -10.4ZM239.7 -11.0L242.9 -10.3L239.6 -10.2L239.0 -10.5L239.7 -11.0ZM333.0 4.3L334.3 5.6L330.3 5.2L333.0 4.3ZM245.8 12.1L244.9 12.5L243.7 11.4L244.3 11.1L245.8 12.1ZM310.5 91.1L311.8 91.3L312.0 93.1L310.8 95.4L311.2 96.9L313.4 97.4L313.7 99.0L312.1 97.3L312.1 98.2L311.2 97.2L310.0 97.4L310.3 96.3L309.4 96.0L309.1 94.2L309.7 94.4L310.5 91.1ZM315.7 103.2L316.4 105.9L315.9 107.1L315.4 105.9L315.0 108.1L313.7 107.0L313.2 105.2L312.9 105.7L312.1 105.3L311.4 106.3L313.0 104.0L313.4 104.9L315.2 103.6L315.2 102.7L315.7 103.2ZM343.4 120.8L343.9 120.9L343.5 122.3L341.8 123.3L339.6 122.6L341.4 121.7L342.1 122.4L343.4 120.8ZM331.7 118.6L335.4 120.2L336.8 122.2L338.7 123.1L338.3 124.8L342.0 128.9L339.0 128.3L337.1 125.7L335.5 125.0L333.0 125.8L334.3 126.6L333.5 127.3L331.9 127.2L330.8 125.5L329.5 125.9L329.8 124.5L327.8 121.6L324.2 120.2L324.1 119.2L323.1 120.5L322.1 118.9L323.9 118.7L324.2 118.0L322.5 118.2L321.1 117.1L322.6 115.7L324.4 116.4L325.4 119.6L328.3 117.2L331.7 118.6ZM204.4 -5.5L207.9 -3.7L205.7 -2.7L205.5 -3.3L203.7 -3.1L204.4 -4.0L202.9 -5.2L204.4 -5.5ZM203.6 -9.1L205.1 -8.6L205.9 -9.6L206.0 -8.9L207.4 -9.3L210.3 -8.3L208.7 -7.2L205.8 -6.9L200.9 -8.2L201.4 -8.6L200.4 -8.8L202.0 -8.8L202.3 -9.5L203.6 -9.1ZM199.2 -8.3L200.4 -8.1L200.2 -7.2L201.0 -7.7L204.1 -5.8L201.8 -5.0L199.1 -1.2L196.3 -3.2L199.4 -4.0L196.4 -3.7L195.9 -4.3L199.5 -5.0L199.2 -5.6L197.0 -5.8L196.9 -5.1L195.4 -4.7L193.5 -6.2L194.6 -6.3L194.1 -7.0L193.3 -6.6L192.7 -8.0L195.9 -8.2L194.7 -7.6L196.2 -7.1L196.9 -8.1L198.8 -6.3L198.2 -7.9L198.7 -8.6L199.2 -8.3ZM366.0 170.9L367.3 170.5L367.2 171.5L365.5 173.8L365.9 174.7L364.8 174.4L364.0 175.3L363.5 177.7L362.0 178.8L359.2 178.2L359.7 176.3L363.8 173.2L365.1 170.1L365.8 169.7L366.0 170.9ZM366.2 161.7L367.3 162.1L367.7 164.4L368.6 164.9L368.5 163.9L369.2 165.6L371.8 165.6L371.1 167.9L370.2 167.8L368.3 171.3L367.6 170.9L368.2 169.3L366.7 168.0L367.5 167.3L367.9 164.8L366.2 161.7ZM298.3 112.7L300.0 113.5L300.3 111.7L304.5 108.9L305.9 106.3L306.8 106.9L306.7 107.7L308.5 108.4L306.2 110.6L308.3 114.0L307.1 113.9L306.7 116.3L305.4 117.6L305.3 119.3L303.7 120.6L303.3 119.4L301.9 119.1L300.6 119.8L300.5 119.0L298.9 119.1L297.5 114.8L298.3 112.7ZM234.2 131.3L235.1 135.5L234.3 135.4L231.7 147.7L229.6 148.8L228.3 148.0L227.5 144.5L228.7 141.2L228.2 137.8L228.8 136.3L230.8 135.9L232.5 134.3L232.5 132.9L233.8 130.9L234.2 131.3ZM334.7 55.5L336.4 55.2L336.2 56.2L336.9 56.6L334.9 57.3L334.1 58.6L331.2 57.8L331.9 58.9L330.8 59.5L330.5 57.8L331.1 56.7L332.1 56.7L332.4 53.6L334.7 55.5ZM321.3 70.7L322.1 71.7L320.7 74.3L320.8 73.4L320.6 74.1L320.2 73.8L320.6 71.8L320.3 71.3L319.8 72.2L319.6 71.2L320.8 70.3L321.3 70.7ZM324.6 69.8L324.5 71.2L323.9 70.9L323.0 71.9L322.2 71.1L324.6 69.8ZM332.0 59.6L332.8 62.4L331.7 64.3L331.0 68.5L330.5 68.8L330.6 67.8L329.5 69.3L329.3 68.6L328.7 69.3L327.3 68.7L327.3 69.7L326.1 70.9L325.8 69.3L325.1 69.1L322.5 69.7L322.3 70.4L321.0 70.2L323.1 68.0L326.3 67.9L327.3 65.4L327.8 65.2L327.7 66.3L328.9 65.6L330.5 63.2L330.6 60.6L331.1 59.8L331.9 60.3L332.0 59.6ZM197.9 64.2L197.5 66.4L194.6 64.7L197.9 64.2ZM191.6 60.3L191.5 62.8L190.6 63.1L190.1 60.3L191.2 59.7L191.6 60.3ZM284.3 108.5L285.4 108.6L291.1 114.4L290.7 115.0L291.9 114.9L291.7 116.0L292.7 116.7L293.0 118.6L293.8 118.3L294.4 119.3L294.1 122.8L292.9 122.9L289.7 119.4L286.5 112.9L283.1 109.0L283.0 108.1L284.3 108.5ZM312.3 126.4L309.1 126.5L310.0 125.9L311.8 126.4L312.4 125.7L312.3 126.4ZM307.5 126.0L308.4 126.5L305.9 126.9L306.3 126.1L307.2 126.5L306.9 125.8L307.5 126.0ZM314.6 114.0L313.3 114.9L309.5 114.9L310.0 117.0L313.0 116.3L310.8 117.7L312.4 120.9L311.0 121.4L310.0 118.7L309.8 122.5L308.9 122.5L308.9 120.5L308.0 118.8L309.6 114.0L313.4 114.2L314.7 113.1L314.6 114.0ZM295.9 123.0L297.3 124.0L299.1 124.2L299.6 123.6L301.4 124.2L301.9 125.1L303.4 125.3L303.6 126.6L294.9 124.8L293.6 124.0L294.5 122.9L295.9 123.0ZM317.6 114.2L318.6 113.3L318.1 114.3L318.8 115.0L317.7 114.9L318.3 116.4L317.3 113.8L317.9 112.4L317.6 114.2ZM319.7 119.0L320.9 120.2L319.8 119.6L317.8 119.8L318.1 119.0L319.7 119.0ZM164.8 19.0L165.8 18.8L165.2 19.3L166.8 20.3L166.8 21.2L161.4 24.1L157.2 23.4L158.3 22.0L155.7 21.5L158.0 21.2L157.3 20.9L158.0 20.5L155.2 20.3L156.5 19.9L155.9 19.7L156.3 19.1L157.4 19.6L156.9 18.6L158.5 19.4L158.8 20.8L159.8 19.3L160.5 19.9L161.2 19.1L162.0 19.9L161.8 19.2L162.6 19.5L164.0 18.5L164.8 19.0ZM104.8 91.9L101.9 91.4L104.1 91.1L103.3 89.4L106.7 89.7L108.4 91.1L105.6 91.5L105.1 92.4L104.8 91.9ZM149.4 -16.6L153.8 -15.9L147.2 -15.2L154.5 -15.6L158.2 -14.5L156.7 -13.7L149.5 -13.1L154.5 -13.0L155.4 -12.3L158.6 -13.1L158.7 -12.1L156.7 -10.2L160.4 -12.2L162.7 -11.6L166.1 -12.6L169.1 -11.8L163.5 -9.8L164.3 -9.5L163.7 -9.1L159.8 -8.6L161.1 -6.7L158.8 -5.6L158.2 -3.6L160.5 -3.6L159.5 -3.0L161.7 -2.6L161.8 -1.9L157.2 -1.5L160.5 0.5L160.5 1.7L157.6 1.8L158.9 1.9L159.1 2.8L160.0 2.1L160.8 3.0L159.3 3.8L157.9 3.6L157.9 2.9L157.5 3.5L159.6 4.4L159.5 5.1L157.5 5.6L154.1 4.4L154.9 5.1L152.2 5.2L153.0 5.6L151.9 5.8L155.6 5.3L157.8 6.3L157.6 7.8L155.7 7.1L155.1 6.0L152.9 6.7L154.9 6.3L154.5 7.4L157.9 8.6L157.4 9.3L158.1 9.1L158.4 11.0L157.5 11.1L157.4 10.3L156.5 11.1L155.1 9.6L152.5 8.8L153.9 9.7L151.0 10.0L151.4 10.6L150.3 11.1L152.9 11.1L152.1 12.0L154.1 11.3L157.6 11.9L153.1 14.5L148.3 15.6L146.9 14.9L147.0 15.8L144.4 18.7L143.1 18.6L143.3 19.2L141.1 20.2L141.6 18.9L140.6 18.8L140.6 20.0L138.5 20.3L139.0 20.8L137.5 21.2L138.5 22.2L137.0 22.5L138.1 23.6L137.2 24.7L136.3 24.5L136.6 25.3L135.5 25.4L136.4 25.6L136.4 26.9L135.4 29.2L134.5 29.1L135.3 29.5L135.1 30.2L132.9 29.7L133.6 29.0L132.2 29.0L132.4 28.0L130.0 28.8L130.4 28.4L128.8 27.3L129.2 26.5L127.7 25.8L128.2 24.8L127.6 25.2L126.4 23.5L127.7 22.7L126.3 22.9L126.5 22.2L127.9 21.8L127.0 20.9L127.2 21.7L125.8 22.5L125.3 20.7L126.8 19.9L124.6 20.2L124.4 19.3L126.7 17.8L124.1 19.2L125.5 17.8L124.1 17.6L123.9 16.8L125.3 16.2L127.3 16.6L125.5 16.1L124.0 16.6L124.6 15.4L126.3 15.7L126.8 15.0L124.4 15.2L124.8 14.6L126.8 14.6L126.8 13.6L127.7 13.5L126.9 13.5L127.7 11.9L125.6 11.8L123.2 10.6L127.3 11.2L126.1 10.0L126.9 10.0L124.8 9.7L126.1 8.7L124.3 8.9L124.1 7.4L123.8 9.1L122.0 9.0L122.8 7.3L122.0 7.7L122.0 7.2L122.9 6.4L122.0 6.1L122.4 5.4L121.4 3.8L120.3 3.8L121.3 3.0L118.9 1.3L118.9 0.6L113.8 -0.7L108.5 -0.2L107.2 -0.8L108.7 -1.4L105.4 -2.2L110.5 -2.7L110.6 -3.3L107.4 -3.1L103.8 -5.0L111.1 -6.7L112.9 -8.7L110.0 -8.7L109.9 -9.4L112.5 -10.7L114.1 -10.5L114.1 -11.2L115.8 -11.0L116.1 -12.4L116.9 -12.8L120.9 -11.6L118.1 -13.0L123.1 -13.8L124.1 -13.4L124.2 -12.2L124.8 -13.7L128.5 -12.8L127.0 -13.9L128.0 -14.1L133.6 -12.5L134.1 -14.1L132.7 -14.7L137.2 -14.7L132.1 -15.4L138.3 -16.0L140.6 -15.3L140.0 -16.1L141.1 -16.4L149.4 -16.6ZM125.1 12.1L126.0 12.7L124.2 13.4L122.8 12.5L123.3 11.4L125.1 12.1ZM133.5 -13.2L130.8 -14.3L133.4 -14.1L133.5 -13.2ZM154.2 10.2L153.4 11.1L151.4 11.0L151.9 10.2L154.2 10.2ZM194.7 37.2L194.0 38.8L193.0 37.3L194.4 36.6L194.7 37.2ZM94.0 85.0L96.2 85.4L102.2 89.0L98.4 89.5L99.0 88.4L97.4 87.1L94.0 86.3L94.0 85.7L90.8 86.8L91.7 85.7L94.0 85.0ZM299.6 89.3L298.7 91.4L297.3 91.2L297.9 89.4L299.6 89.3ZM108.1 191.8L104.6 191.4L106.3 191.3L106.1 189.9L106.4 191.0L107.7 191.1L106.5 190.3L107.3 189.4L106.2 189.2L107.2 188.0L109.6 190.5L111.8 191.6L108.1 191.8ZM45.7 45.5L47.5 46.0L49.8 48.9L44.9 46.3L45.4 45.6L44.5 45.2L45.7 45.5ZM64.2 -5.6L64.5 -4.9L60.5 -4.9L64.2 -5.6ZM63.5 -4.4L64.4 -4.3L63.1 -3.9L63.8 -3.7L63.6 -3.1L60.6 -3.3L60.6 -4.0L63.5 -4.4ZM58.1 -2.9L57.2 -2.4L57.7 -1.5L56.3 -0.6L55.5 -0.8L55.6 -1.7L53.4 0.3L50.2 -0.3L54.3 -2.7L58.1 -2.9ZM65.8 -0.1L67.3 0.7L67.5 -0.0L68.7 0.1L68.3 1.8L61.3 3.2L59.4 2.6L62.8 1.5L60.0 1.9L60.3 1.2L59.7 1.2L57.9 2.1L55.9 1.5L58.5 0.7L56.4 0.7L58.7 0.2L56.9 0.1L58.9 -0.4L57.8 -0.6L58.7 -1.0L62.9 0.9L65.0 1.0L63.7 -0.8L65.2 -1.7L65.8 -0.1ZM59.2 6.9L61.1 6.1L62.6 6.7L62.2 7.5L64.0 6.1L66.3 8.8L66.9 8.3L65.9 5.8L67.8 5.7L68.9 6.5L69.9 9.9L73.5 11.7L73.7 12.5L71.0 12.6L71.3 13.5L72.4 12.9L72.8 13.5L71.6 14.2L67.6 13.0L64.6 14.5L60.7 14.8L60.1 13.5L57.1 13.1L56.3 11.9L62.3 11.4L60.0 10.6L55.9 10.7L55.2 10.0L58.3 9.1L55.5 9.3L55.7 8.7L54.4 8.5L55.1 7.0L57.0 6.0L59.4 5.4L59.2 6.9ZM53.6 3.9L56.0 3.6L58.2 5.1L54.3 6.8L52.7 9.0L50.0 9.9L47.1 8.1L49.3 4.6L48.3 3.4L51.7 3.0L53.6 3.9ZM107.2 -15.3L110.5 -15.1L108.3 -14.5L113.5 -14.8L113.9 -14.0L116.0 -13.6L108.1 -11.4L112.2 -11.7L107.1 -9.4L105.9 -9.7L106.4 -9.0L104.5 -8.8L106.1 -8.7L105.2 -8.0L102.0 -8.3L103.1 -7.4L99.3 -7.5L101.8 -6.5L97.5 -6.5L101.9 -5.8L99.8 -5.3L101.1 -4.9L98.1 -4.1L97.6 -2.9L94.2 -3.2L94.0 -2.5L97.8 -2.0L97.8 -1.2L95.1 -0.4L93.3 -1.5L93.6 -1.0L91.5 -1.4L90.5 -0.6L87.0 -0.8L86.9 -1.6L86.9 -0.9L85.8 -1.0L86.9 -2.2L88.7 -2.5L87.7 -3.9L90.9 -2.8L93.1 -3.9L90.4 -3.3L90.1 -4.1L91.5 -4.6L90.9 -5.3L90.0 -4.4L87.9 -4.6L88.7 -5.9L94.1 -6.3L91.3 -6.3L92.2 -6.5L89.2 -8.2L89.1 -9.1L92.0 -9.0L95.5 -7.7L92.8 -9.2L99.3 -10.4L97.4 -10.6L99.3 -11.7L94.9 -10.0L90.5 -9.7L89.1 -10.1L92.5 -11.1L87.8 -10.0L86.2 -10.6L90.7 -11.4L85.7 -10.8L85.7 -11.5L87.9 -11.9L84.9 -11.6L85.5 -12.2L83.6 -12.3L87.4 -13.2L90.6 -12.9L88.9 -13.5L90.8 -14.0L96.6 -12.6L93.4 -13.9L94.9 -14.8L97.3 -14.5L95.8 -15.1L100.3 -14.2L99.1 -15.3L103.8 -14.6L103.0 -15.0L103.7 -15.4L107.2 -15.3ZM79.5 -3.8L82.0 -3.5L78.9 -3.1L79.5 -3.8ZM81.6 2.0L81.5 2.7L80.5 2.8L78.3 1.9L80.1 0.8L81.6 2.0ZM74.7 4.2L77.7 4.5L76.3 6.2L78.4 6.7L78.3 8.4L76.5 8.4L76.6 9.2L75.6 9.3L71.8 6.7L72.3 5.9L73.3 6.7L74.5 6.3L74.1 5.7L74.9 5.7L73.0 5.1L74.1 5.2L73.6 4.5L74.7 4.2ZM90.8 20.8L91.2 20.4L93.8 21.9L94.0 23.1L95.7 23.4L94.9 24.0L92.5 22.8L90.2 24.6L89.8 23.6L88.4 23.8L89.3 22.8L89.8 19.8L90.8 20.8ZM77.1 -1.0L77.5 1.2L76.8 2.0L74.4 2.0L73.9 1.2L75.5 0.6L71.7 0.8L73.6 0.4L72.4 -0.6L72.8 -0.9L74.8 0.2L75.2 -0.3L73.8 -1.1L77.1 -1.0ZM71.0 -7.0L71.9 -6.1L72.9 -6.5L74.7 -5.8L75.6 -3.9L69.6 -5.0L71.1 -5.8L69.4 -5.9L68.9 -7.0L71.0 -7.0ZM83.3 -11.0L86.6 -8.9L87.8 -9.3L88.2 -7.6L90.0 -7.7L90.6 -7.0L87.9 -5.7L87.4 -6.3L86.6 -4.6L85.3 -5.5L85.8 -4.5L82.5 -5.0L83.3 -5.4L80.9 -6.3L83.9 -7.2L79.9 -7.0L79.3 -7.5L80.6 -8.0L79.1 -7.8L78.1 -8.8L80.8 -9.0L78.5 -9.2L79.4 -9.3L79.0 -10.1L81.1 -9.8L79.5 -10.4L81.8 -11.0L80.9 -11.5L83.3 -11.0ZM80.8 -1.9L81.9 -1.6L81.6 -0.9L83.9 -1.4L86.1 -0.6L83.8 -0.5L86.5 1.1L93.7 0.4L96.4 1.1L95.6 2.0L96.6 2.2L93.9 3.1L92.2 2.3L91.3 3.1L83.7 2.8L82.0 -0.7L79.7 -0.6L78.0 -1.5L79.1 -2.2L80.8 -1.9ZM78.7 -5.3L80.1 -5.0L80.1 -4.4L77.9 -3.8L76.4 -5.9L78.7 -5.3ZM82.0 3.8L84.9 4.4L83.1 6.6L80.8 6.6L81.6 7.1L81.0 8.0L79.8 8.0L79.3 4.7L82.0 3.8ZM77.4 12.6L79.7 14.2L78.3 14.9L75.3 14.0L76.8 13.0L76.6 12.4L77.4 12.6ZM116.2 52.7L117.0 52.2L117.5 52.7L115.8 53.1L116.9 51.1L116.2 52.7ZM122.2 44.0L120.7 47.1L121.4 46.3L122.1 46.5L121.4 47.1L122.4 47.2L122.3 47.9L123.2 47.2L124.1 47.5L123.6 49.0L124.8 48.6L123.9 49.6L124.1 50.1L124.9 49.4L124.7 51.6L124.2 50.9L123.5 51.3L123.5 49.8L121.8 51.3L122.9 50.1L118.1 50.0L120.5 44.9L122.2 44.0ZM89.0 10.0L90.9 10.0L91.0 8.8L89.7 8.1L91.4 8.0L90.0 6.7L91.5 6.5L90.2 5.9L94.3 4.7L95.7 6.6L94.7 7.5L95.3 7.2L95.0 8.3L96.2 7.2L97.5 8.3L97.4 7.4L98.6 7.7L97.6 7.1L98.4 6.6L101.0 7.1L100.3 8.6L102.2 8.1L101.1 8.6L101.7 8.7L101.3 9.6L102.5 8.5L102.2 9.2L105.1 9.1L103.9 10.4L105.9 9.9L104.6 11.1L105.3 11.0L105.1 11.7L106.6 10.4L108.3 10.8L106.6 11.9L109.0 11.4L109.6 12.5L107.5 12.9L110.2 13.5L107.4 14.1L110.1 14.9L109.9 15.6L110.7 15.2L110.5 16.1L111.0 15.6L111.6 16.4L112.1 15.7L113.2 16.6L112.3 17.0L114.1 17.2L113.4 17.9L115.1 17.5L115.9 18.3L114.6 18.7L115.2 19.4L114.5 20.1L113.6 19.7L113.5 21.4L111.6 19.9L112.6 18.9L111.1 19.5L109.9 18.3L108.9 18.6L109.5 19.6L108.0 19.1L110.2 21.6L111.5 21.8L111.4 22.6L112.6 23.6L112.4 24.4L111.8 23.5L111.9 25.5L107.9 23.5L111.0 26.3L110.7 26.9L108.2 26.2L105.1 24.6L104.5 24.1L105.2 23.8L103.2 22.0L102.3 22.3L101.7 21.6L101.7 22.2L99.4 22.7L97.9 22.0L98.9 20.5L100.9 21.6L100.5 20.7L102.9 20.4L102.0 19.2L104.3 17.1L102.6 14.4L102.0 14.7L101.5 13.7L99.6 14.4L100.5 13.3L97.0 10.8L97.3 11.9L94.3 11.7L95.0 12.5L86.6 11.0L85.9 9.9L88.4 10.0L85.5 9.1L86.2 5.9L87.8 4.6L90.5 4.5L88.9 6.6L89.4 8.3L90.6 9.3L89.0 10.0ZM93.9 24.9L92.1 26.3L92.4 25.0L93.9 24.9ZM100.6 15.1L101.3 15.4L101.1 16.8L99.2 17.1L99.3 15.6L100.6 15.1ZM96.5 4.8L99.0 5.1L100.2 6.3L96.2 6.4L95.1 4.7L96.5 4.8ZM69.0 6.3L67.4 4.9L69.7 4.9L69.0 6.3ZM72.3 -0.0L71.1 0.5L70.0 -0.2L71.8 -0.6L72.3 -0.0ZM128.4 115.6L129.7 115.7L129.2 117.1L127.5 117.6L127.3 115.6L128.4 115.6ZM334.1 130.7L334.7 133.8L336.3 134.6L337.5 139.9L340.0 141.7L341.0 144.5L342.1 144.5L342.2 145.9L344.7 149.3L345.2 153.0L344.5 156.8L342.7 159.8L341.3 165.4L339.1 166.0L337.3 167.1L337.5 167.7L336.5 166.4L335.7 166.6L335.9 165.9L334.4 167.3L332.2 166.6L330.4 165.0L329.9 162.3L328.7 162.7L328.6 160.6L328.2 162.0L327.3 162.1L328.5 159.8L328.3 158.4L326.0 161.7L324.5 158.3L321.2 156.9L315.6 158.0L313.1 160.3L309.2 160.3L307.1 161.9L304.0 160.7L304.7 157.2L302.1 149.6L302.8 150.0L302.3 148.8L303.2 149.7L302.3 147.2L303.0 143.8L303.1 144.6L305.8 142.2L310.4 140.8L311.8 138.8L311.8 137.4L312.5 136.6L313.1 138.0L313.2 136.3L314.4 136.5L314.1 135.3L315.8 133.4L317.3 133.4L317.9 135.1L318.5 134.4L319.6 134.9L319.3 133.9L320.7 131.3L322.9 130.9L322.1 129.7L325.4 131.0L326.3 130.6L326.5 131.3L327.0 130.7L327.4 131.2L325.8 134.6L331.2 138.1L332.2 136.1L333.0 129.4L333.4 129.2L334.1 130.7ZM336.0 170.1L337.4 170.7L339.4 170.2L339.1 173.7L338.5 173.1L338.0 174.3L337.1 174.2L335.8 171.0L336.0 170.1Z";
+const PINS=[[1,0,51,64.8],[2,1,179.3,40.9],[3,0,181.3,44.1],[4,1,178.2,41.4],[5,0,96,61.6],[6,0,97.9,70.1],[7,1,21.4,28],[8,1,55.3,70.3],[9,1,51.7,63.6],[9,1,84.6,76.3],[10,0,89.3,99.6],[11,0,102.4,60.5],[12,0,180.4,57.6],[13,0,118.9,161.1],[14,1,179.1,41],[15,0,55.1,70.1],[16,0,197.6,120.9],[17,1,183.8,48.2],[18,0,102.3,109.3],[19,1,118.9,161.1],[20,1,102.9,60.5],[21,1,181.6,45.3],[22,1,96.1,118.1],[23,0,177.4,61],[24,0,219.2,70.4],[25,1,174.7,66.5],[25,1,100.6,109.1],[26,0,329.1,161.8],[27,0,181.2,44.1],[28,0,97.6,115.6],[29,0,179,41.2],[30,0,198.5,49.5],[31,0,102.9,59.7]];            // [día, estrella, x, y]
+const hoy=PINS.find(p=>p[0]===2);
+let s=`<svg width="382" height="196" viewBox="0 0 384 196"><path d="${LAND}" fill="#f8f5e7" stroke="#17262e" stroke-width=".45" stroke-linejoin="round"/>`;
+s+=`<g stroke="#8fb7bf" stroke-width=".5" fill="none"><path d="M0 30.1H384M0 75.7H384M0 115.3H384M0 154.8H384M53.3 0V196M117.3 0V196M181.3 0V196M245.3 0V196M309.3 0V196"/></g>`;
+s+=`<g stroke="#c4207c" stroke-width=".8" fill="none"><path d="M0 ${hoy[3]}H384M${hoy[2]} 0V210"/></g>`;
+for(const [d,e,x,y] of PINS){ if(d===2) continue;
+  s+= e ? `<circle cx="${x}" cy="${y}" r="2.7" fill="#17262e" stroke="#f8f5e7" stroke-width=".8"/>` : `<circle cx="${x}" cy="${y}" r="2.3" fill="#f8f5e7" stroke="#17262e" stroke-width="1"/>`; }
+s+=`<circle cx="${hoy[2]}" cy="${hoy[3]}" r="8.5" fill="none" stroke="#c4207c" stroke-width="1.2"/><circle cx="${hoy[2]}" cy="${hoy[3]}" r="3.2" fill="#c4207c" stroke="#fff" stroke-width="1"/></svg>`;
+const deg=(t,st)=>`<span class="deg" style="${st}">${t}</span>`;
+s+=deg("60°N","left:3px;top:20px")+deg("30°N","left:3px;top:66px")+deg("0°","left:3px;top:105px")+deg("30°S","left:3px;top:145px");
+s+=deg("120°O","left:56px;bottom:3px")+deg("60°O","left:120px;bottom:3px")+deg("60°E","left:248px;bottom:3px")+deg("120°E","left:312px;bottom:3px");
+s+=`<span class="fix" style="left:${hoy[2]+13}px;top:${hoy[3]-21}px">HOY · 53°32′N 1°57′O</span>`;
+document.getElementById("plate").innerHTML=s;
+
+/* ---------- Cuadrícula de enero de 2027 (el día 1 cae en viernes; semanas ISO 53, 1, 2, 3 y 4) ---------- */
+const STAR=new Set([2,4,7,8,9,14,17,19,20,21,22,25]);
+const PAIS={1:"USA",2:"GBR",3:"GBR",4:"GBR",5:"USA",6:"USA",7:"USA",8:"USA",9:"USA",10:"NIC",11:"USA",12:"ESP",13:"ARG",14:"GBR",15:"USA",16:"COD",17:"FRA",18:"COL",19:"ARG",20:"USA",21:"GBR",22:"COL",23:"ESP",24:"LBN",25:"ESP·COL",26:"AUS",27:"GBR",28:"ECU",29:"GBR",30:"AUT",31:"USA"};
+const use=(id,c)=>`<svg class="${c}"><use href="#${id}"/></svg>`;
+let h="", k=0;
+const WK=[53,1,2,3,4];
+for(let d=-3;d<=31;d++,k++){
+  const col=k%7, rowi=Math.floor(k/7);
+  if(col===0) h+=`<span class="wk${rowi===4?" last":""}">${WK[rowi]}</span>`;
+  const last=rowi===4?" last":"";
+  if(d<1){ h+=`<div class="d off${last}"><span class="n">${31+d}</span></div>`; continue; }
+  const cls=[ "d", STAR.has(d)?"e":"", d===2?"hoy":"", rowi===0&&d!==2?"row":"", col===5&&d!==2?"colx":"" ].join(" ")+last;
+  const two=d===9||d===25;
+  h+=`<div class="${cls}"><span class="n">${d}</span>${use(STAR.has(d)?"st":"ar","m")}${two?use("st","m2"):""}<span class="c">${d===2?"HOY · GBR":PAIS[d]}</span></div>`;
+}
+document.getElementById("grid").innerHTML=h;
+</script>
+</body>
+</html>

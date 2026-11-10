@@ -139,3 +139,11 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - `tools/subir_audios.ps1` sube las carpetas grabadas. Los audios no se suben a GitHub.
 - Tanda 1 de grabación en marcha (`tools/tandas/tanda1.txt`: casos estrella revisados y casos nuevos de febrero a septiembre).
 - **Pendiente en la app:** descargar y guardar las cintas en el móvil (caché) para escucharlas sin conexión después; `index.json` con direcciones https; mantener dentro de la app los sonidos de la grabadora.
+
+## 10 de noviembre, 23:45: guiones revisados y audio completo
+
+- Los 21 grupos de revisión de guiones están terminados (`docs/revision_guiones/`); los 377 guiones pasan el validador.
+- Audio: 477 cintas grabadas (37,4 horas, 175 MB), sin fallos; cada cinta coincide con su guion bloque a bloque. Subida al servidor en marcha.
+- Favoritos añadidos a la web (contrato, sección 9).
+- Prototipos de interfaz A y B entregados; C y D en marcha.
+- **Falta:** que la app descargue y guarde las cintas del servidor; aplicar `docs/CORRECCIONES_FICHAS_ESTRELLA.md`; poner los vínculos de `docs/VINCULOS_PROPUESTOS.md`; quitar los audios antiguos del APK; rediseño si el usuario elige un prototipo; compilar, probar en el POCO y subir la versión final.
