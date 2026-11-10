@@ -105,3 +105,16 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
 - **Ya puestos dentro del mes:** Giaccone (11/8) con Grassi (29/8), y Gladbeck (16/8) con Norrmalmstorg (28/8).
 - **Giaccone y Grassi:** con Puglisi (15/9), Livatino (21/9) y Riina (16/11).
 - **Trece Rosas (5/8):** con Puig Antich (2/3) y otros casos de la represión franquista.
+
+## Diciembre
+
+- **Vaillant (9/12) y Bonnot (21/12):** ya puesto.
+- **DAS (6/12):** con Pastrana (18/1), Lara Bonilla (30/4) y Escobar (19/6).
+- **Religiosas de El Salvador (2/12):** con monseñor Gerardi (26/4), por la violencia de Estado en Centroamérica.
+- **Vaillant:** con Bresci (10/11), Passannante (17/11) y Mateo Morral (31/5), todos de la «propaganda por el hecho».
+- **Bonnot:** con Sidney Street (3/1) y Los Solidarios (1/9).
+- **Carrero Blanco (20/12):** con Ryan (6/2) y Puig Antich (2/3).
+- **García Caparrós (4/12) y el caso Almería (10/5):** la Transición.
+- **Floresta (29/12) y Budge (8/5):** gatillo fácil.
+- **Eichmann (15/12) y Lillehammer (21/7):** el Mosad.
+- **Kírov (1/12) y Trotski (20/8):** el terror estalinista.

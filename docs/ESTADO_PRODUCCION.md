@@ -25,7 +25,8 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 04 | 23/23 ✓ | en marcha | — |
 | 07 | 26/26 ✓ | en marcha | — |
 | 08 | 26/26 ✓ | en marcha | — |
-| 06 y 12 | en marcha | — | — |
+| 12 | 25/25 ✓ | en marcha | — |
+| 06 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
