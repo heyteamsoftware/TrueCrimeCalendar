@@ -33,15 +33,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Norte de Bélgica, 28 de marzo de 1933. Un campesino levanta la vista de sus rábanos y ve cómo un avión de pasajeros se prende fuego en el aire. Poco después cae sobre un campo, cerca de Diksmuide."
+          "texto": "Norte de Bélgica, martes 28 de marzo de 1933. Un campesino levanta la vista de sus rábanos y ve cómo un avión de pasajeros se prende fuego en el aire. Poco después cae sobre un campo, cerca de Diksmuide."
         },
         {
           "voz": "ximena",
-          "texto": "Es el City of Liverpool, un Armstrong Whitworth Argosy de la compañía británica Imperial Airways. Llevaba cinco años haciendo la línea Londres, Bruselas y Colonia, y ese día cubría el tramo de Bruselas a Londres, al aeródromo de Croydon. Había despegado con retraso, poco después de las doce y media."
+          "texto": "Es el City of Liverpool, un Armstrong Whitworth Argosy de la compañía británica Imperial Airways. Cubría la línea Londres, Bruselas y Colonia, y ese día hacía el tramo de Bruselas a Londres, al aeródromo de Croydon."
         },
         {
           "voz": "ximena",
-          "texto": "A bordo iban doce pasajeros y tres tripulantes. Los quince murieron. Fue el accidente más mortífero de la aviación civil británica hasta ese momento."
+          "texto": "A bordo iban doce pasajeros y tres tripulantes. Los quince murieron."
         },
         {
           "voz": "alvaro",
@@ -93,15 +93,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El jurado dictó un veredicto abierto. Es una fórmula británica que significa que la muerte pudo no ser accidental, pero que las pruebas no permitían una conclusión. El forense había intentado orientarlos hacia una muerte accidental."
+          "texto": "El jurado dictó un veredicto abierto. Es una fórmula británica que significa que la muerte pudo no ser accidental, pero que las pruebas no permitían una conclusión."
         },
         {
           "voz": "alvaro",
-          "texto": "Es decir: ni accidente probado, ni crimen probado. El expediente se cerró sin responder a la pregunta que hoy sigue abierta: por qué ardió aquel avión."
+          "texto": "Es decir: ni accidente probado, ni crimen probado. El expediente se cerró sin responder a la pregunta que hoy sigue abierta: por qué ardió aquel avión. Y, de momento, no hay nadie a quien señalar."
         },
         {
           "voz": "ximena",
-          "texto": "Murieron quince personas. Entre ellos había una joven de dieciséis años, sobrina de Voss. La memoria de esta tragedia suele girar alrededor de un solo hombre. Conviene recordar a los otros catorce."
+          "texto": "Murieron quince personas. Entre ellos había una joven de dieciséis años, sobrina de Voss. Viajaban en un servicio regular entre el continente y Londres: no eran personajes de ningún caso, eran pasajeros de un martes cualquiera. La memoria de esta tragedia suele girar alrededor de un solo hombre. Conviene recordar a los otros catorce."
         },
         {
           "voz": "ximena",
@@ -110,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (1933 Imperial Airways Diksmuide crash) y Time (17 de abril de 1933, «Foreign News: Dr. Voss»); PlaneCrashInfo, ASN y The New York Times no se pudieron leer. Discrepancias: Wikipedia dice que quien lo acusó en la investigación judicial fue su hermano distanciado; Time habla de un abogado que representaba a «Albert Jr.», hermano distanciado de Hugo Voss (es decir, otro hijo de Voss). El guion dice «un familiar distanciado». Lugar: cerca de Diksmuide (Wikipedia) o de Eesen (Time, localidad vecina). Ruta: Bruselas-Londres (Wikipedia, ficha). Quemaduras: Time, cuerpo no quemado; Wikipedia, quemaduras leves. Muertos: 15 (12 pasajeros y 3 tripulantes). Voss no fue acusado ni juzgado; la hipótesis del contrabando se atribuye a un testigo y se dice que no se probó. La sobrina (16 años, Time) no se nombra. La afirmación de ser el primer sabotaje de un avión comercial no se incluye."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (1933 Imperial Airways Diksmuide crash) y Time (17 de abril de 1933, «Foreign News: Dr. Voss»); PlaneCrashInfo, ASN y The New York Times no se pudieron leer. Voss no fue acusado ni condenado; la hipótesis del contrabando se atribuye a un testigo y se dice que no se probó. Discrepancias: Wikipedia dice que quien lo acusó fue su hermano distanciado; Time habla de un abogado que representaba a un hijo distanciado: el guion dice «un familiar distanciado». Lugar: Diksmuide (Wikipedia) o Eesen (Time). Quemaduras: Time, cuerpo no quemado; Wikipedia, quemaduras leves. La sobrina (16 años) no se nombra. Revisión: quitados 'accidente más mortífero hasta ese momento', 'llevaba cinco años en la línea', 'despegó con retraso' y que el forense orientara al jurado (sin comprobar)."
 }

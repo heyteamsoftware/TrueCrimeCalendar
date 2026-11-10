@@ -49,7 +49,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Las cifras varían según la fuente, porque algunas víctimas murieron años después y los heridos se cuentan de modos distintos. Hay quien da doce, quien da catorce. Yo me quedo con las del Ministerio de Justicia japonés: trece."
+          "texto": "Las cifras varían según la fuente, porque algunas víctimas murieron años después y los heridos se cuentan de modos distintos. Hay quien da doce, quien da catorce. Yo me quedo con las del Gobierno japonés: trece."
         },
         {
           "voz": "ximena",
@@ -73,11 +73,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "No lo consiguió: desde ese día, todas las miradas fueron hacia la secta. En los días siguientes la policía registró sus instalaciones. En el complejo de Kamikuishiki, al pie del Monte Fuji, los agentes encontraron toneladas de productos químicos."
+          "texto": "No lo consiguió: desde ese día, todas las miradas fueron hacia la secta. En los días siguientes la policía registró sus instalaciones. En el complejo de Kamikuishiki, al pie del Monte Fuji, los agentes encontraron productos químicos."
         },
         {
           "voz": "ximena",
-          "texto": "El 16 de mayo de 1995, Asahara fue detenido en una habitación oculta de ese mismo complejo. Más de doscientos miembros de la secta acabaron arrestados."
+          "texto": "El 16 de mayo de 1995, Asahara fue detenido en una habitación oculta de ese mismo complejo. Muchos miembros de la secta acabaron arrestados."
         },
         {
           "voz": "alvaro",
@@ -85,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Asahara fue condenado a muerte en febrero de 2004 y la sentencia fue firme en 2006. En total, ciento noventa miembros de la secta fueron declarados culpables, y trece recibieron la pena de muerte."
+          "texto": "Asahara fue condenado a muerte en febrero de 2004 y la sentencia fue firme en 2006. En total, unos ciento noventa miembros de la secta fueron declarados culpables, y trece recibieron la pena de muerte."
         },
         {
           "voz": "ximena",
@@ -114,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Time (2015), HISTORY (2025), Nippon.com (cronología, 2018) y Wikipedia en inglés; el PDF del Ministerio de Justicia no se pudo leer (binario) y la cifra de trece muertos y más de 5.800 heridos se toma de la ficha. Discrepancia: Time e HISTORY dan 12 muertos, Wikipedia 14; se usa 13 (Gobierno japonés). Nippon.com da unos 6.000 heridos. Matsumoto 1994: ocho muertos (Nippon.com). La orden de Asahara para frenar un registro previsto para el 22 de marzo sale de la ficha y de Wikipedia. No se describe el método."
+  "nota_revision": "Fuentes abiertas: Time (2015), HISTORY (2025), Nippon.com (cronología, 2018) y Wikipedia en inglés; el PDF del Ministerio de Justicia no se pudo leer y la cifra de trece muertos y más de 5.800 heridos se toma de la ficha. Discrepancia: Time e HISTORY dan 12 muertos, Wikipedia 14; se usa 13 (Gobierno japonés). Time confirma la profecía de Asahara sobre el cierre de la secta. Revisión: quitados 'toneladas' de productos químicos y 'más de doscientos arrestados' (sin fuente). Matsumoto 1994: ocho muertos (Nippon.com). No se describe el método."
 }

@@ -55,7 +55,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Madeleine había comprado arsénico, y la policía lo averiguó. Ella dijo en cartas que lo usaba para el cutis. El arsénico se vendía entonces en farmacias, con solo firmar un registro."
+          "texto": "Madeleine había comprado arsénico, y la policía lo averiguó. Ella dijo que lo quería para el cutis. El arsénico se vendía entonces en farmacias, con solo firmar un registro."
         },
         {
           "voz": "ximena",
@@ -67,15 +67,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Madeleine fue juzgada en Edimburgo, entre el 30 de junio y el 9 de julio de 1857. Fueron nueve días. En la sala se leyeron sus cartas, lo que provocó un escándalo."
+          "texto": "Madeleine fue juzgada en Edimburgo, entre el 30 de junio y el 9 de julio de 1857, durante más de una semana. En la sala se leyeron sus cartas, lo que provocó un escándalo."
         },
         {
           "voz": "alvaro",
-          "texto": "Otro dato que no te puedo callar. El diario de L'Angelier no se admitió como prueba. Y varios testigos recordaron que él había hablado de intentos de suicidio tras haber sido rechazado por otra mujer."
+          "texto": "Otro dato que no te puedo callar. Varios testigos recordaron que L'Angelier había hablado de suicidio tras haber sido rechazado por otra mujer."
         },
         {
           "voz": "ximena",
-          "texto": "El jurado deliberó unos treinta minutos. El veredicto fue «no probado»."
+          "texto": "El jurado deliberó unos treinta minutos. El veredicto fue «no probado». En Escocia existen tres veredictos posibles: culpable, inocente y no probado."
         },
         {
           "voz": "alvaro",
@@ -83,15 +83,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Madeleine abandonó Escocia. En 1861 se casó en Londres con George Wardle. Tuvieron dos hijos y acabaron divorciándose. Más tarde emigró a Estados Unidos y murió en Nueva York en 1928."
+          "texto": "Madeleine abandonó Escocia. En 1861 se casó en Londres con George Wardle. Tuvieron dos hijos y acabaron separándose. Más tarde emigró a Estados Unidos y murió en Nueva York en 1928."
         },
         {
           "voz": "alvaro",
-          "texto": "Durante generaciones, el público discutió su culpa. Escritores de la época como Henry James o George Eliot la creyeron culpable. Otros pensaron que se la había absuelto por ser mujer. Ninguna de esas opiniones es un hecho."
+          "texto": "Durante generaciones, el público discutió su culpa. Otros pensaron que se la había absuelto por ser mujer, de buena familia. Ninguna de esas opiniones es un hecho."
         },
         {
           "voz": "ximena",
-          "texto": "Nadie más fue juzgado. Tampoco se aclaró con certeza si L'Angelier murió por mano ajena, por un accidente con el veneno que él también conocía, o por su propia mano."
+          "texto": "Nadie más fue juzgado. Tampoco se aclaró con certeza cómo murió L'Angelier. La defensa planteó que pudo ser un accidente con un veneno que él también conocía, o un suicidio."
         },
         {
           "voz": "alvaro",
@@ -99,7 +99,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su memoria quedó cubierta por las cartas de ella y por un veredicto ambiguo. Que se recuerde también a Pierre Emile L'Angelier: un joven que murió una madrugada de marzo en Glasgow, lejos de su isla natal, y cuya muerte nadie ha explicado del todo."
+          "texto": "Su memoria quedó cubierta por las cartas de ella y por un veredicto ambiguo. El archivo solo puede decir lo que un tribunal dejó escrito: no probado. Que se recuerde también a Pierre Emile L'Angelier: un joven que murió una madrugada de marzo en Glasgow, lejos de su isla natal, y cuya muerte nadie ha explicado del todo."
         },
         {
           "voz": "ximena",
@@ -108,5 +108,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso de absolución («no probado»): no se la presenta como autora. Fuentes abiertas: TheGlasgowStory, Undiscovered Scotland y EBSCO Research Starters (2024). Discrepancias: Langelier era empleado de comercio (ficha; EBSCO: hijo de jardinero y empleado de almacén) o vivero (Undiscovered Scotland); sus años (1823-1857 según TheGlasgowStory; 29 años en 1855 según Undiscovered Scotland) no coinciden, por eso el guion no da edad. Fecha del compromiso con Minnoch: enero (EBSCO) o febrero de 1857 (Undiscovered Scotland): el guion dice «a comienzos de 1857». Las fechas del juicio (30 de junio-9 de julio) salen de la ficha; Undiscovered Scotland dice solo julio. Número de cartas (unas 250): una sola fuente."
+  "nota_revision": "Caso de absolución («no probado»): no se la presenta como autora; la hipótesis de la acusación se atribuye y se contrapone a la defensa. Fuentes abiertas: TheGlasgowStory, Undiscovered Scotland y EBSCO Research Starters (2024). Revisión: quitados el diario de L'Angelier no admitido como prueba (no comprobado), que Henry James y George Eliot la creyeran culpable (no comprobado), 'divorciarse' (separarse) y 'nueve días' de juicio. Discrepancias: Langelier empleado de comercio (ficha; EBSCO) o vivero (Undiscovered Scotland); sus años no coinciden, el guion no da edad. Compromiso con Minnoch: enero o febrero de 1857 («a comienzos de 1857»). Fechas del juicio (30 de junio-9 de julio): ficha. Número de cartas (unas 250): una sola fuente."
 }

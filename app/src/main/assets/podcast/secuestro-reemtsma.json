@@ -63,11 +63,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esta es la clave del caso: la memoria de la víctima. Reemtsma describió su sótano con tanta precisión que la policía encontró la casa en pocas semanas."
+          "texto": "Esta es la clave del caso: la memoria de la víctima. Según las crónicas, lo que Reemtsma pudo contar de su cautiverio ayudó a la policía a encontrar la casa."
         },
         {
           "voz": "ximena",
-          "texto": "La casa de Garlstedt la habían alquilado los secuestradores en 1995. Dos de ellos lo hicieron con su nombre real. Era uno de los pocos errores de un plan muy profesional. Además, gastaban mucho dinero, y eso los delató."
+          "texto": "La casa de Garlstedt la habían alquilado los secuestradores en 1995. Era uno de los pocos errores de un plan muy profesional. Además, gastaban mucho dinero, y eso los delató."
         },
         {
           "voz": "ximena",
@@ -112,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: t-online (cronología dpa, 2013), Wikipedia alemana y ZDFheute (2026); NDR y Der Spiegel no se abrieron. Discrepancias: liberación en la noche del 26 al 27 de abril (ZDF) o el 26 (t-online, Wikipedia); el guion dice «en la noche del 26 al 27». La ficha dice que estuvo encadenado; las fuentes leídas no lo recogen y el guion dice solo «cautivo». Rescate: 15 millones de marcos y 12,5 millones de francos suizos (t-online, Wikipedia), aunque la petición final fue de 30 millones. Reemtsma tenía 43 años (t-online). Detención de Drach: 28 de marzo de 1998 en Buenos Aires, extradición en 2000. Condenas de dos cómplices (1997) y de un tercero (1999, seis años) salen de Wikipedia; no se les nombra. Condena posterior de Drach en 2024 por hechos ajenos: se menciona sin detalle. «Im Keller» (1997) y el libro de su hijo Johann Scheerer (2018) salen de Wikipedia."
+  "nota_revision": "Fuentes abiertas: t-online (cronología dpa, 2013), Wikipedia alemana y ZDFheute (2026); NDR y Der Spiegel no se abrieron. Revisión: quitado que dos de los secuestradores alquilaran con su nombre real (no comprobado) y suavizada la frase sobre cómo se halló la casa. La carta con la granada y los veinte millones iniciales no se han contrastado en una segunda fuente. Discrepancias: liberación en la noche del 26 al 27 de abril (ZDF) o el 26 (t-online, Wikipedia). La ficha dice que estuvo encadenado; las fuentes leídas no lo recogen y el guion dice solo «cautivo». Rescate: 15 millones de marcos y 12,5 millones de francos suizos (t-online, Wikipedia). Reemtsma tenía 43 años (t-online). Condenas de dos cómplices (1997) y de un tercero (1999) salen de Wikipedia; no se les nombra. Condena posterior de Drach por hechos ajenos: se menciona sin detalle. El hijo, Johann Scheerer, autor adulto de un libro, se nombra."
 }

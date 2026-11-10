@@ -39,7 +39,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Washington, 30 de marzo de 1981. Es la primera hora de la tarde. El presidente Ronald Reagan sale del hotel Washington Hilton tras pronunciar un discurso ante un sindicato. Solo tiene que recorrer unos treinta pies, unos nueve metros, hasta la limusina."
+          "texto": "Washington, 30 de marzo de 1981. Es la primera hora de la tarde, y Reagan lleva apenas diez semanas en el cargo. El presidente Ronald Reagan sale del hotel Washington Hilton tras pronunciar un discurso ante un sindicato. Solo tiene que recorrer unos treinta pies, unos nueve metros, hasta la limusina."
         },
         {
           "voz": "ximena",
@@ -47,7 +47,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Nueve metros. El Servicio Secreto había inspeccionado ese hotel más de cien veces. Tenía un pasillo cerrado, pensado para estos casos. Solo quedaban al descubierto esos nueve metros, y fue ahí."
+          "texto": "Primera nota. Nueve metros. El Servicio Secreto había preparado la salida del hotel con cuidado, y aun así solo quedaban al descubierto esos nueve metros, y fue ahí."
         },
         {
           "voz": "ximena",
@@ -75,19 +75,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "El autor de los disparos fue reducido en el acto. Se llamaba John Hinckley Jr. y no lo escondió: quería impresionar a la actriz Jodie Foster, a la que llevaba tiempo acosando."
+          "texto": "El autor de los disparos fue reducido en el acto, entre los agentes y los periodistas. Se llamaba John Hinckley Jr., tenía veinticinco años y no lo escondió: quería impresionar a la actriz Jodie Foster, a la que llevaba tiempo acosando."
         },
         {
           "voz": "alvaro",
-          "texto": "Esto es lo más desconcertante. Hinckley había visto varias veces la película Taxi Driver, y escribió a Foster que no podía esperar más para impresionarla. Según los documentos, el motivo no era político: era una obsesión personal."
+          "texto": "Esto es lo más desconcertante. Hinckley había visto varias veces la película Taxi Driver. Según los documentos, el motivo no era político: era una obsesión personal con la actriz."
         },
         {
           "voz": "ximena",
           "texto": "Hinckley ya había sido detenido en octubre de 1980 en un aeropuerto de Nashville por llevar armas. Fue multado. Cinco meses después estaba en Washington."
-        },
-        {
-          "voz": "alvaro",
-          "texto": "Aquí hay un hilo que nadie tiró. Según Wikipedia, el FBI no relacionó aquel arresto con el presidente y no avisó al Servicio Secreto."
         },
         {
           "voz": "ximena",
@@ -99,7 +95,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Aquel veredicto llevó a endurecer en Estados Unidos la defensa por enajenación mental. La ley federal sobre esa defensa se reformó en 1984."
+          "texto": "Aquel veredicto llevó a endurecer en Estados Unidos la defensa por enajenación mental. Mucha gente no entendía que quien había disparado ante las cámaras no fuera condenado. La ley federal sobre esa defensa se reformó en 1984."
         },
         {
           "voz": "ximena",
@@ -124,5 +120,5 @@
       ]
     }
   ],
-  "nota_revision": "Persona viva y no culpable por enajenación: no se le llama asesino ni condenado. Fuentes abiertas: CBS News, HISTORY (Sky HISTORY UK) y Wikipedia en inglés; NPR y UPI de 2022 no se abrieron (la liberación total del 15 de junio de 2022 sale de la ficha). Discrepancias: HISTORY escribe Delahaney (Thomas Delahanty es lo correcto); HISTORY dice que la bala le dio en el pulmón y CBS/Wikipedia que rebotó en la limusina; el guion sigue a Wikipedia. Brady: forense de 2014 homicidio, sin cargos (CBS; Wikipedia, 2015). La reforma de la defensa por enajenación de 1984 solo consta en Wikipedia y en la ficha. La hora (primera hora de la tarde) es aproximada. Hinckley salió del internamiento en 2016 (Wikipedia)."
+  "nota_revision": "Persona viva y no culpable por enajenación: no se le llama asesino ni condenado. Fuentes abiertas: CBS News, HISTORY (Sky HISTORY UK) y Wikipedia en inglés; NPR y UPI de 2022 no se abrieron (la liberación total del 15 de junio de 2022 sale de la ficha). Discrepancias: HISTORY escribe Delahaney (Thomas Delahanty es lo correcto); HISTORY dice que la bala le dio en el pulmón y CBS/Wikipedia que rebotó en la limusina; el guion sigue a Wikipedia. Revisión: quitados 'inspeccionado más de cien veces / pasillo cerrado' y 'el FBI no avisó al Servicio Secreto' (solo Wikipedia) y la frase escrita por Hinckley a Foster. Brady: forense de 2014 homicidio, sin cargos (CBS). La reforma de 1984 solo consta en Wikipedia y en la ficha. Hinckley salió del internamiento en 2016 (Wikipedia)."
 }

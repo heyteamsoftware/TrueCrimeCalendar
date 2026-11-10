@@ -33,7 +33,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Su destino queda a solo doscientos metros: la puerta Sakurada del castillo. Es un recorrido corto que ha hecho muchas veces. Esta vez no llegará."
+          "texto": "Su destino queda a solo doscientos metros: la puerta Sakurada del castillo. Esta vez no llegará."
         },
         {
           "voz": "alvaro",
@@ -41,15 +41,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un grupo de dieciocho samuráis sin señor, que en japonés se llaman rōnin, espera a la comitiva. Diecisiete vienen del dominio de Mito. El otro, de Satsuma."
+          "texto": "Un grupo de dieciocho samuráis sin señor, que en japonés se llaman rōnin, espera a la comitiva. Un rōnin es un samurái que se ha quedado sin señor al que servir. Diecisiete vienen del dominio de Mito. El otro, de Satsuma."
         },
         {
           "voz": "ximena",
-          "texto": "Mientras un ataque por delante distrae a los guardias, otros se lanzan sobre el palanquín. Ii Naosuke muere en el lugar. De sus guardias, cuatro mueren en el combate y otros cuatro, días después, a causa de sus heridas."
+          "texto": "Mientras un ataque por delante distrae a los guardias, otros se lanzan sobre el palanquín. Ii Naosuke muere en el lugar. Según la Wikipedia, murieron ocho de sus guardias: cuatro en el combate y otros cuatro, días después, a causa de sus heridas."
         },
         {
           "voz": "alvaro",
-          "texto": "Los atacantes llevaban un manifiesto encima. Era un texto para explicarse. Decían que abrir el país al comercio con los extranjeros era una vergüenza para la nación y que ellos se consagraban como instrumentos del Cielo para castigar a quien lo había hecho."
+          "texto": "Los atacantes llevaban un manifiesto encima. Era un texto para explicarse. Decían que abrir el país al comercio con los extranjeros era una vergüenza para la nación."
         },
         {
           "voz": "ximena",
@@ -77,35 +77,31 @@
         },
         {
           "voz": "ximena",
-          "texto": "La noticia cruzó el Pacífico. Según Wikipedia, el 12 de junio de 1860 el diario The New York Times contó que la primera embajada japonesa en Occidente había recibido la noticia."
+          "texto": "La noticia fue cruzando el país y llegó, con el tiempo, a Occidente. Para entonces, el shogunato ya había perdido a su hombre fuerte."
         },
         {
           "voz": "ximena",
-          "texto": "Y el destino de los atacantes: muchos murieron en el ataque o se quitaron la vida, y otros fueron capturados y ejecutados por el shogunato."
+          "texto": "Y el destino de los atacantes: muchos murieron en el ataque o se quitaron la vida, y otros fueron capturados y ejecutados por el shogunato. Ningún bando salió indemne de aquella mañana."
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate también en los guardias que sobrevivieron. Según Wikipedia, dos años después el shogunato los castigó por no haber protegido a su jefe, con penas que iban del destierro a la muerte."
-        },
-        {
-          "voz": "ximena",
-          "texto": "Los guardias que murieron en el combate pudieron transmitir sus títulos de samurái a sus herederos. Los que sobrevivieron perdieron los suyos."
+          "texto": "Fíjate también en los guardias que sobrevivieron. Según la Wikipedia, dos años después el shogunato los castigó por no haber protegido a su jefe, con penas que iban del destierro a la muerte. Y, según esa misma fuente, los que murieron en el combate pudieron transmitir sus títulos de samurái a sus herederos, y los supervivientes perdieron los suyos."
         },
         {
           "voz": "alvaro",
-          "texto": "El incidente también marca una época. Poco después, en diciembre de 1860, fue asesinado Henry Heusken, intérprete del cónsul de Estados Unidos. La Biblioteca Metropolitana de Tokio lo cuenta como parte de una serie de asesinatos de extranjeros por fuerzas contrarias a su presencia."
+          "texto": "El incidente también marca una época. Poco después, en enero de 1861, fue asesinado Henry Heusken, intérprete del cónsul de Estados Unidos. La Biblioteca Metropolitana de Tokio lo cuenta como parte de una serie de asesinatos de extranjeros por fuerzas contrarias a su presencia."
         },
         {
           "voz": "ximena",
-          "texto": "Para los historiadores, Sakuradamon golpeó gravemente la autoridad del shogunato, que ocho años después, en 1868, daría paso a la era Meiji."
+          "texto": "Para los historiadores, Sakuradamon golpeó gravemente la autoridad del shogunato, que ocho años después, en 1868, daría paso a la era Meiji. Era el final de más de dos siglos y medio de gobierno de los Tokugawa, la familia de los shogunes."
         },
         {
           "voz": "alvaro",
-          "texto": "No quiero dejarlo en una lección de historia. Ocho guardias murieron aquel día cumpliendo su deber. Sus nombres no están en esta cinta, y esa también es una forma de olvido."
+          "texto": "No quiero dejarlo en una lección de historia. Ocho guardias murieron por aquel ataque. Sus nombres no están en esta cinta, y esa también es una forma de olvido."
         },
         {
           "voz": "ximena",
-          "texto": "En Tokio, la puerta Sakurada sigue en pie. Está declarada bien cultural importante. Y los ocho guardias caídos aquel día son, junto a Ii Naosuke, las víctimas de este expediente."
+          "texto": "En Tokio, la puerta Sakurada sigue en pie. Está declarada bien cultural importante. Y los ocho guardias caídos son, junto a Ii Naosuke, las víctimas de este expediente."
         },
         {
           "voz": "ximena",
@@ -114,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Biblioteca Metropolitana de Tokio y Wikipedia en inglés (Sakuradamon Incident); Jansen y Murdoch no se abrieron. Segunda fuente fuera de Wikipedia limitada. Cifras de la ficha confirmadas: 18 atacantes (17 de Mito y 1 de Satsuma), 24 de marzo de 1860 (3 del tercer mes antiguo), unos 60 guardias y porteadores; ocho guardias muertos (cuatro en el combate, cuatro días después, según Wikipedia). La frase de Ii sobre su seguridad y el castigo de los guardias supervivientes en 1862 salen solo de Wikipedia; se atribuyen. Se omiten el detalle del arma y el trato dado al cuerpo, y la nieve del relato tradicional. El destino de los atacantes (muertes, suicidios, ejecuciones) sale de la ficha. Se dice que el cargo se declaró vacante en abril (Wikipedia)."
+  "nota_revision": "Fuentes abiertas: Biblioteca Metropolitana de Tokio y Wikipedia en inglés (Sakuradamon Incident); Jansen y Murdoch no se abrieron. Segunda fuente fuera de Wikipedia limitada: lo que solo consta en Wikipedia se atribuye en el texto (ocho guardias muertos, castigo de los supervivientes en 1862, títulos de los caídos) o se presenta como 'se cuenta' (la frase de Ii sobre su seguridad, que no se ha confirmado). Cifras de la ficha confirmadas: 18 atacantes (17 de Mito y 1 de Satsuma), 24 de marzo de 1860, unos 60 guardias y porteadores. Revisión: corregida la fecha del asesinato de Heusken (14 de enero de 1861, no diciembre de 1860); quitada la noticia del New York Times (solo Wikipedia) y 'recorrido que ha hecho muchas veces'; quitada la expresión 'instrumentos del Cielo' del manifiesto; los ocho guardias no murieron todos 'aquel día'. Se omiten el detalle del arma y el trato dado al cuerpo."
 }

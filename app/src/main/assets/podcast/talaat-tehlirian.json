@@ -44,7 +44,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El joven era Soghomon Tehlirian, un estudiante armenio. Cuando la gente gritó, intentó marcharse, pero una multitud lo alcanzó. Quedó detenido en el acto."
+          "texto": "El joven era Soghomon Tehlirian, un estudiante armenio. Quedó detenido en el acto."
         },
         {
           "voz": "ximena",
@@ -52,15 +52,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esa es la clave. Una condena que nadie podía ejecutar. Y un hombre que paseaba por una ciudad europea con otro nombre. Para Tehlirian, y para quienes lo ayudaron, aquello era una deuda abierta."
+          "texto": "Esa es la clave. Una condena que nadie podía ejecutar. Y un hombre que paseaba por una ciudad europea con otro nombre. Ese es el contexto del crimen, y no lo justifica."
         },
         {
           "voz": "ximena",
-          "texto": "Tehlirian había perdido a su familia en las deportaciones. Según la investigación, actuaba dentro de la Operación Némesis, un plan de la Federación Revolucionaria Armenia para matar a los responsables del genocidio."
+          "texto": "Tehlirian había perdido a su familia en las deportaciones. Según los historiadores, actuaba dentro de la Operación Némesis, un plan de la Federación Revolucionaria Armenia para matar a los responsables del genocidio."
         },
         {
           "voz": "alvaro",
-          "texto": "Y ahí la historia se complica. No era un hombre aislado: actuaba para un grupo político armado. Eso no desaparece porque un jurado lo absolviera."
+          "texto": "Y ahí la historia se complica. Según esa versión, no era un hombre aislado: formaba parte de un grupo político armado. Hay que contarlo, aunque un jurado lo absolviera."
         },
         {
           "voz": "ximena",
@@ -84,11 +84,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "No todo el mundo lo vio igual. El historiador de la Universidad de Wuppertal señala que había pruebas de que Tehlirian era también un asesino con motivos políticos. La absolución no cierra esa discusión."
+          "texto": "No todo el mundo lo vio igual. La historiadora de la Universidad de Wuppertal recuerda que el crimen formó parte de un plan político organizado. La absolución no cierra esa discusión."
         },
         {
           "voz": "ximena",
-          "texto": "Un escritor pacifista que siguió el juicio, Armin Wegner, lo llamó un «tribunal de la humanidad». Hubo periódicos que celebraron el crimen, y libros y canciones que lo ensalzaron."
+          "texto": "Un escritor pacifista que siguió el juicio, Armin Wegner, lo llamó un «tribunal de la humanidad». Para muchos armenios, el veredicto fue una forma de justicia que nadie más les daba."
         },
         {
           "voz": "alvaro",
@@ -113,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Tema sensible (Turquía y Armenia): se usa «genocidio armenio» como las fuentes académicas. Absolución por jurado en Berlín (Landgericht III, Moabit): la ficha da 2 y 3 de junio; EVN Report dice trastorno mental temporal, Wuppertal dice culpabilidad disminuida; se dice solo 'absolvió'. Número de la calle del disparo: 17 (Wikipedia) o 27 (EVN Report); no se dice. Talaat vivía en el número 4 (ficha y EVN). 'Guantes' y 'casi las once': EVN Report. Lo de 'vivía con nombre falso' sale de la ficha; 'se sospechó de Grecia o Gran Bretaña' de EVN Report. Lemkin como asistente al juicio no se afirma: EVN Report dice que le inquietaba la cuestión, no que asistiera. La NYT del 4 de junio no se abrió. Frase de Wegner: Wuppertal."
+  "nota_revision": "Tema sensible (Turquía y Armenia): se usa «genocidio armenio» como las fuentes académicas. Absolución por jurado en Berlín: la ficha da 2 y 3 de junio; EVN Report dice trastorno mental temporal, Wuppertal dice culpabilidad disminuida; se dice solo 'absolvió'. Número de la calle del disparo: 17 (Wikipedia) o 27 (EVN Report); no se dice. Talaat vivía en el número 4 (ficha y EVN). 'Guantes' y 'casi las once': EVN Report. Revisión: quitados la persecución por la multitud, 'periódicos que celebraron el crimen' y 'libros y canciones' (sin fuente) y la frase de que había 'pruebas de que era un asesino' (la fuente habla de un plan político organizado); la pertenencia a la Operación Némesis se atribuye a los historiadores. Lemkin como asistente al juicio no se afirma. La NYT del 4 de junio no se abrió."
 }

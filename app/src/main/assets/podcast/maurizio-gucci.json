@@ -54,19 +54,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "Gucci ya no dirigía la empresa de su familia. En 1993 había vendido sus acciones a un grupo de inversión y había creado una nueva sociedad. Se había casado con Patrizia Reggiani en 1973. Tenían dos hijas y estaban divorciados."
+          "texto": "Gucci ya no dirigía la empresa de su familia. En 1993 había vendido sus acciones a un grupo de inversión y había creado una nueva sociedad. Se había casado con Patrizia Reggiani. Tenían dos hijas y estaban divorciados."
         },
         {
           "voz": "alvaro",
-          "texto": "Las primeras pistas eran difíciles. Los investigadores siguieron sus negocios, sobre todo un proyecto para abrir un casino en Suiza. Descartaron a su primo Paolo, con quien tenía mala relación. Y durante casi dos años no hubo nada firme."
+          "texto": "Las primeras pistas eran difíciles. Los investigadores siguieron sus negocios y descartaron otras líneas. Y durante casi dos años no hubo nada firme."
         },
         {
           "voz": "ximena",
-          "texto": "En enero de 1997, un informante dio un aviso a la policía: dos personas buscaban ayuda para «dar una lección» a quien les había encargado el crimen y regateaba el precio, unos seiscientos millones de liras."
+          "texto": "En enero de 1997, un informante dio un aviso a la policía: dos personas buscaban ayuda para presionar a quien les había encargado el crimen y regateaba el precio, unos seiscientos millones de liras."
         },
         {
           "voz": "alvaro",
-          "texto": "Un agente se infiltró en el grupo, haciéndose pasar por un pistolero. Llenó de micrófonos las casas y los coches de los sospechosos. Lo que salió de esas escuchas es la prueba central del caso."
+          "texto": "Según las crónicas, un agente se infiltró en el grupo, haciéndose pasar por un pistolero. Llenó de micrófonos las casas y los coches de los sospechosos. Lo que salió de esas escuchas es la prueba central del caso."
         },
         {
           "voz": "ximena",
@@ -90,11 +90,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juicio empezó en mayo de 1998. El 3 de noviembre, los jueces condenaron a Reggiani a veintinueve años de cárcel. Ceraulo y Cicala recibieron cadena perpetua. Savioni, veintisiete años, y Auriemma, veinticinco."
+          "texto": "El juicio empezó en mayo de 1998. El 3 de noviembre, los jueces condenaron a Reggiani a veintinueve años de cárcel. Ceraulo, el autor de los disparos, recibió cadena perpetua. Los otros tres recibieron penas de más de veinte años."
         },
         {
           "voz": "ximena",
-          "texto": "En la apelación, el 17 de marzo de 2000, la pena de Reggiani bajó a veintiséis años. Las de los demás también se redujeron. El Tribunal de Casación confirmó las condenas en febrero de 2001."
+          "texto": "En la apelación, el 17 de marzo de 2000, la pena de Reggiani bajó a veintiséis años. El Tribunal de Casación confirmó las condenas en febrero de 2001."
         },
         {
           "voz": "alvaro",
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Il Post (2015), Affaritaliani (2017); la Wikipedia italiana no se pudo leer. Discrepancias: disparos (cuatro en Il Post, tres en Affaritaliani; el guion no da cifra); detenciones el 30 (Il Post, Affaritaliani) o 31 de enero (ficha, Wikipedia): el guion dice «entre el 30 y el 31»; duración del matrimonio (12 años en Il Post, 15 en Affaritaliani; el guion no la da); penas de 1998 según Il Post y Affaritaliani (Reggiani 29, Ceraulo y Cicala cadena perpetua, Savioni 27, Auriemma 25) frente a lo que dice la nota de la ficha de la Wikipedia (29 a Cicala, 26 a Savioni): se siguen los dos periódicos. Casación: 19 de febrero de 2001 (Affaritaliani). Salida: trabajo externo desde 2013 y fin de la libertad vigilada en 2017 (Affaritaliani); años en prisión: 17 (Il Post) o 16 (Affaritaliani). Ceraulo siempre se declaró inocente. Se omite la cita de la entrevista de Reggiani de 2014."
+  "nota_revision": "Fuentes abiertas: Il Post (2015), Affaritaliani (2017); la Wikipedia italiana no se pudo leer. Discrepancias: detenciones el 30 o 31 de enero («entre el 30 y el 31»); penas de los otros tres condenados: Il Post y Affaritaliani no coinciden con la nota de la ficha (Cicala 26 o cadena perpetua; Savioni 26 o 27; Auriemma 25): el guion dice solo 'más de veinte años'. Revisión: quitados el año del matrimonio (1972 o 1973 según fuentes), el primo Paolo (descartado en la investigación, sin necesidad de nombrarlo), la cita literal 'dar una lección', las penas de apelación 'de los demás' y el casino suizo. Ceraulo siempre se declaró inocente. Salida: trabajo externo desde 2013 y fin de la libertad vigilada en 2017 (Affaritaliani)."
 }

@@ -9,7 +9,6 @@
     "García Juliá": "García Julíá",
     "Lerdo de Tejada": "Lérdo de Tejáda",
     "Albaladejo": "Albaladéjo",
-    "São Paulo": "Sao Pául",
     "Soto del Real": "Sóto del Real",
     "Barajas": "Baráyas"
   },
@@ -34,6 +33,10 @@
         {
           "voz": "ximena",
           "texto": "Entran varios hombres armados. Buscaban a un dirigente sindical que, esa noche, no estaba. Dispararon contra quienes sí estaban. Murieron cinco personas y cuatro más quedaron gravemente heridas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender el caso hay que recordar el momento. Era enero de 1977, poco más de un año después de la muerte de Franco, y el Partido Comunista aún no estaba legalizado. Los abogados de aquel despacho defendían a trabajadores en un país que todavía no era una democracia plena."
         },
         {
           "voz": "alvaro",
@@ -62,6 +65,10 @@
         {
           "voz": "ximena",
           "texto": "La policía detuvo en pocos días a José Fernández Cerrá, a Carlos García Juliá y a Fernando Lerdo de Tejada, acusados de ser los autores materiales, y a Francisco Albaladejo, acusado de ser el inductor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota. Las detenciones llegaron pronto, y eso importa. En un caso así, el riesgo era que todo quedase en la impunidad. Que hubiera un juicio y una sentencia fue ya una respuesta, aunque incompleta."
         },
         {
           "voz": "ximena",
