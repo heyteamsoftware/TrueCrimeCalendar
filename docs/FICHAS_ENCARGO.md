@@ -72,3 +72,7 @@ Los nombres completos de cada uno están en `web/datos/candidatos/casos_existent
 ## Archivos temporales
 
 El scratchpad lo comparten todos los agentes. Pon a tus archivos temporales un nombre único que empiece por tu tarea y tu mes o grupo (por ejemplo, `fichas03_`, `verif01_` o `cintasA02_`). Nunca reutilices un script que no hayas escrito tú en esta tarea.
+
+## Casos repetidos
+
+Antes de dar por buena una ficha nueva o sustituida, ejecuta `node tools/buscar_repetidos.js <apellido o nombre clave>` y comprueba que el caso no está ya en otro día ni entre los casos estrella.

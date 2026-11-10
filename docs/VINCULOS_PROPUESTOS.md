@@ -16,3 +16,27 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
 - **Por mirar:**
   - Radowitzky y Falcón (14/11) con otros magnicidios anarquistas;
   - los pubs de Birmingham (21/11) con otros errores judiciales británicos relacionados con el IRA, si los hay.
+
+## Octubre
+
+- **Cuatro de Guildford (22/10) y pubs de Birmingham (21/11):** atentados del IRA y errores judiciales.
+- **Noche de Stammheim (18/10) y secuestro de Schleyer (5/9).**
+- **Bonnie Parker (1/10):** con la emboscada del 23 de mayo, si hay ficha de ese día.
+- **Wanninkhof (9/10):** ya tiene `["king","c",…]` con el caso estrella.
+
+## Detectados con `tools/buscar_repetidos.js`
+
+- **Los Solidarios:** el asesinato del cardenal Soldevila (4/6) y el atraco de Gijón (1/9).
+- **Fracción del Ejército Rojo (RAF):**
+  - el asesinato de Buback (7/4);
+  - el secuestro de Schleyer (5/9);
+  - la noche de Stammheim (18/10);
+  - el asesinato de Herrhausen (30/11).
+- **Trujillo:** su asesinato (30/5) y el de las hermanas Mirabal (25/11).
+- **Mafia siciliana:**
+  - el asesinato de Paolo Giaccone (11/8);
+  - el del padre Puglisi (15/9);
+  - el del juez Livatino (21/9);
+  - el nacimiento de Riina (16/11).
+- **Atentados contra Alfonso XIII:** Sancho Alegre (13/4) y Mateo Morral (31/5).
+- **Kennedy:** Robert Kennedy (5/6) y John F. Kennedy (22/11).

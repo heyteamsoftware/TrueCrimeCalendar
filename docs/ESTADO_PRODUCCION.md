@@ -16,8 +16,9 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | Mes | Escritas | Verificadas | Unidas |
 |---|---|---|---|
 | 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
-| 11 | 19/19 ✓ | en cola | — |
-| 02 a 10 y 12 | en marcha | — | — |
+| 11 | 19/19 ✓ | en marcha | — |
+| 10 | 24/24 ✓ (falta cambiar el 29/10, Chamberlain repetido) | en cola | — |
+| 02 a 09 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -81,3 +82,7 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
   - 5/8: caso nuevo que busca el agente de agosto, porque Dominici ya está el 28/11.
 
   Al unir hay que volver a comprobar las cuotas, porque Hispanoamérica ha perdido un caso.
+- **Cambios hechos por el agente de octubre:**
+  - 2/10: el gallinero de Wineville, en lugar de Goold (la fecha solo la da Wikipedia);
+  - 29/10: Ben Barka tiene la instrucción abierta y se puso Lindy Chamberlain, pero ese caso ya está el 17/8: está buscando otro.
+- **Regla para el coordinador:** antes de dar por buena una sustitución, buscar el nombre en todas las fichas y en la selección. En dos sustituciones (Dominici y Chamberlain) el caso ya estaba en otro día.
