@@ -1,0 +1,1824 @@
+[
+ {
+  "id": "marqueses-urquijo",
+  "m": 8,
+  "d": 1,
+  "y": 1980,
+  "n": "Rafael Escobedo",
+  "a": "El crimen de los marqueses de Urquijo",
+  "v": "2",
+  "p": "España",
+  "f": "🇪🇸",
+  "per": "1980",
+  "st": "Cerrado. Rafael Escobedo fue condenado a 53 años en 1983 y murió en la cárcel en 1988; la causa contra Javier Anastasio se archivó en 2010 por prescripción, sin juicio.",
+  "c": "En la noche del 31 de julio al 1 de agosto de 1980, María Lourdes de Urquijo, marquesa de Urquijo, y su marido, Manuel de la Sierra, fueron asesinados a tiros mientras dormían en su chalé de Somosaguas (Pozuelo de Alarcón, Madrid); la criada encontró los cuerpos a las nueve de la mañana. Su yerno, Rafael Escobedo, fue detenido en abril de 1981 y condenado en 1983 a 53 años como autor, «por sí solo o en compañía de otros». Escobedo, que siempre se declaró inocente, apareció muerto en su celda de El Dueso en 1988.",
+  "mo": "Los marqueses fueron tiroteados mientras dormían, en sus dormitorios, por alguien que entró de noche en la casa; el arma nunca apareció.",
+  "loc": [
+   [
+    40.4293,
+    -3.7974,
+    "Camino Viejo de Húmera, Somosaguas (chalé de los marqueses, lugar del crimen)"
+   ],
+   [
+    40.0717,
+    -2.1344,
+    "Provincia de Cuenca (finca familiar de los Escobedo, donde aparecieron los casquillos; Escobedo fue detenido el 8 de abril de 1981 y llevado a la Dirección General de Seguridad, en Madrid)"
+   ],
+   [
+    43.459,
+    -3.4575,
+    "Penal de El Dueso, Santoña (muerte de Escobedo, 27 de julio de 1988)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "espana",
+   "nobles"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de los marqueses de Urquijo",
+  "autor": "Rafael Escobedo (condenado), «solo o en compañía de otros»",
+  "fuentes": [
+   {
+    "titulo": "Andrés Lara, «1980: asesinato de los marqueses de Urquijo», Economist & Jurist (7 de noviembre de 2021)",
+    "url": "https://www.economistjurist.es/articulos-juridicos-destacados/1980-asesinato-de-los-marqueses-de-urquijo",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "David González, «45 años del asesinato de los marqueses de Urquijo: todas las claves del crimen más famoso de España», ESdiario (30 de julio de 2025)",
+    "url": "https://www.esdiario.com/nacional/250730/164275/45-anos-asesinato-marqueses-urquijo-todas-claves-crimen-famoso-espana.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Alfageme, «Rafael Escobedo se suicida sin dejar ninguna carta», El País (28 de julio de 1988)",
+    "url": "https://elpais.com/diario/1988/07/28/espana/586044006_850215.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«La justicia perdona al fugitivo Javier Anastasio», El País (20 de mayo de 2010)",
+    "url": "https://elpais.com/diario/2010/05/20/espana/1274306414_850215.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Los tres disparos que siguen persiguiendo a Javier Anastasio», ABC (1 de agosto de 2015)",
+    "url": "https://www.abc.es/estilo/gente/20150801/abci-marqueses-urquijo-javier-anastasio-201507312024.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en español), «Crimen de los marqueses de Urquijo» (punto de partida; consultada por sus referencias)",
+    "url": "https://es.wikipedia.org/wiki/Crimen_de_los_marqueses_de_Urquijo",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Wikipedia y Economist & Jurist fechan la detención de Anastasio en octubre de 1983 y en enero de 1983, respectivamente. La segunda autopsia de Escobedo halló cianuro; la versión oficial fue suicidio. Las páginas de El País y ABC no se pudieron abrir desde aquí (citadas por Wikipedia). Anastasio, huido desde 1987 y con la causa prescrita en 2010, se dejó ver en 2017 ante dos periodistas; nunca fue juzgado: no atribuirle el crimen. Verificación: la detención de Escobedo el 8 de abril de 1981, la condena de 53 años (julio de 1983), su muerte el 27 de julio de 1988 y el archivo por prescripción de 2010 constan en la Wikipedia en español y en ESdiario; el lugar exacto del arresto (Cuenca o Madrid) varía entre fuentes."
+ },
+ {
+  "id": "asesinato-hickok",
+  "m": 8,
+  "d": 2,
+  "y": 1876,
+  "n": "Jack McCall",
+  "a": "La mano del muerto",
+  "v": "1",
+  "p": "Estados Unidos",
+  "f": "🇺🇸",
+  "per": "1876–1877",
+  "st": "Cerrado. Jack McCall fue declarado culpable en Yankton en diciembre de 1876 y ahorcado el 1 de marzo de 1877.",
+  "c": "La tarde del 2 de agosto de 1876, Jack McCall se acercó por la espalda a James Butler «Wild Bill» Hickok, que jugaba al póquer en el saloon de Nuttall & Mann, en Deadwood (Territorio de Dakota), y lo mató de un disparo en la cabeza. Un jurado improvisado de mineros lo absolvió al día siguiente, después de que alegara vengar a un hermano. Como Deadwood estaba en territorio indio, aquel juicio no tenía validez: McCall fue juzgado de nuevo en Yankton, declarado culpable el 6 de diciembre y ahorcado el 1 de marzo de 1877.",
+  "mo": "Disparo a quemarropa por la espalda, con la víctima sentada a la mesa de juego.",
+  "loc": [
+   [
+    44.3744,
+    -103.7291,
+    "Main Street, Deadwood (saloon de Nuttall & Mann, lugar del crimen)"
+   ],
+   [
+    44.376,
+    -103.726,
+    "Cementerio de Mount Moriah, Deadwood (sepultura de Hickok)"
+   ],
+   [
+    42.8713,
+    -97.3967,
+    "Yankton (segundo juicio y ejecución de McCall)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de Wild Bill Hickok",
+  "autor": "Jack McCall (condenado y ejecutado)",
+  "fuentes": [
+   {
+    "titulo": "HISTORY.com Editors, «Wild Bill Hickok is murdered», A&E Television Networks (16 de noviembre de 2009; actualizado en 2025)",
+    "url": "https://www.history.com/this-day-in-history/august-2/wild-bill-hickok-is-murdered",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Biography.com Editors, «Wild Bill Hickok», A&E Television Networks (2014; actualizado en 2020)",
+    "url": "https://www.biography.com/historical-figure/wild-bill-hickok",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Michael Zimny, «Gurney Hotel Building in Yankton – the site of Jack McCall's and other high-profile trials», South Dakota Public Broadcasting (19 de febrero de 2016)",
+    "url": "https://www.sdpb.org/rural-life-and-history/History-of-the-Gurney-Hotel-Building-in-Yankton",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Encyclopaedia Britannica, «Wild Bill Hickok»",
+    "url": "https://www.britannica.com/biography/Wild-Bill-Hickok",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Buck Rainey, «Western Gunslingers in Fact and on Film», McFarland (2012), p. 186",
+    "url": "https://books.google.com/books?id=H-0yKIIRLSMC&pg=PA186",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Jack McCall» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Jack_McCall",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Wikipedia atribuye la sentencia al juez Granville Bennett; SDPB y otras fuentes, al juez Peter C. Shannon (sentencia del 3 de enero de 1877). History.com llama al local «saloon n.º 10». El móvil sigue discutido: McCall alegó vengar a un hermano que, según las fuentes, no existió. Britannica no se pudo abrir (error 403). Coordenadas de Deadwood a nivel de calle principal, no del número exacto."
+ },
+ {
+  "id": "roberto-peci",
+  "m": 8,
+  "d": 3,
+  "y": 1981,
+  "n": "Roberto Peci",
+  "a": "El hermano del arrepentido",
+  "v": "1",
+  "p": "Italia",
+  "f": "🇮🇹",
+  "per": "1981",
+  "st": "Cerrado. Giovanni Senzani, jefe de la facción que lo secuestró, fue detenido en 1982 y condenado por su actividad en las Brigadas Rojas; obtuvo la semilibertad en 1999 y extinguió su pena en 2010.",
+  "c": "El 10 de junio de 1981, un comando de cuatro brigadistas secuestró en San Benedetto del Tronto a Roberto Peci, instalador de antenas de 25 años y hermano de Patrizio Peci, el primer gran arrepentido de las Brigadas Rojas. La facción de Giovanni Senzani lo sometió a un «juicio» filmado que enviaron a la prensa y que la RAI se negó a emitir. El 3 de agosto de 1981, tras casi dos meses de cautiverio, lo mataron a tiros en una casa abandonada de la vía del Fosso dello Statuario, en las afueras de Roma, como castigo contra su hermano.",
+  "mo": "Secuestro, interrogatorio grabado en vídeo y ejecución con ráfagas de metralleta; Senzani fotografió el asesinato.",
+  "loc": [
+   [
+    42.9525,
+    13.8807,
+    "San Benedetto del Tronto (secuestro, 10 de junio de 1981)"
+   ],
+   [
+    41.829,
+    12.565,
+    "Via del Fosso dello Statuario, Roma (lugar del asesinato; coordenada aproximada)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Secuestro y asesinato de Roberto Peci",
+  "autor": "Brigadas Rojas (facción de Giovanni Senzani)",
+  "fuentes": [
+   {
+    "titulo": "Casa della Memoria (Brescia), «Roberto Peci – English version», Sempre per la verità",
+    "url": "https://www.sempreperlaverita.it/roberto-peci-english-version/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Rita Di Giovacchino, «Il mistero Senzani», Il Fatto Quotidiano (6 de noviembre de 2010)",
+    "url": "https://www.ilfattoquotidiano.it/2010/11/06/mistero-senzani/73707/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Rita Di Giovacchino, «L'ambigua storia del brigatista Senzani», Il Fatto Quotidiano (15 de agosto de 2013)",
+    "url": "http://www.ilfattoquotidiano.it/2013/08/15/lambigua-storia-del-brigatista-senzani/685129",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Rita Di Giovacchino, «Il libro nero della prima repubblica», Fazi Editore, p. 439",
+    "url": "https://books.google.it/books?id=rxbpgli8zMIC&pg=PA439",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "«La RAI: non cediamo alle richieste delle BR», Corriere della Sera (28 de julio de 1981), citado en «L'infame e suo fratello», La storia siamo noi, RAI (copia archivada)",
+    "url": "https://web.archive.org/web/20160715074507/http://www.lastoriasiamonoi.rai.it/puntate/linfame-e-suo-fratello/821/default.aspx",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Wikipedia (en italiano), «Roberto Peci» (punto de partida; consultada por sus referencias)",
+    "url": "https://it.wikipedia.org/wiki/Roberto_Peci",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Las fuentes difieren en la edad (24 o 25 años), en la duración del cautiverio (53 o 55 días) y en el lugar (vía del Fosso dello Statuario o «una cantera en la vía Apia»). Ninguna fuente abierta detalla la pena concreta impuesta por este crimen: solo que Senzani fue condenado y pasó 17 años en prisión (23, según una entrevista suya). La página de la RAI está en web.archive.org y no se pudo abrir. Coordenada del lugar del crimen aproximada."
+ },
+ {
+  "id": "lizzie-borden",
+  "m": 8,
+  "d": 4,
+  "y": 1892,
+  "n": "Lizzie Borden",
+  "a": "Lizzie Borden",
+  "v": "2",
+  "p": "Estados Unidos",
+  "f": "🇺🇸",
+  "per": "1892–1893",
+  "st": "Sin resolver. Lizzie Borden fue absuelta en junio de 1893 y nadie más fue acusado.",
+  "c": "La mañana del 4 de agosto de 1892, Andrew Borden y su esposa, Abby, aparecieron muertos a golpes de hacha en su casa del número 92 de Second Street, en Fall River (Massachusetts). Su hija Lizzie, de 32 años, que estaba en la casa con la criada, Bridget Sullivan, fue detenida el 11 de agosto, tras la investigación judicial. El juicio empezó el 5 de junio de 1893 en New Bedford y el 20 de junio el jurado la absolvió tras deliberar menos de dos horas. Nadie más fue acusado y el doble crimen sigue sin resolver.",
+  "mo": "Desconocido. Las dos víctimas fueron atacadas con un arma cortante, por separado, dentro de la casa familiar y a plena luz del día.",
+  "loc": [
+   [
+    41.6989,
+    -71.1562,
+    "92 Second Street, Fall River (casa de los Borden, lugar del crimen)"
+   ],
+   [
+    41.6362,
+    -70.9342,
+    "New Bedford (juicio, junio de 1893)"
+   ],
+   [
+    41.7053,
+    -71.1372,
+    "Cementerio de Oak Grove, Fall River (sepultura de la familia)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "sin_resolver"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Los crímenes de Lizzie Borden",
+  "autor": "Desconocido (Lizzie Borden, juzgada y absuelta)",
+  "fuentes": [
+   {
+    "titulo": "Erin Moriarty, «“Lizzie Borden took an axe” — or did she? What would a jury say today?», CBS News, 48 Hours (31 de julio de 2021; emitido el 26 de diciembre de 2020)",
+    "url": "https://www.cbsnews.com/news/lizzie-borden-accused-killer-axe-48-hours/",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Nicole Pelletiere, «On this day in history, August 4, 1892, Lizzie Borden's father and stepmother are murdered», Fox News (4 de agosto de 2023)",
+    "url": "https://www.foxnews.com/lifestyle/this-day-history-august-4-1892-lizzie-bordens-father-stepmother-murdered-massachusetts",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Few at Borden Burial», The New York Times (6 de junio de 1927)",
+    "url": "https://www.nytimes.com/1927/06/06/archives/few-at-borden-burial-plans-for-funeral-of-woman-tried-for-murder.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Edwin H. Porter, «The Fall River Tragedy» (1893), Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/57939",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "«How Lizzie Borden Got Away With Murder», Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/history/how-lizzie-borden-got-away-with-murder-180972707/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Lizzie Borden» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Fecha del veredicto según Wikipedia: 20 de junio de 1893 (CBS dice que el juicio duró unas tres semanas; con inicio el 5 y veredicto el 20, fueron unas dos). Smithsonian y Famous Trials no se pudieron abrir (error 403). Coordenada de New Bedford a nivel de ciudad."
+ },
+ {
+  "id": "trece-rosas",
+  "m": 8,
+  "d": 5,
+  "y": 1939,
+  "n": "Las Trece Rosas",
+  "a": "Las Trece Rosas",
+  "v": "13 mujeres y 43 hombres fusilados",
+  "p": "España",
+  "f": "🇪🇸",
+  "per": "1939",
+  "st": "Cerrado. Fueron condenadas a muerte en un consejo de guerra sumarísimo sin garantías y fusiladas en la madrugada del 5 de agosto de 1939; nadie respondió nunca por estas ejecuciones.",
+  "c": "En la madrugada del 5 de agosto de 1939, cuatro meses después del fin de la guerra civil, trece jóvenes de entre 18 y 29 años, casi todas de las Juventudes Socialistas Unificadas, fueron fusiladas junto a la tapia del cementerio del Este (hoy de La Almudena), en Madrid, con 43 hombres. Detenidas desde mayo y presas en la cárcel de Ventas, habían sido condenadas en un consejo de guerra sumarísimo celebrado en los días previos por «adhesión a la rebelión». El régimen ligó el proceso al asesinato del comandante Isaac Gabaldón, cometido cuando ellas ya estaban en la cárcel.",
+  "mo": "Represión judicial: detenciones a partir de ficheros y delaciones, interrogatorios con torturas, un juicio militar colectivo con defensa de apariencia y fusilamiento al amanecer.",
+  "loc": [
+   [
+    40.4192,
+    -3.6487,
+    "Tapia del cementerio del Este, hoy de La Almudena, Madrid (fusilamiento)"
+   ],
+   [
+    40.429,
+    -3.662,
+    "Antigua cárcel de mujeres de Ventas, Madrid (donde estuvieron presas; coordenada aproximada)"
+   ],
+   [
+    39.9636,
+    -4.8302,
+    "Cerca de Talavera de la Reina (donde fue asesinado el comandante Gabaldón a finales de julio de 1939)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "espana",
+   "errores_judiciales"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "condena",
+  "titulo_caso": "El fusilamiento de las Trece Rosas",
+  "autor": "Tribunal militar del régimen franquista (consejo de guerra sumarísimo)",
+  "fuentes": [
+   {
+    "titulo": "Patricia Campelo, «Homenaje internacional a las 13 Rosas», Público (5 de agosto de 2010)",
+    "url": "https://www.publico.es/actualidad/homenaje-internacional-13-rosas.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "EFE, «Homenaje a las Trece Rosas en el aniversario de su muerte», eldiario.es (5 de agosto de 2013)",
+    "url": "https://www.eldiario.es/politica/homenaje-trece-rosas-aniversario-muerte_1_5766892.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Fidel Manjavacas, «El misterioso asesinato del comandante Gabaldón en Talavera que llevó a la muerte a las Trece Rosas», eldiario.es (10 de agosto de 2019)",
+    "url": "https://www.eldiario.es/clm/misterioso-Gabaldon-Talavera-Trece-Rosas_0_929507630.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Marilín Tomico y Beatriz Rodrigo, «Ni torturadoras ni violadoras: lo que dice la sentencia de muerte de las Trece Rosas», Newtral (2019)",
+    "url": "https://www.newtral.es/reportajes/ni-torturadoras-ni-violadoras-lo-que-dice-la-sentencia-de-muerte-de-las-trece-rosas/",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Carlos Fonseca, «Trece rosas rojas», Temas de Hoy (2004)",
+    "url": "https://www.planetadelibros.com/libro-trece-rosas-rojas/67514",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "Wikipedia (en español), «Las Trece Rosas» (punto de partida; consultada por sus referencias)",
+    "url": "https://es.wikipedia.org/wiki/Las_Trece_Rosas",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Sustituye al tiroteo de Stringtown (Bonnie y Clyde ya están el 1/10) y al caso Dominici (ya está el 28/11): caso nuevo, buscado por el agente, que no estaba entre los candidatos. Fecha del 5 de agosto de 1939 confirmada por Público (2010), EFE (2013) y Wikipedia; Manjavacas (eldiario.es, 2019) habla de la «madrugada del 6», en contradicción con el resto. Wikipedia fecha el consejo de guerra el 4 de agosto y el atentado contra Gabaldón el 27 de julio (eldiario.es: el 29). Una decimocuarta joven, Antonia Torre Yela, fue fusilada en febrero de 1940. Nueve eran menores de edad según la ley de entonces (23 años): no se dan nombres. Fuerte carga política; tipo «condena», como el caso de Puig Antich. Newtral no se pudo abrir (error 403). Coordenada de la cárcel de Ventas aproximada. Verificación: Público (2010), EFE-eldiario.es (2013) y eldiario.es (2019) dan 13 mujeres y 43 hombres, y la madrugada del 5; la Wikipedia en español actual habla de 50 hombres y de 63 fusilados, y fecha el consejo de guerra el 4 de agosto (la sentencia, el 3), por lo que se omite el día exacto del consejo y la fecha del atentado (27 o 29 de julio según la fuente). Los nombres de las trece son públicos y los difunden memorialistas y familias, pero la ficha no los da."
+ },
+ {
+  "id": "juez-crater",
+  "m": 8,
+  "d": 6,
+  "y": 1930,
+  "n": "Joseph Force Crater",
+  "a": "El hombre más desaparecido de Nueva York",
+  "v": "1 (desaparecido)",
+  "p": "Estados Unidos",
+  "f": "🇺🇸",
+  "per": "1930",
+  "st": "Sin resolver. Fue declarado legalmente muerto en 1939 y la policía de Nueva York cerró el caso en 1979.",
+  "c": "La noche del 6 de agosto de 1930, Joseph Force Crater, de 41 años y juez del Tribunal Supremo del Estado de Nueva York desde abril, cenó en un restaurante de la calle 45 Oeste de Manhattan con un amigo abogado y una corista, y no volvió a ser visto. Esa mañana había destruido papeles y retirado 5.000 dólares del banco. La desaparición no se denunció hasta el 3 de septiembre; un gran jurado escuchó a 95 testigos sin resultado y en 1939 fue declarado legalmente muerto. En 2005 apareció una nota póstuma que hablaba de un asesinato, nunca comprobada.",
+  "mo": "Desconocido. Desapareció a pie, de noche, cerca de Times Square, en plena investigación sobre la corrupción municipal.",
+  "loc": [
+   [
+    40.7595,
+    -73.9895,
+    "332 West 45th Street, Manhattan (restaurante de Billy Haas, última vez que se le vio)"
+   ],
+   [
+    40.7335,
+    -73.9945,
+    "40 Fifth Avenue, Manhattan (su apartamento)"
+   ],
+   [
+    40.5741,
+    -73.975,
+    "Coney Island (lugar del entierro según la nota de 2005, sin confirmar)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "sin_resolver",
+   "desapariciones"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "desaparicion",
+  "titulo_caso": "La desaparición del juez Crater",
+  "autor": "Desconocido",
+  "fuentes": [
+   {
+    "titulo": "HISTORY.com Editors, «Judge Joseph Force Crater becomes the “missingest man” in New York», A&E Television Networks (28 de enero de 2011; actualizado en 2025)",
+    "url": "https://www.history.com/this-day-in-history/august-6/joseph-force-crater-becomes-the-missingest-man-in-new-york",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "CNN, American Morning: entrevista con Richard J. Tofel, autor de «Vanishing Point» (22 de agosto de 2005; transcripción)",
+    "url": "http://transcripts.cnn.com/TRANSCRIPTS/0508/22/ltm.02.html",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Tom Meehan, «Case No. 13595: It's Thirty Years Later…», The New York Times (7 de agosto de 1960)",
+    "url": "https://www.nytimes.com/1960/08/07/archives/case-no-13595-its-thirty-years-later-theres-plenty-of-data-but.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "William K. Rashbaum, «Judge Crater Abruptly Appears, at Least in Public Records», The New York Times (20 de agosto de 2005)",
+    "url": "https://www.nytimes.com/2005/08/20/nyregion/20crater.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Ransom of $20,000 Asked for Crater», The New York Times (16 de septiembre de 1930; facsímil)",
+    "url": "https://www.nytimes.com/packages/pdf/nyregion/crater-ransom.pdf",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Joseph Force Crater» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Force_Crater",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Los acompañantes dijeron primero que Crater subió a un taxi y después que fueron ellos quienes lo cogieron mientras él se alejaba a pie (Wikipedia y CNN). Las páginas de The New York Times no se pudieron abrir desde aquí. Coordenadas de Manhattan comprobadas solo por dirección, no en mapa."
+ },
+ {
+  "id": "robo-tren-glasgow",
+  "m": 8,
+  "d": 8,
+  "y": 1963,
+  "n": "Bruce Reynolds",
+  "a": "El gran robo del tren",
+  "v": "Ninguna mortal (el maquinista, herido)",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1963–1964",
+  "st": "Cerrado. La mayoría de la banda fue condenada en 1964, siete de ellos a 30 años; Reynolds fue detenido en 1968. La mayor parte del dinero nunca se recuperó.",
+  "c": "Pasadas las tres de la madrugada del 8 de agosto de 1963, una banda de unos quince hombres dirigida por Bruce Reynolds manipuló una señal en Sears Crossing (Buckinghamshire) y detuvo el tren correo de Glasgow a Londres. En el puente de Bridego se llevaron 120 sacas con unos 2,6 millones de libras; el maquinista, Jack Mills, fue golpeado en la cabeza y no se recuperó del todo. El 13 de agosto la policía encontró su refugio, la granja de Leatherslade, llena de huellas. En abril de 1964, en Aylesbury, siete acusados fueron condenados a 30 años.",
+  "mo": "Señal falsa para parar el tren de noche, asalto al vagón de los billetes y huida a una granja alquilada para repartir el botín.",
+  "loc": [
+   [
+    51.8789,
+    -0.6694,
+    "Puente de Bridego, Ledburn (descarga del botín)"
+   ],
+   [
+    51.82,
+    -1.053,
+    "Granja de Leatherslade, entre Oakley y Brill (refugio de la banda; coordenada aproximada)"
+   ],
+   [
+    51.8168,
+    -0.8124,
+    "Aylesbury (juicio, enero-abril de 1964)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "golpes"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "golpe",
+  "titulo_caso": "El gran robo del tren de Glasgow a Londres",
+  "autor": "Banda de Bruce Reynolds (condenados)",
+  "fuentes": [
+   {
+    "titulo": "Steve Charnock, «The Great Train Robbery: Six decades later», Crime+Investigation (2023)",
+    "url": "https://www.crimeandinvestigation.co.uk/articles/great-train-robbery-60-years",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Niamh Franklin, «60 Years Since the Great Train Robbery», British Online Archives (8 de agosto de 2023)",
+    "url": "https://britishonlinearchives.com/posts/category/notable-days/643/60-years-since-the-great-train-robbery",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Encyclopaedia Britannica, «Great Train Robbery»",
+    "url": "https://www.britannica.com/event/Great-Train-Robbery",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "British Transport Police, «The Great Train Robbery» (historia del cuerpo)",
+    "url": "https://www.btp.police.uk/police-forces/british-transport-police/areas/campaigns/our-history/crime-history/great-train-robbery/",
+    "tipo": "policial"
+   },
+   {
+    "titulo": "Crime+Investigation, «Great Train Robbery» (expediente)",
+    "url": "https://www.crimeandinvestigation.co.uk/crime-files/great-train-robbery",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Great Train Robbery (1963)» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Great_Train_Robbery_(1963)",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "El tamaño de la banda varía: 15 asaltantes (Crime+Investigation, British Online Archives), 16 con un maquinista retirado (Wikipedia) o 17 en la preparación. La cifra oficial del botín fue de 2.595.997 libras. Britannica y la página de la British Transport Police no se pudieron abrir (error 403). La detención de Reynolds en 1968 viene de Wikipedia y no se ha comprobado en una segunda fuente. Coordenada de Leatherslade aproximada."
+ },
+ {
+  "id": "joe-orton",
+  "m": 8,
+  "d": 9,
+  "y": 1967,
+  "n": "Kenneth Halliwell",
+  "a": "El asesinato de Joe Orton",
+  "v": "1",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1967",
+  "st": "Cerrado sin juicio: el autor se quitó la vida tras el crimen.",
+  "c": "El 9 de agosto de 1967, el dramaturgo Joe Orton, de 34 años, autor de «Entertaining Mr Sloane» y «Loot», fue asesinado a martillazos en el piso del número 25 de Noel Road, en Islington (Londres), por su pareja desde hacía quince años, Kenneth Halliwell, que después se quitó la vida con una sobredosis de barbitúricos. Los cuerpos aparecieron a la mañana siguiente, cuando un chófer llegó para llevar a Orton a una reunión sobre un guion de cine. Los dos fueron incinerados en Golders Green y sus cenizas se esparcieron juntas.",
+  "mo": "Agresión con un martillo en el domicilio común, seguida del suicidio del autor con barbitúricos.",
+  "loc": [
+   [
+    51.5333,
+    -0.1002,
+    "25 Noel Road, Islington (piso de la pareja, lugar del crimen)"
+   ],
+   [
+    52.6369,
+    -1.1398,
+    "Leicester (ciudad natal de Orton)"
+   ],
+   [
+    51.5772,
+    -0.1936,
+    "Crematorio de Golders Green (donde se esparcieron sus cenizas)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "londres"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de Joe Orton",
+  "autor": "Kenneth Halliwell",
+  "fuentes": [
+   {
+    "titulo": "Joe Orton y John Lahr (ed.), «The Orton Diaries», Methuen (1986; ed. 1996), p. 266",
+    "url": "https://books.google.com/books?id=X7DiU-70SBgC&q=hammer",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "Kate Mossman, «Aged 6, finding Joe Orton's diaries gave me a strange education in love, sex and death», New Statesman (1 de septiembre de 2017)",
+    "url": "https://www.newstatesman.com/culture/2017/09/aged-6-finding-joe-ortons-diaries-gave-me-strange-education-love-sex-and-death",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "London Remembers, «Joe Orton» (ficha del memorial, con la muerte en el 25 de Noel Road)",
+    "url": "https://londonremembers.com/subjects/6284",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Encyclopaedia Britannica, «Joe Orton»",
+    "url": "https://www.britannica.com/biography/Joe-Orton",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Joe Orton» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Joe_Orton",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Fuentes flojas: el apartado del asesinato en Wikipedia pide más referencias y Britannica no se pudo abrir (error 403). La biografía de referencia es «Prick Up Your Ears», de John Lahr (1978), sin URL. La investigación judicial (inquest) se abrió en St Pancras y su veredicto final no se ha comprobado. Conviene añadir una crónica de prensa de 1967 (The Guardian, The Times)."
+ },
+ {
+  "id": "alvin-karpis",
+  "m": 8,
+  "d": 10,
+  "y": 1907,
+  "n": "Alvin Karpis",
+  "a": "Creepy Karpis",
+  "v": "Varios muertos en atracos; dos secuestrados",
+  "p": "Canadá / Estados Unidos",
+  "f": "🇨🇦",
+  "per": "1931–1936",
+  "st": "Cumplió condena. Condenado a cadena perpetua en 1936 por el secuestro de Edward Bremer, salió en libertad condicional en 1969 y murió en 1979.",
+  "c": "Alvin Karpis nació el 10 de agosto de 1907 en Montreal, hijo de inmigrantes lituanos, y creció en Kansas. En los años treinta dirigió con los hermanos Barker una banda de atracadores que secuestró en Saint Paul (Minnesota) al cervecero William Hamm (1933) y al banquero Edward Bremer (1934), por los que cobró 100.000 y 200.000 dólares de rescate. Tras ser declarado «enemigo público número uno», fue detenido el 1 de mayo de 1936 en Nueva Orleans en presencia de J. Edgar Hoover. Condenado a cadena perpetua, pasó en Alcatraz desde 1936 hasta 1962.",
+  "mo": "Atracos a bancos y trenes correo, y secuestros de empresarios por rescate.",
+  "loc": [
+   [
+    45.5017,
+    -73.5673,
+    "Montreal (nacimiento, 1907)"
+   ],
+   [
+    44.9478,
+    -93.1039,
+    "Saint Paul, Minnesota (secuestros de Hamm y Bremer)"
+   ],
+   [
+    29.9761,
+    -90.0783,
+    "Nueva Orleans (detención, 1 de mayo de 1936)"
+   ],
+   [
+    37.8267,
+    -122.4228,
+    "Isla de Alcatraz (preso de 1936 a 1962)"
+   ],
+   [
+    36.6219,
+    -4.4997,
+    "Torremolinos (muerte, 26 de agosto de 1979)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "nacimiento",
+  "titulo_caso": "Alvin «Creepy» Karpis, el enemigo público número uno",
+  "autor": "Alvin Karpis (condenado)",
+  "fuentes": [
+   {
+    "titulo": "Kansas Historical Society, «Alvin Karpis», Kansapedia (2012; revisada en 2016)",
+    "url": "https://www.kansashistory.gov/kansapedia/alvin-karpis/17825",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "FBI, «Barker/Karpis Gang» (casos célebres)",
+    "url": "https://www.fbi.gov/history/famous-cases/barker-karpis-gang",
+    "tipo": "policial"
+   },
+   {
+    "titulo": "Edward Butts, «Karpis, Alvin», The Canadian Encyclopedia (2008; revisada en 2013)",
+    "url": "https://thecanadianencyclopedia.ca/fr/article/karpis-alvin",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Jim Pauff, «Alvin Karpis», EBSCO Research Starters (2024)",
+    "url": "https://www.ebsco.com/research-starters/biography/alvin-karpis",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "FBI Records: The Vault — «Alvin Francis Karpis»",
+    "url": "https://vault.fbi.gov/alvin-francis-karpis",
+    "tipo": "policial"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Alvin Karpis» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Alvin_Karpis",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Año de nacimiento: 1907 según la Kansas Historical Society, el FBI y Wikipedia; 1908 según The Canadian Encyclopedia y EBSCO (se elige 1907). EBSCO da además una detención en abril de 1935, que contradice al resto (1 de mayo de 1936). Los años en Alcatraz varían entre 25 y 26. Las páginas del FBI no se pudieron abrir (error 403); su contenido se vio en el extracto del buscador. Bandera: nació en Canadá y actuó en Estados Unidos."
+ },
+ {
+  "id": "paolo-giaccone",
+  "m": 8,
+  "d": 11,
+  "y": 1982,
+  "n": "Paolo Giaccone",
+  "a": "El forense que no se dejó comprar",
+  "v": "1",
+  "p": "Italia",
+  "f": "🇮🇹",
+  "per": "1982",
+  "st": "Juzgado. Salvatore Rotolo fue condenado a cadena perpetua en el maxiproceso de Palermo como autor material; los mandantes nunca se establecieron del todo.",
+  "c": "La mañana del 11 de agosto de 1982, el médico forense Paolo Giaccone, de 53 años y profesor de la Universidad de Palermo, fue asesinado a tiros ante el Instituto de Medicina Legal, en los jardines del Policlínico de la ciudad. Meses antes había analizado una huella dactilar dejada en el coche de los sicarios de la matanza de Bagheria (25 de diciembre de 1981) y había resistido las presiones para cambiar su informe, que identificaba a Giuseppe Marchese, sobrino del jefe mafioso Filippo Marchese. Gracias al testimonio del arrepentido Vincenzo Sinagra, Salvatore Rotolo fue condenado a cadena perpetua en el maxiproceso.",
+  "mo": "Emboscada de varios sicarios de Cosa Nostra, que le dispararon a la cabeza al llegar al trabajo y huyeron.",
+  "loc": [
+   [
+    38.1049,
+    13.3602,
+    "Policlínico de Palermo, hoy Policlínico Paolo Giaccone (lugar del crimen)"
+   ],
+   [
+    38.0833,
+    13.5,
+    "Bagheria (matanza de Navidad de 1981 cuya prueba analizó)"
+   ]
+  ],
+  "vin": [
+   [
+    "libero-grassi",
+    "r",
+    "Otra víctima de Cosa Nostra en Palermo por negarse a ceder"
+   ]
+  ],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato del forense Paolo Giaccone",
+  "autor": "Cosa Nostra (Salvatore Rotolo, condenado como autor material)",
+  "fuentes": [
+   {
+    "titulo": "Associazione Vittime di Mafia, «11 agosto 1982 Palermo. Assassinato il prof. Paolo Giaccone, esperto in medicina legale», con la crónica de Antonio Ravidà en La Stampa (11 de agosto de 1982)",
+    "url": "https://vittimemafia.it/11-agosto-1982-palermo-assassinato-il-prof-paolo-giaccone-esperto-in-medicina-legale-e-consigliere-nel-palazzo-di-giustizia/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Roberto Greco, «Si chiamava Paolo Giaccone ed è stato ucciso dalla mafia l'11 agosto 1982», Antimafia Duemila (11 de agosto de 2019)",
+    "url": "https://www.antimafiaduemila.com/home/rubriche/roberto-greco/si-chiamava-paolo-giaccone-ed-e-stato-ucciso-dalla-mafia-l-11-agosto-1982",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Alice Marchese, «L'eroe dimenticato che a Palermo disse no alla mafia: un libro racconta Paolo Giaccone», Balarm (23 de junio de 2026)",
+    "url": "https://www.balarm.it/news/l-eroe-dimenticato-che-a-palermo-disse-no-alla-mafia-un-libro-racconta-paolo-giaccone-167467",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Mafia, Giaccone: commemorazione», BlogSicilia",
+    "url": "https://www.blogsicilia.it/palermo/mafia-giaccone-cosa-nostra-malaffare-commemorazione/625917/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Ho ucciso il nipote di Buscetta», la Repubblica (18 de marzo de 1995)",
+    "url": "https://ricerca.repubblica.it/repubblica/archivio/repubblica/1995/03/18/ho-ucciso-il-nipote-di-buscetta.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en italiano), «Paolo Giaccone» (punto de partida; consultada por sus referencias)",
+    "url": "https://it.wikipedia.org/wiki/Paolo_Giaccone",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Sustituye al atraco del hotel Carlton de Cannes (11/8/1994), cuyas fuentes no coincidían en el botín (de 30 a 60 millones de dólares) ni en si hubo detenidos. La Stampa (1982) habla de tres sicarios que huyeron a pie; Greco (2019), de dos a pie y un tercero en coche, que huyeron en moto. El número de disparos (cinco) solo lo dan Wikipedia y Greco. BlogSicilia y la Repubblica no se abrieron desde aquí."
+ },
+ {
+  "id": "braybrook-street",
+  "m": 8,
+  "d": 12,
+  "y": 1966,
+  "n": "Harry Roberts",
+  "a": "La matanza de Braybrook Street",
+  "v": "3",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1966",
+  "st": "Cerrado. Roberts, Duddy y Witney fueron condenados a cadena perpetua en diciembre de 1966. Duddy murió en prisión en 1981, Witney salió en 1991 y Roberts, en libertad condicional en 2014; murió en diciembre de 2025.",
+  "c": "Hacia las tres y cuarto de la tarde del 12 de agosto de 1966, tres policías de paisano de un coche camuflado se acercaron a una furgoneta parada en Braybrook Street, junto a la cárcel de Wormwood Scrubs (Londres). Dentro iban Harry Roberts, John Duddy y John Witney, que buscaban un coche para un atraco: el sargento detective Christopher Head, el detective David Wombwell y el agente Geoffrey Fox murieron a tiros. Witney fue detenido esa noche y Duddy, en Glasgow días después; Roberts estuvo huido casi cien días. Los tres fueron condenados a cadena perpetua, con una recomendación de 30 años como mínimo.",
+  "mo": "Disparos a quemarropa contra unos agentes desarmados que se acercaron a identificar a los ocupantes de la furgoneta.",
+  "loc": [
+   [
+    51.519,
+    -0.2433,
+    "Braybrook Street, East Acton (lugar del crimen)"
+   ],
+   [
+    51.8143,
+    0.1464,
+    "Sawbridgeworth, cerca de Bishop's Stortford (captura de Roberts, 15 de noviembre de 1966)"
+   ],
+   [
+    51.5155,
+    -0.1019,
+    "Old Bailey (juicio y condena, diciembre de 1966)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "londres"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "La matanza de policías de Braybrook Street (Shepherd's Bush)",
+  "autor": "Harry Roberts, John Duddy y John Witney (condenados)",
+  "fuentes": [
+   {
+    "titulo": "Alex Storey, «Harry Roberts, triple cop killer, dies», LBC (16 de diciembre de 2025)",
+    "url": "https://www.lbc.co.uk/article/harry-roberts-triple-cop-killer-dies-5HjdPTD_2/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "John Vane, «Harry Roberts, London killer», OnLondon (27 de diciembre de 2025)",
+    "url": "https://www.onlondon.co.uk/john-vane-harry-roberts-london-killer/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "BBC News, «Harry Roberts: Police killer released from prison» (12 de noviembre de 2014)",
+    "url": "https://www.bbc.co.uk/news/uk-england-london-30016319",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "The Guardian, «Harry Roberts, triple police killer, dies aged 89» (16 de diciembre de 2025)",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/16/harry-roberts-triple-police-killer-dead",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "House of Lords, «R (Roberts) v Parole Board» [2005] UKHL 45",
+    "url": "https://www.bailii.org/uk/cases/UKHL/2005/45.html",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Shepherd's Bush murders» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Shepherd%27s_Bush_murders",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Wikipedia dice que Roberts mató a Head y Wombwell y Duddy a Fox; LBC atribuye los tres disparos a Roberts. Fecha de la muerte de Roberts (13 de diciembre de 2025) según Wikipedia; LBC solo dice «el sábado pasado». BBC, The Guardian y BAILII no se pudieron abrir. Las víctimas son policías con nombre público. Verificación: The Guardian y LBC (16 de diciembre de 2025) dicen que Roberts murió «el sábado pasado», es decir, el 13 de diciembre; ambos citan a The Sun, que dio la noticia."
+ },
+ {
+  "id": "macarthur-gubu",
+  "m": 8,
+  "d": 13,
+  "y": 1982,
+  "n": "Malcolm Macarthur",
+  "a": "El escándalo GUBU",
+  "v": "2",
+  "p": "Irlanda",
+  "f": "🇮🇪",
+  "per": "1982",
+  "st": "Cerrado. Macarthur se declaró culpable del asesinato de Bridie Gargan y fue condenado a cadena perpetua en enero de 1983; el cargo por la muerte de Donal Dunne no siguió adelante. Salió en libertad en septiembre de 2012.",
+  "c": "En julio de 1982, Malcolm Macarthur atacó a la enfermera Bridie Gargan en el Phoenix Park de Dublín para robarle el coche; ella murió cuatro días después. Poco más tarde mató con su propia escopeta al granjero Donal Dunne, en Edenderry (condado de Offaly). El 13 de agosto de 1982, tras un aviso, la policía lo detuvo en el piso de Dalkey del fiscal general, Patrick Connolly, que lo alojaba sin saber que era sospechoso. Connolly dimitió y el primer ministro Charles Haughey describió el asunto con las palabras que dieron origen a la sigla «GUBU».",
+  "mo": "Buscaba dinero y un vehículo mediante robos a mano armada; atacó a sus víctimas para quitarles el coche y el arma.",
+  "loc": [
+   [
+    53.3616,
+    -6.3363,
+    "Phoenix Park, Dublín (ataque a Bridie Gargan, 22 de julio de 1982)"
+   ],
+   [
+    53.3425,
+    -7.0475,
+    "Edenderry, condado de Offaly (muerte de Donal Dunne)"
+   ],
+   [
+    53.2765,
+    -6.1008,
+    "Pilot View, Dalkey (piso del fiscal general donde fue detenido el 13 de agosto de 1982)"
+   ],
+   [
+    52.7972,
+    -6.1556,
+    "Prisión abierta de Shelton Abbey, Arklow (salida en libertad, septiembre de 2012)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "detencion",
+  "titulo_caso": "La detención de Malcolm Macarthur (el escándalo GUBU)",
+  "autor": "Malcolm Macarthur (condenado por el asesinato de Bridie Gargan)",
+  "fuentes": [
+   {
+    "titulo": "«1982: GUBU, Charles Haughey, Malcolm Macarthur y Patrick Connolly», RTÉ Brainstorm (2 de agosto de 2022)",
+    "url": "https://www.rte.ie/brainstorm/2022/0802/1313477-1982-gubu-charles-haughey-malcolm-macarthur-patrick-connolly",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "«Mob attacks Malcolm McArthur», RTÉ Archives (28 de julio de 2022)",
+    "url": "https://www.rte.ie/archives/2022/0728/1312716-mob-attacks-malcolm-mcarthur",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "«Malcolm Macarthur: From socialite to murderer», The Irish Times (mayo de 2003)",
+    "url": "https://www.irishtimes.com/news/malcolm-macarthur-from-socialite-to-murderer-1.358567",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«The day debonair McArthur got life for murder», The Irish Times",
+    "url": "https://www.irishtimes.com/news/the-day-debonair-mcarthur-got-life-for-murder-1.1093631",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«MacArthur released 30 years after the murder that shocked the nation», Irish Examiner (19 de septiembre de 2012)",
+    "url": "https://www.irishexaminer.com/news/arid-20208066.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«How the fates of Malcolm Macarthur and Charles Haughey became inextricably linked», The Irish Times (20 de mayo de 2023)",
+    "url": "https://www.irishtimes.com/culture/books/2023/05/20/how-the-fates-of-malcolm-macarthur-and-charles-haughey-became-inextricably-linked",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Malcolm MacArthur affair» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Malcolm_MacArthur_affair",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Fecha de la detención: 13 de agosto de 1982 según RTÉ Brainstorm, RTÉ Archives y Wikipedia. Un artículo de The Irish Times (2003) dice 4 de agosto, que es cuando Macarthur llegó al piso según el resto; otros textos del Irish Times y del Irish Examiner solo dicen «agosto de 1982». La muerte de Dunne se fecha «tres días después» del ataque a Gargan (Wikipedia), el 25 de julio (RTÉ) o hacia el 24 (Irish Times, 2023); aquí no se da día exacto. Connolly dimitió entre el 16 y el 17 de agosto según la fuente. La fecha de la condena (enero de 1983) no se pudo concretar al día. Las páginas de The Guardian y The New York Times (citadas por Wikipedia) no se pudieron abrir. No consta proceso abierto."
+ },
+ {
+  "id": "mary-blandy",
+  "m": 8,
+  "d": 14,
+  "y": 1751,
+  "n": "Mary Blandy",
+  "a": "La envenenadora de Henley",
+  "v": "1",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1751–1752",
+  "st": "Cerrado. Mary Blandy fue condenada en Oxford el 3 de marzo de 1752 y ahorcada el 6 de abril; William Cranstoun huyó y murió en diciembre de 1752 sin ser juzgado.",
+  "c": "Francis Blandy, abogado de Henley-on-Thames, murió el 14 de agosto de 1751 tras meses tomando en la comida pequeñas dosis de arsénico que le daba su hija Mary, de unos 31 años. Ella dijo creer que era un filtro de amor enviado por su pretendiente, el capitán William Cranstoun, para que su padre aceptara la boda; Cranstoun estaba casado en secreto en Escocia. Juzgada en Oxford el 3 de marzo de 1752, fue condenada con la declaración del médico Anthony Addington, que identificó el arsénico. La ahorcaron el 6 de abril ante la cárcel del castillo de Oxford.",
+  "mo": "Envenenamiento lento con arsénico mezclado en la comida del padre.",
+  "loc": [
+   [
+    51.5357,
+    -0.903,
+    "Henley-on-Thames (casa de los Blandy, donde murió el padre)"
+   ],
+   [
+    51.7516,
+    -1.263,
+    "Castillo de Oxford (juicio en la ciudad y ejecución ante la cárcel)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "envenenadoras"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Mary Blandy, la envenenadora de Henley",
+  "autor": "Mary Blandy (condenada), instigada según el tribunal por William Cranstoun",
+  "fuentes": [
+   {
+    "titulo": "Leslie Stephen, «Blandy, Mary», Dictionary of National Biography, vol. 5 (1886), en Wikisource",
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Blandy,_Mary",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "David Nash Ford, «Mary Blandy (1720-1752)», Royal Berkshire History (2008)",
+    "url": "https://berkshirehistory.com/bios/mblandy.html",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "HISTORY.com Editors, «A daughter poisons her father», A&E Television Networks",
+    "url": "https://www.history.com/this-day-in-history/August-14/a-daughter-poisons-her-father",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Summer Strevens, «The First Forensic Hanging: The Case of Mary Blandy», Pen and Sword (2018)",
+    "url": "https://www.goodreads.com/book/show/38508311-the-first-forensic-hanging",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Mary Blandy» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Mary_Blandy",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "History.com sitúa la casa «a las afueras de Londres» y da a Mary 26 años; el DNB y Berkshire History, Henley y nacimiento hacia 1720 (unos 31 años): se sigue a estas. El lugar exacto del juicio (Divinity School de Oxford, según otras obras) no se ha comprobado."
+ },
+ {
+  "id": "asesinato-mujib",
+  "m": 8,
+  "d": 15,
+  "y": 1975,
+  "n": "Sheikh Mujibur Rahman",
+  "a": "La matanza de Dhanmondi 32",
+  "v": "Mujib y unos 16 familiares, además de escoltas y empleados",
+  "p": "Bangladés",
+  "f": "🇧🇩",
+  "per": "1975",
+  "st": "Juzgado. En 1998 un tribunal de Dacca condenó a muerte a quince exoficiales; tras las apelaciones quedaron doce condenas, y cinco fueron ahorcados el 28 de enero de 2010. Un sexto condenado, Abdul Majed, fue detenido y ahorcado en abril de 2020; otros siguen huidos en el extranjero.",
+  "c": "Antes del amanecer del 15 de agosto de 1975, un grupo de oficiales jóvenes del ejército asaltó la casa de la calle 32 de Dhanmondi, en Dacca, y mató a Sheikh Mujibur Rahman, padre de la independencia y presidente de Bangladés, junto con su esposa, sus tres hijos (el menor, de 10 años) y otros familiares; a la vez atacaron las casas de otros parientes. Solo sobrevivieron sus hijas Sheikh Hasina y Sheikh Rehana, que estaban en Europa. El juicio no empezó hasta después de 1996; la sentencia de 1998 condenó a muerte a quince y en 2010 se ejecutó a cinco.",
+  "mo": "Golpe militar: asalto armado simultáneo a varias casas de la familia, de madrugada, y anuncio del golpe por la radio.",
+  "loc": [
+   [
+    23.7518,
+    90.3775,
+    "Calle 32 de Dhanmondi, Dacca (casa de Mujib, lugar del crimen)"
+   ],
+   [
+    23.7176,
+    90.3967,
+    "Cárcel Central de Dacca (ejecución de cinco condenados, 28 de enero de 2010)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de Sheikh Mujibur Rahman",
+  "autor": "Oficiales del ejército de Bangladés (Syed Faruk Rahman, Khandaker Abdur Rashid y otros; condenados)",
+  "fuentes": [
+   {
+    "titulo": "bdnews24.com, «Five Mujib killers hanged» (28 de enero de 2010)",
+    "url": "https://bdnews24.com/bangladesh/bangabandhu-appeals/five-mujib-killers-hanged",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Al Jazeera, «Bangladesh hangs Mujib killers» (28 de enero de 2010)",
+    "url": "https://www.aljazeera.com/news/2010/1/28/bangladesh-hangs-mujib-killers",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Syed Badrul Ahsan, «The day the villains murdered the Liberator», Dhaka Courier (17 de agosto de 2018)",
+    "url": "https://dhakacourier.com.bd/news/Essays/The-day-the-villains-murdered-the-Liberator/491",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Dawn, «Sheikh Mujib's killers hanged» (28 de enero de 2010)",
+    "url": "https://www.dawn.com/news/516740",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Voice of America, «Bangladesh Executes Killers of Independence Leader» (28 de enero de 2010)",
+    "url": "https://www.voanews.com/a/bangladesh-executes-killers-of-independence-leader-82882767/111777.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Assassination of Sheikh Mujibur Rahman» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Sheikh_Mujibur_Rahman",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "El número de muertos varía mucho: bdnews24 habla de Mujib y 16 familiares; Wikipedia, de más de 47 en todos los ataques de esa madrugada. En 2000-2001 el Tribunal Superior redujo las condenas confirmadas a doce y el Supremo las ratificó el 19 de noviembre de 2009. No se nombra al hijo menor. Tema políticamente muy cargado en Bangladés: redacción neutral. Dawn y VOA no se abrieron (vistos en el buscador)."
+ },
+ {
+  "id": "rehenes-gladbeck",
+  "m": 8,
+  "d": 16,
+  "y": 1988,
+  "n": "Hans-Jürgen Rösner",
+  "a": "El drama de los rehenes de Gladbeck",
+  "v": "3",
+  "p": "Alemania",
+  "f": "🇩🇪",
+  "per": "1988",
+  "st": "Juzgado. En marzo de 1991 la audiencia de Essen condenó a Rösner y a Degowski a cadena perpetua, y a Marion Löblich a nueve años. Degowski salió en libertad condicional en 2018.",
+  "c": "Hacia las ocho de la mañana del 16 de agosto de 1988, Hans-Jürgen Rösner y Dieter Degowski asaltaron una sucursal del Deutsche Bank en Gladbeck y tomaron como rehenes a dos empleados. Con un rescate y un coche, huyeron durante unas 54 horas por Alemania y los Países Bajos, en un viaje que la prensa siguió de cerca e incluso con entrevistas en directo. En Bremen secuestraron un autobús de línea: allí Degowski mató a un adolescente y un policía murió en un accidente durante la persecución. El 18 de agosto la policía detuvo el coche en la autopista A3 y en el tiroteo murió una rehén de 18 años.",
+  "mo": "Atraco con toma de rehenes y huida en coche con los secuestrados, negociando con la policía y hablando con periodistas.",
+  "loc": [
+   [
+    51.585,
+    6.95,
+    "Schwechater Straße, Gladbeck-Rentfort (asalto al banco; coordenada aproximada)"
+   ],
+   [
+    53.056,
+    8.825,
+    "Bremen-Huckelriede (secuestro del autobús, 17 de agosto)"
+   ],
+   [
+    50.9395,
+    6.9525,
+    "Breite Straße, Colonia (parada rodeada de periodistas, 18 de agosto)"
+   ],
+   [
+    50.656,
+    7.308,
+    "Autopista A3 cerca de Aegidienberg, Bad Honnef (fin del secuestro; coordenada aproximada)"
+   ]
+  ],
+  "vin": [
+   [
+    "norrmalmstorg",
+    "r",
+    "Otra toma de rehenes de un banco convertida en espectáculo mediático"
+   ]
+  ],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "La toma de rehenes de Gladbeck",
+  "autor": "Hans-Jürgen Rösner y Dieter Degowski (condenados), con Marion Löblich",
+  "fuentes": [
+   {
+    "titulo": "Diemut Roether (epd), «16. August 2013», evangelisch.de (16 de agosto de 2013)",
+    "url": "https://www.evangelisch.de/inhalte/87395/16-08-2013",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "epd, «30 Jahre nach dem Gladbecker Geiseldrama», evangelisch.de (16 de agosto de 2018)",
+    "url": "https://www.evangelisch.de/inhalte/151689/16-08-2018/30-jahre-nach-dem-gladbecker-geiseldrama",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Landgericht Essen, sentencia del caso Gladbeck (22 de marzo de 1991), publicada por RND",
+    "url": "https://gladbeck.rnd.de/wp-content/uploads/2018/08/Gesamturteil-Geiselnahme-von-Gladbeck.pdf",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Der Spiegel, «Gladbeck-Geiselnehmer Dieter Degowski aus Gefängnis entlassen» (2018)",
+    "url": "https://www.spiegel.de/panorama/justiz/gladbeck-geiselnehmer-dieter-degowski-aus-gefaengnis-entlassen-a-1193946.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Die Welt, «Gladbeck: 54 Stunden Wahnsinn mit Todesfolge» (2008)",
+    "url": "https://www.welt.de/vermischtes/article2308547/Gladbeck-54-Stunden-Wahnsinn-mit-Todesfolge.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en alemán), «Geiselnahme von Gladbeck» (punto de partida; consultada por sus referencias)",
+    "url": "https://de.wikipedia.org/wiki/Geiselnahme_von_Gladbeck",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Edad del chico asesinado: 14 años según Wikipedia y 15 según epd (2013); no se le nombra por ser menor. La bala que mató a la rehén de 18 años salió del arma de Rösner, según Wikipedia. La fecha y las penas de la sentencia de 1991 solo se han visto en Wikipedia: la sentencia, Spiegel y Welt no se pudieron abrir. Coordenadas del banco y de la A3 aproximadas."
+ },
+ {
+  "id": "azaria-chamberlain",
+  "m": 8,
+  "d": 17,
+  "y": 1980,
+  "n": "Azaria Chamberlain",
+  "a": "El caso del dingo",
+  "v": "1",
+  "p": "Australia",
+  "f": "🇦🇺",
+  "per": "1980–2012",
+  "st": "Error judicial reparado. Lindy y Michael Chamberlain fueron exonerados en 1988, y en 2012 la forense concluyó que a Azaria la mató un dingo.",
+  "c": "La noche del 17 de agosto de 1980, Azaria Chamberlain, un bebé de nueve semanas, desapareció de la tienda de campaña de su familia en el campamento de Uluru (Ayers Rock). Su madre, Lindy, dijo que se la había llevado un dingo. La primera investigación forense le dio la razón, pero una segunda llevó a juicio a los padres: en 1982 Lindy fue condenada a cadena perpetua por asesinato y Michael, como encubridor. En febrero de 1986 apareció una chaqueta del bebé junto a una madriguera de dingos y Lindy fue liberada; las condenas se anularon el 15 de septiembre de 1988.",
+  "mo": "No hubo crimen: según la investigación de 2012, un dingo atacó al bebé y se lo llevó de la tienda.",
+  "loc": [
+   [
+    -25.345,
+    131.0361,
+    "Uluru (campamento de donde desapareció el bebé y donde apareció la chaqueta)"
+   ],
+   [
+    -12.4381,
+    130.8411,
+    "Darwin (juicio de 1982 y anulación de las condenas en 1988)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "errores_judiciales",
+   "desapariciones"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "desaparicion",
+  "titulo_caso": "La desaparición de Azaria Chamberlain",
+  "autor": "Un dingo (según la investigación forense de 2012); Lindy Chamberlain, condenada y exonerada",
+  "fuentes": [
+   {
+    "titulo": "Maggie Lu YueYang (Reuters), «Australia's Azaria Chamberlain mystery solved: A dingo did it», The Christian Science Monitor (12 de junio de 2012)",
+    "url": "https://www.csmonitor.com/World/Latest-News-Wires/2012/0612/Australia-s-Azaria-Chamberlain-mystery-solved-A-dingo-did-it",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Australian Dictionary of Biography, «Chamberlain, Azaria Chantel», Australian National University",
+    "url": "https://adb.anu.edu.au/biography/chamberlain-azaria-chantel-9719",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "National Museum of Australia, «Azaria Chamberlain inquest», Defining Moments",
+    "url": "https://www.nma.gov.au/defining-moments/resources/azaria-chamberlain-inquest",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "NPR, «The Dingo Did Take The Baby» (12 de junio de 2012)",
+    "url": "https://www.kcur.org/2012-06-12/the-dingo-did-take-the-baby",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Douglas O. Linder, «The Chamberlain (“Dingo”) Trial: A Chronology», Famous Trials, UMKC School of Law",
+    "url": "https://famous-trials.com/dingo/456-chronology",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Death of Azaria Chamberlain» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Death_of_Azaria_Chamberlain",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Fecha del hallazgo de la chaqueta: 2 de febrero de 1986 según el Australian Dictionary of Biography (otras fuentes, el 1); Lindy salió de prisión el 7 de febrero de 1986. El CSM dice que la comisión real «anuló» las condenas en 1987, pero la anulación formal fue del Tribunal de Apelación Penal del Territorio del Norte el 15 de septiembre de 1988. La indemnización (1,3 millones de dólares australianos) se fecha en 1990 o en 1992. La ADB, el NMA y Famous Trials no se pudieron leer directamente (contenido visto en el buscador). Víctima bebé con nombre público difundido por la familia."
+ },
+ {
+  "id": "julien-lahaut",
+  "m": 8,
+  "d": 18,
+  "y": 1950,
+  "n": "Julien Lahaut",
+  "a": "El asesinato de Julien Lahaut",
+  "v": "1",
+  "p": "Bélgica",
+  "f": "🇧🇪",
+  "per": "1950",
+  "st": "Sin juzgar. La causa se cerró con un sobreseimiento en 1972; un estudio histórico encargado por el Senado identificó en 2015 a los presuntos autores, que nunca fueron juzgados.",
+  "c": "Hacia las 21.15 del 18 de agosto de 1950, Julien Lahaut, diputado y presidente del Partido Comunista de Bélgica, fue asesinado a tiros por dos hombres en la puerta de su casa de Seraing, cerca de Lieja. Una semana antes, en la jura del príncipe Balduino, se habían oído gritos de «¡Viva la república!» que se le atribuyeron. La investigación, llena de pruebas perdidas e información ocultada, terminó en 1972 sin culpables. En 2015, un estudio del CegeSoma encargado por el Senado concluyó que lo mataron militantes anticomunistas ligados a una red clandestina de información.",
+  "mo": "Dos hombres le dispararon de noche en la puerta de su casa y huyeron.",
+  "loc": [
+   [
+    50.5836,
+    5.5011,
+    "Seraing, rue de la Vecquée (casa de Lahaut, lugar del crimen; coordenada de la localidad)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "sin_resolver"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de Julien Lahaut",
+  "autor": "Atribuido a militantes anticomunistas (François Goossens y otros, según el estudio de 2015); nunca juzgados",
+  "fuentes": [
+   {
+    "titulo": "Michel Bouffioux, «Julien Lahaut: un assassinat politique au temps de la guerre froide (documents inédits)», Paris Match Belgique (16 de julio de 2020)",
+    "url": "https://parismatch.be/actualites/societe/415090/julien-lahaut-un-assassinat-politique-au-temps-de-la-guerre-froide-documents-inedits",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Senado de Bélgica, «Assassinat de Julien Lahaut – présentation du livre le 12 mai» (comunicado de prensa, mayo de 2015)",
+    "url": "https://www.senate.be/actueel/homepage/Persmededelingen/pdf/20150507_fr.pdf",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Emmanuel Gerard, Widukind De Ridder y Françoise Muller (dirs.), «Qui a tué Julien Lahaut? Les ombres de la guerre froide en Belgique», Renaissance du Livre / CegeSoma (2015); reseña en la Revue belge d'histoire contemporaine (2016)",
+    "url": "https://journalbelgianhistory.be/fr/system/files/edition_data/articlepdf/Bibliotheque_Gerard_DeRidder_Muller_Jaune_2016_3_4.pdf",
+    "tipo": "libro"
+   },
+   {
+    "titulo": "CegeSoma, «Conférence Lahaut» (comunicado de prensa)",
+    "url": "https://www.cegesoma.be/docs/media/HistoirePublique/Conf_Lahaut_PressRelease_fr.pdf",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Brussels Times, «The mysterious murder of Belgium's Communist leader Julien Lahaut: solved without any perpetrators ever brought to justice»",
+    "url": "https://www.brusselstimes.com/178260/the-mysterious-murder-of-belgiums-communist-leader-julien-lahaut-solved-without-any-perpetrators-ever-brought-to-justice",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en francés), «Julien Lahaut» (punto de partida; consultada por sus referencias)",
+    "url": "https://fr.wikipedia.org/wiki/Julien_Lahaut",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Sustituye al asesinato de Luis Carlos Galán (18/8/1989): sigue habiendo exmandos policiales imputados o llamados a indagatoria (Peláez Carmona, Montilla, González Henríquez), es decir, proceso abierto. Wikipedia atribuye la red a André Moyen; Paris Match nombra como autores a François Goossens, Eugène y Alex Devillé y Jan Hamelrijck: todos presuntos, nunca juzgados. Wikipedia dice que los gritos de «Viva la república» se le atribuyen a menudo por error. Fecha del sobreseimiento: 4 de diciembre de 1972 (Wikipedia). Brussels Times y el comunicado del CegeSoma no se abrieron. Coordenada de Seraing aproximada."
+ },
+ {
+  "id": "masacre-hungerford",
+  "m": 8,
+  "d": 19,
+  "y": 1987,
+  "n": "Michael Ryan",
+  "a": "La masacre de Hungerford",
+  "v": "16",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1987",
+  "st": "Cerrado sin juicio: el autor se suicidó el mismo día. La matanza llevó a la Firearms (Amendment) Act de 1988.",
+  "c": "Hacia las 12.30 del 19 de agosto de 1987, Michael Ryan, de 27 años, mató a tiros a una mujer que merendaba con sus dos hijos pequeños en el bosque de Savernake (Wiltshire). Después disparó en una gasolinera de la A4, volvió a Hungerford (Berkshire), mató a su madre, prendió fuego a la casa familiar de South View y recorrió el pueblo disparando contra vecinos y conductores. Mató a dieciséis personas, entre ellas un policía desarmado, e hirió a quince. Por la tarde se atrincheró en el colegio John O'Gaunt, donde se quitó la vida. Nunca se estableció el móvil.",
+  "mo": "Ataque indiscriminado con armas de fuego que tenía legalmente (dos fusiles semiautomáticos y una pistola), primero en el campo y luego a pie por las calles del pueblo.",
+  "loc": [
+   [
+    51.396,
+    -1.68,
+    "Bosque de Savernake, Wiltshire (primera víctima; coordenada aproximada)"
+   ],
+   [
+    51.4146,
+    -1.5146,
+    "Hungerford, South View (casa de Ryan y tiroteos por el pueblo)"
+   ],
+   [
+    51.4048,
+    -1.5144,
+    "Colegio John O'Gaunt, Hungerford (donde se suicidó)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "La masacre de Hungerford",
+  "autor": "Michael Ryan",
+  "fuentes": [
+   {
+    "titulo": "Colin Smith, jefe de la Thames Valley Police, «Shooting Incidents at Hungerford on 19 August 1987. Report to the Home Secretary» (1987), copia en JESIP",
+    "url": "https://www.jesip.org.uk/wp-content/uploads/2022/03/Hungerford-Shootings.pdf",
+    "tipo": "policial"
+   },
+   {
+    "titulo": "Emily G. Thompson, «Slaughter on a warm summer's day: the Hungerford massacre», Crime+Investigation",
+    "url": "https://www.crimeandinvestigation.co.uk/articles/slaughter-warm-summers-day-hungerford-massacre",
+    "tipo": "documental"
+   },
+   {
+    "titulo": "Firearms (Amendment) Act 1988 (c. 45), legislation.gov.uk",
+    "url": "https://www.legislation.gov.uk/ukpga/1988/45/contents",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Patrick Barkham, «Hungerford revisited», The Guardian (10 de junio de 2010)",
+    "url": "https://www.theguardian.com/uk/2010/jun/10/hungerford-revisited-massacre-michael-ryan",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "BBC News, «Massacre: An afternoon that changed a town forever» (2017)",
+    "url": "https://www.bbc.co.uk/news/resources/idt-sh/hungerford_massacre",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Hungerford massacre» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Hungerford_massacre",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "El informe policial habla de 17 muertos contando al autor y 15 heridos; Crime+Investigation da cifras confusas. La BBC de 2005 tituló «mata a 14» (cifra provisional del día). The Guardian y la BBC no se pudieron abrir. Las víctimas no se nombran. Coordenadas de Savernake y del colegio aproximadas."
+ },
+ {
+  "id": "asesinato-trotski",
+  "m": 8,
+  "d": 20,
+  "y": 1940,
+  "n": "Ramón Mercader",
+  "a": "El piolet de Coyoacán",
+  "v": "1",
+  "p": "México",
+  "f": "🇲🇽",
+  "per": "1940",
+  "st": "Cerrado. Ramón Mercader fue condenado en México a 20 años de prisión; salió de la cárcel de Lecumberri el 6 de mayo de 1960 y murió en La Habana en 1978.",
+  "c": "La tarde del 20 de agosto de 1940, Ramón Mercader, un comunista barcelonés al servicio de la policía política soviética (NKVD), atacó con un piolet a León Trotski mientras este trabajaba en el despacho de su casa de Coyoacán, en Ciudad de México, donde vivía exiliado. Mercader se había ganado la confianza de su entorno con el nombre falso de Jacques Mornard. Trotski murió al día siguiente en un hospital de la Cruz Verde. Un tribunal mexicano condenó a Mercader a 20 años; al salir en libertad se instaló en la Unión Soviética, que lo condecoró.",
+  "mo": "Infiltración en el círculo de la víctima con identidad falsa y ataque a solas en su despacho, con un piolet escondido.",
+  "loc": [
+   [
+    19.3557,
+    -99.1595,
+    "Casa de Trotski en Coyoacán, hoy museo (lugar del ataque)"
+   ],
+   [
+    19.438,
+    -99.121,
+    "Antiguo Palacio de Lecumberri, Ciudad de México (prisión de Mercader hasta 1960)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "hispanoamerica"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "El asesinato de Trotski",
+  "autor": "Ramón Mercader, por orden de la NKVD soviética (condenado)",
+  "fuentes": [
+   {
+    "titulo": "EFE, «Efemérides del 20 de agosto: en 1940, León Trotsky sufre un ataque a manos del español Ramón Mercader», El Día (20 de agosto de 2025)",
+    "url": "https://eldia.com.do/efemerides-del-20-de-agosto-en-1940-leon-trotsky-sufre-un-ataque-a-manos-del-espanol-ramon-mercader/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Craig R. Whitney, «Soviet Readers Finally Told Moscow Had Trotsky Slain», The New York Times (5 de enero de 1989)",
+    "url": "https://www.nytimes.com/1989/01/05/world/soviet-readers-finally-told-moscow-had-trotsky-slain.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Julian Borger y Jo Tuckman, «Bloodstained ice axe used to kill Trotsky emerges after decades in the shadows», The Guardian (13 de septiembre de 2017)",
+    "url": "https://www.theguardian.com/world/2017/sep/13/trotsky-ice-axe-murder-mexico-city",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Isaac Don Levine, «Secrets of an Assassin», Life (28 de septiembre de 1959), pp. 104-122",
+    "url": "https://books.google.com/books?id=cEkEAAAAMBAJ&pg=PA104",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Encyclopaedia Britannica, «Leon Trotsky»",
+    "url": "https://www.britannica.com/biography/Leon-Trotsky",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Wikipedia (en español), «Asesinato de León Trotski» (punto de partida; consultada por sus referencias)",
+    "url": "https://es.wikipedia.org/wiki/Asesinato_de_Le%C3%B3n_Trotski",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Fuentes flojas para la condena: la Wikipedia en español habla de 19 años de prisión y la inglesa, de 20 (dictados en 1943, aunque hay un documento de 1944); cumplió 19 años y 8 meses. La fecha de liberación (6 de mayo de 1960) viene solo de Wikipedia. El lugar de nacimiento de Mercader se discute (Barcelona o Argentona, 1913 o 1914). NYT, The Guardian y Britannica no se pudieron abrir."
+ },
+ {
+  "id": "robo-gioconda",
+  "m": 8,
+  "d": 22,
+  "y": 1911,
+  "n": "Vincenzo Peruggia",
+  "a": "El robo de La Gioconda",
+  "v": "Ninguna (robo)",
+  "p": "Francia",
+  "f": "🇫🇷",
+  "per": "1911–1913",
+  "st": "Cerrado. Peruggia fue condenado en Florencia en 1914 a un año y quince días de cárcel, rebajados en apelación; cumplió unos siete meses.",
+  "c": "La mañana del 22 de agosto de 1911, un pintor que iba a copiar La Gioconda en el Louvre vio que el cuadro no estaba en su sitio. Lo había descolgado el día anterior, un lunes con el museo cerrado, Vincenzo Peruggia, un vidriero italiano que había trabajado allí y había montado la vitrina del cuadro: salió con él escondido bajo la bata. Durante más de dos años lo guardó en su habitación de París. En diciembre de 1913 intentó vendérselo a un anticuario de Florencia, que avisó al director de los Uffizi, y fue detenido. El cuadro volvió al Louvre en enero de 1914.",
+  "mo": "Un antiguo empleado entró vestido de operario un día de cierre, descolgó el cuadro y salió por una puerta de servicio.",
+  "loc": [
+   [
+    48.8606,
+    2.3376,
+    "Museo del Louvre, París (robo y hallazgo de la ausencia)"
+   ],
+   [
+    43.7678,
+    11.2553,
+    "Florencia (recuperación del cuadro y detención de Peruggia, diciembre de 1913)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "golpes"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "hallazgo",
+  "titulo_caso": "El robo de La Gioconda",
+  "autor": "Vincenzo Peruggia (condenado)",
+  "fuentes": [
+   {
+    "titulo": "HISTORY.com Editors, «Theft of “Mona Lisa” is discovered», A&E Television Networks (13 de noviembre de 2009; actualizado en 2025)",
+    "url": "https://www.history.com/this-day-in-history/august-22/theft-of-mona-lisa-is-discovered",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Ilaria Telesca, «The theft of the Mona Lisa: when Vincenzo Peruggia stole Leonardo's famous painting», Finestre sull'Arte (21 de agosto de 2017)",
+    "url": "https://www.finestresullarte.info/en/works-and-artists/the-theft-of-the-mona-lisa-when-vincenzo-peruggia-stole-leonardo-s-famous-painting",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«21 August 1911: The Mona Lisa is stolen from the Louvre», MoneyWeek",
+    "url": "https://moneyweek.com/333949/21-august-1911-the-mona-lisa-is-stolen-from-the-louvre",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "NPR, «The Theft That Made The “Mona Lisa” A Masterpiece» (30 de julio de 2011)",
+    "url": "https://www.npr.org/2011/07/30/138800110/the-theft-that-made-the-mona-lisa-a-masterpiece",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Mona Lisa stolen from the Louvre», History Today",
+    "url": "https://www.historytoday.com/archive/months-past/mona-lisa-stolen-louvre",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Vincenzo Peruggia» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "History.com sitúa el robo el mismo 22; Wikipedia y la mayoría, el lunes 21 (la efeméride es el descubrimiento). La pena varía: un año y quince días (Wikipedia, otras), «un año y medio» (Finestre sull'Arte); el tiempo cumplido, siete u ocho meses. El pintor que dio la alarma sería Louis Béroud, según Finestre sull'Arte. NPR, MoneyWeek y History Today no se pudieron abrir (vistos en el buscador)."
+ },
+ {
+  "id": "tiroteo-concordia",
+  "m": 8,
+  "d": 24,
+  "y": 1992,
+  "n": "Valery Fabrikant",
+  "a": "La matanza de la Universidad Concordia",
+  "v": "4",
+  "p": "Canadá",
+  "f": "🇨🇦",
+  "per": "1992",
+  "st": "Cerrado. Fabrikant fue condenado a cadena perpetua en 1993 por cuatro asesinatos en primer grado; se le negó la libertad condicional en 2015 y 2022 y murió en prisión el 27 de junio de 2026.",
+  "c": "Hacia la una y media de la tarde del 24 de agosto de 1992, Valery Fabrikant, profesor asociado de ingeniería mecánica, entró armado en la novena planta del edificio Hall de la Universidad Concordia, en Montreal. Llevaba meses enfrentado a la universidad por su plaza y por la autoría de investigaciones, y estaba a punto de ser despedido. Mató a tiros a cuatro profesores e hirió a una secretaria. Después retuvo a un vigilante y a un profesor, que lograron reducirlo. En 1993, tras un juicio en el que se defendió a sí mismo, fue condenado a cadena perpetua.",
+  "mo": "Ataque con armas de fuego contra colegas en sus despachos, seguido de una toma de rehenes.",
+  "loc": [
+   [
+    45.4972,
+    -73.5789,
+    "Edificio Henry F. Hall, Universidad Concordia, Montreal (lugar del crimen)"
+   ],
+   [
+    45.7647,
+    -73.8116,
+    "Sainte-Anne-des-Plaines (prisión de Archambault, donde murió en 2026)"
+   ]
+  ],
+  "vin": [],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "El tiroteo de la Universidad Concordia",
+  "autor": "Valery Fabrikant (condenado)",
+  "fuentes": [
+   {
+    "titulo": "The Canadian Press, «The perpetrator of the Concordia University massacre has died in prison», CP24 (28 de junio de 2026)",
+    "url": "https://www.cp24.com/news/canada/2026/06/28/the-perpetrator-of-the-concordia-university-massacre-has-died-in-prison/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "John Scott Cowan, «Lessons from the Fabrikant File», Universidad Concordia (mayo de 1994)",
+    "url": "https://web.archive.org/web/20140709223705/http://archives.concordia.ca/sites/default/files/uploaded-documents/pages/2011/07/26/Cowan_report.pdf",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "H. W. Arthurs et al., «Integrity in Scholarship», Universidad Concordia (abril de 1994)",
+    "url": "https://web.archive.org/web/20150402192415/http://archives.concordia.ca/sites/default/files/uploaded-documents/pages/2011/07/26/Arthurs_report.pdf",
+    "tipo": "judicial"
+   },
+   {
+    "titulo": "Hénia Ould-Hammou, «Fabrikant de nouveau débouté», La Presse (4 de julio de 2022)",
+    "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2022-07-04/tuerie-de-concordia/fabrikant-de-nouveau-deboute.php",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Valery Fabrikant: A timeline», Montreal Gazette (1 de octubre de 2015)",
+    "url": "https://montrealgazette.com/news/local-news/valery-fabrikant-a-timeline",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Concordia University massacre» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Concordia_University_massacre",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "La cadena perpetua empezó a contar el 8 de junio de 1993, según The Canadian Press. Uno de los profesores murió al día siguiente y otro, un mes después. Los informes de la universidad, La Presse y la Gazette no se abrieron (citados por Wikipedia). Las víctimas no se nombran en la ficha. Verificación: los informes Cowan y Arthurs ya no abren en archives.concordia.ca; se enlazan sus copias de web.archive.org. Hora (13.30), muerte de Fabrikant el 27 de junio de 2026 en la prisión de Archambault y cadena perpetua desde el 8 de junio de 1993, según Wikipedia y The Canadian Press."
+ },
+ {
+  "id": "idiarte-borda",
+  "m": 8,
+  "d": 25,
+  "y": 1897,
+  "n": "Avelino Arredondo",
+  "a": "El magnicidio de Idiarte Borda",
+  "v": "1",
+  "p": "Uruguay",
+  "f": "🇺🇾",
+  "per": "1897",
+  "st": "Cerrado. Arredondo fue juzgado y condenado a prisión; sostuvo siempre que había actuado solo.",
+  "c": "A primera hora de la tarde del 25 de agosto de 1897, día de la independencia, el presidente de Uruguay, Juan Idiarte Borda, salió del tedeum en la Iglesia Matriz de Montevideo y caminó por la calle Sarandí hacia la casa de gobierno. Frente al Club Uruguay, Avelino Arredondo, un joven de 27 años, le disparó con un revólver y lo mató casi en el acto. El país vivía en plena guerra civil contra la revolución blanca de Aparicio Saravia, y el presidente tenía enemigos en su propio partido. Arredondo dijo actuar por odio personal y sin cómplices; tras el crimen se firmó la paz.",
+  "mo": "Disparo a corta distancia en plena calle, entre la comitiva oficial y las tropas formadas para rendir honores.",
+  "loc": [
+   [
+    -34.9066,
+    -56.2032,
+    "Calle Sarandí frente al Club Uruguay, Plaza Constitución, Montevideo (lugar del crimen)"
+   ],
+   [
+    -34.9131,
+    -56.1866,
+    "Cementerio Central de Montevideo (sepultura del presidente)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "hispanoamerica"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato del presidente Juan Idiarte Borda",
+  "autor": "Avelino Arredondo (condenado)",
+  "fuentes": [
+   {
+    "titulo": "«President of Uruguay assassinated» (cable de Montevideo), The County Record, Kingstree, Carolina del Sur (2 de septiembre de 1897), p. 3",
+    "url": "https://historicnewspapers.sc.edu/lccn/sn93067841/1897-09-02/ed-1/seq-3/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Biografías y Vidas, «Juan Bautista Idiarte»",
+    "url": "https://www.biografiasyvidas.com/biografia/i/idiarte.htm",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Wikipedia (en español), «Juan Idiarte Borda» (punto de partida; consultada por sus referencias, entre ellas Jorge L. Marius, «¡...Estoy muerto...!», 2001)",
+    "url": "https://es.wikipedia.org/wiki/Juan_Idiarte_Borda",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "Papers Past, Hawera & Normanby Star (30 de agosto de 1897): noticia del asesinato",
+    "url": "https://paperspast.natlib.govt.nz/newspapers/PAHH18970830.2.16",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Borges Studies Online (Universidad de Pittsburgh), estudio sobre «Avelino Arredondo», de Jorge Luis Borges",
+    "url": "https://pre.borges.pitt.edu/bsol/documents/2008.pdf",
+    "tipo": "libro"
+   }
+  ],
+  "nota_revision": "Wikipedia da las 14.45 y sitúa el disparo frente al Club Uruguay (Sarandí 331); Biografías y Vidas, en las escaleras de la catedral. Se sigue a Wikipedia y a la crónica de 1897 («minutos después de salir del tedeum»). La pena exacta de Arredondo y su salida de prisión no se han podido comprobar. Papers Past y Borges Studies no se pudieron leer. La monografía de referencia es Jorge L. Marius, «¡...Estoy muerto...! Juan Idiarte Borda, 25 de agosto de 1897» (Ediciones de la Proa, 2001), sin URL."
+ },
+ {
+  "id": "puerto-hurraco",
+  "m": 8,
+  "d": 26,
+  "y": 1990,
+  "n": "Emilio y Antonio Izquierdo",
+  "a": "La matanza de Puerto Hurraco",
+  "v": "9",
+  "p": "España",
+  "f": "🇪🇸",
+  "per": "1990",
+  "st": "Cerrado. Los hermanos Izquierdo fueron condenados en enero de 1994 a cientos de años de prisión; Emilio murió en la cárcel de Badajoz en 2006 y Antonio se suicidó en ella en 2010.",
+  "c": "Al anochecer del domingo 26 de agosto de 1990, los hermanos Emilio y Antonio Izquierdo, de 56 y 52 años, salieron armados con escopetas a las calles de Puerto Hurraco, pedanía de Benquerencia de la Serena (Badajoz), y dispararon contra los vecinos: mataron a nueve personas, entre ellas dos niñas, e hirieron a una docena. Era el último episodio de una enemistad con la familia Cabanillas que venía de una disputa de lindes y de un asesinato en 1967. Fueron detenidos horas después en el monte, sin resistencia, y juzgados en 1994.",
+  "mo": "Emboscada a tiros en la calle principal del pueblo, desde un callejón, contra miembros de la familia rival y contra otros vecinos.",
+  "loc": [
+   [
+    38.6331,
+    -5.55,
+    "Puerto Hurraco, Benquerencia de la Serena (lugar de la matanza)"
+   ],
+   [
+    38.732,
+    -5.5439,
+    "Castuera (juzgado al que fueron llevados tras la detención)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "espana"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "La masacre de Puerto Hurraco",
+  "autor": "Emilio y Antonio Izquierdo (condenados)",
+  "fuentes": [
+   {
+    "titulo": "Rafa González, «El crimen de Puerto Hurraco y la España vaciada de hace 30 años», El Salto (26 de agosto de 2020)",
+    "url": "https://www.elsaltodiario.com/historia/el-crimen-de-puerto-hurraco-y-la-espana-vaciada-de-hace-30-anos",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "David González, «26 años de la matanza de Puerto Hurraco: venganza familiar que tiñó de sangre un pueblo», ESdiario (26 de agosto de 2025)",
+    "url": "https://www.esdiario.com/nacional/250826/165661/26-anos-matanza-puerto-hurraco-venganza-familiar-tino-sangre-pueblo.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "EFE, «Puerto Hurraco, un capítulo cerrado de la tragedia», Público (25 de agosto de 2015)",
+    "url": "https://www.publico.es/espana/puerto-hurraco-capitulo-cerrado-tragedia.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Emilio, el de Puerto Hurraco», Libertad Digital",
+    "url": "https://www.libertaddigital.com/opinion/fin-de-semana/emilio-el-de-puerto-hurraco-1276232733.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en español), «Masacre de Puerto Hurraco» (punto de partida; consultada por sus referencias)",
+    "url": "https://es.wikipedia.org/wiki/Masacre_de_Puerto_Hurraco",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "La pena varía según la fuente: 684 años en total (Wikipedia, con un titular de El Mundo del 26 de enero de 1994), 688 (El Salto), 350 para cada uno (ESdiario) o 345 (Libertad Digital, sobre Emilio). Edades de las niñas: 13 y 14 (Wikipedia, El Salto) o 12 y 14 (ESdiario); no se las nombra. ESdiario incluye a dos guardias civiles entre los muertos, cosa que no recoge ninguna otra fuente. Las hermanas Luciana y Ángela, señaladas como inductoras, fueron exculpadas según Wikipedia e internadas en el psiquiátrico de Mérida. Familias aún en la zona: redacción sobria."
+ },
+ {
+  "id": "norrmalmstorg",
+  "m": 8,
+  "d": 28,
+  "y": 1973,
+  "n": "Jan-Erik Olsson",
+  "a": "El síndrome de Estocolmo",
+  "v": "Ninguna mortal (cuatro rehenes)",
+  "p": "Suecia",
+  "f": "🇸🇪",
+  "per": "1973",
+  "st": "Cerrado. Olsson fue condenado a diez años de prisión; Clark Olofsson fue condenado en primera instancia y absuelto en apelación. Olofsson murió en junio de 2025.",
+  "c": "El 23 de agosto de 1973, Jan-Erik Olsson, un preso de permiso, entró armado en la sucursal del Kreditbanken de la plaza Norrmalmstorg, en Estocolmo, y tomó como rehenes a cuatro empleados. Exigió dinero, un coche y que le llevaran a Clark Olofsson, un conocido atracador que estaba en la cárcel; la policía lo trajo. Durante seis días, captores y rehenes se encerraron en la cámara acorazada. El 28 de agosto la policía introdujo gas por agujeros abiertos en el techo y, media hora después, los dos se rindieron; los rehenes salieron sin heridas graves. Su actitud hacia los captores dio nombre al «síndrome de Estocolmo».",
+  "mo": "Atraco con toma de rehenes y negociación desde la cámara acorazada del banco.",
+  "loc": [
+   [
+    59.3336,
+    18.0727,
+    "Norrmalmstorg, Estocolmo (sede del Kreditbanken, lugar del atraco)"
+   ]
+  ],
+  "vin": [
+   [
+    "rehenes-gladbeck",
+    "r",
+    "Otra toma de rehenes de un banco convertida en espectáculo mediático"
+   ]
+  ],
+  "g": [
+   "golpes"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "detencion",
+  "titulo_caso": "El atraco de Norrmalmstorg (el síndrome de Estocolmo)",
+  "autor": "Jan-Erik Olsson (condenado), con Clark Olofsson (absuelto en apelación)",
+  "fuentes": [
+   {
+    "titulo": "Nioucha Zakavati (AFP), «Where does the term Stockholm syndrome really come from, and is it even true?», The Local (21 de agosto de 2023)",
+    "url": "https://www.thelocal.com/20230821/where-does-the-term-stockholm-syndrome-really-come-from-and-is-it-even-true",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«“Stockholm Syndrome” turns 40», Nordstjernan (agosto de 2013)",
+    "url": "https://nordstjernan.com/news/sweden/5746",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "TT / Emma Löfgren, «Stockholm syndrome bank robber Clark Olofsson dies aged 78», The Local (26 de junio de 2025)",
+    "url": "https://www.thelocal.se/20250626/stockholm-syndrome-bank-robber-clark-olofsson-dies-aged-78",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Worldcrunch, «Forty years ago, a Swedish bank robber gave us “Stockholm syndrome”» (2013)",
+    "url": "https://worldcrunch.com/culture-society/forty-years-ago-a-swedish-bank-robber-gave-us-quotstockholm-syndromequot/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en sueco), «Norrmalmstorgsdramat» (punto de partida; consultada por sus referencias)",
+    "url": "https://sv.wikipedia.org/wiki/Norrmalmstorgsdramat",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "El «síndrome de Estocolmo» no es un diagnóstico reconocido; lo bautizó el psiquiatra Nils Bejerot, que asesoró a la policía. Nordstjernan dice que ambos fueron condenados y que a Olofsson le anularon la condena en apelación; la sentencia exacta de Olofsson no se ha comprobado en una fuente judicial. Worldcrunch no se pudo abrir (error 403). Los rehenes tienen nombre público, pero no se nombran."
+ },
+ {
+  "id": "libero-grassi",
+  "m": 8,
+  "d": 29,
+  "y": 1991,
+  "n": "Salvino Madonia",
+  "a": "El empresario que dijo no al pizzo",
+  "v": "1",
+  "p": "Italia",
+  "f": "🇮🇹",
+  "per": "1991",
+  "st": "Juzgado. Salvino Madonia fue condenado a cadena perpetua como autor material; la sentencia firme de 2008 condenó también a la cúpula de Cosa Nostra como mandante.",
+  "c": "Hacia las siete y media de la mañana del 29 de agosto de 1991, el empresario textil Libero Grassi, de 67 años, fue asesinado de cuatro tiros cuando iba a pie a trabajar, cerca de su casa de la via Alfieri, en Palermo. En enero había publicado en el Giornale di Sicilia una carta, «Querido extorsionador», en la que explicaba por qué su fábrica de pijamas, Sigma, no pagaría el «pizzo» a la Mafia, y lo había repetido en la televisión. Salvino Madonia fue condenado a cadena perpetua gracias al arrepentido Marco Favaloro, que conducía el coche. Su muerte impulsó el movimiento antiextorsión.",
+  "mo": "Emboscada en plena calle: un sicario le disparó por la espalda y huyó en un coche que esperaba.",
+  "loc": [
+   [
+    38.13,
+    13.345,
+    "Via Alfieri, Palermo (lugar del crimen; coordenada aproximada)"
+   ]
+  ],
+  "vin": [
+   [
+    "paolo-giaccone",
+    "r",
+    "Otra víctima de Cosa Nostra en Palermo por negarse a ceder"
+   ]
+  ],
+  "g": [],
+  "estrella": false,
+  "tipo_efemeride": "crimen",
+  "titulo_caso": "Asesinato de Libero Grassi",
+  "autor": "Cosa Nostra (Salvino Madonia, condenado como autor material)",
+  "fuentes": [
+   {
+    "titulo": "«Libero Grassi», Il Post (29 de agosto de 2016)",
+    "url": "https://www.ilpost.it/2016/08/29/libero-grassi/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Italpress, «32 anni fa l'assassinio di Libero Grassi, imprenditore che disse no al racket», BlogSicilia (29 de agosto de 2023)",
+    "url": "https://www.blogsicilia.it/sicilia-by-italpress/32-anni-fa-lassassinio-di-libero-grassi-imprenditore-che-disse-no-al-racket/912858/",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Libero Grassi, la morte e il pizzo», L'Espresso (29 de agosto de 2025)",
+    "url": "https://lespresso.it/c/attualita/2025/8/29/libero-grassi-morte-pizzo-cosa-nostra/56495",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "«Mafia, 32 anni fa moriva Libero Grassi, l'imprenditore che disse no al racket», La Sicilia (2023)",
+    "url": "https://www.lasicilia.it/news/cronaca/1879142/mafia-32-anni-fa-moriva-libero-grassi-l-imprenditore-che-disse-no-al-racket.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Sky TG24, «Libero Grassi, la lettera “Caro estortore” vent'anni dopo» (10 de enero de 2011; copia archivada)",
+    "url": "https://web.archive.org/web/20111116234001/http://tg24.sky.it/tg24/cronaca/2011/01/10/libero_grassi_lettera_caro_estortore_20_anni_dopo_mafia_addio_pizzo.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en italiano), «Libero Grassi» (punto de partida; consultada por sus referencias)",
+    "url": "https://it.wikipedia.org/wiki/Libero_Grassi",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "Unas pocas fuentes (Tio.ch, un documento de Messina Antiusura) dan el 27 de agosto; la mayoría, el 29. La via Alfieri como lugar viene de La Sicilia y otras crónicas vistas en el buscador (Wikipedia no da la calle). Las fechas de los juicios varían: condena en apelación en 2006 y sentencia firme del proceso «Agate Mariano + 56» el 18 de abril de 2008 (Wikipedia). BlogSicilia, L'Espresso, La Sicilia y Sky TG24 no se abrieron (vistos en el buscador). Coordenada aproximada."
+ },
+ {
+  "id": "mary-ann-nichols",
+  "m": 8,
+  "d": 31,
+  "y": 1888,
+  "n": "Mary Ann Nichols",
+  "a": "La primera víctima de Jack el Destripador",
+  "v": "1",
+  "p": "Reino Unido",
+  "f": "🇬🇧",
+  "per": "1888",
+  "st": "Sin resolver. La investigación judicial concluyó «asesinato por persona o personas desconocidas» y el autor nunca fue identificado.",
+  "c": "Hacia las 3.40 de la madrugada del 31 de agosto de 1888, el carretero Charles Cross encontró en Buck's Row (hoy Durward Street), en el barrio londinense de Whitechapel, el cuerpo de Mary Ann «Polly» Nichols, de 43 años, a la entrada de un establo. Poco después llegó el agente John Neil, que dio el aviso. Nichols es la primera de las cinco víctimas «canónicas» del asesino que la prensa llamaría Jack el Destripador. La investigación del forense Wynne Baxter terminó el 22 de septiembre con un veredicto de asesinato por desconocidos. Fue enterrada el 6 de septiembre en el cementerio de la City de Londres.",
+  "mo": "Desconocido. La víctima fue atacada de madrugada en una calle oscura del East End y abandonada allí mismo.",
+  "loc": [
+   [
+    51.5203,
+    -0.0617,
+    "Durward Street, antes Buck's Row, Whitechapel (hallazgo del cuerpo)"
+   ],
+   [
+    51.5195,
+    -0.0605,
+    "Whitechapel Road (Working Lads' Institute, sede de la investigación judicial)"
+   ],
+   [
+    51.556,
+    0.054,
+    "Cementerio de la City de Londres, Manor Park (sepultura)"
+   ]
+  ],
+  "vin": [],
+  "g": [
+   "sin_resolver",
+   "londres"
+  ],
+  "estrella": false,
+  "tipo_efemeride": "hallazgo",
+  "titulo_caso": "Whitechapel: el asesinato de Mary Ann Nichols",
+  "autor": "Desconocido («Jack el Destripador», nunca identificado)",
+  "fuentes": [
+   {
+    "titulo": "The Daily Telegraph, crónicas de la investigación judicial (3, 4, 18 y 24 de septiembre de 1888), transcritas en Casebook: Jack the Ripper",
+    "url": "https://www.casebook.org/official_documents/inquests/inquest_nichols.html",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Oxford University Press Blog, «The murder of Polly Nichols» (septiembre de 2006)",
+    "url": "https://blog.oup.com/2006/09/the_murder_of_p/",
+    "tipo": "enciclopedia"
+   },
+   {
+    "titulo": "«On this day in history, Aug. 31, 1888, Jack the Ripper claims first victim», Fox News",
+    "url": "https://www.foxnews.com/lifestyle/this-day-history-august-31-1888-jack-the-ripper-claims-first-victim",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "The Guardian, «1 September 1888: Jack the Ripper claims his first victim» (archivo, 1 de septiembre de 2014)",
+    "url": "https://www.theguardian.com/uk-news/2014/sep/01/jack-the-ripper-first-victim-1888",
+    "tipo": "hemeroteca"
+   },
+   {
+    "titulo": "Wikipedia (en inglés), «Mary Ann Nichols» (punto de partida; consultada por sus referencias)",
+    "url": "https://en.wikipedia.org/wiki/Mary_Ann_Nichols",
+    "tipo": "enciclopedia"
+   }
+  ],
+  "nota_revision": "La hora varía: hacia las 3.40 (Wikipedia), «no lejos de las 3.45» (resumen del forense) o «hacia las tres» (blog de OUP). Edad: 43 según su partida de nacimiento; 42 en el certificado de defunción y en la lápida. En la investigación, el agente Neil declaró haberla encontrado; Cross y Robert Paul dijeron haberla visto poco antes. No se dan por buenas las teorías sobre la identidad del asesino. El blog de OUP, Fox News y The Guardian no se abrieron (vistos en el buscador)."
+ }
+]
