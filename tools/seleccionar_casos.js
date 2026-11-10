@@ -10,13 +10,16 @@ const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "
 const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
 
 // ---------- candidatos ----------
+// exclusiones manuales (mismo caso en dos días, etc.): web/datos/candidatos/ajustes.json
+const ajustesPath = path.join(dir, "ajustes.json");
+const excluir = new Set(fs.existsSync(ajustesPath) ? (JSON.parse(fs.readFileSync(ajustesPath, "utf8")).excluir || []) : []);
 const dias = [];   // [{m, d, cands:[…]}]
 for (let m = 1; m <= 12; m++) {
   const f = path.join(dir, String(m).padStart(2, "0") + ".json");
   if (!fs.existsSync(f)) continue;
   const j = JSON.parse(fs.readFileSync(f, "utf8"));
   for (const x of j.dias || []) {
-    const cands = (x.candidatos || []).filter(c => c && c.titulo_caso && c.fecha).map(c => ({
+    const cands = (x.candidatos || []).filter(c => c && c.titulo_caso && c.fecha && !excluir.has(c.titulo_caso)).map(c => ({
       ...c, m, d: x.dia, anio: +String(c.fecha).slice(0, 4), clave: norm(c.titulo_caso), clave2: norm(c.protagonista),
     }));
     if (cands.length) dias.push({ m, d: x.dia, cands });

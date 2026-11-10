@@ -1,0 +1,1174 @@
+{
+  "mes": 2,
+  "dias": [
+    { "dia": 1, "candidatos": [
+      {
+        "titulo_caso": "El regicidio de Lisboa",
+        "protagonista": "Manuel Buíça y Alfredo Luís da Costa (Carbonária)",
+        "fecha": "1908-02-01",
+        "tipo_efemeride": "crimen",
+        "pais": "Portugal",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1900-1909",
+        "resumen": "El 1 de febrero de 1908, en la Praça do Comércio de Lisboa, dos republicanos ligados a la Carbonária dispararon contra el carruaje real y mataron al rey Carlos I y al príncipe heredero Luis Felipe; el infante Manuel resultó herido. Los dos tiradores fueron abatidos allí mismo y la instrucción nunca llegó a juicio.",
+        "por_que": "Mató a la vez al rey y al heredero y precipitó la caída de la monarquía portuguesa en 1910.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lisbon_Regicide",
+          "https://www.guinnessworldrecords.com/news/2026/1/tragic-prince-with-shortest-reign-ever-was-assassinated-within-minutes-of-becoming-king"
+        ],
+        "riesgos": "Sin juicio: los autores murieron en el acto y los posibles cómplices nunca fueron juzgados. Violencia política."
+      },
+      {
+        "titulo_caso": "El asesinato de Yolanda González",
+        "protagonista": "Emilio Hellín Moro (autor condenado)",
+        "fecha": "1980-02-01",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "La noche del 1 de febrero de 1980 un comando de ultraderecha secuestró en su piso de Aluche (Madrid) a Yolanda González, estudiante de 19 años y militante trotskista, y la mató a tiros; el crimen se reivindicó en nombre del Batallón Vasco Español. La Audiencia Nacional condenó a Emilio Hellín y a Ignacio Abad, entre otros; Hellín se fugó a Paraguay en 1987 durante un permiso.",
+        "por_que": "Crimen emblemático de la violencia ultraderechista de la Transición, con un asesino que décadas después asesoraba a cuerpos policiales.",
+        "fuentes_fecha": [
+          "https://www.elsaltodiario.com/transicion/asesinatos-batallon-vasco-espanol-extrema-derecha-madrid-ano-1980",
+          "https://www.lanacion.com.py/mundo/2026/02/02/espana-recuerda-crimen-de-lider-estudiantil-y-fuga-de-su-asesino-a-paraguay-en-dictadura/"
+        ],
+        "riesgos": "Política sensible (terrorismo de extrema derecha). Secuestro y asesinato la noche del 1; algunas fuentes hablan de la madrugada del 2, día en que apareció el cuerpo. El lugar del hallazgo varía según la fuente. Hellín vive; polémica en 2013 por trabajar como perito para las Fuerzas de Seguridad."
+      },
+      {
+        "titulo_caso": "El asesinato de William Desmond Taylor",
+        "protagonista": "William Desmond Taylor (víctima)",
+        "fecha": "1922-02-01",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1920-1929",
+        "resumen": "La noche del 1 de febrero de 1922 el director de cine William Desmond Taylor murió de un disparo por la espalda en su bungalow de Los Ángeles; su criado halló el cuerpo a la mañana siguiente. Se señaló a la actriz Mabel Normand, a la joven estrella Mary Miles Minter y a la madre de esta, Charlotte Shelby, pero nadie fue acusado.",
+        "por_que": "El gran crimen sin resolver del Hollywood del cine mudo.",
+        "fuentes_fecha": [
+          "https://www.ebsco.com/research-starters/law/director-taylors-murder-ruins-mabel-normands-acting-career",
+          "https://en.wikipedia.org/wiki/William_Desmond_Taylor"
+        ],
+        "riesgos": "Sin acusados ni condena: presentar a los sospechosos solo como tales. Algunas fuentes (History.com) lo fechan el 2 de febrero, día del hallazgo del cuerpo."
+      }
+    ] },
+    { "dia": 2, "candidatos": [
+      {
+        "titulo_caso": "El cura Merino y el atentado contra Isabel II",
+        "protagonista": "Martín Merino y Gómez",
+        "fecha": "1852-02-02",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "magnicidio",
+        "epoca": "siglo XIX",
+        "resumen": "El 2 de febrero de 1852, cuando Isabel II salía del Palacio Real hacia la basílica de Atocha para presentar a su hija recién nacida, el sacerdote Martín Merino la apuñaló; el corsé amortiguó el golpe y la reina sobrevivió. Merino fue juzgado en días y ejecutado a garrote vil en público el 7 de febrero de 1852.",
+        "por_que": "Un regicidio frustrado por un corsé y uno de los juicios más rápidos de la historia de España.",
+        "fuentes_fecha": [
+          "https://www.eldebate.com/historia/20220711/corse-salvo-muerte-isabel-ii.html",
+          "https://www.elsaltodiario.com/anales-espana/1852-matar-isabel-ii",
+          "https://boe.es/gazeta/dias/1852/02/03/pdfs/GMD-1852-6424.pdf"
+        ],
+        "riesgos": "Las fuentes discrepan en detalles de Merino (exfranciscano o jesuita, edad). Intento frustrado: la reina sobrevivió."
+      },
+      {
+        "titulo_caso": "El crimen de las hermanas Papin",
+        "protagonista": "Christine y Léa Papin",
+        "fecha": "1933-02-02",
+        "tipo_efemeride": "crimen",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "asesinato",
+        "epoca": "1930-1939",
+        "resumen": "El 2 de febrero de 1933, en Le Mans, las hermanas Christine y Léa Papin, criadas internas de la familia Lancelin, mataron a la esposa y a la hija de su patrón. Christine fue condenada a muerte (pena conmutada por trabajos forzados a perpetuidad) y Léa a diez años. El caso fascinó a Lacan e inspiró «Las criadas», de Jean Genet.",
+        "por_que": "Un doble crimen doméstico convertido en mito de la psiquiatría y del teatro francés.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Christine_and_L%C3%A9a_Papin",
+          "https://journals.openedition.org/rhei/3248"
+        ],
+        "riesgos": "Detalles muy violentos (mutilaciones): contar sin morbo. Dimensión psiquiátrica: Christine murió internada."
+      },
+      {
+        "titulo_caso": "Azaria Chamberlain: la chaquetita hallada en Uluru",
+        "protagonista": "Lindy Chamberlain",
+        "fecha": "1986-02-02",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "error_judicial",
+        "epoca": "1980-1989",
+        "resumen": "Azaria, un bebé de nueve semanas, desapareció en 1980 de una acampada junto a Uluru; su madre, Lindy Chamberlain, dijo que se la había llevado un dingo, pero fue condenada por asesinato en 1982. El 2 de febrero de 1986, buscando los restos de un escalador británico, la policía encontró la chaquetita de Azaria junto a una madriguera de dingos. Lindy fue liberada el 7 de febrero, las condenas se anularon en 1988 y en 2012 un nuevo inquest atribuyó la muerte a un dingo.",
+        "por_que": "Uno de los errores judiciales más célebres del mundo, deshecho por un hallazgo casual.",
+        "fuentes_fecha": [
+          "https://adb.anu.edu.au/biography/chamberlain-azaria-chantel-9719",
+          "https://en.wikipedia.org/wiki/Death_of_Azaria_Chamberlain"
+        ],
+        "riesgos": "Víctima bebé (su nombre forma parte del nombre histórico del caso). No hubo crimen según el inquest de 2012. Alguna fuente menor da el 1 de febrero."
+      }
+    ] },
+    { "dia": 3, "candidatos": [
+      {
+        "titulo_caso": "El libro bomba contra Eduardo Mondlane",
+        "protagonista": "Eduardo Mondlane (víctima)",
+        "fecha": "1969-02-03",
+        "tipo_efemeride": "crimen",
+        "pais": "Tanzania (víctima mozambiqueña)",
+        "region": "africa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1960-1969",
+        "resumen": "El 3 de febrero de 1969, Eduardo Mondlane, fundador y presidente del FRELIMO, murió en Dar es Salaam al estallar una bomba oculta en un libro que le habían enviado por correo. Se ha apuntado a la policía política portuguesa (PIDE) y a rivales internos del FRELIMO, pero nadie fue juzgado.",
+        "por_que": "Un asesinato político con paquete bomba que sigue sin culpables oficiales.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Eduardo_Mondlane",
+          "https://content.time.com/time/magazine/article/0,9171,900625,00.html",
+          "https://face2faceafrica.com/article/the-unsolved-murder-of-mozambican-revolutionary-leader-who-died-after-opening-a-letter-bomb/amp"
+        ],
+        "riesgos": "Sin resolver: autoría no juzgada; las acusaciones contra la PIDE son alegaciones. Violencia colonial y política."
+      },
+      {
+        "titulo_caso": "La muerte de Lana Clarkson en la mansión de Phil Spector",
+        "protagonista": "Phil Spector",
+        "fecha": "2003-02-03",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "2000-2009",
+        "resumen": "La madrugada del 3 de febrero de 2003, la actriz Lana Clarkson murió de un disparo en la boca en la mansión del productor musical Phil Spector, en Alhambra (California). Spector sostuvo que fue un suicidio accidental; tras un primer juicio nulo en 2007, fue condenado por asesinato en segundo grado en 2009 y murió en prisión en 2021.",
+        "por_que": "La caída del genio del «muro de sonido», condenado por asesinato.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lana_Clarkson",
+          "https://oxygen.com/crime-time/music-legend-phil-spector-fatally-shot-actress-lana-clarkson",
+          "https://crimelibrary.org/notorious_murders/celebrity/phil_spector/index.html"
+        ],
+        "riesgos": "Falta un caso de España/Hispanoamérica o de Europa para este día (no se encontró ninguno con fecha verificable)."
+      }
+    ] },
+    { "dia": 4, "candidatos": [
+      {
+        "titulo_caso": "El ataque a machetazos contra el presidente Araujo",
+        "protagonista": "Manuel Enrique Araujo (víctima)",
+        "fecha": "1913-02-04",
+        "tipo_efemeride": "crimen",
+        "pais": "El Salvador",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 4 de febrero de 1913, durante un concierto en el parque Bolívar de San Salvador, tres hombres atacaron con machetes y un revólver al presidente Manuel Enrique Araujo, que murió cinco días después. Los autores materiales fueron fusilados a los pocos días y el móvil y los instigadores nunca se aclararon.",
+        "por_que": "El único presidente salvadoreño asesinado, en un magnicidio cuya autoría intelectual sigue siendo un misterio.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Manuel_Enrique_Araujo",
+          "https://diario.elmundo.sv/Nacionales/manuel-enrique-araujo-el-unico-presidente-asesinado-en-la-historia-de-el-salvador-hace-107-anos"
+        ],
+        "riesgos": "El ataque fue el 4 y la muerte el 9 de febrero: la efeméride es el ataque. Autores ejecutados sin juicio con garantías; instigadores desconocidos."
+      },
+      {
+        "titulo_caso": "La bomba del autocar de la M62 y el caso Judith Ward",
+        "protagonista": "Judith Ward (condenada injustamente)",
+        "fecha": "1974-02-04",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1970-1979",
+        "resumen": "El 4 de febrero de 1974, una bomba del IRA Provisional oculta en el maletero de un autocar que llevaba militares y a sus familias estalló en la autopista M62 (Yorkshire) y mató a doce personas. Judith Ward fue condenada a cadena perpetua ese mismo año por sus confesiones contradictorias y por pruebas forenses; en 1992 el Tribunal de Apelación anuló la condena porque los peritos del Estado habían ocultado pruebas a su favor.",
+        "por_que": "Una masacre terrorista que acabó en uno de los grandes errores judiciales británicos.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/M62_coach_bombing",
+          "https://www.yorkshirepost.co.uk/heritage-and-retro/heritage/m62-coach-bombing-50-years-since-provisional-ira-attack-killed-12-people-on-yorkshire-motorway-4503216"
+        ],
+        "riesgos": "Terrorismo; entre los civiles muertos había niños. Nadie ha sido condenado por el atentado tras la anulación."
+      },
+      {
+        "titulo_caso": "El secuestro de Patty Hearst",
+        "protagonista": "Ejército Simbiótico de Liberación (SLA)",
+        "fecha": "1974-02-04",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "secuestro",
+        "epoca": "1970-1979",
+        "resumen": "La noche del 4 de febrero de 1974, el Ejército Simbiótico de Liberación (SLA) secuestró en su apartamento de Berkeley a Patricia Hearst, de 19 años, nieta del magnate William Randolph Hearst. Semanas después apareció armada en el atraco a un banco junto a sus captores; fue condenada en 1976, Carter le conmutó la pena en 1979 y Clinton la indultó en 2001.",
+        "por_que": "De rehén a atracadora: el secuestro más desconcertante de los años setenta.",
+        "fuentes_fecha": [
+          "https://www.fbi.gov/history/artifacts/patty-hearst-kidnapping",
+          "https://www.cbsnews.com/news/february-4th-1974-patty-hearst-kidnapped",
+          "https://www.history.com/this-day-in-history/february-4/patty-hearst-kidnapped"
+        ],
+        "riesgos": "Víctima viva; sigue el debate sobre la coacción y su participación en los atracos."
+      }
+    ] },
+    { "dia": 6, "candidatos": [
+      {
+        "titulo_caso": "El secuestro y asesinato del ingeniero de Lemóniz",
+        "protagonista": "José María Ryan (víctima) / ETA militar",
+        "fecha": "1981-02-06",
+        "tipo_efemeride": "hallazgo",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "ETA militar secuestró el 29 de enero de 1981 a José María Ryan, ingeniero jefe de la central nuclear de Lemóniz (Vizcaya), y exigió a cambio de su vida que se derribara la central. El 6 de febrero de 1981 apareció su cuerpo, con un tiro, en un paraje de Vizcaya. Su sucesor, Ángel Pascual, también fue asesinado por ETA en 1982.",
+        "por_que": "Un secuestro sin rescate económico: la exigencia era demoler una central nuclear, y paralizó Lemóniz para siempre.",
+        "fuentes_fecha": [
+          "https://aunamendi.eusko-ikaskuntza.eus/en/central-nuclear-de-lemoniz/ar-46480-54290/",
+          "https://theobjective.com/elsubjetivo/opinion/2023-05-22/malnacidos-eta-terrorismo-bildu-energia-nuclear/"
+        ],
+        "riesgos": "Terrorismo: tratar con respeto a la familia. Las fuentes discrepan en el lugar exacto del hallazgo y en la herida (cabeza o cuello). Hay que comprobar en la ficha si hubo condenas por el crimen."
+      },
+      {
+        "titulo_caso": "El asesinato del prefecto Érignac",
+        "protagonista": "Claude Érignac (víctima) / Yvan Colonna (condenado)",
+        "fecha": "1998-02-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Francia (Córcega)",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1990-1999",
+        "resumen": "La noche del 6 de febrero de 1998, el prefecto de Córcega, Claude Érignac, fue asesinado a tiros por la espalda en una calle de Ajaccio cuando iba a un concierto. Un comando nacionalista fue condenado; el pastor Yvan Colonna, huido cuatro años, fue condenado a perpetuidad en 2011 sin pruebas materiales y siempre se declaró inocente; murió en 2022 tras ser agredido en prisión.",
+        "por_que": "El único prefecto asesinado en la Francia moderna, con una condena discutida y una larga fuga en el maquis.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Claude_%C3%89rignac",
+          "https://www.corsenetinfos.corsica/Il-y-a-23-ans-le-prefet-Claude-Erignac-etait-assassine-a-Ajaccio_a55396.html"
+        ],
+        "riesgos": "Terrorismo nacionalista corso y tema político vivo en Córcega. Colonna siempre negó la autoría: citar la condena, no afirmar más."
+      },
+      {
+        "titulo_caso": "La condena a muerte de Zulfikar Ali Bhutto",
+        "protagonista": "Zulfikar Ali Bhutto",
+        "fecha": "1979-02-06",
+        "tipo_efemeride": "condena",
+        "pais": "Pakistán",
+        "region": "asia",
+        "tipo_caso": "error_judicial",
+        "epoca": "1970-1979",
+        "resumen": "Derrocado por el general Zia ul-Haq, el ex primer ministro Bhutto fue condenado a muerte en 1978 por instigar un asesinato político. El 6 de febrero de 1979 el Tribunal Supremo confirmó la sentencia por cuatro votos contra tres y fue ahorcado el 4 de abril. En 2024 el propio Supremo reconoció que no tuvo un juicio justo.",
+        "por_que": "Un «asesinato judicial» reconocido como tal por el mismo tribunal 45 años después.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Trial_of_Zulfikar_Ali_Bhutto",
+          "https://dawn.com/news/1151780"
+        ],
+        "riesgos": "Política sensible en Pakistán. La opinión de 2024 no anuló formalmente la condena (dijo que no puede revisarse)."
+      }
+    ] },
+    { "dia": 7, "candidatos": [
+      {
+        "titulo_caso": "El asesinato del ministro Pavle Bulatović",
+        "protagonista": "Pavle Bulatović (víctima)",
+        "fecha": "2000-02-07",
+        "tipo_efemeride": "crimen",
+        "pais": "Serbia (Yugoslavia)",
+        "region": "europa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "2000-2009",
+        "resumen": "La noche del 7 de febrero de 2000, el ministro de Defensa yugoslavo, Pavle Bulatović, fue tiroteado mientras cenaba en el restaurante del club FK Rad, en Belgrado, y murió poco después; otros dos comensales resultaron heridos. Se habló de ajustes de cuentas políticos, de la mafia y de la guerrilla kosovar, pero nadie ha sido juzgado.",
+        "por_que": "Un ministro de Milošević acribillado en un restaurante, en un crimen que sigue impune.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Pavle_Bulatovi%C4%87",
+          "https://www.rferl.org/a/1341188.html",
+          "https://www.globalsecurity.org/military/library/news/2000/02/000207-serbia1.htm"
+        ],
+        "riesgos": "Sin resolver: no hay acusados. Contexto bélico (Kosovo). La Wikipedia en castellano lo sitúa también el 8 de febrero en una lista de efemérides: la fecha correcta según las fuentes de la época es el 7."
+      },
+      {
+        "titulo_caso": "La captura de Ramzi Yousef",
+        "protagonista": "Ramzi Yousef",
+        "fecha": "1995-02-07",
+        "tipo_efemeride": "detencion",
+        "pais": "Pakistán",
+        "region": "asia",
+        "tipo_caso": "otro",
+        "epoca": "1990-1999",
+        "resumen": "El 7 de febrero de 1995, agentes pakistaníes y del Servicio de Seguridad Diplomática de EE. UU. detuvieron en una casa de huéspedes de Islamabad a Ramzi Yousef, autor del atentado de 1993 contra el World Trade Center y cerebro del plan Bojinka. Un confidente lo delató y fue trasladado de inmediato a Estados Unidos, donde fue condenado a cadena perpetua.",
+        "por_que": "La caza del terrorista más buscado del mundo antes de Bin Laden terminó por un chivatazo.",
+        "fuentes_fecha": [
+          "https://www.911memorial.org/node/102611",
+          "https://www.fbi.gov/news/stories/2004/february/law020604/",
+          "https://en.wikipedia.org/wiki/Ramzi_Yousef"
+        ],
+        "riesgos": "Terrorismo. Falta un candidato de España o Hispanoamérica (el secuestro de Kiki Camarena, del 7-feb-1985, se descarta porque Rafael Caro Quintero está siendo juzgado en EE. UU.)."
+      }
+    ] },
+    { "dia": 8, "candidatos": [
+      {
+        "titulo_caso": "El secuestro de Shergar",
+        "protagonista": "Shergar (caballo) / banda armada atribuida al IRA",
+        "fecha": "1983-02-08",
+        "tipo_efemeride": "crimen",
+        "pais": "Irlanda",
+        "region": "europa",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "La noche del 8 de febrero de 1983, hombres armados y enmascarados se llevaron de la yeguada de Ballymany (Kildare) a Shergar, el caballo del Aga Kan que había ganado el Derby de Epsom, y pidieron dos millones de libras. Las negociaciones fracasaron y el caballo nunca apareció. Se atribuyó al IRA, que nunca lo reconoció, y nadie fue juzgado.",
+        "por_que": "El secuestro más extraño de la historia: un campeón de carreras desaparecido sin dejar rastro.",
+        "fuentes_fecha": [
+          "https://www.irishpost.com/life-style/on-this-day-in-1983-nationwide-hunt-begins-for-famous-racehorse-shergar-allegedly-kidnapped-by-the-ira-203399",
+          "https://www.racingpost.com/news/brilliant-derby-winner-never-seen-again-after-being-taken-from-stud-afPzC5j8NZk5/",
+          "https://www.history.com/this-day-in-history/february-8/irish-race-horse-stolen"
+        ],
+        "riesgos": "Sin condena: la autoría del IRA es una sospecha y el relato de un exmiembro sobre su muerte no está verificado."
+      },
+      {
+        "titulo_caso": "El juicio farsa contra el cardenal Mindszenty",
+        "protagonista": "József Mindszenty",
+        "fecha": "1949-02-08",
+        "tipo_efemeride": "condena",
+        "pais": "Hungría",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1940-1949",
+        "resumen": "El primado de Hungría, el cardenal József Mindszenty, fue detenido por el régimen comunista a finales de 1948 y, tras interrogatorios bajo coacción, confesó en un juicio público. El 8 de febrero de 1949 fue condenado a cadena perpetua por traición y conspiración. Liberado en la revolución de 1956, vivió quince años refugiado en la embajada de EE. UU. en Budapest; fue rehabilitado tras la caída del comunismo.",
+        "por_que": "El gran juicio farsa del estalinismo contra la Iglesia, con una confesión arrancada.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-8/cardinal-mindszenty-of-hungary-sentenced",
+          "https://en.wikipedia.org/wiki/J%C3%B3zsef_Mindszenty"
+        ],
+        "riesgos": "Proceso político más que caso criminal. Cuidado con atribuir métodos concretos de tortura: citar solo lo documentado."
+      },
+      {
+        "titulo_caso": "La masacre de Orangeburg",
+        "protagonista": "Policía estatal de Carolina del Sur / Cleveland Sellers",
+        "fecha": "1968-02-08",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1960-1969",
+        "resumen": "La noche del 8 de febrero de 1968, agentes de la policía estatal dispararon contra estudiantes negros que protestaban contra la segregación frente al campus del South Carolina State College, en Orangeburg: murieron tres jóvenes y hubo decenas de heridos. Los nueve agentes juzgados fueron absueltos; el único condenado fue un activista, Cleveland Sellers, indultado en 1993.",
+        "por_que": "Unos policías absueltos y un activista condenado: la injusticia invertida de los derechos civiles.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-8/three-protestors-die-in-the-orangeburg-massacre",
+          "https://en.wikipedia.org/wiki/Orangeburg_massacre"
+        ],
+        "riesgos": "Racismo y violencia policial: tema sensible. Entre los muertos había un menor de 17 años. Falta un candidato hispano para este día."
+      }
+    ] },
+    { "dia": 9, "candidatos": [
+      {
+        "titulo_caso": "Mario Poggi y la muerte del «descuartizador de Lima»",
+        "protagonista": "Mario Poggi",
+        "fecha": "1986-02-09",
+        "tipo_efemeride": "crimen",
+        "pais": "Perú",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 9 de febrero de 1986, el psicólogo Mario Poggi, que colaboraba con la policía de investigaciones, estranguló con un cinturón en una sala de interrogatorios de Lima a Ángel Díaz Balbín, detenido días antes y presentado por la prensa como el «descuartizador de Lima». Poggi salió diciendo que había eliminado un peligro para la sociedad y fue condenado; Díaz Balbín nunca llegó a ser juzgado.",
+        "por_que": "Un asesinato dentro de una comisaría, a manos del psicólogo que debía interrogar al sospechoso.",
+        "fuentes_fecha": [
+          "https://elcomercio.pe/lima/mario-poggi-asesinato-descuartizador-lima-277283-noticia/",
+          "https://en.wikipedia.org/wiki/Mario_Poggi",
+          "https://peru21.pe/lima/mario-poggi-y-el-dia-que-estrangulo-al-presunto-descuartizador-de-lima/"
+        ],
+        "riesgos": "Presunción de inocencia: Díaz Balbín era solo sospechoso (nunca juzgado); no llamarlo asesino. Las fuentes discrepan en su edad y en el número de crímenes atribuidos. Poggi murió en 2016."
+      },
+      {
+        "titulo_caso": "El café envenenado de Gaspare Pisciotta",
+        "protagonista": "Gaspare Pisciotta (víctima)",
+        "fecha": "1954-02-09",
+        "tipo_efemeride": "crimen",
+        "pais": "Italia",
+        "region": "europa",
+        "tipo_caso": "envenenamiento",
+        "epoca": "1950-1959",
+        "resumen": "Gaspare Pisciotta, lugarteniente y primo del bandido Salvatore Giuliano, cumplía cadena perpetua por la matanza de Portella della Ginestra y había anunciado que contaría quién estaba detrás. El 9 de febrero de 1954 murió en su celda de la cárcel del Ucciardone (Palermo) tras tomar un café; la autopsia halló estricnina. Nunca se identificó al envenenador.",
+        "por_que": "Un testigo incómodo silenciado con estricnina dentro de la cárcel: un clásico de la Sicilia mafiosa.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Gaspare_Pisciotta",
+          "https://content.time.com/time/magazine/article/0,9171,860461,00.html",
+          "https://progettosanfrancesco.it/wp-content/uploads/2023/01/MAFIAcronologia.pdf"
+        ],
+        "riesgos": "Sin resolver: nadie fue condenado. Las versiones sobre cómo llegó el veneno al café difieren."
+      },
+      {
+        "titulo_caso": "El secuestro de Adolph Coors III",
+        "protagonista": "Joseph Corbett Jr. (condenado)",
+        "fecha": "1960-02-09",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "secuestro",
+        "epoca": "1960-1969",
+        "resumen": "El 9 de febrero de 1960, Adolph Coors III, presidente de la cervecera Coors, desapareció cuando iba en coche de su casa de Morrison (Colorado) al trabajo; su familia recibió una nota de rescate. Siete meses después aparecieron sus restos. El FBI identificó a Joseph Corbett, un fugitivo con estudios universitarios, que fue detenido en Canadá y condenado a cadena perpetua en 1961.",
+        "por_que": "El secuestro del heredero de una gran cervecera, resuelto siguiendo el rastro de una máquina de escribir.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-9/coors-brewery-heir-is-kidnapped",
+          "https://en.wikipedia.org/wiki/Adolph_Coors_III"
+        ],
+        "riesgos": "Corbett nunca declaró en el juicio; salió en libertad condicional en 1978 y murió en 2009."
+      }
+    ] },
+    { "dia": 10, "candidatos": [
+      {
+        "titulo_caso": "El gran robo de la colección Bührle",
+        "protagonista": "Tres atracadores armados (identidad parcialmente desconocida)",
+        "fecha": "2008-02-10",
+        "tipo_efemeride": "golpe",
+        "pais": "Suiza",
+        "region": "europa",
+        "tipo_caso": "golpe",
+        "epoca": "2000-2009",
+        "resumen": "El domingo 10 de febrero de 2008, poco antes del cierre, tres hombres armados y enmascarados entraron en la sede de la Fundación E. G. Bührle, en Zúrich, y se llevaron cuatro cuadros de Cézanne, Degas, Van Gogh y Monet valorados en unos 180 millones de francos suizos. Dos aparecieron días después en un coche aparcado junto a un hospital y los otros dos se recuperaron en Serbia en 2012.",
+        "por_que": "Uno de los mayores robos de arte de la historia de Europa, cometido a plena luz en apenas unos minutos.",
+        "fuentes_fecha": [
+          "https://de.wikipedia.org/wiki/Stiftung_Sammlung_E._G._B%C3%BChrle",
+          "https://web.archive.org/web/20080505051210/http://www.tagesanzeiger.ch/dyn/news/zuerich/840822.html",
+          "https://www.nzz.ch/zwei_der_vier_geraubten_bilder_wieder_aufgetaucht-ld.465507"
+        ],
+        "riesgos": "Hay que comprobar en la ficha qué condenas hubo (en Serbia se juzgó a varios implicados) y no atribuir la autoría material sin fuente."
+      },
+      {
+        "titulo_caso": "La desaparición de Teresita Guitart y la «vampira del Raval»",
+        "protagonista": "Enriqueta Martí",
+        "fecha": "1912-02-10",
+        "tipo_efemeride": "desaparicion",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "secuestro",
+        "epoca": "1910-1919",
+        "resumen": "El 10 de febrero de 1912 desapareció en Barcelona la niña Teresita Guitart. El 27 de febrero la policía la encontró con vida en el piso de Enriqueta Martí, en el Raval, junto a otra niña, y la prensa convirtió a Martí en la «vampira del Raval», acusada de secuestrar y matar niños. Murió en la cárcel en 1913 sin llegar a ser juzgada, y hoy los historiadores consideran muy exagerada la leyenda.",
+        "por_que": "Una leyenda negra de la Barcelona de 1912 que la investigación histórica ha desmontado en parte.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Enriqueta_Mart%C3%AD",
+          "https://www.lavanguardia.com/sucesos/20190705/463290365930/enriqueta-marti-vampira-barcelona-raval-ponent-crimenes-ninos-pocimas-las-caras-del-mal.html"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE: la fecha del 10 de febrero solo se pudo leer en la Wikipedia en castellano (sin cita); La Vanguardia y El Periódico no se dejaron descargar y no se pudo buscar más (límite de búsquedas agotado). Martí nunca fue juzgada: presunción de inocencia; no presentarla como asesina en serie. Víctima menor histórica (más de 100 años; nombre público)."
+      },
+      {
+        "titulo_caso": "La condena de Mike Tyson",
+        "protagonista": "Mike Tyson",
+        "fecha": "1992-02-10",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "otro",
+        "epoca": "1990-1999",
+        "resumen": "El 10 de febrero de 1992, un jurado de Indianápolis declaró al excampeón mundial de los pesos pesados Mike Tyson culpable de violar a Desiree Washington, aspirante a Miss Black America de 18 años, en una habitación de hotel en julio de 1991. Fue condenado a diez años, cuatro de ellos en suspenso, y salió en libertad condicional en 1995.",
+        "por_que": "La caída judicial del boxeador más temido del mundo.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-10/boxing-legend-convicted-of-raping-beauty-queen",
+          "https://en.wikipedia.org/wiki/Mike_Tyson"
+        ],
+        "riesgos": "Delito sexual: tratar a la víctima con respeto. Tyson mantiene que es inocente. Tipo de caso «otro» (agresión sexual)."
+      }
+    ] },
+    { "dia": 11, "candidatos": [
+      {
+        "titulo_caso": "La matanza de la embajada rusa en Teherán",
+        "protagonista": "Alexandr Griboyédov (víctima)",
+        "fecha": "1829-02-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Irán (Persia)",
+        "region": "oriente_medio",
+        "tipo_caso": "historico",
+        "epoca": "siglo XIX",
+        "resumen": "El 11 de febrero de 1829, una multitud asaltó la legación rusa en Teherán, que había dado refugio a un eunuco y dos mujeres armenias huidos de harenes persas. Murieron el embajador, el dramaturgo Alexandr Griboyédov, y casi todo su personal; su cuerpo, mutilado, solo pudo identificarse por una vieja herida de duelo en una mano.",
+        "por_que": "Un escritor célebre linchado en plena misión diplomática, en un crimen que pudo desatar una guerra.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Alexander_Griboyedov",
+          "https://www.iranicaonline.org/articles/griboedov-alexander-sergeevich"
+        ],
+        "riesgos": "Fecha del calendario gregoriano (30 de enero en el juliano ruso). Violencia de masas sin juicio; hay versiones enfrentadas sobre la responsabilidad (clérigos, la corte persa, agentes británicos)."
+      },
+      {
+        "titulo_caso": "Los atentados contra Ramos-Horta y Xanana Gusmão",
+        "protagonista": "Alfredo Reinado y sus hombres",
+        "fecha": "2008-02-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Timor Oriental",
+        "region": "asia",
+        "tipo_caso": "magnicidio",
+        "epoca": "2000-2009",
+        "resumen": "En la madrugada del 11 de febrero de 2008, soldados rebeldes atacaron la residencia del presidente de Timor Oriental, José Ramos-Horta, premio Nobel de la Paz, que recibió varios disparos y sobrevivió tras ser evacuado a Darwin. El líder rebelde Alfredo Reinado murió en el asalto, y el convoy del primer ministro Xanana Gusmão fue atacado esa misma mañana.",
+        "por_que": "Un premio Nobel de la Paz tiroteado en su casa por militares amotinados.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/2008_East_Timorese_assassination_attempts",
+          "https://news.bbc.co.uk/2/hi/asia-pacific/7238142.stm",
+          "https://www.abc.net.au/news/2008-02-11/ramos-horta-in-darwin-for-treatment/1039368"
+        ],
+        "riesgos": "Magnicidio frustrado (la víctima sobrevivió). Hay que comprobar en la ficha el juicio de 2010 y los indultos posteriores. Falta un candidato de España/Hispanoamérica o Europa para este día."
+      }
+    ] },
+    { "dia": 12, "candidatos": [
+      {
+        "titulo_caso": "El robo de «El grito» de Munch",
+        "protagonista": "Pål Enger y sus cómplices",
+        "fecha": "1994-02-12",
+        "tipo_efemeride": "golpe",
+        "pais": "Noruega",
+        "region": "europa",
+        "tipo_caso": "golpe",
+        "epoca": "1990-1999",
+        "resumen": "En la mañana del 12 de febrero de 1994, día de la inauguración de los Juegos Olímpicos de Lillehammer, dos hombres entraron con una escalera por una ventana de la Galería Nacional de Oslo y se llevaron «El grito» de Edvard Munch en menos de un minuto, dejando una nota burlona. El cuadro se recuperó intacto el 7 de mayo gracias a una operación encubierta con policías británicos; los condenados, entre ellos Pål Enger, quedaron libres en apelación porque los agentes habían entrado en Noruega con identidades falsas.",
+        "por_que": "El robo más descarado del arte moderno, con escalera, nota de burla y final de novela de espías.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/The_Scream",
+          "https://news.bbc.co.uk/onthisday/hi/dates/stories/february/12/newsid_3591000/3591994.stm",
+          "https://www.nytimes.com/1996/01/18/world/world-news-briefs-4-norwegians-guilty-in-theft-of-the-scream.html"
+        ],
+        "riesgos": "Las condenas se anularon en apelación por defectos de forma: no presentar a los acusados como culpables firmes."
+      },
+      {
+        "titulo_caso": "El asesinato de Sal Mineo",
+        "protagonista": "Lionel Ray Williams (condenado)",
+        "fecha": "1976-02-12",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "La noche del 12 de febrero de 1976, el actor Sal Mineo, candidato dos veces al Óscar por «Rebelde sin causa» y «Éxodo», murió apuñalado en el aparcamiento de su casa de West Hollywood. Tras meses de especulaciones, en 1979 fue condenado Lionel Ray Williams, un repartidor de pizzas detenido por otros robos, a 51 años de prisión por este crimen y diez atracos.",
+        "por_que": "La muerte absurda de un ídolo de Hollywood, resuelta casi por casualidad años después.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-12/actor-sal-mineo-is-killed-in-hollywood",
+          "https://www.nytimes.com/1976/02/14/archives/sal-mineo-knifed-to-death-in-hollywood-study-drug-angle-broadway.html",
+          "https://en.wikipedia.org/wiki/Sal_Mineo"
+        ],
+        "riesgos": "Williams ha sostenido siempre su inocencia y hay artículos que cuestionan la condena: mencionarlo con cautela."
+      },
+      {
+        "titulo_caso": "El hallazgo de Jorge Matute Johns",
+        "protagonista": "Jorge Matute Johns (víctima)",
+        "fecha": "2004-02-12",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Chile",
+        "region": "hispanoamerica",
+        "tipo_caso": "sin_resolver",
+        "epoca": "2000-2009",
+        "resumen": "Jorge Matute Johns, estudiante de 23 años, desapareció en noviembre de 1999 tras salir de la discoteca La Cucaracha, en Talcahuano. El 12 de febrero de 2004 se hallaron sus restos a orillas del río Biobío, junto a la Autopista de la Madera. En 2015 se fijó como causa de muerte un envenenamiento con pentobarbital, pero nadie ha sido condenado.",
+        "por_que": "Cuatro años de búsqueda y dos décadas sin culpables: el gran caso sin resolver del sur de Chile.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Caso_Matute_Johns",
+          "https://web.archive.org/web/2/http://www.elsur.cl/base_elsur/site/artic/20101119/pags/20101119003700.html"
+        ],
+        "riesgos": "PENDIENTE: la segunda fuente (diario El Sur) no se pudo abrir. Sin condena: hubo sospechosos que no deben señalarse como culpables. Comprobar el estado judicial actual: la Wikipedia solo llega a 2018 (causa reabierta en 2014); si hay proceso abierto, descartarlo. La familia ha sido muy activa en los medios."
+      }
+    ] },
+    { "dia": 13, "candidatos": [
+      {
+        "titulo_caso": "La detención de Mata Hari",
+        "protagonista": "Margaretha Zelle, «Mata Hari»",
+        "fecha": "1917-02-13",
+        "tipo_efemeride": "detencion",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1910-1919",
+        "resumen": "El 13 de febrero de 1917, la policía francesa detuvo en su habitación del hotel Elysée Palace de París a la bailarina neerlandesa Margaretha Zelle, conocida como Mata Hari, acusada de espiar para Alemania. Un consejo de guerra la condenó en julio y fue fusilada en Vincennes el 15 de octubre de 1917. Los historiadores creen hoy que se la usó como chivo expiatorio y que su espionaje fue irrelevante.",
+        "por_que": "La espía más famosa de la historia fue probablemente una cabeza de turco.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Mata_Hari",
+          "https://www.biography.com/history-culture/mata-hari"
+        ],
+        "riesgos": "Su culpabilidad se discute: presentarlo como condena polémica, no como error judicial probado."
+      },
+      {
+        "titulo_caso": "La condena de Bruno Hauptmann por el caso Lindbergh",
+        "protagonista": "Bruno Richard Hauptmann",
+        "fecha": "1935-02-13",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "secuestro",
+        "epoca": "1930-1939",
+        "resumen": "El 13 de febrero de 1935, tras un juicio de seis semanas en Flemington (Nueva Jersey), el carpintero alemán Bruno Hauptmann fue declarado culpable del secuestro y asesinato del hijo de 20 meses del aviador Charles Lindbergh, raptado en 1932, y condenado a muerte. Fue ejecutado en 1936 sin dejar de proclamar su inocencia.",
+        "por_que": "El «juicio del siglo» que cambió las leyes de secuestro en EE. UU. y aún genera dudas.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lindbergh_kidnapping",
+          "https://www.pbs.org/wgbh/americanexperience/features/lindbergh-kidnapping/",
+          "https://es.wikipedia.org/wiki/13_de_febrero"
+        ],
+        "riesgos": "Víctima bebé (el caso se conoce por el apellido de la familia). Hay autores que sostienen la inocencia de Hauptmann. Falta un candidato de España/Hispanoamérica para este día."
+      }
+    ] },
+    { "dia": 14, "candidatos": [
+      {
+        "titulo_caso": "La muerte de Alicia Muñiz",
+        "protagonista": "Carlos Monzón (condenado)",
+        "fecha": "1988-02-14",
+        "tipo_efemeride": "crimen",
+        "pais": "Argentina",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "La madrugada del 14 de febrero de 1988, en una casa de Mar del Plata, el excampeón mundial de boxeo Carlos Monzón mató a su expareja Alicia Muñiz, que cayó desde un balcón tras una discusión. Monzón sostuvo que había sido un accidente, pero en julio de 1989 fue condenado a once años de prisión por homicidio simple; murió en 1995 en un accidente de tráfico durante una salida transitoria.",
+        "por_que": "El primer feminicidio mediático de Argentina, cometido por un ídolo nacional.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Carlos_Monz%C3%B3n",
+          "https://www.clarin.com/sociedad/jueza-caso-monzon-30-años-despues-solo-mujeres-salvamos-mujeres_0_UFyGCGAS5.html"
+        ],
+        "riesgos": "PENDIENTE: la segunda fuente (Clarín, citada por la Wikipedia) no se pudo abrir. Violencia de género: tratar a la víctima con respeto; su hijo Maximiliano tiene presencia pública."
+      },
+      {
+        "titulo_caso": "La matanza de San Valentín",
+        "protagonista": "Banda de Al Capone (atribuida)",
+        "fecha": "1929-02-14",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1920-1929",
+        "resumen": "La mañana del 14 de febrero de 1929, en un garaje de North Clark Street (Chicago), hombres vestidos de policía pusieron contra la pared a siete miembros y colaboradores de la banda de George «Bugs» Moran y los mataron a tiros. Se atribuyó a la banda de Al Capone, pero nadie fue condenado por la matanza.",
+        "por_que": "El crimen que convirtió a Al Capone en enemigo público y marcó el principio del fin de su imperio.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-14/the-st-valentines-day-massacre",
+          "https://en.wikipedia.org/wiki/Saint_Valentine%27s_Day_Massacre"
+        ],
+        "riesgos": "Nadie fue condenado: la autoría de Capone es la tesis más extendida, no un hecho probado en juicio."
+      },
+      {
+        "titulo_caso": "La muerte de Reeva Steenkamp",
+        "protagonista": "Oscar Pistorius",
+        "fecha": "2013-02-14",
+        "tipo_efemeride": "crimen",
+        "pais": "Sudáfrica",
+        "region": "africa",
+        "tipo_caso": "asesinato",
+        "epoca": "2010-2019",
+        "resumen": "La madrugada del 14 de febrero de 2013, el atleta paralímpico Oscar Pistorius mató a tiros a su novia, la modelo Reeva Steenkamp, disparando cuatro veces a través de la puerta cerrada del baño de su casa de Pretoria; dijo que la confundió con un intruso. Condenado primero por homicidio imprudente, en apelación lo fue por asesinato y en 2017 la pena se elevó a 13 años y 5 meses; obtuvo la libertad condicional en enero de 2024.",
+        "por_que": "El «Blade Runner» olímpico pasó de héroe mundial a condenado por asesinato.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Oscar_Pistorius",
+          "https://es.wikipedia.org/wiki/14_de_febrero"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE INDEPENDIENTE (las dos son Wikipedia; BBC y Guardian no se podían consultar). Caso de 2013: más de 10 años, pero muy mediático y la familia Steenkamp es activa públicamente."
+      }
+    ] },
+    { "dia": 16, "candidatos": [
+      {
+        "titulo_caso": "El crimen de Barranca Yaco",
+        "protagonista": "Santos Pérez y los hermanos Reinafé",
+        "fecha": "1835-02-16",
+        "tipo_efemeride": "crimen",
+        "pais": "Argentina",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "siglo XIX",
+        "resumen": "El 16 de febrero de 1835, en Barranca Yaco (Córdoba), una partida al mando del capitán de milicias Santos Pérez emboscó la galera del caudillo riojano Juan Facundo Quiroga, que volvía de una misión de paz en el norte, y lo mató de un disparo junto a toda su comitiva. Rosas culpó a los hermanos Reinafé, que fueron ejecutados con Santos Pérez en 1837; sus enemigos acusaron al propio Rosas.",
+        "por_que": "El asesinato que inmortalizó Sarmiento en «Facundo» y que sigue alimentando la sospecha sobre quién lo ordenó.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Juan_Facundo_Quiroga",
+          "https://www.lanacion.com.ar/cultura/hallan-los-restos-de-facundo-quiroga-ocultos-en-una-boveda-de-la-recoleta-nid679317/"
+        ],
+        "riesgos": "La autoría intelectual se discute (Reinafé o Rosas). La fecha de la ejecución de los condenados (1837) debe comprobarse en la ficha."
+      },
+      {
+        "titulo_caso": "El secuestro y asesinato de Cecilia Cubas",
+        "protagonista": "Comando del Partido Patria Libre",
+        "fecha": "2005-02-16",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Paraguay",
+        "region": "hispanoamerica",
+        "tipo_caso": "secuestro",
+        "epoca": "2000-2009",
+        "resumen": "Cecilia Cubas, hija del expresidente paraguayo Raúl Cubas, fue secuestrada el 21 de septiembre de 2004 en Fernando de la Mora. Pese al pago de parte del rescate, el 16 de febrero de 2005 su cuerpo apareció enterrado en una vivienda de Ñemby. Miembros del partido izquierdista Patria Libre fueron condenados a penas de hasta 35 años; varios implicados huyeron al extranjero.",
+        "por_que": "El secuestro que conmocionó Paraguay y destapó vínculos con la guerrilla colombiana.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Cecilia_Cubas",
+          "https://www.ultimahora.com/cecilia-cubas-fue-enterrada-viva-la-fosa-segun-estudio-n504018.html"
+        ],
+        "riesgos": "COMPROBAR SI HAY PROCESOS ABIERTOS: según Última Hora quedaban acusados por juzgar y prófugos; algunos fueron juzgados más tarde o pidieron asilo en Brasil. Si queda alguna causa pendiente, descartarlo. Detalles muy duros sobre la muerte: contar sin morbo. Política (Patria Libre, FARC)."
+      }
+    ] },
+    { "dia": 17, "candidatos": [
+      {
+        "titulo_caso": "El asesinato del gran duque Sergio en el Kremlin",
+        "protagonista": "Iván Kaliáyev (Organización de Combate socialista revolucionaria)",
+        "fecha": "1905-02-17",
+        "tipo_efemeride": "crimen",
+        "pais": "Rusia",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1900-1909",
+        "resumen": "El 17 de febrero de 1905 (4 de febrero del calendario juliano), el poeta revolucionario Iván Kaliáyev lanzó una bomba de nitroglicerina contra el carruaje del gran duque Sergio Aleksándrovich, tío del zar y exgobernador de Moscú, junto a una puerta del Kremlin, y lo mató en el acto. Kaliáyev fue ahorcado meses después, tras ser visitado en prisión por la viuda del gran duque, que lo perdonó.",
+        "por_que": "Un atentado con bomba en el corazón del Kremlin y un perdón que inspiró a Camus («Los justos»).",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Grand_Duke_Sergei_Alexandrovich_of_Russia",
+          "https://es.wikipedia.org/wiki/17_de_febrero"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE INDEPENDIENTE (las dos son Wikipedia; Britannica no se pudo abrir). Fecha en calendario gregoriano. Terrorismo político."
+      },
+      {
+        "titulo_caso": "El asesinato del diputado Jaime Hurtado",
+        "protagonista": "Jaime Hurtado (víctima) / Freddy Contreras (autor material condenado)",
+        "fecha": "1999-02-17",
+        "tipo_efemeride": "crimen",
+        "pais": "Ecuador",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1990-1999",
+        "resumen": "El 17 de febrero de 1999, a una cuadra del Congreso, en Quito, el diputado Jaime Hurtado, primer afroecuatoriano en ser candidato presidencial, fue asesinado a tiros junto a su sobrino y su guardaespaldas. Varios autores materiales fueron condenados a penas cortas, pero nunca se identificó al autor intelectual; su partido lo considera un crimen de Estado y otros lo atribuyen a las FARC.",
+        "por_que": "Un triple crimen político a las puertas del Congreso que sigue sin autor intelectual.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Jaime_Hurtado",
+          "https://es.wikipedia.org/wiki/17_de_febrero"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE INDEPENDIENTE (las dos son Wikipedia). Autoría intelectual desconocida y disputada políticamente. Investigación cerrada, pero hay que comprobar que no se haya reabierto."
+      },
+      {
+        "titulo_caso": "La detención de Big Bill Haywood por el asesinato del gobernador Steunenberg",
+        "protagonista": "William «Big Bill» Haywood",
+        "fecha": "1906-02-17",
+        "tipo_efemeride": "detencion",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1900-1909",
+        "resumen": "El exgobernador de Idaho Frank Steunenberg murió el 30 de diciembre de 1905 al estallar una bomba en la puerta de su casa. El autor confeso, Harry Orchard, acusó a los líderes sindicales mineros, y el 17 de febrero de 1906 Bill Haywood, Charles Moyer y George Pettibone fueron detenidos en Denver y trasladados a Idaho sin orden de extradición. Defendido por Clarence Darrow, Haywood fue absuelto en 1907.",
+        "por_que": "El primer «juicio del siglo» de EE. UU.: un complot sindical que el jurado no creyó.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-17/the-first-trial-of-the-century",
+          "https://en.wikipedia.org/wiki/Frank_Steunenberg"
+        ],
+        "riesgos": "Haywood fue absuelto: no presentarlo como culpable. Alternativa estadounidense del mismo día: los crímenes de la familia de Jeffrey MacDonald (Fort Bragg, 17-feb-1970), solo comprobados en Wikipedia."
+      }
+    ] },
+    { "dia": 19, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Venancio Flores",
+        "protagonista": "Venancio Flores (víctima)",
+        "fecha": "1868-02-19",
+        "tipo_efemeride": "crimen",
+        "pais": "Uruguay",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "siglo XIX",
+        "resumen": "Cuatro días después de dejar el gobierno, el 19 de febrero de 1868, el caudillo colorado Venancio Flores fue emboscado en su carruaje en la calle Mercedes de Montevideo por hombres embozados que lo remataron a puñaladas, en plena revuelta blanca. Ese mismo día fue asesinado, en represalia, el expresidente blanco Bernardo Berro.",
+        "por_que": "Dos expresidentes asesinados el mismo día en Montevideo: el clímax sangriento de la rivalidad entre blancos y colorados.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Venancio_Flores",
+          "https://www.biografiasyvidas.com/biografia/f/flores_venancio.htm"
+        ],
+        "riesgos": "Biografías y Vidas no da el día explícito (dice «cuatro días» después de su dimisión del 15 de febrero). Autores materiales nunca identificados con seguridad."
+      },
+      {
+        "titulo_caso": "El atentado contra Clemenceau",
+        "protagonista": "Émile Cottin",
+        "fecha": "1919-02-19",
+        "tipo_efemeride": "crimen",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 19 de febrero de 1919, en plena Conferencia de Paz de París, el joven anarquista Émile Cottin disparó varias veces contra el coche del primer ministro Georges Clemenceau cuando salía de su casa de la calle Franklin; una bala quedó alojada cerca del pulmón, pero el «Tigre» sobrevivió. Cottin fue condenado a muerte por un consejo de guerra y la pena se le conmutó por diez años de cárcel.",
+        "por_que": "El día en que un anarquista estuvo a punto de matar al hombre que dictaba la paz de Versalles.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/%C3%89mile_Cottin",
+          "https://es.wikipedia.org/wiki/19_de_febrero"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE INDEPENDIENTE: la Wikipedia en inglés cita prensa de 1919 (New York Times, Woodville Republican) que no se pudo abrir. Atentado frustrado."
+      },
+      {
+        "titulo_caso": "La detención de Aaron Burr",
+        "protagonista": "Aaron Burr",
+        "fecha": "1807-02-19",
+        "tipo_efemeride": "detencion",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "historico",
+        "epoca": "siglo XIX",
+        "resumen": "El exvicepresidente Aaron Burr, que en 1804 había matado en duelo a Alexander Hamilton, fue detenido en Alabama el 19 de febrero de 1807 acusado de traición por una supuesta conspiración para crear una república independiente con territorios del Oeste y de la Nueva España. Juzgado en Richmond, fue absuelto el 1 de septiembre de 1807 por falta de un «acto manifiesto».",
+        "por_que": "Un exvicepresidente de EE. UU. juzgado por traición por un complot que implicaba a México.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-19/aaron-burr-arrested-for-treason",
+          "https://en.wikipedia.org/wiki/Burr_conspiracy"
+        ],
+        "riesgos": "Absuelto: no presentarlo como traidor probado."
+      }
+    ] },
+    { "dia": 20, "candidatos": [
+      {
+        "titulo_caso": "La caída de don Rodrigo Calderón",
+        "protagonista": "Rodrigo Calderón, marqués de Siete Iglesias",
+        "fecha": "1619-02-20",
+        "tipo_efemeride": "detencion",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "historico",
+        "epoca": "siglo XVII",
+        "resumen": "La noche del 20 de febrero de 1619 fue detenido en su palacio de Valladolid Rodrigo Calderón, mano derecha del duque de Lerma, valido de Felipe III, acusado de corrupción, brujería y varios asesinatos. Confesó la muerte de Francisco de Juara, pero negó el resto. Fue degollado en la Plaza Mayor de Madrid el 21 de octubre de 1621, con un aplomo que dio origen a la expresión «tener más orgullo que don Rodrigo en la horca».",
+        "por_que": "Corrupción, crimen y ejecución pública del hombre más poderoso de la corte tras el valido.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Rodrigo_Calder%C3%B3n",
+          "http://domuspucelae.blogspot.com/2011/08/historias-de-valladolid-don-rodrigo.html",
+          "https://dbe.rah.es/biografias/9805"
+        ],
+        "riesgos": "La segunda fuente es un blog de historia local; conviene confirmarlo con la ficha de la Real Academia de la Historia (dbe.rah.es), que no se pudo leer. Algunos cargos tenían probable motivación política. Anterior al siglo XVIII."
+      },
+      {
+        "titulo_caso": "La captura del «Papa» de la Mafia",
+        "protagonista": "Michele Greco",
+        "fecha": "1986-02-20",
+        "tipo_efemeride": "detencion",
+        "pais": "Italia",
+        "region": "europa",
+        "tipo_caso": "otro",
+        "epoca": "1980-1989",
+        "resumen": "El 20 de febrero de 1986, pocos días después de comenzar el Maxiproceso de Palermo, la policía capturó en una casa de campo cerca de Caccamo a Michele Greco, «il Papa», jefe de la Comisión de Cosa Nostra, buscado desde 1982. En diciembre de 1987 fue condenado a cadena perpetua en el Maxiproceso.",
+        "por_que": "La caída del jefe de la cúpula mafiosa en plena ofensiva de Falcone y Borsellino.",
+        "fuentes_fecha": [
+          "https://it.wikipedia.org/wiki/Michele_Greco",
+          "https://es.wikipedia.org/wiki/20_de_febrero"
+        ],
+        "riesgos": "PENDIENTE DE SEGUNDA FUENTE INDEPENDIENTE: las dos son Wikipedia; la italiana cita La Repubblica del 21-2-1986, que no se pudo abrir. Algunas condenas se anularon después (caso Chinnici)."
+      },
+      {
+        "titulo_caso": "El secuestro de Reg Murphy, director del Atlanta Constitution",
+        "protagonista": "William A. H. Williams",
+        "fecha": "1974-02-20",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "secuestro",
+        "epoca": "1970-1979",
+        "resumen": "El 20 de febrero de 1974, dos semanas después del secuestro de Patty Hearst, un hombre que decía querer donar 300.000 galones de gasóleo para los pobres sacó de su casa a punta de pistola a Reg Murphy, director del Atlanta Constitution. El periódico pagó 700.000 dólares de rescate y Murphy fue liberado a las 49 horas; William A. H. Williams fue detenido horas después y condenado a 40 años, aunque cumplió nueve.",
+        "por_que": "Un secuestro con coartada caritativa y un rescate pagado por la redacción.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-20/atlanta-constitution-editor-is-kidnapped",
+          "https://en.wikipedia.org/wiki/Reg_Murphy"
+        ],
+        "riesgos": ""
+      }
+    ] },
+    { "dia": 21, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Sandino",
+        "protagonista": "Anastasio Somoza García (instigador) / Guardia Nacional",
+        "fecha": "1934-02-21",
+        "tipo_efemeride": "crimen",
+        "pais": "Nicaragua",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1930-1939",
+        "resumen": "La noche del 21 de febrero de 1934, al salir de una cena con el presidente Sacasa, Augusto C. Sandino fue capturado por la Guardia Nacional y fusilado a las afueras de Managua junto a los generales Francisco Estrada y Juan Pablo Umanzor. El crimen lo ordenó Anastasio Somoza García, jefe de la Guardia y futuro dictador, que nunca fue juzgado.",
+        "por_que": "El asesinato a traición del «general de hombres libres» que abrió paso a la dictadura somocista.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Augusto_C%C3%A9sar_Sandino",
+          "https://www.ecured.cu/Augusto_C%C3%A9sar_Sandino"
+        ],
+        "riesgos": "Tema político sensible en la Nicaragua actual. Los autores nunca fueron juzgados. EcuRed es una enciclopedia estatal cubana (sesgo político), aunque la fecha es indiscutida."
+      },
+      {
+        "titulo_caso": "El asesinato de Kurt Eisner",
+        "protagonista": "Anton Graf von Arco auf Valley",
+        "fecha": "1919-02-21",
+        "tipo_efemeride": "crimen",
+        "pais": "Alemania",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 21 de febrero de 1919, cuando iba al Parlamento a anunciar su dimisión, el primer ministro socialista de Baviera, Kurt Eisner, fue abatido a tiros en una calle de Múnich por el teniente ultranacionalista Anton Graf von Arco auf Valley. Su muerte desencadenó el caos que condujo a la efímera República Soviética de Baviera; el asesino, condenado a muerte, fue indultado y salió en libertad en 1924.",
+        "por_que": "El magnicidio que radicalizó Baviera, futura cuna del nazismo, con un asesino tratado con indulgencia.",
+        "fuentes_fecha": [
+          "https://www.dhm.de/lemo/biografie/kurt-eisner",
+          "https://de.wikipedia.org/wiki/Kurt_Eisner"
+        ],
+        "riesgos": "Eisner era judío y el asesino, antisemita: tratarlo con cuidado. Con Sandino serían dos magnicidios el mismo día. Comprobar en la ficha la conmutación y la excarcelación de Arco."
+      },
+      {
+        "titulo_caso": "El asesinato de Malcolm X y los inocentes condenados",
+        "protagonista": "Talmadge Hayer; Muhammad Aziz y Khalil Islam (exonerados)",
+        "fecha": "1965-02-21",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1960-1969",
+        "resumen": "El 21 de febrero de 1965, Malcolm X fue asesinado a tiros mientras hablaba en el Audubon Ballroom de Manhattan. En 1966 fueron condenados Talmadge Hayer, que confesó, y Norman 3X Butler y Thomas 15X Johnson. En noviembre de 2021 la Fiscalía de Manhattan exoneró a estos dos últimos, ya conocidos como Muhammad Aziz y Khalil Islam, tras reconocer que se ocultaron pruebas.",
+        "por_que": "Un magnicidio célebre que resultó ser también un error judicial reconocido 56 años después.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-21/malcolm-x-assassinated",
+          "https://en.wikipedia.org/wiki/Assassination_of_Malcolm_X"
+        ],
+        "riesgos": "Implica a la Nación del Islam, al FBI y a la policía de Nueva York. En 2024 la familia presentó una demanda civil contra FBI, CIA y NYPD que puede seguir abierta (no afecta a la parte penal). Khalil Islam fue exonerado a título póstumo."
+      }
+    ] },
+    { "dia": 23, "candidatos": [
+      {
+        "titulo_caso": "El secuestro de Fangio en La Habana",
+        "protagonista": "Movimiento 26 de Julio",
+        "fecha": "1958-02-23",
+        "tipo_efemeride": "crimen",
+        "pais": "Cuba",
+        "region": "hispanoamerica",
+        "tipo_caso": "secuestro",
+        "epoca": "1950-1959",
+        "resumen": "La víspera del Gran Premio de Cuba, el 23 de febrero de 1958, un comando del Movimiento 26 de Julio secuestró a punta de pistola en el vestíbulo del hotel Lincoln de La Habana al pentacampeón argentino Juan Manuel Fangio, para dejar en evidencia al régimen de Batista. Lo liberaron ileso unas 26 horas después, ya disputada la carrera.",
+        "por_que": "El secuestro más mediático del automovilismo, en plena revolución cubana, con un rehén que acabó entendiéndose con sus captores.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-23/formula-one-champ-kidnapped",
+          "https://es.wikipedia.org/wiki/23_de_febrero"
+        ],
+        "riesgos": "Secuestro político sin víctimas. Sus organizadores nunca fueron juzgados y luego ocuparon cargos en la Cuba revolucionaria."
+      },
+      {
+        "titulo_caso": "El hombre al que no pudieron ahorcar",
+        "protagonista": "John «Babbacombe» Lee",
+        "fecha": "1885-02-23",
+        "tipo_efemeride": "condena",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "siglo XIX",
+        "resumen": "El 23 de febrero de 1885, en la prisión de Exeter, el verdugo James Berry intentó varias veces ahorcar a John Lee, condenado por asesinar a su patrona, Emma Keyse, en Babbacombe, pero la trampilla del patíbulo no se abrió. El ministro del Interior le conmutó la pena por cadena perpetua y Lee salió en libertad en 1907.",
+        "por_que": "Un fallo del patíbulo que lo convirtió en leyenda, con dudas sobre su culpabilidad.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-23/a-remarkable-reprieve-for-a-man-sent-to-the-gallows",
+          "https://en.wikipedia.org/wiki/John_Babbacombe_Lee"
+        ],
+        "riesgos": "La efeméride (la ejecución fallida) se ha encajado en «condena». Fuentes discrepantes sobre su edad (19 o 20 años; adulto en cualquier caso) y sobre el número de intentos (dos o tres)."
+      },
+      {
+        "titulo_caso": "La conspiración de Cato Street",
+        "protagonista": "Arthur Thistlewood",
+        "fecha": "1820-02-23",
+        "tipo_efemeride": "detencion",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "siglo XIX",
+        "resumen": "La noche del 23 de febrero de 1820, los Bow Street Runners irrumpieron en un altillo de Cato Street (Londres) donde Arthur Thistlewood y otros conjurados se preparaban para asesinar a todo el gabinete británico durante una cena; un agente murió en la refriega. El complot había sido alentado por un infiltrado del Gobierno. Cinco conspiradores fueron ahorcados y decapitados el 1 de mayo de 1820 y otros cinco, deportados.",
+        "por_que": "El plan para descabezar al Gobierno británico de un golpe, delatado por un espía infiltrado.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Cato_Street_Conspiracy",
+          "https://www.oldbaileyonline.org/record/t18200416-1"
+        ],
+        "riesgos": "PENDIENTE: el acta del juicio en Old Bailey Online no se ha abierto (la URL se ha tomado de las referencias de la Wikipedia). Sería el segundo caso británico del día."
+      }
+    ] },
+    { "dia": 24, "candidatos": [
+      {
+        "titulo_caso": "El secuestro de Emiliano Revilla",
+        "protagonista": "ETA (comando Madrid)",
+        "fecha": "1988-02-24",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "La noche del 24 de febrero de 1988, cuatro encapuchados del comando Madrid de ETA secuestraron en el portal de su casa del paseo de Cristo Rey, en Madrid, al empresario soriano Emiliano Revilla, fundador de la marca de embutidos. Pasó 249 días en un zulo hasta su liberación, el 30 de octubre de 1988, tras el pago de un rescate millonario. En 1996 la Audiencia Nacional condenó a tres miembros chilenos del MIR por colaborar en el secuestro.",
+        "por_que": "Uno de los secuestros más largos de ETA, en pleno centro de Madrid.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Emiliano_Revilla",
+          "https://elpais.com/diario/1988/02/25/espana/572742003_850215.html"
+        ],
+        "riesgos": "Terrorismo: delicado para la víctima y su familia. Uno de los condenados, Gonzalo Boye, es hoy un abogado conocido: citar solo lo documentado. La cifra del rescate varía según la fuente."
+      },
+      {
+        "titulo_caso": "El asesinato del primer ministro egipcio en el Parlamento",
+        "protagonista": "Mahmud el Issawi",
+        "fecha": "1945-02-24",
+        "tipo_efemeride": "crimen",
+        "pais": "Egipto",
+        "region": "oriente_medio",
+        "tipo_caso": "magnicidio",
+        "epoca": "1940-1949",
+        "resumen": "El 24 de febrero de 1945, el primer ministro egipcio Ahmed Maher Pasha fue asesinado a tiros en el salón faraónico que une las dos cámaras del Parlamento de El Cairo, justo después de anunciar la declaración de guerra al Eje. El autor, el joven nacionalista Mahmud el Issawi, fue condenado a muerte y murió en agosto de 1945 en huelga de hambre.",
+        "por_que": "Un magnicidio en pleno hemiciclo, en el ocaso de la Segunda Guerra Mundial.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Ahmad_Mahir_Pasha",
+          "https://www.nytimes.com/1945/02/25/archives/egyptian-premier-slain-in-chamber-dies-of-wounds.html"
+        ],
+        "riesgos": "Egipto clasificado como «oriente_medio»; podría ir en «africa». Violencia política."
+      },
+      {
+        "titulo_caso": "Los cinco de Yuba County",
+        "protagonista": "Gary Mathias, Jack Madruga, Jackie Huett, Ted Weiher y Bill Sterling (víctimas)",
+        "fecha": "1978-02-24",
+        "tipo_efemeride": "desaparicion",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "desaparicion",
+        "epoca": "1970-1979",
+        "resumen": "La noche del 24 de febrero de 1978, cinco amigos de Yuba City (California) desaparecieron al volver de un partido de baloncesto universitario en Chico. Su coche apareció abandonado en una pista de montaña nevada. En junio se hallaron cuatro cuerpos en la zona, uno de ellos en un remolque forestal; el de Gary Mathias nunca apareció.",
+        "por_que": "Uno de los misterios más extraños de California: cinco hombres que se alejaron de su coche hacia la nieve.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Yuba_County_Five",
+          "https://www.washingtonpost.com/archive/lifestyle/1978/07/06/5-boys-who-never-come-back/f8b30b11-baeb-4351-89f3-26456a76a4fb"
+        ],
+        "riesgos": "No hay indicios de crimen probado: presentarlo como misterio. Las víctimas tenían discapacidad intelectual o trastornos psiquiátricos: tratarlo con respeto. Algunas partes de la Wikipedia hablan de la noche del 24 al 25 y el artículo del Washington Post no se ha abierto: comprobar el día."
+      }
+    ] },
+    { "dia": 25, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Tucapel Jiménez",
+        "protagonista": "Carlos Herrera Jiménez y agentes de la DINE",
+        "fecha": "1982-02-25",
+        "tipo_efemeride": "crimen",
+        "pais": "Chile",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 25 de febrero de 1982, el presidente de la ANEF, el gran sindicato de empleados públicos y voz crítica con Pinochet, fue abordado en el taxi que conducía por agentes de la inteligencia del Ejército, que lo mataron a tiros en un camino rural cerca de Santiago. Para encubrirlo, otros agentes asesinaron después a un carpintero, Juan Alegría Mundaca, y simularon su suicidio con una carta de confesión. En 2002 el juez Sergio Muñoz condenó a presidio perpetuo al autor material, el mayor Carlos Herrera Jiménez, y a penas menores a generales y oficiales.",
+        "por_que": "Un crimen de Estado de la dictadura chilena, con montaje de encubrimiento incluido, esclarecido veinte años después.",
+        "fuentes_fecha": [
+          "https://www.cooperativa.cl/noticias/site/artic/20100225/pags-amp/20100225123723.html",
+          "https://derechos.org/nizkor/chile/doc/tucapel.html"
+        ],
+        "riesgos": "Política sensible (dictadura). Incluye un segundo asesinato cometido para encubrir el primero. Las fuentes no coinciden en cuándo quedaron firmes las condenas (2004 o 2009): no dar ese año sin comprobarlo."
+      },
+      {
+        "titulo_caso": "La emboscada de Eger: el asesinato de Wallenstein",
+        "protagonista": "Coroneles Butler, Gordon y Leslie y el capitán Devereux",
+        "fecha": "1634-02-25",
+        "tipo_efemeride": "crimen",
+        "pais": "Bohemia (hoy República Checa)",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "siglo XVII",
+        "resumen": "El generalísimo imperial de la guerra de los Treinta Años, Albrecht von Wallenstein, acusado de traición, había sido proscrito por Fernando II. En Eger (Cheb), los coroneles Butler, Gordon y Leslie asesinaron primero en un banquete a sus oficiales de confianza y esa misma noche el capitán Devereux irrumpió en su dormitorio y lo mató con una partesana; el emperador recompensó a los asesinos.",
+        "por_que": "Banquete trampa, traición y asesinos premiados por el emperador: un crimen político barroco.",
+        "fuentes_fecha": [
+          "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wallenstein,_Albrecht_Wenzel_Eusebius_von",
+          "https://en.wikipedia.org/wiki/Albrecht_von_Wallenstein"
+        ],
+        "riesgos": "Fecha en calendario gregoriano (15 de febrero en el juliano, que usaban los protestantes). Asesinato de Estado, no un caso criminal clásico. Anterior al siglo XVIII."
+      },
+      {
+        "titulo_caso": "El asesinato de Haing S. Ngor, el actor de «Los gritos del silencio»",
+        "protagonista": "Tak Sun Tan, Indra Lim y Jason Chan (condenados)",
+        "fecha": "1996-02-25",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1990-1999",
+        "resumen": "Haing S. Ngor, médico camboyano superviviente de los campos de los Jemeres Rojos y Óscar al mejor actor de reparto por «Los gritos del silencio», fue asesinado a tiros el 25 de febrero de 1996 frente a su casa del barrio chino de Los Ángeles. Tres miembros de una banda callejera fueron condenados en 1998; según la fiscalía, fue un atraco, aunque la hipótesis de un encargo de los Jemeres Rojos nunca se descartó del todo.",
+        "por_que": "Sobrevivió al genocidio camboyano para morir en un atraco en Los Ángeles, con dudas sobre el móvil.",
+        "fuentes_fecha": [
+          "https://www.nytimes.com/1996/02/27/us/cambodian-physician-who-won-an-oscar-for-killing-fields-is-slain.html",
+          "https://www.latimes.com/entertainment/arts/culture/la-et-cm-killing-fields-haing-ngor-20130714-story.html",
+          "https://en.wikipedia.org/wiki/Haing_S._Ngor"
+        ],
+        "riesgos": "COMPROBAR LA EDAD DE LOS AUTORES: un titular de 1996 los llama «3 teens»; si alguno era menor de edad al cometer el crimen, descartar el caso."
+      }
+    ] },
+    { "dia": 26, "candidatos": [
+      {
+        "titulo_caso": "La condena de Luis Roldán, el director de la Guardia Civil fugado",
+        "protagonista": "Luis Roldán Ibáñez",
+        "fecha": "1998-02-26",
+        "tipo_efemeride": "condena",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "estafa",
+        "epoca": "1990-1999",
+        "resumen": "Primer civil al frente de la Guardia Civil (1986-1993), Roldán se enriqueció con fondos reservados y comisiones de obras. Huyó de España en abril de 1994 y fue capturado en el aeropuerto de Bangkok el 27 de febrero de 1995, tras una rocambolesca negociación en la que intervino el espía Francisco Paesa. El 26 de febrero de 1998 fue condenado a 28 años de prisión por malversación, cohecho, estafa y delitos fiscales; el Supremo elevó la pena a 31 años.",
+        "por_que": "La fuga más famosa de la España reciente terminó en una de las mayores condenas por corrupción.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Luis_Rold%C3%A1n_Ib%C3%A1%C3%B1ez",
+          "https://www.elmundo.es/1998/02/27/espana/27N0019.html"
+        ],
+        "riesgos": "PENDIENTE: la pieza de El Mundo del 27-2-1998 («Roldán, condenado») no se pudo abrir. Las fuentes discrepan sobre el tribunal (Audiencia Provincial de Madrid o Audiencia Nacional): comprobarlo. Corrupción política; Roldán murió en 2022."
+      },
+      {
+        "titulo_caso": "El incidente del 26 de febrero (Ni-Ni-Roku)",
+        "protagonista": "Oficiales jóvenes del Ejército Imperial japonés",
+        "fecha": "1936-02-26",
+        "tipo_efemeride": "crimen",
+        "pais": "Japón",
+        "region": "asia",
+        "tipo_caso": "magnicidio",
+        "epoca": "1930-1939",
+        "resumen": "En la madrugada del 26 de febrero de 1936, jóvenes oficiales ultranacionalistas sublevaron a sus tropas en Tokio y asesinaron al ministro de Finanzas Takahashi Korekiyo, al guardián del sello privado Saitō Makoto (ambos ex primeros ministros) y al general Watanabe Jōtarō; el primer ministro Okada se salvó escondido. Los rebeldes se rindieron el 29 de febrero y 19 cabecillas fueron ejecutados tras juicios a puerta cerrada.",
+        "por_que": "Una noche de magnicidios que empujó a Japón hacia el militarismo.",
+        "fuentes_fecha": [
+          "https://www.ndl.go.jp/portrait/e/datas/122",
+          "https://www.ndl.go.jp/portrait/e/datas/87",
+          "https://en.wikipedia.org/wiki/February_26_incident"
+        ],
+        "riesgos": "Golpe de Estado y violencia política: más hecho histórico que caso criminal clásico."
+      },
+      {
+        "titulo_caso": "El misterio del paso Diátlov",
+        "protagonista": "Ígor Diátlov y sus ocho compañeros (víctimas)",
+        "fecha": "1959-02-26",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Unión Soviética (hoy Rusia)",
+        "region": "europa",
+        "tipo_caso": "otro",
+        "epoca": "1950-1959",
+        "resumen": "Nueve excursionistas experimentados, liderados por el estudiante Ígor Diátlov, murieron la noche del 1 al 2 de febrero de 1959 en la ladera del Jolat Siajl, en el norte de los Urales. El 26 de febrero los equipos de rescate hallaron su tienda rajada y abandonada, y empezaron seis décadas de teorías. En 2020 la Fiscalía rusa atribuyó las muertes a un alud, y un estudio de la EPFL y la ETH de Zúrich (2021) respaldó la hipótesis de una avalancha de placa.",
+        "por_que": "El gran misterio soviético: una tienda abandonada en la nieve y nueve muertes sin explicación durante 60 años.",
+        "fuentes_fecha": [
+          "https://actu.epfl.ch/news/using-science-to-explore-a-60-year-old-russian-mys/",
+          "https://www.rbth.com/history/332434-official-cause-of-death-of-the-dyatlov-group"
+        ],
+        "riesgos": "No hay crimen probado: la conclusión oficial (2020) es una causa natural; presentarlo como misterio. Abundan las teorías conspirativas. Los Urales están en la frontera entre Europa y Asia."
+      }
+    ] },
+    { "dia": 28, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Olof Palme",
+        "protagonista": "Olof Palme (víctima)",
+        "fecha": "1986-02-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Suecia",
+        "region": "europa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1980-1989",
+        "resumen": "La noche del 28 de febrero de 1986, el primer ministro sueco Olof Palme fue tiroteado en una calle céntrica de Estocolmo cuando volvía a pie del cine con su esposa, sin escolta. Christer Pettersson fue condenado en 1989 y absuelto en apelación. En junio de 2020 la Fiscalía señaló como probable autor a Stig Engström, fallecido en 2000, y cerró el caso sin juicio.",
+        "por_que": "El gran magnicidio europeo sin culpable juzgado: 34 años de investigación para cerrar el caso sin juicio.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-28",
+          "https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme",
+          "https://es.wikipedia.org/wiki/28_de_febrero"
+        ],
+        "riesgos": "Nadie fue condenado en firme: Pettersson fue absuelto y Engström nunca fue juzgado (presunción de inocencia). History.com solo lo recoge en su lista del día, sin artículo propio."
+      },
+      {
+        "titulo_caso": "La detención de Raúl Salinas de Gortari por el caso Ruiz Massieu",
+        "protagonista": "Raúl Salinas de Gortari",
+        "fecha": "1995-02-28",
+        "tipo_efemeride": "detencion",
+        "pais": "México",
+        "region": "hispanoamerica",
+        "tipo_caso": "error_judicial",
+        "epoca": "1990-1999",
+        "resumen": "El 28 de febrero de 1995, por orden del gobierno de Ernesto Zedillo, fue detenido Raúl Salinas de Gortari, hermano mayor del expresidente Carlos Salinas, como presunto autor intelectual del asesinato de su excuñado José Francisco Ruiz Massieu, secretario general del PRI, tiroteado en septiembre de 1994. Fue condenado en 1999 y absuelto de ese crimen en 2005, tras diez años en prisión.",
+        "por_que": "Por primera vez se encarcelaba al hermano de un expresidente mexicano, y acabó absuelto diez años después.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Ra%C3%BAl_Salinas_de_Gortari",
+          "https://www.siempre.mx/2019/04/la-corte-y-los-calzones-del-presidente/"
+        ],
+        "riesgos": "Absuelto en 2005: no presentarlo como asesino (presunción de inocencia). Fecha a confirmar: la Wikipedia da el 28 de febrero en el texto pero el 1 de marzo en un pie de foto; la revista Siempre! no se ha abierto. Política sensible (PRI)."
+      },
+      {
+        "titulo_caso": "El asalto de la ATF al rancho de los davidianos",
+        "protagonista": "David Koresh y la secta de los davidianos",
+        "fecha": "1993-02-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "secta",
+        "epoca": "1990-1999",
+        "resumen": "El 28 de febrero de 1993, agentes de la ATF intentaron registrar el rancho Monte Carmelo de la secta de los davidianos de David Koresh, cerca de Waco (Texas), en busca de armas ilegales. El tiroteo dejó cuatro agentes muertos y varios davidianos (cinco o seis, según la fuente) y dio paso a un asedio de 51 días que terminó el 19 de abril con un incendio en el que murieron unas 76 personas, entre ellas Koresh y muchos niños.",
+        "por_que": "El choque entre una secta apocalíptica y el Estado más traumático de la historia de EE. UU.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/february-28/atf-raids-branch-davidian-compound",
+          "https://en.wikipedia.org/wiki/Waco_siege"
+        ],
+        "riesgos": "Cifras de muertos y responsabilidades del incendio discutidas; entre las víctimas hubo muchos menores. Tema muy politizado en EE. UU."
+      },
+      {
+        "titulo_caso": "El asesinato de la familia de Lin Yi-hsiung",
+        "protagonista": "Familia de Lin Yi-hsiung (víctimas)",
+        "fecha": "1980-02-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Taiwán",
+        "region": "asia",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1980-1989",
+        "resumen": "Hacia el mediodía del 28 de febrero de 1980, mientras el político opositor Lin Yi-hsiung estaba detenido por el incidente de Kaohsiung, su madre y sus hijas gemelas de seis años fueron asesinadas a puñaladas en su casa de Taipéi, que estaba bajo vigilancia policial; la hija mayor sobrevivió gravemente herida. El crimen, cometido en el aniversario de la matanza del 28 de febrero de 1947, sigue sin resolver.",
+        "por_que": "Un triple crimen sin resolver en plena ley marcial, con sospechas nunca aclaradas sobre el régimen.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lin_family_massacre",
+          "http://www.taipeitimes.com/News/local/archives/2000/02/03/22623"
+        ],
+        "riesgos": "Víctimas menores (no nombrarlas). Terror político bajo la ley marcial y sin autor identificado: no atribuirlo al régimen como hecho probado. El artículo del Taipei Times no se ha abierto."
+      }
+    ] }
+  ]
+}

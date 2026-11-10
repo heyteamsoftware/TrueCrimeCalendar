@@ -1,0 +1,856 @@
+{
+  "mes": 1,
+  "dias": [
+    { "dia": 1, "candidatos": [
+      {
+        "titulo_caso": "La muerte de Oscar Grant en la estación Fruitvale",
+        "protagonista": "Oscar Grant (víctima) y Johannes Mehserle (agente de BART)",
+        "fecha": "2009-01-01",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "otro",
+        "epoca": "2000-2009",
+        "resumen": "En la madrugada del 1 de enero de 2009, el agente de la policía del metro de la bahía (BART) Johannes Mehserle disparó por la espalda a Oscar Grant, de 22 años, que estaba desarmado y boca abajo en el andén de Fruitvale (Oakland). El agente alegó que quería usar la pistola táser. Fue condenado en 2010 por homicidio involuntario.",
+        "por_que": "Los vídeos de los pasajeros lo convirtieron en un caso clave sobre violencia policial, precursor de Black Lives Matter, y llegó al cine con «Fruitvale Station».",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Killing_of_Oscar_Grant",
+          "https://www.sfchronicle.com/bayarea/article/10-years-since-oscar-grant-s-death-what-13489585.php"
+        ],
+        "riesgos": "Violencia policial con fuerte carga racial y política. La condena fue por homicidio involuntario, no por asesinato: respetar ese matiz."
+      },
+      {
+        "titulo_caso": "El ataque al tren de picnic de Broken Hill",
+        "protagonista": "Gool Badsha Mahomed y Mulla Abdullah",
+        "fecha": "1915-01-01",
+        "tipo_efemeride": "crimen",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "historico",
+        "epoca": "1910-1919",
+        "resumen": "El día de Año Nuevo de 1915, dos hombres originarios de la India británica dispararon contra un tren que llevaba a unas 1.200 personas de excursión de Broken Hill a Silverton (Nueva Gales del Sur), en apoyo del Imperio otomano. Mataron a cuatro personas y murieron tras casi dos horas de tiroteo con policías y soldados.",
+        "por_que": "Un episodio casi olvidado, considerado el único combate con «el enemigo» en suelo australiano durante la Primera Guerra Mundial, y todavía discutido: ¿terrorismo o acto de guerra?",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Battle_of_Broken_Hill",
+          "https://www.abc.net.au/news/2025-01-01/broken-hill-picnic-train-1915-attack-not-terrorism/104654382",
+          "https://adb.anu.edu.au/biography/mahomed-gool-badsha-13288"
+        ],
+        "riesgos": "Una de las víctimas tenía 17 años. Hubo represalias contra la comunidad alemana y musulmana: contarlo sin estigmatizar. Fuentes: la fecha se comprobó en Wikipedia; la ABC y el Australian Dictionary of Biography se tomaron de sus referencias y no se abrieron (se agotó el cupo de búsquedas)."
+      },
+      {
+        "titulo_caso": "El asesinato del presidente Pedro Blanco Soto",
+        "protagonista": "Pedro Blanco Soto",
+        "fecha": "1829-01-01",
+        "tipo_efemeride": "crimen",
+        "pais": "Bolivia",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1820-1829",
+        "resumen": "Pocos días después de llegar a la presidencia de Bolivia, Pedro Blanco Soto fue derrocado por un levantamiento militar encabezado por José Ballivián y hecho prisionero. El 1 de enero de 1829 lo asesinó la guardia que lo custodiaba en el convento de la Recoleta de Chuquisaca (hoy Sucre). No consta ningún juicio.",
+        "por_que": "Uno de los mandatos más breves y trágicos de la historia americana: un presidente asesinado por sus propios guardianes.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Pedro_Blanco_Soto",
+          "https://historia-hispanica.rah.es/biografias/50070-pedro-blanco-soto"
+        ],
+        "riesgos": "FUENTE PENDIENTE: la fecha se comprobó en Wikipedia (artículo y efemérides del 1 de enero); la biografía de la Real Academia de la Historia no se pudo abrir. El lugar varía según la página (Chuquisaca o La Paz): revisar antes de elegirlo."
+      }
+    ] },
+    { "dia": 3, "candidatos": [
+      {
+        "titulo_caso": "El asedio de Sidney Street",
+        "protagonista": "Banda de anarquistas letones de Houndsditch",
+        "fecha": "1911-01-03",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1910-1919",
+        "resumen": "Tras el fallido robo de una joyería de Houndsditch (diciembre de 1910), en el que murieron tres policías, la policía de Londres localizó a dos miembros de la banda en el número 100 de Sidney Street. El 3 de enero de 1911, cientos de agentes y soldados de la Guardia Escocesa los cercaron; tras horas de tiroteo, el edificio ardió y los dos murieron.",
+        "por_que": "Un tiroteo urbano sin precedentes en Londres, con Winston Churchill, ministro del Interior, presente en la escena; Hitchcock lo recreó en «El hombre que sabía demasiado» (1934).",
+        "fuentes_fecha": [
+          "https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Siege-of-Sidney-Street/",
+          "https://londonremembers.com/subjects/sidney-street-siege"
+        ],
+        "riesgos": "En el juicio por Houndsditch casi todos los acusados fueron absueltos: no presentar como culpables a quienes no fueron condenados. Casi todas las fuentes dan el 3 de enero; una (London Museum) habla del 4. Relacionado con el candidato del 23 de enero (Tottenham)."
+      },
+      {
+        "titulo_caso": "La entrega de Manuel Antonio Noriega",
+        "protagonista": "Manuel Antonio Noriega",
+        "fecha": "1990-01-03",
+        "tipo_efemeride": "detencion",
+        "pais": "Panamá",
+        "region": "hispanoamerica",
+        "tipo_caso": "otro",
+        "epoca": "1990-1999",
+        "resumen": "Tras la invasión estadounidense de Panamá (20 de diciembre de 1989), el general Noriega se refugió en la Nunciatura Apostólica, que las tropas de EE. UU. cercaron con música a todo volumen. La noche del 3 de enero de 1990 salió y se entregó; fue trasladado a Miami y en 1992 fue condenado por narcotráfico.",
+        "por_que": "La captura más insólita de un gobernante latinoamericano: un dictador acusado de narcotráfico, sitiado con rock en una sede diplomática.",
+        "fuentes_fecha": [
+          "https://www.laprensani.com/2019/03/03/suplemento/la-prensa-domingo/2529610-asi-fue-la-invasion-estadounidense-a-panama-y-la-caida-de-manuel-noriega",
+          "https://www.elpais.com.co/mundo/la-historia-se-repite-lo-que-paso-un-3-de-enero-de-1990-en-panama-con-noriega-se-vive-ahora-con-maduro-en-venezuela-0312.html"
+        ],
+        "riesgos": "Caso con fuerte dimensión política y militar (la invasión causó víctimas civiles): centrarse en el proceso penal. Noriega murió en 2017."
+      },
+      {
+        "titulo_caso": "Los asesinatos del hotel Sheraton de San Salvador",
+        "protagonista": "José Rodolfo Viera, Michael Hammer y Mark Pearlman (víctimas)",
+        "fecha": "1981-01-03",
+        "tipo_efemeride": "crimen",
+        "pais": "El Salvador",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 3 de enero de 1981, el responsable de la reforma agraria salvadoreña, José Rodolfo Viera, y dos asesores sindicales estadounidenses, Michael Hammer y Mark Pearlman, fueron tiroteados mientras cenaban en el hotel Sheraton de San Salvador. La Comisión de la Verdad de la ONU identificó como autores materiales a dos miembros de la Guardia Nacional.",
+        "por_que": "Un crimen político al comienzo de la guerra civil que puso a prueba la relación entre Estados Unidos y El Salvador.",
+        "fuentes_fecha": [
+          "https://documents.un.org/doc/undoc/gen/n93/209/27/pdf/n9320927.pdf",
+          "https://jewishcurrents.org/january-3-the-school-of-the-americas",
+          "https://content.time.com/time/magazine/article/0,9171,924710,00.html"
+        ],
+        "riesgos": "Contexto de guerra civil; la autoría intelectual se atribuyó a militares y a civiles de la élite, no todos juzgados. Comprobar el resultado judicial (condenas y amnistías) antes de la ficha."
+      }
+    ] },
+    { "dia": 5, "candidatos": [
+      {
+        "titulo_caso": "La degradación del capitán Dreyfus",
+        "protagonista": "Alfred Dreyfus",
+        "fecha": "1895-01-05",
+        "tipo_efemeride": "condena",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1890-1899",
+        "resumen": "Condenado por un consejo de guerra por espiar para Alemania con pruebas falsas, el capitán Alfred Dreyfus fue degradado públicamente el 5 de enero de 1895 en el patio de la Escuela Militar de París y enviado a la isla del Diablo. El verdadero autor era el comandante Esterhazy; Dreyfus fue rehabilitado en 1906.",
+        "por_que": "El error judicial más famoso de Europa, que dividió a Francia y provocó el «J'accuse» de Zola.",
+        "fuentes_fecha": [
+          "https://www.herodote.net/dossier-254.php",
+          "https://mahj.org/fr/decouvrir-collections-betsalel/the-degradation-of-captain-dreyfus-for-selling-state-documents-53883",
+          "https://exhibits.library.duke.edu/items/show/5193"
+        ],
+        "riesgos": "El antisemitismo es central en el caso: tratarlo con rigor. La efeméride es la degradación pública, posterior a la condena de diciembre de 1894."
+      },
+      {
+        "titulo_caso": "El asesinato de la familia Yablonski",
+        "protagonista": "Joseph «Jock» Yablonski y Tony Boyle",
+        "fecha": "1970-01-05",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "El sindicalista Jock Yablonski, que había disputado la presidencia del sindicato minero UMWA a Tony Boyle, apareció asesinado junto a su esposa y su hija en su casa de Clarksville (Pensilvania) el 5 de enero de 1970; los habían matado en Nochevieja tres sicarios. La investigación demostró que Boyle había ordenado el crimen; él y otras ocho personas fueron condenados.",
+        "por_que": "Un triple crimen encargado desde la cúpula de un gran sindicato que cambió el movimiento obrero estadounidense.",
+        "fuentes_fecha": [
+          "https://www.history.com/this-day-in-history/january-5/the-united-mine-workers-killings",
+          "https://newsinteractive.post-gazette.com/thedigs/2013/04/26/murder-of-the-yablonskis/",
+          "https://en.wikipedia.org/wiki/Joseph_Yablonski"
+        ],
+        "riesgos": "La condena de Boyle se anuló en 1977, pero fue condenado de nuevo en un segundo juicio."
+      },
+      {
+        "titulo_caso": "Los sucesos de Arnedo",
+        "protagonista": "Guardia Civil y vecinos de Arnedo",
+        "fecha": "1932-01-05",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "historico",
+        "epoca": "1930-1939",
+        "resumen": "El 5 de enero de 1932, durante una concentración en la plaza de Arnedo (La Rioja) ligada a un conflicto laboral en la industria del calzado, la Guardia Civil abrió fuego contra la multitud: murieron once personas y una treintena resultaron heridas. En 1934 un tribunal militar absolvió por falta de pruebas al teniente que dio la orden de disparar.",
+        "por_que": "Una matanza que conmocionó a la Segunda República, llegó a las Cortes y llevó a pedir la destitución del general Sanjurjo como jefe de la Guardia Civil.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Arnedo_events",
+          "https://nuevecuatrouno.com/2022/01/04/sucesos-arnedo-once-muertos-historia-municipio/",
+          "https://www.elsaltodiario.com/memoria-historica/los-sucesos-de-arnedo-el-final-de-la-memoria"
+        ],
+        "riesgos": "Cifra de heridos discutida (entre 30 y 35). Tema de memoria histórica sensible; el único acusado fue absuelto."
+      }
+    ] },
+    { "dia": 6, "candidatos": [
+      {
+        "titulo_caso": "El ataque a Nancy Kerrigan",
+        "protagonista": "Nancy Kerrigan (víctima), Shane Stant y Jeff Gillooly",
+        "fecha": "1994-01-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "otro",
+        "epoca": "1990-1999",
+        "resumen": "El 6 de enero de 1994, tras un entrenamiento en el Cobo Arena de Detroit, Shane Stant golpeó con una porra extensible la pierna derecha de la patinadora Nancy Kerrigan, justo por encima de la rodilla. El ataque lo habían planeado Jeff Gillooly, exmarido de su rival Tonya Harding, y Shawn Eckardt. Harding negó conocerlo y se declaró culpable de conspirar para obstaculizar la investigación.",
+        "por_que": "Un escándalo deportivo convertido en culebrón mundial semanas antes de los Juegos Olímpicos de Lillehammer, donde Kerrigan ganó la plata.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Assault_of_Nancy_Kerrigan",
+          "https://clickondetroit.com/all-about-michigan/2019/01/06/today-in-1994-skater-nancy-kerrigan-attacked-at-detroit-ice-rink",
+          "https://www.biography.com/news/tonya-harding-nancy-kerrigan-attack"
+        ],
+        "riesgos": "Harding no fue condenada por el ataque, solo por obstaculizar la investigación: respetar ese matiz."
+      },
+      {
+        "titulo_caso": "La bomba del vuelo 2511 de National Airlines",
+        "protagonista": "Vuelo 2511 de National Airlines",
+        "fecha": "1960-01-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1960-1969",
+        "resumen": "En la madrugada del 6 de enero de 1960, un DC-6B de National Airlines que volaba de Nueva York a Miami estalló en el aire sobre Carolina del Norte; murieron las 34 personas a bordo. Los investigadores concluyeron que una carga de dinamita detonó en la cabina. Se investigó a un pasajero con un seguro de vida muy elevado, pero nadie fue acusado y el caso sigue sin resolver.",
+        "por_que": "Un misterio aéreo de la edad de oro de la aviación, con la sospecha de un atentado suicida para cobrar un seguro.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/National_Airlines_Flight_2511",
+          "https://www.starnewsonline.com/story/news/2010/01/05/50-years-later-locals-recall-mysterious-circumstances-of-nal-flight-2511-plane-crash/30818419007/",
+          "https://vault.fbi.gov/national-airlines-flight-2511/national-airlines-flight-2511-part-01/view"
+        ],
+        "riesgos": "No hay culpable oficial: el pasajero investigado (Julian Frank) solo puede presentarse como hipótesis. Fuentes: la fecha se comprobó en Wikipedia; StarNews y el archivo del FBI se tomaron de sus referencias y no se abrieron."
+      }
+    ] },
+    { "dia": 10, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Pedro Joaquín Chamorro",
+        "protagonista": "Pedro Joaquín Chamorro Cardenal",
+        "fecha": "1978-01-10",
+        "tipo_efemeride": "crimen",
+        "pais": "Nicaragua",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1970-1979",
+        "resumen": "El director del diario La Prensa y principal opositor a la dictadura de Anastasio Somoza fue asesinado a tiros de escopeta en su coche, en Managua, la mañana del 10 de enero de 1978. La autoría intelectual sigue discutida: unas fuentes la atribuyen al régimen somocista y otras a un empresario cubano residente en Nicaragua.",
+        "por_que": "Un crimen que desencadenó la insurrección contra Somoza y cambió la historia de Nicaragua.",
+        "fuentes_fecha": [
+          "https://www.ecured.cu/Pedro_Joaquín_Chamorro",
+          "https://ticotimes.net/2011/01/20/slain-publisher-s-example-still-inspires-in-nicaragua",
+          "https://nicaraguaeduca.mined.gob.ni/wp-content/uploads/2023/04/No-92-Magnicidios-y-martirios-en-la-historia-politica-de-Nicaragua.pdf"
+        ],
+        "riesgos": "Tema político muy vivo en Nicaragua (su familia está enfrentada al Gobierno actual): contrastar versiones y no atribuir la autoría sin fuentes."
+      },
+      {
+        "titulo_caso": "El asesinato de Julio Antonio Mella",
+        "protagonista": "Julio Antonio Mella",
+        "fecha": "1929-01-10",
+        "tipo_efemeride": "crimen",
+        "pais": "México / Cuba",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1920-1929",
+        "resumen": "El líder estudiantil y comunista cubano, exiliado en México, fue tiroteado la noche del 10 de enero de 1929 en el centro de la Ciudad de México mientras caminaba con la fotógrafa Tina Modotti, y murió horas después. Se apuntó al Gobierno cubano de Machado, a rivalidades dentro del comunismo y a un crimen pasional; el caso nunca se aclaró del todo.",
+        "por_que": "Un crimen con una fotógrafa célebre, espías y política internacional en el México de los años veinte.",
+        "fuentes_fecha": [
+          "https://www.ecured.cu/Julio_Antonio_Mella",
+          "https://www.cronica.com.mx/nacional/oscura-muerte-comunista-julio-antonio-mella.html",
+          "https://www.chilango.com/cultura/la-ruta-de-los-asesinatos-en-el-df/"
+        ],
+        "riesgos": "La prensa de la época acosó a Tina Modotti y llegó a detenerla: no repetir acusaciones sin base. Autoría discutida."
+      }
+    ] },
+    { "dia": 11, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Carlo Tresca",
+        "protagonista": "Carlo Tresca",
+        "fecha": "1943-01-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1940-1949",
+        "resumen": "El anarquista y periodista italiano Carlo Tresca, director de Il Martello y enemigo declarado del fascismo, la Mafia y el estalinismo, fue asesinado de un disparo en la cabeza al cruzar la Quinta Avenida de Nueva York el 11 de enero de 1943. La policía y el FBI sospecharon del mafioso Carmine Galante, pero nunca fue juzgado y el crimen sigue oficialmente sin resolver.",
+        "por_que": "Un crimen con tres sospechosos posibles (los fascistas de Mussolini, los estalinistas y la Mafia) en el Nueva York de la guerra.",
+        "fuentes_fecha": [
+          "https://www.nysun.com/article/on-the-town-analysis-of-an-unsolved-murder",
+          "https://dissentmagazine.org/article/who-killed-carlo-tresca/"
+        ],
+        "riesgos": "Galante fue solo sospechoso: presunción de inocencia."
+      },
+      {
+        "titulo_caso": "Los asesinatos de Wanda Beach",
+        "protagonista": "Marianne Schmidt y Christine Sharrock (víctimas)",
+        "fecha": "1965-01-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1960-1969",
+        "resumen": "El 11 de enero de 1965, dos amigas de 15 años fueron asesinadas en las dunas de Wanda Beach, cerca de Cronulla (Sídney); sus cuerpos aparecieron al día siguiente. Pese a décadas de investigación y a varios sospechosos, nadie ha sido acusado.",
+        "por_que": "Uno de los grandes misterios criminales de Australia, todavía sin resolver sesenta años después.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Wanda_Beach_murders",
+          "https://www.sydneycriminallawyers.com.au/blog/true-crime-six-unsolved-australian-murders-part-2/"
+        ],
+        "riesgos": "Víctimas menores (15 años); sus nombres son públicos y forman parte de la historia del caso (más de 60 años). Evitar detalles gráficos. No nombrar sospechosos como culpables."
+      },
+      {
+        "titulo_caso": "Violette Nozière, la parricida de París",
+        "protagonista": "Violette Nozière",
+        "fecha": "1915-01-11",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "envenenamiento",
+        "epoca": "1930-1939",
+        "resumen": "Nacida el 11 de enero de 1915 en Neuvy-sur-Loire, Violette Nozière envenenó a sus padres con un somnífero en agosto de 1933, a los 18 años: el padre murió y la madre sobrevivió. Condenada a muerte en 1934, la pena le fue conmutada; salió en libertad en 1945 y fue rehabilitada en 1963.",
+        "por_que": "Un caso que obsesionó a la Francia de entreguerras: los surrealistas le dedicaron un libro y Claude Chabrol, una película.",
+        "fuentes_fecha": [
+          "https://fr.wikipedia.org/wiki/Violette_Nozière",
+          "https://gallica.bnf.fr/ark:/12148/bpt6k627839j.langFR"
+        ],
+        "riesgos": "FUENTE PENDIENTE: la fecha de nacimiento solo se comprobó en Wikipedia francesa; la segunda URL (Le Petit Parisien, 2-9-1933, en Gallica) documenta el caso, no el nacimiento. Tenía 18 años (menor según la ley francesa de 1933, con la mayoría de edad a los 21; adulta según el criterio actual). Alegó abusos del padre: tratarlo con cuidado."
+      }
+    ] },
+    { "dia": 12, "candidatos": [
+      {
+        "titulo_caso": "El crimen de Fago",
+        "protagonista": "Santiago Mainar (condenado) y Miguel Grima (víctima)",
+        "fecha": "2007-01-12",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "asesinato",
+        "epoca": "2000-2009",
+        "resumen": "La tarde del 12 de enero de 2007, el alcalde de Fago (Huesca), Miguel Grima, fue asesinado de un disparo en la pista forestal por la que volvía de Jaca, en un pequeño pueblo del Pirineo dividido por viejos enfrentamientos. Su vecino Santiago Mainar fue condenado a 20 años y 9 meses de prisión; el Tribunal Supremo confirmó la sentencia en 2010.",
+        "por_que": "Un crimen rural con aire de wéstern en un pueblo diminuto; el condenado confesó y después negó su autoría.",
+        "fuentes_fecha": [
+          "https://www.legaltoday.com/practica-juridica/derecho-penal/penal/el-ts-confirma-la-condena-para-mainar-por-el-crimen-de-fago-2010-11-10/",
+          "https://www.escapadarural.com/blog/el-crimen-que-destapo-un-paraiso-rural/",
+          "https://www.publico.es/sociedad/fago-crimen-pueblo-tierra.html"
+        ],
+        "riesgos": "Sentencia firme, pero el condenado sigue negando los hechos: no añadir especulaciones. Vecinos del pueblo aún vivos."
+      },
+      {
+        "titulo_caso": "La matanza de Casas Viejas",
+        "protagonista": "Capitán Manuel Rojas y vecinos de Casas Viejas",
+        "fecha": "1933-01-12",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "historico",
+        "epoca": "1930-1939",
+        "resumen": "En enero de 1933 una insurrección anarquista en Casas Viejas (Cádiz) fue sofocada por guardias de asalto y guardias civiles. En la madrugada del 12 de enero incendiaron la choza de «Seisdedos» con sus ocupantes dentro y, a continuación, fusilaron a una docena de vecinos detenidos. El capitán Manuel Rojas fue condenado en 1934, aunque la pena se le redujo después.",
+        "por_que": "Una masacre que hundió al Gobierno de Azaña y marcó la Segunda República.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/January_12",
+          "https://www.enciclopedia.cat/gran-enciclopedia-catalana/fets-de-casas-viejas",
+          "https://www.eldebate.com/historia/20230110/masacre-casas-viejas-acabo-manuel-azana_84567.html"
+        ],
+        "riesgos": "Los sucesos se extendieron del 10 al 12 de enero; el 12 corresponde al incendio y los fusilamientos. Cifra de muertos discutida según la fuente y relato muy politizado. Coincide en día con Fago (otro caso español)."
+      },
+      {
+        "titulo_caso": "Ruth Snyder, la ejecución fotografiada",
+        "protagonista": "Ruth Snyder y Judd Gray",
+        "fecha": "1928-01-12",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1920-1929",
+        "resumen": "En marzo de 1927, Ruth Snyder y su amante, Judd Gray, mataron al marido de ella, Albert Snyder, en su casa de Queens (Nueva York), en parte para cobrar un seguro de vida. Ambos fueron condenados a muerte y ejecutados en la silla eléctrica de Sing Sing el 12 de enero de 1928. Un fotógrafo fotografió a escondidas la ejecución de Snyder, y la imagen ocupó la portada del Daily News.",
+        "por_que": "El caso que inspiró «Perdición» (Double Indemnity) y una de las fotos de prensa más polémicas del siglo XX.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Ruth_Snyder",
+          "https://www.americanheritage.com/she-had-die",
+          "https://daily.jstor.org/historys-most-notorious-true-crime-story/"
+        ],
+        "riesgos": "La fecha es la de la ejecución; como el formato no tiene el tipo «ejecución», se ha marcado como «condena». No describir la foto con morbo. Fuentes: la fecha se comprobó en Wikipedia; American Heritage y JSTOR Daily se tomaron de sus referencias y no se abrieron."
+      }
+    ] },
+    { "dia": 13, "candidatos": [
+      {
+        "titulo_caso": "El robo del siglo (Banco Río de Acassuso)",
+        "protagonista": "Banda de Luis Mario Vitette Sellanes",
+        "fecha": "2006-01-13",
+        "tipo_efemeride": "golpe",
+        "pais": "Argentina",
+        "region": "hispanoamerica",
+        "tipo_caso": "golpe",
+        "epoca": "2000-2009",
+        "resumen": "El 13 de enero de 2006, una banda entró en la sucursal del Banco Río de Acassuso (San Isidro), simuló durante horas una toma de rehenes y, mientras negociaba con la policía, vació 147 cajas de seguridad y escapó por un túnel. El botín se estimó en unos 19 millones de dólares. Cuatro de los autores fueron condenados a penas de entre 9 y 15 años.",
+        "por_que": "Un golpe sin disparos ni heridos, con un plan casi cinematográfico y un mensaje burlón para la policía; llevado al cine en 2020.",
+        "fuentes_fecha": [
+          "https://www.infobae.com/2007/01/14/296360-a-un-ano-del-golpe-del-siglo-el-robo-al-banco-rio/",
+          "https://www.lanacion.com.ar/seguridad/a-14-anos-del-robo-del-siglo-nid2323525",
+          "https://www.lacapitalmdp.com/robo-del-siglo-a-18-anos-de-un-plan-casi-perfecto/"
+        ],
+        "riesgos": "Cifras del botín y del número de autores variables según la fuente. Varios autores ya cumplieron condena y hablan en público."
+      },
+      {
+        "titulo_caso": "El asesinato de Sylvanus Olympio",
+        "protagonista": "Sylvanus Olympio",
+        "fecha": "1963-01-13",
+        "tipo_efemeride": "crimen",
+        "pais": "Togo",
+        "region": "africa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1960-1969",
+        "resumen": "El primer presidente del Togo independiente fue asesinado el 13 de enero de 1963 frente a la embajada de Estados Unidos en Lomé, durante un golpe de Estado de exsoldados. Étienne (después Gnassingbé) Eyadéma, que años más tarde gobernó el país durante décadas, afirmó haber disparado, aunque los detalles siguen discutidos.",
+        "por_que": "El primer presidente asesinado en un golpe militar en el África subsahariana poscolonial.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/1963_Togolese_coup_d%27%C3%A9tat",
+          "https://fr.apanews.net/news/13-janvier-en-afrique-coups-detat-diplomatie-et-traditions-culturelles/",
+          "https://www.cidob.org/lider-politico/gnassingbe-eyadema"
+        ],
+        "riesgos": "Nadie fue juzgado y la autoría material sigue discutida. Tema político sensible en Togo, donde la familia Gnassingbé ha seguido en el poder."
+      }
+    ] },
+    { "dia": 16, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Laurent-Désiré Kabila",
+        "protagonista": "Laurent-Désiré Kabila y Rachidi Kasereka",
+        "fecha": "2001-01-16",
+        "tipo_efemeride": "crimen",
+        "pais": "República Democrática del Congo",
+        "region": "africa",
+        "tipo_caso": "magnicidio",
+        "epoca": "2000-2009",
+        "resumen": "El presidente de la República Democrática del Congo fue tiroteado el 16 de enero de 2001 en su despacho del Palacio de Mármol de Kinshasa por un guardaespaldas, Rachidi Kasereka, que murió abatido poco después. En 2003 un tribunal militar condenó a muerte a decenas de acusados, entre ellos el coronel Eddy Kapend, en un juicio muy criticado.",
+        "por_que": "Un magnicidio en plena guerra del Congo cuya autoría intelectual nunca se ha aclarado.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Assassination_of_Laurent-D%C3%A9sir%C3%A9_Kabila",
+          "https://www.larousse.fr/archives/journaux_annee/2002/1/republique_democratique_du_congo_kabila_tue_par_ses_enfants",
+          "https://www.thenewhumanitarian.org/fr/node/229686"
+        ],
+        "riesgos": "Juicio cuestionado por organizaciones de derechos humanos; versiones contradictorias sobre el autor material y cifras de condenados variables según la fuente."
+      },
+      {
+        "titulo_caso": "El asesinato de Ennis Cosby",
+        "protagonista": "Ennis Cosby (víctima) y Mikail Markhasev",
+        "fecha": "1997-01-16",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1990-1999",
+        "resumen": "El hijo de Bill Cosby fue asesinado de un disparo el 16 de enero de 1997 mientras cambiaba una rueda pinchada en una carretera oscura junto a Bel Air (Los Ángeles). Mikail Markhasev, de 18 años, fue declarado culpable en 1998 de asesinato e intento de robo y condenado a cadena perpetua; en 2001 reconoció el crimen.",
+        "por_que": "Un crimen al azar que golpeó a una de las familias más famosas de EE. UU.; las cartas que el autor escribió desde la cárcel fueron clave.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Murder_of_Ennis_Cosby",
+          "https://www.history.com/this-day-in-history/entertainer-bill-cosbys-son-murdered-along-ca-interstate",
+          "https://www.cbsnews.com/news/guilty-verdict-in-cosby-murder"
+        ],
+        "riesgos": "La fama y las polémicas posteriores del padre pueden eclipsar el caso: centrarse en la víctima."
+      }
+    ] },
+    { "dia": 18, "candidatos": [
+      {
+        "titulo_caso": "El secuestro de Andrés Pastrana",
+        "protagonista": "Andrés Pastrana y Los Extraditables",
+        "fecha": "1988-01-18",
+        "tipo_efemeride": "crimen",
+        "pais": "Colombia",
+        "region": "hispanoamerica",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "El 18 de enero de 1988, el entonces candidato a la alcaldía de Bogotá Andrés Pastrana fue secuestrado por Los Extraditables, el grupo de Pablo Escobar, para presionar al Gobierno contra la extradición de narcotraficantes a EE. UU. Una semana después la policía lo encontró en una finca de El Retiro (Antioquia). Pastrana fue después alcalde y presidente de Colombia.",
+        "por_que": "Un episodio clave de la guerra de Escobar contra la extradición, el mismo mes en que fue asesinado el procurador general Carlos Mauro Hoyos.",
+        "fuentes_fecha": [
+          "https://www.biografiasyvidas.com/biografia/p/pastrana.htm",
+          "https://www.elcolombiano.com/blogs/casillerodeletras/?p=10398",
+          "https://www.cidob.org/lider-politico/andres-pastrana-arango"
+        ],
+        "riesgos": "Narcoterrorismo: evitar glamurizar a Escobar. Un miembro del cartel aceptó la autoría material."
+      },
+      {
+        "titulo_caso": "El secuestro de Cesare Casella",
+        "protagonista": "Cesare Casella (víctima)",
+        "fecha": "1988-01-18",
+        "tipo_efemeride": "crimen",
+        "pais": "Italia",
+        "region": "europa",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "La tarde del 18 de enero de 1988, Cesare Casella, un estudiante de 18 años hijo de un concesionario de coches de Pavía, fue secuestrado y llevado a las montañas del Aspromonte (Calabria). Pasó 743 días encadenado hasta su liberación a finales de enero de 1990, tras el pago de un rescate. Su madre, Angela, recorrió Calabria pidiendo su libertad y fue apodada «mamma coraggio».",
+        "por_que": "Uno de los secuestros más largos de Italia y símbolo de la «industria» del secuestro de los clanes calabreses.",
+        "fuentes_fecha": [
+          "https://www.ilgiorno.it/pavia/cronaca/cesare-casella-rapimento-2e02050a",
+          "https://www.quotidiano.net/cronaca/cesare-casella-padre-morto-intervista-ac017236",
+          "https://www.liberoquotidiano.it/news/italia/20081319/cesare-casella-sequestro-giornali-tenuto-vita/"
+        ],
+        "riesgos": "Las fuentes difieren en el día de la liberación (29 o 30 de enero de 1990); en la fecha del secuestro coinciden. La víctima vive."
+      },
+      {
+        "titulo_caso": "La muerte de Luciano Re Cecconi",
+        "protagonista": "Luciano Re Cecconi (víctima) y Bruno Tabocchini",
+        "fecha": "1977-01-18",
+        "tipo_efemeride": "crimen",
+        "pais": "Italia",
+        "region": "europa",
+        "tipo_caso": "otro",
+        "epoca": "1970-1979",
+        "resumen": "El centrocampista de la Lazio, campeón de liga en 1974, murió el 18 de enero de 1977 de un disparo en una joyería de Roma. Según la versión oficial, fingió en broma un atraco y el joyero, Bruno Tabocchini, disparó. Tabocchini fue juzgado a los pocos días y absuelto por legítima defensa putativa; otras versiones niegan que hubiera broma.",
+        "por_que": "Una muerte absurda en los «años de plomo», cuando el miedo a los atracos era real, y una absolución que aún se discute.",
+        "fuentes_fecha": [
+          "https://it.wikipedia.org/wiki/Luciano_Re_Cecconi",
+          "https://web.archive.org/web/20160304124902/http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=%2Farchivio%2Funi_1977_01%2F19770119_0011.pdf",
+          "http://www.ilfattoquotidiano.it/2015/01/18/re-cecconi-mistero-continua-laltra-faccia-ghedin/1345011/"
+        ],
+        "riesgos": "La versión de la «broma» la discuten compañeros del jugador: no presentarla como hecho probado. Fuentes: la fecha se comprobó en Wikipedia (italiana y española); L'Unità (19-1-1977) e Il Fatto Quotidiano se tomaron de sus referencias y no se abrieron."
+      }
+    ] },
+    { "dia": 23, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Arturo Ruiz",
+        "protagonista": "Arturo Ruiz (víctima) y José Ignacio Fernández Guaza",
+        "fecha": "1977-01-23",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "El 23 de enero de 1977, el estudiante Arturo Ruiz, de 19 años, murió de un disparo por la espalda durante una manifestación proamnistía en Madrid. El presunto autor, el ultraderechista José Ignacio Fernández Guaza, huyó de España y nunca fue juzgado; solo otro implicado fue condenado. Su muerte abrió la «semana negra» que culminó al día siguiente con la matanza de Atocha.",
+        "por_que": "Un crimen impune de la Transición, eclipsado por la matanza de Atocha.",
+        "fuentes_fecha": [
+          "https://lamarea.com/2019/01/23/arturo-ruiz-el-joven-asesinado-la-vispera-de-atocha",
+          "https://www.elsaltodiario.com/los-nombres-de-la-memoria/la-justicia-universal-busca-a-el-posturas-presunto-asesino-de-arturo-ruiz",
+          "https://rebelion.org/la-memoria-de-la-semana-negra-de-madrid-48-anos-despues-se-cometieron-crimenes-que-siguen-impunes/"
+        ],
+        "riesgos": "El presunto autor material nunca fue juzgado (presunción de inocencia). El caso prescribió en España en 2000, pero la querella argentina de justicia universal lo busca: comprobar si eso cuenta como proceso abierto. Muy ligado al candidato del 24 de enero (Atocha)."
+      },
+      {
+        "titulo_caso": "El ultraje de Tottenham",
+        "protagonista": "Paul Helfeld y Jacob Lepidus",
+        "fecha": "1909-01-23",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1900-1909",
+        "resumen": "El 23 de enero de 1909, dos inmigrantes letones robaron las nóminas de una fábrica de caucho de Tottenham (Londres) y huyeron disparando durante más de dos horas y unos diez kilómetros. Murieron el policía William Tyler y Ralph Joscelyne, un niño de 10 años, y hubo más de veinte heridos. Los dos atracadores se suicidaron antes de ser capturados.",
+        "por_que": "Una persecución de película en el Londres eduardiano, con unos 400 disparos, que anticipó el asedio de Sidney Street.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Tottenham_Outrage",
+          "http://news.bbc.co.uk/1/hi/magazine/7844916.stm"
+        ],
+        "riesgos": "Una víctima mortal era un niño de 10 años (caso de hace más de un siglo, con nombre público). Fuentes: la fecha se comprobó en Wikipedia (inglesa y efemérides en español); el artículo de la BBC (2009) se tomó de sus referencias y no se abrió. Relacionado con el candidato del 3 de enero (Sidney Street)."
+      }
+    ] },
+    { "dia": 24, "candidatos": [
+      {
+        "titulo_caso": "La matanza de Atocha",
+        "protagonista": "Abogados laboralistas de Atocha 55 (víctimas)",
+        "fecha": "1977-01-24",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "La noche del 24 de enero de 1977, un comando de ultraderecha irrumpió en el despacho de abogados laboralistas de la calle Atocha 55 (Madrid), vinculado a CC. OO. y al PCE, y disparó contra los presentes: murieron cinco personas y cuatro resultaron heridas graves. Los autores materiales fueron detenidos meses después y condenados.",
+        "por_que": "Un atentado que pudo descarrilar la Transición; el entierro multitudinario y silencioso de las víctimas aceleró la legalización del PCE.",
+        "fuentes_fecha": [
+          "https://www.publico.es/politica/matanza-atocha-crimen-plena-transicion.html",
+          "https://web.icam.es/en-la-semana-de-los-abogados-de-atocha-el-colegio-recuerda-el-perfil-mas-humano-de-las-victimas/",
+          "https://www.bib.uab.cat/socials/exposicions/40anysatocha/articles/ep170122.pdf"
+        ],
+        "riesgos": "Uno de los condenados huyó durante un permiso y nunca fue capturado; otro fue extraditado desde Brasil en 2020: comprobar que no quede ninguna causa abierta. Muy ligado al candidato del 23 de enero (Arturo Ruiz)."
+      },
+      {
+        "titulo_caso": "El caso Kerviel (Société Générale)",
+        "protagonista": "Jérôme Kerviel",
+        "fecha": "2008-01-24",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "estafa",
+        "epoca": "2000-2009",
+        "resumen": "El 24 de enero de 2008, la Société Générale anunció que un operador de 31 años, Jérôme Kerviel, había ocultado posiciones especulativas no autorizadas y que deshacerlas le había costado 4.900 millones de euros. Kerviel fue condenado por abuso de confianza y falsificación, aunque la justicia reconoció después fallos de control del propio banco.",
+        "por_que": "El mayor fraude de un operador bursátil de la historia según el Guinness, en la antesala de la crisis financiera de 2008.",
+        "fuentes_fecha": [
+          "https://guinnessworldrecords.com/world-records/87175-largest-fraud-by-a-rogue-trader",
+          "https://www.tradingsat.com/societe-generale-FR0000130809/actualites/societe-generale-jerome-kerviel-fait-mieux-que-nick-leeson-375075.html",
+          "https://www.societegenerale.com/sites/default/files/documents/proces-jk/jkerviel-10-points-uk.pdf"
+        ],
+        "riesgos": "La efeméride es el anuncio público del fraude. Kerviel sostiene que sus superiores lo toleraban y la condena civil se rebajó: presentar las dos versiones."
+      },
+      {
+        "titulo_caso": "El asesinato de Uğur Mumcu",
+        "protagonista": "Uğur Mumcu",
+        "fecha": "1993-01-24",
+        "tipo_efemeride": "crimen",
+        "pais": "Turquía",
+        "region": "oriente_medio",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1990-1999",
+        "resumen": "El periodista de investigación turco Uğur Mumcu murió el 24 de enero de 1993 en Ankara al estallar una bomba de plástico colocada en su coche, delante de su casa. Se han barajado varias hipótesis (Irán, redes paraestatales turcas, servicios secretos extranjeros), pero ninguna sentencia ha cerrado el caso.",
+        "por_que": "Un símbolo de la libertad de prensa en Turquía y un crimen político que sigue sin respuesta clara.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/U%C4%9Fur_Mumcu",
+          "https://niemanreports.org/articles/out-of-tragedy-in-turkey-emerges-a-journalistic-mission/"
+        ],
+        "riesgos": "Comprobar si hubo condenas parciales (hipótesis iraní) y si queda algún proceso abierto. Fuentes: la fecha se comprobó en Wikipedia; Nieman Reports se tomó de sus referencias y no se abrió. Región: Turquía, marcada como oriente_medio (podría contarse como Europa)."
+      }
+    ] },
+    { "dia": 26, "candidatos": [
+      {
+        "titulo_caso": "La masacre de Uchuraccay",
+        "protagonista": "Ocho periodistas peruanos y comuneros de Uchuraccay",
+        "fecha": "1983-01-26",
+        "tipo_efemeride": "crimen",
+        "pais": "Perú",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 26 de enero de 1983, ocho periodistas que iban a Huaychao (Ayacucho) a investigar la muerte de senderistas a manos de campesinos fueron asesinados por comuneros de Uchuraccay, junto con su guía. La comisión oficial presidida por Mario Vargas Llosa concluyó que los confundieron con miembros de Sendero Luminoso; las familias han cuestionado esa versión.",
+        "por_que": "La tragedia más dura del periodismo peruano y un retrato del Perú atrapado entre Sendero Luminoso y el Estado.",
+        "fuentes_fecha": [
+          "https://elcomercio.pe/peru/tristisima-historia-uchuraccay-jose-carlos-requena-noticia-492662-noticia/",
+          "https://larepublica.pe/cultural/2021/01/27/uchuraccay-38-anos-de-dolor-para-el-periodismo/",
+          "https://elcomercio.pe/bicentenario/1983-l-confirman-muerte-de-ocho-periodistas-en-uchuraccay-l-bicentenario-noticia/"
+        ],
+        "riesgos": "Responsabilidades aún discutidas; las familias llevaron el caso al sistema interamericano de derechos humanos: comprobar si hay un procedimiento pendiente. Cifras de víctimas y atacantes variables."
+      },
+      {
+        "titulo_caso": "El caso Teigin: envenenamiento en un banco de Tokio",
+        "protagonista": "Sadamichi Hirasawa",
+        "fecha": "1948-01-26",
+        "tipo_efemeride": "crimen",
+        "pais": "Japón",
+        "region": "asia",
+        "tipo_caso": "envenenamiento",
+        "epoca": "1940-1949",
+        "resumen": "El 26 de enero de 1948, un hombre que se hizo pasar por funcionario sanitario entró en una sucursal del Banco Imperial (Teigin) en Tokio y convenció a los empleados de beber un supuesto preventivo contra una epidemia: era veneno, y murieron 12 personas. El pintor Sadamichi Hirasawa fue condenado a muerte por una confesión de la que se retractó; nunca fue ejecutado y murió en prisión en 1987.",
+        "por_que": "Un envenenamiento masivo de posguerra que es también uno de los posibles errores judiciales más célebres de Japón.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Sadamichi_Hirasawa",
+          "https://www.japantimes.co.jp/news/2018/02/02/national/social-issues/teigin-incident-70-years-efforts-continue-clear-late-artists-name-1948-tokyo-mass-murder/",
+          "https://www.crimemagazine.com/mass-murder-teigin-bank"
+        ],
+        "riesgos": "Posible error judicial: su familia pidió durante décadas la revisión del juicio. Presentar la culpabilidad de Hirasawa como discutida. Número de víctimas: 12 muertos según la mayoría de fuentes."
+      },
+      {
+        "titulo_caso": "La desaparición de los niños Beaumont",
+        "protagonista": "Jane, Arnna y Grant Beaumont",
+        "fecha": "1966-01-26",
+        "tipo_efemeride": "desaparicion",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "desaparicion",
+        "epoca": "1960-1969",
+        "resumen": "El 26 de enero de 1966, Día de Australia, los hermanos Jane (9 años), Arnna (7) y Grant Beaumont (4) fueron solos en autobús a la playa de Glenelg, en Adelaida, y nunca volvieron. Varios testigos los vieron con un hombre alto y rubio. Pese a décadas de búsquedas, el caso sigue sin resolver.",
+        "por_que": "Probablemente la desaparición más célebre de Australia, que cambió la forma en que los padres dejaban solos a sus hijos.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Disappearance_of_the_Beaumont_children",
+          "https://indaily.com.au/news/2016/01/25/beaumont-mystery-remains-50-years-on",
+          "https://www.thenewdaily.com.au/news/state/sa/2018/01/22/new-search-beaumont-children"
+        ],
+        "riesgos": "Víctimas menores: sus nombres son públicos y dan nombre al caso (hace 60 años). Nadie ha sido acusado: no presentar a los sospechosos como culpables."
+      }
+    ] },
+    { "dia": 27, "candidatos": [
+      {
+        "titulo_caso": "El juicio de la Conspiración de la Pólvora",
+        "protagonista": "Guy Fawkes y los conjurados de la Pólvora",
+        "fecha": "1606-01-27",
+        "tipo_efemeride": "condena",
+        "pais": "Reino Unido (Inglaterra)",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1600-1609",
+        "resumen": "Tras el fallido intento de volar el Parlamento y al rey Jacobo I el 5 de noviembre de 1605, ocho conjurados católicos, entre ellos Guy Fawkes, fueron juzgados en Westminster el 27 de enero de 1606 y condenados a muerte por alta traición. Fueron ejecutados en los días siguientes.",
+        "por_que": "El complot más famoso de la historia de Inglaterra, que todavía se recuerda cada 5 de noviembre.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/January_27",
+          "https://en.wikipedia.org/wiki/Gunpowder_Plot"
+        ],
+        "riesgos": "FUENTE PENDIENTE: la fecha solo se comprobó en Wikipedia (dos páginas, no independientes); falta una segunda fuente. Fecha del calendario juliano, vigente en Inglaterra hasta 1752 (en el gregoriano sería el 6 de febrero)."
+      },
+      {
+        "titulo_caso": "El crimen de Alcàsser",
+        "protagonista": "Miriam, Toñi y Desirée (víctimas); Miguel Ricart y Antonio Anglés",
+        "fecha": "1993-01-27",
+        "tipo_efemeride": "hallazgo",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "asesinato",
+        "epoca": "1990-1999",
+        "resumen": "Tres adolescentes de Alcàsser (Valencia) desaparecieron el 13 de noviembre de 1992 cuando hacían autoestop hacia una discoteca de Picassent. El 27 de enero de 1993 dos apicultores hallaron sus cuerpos en un barranco cercano al pantano de Tous. Miguel Ricart fue condenado a 170 años de prisión; Antonio Anglés huyó y sigue en busca y captura.",
+        "por_que": "El crimen que transformó la televisión española y abrió el debate sobre los límites del periodismo de sucesos.",
+        "fuentes_fecha": [
+          "https://elpais.com/diario/1993/01/28/espana/728175618_850215.html",
+          "https://www.abc.es/espana/comunidad-valenciana/paso-ninas-alcasser-halladas-fosa-enero-1993-20230126090926-nt.html",
+          "https://es.wikipedia.org/wiki/Crimen_de_Alc%C3%A0sser"
+        ],
+        "riesgos": "PROBABLE EXCLUSIÓN: la causa contra Antonio Anglés sigue abierta (Juzgado de Alzira; en busca y captura y con nuevos análisis forenses autorizados en 2025). Las víctimas tenían 14 y 15 años (sus nombres son públicos y el caso tiene más de 30 años). Muy explotado con morbo: si se elige, máxima sobriedad."
+      }
+    ] },
+    { "dia": 28, "candidatos": [
+      {
+        "titulo_caso": "La Hoguera Bárbara: el asesinato de Eloy Alfaro",
+        "protagonista": "Eloy Alfaro",
+        "fecha": "1912-01-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Ecuador",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 28 de enero de 1912, una turba irrumpió en la prisión de Quito donde estaban detenidos el expresidente liberal Eloy Alfaro, su hermano Medardo, su sobrino Flavio y otros colaboradores, entre ellos el periodista Luciano Coral. Los asesinaron, arrastraron sus cuerpos por la ciudad y los quemaron en el parque de El Ejido.",
+        "por_que": "El magnicidio más brutal de la historia de Ecuador, conocido como «la Hoguera Bárbara» y conmemorado oficialmente cada año.",
+        "fuentes_fecha": [
+          "https://www.eluniverso.com/2010/01/28/1/1445/asesinato-eloy-alfaro-delgado.html",
+          "https://www.elcomercio.com/tendencias/eloy-alfaro-asesinato-conmemoracion-reparacion/",
+          "https://primicias.ec/noticias/firmas/viva-religion-abajo-masones-alfaro-final"
+        ],
+        "riesgos": "La responsabilidad intelectual sigue siendo objeto de debate político en Ecuador. Evitar detalles gráficos."
+      },
+      {
+        "titulo_caso": "La masacre de Porvenir",
+        "protagonista": "Compañía B de los Rangers de Texas y vecinos de Porvenir",
+        "fecha": "1918-01-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "historico",
+        "epoca": "1910-1919",
+        "resumen": "El 28 de enero de 1918, Rangers de Texas y rancheros locales, con soldados de caballería en las inmediaciones, sacaron de sus casas a 15 hombres y muchachos de origen mexicano en la aldea fronteriza de Porvenir (condado de Presidio) y los mataron a tiros. Un gran jurado no inculpó a nadie; cinco Rangers fueron despedidos y la compañía, disuelta.",
+        "por_que": "Una masacre racista silenciada durante casi un siglo, que alimentó la investigación de 1919 sobre los abusos de los Rangers.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Porvenir_massacre_(1918)",
+          "https://tshaonline.org/handbook/online/articles/jcp02",
+          "https://www.theguardian.com/us-news/2016/jan/22/texas-rangers-killings-us-history-life-and-death-on-the-border-mexico"
+        ],
+        "riesgos": "Dos víctimas tenían 15 años. Nadie fue condenado: hablar de responsables según las investigaciones, no de culpables. Fuentes: la fecha se comprobó en Wikipedia (inglesa y efemérides en español); el Handbook of Texas y The Guardian se tomaron de sus referencias y no se abrieron."
+      },
+      {
+        "titulo_caso": "Derek Bentley: el ahorcado inocente",
+        "protagonista": "Derek Bentley",
+        "fecha": "1953-01-28",
+        "tipo_efemeride": "condena",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1950-1959",
+        "resumen": "Derek Bentley, de 19 años y con discapacidad intelectual, fue ahorcado el 28 de enero de 1953 en la prisión de Wandsworth por la muerte del policía Sidney Miles en Croydon, aunque el disparo lo hizo su compañero, un menor de 16 años que por su edad no podía ser ejecutado. Recibió un indulto parcial en 1993 y su condena fue anulada en 1998.",
+        "por_que": "Un caso decisivo para la abolición de la pena de muerte en el Reino Unido, con la frase ambigua «Let him have it» en el centro del juicio.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Derek_Bentley_case",
+          "https://www.bailii.org/ew/cases/EWCA/Crim/1998/2516.html"
+        ],
+        "riesgos": "La fecha es la de la ejecución; como el formato no tiene el tipo «ejecución», se ha marcado como «condena». El autor del disparo era menor: no nombrarlo. Fuentes: la fecha se comprobó en Wikipedia; la sentencia de 1998 (BAILII) se tomó de sus referencias y no se abrió."
+      }
+    ] },
+    { "dia": 29, "candidatos": [
+      {
+        "titulo_caso": "Sally Clark: la madre condenada por una estadística",
+        "protagonista": "Sally Clark",
+        "fecha": "2003-01-29",
+        "tipo_efemeride": "condena",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "2000-2009",
+        "resumen": "La abogada Sally Clark fue condenada en 1999 por la muerte de sus dos hijos bebés, en parte por el testimonio del pediatra Roy Meadow, que dio una probabilidad errónea de «1 entre 73 millones» de que hubiera dos muertes súbitas en la misma familia. El 29 de enero de 2003, el Tribunal de Apelación anuló la condena al saberse que no se había presentado un análisis que mostraba una infección. Murió en 2007.",
+        "por_que": "Un error judicial que cambió el uso de la estadística y de los peritos médicos en los tribunales británicos.",
+        "fuentes_fecha": [
+          "https://www.irishexaminer.com/world/arid-10035793.html",
+          "https://news.bbc.co.uk/1/hi/health/2706699.stm",
+          "https://mojoscotland.org/?p=5669"
+        ],
+        "riesgos": "La efeméride es la anulación de la condena (no hay tipo específico; marcada como «condena»). La mayoría de fuentes dan el 29 de enero; una revista médica australiana da el 28. Las víctimas eran bebés y sus muertes se consideran naturales: máximo respeto a la familia. La URL de la BBC se consultó a través de una copia espejo."
+      },
+      {
+        "titulo_caso": "Los psicópatas de Viña del Mar",
+        "protagonista": "Jorge Sagredo Pizarro y Carlos Topp Collins",
+        "fecha": "1985-01-29",
+        "tipo_efemeride": "condena",
+        "pais": "Chile",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesino_en_serie",
+        "epoca": "1980-1989",
+        "resumen": "Jorge Sagredo y Carlos Topp Collins fueron condenados por una serie de asesinatos cometidos en Viña del Mar entre 1980 y 1981. El 29 de enero de 1985 fueron fusilados: fueron las últimas ejecuciones de la pena de muerte en Chile.",
+        "por_que": "El caso que cerró la historia de la pena de muerte en Chile, abolida después para los delitos comunes.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/29_de_enero",
+          "https://es.wikipedia.org/wiki/Psic%C3%B3patas_de_Vi%C3%B1a_del_Mar"
+        ],
+        "riesgos": "FUENTE PENDIENTE: la fecha solo se comprobó en las efemérides de Wikipedia; el artículo del caso no se llegó a abrir y falta una segunda fuente independiente. La fecha es la de la ejecución (marcada como «condena»). Hubo víctimas de violencia sexual: evitar detalles."
+      }
+    ] },
+    { "dia": 30, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Mahatma Gandhi",
+        "protagonista": "Mahatma Gandhi y Nathuram Godse",
+        "fecha": "1948-01-30",
+        "tipo_efemeride": "crimen",
+        "pais": "India",
+        "region": "asia",
+        "tipo_caso": "magnicidio",
+        "epoca": "1940-1949",
+        "resumen": "El 30 de enero de 1948, poco después de las cinco de la tarde, el nacionalista hindú Nathuram Godse disparó a quemarropa contra Gandhi en los jardines de Birla House (Nueva Delhi). Godse y su cómplice Narayan Apte fueron condenados a muerte y ahorcados en noviembre de 1949.",
+        "por_que": "El asesinato del gran símbolo de la no violencia, apenas cinco meses después de la independencia de la India.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi",
+          "https://www.theguardian.com/world/1948/jan/31/india.fromthearchive"
+        ],
+        "riesgos": "Figura venerada y tema político vivo en la India (algunos grupos reivindican a Godse): tratarlo con neutralidad. La crónica de The Guardian (31-1-1948) se tomó de las referencias de Wikipedia y no se abrió; la fecha es universalmente conocida."
+      },
+      {
+        "titulo_caso": "La tragedia de Mayerling",
+        "protagonista": "Archiduque Rodolfo de Austria y María Vetsera",
+        "fecha": "1889-01-30",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Austria (Austria-Hungría)",
+        "region": "europa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1880-1889",
+        "resumen": "El 30 de enero de 1889 aparecieron muertos en el pabellón de caza de Mayerling, cerca de Viena, el príncipe heredero Rodolfo de Austria-Hungría y su amante, la baronesa María Vetsera, de 17 años. La versión más aceptada es que él la mató y después se suicidó, pero la corte ocultó pruebas y enterró a Vetsera en secreto, lo que alimentó todo tipo de teorías.",
+        "por_que": "El gran misterio de la casa de Habsburgo, que cambió la línea sucesoria del imperio.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Mayerling_incident",
+          "https://www.britannica.com/biography/Rudolf-Archduke-and-Crown-Prince-of-Austria",
+          "https://timetravel-vienna.at/en/the-mayerling-tragedy-what-happened-on-january-30-1889"
+        ],
+        "riesgos": "La víctima tenía 17 años (caso de hace más de un siglo, nombre público). La versión oficial cambió varias veces: presentar las hipótesis como tales."
+      }
+    ] },
+    { "dia": 31, "candidatos": [
+      {
+        "titulo_caso": "El caso David Milgaard",
+        "protagonista": "David Milgaard (condenado por error), Gail Miller (víctima) y Larry Fisher",
+        "fecha": "1969-01-31",
+        "tipo_efemeride": "crimen",
+        "pais": "Canadá",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1960-1969",
+        "resumen": "La mañana del 31 de enero de 1969, la auxiliar de enfermería Gail Miller fue asesinada en Saskatoon. David Milgaard, un joven de 16 años que estaba de paso por la ciudad, fue condenado y pasó unos 23 años en prisión. En 1997 una prueba de ADN lo exculpó y señaló a Larry Fisher, un violador en serie que fue condenado en 1999.",
+        "por_que": "Uno de los errores judiciales más graves de Canadá: la policía ignoró durante años la pista del verdadero culpable.",
+        "fuentes_fecha": [
+          "https://thecanadianencyclopedia.ca/en/article/david-milgaard-case",
+          "https://innocencecanada.com/exoneree/david-milgaard/",
+          "https://en.wikipedia.org/wiki/David_Milgaard"
+        ],
+        "riesgos": "Milgaard era menor cuando lo acusaron, pero es la víctima del error, no el autor. Hubo violencia sexual: evitar detalles. Las fuentes difieren en su edad (16 o 17 años)."
+      },
+      {
+        "titulo_caso": "La desaparición de Kathie Durst",
+        "protagonista": "Kathleen «Kathie» Durst y Robert Durst",
+        "fecha": "1982-01-31",
+        "tipo_efemeride": "desaparicion",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "desaparicion",
+        "epoca": "1980-1989",
+        "resumen": "Kathie Durst, estudiante de Medicina, fue vista por última vez el 31 de enero de 1982, tras una cena con amigos en Connecticut. Su marido, el heredero inmobiliario Robert Durst, dijo haberla dejado en la estación de Katonah para tomar un tren a Manhattan. Su cuerpo nunca apareció; Robert Durst fue acusado de su asesinato en 2021, pero murió en 2022 sin ser juzgado.",
+        "por_que": "El hilo del que tiró la serie documental «The Jinx» y que acabó llevando a Robert Durst a ser condenado por otro crimen.",
+        "fuentes_fecha": [
+          "https://charleyproject.org/?p=2523",
+          "https://www.doenetwork.org/cases/560dfny.html",
+          "https://www.westchesterda.net/images/archive/stories/pdfs/durstreport.pdf"
+        ],
+        "riesgos": "Robert Durst nunca fue juzgado por esta desaparición: presunción de inocencia (sí fue condenado en 2021 por el asesinato de Susan Berman)."
+      },
+      {
+        "titulo_caso": "La quema de la Embajada de España en Guatemala",
+        "protagonista": "Pedro García Arredondo (condenado) y las víctimas de la embajada",
+        "fecha": "1980-01-31",
+        "tipo_efemeride": "crimen",
+        "pais": "Guatemala / España",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 31 de enero de 1980, campesinos y estudiantes que denunciaban la represión ocuparon la Embajada de España en Ciudad de Guatemala. La policía asaltó el edificio y estalló un incendio en el que murieron 37 personas, entre ellas Vicente Menchú, padre de Rigoberta Menchú, y el cónsul español. En 2015, el exjefe policial Pedro García Arredondo fue condenado por estos hechos.",
+        "por_que": "Una masacre que llevó a España a romper relaciones con Guatemala y que tardó 35 años en tener una condena.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Burning_of_the_Spanish_Embassy",
+          "https://www.bbc.com/news/world-latin-america-30895524",
+          "https://es.wikipedia.org/wiki/31_de_enero"
+        ],
+        "riesgos": "Puede haber causas abiertas contra otros responsables (orden de detención española de 2005 contra el exministro Donaldo Álvarez): comprobarlo. Contexto de guerra civil con víctimas indígenas: tratarlo con respeto."
+      }
+    ] }
+  ]
+}

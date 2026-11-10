@@ -1,0 +1,994 @@
+{
+  "mes": 5,
+  "dias": [
+    {
+      "dia": 1,
+      "candidatos": [
+        {
+          "titulo_caso": "El aceite de colza: la primera víctima del síndrome tóxico",
+          "protagonista": "Comercializadores del aceite de colza desnaturalizado (RAELCA y otras empresas)",
+          "fecha": "1981-05-01",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "envenenamiento",
+          "epoca": "1980-1989",
+          "resumen": "El 1 de mayo de 1981 murió en Torrejón de Ardoz un niño de ocho años diagnosticado de «neumonía atípica»: fue la primera muerte oficial del síndrome tóxico. Semanas después se relacionó la epidemia con aceite de colza desnaturalizado para uso industrial y vendido a granel como aceite comestible. Hubo miles de afectados y varios empresarios fueron condenados (sentencias de 1989 y del Supremo en 1992 y 1997).",
+          "por_que": "El mayor envenenamiento masivo alimentario de la historia de España: una estafa que se convirtió en tragedia sanitaria.",
+          "fuentes_fecha": [
+            "https://www.elespanol.com/reportajes/20211020/miguel-angel-mercedes-pretendian-suicidarse-prado-agonia/620688613_0.amp.html",
+            "https://revistaseug.ugr.es/index.php/dynamis/article/download/26895/25079/99833",
+            "https://repisalud.isciii.es/bitstream/20.500.12105/9528/1/NeurologicOutcomesOfToxic_2003.pdf"
+          ],
+          "riesgos": "La primera víctima era un niño (las fuentes discrepan en su nombre: no nombrarlo). Las cifras de muertos varían mucho según la fuente (de unos 600-1.000 oficiales a más de 3.000 según asociaciones). Existe una teoría alternativa (pesticidas) sin respaldo judicial: tratarla como tal."
+        },
+        {
+          "titulo_caso": "La matanza de la plaza Taksim (Primero de Mayo Sangriento)",
+          "protagonista": "Tiradores sin identificar",
+          "fecha": "1977-05-01",
+          "tipo_efemeride": "crimen",
+          "pais": "Turquía",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1970-1979",
+          "resumen": "Durante la manifestación del Primero de Mayo de 1977 en la plaza Taksim de Estambul, unos disparos desde edificios cercanos provocaron una estampida; murieron entre 34 y 42 personas y hubo más de un centenar de heridos. Nadie fue condenado: el juicio terminó sin culpables y la autoría sigue sin aclararse.",
+          "por_que": "Una matanza a plena luz del día ante cientos de miles de personas que casi medio siglo después sigue sin culpables.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Bloody_May_Day_(1977)",
+            "https://bianet.org/yazi/finding-the-traces-of-a-43-year-old-massacre-245686"
+          ],
+          "riesgos": "Sin condena: no atribuir autoría (las sospechas sobre la «contraguerrilla» o la CIA son hipótesis). Cifras de muertos discutidas (34-42). Contexto político muy sensible en Turquía."
+        },
+        {
+          "titulo_caso": "El asesinato del presidente Premadasa",
+          "protagonista": "Ranasinghe Premadasa (víctima); terrorista suicida atribuido a los LTTE",
+          "fecha": "1993-05-01",
+          "tipo_efemeride": "crimen",
+          "pais": "Sri Lanka",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1990-1999",
+          "resumen": "El presidente de Sri Lanka murió el 1 de mayo de 1993 en Colombo, durante el desfile del Primero de Mayo de su partido, al hacer estallar un terrorista suicida un chaleco con explosivos. Murieron con él al menos 17 personas. El atacante se había ganado la confianza de su entorno a través de un ayuda de cámara.",
+          "por_que": "Un magnicidio en plena celebración, ejecutado por un infiltrado que llevaba meses en el círculo del presidente.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Ranasinghe_Premadasa",
+            "https://gulfnews.com/today-history/may-1-1993--sri-lankan-president-premadasa-killed-in-blast-1.2214260"
+          ],
+          "riesgos": "Los LTTE negaron la autoría aunque la policía se la atribuyó. El número de muertos varía (17-23) según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "candidatos": [
+        {
+          "titulo_caso": "La batalla de Alcatraz",
+          "protagonista": "Bernard Coy, Joseph Cretzer, Marvin Hubbard, Clarence Carnes, Sam Shockley y Miran Thompson",
+          "fecha": "1946-05-02",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1940-1949",
+          "resumen": "El 2 de mayo de 1946 seis presos de Alcatraz, dirigidos por Bernard Coy, se hicieron con armas de la galería y tomaron rehenes en un intento de fuga que fracasó al no encontrar la llave del patio. Durante tres días hubo combate con guardias y marines: murieron dos funcionarios y tres presos. Shockley y Thompson fueron ejecutados en 1948 y Carnes recibió otra cadena perpetua.",
+          "por_que": "El intento de fuga más violento de la prisión más famosa del mundo: tres días de asedio dentro de «la Roca».",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Battle_of_Alcatraz",
+            "https://www.bop.gov/about/history/hero_miller.jsp"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "La detención de Ana Bolena",
+          "protagonista": "Ana Bolena (acusada)",
+          "fecha": "1536-05-02",
+          "tipo_efemeride": "detencion",
+          "pais": "Inglaterra",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "Siglo XVI",
+          "resumen": "El 2 de mayo de 1536 la reina Ana Bolena fue detenida y llevada a la Torre de Londres acusada de adulterio, incesto y alta traición. Un tribunal la condenó el 15 de mayo y fue decapitada el 19. La mayoría de los historiadores considera que las acusaciones se fabricaron para que Enrique VIII pudiera librarse de ella.",
+          "por_que": "Uno de los procesos políticos más célebres de la historia: una reina condenada con pruebas que hoy se consideran falsas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Anne_Boleyn",
+            "https://www.theanneboleynfiles.com/2-may-1536-anne-boleyn-arrested/"
+          ],
+          "riesgos": "Caso anterior al siglo XVIII (más historia que crónica negra). Que las acusaciones fueran falsas es el consenso de los historiadores, no una sentencia de revisión: decirlo así."
+        },
+        {
+          "titulo_caso": "Fabio Ochoa Vásquez, el menor de los Ochoa del cartel de Medellín",
+          "protagonista": "Fabio Ochoa Vásquez",
+          "fecha": "1957-05-02",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "1980-1999",
+          "resumen": "Nacido en Medellín el 2 de mayo de 1957, fue con sus hermanos Jorge Luis y Juan David uno de los fundadores del cartel de Medellín junto a Pablo Escobar. Se entregó en 1991, quedó libre en 1996 y en 1999 fue detenido de nuevo. Extraditado a EE. UU., fue condenado a 30 años por narcotráfico y quedó libre en 2024.",
+          "por_que": "Permite contar el cartel de Medellín desde dentro de la familia que lo financió, con un final judicial cerrado.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Fabio_Ochoa_V%C3%A1squez",
+            "https://en.wikipedia.org/wiki/Fabio_Ochoa_V%C3%A1squez"
+          ],
+          "riesgos": "Las dos fuentes de la fecha son Wikipedias (es y en): falta una fuente independiente (hemeroteca colombiana). Persona viva que cumplió condena: no atribuirle delitos por los que no fue juzgado."
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "candidatos": [
+        {
+          "titulo_caso": "El ataque a la delegación del Asahi Shimbun en Nishinomiya (Sekihōtai)",
+          "protagonista": "Grupo autodenominado Sekihōtai (sin identificar)",
+          "fecha": "1987-05-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 3 de mayo de 1987 un hombre enmascarado entró en la delegación de Hanshin del diario Asahi Shimbun, en Nishinomiya, y disparó con una escopeta contra dos periodistas: murió Tomohiro Kojiri, de 29 años. Lo reivindicó un grupo de extrema derecha llamado Sekihōtai, que firmó otros ataques. Nunca se detuvo a nadie y el delito prescribió en 2002.",
+          "por_que": "Un atentado contra la prensa, el día de la Constitución japonesa, que nunca se resolvió.",
+          "fuentes_fecha": [
+            "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%A0%B1%E9%9A%8A%E4%BA%8B%E4%BB%B6",
+            "https://kotobank.jp/word/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E%E9%98%AA%E7%A5%9E%E6%94%AF%E5%B1%80%E8%A5%B2%E6%92%83%E4%BA%8B%E4%BB%B6-1189519"
+          ],
+          "riesgos": "Sin resolver y sin condena: no atribuir autoría a personas concretas."
+        },
+        {
+          "titulo_caso": "La caída de Francis Bacon, el canciller sobornado",
+          "protagonista": "Francis Bacon",
+          "fecha": "1621-05-03",
+          "tipo_efemeride": "condena",
+          "pais": "Inglaterra",
+          "region": "europa",
+          "tipo_caso": "estafa",
+          "epoca": "Siglo XVII",
+          "resumen": "El filósofo Francis Bacon, lord canciller de Inglaterra, fue acusado por el Parlamento de aceptar regalos de las partes en los pleitos que juzgaba. Confesó, y el 3 de mayo de 1621 la Cámara de los Lores lo condenó a una multa de 40.000 libras, a prisión en la Torre a voluntad del rey y a la inhabilitación. Solo pasó unos días preso y el rey le perdonó la multa.",
+          "por_que": "El padre del método científico, condenado por corrupción: soborno judicial en la cumbre del Estado.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Francis_Bacon",
+            "https://www.onthisday.com/events/may/3"
+          ],
+          "riesgos": "Caso de corrupción, no violento, anterior al siglo XVIII."
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "candidatos": [
+        {
+          "titulo_caso": "La detención de Sacco y Vanzetti",
+          "protagonista": "Nicola Sacco y Bartolomeo Vanzetti",
+          "fecha": "1920-05-05",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1920-1929",
+          "resumen": "El 5 de mayo de 1920 la policía detuvo en un tranvía de Brockton (Massachusetts) a los anarquistas italianos Nicola Sacco y Bartolomeo Vanzetti, acusados del atraco con dos muertos de South Braintree. Fueron condenados en un juicio muy cuestionado y ejecutados en 1927 pese a una campaña internacional. En 1977 el gobernador de Massachusetts proclamó que el proceso había sido injusto.",
+          "por_que": "El juicio injusto más famoso del siglo XX en Estados Unidos.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti",
+            "https://www.onthisday.com/date/1920/may/5"
+          ],
+          "riesgos": "La culpabilidad de Sacco sigue discutida por los historiadores: hablar de juicio injusto (reconocido en 1977), no de inocencia probada."
+        },
+        {
+          "titulo_caso": "El secuestro y asesinato del gobernador Guillermo Gaviria",
+          "protagonista": "Guillermo Gaviria y Gilberto Echeverri (víctimas); FARC",
+          "fecha": "2003-05-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "2000-2009",
+          "resumen": "El gobernador de Antioquia Guillermo Gaviria y su asesor de paz, el exministro de Defensa Gilberto Echeverri, fueron secuestrados por las FARC en abril de 2002 mientras encabezaban una marcha por la no violencia. El 5 de mayo de 2003, durante un intento de rescate del Ejército en Urrao, los guerrilleros los mataron junto a ocho militares cautivos. Los diarios que Gaviria escribió en cautiverio se publicaron después.",
+          "por_que": "Un secuestro que empezó con una marcha pacifista y acabó en tragedia; los diarios del gobernador permiten contarlo desde dentro.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Guillermo_Gaviria_Correa",
+            "https://en.wikipedia.org/wiki/Guillermo_Gaviria_Correa"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias: falta una hemeroteca independiente (El Tiempo, El Colombiano). Contexto de conflicto armado. Comprobar el estado de las causas contra los mandos de las FARC (JEP)."
+        },
+        {
+          "titulo_caso": "El asalto al tren de North Bend",
+          "protagonista": "Banda sin identificar con certeza",
+          "fecha": "1865-05-05",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "Siglo XIX",
+          "resumen": "El 5 de mayo de 1865, pocas semanas después del final de la guerra de Secesión, una banda asaltó un tren de pasajeros cerca de North Bend (Ohio), a las afueras de Cincinnati, y robó a los viajeros y la caja del vagón expreso. Se considera uno de los primeros robos de tren de la historia de Estados Unidos.",
+          "por_que": "El nacimiento del asalto al tren, años antes de Jesse James.",
+          "fuentes_fecha": [
+            "https://www.onthisday.com/date/1865/may/5",
+            "https://en.wikipedia.org/wiki/North_Bend,_Ohio"
+          ],
+          "riesgos": "Caso mal documentado en las fuentes consultadas (autores y botín): habría que buscar prensa de la época antes de elegirlo."
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de Ingeniero Budge",
+          "protagonista": "Sargentos Juan Ramón Balmaceda e Isidro Romero y cabo Juan Alberto Miño (Policía bonaerense)",
+          "fecha": "1987-05-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 8 de mayo de 1987 tres policías bonaerenses dispararon contra tres jóvenes, Agustín Olivera, Oscar Aredes y Roberto Argañaraz, que tomaban cerveza en una esquina de Ingeniero Budge (Lomas de Zamora), y simularon un enfrentamiento. Tras un primer juicio anulado, en 1994 los tres fueron condenados a 11 años, pero se fugaron; uno fue detenido en 1998 y los otros dos en 2006.",
+          "por_que": "El caso que dio nombre al «gatillo fácil» en Argentina; su fecha es hoy el día de lucha contra la violencia institucional.",
+          "fuentes_fecha": [
+            "https://www.infobae.com/historias/2026/05/08/la-masacre-de-budge-una-cerveza-tres-amigos-asesinados-y-la-invencion-del-gatillo-facil-de-la-policia-bonaerense/",
+            "https://www.andaragencia.org/33-anos-de-la-masacre-de-budge-queremos-mantener-viva-la-memoria",
+            "https://www.gba.gob.ar/node/35340"
+          ],
+          "riesgos": "Las fuentes discrepan en algunos detalles del cumplimiento de las condenas."
+        },
+        {
+          "titulo_caso": "La fuga de Mesrine de la cárcel de la Santé",
+          "protagonista": "Jacques Mesrine y François Besse",
+          "fecha": "1978-05-08",
+          "tipo_efemeride": "golpe",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "otro",
+          "epoca": "1970-1979",
+          "resumen": "El 8 de mayo de 1978 Jacques Mesrine, «enemigo público número uno» de Francia, se fugó de la prisión parisina de la Santé con François Besse tras amenazar a los guardias con armas introducidas en la cárcel; un tercer preso, Carman Rives, murió por disparos de un guardia. Mesrine siguió atracando y secuestrando hasta que la policía lo abatió en París el 2 de noviembre de 1979.",
+          "por_que": "La fuga más audaz de la cárcel más vigilada de París, protagonizada por el atracador más mediático de Francia.",
+          "fuentes_fecha": [
+            "https://fr.wikipedia.org/wiki/Jacques_Mesrine",
+            "https://www.larousse.fr/archives/journaux_annee/1978/359/faits_divers"
+          ],
+          "riesgos": "Mesrine murió sin ser juzgado por sus últimos delitos; su muerte a manos de la policía fue polémica."
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "candidatos": [
+        {
+          "titulo_caso": "El hallazgo del cuerpo de Aldo Moro en la via Caetani",
+          "protagonista": "Brigadas Rojas (Mario Moretti y otros)",
+          "fecha": "1978-05-09",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El expresidente del Gobierno italiano Aldo Moro, secuestrado por las Brigadas Rojas el 16 de marzo de 1978 en la via Fani (donde murieron sus cinco escoltas), apareció muerto el 9 de mayo en el maletero de un Renault 4 rojo en la via Caetani de Roma, tras 54 días de cautiverio. Decenas de brigadistas fueron condenados a cadena perpetua en varios juicios.",
+          "por_que": "El secuestro y asesinato político que marcó los «años de plomo» en Italia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro",
+            "https://www.treccani.it/enciclopedia/aldo-moro/"
+          ],
+          "riesgos": "Hay comisiones parlamentarias y teorías sobre otras implicaciones: tratarlas como hipótesis."
+        },
+        {
+          "titulo_caso": "Fórum Filatélico y Afinsa: la gran estafa de los sellos",
+          "protagonista": "Directivos de Fórum Filatélico y de Afinsa",
+          "fecha": "2006-05-09",
+          "tipo_efemeride": "detencion",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "estafa",
+          "epoca": "2000-2009",
+          "resumen": "El 9 de mayo de 2006 la Audiencia Nacional intervino Fórum Filatélico y Afinsa y ordenó detener a sus directivos (operación Atrio). Las dos empresas vendían sellos como inversión con rentabilidad garantizada, pero los sellos estaban sobrevalorados y los intereses se pagaban con el dinero de nuevos clientes. Afectó a unos 460.000 ahorradores con más de 6.000 millones de euros.",
+          "por_que": "La mayor estafa piramidal de la historia de España por número de afectados.",
+          "fuentes_fecha": [
+            "https://www.consumer.es/economia-domestica/la-policia-investiga-a-dos-sociedades-filatelicas-que-podrian-haber-estafado-a-300-000-ahorradores.html",
+            "https://www.elsaltodiario.com/hemeroteca-diagonal/afinsa-y-forum-filatelico-una-estafa-paso-a-paso"
+          ],
+          "riesgos": "Comprobar que todas las sentencias penales son firmes (juicios en la Audiencia Nacional hacia 2016-2018 y recursos en el Supremo); si queda alguno pendiente, descartar. Cifras de afectados variables (350.000-460.000)."
+        },
+        {
+          "titulo_caso": "El coronel Blood intenta robar las joyas de la Corona",
+          "protagonista": "Thomas Blood",
+          "fecha": "1671-05-09",
+          "tipo_efemeride": "golpe",
+          "pais": "Inglaterra",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "Siglo XVII",
+          "resumen": "El 9 de mayo de 1671 el aventurero irlandés Thomas Blood, disfrazado de clérigo, entró con tres cómplices en la Torre de Londres, redujo al guardián de las joyas, aplastó la corona con un mazo para esconderla y limó el cetro. Fue detenido al huir. Sorprendentemente, Carlos II lo perdonó y le concedió tierras en Irlanda.",
+          "por_que": "El único intento serio de robar las joyas de la Corona británica, con un final que sigue siendo un misterio.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Thomas_Blood",
+            "http://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Theft-of-the-Crown-Jewels/"
+          ],
+          "riesgos": "Anterior al siglo XVIII."
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "candidatos": [
+        {
+          "titulo_caso": "El caso Almería",
+          "protagonista": "Teniente coronel Carlos Castillo Quero y otros guardias civiles",
+          "fecha": "1981-05-10",
+          "tipo_efemeride": "hallazgo",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "Tres jóvenes, Luis Cobo, Luis Montero y Juan Mañas, que viajaban de Santander a una primera comunión en Pechina, fueron detenidos en Roquetas de Mar al ser confundidos con un comando de ETA. Los torturaron en un cuartel abandonado y el 10 de mayo de 1981 aparecieron calcinados en su coche en un barranco de la carretera de Gérgal. Después, la Audiencia de Almería condenó por homicidio a tres de los once guardias civiles implicados.",
+          "por_que": "Uno de los crímenes más oscuros de la Transición, con una investigación marcada por el encubrimiento.",
+          "fuentes_fecha": [
+            "https://www.publico.es/espana/victimas-del-caso-almeria-luchan.html",
+            "https://www.eldiario.es/andalucia/almeria/caso-almeria-anos-verguenza-derecho_1_3405095.html",
+            "https://en.wikipedia.org/wiki/Almer%C3%ADa_murders"
+          ],
+          "riesgos": "Las fuentes discrepan sobre si la detención fue el 9 o el 10 de mayo: usar el hallazgo de los cuerpos (10 de mayo). Las familias siguen reclamando reconocimiento: tono respetuoso."
+        },
+        {
+          "titulo_caso": "El asesinato de Rodrigo Rosenberg",
+          "protagonista": "Rodrigo Rosenberg Marzano (víctima) y la banda de sicarios contratada",
+          "fecha": "2009-05-10",
+          "tipo_efemeride": "crimen",
+          "pais": "Guatemala",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "2000-2009",
+          "resumen": "El abogado Rodrigo Rosenberg fue tiroteado mientras iba en bicicleta por Ciudad de Guatemala el 10 de mayo de 2009. Al día siguiente se difundió un vídeo grabado por él en el que acusaba al presidente Álvaro Colom de su futura muerte, lo que causó una crisis política. En enero de 2010 la CICIG concluyó que Rosenberg había organizado su propio asesinato; nueve personas fueron condenadas como autores materiales.",
+          "por_que": "Un misterio de novela: un hombre que anuncia en vídeo quién lo va a matar y resulta haber encargado su propia muerte.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Rodrigo_Rosenberg_Marzano",
+            "https://revista.drclas.harvard.edu/the-international-commission-against-impunity-in-guatemala/page/2",
+            "https://www.upi.com/Top_News/World-News/2010/01/12/Report-Guatemala-lawyer-hired-own-killers/48081263343059/"
+          ],
+          "riesgos": "La conclusión de la CICIG está discutida por algunos: presentarla como conclusión de la investigación, no como hecho indiscutible. El vídeo acusaba a personas reales sin pruebas."
+        },
+        {
+          "titulo_caso": "El asesinato de Roque Dalton",
+          "protagonista": "Roque Dalton (víctima); dirigentes del Ejército Revolucionario del Pueblo (ERP)",
+          "fecha": "1975-05-10",
+          "tipo_efemeride": "crimen",
+          "pais": "El Salvador",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El poeta salvadoreño Roque Dalton fue ejecutado el 10 de mayo de 1975 por sus propios compañeros de la guerrilla ERP, que lo acusaban sin pruebas de ser agente de la CIA. En 1992 el comandante Joaquín Villalobos admitió que la cúpula había ordenado la ejecución y la calificó de grave error. Nadie ha sido juzgado y sus restos nunca aparecieron.",
+          "por_que": "Uno de los grandes poetas latinoamericanos, asesinado por los suyos: un crimen impune y sin cuerpo.",
+          "fuentes_fecha": [
+            "https://www.elsaltodiario.com/poesia/roque-dalton-poeta-salvador-aniversario-asesinato",
+            "https://diario.elmundo.sv/nacionales/medio-siglo-en-impunidad-la-familia-del-poeta-salvadoreno-asesinado-roque-dalton-espera-justicia"
+          ],
+          "riesgos": "Sin condena: no llamar asesinos a personas concretas más allá de lo que reconoció Villalobos. La familia reclama justicia: comprobar que no haya una causa penal abierta en El Salvador."
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato del primer ministro Spencer Perceval",
+          "protagonista": "John Bellingham",
+          "fecha": "1812-05-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "Siglo XIX",
+          "resumen": "El 11 de mayo de 1812, hacia las cinco y cuarto de la tarde, el comerciante John Bellingham disparó a quemarropa contra el primer ministro Spencer Perceval en el vestíbulo de la Cámara de los Comunes. Bellingham se creía arruinado injustamente por su encarcelamiento en Rusia y el Gobierno había rechazado sus peticiones de compensación. Fue juzgado y condenado en cuatro días y ahorcado el 18 de mayo.",
+          "por_que": "El único primer ministro británico asesinado, por un hombre que esperó tranquilamente sentado a que lo detuvieran.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Spencer_Perceval",
+            "https://www.gov.uk/government/history/past-prime-ministers/spencer-perceval"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El asesinato del padre Carlos Mugica",
+          "protagonista": "Carlos Mugica (víctima); Rodolfo Almirón (Triple A), señalado por la justicia",
+          "fecha": "1974-05-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 11 de mayo de 1974, al salir de decir misa en la parroquia San Francisco Solano de Villa Luro (Buenos Aires), el sacerdote Carlos Mugica, referente de los curas villeros, fue acribillado a balazos. La justicia identificó como autor a Rodolfo Almirón, de la organización parapolicial Triple A, que murió en 2009 sin ser juzgado. Durante años se especuló también con Montoneros.",
+          "por_que": "El crimen del cura de la Villa 31, que nunca llegó a juicio y aún divide a los historiadores.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Carlos_Mugica",
+            "https://www.lagaceta.com.ar/nota/1027707/la-gaceta-literaria/asesinato-luego-misa.html",
+            "https://www.ellitoral.com/informacion-general/padre-mugica-50-anos-crimen-ametrallaron-cura-iglesia-sectores-vulnerables_0_J1vQflUOJ1.html"
+          ],
+          "riesgos": "Sin condena: Almirón murió antes del juicio. Decir «la justicia lo señaló», no «el asesino». Autoría discutida (Triple A o Montoneros)."
+        },
+        {
+          "titulo_caso": "El incidente de Ōtsu: intentan matar al futuro zar Nicolás II",
+          "protagonista": "Tsuda Sanzō",
+          "fecha": "1891-05-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "Siglo XIX",
+          "resumen": "El 11 de mayo de 1891, durante su visita a Japón, el zarévich Nicolás (futuro Nicolás II de Rusia) fue atacado con un sable en Ōtsu por Tsuda Sanzō, uno de los policías de su escolta, y sobrevivió con una herida en la cabeza. El Gobierno japonés presionó para que el agresor fuera condenado a muerte, pero el Tribunal Supremo aplicó la ley común y lo condenó a cadena perpetua.",
+          "por_que": "Un atentado que pudo cambiar la historia de Rusia y un juicio que sentó la independencia judicial en Japón.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/%C5%8Ctsu_incident",
+            "https://www.onthisday.com/date/1891/may/11"
+          ],
+          "riesgos": ""
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Isabel Carrasco",
+          "protagonista": "Montserrat González, Triana Martínez y Raquel Gago",
+          "fecha": "2014-05-12",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "2010-2015",
+          "resumen": "La tarde del 12 de mayo de 2014 la presidenta de la Diputación de León, Isabel Carrasco, fue asesinada a tiros en una pasarela sobre el río Bernesga. La autora de los disparos fue Montserrat González, con la ayuda de su hija Triana Martínez, por rencor político y laboral. El Supremo confirmó 22 y 20 años de cárcel para ellas y elevó a 14 años la pena de la policía local Raquel Gago como cómplice.",
+          "por_que": "Un crimen por venganza política a plena luz del día que conmocionó a España.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Asesinato_de_Isabel_Carrasco",
+            "https://www.diariodeleon.es/historias/isabel-carrasco-10-aniversario-crimen-leon/"
+          ],
+          "riesgos": "Caso reciente (2014): comprobar que todas las sentencias son firmes y que no queda ningún recurso pendiente (por ejemplo, de Raquel Gago). Personas condenadas vivas."
+        },
+        {
+          "titulo_caso": "El sacerdote español que atacó al papa en Fátima",
+          "protagonista": "Juan María Fernández y Krohn",
+          "fecha": "1982-05-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Portugal",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 12 de mayo de 1982, un año después del atentado de Ağca, el sacerdote ultratradicionalista español Juan María Fernández y Krohn intentó apuñalar a Juan Pablo II con una bayoneta durante la procesión de las velas en el santuario de Fátima. Fue reducido por la seguridad. Un tribunal portugués lo condenó a seis años y medio de prisión; salió en 1985 y fue expulsado del país.",
+          "por_que": "Un atentado contra el papa con autor español, casi olvidado frente al de la plaza de San Pedro.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Juan_Mar%C3%ADa_Fern%C3%A1ndez_y_Krohn",
+            "https://www.aciprensa.com/noticias/81459/la-historia-poco-conocida-del-atentado-contra-san-juan-pablo-ii-en-el-santuario-de-fatima",
+            "https://www.fatima.pt/pt/news/topdf/joao-paulo-ii-ferido-em-fatima"
+          ],
+          "riesgos": "El autor vive. Hay versiones distintas sobre si el papa resultó herido levemente."
+        },
+        {
+          "titulo_caso": "El hallazgo del bebé Lindbergh",
+          "protagonista": "Bruno Richard Hauptmann (condenado)",
+          "fecha": "1932-05-12",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1930-1939",
+          "resumen": "El hijo de 20 meses del aviador Charles Lindbergh fue secuestrado de su casa de Hopewell (Nueva Jersey) el 1 de marzo de 1932. Pese a pagarse el rescate, el 12 de mayo un camionero encontró el cuerpo del niño parcialmente enterrado cerca de Mount Rose, a pocos kilómetros de la casa. El carpintero alemán Bruno Hauptmann fue condenado y ejecutado en 1936, aunque siempre se declaró inocente.",
+          "por_que": "«El crimen del siglo»: el secuestro que cambió las leyes federales de Estados Unidos.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/body-of-lindbergh-baby-found",
+            "https://www.nashuatelegraph.com/news/local-news/2011/05/12/daily-twip-the-body-of-the-lindbergh-baby-is-found-today-in-1932-marking-a-turning-point-in-the-lindbergh-kidnapping-case/"
+          ],
+          "riesgos": "Víctima menor, pero histórica y con nombre que forma parte del nombre del caso. La culpabilidad de Hauptmann sigue discutida: decir que fue condenado."
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "candidatos": [
+        {
+          "titulo_caso": "El atentado contra Juan Pablo II en la plaza de San Pedro",
+          "protagonista": "Mehmet Ali Ağca",
+          "fecha": "1981-05-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Ciudad del Vaticano",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 13 de mayo de 1981, a las 17:17, el turco Mehmet Ali Ağca disparó contra Juan Pablo II en la plaza de San Pedro y lo hirió gravemente. Fue detenido en el acto, condenado en Italia a cadena perpetua e indultado en 2000 a petición del propio papa, que lo había visitado en la cárcel. Quién estaba detrás sigue sin aclararse.",
+          "por_que": "El atentado más famoso contra un papa, con una trama internacional que nunca se resolvió.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Attempted_assassination_of_Pope_John_Paul_II",
+            "https://www.onthisday.com/date/1981/may/13"
+          ],
+          "riesgos": "Las tesis sobre los instigadores (servicios búlgaros, KGB, Lobos Grises) son hipótesis: un juicio en Italia absolvió a los búlgaros acusados por falta de pruebas."
+        },
+        {
+          "titulo_caso": "¿Quién mató a Rosendo? El tiroteo de la confitería La Real",
+          "protagonista": "Rosendo García (víctima); Augusto Vandor y su entorno, señalados por Rodolfo Walsh",
+          "fecha": "1966-05-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1960-1969",
+          "resumen": "La noche del 13 de mayo de 1966 un tiroteo entre dos grupos de sindicalistas metalúrgicos en la confitería La Real de Avellaneda dejó tres muertos: Rosendo García, número dos de la UOM, Domingo Blajaquis y Juan Zalazar. La justicia nunca aclaró quién disparó. El periodista Rodolfo Walsh investigó el caso y concluyó en su libro ¿Quién mató a Rosendo? (1969) que los disparos salieron del grupo de Vandor.",
+          "por_que": "Un crimen sin culpables convertido en un clásico del periodismo de investigación en castellano.",
+          "fuentes_fecha": [
+            "https://es.hispanopedia.com/wiki/Rosendo_Garc%C3%ADa",
+            "https://www.laizquierdadiario.com/El-violento-oficio-de-Rodolfo-Walsh"
+          ],
+          "riesgos": "Sin condena: la autoría de Vandor es la conclusión periodística de Walsh, no una sentencia. Fuentes mayoritariamente secundarias."
+        },
+        {
+          "titulo_caso": "«Human Bomb»: el secuestro de una clase de preescolar en Neuilly",
+          "protagonista": "Érick Schmitt",
+          "fecha": "1993-05-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "El 13 de mayo de 1993 un hombre encapuchado que se hacía llamar «Human Bomb», cargado de explosivos, tomó como rehenes a una clase de 21 niños de preescolar y a su maestra en una escuela de Neuilly-sur-Seine y exigió 100 millones de francos. Liberó a algunos niños durante la negociación, en la que intervino el alcalde Nicolas Sarkozy. El 15 de mayo los agentes del RAID entraron mientras dormía y lo mataron; todos los rehenes salieron ilesos.",
+          "por_que": "46 horas de angustia en una guardería, con un final polémico que aún se discute.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Neuilly_kindergarten_hostage_crisis",
+            "https://www.upi.com/Archives/1993/05/15/French-police-kill-hostage-taker-children-and-teacher-safe/5322737438400/",
+            "https://www.irishtimes.com/news/school-hostage-crisis-ends-without-bloodshed-1.1026228"
+          ],
+          "riesgos": "Rehenes menores (no nombrarlos). Su familia sostuvo que lo mataron dormido: muerte polémica, sin juicio."
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "candidatos": [
+        {
+          "titulo_caso": "Ravaillac apuñala a Enrique IV de Francia",
+          "protagonista": "François Ravaillac",
+          "fecha": "1610-05-14",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "Siglo XVII",
+          "resumen": "El 14 de mayo de 1610 el fanático católico François Ravaillac saltó sobre la carroza de Enrique IV, detenida por un atasco en la rue de la Ferronnerie de París, y lo mató a puñaladas. Detenido en el acto, fue torturado para que revelara cómplices, aseguró haber actuado solo y fue ejecutado por descuartizamiento el 27 de mayo.",
+          "por_que": "El magnicidio del «buen rey Enrique», cometido en un atasco de tráfico del París del siglo XVII.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Henry_IV",
+            "https://www.onthisday.com/date/1610/may/14"
+          ],
+          "riesgos": "Anterior al siglo XVIII. Hubo teorías de conspiración nunca probadas."
+        },
+        {
+          "titulo_caso": "Campo Elías Delgado, el autor de la masacre de Pozzetto",
+          "protagonista": "Campo Elías Delgado Morales",
+          "fecha": "1934-05-14",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "Campo Elías Delgado nació el 14 de mayo de 1934 en Norte de Santander. Veterano de la guerra de Vietnam y profesor de inglés en Bogotá, el 4 de diciembre de 1986 mató a su madre y a varias personas de su edificio y después disparó contra los clientes del restaurante Pozzetto; en total murieron unas 29 personas. Murió esa misma noche en el restaurante.",
+          "por_que": "La peor matanza cometida por una sola persona en la historia de Colombia, que inspiró la novela Satanás y una serie.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Campo_El%C3%ADas_Delgado",
+            "https://en.wikipedia.org/wiki/Pozzetto_massacre"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias (la inglesa cita su partida de nacimiento): falta una fuente independiente para la fecha. Discrepan el lugar de nacimiento (Chinácota o Durania) y el número de muertos (21-29). La efeméride sería el nacimiento, no el crimen (4 de diciembre)."
+        },
+        {
+          "titulo_caso": "La captura de Luciano Leggio, el jefe de Corleone",
+          "protagonista": "Luciano Leggio (Liggio)",
+          "fecha": "1964-05-14",
+          "tipo_efemeride": "detencion",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "otro",
+          "epoca": "1960-1969",
+          "resumen": "La noche del 14 de mayo de 1964 los carabineros detuvieron en Corleone a Luciano Leggio, jefe mafioso huido desde hacía años, escondido en casa de la antigua novia del sindicalista Placido Rizzotto, al que se le acusaba de haber asesinado en 1948. Absuelto en 1969, volvió a huir y fue detenido de nuevo en 1974; murió en prisión en 1993. Sus lugartenientes eran Totò Riina y Bernardo Provenzano.",
+          "por_que": "El origen del clan de los corleoneses, que acabaría dominando la Cosa Nostra.",
+          "fuentes_fecha": [
+            "https://it.wikipedia.org/wiki/Luciano_Leggio",
+            "https://en.wikipedia.org/wiki/Luciano_Leggio"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias: falta una fuente independiente para la fecha. Hubo absoluciones: distinguir hechos juzgados de acusaciones."
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "candidatos": [
+        {
+          "titulo_caso": "El gran robo del oro de 1855",
+          "protagonista": "Edward Agar, William Pierce, William Tester y James Burgess",
+          "fecha": "1855-05-15",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "Siglo XIX",
+          "resumen": "La noche del 15 de mayo de 1855 una banda robó lingotes y monedas de oro de las cajas fuertes del vagón del tren de Londres a Folkestone, que iba camino de París, y las sustituyó por perdigones de plomo para que el peso cuadrara. El robo solo se descubrió en Boulogne. Un año y medio después, el despecho de la expareja de Agar destapó el caso: Agar declaró contra sus cómplices, que fueron condenados en 1857.",
+          "por_que": "El primer gran robo de tren de la historia, que inspiró la novela y la película de Michael Crichton.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Great_Gold_Robbery",
+            "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Great-Gold-Robbery-1855",
+            "https://www.kentonline.co.uk/kent/news/the-first-great-train-robbery-which-was-carried-out-in-ken-257642/"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El incidente del 15 de mayo: asesinato del primer ministro Inukai",
+          "protagonista": "Oficiales jóvenes de la Armada imperial japonesa",
+          "fecha": "1932-05-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1930-1939",
+          "resumen": "El 15 de mayo de 1932 un grupo de jóvenes oficiales de la Armada, con cadetes del Ejército y civiles ultranacionalistas, irrumpió en la residencia del primer ministro Inukai Tsuyoshi y lo mató a tiros dentro de un intento de golpe de Estado. En el juicio recibieron una enorme simpatía popular y penas muy leves, lo que alentó nuevos golpes militares.",
+          "por_que": "Un magnicidio que abrió la puerta al militarismo japonés de los años treinta.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/May_15_incident",
+            "https://www.onthisday.com/date/1932/may/15"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El atentado contra George Wallace",
+          "protagonista": "Arthur Bremer",
+          "fecha": "1972-05-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 15 de mayo de 1972, en plena campaña de primarias, el gobernador de Alabama y candidato presidencial George Wallace recibió cuatro disparos de Arthur Bremer en un centro comercial de Laurel (Maryland); quedó paralítico. Bremer, cuyo diario reveló que antes había pensado en matar a Nixon, fue condenado a 63 años (luego 53) y salió en libertad condicional en 2007.",
+          "por_que": "Un intento de magnicidio cuyo diario inspiró el personaje de Taxi Driver.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Attempted_assassination_of_George_Wallace",
+            "https://www.onthisday.com/date/1972/may/15"
+          ],
+          "riesgos": "El autor vive y está en libertad."
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "candidatos": [
+        {
+          "titulo_caso": "Sada Abe y el crimen que paralizó Tokio",
+          "protagonista": "Sada Abe",
+          "fecha": "1936-05-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "asesinato",
+          "epoca": "1930-1939",
+          "resumen": "En la madrugada del 18 de mayo de 1936, en una posada de Tokio, la antigua geisha Sada Abe estranguló con su faja a su amante Kichizō Ishida y lo mutiló. Fue detenida días después en una posada de Shinagawa. Condenada a seis años, salió en 1941 y su historia se convirtió en un fenómeno popular que inspiró El imperio de los sentidos.",
+          "por_que": "Uno de los crímenes más famosos de Japón, convertido en mito cultural.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Sada_Abe",
+            "https://www.tokyoweekender.com/?p=197637"
+          ],
+          "riesgos": "Contenido sexual y mutilación: contar sin detalles gráficos. La fecha de la detención varía (19 o 20 de mayo); la del crimen (18) coincide."
+        },
+        {
+          "titulo_caso": "El secuestro de Zelmar Michelini y Héctor Gutiérrez Ruiz",
+          "protagonista": "Zelmar Michelini y Héctor Gutiérrez Ruiz (víctimas); represores del Plan Cóndor",
+          "fecha": "1976-05-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina / Uruguay",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 18 de mayo de 1976, dos meses después del golpe argentino, los exlegisladores uruguayos exiliados Zelmar Michelini y Héctor Gutiérrez Ruiz fueron secuestrados en Buenos Aires por un comando ilegal. Sus cuerpos, con signos de tortura, aparecieron días después en un coche abandonado junto a los de otros dos uruguayos. La justicia uruguaya procesó años después al expresidente Juan María Bordaberry por estos asesinatos.",
+          "por_que": "Uno de los crímenes emblemáticos de la coordinación represiva del Plan Cóndor.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Zelmar_Michelini",
+            "https://www.pagina12.com.ar/diario/elpais/1-52520-2005-06-17.html",
+            "https://www.elobservador.com.uy/nota/juez-argentino-reconstruyo-ultimas-horas-de-michelini-y-gutierrez-ruiz-2022122321370"
+          ],
+          "riesgos": "Comprobar el estado de las causas en Argentina y Uruguay (puede haber procesos abiertos contra otros represores). Crimen de Estado más que crónica negra."
+        },
+        {
+          "titulo_caso": "La masacre de la escuela de Bath",
+          "protagonista": "Andrew Kehoe",
+          "fecha": "1927-05-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1920-1929",
+          "resumen": "El 18 de mayo de 1927 Andrew Kehoe, tesorero de la junta escolar de Bath (Michigan), hizo estallar explosivos que había colocado durante meses bajo la escuela del pueblo, tras matar a su mujer e incendiar su granja. Después hizo explotar su coche frente a la escuela y se mató. Murieron 44 personas, 38 de ellas niños.",
+          "por_que": "La matanza escolar más mortífera de la historia de Estados Unidos, casi olvidada.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Bath_School_disaster",
+            "https://www.onthisday.com/date/1927/may/18"
+          ],
+          "riesgos": "Víctimas mayoritariamente niños: no nombrarlos y evitar detalles. Sin juicio (el autor murió)."
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "candidatos": [
+        {
+          "titulo_caso": "Oscar Wilde, condenado por «indecencia grave»",
+          "protagonista": "Oscar Wilde",
+          "fecha": "1895-05-25",
+          "tipo_efemeride": "condena",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "Siglo XIX",
+          "resumen": "Tras perder el pleito por difamación que él mismo había iniciado contra el marqués de Queensberry, Oscar Wilde fue procesado por sus relaciones con hombres. El 25 de mayo de 1895, en su segundo juicio, fue declarado culpable de «indecencia grave» y condenado a dos años de trabajos forzados, la pena máxima. Salió arruinado y murió en París en 1900. En 2017 recibió un indulto póstumo.",
+          "por_que": "El escritor más brillante de su época, destruido por una ley que hoy se considera injusta.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Oscar_Wilde",
+            "https://www.onthisday.com/date/1895/may/25"
+          ],
+          "riesgos": "No es un error judicial en sentido estricto (la ley se aplicó), sino una condena hoy reconocida como injusta e indultada en 2017."
+        },
+        {
+          "titulo_caso": "El asesinato de Symon Petliura en París",
+          "protagonista": "Sholom Schwartzbard",
+          "fecha": "1926-05-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "El 25 de mayo de 1926, en la rue Racine de París, el relojero Sholom Schwartzbard mató a tiros a Symon Petliura, exjefe del Gobierno de la República Popular de Ucrania en el exilio. Schwartzbard dijo actuar para vengar los pogromos de 1919, en los que habían muerto familiares suyos. En octubre de 1927 un jurado francés lo absolvió.",
+          "por_que": "Una de las absoluciones más célebres del siglo XX: el juicio acabó siendo un juicio a los pogromos.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Symon_Petliura",
+            "https://www.onthisday.com/date/1926/may/25"
+          ],
+          "riesgos": "La responsabilidad personal de Petliura en los pogromos sigue discutida por los historiadores (y es un tema sensible en Ucrania): presentarlo como debate."
+        },
+        {
+          "titulo_caso": "Unabomber: la primera bomba",
+          "protagonista": "Theodore Kaczynski",
+          "fecha": "1978-05-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1970-1999",
+          "resumen": "El 25 de mayo de 1978 apareció en un aparcamiento de la Universidad de Illinois en Chicago un paquete con remite de un profesor de la Universidad Northwestern. Devuelto a este, explotó al día siguiente al abrirlo un policía del campus, que sufrió heridas leves. Era la primera de las 16 bombas que Theodore Kaczynski envió en 17 años, con tres muertos. Lo detuvieron en 1996 gracias a su hermano.",
+          "por_que": "El inicio de la caza más larga y cara del FBI, resuelta por un hermano que reconoció la prosa del manifiesto.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Ted_Kaczynski",
+            "https://www.fbi.gov/history/famous-cases/unabomber"
+          ],
+          "riesgos": "El paquete se encontró el 25 y explotó el 26 de mayo: la efeméride es el hallazgo del paquete. Kaczynski murió en 2023; caso cerrado."
+        }
+      ]
+    },
+    {
+      "dia": 27,
+      "candidatos": [
+        {
+          "titulo_caso": "El envenenador de Rugeley, declarado culpable",
+          "protagonista": "William Palmer",
+          "fecha": "1856-05-27",
+          "tipo_efemeride": "condena",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "Siglo XIX",
+          "resumen": "El médico William Palmer, de Rugeley, acosado por las deudas de las apuestas, fue juzgado en el Old Bailey por envenenar con estricnina a su amigo John Parsons Cook. Tras un juicio de doce días, el 27 de mayo de 1856 el jurado lo declaró culpable en algo más de una hora; fue ahorcado en Stafford el 14 de junio. Se sospecha que envenenó también a su esposa, a su hermano y a varios hijos.",
+          "por_que": "Un juicio tan célebre que se cambió la ley para poder celebrarlo en Londres, lejos de los jurados locales.",
+          "fuentes_fecha": [
+            "https://www.onthisday.com/date/1856/may/27",
+            "https://en.wikipedia.org/wiki/William_Palmer_(murderer)"
+          ],
+          "riesgos": "La Wikipedia no da el día exacto del veredicto (sí el inicio del juicio, el 14 de mayo, y su duración): conviene confirmarlo con el acta del Old Bailey (oldbaileyonline.org, t18560514-490). Los otros envenenamientos son sospechas, no condenas."
+        },
+        {
+          "titulo_caso": "La bomba de la via dei Georgofili",
+          "protagonista": "Cosa Nostra (Totò Riina, Leoluca Bagarella y otros)",
+          "fecha": "1993-05-27",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "En la madrugada del 27 de mayo de 1993, a la 1:04, estalló un coche bomba en la via dei Georgofili de Florencia, junto a la Galería de los Uffizi. Murieron cinco personas, entre ellas dos niñas, y quedaron dañadas obras de arte. Fue uno de los atentados de la mafia siciliana contra el Estado en 1993, y sus jefes fueron condenados a cadena perpetua.",
+          "por_que": "La mafia atacando el patrimonio artístico para chantajear al Estado.",
+          "fuentes_fecha": [
+            "https://it.wikipedia.org/wiki/Strage_di_via_dei_Georgofili",
+            "https://www.onthisday.com/date/1993/may/27"
+          ],
+          "riesgos": "Víctimas menores (no nombrarlas). Sigue habiendo investigaciones en Florencia sobre posibles instigadores externos: comprobar que no haya un proceso abierto que afecte al caso."
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato del periodista Walter Tobagi",
+          "protagonista": "Brigata XXVIII marzo (Marco Barbone y otros)",
+          "fecha": "1980-05-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 28 de mayo de 1980, a las once de la mañana, el periodista del Corriere della Sera Walter Tobagi fue asesinado de cinco disparos en la via Salaino de Milán por un comando de un grupo terrorista de extrema izquierda, la Brigata XXVIII marzo. El jefe del grupo, Marco Barbone, se acogió a la ley de arrepentidos y recibió una pena reducida, lo que causó gran polémica.",
+          "por_que": "Un periodista que estudiaba el terrorismo, asesinado por jóvenes de la burguesía milanesa.",
+          "fuentes_fecha": [
+            "https://it.wikipedia.org/wiki/Walter_Tobagi",
+            "https://en.wikipedia.org/wiki/Walter_Tobagi"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias: falta una fuente independiente para la fecha (por ejemplo, el archivo del Corriere della Sera)."
+        },
+        {
+          "titulo_caso": "Los asesinatos de Malexander",
+          "protagonista": "Jackie Arklöv, Tony Olsson y Andreas Axelsson",
+          "fecha": "1999-05-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Suecia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 28 de mayo de 1999, tras atracar un banco en Kisa, tres hombres con vínculos neonazis fueron perseguidos por la policía. En Malexander mataron con sus propias armas reglamentarias a los agentes Olle Borén y Robert Karlström. Los tres fueron condenados a cadena perpetua.",
+          "por_que": "El crimen contra la policía más impactante de la historia reciente de Suecia, que unía atraco y extremismo.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Malexander_murders",
+            "https://sv.wikipedia.org/wiki/Polismorden_i_Malexander"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias: falta una hemeroteca independiente (Aftonbladet, SVT). Los condenados viven."
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "candidatos": [
+        {
+          "titulo_caso": "El secuestro de Pedro Eugenio Aramburu",
+          "protagonista": "Montoneros (Fernando Abal Medina, Mario Firmenich y otros)",
+          "fecha": "1970-05-29",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 29 de mayo de 1970, a mediodía, dos jóvenes disfrazados de militares sacaron de su casa de Buenos Aires al expresidente de facto Pedro Eugenio Aramburu, uno de los jefes del golpe que derrocó a Perón en 1955. Era la presentación pública de Montoneros. Lo llevaron a una estancia de Timote, lo sometieron a un «juicio revolucionario» y lo mataron el 1 de junio; el cuerpo apareció en julio.",
+          "por_que": "El crimen fundacional de Montoneros, que marcó la violencia política argentina de los setenta.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Pedro_Eugenio_Aramburu",
+            "https://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu"
+          ],
+          "riesgos": "Las dos fuentes son Wikipedias: falta una hemeroteca independiente. Varios autores murieron sin juicio; tema políticamente muy sensible en Argentina."
+        },
+        {
+          "titulo_caso": "La desaparición de Norma Penjerek",
+          "protagonista": "Norma Mirta Penjerek (víctima)",
+          "fecha": "1962-05-29",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1960-1969",
+          "resumen": "La tarde del 29 de mayo de 1962 Norma Penjerek, estudiante de 16 años, salió de su clase de inglés en Buenos Aires y no llegó a casa. Su cuerpo apareció semanas después en Llavallol. El caso se mezcló con una supuesta red de prostitución y con la política de la época, hubo detenidos y versiones contradictorias, pero nunca se condenó a nadie por su muerte.",
+          "por_que": "Uno de los grandes misterios policiales argentinos de los sesenta, nunca resuelto.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Norma_Penjerek",
+            "https://www.diariopopular.com.ar/notas/104554-norma-penjerek-el-mayor-enigma-la-argentina"
+          ],
+          "riesgos": "Víctima menor (16 años), caso histórico y su nombre es el nombre del caso. Sin condena por el crimen."
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "candidatos": [
+        {
+          "titulo_caso": "El ajusticiamiento de Trujillo",
+          "protagonista": "Antonio Imbert, Antonio de la Maza y otros conjurados",
+          "fecha": "1961-05-30",
+          "tipo_efemeride": "crimen",
+          "pais": "República Dominicana",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "La noche del 30 de mayo de 1961, a las 9:45, un grupo de conjurados emboscó en la carretera de Santo Domingo a San Cristóbal el coche del dictador Rafael Leónidas Trujillo, que gobernaba el país desde 1930, y lo mató a tiros. En los meses siguientes casi todos los conjurados fueron capturados, torturados y asesinados por el régimen; solo sobrevivieron dos.",
+          "por_que": "El final violento de una de las dictaduras más largas y crueles de América, contado por Vargas Llosa en La fiesta del Chivo.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Rafael_Le%C3%B3nidas_Trujillo",
+            "https://www.onthisday.com/date/1961/may/30"
+          ],
+          "riesgos": "En la República Dominicana los autores son considerados héroes nacionales: cuidar el enfoque (magnicidio de un dictador)."
+        },
+        {
+          "titulo_caso": "El asesinato del periodista Manuel Buendía",
+          "protagonista": "José Antonio Zorrilla Pérez (condenado como autor intelectual) y Juan Rafael Moro Ávila",
+          "fecha": "1984-05-30",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 30 de mayo de 1984 el columnista Manuel Buendía, autor de la columna «Red Privada» de Excélsior y el periodista más influyente de México, fue asesinado por la espalda al salir de su oficina en la Ciudad de México. Años después se condenó como autor intelectual a José Antonio Zorrilla, exdirector de la Dirección Federal de Seguridad, y como autor material a un agente.",
+          "por_que": "El crimen que destapó la connivencia entre la policía política y el narcotráfico en México.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Manuel_Buend%C3%ADa",
+            "https://en.wikipedia.org/wiki/Manuel_Buend%C3%ADa"
+          ],
+          "riesgos": "Las dos fuentes de la fecha son Wikipedias (es y en): falta una hemeroteca mexicana independiente. Comprobar nombres y penas de los condenados antes de la ficha."
+        },
+        {
+          "titulo_caso": "El asesinato de Stephany Flores en Lima",
+          "protagonista": "Joran van der Sloot",
+          "fecha": "2010-05-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Perú",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "2010-2015",
+          "resumen": "El 30 de mayo de 2010, justo cinco años después de la desaparición de Natalee Holloway en Aruba, el neerlandés Joran van der Sloot mató a la estudiante peruana Stephany Flores, de 21 años, en su habitación de un hotel de Lima, y huyó a Chile, donde fue detenido. En 2012 fue condenado en Perú a 28 años. En 2023, extraditado a EE. UU., confesó también haber matado a Holloway.",
+          "por_que": "Un crimen que reabrió uno de los casos de desaparición más mediáticos del mundo.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Joran_van_der_Sloot",
+            "http://www.cnn.com/2010/CRIME/06/04/peru.murder.case/"
+          ],
+          "riesgos": "La crónica de CNN confirma el caso pero no el día exacto: falta una segunda fuente que fije la fecha (la sentencia peruana). Comprobar que no queden procesos abiertos en EE. UU. Autor vivo."
+        }
+      ]
+    },
+    {
+      "dia": 31,
+      "candidatos": [
+        {
+          "titulo_caso": "La bomba de Mateo Morral en la boda de Alfonso XIII",
+          "protagonista": "Mateo Morral",
+          "fecha": "1906-05-31",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "magnicidio",
+          "epoca": "Siglo XX (1900-1909)",
+          "resumen": "El 31 de mayo de 1906, hacia las dos de la tarde, el anarquista Mateo Morral lanzó un ramo de flores con una bomba desde un balcón del número 88 de la calle Mayor de Madrid contra la carroza de Alfonso XIII y Victoria Eugenia, que volvían de su boda. Los reyes salieron ilesos, pero murieron unas 25 personas. Morral huyó y, dos días después, reconocido en Torrejón de Ardoz, mató a un guarda y se suicidó.",
+          "por_que": "El atentado más sangriento contra un rey español, en el día de su boda y en plena calle Mayor.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Mateo_Morral",
+            "https://en.wikipedia.org/wiki/Morral_affair",
+            "https://www.onthisday.com/date/1906/may/31"
+          ],
+          "riesgos": "La cifra de muertos varía (23-30). Un estudio forense moderno cuestiona la versión oficial de su suicidio. Ferrer Guardia fue juzgado y absuelto por este atentado."
+        },
+        {
+          "titulo_caso": "La desaparición de Mona Blades",
+          "protagonista": "Mona Elizabeth Blades (víctima)",
+          "fecha": "1975-05-31",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Nueva Zelanda",
+          "region": "oceania",
+          "tipo_caso": "desaparicion",
+          "epoca": "1970-1979",
+          "resumen": "El sábado 31 de mayo de 1975 Mona Blades, de 18 años, salió a hacer autostop de Hamilton a Hastings para un fin de semana largo y desapareció en la carretera del desierto, cerca de Taupō. Testigos la vieron subir a un coche. Nunca se encontró su cuerpo y nadie ha sido acusado; la policía neozelandesa sigue pidiendo pistas como caso sin resolver.",
+          "por_que": "El gran misterio sin resolver de Nueva Zelanda: medio siglo de pistas y ningún culpable.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Disappearance_of_Mona_Blades",
+            "https://www.police.govt.nz/stolenwanted/coldcase/2020/mona-elizabeth-blades-1975"
+          ],
+          "riesgos": "Caso abierto policialmente (sin sospechoso acusado): no señalar a nadie. La familia sigue implicada."
+        },
+        {
+          "titulo_caso": "El asesinato del doctor George Tiller",
+          "protagonista": "Scott Roeder",
+          "fecha": "2009-05-31",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "2000-2009",
+          "resumen": "El domingo 31 de mayo de 2009 el médico George Tiller, uno de los pocos que practicaban abortos tardíos en Estados Unidos, fue asesinado de un disparo en la cabeza mientras servía en la iglesia luterana de la Reforma, en Wichita (Kansas). El autor, el activista antiabortista Scott Roeder, fue detenido horas después y condenado a cadena perpetua en 2010.",
+          "por_que": "Un asesinato por motivos ideológicos dentro de una iglesia, culminación de años de acoso al médico.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_George_Tiller",
+            "https://www.onthisday.com/date/2009/may/31"
+          ],
+          "riesgos": "Tema muy polarizado (aborto): enfoque estrictamente factual. La pena de Roeder se revisó (de 50 a 25 años mínimos): comprobar que no queden recursos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1291 @@
+{
+  "mes": 8,
+  "dias": [
+    {
+      "dia": 1,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de los marqueses de Urquijo",
+          "protagonista": "Rafael Escobedo (condenado)",
+          "fecha": "1980-08-01",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "En la madrugada del 1 de agosto de 1980, María Lourdes de Urquijo y su marido, Manuel de la Sierra, fueron asesinados a tiros mientras dormían en su chalé de Somosaguas (Madrid); una criada halló los cuerpos por la mañana. Su yerno, Rafael Escobedo, fue el único condenado como autor (53 años de prisión, «solo o en compañía de otros») y se suicidó en la cárcel en 1988 sosteniendo su inocencia.",
+          "por_que": "El crimen de la aristocracia que obsesionó a la España de la Transición: condena por indicios, un yerno en el banquillo y cómplices que nunca se aclararon.",
+          "fuentes_fecha": [
+            "https://www.economistjurist.es/articulos-juridicos-destacados/1980-asesinato-de-los-marqueses-de-urquijo",
+            "https://www.esdiario.com/nacional/250730/164275/45-anos-asesinato-marqueses-urquijo-todas-claves-crimen-famoso-espana.html"
+          ],
+          "riesgos": "La posible participación de otros (Javier Anastasio, que huyó antes de ser juzgado, y otros señalados por Escobedo) nunca quedó probada: no atribuir nada no juzgado. Familia conocida; hijos de los marqueses fallecidos recientemente."
+        },
+        {
+          "titulo_caso": "Tiroteo de la torre de la Universidad de Texas",
+          "protagonista": "Charles Whitman",
+          "fecha": "1966-08-01",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 1 de agosto de 1966, Charles Whitman, exmarine y estudiante de ingeniería, mató a su madre y a su esposa y después disparó durante unos 96 minutos desde el mirador de la torre del campus de Austin, hasta que la policía lo abatió. Las fuentes dan entre 15 y 17 víctimas mortales y 31 heridos.",
+          "por_que": "El primer gran tiroteo masivo vivido en directo en EE. UU.; la autopsia halló un tumor cerebral y abrió un debate que aún dura sobre sus causas.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/event/Texas-Tower-shooting-of-1966",
+            "https://en.wikipedia.org/wiki/University_of_Texas_tower_shooting"
+          ],
+          "riesgos": "Cifras de víctimas distintas según la fuente (incluido un bebé no nacido). El papel del tumor en el crimen es una hipótesis, no un hecho."
+        },
+        {
+          "titulo_caso": "La Pantera Negra",
+          "protagonista": "Donald Neilson",
+          "fecha": "1936-08-01",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1930-1939",
+          "resumen": "Donald Neilson, apodado «la Pantera Negra», mató a tres empleados de oficinas de correos durante atracos en 1974 y secuestró a Lesley Whittle, de 17 años, que apareció muerta en 1975. Fue detenido a finales de 1975, condenado a cadena perpetua y murió en prisión en 2011.",
+          "por_que": "Uno de los casos que más movilizó a la policía británica en los setenta, con fallos de la investigación muy estudiados.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Donald_Neilson",
+            "https://criminaldiscoursepodcast.com/wp-content/uploads/2023/01/timeline.pdf"
+          ],
+          "riesgos": "Víctima de 17 años (menor), con nombre público e histórico. El lugar de nacimiento varía (Bradford o Morley), no la fecha."
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Wild Bill Hickok",
+          "protagonista": "Jack McCall",
+          "fecha": "1876-08-02",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "historico",
+          "epoca": "siglo XIX",
+          "resumen": "El 2 de agosto de 1876, Jack McCall disparó por la espalda a James Butler «Wild Bill» Hickok mientras jugaba al póquer en el saloon Nuttall & Mann's de Deadwood (Territorio de Dakota). Un tribunal improvisado de mineros lo absolvió; fue juzgado de nuevo en Yankton y ahorcado el 1 de marzo de 1877.",
+          "por_que": "Origen de la «mano del muerto» (ases y ochos negros) y de un juicio que hubo que repetir porque el primero no tenía validez legal.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/biography/Wild-Bill-Hickok",
+            "https://history.com/this-day-in-history/wild-bill-hickok-is-murdered"
+          ],
+          "riesgos": "El móvil sigue discutido (McCall alegó vengar a un hermano que nunca existió; se habló de un encargo). La quinta carta de la mano es desconocida."
+        },
+        {
+          "titulo_caso": "El escándalo de los Black Sox: la absolución",
+          "protagonista": "Jugadores de los Chicago White Sox de 1919",
+          "fecha": "1921-08-02",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "estafa",
+          "epoca": "1920-1929",
+          "resumen": "El 2 de agosto de 1921, un jurado de Chicago absolvió a los jugadores de los White Sox acusados de amañar la Serie Mundial de 1919 a cambio de dinero de apostadores. Al día siguiente, el comisionado Kenesaw Landis los expulsó de por vida del béisbol profesional.",
+          "por_que": "El mayor fraude deportivo de la historia de EE. UU.: absueltos por la justicia y condenados por el béisbol.",
+          "fuentes_fecha": [
+            "https://sabr.org/century/1921/black-sox",
+            "https://www.britannica.com/event/Black-Sox-Scandal"
+          ],
+          "riesgos": "La efeméride es un veredicto absolutorio (no hay tipo «absolución»). El grado de culpa de algunos jugadores sigue discutido."
+        },
+        {
+          "titulo_caso": "Jorge Rafael Videla, el dictador condenado",
+          "protagonista": "Jorge Rafael Videla",
+          "fecha": "1925-08-02",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "1920-1929",
+          "resumen": "Jorge Rafael Videla, nacido en Mercedes (Buenos Aires), encabezó la junta militar que tomó el poder en 1976. Fue condenado a cadena perpetua en el Juicio a las Juntas (1985), indultado en 1990 y condenado de nuevo por crímenes de lesa humanidad y por el plan sistemático de robo de bebés; murió en prisión en 2013.",
+          "por_que": "El Juicio a las Juntas fue un hito judicial mundial: un dictador juzgado y condenado por tribunales civiles de su propio país.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/biography/Jorge-Rafael-Videla",
+            "https://www.infobae.com/2013/05/17/711080-videla-el-ideologo-la-peor-dictadura-argentina/"
+          ],
+          "riesgos": "Crímenes de Estado y lesa humanidad, no un caso criminal convencional: tono muy delicado; víctimas desaparecidas y familias activas."
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "candidatos": [
+        {
+          "titulo_caso": "Secuestro y asesinato de Roberto Peci",
+          "protagonista": "Brigadas Rojas (facción de Giovanni Senzani)",
+          "fecha": "1981-08-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1980-1989",
+          "resumen": "Roberto Peci, hermano de Patrizio Peci, el primer gran arrepentido de las Brigadas Rojas, fue secuestrado el 10 de junio de 1981 en San Benedetto del Tronto, sometido a un «juicio» filmado y asesinado el 3 de agosto de 1981 en una casa abandonada de las afueras de Roma, como venganza contra su hermano. El jefe de la facción, Giovanni Senzani, cumplió condena por el crimen.",
+          "por_que": "Un secuestro-represalia que mostró el lado más oscuro de los «años de plomo» italianos.",
+          "fuentes_fecha": [
+            "https://www.sempreperlaverita.it/roberto-peci-english-version/",
+            "https://it.wikipedia.org/wiki/Roberto_Peci"
+          ],
+          "riesgos": "Contexto de terrorismo político. Las fuentes difieren en detalles del lugar y del arma."
+        },
+        {
+          "titulo_caso": "Asesinato de Ezzedine Kalak, representante de la OLP en París",
+          "protagonista": "Hatem Husni y Kayad Assad (condenados)",
+          "fecha": "1978-08-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 3 de agosto de 1978, Ezzedine Kalak, jefe de la oficina de la OLP en París, y su ayudante Adnan Hammad fueron asesinados a tiros en la sede de la organización; otras tres personas resultaron heridas. Los autores, dos estudiantes del grupo de Abu Nidal, fueron detenidos en el acto, condenados en 1980 a quince años y liberados y expulsados de Francia en 1986 tras negociaciones con la organización.",
+          "por_que": "Un crimen de la guerra entre facciones palestinas en pleno París, con una liberación negociada que causó polémica.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Ezzedine_Kalak",
+            "https://www.nytimes.com/1978/08/04/archives/2-plo-men-in-paris-slain-in-arab-feud-palestinians-accuse-the.html"
+          ],
+          "riesgos": "Terrorismo y conflicto político: candidato débil. La segunda fuente (The New York Times, 4/8/1978) está citada en Wikipedia pero no se pudo abrir desde aquí; otra fuente independiente solo daba «agosto de 1978». Las búsquedas no dieron ningún otro caso sólido para este día."
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "candidatos": [
+        {
+          "titulo_caso": "Los crímenes de Lizzie Borden",
+          "protagonista": "Lizzie Borden (absuelta)",
+          "fecha": "1892-08-04",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "sin_resolver",
+          "epoca": "siglo XIX",
+          "resumen": "El 4 de agosto de 1892, Andrew Borden y su esposa Abby aparecieron muertos a hachazos en su casa de Fall River (Massachusetts). Su hija Lizzie fue detenida el 11 de agosto, juzgada en 1893 y absuelta por un jurado; nadie más fue acusado y el doble crimen sigue oficialmente sin resolver.",
+          "por_que": "Una absolución célebre que convirtió a Lizzie Borden en leyenda (y en canción infantil) pese a no haber sido condenada.",
+          "fuentes_fecha": [
+            "https://www.foxnews.com/lifestyle/this-day-history-august-4-1892-lizzie-bordens-father-stepmother-murdered-massachusetts",
+            "https://womenshistory.org/node/202"
+          ],
+          "riesgos": "Fue absuelta: no presentarla como autora. Evitar detalles gráficos de las heridas."
+        },
+        {
+          "titulo_caso": "Mississippi Burning: el hallazgo de los tres activistas",
+          "protagonista": "Miembros del Ku Klux Klan de Neshoba (Edgar Ray Killen y otros)",
+          "fecha": "1964-08-04",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 4 de agosto de 1964, el FBI halló enterrados en una presa de tierra cerca de Filadelfia (Misisipi) los cuerpos de James Chaney, Andrew Goodman y Michael Schwerner, activistas por los derechos civiles desaparecidos el 21 de junio. En 1967 siete hombres fueron condenados por violar sus derechos civiles y en 2005 Edgar Ray Killen fue condenado por homicidio.",
+          "por_que": "Un crimen racista con complicidad policial que tardó 41 años en llegar a una condena por homicidio.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/august-4/slain-civil-rights-workers-found",
+            "https://www.pbs.org/wgbh/americanexperience/features/freedomsummer-murder/"
+          ],
+          "riesgos": "Crimen racista: tratar con cuidado. Sin candidato de España, Hispanoamérica o Europa para este día (las búsquedas no dieron ninguno sólido)."
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "candidatos": [
+        {
+          "titulo_caso": "El caso Dominici (crimen de Lurs)",
+          "protagonista": "Gaston Dominici (condenado, culpabilidad discutida)",
+          "fecha": "1952-08-05",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1950-1959",
+          "resumen": "En la noche del 4 al 5 de agosto de 1952, el científico británico Jack Drummond, su esposa Anne y su hija Elizabeth, de 10 años, fueron asesinados junto a su coche cerca de la granja de La Grand'Terre, en Lurs (Alta Provenza); los cuerpos aparecieron horas después junto a la carretera nacional 96. El patriarca Gaston Dominici fue condenado a muerte en 1954, después fue indultado y murió en 1965; su culpabilidad sigue discutida.",
+          "por_que": "El gran misterio judicial francés de la posguerra: confesiones cambiantes, una familia que se acusa entre sí y una condena que muchos nunca creyeron.",
+          "fuentes_fecha": [
+            "https://fresques.ina.fr/sudorama/fiche-media/00000000348/l-affaire-dominici.html",
+            "https://en.wikipedia.org/wiki/Dominici_affair"
+          ],
+          "riesgos": "El crimen fue en la noche del 4 al 5: la efeméride elegida es el hallazgo de los cuerpos (madrugada-mañana del 5), conviene confirmar la hora en una fuente explícita. Víctima menor (10 años) en caso histórico. Condena muy discutida: no presentar a Dominici como culpable probado."
+        },
+        {
+          "titulo_caso": "Stringtown: el primer policía muerto por la banda de Bonnie y Clyde",
+          "protagonista": "Clyde Barrow y sus cómplices",
+          "fecha": "1932-08-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1930-1939",
+          "resumen": "El 5 de agosto de 1932, durante un baile al aire libre en Stringtown (Oklahoma), Clyde Barrow y sus compinches (entre ellos Raymond Hamilton) dispararon contra el sheriff C. G. Maxwell y su ayudante Eugene C. Moore, que se habían acercado a su coche: Moore murió y Maxwell quedó gravemente herido. Fue el primer agente de la ley muerto por la que luego sería la banda de Bonnie y Clyde.",
+          "por_que": "El momento en que una banda de ladrones de poca monta pasó a ser perseguida por asesinar a un policía.",
+          "fuentes_fecha": [
+            "https://www.odmp.org/officer/9549-deputy-sheriff-eugene-c.-moore",
+            "https://www.okhistory.org/publications/enc/entry.php?entry=ST050"
+          ],
+          "riesgos": "Las fuentes difieren en el cargo de Moore (ayudante o subsheriff) y en el motivo del encuentro."
+        }
+      ]
+    },
+    {
+      "dia": 6,
+      "candidatos": [
+        {
+          "titulo_caso": "La desaparición del juez Crater",
+          "protagonista": "Joseph Force Crater",
+          "fecha": "1930-08-06",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "desaparicion",
+          "epoca": "1930-1939",
+          "resumen": "El 6 de agosto de 1930, Joseph Force Crater, juez del Tribunal Supremo del Estado de Nueva York, salió de un restaurante de Manhattan y no volvió a ser visto. Desapareció en plena investigación sobre la corrupción en la ciudad; un gran jurado escuchó a 95 testigos sin resultado y fue declarado legalmente muerto en 1939.",
+          "por_que": "«El hombre más desaparecido de Nueva York»: un misterio sin resolver que se convirtió en chiste popular durante décadas.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/august-6/joseph-force-crater-becomes-the-missingest-man-in-new-york",
+            "https://en.wikipedia.org/wiki/Joseph_Force_Crater"
+          ],
+          "riesgos": "Sin resolver: no presentar como hechos las teorías sobre su muerte. Los detalles de la última vez que se le vio (taxi) varían según la fuente."
+        },
+        {
+          "titulo_caso": "Asesinato del presidente Gabriel García Moreno",
+          "protagonista": "Faustino Rayo y otros conjurados",
+          "fecha": "1875-08-06",
+          "tipo_efemeride": "crimen",
+          "pais": "Ecuador",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "siglo XIX",
+          "resumen": "El 6 de agosto de 1875, el presidente de Ecuador Gabriel García Moreno fue atacado en Quito, junto al Palacio de Gobierno, por Faustino Rayo, que lo hirió con un machete, mientras otros conjurados disparaban sus revólveres. Rayo murió de un disparo ese mismo día y uno de los cómplices fue fusilado; otros huyeron.",
+          "por_que": "El magnicidio que cerró la era garciana y sigue dividiendo a los historiadores ecuatorianos sobre sus autores intelectuales.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Faustino_Rayo",
+            "https://www.expreso.ec/opinion/carta-de-lectores/151-anos-muerte-garcia-moreno-legado-controversias-291588.html"
+          ],
+          "riesgos": "La segunda fuente es una carta de lectores de Expreso por el 151.º aniversario: conviene sustituirla por una fuente más sólida. Hay versiones distintas sobre quién mató a Rayo y sobre los inductores."
+        },
+        {
+          "titulo_caso": "El robo de la joyería Graff de Londres",
+          "protagonista": "Aman Kassaye y su banda",
+          "fecha": "2009-08-06",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "2000-2009",
+          "resumen": "El 6 de agosto de 2009, atracadores armados y disfrazados con prótesis de látex entraron en la joyería Graff de New Bond Street (Londres) y se llevaron 43 joyas y relojes valorados en casi 40 millones de libras, el mayor robo de joyas de la historia británica. Kassaye fue condenado a 23 años y otros cuatro hombres a entre 16 y 21; en 2011 las joyas seguían sin aparecer.",
+          "por_que": "Un golpe de película con maquilladores de cine y un botín que nunca se recuperó.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/2009_Graff_Diamonds_robbery",
+            "https://www.telegraph.co.uk/news/uknews/6010698/Graff-Diamonds-40-million-jewellery-robbery-is-Britains-biggest-gem-heist.html"
+          ],
+          "riesgos": "La segunda fuente (The Telegraph, 11/08/2009) está citada en Wikipedia pero no se pudo abrir desde aquí (dominio bloqueado): conviene confirmarla."
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "candidatos": [
+        {
+          "titulo_caso": "El gran robo del tren de Glasgow a Londres",
+          "protagonista": "Banda de Bruce Reynolds",
+          "fecha": "1963-08-08",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1960-1969",
+          "resumen": "En la madrugada del 8 de agosto de 1963, una banda de unos quince hombres dirigida por Bruce Reynolds manipuló una señal, detuvo el tren correo de Glasgow a Londres en Buckinghamshire y robó unos 2,6 millones de libras junto al puente de Bridego. El maquinista Jack Mills fue golpeado y no se recuperó del todo; la banda se refugió en la granja de Leatherslade.",
+          "por_que": "El «robo del siglo» británico: planificación militar, botín récord y fugitivos legendarios como Ronnie Biggs.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/event/Great-Train-Robbery",
+            "https://www.crimeandinvestigation.co.uk/crime-files/great-train-robbery"
+          ],
+          "riesgos": "El número de miembros de la banda varía según la fuente (15 o 16)."
+        },
+        {
+          "titulo_caso": "Asesinato de Antonio Cánovas del Castillo",
+          "protagonista": "Michele Angiolillo",
+          "fecha": "1897-08-08",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "magnicidio",
+          "epoca": "siglo XIX",
+          "resumen": "El 8 de agosto de 1897, el anarquista italiano Michele Angiolillo mató a tiros al presidente del Consejo de Ministros, Antonio Cánovas del Castillo, que veraneaba en el balneario de Santa Águeda (Mondragón, Guipúzcoa). Dijo vengar las torturas del proceso de Montjuïc y fue ejecutado a garrote vil el 20 de agosto.",
+          "por_que": "El magnicidio que descabezó la Restauración en plena crisis de Cuba y Filipinas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Antonio_C%C3%A1novas_del_Castillo",
+            "https://spagnacontemporanea.it/index.php/spacon/article/view/759"
+          ],
+          "riesgos": "Magnicidio político (anarquismo): sin justificar ni glorificar al autor."
+        },
+        {
+          "titulo_caso": "El crimen del Granero Rojo",
+          "protagonista": "William Corder",
+          "fecha": "1828-08-08",
+          "tipo_efemeride": "condena",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "siglo XIX",
+          "resumen": "Maria Marten desapareció en 1827 tras citarse con su amante, William Corder, en el Granero Rojo de Polstead (Suffolk); su cuerpo apareció enterrado allí en 1828. Corder fue juzgado en Bury St Edmunds el 7 y 8 de agosto de 1828, declarado culpable tras 35 minutos de deliberación y ahorcado el 11 de agosto ante miles de personas.",
+          "por_que": "El crimen victoriano que se convirtió en melodrama teatral, baladas y souvenirs: el primer «true crime» de masas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Red_Barn_Murder",
+            "https://archive.spectator.co.uk/article/9th-august-1828/7/the-trial-of-william-corder-of-polstead-for-the-mu"
+          ],
+          "riesgos": "Las fuentes vistas sitúan el juicio el 7 y 8 de agosto; que el veredicto se diera el 8 se deduce del fin del juicio y conviene confirmarlo. Las cifras del público en la ejecución varían."
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Joe Orton",
+          "protagonista": "Kenneth Halliwell",
+          "fecha": "1967-08-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 9 de agosto de 1967, el dramaturgo Joe Orton, autor de «Loot» y «Entertaining Mr Sloane», fue asesinado en su piso de Islington (Londres) por su pareja, Kenneth Halliwell, que se quitó la vida a continuación.",
+          "por_que": "La muerte de la gran estrella del teatro británico de los sesenta a manos de su mentor y compañero, en pleno éxito.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Joe_Orton",
+            "https://pasttense.co.uk/2016/08/09/today-in-london-history-subversive-playwright-joe-orton-murdered-by-his-jealous-boyfriend-islington-1967/"
+          ],
+          "riesgos": "No hubo juicio (el autor se suicidó). Evitar detalles gráficos."
+        },
+        {
+          "titulo_caso": "Masacre de Hoddle Street",
+          "protagonista": "Julian Knight",
+          "fecha": "1987-08-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 9 de agosto de 1987, Julian Knight, de 19 años y excadete militar, disparó contra coches y peatones en Hoddle Street (Clifton Hill, Melbourne): mató a siete personas e hirió a diecinueve. Se declaró culpable y fue condenado a cadena perpetua.",
+          "por_que": "La matanza que abrió el debate australiano sobre las armas, nueve años antes de Port Arthur.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hoddle_Street_massacre",
+            "https://knowledge.aidr.org.au/resources/criminal-hoddle-street-shooting/"
+          ],
+          "riesgos": "Una fuente aislada da el 8 de agosto; la mayoría, el 9 (de 21:29 a 22:14). Relacionado temáticamente con Martin Bryant (Port Arthur), ya en el archivo."
+        },
+        {
+          "titulo_caso": "Asesinato del senador Manuel Cepeda Vargas",
+          "protagonista": "Suboficiales del Ejército colombiano y paramilitares",
+          "fecha": "1994-08-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "En la mañana del 9 de agosto de 1994, el senador Manuel Cepeda Vargas, de la Unión Patriótica, fue asesinado a tiros en Bogotá cuando iba al Congreso. Los sargentos del Ejército Hernando Medina Camacho y Justo Gil Zúñiga fueron condenados, y en 2010 la Corte Interamericana declaró la responsabilidad del Estado colombiano.",
+          "por_que": "Un crimen emblemático del exterminio de la Unión Patriótica, con una condena internacional al Estado.",
+          "fuentes_fecha": [
+            "https://www.elespectador.com/politica/a-22-anos-del-asesinato-de-manuel-cepeda-vargas-article-648132/",
+            "https://ipu.org/news/features/human-rights-cases/2014-05/manuel-cepeda-vargas-colombia"
+          ],
+          "riesgos": "Violencia política. Medina Camacho se fugó y fue recapturado en 2025; la justicia habla de otros agentes del Estado aún sin identificar y la Corte IDH sigue supervisando la sentencia: comprobar que no hay procesos penales abiertos antes de elegirlo."
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "candidatos": [
+        {
+          "titulo_caso": "Alvin «Creepy» Karpis, el enemigo público número uno",
+          "protagonista": "Alvin Karpis",
+          "fecha": "1907-08-10",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Canadá / Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1900-1909",
+          "resumen": "Alvin Karpis, nacido en Montreal, cofundó la banda Barker-Karpis, autora de atracos y de los secuestros de los empresarios William Hamm (1933) y Edward Bremer (1934). Detenido en 1936 en Nueva Orleans en una operación dirigida por J. Edgar Hoover, pasó más de 25 años en Alcatraz, más que ningún otro preso.",
+          "por_que": "El último gran gánster de la era de los «enemigos públicos» y el preso que más tiempo pasó en Alcatraz.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Alvin_Karpis",
+            "https://ebsco.com/research-starters/biography/alvin-karpis"
+          ],
+          "riesgos": "EBSCO da el 10 de agosto pero de 1908; la mayoría de fuentes, 1907: confirmar el año. Las fuentes difieren en la duración exacta en Alcatraz (25 o 26 años)."
+        },
+        {
+          "titulo_caso": "Secuestro y asesinato de Dan Mitrione",
+          "protagonista": "MLN-Tupamaros",
+          "fecha": "1970-08-10",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Uruguay",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 10 de agosto de 1970 apareció en un coche en Montevideo el cuerpo de Dan Mitrione, asesor policial estadounidense secuestrado el 31 de julio por el MLN-Tupamaros, que lo mató al no conseguir la liberación de presos que exigía.",
+          "por_que": "Un secuestro político que inspiró la película «Estado de sitio» de Costa-Gavras y aún divide a Uruguay.",
+          "fuentes_fecha": [
+            "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB324/index.htm",
+            "https://en.wikipedia.org/wiki/Dan_Mitrione"
+          ],
+          "riesgos": "Violencia política (guerrilla). Las acusaciones sobre su papel en la enseñanza de torturas son discutidas. No consta si hubo condenas por el crimen: comprobarlo."
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del forense Paolo Giaccone",
+          "protagonista": "Cosa Nostra",
+          "fecha": "1982-08-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 11 de agosto de 1982, el médico forense y profesor Paolo Giaccone fue asesinado a tiros por la Mafia en los jardines del Policlínico de Palermo, por negarse a alterar un peritaje que incriminaba a un mafioso. El autor material, Salvatore Rotolo, fue condenado a cadena perpetua en el primer maxiproceso.",
+          "por_que": "Un perito que pagó con la vida no falsear una prueba: la Mafia contra la ciencia forense.",
+          "fuentes_fecha": [
+            "https://www.blogsicilia.it/palermo/mafia-giaccone-cosa-nostra-malaffare-commemorazione/625917/",
+            "https://www.balarm.it/news/l-eroe-dimenticato-che-a-palermo-disse-no-alla-mafia-un-libro-racconta-paolo-giaccone-167467"
+          ],
+          "riesgos": "Las fuentes difieren en si el peritaje era dactiloscópico o balístico."
+        },
+        {
+          "titulo_caso": "El atraco a la joyería del hotel Carlton de Cannes",
+          "protagonista": "Banda de atracadores armados",
+          "fecha": "1994-08-11",
+          "tipo_efemeride": "golpe",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1990-1999",
+          "resumen": "El 11 de agosto de 1994, tres hombres con armas automáticas irrumpieron en la joyería del hotel Carlton de Cannes y dispararon contra las paredes y el techo (según informes posteriores, con balas de fogueo) antes de llevarse joyas valoradas en unos 45-60 millones de dólares.",
+          "por_que": "Un golpe relámpago en la Croisette, en uno de los hoteles más vigilados de la Costa Azul.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Carlton_Cannes_Hotel",
+            "https://www.nationalgeographic.com/culture/article/130509-diamond-heist-crime-jewel-thief"
+          ],
+          "riesgos": "El botín varía según la fuente. No confundir con el robo del mismo hotel de julio de 2013. No he podido confirmar si hubo detenidos: comprobarlo."
+        },
+        {
+          "titulo_caso": "Claus von Bülow, condenado y absuelto",
+          "protagonista": "Claus von Bülow (absuelto)",
+          "fecha": "1926-08-11",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Estados Unidos (nacido en Dinamarca)",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1920-1929",
+          "resumen": "Claus von Bülow, nacido en Copenhague, fue condenado en 1982 por intentar matar con insulina a su esposa, la millonaria Sunny von Bülow, que quedó en coma en Newport (Rhode Island). La condena se anuló en apelación y en 1985 fue absuelto en un segundo juicio.",
+          "por_que": "Una de las absoluciones más célebres de EE. UU., llevada al cine en «El misterio von Bülow».",
+          "fuentes_fecha": [
+            "https://www.irishtimes.com/life-and-style/people/claus-von-bulow-obituary-a-famously-scandalous-life-1.3918334",
+            "https://www.nbcnews.com/news/us-news/claus-von-bulow-socialite-cleared-attempted-murder-wife-dies-92-n1012351"
+          ],
+          "riesgos": "Fue absuelto: no presentarlo como culpable. Murió en 2019."
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "candidatos": [
+        {
+          "titulo_caso": "La matanza de policías de Braybrook Street (Shepherd's Bush)",
+          "protagonista": "Harry Roberts, John Duddy y John Witney",
+          "fecha": "1966-08-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 12 de agosto de 1966, tres policías de paisano fueron asesinados a tiros en Braybrook Street (Shepherd's Bush, Londres) al acercarse a una furgoneta en la que iban Harry Roberts, John Duddy y John Witney. Los tres fueron condenados a cadena perpetua; Roberts, tras meses huido, salió en libertad condicional en 2014.",
+          "por_que": "El crimen contra la policía que más conmocionó al Londres de los sesenta y una de las mayores cazas del hombre del país.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Shepherd%27s_Bush_murders",
+            "https://www.onlondon.co.uk/john-vane-harry-roberts-london-killer/"
+          ],
+          "riesgos": "Víctimas con nombres públicos (policías). Las fuentes difieren en la fecha exacta de la libertad condicional de Roberts."
+        },
+        {
+          "titulo_caso": "La caída de Charles Ponzi",
+          "protagonista": "Charles Ponzi",
+          "fecha": "1920-08-12",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "estafa",
+          "epoca": "1920-1929",
+          "resumen": "Charles Ponzi, inmigrante italiano que prometía enormes beneficios en pocas semanas con cupones de respuesta postal internacional, se entregó a un alguacil federal en Boston el 12 de agosto de 1920, cuando su sistema se derrumbó; fue acusado de 86 delitos de fraude postal y pasó unos catorce años en prisión. Su nombre bautizó para siempre el fraude piramidal.",
+          "por_que": "El estafador que dio nombre al «esquema Ponzi».",
+          "fuentes_fecha": [
+            "https://www.biography.com/crime/charles-ponzi",
+            "https://www.wgbh.org/news/local/2014-07-25/this-week-in-history-the-boston-post-takes-down-charles-ponzi"
+          ],
+          "riesgos": "La mayoría de fuentes (incluida prensa de 1920) dan el 12 de agosto; alguna da el 11 o el 13."
+        },
+        {
+          "titulo_caso": "La fuga de Charlie Wilson, ladrón del tren de Glasgow",
+          "protagonista": "Charlie Wilson",
+          "fecha": "1964-08-12",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1960-1969",
+          "resumen": "El 12 de agosto de 1964, Charlie Wilson, uno de los autores del gran robo del tren de 1963, condenado a 30 años, escapó de la prisión de Winson Green (Birmingham) con la ayuda de cómplices que entraron en el penal de noche.",
+          "por_que": "La primera de las fugas que convirtieron a los ladrones del tren en leyenda.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/august-12/great-train-robber-escapes-from-prison",
+            "https://www.family-tree.co.uk/news/great-train-robber-charlie-wilson-escapes-from-prison-on-this-day-in"
+          ],
+          "riesgos": "Muy relacionado con el gran robo del tren (candidato del 8 de agosto): elegir solo uno de los dos o enlazarlos."
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Jaime Garzón",
+          "protagonista": "José Miguel Narváez (condenado) y Carlos Castaño",
+          "fecha": "1999-08-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 13 de agosto de 1999, el periodista y humorista Jaime Garzón fue asesinado a tiros en Bogotá cuando iba a la emisora en la que trabajaba. La justicia señaló al jefe paramilitar Carlos Castaño como autor intelectual (nunca pagó cárcel y murió en 2004) y condenó al exsubdirector del DAS José Miguel Narváez como determinador: 26 años, condena firme desde 2021.",
+          "por_que": "El asesinato del humorista más querido de Colombia, símbolo de la violencia contra la prensa.",
+          "fuentes_fecha": [
+            "https://cpj.org/2018/08/mastermind-convicted-in-1999-murder-of-colombian-j/",
+            "https://www.elespectador.com/judicial/jose-miguel-narvaez-tendra-que-pagar-26-anos-de-prision-por-crimen-de-jaime-garzon-article/"
+          ],
+          "riesgos": "La condena penal es firme; queda una demanda civil de repetición contra Narváez (no penal). Violencia política."
+        },
+        {
+          "titulo_caso": "La detención de Malcolm Macarthur (el escándalo GUBU)",
+          "protagonista": "Malcolm Macarthur",
+          "fecha": "1982-08-13",
+          "tipo_efemeride": "detencion",
+          "pais": "Irlanda",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 13 de agosto de 1982, la policía irlandesa detuvo a Malcolm Macarthur, buscado por los asesinatos de la enfermera Bridie Gargan y del granjero Donal Dunne, en el piso del fiscal general Patrick Connolly, que lo hospedaba sin saberlo. Fue condenado a cadena perpetua en 1983 y salió en libertad en 2012.",
+          "por_que": "Un asesino escondido en casa del fiscal general: el caso que dio a Irlanda la palabra «GUBU».",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Malcolm_MacArthur_affair",
+            "https://www.rte.ie/brainstorm/2022/0802/1313477-1982-gubu-charles-haughey-malcolm-macarthur-patrick-connolly"
+          ],
+          "riesgos": "Una pieza del Irish Times da el 4 de agosto, que es cuando llegó al piso; la detención fue el 13 según el resto. El fiscal general no tuvo responsabilidad penal."
+        },
+        {
+          "titulo_caso": "La detención de Marc Dutroux",
+          "protagonista": "Marc Dutroux",
+          "fecha": "1996-08-13",
+          "tipo_efemeride": "detencion",
+          "pais": "Bélgica",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "El 13 de agosto de 1996, la policía belga detuvo a Marc Dutroux, ya condenado antes por violaciones; dos días después rescató con vida a dos niñas secuestradas en su casa de Marcinelle. Fue condenado en 2004 a cadena perpetua por secuestros, violaciones y asesinatos. Los fallos de la investigación provocaron la «Marcha Blanca» de 1996.",
+          "por_que": "El caso que hizo temblar las instituciones belgas y obligó a reformar su policía y su justicia.",
+          "fuentes_fecha": [
+            "https://www.dhnet.be/regions/charleroi/2024/08/15/affaire-dutroux-il-y-a-28-ans-sabine-et-laetitia-ont-ete-liberees-de-leur-cave-et-lhorreur-eclatait-au-grand-jour-RUNSPIQH3NFJRITGTOJL5DLFQY/",
+            "https://www.vrt.be/vrtnws/de/2021/08/13/vor-genau-25-jahren-festnahme-von-marc-dutroux/"
+          ],
+          "riesgos": "Víctimas menores: no nombrarlas ni dar detalles. Tema muy sensible."
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "candidatos": [
+        {
+          "titulo_caso": "Mary Blandy, la envenenadora de Henley",
+          "protagonista": "Mary Blandy",
+          "fecha": "1751-08-14",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "siglo XVIII",
+          "resumen": "Francis Blandy, abogado de Henley-on-Thames, murió el 14 de agosto de 1751 tras meses ingiriendo arsénico que le daba su hija Mary, que dijo creer que era un filtro de amor enviado por su pretendiente, el capitán William Cranstoun, para que su padre aprobara la relación. Mary Blandy fue juzgada en Oxford en marzo de 1752 y ahorcada el 6 de abril.",
+          "por_que": "Uno de los primeros juicios en los que pesó una prueba química del veneno, en plena Inglaterra georgiana.",
+          "fuentes_fecha": [
+            "https://berkshirehistory.com/bios/mblandy.html",
+            "https://www.history.com/this-day-in-history/August-14/a-daughter-poisons-her-father"
+          ],
+          "riesgos": "History.com sitúa la casa «a las afueras de Londres», en contradicción con Henley; la fecha coincide."
+        },
+        {
+          "titulo_caso": "El robo del camión del correo de Plymouth",
+          "protagonista": "Atracadores desconocidos",
+          "fecha": "1962-08-14",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1960-1969",
+          "resumen": "El 14 de agosto de 1962, unos atracadores disfrazados de policías detuvieron en una carretera de Plymouth (Massachusetts) un camión del servicio postal y se llevaron más de 1,5 millones de dólares, entonces el mayor robo en efectivo de la historia de EE. UU. Los acusados fueron absueltos en 1967 y el caso sigue sin resolver.",
+          "por_que": "Un golpe perfecto: récord de botín, sin disparos y sin culpables.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Plymouth_Mail_robbery",
+            "https://themobmuseum.org/blog/the-top-5-heists-in-mob-history/"
+          ],
+          "riesgos": "Los acusados fueron absueltos: no nombrarlos como autores. Las cifras iniciales variaban (1,5 a 2 millones)."
+        },
+        {
+          "titulo_caso": "La captura de Carlos «el Chacal»",
+          "protagonista": "Ilich Ramírez Sánchez",
+          "fecha": "1994-08-14",
+          "tipo_efemeride": "detencion",
+          "pais": "Venezuela / Francia (capturado en Sudán)",
+          "region": "europa",
+          "tipo_caso": "otro",
+          "epoca": "1990-1999",
+          "resumen": "Hacia las tres de la madrugada del 14 de agosto de 1994, agentes sudaneses capturaron en Jartum al venezolano Ilich Ramírez Sánchez, «Carlos el Chacal», y lo entregaron a Francia. En 1997 fue condenado a cadena perpetua por el asesinato en París (1975) de dos agentes franceses y de un informante, y después por atentados en Francia.",
+          "por_que": "El fin de la fuga del terrorista más buscado de los años setenta y ochenta.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Carlos_the_Jackal",
+            "https://www.history.com/this-day-in-history/the-terrorist-known-as-carlos-the-jackal-is-captured"
+          ],
+          "riesgos": "Terrorismo: tono delicado. El arresto se anunció en París el 15. Autor venezolano: podría contarse como hispanoamericano. Sigue preso; en 2026 pidió la libertad condicional (trámite penitenciario, no juicio)."
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Sheikh Mujibur Rahman",
+          "protagonista": "Oficiales del ejército de Bangladés",
+          "fecha": "1975-08-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Bangladés",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "En la madrugada del 15 de agosto de 1975, militares sublevados asaltaron en Dacca la casa de Sheikh Mujibur Rahman, padre de la independencia y presidente de Bangladés, y lo mataron junto con la mayor parte de su familia; solo sobrevivieron dos hijas que estaban fuera del país. Años después, doce exoficiales fueron condenados a muerte y cinco fueron ahorcados tras rechazar el Tribunal Supremo sus apelaciones.",
+          "por_que": "El magnicidio fundacional de la historia de Bangladés, juzgado más de veinte años después.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Sheikh_Mujibur_Rahman",
+            "https://dhakacourier.com.bd/news/Essays/The-day-the-villains-murdered-the-Liberator/491"
+          ],
+          "riesgos": "Víctimas menores (un hijo de 10 años). Cifras de muertos discutidas. Tema políticamente muy cargado en Bangladés."
+        },
+        {
+          "titulo_caso": "El atentado del Teatro Nacional de Seúl",
+          "protagonista": "Mun Se-gwang",
+          "fecha": "1974-08-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Corea del Sur",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 15 de agosto de 1974, durante el acto del Día de la Liberación en el Teatro Nacional de Seúl, Mun Se-gwang, un coreano residente en Japón, disparó contra el presidente Park Chung-hee; falló, pero un disparo mató a la primera dama, Yuk Young-soo. Fue condenado a muerte y ejecutado ese mismo año.",
+          "por_que": "Un intento de magnicidio que acabó con la vida de la primera dama ante las cámaras.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Yuk_Young-soo",
+            "https://www.koreatimes.co.kr/opinion/20260808/the-first-lady-korea-watched-die"
+          ],
+          "riesgos": "En el tiroteo murió también una estudiante de secundaria. Las fuentes difieren en el número de disparos."
+        },
+        {
+          "titulo_caso": "La matanza de Taliesin",
+          "protagonista": "Julian Carlton",
+          "fecha": "1914-08-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1910-1919",
+          "resumen": "El 15 de agosto de 1914, Julian Carlton, empleado de Taliesin, la casa de Frank Lloyd Wright en Wisconsin, prendió fuego al edificio y mató a siete personas, entre ellas Mamah Borthwick, compañera del arquitecto, y sus dos hijos. Murió en la cárcel antes de ser juzgado.",
+          "por_que": "Una tragedia sin móvil aclarado en la casa del arquitecto más famoso de EE. UU.",
+          "fuentes_fecha": [
+            "https://www.history.com/articles/the-massacre-at-frank-lloyd-wrights-love-cottage",
+            "https://www.mentalfloss.com/article/28519/taliesin-tragedy"
+          ],
+          "riesgos": "Víctimas menores. No hubo juicio (murió de inanición en la cárcel) y el móvil sigue sin aclararse. Sin candidato de España, Hispanoamérica o Europa para este día."
+        }
+      ]
+    },
+    {
+      "dia": 16,
+      "candidatos": [
+        {
+          "titulo_caso": "La toma de rehenes de Gladbeck",
+          "protagonista": "Hans-Jürgen Rösner y Dieter Degowski",
+          "fecha": "1988-08-16",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1980-1989",
+          "resumen": "El 16 de agosto de 1988, Hans-Jürgen Rösner y Dieter Degowski asaltaron una sucursal del Deutsche Bank en Gladbeck (Alemania Occidental) y tomaron rehenes. Durante casi tres días de huida, con periodistas que entrevistaban a los secuestradores en directo, murieron dos rehenes jóvenes y un policía. Ambos fueron condenados a cadena perpetua en 1991.",
+          "por_que": "El caso que obligó a la prensa alemana a replantearse sus límites ante un crimen en directo.",
+          "fuentes_fecha": [
+            "https://www.evangelisch.de/inhalte/87395/16-08-2013",
+            "https://www.evangelisch.de/inhalte/151689/16-08-2018/30-jahre-nach-dem-gladbecker-geiseldrama"
+          ],
+          "riesgos": "Una víctima era menor (15 años). Papel muy criticado de la prensa."
+        },
+        {
+          "titulo_caso": "Jack Unterweger, el escritor asesino",
+          "protagonista": "Jack Unterweger",
+          "fecha": "1950-08-16",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Austria",
+          "region": "europa",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1950-1959",
+          "resumen": "Jack Unterweger, nacido en Judenburg (Austria), fue condenado en 1976 por un asesinato, se hizo famoso como escritor en prisión y fue liberado en 1990 con el apoyo de intelectuales. En 1994 un tribunal de Graz lo condenó por nueve asesinatos de mujeres en Austria, Praga y Los Ángeles; se suicidó esa misma noche, antes de que la sentencia fuera firme.",
+          "por_que": "El preso «rehabilitado» por la literatura que volvió a matar: una lección sobre la fascinación por el criminal.",
+          "fuentes_fecha": [
+            "https://www.deutsche-biographie.de/pnd11907205X.html",
+            "https://en.wikipedia.org/wiki/Jack_Unterweger"
+          ],
+          "riesgos": "La condena de 1994 no llegó a ser firme por su suicidio: mencionarlo. Sin candidato de España o Hispanoamérica para este día."
+        }
+      ]
+    },
+    {
+      "dia": 17,
+      "candidatos": [
+        {
+          "titulo_caso": "La desaparición de Azaria Chamberlain",
+          "protagonista": "Lindy Chamberlain (condenada y exonerada)",
+          "fecha": "1980-08-17",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "error_judicial",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 17 de agosto de 1980, Azaria Chamberlain, un bebé de nueve semanas, desapareció de la tienda de campaña familiar cerca de Uluru. Su madre, Lindy, dijo que se la había llevado un dingo, pero fue condenada por asesinato en 1982; el hallazgo de una prenda del bebé junto a una madriguera de dingos la liberó, las condenas se anularon en 1988 y en 2012 la forense concluyó que fue un dingo.",
+          "por_que": "El gran error judicial australiano, alimentado por la prensa y los prejuicios.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Lindy_Chamberlain-Creighton",
+            "https://m.csmonitor.com/World/Latest-News-Wires/2012/0612/Australia-s-Azaria-Chamberlain-mystery-solved-A-dingo-did-it"
+          ],
+          "riesgos": "Víctima bebé con nombre público e histórico. Lindy fue exonerada: tratarla como inocente. Las fuentes dudan entre 1985 y 1986 para el hallazgo de la prenda."
+        },
+        {
+          "titulo_caso": "El linchamiento de Leo Frank",
+          "protagonista": "Leo Frank",
+          "fecha": "1915-08-17",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1910-1919",
+          "resumen": "El 17 de agosto de 1915, una turba sacó de la prisión de Milledgeville a Leo Frank, encargado judío de una fábrica de Atlanta condenado por el asesinato en 1913 de la obrera Mary Phagan, de 13 años, y lo linchó en Marietta (Georgia), después de que el gobernador le conmutara la pena de muerte. En 1986 Georgia le concedió un indulto póstumo sin pronunciarse sobre su culpabilidad.",
+          "por_que": "Un juicio marcado por el antisemitismo y un linchamiento que impulsó la creación de la Liga Antidifamación.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/biography/Leo-Frank",
+            "https://www.myjewishlearning.com/article/leo-frank-is-lynched/"
+          ],
+          "riesgos": "Lo sacaron de la prisión la noche del 16 y lo lincharon de madrugada el 17. Víctima original menor (13 años), caso histórico. El indulto de 1986 no se pronunció sobre su culpabilidad."
+        },
+        {
+          "titulo_caso": "El descarrilamiento de Matsukawa",
+          "protagonista": "Autores desconocidos (20 acusados, todos absueltos)",
+          "fecha": "1949-08-17",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "error_judicial",
+          "epoca": "1940-1949",
+          "resumen": "El 17 de agosto de 1949, un tren de pasajeros descarriló cerca de Matsukawa (Fukushima) porque alguien había aflojado los pernos y retirado las bridas de la vía, con víctimas mortales entre la tripulación. Se detuvo a veinte sindicalistas y comunistas; en 1953 varios fueron condenados a muerte, pero el Tribunal Superior de Sendai absolvió a todos en 1961 y el Supremo lo confirmó en 1963. Los autores nunca se identificaron.",
+          "por_que": "Uno de los grandes errores judiciales de la posguerra japonesa, con un sabotaje que sigue sin resolver.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Matsukawa_derailment",
+            "https://japantimes.co.jp/news/2009/12/02/national/archives-detail-49-miscarriage-of-justice"
+          ],
+          "riesgos": "El número de condenados en 1953 varía según la fuente. Contexto de represión anticomunista. Sin candidato de España, Hispanoamérica o Europa para este día."
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Luis Carlos Galán",
+          "protagonista": "Cártel de Medellín y cómplices políticos",
+          "fecha": "1989-08-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 18 de agosto de 1989, el candidato presidencial liberal Luis Carlos Galán fue asesinado a tiros durante un mitin en Soacha (Cundinamarca) por sicarios al servicio del cártel de Medellín. Años después fueron condenados, entre otros, el político Alberto Santofimio y el exdirector del DAS Miguel Maza Márquez.",
+          "por_que": "El magnicidio que llevó a Colombia a declarar la guerra al narcotráfico.",
+          "fuentes_fecha": [
+            "https://www.elheraldo.co/colombia/32-anos-del-crimen-de-luis-carlos-galan-842985",
+            "https://www.vanguardia.com/judicial/2016/11/27/corte-suprema-confirmo-culpabilidad-de-maza-en-asesinato-de-galan/"
+          ],
+          "riesgos": "Las condenas de Maza Márquez (30 años) y Santofimio (24) son firmes, pero alguna fuente dice que la investigación sigue abierta para otros implicados: comprobarlo antes de elegirlo."
+        },
+        {
+          "titulo_caso": "Asesinato de Julien Lahaut",
+          "protagonista": "Comando anticomunista (nunca juzgado)",
+          "fecha": "1950-08-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Bélgica",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1950-1959",
+          "resumen": "Hacia las 21:15 del 18 de agosto de 1950, Julien Lahaut, presidente del Partido Comunista de Bélgica, fue asesinado a tiros por dos desconocidos en la puerta de su casa de Seraing. Nadie fue juzgado: el caso se cerró con un sobreseimiento en 1972. Un estudio histórico encargado por el Senado (2015) identificó como autores a un grupo de anticomunistas ligado a una red clandestina.",
+          "por_que": "El gran crimen político sin castigo de la Bélgica de la guerra fría, resuelto por los historiadores y no por los jueces.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Julien_Lahaut",
+            "https://parismatch.be/actualites/societe/415090/julien-lahaut-un-assassinat-politique-au-temps-de-la-guerre-froide-documents-inedits"
+          ],
+          "riesgos": "Sin condena: los autores señalados por los historiadores no fueron juzgados (presunción de inocencia). Violencia política."
+        }
+      ]
+    },
+    {
+      "dia": 19,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de Hungerford",
+          "protagonista": "Michael Ryan",
+          "fecha": "1987-08-19",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 19 de agosto de 1987, Michael Ryan mató a tiros a dieciséis personas, entre ellas su madre, en Hungerford (Berkshire) y después se suicidó. La matanza llevó al Reino Unido a prohibir los rifles semiautomáticos.",
+          "por_que": "La primera gran matanza a tiros de la Gran Bretaña moderna, que cambió sus leyes de armas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hungerford_massacre",
+            "https://www.crimeandinvestigation.co.uk/articles/slaughter-warm-summers-day-hungerford-massacre"
+          ],
+          "riesgos": "No hubo juicio (el autor se suicidó) y no se estableció el móvil. Sin candidato de España o Hispanoamérica para este día."
+        },
+        {
+          "titulo_caso": "Émile Buisson, enemigo público número uno",
+          "protagonista": "Émile Buisson",
+          "fecha": "1902-08-19",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1900-1909",
+          "resumen": "Émile Buisson, nacido el 19 de agosto de 1902, miembro de la banda de los «Tractions Avant», fue el «enemigo público número uno» de Francia en 1950, con decenas de atracos y asesinatos atribuidos. El inspector Roger Borniche lo detuvo y fue guillotinado en 1956; Borniche lo contó en «Flic Story», llevada al cine en 1975.",
+          "por_que": "El gánster que inspiró a toda una generación de películas policiacas francesas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/%C3%89mile_Buisson",
+            "https://en.geneastar.org/genealogy/buissonemil/emile-buisson"
+          ],
+          "riesgos": "Las fuentes difieren en la fecha de la ejecución (20 o 28 de febrero de 1956), no en la del nacimiento. Las cifras de crímenes atribuidos son aproximadas."
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Trotski",
+          "protagonista": "Ramón Mercader",
+          "fecha": "1940-08-20",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1940-1949",
+          "resumen": "El 20 de agosto de 1940, el agente estalinista Ramón Mercader, un barcelonés que se había ganado la confianza del entorno de León Trotski, lo atacó con un piolet en su casa de Coyoacán (Ciudad de México); Trotski murió al día siguiente. Mercader cumplió veinte años de cárcel en México.",
+          "por_que": "Un asesinato de Estado ejecutado por un español infiltrado durante años con una identidad falsa.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Leon_Trotsky",
+            "https://eldia.com.do/efemerides-del-20-de-agosto-en-1940-leon-trotsky-sufre-un-ataque-a-manos-del-espanol-ramon-mercader/"
+          ],
+          "riesgos": "El ataque fue el 20 y la muerte el 21. Las fuentes difieren en la hora. Evitar detalles gráficos."
+        },
+        {
+          "titulo_caso": "El Chacal de Nahueltoro",
+          "protagonista": "Jorge del Carmen Valenzuela Torres",
+          "fecha": "1960-08-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 20 de agosto de 1960, en el sector rural de Nahueltoro (Chile), el campesino analfabeto Jorge del Carmen Valenzuela Torres mató a su conviviente, Rosa Rivas, y a sus cinco hijos pequeños. Detenido un mes después, en la cárcel aprendió a leer y se convirtió a la fe; el presidente le negó el indulto y fue fusilado en Chillán el 30 de abril de 1963. Su historia inspiró la película «El Chacal de Nahueltoro» (1969).",
+          "por_que": "El caso que abrió en Chile el debate sobre la pena de muerte y la reinserción.",
+          "fuentes_fecha": [
+            "https://www.redalyc.org/journal/1271/127164235009/127164235009.pdf",
+            "https://www.memoriachilena.gob.cl/602/w3-article-92198.html"
+          ],
+          "riesgos": "Víctimas niños: sin detalles. La fecha del crimen la da la fuente académica (Redalyc); Memoria Chilena documenta el caso."
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "candidatos": [
+        {
+          "titulo_caso": "El robo de La Gioconda",
+          "protagonista": "Vincenzo Peruggia",
+          "fecha": "1911-08-22",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1910-1919",
+          "resumen": "La mañana del 22 de agosto de 1911, el Louvre descubrió que La Gioconda había desaparecido: Vincenzo Peruggia, un vidriero italiano que había trabajado en el museo, la había descolgado el día anterior. El cuadro apareció en Florencia en diciembre de 1913 y Peruggia fue condenado a poco más de un año de cárcel.",
+          "por_que": "El robo que convirtió un retrato renacentista en el cuadro más famoso del mundo.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/august-22/theft-of-mona-lisa-is-discovered",
+            "https://www.historytoday.com/archive/months-past/mona-lisa-stolen-louvre"
+          ],
+          "riesgos": "La efeméride es el descubrimiento del robo (el robo fue el 21, día ya ocupado)."
+        },
+        {
+          "titulo_caso": "El robo de El grito en el Museo Munch",
+          "protagonista": "Atracadores armados (tres condenados)",
+          "fecha": "2004-08-22",
+          "tipo_efemeride": "golpe",
+          "pais": "Noruega",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "2000-2009",
+          "resumen": "El 22 de agosto de 2004, dos atracadores armados y encapuchados entraron a plena luz del día en el Museo Munch de Oslo y se llevaron El grito y La Madona ante los visitantes. Tres hombres fueron condenados en 2006 y los cuadros se recuperaron, dañados, ese mismo año.",
+          "por_que": "Un asalto a mano armada a una de las obras más reconocibles del arte moderno.",
+          "fuentes_fecha": [
+            "https://www.aljazeera.com/news/2006/5/2/three-found-guilty-over-scream-theft",
+            "https://futurelearn.com/info/courses/art-crime/0/steps/11879"
+          ],
+          "riesgos": "Hubo condenas en 2006 y nuevas sentencias en 2007: comprobar el detalle."
+        },
+        {
+          "titulo_caso": "La masacre de Trelew",
+          "protagonista": "Marinos de la base Almirante Zar",
+          "fecha": "1972-08-22",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "En la madrugada del 22 de agosto de 1972, dieciséis presos políticos recapturados tras una fuga del penal de Rawson fueron fusilados en la base aeronaval Almirante Zar de Trelew (Argentina); tres sobrevivieron. En 2012 un tribunal condenó a cadena perpetua a tres exmarinos por crímenes de lesa humanidad.",
+          "por_que": "Un fusilamiento encubierto como intento de fuga que tardó cuarenta años en juzgarse.",
+          "fuentes_fecha": [
+            "https://aldiaargentina.microjuris.com/2012/10/16/historico-perpetua-para-tres-ex-marinos-por-la-masacre-de-trelew/",
+            "https://www.unidiversidad.com.ar/la-masacre-de-trelew-el-crimen-de-estado-que-tardo-decadas-en-encontrar-justicia"
+          ],
+          "riesgos": "Violencia política, crimen de lesa humanidad. Roberto Bravo, en EE. UU., nunca fue extraditado; en 2022 un tribunal civil de Florida lo condenó a indemnizar a las familias (proceso civil cerrado)."
+        }
+      ]
+    },
+    {
+      "dia": 24,
+      "candidatos": [
+        {
+          "titulo_caso": "El tiroteo de la Universidad Concordia",
+          "protagonista": "Valery Fabrikant",
+          "fecha": "1992-08-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Canadá",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 24 de agosto de 1992, el profesor de ingeniería mecánica Valery Fabrikant mató a tiros a cuatro colegas e hirió a una empleada en la Universidad Concordia de Montreal, tras meses de disputas académicas. Fue condenado a cadena perpetua y murió en prisión en junio de 2026.",
+          "por_que": "Un crimen nacido de los conflictos académicos que obligó a revisar la gestión de las universidades canadienses.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Concordia_University_massacre",
+            "https://www.cp24.com/news/canada/2026/06/28/the-perpetrator-of-the-concordia-university-massacre-has-died-in-prison/"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Carlo Gambino, el capo de capos",
+          "protagonista": "Carlo Gambino",
+          "fecha": "1902-08-24",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Estados Unidos (nacido en Italia)",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1900-1909",
+          "resumen": "Carlo Gambino, nacido en Palermo, emigró a Nueva York y llegó a dirigir la familia mafiosa que lleva su nombre, la más poderosa de EE. UU. en los años sesenta y setenta. Murió en su casa en 1976.",
+          "por_que": "El jefe discreto que inspiró al Vito Corleone de «El padrino».",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Carlo_Gambino",
+            "https://themobmuseum.org/notable_names/carlo-gambino/"
+          ],
+          "riesgos": "Candidato débil: biografía de un capo más que un caso concreto. Alguna fuente sitúa su nacimiento en Caccamo y no en Palermo (la fecha coincide)."
+        },
+        {
+          "titulo_caso": "El crimen de Seal Chart",
+          "protagonista": "Autor desconocido",
+          "fecha": "1908-08-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1900-1909",
+          "resumen": "El 24 de agosto de 1908, Caroline Luard, de 58 años, esposa de un general retirado, fue asesinada de dos disparos en una casa de verano aislada en el bosque de Seal Chart (Kent); le robaron tres anillos. Su marido, señalado por los rumores, se suicidó menos de un mes después. La investigación concluyó «asesinato por persona o personas desconocidas».",
+          "por_que": "Un misterio eduardiano con rumores, un suicidio y archivos policiales destruidos.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Murder_of_Caroline_Mary_Luard",
+            "https://www.kentonline.co.uk/kent/news/heinous-1908-murder-remains-unso-a33429/"
+          ],
+          "riesgos": "Sin resolver: no presentar como culpable al marido ni a los sospechosos de las teorías (p. ej., John Dickman)."
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del presidente Juan Idiarte Borda",
+          "protagonista": "Avelino Arredondo",
+          "fecha": "1897-08-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Uruguay",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "siglo XIX",
+          "resumen": "El 25 de agosto de 1897, día de la independencia, el presidente de Uruguay Juan Idiarte Borda fue asesinado de un disparo en Montevideo al salir del tedeum, en plena guerra civil, por el joven Avelino Arredondo.",
+          "por_que": "El único presidente uruguayo asesinado en el cargo, en el día de la fiesta nacional.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Juan_Idiarte_Borda",
+            "https://www.biografiasyvidas.com/biografia/i/idiarte.htm"
+          ],
+          "riesgos": "Las fuentes difieren en el lugar exacto del disparo (escaleras de la catedral o frente al Club Uruguay). Arredondo dijo haber actuado solo."
+        },
+        {
+          "titulo_caso": "Asesinato de George Lincoln Rockwell",
+          "protagonista": "John Patler",
+          "fecha": "1967-08-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "El 25 de agosto de 1967, George Lincoln Rockwell, fundador del Partido Nazi Americano, fue abatido a tiros en el aparcamiento de una lavandería de Arlington (Virginia) por John Patler, un exmiembro expulsado del partido, que fue condenado a veinte años de prisión.",
+          "por_que": "El líder ultraderechista asesinado por uno de los suyos.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_George_Lincoln_Rockwell",
+            "https://northernvirginiamag.com/culture/news/2010/12/30/death-of-an-arlington-nazi/"
+          ],
+          "riesgos": "Móvil discutido. Evitar dar visibilidad a la ideología de la víctima. Sin candidato europeo para este día."
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de Puerto Hurraco",
+          "protagonista": "Emilio y Antonio Izquierdo",
+          "fecha": "1990-08-26",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "La tarde del 26 de agosto de 1990, los hermanos Emilio y Antonio Izquierdo dispararon contra los vecinos de Puerto Hurraco (Benquerencia de la Serena, Badajoz), en el último episodio de una enemistad entre familias que venía de 1967: mataron a nueve personas, entre ellas dos niñas, e hirieron a varias más. Fueron juzgados en 1994 y condenados a cientos de años de prisión; sus hermanas, consideradas inductoras, fueron internadas en un psiquiátrico.",
+          "por_que": "El crimen que retrató la «España negra» rural y una venganza incubada durante décadas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Puerto_Hurraco_massacre",
+            "https://www.esdiario.com/nacional/250826/165661/26-anos-matanza-puerto-hurraco-venganza-familiar-tino-sangre-pueblo.html"
+          ],
+          "riesgos": "Víctimas menores: no nombrarlas. Familias aún en la zona."
+        },
+        {
+          "titulo_caso": "El secuestro de los hermanos Chopra",
+          "protagonista": "Kuljeet Singh «Ranga» y Jasbir Singh «Billa»",
+          "fecha": "1978-08-26",
+          "tipo_efemeride": "crimen",
+          "pais": "India",
+          "region": "asia",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 26 de agosto de 1978, los hermanos Geeta y Sanjay Chopra, de 16 y 14 años, hijos de un oficial de la Armada india, subieron en Nueva Delhi a un coche camino de un programa de radio y fueron secuestrados y asesinados por Ranga y Billa. Ambos fueron ahorcados en 1982; India creó premios al valor infantil con los nombres de los hermanos.",
+          "por_que": "Un crimen que conmocionó a la India y dejó un legado en forma de premios al valor.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Geeta_and_Sanjay_Chopra_kidnapping_case",
+            "https://www.scconline.com/blog/post/2023/06/20/geeta-and-sanjay-chopra-kidnapping-and-murder-ranga-and-billa-sensational-crime-story/"
+          ],
+          "riesgos": "Víctimas menores, con nombres públicos e históricos (dan nombre a premios). Las edades varían según la fuente (16 y 14, o 17 y 15)."
+        },
+        {
+          "titulo_caso": "Asesinato de Outel Bono",
+          "protagonista": "Autor desconocido (nunca juzgado)",
+          "fecha": "1973-08-26",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia (víctima chadiana)",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1970-1979",
+          "resumen": "Hacia las 9:25 del domingo 26 de agosto de 1973, el médico chadiano Outel Bono, opositor al presidente Tombalbaye, fue asesinado de dos disparos en la rue de la Roquette de París cuando abría la puerta de su coche. Nadie fue juzgado: la instrucción se cerró en 1982 por falta de pruebas contra el principal sospechoso.",
+          "por_que": "Un crimen de la «Françafrique» a plena luz del día en París que la justicia nunca resolvió.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Outel_Bono",
+            "https://www.france24.com/fr/afrique/20230825-outel-bono-l-opposant-tchadien-assassin%C3%A9-%C3%A0-paris-en-1973-1-2"
+          ],
+          "riesgos": "Sin condena: no nombrar como autor al sospechoso. Violencia política."
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Emmett Till",
+          "protagonista": "Roy Bryant y J. W. Milam (absueltos)",
+          "fecha": "1955-08-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1950-1959",
+          "resumen": "En la madrugada del 28 de agosto de 1955, Emmett Till, un chico afroamericano de 14 años de Chicago, fue secuestrado en casa de su tío en Money (Misisipi) y asesinado tras ser acusado de dirigirse a una mujer blanca. Un jurado formado solo por blancos absolvió a los acusados, que después confesaron a una revista. El funeral con el ataúd abierto impulsó el movimiento por los derechos civiles.",
+          "por_que": "El crimen que encendió el movimiento por los derechos civiles en EE. UU.",
+          "fuentes_fecha": [
+            "https://www.britannica.com/biography/Emmett-Till",
+            "https://www.nps.gov/people/emmett-till.htm"
+          ],
+          "riesgos": "Víctima menor con nombre público e histórico. Los acusados fueron absueltos: decir que confesaron después, sin presentarlos como condenados."
+        },
+        {
+          "titulo_caso": "El atraco de Norrmalmstorg (el síndrome de Estocolmo)",
+          "protagonista": "Jan-Erik Olsson y Clark Olofsson",
+          "fecha": "1973-08-28",
+          "tipo_efemeride": "detencion",
+          "pais": "Suecia",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 28 de agosto de 1973 terminó el atraco con rehenes de la plaza Norrmalmstorg de Estocolmo: tras seis días con cuatro empleados encerrados en la cámara del banco, la policía lanzó gas lacrimógeno, detuvo a Jan-Erik Olsson y Clark Olofsson y liberó a los rehenes. La actitud protectora de los rehenes hacia sus captores dio nombre al «síndrome de Estocolmo».",
+          "por_que": "El atraco que regaló a la psicología uno de sus términos más famosos.",
+          "fuentes_fecha": [
+            "https://www.thelocal.com/20230821/where-does-the-term-stockholm-syndrome-really-come-from-and-is-it-even-true",
+            "https://worldcrunch.com/culture-society/forty-years-ago-a-swedish-bank-robber-gave-us-quotstockholm-syndromequot/"
+          ],
+          "riesgos": "El «síndrome de Estocolmo» no es un diagnóstico reconocido. La condena de Olofsson por este atraco se anuló en apelación, según recuerdo: comprobarlo."
+        },
+        {
+          "titulo_caso": "La detención de Violette Nozière",
+          "protagonista": "Violette Nozière",
+          "fecha": "1933-08-28",
+          "tipo_efemeride": "detencion",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "1930-1939",
+          "resumen": "Violette Nozière, de 18 años, envenenó a sus padres en su piso de París en agosto de 1933: su padre murió y su madre sobrevivió. Tras una semana huida, fue detenida el 28 de agosto en el distrito VII, denunciada por un conocido. Condenada a muerte el 12 de octubre de 1934, la pena se conmutó y salió de prisión en 1945.",
+          "por_que": "Un parricidio que dividió a Francia, fascinó a los surrealistas y llevó Claude Chabrol al cine.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Violette_Nozi%C3%A8re_(murderer)",
+            "https://www.herodote.net/28_aout_1933-evenement-19330828.php"
+          ],
+          "riesgos": "Tenía 18 años (menor de edad según la ley francesa de entonces, que fijaba la mayoría en 21). Alegó abusos de su padre. Las fuentes difieren en la fecha del envenenamiento, no en la de la detención. Alternativa española pendiente: el robo del furgón de «el Dioni» (27 o 28 de agosto de 1989, fecha por confirmar)."
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Libero Grassi",
+          "protagonista": "Cosa Nostra",
+          "fecha": "1991-08-29",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 29 de agosto de 1991, el empresario textil Libero Grassi fue asesinado a tiros ante su casa de la via Alfieri, en Palermo, meses después de denunciar públicamente que se negaba a pagar el «pizzo». Por el crimen fueron condenados los mafiosos Salvino Madonia, autor material, y Marco Favaloro. Su muerte impulsó el movimiento antiextorsión siciliano.",
+          "por_que": "El empresario que dijo «no» a la extorsión en público y pagó con su vida.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Libero_Grassi",
+            "https://www.ilpost.it/2016/08/29/libero-grassi/"
+          ],
+          "riesgos": "Las fuentes difieren en las fechas de los juicios."
+        },
+        {
+          "titulo_caso": "La condena de Jeffrey MacDonald",
+          "protagonista": "Jeffrey MacDonald",
+          "fecha": "1979-08-29",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 29 de agosto de 1979, un jurado federal de Carolina del Norte declaró culpable a Jeffrey MacDonald, médico del Ejército, de matar en 1970 a su esposa embarazada y a sus dos hijas en Fort Bragg; él siempre culpó a unos intrusos. Condenado a cadena perpetua, sigue proclamando su inocencia y el caso inspiró libros enfrentados como «Fatal Vision» y «A Wilderness of Error».",
+          "por_que": "Uno de los casos más discutidos de EE. UU.: culpable para la justicia, inocente para sus defensores.",
+          "fuentes_fecha": [
+            "https://encyclopedia.com/law/law-magazines/jeffrey-robert-macdonald-trial-1979",
+            "https://stories.usatodaynetwork.com/jeffreymacdonald/themacdonaldmurders/"
+          ],
+          "riesgos": "Víctimas menores. Él mantiene su inocencia; en 2021 retiró su último recurso (libertad compasiva). Una fuente aislada da el 26 de agosto."
+        },
+        {
+          "titulo_caso": "Asesinato del primer ministro jordano Hazza' al-Majali",
+          "protagonista": "Conspiradores del atentado de Amán",
+          "fecha": "1960-08-29",
+          "tipo_efemeride": "crimen",
+          "pais": "Jordania",
+          "region": "oriente_medio",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "Hacia las 10:30 del 29 de agosto de 1960, una bomba escondida en el despacho del primer ministro de Jordania, Hazza' al-Majali, lo mató junto a otras once personas en Amán; poco después estalló una segunda bomba. El atentado se atribuyó a agentes de la República Árabe Unida y varios condenados fueron ahorcados en diciembre de 1960.",
+          "por_que": "Un magnicidio poco conocido en el mundo hispano, en plena guerra fría árabe.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hazza%27_Majali",
+            "https://newlinesmag.com/essays/how-a-now-forgotten-assassination-almost-toppled-jordans-monarchy/"
+          ],
+          "riesgos": "Contexto político y terrorismo: candidato más débil del día."
+        }
+      ]
+    },
+    {
+      "dia": 31,
+      "candidatos": [
+        {
+          "titulo_caso": "Whitechapel: el asesinato de Mary Ann Nichols",
+          "protagonista": "Jack el Destripador (nunca identificado)",
+          "fecha": "1888-08-31",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "siglo XIX",
+          "resumen": "En la madrugada del 31 de agosto de 1888, un carretero halló en Buck's Row (Whitechapel, Londres) el cuerpo de Mary Ann «Polly» Nichols, de 43 años, considerada la primera de las cinco víctimas «canónicas» de Jack el Destripador. El asesino nunca fue identificado.",
+          "por_que": "El inicio del caso sin resolver más famoso de la historia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Mary_Ann_Nichols",
+            "https://www.jack-the-ripper.org/jack-the-ripper-victim-mary-nichols.htm"
+          ],
+          "riesgos": "No dar por buenas las teorías sobre la identidad del asesino. Sin detalles gráficos. Sin candidato de España o Hispanoamérica para este día."
+        },
+        {
+          "titulo_caso": "La muerte del coronel Henry (caso Dreyfus)",
+          "protagonista": "Hubert-Joseph Henry",
+          "fecha": "1898-08-31",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "siglo XIX",
+          "resumen": "El 31 de agosto de 1898, el coronel Hubert-Joseph Henry apareció muerto en su celda del fuerte de Mont-Valérien, un día después de confesar que había falsificado un documento clave contra el capitán Alfred Dreyfus. Su caída reabrió el caso Dreyfus, el gran error judicial de la Tercera República francesa.",
+          "por_que": "El día en que la falsificación que condenó a un inocente salió a la luz.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hubert-Joseph_Henry",
+            "https://www.universalis.fr/encyclopedie/dreyfus-reperes-chronologiques/"
+          ],
+          "riesgos": "Murió probablemente en la noche del 30 al 31; el cuerpo se halló la mañana del 31. Se descartó oficialmente el asesinato (suicidio)."
+        }
+      ]
+    }
+  ]
+}

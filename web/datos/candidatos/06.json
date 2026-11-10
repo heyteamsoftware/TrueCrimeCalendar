@@ -1,0 +1,1133 @@
+{
+  "mes": 6,
+  "dias": [
+    {
+      "dia": 3,
+      "candidatos": [
+        {
+          "titulo_caso": "Caso Ranucci, «el jersey rojo»",
+          "protagonista": "Christian Ranucci",
+          "fecha": "1974-06-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 3 de junio de 1974 una niña de 8 años, Marie-Dolorès Rambla, fue secuestrada frente a su casa en Marsella; su cuerpo apareció dos días después. Christian Ranucci, de 20 años, fue detenido el 5 de junio, confesó y más tarde se retractó. Condenado a muerte el 10 de marzo de 1976, fue guillotinado el 28 de julio de 1976.",
+          "por_que": "Uno de los últimos guillotinados de Francia; las dudas sobre su culpabilidad («Le Pull-over rouge») pesaron en el debate que llevó a abolir la pena de muerte.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Christian_Ranucci",
+            "https://vl-media.fr/cetait-en-1976-laffaire-du-pull-over-rouge/"
+          ],
+          "riesgos": "Víctima menor (caso de hace más de 50 años, nombre público). Culpabilidad discutida: contar la condena y las dudas sin tomar partido."
+        },
+        {
+          "titulo_caso": "Valerie Solanas dispara contra Andy Warhol",
+          "protagonista": "Valerie Solanas",
+          "fecha": "1968-06-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1960-1969",
+          "resumen": "El 3 de junio de 1968 Valerie Solanas, autora del «Manifiesto SCUM», disparó contra Andy Warhol y el crítico Mario Amaya en The Factory (Nueva York). Warhol sobrevivió con heridas graves. Solanas se entregó, fue declarada culpable de agresión y condenada a tres años.",
+          "por_que": "El intento de asesinato del artista pop más famoso, entre el arte, la fama y la enfermedad mental.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Attempted_assassination_of_Andy_Warhol",
+            "https://history.com/news/andy-warhol-shot-valerie-solanas-the-factory"
+          ],
+          "riesgos": "No hubo muertos (intento de asesinato). La autora tenía una enfermedad mental: tratarla con cuidado."
+        },
+        {
+          "titulo_caso": "Detención de Joran van der Sloot por el crimen de Stephany Flores",
+          "protagonista": "Joran van der Sloot",
+          "fecha": "2010-06-03",
+          "tipo_efemeride": "detencion",
+          "pais": "Perú / Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "2010-2019",
+          "resumen": "Stephany Flores, de 21 años, fue hallada muerta el 30 de mayo de 2010 en un hotel de Lima. El neerlandés Joran van der Sloot, ya investigado por la desaparición de Natalee Holloway en Aruba (2005), huyó a Chile y fue detenido allí el 3 de junio de 2010. Expulsado a Perú, confesó y fue condenado en enero de 2012 a 28 años.",
+          "por_que": "Un caso internacional que une dos crímenes, Lima y Aruba, con una huida de película por la frontera.",
+          "fuentes_fecha": [
+            "https://csmonitor.com/World/Americas/2010/0603/Joran-van-der-Sloot-captured-in-Chile",
+            "https://www.infobae.com/2010/06/04/519630-capturan-chile-un-holandes-acusado-hacer-turismo-asesinar/"
+          ],
+          "riesgos": "Muy ligado al caso Holloway (EE. UU./Aruba), juzgado en EE. UU. en 2023: comprobar que no quede ninguna causa abierta. Familias muy presentes en medios."
+        },
+        {
+          "titulo_caso": "Fusilamiento de Melchor Ocampo",
+          "protagonista": "Melchor Ocampo (víctima); partida conservadora de Leonardo Márquez",
+          "fecha": "1861-06-03",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "siglo XIX",
+          "resumen": "El político liberal Melchor Ocampo fue sacado de su hacienda a finales de mayo de 1861 por una partida conservadora y fusilado sin juicio el 3 de junio en Tepeji del Río (hoy Hidalgo), por orden atribuida a Leonardo Márquez; su cuerpo fue colgado de un árbol.",
+          "por_que": "Un asesinato político que conmocionó al México de la Reforma.",
+          "fuentes_fecha": [
+            "https://www.cndh.org.mx/sites/default/files/documentos/2023-05/FRN_JUN_03-1.pdf",
+            "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/ocampo-melchor-1813-1861"
+          ],
+          "riesgos": "Las fuentes difieren sobre si la orden fue de Márquez, de Zuloaga o de ambos. Nadie fue juzgado. Más historia política que crónica negra."
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del cardenal Soldevila",
+          "protagonista": "Juan Soldevila y Romero (víctima); grupo anarquista Los Solidarios",
+          "fecha": "1923-06-04",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "El 4 de junio de 1923 el cardenal arzobispo de Zaragoza, Juan Soldevila, fue tiroteado en su coche cuando iba a la escuela-asilo de las Hijas de la Caridad en El Terminillo (Zaragoza). Se atribuye al grupo anarquista Los Solidarios, en plena época del pistolerismo.",
+          "por_que": "El asesinato de un cardenal, uno de los crímenes políticos más sonados de la España anterior a Primo de Rivera.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Juan_Soldevila_y_Romero",
+            "https://www.zaragoza.es/sede/portal/usic/exposiciones-virtuales/exposiciones/zaragoza-1923/tiempos-convulsos"
+          ],
+          "riesgos": "Autoría material discutida (algunas fuentes dicen que nunca se supo con certeza): comprobar juicios y condenas antes de nombrar a nadie."
+        },
+        {
+          "titulo_caso": "Asesinato de Antonio José de Sucre en Berruecos",
+          "protagonista": "Antonio José de Sucre (víctima)",
+          "fecha": "1830-06-04",
+          "tipo_efemeride": "crimen",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "siglo XIX",
+          "resumen": "El mariscal de Ayacucho, héroe de la independencia y expresidente de Bolivia, murió de varios disparos en una emboscada en la montaña de Berruecos, cerca de Pasto, el 4 de junio de 1830, cuando volvía a Quito. Se acusó al general José María Obando y al coronel Apolinar Morillo; la autoría intelectual sigue discutida.",
+          "por_que": "Un magnicidio fundacional de Sudamérica con un misterio de autoría que dura casi dos siglos.",
+          "fuentes_fecha": [
+            "https://www.caracaschronicles.com/2018/06/04/june-4-1830-sucre-assassinated-in-berruecos/",
+            "https://www.elcomercio.com/tendencias/asesinato-sucre-berruecos-historia-heroe.html"
+          ],
+          "riesgos": "Autoría discutida por los historiadores: presentar las acusaciones como tales."
+        },
+        {
+          "titulo_caso": "Incidente de Huanggutun: asesinato de Zhang Zuolin",
+          "protagonista": "Zhang Zuolin (víctima); oficiales del Ejército de Kwantung",
+          "fecha": "1928-06-04",
+          "tipo_efemeride": "crimen",
+          "pais": "China",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "Hacia las 5:20 del 4 de junio de 1928 una bomba colocada por oficiales japoneses del Ejército de Kwantung voló el tren del señor de la guerra Zhang Zuolin en un puente junto a Huanggutun, cerca de Shenyang. Zhang murió horas después. Japón ocultó durante años su autoría.",
+          "por_que": "Un asesinato de Estado encubierto que anticipó la invasión japonesa de Manchuria.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Huanggutun_incident",
+            "https://www.sinicapodcast.com/p/this-week-in-chinas-history-the-assassination"
+          ],
+          "riesgos": "Las fuentes atribuyen la colocación de la bomba a oficiales distintos; nadie fue juzgado. Más político-militar que criminal."
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Robert F. Kennedy",
+          "protagonista": "Sirhan Sirhan",
+          "fecha": "1968-06-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "Hacia las 0:15 del 5 de junio de 1968, tras ganar las primarias de California, el senador Robert F. Kennedy fue tiroteado en un pasillo de la cocina del hotel Ambassador de Los Ángeles; murió al día siguiente. Sirhan Sirhan fue condenado a muerte en 1969, pena conmutada por cadena perpetua en 1972.",
+          "por_que": "El segundo Kennedy asesinado en cinco años; un crimen que cambió la historia de EE. UU.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy",
+            "https://www.history.com/this-day-in-history/june-5/bobby-kennedy-is-assassinated"
+          ],
+          "riesgos": "Teorías de un segundo tirador sin respaldo judicial. Sirhan sigue en prisión (libertad condicional denegada)."
+        },
+        {
+          "titulo_caso": "Los asesinatos del lago Bodom",
+          "protagonista": "Sin culpable (Nils Gustafsson, superviviente, absuelto en 2005)",
+          "fecha": "1960-06-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Finlandia",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1960-1969",
+          "resumen": "En la madrugada del 5 de junio de 1960 cuatro jóvenes que acampaban junto al lago Bodom (Espoo) fueron atacados en su tienda: tres murieron y Nils Gustafsson sobrevivió herido. En 2004 él mismo fue acusado, pero el tribunal lo absolvió el 7 de octubre de 2005. No hay culpable.",
+          "por_que": "El crimen sin resolver más famoso de Finlandia, con un giro judicial 45 años después.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Lake_Bodom_murders",
+            "https://the-line-up.com/lake-bodom-murders"
+          ],
+          "riesgos": "Dos víctimas tenían 15 años (caso de hace más de 60 años, nombres públicos). Gustafsson fue absuelto: presunción de inocencia."
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Edmundo Pérez Zujovic",
+          "protagonista": "Vanguardia Organizada del Pueblo (VOP)",
+          "fecha": "1971-06-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El exministro del Interior democristiano Edmundo Pérez Zujovic fue asesinado a tiros en Santiago (Providencia) el 8 de junio de 1971, cuando viajaba con su hija. Lo reivindicó la VOP, que lo culpaba de la matanza de Pampa Irigoin (Puerto Montt, 1969).",
+          "por_que": "Un crimen político que tensó al máximo el Chile de Allende.",
+          "fuentes_fecha": [
+            "https://www.biobiochile.cl/biobiotv/programas/efemerides/2025/06/08/efemerides-08-de-junio-de-1971-muere-asesinado-edmundo-perez-zujovic.shtml",
+            "https://eldesconcierto.cl/2025/06/08/en-venganza-el-asesinato-de-edmundo-perez-zujovic"
+          ],
+          "riesgos": "No consta juicio a los autores (comprobar su destino). Tema políticamente sensible en Chile."
+        },
+        {
+          "titulo_caso": "Detención de James Earl Ray en Heathrow",
+          "protagonista": "James Earl Ray",
+          "fecha": "1968-06-08",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos / Reino Unido",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "Dos meses después del asesinato de Martin Luther King en Memphis, James Earl Ray fue detenido el 8 de junio de 1968 en el aeropuerto londinense de Heathrow cuando intentaba volar a Bruselas con un pasaporte canadiense a nombre de Ramon George Sneyd. Extraditado, se declaró culpable en marzo de 1969 y fue condenado a 99 años; después se retractó.",
+          "por_que": "El final en Londres de una caza internacional, y un culpable confeso que pasó el resto de su vida negándolo.",
+          "fuentes_fecha": [
+            "https://content.time.com/time/specials/packages/article/0,28804,2025424_2025441_2025758,00.html",
+            "https://www.oxygen.com/index%2Ephp/crime-time/martin-luther-kings-assassination-global-manhunt-james-earl-ray"
+          ],
+          "riesgos": "Ray se retractó y la familia King llegó a defender su inocencia: contar la condena y las dudas como tales."
+        },
+        {
+          "titulo_caso": "Masacre de Akihabara",
+          "protagonista": "Tomohiro Katō",
+          "fecha": "2008-06-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "asesinato",
+          "epoca": "2000-2009",
+          "resumen": "El domingo 8 de junio de 2008, con la calle cerrada al tráfico, Tomohiro Katō, de 25 años, atropelló con un camión a peatones en un cruce de Akihabara (Tokio) y luego apuñaló a otros. Murieron siete personas. Fue condenado a muerte en 2011 y ejecutado el 26 de julio de 2022.",
+          "por_que": "Un ataque anunciado en internet que abrió en Japón el debate sobre el aislamiento y la precariedad juvenil.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/2008_Akihabara_massacre",
+            "https://www.lanacion.com.ar/el-mundo/pena-de-muerte-en-japon-ejecutaron-al-joven-que-mato-a-punaladas-a-siete-personas-en-la-masacre-de-nid26072022/"
+          ],
+          "riesgos": "Asesinato masivo: evitar detalles y el efecto imitación."
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "candidatos": [
+        {
+          "titulo_caso": "Los fusilamientos de José León Suárez («Operación Masacre»)",
+          "protagonista": "Policía bonaerense (Desiderio Fernández Suárez); Rodolfo Walsh, investigador",
+          "fecha": "1956-06-09",
+          "tipo_efemeride": "detencion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1950-1959",
+          "resumen": "La noche del 9 de junio de 1956, durante el levantamiento peronista del general Valle, la policía detuvo a un grupo de civiles en una casa de Florida y los llevó a un basural de José León Suárez, donde fueron fusilados sin juicio; varios lograron escapar. Rodolfo Walsh lo reconstruyó en «Operación Masacre» (1957). Un tribunal lo declaró crimen de lesa humanidad.",
+          "por_que": "El crimen de Estado que dio origen a la gran novela de no ficción en castellano, a partir de «un fusilado que vive».",
+          "fuentes_fecha": [
+            "https://www.lacapitalmdp.com/a-66-anos-de-los-fuusilamientos-de-jose-leon-suarez-un-antecedente-del-terrorismo-de-estado/",
+            "https://www.infobae.com/sociedad/2023/06/09/fusilamientos-en-el-basural-de-jose-leon-suarez-el-muerto-que-vive-y-la-operacion-masacre-que-denuncio-walsh/"
+          ],
+          "riesgos": "Detenciones el 9 por la noche y fusilamientos en la madrugada del 10 según algunas fuentes: usar la detención como efeméride. Cifras de muertos y supervivientes varían. Comprobar si el juicio por la verdad que lo declaró de lesa humanidad dejó alguna causa abierta."
+        },
+        {
+          "titulo_caso": "El asesinato de Jake Lingle",
+          "protagonista": "Leo Vincent Brothers (condenado)",
+          "fecha": "1930-06-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1930-1939",
+          "resumen": "El 9 de junio de 1930 Jake Lingle, reportero de sucesos del Chicago Tribune, fue asesinado de un tiro en la nuca en el paso subterráneo de la estación de Randolph Street, ante decenas de testigos. Tras su muerte se supo que mantenía tratos con el hampa de la era de Al Capone. Leo Brothers fue condenado a 14 años.",
+          "por_que": "El periodista mártir que resultó ser parte del negocio: un retrato del Chicago de la Ley Seca.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Jake_Lingle",
+            "https://time.com/archive/6890734/the-press-martyr-into-racketeer/"
+          ],
+          "riesgos": "Se discute si Brothers fue el verdadero autor o un cabeza de turco; quién ordenó el crimen nunca se aclaró."
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "candidatos": [
+        {
+          "titulo_caso": "El delito Matteotti",
+          "protagonista": "Amerigo Dumini y la «Ceka» fascista",
+          "fecha": "1924-06-10",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "El 10 de junio de 1924, hacia las 16:30, el diputado socialista Giacomo Matteotti fue secuestrado en el Lungotevere Arnaldo da Brescia de Roma por un comando fascista dirigido por Amerigo Dumini y asesinado. Su cuerpo apareció el 16 de agosto en Riano. Había denunciado el fraude electoral de Mussolini.",
+          "por_que": "El crimen que retrató al fascismo y precipitó la dictadura de Mussolini.",
+          "fuentes_fecha": [
+            "https://www.lapresse.it/politica/2025/07/21/giacomo-matteotti-chi-era-limpegno-politico-e-la-morte/",
+            "https://tg24.sky.it/politica/2024/06/10/delitto-matteotti-centenario-storia"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El Halconazo (matanza del Jueves de Corpus)",
+          "protagonista": "Grupo paramilitar Los Halcones",
+          "fecha": "1971-06-10",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1970-1979",
+          "resumen": "El 10 de junio de 1971 una marcha estudiantil en Ciudad de México fue atacada por Los Halcones, un grupo paramilitar entrenado y financiado desde el Estado. Hubo alrededor de 120 muertos según la mayoría de las fuentes. El regente negó la existencia del grupo; la acusación de genocidio contra el expresidente Echeverría no prosperó.",
+          "por_que": "Una matanza de Estado que quedó impune y que México sigue recordando cada 10 de junio.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/El_Halconazo",
+            "https://www.razon.com.mx/mexico/2026/06/10/que-fue-el-halconazo-ocurrido-el-10-de-junio-de-1971/"
+          ],
+          "riesgos": "Cifra de muertos discutida (120-150). Sin condenas: no atribuir culpas personales no probadas."
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "candidatos": [
+        {
+          "titulo_caso": "La fuga de Alcatraz",
+          "protagonista": "Frank Morris y los hermanos John y Clarence Anglin",
+          "fecha": "1962-06-11",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1960-1969",
+          "resumen": "La noche del 11 de junio de 1962 Frank Morris y los hermanos Anglin dejaron cabezas falsas en sus camas, salieron por los conductos de ventilación y se echaron a la bahía de San Francisco en una balsa improvisada. La fuga se descubrió al amanecer del 12. Nunca se los encontró; el FBI cerró el caso dándolos por ahogados.",
+          "por_que": "La fuga más famosa de la historia, de la prisión «inescapable», y un misterio sin cerrar.",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/history/famous-cases/alcatraz-escape",
+            "https://history.com/news/escape-from-alcatraz-june-11-1962"
+          ],
+          "riesgos": "Oficialmente desaparecidos y presuntamente ahogados; las supuestas pruebas de supervivencia no están confirmadas."
+        },
+        {
+          "titulo_caso": "Issei Sagawa, el caníbal de París",
+          "protagonista": "Issei Sagawa",
+          "fecha": "1981-06-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia / Japón",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 11 de junio de 1981 el estudiante japonés Issei Sagawa mató de un disparo en su piso de París a su compañera neerlandesa Renée Hartevelt. Detenido días después, fue declarado no apto para ser juzgado y en 1984 fue deportado a Japón, donde quedó libre. Nunca fue condenado. Murió en 2022.",
+          "por_que": "Un caso que puso en cuestión la justicia: un homicida confeso que acabó en libertad y famoso.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Issei_Sagawa",
+            "https://nltimes.nl/2022/12/02/japanese-cannibal-killed-ate-dutch-student-1981-dead-age-73"
+          ],
+          "riesgos": "Muy morboso: contar sin detalles del canibalismo y centrarse en la víctima y el fallo judicial. Nunca fue juzgado."
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Medgar Evers",
+          "protagonista": "Byron De La Beckwith",
+          "fecha": "1963-06-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "El activista por los derechos civiles Medgar Evers fue tiroteado frente a su casa de Jackson (Misisipi) poco después de la medianoche del 12 de junio de 1963. El supremacista Byron De La Beckwith quedó libre tras dos juicios con jurados divididos en 1964 y fue condenado a cadena perpetua en un tercer juicio, el 5 de febrero de 1994.",
+          "por_que": "Treinta años de espera para una condena: un caso clave de la lucha por los derechos civiles.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Medgar_Evers",
+            "https://www.pbs.org/newshour/nation/media-jan-june02-evers_04-18"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El caso O. J. Simpson: los asesinatos de Nicole Brown y Ron Goldman",
+          "protagonista": "O. J. Simpson (absuelto en el juicio penal)",
+          "fecha": "1994-06-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1990-1999",
+          "resumen": "La noche del 12 de junio de 1994 Nicole Brown Simpson y su amigo Ron Goldman fueron apuñalados ante la casa de ella en Brentwood (Los Ángeles). El exjugador O. J. Simpson, exmarido de Nicole, fue acusado tras una persecución televisada y absuelto en el juicio penal el 3 de octubre de 1995; en 1997 un jurado civil lo declaró responsable de las muertes.",
+          "por_que": "El «juicio del siglo»: la absolución más célebre de la historia de EE. UU., atravesada por la raza y el maltrato.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Murder_of_Nicole_Brown_Simpson_and_Ron_Goldman",
+            "https://www.voanews.com/a/usa_simpson-case-changed-how-america-sees-spousal-abuse/6169935.html"
+          ],
+          "riesgos": "Absuelto penalmente: no llamarlo asesino; sí puede decirse que un jurado civil lo declaró responsable. Simpson murió en 2024. Clasificado como absolución célebre."
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "candidatos": [
+        {
+          "titulo_caso": "La muerte de Luis II de Baviera en el lago de Starnberg",
+          "protagonista": "Luis II de Baviera y el psiquiatra Bernhard von Gudden (víctimas)",
+          "fecha": "1886-06-13",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Alemania (Reino de Baviera)",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "siglo XIX",
+          "resumen": "Tres días después de ser declarado incapaz y apartado del trono, el «rey de los cuentos de hadas» salió a pasear por la orilla del lago de Starnberg con su psiquiatra, Bernhard von Gudden. La noche del 13 de junio de 1886 ambos aparecieron muertos en aguas poco profundas. La versión oficial fue suicidio por ahogamiento; asesinato, huida fallida o muerte natural siguen discutiéndose.",
+          "por_que": "El misterio más famoso de la realeza alemana: un rey depuesto y su médico muertos en la orilla.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria",
+            "https://www.neuschwanstein.de/englisch/ludwig/biography.htm"
+          ],
+          "riesgos": "Las teorías de asesinato (disparos) no están probadas; la versión oficial es suicidio."
+        },
+        {
+          "titulo_caso": "Miranda contra Arizona: el caso de Ernesto Miranda",
+          "protagonista": "Ernesto Miranda",
+          "fecha": "1966-06-13",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1960-1969",
+          "resumen": "El 13 de junio de 1966 el Tribunal Supremo de EE. UU. anuló la condena de Ernesto Miranda, condenado por secuestro y violación en Phoenix (1963) a partir de una confesión obtenida sin informarle de sus derechos. Así nacieron los «derechos Miranda». Miranda fue juzgado de nuevo sin la confesión y condenado otra vez; en 1976 murió apuñalado en una pelea de bar.",
+          "por_que": "El caso que inventó el «tiene derecho a guardar silencio» que repiten todas las series policiacas.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-13/the-miranda-rights-are-established",
+            "https://en.wikipedia.org/wiki/Miranda_v._Arizona"
+          ],
+          "riesgos": "La efeméride es una sentencia del Supremo que anuló la condena (tipo «condena» por aproximación). Hay una víctima de violación: no nombrarla."
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "candidatos": [
+        {
+          "titulo_caso": "El caso Gescartera",
+          "protagonista": "Antonio Camacho",
+          "fecha": "2001-06-14",
+          "tipo_efemeride": "golpe",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "estafa",
+          "epoca": "2000-2009",
+          "resumen": "El 14 de junio de 2001 la CNMV intervino la agencia de valores Gescartera y descubrió un agujero de más de 100 millones de euros de miles de inversores, entre ellos órdenes religiosas, mutualidades de policías y la ONCE. Su dueño, Antonio Camacho, fue condenado en 2008 a 11 años por apropiación indebida y falsedad.",
+          "por_que": "Uno de los mayores escándalos financieros de España, con ramificaciones políticas.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Caso_Gescartera",
+            "https://www.eldebate.com/economia/20260613/gescartera-25-anos-mayores-escandalos-financieros-espana_428359.html"
+          ],
+          "riesgos": "Alguna fuente secundaria habla del 15 de junio; la mayoría, incluida la cronología del caso, da el 14. No es un caso de sangre."
+        },
+        {
+          "titulo_caso": "El secuestro del vuelo 847 de TWA",
+          "protagonista": "Comando de Hezbolá (Mohammed Ali Hammadi, condenado en Alemania)",
+          "fecha": "1985-06-14",
+          "tipo_efemeride": "golpe",
+          "pais": "Grecia / Líbano",
+          "region": "oriente_medio",
+          "tipo_caso": "secuestro",
+          "epoca": "1980-1989",
+          "resumen": "El 14 de junio de 1985 dos hombres armados secuestraron el vuelo 847 de TWA poco después de despegar de Atenas rumbo a Roma y lo desviaron a Beirut y Argel. El 15 de junio asesinaron al buzo de la Marina estadounidense Robert Stethem. Los rehenes fueron liberados por etapas tras 17 días. Hammadi, detenido en Fráncfort en 1987, fue condenado a cadena perpetua y liberado en 2005.",
+          "por_que": "Un secuestro aéreo de dos semanas retransmitido en directo, con una azafata alemana como heroína.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/TWA_Flight_847",
+            "https://www.nbcnews.com/id/wbna10544923"
+          ],
+          "riesgos": "Terrorismo. Dos de los secuestradores acusados siguen en busca y captura (causa abierta en EE. UU.): valorar si excluir."
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "candidatos": [
+        {
+          "titulo_caso": "Operación Albania (matanza de Corpus Christi)",
+          "protagonista": "Central Nacional de Informaciones (CNI): Hugo Salas Wenzel, Álvaro Corbalán",
+          "fecha": "1987-06-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "Los días 15 y 16 de junio de 1987 agentes de la CNI mataron en Santiago a doce miembros del Frente Patriótico Manuel Rodríguez, presentando las muertes como enfrentamientos. En 2005 el juez Dolmestch condenó a cadena perpetua al exdirector de la CNI Hugo Salas Wenzel y a Corbalán a 15 años, condenas confirmadas por la Corte Suprema en 2007.",
+          "por_que": "Un montaje policial desmontado por la justicia casi veinte años después.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Albania",
+            "https://www.emol.com/noticias/nacional/2005/01/28/171193/cadena-perpetua-a-salas-wenzel-por-operacion--albania.html"
+          ],
+          "riesgos": "Duró dos días (15 y 16): la efeméride es el inicio. Tema político sensible."
+        },
+        {
+          "titulo_caso": "Asesinato del ministro Bronisław Pieracki",
+          "protagonista": "Hryhorij Maciejko (OUN)",
+          "fecha": "1934-06-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Polonia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1930-1939",
+          "resumen": "El 15 de junio de 1934, hacia las 15:30, el ministro del Interior polaco Bronisław Pieracki fue tiroteado en la calle Foksal de Varsovia por Hryhorij Maciejko, de la Organización de Nacionalistas Ucranianos (OUN). El autor huyó y vivió exiliado en Argentina; por el complot fueron condenados a muerte, con pena conmutada, Stepan Bandera y otros dirigentes de la OUN.",
+          "por_que": "El crimen que llevó a juicio a Stepan Bandera y que marcó la tensión polaco-ucraniana de entreguerras.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Bronis%C5%82aw_Pieracki",
+            "https://histmag.org/ONR-Ukraincy-i-smierc-ministra-8039"
+          ],
+          "riesgos": "Figura de Bandera muy politizada hoy: contar con neutralidad. El autor material nunca fue juzgado."
+        }
+      ]
+    },
+    {
+      "dia": 16,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Jaim Arlosoroff",
+          "protagonista": "Sin culpable (Avraham Stavsky, condenado y absuelto en apelación)",
+          "fecha": "1933-06-16",
+          "tipo_efemeride": "crimen",
+          "pais": "Mandato británico de Palestina (hoy Israel)",
+          "region": "oriente_medio",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1930-1939",
+          "resumen": "El 16 de junio de 1933 el dirigente sionista laborista Jaim Arlosoroff fue asesinado de un disparo mientras paseaba con su esposa por la playa de Tel Aviv. Se acusó a tres revisionistas: dos fueron absueltos y Avraham Stavsky, condenado a muerte, fue absuelto en apelación en 1934. Una comisión judicial de 1985 los exculpó a todos y no pudo identificar a los asesinos.",
+          "por_que": "Un crimen sin resolver que dividió durante décadas a la política israelí.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Chaim_Arlosoroff",
+            "https://www.jta.org/archive/52-years-after-arlosoroff-murder-panel-clears-3-revisionist-suspects"
+          ],
+          "riesgos": "Los acusados fueron exculpados: no atribuir el crimen a nadie."
+        },
+        {
+          "titulo_caso": "El bombardeo de Plaza de Mayo",
+          "protagonista": "Aviadores navales y militares sublevados contra Perón",
+          "fecha": "1955-06-16",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1950-1959",
+          "resumen": "El 16 de junio de 1955, en un intento de golpe contra Perón, aviones de la Marina y la Aeronáutica bombardearon y ametrallaron la Plaza de Mayo y el centro de Buenos Aires en pleno día laborable. Murieron más de 300 personas, en su mayoría civiles, según la investigación oficial de 2010. Los responsables se beneficiaron de la impunidad tras el golpe de septiembre.",
+          "por_que": "El mayor ataque contra civiles de la historia argentina, cometido por su propio ejército y nunca juzgado.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Bombardeo_de_la_Plaza_de_Mayo",
+            "https://www.pagina12.com.ar/558856-el-mayor-atentado-terrorista"
+          ],
+          "riesgos": "Cifras discutidas (136 a 364 según fuentes). Víctimas menores. Sin condenas. Más historia política que crónica negra."
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "candidatos": [
+        {
+          "titulo_caso": "La muerte de Roberto Calvi, «el banquero de Dios»",
+          "protagonista": "Roberto Calvi (víctima); sin culpables",
+          "fecha": "1982-06-18",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Reino Unido / Italia",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1980-1989",
+          "resumen": "La mañana del 18 de junio de 1982 apareció ahorcado bajo el puente de Blackfriars, en Londres, Roberto Calvi, presidente del Banco Ambrosiano, que acababa de quebrar y estaba ligado al Banco Vaticano y a la logia P2. Una primera investigación británica habló de suicidio; en Italia, el juicio por asesinato terminó en 2007 con la absolución de los cinco acusados, y en 2016 se archivó la última investigación.",
+          "por_que": "Finanzas vaticanas, mafia y masonería en un misterio que la justicia considera asesinato pero sin culpables.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Roberto_Calvi",
+            "http://www.ilfattoquotidiano.it/2016/11/10/roberto-calvi-archiviata-ultima-inchiesta-sulla-morte-gip-assassinio-il-ruolo-di-vaticano-mafia-e-massoneria/3183527/"
+          ],
+          "riesgos": "Todos los acusados fueron absueltos: no atribuir el crimen a nadie. Implica al Vaticano y a personas aún citadas en prensa."
+        },
+        {
+          "titulo_caso": "El asesinato del locutor Alan Berg",
+          "protagonista": "The Order (Bruce Pierce, David Lane)",
+          "fecha": "1984-06-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 18 de junio de 1984 el polémico locutor de radio judío Alan Berg fue asesinado a tiros con una ametralladora MAC-10 al llegar a su casa de Denver. Lo mató el grupo neonazi The Order. Nadie fue condenado por asesinato: Bruce Pierce y David Lane fueron condenados en un juicio federal por violar sus derechos civiles.",
+          "por_que": "Un crimen de odio contra la libertad de expresión que inspiró la película «Talk Radio».",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Alan_Berg",
+            "http://www.historylink.org/File/7921"
+          ],
+          "riesgos": "No hubo condena por asesinato, sino por delitos federales: decirlo con precisión."
+        }
+      ]
+    },
+    {
+      "dia": 19,
+      "candidatos": [
+        {
+          "titulo_caso": "Pablo Escobar se entrega: la cárcel de La Catedral",
+          "protagonista": "Pablo Escobar",
+          "fecha": "1991-06-19",
+          "tipo_efemeride": "detencion",
+          "pais": "Colombia",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "1990-1999",
+          "resumen": "El 19 de junio de 1991, el mismo día en que la Asamblea Constituyente prohibió la extradición, Pablo Escobar se entregó en Medellín y fue trasladado a La Catedral, una cárcel construida a su medida en Envigado. Se fugó el 22 de julio de 1992 y murió abatido por la policía en diciembre de 1993.",
+          "por_que": "La rendición más extraña de la historia criminal: un capo que eligió su propia cárcel.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/La_Catedral_(prisi%C3%B3n)",
+            "https://www.infobae.com/america/colombia/2021/06/19/los-secretos-y-revelaciones-de-la-catedral-la-carcel-de-lujo-que-se-construyo-pablo-escobar-hace-30-anos/"
+          ],
+          "riesgos": "Evitar el tono glorificador del narco; recordar a sus víctimas."
+        },
+        {
+          "titulo_caso": "El asesinato de Vincent Chin",
+          "protagonista": "Ronald Ebens y Michael Nitz",
+          "fecha": "1982-06-19",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1980-1989",
+          "resumen": "El 19 de junio de 1982, en Detroit, el estadounidense de origen chino Vincent Chin fue golpeado con un bate de béisbol por dos trabajadores del automóvil que lo culpaban de la crisis por la competencia japonesa; murió el 23 de junio, días antes de su boda. Los agresores pactaron un homicidio involuntario y solo recibieron tres años de libertad vigilada y una multa; en el juicio federal Nitz fue absuelto y la condena de Ebens se anuló.",
+          "por_que": "Una pena tan leve que movilizó por primera vez a los asiático-americanos por los derechos civiles.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-19/vincent-chin-is-murdered-detroit",
+            "https://en.wikipedia.org/wiki/Killing_of_Vincent_Chin"
+          ],
+          "riesgos": "No hubo condena por asesinato: hablar de homicidio involuntario. Clasificado como fallo judicial célebre (pena mínima y absolución federal)."
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de Ezeiza",
+          "protagonista": "Facciones del peronismo",
+          "fecha": "1973-06-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1970-1979",
+          "resumen": "El 20 de junio de 1973, mientras una multitud esperaba en Ezeiza el regreso definitivo de Perón, francotiradores de la derecha peronista dispararon desde el palco contra columnas de la izquierda del movimiento. Nunca hubo una investigación oficial; las cifras más citadas hablan de 13 a 16 muertos y cientos de heridos.",
+          "por_que": "El día en que estalló a tiros la guerra interna del peronismo, sin culpables.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Masacre_de_Ezeiza",
+            "https://www.lanacion.com.ar/politica/hace-25-anos-la-masacre-de-ezeiza-enlutaba-a-la-argentina-nid100886/"
+          ],
+          "riesgos": "Cifras de víctimas no oficiales y discutidas. Sin juicio ni condenas: no atribuir culpas personales."
+        },
+        {
+          "titulo_caso": "Los crímenes de la familia Bain",
+          "protagonista": "David Bain (absuelto en 2009)",
+          "fecha": "1994-06-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Nueva Zelanda",
+          "region": "oceania",
+          "tipo_caso": "error_judicial",
+          "epoca": "1990-1999",
+          "resumen": "El 20 de junio de 1994 cinco miembros de la familia Bain murieron a tiros en su casa de Dunedin. David Bain, de 22 años, fue condenado en 1995 a cadena perpetua; en 2007 el Consejo Privado anuló la condena por un grave error judicial y en junio de 2009 fue absuelto en un nuevo juicio. La defensa sostuvo que el autor fue el padre, Robin Bain.",
+          "por_que": "El caso judicial más famoso de Nueva Zelanda: trece años en prisión y una absolución que aún divide al país.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Bain_family_murders",
+            "https://www.scoop.co.nz/stories/HL0705/S00225.htm"
+          ],
+          "riesgos": "Entre las víctimas había menores (casos de hace 30 años). Bain fue absuelto: presunción de inocencia; no hay culpable judicialmente declarado."
+        },
+        {
+          "titulo_caso": "El asesinato de Bugsy Siegel",
+          "protagonista": "Benjamin «Bugsy» Siegel (víctima); sin culpable",
+          "fecha": "1947-06-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1940-1949",
+          "resumen": "La noche del 20 de junio de 1947 el gánster Benjamin «Bugsy» Siegel, impulsor del casino Flamingo de Las Vegas, fue acribillado a través de la ventana de la casa de su novia, Virginia Hill, en Beverly Hills. Nadie fue acusado; se atribuye a sus socios de la mafia, descontentos con las pérdidas del Flamingo.",
+          "por_que": "El crimen sin resolver que cerró la historia del gánster que inventó Las Vegas.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-20/bugsy-siegel-organized-crime-leader-is-killed",
+            "https://en.wikipedia.org/wiki/Bugsy_Siegel"
+          ],
+          "riesgos": "Sin culpable judicial: la autoría mafiosa es una hipótesis. Evitar glorificar al gánster."
+        }
+      ]
+    },
+    {
+      "dia": 21,
+      "candidatos": [
+        {
+          "titulo_caso": "Mississippi Burning: los asesinatos de Chaney, Goodman y Schwerner",
+          "protagonista": "Miembros del Ku Klux Klan (Edgar Ray Killen y otros)",
+          "fecha": "1964-06-21",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1960-1969",
+          "resumen": "La noche del 21 de junio de 1964 tres activistas por los derechos civiles, James Chaney, Andrew Goodman y Michael Schwerner, fueron asesinados por miembros del Klan cerca de Filadelfia (Misisipi) tras salir de la cárcel. Sus cuerpos aparecieron el 4 de agosto. Siete acusados fueron condenados en 1967 por un delito federal; Edgar Ray Killen fue condenado por homicidio en 2005.",
+          "por_que": "El crimen que conmovió a EE. UU. durante el Verano de la Libertad y tardó 41 años en tener una condena por homicidio.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Murders_of_Chaney,_Goodman,_and_Schwerner",
+            "https://www.pbs.org/wgbh/americanexperience/features/freedomsummer-murder/"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Neville Heath: el crimen del hotel Pembridge Court",
+          "protagonista": "Neville Heath",
+          "fecha": "1946-06-21",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1940-1949",
+          "resumen": "El 21 de junio de 1946 apareció en una habitación del hotel Pembridge Court (Notting Hill, Londres) el cuerpo de Margery Gardner, que había pasado la noche anterior con Neville Heath, un exoficial de aviación seductor y mentiroso. Heath huyó a Bournemouth, donde mató a Doreen Marshall el 3 de julio. Fue detenido, condenado y ahorcado el 16 de octubre de 1946.",
+          "por_que": "El «asesino encantador» de la posguerra británica, que se presentó él mismo a la policía con nombre falso.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Neville_Heath",
+            "http://www.executedtoday.com/2013/10/16/1946-neville-heath-torture-killer/"
+          ],
+          "riesgos": "Violencia sexual extrema: contar sin detalles. La muerte fue la noche del 20 al 21; la efeméride es el hallazgo."
+        },
+        {
+          "titulo_caso": "John Hinckley, absuelto por enajenación",
+          "protagonista": "John Hinckley Jr.",
+          "fecha": "1982-06-21",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1980-1989",
+          "resumen": "El 21 de junio de 1982 un jurado de Washington declaró a John Hinckley no culpable por enajenación mental de los 13 cargos por el atentado del 30 de marzo de 1981 contra Ronald Reagan, en el que también resultaron heridos el portavoz James Brady y dos agentes. Fue internado en un hospital psiquiátrico; quedó en libertad sin condiciones en 2022.",
+          "por_que": "Una absolución que escandalizó a EE. UU. y cambió las leyes sobre la defensa por enajenación.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-21/hinckley-not-guilty-by-reason-of-insanity",
+            "https://en.wikipedia.org/wiki/John_Hinckley_Jr."
+          ],
+          "riesgos": "Fue absuelto: no llamarlo culpable. Obsesión con una actriz (Jodie Foster): no explotarla."
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "candidatos": [
+        {
+          "titulo_caso": "La desaparición de Emanuela Orlandi",
+          "protagonista": "Sin culpable",
+          "fecha": "1983-06-22",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Ciudad del Vaticano / Italia",
+          "region": "europa",
+          "tipo_caso": "desaparicion",
+          "epoca": "1980-1989",
+          "resumen": "El 22 de junio de 1983 Emanuela Orlandi, de 15 años, hija de un empleado del Vaticano, desapareció en Roma al salir de su clase de música. Su caso se ha relacionado con el atentado contra Juan Pablo II, la Banda de la Magliana y las finanzas vaticanas, sin ninguna prueba concluyente. Nunca se ha encontrado su cuerpo ni se ha condenado a nadie.",
+          "por_que": "El misterio más largo del Vaticano, mantenido vivo por la lucha de su familia durante más de cuarenta años.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Disappearance_of_Emanuela_Orlandi",
+            "https://www.vaticannews.va/en/vatican-city/news/2019-07/emanuela-orlandi-graves-teutonic-cemetery-vatican.html"
+          ],
+          "riesgos": "Víctima menor (nombre público difundido por la familia; más de 40 años). En 2023 se abrieron investigaciones en el Vaticano y en la Fiscalía de Roma y una comisión parlamentaria: posible proceso abierto, valorar si excluir. Muchas teorías sin pruebas: no darlas por hechos."
+        },
+        {
+          "titulo_caso": "La captura de Whitey Bulger",
+          "protagonista": "James «Whitey» Bulger",
+          "fecha": "2011-06-22",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "2010-2019",
+          "resumen": "El 22 de junio de 2011 el FBI detuvo en Santa Mónica (California) a James «Whitey» Bulger, jefe mafioso de Boston e informante del propio FBI, tras dieciséis años huido; con él cayó su pareja, Catherine Greig. En agosto de 2013 fue condenado por 31 de 32 cargos, incluida su participación en 11 asesinatos. Fue asesinado en prisión en 2018.",
+          "por_que": "El gánster protegido por el FBI que estuvo 16 años en la lista de los más buscados.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-22/notorious-boston-mobster-whitey-bulger-is-arrested",
+            "https://en.wikipedia.org/wiki/Whitey_Bulger"
+          ],
+          "riesgos": "Comprobar que no quede causa abierta por su asesinato en prisión (los acusados se declararon culpables en 2022)."
+        }
+      ]
+    },
+    {
+      "dia": 23,
+      "candidatos": [
+        {
+          "titulo_caso": "El atentado contra el vuelo 182 de Air India",
+          "protagonista": "Extremistas sijs de Babbar Khalsa (Inderjit Singh Reyat, condenado)",
+          "fecha": "1985-06-23",
+          "tipo_efemeride": "crimen",
+          "pais": "Canadá / Irlanda (aguas)",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1980-1989",
+          "resumen": "El 23 de junio de 1985 una bomba facturada en Vancouver destruyó el vuelo 182 de Air India frente a la costa de Irlanda: murieron 329 personas. Esa misma madrugada otra maleta estalló en el aeropuerto de Narita. Solo Inderjit Singh Reyat fue condenado; los acusados Ripudaman Singh Malik y Ajaib Singh Bagri fueron absueltos el 16 de marzo de 2005.",
+          "por_que": "El peor atentado de la historia de Canadá y una investigación criticada por sus fallos, con absoluciones célebres.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Air_India_Flight_182",
+            "https://www.thecanadianencyclopedia.ca/en/article/air-india-trial-ends-in-acquittal"
+          ],
+          "riesgos": "Terrorismo con 329 muertos. Malik y Bagri fueron absueltos: no llamarlos culpables (Malik fue asesinado en 2022; comprobar que ese crimen no reabra el caso)."
+        },
+        {
+          "titulo_caso": "El caso Bobbitt",
+          "protagonista": "Lorena Bobbitt (absuelta por enajenación)",
+          "fecha": "1993-06-23",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1990-1999",
+          "resumen": "La madrugada del 23 de junio de 1993, en Manassas (Virginia), Lorena Bobbitt, nacida en Ecuador, mutiló a su marido John con un cuchillo de cocina mientras dormía, tras denunciar años de maltrato y una violación esa noche. Él fue absuelto de agresión sexual conyugal; ella, absuelta por enajenación mental transitoria en 1994.",
+          "por_que": "Dos absoluciones célebres que abrieron en EE. UU. el debate sobre la violencia doméstica.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-23/lorena-bobbitt-cut-husband-john-penis",
+            "https://en.wikipedia.org/wiki/John_and_Lorena_Bobbitt"
+          ],
+          "riesgos": "Tema delicado (violencia sexual y doméstica): evitar el tono de chiste habitual en los medios. Ambos fueron absueltos."
+        },
+        {
+          "titulo_caso": "John Gotti, «el Don de Teflón», condenado a cadena perpetua",
+          "protagonista": "John Gotti",
+          "fecha": "1992-06-23",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 23 de junio de 1992 un juez federal de Brooklyn condenó a cadena perpetua sin libertad condicional a John Gotti, jefe de la familia Gambino, declarado culpable en abril de asesinato (entre otros, el de su predecesor Paul Castellano) y crimen organizado. Tras tres absoluciones previas, lo hundió el testimonio de su lugarteniente Sammy Gravano. Murió en prisión en 2002.",
+          "por_que": "El final del último gran padrino mediático, el «Don de Teflón» al que nada se le pegaba.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-23/teflon-don-sentenced-to-life",
+            "https://en.wikipedia.org/wiki/John_Gotti"
+          ],
+          "riesgos": "Evitar la glorificación del mafioso."
+        }
+      ]
+    },
+    {
+      "dia": 24,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de San Juan",
+          "protagonista": "Ejército de Bolivia (gobierno de René Barrientos)",
+          "fecha": "1967-06-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Bolivia",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1960-1969",
+          "resumen": "En la madrugada del 24 de junio de 1967, tras la fiesta de San Juan, el ejército atacó los campamentos mineros de Siglo XX y Catavi (Llallagua). Se habló de 20 muertos y 72 heridos, y de muchos desaparecidos; nunca se fijó la cifra. No hubo juicios.",
+          "por_que": "La noche más larga de las minas bolivianas, en plena guerrilla del Che.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Masacre_de_San_Juan",
+            "https://www.lostiempos.com/actualidad/opinion/20180621/columna/masacre-san-juan-noche-mas-larga"
+          ],
+          "riesgos": "Cifras muy discutidas. Sin juicios ni condenas."
+        },
+        {
+          "titulo_caso": "El asesinato de Walther Rathenau",
+          "protagonista": "Erwin Kern, Hermann Fischer y la Organización Cónsul",
+          "fecha": "1922-06-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "La mañana del 24 de junio de 1922 el ministro de Asuntos Exteriores alemán Walther Rathenau, industrial judío y firmante del Tratado de Rapallo, fue asesinado en su coche descubierto en Berlín por ultranacionalistas de la Organización Cónsul: Kern le disparó y Fischer lanzó una granada. Ambos murieron al ser cercados; otros cómplices fueron condenados.",
+          "por_que": "El magnicidio antisemita que anunció la violencia que acabaría con la República de Weimar.",
+          "fuentes_fecha": [
+            "https://www.dhm.de/lemo/biografie/walther-rathenau",
+            "https://es.wikipedia.org/wiki/Walther_Rathenau"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "El incendio del UpStairs Lounge",
+          "protagonista": "Sin culpable (Roger Dale Nunez, sospechoso nunca acusado)",
+          "fecha": "1973-06-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1970-1979",
+          "resumen": "La noche del 24 de junio de 1973 un incendio provocado en la escalera del UpStairs Lounge, un bar gay de Nueva Orleans, mató a 32 personas. El principal sospechoso, un cliente expulsado esa tarde, nunca fue acusado y se suicidó en 1974. La causa oficial sigue siendo «de origen indeterminado» y el caso se cerró en 1980.",
+          "por_que": "El ataque más mortífero contra la comunidad LGTB de EE. UU. hasta 2016, ignorado durante décadas.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-24/upstairs-lounge-arson-new-orleans",
+            "https://en.wikipedia.org/wiki/UpStairs_Lounge_arson_attack"
+          ],
+          "riesgos": "Sin culpable: no nombrar al sospechoso como autor."
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre de Los Horcones",
+          "protagonista": "Militares y terratenientes de Olancho (mayor José Enrique Chinchilla y otros)",
+          "fecha": "1975-06-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Honduras",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 25 de junio de 1975, en Olancho, militares y hacendados mataron a campesinos de una marcha por la reforma agraria y a dos sacerdotes, el colombiano Iván Betancourt y el estadounidense Michael Jerome Cypher; varios cuerpos fueron arrojados a un pozo en la hacienda Los Horcones. Cuatro responsables fueron condenados a 20 años, pero una amnistía los dejó libres meses después.",
+          "por_que": "Una matanza de campesinos y curas que Honduras sigue recordando, con condenas anuladas por amnistía.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/25_de_junio",
+            "https://www.elheraldo.hn/honduras/masacre-de-los-horcones-el-drama-que-no-se-olvida-HOEH565211"
+          ],
+          "riesgos": "Hubo tortura y violencia extrema: contar sin detalles. Cifra total de víctimas varía (unas 14-15)."
+        },
+        {
+          "titulo_caso": "El asesinato de Stanford White, «el crimen del siglo»",
+          "protagonista": "Harry Kendall Thaw",
+          "fecha": "1906-06-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1900-1909",
+          "resumen": "El 25 de junio de 1906, durante un espectáculo en la azotea del Madison Square Garden de Nueva York, el millonario Harry Thaw mató de tres disparos al arquitecto Stanford White, antiguo amante de su esposa, la modelo Evelyn Nesbit. El primer juicio acabó sin veredicto; en el segundo, Thaw fue declarado no culpable por enajenación mental e internado.",
+          "por_que": "El primer «juicio del siglo» de la prensa sensacionalista, con fama, sexo y dinero.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Stanford_White",
+            "https://www.pbs.org/wgbh/americanexperience/films/century/"
+          ],
+          "riesgos": "Evelyn Nesbit sufrió abusos de White siendo menor (16 años): tratarlo con cuidado."
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Veronica Guerin",
+          "protagonista": "Banda de John Gilligan (Brian Meehan, condenado)",
+          "fecha": "1996-06-26",
+          "tipo_efemeride": "crimen",
+          "pais": "Irlanda",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 26 de junio de 1996 la periodista de investigación Veronica Guerin fue asesinada a tiros desde una moto cuando esperaba en un semáforo de Naas Road, a las afueras de Dublín. Brian Meehan fue condenado a cadena perpetua; John Gilligan fue absuelto del asesinato y condenado por tráfico de cannabis.",
+          "por_que": "El crimen que llevó a Irlanda a crear la Oficina de Activos Criminales para perseguir el dinero del narco.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Veronica_Guerin",
+            "https://www.irishtimes.com/news/guerin-murdered-after-leaving-naas-district-court-1.62164"
+          ],
+          "riesgos": "Gilligan fue absuelto del asesinato: no llamarlo asesino. Otro condenado (Paul Ward) vio anulada su condena."
+        },
+        {
+          "titulo_caso": "Asesinato de Kim Ku",
+          "protagonista": "Ahn Doo-hee",
+          "fecha": "1949-06-26",
+          "tipo_efemeride": "crimen",
+          "pais": "Corea del Sur",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1940-1949",
+          "resumen": "El 26 de junio de 1949 el líder independentista coreano Kim Ku fue asesinado de cuatro disparos en su residencia de Gyeonggyojang (Seúl) por el teniente Ahn Doo-hee. Siempre se sospechó que actuó por encargo del entorno del presidente Syngman Rhee, pero nunca se probó. En 1996 Ahn fue asesinado por un admirador de Kim.",
+          "por_que": "El magnicidio del padre de la independencia coreana, con una sospecha de Estado nunca aclarada y una venganza 47 años después.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Kim_Ku",
+            "https://www.koreatimes.co.kr/www/news/opinon/2015/11/165_30545.html"
+          ],
+          "riesgos": "La implicación de Syngman Rhee es una sospecha no probada."
+        }
+      ]
+    },
+    {
+      "dia": 27,
+      "candidatos": [
+        {
+          "titulo_caso": "El secuestro de Publio Cordón",
+          "protagonista": "GRAPO",
+          "fecha": "1995-06-27",
+          "tipo_efemeride": "desaparicion",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "El 27 de junio de 1995 el empresario zaragozano Publio Cordón fue secuestrado por los GRAPO frente a su casa cuando salía a correr. La familia pagó un rescate de 400 millones de pesetas creyéndolo vivo, pero nunca fue liberado: según un exmiembro murió en cautiverio semanas después. Sus restos no han aparecido. La Audiencia Nacional condenó a varios miembros en 1998 y en 2017.",
+          "por_que": "Un secuestro sin cuerpo y sin final: la familia sigue buscando sus restos.",
+          "fuentes_fecha": [
+            "https://www.zaragoza.es/sede/portal/zgz-no-olvida/atentados/publio-cordon-munilla",
+            "https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-Nacional-condena-a-30-anos-de-carcel-a-dos-grapos-por-el-secuestro-de-Publio-Cordon"
+          ],
+          "riesgos": "Víctima de terrorismo; familia muy activa. Comprobar que no quede ninguna causa abierta (prescripción discutida en 2025)."
+        },
+        {
+          "titulo_caso": "El ataque con sarín de Matsumoto",
+          "protagonista": "Secta Aum Shinrikyo",
+          "fecha": "1994-06-27",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "secta",
+          "epoca": "1990-1999",
+          "resumen": "La noche del 27 de junio de 1994 miembros de Aum Shinrikyo liberaron gas sarín en un barrio residencial de Matsumoto, donde vivían jueces que llevaban un pleito contra la secta. Murieron siete personas (una octava, en 2008) y cientos resultaron intoxicadas. La policía sospechó de un vecino inocente, Yoshiyuki Kōno, cuya esposa fue víctima; nueve meses después la secta atacó el metro de Tokio.",
+          "por_que": "El ensayo del atentado del metro de Tokio y un ejemplo de acusación injusta a una víctima.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Matsumoto_sarin_attack",
+            "https://wwwnc.cdc.gov/eid/article/5/4/99-0409_article"
+          ],
+          "riesgos": "No describir la fabricación del gas. Kōno era inocente: tratarlo como víctima del error policial y mediático."
+        },
+        {
+          "titulo_caso": "El linchamiento de Joseph Smith en la cárcel de Carthage",
+          "protagonista": "Turba armada (cinco acusados, absueltos en 1845)",
+          "fecha": "1844-06-27",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "historico",
+          "epoca": "siglo XIX",
+          "resumen": "El 27 de junio de 1844 una turba de hombres armados, muchos con la cara pintada, asaltó la cárcel de Carthage (Illinois) y mató a tiros a Joseph Smith, fundador de los mormones, y a su hermano Hyrum, que esperaban juicio. Los cinco acusados fueron absueltos en 1845.",
+          "por_que": "El asesinato que convirtió en mártir al fundador de una religión y empujó a los mormones hacia Utah.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-27/mormon-leader-killed-by-mob",
+            "https://en.wikipedia.org/wiki/Killing_of_Joseph_Smith"
+          ],
+          "riesgos": "Tema religioso sensible: contar sin tomar partido. Los acusados fueron absueltos."
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "candidatos": [
+        {
+          "titulo_caso": "El atentado de Sarajevo",
+          "protagonista": "Gavrilo Princip (Joven Bosnia)",
+          "fecha": "1914-06-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Austria-Hungría (hoy Bosnia y Herzegovina)",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1910-1919",
+          "resumen": "El domingo 28 de junio de 1914 el estudiante Gavrilo Princip, del grupo Joven Bosnia, mató a tiros en Sarajevo al heredero austrohúngaro Francisco Fernando y a su esposa Sofía, tras un primer atentado fallido con bomba esa misma mañana. Princip fue condenado a 20 años, la pena máxima para menores de 20 según la ley austrohúngara, y murió en prisión en 1918.",
+          "por_que": "El crimen más trascendente del siglo XX: la chispa de la Primera Guerra Mundial.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+            "https://spartacus-educational.com/FWWprincip.htm"
+          ],
+          "riesgos": "Princip tenía 19 años (no era menor según el criterio actual, pero sí según la ley penal de entonces). Más historia que crónica negra."
+        },
+        {
+          "titulo_caso": "La masacre de Aguas Blancas",
+          "protagonista": "Policía del estado de Guerrero",
+          "fecha": "1995-06-28",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 28 de junio de 1995, en el vado de Aguas Blancas (Coyuca de Benítez, Guerrero), policías estatales dispararon contra campesinos de la Organización Campesina de la Sierra del Sur que iban a un mitin: murieron 17 y hubo 23 heridos. La versión oficial de un enfrentamiento se cayó con un vídeo. El gobernador Rubén Figueroa pidió licencia, pero no fue juzgado.",
+          "por_que": "Un vídeo desmontó la versión oficial de una matanza de campesinos que sigue sin justicia.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Masacre_de_Aguas_Blancas",
+            "https://expansion.mx/nacional/2011/06/28/aguas-blancas-un-genocidio-que-aun-espera-justicia-en-mexico"
+          ],
+          "riesgos": "Según la prensa de 2011, sin condenas firmes: comprobar el estado judicial actual. No atribuir responsabilidad penal a Figueroa."
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del presidente Mohamed Budiaf",
+          "protagonista": "Lambarek Boumaarafi",
+          "fecha": "1992-06-29",
+          "tipo_efemeride": "crimen",
+          "pais": "Argelia",
+          "region": "africa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1990-1999",
+          "resumen": "El 29 de junio de 1992 el presidente argelino Mohamed Budiaf, héroe de la independencia que había vuelto del exilio seis meses antes, fue tiroteado en directo por televisión mientras daba un discurso en un centro cultural de Annaba. El autor, el teniente de su escolta Lambarek Boumaarafi, fue condenado a muerte en 1995 en un juicio a puerta cerrada; la pena no se ejecutó.",
+          "por_que": "Un magnicidio televisado que abrió la década negra de Argelia y aún despierta sospechas de complot.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Mohamed_Boudiaf",
+            "https://www.upi.com/Archives/1992/07/01/Thousands-pay-tribute-to-assassinated-Algerian-president/5047709963200/"
+          ],
+          "riesgos": "La versión oficial del «autor solitario» está discutida; no afirmar complots no probados. La crónica de UPI (1 de julio) lo sitúa «el lunes», 29 de junio."
+        },
+        {
+          "titulo_caso": "El crimen de Francisca Rojas: la primera huella dactilar",
+          "protagonista": "Francisca Rojas",
+          "fecha": "1892-06-29",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "siglo XIX",
+          "resumen": "El 29 de junio de 1892, en un rancho de Quequén (Necochea), Francisca Rojas mató a sus dos hijos pequeños e intentó culpar a un vecino. Una huella ensangrentada en el marco de la puerta, analizada con el método de Juan Vucetich, demostró que era suya y confesó. Fue el primer crimen del mundo resuelto mediante huellas dactilares.",
+          "por_que": "El nacimiento de la dactiloscopia forense, en un pueblo argentino.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Francisca_Rojas",
+            "https://www.infobae.com/sociedad/2019/09/01/dos-ninos-muertos-una-madre-herida-y-un-misterio-el-crimen-de-quequen-que-dio-origen-al-sistema-de-identificacion-por-huellas-digitales/"
+          ],
+          "riesgos": "Víctimas menores (caso de hace más de 130 años; nombres públicos). OJO FECHA: Wikipedia, Infobae y la web del Ministerio de Seguridad bonaerense dan el 29 de junio, pero history.com lo sitúa el 19; comprobar en una fuente primaria antes de elegirlo. Un vecino fue detenido y maltratado antes de la confesión."
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "candidatos": [
+        {
+          "titulo_caso": "La masacre Vizconde",
+          "protagonista": "Sin culpable (Hubert Webb y otros, absueltos en 2010)",
+          "fecha": "1991-06-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Filipinas",
+          "region": "asia",
+          "tipo_caso": "error_judicial",
+          "epoca": "1990-1999",
+          "resumen": "En la madrugada del 30 de junio de 1991 Estrellita Vizconde y sus hijas Carmela, de 19 años, y Jennifer, de 7, fueron asesinadas en su casa de Parañaque (Manila). Hubert Webb, hijo de un senador, y otros acusados fueron condenados en 2000, pero el Tribunal Supremo los absolvió el 14 de diciembre de 2010 por falta de pruebas. El crimen sigue sin culpables.",
+          "por_que": "El caso más mediático de Filipinas: una condena de diez años anulada y una familia sin justicia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Vizconde_murders",
+            "https://lawphil.net/judjuris/juri2010/dec2010/gr_176389_2010.html"
+          ],
+          "riesgos": "Víctima menor (7 años) y violencia sexual: no detallar. Los absueltos no pueden presentarse como culpables."
+        },
+        {
+          "titulo_caso": "La Noche de los Cuchillos Largos",
+          "protagonista": "Adolf Hitler y las SS",
+          "fecha": "1934-06-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1930-1939",
+          "resumen": "A partir del 30 de junio de 1934, Hitler ordenó a las SS y la Gestapo asesinar sin juicio a la cúpula de las SA, empezando por Ernst Röhm, y a otros adversarios políticos, como el excanciller Kurt von Schleicher. Murieron al menos 85 personas, y probablemente cientos. El régimen lo presentó como la represión de un golpe.",
+          "por_que": "Una purga de Estado convertida en ley: el momento en que Hitler se situó por encima de la justicia.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/june-30/night-of-the-long-knives",
+            "https://en.wikipedia.org/wiki/Night_of_the_Long_Knives"
+          ],
+          "riesgos": "Crimen de Estado más que caso criminal; cifras discutidas. Duró del 30 de junio al 2 de julio."
+        }
+      ]
+    }
+  ]
+}

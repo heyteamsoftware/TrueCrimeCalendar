@@ -35,7 +35,7 @@ Son las del apartado 2 de `docs/REDISENO_CASOS_Y_CINTAS.md` y de `docs/GUIA_CINT
    - una línea de por qué es interesante.
 
    Salida: `web/datos/candidatos/<mes>.json`.
-2. **Selección (coordinador).** Se elige uno por día cumpliendo las cuotas en el conjunto del año (`tools/validar_casos.js` informa de países y tipos). El usuario puede revisar la lista antes de seguir.
+2. **Selección (coordinador).** Se elige uno por día cumpliendo las cuotas en el conjunto del año (`tools/validar_casos.js` informa de países y tipos). El usuario puede revisar la lista antes de seguir. *(9 de noviembre de 2026: el usuario aprueba de antemano la lista que salga, así que se pasa directamente a las fichas.)*
 3. **Fichas (12 agentes, uno por mes).** Ficha completa de cada caso elegido en `web/datos/casos_nuevos.json`, con los campos del apartado 8 del contrato:
    - coordenadas comprobadas en un mapa;
    - entre 4 y 10 fuentes con tipo;

@@ -1,0 +1,1320 @@
+{
+  "mes": 9,
+  "dias": [
+    {
+      "dia": 1,
+      "candidatos": [
+        {
+          "titulo_caso": "Atraco de Los Solidarios al Banco de España de Gijón",
+          "protagonista": "Los Solidarios, grupo anarquista de Buenaventura Durruti",
+          "fecha": "1923-09-01",
+          "tipo_efemeride": "golpe",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "golpe",
+          "epoca": "1920-1929",
+          "resumen": "El 1 de septiembre de 1923, miembros del grupo anarquista Los Solidarios asaltaron a mano armada la sucursal del Banco de España en Gijón y se llevaron más de medio millón de pesetas, que pensaban destinar a comprar armas para resistir el golpe militar que se esperaba. La Guardia Civil persiguió a los atracadores y Durruti acabó huyendo a Francia.",
+          "por_que": "Un atraco de película en vísperas de la dictadura de Primo de Rivera, protagonizado por el futuro mito anarquista Durruti.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Los_Solidarios",
+            "https://revoltlib.com/anarchism/durruti-in-the-spanish-revolution-paz-abel/part-1-chapter-9-primo-de-rivera-dictatorship/view.php"
+          ],
+          "riesgos": "El botín varía según la fuente (650.000 o 675.000 pesetas). Un artículo de opinión de Público lo fecha en 1922. La biografía de Abel Paz da «1 de septiembre» y el año se deduce del capítulo (1923); Wikipedia, que cita a Bookchin y a Paz, da la fecha completa. Figura política mitificada: conviene un tono neutral."
+        },
+        {
+          "titulo_caso": "El caso de la «Pyjama Girl» (Albury)",
+          "protagonista": "Linda Agostini (víctima) y Antonio Agostini",
+          "fecha": "1934-09-01",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "asesinato",
+          "epoca": "1930-1939",
+          "resumen": "El 1 de septiembre de 1934 apareció en una alcantarilla de Howlong Road, cerca de Albury (Nueva Gales del Sur), el cuerpo golpeado y quemado de una joven en pijama a la que nadie pudo identificar durante diez años. En 1944 se la identificó como Linda Agostini; su marido, Antonio Agostini, fue absuelto de asesinato pero condenado por homicidio a seis años, y fue deportado a Italia en 1948.",
+          "por_que": "Diez años sin nombre: uno de los grandes misterios criminales de Australia, con una identificación que aún se discute.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Killing_of_Linda_Agostini",
+            "https://adb.anu.edu.au/biography/agostini-linda-9966"
+          ],
+          "riesgos": "La identidad de la víctima sigue discutida (el investigador Richard Evans sostiene que no era Linda Agostini). La página del Australian Dictionary of Biography devuelve 403 y no se pudo abrir: la fecha se confirmó en Wikipedia y en los resultados de búsqueda, que coinciden."
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "candidatos": [
+        {
+          "titulo_caso": "Masacre de Rock Springs (Wyoming)",
+          "protagonista": "Turba de mineros blancos de Rock Springs",
+          "fecha": "1885-09-02",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "historico",
+          "epoca": "1880-1889",
+          "resumen": "El 2 de septiembre de 1885, una turba de mineros blancos atacó a los mineros chinos de Rock Springs, en el territorio de Wyoming: mató al menos a 28, hirió a 15 y saqueó e incendió su barrio. Dieciséis hombres fueron detenidos, pero un gran jurado se negó a procesarlos y nadie fue condenado.",
+          "por_que": "Un crimen racista masivo y casi olvidado que retrata la violencia contra los inmigrantes chinos en el Oeste.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Rock_Springs_massacre",
+            "https://www.wyohistory.org/encyclopedia/rock-springs-massacre"
+          ],
+          "riesgos": "Cifra de muertos discutida: 28 confirmados, aunque algunas fuentes hablan de 40 o 50. Nadie fue condenado."
+        },
+        {
+          "titulo_caso": "Masacre de Milperra (Sídney)",
+          "protagonista": "Clubes moteros Comancheros y Bandidos",
+          "fecha": "1984-09-02",
+          "tipo_efemeride": "crimen",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 2 de septiembre de 1984, Día del Padre en Australia, un tiroteo entre los clubes moteros Comancheros y Bandidos en el aparcamiento del Viking Tavern de Milperra, en Sídney, dejó siete muertos, entre ellos una chica de 14 años que pasaba por allí, y 28 heridos. Cuarenta y tres moteros fueron acusados y en 1987 hubo decenas de condenas por asesinato, homicidio y riña; la masacre llevó a endurecer las leyes de armas de Nueva Gales del Sur.",
+          "por_que": "La batalla entre bandas moteras más sangrienta de Australia, en pleno día festivo.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Milperra_massacre",
+            "https://au.news.yahoo.com/a/24844206/fathers-day-a-haunting-massacre-reminder/"
+          ],
+          "riesgos": "Una víctima menor (una transeúnte de 14 años): no hace falta nombrarla. Algunas condenas por asesinato se rebajaron a homicidio en apelación."
+        },
+        {
+          "titulo_caso": "Masacres de septiembre (París)",
+          "protagonista": "Grupos armados de sans-culottes",
+          "fecha": "1792-09-02",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1790-1799",
+          "resumen": "El 2 de septiembre de 1792, con el miedo a que los prusianos llegaran a París y a una rebelión de los presos, grupos armados de sans-culottes empezaron a asaltar las cárceles de la ciudad. En unos días mataron a entre 1.100 y 1.400 presos, entre ellos sacerdotes, guardias suizos y antiguos nobles.",
+          "por_que": "El primer gran baño de sangre de la Revolución francesa, antesala del Terror.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/September_Massacres",
+            "https://www.worldhistory.org/trans/es/1-21077/masacres-de-septiembre/"
+          ],
+          "riesgos": "Violencia política colectiva más que un caso criminal clásico. Las cifras son estimaciones y la fecha final varía (6 o 7 de septiembre); el inicio, el día 2, es unánime."
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "candidatos": [
+        {
+          "titulo_caso": "Robo del Museo de Bellas Artes de Montreal («Skylight Caper»)",
+          "protagonista": "Tres ladrones armados nunca identificados",
+          "fecha": "1972-09-04",
+          "tipo_efemeride": "golpe",
+          "pais": "Canadá",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1970-1979",
+          "resumen": "De madrugada, el 4 de septiembre de 1972, tres individuos armados asaltaron el Museo de Bellas Artes de Montreal y se llevaron joyas, figuras y 18 cuadros, entre ellos un paisaje de Rembrandt y obras de Delacroix y Gainsborough, valorados entonces en unos 2 millones de dólares. Es el mayor robo de arte de la historia de Canadá: los autores nunca fueron identificados y solo se han recuperado dos obras.",
+          "por_que": "El mayor robo de arte de Canadá sigue sin resolver medio siglo después.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/1972_Montreal_Museum_of_Fine_Arts_robbery",
+            "https://www.thecanadianencyclopedia.ca/en/article/skylight-caper-1972-montreal-art-heist"
+          ],
+          "riesgos": "Sin resolver: nadie fue acusado. El número de piezas y su valor varían según la fuente."
+        },
+        {
+          "titulo_caso": "Secuestro del embajador Charles Burke Elbrick (Río de Janeiro)",
+          "protagonista": "MR-8 y Acción Libertadora Nacional (ALN)",
+          "fecha": "1969-09-04",
+          "tipo_efemeride": "crimen",
+          "pais": "Brasil",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1960-1969",
+          "resumen": "El 4 de septiembre de 1969, guerrilleros del MR-8 y de la Acción Libertadora Nacional interceptaron en Río de Janeiro el coche del embajador de Estados Unidos, Charles Burke Elbrick, y lo secuestraron en protesta contra la dictadura militar. Lo liberaron al cabo de 78 horas, después de que el Gobierno excarcelara a 15 presos políticos.",
+          "por_que": "El secuestro que abrió la era de los secuestros políticos en Brasil y puso en jaque a la dictadura.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/1969_kidnapping_of_the_United_States_Ambassador_to_Brazil",
+            "https://revistaoeste.com/historia/4-de-setembro-na-historia-terroristas-do-mr-8-sequestram-embaixador-dos-eua-no-rio-de-janeiro/"
+          ],
+          "riesgos": "Violencia política bajo una dictadura: tratarla con equilibrio. El barrio exacto del secuestro varía según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "candidatos": [
+        {
+          "titulo_caso": "Secuestro de Hanns Martin Schleyer (Colonia)",
+          "protagonista": "Fracción del Ejército Rojo (RAF)",
+          "fecha": "1977-09-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 5 de septiembre de 1977, un comando de la Fracción del Ejército Rojo (RAF) emboscó en Colonia el coche del presidente de la patronal alemana, Hanns Martin Schleyer: mató a su chófer y a tres policías de escolta y se lo llevó. El Gobierno se negó a liberar a los presos de la RAF; tras la muerte de estos en sus celdas, Schleyer fue asesinado el 18 de octubre y su cuerpo apareció en el maletero de un coche en Mulhouse (Francia).",
+          "por_que": "El secuestro que desencadenó el «Otoño alemán», el pulso más grave entre el terrorismo de la RAF y el Estado.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hanns_Martin_Schleyer",
+            "https://www.hdg.de/lemo/biografie/hanns-martin-schleyer.html"
+          ],
+          "riesgos": "Terrorismo político. Schleyer había sido oficial de las SS, dato que conviene contextualizar. Falta precisar las condenas individuales."
+        },
+        {
+          "titulo_caso": "Matanza del Seguro Obrero (Santiago de Chile)",
+          "protagonista": "Jóvenes del Movimiento Nacional Socialista de Chile y la policía que los mató",
+          "fecha": "1938-09-05",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1930-1939",
+          "resumen": "El 5 de septiembre de 1938, jóvenes del movimiento nacista chileno se atrincheraron en el edificio del Seguro Obrero, en el centro de Santiago, en un intento de golpe. Tras rendirse, 59 de ellos fueron asesinados por la policía. Hubo condenas, pero se revocaron o se indultaron, y nunca quedó establecido quién dio la orden.",
+          "por_que": "Una de las matanzas más impactantes de la historia de Chile, con responsabilidades políticas que nunca se aclararon.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Matanza_del_Seguro_Obrero",
+            "https://www.memoriachilena.gob.cl/temas/dest.asp?id=ibanezmatanza"
+          ],
+          "riesgos": "Las cifras de muertos varían algo según la fuente (59 nacistas, más un carabinero). La orden se atribuyó al general Humberto Arriagada o al presidente Arturo Alessandri sin prueba concluyente: no afirmar responsabilidades. Las condenas se revocaron o se indultaron."
+        },
+        {
+          "titulo_caso": "Nacimiento de Jesse James",
+          "protagonista": "Jesse James",
+          "fecha": "1847-09-05",
+          "tipo_efemeride": "nacimiento",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1840-1849",
+          "resumen": "Jesse Woodson James nació el 5 de septiembre de 1847 en el condado de Clay (Misuri). Tras la guerra de Secesión encabezó con su hermano Frank la banda James-Younger, que asaltó bancos y trenes durante años, hasta que Robert Ford, un miembro de su banda, lo mató de un disparo el 3 de abril de 1882.",
+          "por_que": "El forajido más mitificado del Oeste: atracos a bancos y trenes, y una muerte a traición.",
+          "fuentes_fecha": [
+            "https://historicmissourians.shsmo.org/jesse-james",
+            "https://en.wikipedia.org/wiki/Jesse_James"
+          ],
+          "riesgos": "Figura muy mitificada: separar la leyenda de los hechos documentados."
+        }
+      ]
+    },
+    {
+      "dia": 6,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Hendrik Verwoerd (Ciudad del Cabo)",
+          "protagonista": "Dimitri Tsafendas",
+          "fecha": "1966-09-06",
+          "tipo_efemeride": "crimen",
+          "pais": "Sudáfrica",
+          "region": "africa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1960-1969",
+          "resumen": "El 6 de septiembre de 1966, Dimitri Tsafendas, un ujier del Parlamento, apuñaló varias veces al primer ministro sudafricano Hendrik Verwoerd, considerado el arquitecto del apartheid, en su escaño de la Cámara de la Asamblea. Tsafendas fue declarado enfermo mental, se libró de la pena de muerte y murió detenido en 1999; un informe de 2018 sostuvo que actuó por motivos políticos.",
+          "por_que": "El magnicidio del arquitecto del apartheid y el enigma de un asesino al que se declaró loco.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Hendrik_Verwoerd",
+            "https://www.sahistory.org.za/people/hendrik-frensch-verwoerd"
+          ],
+          "riesgos": "Tema político sensible. El diagnóstico de locura de Tsafendas se cuestionó en 2018 (informe de Harris Dousemetzis)."
+        },
+        {
+          "titulo_caso": "Atentado contra William McKinley (Búfalo)",
+          "protagonista": "Leon Czolgosz",
+          "fecha": "1901-09-06",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1900-1909",
+          "resumen": "El 6 de septiembre de 1901, el anarquista Leon Czolgosz esperó su turno en la fila de saludos del Templo de la Música, en la Exposición Panamericana de Búfalo, y disparó dos veces contra el presidente William McKinley. McKinley murió de una infección el 14 de septiembre y Czolgosz, condenado por asesinato, fue ejecutado en la silla eléctrica el 29 de octubre.",
+          "por_que": "El tercer presidente de EE. UU. asesinado, en una exposición universal y a plena luz del día.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_William_McKinley",
+            "https://www.nps.gov/thri/september6.htm"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Fuga del penal de Punta Carretas, «El Abuso» (Montevideo)",
+          "protagonista": "Presos del MLN-Tupamaros",
+          "fecha": "1971-09-06",
+          "tipo_efemeride": "golpe",
+          "pais": "Uruguay",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "1970-1979",
+          "resumen": "En la madrugada del 6 de septiembre de 1971, 106 presos tupamaros y cinco presos comunes escaparon del penal de Punta Carretas, en Montevideo, por un túnel que iba desde las celdas hasta una casa vecina. La operación, llamada «El Abuso», fue una de las mayores fugas carcelarias de la historia; entre los fugados estaba José «Pepe» Mujica, luego presidente de Uruguay.",
+          "por_que": "Una fuga masiva de película por un túnel bajo Montevideo, con un futuro presidente entre los fugados.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Penal_de_Punta_Carretas",
+            "https://www.infobae.com/america/america-latina/2021/09/06/a-50-anos-de-la-operacion-el-abuso-un-tunel-una-prision-y-la-mitica-fuga-de-106-guerrilleros-uruguayos/"
+          ],
+          "riesgos": "La cifra varía según la fuente (106 tupamaros más 5 presos comunes, o 111 en total). Contexto de violencia política, aunque la fuga no causó víctimas."
+        }
+      ]
+    },
+    {
+      "dia": 7,
+      "candidatos": [
+        {
+          "titulo_caso": "Detención de Dolores Vázquez por el caso Wanninkhof (Mijas)",
+          "protagonista": "Dolores Vázquez",
+          "fecha": "2000-09-07",
+          "tipo_efemeride": "detencion",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "error_judicial",
+          "epoca": "2000-2009",
+          "resumen": "El 7 de septiembre de 2000, Dolores Vázquez fue detenida por el asesinato de Rocío Wanninkhof, una joven de Mijas (Málaga). Un jurado popular la declaró culpable y fue condenada a 15 años, pero la condena se anuló; tras el asesinato de Sonia Carabantes, el ADN identificó al verdadero autor de ambos crímenes, Tony Alexander King. Pasó 519 días en prisión siendo inocente.",
+          "por_que": "El error judicial más célebre de la España reciente, alimentado por un juicio mediático y por prejuicios lesbófobos.",
+          "fuentes_fecha": [
+            "https://www.eldiario.es/sociedad/519-dias-dolores-vazquez-estuvo-carcel-inocente-asesinato-rocio-wanninkhof_1_13169324.html",
+            "https://en.wikipedia.org/wiki/Murder_of_Roc%C3%ADo_Wanninkhof"
+          ],
+          "riesgos": "Muy relacionado con Tony King, que ya está en el archivo (14 de marzo): enlazarlo como vínculo y no duplicarlo. Dolores Vázquez es inocente y vive (el Gobierno la homenajeó en abril de 2026): tratarla con cuidado. La fecha se comprobó en los resultados de búsqueda de ambas fuentes, no abriendo las páginas."
+        },
+        {
+          "titulo_caso": "Atentado contra Augusto Pinochet (Cajón del Maipo)",
+          "protagonista": "Frente Patriótico Manuel Rodríguez (FPMR)",
+          "fecha": "1986-09-07",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 7 de septiembre de 1986, un comando del Frente Patriótico Manuel Rodríguez emboscó la comitiva del dictador Augusto Pinochet en la cuesta Las Achupallas, camino del Cajón del Maipo, en la llamada Operación Siglo XX. Murieron cinco escoltas y Pinochet salió ileso. La mayoría de los frentistas detenidos fueron indultados o vieron su pena conmutada por el exilio.",
+          "por_que": "El intento de magnicidio que estuvo a punto de cambiar la historia de Chile en plena dictadura.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Atentado_contra_Augusto_Pinochet",
+            "https://cedema.org/digital_items/362"
+          ],
+          "riesgos": "Violencia política: tratarla con equilibrio. La segunda fuente es el parte del propio FPMR (documento primario). Mauricio Hernández Norambuena sigue cumpliendo condena (extraditado a Chile en 2019): comprobar que no queda ningún proceso abierto."
+        },
+        {
+          "titulo_caso": "Asesinato de Georgi Markov con el «paraguas búlgaro» (Londres)",
+          "protagonista": "Georgi Markov (víctima); servicios secretos búlgaros (sospechosos)",
+          "fecha": "1978-09-07",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido / Bulgaria",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "1970-1979",
+          "resumen": "El 7 de septiembre de 1978, el escritor disidente búlgaro Georgi Markov, locutor del Servicio Mundial de la BBC, sintió un pinchazo en la pierna mientras esperaba el autobús en el puente de Waterloo, en Londres. Murió cuatro días después, envenenado con lo que se cree que era ricina. El crimen se atribuye a los servicios secretos búlgaros, pero nadie fue detenido ni acusado, y Bulgaria cerró la investigación.",
+          "por_que": "El asesinato más célebre de la Guerra Fría, con un arma digna de una película de espías.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Georgi_Markov",
+            "https://www.history.co.uk/this-day-in-history/07-september/bulgarian-writer-georgi-markov-stabbed-and-killed-by-an-umbrella"
+          ],
+          "riesgos": "Sin condena: la autoría búlgara es la hipótesis aceptada, no un hecho juzgado. No está del todo probado que el arma fuera el paraguas."
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "candidatos": [
+        {
+          "titulo_caso": "Atentado contra Huey Long (Baton Rouge)",
+          "protagonista": "Carl Weiss (presunto autor)",
+          "fecha": "1935-09-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1930-1939",
+          "resumen": "La noche del 8 de septiembre de 1935, el senador y exgobernador de Luisiana Huey Long recibió un disparo en el Capitolio de Baton Rouge y murió dos días después. La versión más aceptada atribuye el disparo al médico Carl Weiss, al que los guardaespaldas mataron allí mismo; otras sostienen que Long murió por las balas de sus propios escoltas. Nunca hubo juicio.",
+          "por_que": "La muerte del populista más poderoso de su tiempo, con un misterio balístico todavía discutido.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Huey_Long",
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC3307515"
+          ],
+          "riesgos": "Autoría discutida: Weiss murió en el acto y nunca fue juzgado, así que hay que presentarlo como presunto autor."
+        },
+        {
+          "titulo_caso": "Caso María Soledad Morales (Catamarca)",
+          "protagonista": "Guillermo Luque y Luis Tula",
+          "fecha": "1990-09-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "En la madrugada del 8 de septiembre de 1990, María Soledad Morales, una estudiante de 17 años, desapareció tras salir de una discoteca en Catamarca; su cuerpo, violado, apareció el 10 en el Parque Daza. Las «marchas del silencio» destaparon el encubrimiento de los «hijos del poder» y forzaron la intervención federal de la provincia. En 1998, Guillermo Luque fue condenado a 21 años y Luis Tula a 9 como partícipe secundario.",
+          "por_que": "El crimen que derribó un feudo político y movilizó a todo un país con las marchas del silencio.",
+          "fuentes_fecha": [
+            "https://www.elancasti.com.ar/policiales/2020/9/8/maria-soledad-tres-decadas-dos-condenados-cientos-de-dudas-443791.html",
+            "https://www.c5n.com/politica/a-35-anos-del-caso-maria-soledad-morales-el-crimen-que-expuso-la-impunidad-del-poder-la-argentina-n213586"
+          ],
+          "riesgos": "Víctima menor (17 años), aunque su nombre es el del caso y su familia lo hizo público. Alguna fuente sitúa la salida a la discoteca la noche del 7; el cuerpo apareció el 10. Otros posibles implicados nunca fueron juzgados."
+        },
+        {
+          "titulo_caso": "Asesinato de Annie Chapman (Whitechapel)",
+          "protagonista": "Jack el Destripador (nunca identificado)",
+          "fecha": "1888-09-08",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1880-1889",
+          "resumen": "Hacia las seis de la mañana del 8 de septiembre de 1888 apareció en el patio trasero del número 29 de Hanbury Street, en Whitechapel (Londres), el cuerpo mutilado de Annie Chapman. Está considerada la segunda víctima canónica de Jack el Destripador, que nunca fue identificado.",
+          "por_que": "El crimen que convirtió Whitechapel en el escenario del asesino en serie más famoso de la historia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Annie_Chapman",
+            "https://www.jack-the-ripper.org/murder-of-annie-chapman.htm"
+          ],
+          "riesgos": "Sin resolver. Se solapa con otros candidatos del mismo caso (Mary Ann Nichols, 31 de agosto; «doble evento», 30 de septiembre): elegir solo uno. Evitar detalles gráficos. La segunda fuente es una web divulgativa especializada."
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "candidatos": [
+        {
+          "titulo_caso": "Atentado del vuelo 108 de Canadian Pacific (Sault-au-Cochon)",
+          "protagonista": "Joseph-Albert Guay, Généreux Ruest y Marguerite Pitre",
+          "fecha": "1949-09-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Canadá",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1940-1949",
+          "resumen": "El 9 de septiembre de 1949, un DC-3 de Canadian Pacific estalló en vuelo a unos 65 kilómetros de Quebec y murieron sus 23 ocupantes. La bomba la había encargado Joseph-Albert Guay para matar a su esposa, que viajaba a bordo. Guay y sus cómplices, Généreux Ruest y Marguerite Pitre, fueron ahorcados entre 1951 y 1953.",
+          "por_que": "El primer atentado contra la aviación civil en Norteamérica nació de un crimen pasional.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Albert_Guay_affair",
+            "https://www.thecanadianencyclopedia.ca/en/article/sault-au-cochon-tragedy"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Segunda condena de Alfred Dreyfus (Rennes)",
+          "protagonista": "Alfred Dreyfus",
+          "fecha": "1899-09-09",
+          "tipo_efemeride": "condena",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "1890-1899",
+          "resumen": "El 9 de septiembre de 1899, el consejo de guerra de Rennes volvió a declarar culpable de alta traición al capitán Alfred Dreyfus, por cinco votos contra dos y «con circunstancias atenuantes», y lo condenó a diez años de detención. Diez días después aceptó el indulto del presidente Loubet, y en 1906 el Tribunal de Casación anuló aquella sentencia y lo rehabilitó.",
+          "por_que": "El error judicial más famoso de la historia, que partió Francia en dos y destapó el antisemitismo del Ejército.",
+          "fuentes_fecha": [
+            "https://www.herodote.net/12_juillet_1906-evenement-19060712.php",
+            "https://mediterranees.net/civilisation/justice/documents/Dreyfus_chronologie.pdf"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Secuestro de Cristián Edwards (Santiago de Chile)",
+          "protagonista": "Frente Patriótico Manuel Rodríguez (FPMR)",
+          "fecha": "1991-09-09",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "La noche del 9 de septiembre de 1991, un comando del Frente Patriótico Manuel Rodríguez secuestró en Santiago a Cristián Edwards, hijo del dueño de El Mercurio, y pidió millones de dólares por su vida. Lo liberaron 145 días después, tras pagar la familia en torno a un millón de dólares. Mauricio Hernández Norambuena cumple condena por este secuestro.",
+          "por_que": "Cinco meses de cautiverio que pusieron a prueba la recién recuperada democracia chilena.",
+          "fuentes_fecha": [
+            "https://www.ciperchile.cl/2009/10/20/la-historia-secreta-del-secuestro-de-cristian-edwards-iii-la-captura/",
+            "https://www.cnnchile.com/pais/absuelven-floro-ex-frentista-secuestro-cristian-edwards/"
+          ],
+          "riesgos": "Comprobar si queda algún proceso abierto: una exfrentista detenida en Francia en 2018 era reclamada por Chile por este caso, y otro acusado fue absuelto. La cuantía del rescate varía según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "candidatos": [
+        {
+          "titulo_caso": "Masacre de Mountain Meadows (Utah)",
+          "protagonista": "Milicianos mormones del sur de Utah (John D. Lee)",
+          "fecha": "1857-09-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "historico",
+          "epoca": "1850-1859",
+          "resumen": "El 11 de septiembre de 1857, tras un asedio de cinco días, milicianos mormones convencieron a los emigrantes de la caravana Baker-Fancher de que salieran de su refugio y los mataron: al menos 120 personas. Solo sobrevivieron 17 niños pequeños. De los nueve acusados en 1874, solo John D. Lee fue juzgado: lo fusilaron en el mismo lugar en 1877.",
+          "por_que": "Una de las peores matanzas de civiles del Oeste americano, silenciada durante décadas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Mountain_Meadows_Massacre",
+            "https://encyclopediaofarkansas.net/entries/mountain-meadows-massacre-129/"
+          ],
+          "riesgos": "Cifra de víctimas discutida (entre 120 y 140). Tema religioso sensible. Niños supervivientes. La Encyclopedia of Arkansas da «11 de septiembre» y el año (1857) se deduce del contexto."
+        },
+        {
+          "titulo_caso": "Asesinato de Myrna Mack (Ciudad de Guatemala)",
+          "protagonista": "Noel de Jesús Beteta y el Estado Mayor Presidencial",
+          "fecha": "1990-09-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Guatemala",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 11 de septiembre de 1990, la antropóloga Myrna Mack Chang, que estudiaba a las comunidades desplazadas por la guerra, fue apuñalada a la salida de su oficina en Ciudad de Guatemala. Se probó que la mató el sargento Noel de Jesús Beteta, de la sección de seguridad del Estado Mayor Presidencial. En 2003 la Corte Interamericana condenó al Estado y en 2004 el Gobierno reconoció su responsabilidad.",
+          "por_que": "La lucha de su hermana, Helen Mack, convirtió el caso en un símbolo contra la impunidad en Guatemala.",
+          "fuentes_fecha": [
+            "https://www.hrw.org/es/news/2004/04/21/guatemala-reconoce-responsabilidad-en-asesinato-politico",
+            "https://www.democracynow.org/2003/9/11/sept_11_1990_u_s_backed"
+          ],
+          "riesgos": "El número de puñaladas varía según la fuente (27 u 11). Comprobar la situación procesal de los mandos condenados como autores intelectuales."
+        },
+        {
+          "titulo_caso": "Robo de Baker Street, el «walkie-talkie robbery» (Londres)",
+          "protagonista": "Banda de Anthony Gavin",
+          "fecha": "1971-09-11",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "golpe",
+          "epoca": "1970-1979",
+          "resumen": "La noche del sábado 11 de septiembre de 1971, una banda que había excavado un túnel desde una tienda alquilada a dos puertas entró en la cámara acorazada de la sucursal de Lloyds Bank en Baker Street (Londres) y vació 268 cajas de seguridad. Un radioaficionado captó las conversaciones del vigía por walkie-talkie y avisó a la policía, que no llegó a tiempo. Cuatro hombres fueron condenados en 1973; el valor del botín nunca se supo.",
+          "por_que": "Un golpe de novela en la calle de Sherlock Holmes, que inspiró la película «The Bank Job».",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Baker_Street_robbery",
+            "https://flashbak.com/the-extraordinary-baker-street-bank-heist-in-1971-419724/"
+          ],
+          "riesgos": "Botín desconocido (estimaciones entre 150.000 libras y casi 4 millones). Las teorías sobre documentos comprometedores en las cajas no están probadas: no presentarlas como hechos. Una fuente aislada da el 1 de septiembre."
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "candidatos": [
+        {
+          "titulo_caso": "Captura de Abimael Guzmán (Lima)",
+          "protagonista": "Abimael Guzmán y el Grupo Especial de Inteligencia (GEIN)",
+          "fecha": "1992-09-12",
+          "tipo_efemeride": "detencion",
+          "pais": "Perú",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "1990-1999",
+          "resumen": "La noche del 12 de septiembre de 1992, agentes del Grupo Especial de Inteligencia (GEIN) de la Policía peruana entraron en una casa de la calle Varsovia, en Surquillo (Lima), y detuvieron a Abimael Guzmán, líder de Sendero Luminoso, junto a Elena Iparraguirre y otros dirigentes. Guzmán fue condenado a cadena perpetua y murió en prisión en 2021.",
+          "por_que": "La operación de inteligencia policial que descabezó a Sendero Luminoso.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Captura_de_Abimael_Guzmán",
+            "https://elcomercio.pe/bicentenario/1992-l-abimael-cayo-con-cupula-de-sendero-l-bicentenario-noticia/"
+          ],
+          "riesgos": "Terrorismo y conflicto armado con decenas de miles de víctimas: tono sobrio. El Comercio publicó la noticia el día 13 («anoche»); la captura fue el 12."
+        },
+        {
+          "titulo_caso": "Muerte de Steve Biko bajo custodia policial (Pretoria)",
+          "protagonista": "Steve Biko (víctima) y la policía de seguridad sudafricana",
+          "fecha": "1977-09-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Sudáfrica",
+          "region": "africa",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "Steve Biko, líder del movimiento de la Conciencia Negra, murió solo en una celda de Pretoria la noche del 12 de septiembre de 1977, tras sufrir graves lesiones mientras estaba detenido por la policía de seguridad. En octubre de 1977 la fiscalía anunció que no habría procesos penales, y ningún policía fue condenado por su muerte.",
+          "por_que": "Una muerte bajo custodia que se convirtió en símbolo mundial contra el apartheid.",
+          "fuentes_fecha": [
+            "https://www.sahistory.org.za/people/stephen-bantu-biko",
+            "https://en.wikipedia.org/wiki/Steve_Biko"
+          ],
+          "riesgos": "Nadie fue condenado: hablar de muerte bajo custodia, sin atribuir el homicidio a personas concretas. Tema político sensible."
+        },
+        {
+          "titulo_caso": "Robo de Dunbar Armored (Los Ángeles)",
+          "protagonista": "Allen Pace III y su banda",
+          "fecha": "1997-09-12",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1990-1999",
+          "resumen": "La noche del 12 de septiembre de 1997, seis hombres guiados por Allen Pace, antiguo inspector de seguridad de la empresa, entraron en el depósito de Dunbar Armored de Los Ángeles y se llevaron 18,9 millones de dólares en efectivo, el mayor robo de dinero en metálico de EE. UU. hasta entonces. Pace fue condenado a 24 años en 2001, y buena parte del dinero nunca se recuperó.",
+          "por_que": "Un golpe planeado desde dentro, casi perfecto, que tardó años en resolverse.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Dunbar_Armored_robbery",
+            "https://www.digitaljournal.com/tech-science/biggest-cash-theft-ever-nets-24-year-sentence/article/32866"
+          ],
+          "riesgos": "Alguna fuente sitúa el golpe pasada la medianoche, ya el 13. La cantidad no recuperada varía según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Hugo Spadafora (frontera de Panamá con Costa Rica)",
+          "protagonista": "Fuerzas de Defensa de Panamá (régimen de Manuel Noriega)",
+          "fecha": "1985-09-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Panamá",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 13 de septiembre de 1985, el médico y opositor Hugo Spadafora fue detenido por militares de las Fuerzas de Defensa de Panamá justo después de cruzar la frontera desde Costa Rica; su cuerpo decapitado apareció en territorio costarricense. El crimen, que la familia atribuyó a Manuel Noriega, precipitó la crisis del régimen.",
+          "por_que": "Un crimen de Estado que marcó el principio del fin de Noriega.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Hugo_Spadafora",
+            "https://www.cia.gov/readingroom/node/1886657"
+          ],
+          "riesgos": "La fecha del hallazgo del cuerpo varía (13 o 14 de septiembre); la detención, el 13, coincide en las fuentes. Comprobar en la ficha las condenas dictadas en Panamá. Detalles muy violentos: evitar el morbo."
+        },
+        {
+          "titulo_caso": "Atentado de la cafetería Rolando, calle del Correo (Madrid)",
+          "protagonista": "ETA",
+          "fecha": "1974-09-13",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 13 de septiembre de 1974 estalló una bomba en la cafetería Rolando, en la calle del Correo de Madrid, junto a la Dirección General de Seguridad: murieron 13 personas y hubo decenas de heridos. Fue el primer atentado indiscriminado de ETA contra civiles, que la banda no reconoció hasta 2018. Nadie fue condenado: la amnistía de 1977 cerró el caso.",
+          "por_que": "La primera matanza indiscriminada de ETA, que quedó impune y casi olvidada.",
+          "fuentes_fecha": [
+            "https://diario.madrid.es/blog/notas-de-prensa/madrid-se-suma-al-recuerdo-a-las-victimas-de-la-calle-del-correo-en-el-50o-aniversario-del-atentado-el-primero-indiscriminado-de-eta-contra-civiles/",
+            "https://www.eldebate.com/espana/madrid/20240911/50-anos-primera-masacre-eta-madrid-13-asesinatos-quedaron-impunes-amnistia-1977_226240.html"
+          ],
+          "riesgos": "Terrorismo con víctimas cuyas familias reclaman memoria: tono muy respetuoso. Sin condena. Las detenciones de la época fueron controvertidas y no acabaron en sentencia por el atentado. El número de heridos varía (más de 60 o más de 70)."
+        },
+        {
+          "titulo_caso": "Asalto a la prisión de Attica (Nueva York)",
+          "protagonista": "Policía estatal de Nueva York y presos amotinados",
+          "fecha": "1971-09-13",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1970-1979",
+          "resumen": "El 13 de septiembre de 1971, tras cuatro días de motín en la prisión de Attica, el gobernador Nelson Rockefeller ordenó retomarla por la fuerza: la policía estatal disparó entre el gas lacrimógeno y mató a 39 personas, 29 presos y 10 rehenes. Las autoridades dijeron al principio que los presos habían matado a los rehenes, pero se demostró que todos murieron por disparos de las fuerzas del orden.",
+          "por_que": "La jornada más sangrienta de la historia penitenciaria de EE. UU., y una versión oficial desmontada por los forenses.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/september-13/massacre-at-attica-prison",
+            "https://blackpast.org/aah/attica-prison-riot-1971"
+          ],
+          "riesgos": "El desglose de rehenes muertos varía (9 o 10). Falta comprobar las responsabilidades judiciales posteriores."
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "candidatos": [
+        {
+          "titulo_caso": "El Monstruo de Florencia: crimen de Borgo San Lorenzo",
+          "protagonista": "El «Monstruo de Florencia» (autoría nunca aclarada del todo)",
+          "fecha": "1974-09-14",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1970-1979",
+          "resumen": "La noche del 14 de septiembre de 1974, Pasquale Gentilcore, de 19 años, y Stefania Pettini, de 18, fueron asesinados en su coche cerca de Borgo San Lorenzo, en el Mugello. Es uno de los ocho dobles crímenes atribuidos al «Monstruo de Florencia», el primer caso de asesinatos en serie reconocido como tal en Italia. Hubo condenas y absoluciones (Pietro Pacciani y sus «compañeros de merienda»), pero la autoría completa sigue discutida.",
+          "por_que": "El caso criminal más largo y enigmático de Italia.",
+          "fuentes_fecha": [
+            "https://www.ilpost.it/2018/08/22/storia-delitti-mostro-di-firenze/",
+            "https://tg24.sky.it/cronaca/approfondimenti/il-mostro-di-firenze-storia"
+          ],
+          "riesgos": "Algunas fuentes hablan de la noche del 14 al 15. Hay pesquisas recientes (nuevos análisis de ADN, exhumación autorizada por la familia Pettini): comprobar que no hay ningún proceso judicial abierto. Detalles muy violentos."
+        },
+        {
+          "titulo_caso": "El primer «vladivideo» (Lima)",
+          "protagonista": "Vladimiro Montesinos y Alberto Kouri",
+          "fecha": "2000-09-14",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Perú",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "2000-2009",
+          "resumen": "El 14 de septiembre de 2000, los congresistas Fernando Olivera y Luis Iberico presentaron en el hotel Bolívar de Lima, y el Canal N emitió, un vídeo en el que Vladimiro Montesinos, asesor de inteligencia de Alberto Fujimori, entregaba 15.000 dólares al congresista opositor Alberto Kouri para que se pasara al oficialismo. El escándalo hundió el régimen: Fujimori acabó intentando dimitir por fax desde Japón.",
+          "por_que": "Una cinta de vídeo que derribó un gobierno: el gran caso de corrupción de la Latinoamérica reciente.",
+          "fuentes_fecha": [
+            "https://andina.pe/agencia/noticia-10-datos-del-primer-vladivideo-hizo-caer-al-regimen-fujimori-683014.aspx",
+            "https://rpp.pe/politica/gobierno/los-vladivideos-que-marcaron-noticia-1111709"
+          ],
+          "riesgos": "Caso de corrupción política, sin violencia. Muy relacionado con la extradición de Fujimori (candidato del 22 de septiembre): elegir uno o enlazarlos."
+        },
+        {
+          "titulo_caso": "Asesinato de Bashir Gemayel (Beirut)",
+          "protagonista": "Habib Shartouni",
+          "fecha": "1982-09-14",
+          "tipo_efemeride": "crimen",
+          "pais": "Líbano",
+          "region": "oriente_medio",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 14 de septiembre de 1982, días antes de asumir el cargo, el presidente electo del Líbano, Bashir Gemayel, murió al estallar una bomba en la sede del partido Kataeb en Achrafieh (Beirut), junto a una veintena de personas. La colocó Habib Shartouni, militante del Partido Social Nacionalista Sirio, detenido días después; en 2017 fue condenado a muerte en rebeldía. El atentado precipitó la entrada israelí en Beirut Oeste y la matanza de Sabra y Chatila.",
+          "por_que": "Un magnicidio que cambió el curso de la guerra del Líbano en cuestión de horas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_Bachir_Gemayel",
+            "https://www.timesofisrael.com/lebanese-president-gemayels-killer-convicted-35-years-later/"
+          ],
+          "riesgos": "Cifra de muertos variable (23 a 26). El condenado sigue prófugo. Conflicto muy politizado."
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del padre Pino Puglisi (Palermo)",
+          "protagonista": "Salvatore Grigoli y los hermanos Graviano (Cosa Nostra)",
+          "fecha": "1993-09-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 15 de septiembre de 1993, el día en que cumplía 56 años, el sacerdote Giuseppe «Pino» Puglisi fue asesinado de un tiro ante el portal de su casa en Brancaccio, el barrio de Palermo donde intentaba alejar a los niños de la Mafia. El sicario Salvatore Grigoli, detenido en 1997, confesó el crimen, y los jefes mafiosos Giuseppe y Filippo Graviano fueron condenados a cadena perpetua como inductores.",
+          "por_que": "Un cura de barrio frente a Cosa Nostra, asesinado el día de su cumpleaños.",
+          "fuentes_fecha": [
+            "https://www.editorialedomani.it/fatti/blog-mafie-don-pino-puglisi-sopralluogo-autopsia-prime-indagini-delitto-qb3nvjac",
+            "https://www.quotidiano.net/cronaca/don-pino-puglisi-2eac142e"
+          ],
+          "riesgos": ""
+        },
+        {
+          "titulo_caso": "Primer crimen de la serie de Hwaseong (Corea del Sur)",
+          "protagonista": "Lee Choon-jae",
+          "fecha": "1986-09-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Corea del Sur",
+          "region": "asia",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1980-1989",
+          "resumen": "El 15 de septiembre de 1986 empezó en Hwaseong la serie de violaciones y asesinatos de mujeres más famosa de Corea del Sur, que inspiró la película «Memories of Murder». El autor no se identificó hasta 2019, gracias al ADN: Lee Choon-jae, que ya cumplía cadena perpetua por otro asesinato y confesó. Los crímenes habían prescrito, y un hombre condenado por error por uno de ellos fue absuelto después.",
+          "por_que": "Treinta y tres años de misterio, un error judicial y una película de culto.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Lee_Choon-jae",
+            "https://www.koreaherald.com/article/3162492"
+          ],
+          "riesgos": "Las fuentes discrepan sobre la identidad de la primera víctima y el día del hallazgo de su cuerpo; el inicio de la serie, el 15 de septiembre, coincide. Lee no fue juzgado por estos crímenes (prescritos): decir que confesó, no que fue condenado por ellos. Hubo víctimas menores en la serie."
+        },
+        {
+          "titulo_caso": "Anulación de las condenas de Lindy y Michael Chamberlain (caso Azaria)",
+          "protagonista": "Lindy Chamberlain",
+          "fecha": "1988-09-15",
+          "tipo_efemeride": "condena",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "error_judicial",
+          "epoca": "1980-1989",
+          "resumen": "El 15 de septiembre de 1988, el Tribunal de Apelación Penal del Territorio del Norte anuló por unanimidad las condenas de Lindy Chamberlain, por matar a su bebé Azaria en Uluru en 1980, y de su marido Michael, como cómplice. Ella siempre sostuvo que un dingo se llevó a la niña, y las nuevas pruebas presentadas ante la comisión Morling desmontaron la acusación. En 1992 recibieron 1,3 millones de dólares de indemnización.",
+          "por_que": "«Un dingo se llevó a mi bebé»: el error judicial más famoso de Australia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Death_of_Azaria_Chamberlain",
+            "https://alicespringsnews.com.au/2020/09/30/the-dates-of-key-events-in-the-chamberlain-drama/"
+          ],
+          "riesgos": "Víctima bebé, cuyo nombre forma parte del caso. Lindy Chamberlain vive y es inocente: tratarla como tal."
+        }
+      ]
+    },
+    {
+      "dia": 16,
+      "candidatos": [
+        {
+          "titulo_caso": "Atentado de Wall Street (Nueva York)",
+          "protagonista": "Autores desconocidos (se sospechó de anarquistas italianos)",
+          "fecha": "1920-09-16",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1920-1929",
+          "resumen": "El 16 de septiembre de 1920, un carro de caballos cargado de explosivos estalló frente a la sede del banco J. P. Morgan, en el número 23 de Wall Street, y mató a 38 personas. Nadie reivindicó el atentado y, tras más de tres años de investigación, nadie fue acusado; los historiadores lo atribuyen a anarquistas italianos seguidores de Luigi Galleani. Las marcas de la explosión aún se ven en la fachada.",
+          "por_que": "El peor atentado en suelo estadounidense hasta entonces, y un caso que nunca se resolvió.",
+          "fuentes_fecha": [
+            "https://moneyweek.com/339875/16-september-1920-the-wall-street-bombing",
+            "https://www.pbs.org/newshour/show/author-gage-discusses-the-day-wall-street-exploded"
+          ],
+          "riesgos": "Sin resolver: la autoría anarquista es una hipótesis, no un hecho probado. La cifra de muertos varía (33 a 38)."
+        },
+        {
+          "titulo_caso": "Masacre de Ramallo: asalto al Banco Nación de Villa Ramallo",
+          "protagonista": "Tres asaltantes y la policía bonaerense",
+          "fecha": "1999-09-16",
+          "tipo_efemeride": "golpe",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "golpe",
+          "epoca": "1990-1999",
+          "resumen": "El 16 de septiembre de 1999, tres hombres armados asaltaron la sucursal del Banco de la Nación en Villa Ramallo (provincia de Buenos Aires) y retuvieron rehenes durante más de veinte horas. Cuando intentaban huir en un coche con rehenes, la policía lo acribilló: murieron dos rehenes, entre ellos el gerente, y uno de los asaltantes; otro apareció ahorcado en su celda poco después. Varios policías fueron condenados por las muertes de los rehenes.",
+          "por_que": "Un atraco que terminó en una masacre policial ante las cámaras.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Ramallo_massacre",
+            "https://www.pagina12.com.ar/diario/sociedad/3-9279-2002-08-24.html"
+          ],
+          "riesgos": "Fecha doble: el asalto empezó el 16 y el tiroteo fue en la madrugada del 17, y algunas fuentes datan el caso el 17. La muerte del asaltante en la comisaría se investigó como posible asesinato."
+        },
+        {
+          "titulo_caso": "Desaparición del periodista Mauro De Mauro (Palermo)",
+          "protagonista": "Mauro De Mauro (víctima); Cosa Nostra (sospechosa)",
+          "fecha": "1970-09-16",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "desaparicion",
+          "epoca": "1970-1979",
+          "resumen": "La noche del 16 de septiembre de 1970, el periodista de L'Ora Mauro De Mauro fue secuestrado frente a su casa de Palermo, en via delle Magnolie: su hija lo vio marcharse en su coche con tres hombres. Su cuerpo nunca apareció. Se cree que investigaba la muerte de Enrico Mattei para un guion de Francesco Rosi. Totò Riina, el único acusado, fue absuelto definitivamente en 2015.",
+          "por_que": "Un periodista tragado por la Mafia mientras investigaba uno de los grandes misterios de Italia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Mauro_De_Mauro",
+            "https://www.ilfattoquotidiano.it/2020/09/16/mauro-de-mauro-una-vicenda-emblematica-dellitalia-occulta/5932107/"
+          ],
+          "riesgos": "Sin condena. Se ha especulado con que unos restos hallados en una cueva del Etna fueran suyos, sin confirmar."
+        }
+      ]
+    },
+    {
+      "dia": 17,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de Anastasio Somoza Debayle (Asunción)",
+          "protagonista": "Comando guerrillero (atribuido al ERP argentino)",
+          "fecha": "1980-09-17",
+          "tipo_efemeride": "crimen",
+          "pais": "Paraguay / Nicaragua",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 17 de septiembre de 1980, el exdictador nicaragüense Anastasio Somoza Debayle, exiliado en Paraguay, murió en Asunción cuando un comando disparó un lanzacohetes contra su coche blindado y lo ametralló. La versión más aceptada atribuye la operación a guerrilleros argentinos del ERP dirigidos por Enrique Gorriarán Merlo, aunque hay otras hipótesis.",
+          "por_que": "El final violento de la dinastía Somoza, a miles de kilómetros de Nicaragua.",
+          "fuentes_fecha": [
+            "https://www.pj.gov.py/operacion-condor/pages/somoza.html",
+            "https://www.lanacion.com.py/politica/2025/09/17/el-bazucazo-en-asuncion-que-marco-el-fin-de-somoza/"
+          ],
+          "riesgos": "La autoría se discute y no consta una sentencia: presentarla como atribuida. Su padre, Anastasio Somoza García, sufrió un atentado mortal el 21 de septiembre de 1956 (no propuesto aquí)."
+        },
+        {
+          "titulo_caso": "Asesinato del conde Folke Bernadotte (Jerusalén)",
+          "protagonista": "Lehi (grupo Stern)",
+          "fecha": "1948-09-17",
+          "tipo_efemeride": "crimen",
+          "pais": "Israel",
+          "region": "oriente_medio",
+          "tipo_caso": "magnicidio",
+          "epoca": "1940-1949",
+          "resumen": "El 17 de septiembre de 1948, el conde sueco Folke Bernadotte, mediador de la ONU en Palestina, fue tiroteado en su coche en Jerusalén junto al coronel francés André Serot. Lo planeó el grupo armado sionista Lehi, que rechazaba sus propuestas de paz. El Gobierno israelí detuvo a muchos miembros del Lehi, pero nadie fue juzgado por el asesinato.",
+          "por_que": "El hombre que sacó a miles de presos de los campos nazis, asesinado mientras mediaba por la paz.",
+          "fuentes_fecha": [
+            "https://www.jewishvirtuallibrary.org/the-assassination-of-count-bernadotte",
+            "https://www.jpost.com/israel-news/on-this-day-stern-gang-assassinates-un-mediator-count-folke-bernadotte-in-1948-679649"
+          ],
+          "riesgos": "Conflicto árabe-israelí: tema muy sensible. El futuro primer ministro Yitzhak Shamir figuraba en la dirección del Lehi. Comprobar en la ficha la afirmación de que nadie fue juzgado."
+        },
+        {
+          "titulo_caso": "Los Asesinos de Brabante: asalto al Colruyt de Nivelles",
+          "protagonista": "Banda de los Asesinos de Brabante (nunca identificada)",
+          "fecha": "1983-09-17",
+          "tipo_efemeride": "crimen",
+          "pais": "Bélgica",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1980-1989",
+          "resumen": "En la madrugada del 17 de septiembre de 1983, la banda que Bélgica conoce como los «Asesinos de Brabante» asaltó un supermercado Colruyt en Nivelles y mató a tres personas: una pareja que repostaba en la gasolinera contigua y un gendarme. Entre 1982 y 1985 la banda mató a 28 personas, y sus miembros nunca han sido identificados.",
+          "por_que": "El mayor enigma criminal de Bélgica: 28 muertos y ningún culpable.",
+          "fuentes_fecha": [
+            "https://www.lalibre.be/belgique/2014/05/16/tueries-du-brabant-rappel-des-faits-QNK3OWA27BB5FB66ONP2GRX4VM/",
+            "https://www.dhnet.be/actu/faits/il-y-a-20-ans-la-premiere-tuerie-du-brabant-51b7d23fe4b0de6db99028b4"
+          ],
+          "riesgos": "Alguna fuente sitúa el ataque en la noche del 16 al 17. Sin resolver: comprobar el estado de la investigación y no atribuir autorías."
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "candidatos": [
+        {
+          "titulo_caso": "Desaparición de Jorge Julio López (La Plata)",
+          "protagonista": "Jorge Julio López (víctima)",
+          "fecha": "2006-09-18",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "desaparicion",
+          "epoca": "2000-2009",
+          "resumen": "El 18 de septiembre de 2006, Jorge Julio López, albañil y superviviente de la última dictadura, desapareció cuando iba a escuchar los alegatos del juicio contra el represor Miguel Etchecolatz, en el que había sido testigo clave. Al día siguiente Etchecolatz fue condenado a reclusión perpetua. López nunca apareció y nadie ha sido acusado.",
+          "por_que": "La primera desaparición forzada de la democracia argentina, todavía sin respuesta.",
+          "fuentes_fecha": [
+            "https://www.noticiasnqn.com.ar/noticias/2023/09/18/283071-el-18-de-septiembre-de-2006-desaparecia-jorge-julio-lopez",
+            "https://www.perfil.com/noticias/policia/jorge-julio-lopez-20-anos-sin-respuestas-intentaron-callar-la-voz-de-los-sobrevivientes.phtml"
+          ],
+          "riesgos": "La causa sigue abierta en la justicia federal de La Plata, sin acusados: no atribuir autorías. Caso con fuerte carga política."
+        },
+        {
+          "titulo_caso": "Detención de Patty Hearst (San Francisco)",
+          "protagonista": "Patricia Hearst y el Ejército Simbiótico de Liberación (SLA)",
+          "fecha": "1975-09-18",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "El 18 de septiembre de 1975, el FBI detuvo en San Francisco a Patricia Hearst, heredera del imperio periodístico Hearst, diecinueve meses después de que el Ejército Simbiótico de Liberación la secuestrara. Para entonces había participado con sus captores en el atraco al banco Hibernia, por el que fue procesada y condenada.",
+          "por_que": "¿Víctima o cómplice? El secuestro que llevó a debatir en todo el mundo sobre el síndrome de Estocolmo.",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/news/stories/2009/february/hearst_020409",
+            "https://redesign.time.com/4030514/patty-hearst-40-years"
+          ],
+          "riesgos": "Patty Hearst vive: tratar con cuidado su condición de víctima de secuestro."
+        },
+        {
+          "titulo_caso": "Muerte de Dag Hammarskjöld en el accidente de Ndola",
+          "protagonista": "Dag Hammarskjöld (víctima)",
+          "fecha": "1961-09-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Zambia (entonces Rodesia del Norte)",
+          "region": "africa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1960-1969",
+          "resumen": "Poco después de la medianoche del 17 al 18 de septiembre de 1961, el avión en el que el secretario general de la ONU, Dag Hammarskjöld, viajaba para negociar un alto el fuego en el Congo se estrelló cerca de Ndola, en Rodesia del Norte (hoy Zambia). Las investigaciones de la época lo atribuyeron a un error del piloto, pero en 2015 la ONU dio crédito a la hipótesis de que el avión fue derribado y reabrió una investigación que sigue sin conclusión.",
+          "por_que": "La muerte de un secretario general de la ONU sigue siendo uno de los grandes misterios de la Guerra Fría.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/1961_Ndola_Transair_Sweden_Douglas_DC-6_crash",
+            "https://www.ebsco.com/research-starters/history/united-nations-secretary-general-dag-hammarskjold-dies-plane-crash"
+          ],
+          "riesgos": "No está probado que fuera un crimen: presentarlo como misterio, no como atentado. La investigación de la ONU sigue abierta (sin proceso judicial). El avión despegó el 17 y se estrelló pasada la medianoche."
+        }
+      ]
+    },
+    {
+      "dia": 19,
+      "candidatos": [
+        {
+          "titulo_caso": "Hallazgo de Ötzi, el hombre de hielo (Alpes de Ötztal)",
+          "protagonista": "Ötzi (víctima)",
+          "fecha": "1991-09-19",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Italia / Austria",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1990-1999",
+          "resumen": "El 19 de septiembre de 1991, los excursionistas alemanes Erika y Helmut Simon encontraron un cuerpo atrapado en el hielo cerca del paso de Tisenjoch, en la frontera entre Italia y Austria. Era Ötzi, un hombre que vivió hace unos 5.300 años; años después, las radiografías revelaron una punta de flecha clavada en su hombro: había sido asesinado.",
+          "por_que": "El caso de asesinato más antiguo que se conoce, investigado con técnicas forenses modernas.",
+          "fuentes_fecha": [
+            "https://www.iceman.it/en/the-discovery/",
+            "https://www.scientificamerican.com/blog/history-of-geology/september-19-1991-the-iceman-natural-history/"
+          ],
+          "riesgos": "Caso prehistórico sin autor identificable: encaja como «crimen histórico» más que como true crime clásico."
+        },
+        {
+          "titulo_caso": "Detención de Bruno Hauptmann por el secuestro del hijo de Lindbergh (Nueva York)",
+          "protagonista": "Bruno Richard Hauptmann",
+          "fecha": "1934-09-19",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1930-1939",
+          "resumen": "El 19 de septiembre de 1934, la policía detuvo en el Bronx al carpintero de origen alemán Bruno Richard Hauptmann, después de que un billete del rescate pagado por Charles Lindbergh llevara hasta él; en su garaje aparecieron unos 14.000 dólares del rescate. Fue condenado por el secuestro y asesinato del bebé de los Lindbergh y ejecutado en 1936, sin dejar de proclamar su inocencia.",
+          "por_que": "El «juicio del siglo»: un secuestro que cambió las leyes de EE. UU. y que todavía genera dudas.",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/news/stories/2008/march/lindbergh_030308",
+            "https://en.wikipedia.org/wiki/Bruno_Richard_Hauptmann"
+          ],
+          "riesgos": "Víctima bebé (Charles Lindbergh Jr.), cuyo nombre forma parte del caso histórico. Algunos autores discuten la culpabilidad de Hauptmann."
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "candidatos": [
+        {
+          "titulo_caso": "Hallazgo de la familia Kinck en Pantin (crimen de Troppmann)",
+          "protagonista": "Jean-Baptiste Troppmann",
+          "fecha": "1869-09-20",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1860-1869",
+          "resumen": "En la mañana del 20 de septiembre de 1869, un campesino de Pantin, a las puertas de París, descubrió en un campo los cuerpos de Hortense Kinck y cinco de sus hijos. El asesino, Jean-Baptiste Troppmann, de 20 años, había matado antes al padre, Jean Kinck, para quedarse con su dinero. Fue detenido poco después y guillotinado en enero de 1870.",
+          "por_que": "El «crimen del siglo» del Segundo Imperio, que convirtió la prensa sensacionalista en un fenómeno de masas.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Jean-Baptiste_Troppmann",
+            "https://www.lagbd.org/Troppmann,_le_crime_de_Pantin._Avocat:_Me_Charles_Lachaud,1869"
+          ],
+          "riesgos": "Víctimas menores (cinco niños): no recrearse en detalles. Las fuentes discrepan sobre el número de cuerpos hallados ese día (cinco o seis)."
+        },
+        {
+          "titulo_caso": "Apuñalamiento de Martin Luther King en Harlem",
+          "protagonista": "Izola Ware Curry",
+          "fecha": "1958-09-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1950-1959",
+          "resumen": "El 20 de septiembre de 1958, mientras firmaba ejemplares de su libro «Stride Toward Freedom» en los almacenes Blumstein's de Harlem, Martin Luther King fue apuñalado en el pecho con un abrecartas por Izola Ware Curry, una mujer con un trastorno mental. Sobrevivió tras una delicada operación. Curry fue procesada por intento de asesinato y declarada mentalmente incapaz.",
+          "por_que": "El atentado olvidado contra King, diez años antes de su asesinato.",
+          "fuentes_fecha": [
+            "https://kinginstitute.stanford.edu/curry-izola-ware",
+            "https://en.wikipedia.org/wiki/Izola_Curry"
+          ],
+          "riesgos": "La agresora padecía una enfermedad mental: tratarlo con respeto."
+        },
+        {
+          "titulo_caso": "Atentado contra la revista «El Papus» (Barcelona)",
+          "protagonista": "Grupo de extrema derecha que firmaba como Triple A",
+          "fecha": "1977-09-20",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "El 20 de septiembre de 1977, en plena Transición, estalló una bomba en la redacción de la revista satírica «El Papus», en Barcelona. Murió el conserje, Juan Peñalver, que había recogido el paquete y amortiguó la explosión con su cuerpo, y hubo unos 17 heridos. El atentado lo reivindicó un grupo de extrema derecha que se presentaba como Triple A (Alianza Apostólica Anticomunista).",
+          "por_que": "El «Charlie Hebdo» español: un atentado contra el humor en plena Transición.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/El_Papus",
+            "https://lamarea.com/2017/09/20/dia-volaron-charlie-hebdo"
+          ],
+          "riesgos": "Una fuente lo fecha el 21 de septiembre y el número de heridos varía. Falta comprobar si hubo condenas. Terrorismo político."
+        }
+      ]
+    },
+    {
+      "dia": 21,
+      "candidatos": [
+        {
+          "titulo_caso": "Detención de Juan Díaz de Garayo, «el Sacamantecas» (Vitoria)",
+          "protagonista": "Juan Díaz de Garayo",
+          "fecha": "1879-09-21",
+          "tipo_efemeride": "detencion",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1870-1879",
+          "resumen": "El 21 de septiembre de 1879 fue detenido en Vitoria Juan Díaz de Garayo, al que un alguacil, Pío Pinedo, había seguido la pista gracias a los testimonios de mujeres que sobrevivieron a sus ataques. Había estrangulado a cinco mujeres y a una niña de 13 años, y atacado a otras cuatro, en dos etapas de la década de 1870. Condenado a muerte, fue ejecutado a garrote en Vitoria el 11 de mayo de 1881.",
+          "por_que": "El «Sacamantecas» de Vitoria, el asesino que dio nombre a uno de los grandes miedos infantiles españoles.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Juan_D%C3%ADaz_de_Garayo",
+            "https://www.euskalmemoriadigitala.eus/jspui/bitstream/10357/48478/1/Autopsia_ciudad.pdf"
+          ],
+          "riesgos": "Una víctima era menor (13 años), en un caso del siglo XIX. Detalles muy violentos: evitar el morbo. El PDF de la segunda fuente no se pudo abrir (error de certificado): su fecha se comprobó en los resultados de búsqueda."
+        },
+        {
+          "titulo_caso": "Asesinato de Orlando Letelier y Ronni Moffitt (Washington)",
+          "protagonista": "DINA chilena (Michael Townley, Manuel Contreras)",
+          "fecha": "1976-09-21",
+          "tipo_efemeride": "crimen",
+          "pais": "Chile / Estados Unidos",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 21 de septiembre de 1976, una bomba colocada en su coche mató en Sheridan Circle, en el corazón de Washington, al exministro chileno Orlando Letelier, opositor a Pinochet, y a su colaboradora estadounidense Ronni Moffitt; el marido de esta sobrevivió. El FBI demostró que lo organizó el agente de la DINA Michael Townley con exiliados cubanos. Townley se declaró culpable, y el exjefe de la DINA Manuel Contreras y el brigadier Pedro Espinoza fueron condenados.",
+          "por_que": "Un atentado terrorista de una dictadura extranjera en plena capital de EE. UU.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Orlando_Letelier",
+            "https://www.elmostrador.cl/noticias/pais/2011/09/21/aniversario-de-un-audaz-crimen-en-el-centro-de-washington/"
+          ],
+          "riesgos": "Ocurrió en EE. UU., pero es un crimen de Estado chileno: se clasifica como Hispanoamérica. Muy relacionado con el asesinato de Carlos Prats (30 de septiembre), obra de la misma red: elegir uno o enlazarlos."
+        },
+        {
+          "titulo_caso": "Asesinato del juez Rosario Livatino (Agrigento)",
+          "protagonista": "La Stidda",
+          "fecha": "1990-09-21",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El 21 de septiembre de 1990, el juez Rosario Livatino, de 37 años, fue asesinado por un comando de la Stidda en la carretera estatal 640, cuando iba sin escolta y en su propio coche al tribunal de Agrigento. Autores e inductores fueron condenados a cadena perpetua. Conocido como «el juez muchacho», fue beatificado en 2021, el primer magistrado beato de la Iglesia.",
+          "por_que": "Un juez de 37 años frente a la mafia siciliana, hoy beato.",
+          "fuentes_fecha": [
+            "https://www.ilpost.it/2020/09/21/sono-passati-30-anni-dalla-morte-di-rosario-livatino/",
+            "https://www.lapresse.it/cronaca/2024/09/21/livatino-34-anni-fa-lagguato-mafioso-al-giudice/"
+          ],
+          "riesgos": ""
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "candidatos": [
+        {
+          "titulo_caso": "Caso Asunta: hallazgo del cuerpo (Teo, A Coruña)",
+          "protagonista": "Rosario Porto y Alfonso Basterra",
+          "fecha": "2013-09-22",
+          "tipo_efemeride": "hallazgo",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "2010-2019",
+          "resumen": "Hacia la una de la madrugada del 22 de septiembre de 2013, dos personas encontraron en una pista forestal de Teo (A Coruña) el cuerpo de Asunta Basterra, de 12 años, cuyos padres adoptivos habían denunciado su desaparición horas antes. La niña había sido sedada y asfixiada. Un jurado declaró culpables a sus padres, Rosario Porto y Alfonso Basterra, que fueron condenados; Porto murió en prisión en 2020.",
+          "por_que": "El caso que tuvo en vilo a España: una niña asesinada por sus propios padres.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Murder_of_Asunta_Basterra",
+            "https://www.ultimahora.es/sucesos/ultimas/2015/10/05/163409/investigadores-sospecharon-del-comportamiento-padres-asunta.html"
+          ],
+          "riesgos": "Víctima menor (12 años), aunque su nombre es el del caso y es muy conocido. Hechos de 2013 con sentencia firme. Alfonso Basterra sigue en prisión: cuidado con los datos personales. La muerte fue el 21 y el hallazgo, el 22."
+        },
+        {
+          "titulo_caso": "Intento de magnicidio de Sara Jane Moore contra Gerald Ford (San Francisco)",
+          "protagonista": "Sara Jane Moore",
+          "fecha": "1975-09-22",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 22 de septiembre de 1975, a la salida del hotel St. Francis de San Francisco, Sara Jane Moore disparó dos veces contra el presidente Gerald Ford; un exmarine que estaba entre el público, Oliver Sipple, le agarró el brazo y Ford salió ileso. Era el segundo intento de matar a Ford en 17 días. Moore, que había sido informante del FBI, fue condenada a cadena perpetua, salió en libertad condicional en 2007 y murió en 2025.",
+          "por_que": "Dos intentos de matar al mismo presidente en 17 días, y un héroe accidental.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Sara_Jane_Moore",
+            "https://abc7news.com/post/sara-jane-moore-woman-tried-assassinate-president-gerald-ford-san-francisco-1975-dies-95/17894103/"
+          ],
+          "riesgos": "El primer intento fue el de Lynette Fromme, de la «familia» Manson; Charles Manson ya está en el archivo."
+        },
+        {
+          "titulo_caso": "Extradición de Alberto Fujimori a Perú",
+          "protagonista": "Alberto Fujimori",
+          "fecha": "2007-09-22",
+          "tipo_efemeride": "detencion",
+          "pais": "Perú / Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "otro",
+          "epoca": "2000-2009",
+          "resumen": "El 22 de septiembre de 2007, un día después de que la Corte Suprema de Chile aprobara su extradición, el expresidente peruano Alberto Fujimori aterrizó en Lima como detenido para responder por violaciones de derechos humanos y corrupción cometidas durante su gobierno (1990-2000). En 2009 fue condenado a 25 años de prisión por las matanzas de Barrios Altos y La Cantuta.",
+          "por_que": "Un expresidente extraditado y condenado en su propio país por crímenes contra los derechos humanos.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Arrest_and_trial_of_Alberto_Fujimori",
+            "https://en.mercopress.com/2007/09/22/former-president-fujimori-back-in-peru-to-face-trial"
+          ],
+          "riesgos": "Figura política muy polarizante; su indulto de 2017 tuvo idas y venidas y murió en 2024. Muy relacionado con el «vladivideo» (14 de septiembre)."
+        }
+      ]
+    },
+    {
+      "dia": 23,
+      "candidatos": [
+        {
+          "titulo_caso": "Absolución de los asesinos de Emmett Till (Sumner, Misisipi)",
+          "protagonista": "Roy Bryant y J. W. Milam",
+          "fecha": "1955-09-23",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "asesinato",
+          "epoca": "1950-1959",
+          "resumen": "El 23 de septiembre de 1955, un jurado formado solo por hombres blancos absolvió en Sumner (Misisipi), tras 67 minutos de deliberación, a Roy Bryant y J. W. Milam del asesinato de Emmett Till, un chico negro de 14 años de Chicago. Meses después, a salvo de un nuevo juicio por el mismo delito, confesaron el crimen a la revista Look a cambio de dinero.",
+          "por_que": "Una absolución racista que encendió el movimiento por los derechos civiles.",
+          "fuentes_fecha": [
+            "https://www.pbs.org/wgbh/americanexperience/features/till-timeline",
+            "https://calendar.eji.org/racial-injustice/sep/23"
+          ],
+          "riesgos": "Víctima menor (14 años), pero el caso lleva su nombre y su madre, Mamie Till, lo hizo público a propósito. Bryant y Milam fueron absueltos: decir que confesaron en la prensa, no que fueran condenados."
+        },
+        {
+          "titulo_caso": "Asesinato del periodista Giancarlo Siani (Nápoles)",
+          "protagonista": "Camorra (sicarios Ciro Cappuccio y Armando Del Core)",
+          "fecha": "1985-09-23",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 23 de septiembre de 1985, Giancarlo Siani, periodista de 26 años de «Il Mattino», fue asesinado a tiros bajo su casa del Vomero (Nápoles), unos tres meses después de publicar un artículo sobre los clanes de la Camorra. Los sicarios Ciro Cappuccio y Armando Del Core fueron condenados a cadena perpetua.",
+          "por_que": "Un joven reportero asesinado por contar lo que nadie quería contar sobre la Camorra.",
+          "fuentes_fecha": [
+            "https://www.ilpost.it/2015/09/23/giancarlo-siani/",
+            "https://www.fanpage.it/napoli/giancarlo-siani-giornalista-ucciso-il-23-settembre-1985-dalla-camorra/"
+          ],
+          "riesgos": "Las fuentes difieren sobre el clan que ordenó el crimen."
+        },
+        {
+          "titulo_caso": "Asalto al cuartel de Ciudad Madera (Chihuahua)",
+          "protagonista": "Grupo Popular Guerrillero (Arturo Gámiz)",
+          "fecha": "1965-09-23",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1960-1969",
+          "resumen": "Al amanecer del 23 de septiembre de 1965, trece guerrilleros del Grupo Popular Guerrillero, dirigidos por el maestro Arturo Gámiz, atacaron el cuartel militar de Ciudad Madera (Chihuahua). El asalto fracasó: murieron ocho guerrilleros, entre ellos Gámiz, y varios soldados. La fecha dio nombre a la Liga Comunista 23 de Septiembre.",
+          "por_que": "El asalto que se considera el origen de la guerrilla moderna en México.",
+          "fuentes_fecha": [
+            "https://www.jornada.com.mx/2010/09/24/capital/038n3cap",
+            "https://www.cndh.org.mx/sites/default/files/documentos/2025-09/FRN_SEP_23-1.pdf"
+          ],
+          "riesgos": "Violencia política más que un caso criminal clásico; se incluye a falta de un caso hispano más claro para el 23. Las cifras de bajas militares varían según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de José Ignacio Rucci (Buenos Aires)",
+          "protagonista": "Atribuido a Montoneros (sin condena)",
+          "fecha": "1973-09-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 25 de septiembre de 1973, dos días después de que Perón ganara las elecciones, el secretario general de la CGT, José Ignacio Rucci, fue acribillado al salir de su casa en el barrio de Flores (Buenos Aires) por un comando apostado en una casa vecina. El crimen se atribuye a Montoneros, pero nunca hubo condena: la causa se reabrió en 2008 y se archivó porque el juez no lo consideró un delito de lesa humanidad.",
+          "por_que": "El crimen que enfrentó al peronismo consigo mismo y anticipó la violencia de los años setenta.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Rucci",
+            "https://www.canal26.com/politica/2017/09/25/el-dia-que-montoneros-mato-a-rucci-el-sindicalista-de-peron/"
+          ],
+          "riesgos": "Sin condena: la autoría de Montoneros procede de testimonios y de libros periodísticos. Comprobar que la causa sigue archivada. Tema político muy polarizado."
+        },
+        {
+          "titulo_caso": "Asesinato de S. W. R. D. Bandaranaike (Colombo)",
+          "protagonista": "Talduwe Somarama (monje budista)",
+          "fecha": "1959-09-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Sri Lanka",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1950-1959",
+          "resumen": "El 25 de septiembre de 1959, el monje budista Talduwe Somarama disparó contra el primer ministro de Ceilán, S. W. R. D. Bandaranaike, en su residencia de Colombo; murió al día siguiente. La investigación destapó una conspiración en la que estaba implicado otro monje influyente, Mapitigama Buddharakkitha. Somarama fue condenado y ahorcado.",
+          "por_que": "Un primer ministro asesinado por un monje budista: una conspiración insólita.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Assassination_of_S._W._R._D._Bandaranaike",
+            "https://dailymirror.lk/dbs-jeyaraj-column/the-incident-that-rocked-ceylon-55-years-ago-the-assassination-of-prime-minister-swrd-bandaranaike/192-53002"
+          ],
+          "riesgos": "Murió el 26: la efeméride es el atentado (25)."
+        },
+        {
+          "titulo_caso": "Asesinato del juez Cesare Terranova (Palermo)",
+          "protagonista": "Cosa Nostra",
+          "fecha": "1979-09-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1970-1979",
+          "resumen": "La mañana del 25 de septiembre de 1979, un comando mafioso acribilló en Palermo al juez Cesare Terranova y a su escolta, el mariscal de policía Lenin Mancuso, cuando salían de casa en coche. La Corte de Assise de Reggio Calabria condenó después a cadena perpetua como inductores a miembros de la cúpula de Cosa Nostra, entre ellos Totò Riina.",
+          "por_que": "Uno de los «cadáveres excelentes» con los que la Mafia atacó a la justicia de Palermo.",
+          "fuentes_fecha": [
+            "https://lavocedinewyork.com/people/2019/09/24/la-mafia-40-anni-fa-uccideva-il-giudice-cesare-terranova-e-il-maresciallo-lenin-mancuso",
+            "https://www.lasicilia.it/news/cronaca/857396/il-25-settembre-e-l-anniversario-dell-uccisione-di-tre-eroi-antimafia-siciliani.html"
+          ],
+          "riesgos": "La calle exacta varía según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "candidatos": [
+        {
+          "titulo_caso": "Atentado del Oktoberfest (Múnich)",
+          "protagonista": "Gundolf Köhler",
+          "fecha": "1980-09-26",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "La noche del 26 de septiembre de 1980, una bomba estalló en la entrada principal del Oktoberfest de Múnich: murieron 13 personas, entre ellas el autor, el estudiante Gundolf Köhler, y hubo más de 200 heridos. La primera investigación concluyó que actuó solo y por motivos personales; reabierta en 2014, la Fiscalía Federal la cerró en 2020 al concluir que Köhler actuó por motivos de extrema derecha, sin poder probar que tuviera cómplices.",
+          "por_que": "Uno de los atentados más mortíferos de la Alemania de posguerra, mal explicado durante cuarenta años.",
+          "fuentes_fecha": [
+            "https://www.euronews.com/2020/09/26/germany-marks-40-years-since-neo-nazi-attack-on-oktoberfest",
+            "https://newsinfo.inquirer.net/1303824/german-prosecutors-close-probe-of-1980-oktoberfest-bombing"
+          ],
+          "riesgos": "Terrorismo. El autor murió en el atentado y nunca fue juzgado. La cifra de muertos es 12 o 13 según se cuente al autor."
+        },
+        {
+          "titulo_caso": "Detención de George «Machine Gun» Kelly (Memphis)",
+          "protagonista": "George «Machine Gun» Kelly y Kathryn Kelly",
+          "fecha": "1933-09-26",
+          "tipo_efemeride": "detencion",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1930-1939",
+          "resumen": "El 26 de septiembre de 1933, agentes del FBI y la policía local detuvieron en Memphis a George «Machine Gun» Kelly y a su esposa, Kathryn, buscados por el secuestro del petrolero Charles Urschel, por el que habían exigido 200.000 dólares de rescate. Ambos fueron condenados a cadena perpetua el 12 de octubre de 1933. La famosa frase «¡No disparéis, G-Men!» parece un mito periodístico posterior.",
+          "por_que": "El gánster que, según la leyenda, bautizó a los agentes del FBI como «G-Men».",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/news/stories/2008/september/kelly_092608",
+            "https://www.okhistory.org/publications/enc/entry?entry=UR009"
+          ],
+          "riesgos": ""
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato de José Francisco Ruiz Massieu (Ciudad de México)",
+          "protagonista": "Daniel Aguilar Treviño; Raúl Salinas de Gortari (condenado y después absuelto)",
+          "fecha": "1994-09-28",
+          "tipo_efemeride": "crimen",
+          "pais": "México",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1990-1999",
+          "resumen": "La mañana del 28 de septiembre de 1994, Daniel Aguilar Treviño disparó en el cuello a José Francisco Ruiz Massieu, secretario general del PRI, cuando subía a su coche tras una reunión en un hotel de Ciudad de México. El autor material fue condenado a 50 años. Raúl Salinas, hermano del expresidente Carlos Salinas, fue condenado en 1999 como autor intelectual, pero la condena se anuló en 2005; los motivos del crimen siguen sin aclararse.",
+          "por_que": "El segundo asesinato político de 1994 en México, con el hermano del presidente en el banquillo.",
+          "fuentes_fecha": [
+            "https://www.milenio.com/policia/caso-colosio-rastros-de-muerte",
+            "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Ruiz_Massieu"
+          ],
+          "riesgos": "Raúl Salinas fue absuelto: no presentarlo como culpable."
+        },
+        {
+          "titulo_caso": "Asedio del Spaghetti House (Londres)",
+          "protagonista": "Franklin Davies y otros dos atracadores",
+          "fecha": "1975-09-28",
+          "tipo_efemeride": "golpe",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1970-1979",
+          "resumen": "En la madrugada del 28 de septiembre de 1975, tres hombres armados intentaron robar la recaudación semanal del restaurante Spaghetti House de Knightsbridge (Londres) y, al verse rodeados por la policía, encerraron a nueve empleados en un almacén del sótano. Tras cinco días de negociación liberaron a todos los rehenes y se rindieron; fueron juzgados en 1976.",
+          "por_que": "Un atraco fallido convertido en un asedio de cinco días que Londres siguió en vilo.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Spaghetti_House_siege",
+            "https://libcom.org/article/1975-spaghetti-house-siege-making-rhetoric-real-jenny-bourne"
+          ],
+          "riesgos": "Los atracadores alegaron motivos políticos vinculados a la liberación negra: contexto delicado."
+        },
+        {
+          "titulo_caso": "Operativo Cóndor: un avión secuestrado rumbo a las Malvinas",
+          "protagonista": "Dardo Cabo y militantes peronistas",
+          "fecha": "1966-09-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "1960-1969",
+          "resumen": "El 28 de septiembre de 1966, un grupo de jóvenes militantes peronistas dirigidos por Dardo Cabo secuestró un vuelo de Aerolíneas Argentinas que iba a Río Gallegos y lo obligó a aterrizar en Puerto Stanley (Malvinas), donde izaron banderas argentinas y retuvieron a varios isleños. Tras negociar, se entregaron; fueron juzgados y la mayoría quedó en libertad a los nueve meses, aunque Cabo y otros dos cumplieron tres años.",
+          "por_que": "Un secuestro aéreo para «recuperar» simbólicamente las Malvinas, dieciséis años antes de la guerra.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Operativo_C%C3%B3ndor",
+            "http://www.pagina12.com.ar/diario/elpais/subnotas/1-67487-2014-04-03.html"
+          ],
+          "riesgos": "Hecho político sin víctimas mortales. No confundir con el Plan Cóndor de las dictaduras del Cono Sur. El número de secuestradores varía (16 o 18)."
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "candidatos": [
+        {
+          "titulo_caso": "Asesinato del general Carlos Prats y Sofía Cuthbert (Buenos Aires)",
+          "protagonista": "DINA chilena (Michael Townley, Enrique Arancibia Clavel)",
+          "fecha": "1974-09-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Argentina / Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El 30 de septiembre de 1974, una bomba teledirigida colocada en su coche mató en Buenos Aires al general Carlos Prats, excomandante en jefe del Ejército chileno exiliado tras el golpe de Pinochet, y a su esposa, Sofía Cuthbert, frente a su casa. La bomba la construyó, colocó y detonó el agente de la DINA Michael Townley. En Argentina fue condenado a cadena perpetua Enrique Arancibia Clavel, y en Chile la justicia condenó al exjefe de la DINA Manuel Contreras.",
+          "por_que": "El primer gran crimen de la DINA fuera de Chile.",
+          "fuentes_fecha": [
+            "https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia",
+            "https://en.wikipedia.org/wiki/Carlos_Prats"
+          ],
+          "riesgos": "Muy relacionado con el caso Letelier (21 de septiembre), obra de la misma red: elegir uno o enlazarlos."
+        },
+        {
+          "titulo_caso": "El «doble evento» de Jack el Destripador (Londres)",
+          "protagonista": "Jack el Destripador (nunca identificado)",
+          "fecha": "1888-09-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1880-1889",
+          "resumen": "En la madrugada del 30 de septiembre de 1888, en menos de una hora, aparecieron en el East End de Londres los cuerpos de dos mujeres: Elizabeth Stride, hacia la una, en Dutfield's Yard (Berner Street), y Catherine Eddowes, en Mitre Square, ya en la City. Es el llamado «doble evento» de Jack el Destripador, que nunca fue identificado.",
+          "por_que": "La noche más famosa de la historia del crimen victoriano.",
+          "fuentes_fecha": [
+            "https://todayifoundout.com/?p=43465",
+            "https://www.crimeandinvestigation.co.uk/articles/catherine-eddowes-jack-the-ripper"
+          ],
+          "riesgos": "Sin resolver. Se solapa con Annie Chapman (8 de septiembre) y con Mary Ann Nichols (31 de agosto): elegir solo uno. Evitar detalles gráficos."
+        }
+      ]
+    }
+  ]
+}

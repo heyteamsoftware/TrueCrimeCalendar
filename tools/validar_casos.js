@@ -1,5 +1,5 @@
 // Comprueba las fichas de los casos nuevos (web/datos/casos_nuevos.json) y la cobertura del calendario.
-// Uso: node tools/validar_casos.js [--dias-libres]
+// Uso: node tools/validar_casos.js [--dias-libres] [web/datos/fichas/<mm>.json …]
 const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
@@ -10,7 +10,14 @@ const ctx = {};
 vm.runInNewContext(html.slice(html.indexOf("const D = [];"), html.indexOf("const MESES")) + "\nthis.D=D;this.GROUPS=GROUPS;", ctx);
 const estrellas = ctx.D;
 const nuevosPath = path.join(raiz, "web", "datos", "casos_nuevos.json");
-const nuevos = fs.existsSync(nuevosPath) ? JSON.parse(fs.readFileSync(nuevosPath, "utf8")) : [];
+let nuevos = fs.existsSync(nuevosPath) ? JSON.parse(fs.readFileSync(nuevosPath, "utf8")) : [];
+// node tools/validar_casos.js web/datos/fichas/01.json …: añade esas fichas (de un mes) a las ya unidas
+const extras = process.argv.slice(2).filter(a => a.endsWith(".json"));
+for (const f of extras) {
+  const x = JSON.parse(fs.readFileSync(path.resolve(f), "utf8"));
+  const lista = Array.isArray(x) ? x : (x.casos || []);
+  nuevos = nuevos.filter(c => !lista.some(o => o.id === c.id)).concat(lista);
+}
 
 const TIPOS = ["nacimiento", "crimen", "detencion", "condena", "hallazgo", "desaparicion", "golpe"];
 const FUENTES = ["hemeroteca", "libro", "judicial", "policial", "enciclopedia", "documental"];

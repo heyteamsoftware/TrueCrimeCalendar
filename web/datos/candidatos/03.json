@@ -1,0 +1,1076 @@
+{
+  "mes": 3,
+  "dias": [
+    {
+      "dia": 1,
+      "candidatos": [
+        {
+          "titulo_caso": "El secuestro de Quini",
+          "protagonista": "Enrique Castro «Quini» (víctima); tres secuestradores de Zaragoza",
+          "fecha": "1981-03-01",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "secuestro",
+          "epoca": "1980-1989",
+          "resumen": "El delantero del FC Barcelona Quini fue secuestrado a punta de pistola el 1 de marzo de 1981, tras un partido contra el Hércules en el Camp Nou. Sus captores, tres jóvenes mecánicos en paro, pidieron un rescate millonario y lo retuvieron en un sótano de Zaragoza hasta que la policía lo liberó el 25 de marzo.",
+          "por_que": "Un secuestro improvisado que paralizó a España y a la Liga, con final feliz y un Quini que perdonó a sus captores.",
+          "fuentes_fecha": [
+            "https://www.vozpopuli.com/espana/policias-quini-manteniamos-contacto-messi_0_1113488663.html",
+            "https://remezcla.com/features/sports/barcelona-star-kidnapped/",
+            "https://www.wikiwand.com/en/articles/Quini"
+          ],
+          "riesgos": "Las fuentes difieren en el número de hombres que participaron en la captura (dos o tres) y en la cifra del rescate."
+        },
+        {
+          "titulo_caso": "El secuestro del bebé Lindbergh",
+          "protagonista": "Bruno Richard Hauptmann (condenado y ejecutado)",
+          "fecha": "1932-03-01",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secuestro",
+          "epoca": "1930-1939",
+          "resumen": "El hijo de 20 meses del aviador Charles Lindbergh fue sacado de su cuna en Hopewell (Nueva Jersey) la noche del 1 de marzo de 1932; su cuerpo apareció el 12 de mayo. El carpintero alemán Bruno Hauptmann fue condenado y ejecutado en 1936.",
+          "por_que": "«El crimen del siglo»: dio origen a la Ley Lindbergh y su condena sigue discutiéndose.",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/news/stories/2008/march/lindbergh_030308",
+            "https://kids.britannica.com/students/article/Lindbergh-baby-kidnapping/571504"
+          ],
+          "riesgos": "Víctima bebé (caso histórico, nombre público). La culpabilidad de Hauptmann es objeto de debate."
+        },
+        {
+          "titulo_caso": "El ataque nacionalista puertorriqueño al Capitolio",
+          "protagonista": "Lolita Lebrón, Rafael Cancel Miranda, Irvin Flores y Andrés Figueroa Cordero",
+          "fecha": "1954-03-01",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos / Puerto Rico",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1950-1959",
+          "resumen": "Cuatro independentistas puertorriqueños encabezados por Lolita Lebrón dispararon desde la tribuna de visitantes de la Cámara de Representantes de EE. UU. e hirieron a cinco congresistas. Fueron condenados a largas penas y Jimmy Carter los indultó en 1979.",
+          "por_que": "Un ataque casi olvidado en el propio Congreso, con una protagonista que se volvió símbolo para el independentismo puertorriqueño.",
+          "fuentes_fecha": [
+            "https://www.metro.pr/noticias/2013/03/01/hoy-historia-ataque-nacionalista-congreso",
+            "https://hnn.us/article/129792"
+          ],
+          "riesgos": "Carga política (independentismo puertorriqueño). Ocurrió en Washington; la región «hispanoamerica» es discutible."
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "candidatos": [
+        {
+          "titulo_caso": "La ejecución de Salvador Puig Antich",
+          "protagonista": "Salvador Puig Antich (ejecutado)",
+          "fecha": "1974-03-02",
+          "tipo_efemeride": "condena",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "error_judicial",
+          "epoca": "1970-1979",
+          "resumen": "El militante anarquista del MIL fue ejecutado a garrote vil en la cárcel Modelo de Barcelona el 2 de marzo de 1974, condenado por un consejo de guerra por la muerte de un subinspector de policía. Ese mismo día fue ejecutado en Tarragona Heinz Chez. En 2024 el Gobierno declaró nula la sentencia.",
+          "por_que": "Una de las últimas ejecuciones del franquismo, tras un juicio militar sin garantías hoy anulado.",
+          "fuentes_fecha": [
+            "https://www.elsaltodiario.com/hemeroteca-diagonal/salvador-puig-antich-en-la-memoria",
+            "https://www.diaridetarragona.com/internacional/195948/la-modelo-rinde-homenaje-a-puig-antich-50-anos-despues-de-su-ejecucion-lm18722911.html",
+            "https://en.wikipedia.org/wiki/Salvador_Puig_Antich"
+          ],
+          "riesgos": "Fuerte carga política. La muerte del subinspector Francisco Anguas es un hecho real con una víctima: tratarla con respeto. Más que «error judicial» es una condena sin garantías; valorar si encaja como «historico»."
+        },
+        {
+          "titulo_caso": "El secuestro de Natascha Kampusch",
+          "protagonista": "Wolfgang Přiklopil (secuestrador; se suicidó en 2006)",
+          "fecha": "1998-03-02",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Austria",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "Natascha Kampusch, de 10 años, desapareció camino del colegio en Viena el 2 de marzo de 1998. Pasó 3.096 días encerrada en un zulo bajo el garaje de Wolfgang Přiklopil en Strasshof, hasta que escapó el 23 de agosto de 2006; él se suicidó al día siguiente.",
+          "por_que": "Uno de los cautiverios más largos documentados en Europa, contado después por su propia superviviente.",
+          "fuentes_fecha": [
+            "https://www.eltiempo.com/mundo/europa/natasha-kampusch-estuvo-3-096-dias-secuestrada-y-logro-escapar-721801",
+            "https://en.wikipedia.org/wiki/Natascha_Kampusch"
+          ],
+          "riesgos": "La víctima era menor; hoy es una adulta que ha hecho pública su historia. Evitar detalles de abusos. El secuestrador no fue juzgado (murió); se habló de un posible cómplice que nunca se probó."
+        },
+        {
+          "titulo_caso": "El atentado de Roderick Maclean contra la reina Victoria",
+          "protagonista": "Roderick Maclean",
+          "fecha": "1882-03-02",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1880-1889",
+          "resumen": "Roderick Maclean disparó con un revólver contra la reina Victoria en la estación de Windsor el 2 de marzo de 1882 y falló; unos alumnos de Eton lo redujeron a paraguazos. El jurado lo declaró «no culpable, pero loco» y fue internado en Broadmoor, donde murió en 1921.",
+          "por_que": "El octavo y último atentado contra Victoria: la indignación de la reina cambió la ley inglesa sobre la locura (Trial of Lunatics Act, 1883).",
+          "fuentes_fecha": [
+            "https://moneyweek.com/428954/2-march-1882-queen-victoria-survives-seventh-assassination-attempt",
+            "https://www.historic-uk.com/HistoryUK/HistoryofBritain/Queen-Victoria-Eight-Assassination-Attempts",
+            "https://en.wikipedia.org/wiki/Roderick_Maclean"
+          ],
+          "riesgos": "Autor con enfermedad mental: tratarlo sin burla. Las fuentes lo cuentan como el séptimo u octavo atentado contra la reina."
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "candidatos": [
+        {
+          "titulo_caso": "Frederick Deeming y el cadáver bajo la chimenea de Windsor",
+          "protagonista": "Frederick Bailey Deeming",
+          "fecha": "1892-03-03",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Australia / Reino Unido",
+          "region": "oceania",
+          "tipo_caso": "asesinato",
+          "epoca": "1890-1899",
+          "resumen": "El 3 de marzo de 1892, por el mal olor de una casa alquilada en Andrew Street (Windsor, Melbourne), apareció bajo el hogar de la chimenea el cuerpo de Emily Mather, esposa de Frederick Deeming. La investigación destapó también el asesinato de su primera mujer y sus cuatro hijos en Rainhill (Inglaterra). Fue juzgado y ahorcado en Melbourne en mayo de 1892.",
+          "por_que": "Un estafador bígamo de dos continentes al que la prensa de la época llegó a señalar como Jack el Destripador.",
+          "fuentes_fecha": [
+            "https://adb.anu.edu.au/biography/deeming-frederick-bailey-5940",
+            "https://en.wikipedia.org/wiki/Frederick_Bailey_Deeming"
+          ],
+          "riesgos": "Entre las víctimas de Rainhill había cuatro niños (caso de 1891-1892). La relación con Jack el Destripador es una especulación de la prensa, no un hecho. Las fuentes dan el 24 o 25 de diciembre de 1891 para el crimen de Windsor; la fecha del hallazgo coincide."
+        },
+        {
+          "titulo_caso": "Los sucesos de Vitoria (3 de marzo de 1976)",
+          "protagonista": "Policía Armada (víctimas: cinco trabajadores en huelga)",
+          "fecha": "1976-03-03",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "historico",
+          "epoca": "1970-1979",
+          "resumen": "Durante una huelga general en Vitoria, la Policía Armada desalojó con gases y fuego real una asamblea de unos 4.000 trabajadores en la iglesia de San Francisco de Asís, en Zaramaga: murieron cinco personas y más de 150 resultaron heridas. Los hechos nunca fueron investigados ni juzgados en España; no hay ninguna condena.",
+          "por_que": "Una matanza de la Transición que quedó impune y sigue marcando la memoria de Vitoria.",
+          "fuentes_fecha": [
+            "https://es.wikipedia.org/wiki/Sucesos_de_Vitoria",
+            "http://www.eitb.com/es/audios/detalle/2046880/se-cumplen-38-anos-matanza-3-marzo-vitoriagasteiz/",
+            "http://gara.naiz.info/paperezkoa/20110227/250862/es/3-marzo-1976-oceano-valentia?Hizk=es"
+          ],
+          "riesgos": "Carga política fuerte (represión policial en la Transición). Sin condenas en España; la querella argentina (jueza Servini) imputó a exministros y mandos: comprobar si sigue abierta, porque podría excluirlo. Las URL de EITB y Gara se tomaron de las referencias de Wikipedia y no se abrieron (sin búsquedas disponibles): verificarlas."
+        },
+        {
+          "titulo_caso": "La paliza a Rodney King",
+          "protagonista": "Cuatro agentes del LAPD (Koon, Powell, Wind y Briseno)",
+          "fecha": "1991-03-03",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1990-1999",
+          "resumen": "Un vecino grabó en vídeo cómo agentes de la policía de Los Ángeles golpeaban a Rodney King tras una persecución de tráfico. En abril de 1992 un jurado absolvió a los cuatro agentes del juicio estatal, lo que desató los disturbios de Los Ángeles; en 1993 dos de ellos fueron condenados en el juicio federal por violar sus derechos civiles.",
+          "por_que": "El primer vídeo casero de violencia policial que cambió la historia de un país, y una absolución que incendió una ciudad.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/March_3",
+            "https://blackhistory.psu.edu/timeline/la_police_officers_are_acquitted_for_beating_an_african_american_motorist.html"
+          ],
+          "riesgos": "Racismo y violencia policial: tema sensible. La fuente de Penn State no se abrió (la fecha se confirmó en resultados de búsqueda y en Wikipedia); verificarla o buscar una hemeroteca (LA Times)."
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "candidatos": [
+        {
+          "titulo_caso": "La sentencia de la matanza de Atocha",
+          "protagonista": "José Fernández Cerrá, Carlos García Juliá y Francisco Albaladejo, entre otros",
+          "fecha": "1980-03-04",
+          "tipo_efemeride": "condena",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 4 de marzo de 1980 la Audiencia Nacional condenó por asesinato a los pistoleros ultraderechistas que el 24 de enero de 1977 mataron a cinco personas en el despacho de abogados laboralistas de la calle de Atocha 55, en Madrid. Los autores materiales recibieron penas de más de un siglo; uno de ellos, García Juliá, huyó durante un permiso y fue detenido en Bolivia en 2018.",
+          "por_que": "El crimen que estuvo a punto de descarrilar la Transición y la sentencia que lo cerró.",
+          "fuentes_fecha": [
+            "https://cdndigital.march.es/fedora/objects/linz:R-54989/datastreams/OBJ/content",
+            "https://www.bib.uab.cat/socials/exposicions/40anysatocha/articles/lv170122.pdf",
+            "https://es.wikipedia.org/wiki/4_de_marzo"
+          ],
+          "riesgos": "Carga política. Las cifras de condena varían entre fuentes (139 o 193 años para los autores materiales). La fecha sale de un recorte de Diario 16 del 5 de marzo de 1980 («condenó ayer»). La matanza en sí sería el 24 de enero, si el coordinador prefiere esa fecha."
+        },
+        {
+          "titulo_caso": "Jimmy Hoffa, condenado por sobornar a un jurado",
+          "protagonista": "Jimmy Hoffa",
+          "fecha": "1964-03-04",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "otro",
+          "epoca": "1960-1969",
+          "resumen": "El 4 de marzo de 1964 un jurado de Chattanooga (Tennessee) declaró culpable al líder del sindicato de camioneros, Jimmy Hoffa, de intentar sobornar al jurado de su juicio anterior en Nashville. Fue condenado a ocho años; Nixon le conmutó la pena en 1971 y en 1975 desapareció sin dejar rastro.",
+          "por_que": "El principio del fin del sindicalista más poderoso de EE. UU., cuya desaparición sigue sin resolverse.",
+          "fuentes_fecha": [
+            "https://www.encyclopedia.com/law/law-magazines/us-v-hoffa-1964",
+            "https://www.tned.uscourts.gov/sites/tned/files/0317history.pdf",
+            "https://www.realtime1960s.com/post/hoffa-convicted"
+          ],
+          "riesgos": "La desaparición de Hoffa (30 de julio de 1975) está sin resolver: no atribuir culpas. Si otro mes propone la desaparición, sería el mismo caso."
+        }
+      ]
+    },
+    {
+      "dia": 6,
+      "candidatos": [
+        {
+          "titulo_caso": "El caso del soldado Omar Carrasco",
+          "protagonista": "Omar Carrasco (víctima); militares del Grupo de Artillería 161 de Zapala",
+          "fecha": "1994-03-06",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "El conscripto Omar Carrasco, de 20 años, desapareció el 6 de marzo de 1994 en el cuartel de Zapala (Neuquén). Un mes después, el 6 de abril, el Ejército anunció el hallazgo de su cuerpo dentro del propio cuartel. Un subteniente y dos soldados fueron condenados por el homicidio, y el caso llevó al fin del servicio militar obligatorio en Argentina.",
+          "por_que": "Un crimen en un cuartel que acabó con la «colimba»: el servicio militar obligatorio argentino.",
+          "fuentes_fecha": [
+            "https://www.rionegro.com.ar/justicia/a-30-anos-del-crimen-por-que-el-caso-carrasco-tiene-dos-fechas-clave-3439620/?amp=1",
+            "https://www.lacapital.com.ar/informacion-general/a-25-anos-la-muerte-del-soldado-carrasco-n1752935.html"
+          ],
+          "riesgos": "Hubo encubrimiento y versiones distintas sobre lo ocurrido; comprobar en la ficha el número exacto de condenados (las fuentes hablan de tres o cuatro militares)."
+        },
+        {
+          "titulo_caso": "«Muerte en el Peñón»: los tres del IRA abatidos en Gibraltar",
+          "protagonista": "Comando del SAS británico (víctimas: Seán Savage, Daniel McCann y Mairéad Farrell)",
+          "fecha": "1988-03-06",
+          "tipo_efemeride": "crimen",
+          "pais": "Gibraltar (Reino Unido) / España",
+          "region": "europa",
+          "tipo_caso": "otro",
+          "epoca": "1980-1989",
+          "resumen": "El 6 de marzo de 1988 soldados del SAS mataron a tiros en Gibraltar a tres miembros del IRA que, según el Gobierno británico, preparaban un coche bomba; estaban desarmados. La investigación judicial gibraltareña lo calificó de muerte legal, pero en 1995 el Tribunal Europeo de Derechos Humanos condenó al Reino Unido por vulnerar el derecho a la vida.",
+          "por_que": "Un caso límite entre antiterrorismo y ejecución, con la frontera española de por medio y un documental que hizo historia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Operation_Flavius",
+            "https://news.bbc.co.uk/1/hi/events/northern_ireland/history/68885.stm",
+            "https://es.wikipedia.org/wiki/6_de_marzo"
+          ],
+          "riesgos": "Carga política (conflicto norirlandés). Ningún soldado fue procesado. La URL de la BBC se tomó de las referencias de Wikipedia y no se abrió: verificarla."
+        }
+      ]
+    },
+    {
+      "dia": 7,
+      "candidatos": [
+        {
+          "titulo_caso": "El rapto de Shrigley: la heredera Ellen Turner",
+          "protagonista": "Edward Gibbon Wakefield",
+          "fecha": "1826-03-07",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1820-1829",
+          "resumen": "Edward Gibbon Wakefield sacó con engaños a Ellen Turner, heredera de 15 años, de su internado en Liverpool el 7 de marzo de 1826 y se casó con ella en Gretna Green para quedarse con su fortuna. Él y su hermano William fueron condenados a tres años de cárcel y el matrimonio se anuló por ley del Parlamento en 1827. Después, Wakefield fue uno de los impulsores de la colonización de Nueva Zelanda.",
+          "por_que": "Un secuestro de novela de Jane Austen, real, cuyo autor acabó siendo un padre fundador de una colonia.",
+          "fuentes_fecha": [
+            "https://en.wikipedia.org/wiki/Shrigley_abduction",
+            "https://www.historydaily.com/the-abduction-of-ellen-turner/",
+            "https://www.naomiclifford.com/the-shrigley-abduction/"
+          ],
+          "riesgos": "Víctima menor (caso de 1826, nombre histórico del caso). Algunas webs secundarias dan por error el año 1827."
+        },
+        {
+          "titulo_caso": "El asesinato del primer ministro iraní Ali Razmara",
+          "protagonista": "Khalil Tahmasebi (Fedayines del Islam)",
+          "fecha": "1951-03-07",
+          "tipo_efemeride": "crimen",
+          "pais": "Irán",
+          "region": "oriente_medio",
+          "tipo_caso": "magnicidio",
+          "epoca": "1950-1959",
+          "resumen": "El primer ministro de Irán, el general Ali Razmara, fue asesinado a tiros el 7 de marzo de 1951 en una mezquita de Teherán, donde asistía a un funeral. El autor, Khalil Tahmasebi, pertenecía al grupo islamista Fedayines del Islam; el crimen abrió paso a la nacionalización del petróleo con Mosaddeq.",
+          "por_que": "Tres disparos que cambiaron la historia del petróleo iraní y prepararon el golpe de 1953.",
+          "fuentes_fecha": [
+            "https://www.dawn.com/news/1979730/from-the-past-pages-of-dawn-1951-seventy-five-years-ago-iran-premier-assassinated",
+            "https://www.britannica.com/print/article/766059",
+            "https://en.wikipedia.org/wiki/Ali_Razmara"
+          ],
+          "riesgos": "Las fuentes difieren en el nombre de la mezquita (Shah o Soltani) y la crónica de Dawn de 1951 da otro nombre de autor. Tahmasebi fue después indultado por el Parlamento; comprobarlo en la ficha."
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Eduardo Dato",
+          "protagonista": "Pedro Mateu, Luis Nicolau y Ramón Casanellas",
+          "fecha": "1921-03-08",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "magnicidio",
+          "epoca": "1920-1929",
+          "resumen": "El presidente del Gobierno Eduardo Dato fue tiroteado en su coche oficial en la plaza de la Independencia de Madrid el 8 de marzo de 1921 por tres anarquistas catalanes que iban en una motocicleta. Mateu y Nicolau fueron detenidos y condenados (las penas de muerte acabaron conmutadas); Casanellas huyó a la URSS.",
+          "por_que": "El tercer presidente del Gobierno asesinado en España en medio siglo, en plena guerra del pistolerismo.",
+          "fuentes_fecha": [
+            "https://www.congreso.es/es/vidparl1920-2",
+            "https://www.elindependiente.com/tendencias/cultura/2024/01/18/cuando-alfonso-xiii-perdono-la-vida-a-los-asesinos-de-eduardo-dato/",
+            "https://en.wikipedia.org/wiki/Eduardo_Dato"
+          ],
+          "riesgos": "Carga política (pistolerismo y anarquismo). La «pista alemana» es solo especulación."
+        },
+        {
+          "titulo_caso": "El robo en la oficina del FBI de Media",
+          "protagonista": "Comisión Ciudadana para Investigar al FBI",
+          "fecha": "1971-03-08",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1970-1979",
+          "resumen": "La noche del 8 de marzo de 1971, mientras el país veía el combate Ali-Frazier, un grupo de activistas entró en la oficina del FBI en Media (Pensilvania) y se llevó más de mil documentos que revelaron el programa secreto de espionaje COINTELPRO. El FBI cerró la investigación en 1976 sin identificar a nadie; los autores se dieron a conocer en 2014.",
+          "por_que": "Un robo perfecto, nunca resuelto por el FBI, que destapó el espionaje ilegal de Hoover.",
+          "fuentes_fecha": [
+            "https://whyy.org/articles/remembering-the-1971-raid-on-the-fbi-office-in-media-pennsylvania",
+            "https://www.muckrock.com/news/archives/2019/mar/08/fbi-media-anniversary",
+            "https://www.hmdb.org/m.asp?m=180908"
+          ],
+          "riesgos": "Los autores nunca fueron juzgados (el delito prescribió). Las fuentes no coinciden en el número de participantes (ocho es la cifra más citada)."
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato del Noi del Sucre",
+          "protagonista": "Salvador Seguí «el Noi del Sucre» (víctima); pistoleros del Sindicato Libre",
+          "fecha": "1923-03-10",
+          "tipo_efemeride": "crimen",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1920-1929",
+          "resumen": "El líder de la CNT Salvador Seguí fue asesinado a tiros el 10 de marzo de 1923 en la esquina de las calles de la Cadena y Sant Rafael, en el Raval de Barcelona; también murió su compañero Francesc Comas «Paronas». Se atribuye a pistoleros vinculados a la patronal, pero nadie fue juzgado.",
+          "por_que": "El crimen más simbólico del pistolerismo barcelonés, impune un siglo después.",
+          "fuentes_fecha": [
+            "https://es.ara.cat/cultura/tenia-miedo-noi-sucre_1_4643313.html",
+            "https://www.eldebate.com/historia/20230309/anarquistas-pistoleros-siglo-asesinato-salvador-segui_99184.html",
+            "https://www.elsaltodiario.com/opinion/cien-anos-asesinato-noi-sucre"
+          ],
+          "riesgos": "Sin juicio ni condena: no señalar autores concretos como culpables. Carga política."
+        },
+        {
+          "titulo_caso": "El caso Calas",
+          "protagonista": "Jean Calas (ejecutado, rehabilitado en 1765)",
+          "fecha": "1762-03-10",
+          "tipo_efemeride": "condena",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "siglo XVIII",
+          "resumen": "El comerciante protestante Jean Calas fue acusado de matar a su hijo Marc-Antoine para impedir que se hiciera católico. El Parlamento de Toulouse lo condenó y fue ejecutado en la rueda el 10 de marzo de 1762. Voltaire hizo campaña por su inocencia (Tratado sobre la tolerancia) y fue rehabilitado el 9 de marzo de 1765.",
+          "por_que": "El error judicial que inventó la campaña de opinión moderna contra la intolerancia.",
+          "fuentes_fecha": [
+            "https://www.herodote.net/9_mars_1762-evenement-17620309.php",
+            "https://www.schoolmouv.fr/personnages/jean-calas/personnages-historique",
+            "https://www.universalis.fr/encyclopedie/affaire-calas/"
+          ],
+          "riesgos": "La condena es del 9 de marzo y la ejecución del 10: usar el 10 como fecha de la ejecución. Evitar el detalle del suplicio."
+        },
+        {
+          "titulo_caso": "La captura de Paul Schäfer, jefe de Colonia Dignidad",
+          "protagonista": "Paul Schäfer",
+          "fecha": "2005-03-10",
+          "tipo_efemeride": "detencion",
+          "pais": "Chile / Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "secta",
+          "epoca": "2000-2009",
+          "resumen": "Paul Schäfer, fundador de la secta alemana Colonia Dignidad en el sur de Chile, fue detenido el 10 de marzo de 2005 en un barrio cerrado de Tortuguitas (Buenos Aires) tras siete años prófugo, y expulsado a Chile. Fue condenado por abusos sexuales a menores y otros delitos, y murió en prisión en 2010.",
+          "por_que": "La caída del gurú de una secta-fortaleza que sirvió además de centro de torturas de la dictadura.",
+          "fuentes_fecha": [
+            "https://www.elmostrador.cl/noticias/pais/2010/04/24/el-nazi-paul-schaefer-muere-en-prision/",
+            "https://cooperativa.cl/noticias/pais/judicial/villa-baviera/alemania-expreso-satisfaccion-por-la-detencion-de-paul-schae/2005-03-11/072711.html"
+          ],
+          "riesgos": "Víctimas menores (abusos): sin nombres ni detalles. Siguen abiertas en Chile y Alemania causas contra otros miembros de la Colonia; la de Schäfer se cerró con su muerte."
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "candidatos": [
+        {
+          "titulo_caso": "El secuestro del exgobernador Miguel Ragone",
+          "protagonista": "Miguel Ragone (víctima); grupo parapolicial (Triple A)",
+          "fecha": "1976-03-11",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "desaparicion",
+          "epoca": "1970-1979",
+          "resumen": "El exgobernador peronista de Salta Miguel Ragone fue secuestrado por un comando parapolicial la mañana del 11 de marzo de 1976, dos semanas antes del golpe militar; un comerciante que intentó ayudarlo fue asesinado. Sus restos nunca aparecieron. En 2011 y 2015 la justicia condenó a perpetua a varios responsables, y en 2019 al exjuez Ricardo Lona.",
+          "por_que": "Una desaparición anterior al golpe que anticipó el terrorismo de Estado y tardó 35 años en llegar a juicio.",
+          "fuentes_fecha": [
+            "https://www.mpf.gob.ar/lesa/files/2022/11/20191009-Fundamentos-LONA-RAGONE.pdf",
+            "https://www.pagina12.com.ar/diario/elpais/1-172495-2011-07-18.html?mobile=1",
+            "https://www.csjn.gov.ar/archivo-cij/nota-22453-Lesa-humanidad--la-C-mara-Federal-de-Casaci-n-confirm--perpetuas-y-anul--absoluciones-en-la-causa-por-la-desaparici-n-del-ex-gobernador-de-Salta-Miguel-Ragone.html"
+          ],
+          "riesgos": "Carga política (Triple A, lesa humanidad). La Casación anuló absoluciones: comprobar que no quedan procesos abiertos en la causa. El paradero de Ragone sigue sin conocerse."
+        },
+        {
+          "titulo_caso": "Ravachol y la bomba del bulevar Saint-Germain",
+          "protagonista": "Ravachol (François Claudius Koenigstein)",
+          "fecha": "1892-03-11",
+          "tipo_efemeride": "crimen",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "historico",
+          "epoca": "1890-1899",
+          "resumen": "El 11 de marzo de 1892 una bomba destrozó el edificio del número 136 del bulevar Saint-Germain de París, donde vivía el magistrado Benoît, que había presidido un juicio contra anarquistas. Su autor, Ravachol, puso otra bomba el 27 de marzo y fue detenido el 30 en el restaurante Véry. Condenado a muerte por crímenes anteriores, fue guillotinado el 11 de julio de 1892.",
+          "por_que": "El atentado que abrió la «era de los atentados» anarquistas en Francia y convirtió a Ravachol en leyenda.",
+          "fuentes_fecha": [
+            "https://gallica.bnf.fr/ark:/12148/bpt6k4657316",
+            "https://fr.wikipedia.org/wiki/Ravachol",
+            "https://en.wikipedia.org/wiki/March_11"
+          ],
+          "riesgos": "La bomba no causó muertos; Ravachol fue ejecutado por asesinatos anteriores (un ermitaño en 1891). La fecha de 1892 y su detención del 30 de marzo podrían usarse también el día 30 (no duplicar). La página de Gallica (Journal des débats del 12 de marzo de 1892) se tomó de las referencias de Wikipedia: abrirla para confirmar."
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "candidatos": [
+        {
+          "titulo_caso": "La Voisin y el asunto de los venenos",
+          "protagonista": "Catherine Monvoisin «La Voisin»",
+          "fecha": "1679-03-12",
+          "tipo_efemeride": "detencion",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "siglo XVII",
+          "resumen": "Catherine Monvoisin, adivina parisina que vendía venenos, filtros y abortos a clientes de la aristocracia, fue detenida el 12 de marzo de 1679 al salir de misa en Notre-Dame de Bonne-Nouvelle. Su caso destapó el «asunto de los venenos», que salpicó a la corte de Luis XIV, y fue quemada en la hoguera en febrero de 1680.",
+          "por_que": "El escándalo de envenenamientos que llegó hasta la amante del Rey Sol.",
+          "fuentes_fecha": [
+            "https://www.justice.gouv.fr/actualites/actualite/laffaire-poisons",
+            "https://en.wikipedia.org/wiki/La_Voisin"
+          ],
+          "riesgos": "Las cifras de víctimas (hasta 2.500 bebés) están muy discutidas por los historiadores: no darlas como hechos. Es del siglo XVII, algo antes de la horquilla XVIII-XX."
+        },
+        {
+          "titulo_caso": "Bernard Madoff se declara culpable",
+          "protagonista": "Bernard Madoff",
+          "fecha": "2009-03-12",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "estafa",
+          "epoca": "2000-2009",
+          "resumen": "El 12 de marzo de 2009 el financiero Bernard Madoff se declaró culpable ante un tribunal federal de Manhattan de los 11 cargos por la mayor estafa piramidal de la historia, de unos 50.000 millones de dólares. El juez revocó su fianza y lo envió a prisión; en junio lo condenaron a 150 años. Murió en la cárcel en 2021.",
+          "por_que": "El mayor esquema Ponzi conocido, con víctimas en todo el mundo, incluidas fundaciones y bancos españoles.",
+          "fuentes_fecha": [
+            "https://www.fbi.gov/newyork/press-releases/2009/nyfo031209.htm/",
+            "https://thenation.com/article/archive/march-12-2009-bernard-madoff-pleads-guilty",
+            "https://www.wbur.org/news/2009/03/12/madoff-pleads-guilty"
+          ],
+          "riesgos": "La cifra del fraude varía según cómo se calcule. La declaración de culpabilidad se ha clasificado como «condena»."
+        },
+        {
+          "titulo_caso": "El asesinato del primer ministro serbio Zoran Đinđić",
+          "protagonista": "Zvezdan Jovanović (autor material) y Milorad Ulemek «Legija» (organizador)",
+          "fecha": "2003-03-12",
+          "tipo_efemeride": "crimen",
+          "pais": "Serbia",
+          "region": "europa",
+          "tipo_caso": "magnicidio",
+          "epoca": "2000-2009",
+          "resumen": "El primer ministro serbio Zoran Đinđić murió el 12 de marzo de 2003 por el disparo de un francotirador frente a la sede del Gobierno en Belgrado. Detrás estaban mandos de la Unidad de Operaciones Especiales y el clan mafioso de Zemun. En 2007 un tribunal especial condenó a doce personas; Jovanović y Ulemek recibieron 40 años.",
+          "por_que": "Un magnicidio de la mafia y los antiguos paramilitares contra el político que entregó a Milošević a La Haya.",
+          "fuentes_fecha": [
+            "https://www.jurist.org/paperchase/2007/05/serbia-convicts-12-in-prime-minister.php",
+            "https://n1info.rs/english/news/twenty-years-since-murder-of-serbian-pm-zoran-djindjic/",
+            "https://en.wikipedia.org/wiki/Assassination_of_Zoran_%C4%90in%C4%91i%C4%87"
+          ],
+          "riesgos": "Carga política. Jovanović dijo después que su confesión fue forzada; algunos apuntan a instigadores políticos nunca juzgados."
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Talaat Pachá en Berlín",
+          "protagonista": "Soghomon Tehlirian (absuelto)",
+          "fecha": "1921-03-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania / Imperio otomano",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "1920-1929",
+          "resumen": "El estudiante armenio Soghomon Tehlirian mató de un disparo a Talaat Pachá, exgran visir otomano y principal responsable del genocidio armenio, en una calle de Charlottenburg (Berlín) el 15 de marzo de 1921. En el juicio del 2 y 3 de junio, el jurado lo absolvió tras escuchar los testimonios sobre el genocidio.",
+          "por_que": "Una absolución célebre que convirtió un juicio por asesinato en el primer gran juicio público al genocidio armenio.",
+          "fuentes_fecha": [
+            "https://www.facinghistory.org/resource-library/assassination-mehmed-talaat",
+            "https://www.uni-wuppertal.de/en/transfer/science-communication/jahr100wissen-/-100-years-ago/2021/operation-nemesis/",
+            "https://en.wikipedia.org/wiki/Assassination_of_Talaat_Pasha"
+          ],
+          "riesgos": "Tema muy sensible para Turquía y Armenia (genocidio). No es un error judicial sino una absolución célebre: valorar «historico». El atentado formaba parte de la Operación Némesis."
+        },
+        {
+          "titulo_caso": "El asesinato de Rogelio Fernández Güell",
+          "protagonista": "Fuerzas de la dictadura de Federico Tinoco (víctima: Rogelio Fernández Güell)",
+          "fecha": "1918-03-15",
+          "tipo_efemeride": "crimen",
+          "pais": "Costa Rica",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1910-1919",
+          "resumen": "El periodista y diputado Rogelio Fernández Güell, que había encabezado un levantamiento contra el dictador Federico Tinoco, fue asesinado junto a varios compañeros por tropas del gobierno el 15 de marzo de 1918 en Buenos Aires (sur de Costa Rica) cuando huían hacia Panamá. La indignación por su muerte contribuyó a la caída de la dictadura en 1919.",
+          "por_que": "El crimen de Estado más recordado de Costa Rica, que ayudó a tumbar su última dictadura.",
+          "fuentes_fecha": [
+            "https://delfino.cr/2021/08/rogelio-fernandez-guell-martir-de-la-libertad",
+            "https://history.state.gov/historicaldocuments/frus1918/d251",
+            "https://www.nacion.com/ancora/rogelio-fernandez-guell-100-anos-de-su-tragica/WH3P6YBBCNGILOAWEAK7NUDICI/story/"
+          ],
+          "riesgos": "Crimen político; nadie fue condenado (comprobar en la ficha). Las fuentes difieren en el lugar exacto (Buenos Aires de Puntarenas o de Osa) y en la lista de acompañantes muertos. El telegrama del Departamento de Estado es del 20 de marzo y no da el día exacto."
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "candidatos": [
+        {
+          "titulo_caso": "El robo del museo Isabella Stewart Gardner",
+          "protagonista": "Dos ladrones disfrazados de policías (sin identificar)",
+          "fecha": "1990-03-18",
+          "tipo_efemeride": "golpe",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "golpe",
+          "epoca": "1990-1999",
+          "resumen": "En la madrugada del 18 de marzo de 1990, dos hombres vestidos de policía engañaron al vigilante del museo Gardner de Boston, ataron a los guardias y se llevaron trece obras, entre ellas un Vermeer y tres Rembrandt, valoradas en unos 500 millones de dólares. Ninguna ha aparecido y nadie ha sido acusado.",
+          "por_que": "El mayor robo de arte sin resolver de la historia, con los marcos vacíos todavía colgados en las paredes.",
+          "fuentes_fecha": [
+            "https://www.gardnermuseum.org/theft",
+            "https://www.history.com/articles/historys-biggest-art-heist-remains-unsolved"
+          ],
+          "riesgos": "La investigación del FBI sigue abierta (sin proceso judicial). No atribuir el robo a sospechosos concretos."
+        },
+        {
+          "titulo_caso": "El caso Glico-Morinaga: «el monstruo de las 21 caras»",
+          "protagonista": "Kaijin 21 Mensō (autores sin identificar); víctima: Katsuhisa Ezaki",
+          "fecha": "1984-03-18",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1980-1989",
+          "resumen": "Dos hombres armados secuestraron en su casa de Nishinomiya al presidente de la confitera Glico, Katsuhisa Ezaki, el 18 de marzo de 1984; escapó tres días después. Siguió una campaña de extorsiones, incendios y caramelos envenenados en tiendas firmada por «el monstruo de las 21 caras». Nunca se identificó a los autores y los delitos prescribieron.",
+          "por_que": "El gran misterio criminal de Japón: una banda que se burló de la policía en cartas a la prensa y desapareció.",
+          "fuentes_fecha": [
+            "https://www.tokyoweekender.com/japan-life/5-of-japans-most-famous-unsolved-crimes/",
+            "https://en.wikipedia.org/wiki/Glico_Morinaga_case"
+          ],
+          "riesgos": "Sin resolver y prescrito: no señalar sospechosos (el «hombre de los ojos de zorro» nunca fue identificado). Se cuenta que un mando policial se suicidó por el fracaso de la investigación: confirmarlo en la ficha."
+        },
+        {
+          "titulo_caso": "El asesinato del presidente congoleño Marien Ngouabi",
+          "protagonista": "Comando atribuido al capitán Barthélemy Kikadidi",
+          "fecha": "1977-03-18",
+          "tipo_efemeride": "crimen",
+          "pais": "República del Congo",
+          "region": "africa",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El presidente de la República Popular del Congo, Marien Ngouabi, fue asesinado en Brazzaville el 18 de marzo de 1977. El régimen culpó a un comando ligado al expresidente Massamba-Débat, que fue juzgado y ejecutado con otros acusados, aunque los motivos reales del crimen nunca se aclararon.",
+          "por_que": "Un magnicidio africano con juicio sumario, ejecuciones y un misterio que dura hasta hoy.",
+          "fuentes_fecha": [
+            "https://www.universalis.fr/encyclopedie/marien-ngouabi/",
+            "https://www.globalsecurity.org/military/world/africa/cg-history-3.htm",
+            "https://sahistory.org.za/node/12299"
+          ],
+          "riesgos": "Juicio militar sumario y autoría discutida: no dar por probada la versión oficial. En los días siguientes también fue asesinado el cardenal Biayenda (22 de marzo)."
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "candidatos": [
+        {
+          "titulo_caso": "El ataque con sarín de Aum Shinrikyo en el metro de Tokio",
+          "protagonista": "Shoko Asahara y la secta Aum Shinrikyo",
+          "fecha": "1995-03-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "secta",
+          "epoca": "1990-1999",
+          "resumen": "En la hora punta del 20 de marzo de 1995, miembros de la secta Aum Shinrikyo perforaron con paraguas bolsas de sarín líquido en cinco trenes de tres líneas del metro de Tokio: murieron entre 12 y 14 personas y miles resultaron afectadas. Su líder, Shoko Asahara, fue condenado a muerte y ejecutado en 2018 junto a otros miembros.",
+          "por_que": "El peor crimen de una secta en Japón y el primer gran ataque químico contra civiles en un metro.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/march-20/tokyo-subways-are-attacked-with-sarin-gas",
+            "https://time.com/3742241/tokyo-subway-attack-1995",
+            "https://www.moj.go.jp/content/001307790.pdf"
+          ],
+          "riesgos": "Atentado con muchas víctimas (terrorismo de secta). Las cifras de muertos (12-14) y heridos varían. No describir el método con detalle."
+        },
+        {
+          "titulo_caso": "El café envenenado de Michele Sindona",
+          "protagonista": "Michele Sindona",
+          "fecha": "1986-03-20",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "1980-1989",
+          "resumen": "Dos días después de ser condenado a cadena perpetua como inductor del asesinato del abogado Giorgio Ambrosoli, el banquero Michele Sindona bebió un café con cianuro en la cárcel de Voghera el 20 de marzo de 1986 y murió el 22. La justicia archivó el caso como suicidio, pero muchos sostienen que lo silenciaron.",
+          "por_que": "El banquero de la mafia y del Vaticano muere envenenado en una celda vigilada: ¿suicidio o asesinato?",
+          "fuentes_fecha": [
+            "https://www.fanpage.it/il-caffe-al-cianuro-di-michele-sindona/",
+            "https://www.ilfattoquotidiano.it/2026/03/20/michele-sindona-cianuro-morte-ambrosoli-notizie/8326158/",
+            "https://www.upi.com/Archives/1986/03/22/Michele-Sindona-mastermind-of-the-biggest-bank-failure-in/6920511851600/"
+          ],
+          "riesgos": "Oficialmente fue un suicidio: no presentar el asesinato como hecho. Algunas fuentes datan solo la muerte (22 de marzo); la fecha del café (20) viene de Fanpage y Il Fatto Quotidiano."
+        }
+      ]
+    },
+    {
+      "dia": 21,
+      "candidatos": [
+        {
+          "titulo_caso": "Eliza Fenning y las albóndigas con arsénico",
+          "protagonista": "Eliza Fenning (ahorcada; considerada inocente por muchos)",
+          "fecha": "1815-03-21",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido",
+          "region": "europa",
+          "tipo_caso": "error_judicial",
+          "epoca": "1810-1819",
+          "resumen": "El 21 de marzo de 1815 la familia Turner, en Chancery Lane (Londres), enfermó tras comer unas albóndigas de levadura preparadas por su cocinera, Eliza Fenning; en la masa había arsénico. Aunque ella también se intoxicó y nadie murió, fue condenada en el Old Bailey y ahorcada el 26 de julio de 1815 entre protestas públicas por su inocencia.",
+          "por_que": "Uno de los errores judiciales más célebres de la Inglaterra georgiana: una ejecución sin muertos.",
+          "fuentes_fecha": [
+            "https://lawgazette.co.uk/obiter/a-mystery-on-chancery-lane/5070094.article",
+            "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/fenning-elizabeth-1792-1815",
+            "https://en.wikipedia.org/wiki/Elizabeth_Fenning"
+          ],
+          "riesgos": "Su inocencia no está probada judicialmente, aunque es la opinión mayoritaria. La supuesta confesión en el lecho de muerte de un Turner está mal documentada. Encyclopedia.com da por error junio para la ejecución."
+        },
+        {
+          "titulo_caso": "La masacre de Ponce",
+          "protagonista": "Policía insular de Puerto Rico bajo el gobernador Blanton Winship",
+          "fecha": "1937-03-21",
+          "tipo_efemeride": "crimen",
+          "pais": "Puerto Rico",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1930-1939",
+          "resumen": "El Domingo de Ramos de 1937, la policía disparó durante más de un cuarto de hora contra una marcha del Partido Nacionalista en Ponce, cuyo permiso se había revocado a última hora. Murieron entre 17 y 21 personas, entre ellas dos policías, y hubo más de cien heridos. Nadie fue procesado; una comisión de derechos civiles culpó al gobernador Winship.",
+          "por_que": "La matanza policial más grave de la historia de Puerto Rico, impune hasta hoy.",
+          "fuentes_fecha": [
+            "https://www.elnuevodia.com/opinion/punto-de-vista/la-olvidada-masacre-de-ponce/",
+            "https://www.zinnedproject.org/news/tdih/ponce-massacre/",
+            "https://en.wikipedia.org/wiki/Ponce_massacre"
+          ],
+          "riesgos": "Carga política (independentismo). Las cifras de muertos varían (17-21), y entre las víctimas hubo una niña. Nunca se determinó quién hizo el primer disparo. Sin condenas."
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "candidatos": [
+        {
+          "titulo_caso": "La condena de Víctor Polay, líder del MRTA",
+          "protagonista": "Víctor Polay Campos",
+          "fecha": "2006-03-22",
+          "tipo_efemeride": "condena",
+          "pais": "Perú",
+          "region": "hispanoamerica",
+          "tipo_caso": "secuestro",
+          "epoca": "2000-2009",
+          "resumen": "El 22 de marzo de 2006 un tribunal civil peruano condenó a 32 años de prisión a Víctor Polay, fundador del Movimiento Revolucionario Túpac Amaru, por casi 30 delitos de finales de los ochenta y principios de los noventa, entre ellos secuestros y asesinatos. En 1990 había protagonizado una famosa fuga por un túnel del penal Castro Castro; en 2008 la pena subió a 35 años.",
+          "por_que": "El juicio, ya con garantías, al jefe guerrillero del túnel de Castro Castro.",
+          "fuentes_fecha": [
+            "https://www.voanews.com/a/a-13-2006-03-22-voa14/319659.html",
+            "https://perusupportgroup.org.uk/2006/03/mrta-rebel-leader-convicted/",
+            "https://en.wikipedia.org/wiki/V%C3%ADctor_Polay"
+          ],
+          "riesgos": "Terrorismo y conflicto armado: carga política fuerte. Polay tiene una demanda admitida en la CIDH contra el Estado peruano (no es un proceso penal sobre los hechos, pero conviene comprobarlo). El «tipo_caso» secuestro es aproximado."
+        },
+        {
+          "titulo_caso": "El secuestro y asesinato del cardenal Émile Biayenda",
+          "protagonista": "Émile Biayenda (víctima); autores sin juzgar",
+          "fecha": "1977-03-22",
+          "tipo_efemeride": "crimen",
+          "pais": "República del Congo",
+          "region": "africa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1970-1979",
+          "resumen": "Cuatro días después del asesinato del presidente Ngouabi, el arzobispo de Brazzaville, cardenal Émile Biayenda, fue sacado de su residencia junto a la catedral la tarde del 22 de marzo de 1977 y asesinado esa misma noche. La versión oficial culpó a familiares de Ngouabi, pero el verdadero motivo y los autores nunca se aclararon.",
+          "por_que": "Un cardenal asesinado en plena purga política, cuyo caso sigue envuelto en misterio.",
+          "fuentes_fecha": [
+            "https://dacb.org/stories/congo/biayenda-emile/",
+            "https://paperspast.natlib.govt.nz/newspapers/CHP19770324.2.56.13",
+            "https://en.wikipedia.org/wiki/%C3%89mile_Biayenda"
+          ],
+          "riesgos": "Está ligado al asesinato de Ngouabi, propuesto para el día 18: no elegir los dos. Wikipedia sitúa la muerte la noche del 23; el secuestro es del 22 en todas las fuentes. Sin juicio conocido."
+        }
+      ]
+    },
+    {
+      "dia": 23,
+      "candidatos": [
+        {
+          "titulo_caso": "Madeleine Smith y la muerte de L'Angelier",
+          "protagonista": "Madeleine Smith (veredicto «no probado»)",
+          "fecha": "1857-03-23",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido (Escocia)",
+          "region": "europa",
+          "tipo_caso": "envenenamiento",
+          "epoca": "1850-1859",
+          "resumen": "Pierre Emile L'Angelier, amante secreto de Madeleine Smith, joven de la burguesía de Glasgow, murió envenenado con arsénico la madrugada del 23 de marzo de 1857. Se descubrieron sus apasionadas cartas y que ella había comprado arsénico. En el juicio de Edimburgo, el jurado dio el veredicto escocés de «no probado».",
+          "por_que": "El juicio por envenenamiento más escandaloso de la Escocia victoriana, que hizo famoso el veredicto «no probado».",
+          "fuentes_fecha": [
+            "https://undiscoveredscotland.co.uk/usbiography/s/madeleinesmith.html",
+            "https://theglasgowstory.com/story/?id=TGSDH04",
+            "https://en.wikipedia.org/wiki/Madeleine_Smith"
+          ],
+          "riesgos": "No hubo condena: no presentarla como asesina."
+        },
+        {
+          "titulo_caso": "El asesinato del vicepresidente Argaña y el «Marzo paraguayo»",
+          "protagonista": "Pablo Vera Esteche, Fidencio Vega y Luis Alberto Rojas (autores materiales condenados)",
+          "fecha": "1999-03-23",
+          "tipo_efemeride": "crimen",
+          "pais": "Paraguay",
+          "region": "hispanoamerica",
+          "tipo_caso": "magnicidio",
+          "epoca": "1990-1999",
+          "resumen": "El vicepresidente de Paraguay, Luis María Argaña, fue asesinado a tiros por tres hombres en Asunción la mañana del 23 de marzo de 1999. El crimen desató el «Marzo paraguayo»: protestas en las que murieron ocho jóvenes y que acabaron con la renuncia del presidente Raúl Cubas. Los tres autores materiales fueron condenados; los autores intelectuales nunca.",
+          "por_que": "Un magnicidio que tumbó a un Gobierno en seis días.",
+          "fuentes_fecha": [
+            "https://www.abc.com.py/nacionales/a-19-anos-del-magnicidio-de-argana-1686552.html",
+            "https://www.lanacion.com.py/2016/03/24/marzo-paraguayo-paso-paso-una-tragedia-marco-al-pais/",
+            "https://en.wikipedia.org/wiki/Luis_Mar%C3%ADa_Arga%C3%B1a"
+          ],
+          "riesgos": "Carga política: los autores intelectuales nunca se determinaron (se señaló a Lino Oviedo, que no fue condenado por esto). Comprobar en la ficha si queda alguna causa abierta."
+        }
+      ]
+    },
+    {
+      "dia": 24,
+      "candidatos": [
+        {
+          "titulo_caso": "El incidente de Sakuradamon: el asesinato de Ii Naosuke",
+          "protagonista": "Rōnin de los dominios de Mito y Satsuma",
+          "fecha": "1860-03-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Japón",
+          "region": "asia",
+          "tipo_caso": "magnicidio",
+          "epoca": "1860-1869",
+          "resumen": "Bajo la nieve, un grupo de dieciocho samuráis sin señor emboscó el 24 de marzo de 1860 la comitiva del tairō Ii Naosuke, jefe del Gobierno del shogunato, ante la puerta Sakurada del castillo de Edo, y lo decapitaron. Lo odiaban por haber firmado tratados con las potencias extranjeras y por sus purgas; el shogunato ocultó su muerte durante semanas.",
+          "por_que": "El magnicidio samurái que aceleró el fin del shogunato Tokugawa.",
+          "fuentes_fecha": [
+            "https://samurai-archives.com/wiki/Sakuradamon_Incident",
+            "https://apjjf.org/?p=8975",
+            "https://en.wikipedia.org/wiki/Sakuradamon_Incident_(1860)"
+          ],
+          "riesgos": "Las fuentes japonesas dan el 3.er día del 3.er mes (calendario lunar), que corresponde al 24 de marzo gregoriano: explicarlo en la ficha. No dar detalles de la decapitación."
+        },
+        {
+          "titulo_caso": "La matanza de los McMahon en Belfast",
+          "protagonista": "Hombres con uniforme policial (se sospecha del inspector John Nixon y de los Specials)",
+          "fecha": "1922-03-24",
+          "tipo_efemeride": "crimen",
+          "pais": "Reino Unido (Irlanda del Norte)",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1920-1929",
+          "resumen": "De madrugada, el 24 de marzo de 1922, varios hombres armados, la mayoría con uniforme de policía, entraron en la casa del tabernero católico Owen McMahon en Kinnaird Terrace (Belfast) y mataron a seis personas. Se interpretó como represalia por la muerte de dos policías la noche anterior. Nadie fue acusado nunca.",
+          "por_que": "Un crimen de Estado impune que conmocionó al mundo en el nacimiento de Irlanda del Norte.",
+          "fuentes_fecha": [
+            "https://www.irishnews.com/news/northernirelandnews/2022/03/23/news/centenary-of-belfast-murders-which-shocked-the-world-2621435/",
+            "https://thisdayinirishhistory.substack.com/p/march-24-1922-mcmahon-murders-in",
+            "https://en.wikipedia.org/wiki/McMahon_killings"
+          ],
+          "riesgos": "Sin juicio: no presentar como culpables a Nixon ni a nadie (solo sospechas). Conflicto sectario; entre los muertos había un adolescente."
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "candidatos": [
+        {
+          "titulo_caso": "El secuestro de Jan Philipp Reemtsma",
+          "protagonista": "Thomas Drach y sus cómplices",
+          "fecha": "1996-03-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Alemania",
+          "region": "europa",
+          "tipo_caso": "secuestro",
+          "epoca": "1990-1999",
+          "resumen": "El filólogo y mecenas Jan Philipp Reemtsma, heredero de la tabacalera, fue secuestrado frente a su casa de Hamburgo la noche del 25 de marzo de 1996 y pasó 33 días encadenado en un sótano cerca de Bremen. Lo liberaron tras pagar uno de los mayores rescates de la historia alemana. El cabecilla, Thomas Drach, fue detenido en Buenos Aires en 1998 y condenado a 14 años y medio.",
+          "por_que": "Un secuestro de manual, un rescate récord en parte desaparecido y una víctima que escribió el relato de su cautiverio.",
+          "fuentes_fecha": [
+            "https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_66095904/chronologie-die-entfuehrung-von-jan-philipp-reemtsma.html",
+            "https://www.prisma.de/news/Der-Fall-Jan-Philipp-Reemtsma-im-ZDF-33-Tage-eingesperrt-im-Keller,28138599"
+          ],
+          "riesgos": "Las cifras del rescate varían (30 millones de marcos pedidos; pagados 15 millones de marcos y 12,5 millones de francos suizos, según la mayoría). Drach fue juzgado de nuevo en 2021-2024 por asaltos a furgones: no es este caso, pero comprobar que no hay nada abierto sobre el secuestro."
+        },
+        {
+          "titulo_caso": "El asesinato del rey Faisal de Arabia Saudí",
+          "protagonista": "Faisal bin Musaid (sobrino del rey; ejecutado)",
+          "fecha": "1975-03-25",
+          "tipo_efemeride": "crimen",
+          "pais": "Arabia Saudí",
+          "region": "oriente_medio",
+          "tipo_caso": "magnicidio",
+          "epoca": "1970-1979",
+          "resumen": "El rey Faisal fue asesinado a tiros por su sobrino, el príncipe Faisal bin Musaid, durante una audiencia en el palacio real de Riad el 25 de marzo de 1975. El príncipe fue declarado cuerdo, juzgado y decapitado en público el 18 de junio de 1975.",
+          "por_que": "Un magnicidio dentro de la familia real, en el país del embargo petrolero de 1973.",
+          "fuentes_fecha": [
+            "https://www.ebsco.com/research-starters/history/assassination-king-faisal",
+            "https://historycentral.com/Mideast/faisel2.html",
+            "https://en.wikipedia.org/wiki/Faisal_bin_Musaid_Al_Saud"
+          ],
+          "riesgos": "El móvil (venganza por la muerte de un hermano en 1965, inestabilidad mental) es discutido. Las fuentes difieren en el número de disparos."
+        },
+        {
+          "titulo_caso": "La emboscada a Rodolfo Walsh",
+          "protagonista": "Grupo de tareas de la ESMA (víctima: Rodolfo Walsh)",
+          "fecha": "1977-03-25",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Argentina",
+          "region": "hispanoamerica",
+          "tipo_caso": "desaparicion",
+          "epoca": "1970-1979",
+          "resumen": "Un día después de enviar su «Carta abierta de un escritor a la Junta Militar», el periodista y escritor Rodolfo Walsh fue emboscado por un grupo de tareas de la ESMA en San Juan y Entre Ríos (Buenos Aires) el 25 de marzo de 1977. Se resistió, fue herido de muerte y su cuerpo nunca apareció. En 2011 el juicio ESMA condenó a varios represores por el crimen.",
+          "por_que": "El autor de «Operación Masacre» acabó desaparecido por denunciar a la dictadura.",
+          "fuentes_fecha": [
+            "https://www.cels.org.ar/web/en/2017/03/rodolfo-walsh-40-anos-de-su-desaparicion",
+            "https://www.pagina12.com.ar/diario/elpais/1-190370-2012-03-25.html"
+          ],
+          "riesgos": "Crimen de lesa humanidad con carga política. Comprobar en la ficha las condenas concretas por Walsh en la causa ESMA (2011)."
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "candidatos": [
+        {
+          "titulo_caso": "El suicidio colectivo de Heaven's Gate",
+          "protagonista": "Marshall Applewhite y la secta Heaven's Gate",
+          "fecha": "1997-03-26",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "secta",
+          "epoca": "1990-1999",
+          "resumen": "El 26 de marzo de 1997 la policía encontró en una mansión de Rancho Santa Fe (California) los cuerpos de 39 miembros de la secta Heaven's Gate, incluido su líder Marshall Applewhite. Creían que, al morir, sus almas subirían a una nave espacial que viajaba tras el cometa Hale-Bopp.",
+          "por_que": "El mayor suicidio colectivo de una secta en EE. UU., anunciado por sus miembros en vídeos de despedida.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/heavens-gate-cult-members-found-dead",
+            "https://timesofsandiego.com/crime/2017/03/27/20th-anniversary-of-heavens-gate-mass-suicides-in-rancho-santa-fe/",
+            "https://www.live5news.com/2026/03/26/this-day-history-march-26-1997-heavens-gate-cult-members-found-dead-california-mansion/"
+          ],
+          "riesgos": "Suicidio colectivo: tratarlo sin morbo ni detalles del método. Los suicidios ocurrieron en los días anteriores; el 26 es el hallazgo."
+        },
+        {
+          "titulo_caso": "Los «niños rana» de Daegu",
+          "protagonista": "Cinco niños de Daegu (víctimas); autor desconocido",
+          "fecha": "1991-03-26",
+          "tipo_efemeride": "desaparicion",
+          "pais": "Corea del Sur",
+          "region": "asia",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1990-1999",
+          "resumen": "Cinco niños de entre 9 y 13 años salieron el 26 de marzo de 1991 a buscar huevos de salamandra en el monte Waryong (Daegu) y nunca volvieron. Sus restos aparecieron en el mismo monte el 26 de septiembre de 2002; los forenses concluyeron que los habían matado. El caso sigue sin resolver.",
+          "por_que": "La desaparición que conmovió a Corea del Sur y llevó a debatir la prescripción de los asesinatos.",
+          "fuentes_fecha": [
+            "https://www.koreajoongangdaily.com/korea/frog-boys-case-five-students-vanished-in-1991-found-dead-years-later-still-no-answers/11926967",
+            "https://en.wikipedia.org/wiki/Frog_Boys"
+          ],
+          "riesgos": "Víctimas menores: no dar sus nombres (el caso se conoce como «los niños rana»). Sin resolver, y hay quien sostiene que murieron de hipotermia. La policía lo reabrió en 2019."
+        },
+        {
+          "titulo_caso": "La detención de Guy Georges, «el asesino del este de París»",
+          "protagonista": "Guy Georges",
+          "fecha": "1998-03-26",
+          "tipo_efemeride": "detencion",
+          "pais": "Francia",
+          "region": "europa",
+          "tipo_caso": "asesino_en_serie",
+          "epoca": "1990-1999",
+          "resumen": "Guy Georges, autor de violaciones y asesinatos de mujeres jóvenes en París entre 1991 y 1997, fue detenido el 26 de marzo de 1998 cerca del metro Blanche gracias a una coincidencia de ADN. Fue condenado a cadena perpetua en 2001; el caso impulsó el fichero nacional de ADN en Francia.",
+          "por_que": "El caso que obligó a Francia a crear su base de datos genética.",
+          "fuentes_fecha": [
+            "https://www.pariszigzag.fr/insolite/histoire-insolite-paris/guy-georges-effroyable-tueur-de-lest-parisien/",
+            "https://en.wikipedia.org/wiki/Guy_Georges"
+          ],
+          "riesgos": "Víctimas de violación y asesinato: sin detalles. Las cifras de víctimas varían según la fuente."
+        }
+      ]
+    },
+    {
+      "dia": 27,
+      "candidatos": [
+        {
+          "titulo_caso": "El asesinato de Maurizio Gucci",
+          "protagonista": "Patrizia Reggiani (inductora) y Benedetto Ceraulo (sicario)",
+          "fecha": "1995-03-27",
+          "tipo_efemeride": "crimen",
+          "pais": "Italia",
+          "region": "europa",
+          "tipo_caso": "asesinato",
+          "epoca": "1990-1999",
+          "resumen": "Maurizio Gucci, heredero de la casa de moda, fue asesinado a tiros en el portal de su oficina de la vía Palestro de Milán la mañana del 27 de marzo de 1995. En 1998 su exmujer, Patrizia Reggiani, fue condenada como inductora junto al sicario, el conductor, un intermediario y la vidente Pina Auriemma.",
+          "por_que": "El crimen de «la viuda negra» de la moda italiana, que acabó en el cine.",
+          "fuentes_fecha": [
+            "https://www.ilpost.it/2015/03/27/maurizio-gucci/",
+            "https://www.affaritaliani.it/milano/delitto-gucci-la-fine-di-un-noir-che-infiammo-la-milano-bene-464915.html"
+          ],
+          "riesgos": "Las fuentes difieren en el número de disparos. Hay litigios recientes sobre la herencia, ajenos al crimen."
+        },
+        {
+          "titulo_caso": "El coche bomba de Russell Street",
+          "protagonista": "Craig Minogue y Stanley Taylor",
+          "fecha": "1986-03-27",
+          "tipo_efemeride": "crimen",
+          "pais": "Australia",
+          "region": "oceania",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "El 27 de marzo de 1986 estalló un coche bomba frente a la jefatura de policía de Russell Street, en Melbourne: murió la agente Angela Taylor y más de veinte personas resultaron heridas. Craig Minogue y Stanley Taylor fueron condenados a cadena perpetua; otros dos acusados fueron absueltos.",
+          "por_que": "La venganza de unos delincuentes contra la policía que causó la primera muerte de una agente en acto de servicio en Australia.",
+          "fuentes_fecha": [
+            "https://ergo.slv.vic.gov.au/explore-history/rebels-outlaws/city-criminals/russell-street-bombing",
+            "https://www.emelbourne.net.au/biogs/EM01290b.htm",
+            "https://en.wikipedia.org/wiki/Russell_Street_bombing"
+          ],
+          "riesgos": "Minogue fue juzgado después por otros delitos (violaciones de 1985-86): comprobar que no hay procesos abiertos vinculados. «Primera agente muerta» es un dato a confirmar en la ficha."
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "candidatos": [
+        {
+          "titulo_caso": "El incendio del avión «City of Liverpool»",
+          "protagonista": "Albert Voss (sospechoso, nunca probado)",
+          "fecha": "1933-03-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Bélgica / Reino Unido",
+          "region": "europa",
+          "tipo_caso": "sin_resolver",
+          "epoca": "1930-1939",
+          "resumen": "El 28 de marzo de 1933 un avión Argosy de Imperial Airways que volaba de Bruselas a Londres se incendió en vuelo y se estrelló cerca de Diksmuide (Bélgica): murieron sus quince ocupantes. Se sospechó de un pasajero, el dentista Albert Voss, visto saltando del avión, pero la investigación judicial dejó un veredicto abierto.",
+          "por_que": "Considerado el primer avión comercial derribado por un sabotaje, y un misterio nunca aclarado.",
+          "fuentes_fecha": [
+            "https://fly.historicwings.com/?p=7054",
+            "https://www.planecrashinfo.com/1933/1933-8.htm",
+            "https://en.wikipedia.org/wiki/1933_Imperial_Airways_Diksmuide_crash"
+          ],
+          "riesgos": "Nunca se probó el sabotaje ni la culpa de Voss: veredicto abierto. No llamarlo autor. Las acusaciones de su hermano (contrabando) no están verificadas."
+        },
+        {
+          "titulo_caso": "La muerte del estudiante Edson Luís",
+          "protagonista": "Policía Militar de Río de Janeiro (víctima: Edson Luís de Lima Souto)",
+          "fecha": "1968-03-28",
+          "tipo_efemeride": "crimen",
+          "pais": "Brasil",
+          "region": "hispanoamerica",
+          "tipo_caso": "historico",
+          "epoca": "1960-1969",
+          "resumen": "El estudiante Edson Luís de Lima Souto murió de un disparo a quemarropa el 28 de marzo de 1968, cuando la Policía Militar irrumpió en una protesta estudiantil en el restaurante Calabouço, en el centro de Río de Janeiro. Su entierro se convirtió en la primera gran protesta contra la dictadura militar. El crimen quedó impune.",
+          "por_que": "El primer estudiante muerto por la dictadura brasileña, cuya muerte desencadenó las protestas de 1968.",
+          "fuentes_fecha": [
+            "https://www.brasildefato.com.br/2018/03/28/um-crime-da-ditadura-que-ficou-impune-e-deve-ser-sempre-lembrado/",
+            "https://vermelho.org.br/2018/03/28/10-fatos-sobre-a-morte-de-edson-luis/",
+            "https://www.jornalopcao.com.br/colunas-e-blogs/periscopio/o-estudante-edson-luis-foi-morto-na-ditadura-civil-militar-ha-55-anos-ele-tinha-18-anos-477637/"
+          ],
+          "riesgos": "Brasil no es hispanohablante: valorar si cuenta para la cuota de Hispanoamérica. Las fuentes discrepan sobre su edad (16 a 18 años; la mayoría dice 18), y si era menor hay que tratarlo con cuidado. Carga política. Se señala a un oficial concreto que nunca fue juzgado: no nombrarlo como culpable."
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "candidatos": [
+        {
+          "titulo_caso": "Operación Malaya: la caída de la trama de Marbella",
+          "protagonista": "Juan Antonio Roca y la alcaldesa Marisol Yagüe, entre otros",
+          "fecha": "2006-03-29",
+          "tipo_efemeride": "detencion",
+          "pais": "España",
+          "region": "espana",
+          "tipo_caso": "estafa",
+          "epoca": "2000-2009",
+          "resumen": "El 29 de marzo de 2006 la policía detuvo en Marbella al asesor de urbanismo Juan Antonio Roca, a la alcaldesa Marisol Yagüe y a otras personas en la primera fase de la Operación Malaya, la mayor trama de corrupción urbanística de España. En 2013 la Audiencia de Málaga condenó a la mayoría de los acusados; Roca recibió la pena más alta.",
+          "por_que": "Un ayuntamiento descabezado de golpe: el gran caso de corrupción de la burbuja inmobiliaria.",
+          "fuentes_fecha": [
+            "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juez-del-caso-malaya-fija-una-fianza-de-un-millon-de-euros-para-roca-2008-03-28/",
+            "https://cooperativa.cl/noticias/mundo/espana/policia-espanola-detuvo-a-alcaldesa-de-marbella-en-operativa-contra-la/2006-03-29/064616.html",
+            "https://www.periodicodeibiza.es/noticias/nacional/2010/09/27/21255/el-principio-y-fin-de-la-operacion-malaya.html"
+          ],
+          "riesgos": "Caso de corrupción, sin violencia; encaja como «estafa» en sentido amplio. Hubo muchos absueltos: nombrar solo a condenados. Comprobar que no quedan piezas separadas abiertas."
+        },
+        {
+          "titulo_caso": "La condena de los Rosenberg",
+          "protagonista": "Julius y Ethel Rosenberg",
+          "fecha": "1951-03-29",
+          "tipo_efemeride": "condena",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "error_judicial",
+          "epoca": "1950-1959",
+          "resumen": "El 29 de marzo de 1951 un jurado federal de Manhattan declaró culpables de conspiración para cometer espionaje atómico a favor de la URSS a Julius y Ethel Rosenberg. Fueron condenados a muerte y ejecutados en la silla eléctrica el 19 de junio de 1953. La culpa de Julius la confirmaron documentos soviéticos, pero la de Ethel sigue muy discutida.",
+          "por_que": "El juicio más polémico de la Guerra Fría y una ejecución, la de Ethel, que muchos consideran un error judicial.",
+          "fuentes_fecha": [
+            "https://www.history.com/this-day-in-history/march-29/rosenbergs-convicted-of-espionage",
+            "https://www.encyclopedia.com/law/law-magazines/trial-julius-and-ethel-rosenberg-and-morton-sobell-1951",
+            "https://ahf.nuclearmuseum.org/ahf/history/rosenberg-trial/"
+          ],
+          "riesgos": "Espionaje, no un crimen violento. «Error judicial» solo vale para Ethel y es una opinión extendida, no un fallo: valorar «historico». Sus hijos siguen pidiendo la exoneración de Ethel."
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "candidatos": [
+        {
+          "titulo_caso": "El atentado contra Ronald Reagan",
+          "protagonista": "John Hinckley Jr. (no culpable por enajenación mental)",
+          "fecha": "1981-03-30",
+          "tipo_efemeride": "crimen",
+          "pais": "Estados Unidos",
+          "region": "eeuu_canada",
+          "tipo_caso": "magnicidio",
+          "epoca": "1980-1989",
+          "resumen": "El 30 de marzo de 1981 John Hinckley disparó contra el presidente Ronald Reagan a la salida del hotel Hilton de Washington e hirió a tres personas más, entre ellas el portavoz James Brady. Quería impresionar a la actriz Jodie Foster. En 1982 el jurado lo declaró no culpable por enajenación mental, lo que llevó a endurecer esa defensa en EE. UU.",
+          "por_que": "Un presidente a punto de morir y un veredicto de locura que cambió la ley.",
+          "fuentes_fecha": [
+            "https://www.cbsnews.com/news/on-this-day-march-30-1981-president-ronald-reagan-shot-by-john-hinckley/",
+            "https://history.co.uk/this-day-in-history/30-march/president-reagan-shot"
+          ],
+          "riesgos": "Hinckley fue absuelto por enajenación: no llamarlo asesino. Está en libertad incondicional desde 2022 y es una persona viva. James Brady murió en 2014 y su muerte se calificó de homicidio, pero no se presentaron cargos."
+        },
+        {
+          "titulo_caso": "El caso Degollados",
+          "protagonista": "Agentes de la DICOMCAR de Carabineros (víctimas: José Manuel Parada, Manuel Guerrero y Santiago Nattino)",
+          "fecha": "1985-03-30",
+          "tipo_efemeride": "hallazgo",
+          "pais": "Chile",
+          "region": "hispanoamerica",
+          "tipo_caso": "asesinato",
+          "epoca": "1980-1989",
+          "resumen": "Los cuerpos degollados de tres profesionales comunistas, secuestrados el 28 y el 29 de marzo de 1985 en Santiago, aparecieron el 30 de marzo en un camino cerca de Quilicura. Los autores eran agentes de la Dirección de Comunicaciones de Carabineros; el crimen obligó a dimitir al general César Mendoza de la Junta Militar. En 1994 varios carabineros fueron condenados a cadena perpetua.",
+          "por_que": "El crimen que sacó a un miembro de la Junta de Pinochet y simbolizó la impunidad de la dictadura.",
+          "fuentes_fecha": [
+            "https://www.infobae.com/en/2022/03/30/degollados-case-37-years-after-the-triple-crime-that-shocked-chile-in-the-pinochet-dictatorship",
+            "https://www.chilevision.cl/noticias/nacional/caso-degollados-hijos-de-guerrero-parada-y-nattino-recuerdan-a-sus-padres-a-37-anos-del-crimen/amp/",
+            "https://en.wikipedia.org/wiki/Caso_Degollados"
+          ],
+          "riesgos": "Crimen político de la dictadura; no dar detalles de la tortura. Hay polémicas recientes sobre libertades condicionales y permisos de los condenados (sin procesos penales nuevos conocidos). El año de la sentencia (1994) hay que confirmarlo en la ficha."
+        }
+      ]
+    }
+  ]
+}

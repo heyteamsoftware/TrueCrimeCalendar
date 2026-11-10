@@ -1,0 +1,1192 @@
+{
+  "mes": 10,
+  "dias": [
+    { "dia": 1, "candidatos": [
+      {
+        "titulo_caso": "Nace Bonnie Parker, la mitad de «Bonnie y Clyde»",
+        "protagonista": "Bonnie Parker",
+        "fecha": "1910-10-01",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "golpe",
+        "epoca": "1910-1919",
+        "resumen": "Bonnie Parker nació el 1 de octubre de 1910 en Rowena (Texas). Junto a Clyde Barrow y su banda protagonizó en plena Gran Depresión una cadena de atracos y tiroteos con policías muertos, hasta que ambos murieron en una emboscada policial en Luisiana el 23 de mayo de 1934.",
+        "por_que": "La pareja criminal más mitificada de Estados Unidos: permite contar la distancia entre la leyenda romántica y la violencia real.",
+        "fuentes_fecha": [
+          "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/parker-bonnie-1910-1934",
+          "https://www.biography.com/crime/bonnie-parker"
+        ],
+        "riesgos": "Si se elige, conviene no repetirla con la fecha de la emboscada (23 de mayo) en otro mes. Nunca fue juzgada: murió antes."
+      },
+      {
+        "titulo_caso": "«Chepe» Santacruz, el tercer hombre del cartel de Cali",
+        "protagonista": "José Santacruz Londoño",
+        "fecha": "1943-10-01",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Colombia",
+        "region": "hispanoamerica",
+        "tipo_caso": "otro",
+        "epoca": "1940-1949",
+        "resumen": "José Santacruz Londoño, «Chepe», nació en Cali el 1 de octubre de 1943 y fue uno de los jefes del cartel de Cali junto a los hermanos Rodríguez Orejuela. Detenido en 1995, se fugó de la cárcel bogotana de La Picota en enero de 1996 y murió abatido en Medellín el 5 de marzo de ese año.",
+        "por_que": "El cartel de Cali, el «otro» cartel colombiano, a través de su jefe más escurridizo y de una fuga carcelaria de película.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Jos%C3%A9_Santacruz_Londo%C3%B1o",
+          "http://www.eltiempo.com/archivo/documento/MAM-359345"
+        ],
+        "riesgos": "Narcotráfico: hay que evitar el tono de glorificación. En 1987 fue absuelto en un juicio en Cali muy cuestionado (lo cuenta El Tiempo)."
+      },
+      {
+        "titulo_caso": "La sentencia de Núremberg",
+        "protagonista": "Tribunal Militar Internacional de Núremberg (Göring, Ribbentrop y otros jerarcas nazis)",
+        "fecha": "1946-10-01",
+        "tipo_efemeride": "condena",
+        "pais": "Alemania",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1940-1949",
+        "resumen": "Entre el 20 de noviembre de 1945 y el 1 de octubre de 1946 el Tribunal Militar Internacional juzgó en Núremberg a 22 dirigentes de la Alemania nazi. El 1 de octubre se leyeron las sentencias: doce condenas a muerte, varias penas de prisión y tres absoluciones.",
+        "por_que": "El juicio penal más famoso del siglo XX, que fundó la justicia internacional por crímenes contra la humanidad.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Nuremberg_trials",
+          "https://avalon.law.yale.edu/subject_menus/imt.asp"
+        ],
+        "riesgos": "No es un caso criminal al uso (crímenes de guerra y genocidio): exige un tono muy sobrio. Relleno europeo para un día sin caso español o hispanoamericano claro."
+      }
+    ] },
+    { "dia": 2, "candidatos": [
+      {
+        "titulo_caso": "El crimen del baúl de Montecarlo",
+        "protagonista": "Vere St. Leger Goold",
+        "fecha": "1853-10-02",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Irlanda / Mónaco / Francia",
+        "region": "europa",
+        "tipo_caso": "asesinato",
+        "epoca": "1850-1859",
+        "resumen": "Vere St. Leger Goold, nacido en Irlanda el 2 de octubre de 1853, fue finalista en Wimbledon en 1879. Arruinado, en agosto de 1907 él y su esposa, Marie, asesinaron en Montecarlo a la viuda Emma Levin y llevaron su cuerpo descuartizado en un baúl hasta la estación de Marsella, donde fueron descubiertos. Condenado en Mónaco, murió en la colonia penal de la Guayana francesa en 1909.",
+        "por_que": "De la pista central de Wimbledon a un baúl ensangrentado: el deportista de élite convertido en asesino.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Vere_St._Leger_Goold",
+          "https://www.independent.ie/regionals/herald/a-gloriously-gruesome-tale/28011562.html"
+        ],
+        "riesgos": "La fecha de nacimiento procede de Wikipedia, que la apoya en el artículo del Herald/Independent.ie (no se ha podido abrir completo). Comprobar en la ficha; la parte del crimen (agosto de 1907) está en el NYT de la época."
+      },
+      {
+        "titulo_caso": "Los crímenes del gallinero de Wineville",
+        "protagonista": "Gordon Stewart Northcott",
+        "fecha": "1930-10-02",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesino_en_serie",
+        "epoca": "1930-1939",
+        "resumen": "Gordon Stewart Northcott secuestró, abusó y asesinó a varios niños en su granja avícola de Wineville (California) entre 1926 y 1928. Condenado por tres asesinatos, fue ahorcado en la prisión de San Quintín el 2 de octubre de 1930. El caso incluye la historia de Christine Collins, a quien la policía de Los Ángeles entregó un niño que no era su hijo desaparecido.",
+        "por_que": "El caso real detrás de «El intercambio» (Changeling): un asesino y una policía que intentó tapar su propio error.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Wineville_Chicken_Coop_murders",
+          "https://cdnc.ucr.edu/?a=d&d=HT19301002.2.4&e=-------en--20--1--txt-txIN--------1"
+        ],
+        "riesgos": "Víctimas menores (caso de hace casi un siglo; nombres públicos como Walter Collins): sin detalles. La efeméride es la ejecución (se usa «condena»). Asesino en serie."
+      },
+      {
+        "titulo_caso": "El monstruo de Terrazzo",
+        "protagonista": "Gianfranco Stevanin",
+        "fecha": "1960-10-02",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Italia",
+        "region": "europa",
+        "tipo_caso": "asesino_en_serie",
+        "epoca": "1960-1969",
+        "resumen": "Gianfranco Stevanin nació en Montagnana (Padua) el 2 de octubre de 1960. Detenido en noviembre de 1994 tras denunciarle una mujer, en su casa de Terrazzo (Verona) se hallaron pruebas que lo relacionaron con la muerte de varias mujeres. Tras un largo proceso, fue condenado a cadena perpetua, sentencia confirmada en 2002.",
+        "por_que": "El asesino en serie más mediático de la Italia de los noventa y un proceso lleno de giros sobre su imputabilidad.",
+        "fuentes_fecha": [
+          "https://it.wikipedia.org/wiki/Gianfranco_Stevanin",
+          "https://ricerca.repubblica.it/repubblica/archivio/repubblica/1994/11/21/tracce-di-due-scomparse-nella-casa-degli.html"
+        ],
+        "riesgos": "La fecha de nacimiento solo se ha confirmado en Wikipedia (italiana y española); el artículo de La Repubblica es sobre la detención. Asesino en serie, víctimas mujeres: tono sobrio. Día sin caso español o hispanoamericano."
+      }
+    ] },
+    { "dia": 3, "candidatos": [
+      {
+        "titulo_caso": "El veredicto de O. J. Simpson",
+        "protagonista": "O. J. Simpson",
+        "fecha": "1995-10-03",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1990-1999",
+        "resumen": "El 3 de octubre de 1995 un jurado de Los Ángeles declaró a O. J. Simpson no culpable de los asesinatos de su exmujer Nicole Brown Simpson y de Ron Goldman, cometidos el 12 de junio de 1994. En 1997 un jurado civil lo declaró responsable de esas muertes y lo condenó a indemnizar a las familias.",
+        "por_que": "El «juicio del siglo»: la absolución más vista y discutida de la historia, con la raza, la policía y la televisión en el centro.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/O._J._Simpson_murder_case",
+          "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/3/newsid_2486000/2486673.stm"
+        ],
+        "riesgos": "La efeméride es un veredicto absolutorio (se usa «condena» por ser la decisión judicial). En lo penal fue absuelto: no se le puede llamar asesino; la responsabilidad civil de 1997 sí puede contarse."
+      },
+      {
+        "titulo_caso": "Thompson y Bywaters: el crimen de Ilford",
+        "protagonista": "Edith Thompson y Frederick Bywaters",
+        "fecha": "1922-10-03",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1920-1929",
+        "resumen": "La noche del 3 de octubre de 1922, Frederick Bywaters, de 20 años, mató a puñaladas a Percy Thompson en Ilford (Londres) cuando volvía del teatro con su mujer, Edith, amante de Bywaters. Ambos fueron ahorcados en enero de 1923; la condena de Edith se basó sobre todo en sus cartas y hoy se considera uno de los grandes errores de la justicia británica.",
+        "por_que": "Una mujer ahorcada por sus cartas de amor: el caso que alimentó el debate contra la pena de muerte en el Reino Unido.",
+        "fuentes_fecha": [
+          "https://www.bbc.co.uk/news/uk-england-london-64175900",
+          "https://www.independent.co.uk/news/uk/home-news/edith-thompson-death-penalty-capital-punishment-hanging-miscarriage-justice-buried-mother-murder-a8647636.html"
+        ],
+        "riesgos": "Ocurrió hacia la medianoche del 3 al 4; las fuentes dan el 3 de octubre. Bywaters fue el autor material; la culpabilidad de Edith está muy discutida (en 2023 se reabrió el estudio de un indulto)."
+      },
+      {
+        "titulo_caso": "La matanza de Huitzilac",
+        "protagonista": "General Francisco R. Serrano y sus acompañantes",
+        "fecha": "1927-10-03",
+        "tipo_efemeride": "crimen",
+        "pais": "México",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1920-1929",
+        "resumen": "El general Francisco R. Serrano, candidato presidencial antirreeleccionista y rival de Álvaro Obregón, fue detenido en Cuernavaca con trece acompañantes y asesinado con ellos, sin juicio, en Huitzilac (Morelos) el 3 de octubre de 1927. Nadie fue juzgado por la matanza.",
+        "por_que": "Un candidato presidencial ejecutado en una carretera: el crimen político que inspiró «La sombra del caudillo» de Martín Luis Guzmán.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Francisco_R._Serrano",
+          "https://www.memoriapoliticademexico.org/Efemerides/10/03101927.html"
+        ],
+        "riesgos": "Crimen de Estado: no hubo juicio ni condena; la autoría intelectual (Obregón, Calles) es atribución histórica, no judicial."
+      }
+    ] },
+    { "dia": 4, "candidatos": [
+      {
+        "titulo_caso": "La masacre de la Orden del Templo Solar",
+        "protagonista": "Orden del Templo Solar (Joseph Di Mambro y Luc Jouret)",
+        "fecha": "1994-10-04",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Suiza / Canadá",
+        "region": "europa",
+        "tipo_caso": "secta",
+        "epoca": "1990-1999",
+        "resumen": "El 4 de octubre de 1994 se hallaron cadáveres en un chalé incendiado de Morin Heights (Quebec), y en las horas siguientes en las casas de la secta en Cheiry y Salvan (Suiza): 53 miembros de la Orden del Templo Solar murieron asesinados o en suicidios colectivos, entre ellos sus líderes, Di Mambro y Jouret. Hubo más muertes en 1995 y 1997.",
+        "por_que": "La secta apocalíptica que mezcló esoterismo, dinero y muerte en Suiza, Canadá y Francia.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Order_of_the_Solar_Temple",
+          "https://www.britannica.com/topic/Order-of-the-Solar-Temple"
+        ],
+        "riesgos": "Los hechos ocurren entre el 4 y el 5 de octubre (Britannica: «4-5 de octubre»); el 4 es el hallazgo de Morin Heights. Hubo niños entre las víctimas. El director Michel Tabachnik fue juzgado y absuelto en Francia: no presentarlo como culpable."
+      },
+      {
+        "titulo_caso": "El robo de Loomis Fargo en Charlotte",
+        "protagonista": "David Ghantt y sus cómplices",
+        "fecha": "1997-10-04",
+        "tipo_efemeride": "golpe",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "golpe",
+        "epoca": "1990-1999",
+        "resumen": "La tarde del 4 de octubre de 1997 David Ghantt, supervisor de cámara de la empresa de furgones blindados Loomis Fargo en Charlotte (Carolina del Norte), cargó en una furgoneta unos 17,3 millones de dólares en efectivo. Huyó a México mientras sus cómplices derrochaban el dinero; el FBI los detuvo a todos en 1998 y recuperó la mayor parte del botín.",
+        "por_que": "Uno de los mayores robos en efectivo de la historia de EE. UU., y uno de los más torpes (inspiró la comedia «Masterminds»).",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/October_1997_Loomis_Fargo_robbery",
+          "https://www.nytimes.com/1998/09/12/us/national-news-briefs-defendant-pleads-guilty-in-17-million-robbery.html"
+        ],
+        "riesgos": "La segunda fuente (NYT) se toma de las referencias de Wikipedia y no se ha podido abrir; la prensa local (WSOC, Axios) confirma el golpe en 1997. Sin víctimas."
+      },
+      {
+        "titulo_caso": "El asesinato de Willie Moretti",
+        "protagonista": "Willie Moretti (víctima)",
+        "fecha": "1951-10-04",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1950-1959",
+        "resumen": "Willie Moretti, lugarteniente de la familia mafiosa Luciano-Genovese y padrino de los primeros años de Frank Sinatra, fue asesinado a tiros en un restaurante de Cliffside Park (Nueva Jersey) el 4 de octubre de 1951, poco después de declarar ante el comité Kefauver. Nadie fue condenado por el crimen.",
+        "por_que": "Un asesinato de la Mafia por «hablar demasiado»: la cara oculta de la Cosa Nostra de los cincuenta.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Willie_Moretti",
+          "https://www.nytimes.com/1951/10/06/archives/moretti-slayers-are-sought-here-towe-says-killing-of-gambler-and.html"
+        ],
+        "riesgos": "Sin condena: los móviles (su deterioro mental, sus declaraciones) son hipótesis de cronistas. Segunda fuente tomada de las referencias de Wikipedia. Día sin caso español o hispanoamericano (la masacre de Cantaura, Venezuela, 4-10-1982, solo tiene Wikipedia)."
+      }
+    ] },
+    { "dia": 6, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Anwar el-Sadat",
+        "protagonista": "Jálid el-Islambuli y su comando",
+        "fecha": "1981-10-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Egipto",
+        "region": "oriente_medio",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "El 6 de octubre de 1981, durante el desfile militar de El Cairo que conmemoraba la guerra de 1973, un grupo de soldados islamistas disparó contra la tribuna presidencial y mató al presidente Anwar el-Sadat y a otras personas. Los autores fueron juzgados y cinco de ellos ejecutados en abril de 1982.",
+        "por_que": "El presidente que firmó la paz con Israel, asesinado en directo en mitad de su propio desfile.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat",
+          "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/6/newsid_2515000/2515841.stm"
+        ],
+        "riesgos": "Terrorismo islamista: tratar con sobriedad. Región: Egipto puede contarse como África u Oriente Medio."
+      },
+      {
+        "titulo_caso": "El crimen de Barbados (vuelo 455 de Cubana)",
+        "protagonista": "Luis Posada Carriles y Orlando Bosch (acusados)",
+        "fecha": "1976-10-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Barbados / Cuba / Venezuela",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "El 6 de octubre de 1976 dos bombas destruyeron el DC-8 del vuelo 455 de Cubana de Aviación poco después de despegar de Barbados; murieron sus 73 ocupantes. Dos venezolanos fueron condenados como autores materiales; los exiliados cubanos Orlando Bosch y Luis Posada Carriles, señalados como organizadores, nunca recibieron una condena firme por el atentado.",
+        "por_que": "El peor atentado aéreo de América antes del 11-S, con un sospechoso que vivió libre en Estados Unidos hasta su muerte.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Vuelo_455_de_Cubana_de_Aviaci%C3%B3n",
+          "http://www.guardian.co.uk/world/1976/oct/08/cuba.fromthearchive"
+        ],
+        "riesgos": "Terrorismo y caso muy politizado. Posada Carriles y Bosch no fueron condenados por este atentado: hablar de «acusados». Comprobar en la ficha las condenas de los dos venezolanos."
+      },
+      {
+        "titulo_caso": "El atentado contra Bernardo Leighton en Roma",
+        "protagonista": "Bernardo Leighton y Anita Fresno (víctimas); DINA y neofascistas italianos",
+        "fecha": "1975-10-06",
+        "tipo_efemeride": "crimen",
+        "pais": "Italia / Chile",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1970-1979",
+        "resumen": "El 6 de octubre de 1975 el exvicepresidente chileno Bernardo Leighton, exiliado democristiano, y su mujer, Anita Fresno, fueron tiroteados en una calle de Roma por neofascistas italianos al servicio de la DINA de Pinochet. Sobrevivieron con graves secuelas; años después la justicia italiana condenó a responsables de la DINA.",
+        "por_que": "La Operación Cóndor llega a Europa: un intento de asesinato político con conexión chilena, italiana y estadounidense.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Bernardo_Leighton",
+          "http://www.elpais.com/articulo/agenda/CHILE/Bernardo/Leighton/politico/chileno/elpepigen/19950127elpepiage_4/Tes/"
+        ],
+        "riesgos": "Intento de asesinato (no murió nadie). Comprobar en la ficha qué condenas exactas dictó la justicia italiana (Contreras, Townley…). El País confirma el año y el lugar; el día exacto procede de Wikipedia y de la hemeroteca de La Vanguardia (10-10-1975)."
+      }
+    ] },
+    { "dia": 7, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Anna Politkóvskaya",
+        "protagonista": "Anna Politkóvskaya (víctima)",
+        "fecha": "2006-10-07",
+        "tipo_efemeride": "crimen",
+        "pais": "Rusia",
+        "region": "europa",
+        "tipo_caso": "asesinato",
+        "epoca": "2000-2009",
+        "resumen": "La periodista de Nóvaya Gazeta Anna Politkóvskaya, conocida por sus reportajes sobre Chechenia, fue asesinada a tiros en el ascensor de su casa de Moscú el 7 de octubre de 2006. En 2014 cinco hombres fueron condenados como autores; quién encargó el crimen nunca se ha establecido judicialmente.",
+        "por_que": "El asesinato de periodistas en la Rusia de Putin a través de su caso más emblemático.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Anna_Politkovskaya",
+          "https://www.theguardian.com/news/2006/oct/09/guardianobituaries.russia"
+        ],
+        "riesgos": "El inductor nunca fue identificado; comprobar si la investigación rusa sobre el autor intelectual sigue formalmente abierta (en 2021 se habló de prescripción). Caso políticamente sensible."
+      },
+      {
+        "titulo_caso": "El asesinato del senador Belisario Domínguez",
+        "protagonista": "Belisario Domínguez (víctima); régimen de Victoriano Huerta",
+        "fecha": "1913-10-07",
+        "tipo_efemeride": "crimen",
+        "pais": "México",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El senador chiapaneco Belisario Domínguez, que había difundido discursos acusando a Victoriano Huerta del asesinato de Madero, fue secuestrado y asesinado en Ciudad de México el 7 de octubre de 1913. Su muerte precipitó la disolución del Congreso por Huerta.",
+        "por_que": "Un médico de pueblo convertido en símbolo de la libertad de palabra: México entrega cada año la medalla que lleva su nombre.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Belisario_Dom%C3%ADnguez",
+          "https://www.memoriapoliticademexico.org/Efemerides/10/07101913.html"
+        ],
+        "riesgos": "Crimen político de Estado sin juicio a los autores intelectuales; contar la autoría como atribución histórica."
+      },
+      {
+        "titulo_caso": "El secuestro del Achille Lauro",
+        "protagonista": "Comando del Frente para la Liberación de Palestina (Abu Abbas)",
+        "fecha": "1985-10-07",
+        "tipo_efemeride": "crimen",
+        "pais": "Italia / Egipto",
+        "region": "europa",
+        "tipo_caso": "secuestro",
+        "epoca": "1980-1989",
+        "resumen": "El 7 de octubre de 1985 cuatro miembros del Frente para la Liberación de Palestina secuestraron el crucero italiano Achille Lauro frente a Egipto y asesinaron al pasajero estadounidense Leon Klinghoffer, que iba en silla de ruedas. La huida de los secuestradores acabó con aviones de EE. UU. obligando a su avión a aterrizar en Sigonella y con un juicio en Italia.",
+        "por_que": "Un secuestro en alta mar que enfrentó a Italia y Estados Unidos en una base militar: crimen, diplomacia y juicio.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Achille_Lauro_hijacking",
+          "https://www.britannica.com/event/Achille-Lauro-hijacking"
+        ],
+        "riesgos": "Terrorismo: tono sobrio. Comprobar en la ficha las condenas italianas (Abu Abbas, condenado en rebeldía)."
+      }
+    ] },
+    { "dia": 9, "candidatos": [
+      {
+        "titulo_caso": "El caso Wanninkhof",
+        "protagonista": "Dolores Vázquez (condenada por error); Tony Alexander King (autor)",
+        "fecha": "1999-10-09",
+        "tipo_efemeride": "crimen",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "error_judicial",
+        "epoca": "1990-1999",
+        "resumen": "Rocío Wanninkhof, de 19 años, fue asesinada la noche del 9 de octubre de 1999 cerca de Mijas (Málaga). Un jurado popular condenó en 2001 a Dolores Vázquez, expareja de la madre de la víctima, con solo indicios; la sentencia se anuló y en 2003 el ADN del crimen de Sonia Carabantes llevó a Tony Alexander King, condenado por ambos asesinatos.",
+        "por_que": "El gran error judicial de la España reciente: un juicio mediático y una mujer encarcelada por un crimen que no cometió.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Caso_Wanninkhof",
+          "https://www.rtve.es/rtve/20080618/21-indicios-y-ninguna-prueba-concluyente-el-juicio-contra-dolores-vazquez/93150.shtml"
+        ],
+        "riesgos": "Muy relacionado con Tony King, que YA está en el archivo (14/3): enlazar como vínculo o descartar para no repetir. Dolores Vázquez vive y fue absuelta: tratarla siempre como víctima del error."
+      },
+      {
+        "titulo_caso": "El magnicidio de Marsella",
+        "protagonista": "Vlado Chernozemski (autor); rey Alejandro I de Yugoslavia (víctima)",
+        "fecha": "1934-10-09",
+        "tipo_efemeride": "crimen",
+        "pais": "Francia / Yugoslavia",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1930-1939",
+        "resumen": "El 9 de octubre de 1934, recién desembarcado en Marsella para una visita de Estado, el rey Alejandro I de Yugoslavia fue asesinado a tiros en su coche por Vlado Chernozemski, pistolero macedonio vinculado a la ORIM y a los ustachas croatas. También murió el ministro francés de Exteriores, Louis Barthou; el atentado se filmó y el autor murió linchado en el acto.",
+        "por_que": "Uno de los primeros magnicidios grabados por una cámara de cine.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Alexander_I_of_Yugoslavia",
+          "https://www.dhm.de/lemo/jahreschronik/1934"
+        ],
+        "riesgos": "Atentado político; las imágenes existen pero no deben describirse con detalle."
+      },
+      {
+        "titulo_caso": "El atentado de Rangún",
+        "protagonista": "Agentes norcoreanos (Zin Mo y Kang Min-chul)",
+        "fecha": "1983-10-09",
+        "tipo_efemeride": "crimen",
+        "pais": "Birmania / Corea del Sur / Corea del Norte",
+        "region": "asia",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "El 9 de octubre de 1983 una bomba colocada por agentes norcoreanos estalló en el mausoleo de los Mártires de Rangún, donde iba a rendir homenaje el presidente surcoreano Chun Doo-hwan, que se salvó por llegar tarde. Murieron 21 personas, entre ellas cuatro ministros surcoreanos. Dos de los agentes fueron capturados y juzgados en Birmania.",
+        "por_que": "Un intento de magnicidio de Estado: Corea del Norte intentó matar a un presidente extranjero en un tercer país.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Rangoon_bombing",
+          "https://www.nytimes.com/1983/10/10/world/bomb-kills-19-including-6-key-koreans.html"
+        ],
+        "riesgos": "Terrorismo de Estado; la cifra de muertos varía según la fecha de la fuente (19 en el primer recuento del NYT, 21 después). Segunda fuente tomada de las referencias de Wikipedia."
+      }
+    ] },
+    { "dia": 10, "candidatos": [
+      {
+        "titulo_caso": "La captura de Charles Peace, el ladrón del violín",
+        "protagonista": "Charles Peace",
+        "fecha": "1878-10-10",
+        "tipo_efemeride": "detencion",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1870-1879",
+        "resumen": "Hacia las dos de la madrugada del 10 de octubre de 1878 un policía sorprendió a un ladrón en una casa de Blackheath (Londres); tras disparar contra él, fue reducido. Bajo el nombre de «John Ward» resultó ser Charles Peace, buscado por el asesinato de Arthur Dyson en Sheffield (1876), por el que fue ahorcado en 1879.",
+        "por_que": "El ladrón victoriano de mil disfraces, violinista y asesino, convertido en leyenda popular durante décadas.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Charles_Peace",
+          "https://web.archive.org/web/20191101234658/http://www.historybytheyard.co.uk/charlie_peace.htm"
+        ],
+        "riesgos": ""
+      },
+      {
+        "titulo_caso": "El secuestro de Pierre Laporte (crisis de octubre)",
+        "protagonista": "Célula Chénier del FLQ (Paul Rose y otros)",
+        "fecha": "1970-10-10",
+        "tipo_efemeride": "crimen",
+        "pais": "Canadá",
+        "region": "eeuu_canada",
+        "tipo_caso": "secuestro",
+        "epoca": "1970-1979",
+        "resumen": "El 10 de octubre de 1970 miembros del Frente de Liberación de Quebec secuestraron frente a su casa de Montreal al ministro de Trabajo quebequés Pierre Laporte. Su cadáver apareció en el maletero de un coche una semana después; Paul Rose y Francis Simard fueron condenados por su muerte.",
+        "por_que": "El único secuestro político que acabó en asesinato en la historia de Canadá, y la única vez que se aplicó la ley de medidas de guerra en tiempo de paz.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Pierre_Laporte",
+          "https://news.bbc.co.uk/onthisday/hi/dates/stories/october/10/newsid_2531000/2531261.stm"
+        ],
+        "riesgos": "Terrorismo político; las circunstancias exactas de la muerte siguen discutidas."
+      },
+      {
+        "titulo_caso": "La bomba del vuelo 23 de United Air Lines",
+        "protagonista": "Autor desconocido",
+        "fecha": "1933-10-10",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1930-1939",
+        "resumen": "El 10 de octubre de 1933 un Boeing 247 de United Air Lines que cubría el vuelo 23 explotó en el aire cerca de Chesterton (Indiana) y murieron sus siete ocupantes. Los investigadores concluyeron que la causa fue una bomba, probablemente de nitroglicerina; nunca se identificó al autor.",
+        "por_que": "El primer sabotaje probado de un avión comercial de la historia, sin culpable 90 años después.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_23",
+          "https://www.nytimes.com/1933/10/11/archives/seven-die-as-plane-crashes-in-flames-two-women-are-victims-after.html"
+        ],
+        "riesgos": "Sin resolver: no hay sospechoso al que nombrar. Día con dos casos norteamericanos: falta uno español o hispanoamericano."
+      }
+    ] },
+    { "dia": 11, "candidatos": [
+      {
+        "titulo_caso": "El Zodiac: el asesinato del taxista Paul Stine",
+        "protagonista": "Asesino del Zodiaco (no identificado); Paul Stine (víctima)",
+        "fecha": "1969-10-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1960-1969",
+        "resumen": "La noche del 11 de octubre de 1969 el taxista Paul Stine, de 29 años, fue asesinado de un disparo en el barrio de Presidio Heights, en San Francisco. Es el último crimen atribuido con certeza al asesino del Zodiaco, que envió a la prensa un trozo de la camisa de la víctima; nunca ha sido identificado oficialmente.",
+        "por_que": "El último asesinato confirmado del Zodiac, el asesino en serie sin resolver más famoso de Estados Unidos.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Zodiac_Killer",
+          "https://www.britannica.com/biography/Zodiac-killer"
+        ],
+        "riesgos": "El Zodiac podría proponerse también en diciembre (Lake Herman Road, 20-12-1968): elegir solo una fecha. Britannica da «octubre de 1969» sin el día; el día exacto viene de Wikipedia y sus fuentes. Hay sospechosos públicos sin condena: no nombrarlos como culpables."
+      },
+      {
+        "titulo_caso": "La muerte de Uwe Barschel en el hotel Beau-Rivage",
+        "protagonista": "Uwe Barschel (víctima)",
+        "fecha": "1987-10-11",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Suiza / Alemania",
+        "region": "europa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1980-1989",
+        "resumen": "El 11 de octubre de 1987 el ex primer ministro de Schleswig-Holstein Uwe Barschel, que acababa de dimitir por un escándalo de espionaje electoral, apareció muerto, vestido, en la bañera de su habitación del hotel Beau-Rivage de Ginebra. La justicia suiza lo dio por suicidio, pero su familia y parte de la fiscalía alemana sostuvieron que fue asesinado; nunca se aclaró.",
+        "por_que": "El gran misterio político de la Alemania occidental: ¿suicidio o asesinato?",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Uwe_Barschel",
+          "https://www.nytimes.com/1987/10/13/world/family-says-german-was-slain.html"
+        ],
+        "riesgos": "Sin resolver y sin acusados: no atribuir el crimen a nadie (circulan teorías sobre servicios secretos)."
+      },
+      {
+        "titulo_caso": "El asesinato de Jaime Pardo Leal",
+        "protagonista": "Jaime Pardo Leal (víctima); sicarios de Gonzalo Rodríguez Gacha",
+        "fecha": "1987-10-11",
+        "tipo_efemeride": "crimen",
+        "pais": "Colombia",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "El domingo 11 de octubre de 1987 el excandidato presidencial y presidente de la Unión Patriótica, Jaime Pardo Leal, fue asesinado a tiros en una carretera cerca de La Mesa (Cundinamarca). Un sicario al servicio del narcotraficante Gonzalo Rodríguez Gacha, «el Mexicano», fue condenado por el crimen.",
+        "por_que": "El símbolo del exterminio de la Unión Patriótica, uno de los capítulos más oscuros de la Colombia de los ochenta.",
+        "fuentes_fecha": [
+          "https://www.semana.com/nacion/articulo/asi-asesinato-jaime-pardo-leal/266191-3/",
+          "https://www.eltiempo.com/archivo/documento/MAM-685776"
+        ],
+        "riesgos": "Contexto de violencia política con miles de víctimas; la responsabilidad de agentes del Estado en el exterminio de la UP fue declarada en 2022 por la Corte IDH."
+      }
+    ] },
+    { "dia": 12, "candidatos": [
+      {
+        "titulo_caso": "Nace Carlos «el Chacal»",
+        "protagonista": "Ilich Ramírez Sánchez",
+        "fecha": "1949-10-12",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Venezuela / Francia",
+        "region": "hispanoamerica",
+        "tipo_caso": "otro",
+        "epoca": "1940-1949",
+        "resumen": "Ilich Ramírez Sánchez, «Carlos», nació en Caracas el 12 de octubre de 1949. En los años setenta y ochenta protagonizó atentados y secuestros como la toma de rehenes de la OPEP en Viena (1975). Capturado en Sudán en 1994, cumple en Francia varias cadenas perpetuas (1997, 2011 y 2017).",
+        "por_que": "El terrorista más buscado de la Guerra Fría era venezolano: una vida de película (y de miniserie).",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Carlos_the_Jackal",
+          "https://www.theguardian.com/world/2011/dec/15/carlos-jackal-given-life-sentence"
+        ],
+        "riesgos": "Terrorismo: evitar cualquier glorificación. La segunda fuente (Guardian) confirma sus condenas, no la fecha de nacimiento: comprobarla en otra fuente en la ficha. Comprobar que no tiene recursos pendientes."
+      },
+      {
+        "titulo_caso": "La bomba del Grand Hotel de Brighton",
+        "protagonista": "Patrick Magee (IRA)",
+        "fecha": "1984-10-12",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "En la madrugada del 12 de octubre de 1984 estalló en el Grand Hotel de Brighton una bomba del IRA colocada semanas antes para matar a Margaret Thatcher y a su gobierno durante el congreso conservador. Thatcher salió ilesa, pero murieron cinco personas. Patrick Magee fue condenado en 1986 y excarcelado en 1999 por los acuerdos de paz.",
+        "por_que": "El atentado que estuvo a punto de acabar con un gobierno británico entero.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Brighton_hotel_bombing",
+          "http://news.bbc.co.uk/2/hi/uk_news/politics/375092.stm"
+        ],
+        "riesgos": "Terrorismo (intento de magnicidio). La pieza de la BBC trata de la excarcelación de Magee; la fecha exacta procede de Wikipedia y sus fuentes."
+      },
+      {
+        "titulo_caso": "Los asesinatos de Walsh Street",
+        "protagonista": "Steven Tynan y Damian Eyre (víctimas); cuatro acusados absueltos",
+        "fecha": "1988-10-12",
+        "tipo_efemeride": "crimen",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1980-1989",
+        "resumen": "De madrugada, el 12 de octubre de 1988, los agentes Steven Tynan, de 22 años, y Damian Eyre, de 20, fueron asesinados a tiros en una emboscada en Walsh Street (South Yarra, Melbourne) cuando revisaban un coche abandonado, al parecer en venganza por la muerte de un delincuente a manos de la policía. Los cuatro acusados fueron absueltos en 1991 y nadie ha sido condenado.",
+        "por_que": "La guerra entre el hampa y la policía de Melbourne y una absolución que dividió a Australia.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Walsh_Street_police_shootings",
+          "https://www.theage.com.au/national/coming-clean-20051001-ge0z1o.html"
+        ],
+        "riesgos": "Los acusados fueron absueltos: no llamarlos autores. Víctimas policías con familias activas."
+      }
+    ] },
+    { "dia": 13, "candidatos": [
+      {
+        "titulo_caso": "El caso Calas",
+        "protagonista": "Jean Calas",
+        "fecha": "1761-10-13",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1760-1769",
+        "resumen": "La noche del 13 de octubre de 1761 Marc-Antoine Calas apareció muerto en la tienda familiar de Toulouse. Su padre, el comerciante protestante Jean Calas, fue acusado de matarlo para impedir que se hiciera católico, condenado y ejecutado en el suplicio de la rueda en 1762. Voltaire hizo campaña y en 1765 la familia fue rehabilitada.",
+        "por_que": "El error judicial que llevó a Voltaire a escribir el «Tratado sobre la tolerancia».",
+        "fuentes_fecha": [
+          "https://fr.wikipedia.org/wiki/Affaire_Calas",
+          "https://www.britannica.com/biography/Jean-Calas"
+        ],
+        "riesgos": ""
+      },
+      {
+        "titulo_caso": "El fusilamiento de Ferrer i Guàrdia",
+        "protagonista": "Francisco Ferrer Guardia",
+        "fecha": "1909-10-13",
+        "tipo_efemeride": "condena",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "error_judicial",
+        "epoca": "1900-1909",
+        "resumen": "El pedagogo libertario Francesc Ferrer i Guàrdia, fundador de la Escuela Moderna, fue acusado de dirigir la Semana Trágica de Barcelona (julio de 1909). Un consejo de guerra lo condenó a muerte sin pruebas sólidas y fue fusilado en Montjuïc el 13 de octubre de 1909; las protestas en toda Europa contribuyeron a la caída del gobierno de Maura.",
+        "por_que": "Un proceso considerado injusto dentro y fuera de España que convirtió a un maestro en mártir internacional.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Francisco_Ferrer_Guardia",
+          "https://www.eldiario.es/catalunya/ferrer-i-guardia-revolucion-educativa-100-anos-pedagogo-acabo-fusilado_1_6479747.html"
+        ],
+        "riesgos": "La efeméride es la ejecución (se usa «condena»). Caso político: la calificación de «error judicial» es la de la mayoría de historiadores, no una revisión judicial formal."
+      },
+      {
+        "titulo_caso": "El envenenador de Lambeth",
+        "protagonista": "Thomas Neill Cream",
+        "fecha": "1891-10-13",
+        "tipo_efemeride": "crimen",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "envenenamiento",
+        "epoca": "1890-1899",
+        "resumen": "El 13 de octubre de 1891 Ellen Donworth, de 19 años, enfermó tras beber lo que le ofreció un hombre en Lambeth (Londres) y murió poco después: fue la primera víctima londinense del médico escocés-canadiense Thomas Neill Cream, que envenenó con estricnina a varias mujeres. Fue ahorcado en Newgate en noviembre de 1892.",
+        "por_que": "Un médico asesino en el Londres posterior a Jack el Destripador, al que algunos llegaron a confundir con él.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Thomas_Neill_Cream",
+          "https://www.thecanadianencyclopedia.ca/en/article/thomas-neill-cream"
+        ],
+        "riesgos": "La Canadian Encyclopedia confirma los envenenamientos de Londres de 1891, pero no el día; el 13 de octubre procede de Wikipedia. Asesino en serie. Matilda Clover (20-10-1891) es otra víctima del mismo caso: no usarla para el día 20."
+      }
+    ] },
+    { "dia": 14, "candidatos": [
+      {
+        "titulo_caso": "El disparo contra Theodore Roosevelt",
+        "protagonista": "John Schrank",
+        "fecha": "1912-10-14",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 14 de octubre de 1912, en plena campaña electoral, el expresidente Theodore Roosevelt recibió un disparo en el pecho a la salida de un hotel de Milwaukee. El grueso discurso doblado y el estuche de sus gafas frenaron la bala, y Roosevelt dio el mitin con ella dentro. El autor, John Schrank, fue declarado demente e internado de por vida.",
+        "por_que": "El candidato que pronunció un discurso de hora y media con una bala en el pecho.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Attempted_assassination_of_Theodore_Roosevelt",
+          "https://www.smithsonianmag.com/history/the-speech-that-saved-teddy-roosevelts-life-83479091/"
+        ],
+        "riesgos": "Intento de magnicidio sin víctimas mortales; el autor fue declarado no imputable."
+      },
+      {
+        "titulo_caso": "El secuestro del presidente Ståhlberg",
+        "protagonista": "Movimiento de Lapua (general Kurt Wallenius y otros)",
+        "fecha": "1930-10-14",
+        "tipo_efemeride": "crimen",
+        "pais": "Finlandia",
+        "region": "europa",
+        "tipo_caso": "secuestro",
+        "epoca": "1930-1939",
+        "resumen": "Hacia las nueve de la mañana del 14 de octubre de 1930, activistas del movimiento ultraderechista de Lapua secuestraron en Helsinki al primer presidente de Finlandia, Kaarlo Juho Ståhlberg, y a su esposa, Ester, y los llevaron en coche hasta Joensuu, donde los liberaron al día siguiente. Los organizadores, entre ellos el exjefe del Estado Mayor Kurt Wallenius, fueron juzgados.",
+        "por_que": "El día que la extrema derecha secuestró a un expresidente para intentar echarlo del país.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/St%C3%A5hlberg_kidnapping",
+          "https://www.nytimes.com/1930/12/19/archives/finnish-abductors-get-3-years-in-jail-general-wallenius-exchief-of.html"
+        ],
+        "riesgos": "El NYT de diciembre de 1930 informa de las condenas; comprobar en la ficha el resultado final de las apelaciones. Día sin caso español o hispanoamericano. Se descartó la detención de Cartouche (14-10-1721): Wikipedia da el 14 y histoire-genealogie.com el 15."
+      }
+    ] },
+    { "dia": 15, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Rafael Uribe Uribe",
+        "protagonista": "Leovigildo Galarza y Jesús Carvajal",
+        "fecha": "1914-10-15",
+        "tipo_efemeride": "crimen",
+        "pais": "Colombia",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1910-1919",
+        "resumen": "El 15 de octubre de 1914 el general y senador liberal Rafael Uribe Uribe fue atacado a hachazos por dos artesanos, Leovigildo Galarza y Jesús Carvajal, cuando caminaba hacia el Capitolio por la plaza de Bolívar de Bogotá; murió de madrugada. Los dos autores fueron condenados; la sospecha de que hubo autores intelectuales nunca se aclaró.",
+        "por_que": "El caudillo de la guerra de los Mil Días asesinado a hachazos en el corazón de Bogotá: un magnicidio con muchas preguntas abiertas.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Rafael_Uribe_Uribe",
+          "https://www.eltiempo.com/archivo/documento/MAM-311895"
+        ],
+        "riesgos": "Murió en la madrugada del 16: la fecha del ataque es el 15. La segunda fuente (El Tiempo) se toma de las referencias de Wikipedia y no se ha podido leer completa."
+      },
+      {
+        "titulo_caso": "La detención de Alfred Dreyfus",
+        "protagonista": "Alfred Dreyfus",
+        "fecha": "1894-10-15",
+        "tipo_efemeride": "detencion",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1890-1899",
+        "resumen": "El capitán judío Alfred Dreyfus fue detenido por alta traición el 15 de octubre de 1894, acusado de pasar secretos militares a Alemania. Un consejo de guerra a puerta cerrada lo condenó en diciembre a cadena perpetua en la isla del Diablo; el verdadero traidor era el comandante Esterhazy. Tras el «Yo acuso» de Zola, Dreyfus fue rehabilitado en 1906.",
+        "por_que": "El error judicial que partió en dos a Francia y marcó la historia del antisemitismo europeo.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Alfred_Dreyfus",
+          "https://www.theguardian.com/world/2025/jun/02/france-finally-acts-to-deliver-justice-in-infamous-dreyfus-case"
+        ],
+        "riesgos": "Segunda fuente tomada de las referencias de Wikipedia; Britannica confirma el proceso de 1894 pero no el día."
+      },
+      {
+        "titulo_caso": "El asesinato de Thomas Sankara",
+        "protagonista": "Blaise Compaoré y otros (condenados en 2022)",
+        "fecha": "1987-10-15",
+        "tipo_efemeride": "crimen",
+        "pais": "Burkina Faso",
+        "region": "africa",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "El 15 de octubre de 1987 el presidente de Burkina Faso, Thomas Sankara, fue asesinado junto a doce colaboradores durante el golpe de Estado que llevó al poder a su compañero Blaise Compaoré. Tras décadas de impunidad, un tribunal militar de Uagadugú condenó en 2022 a Compaoré, en rebeldía, a cadena perpetua.",
+        "por_que": "El «Che africano» y un juicio que llegó 35 años tarde.",
+        "fuentes_fecha": [
+          "https://www.britannica.com/biography/Thomas-Sankara",
+          "https://news.bbc.co.uk/2/hi/africa/7045029.stm"
+        ],
+        "riesgos": "Comprobar que no quedan recursos pendientes de la sentencia de 2022 (Compaoré vive exiliado). Caso muy politizado."
+      }
+    ] },
+    { "dia": 17, "candidatos": [
+      {
+        "titulo_caso": "Al Capone, condenado por no pagar impuestos",
+        "protagonista": "Al Capone",
+        "fecha": "1931-10-17",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "estafa",
+        "epoca": "1930-1939",
+        "resumen": "El 17 de octubre de 1931 un jurado federal de Chicago declaró a Al Capone culpable de evasión fiscal. El 24 de noviembre fue condenado a 11 años de prisión, la pena más dura impuesta hasta entonces por ese delito; cumplió parte en Alcatraz.",
+        "por_que": "Cómo cayó el gánster más famoso de la historia: no por sus crímenes, sino por su contabilidad.",
+        "fuentes_fecha": [
+          "https://www.britannica.com/biography/Al-Capone",
+          "https://en.wikipedia.org/wiki/Al_Capone"
+        ],
+        "riesgos": "El FBI da el 18 de octubre en su web; Britannica aclara que el veredicto fue el 17 y la noticia se publicó el 18. Comprobar si otro mes propone a Capone por su nacimiento (17 de enero)."
+      },
+      {
+        "titulo_caso": "El asesinato de Dmitri Jolódov",
+        "protagonista": "Dmitri Jolódov (víctima); seis acusados absueltos",
+        "fecha": "1994-10-17",
+        "tipo_efemeride": "crimen",
+        "pais": "Rusia",
+        "region": "europa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1990-1999",
+        "resumen": "El periodista de Moskovski Komsomolets Dmitri Jolódov, que investigaba la corrupción en el ejército ruso, murió el 17 de octubre de 1994 al estallar en la redacción un maletín bomba que creía lleno de documentos. Varios militares fueron juzgados y absueltos dos veces; el crimen sigue oficialmente sin condena.",
+        "por_que": "El primer gran asesinato de un periodista en la Rusia postsoviética.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Dmitry_Kholodov",
+          "https://ifex.org/suspect-in-kholodovs-murder-arrested/"
+        ],
+        "riesgos": "Los acusados fueron absueltos: no nombrarlos como culpables. IFEX/CPJ confirma «octubre de 1994»; el día viene de Wikipedia."
+      },
+      {
+        "titulo_caso": "El asesinato del emperador Dessalines",
+        "protagonista": "Jean-Jacques Dessalines (víctima); oficiales conjurados",
+        "fecha": "1806-10-17",
+        "tipo_efemeride": "crimen",
+        "pais": "Haití",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1800-1809",
+        "resumen": "Jean-Jacques Dessalines, líder de la independencia de Haití y su primer emperador, cayó en una emboscada de oficiales conjurados en Pont-Rouge, a las afueras de Puerto Príncipe, el 17 de octubre de 1806. Su asesinato abrió la división del país entre Henri Christophe y Alexandre Pétion.",
+        "por_que": "El primer magnicidio de la primera república negra del mundo.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines",
+          "https://www.britannica.com/biography/Jean-Jacques-Dessalines"
+        ],
+        "riesgos": "Haití es Latinoamérica pero no hispanohablante: revisar si cuenta para la cuota de Hispanoamérica. Sin juicio; la autoría es histórica."
+      }
+    ] },
+    { "dia": 18, "candidatos": [
+      {
+        "titulo_caso": "Nace Lee Harvey Oswald",
+        "protagonista": "Lee Harvey Oswald",
+        "fecha": "1939-10-18",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "magnicidio",
+        "epoca": "1930-1939",
+        "resumen": "Lee Harvey Oswald nació en Nueva Orleans el 18 de octubre de 1939. Exmarine que vivió en la Unión Soviética, fue detenido el 22 de noviembre de 1963 como autor del asesinato del presidente John F. Kennedy en Dallas, y dos días después lo mató Jack Ruby antes de que pudiera ser juzgado.",
+        "por_que": "El hombre del magnicidio más investigado de la historia, que nunca llegó a juicio.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
+          "https://www.britannica.com/biography/Lee-Harvey-Oswald"
+        ],
+        "riesgos": "Nunca fue juzgado (la Comisión Warren lo señaló como autor). El mes de noviembre podría proponer el asesinato de Kennedy (22-11): elegir solo una fecha."
+      },
+      {
+        "titulo_caso": "La noche de la muerte de Stammheim",
+        "protagonista": "Andreas Baader, Gudrun Ensslin y Jan-Carl Raspe",
+        "fecha": "1977-10-18",
+        "tipo_efemeride": "hallazgo",
+        "pais": "Alemania",
+        "region": "europa",
+        "tipo_caso": "otro",
+        "epoca": "1970-1979",
+        "resumen": "En la madrugada del 18 de octubre de 1977, horas después de que un comando alemán liberara en Mogadiscio a los rehenes del avión Landshut, los líderes de la RAF Baader, Ensslin y Raspe aparecieron muertos en sus celdas de la cárcel de Stammheim (Stuttgart), y Irmgard Möller, herida. La versión oficial es el suicidio; sus simpatizantes siempre hablaron de asesinato.",
+        "por_que": "El final del «Otoño alemán»: suicidio colectivo o crimen de Estado, el debate que nunca se cerró.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Stammheim_Prison",
+          "https://www.spiegel.de/politik/irmgard-moeller-ich-will-nicht-anders-leben-a-eb8ad41f-0002-0001-0000-000013680783"
+        ],
+        "riesgos": "Terrorismo de la RAF; la tesis del asesinato no tiene respaldo judicial. Segunda fuente tomada de las referencias de Wikipedia. Muy relacionado con el secuestro de Schleyer (hallado muerto el 19)."
+      }
+    ] },
+    { "dia": 19, "candidatos": [
+      {
+        "titulo_caso": "El secuestro y asesinato del padre Popiełuszko",
+        "protagonista": "Capitán Grzegorz Piotrowski y otros agentes del SB",
+        "fecha": "1984-10-19",
+        "tipo_efemeride": "crimen",
+        "pais": "Polonia",
+        "region": "europa",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El 19 de octubre de 1984, al volver de decir misa en Bydgoszcz, el sacerdote Jerzy Popiełuszko, capellán de Solidaridad, fue secuestrado por agentes de la policía política comunista (SB). Lo golpearon hasta matarlo y arrojaron su cuerpo a un embalse del Vístula, donde apareció el 30 de octubre. Cuatro oficiales fueron condenados en el juicio de Toruń (1985).",
+        "por_que": "Un crimen de Estado juzgado en plena dictadura comunista, algo insólito en el bloque soviético.",
+        "fuentes_fecha": [
+          "https://biogramy.ipn.gov.pl/bio/wszystkie-biogramy/ksiadz-jerzy-popieluszk/fr-jerzy-popieluszko-en/110810,Biography.html",
+          "https://en.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko"
+        ],
+        "riesgos": "Beatificado en 2010: tratar con respeto el aspecto religioso. Los posibles inductores de alto nivel nunca fueron condenados."
+      },
+      {
+        "titulo_caso": "La carta bomba contra Dele Giwa",
+        "protagonista": "Dele Giwa (víctima)",
+        "fecha": "1986-10-19",
+        "tipo_efemeride": "crimen",
+        "pais": "Nigeria",
+        "region": "africa",
+        "tipo_caso": "sin_resolver",
+        "epoca": "1980-1989",
+        "resumen": "El domingo 19 de octubre de 1986 el periodista Dele Giwa, fundador de la revista Newswatch, murió en su casa de Ikeja (Lagos) al abrir un paquete bomba. Fue el primer asesinato con carta bomba en Nigeria; las sospechas apuntaron al régimen militar de Babangida, pero nunca hubo acusados ni condena.",
+        "por_que": "El crimen sin resolver más famoso del periodismo africano.",
+        "fuentes_fecha": [
+          "https://www.vanguardngr.com/2015/10/dele-giwa-29-years-after/",
+          "https://en.wikipedia.org/wiki/Dele_Giwa"
+        ],
+        "riesgos": "Sin acusados: las sospechas sobre el gobierno no están probadas judicialmente."
+      },
+      {
+        "titulo_caso": "La ejecución de Maurice Bishop",
+        "protagonista": "Bernard Coard y los «17 de Granada»",
+        "fecha": "1983-10-19",
+        "tipo_efemeride": "crimen",
+        "pais": "Granada",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1980-1989",
+        "resumen": "El 19 de octubre de 1983 el primer ministro de Granada, Maurice Bishop, liberado por sus partidarios tras un arresto domiciliario, fue capturado de nuevo y fusilado en el Fuerte Rupert junto a varios ministros, en un golpe interno de su propio partido. Seis días después EE. UU. invadió la isla; los «17 de Granada», con el vice primer ministro Bernard Coard, fueron condenados en 1986.",
+        "por_que": "Un golpe dentro de una revolución que acabó con una invasión estadounidense y unos cuerpos que nunca aparecieron.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Maurice_Bishop",
+          "https://www.foxnews.com/world/grenada-trying-to-find-remains-of-slain-marxist-pm"
+        ],
+        "riesgos": "Granada es el Caribe anglófono: revisar la región (no es Hispanoamérica en sentido estricto). Las condenas de muerte se conmutaron y los últimos presos salieron en 2009; Amnistía cuestionó la limpieza del juicio."
+      }
+    ] },
+    { "dia": 20, "candidatos": [
+      {
+        "titulo_caso": "El asalto al furgón de Brink's en Nanuet",
+        "protagonista": "Black Liberation Army y Organización Comunista 19 de Mayo",
+        "fecha": "1981-10-20",
+        "tipo_efemeride": "golpe",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "golpe",
+        "epoca": "1980-1989",
+        "resumen": "El 20 de octubre de 1981 miembros del Black Liberation Army y de antiguos Weather Underground robaron 1,6 millones de dólares de un furgón de Brink's en Nanuet (Nueva York); en el asalto y la huida murieron un vigilante y dos policías. Kathy Boudin, David Gilbert y Judith Clark, entre otros, fueron condenados.",
+        "por_que": "El último golpe de la izquierda armada estadounidense de los setenta, convertido en tragedia.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/1981_Brink%27s_robbery",
+          "https://www.nytimes.com/1983/09/04/nyregion/4-of-6-are-guilty-in-us-brink-s-case.html"
+        ],
+        "riesgos": "Segunda fuente tomada de las referencias de Wikipedia. Algunos condenados obtuvieron la libertad condicional recientemente: no hay procesos abiertos sobre el crimen, pero comprobarlo."
+      },
+      {
+        "titulo_caso": "El asesinato de Mariano Ferreyra",
+        "protagonista": "José Pedraza y la patota de la Unión Ferroviaria",
+        "fecha": "2010-10-20",
+        "tipo_efemeride": "crimen",
+        "pais": "Argentina",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "2010-2019",
+        "resumen": "El 20 de octubre de 2010 Mariano Ferreyra, militante del Partido Obrero de 23 años, murió de un disparo en Barracas (Buenos Aires) cuando un grupo vinculado a la Unión Ferroviaria atacó una protesta de trabajadores ferroviarios tercerizados. En 2013 el líder sindical José Pedraza fue condenado a 15 años como instigador, junto a otros acusados.",
+        "por_que": "Un crimen sindical que llevó a prisión a uno de los sindicalistas más poderosos de Argentina.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Asesinato_de_Mariano_Ferreyra",
+          "http://www.cij.gov.ar/nota-11666-Caso-Mariano-Ferreyra--difundieron-los-fundamentos-de-la-sentencia-que-conden--a-Jos--Pedraza-a-15-a-os-de-prisi-n.html"
+        ],
+        "riesgos": "Caso de hace 16 años (cumple el límite). Comprobar que las condenas son firmes. Caso político."
+      }
+    ] },
+    { "dia": 22, "candidatos": [
+      {
+        "titulo_caso": "La condena de los Cuatro de Guildford",
+        "protagonista": "Gerry Conlon, Paul Hill, Paddy Armstrong y Carole Richardson",
+        "fecha": "1975-10-22",
+        "tipo_efemeride": "condena",
+        "pais": "Reino Unido",
+        "region": "europa",
+        "tipo_caso": "error_judicial",
+        "epoca": "1970-1979",
+        "resumen": "El 22 de octubre de 1975 el Old Bailey condenó a cadena perpetua a cuatro jóvenes por los atentados del IRA contra dos pubs de Guildford (octubre de 1974), que causaron cinco muertos. Sus confesiones se habían obtenido con malos tratos; en 1989 el Tribunal de Apelación anuló las condenas tras quince años de cárcel.",
+        "por_que": "Uno de los errores judiciales más famosos del Reino Unido, llevado al cine en «En el nombre del padre».",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Guildford_Four_and_Maguire_Seven",
+          "https://www.bbc.com/news/uk-england-surrey-47070707"
+        ],
+        "riesgos": "Los autores reales de los atentados nunca fueron juzgados por ellos. Muy relacionado con los Siete Maguire."
+      },
+      {
+        "titulo_caso": "El atentado contra el general René Schneider",
+        "protagonista": "Grupo del general Roberto Viaux",
+        "fecha": "1970-10-22",
+        "tipo_efemeride": "crimen",
+        "pais": "Chile",
+        "region": "hispanoamerica",
+        "tipo_caso": "magnicidio",
+        "epoca": "1970-1979",
+        "resumen": "A las 8.10 del 22 de octubre de 1970, dos días antes de que el Congreso ratificara a Salvador Allende como presidente, un grupo ultraderechista intentó secuestrar al comandante en jefe del Ejército chileno, René Schneider, contrario a un golpe; lo hirió de muerte y falleció el 25. El general Roberto Viaux y otros fueron condenados; documentos desclasificados mostraron contactos de la CIA con los conspiradores.",
+        "por_que": "El crimen que intentó impedir la llegada de Allende al poder y que anticipó el golpe de 1973.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Ren%C3%A9_Schneider",
+          "https://web.mit.edu/hemisphere/events/kissinger-chile.shtml"
+        ],
+        "riesgos": "La segunda fuente (MIT) trata el contexto y la implicación de EE. UU., no da el día: buscar una hemeroteca chilena para la ficha. Caso muy politizado."
+      },
+      {
+        "titulo_caso": "La muerte de Pretty Boy Floyd",
+        "protagonista": "Charles Arthur «Pretty Boy» Floyd",
+        "fecha": "1934-10-22",
+        "tipo_efemeride": "detencion",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "golpe",
+        "epoca": "1930-1939",
+        "resumen": "El 22 de octubre de 1934 el atracador de bancos Charles Arthur «Pretty Boy» Floyd, enemigo público número uno y sospechoso de la masacre de Kansas City, murió abatido por agentes del FBI y policías locales en una granja cerca de East Liverpool (Ohio), cuando intentaban capturarlo.",
+        "por_que": "El forajido de la Gran Depresión al que muchos vieron como un Robin Hood (y Woody Guthrie le cantó).",
+        "fuentes_fecha": [
+          "https://www.britannica.com/biography/Pretty-Boy-Floyd",
+          "https://en.wikipedia.org/wiki/Pretty_Boy_Floyd"
+        ],
+        "riesgos": "La efeméride es su muerte durante el intento de captura (se usa «detencion»). Hay versiones contradictorias sobre si fue ejecutado ya herido."
+      }
+    ] },
+    { "dia": 23, "candidatos": [
+      {
+        "titulo_caso": "La matanza del Palace Chop House",
+        "protagonista": "Dutch Schultz (víctima); Charles Workman (condenado)",
+        "fecha": "1935-10-23",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1930-1939",
+        "resumen": "La noche del 23 de octubre de 1935 sicarios del Sindicato del crimen tirotearon al gánster Dutch Schultz y a tres de sus hombres en el restaurante Palace Chop House de Newark. Schultz murió al día siguiente tras horas de delirio; la Mafia lo eliminó porque planeaba matar al fiscal Thomas Dewey. Charles «el Bicho» Workman fue condenado en 1941.",
+        "por_que": "El día que la Mafia mató a uno de los suyos para salvar a un fiscal.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Dutch_Schultz",
+          "https://www.britannica.com/biography/Dutch-Schultz"
+        ],
+        "riesgos": "Britannica da como fecha de muerte el 23; Wikipedia, el 24 (fue tiroteado el 23). La efeméride es el tiroteo."
+      },
+      {
+        "titulo_caso": "La conspiración del general Malet",
+        "protagonista": "Claude-François de Malet",
+        "fecha": "1812-10-23",
+        "tipo_efemeride": "golpe",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "historico",
+        "epoca": "1810-1819",
+        "resumen": "En la madrugada del 23 de octubre de 1812, mientras Napoleón estaba en Rusia, el general Malet escapó de su arresto, se presentó en los cuarteles de París con documentos falsos que anunciaban la muerte del emperador y estuvo a punto de hacerse con el poder. Fue detenido ese mismo día y fusilado con sus cómplices el 29 de octubre.",
+        "por_que": "Un golpe de Estado hecho casi solo con papeles falsos: la mayor estafa política de la época napoleónica.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Malet_coup_of_1812",
+          "https://www.britannica.com/biography/Claude-Francois-de-Malet"
+        ],
+        "riesgos": "Britannica sitúa la fuga «la noche del 22 al 23»; el golpe propiamente dicho es del 23. Caso de golpe de Estado, no de crimen común."
+      },
+      {
+        "titulo_caso": "La condena de Yolanda Saldívar por el asesinato de Selena",
+        "protagonista": "Yolanda Saldívar",
+        "fecha": "1995-10-23",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1990-1999",
+        "resumen": "El 31 de marzo de 1995 Yolanda Saldívar, presidenta del club de fans y gerente de las boutiques de Selena, mató de un disparo a la reina del tex-mex en un motel de Corpus Christi. El 23 de octubre de 1995 un jurado de Houston la declaró culpable de asesinato tras dos horas de deliberación; fue condenada a cadena perpetua.",
+        "por_que": "El crimen que conmocionó a la comunidad hispana de EE. UU. y a toda Latinoamérica.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Murder_of_Selena",
+          "https://web.archive.org/web/20020618050714/http://edition.cnn.com/US/9510/selena/10-23/pm/index.html"
+        ],
+        "riesgos": "Saldívar sigue presa (se le denegó la libertad condicional en 2025): comprobar que no hay recursos abiertos. Día sin caso español."
+      }
+    ] },
+    { "dia": 26, "candidatos": [
+      {
+        "titulo_caso": "El asesinato de Itō Hirobumi en Harbin",
+        "protagonista": "An Jung-geun",
+        "fecha": "1909-10-26",
+        "tipo_efemeride": "crimen",
+        "pais": "China (Manchuria) / Japón / Corea",
+        "region": "asia",
+        "tipo_caso": "magnicidio",
+        "epoca": "1900-1909",
+        "resumen": "El 26 de octubre de 1909 el independentista coreano An Jung-geun mató a tiros en la estación de Harbin a Itō Hirobumi, cuatro veces primer ministro de Japón y residente general en Corea. An fue juzgado por un tribunal japonés y ejecutado en marzo de 1910; en Corea es un héroe nacional y en Japón, un terrorista.",
+        "por_que": "Un magnicidio que todavía hoy enfrenta las memorias de Japón y Corea.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/It%C5%8D_Hirobumi",
+          "https://www.britannica.com/biography/Ito-Hirobumi"
+        ],
+        "riesgos": "Memoria muy sensible en Corea y Japón: narrar sin tomar partido."
+      },
+      {
+        "titulo_caso": "El tiroteo del O.K. Corral",
+        "protagonista": "Wyatt Earp, sus hermanos y Doc Holliday",
+        "fecha": "1881-10-26",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "historico",
+        "epoca": "1880-1889",
+        "resumen": "El 26 de octubre de 1881, en Tombstone (Arizona), los hermanos Virgil, Wyatt y Morgan Earp y Doc Holliday se enfrentaron a tiros con miembros de la banda de los Cowboys. En menos de un minuto murieron tres de ellos. Los Earp y Holliday fueron acusados de asesinato y un juez concluyó que no había pruebas para juzgarlos.",
+        "por_que": "El tiroteo más famoso del Oeste: ¿defensa de la ley o ajuste de cuentas?",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral",
+          "http://www.history.com/this-day-in-history/shootout-at-the-ok-corral"
+        ],
+        "riesgos": "Mucha mitología del cine: ceñirse a lo documentado (vista de Spicer, 1881)."
+      },
+      {
+        "titulo_caso": "La banda de Ned Kelly en Stringybark Creek",
+        "protagonista": "Ned Kelly",
+        "fecha": "1878-10-26",
+        "tipo_efemeride": "crimen",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "historico",
+        "epoca": "1870-1879",
+        "resumen": "El 26 de octubre de 1878 la banda de Ned Kelly sorprendió a una patrulla policial que la buscaba acampada en Stringybark Creek (Victoria) y mató a los sargentos y agentes Lonigan, Scanlan y Kennedy; solo escapó el agente McIntyre. Kelly fue capturado en Glenrowan en 1880, con su armadura de hierro, y ahorcado en Melbourne.",
+        "por_que": "El forajido nacional de Australia: bandido para unos, héroe irlandés rebelde para otros.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Ned_Kelly",
+          "https://www.smh.com.au/news/National/Ned-was-a-champ-with-a-soft-spot-under-his-armour/2004/12/10/1102625538990.html"
+        ],
+        "riesgos": "Wikipedia narra la salida de la patrulla el 25 y el tiroteo al día siguiente; confirmar el 26 en la ficha con Trove (prensa australiana de 1878). El asesinato de Park Chung-hee (26-10-1979) se descarta porque en 2025 se abrió la revisión judicial de la condena de su autor."
+      }
+    ] },
+    { "dia": 27, "candidatos": [
+      {
+        "titulo_caso": "Miguel Servet, quemado en Ginebra",
+        "protagonista": "Miguel Servet",
+        "fecha": "1553-10-27",
+        "tipo_efemeride": "condena",
+        "pais": "Suiza / España",
+        "region": "espana",
+        "tipo_caso": "error_judicial",
+        "epoca": "1550-1559",
+        "resumen": "El médico y teólogo aragonés Miguel Servet, que describió la circulación pulmonar de la sangre, fue juzgado por herejía en la Ginebra de Calvino por negar la Trinidad. Condenado, murió quemado en la hoguera en Champel el 27 de octubre de 1553.",
+        "por_que": "Un juicio por ideas: el sabio español quemado vivo por sus creencias, símbolo de la libertad de conciencia.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Miguel_Servet",
+          "https://www.britannica.com/biography/Michael-Servetus"
+        ],
+        "riesgos": "Anterior al siglo XVIII y proceso religioso, no un crimen común: confirmar que encaja en el archivo. La efeméride es la ejecución (se usa «condena»)."
+      },
+      {
+        "titulo_caso": "Nace John Gotti, el «Don de teflón»",
+        "protagonista": "John Gotti",
+        "fecha": "1940-10-27",
+        "tipo_efemeride": "nacimiento",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "asesinato",
+        "epoca": "1940-1949",
+        "resumen": "John Gotti nació en el Bronx el 27 de octubre de 1940. Jefe de la familia Gambino tras ordenar el asesinato de Paul Castellano en 1985, esquivó varias condenas, hasta que el testimonio de su lugarteniente Sammy Gravano lo llevó a la cadena perpetua en 1992. Murió en prisión en 2002.",
+        "por_que": "El último gran capo mediático de la Mafia neoyorquina.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/John_Gotti",
+          "https://www.britannica.com/biography/John-Gotti"
+        ],
+        "riesgos": ""
+      },
+      {
+        "titulo_caso": "El robo del Museo Marmottan",
+        "protagonista": "Banda de Philippe Jamin y Youssef Khimoun",
+        "fecha": "1985-10-27",
+        "tipo_efemeride": "golpe",
+        "pais": "Francia",
+        "region": "europa",
+        "tipo_caso": "golpe",
+        "epoca": "1980-1989",
+        "resumen": "El 27 de octubre de 1985, en pleno horario de visita, unos atracadores armados robaron del Museo Marmottan de París nueve cuadros impresionistas, entre ellos «Impresión, sol naciente», el Monet que dio nombre al impresionismo. Las obras se recuperaron en Córcega en 1990.",
+        "por_que": "El robo del cuadro que bautizó a todo un movimiento artístico, a punta de pistola y a plena luz del día.",
+        "fuentes_fecha": [
+          "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet",
+          "https://en.wikipedia.org/wiki/Impression,_Sunrise"
+        ],
+        "riesgos": "Solo comprobado en Wikipedia (francesa: el día; inglesa: el año y los autores): falta una segunda fuente independiente para la fecha (buscar Le Monde o INA de 1985)."
+      }
+    ] },
+    { "dia": 28, "candidatos": [
+      {
+        "titulo_caso": "El asesinato del diplomático Laurence Foley en Amán",
+        "protagonista": "Célula vinculada a Abu Musab al Zarqaui",
+        "fecha": "2002-10-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Jordania",
+        "region": "oriente_medio",
+        "tipo_caso": "asesinato",
+        "epoca": "2000-2009",
+        "resumen": "En la mañana del 28 de octubre de 2002 Laurence Foley, alto funcionario de la agencia de cooperación estadounidense USAID, fue asesinado a tiros al salir de su casa en Amán. Un tribunal jordano condenó por el crimen a varios hombres vinculados a Al Zarqaui (él, en rebeldía); dos fueron ejecutados en 2006.",
+        "por_que": "El primer asesinato de un diplomático estadounidense en Jordania y el arranque de la red de Al Zarqaui.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Laurence_Foley",
+          "https://news.bbc.co.uk/2/hi/middle_east/2367311.stm"
+        ],
+        "riesgos": "Terrorismo yihadista. Comprobar en la ficha el número exacto de condenados y ejecutados."
+      },
+      {
+        "titulo_caso": "Huey Newton y la muerte del agente John Frey",
+        "protagonista": "Huey P. Newton",
+        "fecha": "1967-10-28",
+        "tipo_efemeride": "crimen",
+        "pais": "Estados Unidos",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1960-1969",
+        "resumen": "Antes del amanecer del 28 de octubre de 1967, en Oakland, un control de tráfico al cofundador de los Panteras Negras, Huey P. Newton, acabó en tiroteo: murió el agente John Frey y Newton resultó herido. Condenado por homicidio en 1968, la condena se anuló en apelación en 1970 y, tras dos juicios con jurado bloqueado, se retiraron los cargos.",
+        "por_que": "El caso que convirtió a los Panteras Negras en un fenómeno nacional («Free Huey!»).",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Huey_P._Newton",
+          "https://www.c-span.org/video/?59241-1/the-shadow-panther"
+        ],
+        "riesgos": "Nunca hubo condena firme: no se le puede atribuir la muerte de Frey. La segunda fuente (entrevista de C-SPAN con el autor de «The Shadow of the Panther») es débil: buscar prensa de 1967. Día con un solo candidato fuera de EE. UU. y ninguno español (El Dioni robó el furgón el 28 de julio de 1989, no en octubre)."
+      }
+    ] },
+    { "dia": 29, "candidatos": [
+      {
+        "titulo_caso": "La desaparición de Mehdi Ben Barka",
+        "protagonista": "Mehdi Ben Barka (víctima)",
+        "fecha": "1965-10-29",
+        "tipo_efemeride": "desaparicion",
+        "pais": "Francia / Marruecos",
+        "region": "europa",
+        "tipo_caso": "desaparicion",
+        "epoca": "1960-1969",
+        "resumen": "Hacia las 18.30 del 29 de octubre de 1965 el líder de la oposición marroquí Mehdi Ben Barka fue subido a un coche por dos policías franceses frente a la brasserie Lipp, en el bulevar Saint-Germain de París, y nunca más se le vio. La justicia francesa condenó a varios implicados en 1967 y, en rebeldía, al ministro marroquí Oufkir; su cuerpo nunca apareció.",
+        "por_que": "La desaparición forzada más famosa de la Francia de De Gaulle, con servicios secretos de varios países en la sombra.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Mehdi_Ben_Barka",
+          "https://www.theguardian.com/world/2009/oct/29/france-accused-over-moroccans-vanishing"
+        ],
+        "riesgos": "La investigación francesa sigue nominalmente abierta (más de 55 años): comprobar si cuenta como «proceso abierto». Hay versiones contradictorias sobre su muerte."
+      },
+      {
+        "titulo_caso": "La condena de Lindy Chamberlain",
+        "protagonista": "Lindy Chamberlain",
+        "fecha": "1982-10-29",
+        "tipo_efemeride": "condena",
+        "pais": "Australia",
+        "region": "oceania",
+        "tipo_caso": "error_judicial",
+        "epoca": "1980-1989",
+        "resumen": "El 29 de octubre de 1982 un jurado de Darwin declaró a Lindy Chamberlain culpable de asesinar a su bebé, Azaria, desaparecida en 1980 en una acampada junto a Uluru; ella siempre dijo que se la había llevado un dingo. En 1986 apareció una prenda de la niña que respaldaba su versión, fue liberada y en 1988 se anularon las condenas; en 2012 un juez forense concluyó que fue un dingo.",
+        "por_que": "«Un dingo se llevó a mi bebé»: el gran error judicial de Australia, alimentado por los prejuicios y la prensa.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Lindy_Chamberlain-Creighton",
+          "https://www.bbc.co.uk/news/world-asia-18404330"
+        ],
+        "riesgos": "Víctima bebé, pero el nombre forma parte del caso y han pasado más de 40 años. La BBC (2012) confirma la condena, no el día exacto."
+      },
+      {
+        "titulo_caso": "La masacre de El Amparo",
+        "protagonista": "Comando Específico José Antonio Páez (CEJAP)",
+        "fecha": "1988-10-29",
+        "tipo_efemeride": "crimen",
+        "pais": "Venezuela",
+        "region": "hispanoamerica",
+        "tipo_caso": "asesinato",
+        "epoca": "1980-1989",
+        "resumen": "El sábado 29 de octubre de 1988, en el caño La Colorada, cerca de El Amparo (Apure), un comando militar y policial venezolano mató a catorce pescadores y presentó la acción como un enfrentamiento con guerrilleros colombianos. Dos supervivientes desmontaron la versión oficial; en 1995 la Corte Interamericana de Derechos Humanos condenó al Estado venezolano.",
+        "por_que": "Una masacre disfrazada de combate, desenmascarada por los dos pescadores que lograron escapar.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Masacre_de_El_Amparo",
+          "https://www.corteidh.or.cr/docs/casos/articulos/seriec_19_esp.pdf"
+        ],
+        "riesgos": "Crimen de Estado: los responsables directos nunca fueron condenados de forma firme. La sentencia de la Corte IDH se cita como segunda fuente sin haberla podido abrir."
+      }
+    ] },
+    { "dia": 30, "candidatos": [
+      {
+        "titulo_caso": "La desaparición de Gloria Martínez",
+        "protagonista": "Gloria Martínez Ruiz (desaparecida)",
+        "fecha": "1992-10-30",
+        "tipo_efemeride": "desaparicion",
+        "pais": "España",
+        "region": "espana",
+        "tipo_caso": "desaparicion",
+        "epoca": "1990-1999",
+        "resumen": "Gloria Martínez, una estudiante alicantina de 17 años, ingresó el 29 de octubre de 1992 en la clínica psiquiátrica Torres de San Luis de L'Alfàs del Pi y desapareció de su habitación en la madrugada del 30. Nunca se la ha encontrado; la causa se archivó y se reabrió varias veces y la justicia condenó a indemnizar a la familia.",
+        "por_que": "Una de las desapariciones sin resolver más enigmáticas de España: una menor que se esfumó de una clínica cerrada.",
+        "fuentes_fecha": [
+          "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_de_Gloria_Mart%C3%ADnez",
+          "https://www.abc.es/espana/comunidad-valenciana/abci-desaparicion-sin-respuesta-200908090300-923192416661_noticia.html"
+        ],
+        "riesgos": "Desaparecida menor de edad (17 años): su nombre es público y la familia lo ha difundido durante décadas, pero el caso tiene 34 años; confirmar con la regla de menores. Sin culpables: no señalar a nadie. Comprobar si hay alguna diligencia judicial abierta. ABC sitúa el ingreso el 29 y la desaparición «horas después»."
+      },
+      {
+        "titulo_caso": "El caso de la niñera Louise Woodward",
+        "protagonista": "Louise Woodward",
+        "fecha": "1997-10-30",
+        "tipo_efemeride": "condena",
+        "pais": "Estados Unidos / Reino Unido",
+        "region": "eeuu_canada",
+        "tipo_caso": "error_judicial",
+        "epoca": "1990-1999",
+        "resumen": "El 30 de octubre de 1997 un jurado de Cambridge (Massachusetts) declaró a la niñera británica Louise Woodward, de 19 años, culpable de asesinato en segundo grado por la muerte de un bebé al que cuidaba. Diez días después el juez rebajó el veredicto a homicidio involuntario y la dejó en libertad por el tiempo ya cumplido; el caso dividió a la opinión pública a ambos lados del Atlántico.",
+        "por_que": "Un juicio televisado que enfrentó a EE. UU. y al Reino Unido y que sigue sin consenso sobre lo que pasó.",
+        "fuentes_fecha": [
+          "https://en.wikipedia.org/wiki/Louise_Woodward_case",
+          "https://web.archive.org/web/20040107132004/http://edition.cnn.com/US/9710/30/au.pair.verdict.new/"
+        ],
+        "riesgos": "Víctima bebé de un caso de hace 29 años: no nombrarlo. La condena final fue por homicidio involuntario: no llamarla asesina."
+      }
+    ] }
+  ]
+}
