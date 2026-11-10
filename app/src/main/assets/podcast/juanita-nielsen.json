@@ -1,0 +1,121 @@
+{
+  "id": "juanita-nielsen",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Juanita Nielsen": "Juanita Nílsen",
+    "Nielsen": "Nílsen",
+    "Kings Cross": "Kings Cros",
+    "Victoria Street": "Victoria Strit",
+    "Carousel": "Carusél",
+    "Sídney": "Sídney",
+    "Potts Point": "Pots Point",
+    "Penrith": "Pénrit",
+    "Nueva Gales del Sur": "Nueva Gueils del Sur",
+    "NOW": "Náu",
+    "Mark Foy": "Mark Foi",
+    "Farrell": "Fárel"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La llamada de las diez y media",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La desaparición de Juanita Nielsen. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La llamada de las diez y media."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sídney, viernes 4 de julio de 1975. A las diez y media de la mañana, Juanita Nielsen llama por teléfono a su socio, David Farrell. Le dice que se va a retrasar. Va camino de una cita en un club nocturno de Kings Cross. Nadie volverá a verla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es una llamada de trámite. No hay pánico. Pero ella sabía que la citaban en un lugar que no era neutral. Cuatro días antes, había oído hablar de un plan para llevársela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Juanita tenía treinta y ocho años y era la propietaria de NOW, un periódico alternativo del barrio. Descendía de la familia de los grandes almacenes Mark Foy. Vivía y trabajaba en el número 202 de Victoria Street, en Potts Point."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su calle estaba condenada. Un promotor quería derribar las casas de época para levantar torres. Los vecinos resistieron. El sindicato de obreros de la construcción declaró un veto, lo que se conocía como un green ban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Juanita puso su periódico al servicio de la causa. Criticaba el proyecto y denunciaba presiones sobre los vecinos. Recibió amenazas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí conviene fijar la época. Años después, una investigación judicial hablaría de un ambiente de corrupción que dificultó el trabajo de la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de junio, dos empleados del club Carousel se presentaron en su casa haciéndose pasar por anunciantes. Lo que buscaban, según se supo después, era llevársela. Su socio abrió la puerta, y ella, desde dentro, escuchó la visita."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A pesar del aviso, cuatro días después acudió a la cita en el club. Según la investigación, la cita para hablar de publicidad era un pretexto para retenerla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su pareja de entonces contó que había recibido llamadas amenazantes. Farrell denunció su desaparición el 5 de julio. El 7, un bolso suyo apareció al borde de una carretera cerca de Penrith."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto el bolso, y nada más. Sin cuerpo, sin escena, sin arma, un caso se vuelve un rompecabezas con las piezas en manos de otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los testigos no coincidieron. Una empleada del club dijo primero que Juanita había salido sola. Más adelante cambió su versión. Un agente inmobiliario dijo haberla visto subir a un coche con dos hombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1977 hubo acusaciones por conspirar para secuestrarla. Uno de los acusados admitió que la historia del anuncio era una excusa. Dos empleados del club acabaron condenados, uno en 1981 y otro en 1983."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tenemos entonces una condena por un plan de secuestro. No por una muerte. En lo que respecta a lo que le ocurrió a ella, hay silencio judicial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1983, una investigación judicial, la más larga de la historia del estado, escuchó a decenas de testigos. Concluyó que Juanita había muerto el 4 de julio de 1975 o poco después. No pudo decir cómo ni quién."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su cuerpo nunca apareció. En 1994, una comisión parlamentaria criticó que el organismo contra el crimen hubiera protegido como informador a un hombre que, además, era sospechoso. Nadie fue acusado de su muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que me parece más duro. Con los años, el tiempo se lleva a los testigos y a las personas de interés. La policía lo dice así: es cada vez más difícil reunir pruebas. Y los que más sabían, a veces han muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2021, la policía de Nueva Gales del Sur duplicó la recompensa: un millón de dólares australianos por información sobre su desaparición o sobre el lugar donde descansan sus restos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su primo, Francis Foy, pidió ayuda en público. Dijo que la familia la quería y la echa de menos, y que desea poder darle un entierro digno."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el cementerio de South Head, en Vaucluse, una cruz blanca la recuerda. En Woolloomooloo, un centro comunitario lleva su nombre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sigue sin resolverse. Pero sabemos con claridad qué hizo: usó un periódico pequeño para plantar cara a los grandes intereses. Eso no ha sido borrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La desaparición de Juanita Nielsen. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y The Guardian (21/6/2021, leída por curl). La página de la policía de Nueva Gales del Sur está tras un muro anti-bots y el SMH no se pudo leer. Por tanto el detalle sale sobre todo de Wikipedia y se ha dejado lo que The Guardian confirma. Se ha dejado fuera, por no estar acreditado: los nombres de los dos condenados, la pena de cada uno, los giros testimoniales de una empleada del club (cambió su versión en 2000 y 2004) y la información atribuida al fallecido Trigg. No se nombra a ninguna persona como autora; solo se dice que dos empleados del club fueron condenados por conspirar. La ficha dice «dos empleados del club»; Wikipedia añade que hubo una absolución en 1980 de un tercer acusado (no se menciona). El 7 de julio del bolso y la identificación de la hora de la llamada (10:30) salen de Wikipedia."
+}

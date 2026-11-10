@@ -1,0 +1,112 @@
+{
+  "id": "secuestro-reg-murphy",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Reg Murphy": "Rég Mérfi",
+    "Murphy": "Mérfi",
+    "Atlanta Constitution": "Atlanta Constituchón",
+    "Atlanta": "Atlanta",
+    "William A. H. Williams": "Uíliam Ei Eich Uíliams",
+    "Williams": "Uíliams",
+    "Druid Hills": "Drúid Jils",
+    "Jim Minter": "Yim Mínter",
+    "Minter": "Mínter",
+    "Lilburn": "Lílburn",
+    "Patty Hearst": "Pati Jérst"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Trescientos mil galones de gasóleo",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Reg Murphy. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Trescientos mil galones de gasóleo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Atlanta, 20 de febrero de 1974. Un desconocido llama a la puerta de una casa del barrio de Druid Hills. Dice que quiere donar trescientos mil galones de gasóleo de calefacción a los pobres. Y que quien debe decidir cómo repartirlos es el director del periódico más importante de la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El director se llamaba Reg Murphy y dirigía el Atlanta Constitution. Aceptó acompañarlo para ayudar a una organización benéfica. Pocos minutos después, el hombre le apuntaba con una pistola."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Mira el cebo: no era dinero ni una amenaza, era una buena causa. Un hombre acostumbrado a recibir gente con ideas se subió al coche de un extraño porque la historia sonaba bien. Nadie está a salvo de un truco bien pensado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murphy fue encerrado en el maletero del coche con los ojos vendados. Dos semanas antes había sido secuestrada en California la heredera Patty Hearst, y todo el país seguía aquel caso. El secuestrador conocía bien el clima de la época."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pronto llegaron las llamadas al periódico. El hombre aseguraba hablar en nombre de un grupo de extrema derecha, el «Ejército Revolucionario Americano», y exigía setecientos mil dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un nombre grandilocuente para un grupo que nadie conocía. Al final resultó que detrás había un solo hombre y, según él mismo contó años después, un plan improvisado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El periódico decidió pagar. Entregó el rescate el jefe de redacción, Jim Minter. Siguiendo las instrucciones del secuestrador, condujo un Jeep descapotable, vestido solo con pantalón, zapatillas y una camiseta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La ciudad siguió la historia por televisión. El FBI estaba pendiente de cada llamada. Según History.com, el cautiverio duró cuarenta y nueve horas. Otras fuentes hablan de tres días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murphy fue liberado en el aparcamiento de un hotel de carretera. Estaba ileso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahora lo más raro. El plan salió bien casi del todo: el secuestro, la llamada, el pago. Lo que no funcionó fue lo siguiente. Un hombre con el dinero en su casa, a las pocas horas, y el FBI tras él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Unas seis horas después, el FBI irrumpió en una casa de Lilburn, a las afueras. Dentro estaban William A. H. Williams, de treinta y tres años, y su esposa, Betty. También estaba el dinero del rescate."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Williams fue condenado en agosto de 1974 a cuarenta años de prisión. Su esposa, por ayudar a ocultar el delito, recibió una condena sin cárcel. Según el New York Times, él sollozó al escuchar la sentencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Por qué lo hizo? Esa es la pregunta que no tiene respuesta clara. En el juicio habló de su infancia y de su inestabilidad, y se presentaron pruebas de que consumía anfetaminas. Años después dijo que ni siquiera recordaba bien por qué eligió a Murphy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La sentencia tiene matices. History.com cuenta un segundo juicio federal en 1975, con una pena de cincuenta años. El diario de Atlanta añade que fue condenado por extorsión y no por secuestro. En lo que todas las fuentes coinciden es en que cumplió unos nueve años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay algo que me conmueve de este expediente. Al cumplir la condena, Williams estudió y se licenció en psicología. No sé si eso arregla algo. Pero es un dato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2014, cuarenta años después, Williams llamó al periódico. Según el diario, dijo que sentía que debía decir algo y que no guardaba rencor. Tenía setenta y tres años y estaba enfermo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murphy siguió dirigiendo periódicos en San Francisco y Baltimore, y después presidió la National Geographic Society."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan las preguntas de un día de febrero: qué lleva a un hombre a disfrazar de caridad una pistola, y cuánto miedo cabe en un maletero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Reg Murphy. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: History.com y AJC (2014); NYT sin abrir (se cita el titular sobre «sollozando»). Duración: 49 horas (History) o tres días (AJC); la ficha menciona 49 horas, se citan ambas. Condena: 40 años en 1974 (NYT, History); History añade 1975 con 50 años; AJC dice extorsión federal; se dice que cumplió unos nueve años (el AJC dice más de nueve). La esposa: History, tres años de libertad vigilada; ficha, «condicional». El cargo de Minter: History «editor gerente», AJC «editor adjunto», ficha «jefe de redacción»: se pone «jefe de redacción» como la ficha. Que Murphy dirigió el Constitution y presidió National Geographic: AJC. Que había dos licenciaturas en psicología: AJC (aquí se dice solo «se licenció»). El «Ejército Revolucionario Americano» «no existía»: es una inferencia a partir de la ficha («dijo actuar en nombre de»); revisar. Williams: la ficha dice que en 2014 pidió perdón; el AJC no detalla disculpa formal a Murphy, solo que llamó al diario sin malicia: se pone eso. La frase «el jeep... para demostrar que no llevaba nada oculto» es inferencia, quitar si se duda."
+}

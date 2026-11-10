@@ -1,40 +1,65 @@
 {
   "id": "godino",
-  "titulo": "De Parque Patricios al fin del mundo",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Ushuaia": "Usuáia",
     "Cesare Lombroso": "Chésare Lombróso",
-    "Jesualdo Giordano": "Jesualdo Yordáno"
+    "Lombroso": "Lombróso",
+    "Jesualdo Giordano": "Jesualdo Yordáno",
+    "Ricardo Bassetti": "Ricárdo Basséti"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Buenos Aires, años diez del siglo veinte. Un grupo de médicos decide operar las orejas de un joven recluido. No buscan curar ninguna dolencia. Según las teorías de la época, en aquellas orejas enormes podía esconderse la señal de un criminal nato." },
-    { "voz": "alvaro", "texto": "Suena a ciencia ficción. ¿De verdad se creía algo así?" },
-    { "voz": "ximena", "texto": "Se creía, y mucho. Y aquel joven se había convertido en el gran ejemplo de esa criminología. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Cayetano Santos Godino, el Petiso Orejudo." },
-    { "voz": "ximena", "texto": "Nació en Buenos Aires el 31 de octubre de 1896. Era hijo de inmigrantes italianos llegados de Calabria, como tantos miles en aquella ciudad que crecía a toda velocidad. Creció en una familia pobre, con un padre alcohólico y violento." },
-    { "voz": "ximena", "texto": "Desde muy pequeño mostró una conducta que alarmó a su entorno. Su propio padre llegó a entregarlo a la policía, y pasó por instituciones para menores cuando todavía era un niño." },
-    { "voz": "ximena", "texto": "El apodo nació de dos rasgos que llamaban la atención: era bajito y tenía unas orejas muy grandes. Un mote de barrio que la prensa acabaría convirtiendo en sinónimo de terror." },
-    { "voz": "alvaro", "texto": "Y sus víctimas eran niños, ¿verdad?" },
-    { "voz": "ximena", "texto": "Sí. Niños muy pequeños. Se acercaba a ellos con golosinas o con cualquier excusa y los alejaba de sus casas. Entre 1906 y 1912 atacó a varios. Cuatro de ellos murieron." },
-    { "voz": "ximena", "texto": "La primera muerte que se le atribuye ocurrió en 1906, cuando él tenía unos nueve años. El cuerpo de aquella niña nunca apareció; el caso solo se conoció por su propia confesión, años después." },
-    { "voz": "ximena", "texto": "Las otras tres llegaron en 1912, en los barrios del sur de la ciudad, en torno a Parque Patricios. La última víctima fue Jesualdo Giordano, un niño de tres años, en diciembre de ese año. Su muerte conmocionó a Buenos Aires." },
-    { "voz": "alvaro", "texto": "¿Y cómo lo atraparon?" },
-    { "voz": "ximena", "texto": "Por su propio comportamiento. Godino se dejó ver por el entorno de la familia de Jesualdo, incluso durante el velatorio. Aquella presencia levantó sospechas, y la policía lo detuvo enseguida, a principios de diciembre de 1912." },
-    { "voz": "ximena", "texto": "En los interrogatorios confesó sus crímenes con una frialdad que desconcertó a los investigadores. Tenía dieciséis años." },
-    { "voz": "ximena", "texto": "Su edad planteó un problema enorme a la justicia de la época. ¿Qué hacer con un adolescente que había matado varias veces? Las leyes no estaban pensadas para algo así, y el caso alimentó durante años el debate sobre cómo tratar a los menores que delinquen." },
-    { "voz": "alvaro", "texto": "Un debate que, en el fondo, sigue abierto hoy." },
-    { "voz": "ximena", "texto": "Entonces empezó otra batalla: la de los expertos. ¿Era un enfermo o un criminal? Los médicos lo examinaron una y otra vez, estudiando su cuerpo y sus rasgos según las ideas del italiano Cesare Lombroso, muy influyentes en la Argentina de entonces." },
-    { "voz": "ximena", "texto": "Primero fue declarado inimputable e internado en un hospicio psiquiátrico. Pero en 1915 un tribunal de apelación lo condenó a reclusión por tiempo indeterminado." },
-    { "voz": "alvaro", "texto": "Y ahí aparece la famosa cárcel del fin del mundo." },
-    { "voz": "ximena", "texto": "Así es. En 1923 lo trasladaron al presidio de Ushuaia, en Tierra del Fuego, uno de los penales más duros y aislados del país. Allí pasó más de veinte años, a miles de kilómetros de la ciudad donde había nacido." },
-    { "voz": "ximena", "texto": "Murió en ese presidio en noviembre de 1944. Las circunstancias de su muerte nunca quedaron del todo claras, y en torno a ellas circularon distintas versiones." },
-    { "voz": "ximena", "texto": "Hoy se le considera el primer asesino en serie documentado de Argentina. Su caso se estudió durante décadas en facultades de Derecho y de Medicina, y llenó páginas de revistas científicas y de periódicos populares." },
-    { "voz": "ximena", "texto": "También dejó una lección incómoda. Aquella operación de las orejas no cambió nada, porque la explicación nunca estuvo en su cuerpo. La criminología actual descarta por completo la idea del criminal nato, que tanto daño hizo." },
-    { "voz": "alvaro", "texto": "¿Y qué queda hoy de aquel presidio?" },
-    { "voz": "ximena", "texto": "El penal cerró a finales de los años cuarenta y hoy es un museo. Muchos visitantes conocen allí la historia del Petiso Orejudo, que forma parte del relato de aquella cárcel." },
-    { "voz": "ximena", "texto": "Pero conviene recordar lo esencial. No hablamos de una leyenda urbana, sino de cuatro niños que no volvieron a casa. Y de familias, muchas de ellas inmigrantes, que habían cruzado el océano buscando una vida mejor en una ciudad que crecía demasiado deprisa." },
-    { "voz": "ximena", "texto": "Familias que tuvieron que convivir con el miedo en sus propias calles, mientras la prensa convertía el caso en un espectáculo." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Cayetano Santos Godino. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una soga en un bolsillo",
+      "tipo": "hallazgo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Cayetano Santos Godino, el Petiso Orejudo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. Una soga en un bolsillo."},
+        {"voz": "ximena", "texto": "Buenos Aires, madrugada del 4 de diciembre de 1912. Una patrulla de la policía, al mando del principal Ricardo Bassetti, entra en una casa de Parque Patricios. Detiene a un chico de dieciséis años. En su bolsillo hay un trozo de soga."},
+        {"voz": "ximena", "texto": "Es igual a la que se usó el día anterior contra Jesualdo Giordano, un niño de tres años que había desaparecido de la puerta de su casa. Lo habían hallado sin vida en un terreno baldío."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Lo que llevó a la policía hasta aquella casa no fue un método científico. Fueron los vecinos. Habían visto al niño de la mano de un chico de orejas grandes al que llamaban el Orejudo. Y, según un relato posterior, su conducta durante el velatorio terminó de delatarlo."},
+        {"voz": "ximena", "texto": "Ese chico se llamaba Cayetano Santos Godino. Había nacido en Buenos Aires el 31 de octubre de 1896, hijo de inmigrantes de Calabria que habían llegado a Buenos Aires en 1884, a una ciudad que crecía a toda velocidad. Su familia era pobre. Era uno de diez hermanos. Su padre, alcohólico y enfermo, lo golpeaba, y su hermano mayor también."},
+        {"voz": "ximena", "texto": "De pequeño vagaba por Almagro y Parque Patricios. Lo expulsaron de varias escuelas. Su propio padre llegó a denunciarlo a la policía por matar gallinas y pájaros, y pasó dos meses en un reformatorio cuando todavía era un niño."},
+        {"voz": "ximena", "texto": "El apodo nació de dos rasgos: era bajito y tenía las orejas muy grandes. Un mote de barrio que la prensa acabaría convirtiendo en sinónimo de terror."},
+        {"voz": "alvaro", "texto": "Tengo que avisar de algo. Con los años, el Petiso Orejudo se convirtió en un personaje de leyenda con el que algunos padres asustaban a sus hijos. Yo me quedo con lo documentado. Y eso ya es bastante duro."},
+        {"voz": "ximena", "texto": "Lo documentado empieza en 1904, cuando él tenía siete años: golpeó a un niño de dos en un baldío, hasta que un policía intervino. Devolvieron al niño a su madre. Después hubo otro ataque contra un bebé de dieciocho meses, también frustrado."},
+        {"voz": "ximena", "texto": "En 1906, con nueve años, se le atribuye la muerte de una niña de tres. Su cuerpo nunca apareció. Ese caso solo se conoce por lo que él mismo contó años después."},
+        {"voz": "ximena", "texto": "En 1908 atacó a otros dos niños pequeños, que sobrevivieron. Lo enviaron a la Colonia de Menores de Marcos Paz, donde pasó unos tres años. Salió en diciembre de 1911, con catorce años."},
+        {"voz": "alvaro", "texto": "Anoto la secuencia, sin sacar conclusiones. Tres años en una institución. Y a las pocas semanas, otra vez los incendios y los ataques. No sé qué se hizo con él allí. Sí sé lo que ocurrió cuando salió."},
+        {"voz": "ximena", "texto": "En enero de 1912 provocó un incendio en una bodega de la calle Corrientes. Se le probaron siete en total. Ese mismo mes murió un chico de trece años. Y en marzo, una niña de cinco murió tras dieciséis días en el Hospital de Niños."},
+        {"voz": "ximena", "texto": "En noviembre de 1912 hubo tres ataques más contra niños de dos a cinco años. Un peón, un policía y un vecino lo interrumpieron. En el primero, la policía lo detuvo, pero él dijo que solo estaba desatando al niño, y lo soltaron."},
+        {"voz": "alvaro", "texto": "Anoto el detalle de la explicación. Un chico con esos antecedentes dice que solo estaba desatando a un niño, y la policía lo cree. Es un fallo que consta en las crónicas. Tres veces en un mes alguien llegó a tiempo. La cuarta vez ya no."},
+        {"voz": "ximena", "texto": "El 3 de diciembre murió Jesualdo Giordano. Al día siguiente, la patrulla de Bassetti lo detuvo. Tenía dieciséis años. Y empezaba un problema que la justicia argentina de la época no sabía resolver: qué hacer con él."}
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Unas orejas en Ushuaia",
+      "tipo": "epilogo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. Unas orejas en Ushuaia."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Cayetano Santos Godino, detenido el 4 de diciembre de 1912 con dieciséis años. Lo dejamos ante un problema nuevo para la justicia argentina."},
+        {"voz": "ximena", "texto": "Confesó crímenes que no se habían descubierto, entre ellos el de la niña de 1906 y el del chico de trece años, y los incendios. Cuando le preguntaron si sentía remordimiento, respondió que no entendía la pregunta."},
+        {"voz": "alvaro", "texto": "Esa respuesta desconcertó a los investigadores. Sigo sin saber si era sinceridad o defensa. Un chico de dieciséis años que dice que no entiende. Pero lo que hizo, está documentado."},
+        {"voz": "ximena", "texto": "Entonces empezó otra batalla, la de los expertos. ¿Era un enfermo o un criminal? Los médicos lo examinaron una y otra vez. Las ideas del italiano Cesare Lombroso, que veía en el cuerpo las señales del criminal, tenían mucha influencia en la Argentina de entonces. En noviembre de 1913, el pedagogo Víctor Mercante le atribuyó «estigmas degenerativos»."},
+        {"voz": "ximena", "texto": "En noviembre de 1914, el juez Ramos Mejía lo declaró penalmente irresponsable. Ordenó internarlo por tiempo indeterminado en el Hospicio de las Mercedes, que hoy es el Hospital Borda. Allí intentó matar a dos pacientes y escaparse."},
+        {"voz": "ximena", "texto": "La fiscalía recurrió. La Cámara ordenó que cumpliera la pena en prisión, en la Penitenciaría Nacional de la calle Las Heras. Las fuentes dan fechas distintas para esa decisión: noviembre de 1914 o noviembre de 1915."},
+        {"voz": "alvaro", "texto": "Fíjate en el vaivén. Un juez lo declara enfermo. Otro tribunal lo envía a la cárcel. Cada decisión tenía su lógica. Pero ninguna tenía respuesta a una pregunta: qué se hace con un chico así."},
+        {"voz": "ximena", "texto": "En 1923 lo trasladaron al presidio de Ushuaia, en Tierra del Fuego, uno de los penales más duros y aislados del país. Allí pasó más de veinte años, a miles de kilómetros de la ciudad donde había nacido, sin visitas."},
+        {"voz": "ximena", "texto": "En 1927, según varias fuentes, los médicos de la cárcel le operaron las orejas para reducirlas. Querían ver si así se controlaban sus supuestos instintos criminales. La operación no cambió nada. Ninguna fuente aporta el informe médico."},
+        {"voz": "alvaro", "texto": "Esa operación es el símbolo de todo el caso. Se buscó en su cuerpo una explicación que nunca estuvo en su cuerpo. La criminología actual descarta por completo la idea del criminal nato."},
+        {"voz": "ximena", "texto": "En 1933, según una de las fuentes, otros presos lo agredieron y pasó veinte días en la enfermería. En 1936 le denegaron la libertad. Los médicos lo llamaron perverso, degenerado y peligroso."},
+        {"voz": "ximena", "texto": "Murió en el presidio el 15 de noviembre de 1944. La causa oficial fue una hemorragia por una úlcera. Circula otra versión: que otros presos lo golpearon tras matar al gato del penal. Nunca se ha confirmado."},
+        {"voz": "ximena", "texto": "Sus restos no se conservan. El presidio cerró a finales de los años cuarenta y hoy es un museo. Su caso se estudió durante décadas en facultades de Derecho y de Medicina. Pero hay otra memoria que importa más."},
+        {"voz": "alvaro", "texto": "El caso planteó, además, una duda que sigue abierta: cómo responde una sociedad cuando el autor de un crimen es un niño. No tengo la respuesta. Pero me parece que la pregunta se hizo mal: se buscó un monstruo, no a un menor con una historia."},
+        {"voz": "alvaro", "texto": "Lo llaman el primer asesino en serie documentado del país. La etiqueta es cómoda, pero se aplica a posteriori. Yo prefiero otra: un caso en el que todas las instituciones llegaron tarde, y cada una con su explicación."},
+        {"voz": "ximena", "texto": "Se le considera el primer asesino en serie documentado de Argentina. Pero no es una leyenda urbana: son cuatro niños y adolescentes que no volvieron a casa, y otros que sobrevivieron por el azar de que alguien pasara."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Jesualdo Giordano, de tres años. A los otros tres que murieron. Y a unas familias de inmigrantes que cruzaron el océano buscando una vida mejor."},
+        {"voz": "ximena", "texto": "Fin del expediente de Cayetano Santos Godino. Archivo de TRUE CRIME CALENDAR."}
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (es y en), La Nación (varios artículos, 2018 y 2021), Infobae (15/11/2025), Perfil (a través del buscador). DISCREPANCIAS. 1) El v2 abría con una operación de orejas «en los años diez» realizada a un joven recluido, como inicio. Las fuentes la sitúan en 1927, en Ushuaia (Wikipedia es y en, Infobae); Wikipedia (es) pone «cita requerida» y La Nación (2018) no la menciona: se dice «según varias fuentes» y se ha movido a la cinta 2. 2) El v2 decía que la policía lo detuvo «por presencia en el velatorio» y a principios de diciembre; las fuentes dicen: patrulla al mando de Ricardo Bassetti, madrugada del 4 de diciembre de 1912 (Infobae; Wikipedia en); Perfil, noche del 5; Wikipedia (es) y otros, 3 de diciembre. Los vecinos lo habían visto con el niño (La Nación); lo del velatorio sale de Infobae; se dice «según un relato posterior». 3) Víctimas: la ficha y el v2 hablan de «niños muy pequeños» y de cuatro muertes. Las cuatro: María Rosa Face (1906, 3 años; sin cuerpo, solo confesión), Arturo Laurora (13 años, 26/1/1912), Reyna Bonita Vainicoff (5 años, muerta tras 16 días de hospital, marzo de 1912) y Jesualdo Giordano (3 años, 3/12/1912). Laurora tenía 13 años, no era un niño pequeño; el guion dice «un chico de trece años». 4) Edad: la ficha dice «entre 9 y 16 años»: 9 en 1906 (primer homicidio atribuido) y 16 en 1912; los ataques desde los 7 años en 1904 (Infobae, Wikipedia en). 5) Condena: v2, «declarado inimputable e internado; en 1915 un tribunal lo condenó». Fuentes: juez Ramos Mejía lo declaró irresponsable en noviembre de 1914 (Infobae); la Cámara revocó (noviembre de 1914 o 12 de noviembre de 1915 según el buscador); Wikipedia (es) dice absuelto en 1914. Se deja «las fuentes dan fechas distintas». 6) Traslado a Ushuaia: 28/3/1923 según un registro penitenciario; otras fuentes dan 1915 o «unos diez años después» de Las Heras (La Nación 2018). El guion dice 1923. 7) Muerte: 15/11/1944; causa oficial, hemorragia por úlcera; la leyenda del gato, no confirmada (La Nación, Infobae). 8) «Primer asesino en serie documentado de Argentina»: lo dice la ficha; el guion lo recoge como valoración. 9) Detalle del museo: el presidio es hoy museo (La Nación); el v2 decía que el penal «cerró a finales de los cuarenta». 10) Número de incendios: siete (La Nación, Infobae, Wikipedia en). 11) La ficha da «entre 9 y 16»; Wikipedia (en) pone el primer ataque con 7 años. 12) El v2 mencionaba «el debate sobre cómo tratar a los menores que delinquen»: no se ha podido verificar una ley concreta; el guion lo deja como pregunta del inspector. RESPETO (regla común de menores): solo se nombra a Jesualdo Giordano, de tres años: caso de 1912, nombre central de la historia y consta que su padre lo reconoció/denunció en el velatorio. A los demás niños (los otros tres fallecidos y los supervivientes) no se les nombra. El autor era él mismo menor: se evita el lenguaje de «monstruo»."
 }

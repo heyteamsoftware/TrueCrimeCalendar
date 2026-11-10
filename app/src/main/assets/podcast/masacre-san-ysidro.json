@@ -1,0 +1,110 @@
+{
+  "id": "masacre-san-ysidro",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "San Ysidro": "San Isidro",
+    "McDonald's": "Macdónalds",
+    "Alberto Leos": "Alberto Leos",
+    "Wendy Flanagan": "Güendi Flánagan",
+    "San Diego": "San Diego"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un armario en la cocina",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre del McDonald's de San Ysidro. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un armario en la cocina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Ysidro, un barrio de San Diego pegado a la frontera con México. Es el miércoles 18 de julio de 1984, un poco después de las cuatro de la tarde. En el McDonald's de San Ysidro Boulevard hay unas cuarenta y cinco personas: familias, niños, empleados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entra un hombre con varias armas de fuego. Ordena a todos que se tiren al suelo. Y empieza a disparar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No voy a decir su nombre: el archivo lo guarda, pero esta cinta es para las personas a las que atacó. Tampoco hablaré de sus motivos. Las fuentes de la época solo especulan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la web de History, en los primeros diez minutos murieron veinte personas, cuatro de ellas cuando intentaban salir. Fuera, la policía oía tantos disparos que pensó que había varios atacantes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa confusión pesa mucho en el caso. Los agentes llegaron a un restaurante lleno de gente, sin saber cuántos eran ni si había rehenes. Y cuando no sabes eso, no entras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro, un grupo de empleados se había encerrado en un armario de la cocina. Entre ellos, una joven de diecisiete años, Wendy Flanagan, que se había quedado después de su turno para ayudar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otro empleado, Alberto Leos, recibió cinco disparos. Contó cuarenta años después que se hizo torniquetes con los cordones de sus zapatos y mordió un trapo para aguantar el dolor, rezando, hasta que logró llegar al armario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Wendy Flanagan cuenta que ha necesitado años de terapia por la culpa de haber sobrevivido. Lo anoto sin adornos: el daño no termina cuando termina el tiroteo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasó cerca de una hora. Entonces un empleado logró escapar por el sótano y avisó al equipo de la policía de que el atacante estaba solo y no tenía rehenes. Ya no hacía falta esperar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con esa información, se dio la orden de disparar. Un tirador de élite lo abatió. El documental sobre el caso, de 2016, se titula «Setenta y siete minutos», y es la duración que cuentan los supervivientes. Otras fuentes hablan de una hora."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron veintiuna personas e hirieron a otras diecinueve. Había niños y un bebé; muchas de las víctimas eran de origen mexicano. Por respeto a sus familias, aquí no se dicen sus nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después de la matanza, la policía encontró a los que se escondían en el armario y los sacó en fila."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era, hasta entonces, el tiroteo más mortífero de la historia de Estados Unidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En 1986, el Los Angeles Times contó lo que vino después: demandas contra McDonald's y contra la ciudad. Los abogados de las víctimas decían que el restaurante conocía los riesgos de la zona y que el operativo policial había fallado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los abogados de las víctimas decían, además, que los agentes no tenían las llaves de sus furgonetas. Eran acusaciones, no hechos probados, y los demandados las rechazaban. Las fuentes que he abierto no dicen cómo acabaron esos pleitos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, la ayuda llegó de un fondo de una asociación sin ánimo de lucro, de un millón y medio de dólares, para los gastos. Una de las demandantes dijo que hablar del pleito solo le traía de vuelta el dolor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El restaurante se derribó. Hoy, en ese lugar, hay un monumento a las víctimas, y los vecinos se reúnen en cada aniversario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una cosa más. Alberto Leos, el empleado que fue herido, acabó siendo agente de policía de San Diego y llegó a capitán. Dijo que quería ser un protector."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eso es lo que queda: las veintiuna personas que no volvieron a casa aquella tarde, y quienes siguieron viviendo con ella durante décadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre del McDonald's de San Ysidro. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado sin juicio (el autor murió en el lugar). No se nombra al autor ni se da motivo. No se nombran víctimas fallecidas (muchas menores). Se nombran dos supervivientes por su testimonio público en NBC 7 (2024): Alberto Leos y Wendy Flanagan (17 años en 1984, hoy adulta); revisar si se prefiere quitar el nombre de la segunda. Fuentes abiertas: History.com, NBC 7 San Diego y LA Times (1986, abierto con curl). El Washington Post no se abrió. Discrepancias: duración (History.com: «una hora»; NBC 7: título «77 Minutes»; el guion recoge ambas). NBC 7 dice que fueron 40 los alcanzados (21 muertos, 19 heridos), coincide con la ficha. «Veinte en los primeros diez minutos, cuatro al intentar escapar» y la ayuda del sótano: History.com. El pleito: lo que dice el guion son alegaciones de los abogados de las víctimas según el LA Times de 1986; el desenlace no se comprobó. La frase final de los supervivientes y los datos de la compensación (fondo de 1,5 millones de dólares, todavía repartiéndose en 1986) son de ese artículo."
+}

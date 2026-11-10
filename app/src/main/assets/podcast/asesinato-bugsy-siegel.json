@@ -1,0 +1,110 @@
+{
+  "id": "asesinato-bugsy-siegel",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Benjamin": "Bényamin",
+    "Bugsy": "Bágsi",
+    "Siegel": "Sígel",
+    "Allen Smiley": "Álen Smáili",
+    "Smiley": "Smáili",
+    "Virginia Hill": "Virýinia Jil",
+    "North Linden Drive": "Nort Línden Dráiv",
+    "Linden Drive": "Línden Dráiv",
+    "Beverly Hills": "Béverli Jils",
+    "Flamingo": "Flamíngo",
+    "Las Vegas": "Las Végas",
+    "Meyer Lansky": "Máier Lánski",
+    "Lansky": "Lánski",
+    "Mob Museum": "Mob Miusíum",
+    "Nevada": "Nevada",
+    "Brooklyn": "Bruclin",
+    "Beverly": "Béverli"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La ventana de Linden Drive",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Bugsy Siegel. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La ventana de Linden Drive."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Beverly Hills, California, 20 de junio de 1947. Poco antes de las once de la noche, en el salón de una casa alquilada en North Linden Drive, un hombre lee el periódico en un sofá. Habla con un socio, Allen Smiley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una carabina dispara desde el jardín, a través de la ventana. El hombre del sofá muere en el acto. Era Benjamin Siegel, al que todos llamaban «Bugsy»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La casa la tenía alquilada su novia, Virginia Hill. Siegel estaba sentado en el salón, a la vista desde el jardín. El asesino no entró: disparó desde fuera. Lo anoto sin sacar conclusiones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siegel había crecido en Brooklyn y trabajaba con Meyer Lansky en negocios de contrabando de alcohol y juego en Nueva York. A finales de los años treinta la organización le dio medio millón de dólares para abrir negocios en Los Ángeles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después se fijó en el desierto de Nevada. Impulsó el hotel-casino Flamingo, a las afueras de Las Vegas. Se había presupuestado en poco más de un millón de dólares. Bajo su dirección, el coste se disparó hasta unos seis millones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y parte de ese dinero venía de sus socios del crimen organizado de Nueva York. El Flamingo abrió el 26 de diciembre de 1946 con las obras sin acabar. A las dos semanas la mesa de juego iba en pérdidas y el casino cerró. Reabrió en marzo y empezó a dar beneficios. Tarde para él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El forense de la policía de Beverly Hills reconstruyó el ataque. Se dispararon nueve balas con una carabina, desde unos cuatro metros, apoyada en un enrejado del jardín. Cuatro dieron en Siegel. Smiley sufrió un roce en el brazo y salió ileso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El perito concluyó que probablemente hubo dos tiradores, porque uno solo habría tenido difícil acertar así. Ojo: es una opinión de un perito, no un hecho probado. Hay otras versiones del número de disparos, y no me quedo con ninguna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pocos minutos después, según The Mob Museum, tres hombres entraron en el Flamingo y anunciaron que tomaban el mando. Algunas fuentes los relacionan con Lansky, otras con otro jefe de la organización. Los dos relatos coinciden en algo: el hotel cambió de manos esa misma noche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa rapidez es lo que se grabó en la memoria. Cuando una muerte llega tan oportunamente a quien viene a sustituir al muerto, la tentación es señalar. La policía también lo pensó. Pero señalar no es probar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se manejaron varias hipótesis. Una: que sus socios autorizaron la ejecución por el dinero que costó el Flamingo y por sospechas sobre lo que se gastaba. Otra: un motivo personal, ligado a su vida privada. Lansky negó siempre tener que ver."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto una cosa más. Con los años, otros hombres afirmaron haber sido los autores o haber encargado el crimen. Ninguna de esas declaraciones se tradujo en una acusación ni en una condena. En la práctica, no hay nada firme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La partida de defunción de Siegel dice que murió por una hemorragia cerebral causada por heridas de bala. La forma de muerte: homicidio. Esa es la única conclusión oficial del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue acusado. Hoy, casi ochenta años después, el crimen sigue sin resolverse oficialmente. Siegel está enterrado en Los Ángeles, y en el Flamingo hay una placa que lo recuerda entre la piscina y la capilla de bodas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que recordar lo que Siegel fue: un delincuente. No hay nada que justificar en él. Pero un asesinato sin resolver es un fallo de la justicia, sea quien sea el muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Del desierto salió un negocio que otros heredaron. De aquella ventana, solo preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Bugsy Siegel. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: nadie fue acusado y no se señala a nadie; las teorías van sin nombres de personas concretas (la teoría de que ejecutó un tercero por un asunto personal y las confesiones tardías de terceros se mencionan solo en genérico). Fuentes abiertas: The Mob Museum, HISTORY.com y Wikipedia (en inglés); no se abrieron NYT, LA Times ni LA Magazine. Discrepancias: nº de disparos (Wikipedia: nueve, cuatro alcanzaron a Siegel; HISTORY: tres balas en la cabeza; Mob Museum: dos heridas mortales en la cabeza); el guion da la versión de Wikipedia con su atribución al perito y avisa de que hay otras. Quién tomó el Flamingo: Mob Museum, tres socios de Lansky; HISTORY, hombres de Luciano; Wikipedia, tres hombres: el guion dice solo «tres hombres». El presupuesto de poco más de un millón (1,2) sale de Mob Museum. «A cuatro metros» = 14 pies de Wikipedia. «Medio millón de dólares» sale de HISTORY.com. Placa del Flamingo y tumba en Hollywood Forever: Wikipedia."
+}

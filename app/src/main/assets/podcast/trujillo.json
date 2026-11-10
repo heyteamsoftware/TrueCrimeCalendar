@@ -1,0 +1,111 @@
+{
+  "id": "trujillo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Trujillo": "Trujíyo",
+    "Rafael Leónidas Trujillo": "Rafael Leónidas Trujíyo",
+    "Antonio de la Maza": "Antonio de la Masa",
+    "Imbert": "Imbér",
+    "Antonio Imbert Barrera": "Antonio Imbér Barrera",
+    "Amiama Tió": "Amiama Tió",
+    "San Cristóbal": "San Cristóbal",
+    "Zacarías de la Cruz": "Zacarías de la Cruz",
+    "Juan Tomás Díaz": "Juan Tomás Díaz",
+    "José René Román": "José René Román",
+    "Román": "Román",
+    "Balcácer": "Balcásser",
+    "Ramfis": "Ramfís",
+    "Balaguer": "Balaguér",
+    "Estrella Sadhalá": "Estréya Sadalá",
+    "García Guerrero": "García Guerrero",
+    "Pedro Livio Cedeño": "Pedro Livio Sedeño",
+    "Cedeño": "Sedeño"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un martes, no un miércoles",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El ajusticiamiento de Trujillo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un martes, no un miércoles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "República Dominicana, 30 de mayo de 1961. A las cinco de la tarde, Antonio de la Maza recibe un aviso que nadie esperaba: esta noche. El dictador Rafael Leónidas Trujillo va a viajar a San Cristóbal. Y hoy es martes, no miércoles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante semanas, los conjurados habían creído que Trujillo hacía ese viaje cada miércoles, solo con su chófer y sin escolta. En mayo lo habían intentado tres veces, los días 17, 24 y 25. Las tres fallaron: cambió de ruta, retrasó el viaje o salió antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Treinta y un años de poder absoluto sostenidos por una rutina. Y esa rutina se rompió el único día en que varios de los hombres del plan estaban fuera de la capital. Un plan largamente preparado se jugó al final con los que había a mano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Trujillo gobernaba el país desde 1930. El plan tenía tres grupos: uno de acción, uno político y uno militar. Debía matar al dictador, detener a su familia y a sus colaboradores principales y abrir el camino a elecciones libres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las ocho y media, cerca de la Feria Ganadera, los hombres disponibles se repartieron las armas. Entre ellos estaban Antonio Imbert Barrera, Salvador Estrella Sadhalá, Amado García Guerrero y Antonio de la Maza. Se dispusieron en tres coches a lo largo de la autopista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco antes de las diez de la noche pasó un Chevrolet azul. Dentro iban el dictador y su chófer, Zacarías de la Cruz. Los coches de los conjurados lo alcanzaron, hubo un tiroteo de varios minutos, y Trujillo murió. El chófer resultó herido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que dicen las crónicas: sin escolta. La confianza en la rutina fue el fallo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después se llevaron el cuerpo en el maletero de un coche hasta la casa del general Juan Tomás Díaz. Allí se reunieron los conjurados, unas dos horas después, para dar el siguiente paso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La segunda parte del plan debía ocurrir esa misma noche: con Díaz y con el secretario de las Fuerzas Armadas, el general José René Román, se detendría y depondría a la familia Trujillo. Esa parte nunca llegó a ponerse en marcha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El historiador Juan Daniel Balcácer, que lo narró en el Archivo General de la Nación, dice que fue por factores imprevistos y no los desarrolla. Yo tampoco lo haré. Anoto solo el resultado: los que mataron al dictador se quedaron sin el resto del plan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La muerte se conoció el 31 de mayo por la tarde, primero por la radio. La misma noche empezó la cacería. Según Diario Libre, no tuvo precedentes: allanamientos y búsqueda de cualquiera con algún vínculo con los conjurados, de adultos, jóvenes, ancianos, mujeres y religiosos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los conjurados fueron cayendo. Pedro Livio Cedeño, herido, fue el primero en ser apresado. A casi todos los mataron o fusilaron los agentes de la dictadura y Ramfis Trujillo, hijo del dictador, a lo largo de 1961. No hubo juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo sobrevivieron Antonio Imbert Barrera, que murió en 2016, y Luis Amiama Tió. Ambos permanecieron ocultos. Amiama no estuvo en la emboscada, pero formaba parte de la conjura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra nota. Ramfis Trujillo y Joaquín Balaguer difamaron a los conjurados, según el historiador: ambiciosos, desleales. Esa campaña dejó huella y todavía hay quien duda de sus ideales. Es una opinión de Balcácer, no un hecho probado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el país los conjurados son recordados como héroes. En la autopista donde ocurrió la emboscada se levantó un monumento a los Héroes del 30 de Mayo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente no discute si el fin justificaba el medio. Pregunta qué cuesta vivir durante treinta y un años bajo un hombre que lo decide todo. Y recuerda a quienes pagaron por intentarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El ajusticiamiento de Trujillo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Acento (Balcácer, 2023) y Diario Libre (2020). Contradicciones: hora (9:45, 10:00, 10:10, 10:15): el guion dice «poco antes de las diez». Lugar: el guion dice «cerca de la Feria Ganadera» y no cita kilómetro. Lista de participantes varía (Diario Libre añade a Juan Tomás Díaz y Modesto Díaz): se citan solo cuatro. Que el aviso a De la Maza llegó a las 17:00 sale de Acento (Báez Díaz; no se nombra). Los intentos de mayo (17, 24 y 25) y 'martes, no miércoles' son de Acento. Se omiten los fusilamientos de la Hacienda María y su fecha (sin segunda fuente) y los detalles gráficos del tiroteo. 'Treinta y un años' = 1930-1961. El monumento es el de la ficha. Se evita el término 'ajusticiamiento' salvo en el título del expediente (como en la ficha) y se presenta a Trujillo como dictador;"
+}

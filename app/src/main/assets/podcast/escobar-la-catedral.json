@@ -1,0 +1,113 @@
+{
+  "id": "escobar-la-catedral",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Pablo Escobar": "Páblo Escobár",
+    "Escobar": "Escobár",
+    "La Catedral": "La Catedrál",
+    "Medellín": "Medeyín",
+    "Envigado": "Envigádo",
+    "Rafael García Herreros": "Rafaél García Erréros",
+    "García Herreros": "García Erréros",
+    "Gaviria": "Gavíria",
+    "César Gaviria": "César Gavíria",
+    "Itagüí": "Itagüí",
+    "Los Olivos": "Los Olívos",
+    "Moncada": "Moncáda",
+    "Galeano": "Galeáno",
+    "Kiko": "Kíko",
+    "Colombia": "Colómbia",
+    "Constituyente": "Constituyénte"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una cárcel sin autoridad dentro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Catedral de Pablo Escobar. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cárcel sin autoridad dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Medellín, 19 de junio de 1991. Un helicóptero aterriza en lo alto de una montaña de Envigado. De él baja Pablo Escobar, jefe del cártel de Medellín, el hombre más buscado de Colombia. No lo detienen: llega por su propio pie, porque se ha entregado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un criminal que se entrega es una buena noticia. Un criminal que se entrega a una cárcel que ha construido él mismo es otra cosa. Mira bien dónde puso los pies."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Escobar y su organización llevaban años combatiendo la extradición a Estados Unidos con secuestros y atentados. En junio de 1991 el país estaba agotado. Se entregó tras una negociación en la que medió un sacerdote muy conocido en Colombia, Rafael García Herreros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El padre García Herreros, famoso por su programa de televisión El Minuto de Dios, cruzó mensajes con Escobar y habló con el consejero de Seguridad del presidente. Creía que Escobar quería entregarse por miedo a que lo mataran si lo encerraban en la cárcel de Itagüí. Fue el puente entre los dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo día, la Asamblea Nacional Constituyente aprobó prohibir la extradición de colombianos. Para el cártel, era justo lo que buscaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que no se debe pasar por alto. El Gobierno de César Gaviria había dictado un decreto que permitía someterse a la justicia. Pero la cárcel era la parte que no cuadraba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Catedral era un recinto de tres hectáreas en un terreno que resultó ser del propio Escobar. Tenía campo de fútbol, gimnasio y grandes ventanales. Según la revista Semana, el contrato de la obra recogía una cláusula: ninguna autoridad policial ni militar podría entrar en la parte interna."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es decir: el Estado le entregaba la llave. Recibía invitados, vivía con su familia y, según la prensa de la época, seguía dando órdenes a su organización desde dentro. Eso acabó sabiéndose."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los primeros días de julio de 1992, según la Comisión de la Verdad de Colombia, Escobar mandó matar dentro de La Catedral a dos de sus socios, Gerardo «Kiko» Moncada y Fernando Galeano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando un preso asesina a dos personas dentro de una cárcel del Estado, el Estado ya no puede fingir que no pasa nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno ordenó una operación militar para retomar el control y trasladar a Escobar a una cárcel ordinaria. La operación provocó un motín de sus hombres y el secuestro de dos funcionarios públicos. En la madrugada del 22 de julio de 1992, Escobar se fugó a pie, aprovechando la niebla y la zona boscosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atención a este dato: la cárcel estaba rodeada por soldados de la cuarta Brigada del Ejército. Según la Comisión de la Verdad, la fuga se produjo igualmente. Cómo exactamente, no queda claro en las fuentes que he podido abrir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Escobar pasó otros diecisiete meses huyendo. El 2 de diciembre de 1993, cuando cumplía cuarenta y cuatro años, murió abatido por la policía en una casa del barrio de Los Olivos, en Medellín."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Catedral dejó de ser cárcel. Hoy es un lugar que visitan turistas con guías locales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que tener cuidado con la leyenda. Escobar fue un jefe de organización criminal, no un personaje de película. Detrás de la cárcel de lujo hay una cadena de atentados, secuestros y muertes. Las cifras de víctimas del cártel varían mucho según las fuentes, y por eso no doy ninguna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que no varía es esto: fueron cientos de víctimas, jueces, policías, periodistas, candidatos y gente anónima que tomaba un autobús o un vuelo. Sus nombres están en los archivos de Colombia, no en las visitas guiadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esas son las historias que merece guardar este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La Catedral de Pablo Escobar. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Datos de Infobae (2021), Comisión de la Verdad y la ficha. No se abrieron The New York Times, Semana (la cláusula contractual sale de Infobae, que cita a Semana) ni El Tiempo. La Comisión de la Verdad dice que la fuga se produjo con la guarnición de la IV Brigada protegiendo; Infobae dice que escapó a pie por la niebla y el bosque. Se evita la versión «vestido de mujer». La votación de la Constituyente «el mismo día» sale de la ficha. Decreto: Infobae cita el decreto 2047 de Gaviria (rebaja de pena por sometimiento); el guion no da el número. Los 44 años de Escobar el 2 de diciembre de 1993 (nació el 1 de diciembre de 1949) no salen de las fuentes abiertas: comprobar. «Diecisiete meses» = julio de 1992 a diciembre de 1993 (cálculo). Cifras de víctimas del cártel no se dan."
+}

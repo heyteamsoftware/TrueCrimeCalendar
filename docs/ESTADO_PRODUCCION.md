@@ -46,8 +46,8 @@ Hecho antes: `brady` (piloto).
 | mayo A | homolka beck bryant holmes | ✓ homolka y beck; bryant y holmes en curso |
 | mayo B | bellfield fish murano dahmer | ✓ hecho (4/4) |
 | mayo C | bianchi chase escalero kurten | ✓ hecho (4/4) |
-| junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |
-| julio | jones hindley magnotta onoprienko yang | lanzado |
+| junio | berkowitz sutcliffe shawcross little pedrinho | ✓ hecho (5/5) |
+| julio | jones hindley magnotta onoprienko yang | ✓ hecho (5/5) |
 | agosto A | bathory miyazaki lucas alcala | ✓ hecho (4/4) |
 | agosto B | gein bernardo franklin | ✓ hecho (3/3) |
 | septiembre A | desalvo gillesrais kearney | ✓ hecho (3/3) |

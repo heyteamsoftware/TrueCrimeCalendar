@@ -37,3 +37,5 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **Coherencia de menores entre cintas:** norris nombra a las menores de bittaker; la cinta de bittaker no. Hay que decidir una sola regla para los dos.
 - **kearney:** es el caso peor documentado; la fecha de las declaraciones de culpabilidad necesita segunda fuente.
 - **bernardo:** comprobar si hubo audiencia de libertad condicional posterior a noviembre de 2024.
+- **berkowitz y magnotta:** comprobar la audiencia de libertad condicional de Berkowitz de 2026 y el estado actual de Magnotta tras su traslado de 2024.
+- **hindley:** repite los nombres de menores de brady; aplicar la misma decisión a las dos cintas.

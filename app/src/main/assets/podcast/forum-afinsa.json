@@ -1,0 +1,109 @@
+{
+  "id": "forum-afinsa",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Sellos que valían una fracción",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Fórum Filatélico y Afinsa. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Sellos que valían una fracción."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 9 de mayo de 2006. Por la mañana, la policía entra en las sedes de dos empresas que llevan años anunciándose en los periódicos: Fórum Filatélico y Afinsa. Por orden de la Audiencia Nacional, quedan intervenidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Vendían sellos. Pero casi nadie los compraba para mirarlos: se compraban como inversión, con la promesa de una rentabilidad mejor que la del banco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un producto que promete más que el banco y sin riesgo debería hacer sonar una alarma. En este caso, sonó años antes. Nadie la oyó, o nadie quiso oírla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El mecanismo era sencillo. El cliente entregaba su dinero a cambio de un lote de sellos. La empresa le prometía venderlo más caro o, si no aparecía comprador, comprarlo ella misma, con intereses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Tribunal Supremo, los sellos no valían ni una pequeña parte de lo que pagaban los clientes. Y en Afinsa, su valor era el que la propia empresa les asignaba, sin que lo reconociera el mercado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La clave está en de dónde salía el dinero. Los sellos no se vendían de verdad. Cuando vencía un contrato, la empresa pagaba al cliente antiguo con lo que acababa de entregar el cliente nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Funciona mientras llegue dinero nuevo. Cuando el flujo se detiene, el sistema se hunde. Es el esquema piramidal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, las cuentas anuales mostraban beneficios: en Fórum, más de treinta y cuatro millones de euros en 2001 y casi cuarenta y cuatro en 2003. Eran beneficios que no existían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las señales estaban a la vista. En 2001, según Diagonal, una denuncia ante la Fiscalía ya hablaba de actividades de tipo bancario encubiertas. Según el reportaje de Diagonal, en 2004 una asociación de consumidores denunció que los sellos estaban sobrevalorados al menos cinco veces. Y la intervención no llegó hasta 2006."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro apunte del reportaje: en 2003, la vigilancia de estas empresas pasó al Ministerio de Sanidad y Consumo, sin los reguladores financieros. Nadie con la misión de mirar sus cuentas como las de un banco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando llegó, la Agencia Tributaria y la Fiscalía Anticorrupción calcularon un desfase patrimonial de más de tres mil quinientos millones de euros. Se hablaba de unas trescientas cincuenta mil personas perjudicadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ahorradores corrientes, gente que había confiado su dinero a una marca que salía en los medios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se juzgó en dos procesos. En 2016, la Audiencia Nacional condenó a los responsables de Afinsa. En 2018, a los de Fórum."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2017, el Supremo confirmó las condenas de once exdirectivos de Afinsa, incluido su presidente, Juan Antonio Cano: hasta ocho años y siete meses de cárcel por estafa agravada, insolvencia punible y falsedad de las cuentas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los condenados debían pagar de forma solidaria dos mil quinientos setenta y cuatro millones de euros a más de ciento noventa mil titulares de contratos de Afinsa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y fíjate en el matiz. Una cosa es lo que dice la sentencia, y otra, lo que se cobra. Entre la condena y el dinero recuperado suele haber un abismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 2020, el Supremo confirmó también la estafa piramidal de Fórum Filatélico. Dieciséis condenados, con penas de entre seis meses y once años y diez meses. La más alta, para su expresidente, Francisco Briones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los ahorradores recibirán lo que entregaron, descontando lo recuperado en la liquidación de la empresa y sin los intereses prometidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta del expediente no es el engaño, que ya existía en tiempos de los Ponzi. Es que durante años estuvo a plena luz, anunciado en los periódicos y avalado por una apariencia de normalidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detrás de cada contrato había una persona que creyó que guardaba sus ahorros en un lugar seguro. Ese es el recuerdo que importa de este caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Fórum Filatélico y Afinsa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifras de afectados dispares (300.000 prensa de 2006; 350.000 Diagonal; las notas del CGPJ hablan de 190.022 titulares de 269.570 contratos en Afinsa): se dice «cientos de miles». Las notas del CGPJ dan los acusados solo con iniciales; Briones y Cano salen de la ficha, Wikipedia y la prensa. El «desfase patrimonial superior a 3.500 millones» lo atribuyen Diagonal (2006) a la Agencia Tributaria y a la Fiscalía Anticorrupción; es una cifra de la investigación, no de sentencia. Las penas máximas de las notas del Supremo: 8 años y 7 meses para el expresidente de Afinsa (2017) y 11 años y 10 meses para el de Fórum (2020). La cifra de 2.574 millones es la indemnización fijada en la sentencia de Afinsa. No consta que hubiera detenciones el 9 de mayo de 2006, solo registros e intervención."
+}

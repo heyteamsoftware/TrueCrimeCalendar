@@ -1,0 +1,118 @@
+{
+  "id": "sarin-metro-tokio",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kasumigaseki": "Kasumigaséki",
+    "Aum Shinrikyo": "Aum Shinrikío",
+    "Shoko Asahara": "Shoko Asajára",
+    "Asahara": "Asajára",
+    "Matsumoto": "Matsumoto",
+    "Kamikuishiki": "Kamikuishíki",
+    "Hibiya": "Jibiya",
+    "Aleph": "Álef",
+    "Nagano": "Nagano"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Lunes, hora punta",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El ataque con sarín del metro de Tokio. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Lunes, hora punta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tokio, lunes 20 de marzo de 1995, hora punta de la mañana. Los trenes del metro van llenos de gente que va a trabajar. En varios vagones, algunos viajeros empiezan a toser. Otros dicen que ven borroso. Algo ha entrado en el aire, y nadie sabe qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los trenes siguen su camino hacia el mismo punto: la estación de Kasumigaseki, bajo los ministerios del Gobierno japonés. Allí pasan tres líneas, la Hibiya, la Chiyoda y la Marunouchi."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el lugar. No es un barrio cualquiera: es el corazón administrativo del país. Quien eligió estas tres líneas sabía adónde llevaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinco miembros de la secta Aum Shinrikyo habían dejado el gas en cinco vagones. Era sarín, un agente nervioso. Otros cinco los esperaban en coches para huir. No vamos a detallar cómo lo hicieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Gobierno japonés, murieron trece personas y más de cinco mil ochocientas resultaron heridas. Entre los muertos hubo viajeros y también personal del metro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las cifras varían según la fuente, porque algunas víctimas murieron años después y los heridos se cuentan de modos distintos. Hay quien da doce, quien da catorce. Yo me quedo con las del Ministerio de Justicia japonés: trece."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El líder de la secta era Shoko Asahara, que había dejado atrás su nombre de nacimiento, Chizuo Matsumoto. Había fundado Aum Shinrikyo en los años ochenta como una escuela de yoga. Con el tiempo se convirtió en un grupo que anunciaba el fin del mundo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según Time, Asahara había profetizado que cualquier intento del Gobierno de cerrar la secta sería el principio del fin. Guarda esa frase, porque explica lo que pasó después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No era la primera vez. En junio de 1994, la secta había liberado sarín en la ciudad de Matsumoto, en la prefectura de Nagano. Murieron ocho personas y hubo cientos de heridos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Asahara supo que la policía preparaba un registro en las instalaciones de la secta, previsto para dos días después. Según el Gobierno japonés, ordenó el ataque del metro para frenarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que se entienda lo que eso significa. No fue una venganza ni un arrebato. Fue una decisión para ganar tiempo. Y miles de personas pagaron con su salud los días que él quiso ganar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No lo consiguió: desde ese día, todas las miradas fueron hacia la secta. En los días siguientes la policía registró sus instalaciones. En el complejo de Kamikuishiki, al pie del Monte Fuji, los agentes encontraron toneladas de productos químicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 16 de mayo de 1995, Asahara fue detenido en una habitación oculta de ese mismo complejo. Más de doscientos miembros de la secta acabaron arrestados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mira la secuencia. Un registro que iba a ser rutinario acaba convertido en una investigación que desmantela la secta, porque quien debía temerlo decidió adelantarse. Es el error de quien cree que puede detener a la justicia con un golpe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Asahara fue condenado a muerte en febrero de 2004 y la sentencia fue firme en 2006. En total, ciento noventa miembros de la secta fueron declarados culpables, y trece recibieron la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 6 de julio de 2018, Asahara fue ahorcado junto a seis seguidores. El 26 de julio, otros seis condenados de la secta fueron ejecutados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El caso está cerrado en lo judicial. Lo que queda es el rastro de la secta. Un tribunal ordenó su disolución en octubre de 1995. El grupo cambió de nombre y hoy se llama Aleph."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los jueces dieron por probado quién lo hizo y quién lo ordenó. Lo que ningún tribunal puede devolver son las trece vidas ni la salud de los miles de heridos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No es un expediente sobre una secta. Es un expediente sobre una mañana de lunes, con gente que iba a trabajar y que no sabía lo que respiraba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la memoria de Tokio, el 20 de marzo no es la fecha de una secta. Es el día en que trece personas no volvieron a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El ataque con sarín del metro de Tokio. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Time (2015), HISTORY (2025), Nippon.com (cronología, 2018) y Wikipedia en inglés; el PDF del Ministerio de Justicia no se pudo leer (binario) y la cifra de trece muertos y más de 5.800 heridos se toma de la ficha. Discrepancia: Time e HISTORY dan 12 muertos, Wikipedia 14; se usa 13 (Gobierno japonés). Nippon.com da unos 6.000 heridos. Matsumoto 1994: ocho muertos (Nippon.com). La orden de Asahara para frenar un registro previsto para el 22 de marzo sale de la ficha y de Wikipedia. No se describe el método."
+}

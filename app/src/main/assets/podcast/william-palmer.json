@@ -1,0 +1,112 @@
+{
+  "id": "william-palmer",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "William Palmer": "Uíliam Pámer",
+    "Palmer": "Pámer",
+    "Rugeley": "Rúyli",
+    "Staffordshire": "Stáfordshir",
+    "Stafford": "Stáford",
+    "John Parsons Cook": "Yon Pársons Cuk",
+    "Cook": "Cuk",
+    "Talbot Arms": "Tálbot Armz",
+    "Old Bailey": "Old Béili",
+    "Shrewsbury": "Shrúsberi",
+    "Londres": "Londres",
+    "Alfred Swaine Taylor": "Álfred Suéin Téilor",
+    "Taylor": "Téilor",
+    "Stevens": "Stívens",
+    "Campbell": "Cámbel"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Unas píldoras en Rugeley",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El envenenador de Rugeley. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Unas píldoras en Rugeley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rugeley, en el condado de Staffordshire. Poco después de la medianoche del 21 de noviembre de 1855, en una habitación de la posada Talbot Arms, muere John Parsons Cook. Estaba enfermo desde hacía una semana. Le atendía un médico del pueblo, amigo suyo, que vivía justo enfrente de la posada. Se llamaba William Palmer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cook era aficionado a las carreras de caballos. Pocos días antes, su yegua había ganado una carrera en Shrewsbury y le debían apuestas y premios. Palmer, también apostador, acumulaba deudas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre gana un dinero, cae enfermo y muere frente a la casa de su amigo el médico. Cuando el médico es también el amigo con deudas, hay que mirar con cuidado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Palmer había pedido dinero prestado a prestamistas, y según la acusación falsificó la firma de su madre en unos pagarés. El 6 de noviembre, uno de los prestamistas presentó reclamaciones por cuatro mil libras. La aseguradora se negó a pagar una póliza de su hermano Walter, fallecido en agosto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la acusación, la noche del 20 de noviembre Palmer consiguió estricnina y la puso en unas píldoras que dio a Cook. Cook murió a las pocas horas. Un médico anciano firmó el certificado de defunción: apoplejía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate: el certificado lo consiguió el propio Palmer. Quien no se tragó la versión fue el padrastro de Cook, William Stevens. Pidió que se investigara, y esa insistencia es lo que separa un caso olvidado de un expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La autopsia del día 26 estuvo marcada por la presencia de Palmer, que según los relatos se acercó a los médicos y tuvo contacto con las muestras. Un famoso toxicólogo, Alfred Swaine Taylor, analizó lo que le llegó. En el cuerpo no se encontró estricnina. Se halló antimonio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el problema de este caso. Sin veneno en el cuerpo, la defensa dijo que Cook había muerto de tétanos o de una enfermedad de los nervios. La acusación dependía de testigos, de las deudas y de lo que se hizo con las muestras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de diciembre, el jurado de la investigación judicial dictó un veredicto de asesinato voluntario, y Palmer ingresó en la cárcel de Stafford. Había un obstáculo: se temía que un jurado local, en su condado, no pudiera juzgarle con imparcialidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una ley especial de 1856 permitió trasladar el juicio al Old Bailey, en Londres. Duró doce días, del 14 al 27 de mayo. El juez principal, lord Campbell, resumió las pruebas durante dos días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay historiadores que sostienen hoy que el traslado tuvo motivos políticos. Y el propio lord Campbell escribió después que en Stafford probablemente Palmer habría sido absuelto. Lo anoto sin sacar conclusiones: es una opinión, no un hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 27 de mayo de 1856, el jurado deliberó una hora y dieciocho minutos y declaró culpable a Palmer del asesinato de Cook. Fue condenado a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le ahorcó el 14 de junio ante la cárcel de Stafford. Según algunas fuentes, unas treinta mil personas acudieron a verlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Qué quedó sin aclarar? Primero, si la estricnina fue de verdad lo que mató a Cook. El jurado dijo que sí, pero algunos estudiosos creen que las pruebas eran insuficientes. Segundo, las demás muertes de su entorno: su esposa, su hermano, un amigo, cuatro hijos pequeños. Se sospechó, pero nunca se juzgaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa es una condena por un solo asesinato. El resto es sospecha, y así debe quedar. Pero el caso cambió algo más: puso en el centro del debate público cómo se prueba un envenenamiento y qué papel tienen los expertos en la sala."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y queda el hombre que murió en la posada. John Parsons Cook ganó una carrera, esperaba cobrar lo que le debían y terminó en una habitación frente a la casa del hombre en quien confiaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente es sobre un juicio. Pero empieza y termina con una persona que confió en su médico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El envenenador de Rugeley. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en inglés) y la introducción de Knott (1912, solo los primeros 100.000 caracteres; no se leyó el resumen del juez ni la ejecución). Las 30.000 personas en la ejecución y que Campbell pensara que en Stafford habría sido absuelto, y que algunos historiadores ven motivos políticos en el traslado, salen solo de Wikipedia; se atribuyen. Lo de la autopsia de Palmer 'en contacto con las muestras' es prudente: Wikipedia dice que interfirió y se llevó contenido del estómago. Fecha de la autopsia (26 nov) e inquest (14 dic) y 4.000 libras, de Knott. Antimonio, de Knott. Fecha y horas del veredicto, de la ficha. Cook 'enfermo una semana' (14 nov Shrewsbury, 17 nov Rugeley según Knott). Wikipedia dice que Cook cayó enfermo tras beber ginebra y dijo que creía que Palmer le drogaba; no se usa. 'Médico anciano firmó el certificado de apoplejía' sale de Wikipedia. Las sospechas de otras muertes se presentan sin juzgar."
+}

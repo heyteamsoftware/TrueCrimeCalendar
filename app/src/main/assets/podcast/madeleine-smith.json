@@ -1,0 +1,111 @@
+{
+  "id": "madeleine-smith",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Madeleine Smith": "Mádelin Smiz",
+    "Madeleine": "Mádelin",
+    "Smith": "Smiz",
+    "Pierre Emile L'Angelier": "Pier Emíl Langelié",
+    "L'Angelier": "Langelié",
+    "Blythswood Square": "Blíszwud Skuér",
+    "Glasgow": "Glásgou",
+    "Jersey": "Yérsi",
+    "Minnoch": "Mínoc",
+    "Edimburgo": "Edimburgo",
+    "Wardle": "Uórdl"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una taza de cacao",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Madeleine Smith. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una taza de cacao."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Glasgow, madrugada del 23 de marzo de 1857. Un empleado de comercio nacido en la isla de Jersey, Pierre Emile L'Angelier, muere en su alojamiento tras una noche de dolores atroces. Tiene unos treinta años. Lo que se descubre después en su habitación va a escandalizar a toda Escocia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre sus cosas, la policía encuentra cartas. Muchas. Son cartas de amor escritas por una joven de la alta sociedad de Glasgow: Madeleine Smith, hija de un arquitecto acomodado, que vive con su familia en Blythswood Square."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una joven de buena familia y un empleado extranjero. En aquel Glasgow, eso por sí solo era un escándalo. Los dos se escribían a escondidas desde 1855. Una biografía habla de unas doscientas cincuenta cartas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres de Madeleine habían prohibido la relación. Para ellos, él no tenía ni posición ni dinero. Ella siguió viéndolo en secreto, y le prometió matrimonio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A comienzos de 1857, Madeleine aceptó casarse con otro hombre, un socio de su padre, William Minnoch. Le pidió a L'Angelier que le devolviera las cartas. Según varias fuentes, él se negó, y amenazó con enseñárselas a su padre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el motivo que sostuvo la acusación: librarse de quien podía arruinarla. Es un motivo creíble. Pero fíjate en que un motivo no es una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madeleine había comprado arsénico, y la policía lo averiguó. Ella dijo en cartas que lo usaba para el cutis. El arsénico se vendía entonces en farmacias, con solo firmar un registro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación sostuvo que se lo dio disuelto en una taza de cacao, durante sus citas nocturnas, en la casa de ella. L'Angelier había contado a amigos que se sentía enfermo desde hacía semanas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ahora la parte incómoda para esa tesis. Según una biografía publicada por EBSCO, la cantidad de arsénico hallada en su cuerpo era mucho mayor de lo que cabía en una taza de cacao. Y la defensa sostuvo que nunca se probó que se vieran las noches señaladas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madeleine fue juzgada en Edimburgo, entre el 30 de junio y el 9 de julio de 1857. Fueron nueve días. En la sala se leyeron sus cartas, lo que provocó un escándalo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro dato que no te puedo callar. El diario de L'Angelier no se admitió como prueba. Y varios testigos recordaron que él había hablado de intentos de suicidio tras haber sido rechazado por otra mujer. Una versión que la acusación no pudo descartar del todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado deliberó unos treinta minutos. El veredicto fue «no probado»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que se entienda este veredicto, porque en Escocia es distinto del resto del mundo. «No probado» no dice «inocente» y no dice «culpable». Dice que la acusación no demostró su caso. Y ella salió libre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madeleine abandonó Escocia. En 1861 se casó en Londres con George Wardle. Tuvieron dos hijos y acabaron divorciándose. Más tarde emigró a Estados Unidos y murió en Nueva York en 1928."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Durante generaciones, el público discutió su culpa. Escritores de la época como Henry James o George Eliot la creyeron culpable. Otros pensaron que se la había absuelto por ser mujer. Ninguna de esas opiniones es un hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie más fue juzgado. Tampoco se aclaró con certeza si L'Angelier murió por mano ajena, por un accidente con el veneno que él también conocía, o por su propia mano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que queda del expediente: una muerte, una absolución y una pregunta sin respuesta. Y no pongo nombre a la respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pierre Emile L'Angelier tenía unos treinta años. Su memoria quedó cubierta por las cartas de ella y por un veredicto ambiguo. Que se recuerde también a él: un joven que murió solo, una madrugada de marzo, lejos de su casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Madeleine Smith. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

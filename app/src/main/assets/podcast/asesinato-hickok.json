@@ -1,0 +1,104 @@
+{
+  "id": "asesinato-hickok",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Wild Bill": "Uáild Bil",
+    "Hickok": "Jíkok",
+    "Deadwood": "Dédwud",
+    "Jack McCall": "Yak Macól",
+    "McCall": "Macól",
+    "Nuttall y Mann": "Nátal y Man",
+    "Yankton": "Yánkton"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una silla de espaldas a la puerta",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La mano del muerto. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una silla de espaldas a la puerta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Deadwood, territorio de Dakota, 2 de agosto de 1876. Media tarde. En el saloon de Nuttall y Mann se juega al póquer. Un hombre ocupa la silla que menos le gusta: la que deja su espalda a la puerta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba James Butler Hickok. Todo el Oeste lo conocía como Wild Bill. Nacido en Illinois en 1837, había ganado fama de pistolero, y una revista de Nueva York lo hizo célebre en todo el país. Ya no vivía de sus tiroteos, sino de su leyenda. Le fallaba la vista y se ganaba la vida jugando a las cartas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Hickok solía sentarse en un rincón, de cara a la entrada. Esa tarde pidió cambiar de sitio y le dijeron que no. Fue un asiento. Y es el detalle que más se recuerda de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un joven con un revólver cruzó el local. Jack McCall se detuvo a su espalda y disparó una sola vez. Hickok murió en el acto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y un dato que cuenta la historia por sí solo: según History.com, McCall apuntó después a los demás presentes, pero el resto de cartuchos del revólver no funcionó. Aquella tarde pudo haber más muertos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "McCall intentó huir a caballo. Se cayó, porque la silla estaba floja, y unos hombres lo atraparon. Cuenta la tradición que Hickok llevaba en la mano ases y ochos: la famosa mano del muerto. Los historiadores dudan de que sea cierto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Antes de nada: ¿por qué? McCall dijo que la víspera Hickok le había humillado en la mesa. Otros aseguran que fue un encargo. Nunca se aclaró, y hoy el móvil sigue discutido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, en un teatro, mineros y comerciantes de Deadwood formaron un jurado improvisado. McCall dijo que había vengado a su hermano, al que Hickok habría matado en Kansas. El jurado lo absolvió en dos horas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está la ironía. Ese hermano, según los historiadores, no existió. Un periódico local escribió que, si algún día mataba a alguien, quería que lo juzgasen en aquellos campamentos mineros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero Deadwood estaba en tierras indias: no existía allí un sistema legal reconocido. McCall se jactaba de su hazaña en Wyoming, lo detuvieron en Laramie y el tribunal federal de Yankton decidió que aquel juicio no valía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Piensa en el problema jurídico: nadie puede ser juzgado dos veces por lo mismo. Pero si el primer juicio no tuvo validez, la segunda vez es la primera. Así lo resolvió el tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Yankton, McCall se declaró inocente. Sus abogados se limitaron a buscar fallos de forma y la defensa no llamó a ningún testigo. Según la crónica, a sus abogados les dijo que era un encargo y les dio nombres. Nunca se probó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 6 de diciembre de 1876 lo declararon culpable. Alegó que estaba demasiado borracho para recordar. El juez lo condenó a la horca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 1 de marzo de 1877 fue ejecutado en Yankton. Tenía unos veinticuatro años. Fue la primera ejecución federal en el territorio de Dakota."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Qué falló? El primer juicio no era un juicio. Fue una escena montada a toda prisa, en un campamento sin ley, por vecinos que no querían investigar nada. Que luego se corrigiera es casi un milagro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hickok llevaba apenas unos meses en Deadwood. Está enterrado allí, en el cementerio de Mount Moriah. Su leyenda lo sobrevivió a él y a su asesino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el hombre bajo el mito. Un pistolero cansado que ya no disparaba, al que mataron por la espalda. Eso, y una silla. A McCall la prensa de la época lo describió como un cobarde, y así lo recuerda la historia de Dakota del Sur."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La mano del muerto. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: la ficha dice que el juicio de Deadwood fue el día siguiente (3 de agosto); Wikipedia lo sitúa «al día siguiente» y que el jurado deliberó dos horas. Wikipedia atribuye la sentencia al juez Granville Bennett; SDPB (Zimny) dice que la sentencia fue al mes siguiente (enero de 1877) y la ficha nombra al juez Shannon: el guion no nombra al juez ni la fecha de la sentencia. Hickok nació en 1837 (History.com); no se da su edad. History.com: el resto de cartuchos del revólver no funcionó (Wikipedia no lo recoge). Detalle de la silla, de la tarde y la caída del caballo: Wikipedia (en inglés), basada en relatos populares; History.com sitúa el local como «n.º 10»; el guion usa Nuttall y Mann, como la ficha. La mano del muerto (ases y ochos) se da como tradición dudosa. La contratación de McCall (asesino a sueldo) aparece solo en el artículo de SDPB y se da como lo que dijo a sus abogados, sin probar. Edad de McCall: unos 24 años (Wikipedia)."
+}

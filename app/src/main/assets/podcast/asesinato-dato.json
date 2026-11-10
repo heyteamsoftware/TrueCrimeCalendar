@@ -1,0 +1,120 @@
+{
+  "id": "asesinato-dato",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Eduardo Dato": "Eduárdo Dáto",
+    "Dato": "Dáto",
+    "Puerta de Alcalá": "Puerta de Alcalá",
+    "Indian": "Índian",
+    "Ciudad Lineal": "Ciudad Lineál",
+    "Pedro Mateu": "Pédro Matéu",
+    "Mateu": "Matéu",
+    "Luis Nicolau": "Luís Nicoláu",
+    "Nicolau": "Nicoláu",
+    "Ramón Casanellas": "Ramón Casanéllas",
+    "Casanellas": "Casanéllas",
+    "Primo de Rivera": "Prímo de Riveéra",
+    "Alfonso XIII": "Alfonso trece",
+    "Casa de Socorro": "Casa de Socórro",
+    "Alemania": "Alemania"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una moto con sidecar",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Eduardo Dato. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una moto con sidecar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 8 de marzo de 1921. Al caer la tarde, el presidente del Gobierno, Eduardo Dato, sale del Senado en su coche camino de casa. Al llegar a la plaza de la Independencia, junto a la Puerta de Alcalá, una motocicleta con sidecar se pone a su altura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres ocupantes de la moto abren fuego. Según el Congreso de los Diputados, el coche recibió ocho balazos, y Dato, cinco impactos. Llegó ya sin vida a la Casa de Socorro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. A plena luz del anochecer, en pleno centro de Madrid. Había amenazas y un supuesto intento frustrado una semana antes. Y, aun así, según el Congreso, no se reforzó su escolta. Esa es la parte que me quita el sueño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dato era uno de los políticos más veteranos de la Restauración. Llevaba pocos meses en la presidencia. Murió a los sesenta y cuatro años, y su muerte conmocionó al país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No es mi trabajo juzgar su política. Pero un presidente asesinado por tres hombres en una moto, y una policía que llega tarde: eso sí es de mi competencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La moto, una Indian con sidecar, fue la clave. En menos de tres días, según una crónica, la Guardia Civil la localizó en un garaje de Ciudad Lineal, con armas y munición. De ahí se llegó a la casa de Pedro Mateu."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mateu fue detenido. Los otros dos autores habían huido. Luis Nicolau escapó a Alemania, y Ramón Casanellas, a la Unión Soviética."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que no pasó. Alguien que huye después de un atentado político suele tener una red, un lugar al que ir, gente que lo esconda. Los tres eran sindicalistas barceloneses, de la CNT."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la sentencia de la Audiencia de Madrid, los tres llegaron a Madrid unos días antes y prepararon el atentado con gran libertad. Y actuaron, según la Audiencia, por oposición a Dato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mateu declaró durante el juicio que actuaban en protesta por la ley de fugas, el método con el que se mataba a detenidos en Barcelona, en plena guerra entre pistoleros y sindicalistas. El fiscal sostuvo que el complot se fraguó en Barcelona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es una explicación, no una excusa. Que el Estado cometiera abusos no justifica que se mate a un hombre en la calle. La violencia de arriba alimentó la de abajo, y los dos tipos de violencia mataron a gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alemania extraditó a Nicolau en 1922, con la condición de que no se le aplicara la pena de muerte. Casanellas, desde la Unión Soviética, escribió cartas asumiendo que era el único responsable. Se le juzgó en rebeldía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de octubre de 1923, la Audiencia de Madrid condenó a muerte a los tres. Se esperaba que la sentencia no se ejecutara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Así fue. El rey Alfonso XIII, a petición del dictador Primo de Rivera, conmutó la pena por cadena perpetua el 18 de enero de 1924, según El Independiente. Nicolau había llegado de Alemania con esa promesa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mateu y Nicolau salieron de prisión en 1931 con la amnistía de la Segunda República. Una condena de muerte que se convierte en libertad en menos de ocho años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mateu llegó a decir, en una entrevista de 1967, que creían que si eliminaban a Dato, su sucesor sería mejor y las cosas cambiarían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No cambiaron. Dato fue enterrado dos días después. El Gobierno decretó tres días de luto, y sus restos se trasladaron al año siguiente al Panteón de Hombres Ilustres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El crimen no resolvió nada. Fue el tercer presidente del Gobierno asesinado en menos de tres décadas. Y se sumó a una espiral de violencia política y social que duraría hasta la dictadura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda la memoria de un hombre que volvía a casa tras una jornada en el Senado. Y de lo fácil que fue matarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Eduardo Dato. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Discrepancias: Wikipedia dice cadena perpetua desde el principio; el Congreso y El Independiente, condena a muerte conmutada (se sigue la segunda). Amnistía de 1931: la ficha dice Mateu y Nicolau; El Independiente dice que los tres; el guion nombra solo a Mateu y Nicolau. Edad de Dato (64) y 'pocos meses en la presidencia': contexto general, verificar. Hora: 20:15 (El Independiente) o 'al caer la tarde'. Cinco impactos y ocho balazos: Congreso; otra fuente dice tres disparos mortales (no se usa). 'Mateu: carta/entrevista 1967': El Independiente. 'Ley de fugas' explicación citada de Mateu en el juicio. 'Dictadura' alude a Primo de Rivera (1923). Tercer presidente asesinado: Congreso."
+}

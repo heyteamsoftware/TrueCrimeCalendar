@@ -1,0 +1,97 @@
+{
+  "id": "marqueses-urquijo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La puerta de la piscina",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de los marqueses de Urquijo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La puerta de la piscina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Somosaguas, a las afueras de Madrid, 1 de agosto de 1980. A las nueve de la mañana, la criada de un chalé sube al primer piso y encuentra muertos a sus dueños, cada uno en su dormitorio. Habían sido tiroteados mientras dormían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran María Lourdes de Urquijo, marquesa de Urquijo, heredera de una dinastía de banqueros, y su marido, Manuel de la Sierra, presidente del Banco Urquijo. Alguien había entrado de noche, según la prensa, por la puerta de la piscina."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No se llevó nada: el robo se descartó enseguida. El arma no apareció nunca. Quien entró sabía a qué casa iba y qué quería. Eso reduce mucho la lista, y sin embargo la lista fue larga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era un año duro, con ETA muy activa, y se pensó en el terrorismo. También se barajó una trama financiera: el banco negociaba entonces su integración en el Hispano Americano, y el marqués se oponía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota, y es de las que me quitan el sueño. Según la prensa, el administrador de la familia mandó lavar los cuerpos antes de que llegaran los forenses y se destruyeron papeles de la caja fuerte. Ni la policía ni el juez lo investigaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía acabó mirando al yerno, Rafael Escobedo, casado desde 1978 con la hija de los marqueses, Miryam. El marqués desconfiaba de él, el matrimonio estaba roto y ella había pedido la nulidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según se contó años después, cuatro días antes del crimen Escobedo amenazó en una discusión con hundir a sus suegros. Es una frase recogida por la prensa, no una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El inspector José Romero Tamaral visitó la finca de la familia Escobedo, en la provincia de Cuenca, y recogió casquillos que coincidían con los del crimen: de una pistola del calibre veintidós. El 8 de abril de 1981 detuvieron a Escobedo y lo llevaron a la Dirección General de Seguridad, en Madrid."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Aquí se tuerce el expediente. Escobedo contó años después que firmó una confesión bajo presión. Esa hoja y los casquillos desaparecieron antes del juicio. Un caso que se apoya en pruebas que ya no están sobre la mesa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1983 fue condenado a cincuenta y tres años de cárcel. La sentencia dijo que mató a los marqueses «por sí solo o en compañía de otros». Escobedo siempre se declaró inocente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa fórmula es una confesión de duda del propio tribunal. Si lo hizo solo, ¿quién abrió la puerta? Si no, ¿quién estaba con él? Nadie respondió, y el fiscal llegó a reconocer que otros podían haberse librado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo un segundo nombre: Javier Anastasio, procesado en la misma causa, pasó tres años en prisión provisional y huyó. En 2010 la causa contra él se archivó por prescripción, sin juicio. Nunca fue condenado: no se le puede atribuir el crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 27 de julio de 1988, Escobedo apareció muerto en su celda del penal de El Dueso, en Cantabria. La versión oficial fue suicidio, sin carta alguna."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con cautela. Su abogado encargó una segunda autopsia que halló cianuro. No se demostró que nadie se lo diera. Es una duda abierta, no una conclusión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Por qué sigue discutiéndose el caso? Una escena alterada, pruebas perdidas, una sentencia ambigua y un único condenado que murió proclamando su inocencia. Cuando la justicia deja tantos huecos, la certeza no llega."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda lo que sí consta. Dos personas fueron asesinadas en su cama, en su propia casa. Sus hijos, Miryam y Juan Manuel, perdieron a sus padres en una sola noche, y después tuvieron que verlo convertido en espectáculo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia, al menos, no acabó para ellos con una explicación completa. Acabó con un expediente al que le faltan páginas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de los marqueses de Urquijo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: fecha de la sentencia (julio de 1983 según la ficha y Wikipedia, octubre de 1983 según ESdiario): el guion dice solo 1983. Lugar de la detención de Escobedo (Cuenca o Madrid) varía; se dice que se le detuvo el 8 de abril de 1981 y se le llevó a la Dirección General de Seguridad, según la ficha y ESdiario. Fuentes abiertas: Economist & Jurist (2021), ESdiario (2025). De ESdiario salen: administrador que mandó lavar los cuerpos (también en Economist & Jurist, que añade la destrucción de papeles), desaparición de los casquillos y de la confesión escrita, y la tortura alegada por Escobedo (no se afirma, solo que firmó «bajo presión» según él). La amenaza del 28 de julio sale de Economist & Jurist y se da como relato de prensa. Se deja fuera lo que ESdiario dice que Anastasio escribió en sus memorias de 2017 (que habría llevado a Escobedo a Somosaguas), por no estar contrastado y no haber sido juzgado; tampoco se da el número ni orden de los disparos. Anastasio huyó en 1987 según la ficha; ESdiario dice que tras tres años de prisión provisional. Segunda autopsia con cianuro: ficha y ESdiario."
+}

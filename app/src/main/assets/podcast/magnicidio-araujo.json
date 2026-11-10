@@ -1,0 +1,110 @@
+{
+  "id": "magnicidio-araujo",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Heimke": "Jáimke"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una serenata en el parque",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El magnicidio del parque Bolívar. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una serenata en el parque."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Salvador, noche del 4 de febrero de 1913. En el parque Bolívar toca la banda de los Supremos Poderes. Es una serenata, de las que se celebraban en los parques. En un banco escucha, casi sin escolta, el presidente de la república, Manuel Enrique Araujo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De repente, unos hombres se lanzan sobre él. Hay machetes. Hay disparos. Y en unos segundos, la serenata es otra cosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un presidente sentado en un parque público, de noche, sin escolta que lo cubra. Hoy parece una imprudencia. Aquella noche fue la grieta por la que entró el ataque."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Araujo era médico, formado en la Universidad de El Salvador y en Francia. Entre las medidas de su gobierno estuvieron una ley de accidentes de trabajo y la creación de la Guardia Nacional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La confusión fue enorme. Las crónicas posteriores hablan de tres atacantes. El telegrama diplomático del día siguiente, escrito con los datos de las primeras horas, habla de unos cinco hombres y de cinco disparos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos relatos, dos cifras. No es un fallo de nadie: es lo normal cuando un atentado se cuenta de oídas, en la oscuridad, mientras la gente corre. Pero explica por qué cuesta tanto reconstruir lo que pasó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo acompañaban su sobrino y dos amigos. Recibió cinco heridas de machete y un balazo en el hombro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veo un detalle en el telegrama del representante de Estados Unidos, el señor Heimke, fechado al día siguiente. Aquella mañana, mientras los cirujanos suturaban la herida en la Casa Presidencial, los médicos la consideraban muy seria, pero no necesariamente mortal. Tenían esperanzas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No fue así. Tras días de agonía, Araujo murió la tarde del 9 de febrero en el hospital Rosales, cinco días después del ataque. Es el único presidente asesinado en la historia de El Salvador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres campesinos fueron detenidos: Virgilio Mulatillo, Fermín Pérez y Fabián Graciano. Declararon que el instigador era un mayor, Fernando Carmona. También lo detuvieron a él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí empiezan mis dudas. Carmona murió en la cárcel a los tres días, antes de declarar. La versión oficial, según El Mundo, fue suicidio. El hombre que podía contar quién estaba detrás, mudo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres campesinos fueron juzgados en un proceso sumario y fusilados en febrero, a las dos semanas del ataque."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser claro con lo que sabemos. A los tres los fusilaron por haber atacado al presidente, pero el juicio fue rápido, y nadie investigó con calma quién les había mandado, ni si fue alguien. No es una acusación. Es una laguna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En unas dos semanas murieron cinco hombres por este caso: el presidente, el mayor y los tres campesinos. Ninguno dejó una explicación documentada de quién ordenó el ataque. Todo se cerró con rapidez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se barajaron varias explicaciones. Una conspiración política interna. Rumores de asuntos personales. Incluso la mano de un gobierno extranjero. Ninguna se probó, según El Mundo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El telegrama de Estados Unidos añade algo curioso: pensaba que el atentado solo buscaba sacar a Araujo del poder. La república, decía, estaba en completa calma, y el mismo día se decretó la ley marcial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno decretó treinta días de luto, y más de quince mil personas lo acompañaron en sus exequias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy todavía se le recuerda. No por la forma de su muerte, sino por lo que proyectaba: un médico en la presidencia, reformas sociales, finanzas ordenadas y oposición a endeudarse con el extranjero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un pueblo entero, un parque, una serenata. Y de todo eso, solo quedan tres fusilados y un mayor muerto. La autoría intelectual sigue sin saberse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Si algún día se abre un archivo nuevo, tal vez aparezca el nombre. Pero la memoria de quien murió en aquel banco no necesita ese nombre para existir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El magnicidio del parque Bolívar. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Mundo (El Salvador) y el telegrama de la legación de EE. UU. (FRUS, extracto). Contradicciones: el telegrama habla de unos cinco atacantes, cinco disparos y las 21:30; El Mundo y la ficha, de tres campesinos y dos balazos; el guion dice «unos hombres» y «tres campesinos fueron detenidos» y no cita horas. Fusilamiento: «trece días después» según El Mundo (hacia el 17) y el 19 de febrero según la Wikipedia: el guion dice solo «febrero». Carmona: El Mundo da como versión oficial el suicidio a los tres días; la ficha dice que murió en la cárcel antes de declarar; el guion dice lo segundo y «versión oficial: suicidio» atribuida a El Mundo. No se nombra al gobernante extranjero que algunos señalaron como instigador (nunca probado ni acusado). No se incluye la acusación a Prudencio Alfaro (solo Wikipedia). Los dos primeros nombres del acompañante son de El Mundo."
+}

@@ -1,0 +1,122 @@
+{
+  "id": "eliza-fenning",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Eliza Fenning": "Ílaisa Fénning",
+    "Fenning": "Fénning",
+    "Chancery Lane": "Chánseri Lein",
+    "Orlibar Turner": "Órlibar Térner",
+    "Turner": "Térner",
+    "Robert Gregson": "Róbert Grégson",
+    "Charlotte": "Chárlot",
+    "Roger Gadsden": "Róyer Gádsden",
+    "Gadsden": "Gádsden",
+    "Old Bailey": "Old Béili",
+    "Newgate": "Niugueit",
+    "William Hone": "Uíliam Joun",
+    "Hone": "Joun",
+    "John Silvester": "Yon Silvéster",
+    "Silvester": "Silvéster",
+    "Charles Dickens": "Chárls Díkens",
+    "Londres": "Londres"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una masa de levadura",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Eliza Fenning. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una masa de levadura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 21 de marzo de 1815. En una casa del número sesenta y ocho de Chancery Lane, la familia Turner se sienta a comer. Hay unas bolas de masa de levadura, de las que se hacen con harina y leche. Las ha preparado la cocinera, Eliza Fenning, que lleva dos meses en la casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después, Orlibar Turner, su hijo Robert Gregson y su nuera Charlotte se sienten muy mal. Un aprendiz, Roger Gadsden, probó un trozo y también enferma. Eliza, que había comido de las mismas bolas, enferma con ellos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Apunta esto antes de nada: la persona a la que luego acusaron de envenenar a la familia comió de lo mismo y cayó enferma. Quien quiere matar no suele probar el plato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie murió. Se recuperaron todos. Pero alguien descubrió arsénico mezclado en la masa, y la sospecha cayó sobre ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación sostuvo que había pedido permiso para hacer las bolas, que estuvo sola en la cocina mientras las preparaba y que el veneno no estaba ni en la harina ni en la leche. También que conocía el cajón de la oficina donde se guardaba el arsénico, para los ratones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pon cada afirmación en su sitio. Que estuviera sola en la cocina es lo normal en una cocinera. Y sobre el cajón, esto dice la Gazette: estaba cerrado con llave, y no se probó que ella supiera dónde estaban las llaves."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Del motivo se dijo que podía ser la venganza por una amenaza de despido de la señora Turner. Eliza negó siempre haber hecho nada. Cinco testigos declararon que era una joven respetable y de buen carácter."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en el tribunal del Old Bailey, en abril de 1815. Se la juzgó por intento de asesinato. El resumen final del juez, Sir John Silvester, fue duramente contrario a ella. El jurado la declaró culpable."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquella justicia no era la de hoy. Según la Law Society Gazette, la acusada no pudo declarar. Su abogado se marchó antes del resumen, y el juez negó que se llamara a otro testigo de la defensa porque, dijo, era tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando oyó la sentencia de muerte, Eliza cayó al suelo en un ataque y la sacaron de la sala sin sentido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muchos londinenses creían en su inocencia. Hubo peticiones de clemencia. El día antes de la ejecución se reunieron en el Ministerio del Interior el lord canciller, el juez que la había condenado y otros. Concluyeron que no había motivo para intervenir."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los síntomas del arsénico todavía no se sabían explicar bien: según la Gazette, pasaron unos veinte años hasta que alguien pudo hacerlo. Se condenó a una persona con pruebas que nadie sabía interpretar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de julio de 1815, Eliza Fenning fue ahorcada ante la prisión de Newgate. Antes de morir proclamó su inocencia: dijo que, ante Dios, no era culpable de lo que se la acusaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinco días después, su entierro llevó a las calles de Londres a miles de personas, hasta diez mil según los cronistas. Seis niñas vestidas de blanco acompañaron el féretro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa multitud es un documento. Cuando miles de personas caminan detrás de una condenada, no están diciendo que sepan la verdad. Están diciendo que no se fían de la sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El editor William Hone publicó ese mismo año un libro de más de doscientas páginas que examinaba el caso punto por punto. Hoy se considera un hito del periodismo de investigación. Entre quienes creyeron en su inocencia estuvo Charles Dickens."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No pretendo reabrir un juicio de hace dos siglos. Digo lo que consta: nunca se probó que Eliza tuviera acceso al veneno ni un motivo claro, y la condena no se revisó. Hubo rumores sobre otros culpables, mal documentados, y no los repetiré."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La causa de la enfermedad de aquella tarde nunca se aclaró. Lo que sí quedó, con nombre y fecha, fue una mujer joven, cocinera de oficio, que fue ahorcada proclamando que no lo había hecho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Muchos la han considerado inocente desde entonces. Yo me quedo con la duda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Eliza Fenning. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Law Society Gazette (Morton, 2019), Wikipedia en inglés y Encyclopedia.com (no leída en detalle); el Old Bailey, Hone y el British Museum no se abrieron. Discrepancias con la ficha: (1) edad: la ficha dice 22 años, la Gazette 18 y Wikipedia c.1792 (unos 22); el guion no da edad. (2) La ficha y el título hablan de «albóndigas», pero Wikipedia y la Gazette dicen yeast dumplings, bolas de masa de levadura (dumplings); el guion dice «bolas de masa de levadura». (3) Fecha del juicio: Wikipedia dice 11 de abril, la ficha el acta del 5 de abril; el guion dice solo abril. (4) El padre de la familia: acta «Haldebart», Wikipedia «Orlibar»; se usa Orlibar. (5) Wikipedia dice que Eliza enfermó y que Orlibar, Robert y Charlotte enfermaron tras el almuerzo; la Gazette sitúa la casa en 68 Chancery Lane como de Robert Gregson Turner. Se omiten la supuesta confesión posterior de un Turner y los rumores contra otras personas (mal documentados). El entierro: Gazette y Wikipedia, 10.000 asistentes. Lugar de la ejecución (frente a Newgate) no verificado en dos fuentes."
+}

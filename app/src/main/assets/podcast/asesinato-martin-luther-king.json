@@ -1,0 +1,114 @@
+{
+  "id": "asesinato-martin-luther-king",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Martin Luther King": "Mártin Lúzer King",
+    "King": "King",
+    "Memphis": "Mémfis",
+    "Lorraine": "Lorrén",
+    "James Earl Ray": "Yeims Erl Rei",
+    "Ray": "Rei",
+    "Jowers": "Yáuers",
+    "Raoul": "Raúl",
+    "Atlanta": "Atlánta"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un bulto en la acera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Martin Luther King. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un bulto en la acera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Memphis, jueves 4 de abril de 1968, un minuto después de las seis de la tarde. Un solo disparo suena en el motel Lorraine. En el balcón de su habitación, Martin Luther King cae herido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después, la policía encuentra algo en la acera, delante de una tienda de discos, a pocos pasos de una pensión. Es un bulto envuelto. Dentro hay un rifle."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un rifle abandonado con prisa en plena calle. Quien disparó no se llevó el arma, y ese descuido es lo que permitió a los investigadores empezar a tirar del hilo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "King había ido a Memphis a apoyar una huelga de los trabajadores de la limpieza. Una marcha anterior, el 28 de marzo, había acabado en violencia y con la muerte de un adolescente negro. King se marchó de la ciudad, prometió volver, y volvió. La noche anterior pronunció su último sermón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo llevaron a un hospital de Memphis. Murió esa misma tarde. Tenía treinta y nueve años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la reacción. En las horas siguientes hubo disturbios en muchas ciudades y se desplegó a la Guardia Nacional. Aquel disparo no mató solo a una persona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación se concentró en el rifle. Sobre el arma y su mira había huellas de James Earl Ray, un preso que se había fugado de una cárcel de Misuri en abril de 1967."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI descubrió que Ray viajaba con un pasaporte canadiense con identidad falsa. Lo buscaron durante dos meses."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Huellas, testigos y un arma: con eso, la acusación tenía lo esencial. Y Ray, un fugitivo, tenía motivos para esconderse. Dos meses de caza internacional. El 8 de junio, Scotland Yard lo detuvo en Londres, cuando intentaba salir hacia Bélgica. Más tarde dijo que quería llegar a Rodesia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue extraditado y, en marzo de 1969, se declaró culpable en un tribunal de Memphis. Evitó así el juicio y la silla eléctrica. En 2000, el Departamento de Justicia siguió viendo en él al autor del disparo. Lo condenaron a noventa y nueve años de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Subraya esto: no hubo juicio. Las pruebas nunca se examinaron ante un jurado penal. Eso explica en parte que el caso nunca se cerrara en la mente de mucha gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres días después, Ray intentó retirar su declaración. Dijo que era inocente y que lo habían engañado un hombre al que llamaba Raoul. Pidió un juicio durante casi treinta años y murió en 1998 sin conseguirlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La viuda y los hijos de King acabaron apoyando esa petición. Para la familia, hubo una conspiración detrás del disparo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay que ser exacto. En 1979, un comité de la Cámara de Representantes concluyó que Ray disparó, y que quizá existió una conspiración pequeña, pero sin pruebas. No hubo más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1999, en Memphis, un jurado civil, en el proceso llamado King contra Jowers, concluyó que el dueño de un local, Loyd Jowers, y otras personas, incluidas agencias del Gobierno, habían conspirado para matar a King."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Departamento de Justicia lo revisó en 2000. Encontró las acusaciones de Jowers contradictorias y sin pruebas, no halló ninguna prueba fiable de ese Raoul y concluyó que no había motivo para seguir investigando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos veredictos, dos conclusiones. Un jurado civil y una investigación oficial. El expediente no puede decidir por ti, pero sí debo recordarte que nunca hubo una sentencia tras un juicio penal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "King fue enterrado en Atlanta el 9 de abril. Decenas de miles de personas acompañaron el cortejo. El féretro lo llevó un carro de granja tirado por dos mulas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que merece quedar en el archivo no es el rifle, ni el pasaporte falso. Es el hombre que había ido a una ciudad a apoyar a unos trabajadores que pedían un trato justo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Martin Luther King. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Departamento de Justicia de EE. UU. (informe de 2000) y History.com (2025). Detención: la ficha dice Heathrow y History.com «un aeropuerto de Londres»; el DOJ dice solo Londres; el guion dice «Londres». Fecha del informe del DOJ: el sitio habla de junio de 2000 en la ficha; el guion dice «en 2000». Hospital: la ficha dice St. Joseph; History.com dice solo «un hospital de Memphis»; se dice «un hospital de Memphis». Disparo: «una sola vez» (DOJ). La familia King apoyó a Ray y sostiene que hubo conspiración (History.com); el jurado civil de 1999 le dio la razón y el DOJ lo rebatió; se cuenta como duda documentada. Que Ray se declarara culpable evitó un juicio, por lo que las pruebas no se examinaron ante un jurado penal; se dice. El Comité de la Cámara de 1979 (History.com): conspiración pequeña posible, sin pruebas. No se abrieron el artículo del NYT ni el informe del comité."
+}

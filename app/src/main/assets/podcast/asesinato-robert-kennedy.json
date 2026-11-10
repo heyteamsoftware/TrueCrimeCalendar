@@ -1,0 +1,110 @@
+{
+  "id": "asesinato-robert-kennedy",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Robert F. Kennedy": "Róbert Éf Kénedi",
+    "Kennedy": "Kénedi",
+    "Ambassador": "Ambásador",
+    "Sirhan Sirhan": "Sirján Sirján",
+    "Sirhan": "Sirján",
+    "Good Samaritan": "Gud Samáritan",
+    "Karl Uecker": "Karl Úker",
+    "Rosey Grier": "Rousi Gráier",
+    "Paul Schrade": "Pol Shréid",
+    "Arlington": "Árlington",
+    "Los Ángeles": "Los Ángeles",
+    "Martin Luther King": "Mártin Lúzer King",
+    "Newsom": "Níusom"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un pasillo detrás del salón",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Robert F. Kennedy. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un pasillo detrás del salón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ángeles, madrugada del 5 de junio de 1968. En el salón de baile del hotel Ambassador, los seguidores de Robert F. Kennedy celebran su victoria en las primarias demócratas de California. Ese día ha ganado también en Dakota del Sur. El senador acaba de hablar. Y decide salir por un camino más corto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Atraviesa la cocina del hotel, un pasillo estrecho entre mesas y carros, saludando al personal. El maître Karl Uecker le guía por delante. Hay mucha gente, mucho ruido. Y entre ellos, un joven con un revólver."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Lo que me llama la atención es el recorrido. El discurso se hizo en un salón, pero el senador salió por la cocina. Hasta ese momento, no parece que nadie tuviera por qué esperarlo ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sirhan Sirhan disparó a corta distancia con un revólver del calibre veintidós. Kennedy cayó herido y otras cinco personas, entre ellas el sindicalista Paul Schrade, resultaron heridas. Varios hombres se abalanzaron sobre el agresor, entre ellos el atleta Rosey Grier. Sirhan fue detenido allí mismo, con el arma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kennedy fue llevado al hospital Good Samaritan. Murió en la madrugada del 6 de junio, casi un día después, a los cuarenta y dos años. Era hermano del presidente asesinado cinco años antes y venía de ser fiscal general."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos meses antes habían matado a Martin Luther King. Y el país estaba dividido por la guerra de Vietnam. Mucha gente veía en Kennedy a alguien capaz de unirlo. Eso explica la sacudida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sirhan tenía veinticuatro años y había nacido en Palestina. Al registrarlo, la policía encontró un recorte de prensa sobre el apoyo de Kennedy a Israel. Es uno de los datos que se manejaron sobre su motivo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Digo manejaron, porque el motivo siempre fue discutido. No vamos a especular sobre lo que pensaba. Lo documentado es lo que se juzgó: un hombre, un arma y numerosos testigos en una cocina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril de 1969, un jurado lo declaró culpable de asesinato. Fue condenado a muerte. En 1972, la ley de California cambió y la pena se convirtió en cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene lo que no cierra del todo para algunos. Circulan teorías de un segundo tirador, basadas en la posición de las heridas y en el análisis de una grabación de audio. El FBI no halló respaldo en 1975. Un juez federal rechazó en 2015 un recurso de su defensa basado en esa idea. Ningún tribunal las ha aceptado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la Wikipedia, en 1975 se fijó para Sirhan una fecha de libertad para 1984, pero se anuló en 1982 por amenazas de muerte que habría hecho desde la cárcel. Hasta 2023 se le habían denegado diecisiete peticiones de libertad condicional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sirhan sigue en prisión en California. En 2021, una junta recomendó su libertad condicional. En enero de 2022, el gobernador Gavin Newsom la rechazó, y en marzo de 2023 se le volvió a denegar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los heridos estuvo Paul Schrade, dirigente sindical, que había acompañado al senador esa noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El féretro fue llevado a Nueva York, donde se celebró la misa fúnebre el 8 de junio. Después, un tren llevó el cuerpo hasta la capital del país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos hermanos asesinados en cinco años, los dos en plena vida pública. Esa es la cuenta amarga que el país tuvo que hacer en aquel verano de 1968, y que sigue pesando en la memoria de la familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kennedy fue sepultado en el Cementerio Nacional de Arlington, junto a su hermano John."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el hotel ya no existe. En su solar hay hoy escuelas con el nombre del senador. Es una forma de memoria menos ruidosa que la de las teorías, y quizá más justa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Robert F. Kennedy. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: en.wikipedia y HISTORY.com. HISTORY.com dice que Johnson y Grier sometieron a Sirhan, y en.wikipedia que Grier y Plimpton intentaron desarmarlo (y no describe a Johnson haciéndolo); el guion nombra solo a Grier. La hora del disparo: poco después de medianoche (00:15 aprox.). Condena: HISTORY.com la fecha el 3 de marzo de 1969 y la ficha da el veredicto en abril; el guion dice abril de 1969 sin condena formal. El guion usa la versión de la ficha para 2021-2023. La teoría del segundo tirador no tiene respaldo judicial. No se abrieron las páginas de AP, LA Times y NYT (bloqueadas). Se quita la cifra de la ficha de heridos nombrando solo a Schrade (en.wikipedia)."
+}

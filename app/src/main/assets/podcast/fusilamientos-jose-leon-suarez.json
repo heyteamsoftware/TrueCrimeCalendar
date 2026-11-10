@@ -1,0 +1,109 @@
+{
+  "id": "fusilamientos-jose-leon-suarez",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "José León Suárez": "Josélion Suárez",
+    "Rodolfo Walsh": "Rodólfo Gualsh",
+    "Walsh": "Gualsh",
+    "Juan José Valle": "Juan José Báyie",
+    "Valle": "Báyie",
+    "Livraga": "Livrága",
+    "Julio Troxler": "Julio Tróxler",
+    "Operación Masacre": "Operación Masacre"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una pelea de boxeo por la radio",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Operación Masacre. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una pelea de boxeo por la radio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Florida, provincia de Buenos Aires, noche del 9 de junio de 1956. En una casa del fondo, unos hombres escuchan por radio una pelea de boxeo. Algunos esperan, además, otra cosa: una proclama que dé la señal de un levantamiento contra la dictadura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche, la policía bonaerense irrumpe en la casa. Detiene a los hombres. Hay entre doce y quince, según las fuentes, aunque lo más repetido es que fueron doce."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una pelea de boxeo como coartada. Hombres sentados ante una radio. Se habían reunido para escuchar la radio, y la policía los trató como rebeldes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En otro lugar del país, el general Juan José Valle encabezaba un alzamiento peronista contra el gobierno militar. Fracasó antes de empezar. Poco después de la medianoche, ya el 10 de junio, se difundió un decreto de ley marcial que permitía fusilar a los rebeldes detenidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atención al orden. Los de Florida habían sido detenidos antes de ese decreto. La ley marcial se proclamó después. Es el hecho que Rodolfo Walsh usaría para demostrar que su fusilamiento no era legal ni siquiera según las normas de la dictadura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De madrugada, los llevaron a un basural de José León Suárez. Estaban allí por orden del jefe de la policía provincial, Desiderio Fernández Suárez. La orden de disparar la dirigió el comisario Rodolfo Rodríguez Moreno."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinco hombres murieron: Carlos Lizaso, Nicolás Carranza, Francisco Garibotti, Vicente Rodríguez y Mario Brion. Siete lograron huir en la oscuridad. Algunos fueron capturados de nuevo y otros se escondieron o se refugiaron en una embajada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Siete supervivientes. Esa cifra es lo que lo cambia todo. En una masacre sin testigos, la historia desaparece. Aquí hubo siete que pudieron contarla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noche del 9 de junio, el escritor Rodolfo Walsh estaba en un bar de La Plata. Oyó tiros, pero el asunto no le interesó. Seis meses después, el 18 de diciembre de 1956, alguien le dijo: «Hay un fusilado que vive»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frase es documentada: la recoge la prensa argentina, y se volvió el emblema del caso. Un hombre vivo que podía hablar. Y Walsh lo buscó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con ayuda de una colaboradora, Enriqueta Muñiz, Walsh entrevistó a los supervivientes. El superviviente más conocido fue Juan Carlos Livraga, al que la prensa llamó «el muerto que vive». Publicó la investigación primero en una revista y, en 1957, en el libro «Operación Masacre»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso llegó a la Corte Suprema en 1957, pero fue derivado a un tribunal militar. No volvió a abrirse durante casi setenta años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que me inquieta. Uno de los supervivientes, Julio Troxler, fue asesinado en 1974, según recoge el Buenos Aires Herald, por la Triple A. Quien sobrevivió a un fusilamiento no sobrevivió a la historia siguiente del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los responsables no fueron juzgados en vida. En junio de 2026, setenta años después, un juzgado federal de San Martín celebró un juicio por la verdad. Como los acusados ya habían muerto, no podía haber condenas penales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juzgado declaró los fusilamientos crímenes de lesa humanidad y responsable al Estado. La sentencia atribuyó la responsabilidad a Aramburu, Rojas, Fernández Suárez y Rodríguez Moreno, todos fallecidos. No consta si fue recurrida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Setenta años para un papel que diga lo que muchos ya sabían. No es justicia penal, pero es registro oficial. Y para las familias, eso importa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Buenos Aires Herald, Livraga, el único superviviente que seguía vivo, tenía noventa y cuatro años y vivía en Estados Unidos. No declaró, pero presentó un relato escrito."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco hombres que escuchaban un combate de boxeo. Eso es lo que debe quedar en el archivo: no una conspiración, sino cinco nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Operación Masacre. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Infobae (2023), Buenos Aires Herald (2026) y la ficha. Orden de los hechos: se sigue la ficha (detención antes de la medianoche del 9, fusilamiento de madrugada del 10, ley marcial difundida a las 0:32 del 10). Infobae da entre 12 y 15 detenidos y el Herald 12; el guion dice entre doce y quince y 'lo más repetido, doce'. El Herald sitúa la casa en Vicente López (Florida es una localidad de ese partido). Los nombres de los cinco muertos salen de Infobae; que Troxler fue asesinado en 1974 por la Triple A, del Herald. Que Walsh hablara con los supervivientes con ayuda de Enriqueta Muñiz, de Infobae. Infobae da el juicio por la verdad de 2023 (jueza Alicia Vence) y el Herald el de 2026; el guion usa la sentencia de 2026 de la ficha (Aramburu, Rojas, Fernández Suárez y Rodríguez Moreno); no consta si fue recurrida. La ficha dice juzgado federal n.º 2 de San Martín. No se abrieron La Capital, la nota del Gobierno bonaerense ni el libro de Walsh."
+}

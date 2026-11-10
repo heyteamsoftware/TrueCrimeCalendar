@@ -1,0 +1,107 @@
+{
+  "id": "masacre-eldorado-carajas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Eldorado dos Carajás": "Eldorádo dus Carayás",
+    "Pará": "Pará",
+    "Belém": "Belén",
+    "curva do S": "cúrva du ése",
+    "Pantoja": "Pantóya",
+    "Mário Colares Pantoja": "Mário Colares Pantóya",
+    "José Maria Pereira de Oliveira": "Yosé María Pereira de Oliveira",
+    "Almir Gabriel": "Almír Gabriél",
+    "Paulo Sette Câmara": "Páulo Sete Cámara",
+    "Niemeyer": "Nimaier"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La curva del S",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Eldorado dos Carajás. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La curva del S."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estado de Pará, Brasil, 17 de abril de 1996. Una carretera, en un tramo conocido como «la curva do S». Por ella avanzan más de mil quinientos campesinos sin tierra. Llevan días caminando hacia Belém, la capital, a casi novecientos kilómetros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Caminan porque esperaban que el Estado les diera una hacienda. Se habían instalado en la finca Macaxeira, y el organismo de reforma agraria les había prometido expropiarla. Pero un informe técnico declaró productiva la propiedad. Era el final de la espera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No eran una turba. Eran familias con un reclamo concreto y una carretera por delante. Lo que se estaba discutiendo era un informe técnico. Anótalo, porque la historia de este día empieza en un papel y acaba en el asfalto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Policía Militar del estado, con unos ciento cincuenta agentes, había recibido la orden de despejar la vía. Según los campesinos oídos por la prensa, los policías llegaron lanzando gas lacrimógeno. Después abrieron fuego."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Amnistía Internacional lo resumió así: una hora después de empezar el desalojo, diecinueve personas yacían muertas. Muchas habían recibido disparos de cerca. Dos más morirían después, a causa de las heridas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Aquí está el fallo que lo condiciona todo. Los agentes fueron imputados en bloque, ciento cincuenta y cinco, pero no se hicieron pericias de las armas ni de los proyectiles. Nadie pudo decir qué policía había disparado a quién."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La ley penal brasileña exige individualizar la conducta de cada acusado. Sin peritajes, los veintiún homicidios quedaron sin autor concreto. En octubre de 1996, el procurador general de la República pidió que la Policía Federal rehiciera la investigación, por sus defectos técnicos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay otro dato que no encaja. El secretario de Seguridad del estado, Paulo Sette Câmara, declaró después que había autorizado usar la fuerza necesaria, incluso disparar. Y el procurador sostuvo que el gobernador, Almir Gabriel, conocía y autorizó el desalojo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ni el gobernador ni el secretario fueron juzgados. Amnistía Internacional lo calificó de burla del principio de responsabilidad en la cadena de mando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio llegó en junio de 2002, seis años después. Se sentó a ciento veintisiete policías y diecinueve mandos. Todos fueron absueltos salvo los dos oficiales que dirigían la operación: el coronel Mário Colares Pantoja, condenado a doscientos veintiocho años, y el mayor José Maria Pereira de Oliveira, a ciento cincuenta y ocho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cifra tan alta suena a justicia. No lo fue del todo. Los dos recurrieron y siguieron libres. Amnistía, a los diez años, decía que ninguno de los implicados había pisado la cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El coronel fue detenido el 7 de mayo de 2012, y poco después el mayor. Habían pasado dieciséis años desde la matanza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La masacre tuvo una repercusión internacional que obligó a reaccionar. Una semana después, el Gobierno federal creó el Ministerio de Reforma Agraria. Según un dirigente del movimiento sin tierra, la Delegación de Conflictos Agrarios y la Defensoría Agraria nacieron también de aquella presión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con cautela. Amnistía advertía en 2006 de que Pará seguía siendo un estado donde los asesinatos por disputas de tierra quedaban casi siempre impunes. Según la Comisión Pastoral de la Tierra, hubo trescientos veinte trabajadores asesinados en el estado entre 1996 y 2019."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan ellos. Veintiuna personas que marchaban con los suyos, con sus hijos, hacia una ciudad lejana, para pedir un trozo de tierra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo un primer monumento a las víctimas: proyectado por el arquitecto Oscar Niemeyer e inaugurado en septiembre de 1996. Fue destruido a los pocos días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veinticinco años después, el movimiento de los sin tierra seguía recordando aquella tarde con actos por todo el país. Y los muertos del campo en Pará seguían contándose."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Eldorado dos Carajás. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: 1) Marchantes: la ficha dice unos 1.500; Brasil de Fato, más de 1.500 (de unas 3.500 familias acampadas); Wikipedia en portugués, 2.500 acampados y 4.221 con otros manifestantes. El guion usa «más de mil quinientos». 2) Policías: ficha, unos 155; Brasil de Fato, 150; Wikipedia, 155 imputados. Se dice «unos ciento cincuenta» en la cinta y 155 en la imputación. 3) Muertos: 19 en el lugar (Amnistía) y 21 en total (Brasil de Fato, Wikipedia). 4) La infobox de Wikipedia en portugués pone «condenados en 2012», pero el juicio y la condena fueron en junio de 2002 (Amnistía 2006) y la prisión en mayo de 2012 (ficha; la nota de UOL no se pudo abrir). Las penas de 228 y 158 años solo se han leído en Wikipedia en portugués. El mayor ingresó «poco después»: dato no comprobado en UOL. La orden del secretario de Seguridad y la afirmación del procurador sobre el gobernador son de Wikipedia en portugués (atribuidas). Gobernador y secretario no juzgados: Amnistía. Defensoría y Delegación Agraria: atribuido a un dirigente del MST en Brasil de Fato. 320 asesinados 1996-2019: Comisión Pastoral de la Tierra vía Brasil de Fato. Monumento de Niemeyer destruido: Wikipedia en portugués. No se nombra a las víctimas."
+}

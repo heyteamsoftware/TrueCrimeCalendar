@@ -1,0 +1,115 @@
+{
+  "id": "asesino-baraja",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Galán": "Galán",
+    "Puertollano": "Puertoyáno",
+    "Tokarev": "Tókarev",
+    "Bosnia": "Bósnia",
+    "Tres Cantos": "Tres Cántos",
+    "Arganda del Rey": "Arganda del Rey"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Puntos azules en el reverso",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesino de la baraja. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Puntos azules en el reverso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Puertollano, Ciudad Real, 3 de julio de 2003. Un hombre de veintiséis años se presenta ante la policía y dice que es el asesino de la baraja. Lleva meses en los titulares. Seis personas muertas, tres heridas, y ningún sospechoso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al principio, su relato apenas tiene matices. Los agentes dudan. Hasta que añade un detalle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dice que, con un bolígrafo azul, hizo unos puntos en el reverso de las cartas que dejó junto a las víctimas. Eso no se había publicado en ningún sitio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los falsos culpables abundan en casos así. Por eso la policía guarda detalles que nunca revela. Un punto azul en un naipe vale más que cien confesiones. Ese dato cambió la forma en que lo escucharon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alfredo Galán Sotillo era natural de Puertollano y había sido cabo del Ejército. Estuvo destinado en Bosnia, y de allí se trajo una pistola. Trabajaba como vigilante de seguridad en Alcalá de Henares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Todo había empezado el 24 de enero de 2003, en la calle Alonso Cano, en Madrid. Después vendrían Alcalá de Henares, Tres Cantos, Arganda del Rey. Los lugares eran distintos y las víctimas, desconocidas entre sí."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que me quitaba el sueño. Sin relación entre las víctimas, no hay móvil que seguir. No hay una pista que parta de ellas. El único hilo era el arma, y el arma no aparecía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Disparaba a corta distancia, a personas sin ninguna relación con él. Y hubo un momento en que los naipes de la baraja española empezaron a aparecer junto a los cuerpos. Primero, el as de copas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según su propia confesión, el primero se le cayó por casualidad. Después empezó a dejarlos a propósito. La prensa hizo el resto: el asesino de la baraja."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La policía de Madrid y la Guardia Civil trabajaron durante meses con un perfil del posible autor. Galán encajaba en él. Y guardaba recortes de los periódicos con las noticias de los seis crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dijo que había tirado la pistola a un vertedero de Puertollano. Los agentes rastrearon el lugar. La pistola, sin embargo, apareció en otra parte: en casa de sus padres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era una Tokarev yugoslava, comprada en Bosnia. Las pruebas de balística concluyeron que con esa arma se habían cometido todos los crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero entonces, el hombre que se había entregado cambió de versión. Ante el juez de Madrid negó los hechos. Y en el juicio guardó silencio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que ser precisos. Retractarse no borra una confesión. Lo que cuenta es lo que se sabía solo desde dentro: el bolígrafo azul, la ropa de las víctimas, los detalles de cada escena. Y el tribunal lo valoró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 2005, la Audiencia Provincial de Madrid lo condenó a 142 años y tres meses de prisión por seis asesinatos y tres intentos. Llevó las penas al máximo por el desprecio a la vida humana que vio en su conducta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tribunal no apreció en él ninguna enfermedad psiquiátrica. Tampoco responsabilizó al Estado, aunque Galán había sido militar: ni el arma ni los hechos tenían relación con el Ejército."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La ley española limita el cumplimiento a veinticinco años. Una condena de 142 años es, en la práctica, un mensaje. Una cifra para decir lo que el tribunal pensaba de esos crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que no se aclaró del todo es el porqué. Galán dio datos contradictorios en las primeras horas, según la prensa. Nunca hubo una razón que explicara por qué cada una de aquellas personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran gente corriente: una persona en una parada de autobús, otra volviendo a su portal, otra en un bar. Seis vidas cortadas sin sentido. Tres personas más sobrevivieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Recordarlas es lo que queda. No eran un naipe ni un titular: eran personas con nombres y con familias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesino de la baraja. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Cadena SER (4/7/2003) y El Mundo/EFE (9/3/2005), por curl; El País y La Voz de Galicia no se pudieron leer. Discrepancia (ya señalada en la ficha): ante quién se entregó (Policía Local según El Mundo; comisaría según la SER); el guion dice «ante la policía». El Mundo sitúa el inicio de los naipes el 5 de febrero en una parada de Barajas; la ficha pone un tiroteo en un bar de Alcalá ese día: el guion no detalla lugares de ese día. Se deja fuera el estado psicológico de Galán (SER: en tratamiento; sentencia: sin patología psiquiátrica) salvo la mención al tribunal. Sin nombres de víctimas. No se dan datos de su situación penitenciaria actual."
+}

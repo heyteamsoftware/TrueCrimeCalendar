@@ -1,0 +1,94 @@
+{
+  "id": "asesinato-sandino",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "La Loma": "La Loma"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La cena en La Loma",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Sandino. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La cena en La Loma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Managua, 21 de febrero de 1934. Un coche sale del palacio presidencial por la noche. Dentro viajan el general Augusto Sandino, su padre, su hermano Sócrates, dos generales de su ejército y un ministro del gobierno. Acaban de cenar con el presidente. En la puerta, unos guardias les cierran el paso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el lugar. No lo detienen en una calle oscura, sino en la puerta del palacio presidencial, a la salida de una cena con el propio presidente. Eso sí lo cuentan las fuentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sandino era el hombre que había combatido durante años la ocupación estadounidense de Nicaragua. Cuando los soldados de Estados Unidos se retiraron, a finales de 1932, y llegó a la presidencia el liberal Juan Bautista Sacasa, Sandino firmó la paz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su guerrilla seguía en parte armada. Controlaba una zona del norte y tenía una influencia casi autónoma, según el relato de la BBC. La Guardia Nacional, el cuerpo de seguridad del país, estaba dirigida por Anastasio Somoza García."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos poderes armados en un solo país. Un presidente que invita a cenar a un hombre al que la Guardia no controla. Y un jefe de la Guardia con ambiciones. Ahí tienes el problema, y es de manual."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los guardias apartaron al padre de Sandino y al ministro de Agricultura, el escritor Sofonías Salvatierra, y los llevaron a la cárcel. Sandino y los dos generales, Francisco Estrada y Juan Pablo Umanzor, fueron subidos a un camión. Con ellos iba Sócrates, hermano de Sandino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los llevaron a las afueras de Managua, más allá del aeropuerto, a un descampado. Allí los fusilaron. Sandino tenía treinta y ocho años. No hubo juicio. Tampoco hubo detenidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que ser exacto con el lugar. Time habló en 1934 del cruce de La Reynaga y la Wikipedia habla de otro sitio, La Calavera. Las fuentes no coinciden. Yo prefiero decir solo que fue en las afueras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Somoza declaró entonces que el presidente era totalmente inocente. Y los partidarios del general Moncada, otro líder político, llegaron a sugerir que a Sandino lo habían matado sus propios hombres por sus intenciones de paz."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las versiones oficiales no se sostuvieron. Los relatos posteriores dicen que la orden la dio Somoza y que la preparó con unos catorce guardias nacionales, a espaldas de Sacasa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos años después, el propio Somoza afirmó que había actuado por orden del embajador de Estados Unidos. El historiador Óscar René Vargas lo cree. El escritor Humberto Belli lo duda: Estados Unidos ya se había ido del país y Sandino era, para entonces, un problema local."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi norma es sencilla: lo que Somoza dijo sobre sí mismo años después es una versión, no una prueba. Está documentado quién tenía el mando de los hombres que lo detuvieron. Prefiero quedarme con lo comprobable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sacasa, el presidente que había invitado a la cena, no sobrevivió políticamente al golpe. En 1936 Somoza tomó el poder y su familia gobernó Nicaragua durante más de cuatro décadas. Nadie fue juzgado por la noche del veintiuno de febrero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia causó tristeza e indignación en toda Latinoamérica, según Time. Los seguidores de Sandino abandonaron Managua en silencio, rumbo al norte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y la memoria hizo el resto. Un hombre al que mataron a traición se convirtió en símbolo. Cuarenta y cinco años después, en 1979, el movimiento que llevaba su nombre derrocó a la dictadura de los Somoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese es el legado político. Pero en el expediente hay otros nombres: Sócrates Sandino, Francisco Estrada y Juan Pablo Umanzor. Cuatro hombres a los que mataron de noche, a las afueras de la ciudad, sin que nadie respondiera por ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Sandino. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Time (1934) y BBC Mundo vía La Prensa (2024); La Prensa 2017, EcuRed y Wikipedia sin abrir. Contradicciones: Time dice que murieron cuatro hombres (Sandino, su hermano y los dos generales); la ficha dice que Sócrates «también fue asesinado», sin precisar el lugar; BBC/La Prensa solo habla de Sandino y sus dos lugartenientes. Se pone «Sócrates iba con ellos» y se le cuenta entre los cuatro muertos (Time). Lugar: Time, cruce de La Reynaga; ficha/Wikipedia, La Calavera; se deja «afueras». Somoza tomó el poder en 1936 (ficha) o 1937 (BBC, presidente formal): se pone 1936 con la ficha. Orden de Somoza: BBC, EcuRed, Wikipedia; Time no la dice. La frase del embajador Lane: ficha dice debate y no se incluye; aquí se menciona sin el nombre de Lane y atribuida a Somoza, con la duda de Belli: revisar si se quiere sacar. El 14 de guardias: BBC. Se omite la mención de Time a un niño de diez años muerto en una cabaña cercana (no confirmado por otras fuentes). Edad de 38 años: BBC. El nombre «Moncada»: Time; el general José María Moncada, expresidente."
+}

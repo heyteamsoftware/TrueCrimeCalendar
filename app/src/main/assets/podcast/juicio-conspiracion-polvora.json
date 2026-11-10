@@ -1,0 +1,123 @@
+{
+  "id": "juicio-conspiracion-polvora",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Guy Fawkes": "Gái Fókes",
+    "Fawkes": "Fókes",
+    "Robert Catesby": "Róbert Quéitsbi",
+    "Catesby": "Quéitsbi",
+    "Jacobo I": "Jacobo primero",
+    "Westminster Hall": "Uéstminster Jol",
+    "Edward Coke": "Éduard Cuk",
+    "Coke": "Cuk",
+    "Everard Digby": "Éverard Dígbi",
+    "Digby": "Dígbi",
+    "Holbeche House": "Jólbich Jaus",
+    "Monteagle": "Montígol",
+    "Henry Garnet": "Henri Gárnet",
+    "Garnet": "Gárnet"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Treinta y seis barriles",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Conspiración de la Pólvora. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Treinta y seis barriles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, la noche del 4 al 5 de noviembre de 1605. Durante un registro de la Cámara de los Lores, unos hombres encuentran en el sótano a un hombre que vigila treinta y seis barriles de pólvora. Hay bastante para reducir el edificio a escombros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Guy Fawkes. Había servido diez años como soldado en los Países Bajos españoles, y los conjurados le encargaron los explosivos. El plan era volar el edificio al día siguiente, en la apertura del Parlamento, con el rey Jacobo I dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Treinta y seis barriles bajo el corazón del Estado y, sin embargo, alguien avisó. Una carta anónima, enviada el 26 de octubre a un lord católico llamado Monteagle, puso en marcha el registro. Quién la escribió no se ha establecido nunca con seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El lord destinatario enseñó la carta de inmediato a las autoridades. El registro del sótano llegó en la noche del 4 de noviembre, y el hombre fue detenido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detrás había un grupo de católicos ingleses, dirigido por Robert Catesby. Eran años de persecución. Los católicos pagaban multas por no ir a los servicios protestantes y decían la misa a escondidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando Jacobo subió al trono en 1603, la esperanza fue grande: su esposa era católica y se suavizaron algunas medidas. Pero en 1605 volvió a endurecer la política religiosa, y esas esperanzas se apagaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto no justifica nada, pero explica el caldo de cultivo. El plan incluía proclamar jefa de Estado a la hija del rey, la princesa Isabel, que tenía nueve años, tras una revuelta en las Midlands."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando se supo que el plan había sido descubierto, la mayoría de los conspiradores huyó de Londres, intentando conseguir apoyos por el camino. Algunos acabaron cercados en Holbeche House, una casa en el condado de Worcestershire."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí tuvo lugar un tiroteo con el sheriff de Worcestershire y sus hombres. Catesby murió, y también otros conspiradores. Los demás fueron detenidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Después vinieron los interrogatorios, y no voy a reconstruirlos. Lo que consta es que los nombres de los conjurados acabaron saliendo a la luz y que el plan quedó al descubierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio fue el 27 de enero de 1606, en Westminster Hall. Ocho supervivientes fueron acusados de alta traición. El fiscal general, Edward Coke, llevó la acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo uno de los acusados se declaró culpable: sir Everard Digby. Todos fueron condenados por alta traición."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El proceso duró un solo día. Según MoneyWeek, todos fueron declarados culpables y condenados a la pena de los traidores, la más cruel del derecho inglés. No hace falta describirla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las ejecuciones fueron los días 30 y 31 de enero, en Londres. Fawkes murió el último día."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aparte quedó el jesuita Henry Garnet, superior de los jesuitas en Inglaterra. Se le juzgó en marzo y fue ejecutado en mayo. Conocía el plan bajo secreto de confesión, y los historiadores dudan de cuánto sabía de verdad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras el complot se aprobaron leyes contra los católicos. Aun así, muchos católicos leales siguieron en altos cargos durante el reinado de Jacobo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro cabo suelto es la carta de aviso. Se ha sospechado de un conspirador, del propio lord destinatario y de un ministro del rey. Ninguna hipótesis está probada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Inglaterra, la fecha se celebra todos los años: la noche del 5 de noviembre se encienden hogueras. Se la llama la noche de Guy Fawkes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hoy lo recordamos con hogueras y fuegos artificiales. Pero fue una conspiración para matar a muchísima gente, y acabó con ocho condenas y ocho muertes en dos días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esas fechas siguen el calendario juliano, que seguía vigente en Inglaterra. Para nuestro calendario, el juicio habría sido el 6 de febrero. Para el archivo, es la semana en que se cerró el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La Conspiración de la Pólvora. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fechas en calendario juliano (27 de enero de 1606 = 6 de febrero gregoriano); el guion lo dice. Hechos de MoneyWeek, BBC History y Wikipedia (juicio el 27 de enero, ocho acusados, solo Digby culpable, carta a Monteagle, Holbeche House, diez años de Fawkes en Flandes, plan de la princesa Isabel, leyes anticatólicas posteriores). No pude abrir en detalle Parliament.uk ni National Archives. Las ejecuciones del 30 y 31 de enero y la de Fawkes el 31 (BBC). El número de hombres que murieron con Catesby no se detalla."
+}

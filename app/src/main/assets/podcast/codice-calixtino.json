@@ -1,0 +1,110 @@
+{
+  "id": "codice-calixtino",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Calixtino": "Calikstino"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Bolsas de basura en un garaje",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El Códice Calixtino. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Bolsas de basura en un garaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "O Milladoiro, a las afueras de Santiago de Compostela, 4 de julio de 2012. Un grupo de policías registra una casa tras otra en busca de dinero. En un garaje encuentran otra cosa: un bulto envuelto en bolsas de basura y cartones, junto a una pila de ladrillos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro está el Códice Calixtino. Un libro del siglo doce, una especie de guía del Camino de Santiago. Había desaparecido de la catedral hacía exactamente un año."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en el contraste. Es el manuscrito más famoso del Camino, y estaba entre ladrillos. Los policías buscaban billetes cuando lo encontraron. Casi por casualidad. Casi."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 5 de julio de 2011, los responsables del archivo de la catedral echaron en falta el códice. Se guardaba en una cámara blindada, con tres puertas y cámaras de seguridad. No había nada forzado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto como lo que es. Nadie forzó nada. Quien se llevó el libro sabía cómo llegar hasta él. Eso reduce mucho la lista de sospechosos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía comprobó durante un año los pasos de canónigos, empleados y estudiosos. Se manejó la hipótesis de un robo para el mercado internacional del arte. A comienzos de 2012 esa hipótesis se descartó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El principal sospechoso desde entonces fue un electricista que había trabajado en la catedral durante veinticinco años. Se llamaba Manuel Fernández Castiñeiras. Según la policía, había salido del templo en malos términos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una nota sobre el móvil, con cautela. La policía sospechó que actuó por rencor. Esa es la hipótesis que se manejó. Lo que sí está probado es lo que dijo la sentencia, y lo veremos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras varios registros, los agentes encontraron más de un millón de euros en efectivo. También un juego de llaves del templo y una colección de objetos sacros, entre ellos facsímiles del propio códice."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los detenidos no colaboraron. Algunos investigadores ya perdían la esperanza de recuperar el libro y se centraban en explicar el dinero: imposible de justificar para un electricista autónomo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto me parece lo más inteligente de la investigación. Dejaron de buscar el libro y siguieron el dinero. Y en ese camino, el hijo del detenido habló de un garaje, a doscientos metros de la casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El libro estaba en buen estado. Lo trasladaron a la catedral con escolta y el arzobispo confirmó que era auténtico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2015, la Audiencia Provincial de A Coruña condenó a Castiñeiras a diez años de prisión. Por el hurto del manuscrito, por robos continuados de dinero y documentos de la catedral, y por blanqueo de capitales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero subrayar esto: no solo se llevó el libro. Durante años se había llevado dinero de las colectas. La sentencia le obligó a indemnizar a la catedral con casi dos millones de euros. El códice fue lo que lo delató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su esposa fue condenada a seis meses por blanqueo, por comprar propiedades con dinero de origen ilícito. Su hijo fue absuelto: el tribunal no vio indicios suficientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal Supremo rebajó la pena de Castiñeiras ese mismo año. La Audiencia ordenó entregar a la catedral cerca de un millón setecientos mil euros intervenidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Falta algo. Siguen sin aclararse del todo las circunstancias del robo y si alguien más colaboró. No hubo más condenados por el hurto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El códice volvió a su sitio con medidas de seguridad reforzadas. Se hicieron réplicas de alta fidelidad que se popularizaron tras el robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2017 la Unesco incluyó el manuscrito en su Registro de la Memoria del Mundo. Y su historia sirvió para revisar cómo se protege el patrimonio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hubo víctimas, y hay que decirlo. Pero hubo un daño: recordar que la memoria de siglos puede depender de una llave en mal sitio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El Códice Calixtino. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Poder Judicial (sentencia de 2015, nota de prensa), El País (4/7/2012) e Infobae (5/7/2026). Discrepancias: cómo estaba envuelto el códice (bolsas de basura y cartones según El País; periódicos según Infobae; la ficha dice «bolsas»): el guion dice «bolsas de basura y cartones», lo de El País, que es el testimonio de la fecha. La pena final tras el Supremo (nueve años según el TSJ de Galicia; ocho años y dos meses según Infobae): el guion no da cifra. El móvil (venganza por su salida de la catedral) lo atribuye El País a la policía como sospecha e Infobae lo da por hecho: el guion dice «según la policía». La muerte de Castiñeiras en 2024 y su excarcelación en 2019 salen de una sola fuente (Infobae) y no se recogen. Se deja fuera el nombre del deán. En el registro se hallaron más de un millón de euros (1,2 millones según El País)."
+}

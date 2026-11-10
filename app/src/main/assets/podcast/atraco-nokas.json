@@ -1,0 +1,122 @@
+{
+  "id": "atraco-nokas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "NOKAS": "Nókas",
+    "Stavanger": "Stavánguer",
+    "Klungland": "Klúnglan",
+    "Arne Sigve Klungland": "Árne Sígve Klúnglan",
+    "David Toska": "Déivid Tóska",
+    "Toska": "Tóska",
+    "Schumann": "Chúman",
+    "Forus": "Fórus",
+    "Málaga": "Málaga"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un camión en llamas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atraco del NOKAS. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un camión en llamas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Stavanger, Noruega, lunes 5 de abril de 2004. Poco después de las ocho de la mañana, un camión arde delante de la comisaría. El humo cubre la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es una maniobra. Mientras la policía mira el fuego, otros hombres, armados con fusiles, con monos negros y gorros, llegan en coches grandes al edificio del Banco de Noruega, junto a la catedral."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. El camión no es el golpe, es la pantalla. Quien lo planeó sabía que la policía tardaría en reaccionar, y calculó cuánto. Eso no es improvisación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el sótano del edificio estaba la central de efectivo de la empresa Norsk Kontantservice, NOKAS. Allí se guardaba el dinero en efectivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La banda era de nueve hombres. Forzaron la entrada, y en la plaza de la catedral se oyeron los tiros. Algunos testigos vieron el tiroteo y una persecución en coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero detenerme en un dato. Esto ocurrió en el centro de la ciudad, a primera hora de un día laborable, junto a una catedral. Una banda que dispara allí no se preocupa por quién pueda pasar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los atracadores bloquearon con vehículos las calles del centro y dispararon contra la policía para cubrir el robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el tiroteo murió el policía Arne Sigve Klungland. Fue el único muerto de aquel día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los ladrones se llevaron más de cincuenta y siete millones de coronas noruegas. Era el mayor robo de la historia del país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero hay un número que pesa más: uno. Un agente que salió a cumplir con su trabajo y no volvió. Tenlo presente cuando oigas hablar de «el golpe del siglo»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía movilizó recursos dentro y fuera de Noruega. Encontró pruebas de ADN en objetos usados para incendiar el camión, y la pista del cabecilla llevó a España."
+        },
+        {
+          "voz": "ximena",
+          "texto": "David Toska, al que la policía señaló como el cerebro de la banda, había huido. Lo rastrearon por su actividad en internet y lo detuvieron en Málaga un año después del robo. Reconoció haberlo planeado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los asaltantes iban enmascarados, así que los testigos servían de poco. Por eso el ADN pesó tanto. Detenido, Toska aceptó el plan, pero negó el disparo. Eso importa. Con trece acusados y nadie que dijera quién mató al agente, el juicio dependía de los indicios y del ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en septiembre de 2005 y terminó en enero de 2006. Se celebró en una sala provisional en Forus, con fuertes medidas de seguridad. Los abogados criticaron que los acusados llevaran grilletes en los tobillos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuatro acusados admitieron haber participado en el atraco. Ninguno dijo quién había disparado contra el policía, y el tribunal se apoyó sobre todo en las pruebas de ADN."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En primera instancia, once de los trece fueron condenados por robo con resultado de muerte, con penas de entre trece y diecinueve años. Dos cómplices recibieron cuatro y seis años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la apelación, en septiembre de 2006, uno de los condenados, Kjell Alrich Schumann, admitió haber hecho los disparos que mataron a Klungland. Fue una confesión tardía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal Supremo fijó las penas definitivas en junio de 2007. Toska recibió la pena más larga."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el dinero. Casi todo desapareció. Solo se recuperó una pequeña parte del botín. Los condenados tuvieron que pagar una indemnización a la aseguradora y a la familia del policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las penas sumaron, en total, unos ciento ochenta y un años de prisión. Ninguna cifra devuelve al policía a su familia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro la cinta con el único nombre que de verdad importa. Arne Sigve Klungland. No el de la banda. El del policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atraco del NOKAS. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: Store norske leksikon (SNL, 2025) y Wikipedia en inglés (para cotejar). Pena de Toska: SNL, 19 años por el atraco (20 en total); Wikipedia en inglés dice 21; el guion no da la cifra («la más larga»). Número de condenados: la ficha dice 13 condenados; SNL: 11 por robo con resultado de muerte, 13 a 19 años, y dos cómplices con 4 y 6 años; todos condenados. Que Schumann admitiera haber disparado en la apelación (septiembre de 2006) sale de SNL; no se afirma quién disparó en la primera instancia. Hay detalles que solo da Wikipedia en inglés (cifra de disparos, 37 empleados, indemnizaciones) y no se usan, salvo los 51 millones sin recuperar, que se dicen como «la mayor parte». La cifra de 57,4 millones de coronas sale de SNL. El artículo de VG y el informe del Ministerio no se abrieron. Wikipedia señala que no todos los datos de su cronología son coherentes."
+}

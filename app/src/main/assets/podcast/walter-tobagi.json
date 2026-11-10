@@ -1,0 +1,111 @@
+{
+  "id": "walter-tobagi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Walter Tobagi": "Válter Tobági",
+    "Tobagi": "Tobági",
+    "Corriere della Sera": "Corriére della Séra",
+    "Corriere": "Corriére",
+    "Milán": "Milán",
+    "via Salaino": "vía Saláino",
+    "Brigata XXVIII marzo": "Brigáta ventiocho de marzo",
+    "Marco Barbone": "Marco Barbóne",
+    "Barbone": "Barbóne",
+    "Paolo Morandini": "Páolo Morandíni",
+    "Morandini": "Morandíni",
+    "Benedetta": "Benedéta",
+    "Guido Salvini": "Guído Salvíni",
+    "Salvini": "Salvíni",
+    "Spoleto": "Spoléto",
+    "Génova": "Yénova",
+    "Mattarella": "Matarela",
+    "Comunione e Liberazione": "Comunióne e Liberatsióne"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Via Salaino, hacia las once",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Walter Tobagi. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Via Salaino, hacia las once."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milán, 28 de mayo de 1980, hacia las once de la mañana. Un hombre de treinta y tres años sale de su casa, en la via Salaino, y camina unos pasos por la acera. Es periodista del Corriere della Sera. En ese momento, varios jóvenes lo esperan. Cinco disparos. Murió en el acto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Walter Tobagi. Había nacido en Spoleto y se crio en Milán, en una familia sencilla: su padre era ferroviario. Escribió en periódicos socialistas y católicos antes de llegar al Corriere, y era presidente de la asociación de periodistas de Lombardía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No lo mataron por escribir a favor de nadie. Escribía sobre el terrorismo con rigor y con mucha dureza contra la lucha armada, pero intentaba entender sus causas. Eso, para quienes querían hacerse un nombre con las armas, lo volvía un objetivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores eran la Brigata XXVIII marzo, un grupo pequeño de jóvenes de extrema izquierda. Se llamaba así por la fecha de una redada en Génova en la que murieron cuatro miembros de las Brigadas Rojas. Su jefe era Marco Barbone."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El grupo no tenía relación con las Brigadas Rojas, a las que veían como una élite. Querían una acción tan sonada que les abriera la puerta. Habían herido en la pierna a otro periodista, en los primeros días de mayo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según declaró Barbone a los jueces, escogieron a Tobagi porque era de los periodistas inteligentes, de los que investigaban a la izquierda armada en lugar de insultarla. Es su versión. Y sobre ella hay una pregunta incómoda que sigue abierta: si alguien, entre los colegas, ayudó a señalarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El grupo se disolvió poco después del asesinato. En otoño de 1980 detuvieron a Barbone. Casi de inmediato confesó y empezó a colaborar con los jueces. Fueron cayendo todos los miembros del comando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Años después, el juez Guido Salvini sostuvo que los carabinieri disponían de avisos concretos: un confidente había informado de que Tobagi volvía a ser un objetivo, y varios informes nombraban a gente del grupo de Barbone. Salvini afirma que se subestimó y que algunos informes desaparecieron. Es su tesis, no una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en 1983, en Milán. Barbone y Paolo Morandini, que habían confesado, se acogieron a la ley de arrepentidos. Les correspondieron algo más de ocho años y, con la pena suspendida, pudieron salir en libertad provisional tras cumplir la tercera parte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los demás miembros que no colaboraron recibieron penas de hasta treinta años, rebajadas en apelación. En la sala, el público gritó «vergüenza» y «traidores»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entiendo la rabia. La ley de arrepentidos había ayudado a desmantelar a los grupos armados, y un diputado dijo que la sentencia le planteaba problemas de conciencia. Otro respondió que el Parlamento había votado esa ley. Las dos cosas son ciertas. Eso es lo que ningún fallo resolvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barbone, tiempo después, se acercó al movimiento católico Comunione e Liberazione. Morandini murió en 2018. Las crónicas dejan una duda: si se llegó a todos los cómplices y apoyos del grupo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda sin aclarar, entonces, algo más que un nombre. Quién ayudó a señalarlo, y qué se supo de antemano. Hoy sabemos mucho. Pero no todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y queda él. Walter Tobagi tenía una hija, Benedetta, autora de un libro sobre su padre que fue un éxito de ventas. Una universidad de periodismo de Milán lleva su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2020, en el cuarenta aniversario, el presidente de la República, Mattarella, lo recordó como un periodista libre, que miraba más allá de los estereotipos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente no termina con una sentencia. Termina con un oficio: contar lo que ocurre sin tomar partido por la violencia. Por eso lo mataron. Por eso se le recuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Walter Tobagi. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Il Post (2020), Christian Science Monitor (1983), Il Giorno (2018). Discrepancias: Morandini, 8 años y 9 meses o 8 y 6 (ficha): se dice «algo más de ocho años». La detención de Barbone, 25 de septiembre o octubre: se dice «otoño de 1980». No se dice quién disparó (la ficha cita la reconstrucción judicial: Marano el primero, Barbone el mortal; Il Post no lo recoge). 'Su padre era ferroviario' y 'presidente de la asociación de periodistas de Lombardía' salen de Il Post. Las tesis del juez Salvini (Il Giorno 2018) se atribuyen como suyas y no son hechos judiciales; incluye supuesta desaparición de informes. La pregunta de si colegas contribuyeron a señalarlo sale de Il Post («alcuni colleghi potrebbero aver contribuito»); delicado, se deja como pregunta abierta sin nombres. Que en la apelación se rebajaron penas, de la ficha. 'Morandini murió en 2018' de Il Giorno 27/10/2018 (título de la ficha). 'Barbone se acercó a CL' de Il Post. El diputado: Rodotà (CSM) se resume sin nombre."
+}

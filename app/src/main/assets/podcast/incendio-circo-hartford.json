@@ -1,0 +1,112 @@
+{
+  "id": "incendio-circo-hartford",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Hartford": "Jártford",
+    "Connecticut": "Conéctikat",
+    "Ringling Bros. and Barnum & Bailey": "Ringling Bros. and Bárnum an Béili",
+    "Merle Evans": "Merl Évans",
+    "Stars and Stripes Forever": "Stars and Straips Forévar",
+    "Robert Segee": "Róbert Sigui",
+    "Segee": "Sigui",
+    "Barbour Street": "Bárbor Strit",
+    "Little Miss 1565": "Lítl Mis mil quinientos sesenta y cinco",
+    "Wallendas": "Uolendas",
+    "Emmett Kelly": "Émet Kéli"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una marcha como señal de socorro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El incendio del circo de Hartford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una marcha como señal de socorro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hartford, Connecticut, jueves 6 de julio de 1944. Hace un calor sofocante, y en un solar de Barbour Street se celebra la función de tarde. Bajo la carpa del circo Ringling Bros. and Barnum & Bailey hay unas siete mil personas, muchas de ellas mujeres y niños. Los Wallendas están en el trapecio. Y alguien grita: la carpa está ardiendo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El director de la banda, Merle Evans, reacciona al instante. Manda tocar Stars and Stripes Forever. No es casualidad: es la señal que los artistas del circo conocen para avisar de una emergencia grave."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La música debía llamar a los empleados. Pero para el público era solo una marcha, y siguió sonando mientras el fuego avanzaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La llama empezó en una pared lateral de la carpa. La lona estaba impermeabilizada con parafina disuelta en gasolina, un método habitual entonces. En pocos minutos el fuego trepó hasta lo alto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La gente corrió hacia las salidas. Varias estaban obstruidas por las jaulas y pasillos por los que entraban y salían los animales. Algunos abrieron huecos en la lona con navajas. Los ayudantes del circo acudieron con cubos de agua, pero era tarde. En menos de diez minutos, la enorme carpa se vino abajo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me inquieta es cómo era el edificio, si es que puede llamarse así. Lona inflamable, salidas bloqueadas y un solo aviso musical. No hacía falta mala intención para que fuera una trampa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron al menos ciento sesenta y siete personas. Más de seiscientas personas resultaron heridas. Dos tercios de las víctimas eran niños. Las cifras exactas nunca se fijaron. Una fotografía del payaso Emmett Kelly con un cubo de agua dio la vuelta a los periódicos, y el día quedó en la memoria como el día en que los payasos lloraron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una de las víctimas, una niña, no fue identificada. Se la conoció durante décadas por el número que le asignaron en la morgue: Little Miss 1565. Todavía hoy se discute quién era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto para que no se olvide. En este expediente hay mucha gente sin nombre. Detrás de cada número hubo una familia que volvió a casa sin alguien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades concluyeron que fue un accidente, quizá provocado por una colilla tirada junto a la carpa. Nadie fue acusado de haberlo provocado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero la investigación sí encontró fallos de organización. Los extintores del circo estaban enterrados en un almacén. Los camiones de bomberos del circo estaban a más de cuatrocientos metros. Y no habían avisado al cuerpo de bomberos de Hartford de que iban a actuar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuatro responsables del circo fueron condenados por negligencia. Se declararon sin discutir los cargos, pasaron cerca de un año en prisión y después fueron indultados. El circo pagó casi cinco millones de dólares a las familias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo importante: el fuego puede ser un accidente, pero lo que lo convirtió en una catástrofe fue una cadena de decisiones. Eso sí tuvo responsables."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1950, seis años después, la policía de Ohio detuvo a Robert Segee por unos incendios. Había trabajado en el circo de joven, y en un interrogatorio dijo que había provocado el de Hartford."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después se retractó. Nunca fue juzgado por Hartford."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado aquí. Una confesión retirada, hecha por un hombre bajo interrogatorio, no es una prueba. En 1993, la policía estatal de Connecticut declaró la causa indeterminada, y probablemente accidental. No sabemos qué pasó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El desastre cambió las normas. Connecticut aprobó reglas estrictas de seguridad contra incendios para los espectáculos públicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005, en el terreno donde se alzó la carpa, se inauguró un monumento. Hoy es un espacio para recordar a quienes no salieron de allí, la mayoría de ellos niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El incendio del circo de Hartford. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: ConnecticutHistory.org, History.com y Wikipedia en inglés (la guía de la Connecticut State Library y el libro de Cohn y Bollier no se consultaron). Cifras: el guion dice «al menos 167» muertos y «más de seiscientos» heridos sin entrar en la diferencia (167/168/169; 682 según History.com, más de 700 según Wikipedia). Asistencia: ConnecticutHistory.org dice entre seis y ocho mil; Wikipedia, unas 7.000; el guion dice «unas siete mil». Condenas de los cuatro responsables: History.com habla de «homicidio involuntario», ConnecticutHistory.org de negligencia y que se declararon «no contest», cumplieron cerca de un año y fueron indultados; el guion dice «negligencia». De Segee: History.com dice que fue condenado en Ohio a dos penas de 22 años (por otros incendios); ConnecticutHistory.org dice que se le internó en un hospital psiquiátrico; el guion solo dice que confesó, se retractó y no fue juzgado por Hartford (la ficha). Se deja fuera el relato de su salud mental. La niña no identificada («Little Miss 1565»): se menciona sin entrar en las teorías sobre su identidad ni dar nombres."
+}

@@ -1,0 +1,126 @@
+{
+  "id": "asesinato-jesse-james",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Jesse James": "Yesi Yeims",
+    "James": "Yeims",
+    "Thomas Howard": "Tómas Jáuard",
+    "Robert Ford": "Róbert Ford",
+    "Charley": "Chárli",
+    "Thomas T. Crittenden": "Tómas Crítenden",
+    "Crittenden": "Crítenden",
+    "St. Joseph": "Seint Yóusef",
+    "Kearney": "Kérni"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cuadro torcido",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Jesse James. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cuadro torcido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "St. Joseph, Misuri, lunes 3 de abril de 1882. Por la mañana, en una casa de la ciudad, vive un hombre que pasa por tratante de ganado. Dice llamarse Thomas Howard y vive allí con su mujer y sus hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No se llama Thomas Howard. Es Jesse James, el forajido más buscado del país, y en la casa también están dos jóvenes de su banda, los hermanos Ford."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Piénsalo: un hombre que ha pasado años huyendo vive con nombre falso, y deja entrar en su casa a dos hombres a los que apenas conoce. Eso no es un descuido. Es confianza, y ahí empieza esta historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jesse James llevaba años buscado por asaltos a bancos y trenes. Después de unos años de vida más tranquila en una granja, había formado una nueva banda, y los Ford, Robert y Charley, estaban en su órbita."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que Jesse no sabía era que Robert Ford ya había hablado en secreto con el gobernador de Misuri, Thomas T. Crittenden, para cobrar una recompensa por entregarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el punto que no puedo pasar por alto. Un gobernador negocia con un miembro de la banda. Las compañías de ferrocarril, que sufrían los asaltos, ofrecían dinero. La ley y el dinero andaban juntos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquella mañana, la banda se reunió en la casa para oír el plan del siguiente golpe. Jesse estaba de espaldas a los dos hermanos, colocando un cuadro en la pared."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la ficha del archivo, se había subido a una silla y no llevaba el arma. Robert Ford aprovechó ese momento y le disparó en la nuca. Un solo disparo, según las fuentes más fiables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el cuadro. Un hombre perseguido durante años sube a una silla a enderezar un cuadro. Un gesto doméstico, y el último."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su esposa y sus hijos estaban en la habitación de al lado, según un grabado de la época. Charley Ford, su hermano, estaba presente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los hermanos Ford se entregaron a las autoridades."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo extraño no es la entrega. Lo extraño es lo que vino después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Ford fueron procesados por asesinato. Se declararon culpables y fueron condenados a muerte. Y el gobernador Crittenden los indultó enseguida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un indulto casi inmediato. Mucha gente pensó que el gobernador estaba al tanto del plan. Es una sospecha, no una conclusión de ningún tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jesse James fue enterrado en la granja de su familia, cerca de Kearney, y mucha gente fue a visitar la tumba. Más tarde sus restos se trasladaron al cementerio de Kearney."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su lápida figura una frase: «Asesinado por un traidor y un cobarde cuyo nombre no merece figurar aquí»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frase es la historia del mito. En la leyenda, Jesse fue un héroe rebelde. En el expediente, fue un hombre buscado por asaltos a bancos y trenes, y que murió a manos de alguien en quien confiaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La casa de St. Joseph existe todavía. Fue trasladada de su emplazamiento original y hoy es un museo. Quien la visita puede ver el lugar donde ocurrió todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un museo en una casa donde mataron a un hombre. Es una forma extraña de recordar. Yo prefiero preguntarme qué más se perdió allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay otra cosa que el archivo debe guardar: las personas que sufrieron sus asaltos. Sus nombres no han llegado hasta nosotros con tanta fama como los del bandido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su familia vio cómo la leyenda crecía sobre su tumba, mientras los hermanos Ford quedaban para siempre con la fama de traidores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y la última duda: ¿quién tuvo la culpa? Robert Ford apretó el gatillo. Pero la recompensa, el acuerdo y el indulto no los puso él. Eso es lo que me deja el expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Jesse James. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: State Historical Society of Missouri (Historic Missourians) y History.com (2025). Disparos: un solo disparo en la nuca (SHSMO y Stiles vía ficha); History.com dice «varias veces»; el guion dice «un disparo». Que Jesse estuviera desarmado y subido a una silla viene de la ficha; History.com dice solo que estaba de espaldas colocando un cuadro. Recompensa: ninguna de las dos fuentes da la cifra; no se da. Que la pagaran las compañías de ferrocarril viene de la ficha. Que el indulto lo concediera Crittenden consta en SHSMO. El destino posterior de Robert Ford no se ha comprobado en estas fuentes y no se cuenta. Epitafio de la lápida: History.com. No se da la fecha del traslado a Kearney Cemetery."
+}

@@ -1,0 +1,101 @@
+{
+  "id": "asesinato-cardenal-soldevila",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La puerta de El Terminillo",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato del cardenal Soldevila. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La puerta de El Terminillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Zaragoza, 4 de junio de 1923. El cardenal arzobispo Juan Soldevila viaja en su coche hacia la finca de El Terminillo. Va a visitar la escuela-asilo de las Hijas de la Caridad, como hacía casi todos los días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es un trayecto que muchos conocen. Se repetía casi a diario. Y justo cuando el coche entra en la finca, dos hombres se acercan y disparan. El cardenal muere en el acto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota, y la dicto con cuidado. Nadie necesitó seguirlo ni vigilarlo mucho tiempo. Bastaba con saber adónde iba casi cada día, y era un dato que cualquier vecino podía conocer. La rutina fue el arma de los asesinos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Zaragoza quedó conmocionada. Soldevila tenía setenta y nueve años y llevaba más de veinte al frente de la archidiócesis. Había sido obispo de Tarazona y, desde 1919, era cardenal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue también senador. Apoyó obras de riego, ayudó a crear una caja de ahorros y defendió la vivienda social y los sindicatos católicos. Para muchos zaragozanos era un hombre cercano. Para otros, un símbolo del orden que combatían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es importante: el contexto. España vivía en 1923 una guerra sucia entre patronal y sindicatos, sobre todo en Barcelona. Tres meses antes, un pistolero había matado al dirigente sindical Salvador Seguí. Esa muerte está en el origen de lo que pasó en Zaragoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los historiadores, el grupo anarquista Los Solidarios decidió responder atacando a varias personalidades. Consideraban al cardenal instigador del terrorismo patronal contra los obreros. Es la versión que recogen las fuentes, no una prueba presentada entonces ante un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser claro. Ninguna de esas acusaciones contra el cardenal se demostró. Es lo que creía el grupo, no lo que se probó. Y se pagó con una vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores señalaron enseguida a dos hombres: Rafael Torres Escartín, un panadero aragonés de veintiún años, y Francisco Ascaso, compañero de Buenaventura Durruti en el grupo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en las edades. Torres Escartín tenía veintiún años. Todo esto lo hicieron hombres muy jóvenes, convencidos de que respondían a una guerra que otros habían empezado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los dos huyeron de Zaragoza. Torres Escartín fue detenido más tarde, y el sumario contra él y Ascaso se cerró en noviembre de 1924 en la Audiencia de Zaragoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ascaso se había fugado de la cárcel y fue juzgado en rebeldía. Torres Escartín fue condenado. Las fuentes no coinciden en la pena: unas hablan de cadena perpetua; otras, de pena de muerte conmutada después por internamiento en un manicomio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un dato que sí coincide: su salud mental se quebró en prisión y acabó internado en un manicomio. Según la Wikipedia, murió fusilado en 1939, ya al final de la guerra civil, a pesar de su estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otras tres personas, Juliana López, Esteban Salamero y Manuel Lázaro, fueron acusadas de complicidad y encubrimiento. Las fuentes que hemos podido abrir no dicen qué pasó con ellas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso también cuenta. Tres meses después del crimen, el general Primo de Rivera dio el golpe de Estado. El asesinato no lo provocó, pero encajó en el clima en que muchos pidieron un gobierno de mano dura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy sabemos quiénes dispararon, aunque solo uno fue castigado. No hay una gran incógnita, pero sí una pregunta: cuánta violencia cabía en un país que ya no sabía hablar de otra manera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y una certeza. Un anciano de setenta y nueve años murió a la puerta de una escuela-asilo que visitaba casi a diario. Eso es lo que debe quedar en el expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Juan Soldevila dirigió la archidiócesis de Zaragoza durante veintidós años. Murió en su puerta, cumpliendo la rutina de siempre, y esa es la imagen con la que la ciudad lo recordó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato del cardenal Soldevila. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en castellano (Soldevila, Los Solidarios, Ascaso, Torres Escartín), exposición del Ayuntamiento de Zaragoza y Casas Rabasa (sin detalles del atentado); Forcadell y la RAH no se pudieron abrir. Contradicciones: la pena de Torres Escartín (cadena perpetua en es.wikipedia; pena de muerte conmutada en 1931 por manicomio en en.wikipedia), el guion dice solo condenado y expone ambas versiones; la Wikipedia (es y en) dice que el chófer resultó gravemente herido y que los disparos fueron unos veinte, pero la ficha lo quitó por falta de fuente abierta y no se menciona; según en.wikipedia Torres Escartín fue detenido meses después en un atraco en Gijón (el guion dice solo más tarde). Los motivos del grupo se atribuyen a las fuentes, no se prueban. Fusilamiento de 1939 solo en Wikipedia. Los tres acusados de complicidad solo constan en es.wikipedia."
+}

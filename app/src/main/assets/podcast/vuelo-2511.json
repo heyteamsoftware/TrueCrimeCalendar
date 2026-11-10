@@ -1,0 +1,104 @@
+{
+  "id": "vuelo-2511",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "National Airlines": "Náshonal Érlains",
+    "Bolivia": "Bolivia",
+    "Wilmington": "Uílmington",
+    "Richard Randolph": "Ríchard Rándolf",
+    "Julian Frank": "Yúlian Frank",
+    "Frank": "Frank",
+    "Edward Orrick McDonnell": "Édward Órrik Macdónel",
+    "Kure Beach": "Kiur Bich",
+    "Carolina Beach": "Carolina Bich",
+    "DC-6B": "de ce seis be",
+    "FBI": "efe be i"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Fila siete, asiento de ventanilla",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La bomba del vuelo 2511. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Fila siete, asiento de ventanilla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Carolina del Norte, 6 de enero de 1960. Hacia las dos y cuarenta y cinco de la madrugada, un granjero llamado Richard Randolph oye cómo un motor se ahoga y arranca, luego un ruido de metal que se desgarra y una explosión. Por la mañana, su hijo adolescente encuentra restos de un avión en un campo de la familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Randolph conduce hasta Bolivia, el pueblo más cercano con teléfono, y llama al aeropuerto de Wilmington. Eran las siete de la mañana. Desde las dos y media, la Guardia Costera y la Marina buscaban un avión del que no se sabía nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un avión perdido, una búsqueda sobre el mar, y el aviso llega de un campo de Carolina, de un granjero. Se buscaba en un sitio y estaba en otro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el vuelo 2511 de National Airlines, un DC-6B que había salido de Nueva York hacia Miami. El día anterior, el avión previsto, un reactor, se había quedado en tierra por una grieta en el parabrisas. Sus pasajeros se repartieron entre dos aviones de reserva. En este iban veintinueve pasajeros y cinco tripulantes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El último contacto por radio fue a las dos y treinta y uno, al pasar por una baliza de Carolina Beach. Murieron las treinta y cuatro personas. Entre ellas, un almirante retirado con la Medalla de Honor, Edward Orrick McDonnell, un farmacéutico y un estudiante de la Universidad de Miami."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los restos estaban repartidos por veinte acres de campos, marismas y pinares. Un fragmento de aluminio, que se cree del fuselaje, apareció en la playa de Kure Beach, a unos cuarenta kilómetros. El avión se había roto en el aire."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Las primeras hipótesis fueron las lógicas: una colisión con otro avión, un incendio de motor, fatiga del metal, un rayo, una hélice rota. La Junta de Aeronáutica Civil las fue descartando una por una. Quedó lo que no es una avería: una explosión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los técnicos trajeron los restos a un hangar de Wilmington y montaron el fuselaje sobre un armazón de madera y alambre. Recuperaron cerca del noventa por ciento. El punto de origen estaba delante del borde del ala derecha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En las piezas y en el interior aparecieron restos de nitratos y de una sustancia que se encuentra en las pilas secas. La conclusión de la Junta fue clara: una carga de dinamita detonó en la cabina de pasajeros, bajo el último asiento de la derecha de la fila siete."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Una bomba de dinamita con una pila. Eso se puede demostrar con restos. Lo que no se puede demostrar con restos es quién la puso. El informe de la Junta dice que no se pronuncia sobre quién colocó la dinamita ni sobre quién la hizo estallar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI asumió la investigación criminal. La atención se fijó en un pasajero sentado cerca del punto de la explosión: Julian Frank, un abogado de Nueva York. Según la prensa de la época, tenía grandes deudas, estaba investigado por la fiscalía de Manhattan y había contratado seguros de vida por cerca de un millón de dólares, según las fuentes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota, y la más delicada. Frank murió en el avión, como los demás. La Junta señaló que estaba cerca de la explosión, pero no le atribuyó ninguna culpa. Nunca fue acusado de nada relacionado con el vuelo. Esa hipótesis existe, y debe quedar como lo que es: una línea de investigación sin pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había otra pista a la que se dio vueltas. Siete semanas antes, otro avión de National Airlines había explotado sobre el golfo de México, y también se atribuyó a una bomba. Algunos vieron paralelismos. Nadie fue acusado en ninguno de los dos casos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Yo no hago de esto una cadena. Dos desastres parecidos no son una conspiración. Lo que tengo son semejanzas, ningún acusado y un expediente sin cerrar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy, el caso sigue sin resolver. No se sabe quién puso la bomba ni por qué. El FBI nunca identificó a un responsable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Treinta y cuatro personas salieron una noche de enero de Nueva York camino del sol de Florida. Tres de ellas iban en lista de espera, y viajaron porque otros cancelaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La bomba del vuelo 2511. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en inglés, que cita el informe CAB 1-0002), blog de la biblioteca de la Universidad de Carolina del Norte y TIME (7-3-1960, texto extraído de la página); el PDF del informe de la CAB y la página del FBI Vault no se pudieron leer. Julian Frank solo aparece como línea de investigación: era una víctima, la CAB no le atribuyó culpa y nunca fue acusado; el guion lo dice. La cifra de los seguros varía (cerca de 900.000 dólares según Wikipedia, más de un millón según TIME): el guion dice «cerca de un millón, según las fuentes». Que la fiscalía de Manhattan lo investigaba por una estafa con fines benéficos sale de Wikipedia; el blog de la UNC habla de fraude y malversación. El vuelo 967 (16-11-1959, sobre el golfo de México) se menciona solo como semejanza señalada por algunos, sin nombrar a nadie. Versión del granjero (oyó el motor y la explosión hacia las 2:45; su hijo halló los restos; llamada a las 7) y fragmento de Kure Beach: Wikipedia (citando la prensa de 1960). Hora de salida: no se da (varía). Wikipedia dice que el FBI asumió la investigación criminal el 12 de enero y también el 20; el guion no da fecha. Wikipedia indica además que la investigación sigue abierta; el guion solo dice que el caso sigue sin resolver y que nunca se identificó a un responsable. No se describen cuerpos ni heridas."
+}

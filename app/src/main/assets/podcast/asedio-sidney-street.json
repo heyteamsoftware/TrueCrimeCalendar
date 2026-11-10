@@ -1,0 +1,118 @@
+{
+  "id": "asedio-sidney-street",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sidney Street": "Sídni Strit",
+    "Houndsditch": "Jáunsdich",
+    "Stepney": "Stépni",
+    "Winston Churchill": "Uínston Chérchil",
+    "Robert Bentley": "Róbert Béntli",
+    "Charles Tucker": "Charls Táker",
+    "Walter Choat": "Uólter Chout",
+    "Charles Pearson": "Charls Pírson",
+    "Fritz Svaars": "Fritz Svárs",
+    "Sokoloff": "Sokolof",
+    "Sokolow": "Sokolóv",
+    "Mauser": "Máuser",
+    "Old Bailey": "Old Béili",
+    "Balfour": "Bálfur",
+    "East End": "Ist End",
+    "West End": "Uest End",
+    "Leeson": "Lísson"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La casa del número cien",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asedio de Sidney Street. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La casa del número cien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, madrugada del 3 de enero de 1911. Una larga fila de agentes avanza en silencio por las calles del East End. No les han dicho adónde van, pero saben que es peligroso: los hombres casados se han quedado fuera. Su destino es el número cien de Sidney Street, en Stepney."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Dejaron en casa a los casados. Sabían a quién buscaban: a los hombres que dos semanas antes habían matado a tres compañeros suyos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entenderlo hay que volver al 16 de diciembre de 1910, un viernes por la noche. En Houndsditch, en la City de Londres, unos vecinos oyen golpes en una casa pegada a una joyería. Alguien está excavando un túnel hacia el local."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía llama a la puerta y se oyen disparos. Mueren tres agentes: los sargentos Robert Bentley y Charles Tucker y el agente Walter Choat. Otros dos policías quedan heridos de gravedad. El jefe de la banda también cae, alcanzado por un disparo de un cómplice, y aparece muerto al día siguiente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Eran inmigrantes letones, un grupo pequeño. La prensa de entonces los llamó extranjeros peligrosos y anarquistas, sin distinguir. Algunas fuentes modernas los describen como ladrones que robaban para financiar a revolucionarios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las policías de la City y la Metropolitana los buscan durante semanas. Circula un nombre, Pedro el Pintor, que se tomó por el cerebro de la banda. Hoy se cree que tuvo un papel menor, y hay quien duda incluso de que existiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A comienzos de enero, un informante da el aviso: dos miembros de la banda se esconden en un segundo piso del número cien de Sidney Street. Nunca se lo identificó oficialmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las siete y media de la mañana, los agentes golpean la puerta. Desde dentro responden a tiros, y un detective, Leeson, cae gravemente herido. Sobrevivió, pero su carrera policial terminó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Mira con qué iban: revólveres viejos, escopetas, armas de museo. Los de dentro tenían pistolas Mauser, que alcanzaban más lejos. Por eso se llamó al ejército."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El ministro del Interior, Winston Churchill, autoriza que acuda un destacamento de la Guardia Escocesa. Poco después llega él mismo y se coloca cerca de la línea de fuego. Durante horas, policías y soldados disparan contra la casa, y desde dentro responden."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia la una, sale humo de una ventana: la casa se ha incendiado. Según una versión, por la chispa de una bala contra una tubería de gas. Los bomberos recibieron la orden de evitar que el fuego se extendiera. No se les dejó apagarlo hasta que cesaron los disparos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Dos cuerpos entre las ruinas. Las fuentes no coinciden en cómo murió cada uno: por un disparo, por el humo, por un techo que se vino abajo. No voy a elegir una versión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran Fritz Svaars y un hombre al que las fuentes llaman Sokoloff, Sokolow, William o Josef. Hubo otra víctima: el oficial de bomberos Charles Pearson, alcanzado por un muro al derrumbarse, que murió seis meses después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue casi la primera noticia en directo: esa misma tarde, una película de los camarógrafos de actualidades se proyectaba en un teatro del West End, y los periódicos pusieron las fotos en portada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. A Churchill le llovieron críticas. Su rival, Balfour, dijo que entendía qué hacía el fotógrafo, pero no qué hacía allí el ministro. Y mira la lección de la policía: no que se hubiera excedido, sino que necesitaba mejores armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1911, varios acusados por Houndsditch se sentaron en el Old Bailey. Según The Guardian, fueron siete, y a todos se les retiraron los cargos o fueron absueltos. Una mujer fue condenada por un delito menor, y la condena se anuló en apelación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces, ¿quién mató a los tres agentes? Algunos historiadores han señalado a uno de los absueltos. No lo nombro: ningún tribunal lo declaró culpable. Y los dos muertos del número cien nunca fueron juzgados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue condenado por las tres muertes de Houndsditch. Quedan los nombres de Bentley, Tucker, Choat y Pearson. En enero de 2011, cien años después, se descubrió una placa en memoria de Pearson donde estuvo el número cien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asedio de Sidney Street. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Historic UK (Ben Johnson), The Guardian (Bates, 2011), London Remembers; The Independent no cargó. Lo esencial coincide con la ficha. Discrepancias: (1) los muertos en el asedio: Historic UK y Wikipedia los llaman anarquistas letones; The Guardian 2011 dice que eran delincuentes menores, no anarquistas; el guion los llama «inmigrantes letones» y dice que la prensa los llamó anarquistas. (2) Hora y fecha de llegada de la policía: Historic UK, madrugada del 3 de enero; The Guardian, tarde del 2; el guion usa el 3 de enero (como London Remembers). (3) Cómo murió cada uno y causa del incendio: según las fuentes, distintas; se dice y se deja sin elegir (la chispa contra la tubería de gas es versión de London Remembers, atribuida con «según una versión»). (4) Acusados en el juicio: The Guardian dice siete (todos con cargos retirados o absueltos); Historic UK da cuatro (Peters, Dubof, Rosen y Vassileva, con la condena menor de ella anulada); el guion dice «varios» y atribuye el siete al Guardian. (5) Nombre del segundo muerto: Sokoloff, Sokolow, William o Josef. Nombres de los tres policías muertos (Bentley, Tucker, Choat) y el bombero Pearson: Historic UK. No se nombra a nadie absuelto; sobre quién disparó, solo se dice que algunos historiadores señalan a un absuelto, sin nombrarlo. La frase de Balfour y la orden a los bomberos salen del Guardian/London Remembers/Historic UK. Los cuerpos y las heridas no se describen."
+}

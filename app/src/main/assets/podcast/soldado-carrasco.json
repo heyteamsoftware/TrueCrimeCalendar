@@ -1,0 +1,106 @@
+{
+  "id": "soldado-carrasco",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Omar Carrasco": "Ómar Carrásco",
+    "Carrasco": "Carrásco",
+    "Cutral Có": "Cutral Kó",
+    "Zapala": "Sapála",
+    "Neuquén": "Neukén",
+    "Canevaro": "Kanevaro",
+    "Menem": "Ménem",
+    "Colimba": "Kolimba",
+    "Casación": "Kasasión"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El soldado que no volvió",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Carrasco. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El soldado que no volvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Zapala, provincia de Neuquén, Argentina. Domingo 6 de marzo de 1994. Un joven de veinte años, Omar Carrasco, está de guardia en el cuartel del Grupo de Artillería 161. Esa tarde se le pierde la pista. Nunca volverá a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Carrasco venía de Cutral Có. Había llegado al cuartel el 3 de marzo, para cumplir el servicio militar obligatorio, la «Colimba». Llevaba tres días de soldado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Tres días. Ni siquiera había tenido su primer día franco. Y el cuartel no tardó en dar una explicación: el Ejército dijo que había desertado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus padres lo supieron dos semanas después, según La Capital, cuando no llegó a su casa el día que le correspondía salir. Nadie les había avisado antes de que su hijo estaba desaparecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quien deserta se va. Pero un soldado novato, sin dinero ni conocidos en la zona, no suele desaparecer del propio cuartel. Esa versión se quedó corta desde el principio. Y el tiempo fue pasando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo una primera búsqueda en el predio, y no encontró nada. El 6 de abril, un mes después, un segundo rastrillaje halló el cuerpo de Omar Carrasco en un descampado, dentro del propio cuartel, a unos setecientos metros de su compañía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dentro del cuartel. La versión oficial dice que fue durante un rastrillaje, a las cuatro y media de la tarde. Pero hay testimonios, entre ellos el de un general, que sugieren que se encontró antes. Esto no está aclarado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La conmoción en Argentina fue enorme: el caso desacreditó la Colimba, tal como se conocía popularmente al servicio militar. El juez federal Rubén Caro procesó el 4 de julio a un subteniente, Ignacio Canevaro, y a dos soldados, Cristian Suárez y Víctor Salazar. Un sargento, Carlos Sánchez, fue acusado de encubrimiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la Justicia, el 6 de marzo Omar Carrasco recibió una paliza de esos tres hombres, dentro del cuartel, y murió. Su cuerpo fue escondido en el predio mientras el Ejército lo daba por desertor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una versión alternativa, y conviene decirla entera. Un perito sostuvo que sobrevivió unos días y murió por una atención médica inadecuada. No fue la que aceptó el tribunal. La anoto, pero no la hago mía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, la sociedad ya había sacado sus conclusiones. El 31 de agosto de 1994, el presidente Carlos Menem decretó el fin del servicio militar obligatorio, que se sustituyó por un sistema voluntario y remunerado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio terminó el 31 de enero de 1996, ante el Tribunal Oral Federal de Neuquén. Canevaro fue condenado a quince años por homicidio. Salazar y Suárez, a diez cada uno. El sargento Sánchez, a tres años por encubrimiento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cumplieron sus penas. Salazar y Suárez obtuvieron la libertad condicional en el año 2000, y Canevaro salió en 2004. Pero hay una cuenta que nunca se cerró: hasta dónde llegó el encubrimiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La causa contra altos mandos por encubrimiento se declaró prescrita en 2005. Casación revocó esa prescripción en 2007, pero una crónica de 2024 la da de nuevo por prescrita, y no hay condenas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sin condenas, por tanto, no puedo nombrar a nadie más. Lo que puedo decir es que un tribunal consideró probado que hubo un encubrimiento, y que el Ejército sostuvo la versión de la deserción durante un mes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Omar Carrasco tenía veinte años y estaba cumpliendo un deber que le imponía la ley. No era un militar de carrera ni había elegido aquella vida: la ley lo llamó, y el cuartel que debía protegerlo no lo hizo. Su muerte desacreditó una institución de décadas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Su nombre sigue en la memoria argentina como el soldado que no volvió. Ese es su legado, aunque no lo eligiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Carrasco. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Hallazgo: la versión oficial (rastrillaje del 6 de abril, 16.30) está discutida (Río Negro 2024 recoge un general y una civil que sugieren que fue antes). La Capital sitúa el hallazgo a unos 700 metros de la compañía. Peritaje alternativo (Brailovsky, muerte el 8 o 9 de marzo por mala atención médica): se menciona sin nombre y sin adoptarlo. Prescripción: 2005 prescrita, 2007 Casación la revocó (Infobae), 2024 Río Negro la da por prescrita; se dice así. Los soldados condenados se nombran por constar en la sentencia. Sánchez 3 años (Río Negro). La frase de que sus padres supieron dos semanas después sale de La Capital. No se describen las lesiones. 'Durante un mes' del Ejército: del 6 de marzo al 6 de abril. El texto 'un tribunal consideró probado el encubrimiento' se apoya en la condena de Sánchez."
+}

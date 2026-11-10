@@ -16,8 +16,7 @@
     "Stephen Sinclair": "Stíven Sínclair",
     "Scotland Yard": "Escótland Iárd",
     "Londres": "Lóndres",
-    "York": "Yórk",
-    "Full Sutton": "Ful Sáton"
+    "York": "Yórk"
   },
   "cintas": [
     {
@@ -64,6 +63,10 @@
         {
           "voz": "ximena",
           "texto": "Nilsen contó a los detectives que había matado a quince o dieciséis hombres desde finales de 1978. La cifra exacta nunca se ha podido establecer. Hoy se considera que mató al menos a doce, y se sospecha que pudo ser más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el otoño de 1981 se mudó al último piso del número 23 de Cranley Gardens. Allí vivió hasta que lo detuvieron, un año y medio después, con un oficio estable y la vida ordenada de siempre."
         },
         {
           "voz": "ximena",
@@ -122,6 +125,14 @@
         },
         {
           "voz": "ximena",
+          "texto": "Los fiscales presentaron los restos hallados en los dos domicilios y la declaración de Nilsen. Lo que él había contado a los detectives durante días fue la base de la acusación, junto con las pruebas materiales que la respaldaban."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dejo anotada una cosa. Se ha escrito mucho sobre cómo hablaba Nilsen de lo que hizo. No voy a repetirlo. Lo que me interesa no es su voz, sino el silencio que rodeaba a las víctimas mientras vivían."
+        },
+        {
+          "voz": "ximena",
           "texto": "Él no negaba los hechos. La discusión era otra: su estado mental. La defensa sostuvo que tenía responsabilidad disminuida. Es decir, que su capacidad de controlarse estaba afectada por una enfermedad mental."
         },
         {
@@ -134,6 +145,14 @@
         },
         {
           "voz": "ximena",
+          "texto": "El jurado dio su veredicto por mayoría en la mayoría de los cargos, y por unanimidad en uno de los intentos de asesinato. Para las familias de las víctimas identificadas, aquel veredicto puso fin a un largo silencio. Pero no a todas las preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nilsen pasó el resto de su vida en prisión. Nunca volvió a salir a la calle. Murió en 2018."
+        },
+        {
+          "voz": "ximena",
           "texto": "En diciembre de 1994 se cambió esa recomendación por una condena de por vida, sin posibilidad de salir. Así quedó hasta su muerte. Nilsen murió el 12 de mayo de 2018, a los setenta y dos años, en un hospital de York, tras una intervención quirúrgica."
         },
         {
@@ -142,7 +161,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Para la policía londinense, el caso fue un golpe de realidad. Los registros de personas desaparecidas funcionaban mal. Los vecinos habían notado olores y humo, y no pasó nada. Y faltaban bases de datos y técnicas forenses que hoy damos por normales."
+          "texto": "Para Scotland Yard, el caso fue un golpe de realidad. Los registros de personas desaparecidas funcionaban mal. Los vecinos habían notado olores y humo, y no pasó nada. Y faltaban bases de datos y técnicas forenses que hoy damos por normales."
         },
         {
           "voz": "ximena",

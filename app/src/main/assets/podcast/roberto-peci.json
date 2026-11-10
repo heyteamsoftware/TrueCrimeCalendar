@@ -1,0 +1,107 @@
+{
+  "id": "roberto-peci",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Roberto Peci": "Róberto Péchi",
+    "Patrizio Peci": "Patrítsio Péchi",
+    "Patrizio": "Patrítsio",
+    "Peci": "Péchi",
+    "San Benedetto del Tronto": "San Benedéto del Trónto",
+    "Giovanni Senzani": "Yovani Sensáni",
+    "Senzani": "Sensáni",
+    "RAI": "Rai",
+    "Sergio Zavoli": "Sérchio Savóli",
+    "Aldo Moro": "Áldo Móro"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La cinta que la RAI no emitió",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El hermano del arrepentido. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La cinta que la RAI no emitió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Italia, verano de 1981. Llega a las redacciones de los periódicos un paquete con una cinta de vídeo. En ella, un hombre joven responde, ante la cámara, a un interrogatorio. Quienes lo hacen son las Brigadas Rojas. El hombre se llama Roberto Peci."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tenía veinticinco años, aunque algunas fuentes dicen veinticuatro. Instalaba antenas en San Benedetto del Tronto, en la costa del Adriático, y de joven había jugado al fútbol con buenas perspectivas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Su delito, ante los captores, fue un apellido. Su hermano Patrizio era un dirigente destacado de las Brigadas Rojas, lo detuvieron y se hizo arrepentido: colaboró con la justicia. Fue el primero en hacerlo. Roberto no era brigadista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de junio de 1981, cuatro terroristas lo secuestraron en la calle. La orden venía de la facción más dura de la organización, dirigida por Giovanni Senzani."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sé cuándo he visto esto antes. En 1978 las Brigadas Rojas secuestraron a Aldo Moro, lo interrogaron, lo juzgaron y lo mataron. Con Peci hicieron lo mismo, a pequeña escala. Parece un decorado repetido, con otro actor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante más de siete semanas, entre 53 y 55 días según la fuente, lo interrogaron. Todo se grabó. Los secuestradores exigieron que los medios difundieran el vídeo de aquel «juicio»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La RAI, la televisión pública, se negó. Su presidente, Sergio Zavoli, dijo que no podía hacerse ni material, ni legal, ni institucionalmente. El Corriere della Sera publicó la noticia el 28 de julio de 1981."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Imagina la decisión: quien lo emite, hace de altavoz de los terroristas; quien no lo emite, puede condenar al rehén. Aquel debate sobre prensa y terrorismo no se resolvió con Peci, ni con Moro, ni con nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según un testimonio recogido por el periodista Walter Veltroni, uno de los secuestradores contó que a Peci le pidieron que pareciera abatido al oír la sentencia, asegurándole falsamente que no se cumpliría."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No se cumplió el engaño: el 3 de agosto de 1981 lo mataron. Su cuerpo apareció en una casa abandonada de las afueras de Roma, aunque según otras fuentes fue en una cantera de la vía Apia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Fíjate en la fecha: tres años después de Moro, y con una puesta en escena muy parecida. No lo mataron por lo que hizo. Según una interpretación, fue para castigar a su hermano y advertir a los demás arrestados de que hablar tenía un precio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Giovanni Senzani cayó en 1982. Había sido criminólogo y profesor en las universidades de Florencia y Siena, y consultor del Ministerio de Justicia. Fue condenado por su actividad en las Brigadas Rojas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí el expediente se queda corto, y lo anoto: ninguna fuente abierta detalla la pena exacta por este crimen. Solo que Senzani obtuvo la semilibertad en 1999 y cumplió su pena en 2010. Si quieres la cifra concreta, no la tengo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Patrizio Peci escribió sus memorias. En ellas contó cómo su familia pagó el precio de su decisión: Roberto tuvo que abandonar el fútbol."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y hay una pregunta que el expediente no resuelve. ¿Sabían los secuestradores que no iban a conseguir nada? La policía ya tenía a su hermano. Matar a Roberto no cambiaba su declaración. Solo añadía una víctima inocente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia quedó en libros, como los de Giorgio Guidelli y Walter Veltroni, que la cuentan como un secuestro convertido en espectáculo televisivo, y en una pregunta que sigue abierta: qué hacer con las imágenes de los terroristas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roberto Peci era instalador de antenas, deportista, hijo y hermano. No era un símbolo ni un mensaje para nadie. Hoy una calle de San Benedetto del Tronto lleva su nombre: la misma por la que lo secuestraron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El hermano del arrepentido. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones entre fuentes: edad (24 o 25 años; el guion lo dice así), duración del cautiverio (53 o 55 días; el guion dice «entre 53 y 55») y lugar del hallazgo (Fosso dello Statuario según Wikipedia italiana y Sempre per la verità; «un casolare sull'Appia» según Il Fatto Quotidiano 2010): el guion dice «casa abandonada de las afueras de Roma» y menciona la discrepancia. Fuentes abiertas: Sempre per la verità, Il Fatto Quotidiano (2010) y Wikipedia italiana. No se dan detalles de la ejecución. La pena exacta de Senzani por este crimen no consta en ninguna fuente abierta; el guion no la da. «Consultor del Ministerio de Justicia» y la docencia en Florencia y Siena salen de Il Fatto Quotidiano (2010); la ficha dice que fue detenido en 1982 (la fecha no se ha comprobado en estas fuentes). Que «una calle de San Benedetto lleva su nombre» sale de Wikipedia italiana (pie de foto). La frase sobre el paralelismo con Moro aparece en Wikipedia italiana. Que el «mensaje» a los otros arrestados fuera el motivo es la interpretación de Sempre per la verità («most likely»), y el guion lo da como tal en nota del inspector."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "matanza-atocha",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Atocha": "Atócha",
+    "Comisiones Obreras": "Comisiones Obreras",
+    "Fernández Cerrá": "Fernández Cerrá",
+    "García Juliá": "García Julíá",
+    "Lerdo de Tejada": "Lérdo de Tejáda",
+    "Albaladejo": "Albaladéjo",
+    "São Paulo": "Sao Pául",
+    "Soto del Real": "Sóto del Real",
+    "Barajas": "Baráyas"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El despacho del número 55",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de Atocha. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El despacho del número 55."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, noche del 24 de enero de 1977. En el número 55 de la calle de Atocha hay un despacho de abogados laboralistas, vinculado a Comisiones Obreras y al Partido Comunista. Es lunes, y todavía hay gente trabajando. Alguien llama al timbre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entran varios hombres armados. Buscaban a un dirigente sindical que, esa noche, no estaba. Dispararon contra quienes sí estaban. Murieron cinco personas y cuatro más quedaron gravemente heridas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La palabra clave es «buscaban». No fue un tiroteo al azar, y según la sentencia, el plan se había preparado en el sindicato vertical del transporte. Eran los últimos años de la dictadura, y la democracia aún no existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los muertos eran tres abogados laboralistas: Enrique Valdelvira, Luis Javier Benavides y Francisco Javier Sauquillo. Un estudiante de Derecho, Serafín Holgado. Y un administrativo, Ángel Rodríguez Leal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los heridos fueron Miguel Sarabia, Alejandro Ruiz-Huerta, Luis Ramos y Lola González. Sobrevivieron, y su testimonio fue clave para reconstruir lo ocurrido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle que cuenta la sentencia: dos pistoleros disparaban mientras un tercero registraba el despacho y cortaba el teléfono. Eso no es un arrebato. Es un plan con reparto de tareas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El funeral fue el 26 de enero. Más de cien mil personas acompañaron el cortejo por las calles de Madrid, en silencio y sin incidentes. Fue una despedida multitudinaria, silenciosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que consta es el silencio, y que no hubo incidentes. Una ciudad entera despidiendo a cinco personas sin gritar. Eso también es una forma de respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía detuvo en pocos días a José Fernández Cerrá, a Carlos García Juliá y a Fernando Lerdo de Tejada, acusados de ser los autores materiales, y a Francisco Albaladejo, acusado de ser el inductor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lerdo de Tejada se fugó durante un permiso penitenciario, en abril de 1979, antes del juicio. Su delito acabó prescribiendo y nunca llegó a cumplir condena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Audiencia Nacional firmó la sentencia el 29 de febrero de 1980 y se hizo pública el 4 de marzo. Condenó por asesinato, y no por terrorismo, a Fernández Cerrá y a García Juliá a 193 años de cárcel a cada uno, y a Albaladejo a 73."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa diferencia importa. Se condenó por asesinato y no por terrorismo, aunque el atentado tuviera un objetivo político. Dos personas más fueron condenadas por tenencia ilícita de armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "García Juliá obtuvo la libertad condicional el 23 de octubre de 1991. Se le permitió viajar por una oferta de trabajo en Paraguay. No volvió a presentarse, y en 1996 fue declarado prófugo. Después fue detenido en Bolivia por tráfico de drogas, y se fugó de la cárcel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veinte años sin rastro. Y luego un hallazgo casi administrativo: en 2018, la policía federal brasileña lo localizó trabajando de conductor en São Paulo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue detenido en diciembre de 2018 y entregado a España. Su defensa alegó prescripción y otros argumentos, y el proceso se alargó trece meses. Llegó al aeropuerto de Barajas el 7 de febrero de 2020 y esa misma mañana ingresó en prisión en Soto del Real."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nada de esto devuelve a los muertos. Pero casi cuarenta y tres años después de la matanza, uno de los condenados volvía por fin a la cárcel. Para las familias, esa fecha pesó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinco nombres que no se deben perder: Enrique, Luis Javier, Francisco Javier, Serafín y Ángel. Y cuatro que sobrevivieron para recordarlo. Una noche que dejó a España pensando en sus abogados laborales, en su futuro y en lo que costaba la libertad. Archivo de la memoria de una noche que cambió la forma en que España miró a sus abogados, sus sindicatos y su futuro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de Atocha. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Tono neutro por la carga política. Discrepancias: sentencia firmada el 29 de febrero y pública el 4 de marzo (se dicen ambas); 193 años por autor material (Diario 16 daba 139, no cuadra con su total); Albaladejo 73 años (Wikipedia da 63 en otro apartado). No se afirma qué ocurrió después de la extradición (la ficha no confirma excarcelación). Detención en Brasil, no en Bolivia (Bolivia fue en los noventa por narcotráfico; Público). El máximo de cumplimiento real y la frase 'primera gran manifestación pacífica' son contexto general no contrastado en las fuentes abiertas: revisar. Otros dos condenados por tenencia de armas: la ficha. Se dice 'la mayor parte de sus penas' sin cifras, porque no se comprobó. Nombres de las víctimas y heridos: Wikipedia; contrastar con otra fuente."
+}

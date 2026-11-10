@@ -2,6 +2,7 @@
   "id": "miss-macao",
   "version": 3,
   "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Miss Macao": "Mis Macáo",
     "Macao": "Macáo",
     "Hong Kong": "Jong Kong",
@@ -45,7 +46,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en lo frágil del plan. Necesitaban que los pilotos obedecieran, y no iban a obedecer. Además, el avión era de la filial de una aerolínea de Hong Kong, Cathay Pacific, y volaba sobre un estuario lleno de pesqueros."
+          "texto": "Fíjate en lo frágil del plan. Necesitaban que los pilotos cedieran los mandos, y podían negarse. Un secuestro en el aire, con el avión de una filial de Cathay Pacific, no tiene plan B."
         },
         {
           "voz": "ximena",
@@ -69,7 +70,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía sospechó de él al ver el avión acribillado a balazos y comprobar que era un campesino pobre, sin motivo para viajar en un vuelo así. Terminó confesando el plan."
+          "texto": "La policía sospechó de él al encontrar los restos con impactos de bala y conocer su origen humilde. Terminó confesando el plan."
         },
         {
           "voz": "alvaro",
@@ -89,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Wong Yu pasó casi tres años en la prisión de Macao. El 11 de junio de 1951 lo soltaron sin juicio y lo expulsaron a China. Murió poco después, según Wikipedia, con unos veintisiete años."
+          "texto": "Wong Yu siguió preso en Macao. El 11 de junio de 1951 lo soltaron sin juicio y lo expulsaron a China. Murió poco después."
         },
         {
           "voz": "alvaro",
@@ -113,5 +114,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Casi sin resolver por vía judicial: nunca hubo juicio. Fuentes abiertas: Crime+Investigation UK y Wikipedia (en inglés). CNN (451, bloqueada) y SCMP no se pudieron abrir. Discrepancias: nº de muertos (25 según Wikipedia, que da 23 pasajeros y 3 tripulantes; la ficha dice 25 o 26; el guion dice «veinticinco o veintiséis» y «más de veinte pasajeros y tres tripulantes»). Cómo se salvó Wong Yu: la ficha dice que lo rescató un pescador; Wikipedia dice que saltó por la salida de emergencia justo antes del impacto y C+I que el agua lo expulsó del fuselaje; el guion solo dice que lo rescató un pescador (ficha). Muerte del piloto: C+I dice que murió en el acto; la ficha y Wikipedia, solo herido o disparado; el guion dice «fue alcanzado». Qué le hizo confesar: dos versiones (C+I), el guion lo presenta como duda. Edad de Wong Yu: no se menciona (24 o 27 según fuentes). Su muerte tras la expulsión: rumores sin confirmar. Fuera del guion: nombres de pasajeros, la azafata sin nombrar (pareja de McDuff según Wikipedia), la pértiga de amarre, los métodos de la policía en el hospital. Edades de Cramer (27) y McDuff (23): C+I."
 }

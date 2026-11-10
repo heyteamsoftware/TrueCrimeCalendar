@@ -1,0 +1,122 @@
+{
+  "id": "elie-hobeika",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Elie Hobeika": "Elí Jobéika",
+    "Hobeika": "Jobéika",
+    "Hazmieh": "Hasmíe",
+    "Beirut": "Beirút",
+    "Sabra y Chatila": "Sabra y Chatíla",
+    "Ariel Sharon": "Ariel Sharón",
+    "Sharon": "Sharón",
+    "Fuerzas Libanesas": "Fuerzas Libanesas",
+    "Líbano": "Líbano",
+    "Bélgica": "Bélgica",
+    "MERIP": "Merip",
+    "Reuters": "Róiters",
+    "Libaneses por un Líbano Libre e Independiente": "Libaneses por un Líbano Libre e Independiente"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche en Hazmieh",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra Elie Hobeika. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un coche en Hazmieh."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Beirut, 24 de enero de 2002. Es por la mañana en Hazmieh, un barrio de las afueras de la capital libanesa. Un hombre sale de su casa. Sube a su todoterreno, rodeado de escoltas, como cada día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces una explosión sacude la calle. Las imágenes de la televisión muestran fuego en los edificios cercanos y restos de coche esparcidos. El hombre ha muerto, y varios de sus escoltas con él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre con escoltas, que desconfiaba de todo y de todos, muere en la puerta de su casa. Alguien conocía sus horarios al minuto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Elie Hobeika. Había sido jefe de los servicios de información de las Fuerzas Libanesas, una milicia cristiana, durante la guerra civil de Líbano. Después fue diputado y ministro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le atribuía haber dirigido a los milicianos que en septiembre de 1982 mataron a cientos de civiles palestinos y libaneses en los campos de Sabra y Chatila. Él siempre lo negó. Nunca fue juzgado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Insisto en eso: nunca fue condenado. Para muchos libaneses era una figura odiada, incluso entre sus antiguos aliados, que lo consideraban un traidor por haberse pasado al bando de Siria durante la guerra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso amplía la lista de gente con motivos. Pero tener enemigos no es una prueba de nada, y de un asesinato no se acusa por sospecha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El dato que lo cambia todo es el calendario. Dos días antes, Hobeika se había reunido con senadores belgas y les había dicho que estaba dispuesto a declarar en Bélgica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí, supervivientes de la matanza habían presentado una querella contra Ariel Sharon, que era ministro de Defensa de Israel en 1982 y ahora era primer ministro. Hobeika aseguraba que su testimonio limpiaría su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ya en el verano anterior había dicho que estaría dispuesto a participar en el proceso, y que eso ayudaría a probar su inocencia. Las tropas israelíes rodeaban los campos cuando ocurrió la matanza, y esa es la base de la querella."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según MERIP, una revista de análisis estadounidense, Hobeika dijo a los senadores que temía por su integridad física. Esa es la razón por la que su muerte, dos días después, se leyó enseguida como algo más que un ajuste de cuentas de la guerra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los abogados de los demandantes dijeron que su muerte era un intento evidente de debilitar el caso. Fuentes oficiales libanesas y la radio estatal siria acusaron a Israel. Israel negó cualquier implicación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esta es la parte que debo marcar con cuidado: son acusaciones políticas, no pruebas. Se manejaron otras líneas, como Siria o grupos palestinos que habían prometido venganza por la matanza. Ninguna fue demostrada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un grupo hasta entonces desconocido, Libaneses por un Líbano Libre e Independiente, reivindicó el atentado. La investigación libanesa no identificó a nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otras tres personas resultaron heridas, según fuentes de seguridad citadas por la agencia Reuters. Ese mismo día, un abogado de los demandantes dijo que Hobeika era un testigo clave."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes no coinciden ni siquiera en cómo fue. Un testigo habló de un coche cargado de explosivos, otro de una bomba en su propio coche. Reuters contó cinco escoltas muertos y otras fuentes tres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie ha sido acusado del atentado. Veinticuatro años después, el expediente sigue sin responsables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y los abogados de las víctimas perdieron a quien llamaron un testigo clave. Una investigación israelí de 1983 ya había considerado a Sharon indirectamente responsable de aquella matanza, pero las preguntas sobre quién dio qué órdenes seguían abiertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan, ante todo, quienes murieron con él: unos escoltas que cumplían con su trabajo y de quienes las fuentes casi no dicen nada. Ni sus nombres figuran en la prensa que hemos podido consultar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y quedan las víctimas de 1982, que seguían esperando justicia. Que Hobeika no llegara a declarar es parte de por qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El atentado contra Elie Hobeika. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifra de escoltas muertos: Reuters (Dawn) cinco; CNN y Wikipedia tres; el guion dice «varios» y lo recoge. Mecanismo: fuentes discrepan (coche bomba o explosivos en su propio vehículo). La reivindicación del grupo «Libaneses por un Líbano Libre e Independiente» viene de MERIP/Wikipedia. Hobeika nunca fue juzgado por Sabra y Chatila. Israel, Siria y grupos palestinos: líneas especuladas (MERIP, Universalis vía ficha), sin pruebas. Que fue «traidor» para sus antiguos aliados viene de Reuters (Dawn)."
+}

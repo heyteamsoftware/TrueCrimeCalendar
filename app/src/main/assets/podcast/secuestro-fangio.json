@@ -1,0 +1,98 @@
+{
+  "id": "secuestro-fangio",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Fangio": "Fánjio",
+    "Juan Manuel Fangio": "Juan Manuel Fánjio",
+    "hotel Lincoln": "hotel Línkoln",
+    "Lincoln": "Línkoln",
+    "Batista": "Batísta"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un bar en el hotel Lincoln",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Fangio en La Habana. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un bar en el hotel Lincoln."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Habana, domingo 23 de febrero de 1958, hacia las nueve de la noche. En el vestíbulo del hotel Lincoln hay mecánicos, pilotos y curiosos. Al día siguiente se corre el Gran Premio de Cuba. Un joven alto se acerca al hombre más famoso del lugar, el campeón argentino Juan Manuel Fangio, y le pide que lo acompañe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el relato de PlanetF1, Fangio creyó que le iban a pedir un autógrafo y se encontró con una pistola. Primero pensó que era una broma. Después entendió que no. Salió con él sin que se disparara un solo tiro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un campeón del mundo cinco veces, rodeado de gente, y se lo llevan por la puerta sin que nadie reaccione. Un plan simple, y por eso funcionó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quienes lo secuestraron eran del Movimiento 26 de Julio, el grupo de Fidel Castro que combatía desde la Sierra Maestra al régimen del dictador Fulgencio Batista. BBC Mundo identifica al hombre que lo abordó como Manuel Uziel; una placa del hotel atribuye la operación a un comando dirigido por Oscar Lucero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No querían dinero. La carrera era una vitrina: Batista invitó a Fangio para mostrar normalidad. Los rebeldes la vieron como una oportunidad para llamar la atención del mundo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un secuestro sin rescate. Fíjate en la lógica: su arma no era la amenaza, era la noticia. Cuanto más famoso el rehén, más fuerte el mensaje. Y, según los relatos, lo trataron con corrección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo llevaron en coche a una casa en el Vedado, un barrio de La Habana. Estuvieron allí solo media hora y lo trasladaron a otra, donde había gente festejando. Le sirvieron algo de cenar y le pidieron autógrafos. Según el propio Fangio, le prometieron un trato correcto y que lo soltarían después de la carrera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fangio contó después que pudo llamar a su familia y que vio la carrera por televisión con sus captores. Los rebeldes temían que los hombres del régimen le hicieran algo para culpar a Castro, así que lo vigilaron de cerca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Y el gobierno? Retrasó la salida de la carrera, esperando que la policía lo encontrara. No lo hizo. La carrera se corrió al día siguiente, sin él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo un accidente grave. El coche de un piloto cubano, Armando García Cifuentes, patinó sobre una mancha de aceite y se metió entre el público. Murieron varios espectadores, entre seis y siete según la fuente, y hubo unos cuarenta heridos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un secuestro «limpio» y, a unas horas, una tragedia que nada tenía que ver con él. Aun así, según una crónica, Fangio declaró que le habían hecho un favor: él no estaba al volante. No me corresponde decir si era cierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las once de la noche del lunes, tras unas veintinueve horas, lo entregaron. Los rebeldes habían acordado el traslado con el embajador argentino, Raúl Guevara Lynch, pariente del Che Guevara. Lo entregó Arnold Rodríguez, en la casa del agregado militar argentino. Estaba ileso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Rodríguez, Fangio dijo a los diplomáticos que estaban nerviosos que sus secuestradores eran «mis amigos secuestradores». Los dos se hicieron amigos. Fangio volvió a Cuba varias veces después de 1959."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nadie fue juzgado. Batista cayó en menos de un año. Algunos de los organizadores ocuparon cargos en el nuevo gobierno. Eso no borra que se llevaron a un hombre a punta de pistola. Pero explica por qué nadie respondió ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el hotel Lincoln, una placa recuerda hoy el comando que actuó allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan los espectadores. Los que fueron a ver una carrera aquel lunes y no volvieron a casa. Su historia suele quedar en nota al pie de una anécdota con final feliz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Fangio en La Habana. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Diario Jornada (con BBC Mundo) y PlanetF1; History.com y Motor Sport sin abrir. Contradicciones: duración 29 horas (PlanetF1, ficha) frente a otras cifras (la ficha ya las lista); muertos en la carrera: siete (ficha, PlanetF1) o seis (Jornada): se pone «entre seis y siete». Quién lo abordó: Uziel (BBC) u Oscar Lucero (placa); Lugar de la entrega: casa del agregado militar Zaballe (Jornada) o piso del embajador (PlanetF1; Fangio dijo que eligió el apartamento de Lynch). Se dice «casa del agregado militar» como Jornada. La carrera: la ficha dice día siguiente (24); Jornada dice lunes, PlanetF1 retrasa la salida de la carrera dos horas. El paso «pidió una embajada amiga» (PlanetF1, que lo hizo escoger) puede contradecir que la entrega se acordara con el embajador: revisar. La autoría del piloto del accidente (García Cifuentes) es de PlanetF1 solo. «Me hicieron un favor»: Jornada. Que Fangio volvió a Cuba: Jornada. Los hechos de la entrega «hacia las once»: Jornada («alrededor de las 23 horas»), sin fecha clara (la ficha dice 29 horas, lo que daría el lunes por la noche)."
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ninos-beaumont",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Beaumont": "Bóumont",
+    "Jane": "Yein",
+    "Arnna": "Arna",
+    "Grant": "Grant",
+    "Glenelg": "Glenelg",
+    "Adelaida": "Adelaida",
+    "Somerton Park": "Sómerton Park",
+    "Colley Reserve": "Cóli Resérv",
+    "Australia": "Australia",
+    "Jim": "Yim",
+    "Nancy": "Nánsi"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un billete de una libra",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los niños Beaumont. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un billete de una libra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Glenelg, cerca de Adelaida, 26 de enero de 1966. Es el Día de Australia, en plena ola de calor. En una pastelería, una niña de nueve años paga unas empanadillas y una empanada de carne con un billete de una libra. El dueño la conoce y se fija en algo raro: nunca había comprado una empanada de carne."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres hermanos Beaumont, Jane, de nueve años, Arnna, de siete, y Grant, de cuatro, habían salido de su casa de Somerton Park por la mañana. Cogieron el autobús hasta la playa a las ocho y cuarenta y cinco. Debían volver al mediodía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Su madre les había dado lo justo para el autobús y la comida. Un billete de una libra no era suyo. Alguien se lo dio. Ese detalle ya sitúa a un adulto a su lado antes de que el día acabara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No volvieron en el autobús de las doce ni en el de las dos. Por la tarde, su padre, Jim, regresó antes de un viaje de trabajo y fue a buscarlos a la playa. A las cinco y media, los padres denunciaron la desaparición en la comisaría."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía organizó una búsqueda enorme por playas, dunas y calles. En un día, todo el país conocía el caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los testigos aportaron la pieza más inquietante. Varios los vieron en la Colley Reserve jugando con un hombre alto, delgado y rubio, de unos treinta y cinco años. Los niños parecían tranquilos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eso importa. Los padres decían que Jane, la mayor, era tímida. Los investigadores pensaron que quizá ya conocían a aquel hombre de otra visita a la playa. Arnna le había dicho a su madre que Jane tenía un novio en la playa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una frase que una madre no puede olvidar. En ese momento nadie le dio importancia. Aquí cabe una advertencia: no sabemos quién era, ni si ese hombre era realmente un conocido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los testigos, el grupo se alejó de la playa hacia las doce y cuarto. Una mujer volvió a ver a los niños con el hombre a media tarde. Es lo último que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron los años. Hubo llamadas, pistas, sospechas y hasta búsquedas basadas en la visión de un vidente. Dos años después, los padres recibieron cartas que parecían escritas por Jane y por un hombre que decía tener a los niños y proponía devolverlos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En 1992, nuevos análisis forenses mostraron que las cartas eran una burla. Las escribió un hombre que entonces era adolescente. No se le acusó de nada por el tiempo transcurrido. Una crueldad más para unos padres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo más búsquedas. Una en 2018, en una antigua fábrica de North Plympton, tras la información de dos hermanos, terminó sin hallar nada humano. En 2025 se reanudó otra excavación en el mismo solar, la última de la que tenemos noticia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Algunos autores han relacionado el caso con la desaparición de otros dos niños en el estadio de Adelaide Oval, en 1973. La policía no lo descarta, pero no tiene nada firme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie ha sido acusado de la desaparición de los Beaumont. La policía de Australia Meridional mantiene el caso abierto. El Gobierno del estado ha ofrecido una recompensa de un millón de dólares australianos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un artículo de la agencia AAP de 2016 recordaba que quienes pudieran ser responsables tendrían hoy entre setenta y cien años. Si hay una respuesta, quizá solo llegue por una confesión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El caso cambió algo más. Según Wikipedia, desde entonces muchos padres australianos dejaron de dar por seguro que sus hijos pudieran moverse solos por lugares públicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres, Nancy y Jim, siguieron esperando. Ella decía que sería terrible que los niños volvieran y no encontraran a nadie en casa. Nancy murió en 2019, y Jim, en 2023."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan tres nombres: Jane, Arnna y Grant. Los testigos los recordaron aquel día jugando, tranquilos, a la orilla del mar. Esa es la imagen que el archivo prefiere conservar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Los niños Beaumont. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Se nombra a las víctimas menores: caso de hace 60 años, nombres difundidos por la familia y que forman el nombre del caso. No se nombra a ningún sospechoso (ni a los citados en Wikipedia, p. ej. el dueño de la fábrica Castalloy, ni a quienes aparecen en la lista de «possible suspects»): nadie fue acusado. Detalles de pastelería (empanada, billete de una libra), «novio en la playa», hora de salida del autobús y avistamientos: Wikipedia y The Guardian/AAP 2025 (el billete). Cartas de 1968 y su desenmascaramiento en 1992: Wikipedia; en su cita figura «citation needed» para parte del texto. El vidente holandés (Croiset) y el enlace con el caso de Adelaide Oval de 1973: InDaily/Wikipedia. El vidente (Guardian: «a psychic’s vision»). La excavación de 2018 es ABC; la de 2025 es The Guardian (empezó el 22/2/2025; el resultado no consta en lo que abrí). La recompensa de un millón es «a 2018» en Wikipedia. El cambio en la costumbre de los padres: Wikipedia."
+}

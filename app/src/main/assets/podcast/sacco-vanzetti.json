@@ -1,0 +1,136 @@
+{
+  "id": "sacco-vanzetti",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Nicola Sacco": "Nicola Sáco",
+    "Sacco": "Sáco",
+    "Bartolomeo Vanzetti": "Bartolomeo Vanzéti",
+    "Vanzetti": "Vanzéti",
+    "Brockton": "Brókton",
+    "South Braintree": "Sauz Bréintri",
+    "Braintree": "Bréintri",
+    "Massachusetts": "Masachúsets",
+    "Frederick Parmenter": "Frédrik Pármenter",
+    "Alessandro Berardelli": "Alesándro Berardéli",
+    "Dedham": "Dédam",
+    "Webster Thayer": "Uébster Zéier",
+    "Thayer": "Zéier",
+    "Alvan Fuller": "Álvan Fúler",
+    "Michael Dukakis": "Máikel Dukákis",
+    "Dukakis": "Dukákis",
+    "Katzmann": "Kátsman",
+    "Charlestown": "Chárlstaun",
+    "Celestino Madeiros": "Selestíno Madéiros"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un tranvía en Brockton",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Sacco y Vanzetti. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un tranvía en Brockton."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Brockton, Massachusetts, noche del 5 de mayo de 1920. Dos hombres viajan en un tranvía. La policía sube, los detiene y encuentra que van armados. Se llaman Nicola Sacco y Bartolomeo Vanzetti."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los detienen armados, y enseguida los acusan de un doble asesinato cometido tres semanas antes. Un arma en 1920 no era una prueba de nada. Eso importa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sacco era obrero del calzado. Vanzetti, vendedor de pescado. Los dos eran inmigrantes italianos y los dos se declaraban anarquistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de abril de 1920, en South Braintree, unos atracadores habían matado a tiros al pagador Frederick Parmenter y al guarda Alessandro Berardelli, de una fábrica de calzado. Se llevaron la nómina y huyeron en un coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación sostuvo que Sacco y Vanzetti eran dos de los atracadores. Ellos negaron siempre haber participado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La clave del caso está en ese «según la acusación». No hubo una confesión ni un hallazgo claro. La acusación se apoyó sobre todo en testigos presenciales y en una prueba de balística, y The Harvard Crimson describe ambas como débiles y discutibles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en Dedham. Presidía el juez Webster Thayer, con poca simpatía por los radicales. Acusaba el fiscal Frederick Katzmann. El juez ya había presidido otro juicio contra Vanzetti, por un robo en Plymouth. Su abogado, Fred Moore, era un letrado de causas obreras, de estilo poco convencional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de julio de 1921, el jurado los declaró culpables. Lo hizo en un clima de miedo a los extranjeros y a los anarquistas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que recordar la época. Es 1920, los años del miedo a los «rojos». Cuando un tribunal juzga a dos inmigrantes anarquistas, la pregunta ya no es solo qué hicieron, sino qué representaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron seis años de recursos. El Tribunal Supremo de Massachusetts confirmó la condena en 1926. El 9 de abril de 1927, el juez Thayer los condenó a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el tribunal, Vanzetti habló. Dijo que era inocente y que lo perseguían por ser radical y por ser italiano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El gobernador Alvan Fuller nombró un comité para revisar si el juicio había sido justo. El 3 de agosto, el comité respaldó la sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La tensión llegó a todas partes. Hubo protestas y atentados con bomba en varios países por el caso, y personas ligadas a la acusación, incluido un jurado, recibieron amenazas. En agosto de 1927 la casa de ese jurado fue atacada con una bomba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, había manifestaciones y peticiones de clemencia en medio mundo. Pero el 23 de agosto de 1927, en la prisión de Charlestown, Sacco y Vanzetti fueron ejecutados en la silla eléctrica. Con ellos murió Celestino Madeiros, condenado por otro asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un abogado respetado de Boston, William Thompson, se hizo cargo de los recursos cuando ya había veredicto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que no pasó. No hubo nunca revisión judicial del juicio. No hubo indulto. Y, sin embargo, la duda no se cerró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1977, cincuenta años después, el gobernador de Massachusetts, Michael Dukakis, proclamó que los dos no habían tenido un juicio justo. Citó los prejuicios contra los extranjeros y contra las ideas poco ortodoxas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la pregunta que queda abierta: ¿se condenó a los culpables en un mal juicio, o a dos inocentes? No lo sé, y las fuentes tampoco lo resuelven."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una proclamación no es una absolución. Dukakis no dijo que fueran inocentes. Los historiadores siguen discutiendo si lo eran, sobre todo en el caso de Sacco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que consta es lo siguiente: dos hombres fueron condenados en un juicio que el propio estado reconoció, medio siglo después, que no fue justo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sacco y Vanzetti trabajaron, emigraron y creyeron en algo. Murieron afirmando que no habían matado a nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y, entre tanto, otros dos hombres, Frederick Parmenter y Alessandro Berardelli, habían muerto aquella tarde de abril. A ellos también se les debe memoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Sacco y Vanzetti. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "La detención (tranvía de Brockton, 5 de mayo de 1920) la recogen Wikipedia, The Harvard Crimson y la ficha; History (Reino Unido) habla de un garaje, lo que parece una simplificación. La página de mass.gov no se pudo abrir. El guion no resuelve la culpabilidad: se atribuyen a la proclamación de Dukakis de 1977 y a los historiadores las dudas. No se citan pruebas concretas (balística, testigos) más allá de su fragilidad según The Harvard Crimson. Los dos pidieron siempre su inocencia: la frase de Vanzetti se parafrasea (declaración del 9 de abril de 1927 ante el juez, Crimson). La ejecución conjunta con Celestino Madeiros, condenado por otro asesinato, la recoge la Massachusetts Historical Society. Fecha de la sentencia de muerte: 9 de abril de 1927 (MHS)."
+}

@@ -39,7 +39,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "San Francisco, 2 de mayo de 1946. En la isla de Alcatraz, el bloque de celdas parece tranquilo. Un preso con una escoba barre un pasillo. Se llama Bernard Coy y lleva meses estudiando una cosa: los barrotes de la galería de armas."
+          "texto": "San Francisco, 2 de mayo de 1946. En la isla de Alcatraz, el bloque de celdas parece tranquilo. Un preso con una escoba barre un pasillo. Se llama Bernard Coy y ha notado una cosa: los barrotes de la galería de armas no tienen ninguna protección."
         },
         {
           "voz": "alvaro",
@@ -75,11 +75,19 @@
         },
         {
           "voz": "ximena",
+          "texto": "Alcatraz era una penitenciaría federal en mitad de la bahía, abierta en 1934. Allí enviaban a los presos más difíciles de otras cárceles. Aquella tarde, el bloque de celdas dejó de obedecer a sus guardianes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alcatraz era una penitenciaría federal en mitad de la bahía, abierta en 1934. Allí enviaban a los presos más difíciles de otras cárceles. Aquella tarde, el bloque de celdas dejó de obedecer a sus guardianes."
+        },
+        {
+          "voz": "ximena",
           "texto": "La cárcel pidió ayuda al ejército. Llegaron los marines. La batalla duró hasta la mañana del 4 de mayo."
         },
         {
           "voz": "alvaro",
-          "texto": "Cuando la fuerza armada se usa dentro de una prisión, algo ha fallado antes. Es lo que me pregunto de este expediente. Se hizo todo, pero se hizo tarde."
+          "texto": "Dos días de asedio, con rehenes heridos y armas dentro del edificio. Cuando la fuerza armada se usa dentro de una prisión, algo ha fallado antes. Es lo que me pregunto de este expediente. Se hizo todo, pero se hizo tarde."
         },
         {
           "voz": "ximena",
@@ -95,15 +103,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Del sexto no hablamos tanto. Clarence Carnes tenía veintitantos años y no fue condenado a muerte. Recibió una segunda cadena perpetua."
+          "texto": "Del sexto no hablamos tanto. Clarence Carnes era el preso más joven de Alcatraz y no fue condenado a muerte. Recibió una segunda cadena perpetua."
         },
         {
           "voz": "ximena",
-          "texto": "Carnes murió en prisión en 1988. Era el más joven de los seis y el único que se salvó de la cámara de gas."
+          "texto": "Carnes murió en prisión en 1988. Era el único de los seis supervivientes que se salvó de la cámara de gas."
         },
         {
           "voz": "alvaro",
-          "texto": "Hay una conclusión práctica que me quedo de este caso. Después de 1946 se reforzó la vigilancia en Alcatraz. Los cambios no se hicieron por lo que ocurrió allí en tres días. Se hicieron para que no pudiera ocurrir otra vez."
+          "texto": "Me quedo con una conclusión práctica. Tras aquellos tres días, la seguridad de la isla se endureció, y durante años nadie volvió a intentar una fuga parecida."
         },
         {
           "voz": "ximena",

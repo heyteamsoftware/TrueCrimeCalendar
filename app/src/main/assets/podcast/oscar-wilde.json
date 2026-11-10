@@ -1,0 +1,106 @@
+{
+  "id": "oscar-wilde",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Oscar Wilde": "Óscar Uáild",
+    "Wilde": "Uáild",
+    "Queensberry": "Cuínsberi",
+    "Alfred Douglas": "Álfred Dáglas",
+    "Douglas": "Dáglas",
+    "Alfred Taylor": "Álfred Téilor",
+    "Taylor": "Téilor",
+    "Wills": "Uils",
+    "Old Bailey": "Old Béili",
+    "Reading": "Rédin",
+    "Wandsworth": "Uándsuorz",
+    "Pentonville": "Pentonvil",
+    "Londres": "Londres"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una tarjeta en el club",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El proceso de Oscar Wilde. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una tarjeta en el club."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, febrero de 1895. En el club de Oscar Wilde, alguien recibe una tarjeta de visita. No va dirigida a nadie en particular. Es un insulto escrito a mano por el marqués de Queensberry, que acusa a Wilde de comportarse como un sodomita. Esa tarjeta, que bien pudo quedar en un cajón, acabó con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queensberry era el padre de lord Alfred Douglas, el joven con quien Wilde mantenía una relación desde hacía años y que apenas disimulaba. El marqués llevaba tiempo amenazándole. Wilde podía haberlo ignorado. No lo hizo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Wilde era un escritor famoso y demandó al marqués por difamación. Se metió él solo en un tribunal donde el acusado no iba a ser el otro. Mi lectura: creyó que su fama le protegía. Lo que menos esperaba era que la defensa buscara pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y las buscó. Detectives contratados por Queensberry encontraron a jóvenes que habían tratado con Wilde a cambio de dinero. Algunos fueron presionados para declarar. Ante esa defensa, Wilde retiró la demanda y el marqués fue declarado no culpable: el tribunal aceptó que su acusación era cierta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que ocurrió. Al perder aquel pleito, la policía ya tenía un caso. Wilde pasó de demandante a acusado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue detenido el 6 de abril de 1895 por «indecencia grave». Así se llamaba el delito que castigaba las relaciones entre hombres, aunque fueran consentidas. Esa ley de 1885 no hablaba de víctimas. Hablaba de actos privados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El primer juicio terminó sin veredicto: el jurado no se puso de acuerdo, y Wilde salió bajo fianza. Pero el caso no se cerró. Se abrió un segundo juicio, ante el juez Wills, en el Old Bailey, el tribunal penal de Londres. Con él se sentó otro acusado, Alfred Taylor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No vamos a hacer como si hubiera suspense. La ley era clara y los testigos estaban preparados. Lo que sí merece una nota: según el New York Times, el jurado preguntó antes de retirarse si se había dictado una orden de arresto contra Douglas. El juez dijo que no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de mayo, tras unas dos horas de deliberación, el jurado declaró culpable a Wilde. El juez dijo que las cartas de Wilde a Douglas eran, quizá, «poemas en prosa», pero que le parecían dañinas para un joven. Dictó dos años de trabajos forzados, la pena máxima."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El juez añadió que la pena le parecía insuficiente para un caso así. Los abogados pidieron aplazar la sentencia. Se negó. Wilde, dicen las crónicas, quedó aturdido y fue llevado a su celda en cuanto terminó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cumplió la pena entera. Pasó por Pentonville, donde caminó horas cada día en una rueda de castigo. En Wandsworth su salud se resintió. La mayor parte la cumplió en la cárcel de Reading."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salió en 1897. Se fue a Francia, donde murió en París en 1900, a los cuarenta y seis años. De aquella cárcel nació uno de sus poemas más conocidos, «La balada de la cárcel de Reading»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Qué quedó sin aclarar? Casi nada del juicio, y mucho de la ley. Aquí no hubo ningún culpable al que buscar. Fue una condena por una conducta que hoy no es delito, dictada por un tribunal que aplicó la norma. Y sin embargo, hoy se considera injusta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2017, una ley británica indultó a título póstumo a los hombres condenados por delitos que ya no existen. La llaman la ley Turing. Entre ellos está Wilde. Se calcula que unos cincuenta mil hombres recibieron ese indulto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La memoria del caso no es solo suya. Está también la de Taylor, condenado con él, y la de los muchos hombres que cumplieron penas por amar o desear en privado, y que no tuvieron una fama que los protegiera ni una obra que los salvara del olvido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente no pide absolver a nadie. Pide recordar que una condena no es siempre una verdad, y que la justicia también tiene que rendir cuentas ante la historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El proceso de Oscar Wilde. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "No es un error judicial en sentido estricto (se siguió la ley de 1885); el guion lo presenta como condena injusta para los criterios actuales sin acusar a nadie. Fuentes abiertas: PinkNews (2020), NYT (26/5/1895), London Daily News (27/5/1895), gov.uk (2017). Contradicciones/prudencia: gov.uk no nombra a Wilde ni da cifra; la de unos 50.000 indultados sale de PinkNews/Wikipedia y se dice «se calcula». London Daily News dice que fue declarado culpable de los ocho cargos; no se usa. La cita del juez sobre las cartas («prose poems») sale del NYT; que la pena le parecía insuficiente, de PinkNews. Que el jurado preguntara por una orden contra Douglas sale del NYT. La tarjeta de febrero de 1895 se dejó en su club (PinkNews); el texto exacto de la tarjeta no se cita. «Dos años» y detención del 6 de abril coinciden con la ficha."
+}

@@ -1,0 +1,122 @@
+{
+  "id": "familia-yablonski",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Yablonski": "Yablónski",
+    "Clarksville": "Clárksvil",
+    "Pensilvania": "Pensilvania",
+    "Joseph": "Yósef",
+    "Jock": "Yok",
+    "Margaret": "Márgaret",
+    "Charlotte": "Sharlot",
+    "Kenneth": "Kéneth",
+    "Tony Boyle": "Tóni Boil",
+    "Boyle": "Boil",
+    "UMWA": "u eme dobleú a",
+    "Paul Gilly": "Pol Guili",
+    "Gilly": "Guili",
+    "Claude Vealey": "Cloud Vili",
+    "Vealey": "Vili",
+    "Aubran Martin": "Óbran Mártin",
+    "Martin": "Mártin",
+    "Buddy": "Bádi",
+    "Cleveland": "Clívland",
+    "Albert Pass": "Álbert Pas",
+    "HISTORY": "Jístori",
+    "Charles Owen Rice": "Charls Ouen Rais",
+    "Kennedy": "Kénedi",
+    "Martin Luther King": "Mártin Lúter King",
+    "Post-Gazette": "Poust Gazét"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una granja en Clarksville",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de los Yablonski. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una granja en Clarksville."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Clarksville, Pensilvania. 5 de enero de 1970. Kenneth Yablonski encuentra en la granja de su familia los cuerpos de sus padres, Joseph y Margaret, y de su hermana Charlotte. Llevaban casi una semana muertos. Los mataron mientras dormían, en Nochevieja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jock tenía cincuenta y nueve años; Margaret, cincuenta y siete. Charlotte, la hija, tenía veinticuatro o veinticinco, según la fuente. Eran una familia de una granja de Pensilvania, no un titular."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los coches del camino tenían los neumáticos pinchados y habían cortado los cables del teléfono. Eso no es un robo improvisado: es alguien que prepara una noche sin testigos. Pero fíjate en lo que vino después: dejaron huellas por todas partes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Joseph Yablonski, al que todos llamaban Jock, trabajaba en las minas desde niño. Entró en el sindicato minero, la UMWA, después de que su padre muriera en una explosión en la mina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1969 se presentó contra el presidente del sindicato, Tony Boyle. Lo acusaba de nepotismo y de mal uso de los fondos, y pedía más derechos de voto para los afiliados. El 9 de diciembre perdió por casi dos votos a uno. Pidió al Departamento de Trabajo que investigara un posible fraude."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Veintiún días. Es lo que pasó entre la derrota y la noche del crimen. Lo apunto como cronología, no como acusación. Las acusaciones llegaron después, y las decidieron los tribunales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía detuvo pronto a tres hombres de Cleveland: Paul Gilly, Claude Vealey y Aubran Martin, apodado Buddy. Eran delincuentes de poca monta. Según el Post-Gazette, la policía los calificó más tarde de payasos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habían ido a la casa a mediados de diciembre y perdieron el valor en el último momento. Volvieron la noche del 31, con Martin. Según el mismo periódico, les ofrecieron mil setecientos dólares a cada uno."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Aquí está la clave del caso. Los tres eran el último eslabón. La pregunta ya no era quién disparó, sino quién los había contratado. Y cuando hay un encargo, se sigue el dinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores llegaron hasta un dirigente del sindicato, Albert Pass, que los había contratado, y de ahí más arriba. Varios intermediarios fueron condenados. Gilly, Vealey y Martin lo fueron en 1972, y Gilly recibió tres cadenas perpetuas simultáneas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según HISTORY, nueve personas acabaron condenadas por el crimen, incluido Boyle. Otras fuentes dan siete: la cifra exacta varía según quién cuente. Lo seguro es la cadena: sicarios, intermediarios y la cúpula del sindicato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tony Boyle fue juzgado por ordenar los asesinatos. Lo condenaron en 1974, se anuló esa sentencia, lo juzgaron de nuevo y lo condenaron otra vez en 1978. Murió en prisión en 1985."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Aquí la investigación sí llegó arriba. Pero el precio fue una familia entera. Según el Post-Gazette, Margaret y Charlotte murieron porque los asesinos no querían testigos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el funeral, el sacerdote Charles Owen Rice dijo que los asesinatos eran un eco de los de John y Robert Kennedy y de Martin Luther King. Los tres Yablonski fueron enterrados juntos, en una colina batida por el viento, con temperaturas bajo cero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después llegaron las reformas en la política del sindicato y en la salud y la seguridad de los mineros. Eran los cambios que Yablonski y otros llevaban años pidiendo. Él no vivió para verlos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Última nota. En julio de 2021 murió en prisión Paul Gilly, el último de los tres asesinos. Meses antes había pedido clemencia: decía que ya había pagado por lo que hizo aquella noche. El fiscal del condado preparó su respuesta: mantenerlo preso servía a los intereses de la justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía no llegó a enviarla, porque Gilly ya había muerto. Había pasado más de medio siglo, y el caso seguía vivo en el condado de Washington."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de los Yablonski. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Post-Gazette (Mellon, 2013), HISTORY.com, Observer-Reporter (2021); CBS Philadelphia no aportó texto. Discrepancias: edad de Charlotte (25 en Post-Gazette y HISTORY, 24 en Observer-Reporter): el guion dice «veinticuatro o veinticinco»; número de condenados (nueve según HISTORY, siete según Wikipedia): el guion da ambas cifras atribuidas; la edad de Jock (59) y Margaret (57) sale del Observer-Reporter. El Observer-Reporter dice que Kenneth encontró los cuerpos «seis días después»; HISTORY, «casi una semana» (el guion usa esto; del 31 de diciembre al 5 de enero son cinco días). Albert Pass como dirigente que contrató a los sicarios: HISTORY. «Payasos», neumáticos pinchados, cables cortados, 1.700 dólares por cabeza y que Margaret y Charlotte murieron para no dejar testigos: Post-Gazette (las dos últimas son lo que cuenta el periódico; atribuidas). Condena de Boyle en 1974, anulación y nueva condena en 1978, muerte en 1985: ficha y Observer-Reporter (la fecha de 1974/1978 sigue apoyándose en Wikipedia). Muerte de Gilly el 6 de julio de 2021 y respuesta del fiscal Vittone (no enviada): Observer-Reporter. No se describen los disparos ni los cuerpos. Se omite el intento de suicidio de Boyle antes del juicio."
+}

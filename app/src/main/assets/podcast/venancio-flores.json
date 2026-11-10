@@ -1,0 +1,106 @@
+{
+  "id": "venancio-flores",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Montevideo": "Montevideo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una carreta en la calle Rincón",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Venancio Flores. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una carreta en la calle Rincón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Montevideo, 19 de febrero de 1868, hacia las dos de la tarde. Un carruaje baja por la calle Rincón. Dentro va uno de los hombres más poderosos del país. De pronto, una carreta cargada de pasto se atraviesa y le cierra el paso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Varios hombres con ponchos y grandes sombreros se acercan al coche. Es una emboscada, en pleno día y en una calle del centro. Los hombres armados que acompañan al pasajero huyen. Él se queda solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el general Venancio Flores, caudillo del Partido Colorado. Cuatro días antes había dejado el poder."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una carreta cruzada en una calle estrecha, hombres tapados y compañeros que salen corriendo. No parece obra de unos ladrones improvisados. Parece un plan. Pero ojo: lo que sabemos no pasa de ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender el día hay que mirar atrás. En 1863, Flores se había levantado contra el gobierno del Partido Blanco, con ayuda del Imperio de Brasil. Ganó tras una guerra civil y gobernó como dictador desde 1865."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de febrero de 1868 entregó el mando a Pedro Varela, presidente del Senado. Con el poder repartido y el país dividido, los viejos enemigos vieron una oportunidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre ellos estaba el expresidente blanco Bernardo Berro, que se había retirado a su quinta y, según el relato de El Reporte, preparaba su regreso. Ese mismo 19 de febrero, al frente de unos veinticinco hombres, entró en el Fuerte, sede del gobierno, gritando contra Brasil."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La sublevación fracasó enseguida. Un batallón leal avanzó sobre el Fuerte y Berro fue capturado cuando intentaba huir hacia el puerto. Ahora fíjate en la coincidencia: el mismo día, a la misma hora, a unas calles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Flores había salido en su carruaje al enterarse del levantamiento. Los hombres de la carreta no se limitaron a atacarlo: lo mataron allí mismo. Un cuadro del pintor Juan Manuel Blanes recoge la escena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un comerciante, Emilio Landinelli, y otros dos hombres llevaron el cuerpo hasta la Catedral por calles desiertas y lo dejaron ante el altar mayor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia llegó al Cabildo, donde estaba detenido Berro. Ahí supo que Flores había muerto. Esa misma tarde, él también fue asesinado en el edificio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Subraya esto. Berro no fue juzgado. Los colorados lo culparon de la muerte de Flores, pero ningún proceso lo demostró, y su muerte fue una represalia. Sobre cómo lo mataron, las versiones difieren, y yo prefiero no repetirlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los atacantes de Flores no fueron identificados con certeza. Ningún tribunal los juzgó. Ni un solo nombre quedó probado, ni entonces ni después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hubo teorías. Entre los colorados se acusó a Berro y a los blancos. Nada de eso llegó a probarse. Cada relato depende del color político de quien lo cuenta, como advierte El Reporte. Yo no me quedo con ninguno, y creo que es lo honesto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que vino después sí está documentado. Una oleada de venganzas recorrió el país y, según El Observador, hubo en torno a quinientos ejecutados. Los blancos llevaron la peor parte. Se suspendió el Carnaval de ese año."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Además, Montevideo vivía una epidemia. Circuló una campaña que acusaba a los blancos de envenenar los aljibes con estricnina durante el cólera. Es otra historia de miedo que nadie probó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que te quedes con la cadena: un golpe fallido, un crimen sin autores, una venganza sin juicio. Cuando nadie rinde cuentas, el siguiente muerto ya está esperando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El funeral de Flores duró varios días, con actos multitudinarios. Hoy sus restos reposan en la Catedral de Montevideo, no lejos de donde cayó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan las víctimas: el general, el expresidente y los cientos de desconocidos que murieron por apellidos y colores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Venancio Flores. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Reporte (2019) y El Observador (2017); encyclopedia.com y Biografías y Vidas sin abrir. Contradicciones: ficha dice que Berro fue detenido en el Cabildo y asesinado; El Reporte da versiones de su muerte (balazos o puñaladas) y recoge además que su cuerpo fue profanado: se omite todo. Ficha dice «tiros y puñaladas» contra Flores; El Reporte, disparos y puñaladas; se dice solo «lo mataron». «Unos quinientos ejecutados» es de El Observador; El Reporte habla de oleada de venganzas sin cifra. Que los restos reposan en la Catedral (ficha: sepultura), pero El Reporte menciona versión no confirmada sobre embalsamamiento: se omite. «La historiografía blanca dice que no hay pruebas» es mi inferencia a partir del aviso de El Reporte sobre sesgos: dudoso, revisar. Los atacantes: nunca identificados con certeza (ficha)."
+}

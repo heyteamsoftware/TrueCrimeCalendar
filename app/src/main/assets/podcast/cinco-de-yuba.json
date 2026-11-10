@@ -1,0 +1,116 @@
+{
+  "id": "cinco-de-yuba",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Yuba County": "Yuba Káunti",
+    "Yuba City": "Yuba Síti",
+    "Yuba": "Yuba",
+    "Marysville": "Márisvil",
+    "Chico": "Chico",
+    "Plumas": "Plúmas",
+    "Mathias": "Mázias",
+    "Gary Mathias": "Gari Mázias",
+    "Jack Madruga": "Yak Madrúga",
+    "Madruga": "Madrúga",
+    "Bill Sterling": "Bil Stérlin",
+    "Sterling": "Stérlin",
+    "Jack Huett": "Yak Júet",
+    "Huett": "Júet",
+    "Ted Weiher": "Ted Uáiyer",
+    "Weiher": "Uáiyer",
+    "Melba": "Mélba",
+    "Beecham": "Bícham",
+    "California": "California"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche en la nieve",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los cinco de Yuba County. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un coche en la nieve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "California, 28 de febrero de 1978. Un guarda forestal recorre una pista de montaña del bosque nacional de Plumas, cubierta de nieve. A lo lejos ve un coche. No tiene daños. Tiene gasolina. Está abandonado. Cuatro días antes, cinco hombres habían salido de su casa para ver un partido de baloncesto. Nadie volvió a verlos con vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaban Jack Madruga, Bill Sterling, Jack Huett, Ted Weiher y Gary Mathias. Eran amigos, de la zona de Yuba City y Marysville, y tenían entre veinticuatro y treinta y dos años. Todos tenían una discapacidad intelectual o algún problema psiquiátrico, y vivían con sus familias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Quiero empezar por lo importante: eran cinco hombres adultos con una vida sencilla, que jugaban juntos al baloncesto en un equipo de Olimpiadas Especiales, según KCRA. No eran aventureros. Y son quienes aparecen en este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El viernes 24 de febrero de 1978, Madruga, que era el dueño del coche, llevó a sus amigos a Chico, para ver un partido de la universidad. Al terminar, hacia las diez de la noche, pararon en una tienda a comprar comida. Después, nadie los vio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Chico queda hacia el sur. Ellos acabaron al este, en la montaña, a más de cien kilómetros de ahí. Tuvieron que desviarse de una carretera principal, a oscuras y en invierno. No hay ninguna explicación documentada de por qué lo hicieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las familias organizaron una búsqueda con helicópteros y caballos, y ofrecieron una recompensa. No encontraron nada. Un temporal volvió a cubrir la montaña, y hasta que llegó el deshielo, no apareció más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 1978, unos motoristas encontraron un remolque abandonado del servicio forestal, a más de treinta kilómetros del coche. Dentro estaba Ted Weiher. Había sobrevivido allí semanas. Cerca aparecieron los cuerpos de Bill Sterling y Jack Madruga, y más tarde los restos de Jack Huett."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. El remolque tenía latas de comida y un abrelatas. Sin embargo, según Mental Floss, apenas se habían abierto una docena de latas, y Weiher estaba muy delgado. Hay más cosas que no encajan: una estufa que nunca se encendió. No sé qué pensaba, y nadie lo sabe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De Gary Mathias no se encontró nada. Solo unas zapatillas en el remolque. Sigue oficialmente desaparecido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores no hallaron ningún indicio de delito. Su explicación más aceptada es sencilla: se desviaron hacia la montaña, el coche se atascó en la nieve y, al intentar buscar refugio, murieron de frío y de hambre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una explicación razonable, pero deja huecos. Por qué fueron al este. Por qué no dieron media vuelta. Por qué abandonaron el coche que tenía gasolina, con comida, cuando una tormenta de nieve podía haberlos protegido dentro. El subjefe del sheriff, Jack Beecham, lo resumió con la frase que dio título a muchos reportajes: «extraño como el infierno»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo otras hipótesis. Melba, la madre de Madruga, creía que alguien los había engañado o amenazado. Una cuñada de Weiher pensó que quizá algo ocurrió en el partido. Ninguna de las dos ideas tiene pruebas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay que ser prudente. Ninguna autoridad ha señalado a nadie. Cuando el dolor busca un culpable, lo inventa. Pero también es cierto que lo que estas familias no han recibido es una respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se ha hablado de que Mathias pudo guiar al grupo para visitar a un amigo en un pueblo cercano, o de que Madruga se equivocó de desvío. Son conjeturas de periodistas. Ninguna se ha confirmado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Casi cincuenta años después, el caso sigue sin una explicación definitiva. Se ha contado en documentales y pódcast. En 2025, la cadena KCRA recordaba el aniversario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi consejo es leer despacio. Cada versión que cierra el caso del todo, cierra también los huecos que importan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan sus nombres. Cinco amigos que fueron a ver un partido y que, según sus familias, siempre llamaban a casa si iban a llegar tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Los cinco de Yuba County. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Mental Floss (2018) y KEYT/KCRA (2025); Washington Post y Wikipedia sin abrir. Contradicciones: ficha dice que Weiher vivió semanas en el remolque; Mental Floss lo estima en 8 a 13 semanas por el crecimiento de la barba y KEYT habla de unos tres meses; se pone «semanas». Ficha dice coche a 110 km de Chico; Mental Floss dice 70 millas (unos 112 km), pista de montaña; se dice «más de cien kilómetros». KEYT dice que un temporal pudo empujar el coche a la nieve al día siguiente; no se incluye. Mental Floss habla de un coche con llaves perdidas (que luego tenía Madruga); no se incluye. Remolque a unos 30 km (19 millas) del coche: Mental Floss. «Hacia las diez»: la ficha lo cita, Mental Floss dice que se detuvieron en una tienda. «Chico queda hacia el sur» es inferencia mía de que volvían a Yuba City: revisar. La frase «extraño como el infierno» traduce «bizarre as hell». El remolque de Weiher: las zapatillas de Mathias, Mental Floss; se deja sin más. Los detalles del estado de Weiher se omiten por respeto. Las cuñadas y Melba: Mental Floss, atribuido. Pregunta pendiente: si el guarda forestal fue quien halló el coche (ficha) o equipos de rescate (KEYT)."
+}

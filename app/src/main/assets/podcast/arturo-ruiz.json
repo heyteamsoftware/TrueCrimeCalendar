@@ -1,0 +1,109 @@
+{
+  "id": "arturo-ruiz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Arturo Ruiz": "Artúro Ruís",
+    "Guerrilleros de Cristo Rey": "Guerrilléros de Críto Rei",
+    "José Ignacio Fernández Guaza": "José Ignácio Fernández Guása",
+    "Fernández Guaza": "Fernández Guása",
+    "Jorge Cesarsky": "Jorge Sesárski",
+    "Cesarsky": "Sesárski",
+    "Atocha": "Atócha",
+    "Mari Luz Nájera": "Mari Lus Nájera"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La esquina de Estrella y Silva",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Arturo Ruiz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La esquina de Estrella y Silva."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, domingo 23 de enero de 1977. Poco después del mediodía, en la esquina de las calles de la Estrella y de Silva, cerca de la Gran Vía, un joven estudiante de diecinueve años cae al suelo. Es una de las muchas manifestaciones por la amnistía que no han sido autorizadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Arturo Ruiz. Había nacido en Granada y vivía en Madrid desde los quince años. Era deportista de montaña, militaba en Comisiones Obreras y pedía la amnistía para los presos políticos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. España vivía los meses más frágiles de la Transición. Franco había muerto catorce meses antes. En la calle convivían las manifestaciones y los grupos armados de ultraderecha que rondaban para intimidar. Aquel domingo, eso acabó en un muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la reconstrucción de los hechos, varios ultraderechistas armados merodeaban por la zona. Entre ellos, José Ignacio Fernández Guaza, de veintinueve años, ligado a los Guerrilleros de Cristo Rey, y Jorge Cesarsky, un argentino de cincuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fernández Guaza se encaró con los manifestantes y los amenazó. Arturo Ruiz, desarmado, se puso delante y le reprochó su actitud. Poco después, según esas versiones, Fernández Guaza tomó la pistola de Cesarsky y disparó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Arturo recibió el disparo por la espalda. Murió en el acto. No tenía ningún arma, y los que lo conocían decían que ya había tenido encontronazos con esos grupos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera versión del Gobierno Civil hablaba de enfrentamientos entre manifestantes y contramanifestantes. La investigación policial la descartó pronto y abrió diligencias por asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa primera versión me interesa. Un muerto a tiros en el centro de la capital y el parte oficial lo presenta como una refriega. Hay que preguntarse a quién beneficiaba esa versión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor señalado, Fernández Guaza, huyó del país en menos de un día. Pasó a Francia y, según la prensa, quizá a Argentina. Durante décadas se le perdió la pista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cesarsky sí fue detenido. Lo condenaron en 1978 por terrorismo y tenencia ilícita de armas, por haber prestado la pistola. Según las fuentes, cumplió poco más de un año, beneficiado por la ley de amnistía que Arturo pedía en la calle."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes discrepan sobre la pena: entre cinco años y medio y seis años. Me quedo con que cumplió poco más de un año. Es un dato que importa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, durante una protesta por su muerte, murió Mari Luz Nájera, otra estudiante, por el impacto de un bote de humo. Esa misma noche, un comando mató a cinco personas en un despacho de abogados laboralistas de la calle de Atocha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La matanza de Atocha eclipsó los dos casos anteriores. Durante décadas, el nombre de Arturo quedó a la sombra de aquella matanza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso lo cuenta su hermano Manuel: la familia tuvo que pelear para que el crimen se recordara. Pasaron años sin que nadie en casa hablara del asunto, para no hacer más daño a los padres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el año 2000, la Audiencia Nacional declaró prescrito el asesinato. Nadie había sido juzgado por disparar. En 2023, el diario El País localizó en Argentina a Fernández Guaza, y según elDiario.es reconoció ante el periódico los disparos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero no ha habido juicio, y sin juicio no hay condena. Lo que consta ante un tribunal es solo la sentencia a Cesarsky."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia acudió a la querella argentina contra los crímenes del franquismo. En 2019, el Ayuntamiento de Madrid colocó una placa en su memoria en el lugar cercano a donde cayó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Arturo Ruiz tenía diecinueve años. Está enterrado en Granada, y su hermano sigue pidiendo que se sepa lo que pasó y que se reconozca su lucha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Arturo Ruiz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fernández Guaza nunca fue juzgado (prescripción en 2000): el guion lo llama «el autor señalado». Que reconoció los disparos ante El País en 2023 se toma de elDiario.es (no se abrió el artículo de El País, que pide JS). Condena de Cesarsky: 5,5 años + 6 meses (Público) o 6 años (El Salto, Wikipedia); el guion no fija la cifra. La reconstrucción de los disparos sigue la Wikipedia en castellano (sentencia judicial citada); El Salto dice «dos disparos por la espalda». La Marea ubica la placa/memorial; El Salto la sitúa en la plaza Soledad Torres Acosta, Wikipedia en la plaza de la Luna (aprox. misma zona). Posible proceso abierto: querella argentina (jueza Servini) y demanda familiar (junio de 2026, Wikipedia) a Interior; el guion no los afirma como resueltos."
+}

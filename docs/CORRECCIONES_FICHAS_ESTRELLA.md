@@ -184,3 +184,35 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## kearney
 
 - Confesó 35 asesinatos y fue condenado por 21.
+
+## shawcross
+
+- 11 condenas (10 en Monroe más Gibson en Wayne); la ficha dice 12 mujeres.
+
+## jones
+
+- La ficha dice «condenada en 1985»: fue en 1984. Tiene 3 condenas, aunque las sospechas llegan a 46 o 60.
+
+## little
+
+- AP dice «casi 60» y Wikipedia «al menos 60»; la ficha dice 61 confirmadas.
+
+## hindley
+
+- Nació en Crumpsall. Su primera visita para colaborar fue el 16 de diciembre de 1986 y la confesión formal el 10 de febrero de 1987.
+
+## magnotta
+
+- **Condena:** 25 años sin condicional, no «cadena perpetua» sin más.
+
+## berkowitz
+
+- **Condena:** 25 años a cadena perpetua por asesinato, en penas consecutivas.
+
+## onoprienko
+
+- **Pena de muerte:** conmutada por cadena perpetua.
+
+## yang
+
+- **Periodo:** 2000–2003, no 1999–2003.
