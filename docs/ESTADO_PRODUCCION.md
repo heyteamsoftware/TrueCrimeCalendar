@@ -21,7 +21,8 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 03 | 23/23 ✓ | en marcha (mirar el 11/3, Ragone: ¿causa cerrada?) | — |
 | 05 | 19/19 ✓ | en marcha | — |
 | 02 | 23/23 ✓ | en marcha | — |
-| 04, 06 a 09 y 12 | en marcha | — | — |
+| 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
+| 04, 06 a 08 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -90,3 +91,4 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
   - 29/10: Ben Barka tiene la instrucción abierta y se puso Lindy Chamberlain, pero ese caso ya está el 17/8: está buscando otro.
 - **Regla para el coordinador:** antes de dar por buena una sustitución, buscar el nombre en todas las fichas y en la selección. En dos sustituciones (Dominici y Chamberlain) el caso ya estaba en otro día.
   - 29/10, resuelto: la ejecución de Walter Raleigh (1618), en lugar de Lindy Chamberlain.
+- **22/9:** Sara Jane Moore contra Ford, en lugar del caso Asunta (víctima menor en un caso reciente). Se quedan el 18/9 (Jorge Julio López: se busca al desaparecido, no hay acusado) y el 14/9 (el Monstruo de Florencia, pendiente de verificar).
