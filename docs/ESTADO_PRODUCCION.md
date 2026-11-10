@@ -15,7 +15,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 
 | Mes | Escritas | Verificadas | Unidas |
 |---|---|---|---|
-| 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
+| 01 | 18/18 ✓ | ✓ verificado (24/1 ya es Hobeika; Arturo Ruiz se queda) | — |
 | 11 | 19/19 ✓ | ✓ verificado (11 correcciones) | — |
 | 10 | 24/24 ✓ | ✓ verificado (11 correcciones) | — |
 | 03 | 23/23 ✓ | ✓ verificado (11 correcciones; 11/3 cambiado a Ravachol) | — |

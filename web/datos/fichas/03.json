@@ -564,84 +564,80 @@
     "nota_revision": "Muerte de Comas: El Debate dice que murió pocas horas después; Wikipedia, pocos días después (la ficha dice «poco después»). Su apodo aparece como «Paronas» (Ara) o «Perones» (El Debate). El Debate y Ara nombran como ejecutor a Inocencio (o Ignacio) Feced y como organizador a Pere Martí Homs, y El Debate como financiador al empresario Matíes Muntadas; como no hubo juicio, la ficha no los nombra. La calle de la Cadena desapareció con la apertura de la Rambla del Raval: la coordenada es la de la rambla."
   },
   {
-    "id": "ragone-salta",
+    "id": "ravachol-saint-germain",
     "m": 3,
     "d": 11,
-    "y": 1976,
-    "n": "Miguel Ragone",
-    "a": "El caso Ragone",
-    "v": "2 muertos (uno desaparecido) y 1 herida",
-    "p": "Argentina",
-    "f": "🇦🇷",
-    "per": "1976",
-    "st": "Condenas por lesa humanidad. En 2011 el Tribunal Oral Federal de Salta condenó a prisión perpetua al coronel Carlos Mulhall, al teniente coronel Miguel Gentil y al comisario Joaquín Guil (la Casación confirmó las perpetuas en 2016). En 2021, en un nuevo juicio, fue condenado a perpetua Andrés del Valle Soraire. El exjuez Ricardo Lona, condenado en 2019 a 15 años, murió en 2022 con la condena parcialmente anulada. Los restos de Ragone nunca aparecieron.",
-    "c": "Hacia las ocho de la mañana del 11 de marzo de 1976, quince días antes del golpe militar, el exgobernador peronista de Salta Miguel Ragone salió de su casa en coche hacia el hospital San Bernardo, donde trabajaba como médico. A una cuadra, en la calle Del Milagro, dos coches le cerraron el paso y un grupo armado se lo llevó. Los secuestradores mataron al comerciante Santiago Catalino Arredes e hirieron a Margarita Martínez de Leal, testigos del hecho. Su coche apareció en Cerrillos y él sigue desaparecido. En 2011 la justicia probó que fue asesinado ese día por un grupo de militares y policías.",
-    "mo": "Un grupo de tareas armado lo encerró entre dos vehículos, lo sacó de su coche y disparó contra quienes presenciaron el secuestro. La operación, según la sentencia, la ordenaron mandos militares y la ejecutaron miembros del Ejército y de la Policía de Salta.",
+    "y": 1892,
+    "n": "Ravachol (François Claudius Koenigstein)",
+    "a": "El atentado de Ravachol",
+    "v": "1 herido en el atentado (el crimen por el que murió guillotinado causó 1 muerte)",
+    "p": "Francia",
+    "f": "🇫🇷",
+    "per": "1891–1892",
+    "st": "Caso cerrado. Condenado a trabajos forzados a perpetuidad el 26 de abril de 1892 por los atentados y, el 21 de junio de 1892, a muerte por crímenes anteriores; fue guillotinado el 11 de julio de 1892 en Montbrison.",
+    "c": "El 11 de marzo de 1892 una bomba estalló en el edificio del número 136 del bulevar Saint-Germain de París, donde vivía el magistrado Edmond Benoît, que había presidido el juicio contra los anarquistas de Clichy. Hubo un herido y daños materiales graves, pero ningún muerto. Dieciséis días después otra bomba dañó la casa del fiscal Bulot en la calle de Clichy. El 30 de marzo un camarero del restaurante Véry reconoció y denunció a Ravachol, que fue detenido. Condenado por los atentados y después a muerte por un asesinato anterior, fue guillotinado el 11 de julio de 1892.",
+    "mo": "Colocó cargas de dinamita, robada previamente, en los edificios de los magistrados que habían intervenido en el proceso contra los anarquistas de Clichy, con la intención declarada de vengar a los condenados.",
     "loc": [
       [
-        -24.7833,
-        -65.4167,
-        "Salta, calle Del Milagro (secuestro, 11 de marzo de 1976)"
+        48.8528,
+        2.3382,
+        "París, 136 bulevar Saint-Germain (explosión del 11 de marzo de 1892)"
       ],
       [
-        -24.9,
-        -65.4833,
-        "Cerrillos, Salta (donde apareció su coche)"
+        48.8798,
+        2.3291,
+        "París, 39 calle de Clichy (segundo atentado, 27 de marzo de 1892)"
+      ],
+      [
+        48.8701,
+        2.3618,
+        "París, bulevar de Magenta (restaurante Véry, detención el 30 de marzo de 1892)"
+      ],
+      [
+        45.6097,
+        4.0653,
+        "Montbrison (juicio de junio y ejecución el 11 de julio de 1892)"
       ]
     ],
     "vin": [],
-    "g": [
-      "hispanoamerica",
-      "argentina",
-      "desapariciones"
-    ],
+    "g": [],
     "estrella": false,
-    "tipo_efemeride": "desaparicion",
-    "titulo_caso": "El secuestro del exgobernador Miguel Ragone",
-    "autor": "Un grupo de militares y policías de Salta; condenados Carlos Mulhall, Miguel Gentil y Joaquín Guil (2011) y, en juicios posteriores, Andrés del Valle Soraire (2021) y Ricardo Lona (2019, parcialmente anulada)",
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Ravachol y la bomba del bulevar Saint-Germain",
+    "autor": "Ravachol (François Claudius Koenigstein), con la colaboración de otros anarquistas según la acusación (entre ellos Charles Simon)",
     "fuentes": [
       {
-        "titulo": "Tribunal Oral en lo Criminal Federal de Salta n.º 2, fundamentos de la sentencia contra Ricardo Lona (8 de octubre de 2019), Ministerio Público Fiscal",
-        "url": "https://www.mpf.gob.ar/lesa/files/2022/11/20191009-Fundamentos-LONA-RAGONE.pdf",
-        "tipo": "judicial"
-      },
-      {
-        "titulo": "Centro de Información Judicial, «Lesa humanidad: la Cámara Federal de Casación confirmó perpetuas y anuló absoluciones en la causa por la desaparición del ex gobernador de Salta Miguel Ragone» (14 de julio de 2016)",
-        "url": "https://www.csjn.gov.ar/archivo-cij/nota-22453-Lesa-humanidad--la-C-mara-Federal-de-Casaci-n-confirm--perpetuas-y-anul--absoluciones-en-la-causa-por-la-desaparici-n-del-ex-gobernador-de-Salta-Miguel-Ragone.html",
-        "tipo": "judicial"
-      },
-      {
-        "titulo": "«El veredicto del caso Ragone», Página/12 (11 de octubre de 2011)",
-        "url": "https://www.pagina12.com.ar/diario/elpais/1-178621-2011-10-11.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Tribunal Oral Federal de Salta, fundamentos de la sentencia de la causa Ragone (12 de diciembre de 2011), Ministerio Público Fiscal",
-        "url": "https://www.mpf.gob.ar/lesa/files/2023/11/12-20111212-Ragone-Fundamentos.pdf",
-        "tipo": "judicial"
-      },
-      {
-        "titulo": "Wikipedia (en castellano), «Miguel Ragone» (punto de partida; consultada por sus referencias)",
-        "url": "https://es.wikipedia.org/wiki/Miguel_Ragone",
+        "titulo": "Jean Maitron (rev. Anne Steiner), «Ravachol (Koenigstein, dit)», Dictionnaire des anarchistes, Le Maitron",
+        "url": "https://maitron.fr/spip.php?article154050",
         "tipo": "enciclopedia"
       },
       {
-        "titulo": "Fiscales.gob.ar (Ministerio Público Fiscal), «Salta: condenaron a 15 años de prisión al ex juez Ricardo Lona por su actuación en el secuestro y desaparición del ex gobernador Miguel Ragone» (24 de septiembre de 2019)",
-        "url": "https://www.fiscales.gob.ar/lesa-humanidad/salta-condenaron-a-15-anos-de-prision-al-ex-juez-ricardo-lona-por-su-actuacion-en-el-secuestro-y-desaparicion-del-ex-gobernador-miguel-ragone/",
-        "tipo": "judicial"
+        "titulo": "John Merriman, «Ravachol (François Claudius Koenigstein-Ravachol)», Encyclopedia of Modern Europe: Europe 1789-1914, Gale (en Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/ravachol-francois-claudius-koenigstein-ravachol",
+        "tipo": "enciclopedia"
       },
       {
-        "titulo": "Fiscales.gob.ar (Ministerio Público Fiscal), «Salta: condenaron a prisión perpetua a un ex policía por el homicidio del gobernador Ragone…» (24 de junio de 2021)",
-        "url": "https://www.fiscales.gob.ar/lesa-humanidad/salta-condenaron-a-prision-perpetua-a-un-ex-policia-por-el-homicidio-del-gobernador-ragone-y-a-ocho-anos-de-prision-a-un-sindicalista-que-lo-habia-amenazado/",
-        "tipo": "judicial"
-      },
-      {
-        "titulo": "Agencia Noticias Argentinas, «Confirman parcialmente la condena contra el ex juez Lona, pero lo absuelven por un homicidio» (19 de mayo de 2022)",
-        "url": "https://noticiasargentinas.com/politica/confirman-parcialmente-la-condena-contra-el-ex-juez-lona-pero-lo-absuelven-por-un-homicidio",
+        "titulo": "«L'explosion du boulevard Saint-Germain», L'Illustration (19 de marzo de 1892), Gallica (BnF)",
+        "url": "https://gallica.bnf.fr/ark:/12148/bd6t51422220r/f4.item",
         "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "Éphéméride anarchiste, «30 mars 1892: arrestation de Ravachol» (con la portada de Le Petit Journal)",
+        "url": "http://www.ephemanar.net/mars30.html",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Ravachol, discurso prohibido en el juicio de 1892, trad. Mitchell Abidor, Ravachol Archive, Marxists Internet Archive (2006)",
+        "url": "https://www.marxists.org/reference/archive/ravachol/1892/forbidden-speech.htm",
+        "tipo": "documental"
+      },
+      {
+        "titulo": "Wikipedia (en francés), «Ravachol» (punto de partida; consultada por sus referencias)",
+        "url": "https://fr.wikipedia.org/wiki/Ravachol",
+        "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Proceso abierto: se ha comprobado que hubo juicios posteriores a 2011. La Casación anuló en 2016 las absoluciones de Soraire y Zanetto; en junio de 2021 el Tribunal Oral Federal n.º 1 de Salta condenó a Soraire a perpetua y a Zanetto a ocho años por coacción (no se encontró si esa sentencia es firme). Lona (15 años en 2019) vio anulada en mayo de 2022 su condena por el homicidio de Ragone y confirmada la de encubrimiento y prevaricato; murió el 25 de junio de 2022. Por eso la ficha solo nombra a los condenados de 2011 (confirmados), a Lona (fallecido) y a Soraire con la fecha de su condena. Decisión del verificador: no se sustituye por Ravachol porque no consta ninguna causa viva contra los condenados que se nombran; el coordinador puede decidir lo contrario. La sentencia de 2011 fue el 11 de octubre; el coche fue embestido en Del Milagro (la coordenada es la del centro de Salta). Se sospecha que los restos están en el embalse de Cabra Corral, sin confirmar."
+    "nota_revision": "Fecha del atentado (11 de marzo de 1892) y de la ejecución (11 de julio) confirmadas en Maitron y en la Wikipedia francesa; Encyclopedia.com solo da el mes y la ejecución. Heridos: un herido el 11 de marzo y siete el 27 de marzo según la Wikipedia francesa; Encyclopedia.com no cita al herido del bulevar. Condenas: la de trabajos forzados (26 de abril) y la de muerte (21 de junio, Loira) se apoyan en Maitron y Wikipedia. No se pudo abrir Gallica (403) ni Britannica; la referencia de L'Illustration procede de las citas de la Wikipedia inglesa «Saint-Germain bombing» y no se ha leído. Se sustituye la ficha de Ragone porque sus condenas de 2021 pueden seguir en recurso (proceso abierto)."
   },
   {
     "id": "la-voisin",
