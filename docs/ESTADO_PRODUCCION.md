@@ -30,7 +30,7 @@ Hecho antes: `brady` (piloto).
 | Grupo | Casos | Estado |
 |---|---|---|
 | enero A | letby keyes bonin puente | lanzado |
-| enero B | dominique shipman petiot robledo rifkin | lanzado |
+| enero B | dominique shipman petiot robledo rifkin | ✓ hecho (5/5) |
 | enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
 | febrero A | ishikawa norris hansen ridgway | lanzado |
 | febrero B | cullen muehlberg wuornos ramirez | lanzado |
@@ -38,7 +38,7 @@ Hecho antes: `brady` (piloto).
 | marzo B | ireland gacy kraft toppan | lanzado |
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
 | abril B | landru harvey yoo black | lanzado |
-| mayo A | homolka beck bryant holmes | en cola |
+| mayo A | homolka beck bryant holmes | lanzado |
 | mayo B | bellfield fish murano dahmer | en cola |
 | mayo C | bianchi chase escalero kurten | en cola |
 | junio | berkowitz sutcliffe shawcross little pedrinho | en cola |

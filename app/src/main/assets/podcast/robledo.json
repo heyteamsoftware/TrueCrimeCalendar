@@ -1,102 +1,178 @@
 {
   "id": "robledo",
-  "titulo": "Cara de ángel",
+  "version": 3,
   "pronunciacion": {
-    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Enamour": "Enamúr",
+    "General Motors": "Yéneral Mótors"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Febrero de 1972, norte del Gran Buenos Aires. Tras un robo nocturno, la policía encuentra el cuerpo de un joven. Entre sus pertenencias aparece algo que el asesino no supo o no pudo hacer desaparecer: su documento de identidad. El muerto se llama Héctor Somoza. Y esa pista conduce directamente a su compañero de golpes."
+      "n": 1,
+      "titulo": "Una cédula en el bolsillo",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Carlos Eduardo Robledo Puch, el ángel de la muerte. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cédula en el bolsillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "3 de febrero de 1972. Carupá, partido de Tigre, al norte del Gran Buenos Aires. En la ferretería de los hermanos Masseiro hay dos cuerpos. Uno es el del sereno, Manuel Acevedo, de cincuenta y ocho años. El otro, el de un chico de diecisiete, con la cara quemada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alguien había intentado que no se le pudiera reconocer. Pero se le escapó un detalle: en un bolsillo del pantalón, el chico llevaba su cédula de identidad. Se llamaba Héctor Somoza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Una cédula en un bolsillo. Así de pequeño fue el error. Los investigadores siguieron el rastro del entorno de Somoza. Y todos los caminos llevaban a su compañero: un chico rubio, de cara aniñada, que acababa de cumplir veinte años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Carlos Eduardo Robledo Puch. Lo detuvieron enseguida, frente a su casa. Hasta ese momento, nadie lo había relacionado con la serie de crímenes que llevaba casi un año inquietando la zona norte del conurbano bonaerense."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido en Buenos Aires en 1952. Hijo de una familia de clase media, creció en Olivos, en el partido de Vicente López. Su padre trabajaba en General Motors. De adolescente ya había pasado unos días en un instituto de menores, acusado de robar una moto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto porque la prensa insistiría en ello una y otra vez. Para los cronistas de la época, nada en su origen anunciaba lo que vino después. Ese contraste entre el chico de buena familia y los crímenes es lo que más desconcertó al país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La serie empezó el 15 de marzo de 1971. Robledo tenía diecinueve años. Con su amigo Jorge Ibáñez entró de noche en un local nocturno de la zona de Olivos, el Enamour. Dentro dormían el encargado, Félix Pedro Mastronardi, y un empleado, Manuel Godoy. Los dos murieron de un disparo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta es que no hubo resistencia. Los mató mientras dormían. Según recoge la prensa, él mismo lo justificó después con una pregunta: si acaso pretendían que los despertara. Esa frialdad marca todo el expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo, en una casa de repuestos de automóviles de Olivos, mataron a José Bianchi. Su mujer quedó gravemente herida. En la habitación había una bebé de diez meses. Un disparo alcanzó la cuna, pero la niña sobrevivió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mismo mes, en un supermercado de Olivos, murió el sereno Juan Scattone, de sesenta y un años. Y en junio, en noches distintas, Robledo e Ibáñez secuestraron a dos mujeres: una chica de dieciséis años y Ana María Dinardo, de veintitrés. Las dos aparecieron asesinadas junto a la Panamericana, a la altura de Pilar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El 5 de agosto de 1971, Ibáñez murió en un choque en Núñez. Conducía Robledo, que saltó del coche antes del impacto y salió ileso. La policía lo cerró como un accidente. La familia de Ibáñez sigue convencida de que fue un crimen planeado. Nunca se pudo demostrar, y Robledo no fue juzgado por ello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Robledo encontró otro compañero: Héctor Somoza, de diecisiete años. En noviembre de 1971, en apenas diez días, murieron tres serenos: Raúl Delbene, en un supermercado de Boulogne; Juan Carlos Rozas, en una agencia de coches de Vicente López; y Bienvenido Serapio Ferrini, en otra, en San Isidro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso el patrón. Locales cerrados, de noche. Hombres, casi siempre mayores, que vigilaban mientras los demás dormían. Botines a menudo escasos. Y ningún testigo vivo. En casi un año, nadie había conseguido ponerle cara al asesino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta la ferretería de Carupá. Allí, después de matar al sereno, Robledo mató también a Somoza, tras una discusión, según la reconstrucción posterior. Luego intentó borrarle el rostro. Pero no le registró los bolsillos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia de la detención llegó a los periódicos el 8 de febrero. El diario Crónica le dedicó dos páginas al día y lo bautizó con una lista de apodos: bestia humana, el verdugo de los serenos, carita de ángel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Once muertes en menos de un año. Un detenido de veinte años con cara de niño. Y un país entero preguntándose cómo era posible. Pero el expediente no se cerró con la detención. Lo más largo de esta historia todavía estaba por empezar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que pasó en el juicio, y en el medio siglo que vino después, está en la cinta dos."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Un compañero de apenas veinte años, con cara de niño."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se llamaba Carlos Eduardo Robledo Puch. Rubio, de rasgos delicados, hijo de una familia de clase media del partido de Vicente López. Nadie, al verlo, habría imaginado que estaba ante el responsable de una de las series de crímenes más graves de la historia argentina."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Carlos Eduardo Robledo Puch, el ángel de la muerte argentino."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Robledo nació en Buenos Aires en 1952 y creció en Olivos, en un hogar de clase media, sin carencias materiales. De adolescente empezó a cometer pequeños robos junto a otros chicos de su entorno. Nada hacía prever lo que vendría después."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1971, con diecinueve años, en una Argentina gobernada por una dictadura militar, su historia dio un salto brutal. Junto a su amigo Jorge Ibáñez empezó a asaltar de madrugada comercios y locales nocturnos. Y en esos robos comenzaron las muertes: serenos, empleados, personas que simplemente dormían."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Mataba aunque nadie se le resistiera?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En muchos casos, sí. Varias víctimas fueron asesinadas mientras dormían, y eso fue lo que más impresionó a la opinión pública. No eran robos que se complicaban. Y el botín, a menudo, era escaso. La violencia parecía no tener ninguna lógica."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En agosto de 1971, Ibáñez murió en un accidente de tráfico. Robledo iba al volante y salió ileso. Con los años, muchos se preguntaron si aquello fue realmente un accidente, pero nunca se pudo demostrar otra cosa."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y entonces apareció un nuevo cómplice."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Héctor Somoza. Con él siguieron los asaltos en el norte del conurbano bonaerense. Hasta aquella noche de febrero de 1972, cuando Robledo mató también a Somoza. Fue su último crimen. La documentación del cómplice llevó a los investigadores hasta su entorno, y de ahí hasta él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Poco después lo detuvieron. Hasta entonces, nadie había relacionado aquella cadena de crímenes con un chico tan joven. En total se le atribuyen once asesinatos cometidos en menos de un año, además de numerosos robos y otros delitos graves. Acababa de cumplir veinte años."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras la detención, los investigadores fueron reconstruyendo uno a uno los crímenes de los meses anteriores. Y el país asistió, conmocionado, a la historia de un chico de clase media convertido en uno de los criminales más temidos de su tiempo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La prensa se fijó enseguida en el contraste entre su aspecto y sus crímenes. De ahí nacieron los apodos con los que se le conoce: el Ángel Negro, el Ángel de la Muerte. Una imagen que, durante décadas, ha alimentado una fascinación incómoda."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cómo se comportó cuando llegó el juicio?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con una actitud desafiante que escandalizó al país. El juicio llegó en 1980, y la condena fue la más dura posible en la Argentina de entonces: reclusión perpetua, con la accesoria de reclusión por tiempo indeterminado. Desde entonces, sus peticiones de libertad han sido rechazadas una y otra vez."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy, Robledo Puch sigue preso en el penal de Sierra Chica, en la provincia de Buenos Aires. Lleva entre rejas desde 1972, más de medio siglo. Es el preso más antiguo de Argentina. Ha pasado en la cárcel prácticamente toda su vida adulta."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Más de cincuenta años en prisión. Y, aun así, su caso sigue despertando interés."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Mucho. En 2018, la película El Ángel, dirigida por Luis Ortega, recreó su historia y la devolvió al debate público. Y con ella volvió una pregunta que acompaña a muchos casos de este archivo: cómo contar estos crímenes sin convertir al asesino en un icono."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Porque detrás de su apodo hay once personas asesinadas: trabajadores nocturnos, comerciantes, jóvenes. Personas que, en muchos casos, simplemente dormían o estaban haciendo su trabajo. Ellas, y no la cara del asesino, son el centro de este expediente."
-    },
-    {
-      "voz": "ximena",
-      "texto": "También sus familias, que durante más de cincuenta años han visto cómo el nombre del asesino aparecía una y otra vez en los titulares, mientras el de sus seres queridos quedaba en segundo plano."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, el caso forma parte del patrón Argentina, junto a otros expedientes que marcaron la historia criminal del país."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Carlos Eduardo Robledo Puch. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un pabellón en Olmos",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un pabellón en Olmos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Carlos Eduardo Robledo Puch. Entre marzo de 1971 y febrero de 1972, mató a once personas en el norte del Gran Buenos Aires: nueve hombres, casi todos serenos, y dos mujeres. Lo detuvieron con veinte años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la detención llegaron las reconstrucciones de los crímenes. En una de ellas, según tituló un diario, la gente intentó lincharlo. Los médicos de la policía lo examinaron y concluyeron que lo que pudiera tener no le libraría de una condena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Me quedo con una crítica de entonces. El escritor Osvaldo Soriano, que cubrió el caso en el diario La Opinión, desconfiaba de los diagnósticos hechos desde un consultorio. Y advirtió de que el caso se había convertido en un producto de consumo para los medios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1973, Robledo se fugó del penal de Olmos. Lo recapturaron en menos de tres días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio llegó tarde. La sentencia se dictó el 27 de noviembre de 1980 en la Sala Primera de la Cámara de Apelaciones de San Isidro, más de ocho años después de la detención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue condenado por diez homicidios calificados y uno simple, una tentativa de homicidio, diecisiete robos, dos raptos y dos hurtos. La pena fue la más dura posible: reclusión perpetua, con la accesoria de reclusión por tiempo indeterminado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según las crónicas, Robledo recibió la sentencia con desprecio y calificó el juicio de farsa. Anoto un detalle técnico: la perpetua permitía, con el tiempo, pedir la libertad condicional. Desde el año 2000 podía solicitarla. Y empezó a hacerlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2008, en 2011, en 2013 y en 2016, los jueces se la negaron. En 2015, la Corte Suprema rechazó otro de sus recursos. En 2013 llegó a pedir que revisaran su condena o que le aplicaran una inyección letal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sus propias palabras le cerraron puertas. En 2016, según publicó la prensa, amenazó con matar a la expresidenta Cristina Fernández de Kirchner si salía. Los informes psicológicos posteriores hablaron de ideas de tinte paranoide. Para los jueces, no estaba en condiciones de vivir fuera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 2023, la Cámara de San Isidro volvió a rechazar su libertad. El juez tuvo en cuenta esos informes y que no había una familia ni un hogar preparados para acogerlo. Robledo tenía entonces setenta y un años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las familias de las víctimas siguieron cada petición con miedo. En 2023, la hermana de uno de los serenos asesinados contó a la prensa que temía que, si salía, fuera a buscarlos. La bebé que sobrevivió en su cuna en 1971 nunca ha hablado con los medios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2024, el mismo tribunal autorizó su paso a un régimen abierto, en una unidad sin rejas ni guardias uniformados. Con dos condiciones: que hubiera plaza y que él lo aceptara. Según la prensa, a comienzos de 2025 lo rechazó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el giro más extraño del expediente. Un hombre que durante años pidió salir y que, cuando se le abre una puerta, prefiere quedarse. Según contó un compañero de pabellón, su mayor miedo es morir en la cárcel. Parece una contradicción. Quizá no lo sea."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasó décadas en el penal de Sierra Chica. En los últimos años, según la prensa, está en una unidad penal de Olmos, cerca de La Plata, con la salud deteriorada. Preso desde 1972, se le considera el preso más antiguo de Argentina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su historia volvió a las pantallas en 2018, con la película El Ángel, de Luis Ortega. Y con ella, una pregunta que acompaña a muchos expedientes de este archivo: cómo contar estos crímenes sin convertir al asesino en un icono."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La respuesta, para mí, está en los nombres. Detrás del apodo hay serenos que hacían su turno de noche, dos mujeres jóvenes y un chico de diecisiete años. Personas que, muchas veces, simplemente dormían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Félix Pedro Mastronardi y a Manuel Godoy. A José Bianchi y a Juan Scattone. A Ana María Dinardo y a la chica de dieciséis años que murió en la misma ruta. A Raúl Delbene, a Juan Carlos Rozas, a Bienvenido Serapio Ferrini, a Manuel Acevedo y a Héctor Somoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Carlos Eduardo Robledo Puch. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha lo da como vivo y preso en Sierra Chica («es el preso más antiguo de Argentina»); conviene verificar que la situación sigue siendo la misma en la fecha de publicación."
+  "nota_revision": "SITUACIÓN ACTUAL (lo pedía la nota anterior): la ficha dice «penal de Sierra Chica», pero según Infobae (Rodolfo Palacios, 18/5/2023, y nota del 14/11/2024) está en la Unidad 26 del Servicio Penitenciario Bonaerense, en Olmos (La Plata); antes estuvo en Sierra Chica. En noviembre de 2024 la Sala I de San Isidro (juez Oscar Quintana) autorizó su paso al régimen abierto de la Unidad 25, condicionado a que hubiera plaza y a su consentimiento; según Canal 26 (6/3/2025, que cita al periodista Martín Candalaft), lo rechazó porque ya estaba acostumbrado y seguía en la Unidad 26 de Olmos. No he encontrado noticias posteriores: conviene confirmar antes de publicar que sigue vivo y preso. Conviene corregir la ficha (st y loc). Otras discrepancias: 1) Fecha de la detención: 3 de febrero de 1972, frente a su casa (Osvaldo Soriano, reproducido por Infobae, 17/10/2016) o 4 de febrero (Wikipedia); el guion dice «enseguida». 2) Asalto a la casa de repuestos: 3 de mayo (Wikipedia) o 9 de mayo de 1971 (Infobae, 14/6/2023); el guion dice «en mayo». 3) Edad de Héctor Somoza: 17 (Wikipedia, Soriano) o 18 (Infobae 2023); el guion dice 17. 4) El artículo de Soriano en Infobae fecha los crímenes en 1970, un año antes que el resto de fuentes (que dan 1971, coherente con su nacimiento en 1952): se toma 1971. 5) El Enamour estaba en La Lucila según Wikipedia y en Olivos según Infobae: el guion dice «la zona de Olivos». 6) Ferrini murió en Martínez (Soriano) o Acassuso (Infobae): ambos en el partido de San Isidro, que es lo que dice el guion. Con una sola fuente y formulado con prudencia: la frase «circo romano y farsa» al recibir la sentencia (Wikipedia; el guion parafrasea «calificó el juicio de farsa»); los 68 horas de fuga en 1973 (Wikipedia; el guion dice «menos de tres días»); la justificación «¿qué quería, que los despertara?» (Infobae 2023; el guion la parafrasea). Respeto: no se nombra a la víctima de 16 años (Virginia Rodríguez, en Wikipedia e Infobae) ni a la bebé superviviente; tampoco se describen las agresiones sexuales."
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Harold Shipman», con sus referencias a The Guardian, BBC News y los informes de la Shipman Inquiry",
+    "url": "https://en.wikipedia.org/wiki/Harold_Shipman",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "Hansard (Parlamento británico): declaración del ministro de Sanidad, Alan Milburn, sobre Harold Shipman tras el veredicto (1 de febrero de 2000)",
+    "url": "https://api.parliament.uk/historic-hansard/commons/2000/feb/01/harold-shipman",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "Hansard (Parlamento británico): declaración escrita sobre el informe final de la Shipman Inquiry (27 de enero de 2005)",
+    "url": "https://api.parliament.uk/historic-hansard/written-statements/2005/jan/27/shipman-inquiry-the-final-report",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "Associated Press (en Police1): «Serial killer doctor murdered 215 patients, inquiry finds», crónica del primer informe de la Shipman Inquiry",
+    "url": "https://www.police1.com/investigations/articles/serial-killer-doctor-murdered-215-patients-inquiry-finds-wrDIXj7QZv77BaIL/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Shipman Inquiry: catálogo del fondo documental en los Archivos Nacionales británicos (informes de 2002 a 2005)",
+    "url": "https://discovery.nationalarchives.gov.uk/details/r/C16350",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "GOV.UK (Departamento de Salud): «Death certification reform and the introduction of medical examiners»",
+    "url": "https://www.gov.uk/government/collections/death-certification-reform-and-the-introduction-of-medical-examiners",
+    "tipo": "judicial"
+  }
+]

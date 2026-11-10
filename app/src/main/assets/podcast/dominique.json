@@ -1,107 +1,202 @@
 {
   "id": "dominique",
-  "titulo": "Los que nadie buscaba",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Ronald Dominique": "Rónald Dominík",
     "Dominique": "Dominík",
     "Houma": "Jóuma",
+    "bayou": "báiu",
+    "Bayou Blue": "Báiu Blu",
+    "Terrebonne": "Terrebón",
+    "Saint Charles": "Séint Charls",
+    "Jefferson": "Yéferson",
     "Thibodaux": "Tíbodo",
-    "bayou": "báiu"
+    "Lafourche": "Lafúrsh",
+    "Metairie": "Métari",
+    "Kenner": "Kéner",
+    "David Mitchell": "Déivid Míchel",
+    "Oliver LeBanks": "Óliver Lebánks",
+    "Manuel Reed": "Manuel Rid",
+    "Nicholas Pellegrin": "Nícolas Pélegrin",
+    "Veronica Guidry": "Verónica Guídri",
+    "Alonzo Hogan": "Alónso Jóugan",
+    "Jerry Larpenter": "Yéri Lárpenter",
+    "Joseph Waitz": "Yósef Uéits",
+    "Jim Bernazzani": "Yim Bernazáni",
+    "Derrick Todd Lee": "Dérik Tod Li"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Houma, Luisiana, 1 de diciembre de 2006. La policía entra en un albergue para personas sin hogar y detiene a un hombre de cuarenta y dos años. Vive allí, con lo justo, sin llamar la atención. En los días siguientes, ese hombre confesará algo que cuesta creer: veintitrés asesinatos."
+      "n": 1,
+      "titulo": "Un remolque en Bayou Blue",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Ronald Dominique, el asesino del bayou. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un remolque en Bayou Blue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sur de Luisiana, 2006. En la parroquia de Terrebonne, un hombre en libertad condicional le cuenta algo extraño a su agente. Un desconocido lo llevó en coche hasta un remolque, cerca de Houma. Allí le propuso sexo y le pidió que se dejara atar. Él se negó. Y se marchó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto lo que lo cambia todo: se negó a que lo ataran. Desde hacía casi diez años aparecían hombres muertos en el sur de Luisiana, y todos estaban atados. Este hombre había salido de aquel remolque por su propio pie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores localizaron los remolques que describía. Eran de la hermana de un vecino de la zona: un hombre de cuarenta y dos años, bajo, con sobrepeso y enfermo del corazón. Se llamaba Ronald Dominique."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay que volver atrás. En Luisiana, los condados se llaman parroquias. Y desde 1997, en varias de ellas, iban apareciendo cuerpos de hombres en cunetas, descampados y cañaverales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El primero que se conoce es David Mitchell, de diecinueve años. En julio de 1997, tras una fiesta, intentó volver a casa haciendo autostop. Apareció junto a una carretera de la parroquia de Saint Charles, cerca de Nueva Orleans."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso los primeros años y veo el problema. Cada hallazgo caía en una jurisdicción distinta: Saint Charles, Jefferson, más tarde Terrebonne y Lafourche. Según contaron después los investigadores, al principio cada muerte se trató como un caso aparte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1998 y 1999, en Metairie y en Kenner, en los suburbios de Nueva Orleans, aparecieron más hombres estrangulados. A finales de 1999, según los investigadores, ya eran nueve. Y entonces, durante un tiempo, las muertes parecieron detenerse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa pausa sigue siendo una pregunta abierta. Los investigadores llegaron a pensar que el asesino había muerto o estaba preso. No era así. En octubre de 2002, los hallazgos volvieron a empezar, ahora alrededor de Houma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las víctimas eran hombres y chicos de entre dieciséis y cuarenta y seis años. Muchos eran pobres y algunos vivían en la calle. Según los investigadores, el asesino se les acercaba en la calle, se ofrecía a llevarlos y les proponía sexo, a veces a cambio de dinero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me fijo en cómo se habló entonces de ellos. Un sheriff los describió como hombres de vida de alto riesgo. Esa etiqueta pesa. A un hombre sin techo casi nadie lo denuncia como desaparecido, y sus muertes tardan más en sumar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la primavera de 2005, las muertes eran ya demasiadas y demasiado parecidas. Policías y sheriffs de varias parroquias formaron, con la fiscalía general del estado, un grupo de trabajo conjunto. El FBI se sumó a la búsqueda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En julio de 2005 ya se hablaba de una posible decimoctava víctima, Alonzo Hogan. Pero un mapa no da un nombre. Hacía falta alguien que hubiera estado con el asesino y siguiera vivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese alguien era el hombre del remolque. Los agentes revisaron el historial de Dominique. En 1996, un joven había huido por una ventana de la casa de su hermana y lo acusó de violación. El caso nunca llegó a juicio: la fiscalía no logró localizar a la víctima."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el dato que más me pesa. Diez años antes hubo una denuncia, y se archivó. No hubo juicio ni condena. Según contó él mismo después, aquel paso por el calabozo le hizo decidir que nunca volvería a la cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo llamaron a declarar. Negó tener nada que ver, pero aceptó dar una muestra de ADN. El análisis lo vinculó con dos de los casos más antiguos: el de Oliver LeBanks, hallado en Metairie en 1998, y el de Manuel Reed, en Kenner, en 1999."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Viernes, 1 de diciembre de 2006, hacia las tres de la tarde. La policía entra en un albergue para personas sin hogar de Houma. Dominique llevaba allí pocos días, con dinero para cinco o seis noches."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Salió sin resistirse, apoyado en un bastón. Lo acusaron de dos asesinatos. Pero en la oficina del sheriff de Terrebonne, aquel hombre al que nadie miraba empezó a hablar. Y lo que contó obligaría a reabrir expedientes de media Luisiana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los días siguientes, varias familias recibieron la visita de la policía. La cinta dos recoge lo que confesó, lo que se juzgó y lo que nunca llegó a juzgarse."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "¿Veintitrés? ¿Y durante cuánto tiempo?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Casi diez años. Entre 1997 y 2006, en el sur de Luisiana, fueron apareciendo los cuerpos de hombres jóvenes en cañaverales, cunetas y caminos rurales. Durante mucho tiempo, casi nadie relacionó aquellas muertes entre sí."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Ronald Dominique, el asesino del bayou."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Primero, un poco de geografía. El sur de Luisiana es tierra de pantanos, canales y campos de caña de azúcar, cerca del golfo de México. Allí, los condados se llaman parroquias, una herencia de su pasado colonial francés y español. Y el detalle importa, porque los crímenes se repartieron entre varias de ellas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dominique nació en 1964 en Thibodaux y vivió casi siempre en la zona de Houma. Llevaba una vida modesta: trabajos esporádicos, problemas de salud y apuros económicos constantes. Durante un tiempo vivió con familiares y, al final, en aquel albergue."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su método se basaba en el engaño. Se acercaba a hombres jóvenes, muchos de ellos en situación vulnerable, y les ofrecía dinero para que lo acompañaran. Después los asesinaba y abandonaba los cuerpos en lugares apartados, en parroquias distintas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Pero si los cuerpos iban apareciendo, ¿por qué tardó tanto en saltar la alarma?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por varias razones. Los hallazgos se producían en jurisdicciones distintas, cada una con su propia policía y sus propios expedientes. Y muchas de las víctimas eran hombres pobres, algunos sin hogar, otros con antecedentes o problemas de adicción. Sus muertes recibían poca atención y, a menudo, se investigaban por separado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esa es, quizá, la parte más dura de este expediente. Aquellos hombres tenían familias que preguntaban por ellos. Pero durante años sus preguntas apenas encontraron eco, en parte por quiénes eran las víctimas: personas pobres, que vivían en los márgenes y a las que pocos prestaban atención."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuándo empezó a cambiar eso?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2005, cuando ya se acumulaban demasiadas muertes con rasgos parecidos, las autoridades de varias parroquias formaron un grupo de trabajo conjunto. Por primera vez, alguien miraba el mapa completo y no cada caso por separado. Y las piezas empezaron a encajar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los investigadores buscaron a hombres que pudieran haber sido abordados por el asesino. Según la investigación, la pista decisiva llegó de hombres que contaron que alguien les había ofrecido dinero para acompañarle y que ellos se habían negado. Esos relatos condujeron hasta Ronald Dominique."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y de ahí, al albergue de Houma."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Tras su detención, las pruebas de ADN lo vincularon con algunos de los crímenes. Entonces empezó a hablar. Confesó veintitrés asesinatos, y sus declaraciones permitieron cerrar casos que llevaban años abiertos y sin respuesta. Cada uno de sus relatos se contrastó con los expedientes guardados en las distintas parroquias."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No llegó a celebrarse un gran juicio. En 2008, para evitar la pena de muerte, Dominique se declaró culpable de ocho asesinatos y fue condenado a ocho cadenas perpetuas sin posibilidad de libertad condicional. Cumple condena en la penitenciaría estatal de Angola, una de las prisiones de máxima seguridad más grandes de Estados Unidos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El acuerdo evitó un proceso largo y doloroso para las familias, y garantizaba que no volvería a salir de prisión. Pero dejó a muchas de ellas sin la oportunidad de ver su caso juzgado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Veintitrés es la cifra de víctimas que se le atribuye. Para muchas de esas familias, la confesión fue la única respuesta oficial a años de incertidumbre."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un caso que dice mucho sobre a quién busca la policía… y a quién no."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. El caso Dominique se cita a menudo como ejemplo de cómo la marginación de las víctimas puede retrasar una investigación. Cuando a alguien no se le echa de menos en voz alta, un asesino puede pasar años sin que nadie lo vea."
-    },
-    {
-      "voz": "ximena",
-      "texto": "También muestra el valor de la coordinación. Los crímenes solo se resolvieron cuando distintas policías aceptaron trabajar juntas y compartir lo que sabían. Una lección que se repite en muchos expedientes de este archivo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por eso hoy no queremos recordar al hombre del albergue, sino a los veintitrés hombres del sur de Luisiana a los que sus comunidades tardaron demasiado en buscar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Ronald Dominique. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un acuerdo en Houma",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un acuerdo en Houma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diciembre de 2006. Ronald Dominique, de cuarenta y dos años, está detenido en Houma, en el sur de Luisiana. Las pruebas de ADN lo vinculan con dos muertes de hombres jóvenes. Pero en el interrogatorio habla de muchas más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Confiesa veintitrés asesinatos, cometidos desde 1997. Según el sheriff de Terrebonne, Jerry Larpenter, explicó cómo, cuándo y dónde murió cada víctima. Dio detalles que no se habían hecho públicos y señaló los lugares donde había dejado los cuerpos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto el motivo que dio. Según los investigadores, dijo que mataba para no dejar testigos, porque no quería volver a la cárcel. Es su versión. Lo que sí consta es que sus relatos se fueron contrastando con los expedientes guardados en cada parroquia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era? Había nacido en 1964 en Thibodaux y vivía casi sin dinero. Hasta poco antes de su detención, dormía en una caravana aparcada detrás del remolque de su hermana, en Bayou Blue. Tenía detenciones por delitos menores, como infracciones de tráfico o alteración del orden."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El sheriff Larpenter lo resumió así: en la calle era, en sus palabras, «un don nadie». Y el responsable del FBI en Nueva Orleans, Jim Bernazzani, dijo que un asesino así se esconde a la vista de todos. Los perfiladores del FBI lo consideraban entonces el caso de asesinatos en serie más grave del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El fiscal de Terrebonne, Joseph Waitz, anunció que pediría la pena de muerte. Veronica Guidry, madre de Nicholas Pellegrin, una de las víctimas, contó a la prensa cuánto le dolía saber lo que aquel hombre les había hecho a su hijo y a los otros chicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el gran juicio nunca se celebró. El 23 de septiembre de 2008, en Houma, Dominique se declaró culpable de ocho asesinatos en primer grado. A cambio, la fiscalía renunció a pedir la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue condenado a ocho cadenas perpetuas consecutivas, sin posibilidad de libertad condicional. Cumple condena en la penitenciaría estatal de Luisiana, en Angola, una de las prisiones de máxima seguridad más grandes de Estados Unidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que ese acuerdo deja fuera. Los ocho asesinatos de su declaración eran de 2004 y 2005, casi todos en Terrebonne y Lafourche. Las otras quince muertes que confesó nunca llegaron a juicio. Para esas familias, la única respuesta oficial fue su confesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa local recogió la indignación de varias familias en la vista en la que se presentó el acuerdo. Ninguna vería un juicio con jurado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda también la cifra. Veintitrés es el número que él confesó y que le atribuyó la policía. Antes de su confesión, la policía investigaba unas veintiuna muertes. ¿Hubo más? Nadie lo ha podido demostrar. Y la pausa entre 2000 y 2002 nunca se explicó del todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En aquellos años, la prensa comparó este caso con el de otro asesino en serie de Luisiana, Derrick Todd Lee. Sus víctimas fueron mujeres estudiantes y profesionales, y su caso había causado mucha más alarma pública."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hace falta inventar ninguna teoría: la diferencia está en los periódicos. Lo que me inquieta es lo que dijo un residente del albergue de Houma. Que, si no lo hubieran detenido, Dominique podría haber vivido allí veinte años sin que nadie le prestara atención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las familias sí prestaban atención. El 2 de diciembre de 2006, dos agentes comunicaron a la familia de David Mitchell que Dominique había confesado su muerte. Nueve años después, la noticia no les trajo alivio. Según contaron, fue como volver a empezar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También rechazaron la etiqueta de las víctimas de vida de alto riesgo. David no consumía drogas, casi nunca hacía autostop y trabajaba en el hospital de su parroquia. Su madre trabajaba en la oficina del sheriff."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con la lección que repiten los investigadores. El caso solo empezó a resolverse cuando policías de distintas parroquias aceptaron trabajar juntas y compartir lo que sabían. Y la pista decisiva la dio alguien a quien muchos no habrían escuchado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a David Mitchell, a Oliver LeBanks, a Manuel Reed, a Alonzo Hogan, a Nicholas Pellegrin. A los veintitrés hombres y chicos del sur de Luisiana a los que se tardó demasiado en buscar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Ronald Dominique, el asesino del bayou. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias: 1) Periodo: la ficha y Wikipedia dan 1997-2006 (última víctima, Christopher Sutterfield, octubre de 2006); las crónicas de AP de diciembre de 2006 (CBS, NBC) dicen 1997-2005. El guion dice «desde 1997» sin fijar el final. 2) Parroquias: AP habla de siete; la tabla de Wikipedia suma seis (Saint Charles, Jefferson, Lafourche, Terrebonne, Assumption e Iberville; las dos muertes de Jefferson pudieron ocurrir en Orleans, según WAFB). El guion dice «varias» y «media Luisiana». 3) Fecha de la declaración de culpabilidad: 23 de septiembre de 2008 (Oxygen, The Line Up, Wikipedia en español, The Houma Courier); la Wikipedia inglesa dice 24 en el texto. 4) La ficha dice que captaba a las víctimas «ofreciéndoles dinero»; las fuentes hablan sobre todo de ofrecerse a llevarlas y de proponerles sexo (a veces por dinero); el guion lo dice así. 5) La ficha y el guion v2 decían que la pista llegó de «hombres» que se negaron; las fuentes hablan de un solo superviviente (en libertad condicional), al que el guion no nombra. 6) Edad de Dominique al ser identificado: Oxygen dice 41; al ser detenido tenía 42 (AP), que es la que usa el guion. Sin fuente doble y omitido: que la muerte de David Mitchell se clasificara primero como ahogamiento accidental, y que el huracán Katrina retrasara el análisis de ADN (solo Wikipedia y Oxygen). La frase «se esconde a la vista de todos» (Jim Bernazzani, FBI) y «un don nadie» (sheriff Larpenter) son traducciones de citas recogidas por AP (NBC News y Fox News, 6/12/2006). Respeto: no se nombra a las víctimas menores (Joseph Brown, 16; Wayne Smith, 17) ni al superviviente."
 }

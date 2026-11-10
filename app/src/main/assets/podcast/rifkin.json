@@ -1,106 +1,213 @@
 {
   "id": "rifkin",
-  "titulo": "Una matrícula que faltaba",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Joel Rifkin": "Yóul Rífkin",
+    "Rifkin": "Rífkin",
     "Long Island": "Long Áiland",
     "East Meadow": "Ist Médou",
     "Manhattan": "Manjátan",
-    "Lower East Side": "Lóuer Ist Sáid",
     "Tiffany Bresciani": "Tífani Breshiáni",
     "Mineola": "Mineóla",
-    "Nassau": "Násau"
+    "Nassau": "Násau",
+    "Southern State Parkway": "Sázern Estéit Párkuei",
+    "Deborah Spaargaren": "Débora Espárgaren",
+    "Sean Ruane": "Shon Ruéin",
+    "Old Country Road": "Old Cántri Róud",
+    "Ira Wexner": "Áira Uéxner",
+    "Barbara Kirwin": "Bárbara Kérguin",
+    "Fred Klein": "Fred Kláin",
+    "Suffolk": "Sáfok",
+    "Brooklyn": "Brúklin",
+    "Leah Evens": "Lía Ívens",
+    "Lauren Marquez": "Lóren Márkes",
+    "Lorraine Orvieto": "Lorréin Orviéto",
+    "Maryann Hollomon": "Mériann Jólomon",
+    "Jenny Soto": "Yéni Soto",
+    "Iris Sanchez": "Áiris Sánchez",
+    "Attica": "Ática",
+    "Clinton": "Clínton",
+    "The New York Times": "Ze Niu York Táims",
+    "Wantagh Avenue": "Uóntag Ávenyu",
+    "Glen Cove Road": "Glen Cóuv Róud",
+    "Roslyn Road": "Rózlin Róud"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Long Island, Nueva York, madrugada del 28 de junio de 1993. Dos agentes de la policía estatal se fijan en una camioneta que circula por la autopista sin matrícula trasera. Le hacen señales para que se detenga. El conductor no obedece. Empieza una persecución que terminará contra un poste de la luz, en Mineola."
+      "n": 1,
+      "titulo": "Una camioneta sin matrícula",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Joel Rifkin, el asesino de Long Island. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una camioneta sin matrícula."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Long Island, Nueva York. Lunes, 28 de junio de 1993, hacia las tres y cuarto de la madrugada. Dos agentes de la policía del estado, Deborah Spaargaren y Sean Ruane, patrullan la autopista Southern State Parkway. Delante de ellos va una camioneta Mazda sin matrícula trasera. Le hacen señales para que pare."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El conductor no para. Acelera, sale de la autopista por Wantagh Avenue y se mete por la carretera 107, Glen Cove Road y Roslyn Road. La persecución dura entre veinte y veinticinco minutos, a veces a más de ciento cuarenta kilómetros por hora. Se suman coches de la policía del condado de Nassau."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto la desproporción. Una matrícula que falta se arregla con una multa. Nadie arriesga la vida por eso. Cuando un conductor huye así, es que lleva algo que no puede enseñar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Mineola, al girar hacia Old Country Road, el conductor pierde el control. La camioneta arranca una farola y se detiene sobre la acera. Al volante va un jardinero de treinta y cuatro años, vecino de East Meadow. Se llama Joel Rifkin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes revisan la camioneta. En la parte trasera, oculto bajo una lona, está el cuerpo de una mujer de veintidós años: Tiffany Bresciani. Rifkin la había recogido días antes en Manhattan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma mañana, Rifkin queda acusado en el condado de Nassau de asesinato en segundo grado y de haber puesto en grave peligro a otras personas durante la huida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí el caso cambia de escala. Un detenido con un cuerpo en el vehículo es, en principio, un asesinato. Pero en el interrogatorio, Rifkin no habla de una sola mujer. Según la policía del estado, admite haber matado a otras dieciséis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diecisiete mujeres en cuatro años, entre 1989 y 1993. Casi todas ejercían la prostitución en la ciudad de Nueva York y en Long Island. Muchas estaban en una situación de gran vulnerabilidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y esa es la clave de por qué nadie vio la serie. Muchas desapariciones no se denunciaron enseguida. Los cuerpos, cuando aparecían, estaban repartidos entre ríos, descampados y condados distintos, alguno incluso en otro estado. Y a menudo, sin identificar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era Joel Rifkin? Nació en Nueva York en enero de 1959. Con tres semanas lo adoptó un matrimonio que lo crio en East Meadow, en Long Island. Tuvo dificultades de aprendizaje y pocos amigos en el colegio. Pasó por varias universidades sin terminar ninguna carrera y acabó trabajando por su cuenta como jardinero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seguía viviendo en la casa familiar de East Meadow. Según su propia confesión, allí murió la primera de sus víctimas, en 1989."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me pesa de este expediente es el tiempo. Cuatro años. Diecisiete mujeres. Y ninguna alarma pública que las relacionara. El primero que trazó la línea completa fue el propio asesino, en una sala de interrogatorios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía del estado creó un equipo especial para el caso. Con las declaraciones de Rifkin, localizó e identificó los restos de quince de las víctimas. Hubo cargos o investigaciones en diez jurisdicciones distintas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para varias familias, aquella fue la primera noticia cierta en mucho tiempo. Algunas mujeres que llevaban meses sin nombre fueron identificadas en julio y agosto de 1993, pocas semanas después de la detención."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto los huecos. Dos de los cuerpos nunca aparecieron, y al menos una de las mujeres sigue sin identificar. Detrás de cada hueco hay alguien a quien nadie ha podido devolver su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero para juzgar a Rifkin había que empezar por la mujer de la camioneta. El juicio se celebraría en Mineola, la misma localidad donde había terminado la persecución."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su defensa iba a sostener que no era responsable de sus actos. Lo que decidió el jurado, y lo que pasó con las otras dieciséis mujeres, está en la cinta dos."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "¿Tanto para huir de una multa por no llevar matrícula?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Eso pensaron los agentes. Hasta que notaron un fuerte olor que salía de la parte trasera de la camioneta. Bajo una lona encontraron el cuerpo de una mujer joven, Tiffany Bresciani. El conductor era un jardinero de treinta y cuatro años que vivía con su madre. Se llamaba Joel Rifkin."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Joel Rifkin, el asesino de Long Island."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Rifkin nació en 1959 y fue adoptado de bebé por un matrimonio que lo crio en East Meadow, en Long Island. Fue un niño tímido, con dificultades en el colegio, donde sufrió burlas constantes. No llegó a terminar sus estudios universitarios y montó un pequeño negocio de jardinería que nunca llegó a prosperar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su padre adoptivo había muerto años antes, y él seguía viviendo en la casa familiar con su madre, que no sospechaba nada. Nadie en su entorno imaginaba lo que estaba ocurriendo."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Quiénes eran esas mujeres?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Mujeres que ejercían la prostitución en Nueva York, muchas en situación de enorme vulnerabilidad, con problemas de adicción o sin un hogar estable. Rifkin las recogía sobre todo en Manhattan, en zonas como el Lower East Side. Después las mataba y ocultaba sus cuerpos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "A principios de los años noventa, Nueva York arrastraba todavía los efectos de la epidemia del crack. Muchas de aquellas mujeres vivían al día, atrapadas en la adicción y lejos de sus familias. Esa vulnerabilidad las volvía casi invisibles."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1989 y 1993, la serie se fue alargando sin que nadie la detectara. Algunos cuerpos aparecieron en ríos o en descampados de la zona metropolitana, a menudo sin identificar. Muchas desapariciones no se denunciaron enseguida, y los hallazgos se repartían entre distintos condados y estados."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un patrón que se repite en muchos casos: víctimas a las que casi nadie buscaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por desgracia, sí. Y ese silencio le dio a Rifkin cuatro años. Tras su detención, en un largo interrogatorio, confesó haber matado a diecisiete mujeres y fue repasando los casos ante los investigadores. De pronto, la policía tenía entre manos una serie de crímenes que nadie había relacionado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sus confesiones permitieron poner nombre a víctimas que llevaban años sin identificar. Para varias familias, fue la primera noticia cierta de lo que les había ocurrido a sus hijas, hermanas o madres, después de mucho tiempo sin saber nada."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Al registrar la casa, y en especial su habitación, los investigadores encontraron más pruebas: documentos, joyas y prendas que pertenecían a varias de las víctimas. Cada objeto sirvió para reconstruir una historia y, sobre todo, para devolverle un nombre a alguien."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y se le pudieron probar las diecisiete muertes?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. Fue juzgado en varios procesos a mediados de los años noventa. El primero se celebró en el condado de Nassau, el mismo donde había terminado la persecución. Allí, su defensa alegó locura, pero el jurado no la aceptó. Al final fue condenado por nueve asesinatos y sentenciado, en total, a doscientos tres años de prisión."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy sigue cumpliendo condena en una prisión del estado de Nueva York. Con las diecisiete víctimas que él mismo reconoció, se le considera uno de los asesinos en serie más prolíficos de la historia del estado. Durante meses, el caso ocupó los titulares de la prensa neoyorquina."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y todo empezó a desmoronarse por una simple matrícula."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por un detalle mínimo, sí. Muchos casos se resuelven así: no por una gran deducción, sino porque alguien se fija en algo que no encaja. En este caso, dos agentes de patrulla hicieron simplemente su trabajo, y lo hicieron bien."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero el caso dejó también una pregunta incómoda. Durante cuatro años, la desaparición de mujeres que ejercían la prostitución apenas generó alarma, como si aquellas vidas valieran menos que otras. No era así: valían exactamente lo mismo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Recordarlas a ellas, empezando por Tiffany Bresciani, y no al hombre que las mató, es el sentido de este expediente. Eran mujeres con nombre, con una historia y con familias que todavía las echan de menos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Joel Rifkin. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un juzgado en Mineola",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un juzgado en Mineola."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Joel Rifkin, el jardinero de Long Island detenido en junio de 1993 con el cuerpo de Tiffany Bresciani en su camioneta. Confesó haber matado a diecisiete mujeres entre 1989 y 1993. La policía del estado identificó los restos de quince."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Primavera de 1994. Tribunal del condado de Nassau, en Mineola. Rifkin es juzgado por el asesinato de Tiffany Bresciani y por el peligro que causó durante la persecución. Preside el juez Ira Wexner."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El caso de Tiffany Bresciani era el más sólido de todos: un cuerpo, un detenido y dos testigos de uniforme. Fue el primero en llegar a juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa alega locura. Una psicóloga, Barbara Kirwin, declara que el acusado no sabía distinguir sus fantasías de la realidad. El juicio dura trece días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Repaso el argumento del fiscal, Fred Klein. Dijo al jurado que aquello podía ser obra de un hombre perturbado o enfermo, pero no de un loco. Ahí estaba toda la cuestión: un hombre que huye de la policía y esconde un cuerpo sabe lo que está haciendo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante la deliberación, el jurado solo hizo dos preguntas: una sobre el testimonio de los psicólogos, que el juez les pidió no tener en cuenta, y otra sobre la acusación de imprudencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "9 de mayo de 1994. El jurado, siete hombres y cinco mujeres, delibera dos horas y diez minutos. Rechaza la locura y lo declara culpable de asesinato en segundo grado. Uno de los jurados contó después que no les costó decidir que estaba cuerdo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 1994 le impusieron la pena máxima para ese delito: de veinticinco años a cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese juicio cerraba un caso. Quedaban dieciséis. Y aquí cambia el camino. En los meses siguientes, Rifkin se fue declarando culpable en otros condados, uno tras otro, sin pasar por más juicios largos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre de 1995, en el condado de Suffolk, por las muertes de Leah Evens y Lauren Marquez. En diciembre, en Brooklyn, por las de Lorraine Orvieto, Maryann Hollomon y una mujer que nunca se ha identificado. En enero de 1996, por las de Jenny Soto e Iris Sanchez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En una de aquellas vistas, en enero de 1996, pidió perdón por las diecisiete muertes, según recogió The New York Times."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto sin valorarlo. Las disculpas no devolvieron a nadie. Y no resolvieron lo que seguía pendiente: las muertes que nunca llegaron a juicio y los cuerpos que nunca aparecieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En total, fue condenado por nueve asesinatos. Las penas suman doscientos tres años de prisión hasta cadena perpetua. Según se ha publicado, su primera fecha posible de libertad condicional es el año 2197."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por su notoriedad, las autoridades lo separaron del resto de presos. Pasó más de cuatro años aislado en la prisión de Attica. Después lo trasladaron a la de Clinton, en el norte del estado, donde cumple condena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda lo que nunca se aclaró. Las otras ocho muertes que confesó no llegaron a juicio. Dos cuerpos no aparecieron. Y al menos una víctima sigue sin nombre. Para esas familias, la única versión de lo ocurrido es la del propio Rifkin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante meses, el caso ocupó la prensa de Nueva York. Y dejó una pregunta incómoda: por qué cuatro años de desapariciones no habían hecho saltar ninguna alarma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con lo que sí funcionó. No fue una gran deducción. Fueron dos agentes de patrulla que vieron una camioneta sin matrícula y no la dejaron pasar. A veces un expediente se abre por un detalle mínimo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las víctimas de Joel Rifkin eran mujeres con nombre, con historia y con familias. Ejercer la prostitución no las hacía valer menos. Y, sin embargo, muchas tardaron demasiado en ser buscadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Tiffany Bresciani, a Leah Evens, a Lauren Marquez, a Lorraine Orvieto, a Maryann Hollomon, a Jenny Soto, a Iris Sanchez. Y a las otras mujeres de Nueva York y Long Island, con nombre o todavía sin él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Joel Rifkin, el asesino de Long Island. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias: 1) Condenas: la ficha, la Wikipedia (ficha técnica) y Biography.com dan 9 asesinatos (Biography: en 2002 se rechazó su recurso contra las condenas por nueve mujeres) y 203 años; el texto de la Wikipedia solo detalla ocho cadenas perpetuas (Bresciani; Evens y Marquez en Suffolk; Orvieto, Hollomon y la mujer sin identificar de Newtown Creek en Brooklyn; Jenny Soto e Iris Sanchez en enero de 1996). No he podido identificar la novena; el guion dice «nueve asesinatos» y cita los ocho nombres conocidos sin decir que sean todos. La policía del estado solo menciona las declaraciones de culpabilidad de Suffolk (2) y Queens (1). 2) Primera víctima: Wikipedia, 20 de febrero de 1989; Biography.com, marzo de 1989. El guion dice «en 1989». 3) Olor: Biography.com y el guion v2 dicen que los agentes notaron olor a descomposición; la página de la policía del estado habla de un registro de inventario. El guion no lo menciona. 4) Lugar del choque: Biography.com dice que fue contra un poste frente a un juzgado; la policía del estado, contra una farola de Old Country Road, a unos 20 metros de Washington Avenue (Mineola). El guion dice «en Mineola, la misma localidad donde había terminado la persecución». 5) El v2 decía que en su habitación aparecieron joyas y documentos de las víctimas: no lo he podido confirmar y se ha omitido. 6) Persecución: 20-25 minutos (policía del estado, Wikipedia); UPI habla de 25 millas. Con una sola fuente o fuente indirecta: que pidió perdón por las 17 muertes (titular de The New York Times del 26/1/1996, citado en Wikipedia, que no he podido abrir); las identificaciones de julio y agosto de 1993 (tabla de Wikipedia). Omitido por tener una sola fuente: la identificación en 2013 de Heidi Balch como primera víctima y su detención de 1987 en una redada contra la prostitución en Hempstead (Wikipedia). Las frases del fiscal Fred Klein y del jurado están en la crónica de UPI del 9/5/1994; se parafrasean."
 }
