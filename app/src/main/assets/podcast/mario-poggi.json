@@ -1,0 +1,110 @@
+{
+  "id": "mario-poggi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mario Poggi": "Mario Pódyi",
+    "Poggi": "Pódyi",
+    "Ángel Díaz Balbín": "Ánjel Díaz Balbín",
+    "Díaz Balbín": "Díaz Balbín",
+    "Lurigancho": "Lurigáncho"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una sala de interrogatorio",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El psicólogo que mató al descuartizador de Lima. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una sala de interrogatorio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lima, domingo 9 de febrero de 1986. Son las once de la noche. Un hombre sale tranquilo de una sala de interrogatorios de la policía y avisa de que acaba de matar al detenido que estaba dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre es el psicólogo Mario Poggi. Lo había contratado la Policía de Investigaciones del Perú. El detenido se llamaba Ángel Díaz Balbín. Tenía treinta años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La policía no contrató a Poggi para matar a nadie. Lo contrató, según El Comercio, para examinar al detenido y trazar su perfil psicológico. Y le dejó a solas con él. Eso es lo que me quita el sueño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Díaz Balbín tenía antecedentes graves. Desde 1976 había estado en el penal de Lurigancho por matar a familiares. Salió en régimen de semilibertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco después, en Lima, empezaron a aparecer restos de mujeres en avenidas y basurales. Entre diciembre de 1985 y enero de 1986, la prensa los atribuyó a un asesino al que llamó el descuartizador de Lima. Se hablaba de al menos siete víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a detenerme en lo que les hicieron. Solo anoto que el apodo lo puso la prensa, y que lo que importa son ellas, no el apodo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jefe de la división de homicidios, el teniente coronel Víctor Cueto, describió aquellos días de pruebas psicológicas como una batalla de ingenio con el detenido. Según UPI, la policía temía que el detenido intentara algo contra el psicólogo y había puesto guardias fuera de la sala."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Guardias fuera de la sala, para proteger al psicólogo del detenido. Y al final fue al revés. Es una de las ironías más amargas de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una testigo afirmó haber visto a Díaz Balbín dejar una bolsa en la basura. La policía lo detuvo. Pero detenido no es condenado. Nunca fue juzgado por esos crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está el nudo. La policía sospechaba, tenía una testigo, tenía miedo. Pero no tenía pruebas para encerrarlo. Poggi, según su propia versión, llegó a la misma conclusión que ellos. Y decidió que la ley no bastaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según su versión, le parecía un psicótico paranoico peligroso. Y creía que no había pruebas suficientes para mantenerlo en prisión. Estranguló a Díaz Balbín con su propio cinturón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ante la prensa, Poggi dijo que lo había hecho por el bien de la sociedad. En la entrevista de 2011 con El Comercio, volvió a decir: «Soy un héroe»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escuche bien la frase. Un hombre que cree que puede ser juez, jurado y verdugo porque sus test le dicen que otro es culpable. Eso no es justicia. Es lo contrario de lo que hace una ley."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue condenado por homicidio a siete años de cárcel. Cumplió cinco y salió en libertad en 1991."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después de la cárcel, Poggi se convirtió en un personaje de la televisión de Lima. Escribió tres libros, apareció en una película sobre el caso y, en 2006, se presentó sin éxito a la presidencia del Perú."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que nunca se aclaró es lo más serio. Tras la muerte de Díaz Balbín, siguieron apareciendo restos de mujeres. Investigaciones posteriores dudaron de que fuera el asesino que buscaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Si fue o no el descuartizador, nadie lo sabe: nunca hubo juicio. Poggi murió en 2016, a los setenta y tres años, sin que el caso de las mujeres se cerrara."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Si Díaz Balbín era el autor, murió sin juicio. Si no lo era, la muerte cerró una pregunta que seguía abierta. En los dos casos, la justicia llegó tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las mujeres víctimas de aquellos meses no tienen en este archivo ni nombres ni apodos. Merecen algo mejor: que un día alguien responda por ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El psicólogo que mató al descuartizador de Lima. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso cerrado (homicidio de Díaz Balbín). Fuentes abiertas: El Comercio, UPI (10/2/1986), La Nación y la ficha. Discrepancias: fecha del estrangulamiento: noche del domingo 9 de febrero (El Comercio, UPI, ficha) frente al día 8 (La Nación); el guion dice «el domingo 9 de febrero, por la noche». Poggi: psicólogo (El Comercio, ficha) o psiquiatra (UPI); el guion dice psicólogo. Familiares de la condena de 1976: tía y dos primos (El Comercio, La Nación) o sobrinos (UPI): el guion dice «familiares». Número de víctimas atribuidas al descuartizador: «al menos siete» (El Comercio) y ocho (UPI): el guion dice «al menos siete mujeres» atribuidas, sin cifra firme y sin detalles. Pena de Poggi: siete años (El Comercio y ficha); cumplió cinco y salió en 1991. La Nación no describe condena formal. No se cuentan los métodos de la muerte ni de los crímenes atribuidos. Presunción de inocencia: Díaz Balbín nunca fue juzgado por los crímenes del descuartizador; investigaciones posteriores dudaron de que fuera el autor (La Nación) y siguieron apareciendo restos tras su muerte. Se omite la versión de Enrique Sol sobre las torturas y la incitación de un agente (solo La Nación, vía una entrevista de 1987) y la historia de Caretas pagando a Poggi."
+}

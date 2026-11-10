@@ -1,0 +1,108 @@
+{
+  "id": "ravaillac",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ravaillac": "Ravayác",
+    "François Ravaillac": "Fransuá Ravayác",
+    "rue de la Ferronnerie": "rü de la Ferronerí",
+    "place de Grève": "plás de Grév",
+    "Sully": "Sulí",
+    "Épernon": "Epernón",
+    "Angulema": "Angulema",
+    "Henri": "Henri",
+    "Louvre": "Lúvr",
+    "Conciergerie": "Consiersrí",
+    "Médicis": "Medísis"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un atasco en la rue de la Ferronnerie",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Enrique IV. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un atasco en la rue de la Ferronnerie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 14 de mayo de 1610. Por la tarde, el rey Enrique IV sale del Louvre en carroza. Va a visitar a su amigo el duque de Sully, que está enfermo. Hay poca escolta, y ninguna de caballería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la rue de la Ferronnerie, una calle estrecha cerca de Les Halles, la carroza se detiene. Una carreta de heno y otras de vino bloquean el paso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una calle estrecha, una carroza parada y un rey sin protección. El peligro no estaba en un ejército, sino en un atasco. Ocurre muchas veces en la historia: lo grande depende de algo pequeño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los lacayos bajan para apartar los carros. Y un hombre que había seguido la carroza se sube a una rueda. Se llama François Ravaillac."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Apuñala al rey en el pecho. Enrique IV muere poco después, cuando regresaban al Louvre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ravaillac no huye. Lo detienen allí mismo. Tiene treinta y tantos años y procede de Angulema, de una familia pobre y muy piadosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo importante: no es un conspirador cortesano, ni un soldado. Es un hombre corriente que cree actuar por Dios. Y eso es lo que más preocupaba a quienes lo interrogaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la Britannica de 1911, había intentado ingresar en dos órdenes religiosas, y ambas lo rechazaron. Se cree que estos fracasos alimentaron su fanatismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Circulaban rumores de que el rey preparaba una guerra contra el papa. Ravaillac, católico exaltado, lo llegó a considerar un tirano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Enrique IV había terminado con las guerras de religión entre católicos y protestantes. Eso le dio enemigos en los dos bandos. El inspector que hay en el archivo anota que el rey se preparaba, además, para una guerra contra la España católica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo llevaron primero a un hotel vecino y después a la Conciergerie. El Parlamento de París lo juzgó con rapidez y lo condenó como regicida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante el proceso se le sometió a tormento para que delatara a sus cómplices. No lo hizo. Siempre sostuvo que nadie le había encargado el crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que no hay que pasar por alto. Se habló de instigadores y se señalaron nombres. Pero nunca se probó nada. Los historiadores de hoy creen que Ravaillac decía la verdad: actuó solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 27 de mayo de 1610 fue ejecutado en la place de Grève, ante el público. Hoy está allí el ayuntamiento de París."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El rey tenía cincuenta y seis años. Había dejado de ser el soberano de un país en guerra consigo mismo para convertirse en el recuerdo del «buen rey Enrique»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa leyenda nació el mismo día de su muerte. Lo que me interesa es lo contrario: que la historia de un reino pasó por una calle estrecha de París, un día cualquiera de mayo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy, una placa en la rue de la Ferronnerie marca el lugar, con los escudos de los Borbones y de los reyes de Navarra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Enrique IV. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Hora: hacia las 16:00 (Wikipedia francesa y Paris Zigzag); Herodote dice «a primera hora de la tarde»: el guion dice «por la tarde». El rey murió de camino al Louvre (Herodote, Paris Zigzag) o poco después de llegar (Wikipedia): se dice «murió poco después». Fecha de la ejecución, 27 de mayo (Britannica 1911, Wikipedia inglesa). El guion no describe la ejecución ni la tortura: solo dice que lo ejecutaron en la place de Grève, tras un juicio rápido. Se omiten las acusaciones de instigación (Épernon, Jacqueline d'Escoman, 1611), no probadas; el guion dice solo que Ravaillac siempre negó tener cómplices y que los historiadores lo creen (Britannica 1911). No se recogen los intentos de Ravaillac de ver al rey (fuente no abierta). Herodote dice que robó el cuchillo en una posada: no se recoge. La ficha dice «Parlamento de París»: se mantiene. No se pudieron abrir Cairn, Europe 1 ni histoire-image.org. Edad de Ravaillac: 32 (Herodote) / nacido en 1578 (Britannica): se dice solo «treinta y tantos»."
+}

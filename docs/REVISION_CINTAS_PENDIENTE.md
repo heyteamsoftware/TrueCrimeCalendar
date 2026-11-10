@@ -44,3 +44,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **puig-antich y matanza-atocha:** datos de contexto sin fuente abierta (últimas ejecuciones con garrote vil; edad de Dato). Pronunciación de «Puig Antich».
 - **secuestro-pastrana:** el asesinato del procurador Hoyos (25/1/1988) no figura en las fuentes de la ficha; comprobar en dos fuentes.
 - **Menores no nombradas** en bundy, starkweather, nilsen y romasanta por falta de familia pública. Pronunciaciones a oído en abril 1-15 (Lorrén, Búbak, Yeims Erl Rei). Sancho Alegre y Zapata: solo dos fuentes abiertas.
+- **Pronunciaciones a oído en junio 1-15:** Matteotti, Anglin, Evers, Gudden, Livraga. Soldevila y Pérez Zujovic se apoyan en pocas fuentes.

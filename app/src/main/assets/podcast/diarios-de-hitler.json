@@ -1,0 +1,109 @@
+{
+  "id": "diarios-de-hitler",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Stern": "Shtérn",
+    "Konrad Kujau": "Cónrad Kuyáu",
+    "Kujau": "Kuyáu",
+    "Gerd Heidemann": "Guerd Jáidemann",
+    "Heidemann": "Jáidemann",
+    "Hugh Trevor-Roper": "Hiú Trévor Róper",
+    "Trevor-Roper": "Trévor Róper",
+    "Kenneth Rendell": "Kéneth Réndel"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Dos letras equivocadas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los diarios de Hitler. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Dos letras equivocadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hamburgo, abril de 1983. Sobre una mesa hay sesenta y dos cuadernos de tapas negras. En la portada de uno de ellos, en letras doradas, se ven dos iniciales: F y H. No A y H, como Adolf Hitler. F y H."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es el error más pequeño y el más delator. Quien hizo los cuadernos compró unas letras de plástico en unos grandes almacenes, y se confundió con la primera. Una editorial pagó millones de marcos por ellos y nadie se fijó en la portada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La revista Stern presentó los cuadernos el 25 de abril de 1983 en una rueda de prensa en Hamburgo. Eran, según ella, los diarios privados de Adolf Hitler. Había pagado por ellos 9,3 millones de marcos, a través de su periodista Gerd Heidemann."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia que contaban partía de un hecho real. En abril de 1945, un avión de transporte que huía de Berlín se estrelló cerca de la frontera con Checoslovaquia. Llevaba cajas de documentos de Hitler. Nadie supo nunca qué había dentro. Esa laguna era el escenario perfecto para una falsificación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor se llamaba Konrad Kujau. Había nacido en la Alemania del Este y, desde los años setenta, vendía recuerdos nazis en Stuttgart. Para subir los precios, falsificaba documentos que los acompañaban. De ahí pasó a cuadros, cartas y, al final, diarios."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. No era un falsificador brillante. Copiaba bien la letra, pero hacía el resto a lo grande: papel de papelería moderna, tinta que empapaba con té para envejecerla, errores de datos. Lo que sí tenía era un comprador que quería creer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese comprador era Gerd Heidemann, reportero de Stern. Le pagaba con dinero de su editorial, sin recibos y sin controles. A comienzos de 1981 se habían pagado 680.000 marcos por los cuadernos y a Kujau le había llegado solo la mitad. Heidemann se había quedado con el resto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo repito porque es una estafa doble. Heidemann engañaba a su empresa y también al falsificador. Al final, uno de ellos fue condenado por quedarse con 1,7 millones de marcos de Stern. Y el otro, por haber recibido 1,5 millones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes de publicar, la revista vendió derechos a otros medios. El Sunday Times pidió a un historiador británico, Hugh Trevor-Roper, que los examinara. Primero los dio por buenos. Después, ante la prensa reunida en Hamburgo, dijo que tenía dudas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anótalo bien: el mismo experto que dio crédito a los diarios fue el primero en dudar. Stern había mostrado los cuadernos a especialistas antes de la presentación, pero no había hecho el análisis forense que hacía falta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Archivo Federal alemán lo hizo después. Con luz ultravioleta, el papel mostraba un componente fluorescente que no podía existir en un documento antiguo. Y la encuadernación de uno de los cuadernos incluía poliéster, que no se fabricó antes de 1953. El 6 de mayo de 1983, el Archivo anunció que los diarios eran falsos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Archivo Federal, una semana después de la rueda de prensa, la sensación se había convertido en un escándalo periodístico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Piensa en el calendario. Veintiún días antes, sesenta y dos cuadernos eran uno de los mayores hallazgos de la historia. Ahora eran papel mal envejecido. Lo único que cambió fue que alguien hizo el análisis que debió hacerse al principio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio comenzó el 21 de agosto de 1984 en el Tribunal Regional de Hamburgo, con unos ochenta periodistas de todo el mundo. En julio de 1985, el tribunal condenó a Konrad Kujau a cuatro años y seis meses de prisión, y a Gerd Heidemann a cuatro años y ocho meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez dijo que la negligencia de Stern le había llevado a suavizar las penas. Y quedaron al menos cinco millones de marcos sin aclarar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos condenas, un dinero que no aparece. Kujau salió de prisión en 1987, abrió una galería en Stuttgart y vendió copias de pintores famosos, pero firmadas con su propio nombre. Murió en 2000."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En este expediente no hay víctimas directas. Pero algo se rompió: la confianza en que un gran medio comprueba lo que publica. Y quedó claro hasta qué punto se quiere creer lo que parece un secreto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los cuadernos no están en el Archivo Federal. La mayoría sigue en la editorial. Es un buen sitio para un objeto así: guardados, y con la historia de las dos letras equivocadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Los diarios de Hitler. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fechas: Stern anunció el hallazgo el 22 de abril y lo presentó el 25 (German History in Documents); el Archivo Federal anunció la falsificación el 6 de mayo de 1983 y data la rueda de prensa en el número del 25 de abril. 62 cuadernos (GHDI) frente a «unos sesenta» (Wikipedia). Penas: Archivo Federal (4 años y 6 meses y 4 años y 8 meses; julio de 1985); GHDI: «más de cuatro años y medio»; el día exacto no se confirmó. Fuentes abiertas: Archivo Federal, GHDI, Wikipedia en inglés (FH/AH, estrellado de 1945, papel y poliéster, 680.000 marcos y la mitad, 1,7 y 1,5 millones, cinco millones sin aclarar, salida de prisión en 1987, muerte de Kujau en 2000). «Un componente fluorescente en el papel» y «poliéster anterior a 1953» son de Wikipedia (Harris). La afirmación de que Stern «había mostrado los cuadernos a especialistas» es una interpretación general: Trevor-Roper los vio antes; el texto dice que no hizo el análisis forense. Contradicción menor: la ficha dice que Kujau escribió los cuadernos «hasta 1983» y 1981-83 son las fechas de Wikipedia; el guion no da años de fabricación. El Christian Science Monitor no se abrió; solo se vio en el buscador. Los cuadernos «siguen en la editorial»: Archivo Federal («sie befinden sich zum allergrößten Teil immer noch beim Verlag»). «La mayoría en el Archivo»: no, el texto dice que no están. El detalle de que Heidemann no daba recibos sale de Wikipedia."
+}

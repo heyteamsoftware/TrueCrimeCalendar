@@ -1,0 +1,123 @@
+{
+  "id": "robo-knightsbridge",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Knightsbridge": "Naitsbridch",
+    "Valerio Viccei": "Valério Víchei",
+    "Viccei": "Víchei",
+    "Parvez Latif": "Parvéz Látif",
+    "Latif": "Látif",
+    "Londres": "Londres",
+    "Ferrari": "Ferrari",
+    "Pescara": "Pescára",
+    "Parkhurst": "Párkherst",
+    "Dick Leach": "Dik Lich"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cerrado temporalmente",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de Knightsbridge. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cerrado temporalmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, domingo 12 de julio de 1987. En la puerta de un centro de cajas de seguridad de Knightsbridge, un barrio de lujo, alguien cuelga un cartel. Dice que el establecimiento está cerrado temporalmente. Dentro, algo va muy mal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco antes, dos hombres habían entrado como clientes. Pidieron alquilar una caja de seguridad. Cuando los llevaron a la cámara acorazada, sacaron pistolas y redujeron al encargado y a los vigilantes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un robo con violencia se nota. Uno que parece una gestión normal, no. El cartel de la puerta lo dice todo: los ladrones no huyeron al primer momento. Se quedaron, y con calma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dejaron entrar a más cómplices. Y fueron abriendo a la fuerza, una tras otra, decenas de cajas de seguridad de los clientes. Después se marcharon."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota, sobre el método. Cerrar el local con un cartel de cortesía, sin alarma y sin prisas, es robar apoyándose en la rutina. Funciona mientras nadie sospecha de un cartel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una hora más tarde cambió el turno. Los empleados que llegaron encontraron el robo y avisaron a la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se calculó que el botín valía unos sesenta millones de libras, aunque otras estimaciones lo rebajan a cuarenta. Fue uno de los mayores robos de su tiempo en Londres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Hay un problema que complica todo: nadie sabe exactamente qué había en esas cajas. Quien las alquila no declara su contenido. Por eso las cifras varían, y por eso muchos clientes no dijeron lo que habían perdido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Cómo entraron tan fácilmente? Según las crónicas, tuvieron ayuda desde dentro. El director del centro, Parvez Latif, estaba muy endeudado. Esa fue la versión que se manejó, y él fue juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El líder del golpe era un italiano, Valerio Viccei. Había llegado a Londres en 1986. En Italia lo buscaban por unos cincuenta atracos a mano armada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay una lección. Los grandes robos casi nunca se resuelven por el genio de un detective. Se resuelven por un descuido. Y el de este fue pequeño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los forenses hallaron una huella dactilar ensangrentada en el lugar. Los técnicos la identificaron: era de Viccei, a quien las autoridades italianas ya buscaban. El 12 de agosto, un mes después, la policía hizo registros coordinados y detuvo a varios cómplices."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Viccei se había marchado a Latinoamérica. Pero volvió a Inglaterra por una razón muy concreta: quería recoger su Ferrari Testarossa para enviarlo fuera. Lo detuvieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un hombre que podía haber desaparecido con millones y volvió por un coche. Lo anoto sin más comentario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue condenado a veintidós años de prisión. Cumplió una parte en Parkhurst, en la isla de Wight. Allí trabó una curiosa amistad con el agente de la Brigada Volante que había dirigido su detención, Dick Leach."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1992 lo trasladaron a Italia para cumplir el resto de la condena. Lo destinaron a una cárcel abierta de Pescara, donde, según una biografía, dirigía una pequeña empresa de traducción."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este es el desenlace que me deja frío. Un preso con permisos de salida, una vida en apariencia ordenada. Y una mañana de abril, un tiroteo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de abril de 2000, durante un permiso, Viccei se vio envuelto en un tiroteo con la policía italiana y murió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El director del centro y otros cómplices fueron juzgados también. La cifra exacta del botín nunca se fijó, porque nadie sabía del todo qué contenían las cajas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda lo que no se ve. Hubo víctimas, aunque anónimas: clientes que guardaban allí sus pertenencias y que no habían hecho nada para perderlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Casi cuarenta años después, el cartel sigue siendo la imagen del caso: «cerrado temporalmente». La frase más educada con la que se ha dado un robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de Knightsbridge. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés, Crime+Investigation UK y Time Out London (BBC, SCMP y el archivo de LBC no se abrieron o no daban detalle). Discrepancias: la cifra del botín (40 a 60 millones de libras; BBC y otros hablan de cifras distintas): el guion dice «unos sesenta millones» atribuido a las estimaciones y la ficha. El papel de Parvez Latif (cómplice desde dentro) lo recoge Crime+Investigation (que añade que desactivó las cámaras y que tenía deudas) y Wikipedia lo marca «citation needed»: el guion lo cuenta con prudencia («según las crónicas»), y nombra que fue juzgado, no su condena (no consta). La condena de 22 años la dan C+I y Wikipedia. La fecha de la muerte de Viccei (19 de abril de 2000) es de Wikipedia; C+I dice «abril de 2000». Cómo se produjo el golpe se cuenta con lo básico. Se deja fuera el destino del botín (no consta). Viccei murió en un tiroteo con la policía; el guion no sugiere responsabilidad de nadie."
+}

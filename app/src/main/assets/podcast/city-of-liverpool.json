@@ -1,0 +1,114 @@
+{
+  "id": "city-of-liverpool",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "City of Liverpool": "Síti of Líverpul",
+    "Imperial Airways": "Impírial Éiruéis",
+    "Armstrong Whitworth Argosy": "Ármstrong Uítuerz Árgosi",
+    "Argosy": "Árgosi",
+    "Diksmuide": "Díksmuide",
+    "Croydon": "Cróidon",
+    "Albert Voss": "Álbert Vos",
+    "Voss": "Vos",
+    "Manchester": "Mánchester",
+    "Hugo": "Hiugo",
+    "Flint": "Flint",
+    "Bruselas": "Bruselas",
+    "Colonia": "Colonia"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un campo de rábanos",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El City of Liverpool. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un campo de rábanos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Norte de Bélgica, 28 de marzo de 1933. Un campesino levanta la vista de sus rábanos y ve cómo un avión de pasajeros se prende fuego en el aire. Poco después cae sobre un campo, cerca de Diksmuide."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es el City of Liverpool, un Armstrong Whitworth Argosy de la compañía británica Imperial Airways. Llevaba cinco años haciendo la línea Londres, Bruselas y Colonia, y ese día cubría el tramo de Bruselas a Londres, al aeródromo de Croydon. Había despegado con retraso, poco después de las doce y media."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A bordo iban doce pasajeros y tres tripulantes. Los quince murieron. Fue el accidente más mortífero de la aviación civil británica hasta ese momento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los testigos vieron arder el avión desde el suelo. Se partió en dos a unos sesenta metros de altura. Según la investigación, el fuego empezó en la parte trasera de la cabina, cerca del aseo o del equipaje. En la parte delantera no había señales de fuego previas al impacto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores se quedaron con dos explicaciones posibles: una sustancia inflamable que se encendió por accidente o por una causa natural, o una acción deliberada. Nunca pudieron decidir entre ellas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hasta aquí es una catástrofe, trágica, pero explicable. Lo que lo convierte en un expediente es un pasajero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Albert Voss, era dentista en Manchester y había nacido en Alemania. Su cuerpo apareció a casi dos millas de los restos, en el campo. Según Time, no estaba quemado. Los testigos lo vieron salir del avión antes del impacto, sin paracaídas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto lo apunto como dato, no como acusación. Un pasajero sale del avión. Los demás, no. Eso es lo que se sabe. Lo que significa, no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el avión viajaba una sobrina de Voss, adolescente. Murió con los demás. El funeral de Voss se aplazó a petición del Ministerio del Aire, mientras se hacían indagaciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la investigación judicial, el forense A. H. Flint llamó como primer testigo a un hijo de Voss, Hugo. Declaró que su padre fumaba de vez en cuando y que no llevaba encendedor. Dijo estar convencido de que era incapaz de algo así."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escucha lo que vino después, porque es el centro del caso. Según Time, un abogado que representaba a un familiar distanciado de Voss sostuvo que él y su socio, también víctima del accidente, se dedicaban a pasar drogas entre el continente y Gran Bretaña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según esa versión, Voss sabía que lo iban a detener al aterrizar. Habría prendido fuego al avión para escapar. Según Wikipedia, ese rumor ya le seguía desde hacía tiempo y la Policía Metropolitana lo habría investigado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos precisiones. Primera: esto lo dijo un testigo en un tribunal, no lo probó nadie. Segunda: Voss no fue juzgado ni condenado, y no puede defenderse. Aquí lo trato como lo que fue, una hipótesis planteada por alguien con un enfrentamiento familiar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una autopsia, ordenada por el forense, mostró que Voss, aparte de quemaduras leves, estaba ileso antes de salir del avión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un dato, no una explicación. Dice cómo estaba su cuerpo, no por qué estaba fuera del avión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado dictó un veredicto abierto. Es una fórmula británica que significa que la muerte pudo no ser accidental, pero que las pruebas no permitían una conclusión. El forense había intentado orientarlos hacia una muerte accidental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es decir: ni accidente probado, ni crimen probado. El expediente se cerró sin responder a la pregunta que hoy sigue abierta: por qué ardió aquel avión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron quince personas. Entre ellos había una joven de dieciséis años, sobrina de Voss. La memoria de esta tragedia suele girar alrededor de un solo hombre. Conviene recordar a los otros catorce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El City of Liverpool. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (1933 Imperial Airways Diksmuide crash) y Time (17 de abril de 1933, «Foreign News: Dr. Voss»); PlaneCrashInfo, ASN y The New York Times no se pudieron leer. Discrepancias: Wikipedia dice que quien lo acusó en la investigación judicial fue su hermano distanciado; Time habla de un abogado que representaba a «Albert Jr.», hermano distanciado de Hugo Voss (es decir, otro hijo de Voss). El guion dice «un familiar distanciado». Lugar: cerca de Diksmuide (Wikipedia) o de Eesen (Time, localidad vecina). Ruta: Bruselas-Londres (Wikipedia, ficha). Quemaduras: Time, cuerpo no quemado; Wikipedia, quemaduras leves. Muertos: 15 (12 pasajeros y 3 tripulantes). Voss no fue acusado ni juzgado; la hipótesis del contrabando se atribuye a un testigo y se dice que no se probó. La sobrina (16 años, Time) no se nombra. La afirmación de ser el primer sabotaje de un avión comercial no se incluye."
+}

@@ -1,0 +1,107 @@
+{
+  "id": "somoza-debayle",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Anastasio Somoza Debayle": "Anastásio Somósa Debáile",
+    "Somoza": "Somósa",
+    "Stroessner": "Estróesner",
+    "Gorriarán Merlo": "Gorriarán Mérlo",
+    "Irurzún": "Irurzún",
+    "ERP": "E Erre Pe"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un negocio en la avenida",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Operación Reptil. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un negocio en la avenida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Asunción, Paraguay. Septiembre de 1980. Desde hace meses, en la avenida Generalísimo Franco hay un negocio nuevo que casi nadie mira dos veces. Es una tapadera. Desde allí, un grupo de personas sigue cada día, a la misma hora, el paso de un Mercedes blindado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro del coche viaja Anastasio Somoza Debayle, el último dictador de su familia en Nicaragua. Huyó de su país en 1979, tras la revolución sandinista, y el régimen paraguayo de Alfredo Stroessner le dio asilo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre con tantos enemigos, en un país extranjero, en un coche blindado. Y aun así, los que lo vigilaban llevaban tiempo viendo siempre lo mismo: la misma ruta, la misma hora. La rutina es el mejor aliado de quien espera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quienes lo esperaban eran guerrilleros argentinos del Ejército Revolucionario del Pueblo, el ERP. Según los relatos, el plan se llamaba Operación Reptil, y lo dirigía Enrique Gorriarán Merlo, un dirigente con vínculos con el Frente Sandinista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habían alquilado una casa y montado ese negocio en la avenida para observar a su objetivo. Era un comando de siete personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle. No improvisaron. Meses de vigilancia, una cobertura, un vigía que daba la señal. En una dictadura vigilada por la policía, pasar tanto tiempo sin llamar la atención es lo que más me sorprende."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 17 de septiembre de 1980, hacia las diez de la mañana, el vigía dio la señal. El comando atacó el coche con fusiles y un lanzacohetes, en la avenida, en pleno centro. Las fuentes discrepan en la hora exacta, en el cruce y en el tipo de arma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió Somoza. Murió su chófer, César Gallardo, y también un acompañante: el asesor financiero Joseph Baittiner, según una de las versiones. Otros relatos nombran a otros acompañantes. Las fuentes no coinciden."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa discrepancia me importa. Un atentado de hace más de cuarenta años, y todavía no sabemos con seguridad ni quiénes eran los muertos de su coche. Cuando se cuentan tantas versiones, hay que quedarse solo con lo que se repite."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El comando huyó. Solo uno cayó: Hugo Irurzún, al que llamaban «capitán Santiago». Lo capturó la policía paraguaya y murió al día siguiente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sobre su muerte hay dos versiones. Una dice que murió en un tiroteo. Un historiador citado por un diario paraguayo sostiene que fue torturado. No hay sentencia ni investigación judicial que lo aclare. Lo dejo anotado, sin decidir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El régimen de Stroessner respondió con una oleada de registros casa por casa y controles en las calles. La represión no se quedó en los autores del ataque: alcanzó a cualquier opositor. Hasta la vida nocturna de Asunción se apagó durante un tiempo, según una crónica paraguaya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue juzgado por la muerte de Somoza. Los demás miembros del comando salieron del país. Años después, el propio Gorriarán Merlo reivindicó la operación en sus memorias, y la presentó como un ajusticiamiento por los crímenes de la dictadura de Somoza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pongamos cada cosa en su sitio. La autoría la reivindicó él mismo; no la probó ningún tribunal. Y el hecho de que el dictador tuviera mil enemigos no justifica una muerte sin juicio, ni la de los demás que viajaban con él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por eso el caso queda en un terreno incómodo. No hay un expediente cerrado. Hay un atentado político, un archivo de la dictadura paraguaya y varios relatos que no encajan del todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un chófer que cumplía con su trabajo, un asesor, los acompañantes de nombre discutido. Murieron por estar en el coche. Casi nadie los recuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedaron los que sufrieron la represión que vino detrás, en un país donde el miedo ya era cotidiano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La avenida de aquel día se llama hoy avenida España. De lo ocurrido queda un expediente en el archivo judicial paraguayo, varios relatos que no coinciden y el recuerdo de quienes murieron en aquel coche y de quienes sufrieron la represión que vino después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Operación Reptil. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Poder Judicial del Paraguay (Archivo del Terror; carga documentos, solo da fecha, lugar, 'Comando Argentino Pedro Rojas', ERP y víctimas) y La Nación de Paraguay (2025; Operación Reptil, casa y negocio en la avenida, represión, Irurzún). EFE/La Vanguardia, Página/12 y El País no se pudieron abrir. Discrepancias (como la ficha): hora (9, 10, 10:30), cruce, arma y acompañantes muertos (Gallardo y Baittiner según EFE/Wikipedia; Guerrero y coronel López según La Nación; Argüello Rocha según el Archivo del Terror); el guion usa 10:00 'hacia' y atribuye el nombre de Baittiner a «una de las versiones». Los siete integrantes del comando salen de la ficha (La Nación habla de entre 5 y 15). Muerte de Irurzún: tiroteo (Wikipedia) o tortura (historiador citado por La Nación); se presentan ambas. Autoría reivindicada por Gorriarán, sin sentencia. Pronunciación a oído al grabar: Irurzún, Gorriarán."
+}

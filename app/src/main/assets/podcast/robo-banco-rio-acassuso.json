@@ -1,0 +1,97 @@
+{
+  "id": "robo-banco-rio-acassuso",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Vitette Sellanes": "Vitét Seyánes",
+    "Vitette": "Vitét",
+    "García Bolster": "Garsía Bólster",
+    "TN": "te ene"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un archivador en el sótano",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo del siglo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un archivador en el sótano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Acassuso, provincia de Buenos Aires. Viernes 13 de enero de 2006, al anochecer. Unos agentes de élite entran en el Banco Río, tras horas de negociación. Esperan encontrar ladrones. Solo encuentran rehenes ilesos y cajas de seguridad vacías. Más tarde, detrás de un mueble archivador, descubren un boquete en una pared del sótano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los rehenes salieron sanos, y los ladrones no estaban. Aquí hay una pregunta que se hace sola: ¿cómo se pasa de rodear un banco con doscientos policías a no encontrar a nadie dentro?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "La mañana del robo, hacia las doce y media, cuatro hombres entraron armados en la sucursal de la avenida del Libertador. Había quien iba vestido de médico y quien llevaba traje, con capuchas y guantes. Terminaron reteniendo a veintitrés personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un hombre de traje gris llevaba la voz cantante. Hablaba por teléfono con el negociador del Grupo Halcón. Pedía que los trataran como ladrones y no como secuestradores. Los rehenes, según contaron, recibieron buen trato. Pidieron pizzas y refrescos, y cantaron el cumpleaños feliz a una abogada que estaba retenida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Mira cómo se comportan. Educados, con humor, con calma. Todo el tiempo que hablan por teléfono, ganan tiempo. El negociador llegó a decir en el juicio que ese ladrón parecía tomarle el pelo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, en el sótano, otros vaciaban las cajas de seguridad. Según el tribunal, fueron ciento cuarenta y tres. Había dinero, joyas, relojes, hasta lapiceras y encendedores. El botín nunca se conoció con exactitud: unos hablan de ocho millones de dólares y otros de diecinueve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A lo largo de la tarde, los ladrones se escabulleron por un túnel cavado durante unos tres meses, que daba a las alcantarillas. Dejaron armas de juguete y una nota burlona: «En barrio de ricachones, sin armas ni rencores. Es sólo plata y no amores»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Dejaron una trampa con explosivos junto al túnel, que frenó a los agentes. Las fuentes no aclaran si era real. Lo que importa es que alguien pensó en cada paso. El plan era mejor que la persecución."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero hubo un fallo. En su afán de ganar tiempo, el hombre del traje gris llamó a un canal de televisión, TN, para salir al aire, y dejó un número de móvil. Según La Capital, con ese número los peritos llegaron a los teléfonos de la banda y a sus contactos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo otra pista, más humana. Según Infobae, quien delató a la banda fue la esposa de uno de ellos, que dio a la policía los nombres de los cómplices. Poco después empezaron las detenciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Un plan hecho para meses de preparación cae por un teléfono y por una confidencia familiar. Aquí no falló la técnica. Falló la gente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2010 se juzgó a cuatro de los acusados. El 21 de mayo, un tribunal de San Isidro condenó a Rubén Alberto De la Torre a quince años, a Fernando Araujo a catorce, a José Julián Zalloecheverría a diez y a Sebastián García Bolster a nueve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaba el hombre del traje gris. Luis Mario Vitette Sellanes, al que los fiscales señalaron como jefe de la banda, había negado desde la cárcel estar allí: decía que ese día estaba en Montevideo. El juez de instrucción no halló pruebas suficientes para juzgarlo con los otros cuatro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese agosto, Vitette reconoció en un juicio abreviado ser el hombre del traje gris. Aceptó una condena unificada de veintiún años y seis meses, que incluía otros delitos posteriores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Última nota. Según Wikipedia, las penas de los cuatro se redujeron en casación y a mediados de 2014 habían recuperado la libertad. No he podido confirmarlo en otra fuente. Lo anoto con reservas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie resultó herido. Pero detrás de la palabra plata hubo personas: los titulares de las cajas, que perdieron lo que guardaban, y los veintitrés rehenes, que pasaron siete horas esperando que todo acabase bien. Acabó bien para ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo del siglo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Página/12 (14-1-2006), La Capital (20-8-2010), Infobae/Télam (14-1-2007 y 15-2-2010) y Wikipedia en castellano. Clarín y La Nación no se abrieron. Discrepancias: (1) botín: unos 8 millones (Infobae) o 19 millones (La Capital, Clarín): el guion da ambas cifras. (2) Número de cajas: 143 (La Capital, Wikipedia); Infobae 2010 habla de 145 titulares: se usa 143 atribuido al tribunal. (3) Armas: Página/12 (2006) habla de «armas de guerra» y fusil; Infobae 2010 dice que dejaron armas de juguete y la acusación fue por armas «cuya aptitud para el disparo no pudiera acreditarse»: el guion solo dice que dejaron armas de juguete. (4) Hora de entrada de los Halcones: Página/12 la sitúa tras perder el contacto a media tarde y las 20:30 para el hallazgo del boquete; Wikipedia dice cerca de las 19: el guion dice «al anochecer». (5) Trampa de explosivos: Página/12 dice que detonaron un artefacto; Wikipedia, que la Brigada de Explosivos comprobó que era falsa: el guion dice que las fuentes no aclaran si era real. (6) Número de ladrones: cuatro dentro (Página/12), cinco en total (La Capital); el guion dice cuatro dentro y no cuantifica más. (7) Fuga: Página/12 al principio sospechó que por las alcantarillas a nado; Infobae 2010 y Wikipedia, en bote por el desagüe: el guion dice «túnel que daba a las alcantarillas». (8) Duración del cautiverio: siete horas (Página/12). (9) Nombre de Vitette: Luis Mario (ficha, Wikipedia) o Mario Luis (Infobae 2010); el guion usa Luis Mario. (10) Libertad en 2014 y reducción de penas en casación: solo Wikipedia, dicho como tal. (11) Vitette negó su participación desde la cárcel en 2007 (Télam/Infobae) y en 2010 aceptó el juicio abreviado: se cuentan ambas cosas, porque lo reconoció ante el tribunal. No se nombra a la esposa delatora. No hubo heridos."
+}

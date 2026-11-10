@@ -1,0 +1,98 @@
+{
+  "id": "asesinato-castillo-armas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Castillo Armas": "Castíllo Ármas",
+    "Romeo Vásquez Sánchez": "Romeo Vásquez Sánchez"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El diario que apareció a tiempo",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Carlos Castillo Armas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El diario que apareció a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ciudad de Guatemala, noche del 26 de julio de 1957. El presidente, Carlos Castillo Armas, atraviesa un pasillo de la Casa Presidencial camino del comedor. Va con su esposa, Odilia Palomo. Gobierna el país desde el golpe de Estado de 1954."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Suenan dos disparos. El presidente cae herido de muerte. Su fallecimiento se confirmó de madrugada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un presidente es abatido dentro de su propia casa, en un pasillo, camino de la cena. Un lugar así debería ser el más vigilado del país, y a pesar de eso ocurrió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La versión oficial señaló a un soldado de la guardia presidencial, Romeo Vásquez Sánchez, de veinticuatro años. Según ella, disparó, gritó que habían matado al presidente, huyó hiriendo a una trabajadora y a un coronel del Estado Mayor Presidencial, quedó acorralado en una terraza y se quitó la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto tal cual: es la versión oficial. Nadie llegó a juzgar a ese soldado, y por eso no puedo afirmar que dispararan sus manos. Lo que sí consta es que su cuerpo apareció en el mismo edificio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pocos días después, el gobierno presentó un diario atribuido al soldado, con un plan para matar al presidente. Lo dio a conocer el secretario de publicidad de la Presidencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese diario es el centro de mis dudas. Según un autor, Wilhelm, citado por Prensa Libre, el diario apareció en el preciso momento en que arreciaban las dudas. Además, que un soldado, sin costumbre de escribir, dejara por escrito sus planes resultaba muy inusual."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el diario, el soldado habría actuado por cuenta del comunismo internacional, algo para lo que, según esa misma fuente, no se presentaron pruebas consistentes. Y se dudó incluso de su ortografía, que parecía extraña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se decretó el estado de sitio. Las honras fúnebres duraron una semana: miles de personas, entre ellas políticos y diplomáticos, desfilaron ante el féretro, velado en la Catedral Metropolitana. La viuda presentó la querella."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hubo detenciones entre los militares, pero acabaron quedando libres por falta de pruebas. La acusación llegó a señalar a un superior directo del soldado, pero no consta ninguna condena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un año después, la hemeroteca de Prensa Libre repasaba lo que seguía sin saberse. No estaba probado que el soldado hubiera disparado, ni que las dos balas salieran de su arma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tampoco se sabía con claridad cuál de las dos heridas fue la mortal. Y ni siquiera estaba claro si el superior del soldado estaba en la Casa Presidencial en el momento del crimen. Son huecos enormes para un asesinato de Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se barajaron varias hipótesis. Que el soldado fue silenciado para que no señalara a quienes lo mandaron. Que fueron los enemigos políticos del presidente, o terratenientes contrarios a sus medidas, o comunistas. Con los años, también se habló de planes de la CIA."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto que son hipótesis que circularon en la prensa y entre historiadores. Ninguna se probó en un tribunal. No voy a señalar a nadie, porque aquí no hay a quién señalar con pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Castillo Armas había llegado al poder con un golpe, y su gobierno fue polémico. Pero un asesinato en la sede del poder no puede quedar sin explicación, sea quien sea la víctima."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un expediente que sigue abierto, aunque nadie lo abra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy queda un presidente asesinado sin culpable probado, un soldado de veinticuatro años del que solo sabemos la versión oficial, y una viuda que, tras el crimen, presentó una querella que no dio respuestas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Carlos Castillo Armas. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

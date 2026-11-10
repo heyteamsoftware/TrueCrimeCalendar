@@ -1,0 +1,109 @@
+{
+  "id": "atentado-wall-street",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Wall Street": "Uol Strit",
+    "J. P. Morgan": "Yei Pi Mórgan",
+    "Beverly Gage": "Béverli Gueich",
+    "Paul Avrich": "Pol Ávrich"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un caballo recién herrado",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado de Wall Street. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un caballo recién herrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueva York, jueves 16 de septiembre de 1920. Las doce y un minuto. Es la hora de comer y Wall Street está llena de mensajeros, taquígrafas y empleados que salen a la calle. Un carro tirado por un caballo se detiene frente al banco J. P. Morgan, en el número 23. El conductor se baja y se aleja por una calle lateral. Nadie llega a saber quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Segundos después, el carro estalla. Llevaba unos cuarenta y cinco kilos de dinamita y un cargamento de pesas de hierro que salieron despedidas como metralla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Eligieron la esquina más concurrida y la hora de más gente. Dejaron un carro con un mecanismo de relojería y se marcharon tranquilamente. Eso no es un accidente. Quien lo hizo quería muertos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Treinta personas murieron en el acto y ocho más en los días siguientes. Ciento cuarenta y tres quedaron gravemente heridas. Casi todas eran jóvenes que trabajaban en las oficinas de alrededor: mensajeros, taquígrafas, empleados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un mensajero de diecisiete años cogió un coche aparcado y llevó a treinta heridos al hospital. La policía requisó otros coches para usarlos de ambulancias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Bolsa, a pocos pasos, suspendió las operaciones al instante. Esa misma tarde decidió abrir al día siguiente. Y al día siguiente, miles de personas se reunieron en esa esquina en un acto patriótico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta es lo que pasó por la noche. Se limpió la calle a toda prisa, y con la limpieza se fue parte de las pruebas. Ya lo sé: había que reabrir. Pero un lugar del crimen no se barre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al principio se pensó en un accidente: un transporte de explosivos que había salido mal. Pero en un buzón cercano aparecieron unas octavillas impresas en tinta roja. Las firmaba un grupo llamado «Luchadores Anarquistas Americanos» y pedían la liberación de presos políticos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Unas octavillas no son una prueba. Cualquiera puede imprimirlas. Pero se parecían a las de otros atentados anarquistas de 1919, y la Oficina de Investigación, antecesora del FBI, miró hacia ese lado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaba el caballo. Estaba recién herrado, y eso parecía una buena pista: un herrador tenía que acordarse de él. Los detectives lo encontraron en octubre. Contó poco. Tampoco apareció el dueño de la cuadra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Así se fue deshaciendo la investigación. Una pista buena que no lleva a nadie, un conductor sin rostro, una calle limpia. Y detrás, la presión de todo un país que pedía culpables."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Oficina de Investigación, la policía de Nueva York y detectives privados de todo el país trabajaron durante más de tres años. Hubo detenciones y falsas pistas. No hubo ninguna acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los historiadores señalan a un círculo concreto: anarquistas italianos seguidores de Luigi Galleani, el mismo ambiente de Sacco y Vanzetti, detenidos meses antes. La historiadora Beverly Gage lo considera la teoría más probable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Paul Avrich fue más lejos y dio un nombre, el de Mario Buda, un anarquista que conocía bien la dinamita. Según esa hipótesis, quizá fue una venganza por aquellas detenciones. Buda se marchó a Italia ese mismo año y no volvió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser claro. Es una hipótesis de historiadores. Buda nunca fue detenido ni interrogado, y nunca fue acusado. En 1944, una revisión del FBI concluyó que probablemente fueron anarquistas italianos. Una probabilidad no es una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Así que el caso sigue sin resolver. Fue el peor atentado en suelo estadounidense hasta el de Oklahoma City, en 1995."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y dejó huella en las instituciones. La Oficina de Investigación salió de aquí con más peso en la vigilancia de los radicales. Para bien o para mal, el miedo cambió el país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el expediente no es solo eso. Son treinta y ocho personas que fueron a trabajar o a comer un jueves cualquiera, la mayoría muy jóvenes. Sus familias no tuvieron respuestas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las marcas de la metralla aún se ven en la fachada del número 23 de Wall Street, si se mira con atención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El atentado de Wall Street. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: la autoría anarquista es hipótesis de historiadores (Gage, Avrich); Mario Buda nunca fue detenido, interrogado ni acusado, y así se dice. Cifra de 38 muertos (30 en el acto y 8 después) y 143 heridos graves: Wikipedia y PBS; otras fuentes dan 33-40. Duración de la investigación: «más de tres años» (Wikipedia; PBS/Gage dice cuatro). Fuentes abiertas: Wikipedia en inglés (peso de dinamita, pesas de hierro, herrador, octavillas, cierre de la Bolsa, revisión del FBI de 1944, marcas en la fachada) y PBS NewsHour (cifras, teoría de Gage, peor atentado hasta Oklahoma City). FBI.gov y MoneyWeek no se pudieron abrir. «Buda se marchó a Italia ese mismo año»: Wikipedia dice que estaba en Italia en noviembre. No se nombra al mensajero de 17 años. Se dejan fuera el tenista Edwin Fischer (internado sin acusación) y la hipótesis soviética."
+}

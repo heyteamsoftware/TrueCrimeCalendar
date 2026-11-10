@@ -1,0 +1,112 @@
+{
+  "id": "asesinato-veronica-guerin",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Veronica Guerin": "Verónica Guérin",
+    "Veronica": "Verónica",
+    "Guerin": "Guérin",
+    "Naas": "Neis",
+    "Dublín": "Dúblin",
+    "Sunday Independent": "Sándei Indepéndent",
+    "John Gilligan": "Yon Guílligan",
+    "Gilligan": "Guílligan",
+    "Brian Meehan": "Brián Míjan",
+    "Meehan": "Míjan",
+    "Paul Ward": "Pol Uord",
+    "Ward": "Uord",
+    "Russell Warren": "Rásel Uóren",
+    "Warren": "Uóren",
+    "Charles Bowden": "Charls Bóuden",
+    "Bowden": "Bóuden",
+    "Graham Turley": "Gréiam Térli",
+    "Cathal": "Cáhal",
+    "Opel Calibra": "Opel Calíbra",
+    "Irlanda": "Irlanda",
+    "Boot Road": "But Roud",
+    "Oficina de Activos Criminales": "Oficina de Activos Criminales",
+    "John Bruton": "Yon Brútn"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un semáforo en la carretera de Naas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Veronica Guerin. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un semáforo en la carretera de Naas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Naas, cerca de Dublín, 26 de junio de 1996. Son las doce y media del mediodía. Una periodista sale de los juzgados, donde ha comparecido por un exceso de velocidad, y se sube a su Opel Calibra rojo. Conduce hacia Dublín. Mientras conduce, llama a su periódico, el Sunday Independent, para concertar una cita por una noticia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco antes de la una, para en un semáforo, en el cruce de la carretera de Naas con Boot Road, en el carril exterior. Una moto se coloca a su lado. El pasajero dispara con un revólver. Veronica Guerin muere en el acto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una periodista que llama a su redacción desde el coche, con un semáforo en rojo. Un semáforo en rojo, una moto al lado y unos segundos. Cómo la localizaron es lo que la investigación tuvo que averiguar. Y ella tenía enemigos que ya se lo habían demostrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los testigos recuerdan a dos hombres con cazadoras de cuero negro y cascos blancos. La moto se alejó a toda velocidad. Un automovilista dio el aviso y los agentes llegaron al lugar en pocos minutos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las dos de la tarde, la policía comunicó la noticia a su marido, Graham Turley. A su lado estaba su hijo, Cathal, de siete años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veronica Guerin llevaba dos años investigando a delincuentes. Había trabajado antes en el Sunday Business Post y el Sunday Tribune, y desde 1994 escribía en el Sunday Independent sobre el crimen organizado. Eso la había puesto en el punto de mira."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1994 dispararon contra su casa. En enero de 1995 la hirieron en una pierna. Más tarde, ese mismo año, un delincuente condenado, John Gilligan, la agredió y amenazó con hacer daño a su hijo. Ella lo denunció, y él fue acusado de agresión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto algo importante: no era un caso sin avisos. Hubo disparos, una agresión y amenazas, todo antes de aquel día. Y aun así siguió escribiendo. Lo decidió ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación creyó que el crimen lo había encargado una banda de narcotraficantes del sur de Dublín. Dos personas de ese entorno, Charles Bowden y Russell Warren, acabaron colaborando con la justicia como testigos. Warren declaró en el juicio contra uno de los acusados. Fue una investigación que se apoyó, sobre todo, en miembros de la propia banda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1999, Brian Meehan fue condenado por el asesinato a cadena perpetua. John Gilligan, el jefe de la banda, fue absuelto de ese crimen, pero condenado por traficar con cannabis: veintiocho años, reducidos a veinte en apelación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle de rigor: la condena de otro hombre, Paul Ward, se anuló en 2002. Para la ley, Ward no es responsable. Y Gilligan no pagó por el asesinato, sino por la droga. La justicia fue por una puerta distinta de la que se esperaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El golpe sacudió a Irlanda. El Parlamento aprobó ese mismo año la ley sobre el producto del delito, y creó la Oficina de Activos Criminales para quitar a los delincuentes el dinero que no podían justificar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y no fue solo eso. La investigación del asesinato llevó a más de ciento cincuenta detenciones y condenas. Sus actos le costaron la vida; la reacción del país cambió las reglas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El entonces primer ministro, John Bruton, dijo que su muerte era un ataque contra la democracia. Hoy hay una estatua suya en los terrenos del castillo de Dublín, y su vida inspiró una película en 2003."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tenía una familia, un marido y un hijo. Un amigo de ellos, el sacerdote que los casó, dijo aquel día algo que sigue vigente: cuando matan a una periodista, también se pone a prueba la libertad de expresión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Veronica Guerin. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: The Irish Times (27 de junio de 1996) y Wikipedia (en inglés). Guardian, BBC y RTÉ no se abrieron. Hora: Irish Times, salió de los juzgados hacia las 12:30 y paró poco antes de la una; la ficha dice 12:55. El lugar: cruce Naas Road/Boot Road (Irish Times). Cazadoras de cuero y cascos blancos: Irish Times. «Seis balazos» no se da. No se nombra al tirador (Wikipedia no lo nombra). Bowden y Warren: Wikipedia (testigos de Estado); hay que comprobar que Bowden fue testigo de Estado con inmunidad (Wikipedia). Ward: la ficha dice que su condena se anuló en 2002; Wikipedia dice «overturned on appeal». «Más de ciento cincuenta detenciones y condenas»: Wikipedia, «more than 150 other arrests and convictions». Leyes de 1996 (Proceeds of Crime y Criminal Assets Bureau): Wikipedia. «Un amigo ... cuando matan a una periodista, también se pone a prueba la libertad de expresión»: parafrasea la frase del padre Heber McMahon recogida por el Irish Times. «Ese mismo año» (leyes): Wikipedia dice 1996. El primer ministro Bruton: Wikipedia, «attack on democracy». Estatua en el castillo de Dublín y película de 2003: Wikipedia. La frase final sobre su valor («el valor no me parece un error») es opinión del inspector, personaje ficticio. Que «la banda la había agredido» antes de 1996: la agresión de Gilligan en 1995 es de Wikipedia; la ficha dice que la agredió en 1995."
+}
