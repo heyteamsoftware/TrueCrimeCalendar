@@ -14,7 +14,6 @@
     "Digne": "Dinñ",
     "Durance": "Duráns",
     "Jean Giono": "Yan Yonó",
-    "Provence": "Provens",
     "Forcalquier": "Forcalquié",
     "Bajos Alpes": "Bajos Alpes",
     "Sébeille": "Sebéi"
@@ -47,11 +46,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Drummond era un especialista en nutrición, y durante la segunda guerra mundial había ayudado a que Gran Bretaña no pasara hambre. Ese era el hombre a quien Francia llamó, años después, la víctima del crimen más famoso del país."
+          "texto": "Drummond era un especialista en nutrición, y durante la segunda guerra mundial había ayudado a que Gran Bretaña no pasara hambre. Su muerte, según The Guardian, se llegó a considerar el crimen más famoso de Francia."
         },
         {
           "voz": "ximena",
-          "texto": "La investigación empezó mal. El lugar del crimen quedó pisoteado por curiosos y periodistas, y el comisario discutió con el juez por ello. Las declaraciones de la familia de la granja cambiaron una y otra vez."
+          "texto": "La investigación empezó mal. El lugar del crimen quedó pisoteado por curiosos y periodistas, y el comisario Sébeille discutió por ello con el juez y con un capitán de la gendarmería. Las declaraciones de la familia de la granja cambiaron una y otra vez."
         },
         {
           "voz": "alvaro",
@@ -59,15 +58,19 @@
         },
         {
           "voz": "ximena",
+          "texto": "El arma, una carabina militar estadounidense, acabó apareciendo en el río Durance. Lo que no apareció fue una prueba que dejara de depender de testimonios."
+        },
+        {
+          "voz": "ximena",
           "texto": "Los Dominici eran los dueños de la granja. El patriarca, Gaston Dominici, era un campesino de más de setenta años. Casi no hablaba francés: lo suyo era el provenzal."
         },
         {
           "voz": "ximena",
-          "texto": "Tras muchos meses, uno de sus hijos, Gustave, acusó a su padre. Según The Guardian, luego se retractó y volvió a acusarlo. En noviembre de 1953, el propio Gaston confesó. Después, se retractó."
+          "texto": "Presionado por la policía, uno de sus hijos, Gustave, acusó a su padre. Según The Guardian, luego se retractó y volvió a acusarlo. En noviembre de 1953, el propio Gaston confesó. Después, se retractó."
         },
         {
           "voz": "alvaro",
-          "texto": "Aquí está el nudo. Esas declaraciones se redactaron en francés, aunque el anciano respondía en provenzal y no podía comprobar lo que se le atribuía. Escritor y testigo del juicio, Jean Giono dijo que no sabía si era culpable, pero que a él no le habían probado que lo fuera."
+          "texto": "Aquí está el nudo. Esas declaraciones se redactaron en francés, aunque el anciano respondía en provenzal y no podía comprobar lo que se le atribuía. El escritor Jean Giono, que siguió el juicio, escribió que no sabía si era culpable, pero que a él no le habían probado que lo fuera."
         },
         {
           "voz": "ximena",
@@ -79,7 +82,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en la secuencia: se le condena, se le salva de la guillotina, se le libera. Pero nunca se le rehabilitó. Una pena sin certeza por ninguno de los dos lados."
+          "texto": "Fíjate en la secuencia: se le condena, se le salva de la ejecución, se le libera. Pero nunca se le rehabilitó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un agente de tráfico declaró haber visto aquella tarde en Digne a un hombre en un coche con matrícula británica, que preguntó por el coche de los Drummond y se marchó tras ellos. Ese testimonio alimentó las teorías alternativas."
         },
         {
           "voz": "ximena",
@@ -99,11 +106,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo que sí se discute es quién los mató. Más de setenta años después, el archivo no responde. Tampoco el tribunal lo hizo sin dejar dudas."
+          "texto": "Lo que sí se discute es quién los mató. Más de setenta años después, el archivo no responde. Y la sentencia tampoco cerró las dudas."
         },
         {
           "voz": "ximena",
-          "texto": "Que se recuerde a la familia inglesa antes que a los jueces, los periodistas o los escritores."
+          "texto": "Que se recuerde a la familia inglesa, y no solo la polémica."
         },
         {
           "voz": "ximena",

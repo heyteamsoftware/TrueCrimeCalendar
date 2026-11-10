@@ -1,0 +1,124 @@
+{
+  "id": "herrhausen",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Herrhausen": "Jérjausen",
+    "Alfred Herrhausen": "Alfred Jérjausen",
+    "Bad Homburg": "Bad Jómburg",
+    "Deutsche Bank": "Dóichebank",
+    "Fráncfort": "Fráncfort",
+    "Seedammweg": "Sedamveg",
+    "RAF": "erre a efe",
+    "Fracción del Ejército Rojo": "Fracción del Ejército Rojo",
+    "Kraushaar": "Kráushar",
+    "Mercedes": "Mercédes",
+    "Wolfgang Kraushaar": "Volfgang Kráushar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La luz que cruza la calle",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Alfred Herrhausen. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La luz que cruza la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bad Homburg, cerca de Fráncfort. Jueves 30 de noviembre de 1989. Son las ocho y media de la mañana. Un Mercedes blindado negro baja por una calle llamada Seedammweg, como cada día, hacia el centro de Fráncfort."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro viaja Alfred Herrhausen, portavoz del consejo de dirección del Deutsche Bank. Al volante va su chófer. Han pasado tres semanas desde la caída del Muro de Berlín."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Mira la fecha. Tres semanas después de que cayera un muro, un hombre muere por culpa de una bomba. El mundo parecía cambiar para bien, y en aquella calle no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Junto a la calzada había una bicicleta aparcada. En el portaequipajes llevaba una carga explosiva. Cuando el coche cruzó un haz de luz, se activó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La explosión atravesó el blindaje del coche. Herrhausen murió. El chófer sobrevivió, con heridas leves."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que se oiga bien el detalle técnico, porque es la clave del caso. No era una bomba corriente. Un politólogo, Wolfgang Kraushaar, la describe como una trampa explosiva: una placa de cobre cubierta con unos siete kilos de TNT, que al estallar se deformaba y salía disparada como un proyectil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era hijo de un ingeniero topógrafo, había estudiado economía y desde 1985 era portavoz del consejo de dirección del Deutsche Bank. Por su cargo y sus contactos políticos, encarnaba la idea de poder e influencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No rehuía los debates públicos: dio conferencias sobre un asunto delicado, el poder de los bancos. En vida gozó de una reputación enorme, dentro y fuera de Alemania."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en que el coche era blindado. Alguien había pensado en el riesgo y había tomado medidas. Y el ataque estaba pensado precisamente para atravesarlo, con una técnica poco común."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Fracción del Ejército Rojo, conocida como la RAF, un grupo armado alemán de extrema izquierda, reivindicó el atentado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero aquí viene el problema. Kraushaar recuerda que, desde el principio, hubo dudas serias. Según él, ningún experto aseguró que la RAF fuese capaz de preparar un sistema así. Una técnica así había aparecido una semana antes en un atentado contra un ministro libanés."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2014, al cumplirse veinticinco años, la radio pública alemana recordaba que el caso seguía sin esclarecerse. Era el mismo expediente de siempre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron los años y la investigación se llenó de fallos. Hubo errores de los investigadores, testigos poco creíbles y, según una de las afirmaciones que circulan, pruebas mal interpretadas o incluso alteradas por las autoridades."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa última afirmación, hay que decirlo, no está probada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces, ¿quién lo hizo? No lo sé, y nadie lo sabe. Lo que hay son hipótesis. En 2014, un documental de la televisión pública alemana apuntó a una pista libanesa: la RAF habría recibido ayuda técnica de especialistas de Oriente Próximo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El politólogo Kraushaar dijo entonces que ese apoyo le parecía plausible. Plausible no significa demostrado. No ha habido ninguna acusación ni juicio por el atentado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tampoco la reivindicación de la RAF equivale a una sentencia. Los autores no fueron identificados ni juzgados, treinta y siete años después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atribuir no es probar. Ese es el estado del expediente. Una firma en una carta, una técnica extraña y una lista de preguntas. Y un hombre que ya no está."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el lugar del atentado, en el Seedammweg, hay un monumento de tres columnas de basalto. Se colocó en 1996. El Deutsche Bank creó dos instituciones con su nombre, una de ayuda a quienes menos tienen y otra de diálogo internacional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que se recuerde a Alfred Herrhausen por lo que hizo, y a su chófer, que sobrevivió aquella mañana y cuyo nombre el archivo no cita."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un caso de hace casi cuatro décadas que nadie ha cerrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Alfred Herrhausen. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: la RAF lo reivindicó, pero los autores no fueron identificados ni juzgados. Fuentes abiertas leídas: Frankfurter Personenlexikon (biografía, memorial), Deutschlandfunk (2014, entrevista con el politólogo Wolfgang Kraushaar sobre el documental de la ARD). No se pudieron abrir el artículo del FAZ (redirección) ni la ficha del documental. Deutsche Biographie no se ha abierto de nuevo, la ficha ya corrigió el cargo («Vorstandssprecher»). La hipótesis del documental de la ARD (apoyo técnico de especialistas de Oriente Próximo, concretamente el FPLP según Kraushaar) se cita atribuida y sin señalar a nadie. No se nombra al chófer. Hora: 8.30 según Deutschlandfunk (la ficha no da hora). Carga: «siete kilos de TNT» y placa de cobre, según Kraushaar; el guion no explica el mecanismo con detalle. Pronunciaciones a oído."
+}
