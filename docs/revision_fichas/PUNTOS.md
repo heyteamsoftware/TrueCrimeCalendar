@@ -90,3 +90,11 @@ Además de lo que pide `docs/VERIFICACION_FICHAS.md`, el verificador de cada mes
 - **28/12, Daniella Perez:** quitar el grupo `hispanoamerica`.
 - **12/12, Marie Besnard:** absuelta; nunca «envenenadora».
 - **20/12, Carrero:** la amnistía de 1977 necesita una segunda fuente.
+
+## 06, junio
+
+- **Fuentes débiles:** sarajevo, budiaf y vizconde citan libros y artículos sin leer. Comprueba que las URL de Guardian, BBC, ABS-CBN y Philstar (Guerin y Vizconde) son exactas, y que las de los libros (Fisk, Naylor, Dedijer, Clark) apuntan al libro y no a Wikipedia.
+- **27/6, Publio Cordón:** solo se cita la condena de 2017. La muerte se apoya en una declaración de 2000 y en una estimación de 2012: que quede atribuida. Mira si hay causa abierta en 2025.
+- **29/6, Budiaf:** el autor y la condena de 1995 solo salen de Wikipedia; busca una segunda fuente. Las teorías de complot, atribuidas.
+- **30/6, masacre Vizconde:** la niña de 7 años no se nombra; nada contra Webb sin condena; la fecha de la condena de primera instancia.
+- **28/6, Sarajevo:** la hora de los disparos y por qué le dieron 20 años a Princip.
