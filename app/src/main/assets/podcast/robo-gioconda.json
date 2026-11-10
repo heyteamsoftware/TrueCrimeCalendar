@@ -1,0 +1,47 @@
+{
+  "id": "robo-gioconda",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Gioconda": "Yiocónda",
+    "Louvre": "Luvre",
+    "Vincenzo Peruggia": "Vinchénso Perúchia",
+    "Peruggia": "Perúchia",
+    "Louis Béroud": "Luí Berú",
+    "Alfredo Geri": "Alfredo Yéri",
+    "Geri": "Yéri",
+    "Giovanni Poggi": "Yiovánni Pódyi",
+    "Uffizi": "Ufítsi",
+    "Apollinaire": "Apolinér"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una pared vacía",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de La Gioconda. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una pared vacía." },
+        { "voz": "ximena", "texto": "París, martes 22 de agosto de 1911. Louis Béroud, un pintor que iba al Louvre a copiar La Gioconda, llega temprano a la sala. Delante de él hay una pared vacía, con unos clavos en el lugar del cuadro." },
+        { "voz": "ximena", "texto": "Pregunta a un guardia. Piensa que habrá ido a fotografiarse. Pero no: el museo busca el cuadro por todas las salas, y esa tarde se cierra el Louvre. La obra de Leonardo da Vinci ha desaparecido." },
+        { "voz": "alvaro", "texto": "Primera nota. Un lunes, con el museo cerrado, había más gente trabajando dentro. Obreros, limpiadores, empleados con bata. En un museo así, quien lleva una bata no llama la atención." },
+        { "voz": "ximena", "texto": "El autor fue Vincenzo Peruggia, un italiano que había trabajado en el Louvre y que había montado la vitrina del cuadro. Conocía la sala. Descolgó la tabla y salió con ella escondida bajo la ropa. Dejó el marco." },
+        { "voz": "alvaro", "texto": "Lo que debería asustar a cualquiera es lo fácil que fue. Una pintura de setenta y siete centímetros salió por una puerta de servicio y nadie la echó en falta durante horas." },
+        { "voz": "ximena", "texto": "La policía interrogó a todos los que habían estado en el edificio durante unas obras de mantenimiento. Sospechó de unos operarios. Todos resultaron inocentes." },
+        { "voz": "ximena", "texto": "La prensa mundial se volcó. Corrieron todo tipo de teorías: ladrones de arte, un golpe alemán para humillar a Francia. La policía llegó a interrogar a artistas parisinos, entre ellos al poeta Apollinaire, que no tenían nada que ver." },
+        { "voz": "alvaro", "texto": "Fíjate en el error. Peruggia había trabajado en el museo, pero su nombre no estaba entre los primeros sospechosos. Mientras la policía miraba a los artistas, el cuadro estaba en la habitación de un vidriero." },
+        { "voz": "ximena", "texto": "Más de dos años lo guardó en su cuarto de París, bajo la cama, según una de las fuentes. Veintiocho meses, entre los carteles de «se busca» y el vacío en el Louvre." },
+        { "voz": "ximena", "texto": "En noviembre de 1913, un anticuario de Florencia, Alfredo Geri, recibió una carta. La firmaba alguien que se hacía llamar Leonardo. Ofrecía vender el cuadro." },
+        { "voz": "ximena", "texto": "Geri avisó a Giovanni Poggi, director de la Galería de los Uffizi. El 11 de diciembre se reunieron los tres en la tienda. Poggi comprobó que la tabla era la auténtica Gioconda, y la policía detuvo a Peruggia." },
+        { "voz": "alvaro", "texto": "Peruggia dijo que había actuado por patriotismo. Creía que Napoleón se había llevado el cuadro de Italia y quería devolverlo. Pero tenía antecedentes y una agenda con coleccionistas, y los historiadores dudan de esa excusa." },
+        { "voz": "ximena", "texto": "Lo juzgaron en Florencia, en 1914. Se le reconoció una cierta debilidad mental y el público simpatizó con él. Lo condenaron a poco más de un año de cárcel; la pena se rebajó en apelación y cumplió unos siete meses." },
+        { "voz": "ximena", "texto": "El cuadro volvió a París en enero de 1914, después de ser exhibido por varias ciudades italianas. Había salido sin daños." },
+        { "voz": "alvaro", "texto": "Lo irónico es que el robo hizo famoso al cuadro. Antes de 1911 era una obra respetada, pero no un icono. Después, millones de personas aprendieron su nombre por una pared vacía." },
+        { "voz": "ximena", "texto": "No hubo víctimas. Pero el Louvre cambió su seguridad, y el caso sigue siendo la gran historia del robo de arte." },
+        { "voz": "alvaro", "texto": "Queda una pregunta que el archivo no cierra: por qué Peruggia esperó dos años. La respuesta de aquel hombre fue el patriotismo. La que dan sus actos es el dinero." },
+        { "voz": "ximena", "texto": "Fin del expediente: El robo de La Gioconda. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Finestre sull'Arte (2017) y History.com. NPR, MoneyWeek y History Today no se abrieron. Discrepancias: día del robo (History.com: el 22; Finestre: entre el 21 y el 22 y dice que Peruggia se escondió en un armario la noche anterior; la ficha: sacado el lunes 21): el guion dice solo que el pintor lo descubre el 22 y no fija la hora del robo. Duración de la condena: Finestre habla de «18 meses» y «año y medio»; History.com, de un año; la ficha, un año y quince días rebajados; el guion dice «poco más de un año», rebajada, y unos siete meses cumplidos. Tiempo oculto: 28 meses según Finestre; la ficha, «más de dos años». El cuadro volvió al Louvre en enero de 1914 (ficha; Finestre dice que ya estaba en París en el juicio de junio); la exhibición por ciudades italianas no consta en ninguna fuente abierta: quitar si se quiere ser estricto. Béroud: Finestre. «Setenta y siete centímetros»: Finestre (77 x 53). Que Peruggia ocupara la vitrina y trabajara de vidriero: ficha. Que el nombre de Peruggia no estuviera entre los primeros sospechosos: no lo recogen las fuentes abiertas; no es seguro (en las fuentes posteriores consta que fue interrogado y descartado); revisar. «Hasta Apollinaire»: Finestre dice que fue detenido, no solo interrogado. «Una cierta debilidad mental»: Finestre («enfermedad mental»). «Antes de 1911 no era un icono»: NPR (título), no leído."
+}

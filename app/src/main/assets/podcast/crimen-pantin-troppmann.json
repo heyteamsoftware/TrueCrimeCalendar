@@ -1,0 +1,115 @@
+{
+  "id": "crimen-pantin-troppmann",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Pantin": "Pantán",
+    "Jean-Baptiste Troppmann": "Yan Baptíst Tropmán",
+    "Troppmann": "Tropmán",
+    "Hortense Kinck": "Ortáns Kinc",
+    "Kinck": "Kinc",
+    "El Havre": "El Avr",
+    "Alsacia": "Alsacia",
+    "Petit Journal": "Petí Yurnál",
+    "Lachaud": "Lashó",
+    "Sena": "Sena"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Huellas en la hierba",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de Pantin. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Huellas en la hierba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pantin, a las puertas de París. 20 de septiembre de 1869. Un agricultor sale a trabajar su campo y repara en unas huellas extrañas en la hierba. Las sigue. Llevan hasta una zanja, y junto a la zanja hay un pequeño montículo de tierra recién removida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cava. Encuentra primero un pañuelo manchado. Después, algo que le hace correr a avisar a la policía de Pantin."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un campo abierto, cerca de una estación de tren, en las afueras de una capital. Nadie se fijó en lo que ocurrió allí la noche anterior. Quien lo hizo contaba con la oscuridad y con que nadie levantara la tierra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bajo la tierra había seis cuerpos: una madre, Hortense Kinck, y cinco de sus hijos, de entre dos y dieciséis años. No vamos a detenernos en cómo los encontraron. Importa saber quiénes eran."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se identificaron por su ropa. Una etiqueta de un sastre de Roubaix permitió al jefe de la policía de Sûreté, Antoine Claude, seguir el hilo hasta una familia que había viajado desde Alsacia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una etiqueta. Un pedazo de tela cosido en un abrigo. Los casos se resuelven así: no con un golpe de genio, sino con paciencia y con un sastre que se acuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Kinck habían llegado a París a la estación del Norte, citados por un joven al que conocían. La policía localizó al cochero que los llevó en un coche de alquiler. Su descripción apuntó a Jean-Baptiste Troppmann, de unos veinte años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Troppmann tenía una coartada, pero la correspondencia entre los Kinck y sus parientes la desmontó. El 26 de septiembre apareció, también en Pantin, el cuerpo de otro de los hijos, el mayor. Eran siete."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el orden. Primero la fosa, luego la etiqueta, luego el cochero y las cartas. Cada pieza empuja a la siguiente. Y mientras tanto, el sospechoso no esperaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Troppmann se había ido hacia El Havre, para embarcar rumbo a América. Lo detuvieron el 23 de septiembre. Un gendarme lo paró en un control rutinario; sus respuestas titubeaban, salió corriendo hacia el puerto y un calafate lo sacó del agua. Al registrarlo, encontraron cartas y objetos que pertenecían a las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aún quedaba el padre, Jean Kinck, del que nadie sabía nada. Troppmann intentó culpar a la propia familia y aseguró que el padre y el hijo mayor eran los asesinos. La policía llegó a considerarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa mentira le salió cara. Cuando el comisario le hizo creer que el cuerpo del padre ya había aparecido, Troppmann confesó, el 12 de noviembre, y dijo dónde estaba. Estaba en unas ruinas de Alsacia, y allí lo encontraron a finales de noviembre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había matado al padre, para quedarse con su dinero, en agosto, en Alsacia. Después citó en París a la madre y a los hijos y los mató en un descampado de Pantin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 28 de diciembre de 1869 ante el tribunal de lo criminal del Sena. Su abogado fue Charles Lachaud. El día 30, Troppmann fue condenado a muerte. Napoleón Tercero denegó el indulto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de enero de 1870 fue guillotinado en París. Una multitud acudió a la ejecución, con un ambiente festivo que escandalizó a algunos testigos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y mientras tanto, la prensa vivía de él. El caso ocupó las primeras planas durante meses, y los periodistas contaban cada etapa con más o menos imaginación. El Petit Journal aprovechó el caso para aumentar sus ventas, y así se encumbró la prensa popular de sucesos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los curiosos acudían al campo de Pantin cuando se supo la noticia. Es un patrón que se repetirá siglo y medio: el crimen se convierte en espectáculo, y las víctimas se convierten en decorado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hortense Kinck y sus hijos eran una familia que confió en alguien que conocían. Por eso este expediente no se queda en el espectáculo. Los niños no tienen aquí su nombre: merecen descansar en paz, aunque el caso sea famoso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Pantin, la zanja ya no existe. El caso quedó cerrado con una sentencia firme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El crimen de Pantin. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso cerrado (condena y ejecución). Víctimas menores (seis hijos, de 2 a 16 años): no se nombran, solo la madre, Hortense Kinck, y se menciona al padre Jean Kinck (nombre de la ficha). Fuentes abiertas: Wikipedia francesa (descubrimiento, etiqueta del sastre de Roubaix, cochero, detención en El Havre, confesión del 12 de noviembre, hallazgo del padre el 25 de noviembre, juicio, Lachaud, indulto denegado, ejecución) y Persée/Gramfort (curiosos, ejecución festiva según Goncourt, cobertura 'con más o menos fantasía'). Discrepancias: edad de Troppmann (20 según la ficha, 19 según Persée; el guion dice «unos veinte años»); hallazgo del primer cuerpo 'cerca de la estación' y ruinas del castillo de Herrenfluh (el guion dice «unas ruinas de Alsacia»); el asesinato del padre en agosto (24 o 25 según fuentes; el guion no da día). La cifra de ejemplares del Petit Journal no se pudo comprobar y no se cita. Pronunciación a oído: Troppmann, Kinck."
+}

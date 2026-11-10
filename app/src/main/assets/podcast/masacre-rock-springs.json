@@ -1,0 +1,119 @@
+{
+  "id": "masacre-rock-springs",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Rock Springs": "Rok Springs",
+    "Wyoming": "Uaiómin",
+    "Union Pacific": "Yúnion Pasífic",
+    "Caballeros del Trabajo": "Caballeros del Trabajo",
+    "Evanston": "Évanston",
+    "Sweetwater": "Suítuater",
+    "Green River": "Grin Ríver",
+    "Francis Warren": "Fránsis Uóren",
+    "Grover Cleveland": "Gróver Clívland",
+    "Bitter Creek": "Bíter Crik",
+    "Ah Say": "A Sei",
+    "Omaha": "Omaja",
+    "San Francisco": "San Fransísco",
+    "Camp Pilot Butte": "Camp Páilot Biut"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Los vagones de Evanston",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Rock Springs. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Los vagones de Evanston."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Territorio de Wyoming, 9 de septiembre de 1885. Seiscientos mineros chinos suben a un tren en Evanston. Les han dicho que van hacia el oeste, a San Francisco, a lugar seguro. Han pasado siete días desde el peor día de sus vidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tren sale por la mañana. Pero no va al oeste. Va hacia el este, despacio. Y al caer la tarde se detiene otra vez en Rock Springs. En la cola del convoy, sin que ellos lo supieran, viajaba un coche con el gobernador y directivos de la compañía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los llevaron de vuelta al lugar donde habían huido, con engaño, para que volvieran a la mina. Esto no es una pelea entre mineros. Es una historia en la que alguien más sacaba provecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rock Springs vivía del carbón. La Union Pacific, la compañía del ferrocarril, lo necesitaba para sus locomotoras, y la compañía había reducido salarios y había traído a mineros chinos, que aceptaban menos paga."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1885 había unos seiscientos chinos y trescientos blancos en las minas. Vivían separados: los blancos, en el centro; los chinos, en su barrio, al otro lado del arroyo. Trabajaban juntos y no se conocían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los blancos, en su mayoría inmigrantes europeos, se habían afiliado a los Caballeros del Trabajo, un sindicato en auge. En verano hubo amenazas y palizas a chinos en otras ciudades del territorio, y carteles que les mandaban marcharse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La compañía ignoró los carteles. Ignoró los avisos del propio sindicato. Quiero que conste, porque luego se dijo que nadie lo vio venir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de septiembre, en la mina número seis, estalló una pelea. Un minero chino murió y otro quedó malherido. Los mineros blancos no volvieron al trabajo: fueron a casa a por armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las dos de la tarde, entre cien y ciento cincuenta hombres armados, algunos con mujeres y niños detrás, se dividieron y rodearon el barrio chino. Aquel día era fiesta en China y muchos mineros estaban en casa, sin saber nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dispararon a la gente que huía. Saquearon las casas y las incendiaron. Los supervivientes escaparon al monte y pasaron la noche allí. Algunos murieron de frío y de sus heridas. En total, al menos veintiocho personas murieron, quince resultaron heridas y las setenta y nueve casas del barrio quedaron destruidas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El sheriff del condado fue a Rock Springs en un tren especial. Nadie quiso formar una patrulla con él. Dijo después que no pudo hacer nada. Anoto la frase tal como está."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El gobernador Francis Warren pidió tropas al presidente Grover Cleveland. El día cinco llegó un primer destacamento. Un tren recogió a los chinos dispersos por las vías y les dio comida y mantas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después, la compañía se negó a pagarles lo que les debía y a darles billetes a California. Al final, los volvió a llevar a Rock Springs. Para quedarse sin comer, solo tenían que no volver a la mina. Casi todos volvieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dieciséis hombres fueron detenidos. Un gran jurado del condado de Sweetwater se negó a acusarlos. Declaró que, tras interrogar a muchísimos testigos, nadie había podido declarar un solo acto criminal cometido por una persona blanca conocida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una matanza a plena luz del día, ante cientos de personas. Y ningún testigo. El silencio es una prueba también, aunque no la de un tribunal. A los detenidos los recibió una multitud el día que salieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue condenado. Diplomáticos chinos calcularon los daños en casi ciento cincuenta mil dólares, y el Congreso, bajo presión del presidente, acabó pagando una indemnización. Fue un gesto de buena voluntad, no un reconocimiento de culpa. El Gobierno siguió limitando la entrada de inmigrantes chinos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las tropas federales se quedaron en Rock Springs trece años más. Los chinos fueron marchándose del territorio, poco a poco, durante las décadas siguientes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Algunas fuentes hablan de cuarenta o cincuenta muertos. Los veintiocho son los confirmados. Los demás no tuvieron un registro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esos veintiocho eran mineros, hijos, hermanos y padres que habían cruzado el océano para ganarse la vida. Por muchos que fueran los nombres que se perdieron, el archivo los recuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Rock Springs. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifra: 28 muertos y 15 heridos (WyoHistory y la ficha); algunas fuentes hablan de 40 o 50 muertos. Indemnización: la ficha da 147.748,74 dólares (gesto de buena voluntad, no reconocimiento de responsabilidad); el guion dice solo «unos 150.000 dólares» y que el Congreso acabó pagando. Detenidos: dieciséis según la ficha y WyoHistory (uno era un diputado electo del territorio, que no se nombra); el gran jurado no los acusó y quedaron libres el 7 de octubre. Nadie fue condenado. Fuentes abiertas: WyoHistory.org (entera) y Wikipedia en inglés (sección de arrestos); los artículos del New York Times dan error 403. Detalle de los vagones: WyoHistory. No se describen los cuerpos ni la violencia."
+}
