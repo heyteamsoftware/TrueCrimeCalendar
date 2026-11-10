@@ -1,0 +1,116 @@
+{
+  "id": "dominici",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dominici": "Dominíchi",
+    "Gaston Dominici": "Gastón Dominíchi",
+    "Gaston": "Gastón",
+    "Gustave": "Gustáv",
+    "Jack Drummond": "Yak Drámond",
+    "Drummond": "Drámond",
+    "Lurs": "Lurs",
+    "La Grand'Terre": "La Gran Ter",
+    "Digne": "Dinñ",
+    "Durance": "Duráns",
+    "Jean Giono": "Yan Yonó",
+    "Provence": "Provens",
+    "Forcalquier": "Forcalquié",
+    "Bajos Alpes": "Bajos Alpes",
+    "Sébeille": "Sebéi"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La granja junto a la carretera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Dominici. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La granja junto a la carretera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lurs, en los Bajos Alpes, Francia. La noche del 4 al 5 de agosto de 1952. Una familia inglesa acampa junto a la carretera nacional noventa y seis, a unos metros de una granja llamada La Grand'Terre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El padre es Sir Jack Drummond, un científico británico de fama mundial. Con él viajan su mujer y su hija de diez años. A la mañana siguiente, los tres estaban muertos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un científico famoso, de vacaciones, muerto a un paso de una granja. Es el tipo de caso que atrae todas las teorías. The Guardian cuenta que hubo hasta una pequeña industria de hipótesis sobre él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Drummond era un especialista en nutrición, y durante la segunda guerra mundial había ayudado a que Gran Bretaña no pasara hambre. Ese era el hombre a quien Francia llamó, años después, la víctima del crimen más famoso del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación empezó mal. El lugar del crimen quedó pisoteado por curiosos y periodistas, y el comisario discutió con el juez por ello. Las declaraciones de la familia de la granja cambiaron una y otra vez."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Así se estropea un expediente. Si el escenario no se conserva, ya no se puede saber qué pasó. Cuando faltan pruebas físicas, todo depende de lo que la gente diga. Y lo que la gente dice, cambia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Dominici eran los dueños de la granja. El patriarca, Gaston Dominici, era un campesino de más de setenta años. Casi no hablaba francés: lo suyo era el provenzal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras muchos meses, uno de sus hijos, Gustave, acusó a su padre. Según The Guardian, luego se retractó y volvió a acusarlo. En noviembre de 1953, el propio Gaston confesó. Después, se retractó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el nudo. Esas declaraciones se redactaron en francés, aunque el anciano respondía en provenzal y no podía comprobar lo que se le atribuía. Escritor y testigo del juicio, Jean Giono dijo que no sabía si era culpable, pero que a él no le habían probado que lo fuera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en Digne. Empezó el 17 de noviembre de 1954. El 28 de noviembre, el tribunal declaró culpable a Gaston Dominici, sin circunstancias atenuantes, y lo condenó a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No lo ejecutaron. En 1957, el presidente de la República le conmutó la pena. En 1960, el general De Gaulle lo indultó y quedó libre. Murió en 1965."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la secuencia: se le condena, se le salva de la guillotina, se le libera. Pero nunca se le rehabilitó. Una pena sin certeza por ninguno de los dos lados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con los años aparecieron otras explicaciones. Una dice que Drummond estaba allí porque tenía una cita, algo relacionado con la industria química de la zona. The Guardian reconoce que esa idea no está probada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las anoto porque existen, no porque las crea. Lo que sí está probado es que la investigación original dejó demasiados cabos sueltos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia Drummond fue enterrada en el cementerio de Forcalquier. Tres cruces de madera, con el apellido escrito a la francesa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una niña de diez años, un matrimonio, un hombre de ciencia. Eso es lo que no se discute del caso Dominici."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que sí se discute es quién los mató. Más de setenta años después, el archivo no responde. Tampoco el tribunal lo hizo sin dejar dudas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que se recuerde a la familia inglesa antes que a los jueces, los periodistas o los escritores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Dominici. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Condena discutida (error judicial posible; sin resolver). Fuentes abiertas leídas: Wikipedia francesa (solo como punto de partida: lugares, cronología de la mañana del 5/8/1952, atestado, lengua del acusado), The Guardian (2007, tumba de la familia, la denuncia de Gustave, hipótesis sin probar), Centre Jean Giono (cita del escritor, que no dice que Dominici fuera inocente sino que no se le probó), blog de France 3 (2016, lengua provenzal). No se abrió la conferencia de Lejeune (HAL, bloqueada por Anubis) ni el INA. Discrepancias: edad de Gaston (76 la ficha; 75 el blog de France 3; 77 el INA según la nota de la ficha): el guion dice «un campesino de más de setenta años». Fecha de la conmutación (3/8/1957 Wikipedia; 13/7/1957 Lejeune) y de la gracia (13 o 14/7/1960): el guion dice solo «en 1957» y «en 1960». La niña de diez años no se nombra, aunque consta su nombre en la tumba (The Guardian); la ficha pide no nombrarla. Se nombra a Sir Jack Drummond; la esposa, Ann, no se nombra (grafía distinta según la fuente). Se omite el modo de la muerte de la niña y la carabina. La confesión de Gaston (nov. 1953) y su retractación vienen de la ficha; The Guardian atribuye primero la denuncia a Gustave; se dice con prudencia. Pronunciaciones a oído."
+}

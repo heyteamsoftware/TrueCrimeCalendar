@@ -1,0 +1,115 @@
+{
+  "id": "condena-eichmann",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Adolf Eichmann": "Ádolf Áijman",
+    "Eichmann": "Áijman",
+    "Ricardo Klement": "Ricárdo Clément",
+    "Mossad": "Mosád",
+    "Gideon Hausner": "Guideón Jáusner",
+    "Hausner": "Jáusner",
+    "Robert Servatius": "Róbert Servátsius",
+    "Servatius": "Servátsius",
+    "Moshe Landau": "Móshe Landáu",
+    "Ben-Zvi": "Ben Tsví",
+    "Ramla": "Rámla",
+    "Hannah Arendt": "Jána Arent",
+    "Buenos Aires": "Buenos Aires",
+    "SS": "ese ese"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La cabina de cristal",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El juicio de Jerusalén. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La cabina de cristal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jerusalén, 1961. En una sala llena, setecientas butacas ocupadas y unos cuatrocientos cincuenta periodistas, un hombre de cincuenta y cinco años está solo dentro de una cabina de cristal a prueba de balas. Escucha el juicio por unos auriculares. Se llama Adolf Eichmann."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La cabina no es un detalle de decorado. Es la imagen del caso: un hombre aislado tras un cristal, y delante de él los testigos de lo que organizó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eichmann había sido oficial de las SS. Dirigió desde Berlín la organización de los transportes con los que se deportó a más de un millón y medio de judíos hacia guetos y campos de exterminio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al terminar la guerra desapareció. Acabó en Argentina, viviendo cerca de Buenos Aires con un nombre falso, Ricardo Klement."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quince años escondido es mucho tiempo. Pero un alto funcionario judicial alemán, Fritz Bauer, avisó a Israel de dónde estaba. Argentina no solía extraditar, así que el primer ministro, David Ben-Gurion, aprobó un secuestro en secreto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1960, agentes del Mossad lo capturaron a la puerta de su casa y se lo llevaron a Israel. Argentina protestó ante la ONU por la violación de su soberanía. Con el tiempo, el conflicto se calmó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 11 de abril de 1961, ante un tribunal especial en Jerusalén. El fiscal, Gideon Hausner, presentó quince cargos, entre ellos crímenes contra el pueblo judío y crímenes contra la humanidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra diferencia con Núremberg. Allí pesaban sobre todo los documentos. Aquí, el centro eran las personas: más de cien testigos, y muchos supervivientes que hablaban por primera vez en público."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante cuatro meses declararon testigos que contaron lo que habían visto y sufrido. Entre ellos hubo combatientes de los guetos y fotógrafos. El juicio se retransmitió por televisión y el mundo lo siguió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No lo voy a describir. Lo que importa es que, por primera vez, millones de personas oyeron en voz alta lo que antes se había dicho en voz baja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eichmann se defendió ante el tribunal con un argumento que los jueces rechazaron. Dijo que era un engranaje más de la maquinaria, que obedecía órdenes y que él no había decidido la política. Su abogado era Robert Servatius."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que admite: reconoció que organizó los transportes de millones de personas hacia la muerte. Y en lo que niega: sentirse culpable. Es la distancia entre un hecho y una responsabilidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de diciembre de 1961, el tribunal lo condenó a muerte. El presidente de la sala, Moshe Landau, dijo que sus crímenes eran distintos de todos los demás, porque buscaban el exterminio de todo un pueblo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal Supremo rechazó su recurso el 29 de mayo de 1962. El presidente del país, Yitzhak Ben-Zvi, le negó el indulto. En su petición, Eichmann escribió que no era un dirigente responsable y que, por eso, no se sentía culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue ahorcado en la prisión de Ramla en la noche entre el 31 de mayo y el 1 de junio de 1962. Sus cenizas se esparcieron en el mar, fuera de las aguas israelíes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una cosa que sigue sin aclararse: el juicio no pretendía tanto resolver un misterio como dejar constancia. Y se han discutido sus métodos desde el primer día, empezando por la captura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La filósofa Hannah Arendt asistió al proceso y escribió sobre lo que llamó la banalidad del mal. Sigue debatiéndose hoy. Pero el proceso tuvo otro efecto en Israel: muchos supervivientes que habían callado se atrevieron a contar su historia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y esa es la memoria que importa. No la del acusado, sino la de millones de víctimas, y de los que sobrevivieron para contarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El juicio de Jerusalén. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Veredicto: USHMM lo sitúa el 11 y 12 de diciembre, AFP el 15; el guion dice que el tribunal lo declaró culpable y lo condenó a muerte el 15 de diciembre (la sentencia es del 15 en todas las fuentes). Captura: 11 de mayo (Wikipedia) o 20 de mayo (USHMM, día del vuelo); el guion dice solo «mayo de 1960». Ejecución: 31 de mayo de 1962 (AFP) o 1 de junio (USHMM); el guion dice «en la noche entre el 31 de mayo y el 1 de junio». Número de testigos: 111 (AFP); se dice «más de cien». No se dice que fuera la única ejecución judicial de Israel (la ficha lo retiró). La frase de Eichmann sobre su responsabilidad (carta de indulto) se cita con la fuente (AFP). La de «pequeño engranaje» (USHMM) se cita atribuida. Sin detalles gráficos del Holocausto. No se pudo abrir Yad Vashem."
+}
