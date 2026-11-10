@@ -1,6 +1,6 @@
 {
   "id": "hansen",
-  "titulo": "La chica que escapó",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Robert Hansen": "Róbert Jánsen",
@@ -8,101 +8,77 @@
     "Anchorage": "Ánkorich",
     "Merrill Field": "Mérril Fild",
     "Cindy Paulson": "Síndi Pólson",
-    "Cindy": "Síndi",
     "Iowa": "Áioua",
     "Knik": "Kenik",
     "Glenn Flothe": "Glen Flózi",
     "Flothe": "Flózi",
     "FBI": "efe be i",
     "John Douglas": "Yon Dáglas",
+    "Eklutna Annie": "Eklútna Áni",
+    "Eklutna": "Eklútna",
+    "Joanna Messina": "Yoána Mesína",
+    "Sherry Morrow": "Shéri Mórrou",
+    "Paula Goulding": "Páula Góulding",
+    "Robin Pelkey": "Róbin Pélki",
+    "Horseshoe Harriet": "Jórshu Járriet",
+    "Ralph Moody": "Ralf Múdi",
+    "Juneau": "Yúno",
+    "Arkansas": "Árkansas",
     "The Frozen Ground": "Ze Fróusen Gráund",
-    "Nicolas Cage": "Nícolas Kéich"
+    "Nicolas Cage": "Nícolas Kéich",
+    "John Cusack": "Yon Kiúsak"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Anchorage, Alaska, 13 de junio de 1983. Una chica de diecisiete años corre por una calle cercana al aeródromo de Merrill Field. Va esposada. Consigue que un camionero se detenga y la lleve hasta un motel, desde donde se avisa a la policía. Acaba de escapar de un hombre que pretendía subirla a su avioneta."
+      "n": 1,
+      "titulo": "Una avioneta en Merrill Field",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Robert Hansen, el panadero de Anchorage. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una avioneta en Merrill Field." },
+        { "voz": "ximena", "texto": "13 de junio de 1983. Anchorage, la ciudad más grande de Alaska. Cerca del aeródromo de Merrill Field, una chica de diecisiete años corre por la calle. Lleva las manos esposadas por delante. Un camionero que pasa se detiene y la recoge." },
+        { "voz": "ximena", "texto": "La deja en un motel y avisa a la policía. Los agentes la encuentran poco después en otro motel cercano, todavía esposada. Se llama Cindy Paulson. Cuenta que un hombre la ha retenido en su casa y la ha violado, y que estaba cargando su avioneta para llevársela." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto lo que ella aporta, porque es mucho. Una descripción. La casa. El aeródromo. Y un guarda de Merrill Field ha apuntado la matrícula del coche de aquel hombre. Con eso, la policía de Anchorage llega enseguida a un nombre." },
+        { "voz": "ximena", "texto": "Robert Hansen. Cuarenta y cuatro años, casado y padre de dos hijos. Tiene una panadería en un pequeño centro comercial de la ciudad. Es piloto con licencia, tiene una avioneta y es un cazador conocido, con varios récords locales." },
+        { "voz": "ximena", "texto": "Hansen lo niega todo. Dice que la chica quiere causarle problemas porque él se negó a pagarle lo que le pedía. Y presenta una coartada: un amigo asegura que aquella noche estuvo con él." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Aquí está el error que marca este expediente. Por un lado, un panadero respetable, de modales suaves. Por otro, una chica de diecisiete años que ejercía la prostitución. La policía de Anchorage no trató a Hansen como un sospechoso serio. La denuncia se quedó ahí." },
+        { "voz": "ximena", "texto": "Y, sin embargo, Hansen tenía historial. En 1960, en Iowa, donde nació, había quemado un garaje de autobuses escolares, y pasó casi dos años en prisión. Ya en Alaska lo habían detenido dos veces por secuestro o agresión sexual. Siempre había vuelto a la calle." },
+        { "voz": "ximena", "texto": "Anchorage había crecido deprisa. La construcción del oleoducto de Alaska, en los años setenta, atrajo a miles de personas, y con ellas creció la vida nocturna. Muchas de las mujeres que desaparecían bailaban en clubes o ejercían la prostitución. Nadie las buscaba con prisa." },
+        { "voz": "ximena", "texto": "Mientras tanto, en el campo, iban apareciendo cuerpos. En 1980, unos operarios encontraron a una mujer en un bosque cerca de Eklutna. Nadie sabía quién era, y la llamaron Eklutna Annie. Después aparecieron Joanna Messina y Sherry Morrow, en tumbas poco profundas." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Un investigador de la policía estatal, Glenn Flothe, se negó a verlos como casos sueltos. Creía que había un mismo autor. Y cuando se fijó en la denuncia de aquella chica, vio lo que se había pasado por alto: un hombre con avioneta, que conocía la naturaleza salvaje como pocos." },
+        { "voz": "ximena", "texto": "Flothe pidió ayuda al FBI. El agente John Douglas, especialista en perfiles criminales, describió al autor probable: un cazador experimentado, con baja autoestima, rechazado por las mujeres, que quizá tartamudeaba y que guardaría recuerdos de sus víctimas." },
+        { "voz": "alvaro", "texto": "Leo ese perfil y luego la vida de Hansen. De joven era tímido y tartamudo, y sufría burlas. Cazador. Piloto. Ataques a mujeres. Un perfil no prueba nada ante un juez. Pero ayudó a convencer a uno de que había motivos para registrar su casa." },
+        { "voz": "ximena", "texto": "El 27 de octubre de 1983, la policía registra la casa, los coches y la avioneta de Hansen. En un escondite del desván aparecen joyas de mujeres desaparecidas. También armas. Y detrás del cabecero de la cama, un mapa aeronáutico de la zona, lleno de pequeñas cruces." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Un mapa con cruces, guardado en su propio dormitorio. Varias de esas marcas coincidían con lugares donde ya habían aparecido cuerpos. ¿Y las demás?" },
+        { "voz": "ximena", "texto": "Hansen fue detenido y acusado. Durante meses lo negó todo." },
+        { "voz": "ximena", "texto": "Pero en febrero de 1984 empezó a hablar. Y lo que contó convirtió aquel mapa en el documento más terrible del expediente." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Una superviviente. Y su testimonio iba a ser la clave de todo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cindy Paulson contó que aquel hombre la había secuestrado y que quería llevarla en avioneta a una cabaña remota. Dio una descripción. La policía localizó al propietario del aparato: un respetado panadero de la ciudad, casado y padre de dos hijos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Robert Hansen, el panadero asesino."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hansen nació en 1939 en Iowa, hijo de un panadero. De joven fue un chico tímido, con un fuerte tartamudeo, que sufría burlas. Se aficionó a la caza y, a finales de los años sesenta, se instaló en Anchorage, donde abrió su propia panadería y se ganó fama de cazador experto. También pilotaba: en Alaska, donde muchos lugares solo son accesibles por aire, tener una avioneta no llamaba la atención."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero tenía antecedentes. En Iowa había cumplido condena por un incendio provocado, y en Alaska había sido detenido por varios delitos, entre ellos un ataque a una mujer. Aun así, seguía en libertad, y para buena parte de la ciudad era un vecino respetable."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué pasó con la denuncia de Cindy?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Al principio, poco. Hansen lo negó todo y presentó una coartada: dos amigos aseguraron que había estado con ellos. Muchos agentes dieron más crédito al panadero respetable que a una chica joven que ejercía la prostitución. La denuncia quedó en un cajón."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En aquellos años, el auge del petróleo había atraído a Alaska a miles de personas en busca de trabajo. Anchorage crecía deprisa, y con ella su vida nocturna. Muchas de las mujeres que desaparecían eran jóvenes llegadas de fuera; algunas, sin familia cerca."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Mientras tanto, en las orillas del río Knik y en otras zonas remotas, iban apareciendo cuerpos de mujeres jóvenes. Varias habían desaparecido de bares y clubes de Anchorage. Un investigador de la policía estatal de Alaska, Glenn Flothe, empezó a sospechar que aquellos casos estaban conectados."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y llegó a relacionar esas muertes con la denuncia contra el panadero?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sí. Flothe pidió ayuda a la unidad de perfiles criminales del FBI. El especialista John Douglas trazó un retrato del posible autor: un cazador experimentado, con baja autoestima, que se sentía rechazado por las mujeres. Encajaba de forma inquietante con Robert Hansen."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con ese perfil y el testimonio de Cindy, consiguieron una orden de registro. En octubre de 1983, en casa de Hansen, encontraron armas, joyas de algunas víctimas y un mapa aéreo de la zona con pequeñas marcas. Aquellas marcas señalaban los lugares donde había enterrado a sus víctimas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un mapa con las tumbas marcadas, guardado en su propia casa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ante esas pruebas, Hansen acabó confesando. Admitió haber asesinado a diecisiete mujeres a lo largo de más de una década. Las secuestraba y las trasladaba en su avioneta a lugares despoblados, donde, según su propia confesión, en algunos casos las soltaba para darles caza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En febrero de 1984, en un acuerdo con la fiscalía, se declaró culpable de cuatro asesinatos y se comprometió a señalar dónde estaban los cuerpos. Fue condenado a cuatrocientos sesenta y un años de prisión más cadena perpetua, sin posibilidad de libertad condicional."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Murió bajo custodia en 2014, a los setenta y cinco años. Se le atribuyen entre diecisiete y más de veintiuna víctimas. Algunos cuerpos nunca se han recuperado, y varias mujeres no fueron identificadas hasta décadas después. Para sus familias, cada identificación tardía fue a la vez un alivio y una herida que se reabría."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una historia que incluso llegó al cine."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2013 se estrenó The Frozen Ground, con Nicolas Cage en el papel del investigador. Pero la verdadera protagonista de este caso es Cindy Paulson. Su valentía al escapar, y al contar lo que había vivido cuando muchos no la creían, fue decisiva para detener a Hansen."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso es también una lección: durante años, muchas de las víctimas no fueron tomadas en serio por el simple hecho de ejercer la prostitución. Ese prejuicio le dio tiempo al asesino. Y escuchar a quien sobrevive, sea quien sea, puede salvar vidas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Robert Hansen. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Las cruces del mapa",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Las cruces del mapa." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Robert Hansen, el panadero de Anchorage, en Alaska. En octubre de 1983, tras la denuncia de una chica que había logrado escapar de él, la policía encontró en su casa un mapa aeronáutico lleno de cruces." },
+        { "voz": "ximena", "texto": "En febrero de 1984, Hansen aceptó un acuerdo con la fiscalía. Se declaró culpable de cuatro asesinatos: los de Joanna Messina, Sherry Morrow, Paula Goulding y la mujer a la que llamaban Eklutna Annie. A cambio, señalaría dónde estaban las demás." },
+        { "voz": "ximena", "texto": "En sus confesiones admitió haber matado a diecisiete mujeres en unos doce años, y haber violado a una treintena más. A algunas, según su propio relato, las llevaba en avioneta a lugares despoblados y las soltaba en el bosque para darles caza. Su lugar preferido era el valle del río Knik, al noreste de la ciudad." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto por qué solo cuatro. El trato le ahorraba a la justicia diecisiete juicios, y Hansen pidió cumplir condena fuera de Alaska. Lo que ganaban los investigadores eran los lugares. Desde un helicóptero, fue señalando dónde había dejado a sus víctimas." },
+        { "voz": "ximena", "texto": "A finales de febrero de 1984, el juez Ralph Moody lo condenó a cadena perpetua más cuatrocientos sesenta y un años de prisión." },
+        { "voz": "ximena", "texto": "Según la crónica de la agencia UPI, el juez dijo que el caso era una grave acusación contra la sociedad, porque a aquel hombre lo habían dejado libre varias veces. El fiscal añadió que no creía que Hansen lo hubiera contado todo." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Comparto la duda del fiscal. En el mapa había más cruces que confesiones, y algunas marcas nunca se explicaron. De los diecisiete cuerpos que admitió, la policía solo encontró doce. Los demás siguen en algún lugar de Alaska." },
+        { "voz": "ximena", "texto": "Hansen cumplió primero condena en una prisión federal de Pensilvania. Después volvió a cárceles de Alaska. En 1990, en la de Juneau, le encontraron entre sus cosas planes de fuga y un mapa aeronáutico." },
+        { "voz": "ximena", "texto": "Murió el 21 de agosto de 2014, a los setenta y cinco años, en un hospital de Anchorage, adonde lo habían trasladado desde la cárcel. Seguía preso. Glenn Flothe, ya retirado, dijo entonces que esperaba que se recordara a las víctimas y a sus familias." },
+        { "voz": "ximena", "texto": "Ese recuerdo se ha construido con paciencia. En octubre de 2021, la policía estatal anunció que había identificado a la mujer conocida durante treinta y siete años como Horseshoe Harriet, encontrada junto a un lago. Se llamaba Robin Pelkey, había nacido en Colorado y tenía unos diecinueve años." },
+        { "voz": "alvaro", "texto": "Nota del inspector. La identificaron por genealogía genética: un perfil de ADN en una base de datos pública, un árbol familiar y unos parientes en Arkansas que aceptaron dar una muestra. Treinta y siete años sin nombre. Anoto la técnica, porque es la que se estaba aplicando a la última." },
+        { "voz": "ximena", "texto": "Cuando se identificó a Robin Pelkey, Eklutna Annie, la que se cree su primera víctima, seguía sin nombre. La unidad de casos sin resolver de la policía estatal trabajaba para dárselo." },
+        { "voz": "ximena", "texto": "En 2013, el cine llevó el caso a la pantalla en The Frozen Ground, con Nicolas Cage en el papel de un policía estatal y John Cusack en el de Hansen." },
+        { "voz": "alvaro", "texto": "Nota del inspector. La película pone el foco en el investigador. Yo lo pongo en la chica esposada que corrió por aquella calle. Su denuncia se archivó en junio. Y fue esa misma denuncia la que, meses después, llevó hasta él." },
+        { "voz": "ximena", "texto": "El caso dejó una lección incómoda. Durante años, las desapariciones de mujeres que bailaban en clubes o ejercían la prostitución no se tomaron en serio. Ese prejuicio le dio tiempo al asesino. Escuchar a quien sobrevive, sea quien sea, salva vidas." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de Robert Hansen, pero no le pertenece. Pertenece a Joanna Messina, a Sherry Morrow, a Paula Goulding, a Robin Pelkey, a la mujer a la que todavía llaman Eklutna Annie y a todas las demás. Y a Cindy Paulson, que escapó y habló." },
+        { "voz": "ximena", "texto": "Fin del expediente de Robert Hansen, el panadero de Anchorage. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": "La ficha dice «murió en prisión (2014)». Según la información publicada, murió en un hospital de Anchorage mientras cumplía condena; en el guion se dice «murió bajo custodia» para no contradecir la ficha."
+  "nota_revision": "Fuentes en web/datos/fuentes/hansen.json. DISCREPANCIAS: 1) Muerte: la ficha dice «murió en prisión (2014)»; Anchorage Daily News y AP (21-22/8/2014) dicen que murió en el Alaska Regional Hospital de Anchorage, trasladado la víspera, mientras cumplía condena. El guion dice «en un hospital de Anchorage, adonde lo habían trasladado desde la cárcel. Seguía preso». Propongo en la ficha «Murió bajo custodia (2014)». 2) Condena: la ficha dice «461 años»; UPI (28/2/1984) y EBSCO dicen «cadena perpetua más 461 años»; Wikipedia, «461 años sin libertad condicional». El guion sigue a UPI. 3) Víctimas: la ficha dice «17 a 21+»: admitió 17 (ADN, AP, Alaska Public Media); ADN dice «hasta 21»; solo se encontraron 12 cuerpos (AP; policía estatal en 2021). Correcto. 4) Mapa: Wikipedia dice que tenía 37 marcas; ADN dice que la fiscalía le mostró un mapa con 17 lugares. El guion dice «lleno de pequeñas cruces» y «más cruces que confesiones». 5) Antecedentes: la v2 decía que «había sido detenido por varios delitos, entre ellos un ataque a una mujer»; UPI: detenido tres veces en doce años, dos por secuestro o agresión sexual, y libre cada vez (en 1971 fue condenado a 5 años y salió a los 6 meses, según Wikipedia). EBSCO dice, en contra, que nunca fue detenido ni acusado antes de 1983: se descarta. La rebaja de la pena por hurto la sitúa UPI en una sentencia de 1978 y Wikipedia en 1976: no se da el año. 6) Lugar de nacimiento: Estherville (Wikipedia, EBSCO); UPI dice que era natural de Pocahontas, donde creció. El guion dice solo «Iowa». 7) La v2 decía que el investigador fue «el especialista John Douglas»: correcto según Wikipedia y el libro de Douglas («Mindhunter»); EBSCO solo dice que se usó un perfil psicológico para pedir la orden. DUDAS: a) La fecha exacta del acuerdo (18/2/1984 según Crime Library citando a ADN) y de la sentencia (lunes 27/2/1984, según la crónica de UPI del 28/2) no están en dos fuentes; el guion dice «en febrero de 1984» y «a finales de febrero de 1984». b) Los cuatro nombres del acuerdo (Messina, Morrow, Goulding y Eklutna Annie) salen de Wikipedia y de Crime Library citando a ADN. c) Detalles de la huida (camionero, dos moteles, guarda que apuntó la matrícula, esposas por delante) y la coartada del amigo: Wikipedia (a partir de Gilmour y Hale, «Butcher, Baker», 1991) y, en parte, ADN (llegó esposada a un motel) y EBSCO (amigos que lo encubrieron). d) Eklutna Annie seguía sin identificar en octubre de 2021 (Alaska Public Media, CBS); no se ha comprobado si se ha identificado después, y el guion lo cuenta en pasado («seguía sin nombre» en 2021). e) Se nombra a Cindy Paulson, que tenía 17 años: superviviente, nombre público desde 1983 y en la película; misma duda de la regla 5 que en brady. f) La familia de Robin Pelkey pidió privacidad en 2021; solo se da su nombre, origen y edad, que hizo públicos la policía."
 }

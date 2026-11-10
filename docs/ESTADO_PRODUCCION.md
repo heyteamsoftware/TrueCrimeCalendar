@@ -37,7 +37,7 @@ Hecho antes: `brady` (piloto).
 | enero A | letby keyes bonin puente | ✓ hecho (4/4) |
 | enero B | dominique shipman petiot robledo rifkin | ✓ hecho (5/5) |
 | enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
-| febrero A | ishikawa norris hansen ridgway | lanzado |
+| febrero A | ishikawa norris hansen ridgway | ✓ hecho (4/4) |
 | febrero B | cullen muehlberg wuornos ramirez | ✓ hecho (4/4) |
 | marzo A | toole rader gaskins king | lanzado |
 | marzo B | ireland gacy kraft toppan | ✓ hecho (4/4) |
@@ -46,7 +46,7 @@ Hecho antes: `brady` (piloto).
 | mayo A | homolka beck bryant holmes | lanzado |
 | mayo B | bellfield fish murano dahmer | lanzado |
 | mayo C | bianchi chase escalero kurten | lanzado |
-| junio | berkowitz sutcliffe shawcross little pedrinho | en cola |
+| junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |
 | julio | jones hindley magnotta onoprienko yang | en cola |
 | agosto A | bathory miyazaki lucas alcala | en cola |
 | agosto B | gein bernardo franklin | en cola |

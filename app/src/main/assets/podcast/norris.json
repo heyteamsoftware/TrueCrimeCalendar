@@ -1,6 +1,6 @@
 {
   "id": "norris",
-  "titulo": "Un plan nacido en la cárcel",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Roy Norris": "Rói Nórris",
@@ -9,102 +9,74 @@
     "Bittaker": "Bítaker",
     "Toolbox Killers": "Túlbox Kílers",
     "Lucinda Schaefer": "Lusínda Shéifer",
+    "Lucinda": "Lusínda",
     "Andrea Hall": "Andrea Jol",
-    "Jacqueline Gilliam": "Yákelin Guíliam",
-    "Jacqueline Leah Lamp": "Yákelin Lía Lamp",
+    "Jackie Gilliam": "Yáki Guíliam",
+    "Leah Lamp": "Lía Lamp",
     "Shirley Ledford": "Shérli Lédford",
-    "Shirley": "Shérli",
-    "Jackie": "Yáki",
-    "Leah": "Lía",
     "Hermosa Beach": "Ermósa Bich",
+    "Redondo Beach": "Redondo Bich",
     "San Quentin": "San Kuéntin",
-    "Redondo Beach": "Redondo Bich"
+    "Greeley": "Gríli",
+    "Burbank": "Bérbank",
+    "Paul Bynum": "Pol Báinum",
+    "Stephen Kay": "Stíven Kei",
+    "Halloween": "Jálouin",
+    "Vacaville": "Vácavil"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "California, finales de los años setenta. En una prisión de San Luis Obispo, dos presos condenados por delitos violentos se hacen amigos. Uno se llama Roy Norris. El otro, Lawrence Bittaker. Según contaría después el propio Norris, ya allí empezaron a hablar de lo que harían al salir."
+      "n": 1,
+      "titulo": "Una confesión entre presos",
+      "tipo": "notas",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Roy Norris y los asesinatos de la caja de herramientas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una confesión entre presos." },
+        { "voz": "ximena", "texto": "Noviembre de 1979, sur de California. Un hombre que ha pasado por la cárcel va a ver a un abogado. Tiene un problema: un antiguo compañero de prisión le ha contado algo que no puede quitarse de la cabeza." },
+        { "voz": "ximena", "texto": "Ese compañero se llama Roy Norris. Tiene treinta y un años, está en libertad condicional y trabaja de electricista. Le ha hablado de chicas adolescentes secuestradas y asesinadas en la costa de Los Ángeles. Y de las que pensaba atrapar después." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Lo primero que anoto es la reacción del que escucha. No se lo calla. El abogado le aconseja ir a la policía. La de Los Ángeles los envía a la de Hermosa Beach, una ciudad de la costa. Y allí aquel relato encaja con una denuncia que ya tenían sobre la mesa." },
+        { "voz": "ximena", "texto": "A finales de septiembre, una joven había sido atacada por dos hombres dentro de una furgoneta y después liberada. Lo denunció. Más tarde reconoció a sus agresores en fotografías de la policía. La furgoneta era de un amigo de Norris: Lawrence Bittaker." },
+        { "voz": "ximena", "texto": "La policía vigila a Norris unos días y le ve vender marihuana. Es suficiente. El 20 de noviembre lo detienen por violar la libertad condicional. Ese mismo día detienen a Bittaker en el motel de Burbank donde vive." },
+        { "voz": "alvaro", "texto": "Anoto la jugada. No los detienen por asesinato. No hay cuerpos ni confesiones. Los detienen por algo menor, para tenerlos dentro mientras buscan. Y lo que aparece entre sus cosas lo cambia todo: fotografías de algunas chicas y una cinta de audio grabada en la furgoneta." },
+        { "voz": "ximena", "texto": "El 30 de noviembre, Norris se sienta ante el detective Paul Bynum y el fiscal Stephen Kay. Renuncia a su derecho a guardar silencio. Primero lo niega todo. Después, ante las pruebas, empieza a hablar." },
+        { "voz": "ximena", "texto": "Lo que cuenta empieza años atrás. Roy Norris nació en 1948 en Greeley, en Colorado. Según su propio relato, pasó parte de la infancia en familias de acogida. Dejó los estudios, se alistó en la Marina de Estados Unidos y en 1969 estuvo destinado en Vietnam, sin entrar en combate." },
+        { "voz": "ximena", "texto": "Ese mismo año lo detuvieron por intentar agredir a una mujer. En 1970 atacó a una estudiante en San Diego. Pasó cinco años internado en el hospital estatal de Atascadero, como delincuente sexual con trastorno mental." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Aquí está el primer fallo del expediente, y no es policial. En 1975, los médicos de Atascadero lo dieron por no peligroso y salió en libertad vigilada. Poco después violó a una mujer en Redondo Beach. Volvió a la cárcel. Esta vez, a una prisión de San Luis Obispo." },
+        { "voz": "ximena", "texto": "Allí, en 1977, conoció a Lawrence Bittaker, ocho años mayor, condenado por apuñalar a un dependiente. Según Norris, en la cárcel hablaron de lo que harían al salir. Bittaker quedó libre en noviembre de 1978. Norris, en enero de 1979. Poco después, Bittaker compró una furgoneta plateada." },
+        { "voz": "ximena", "texto": "Entre junio y octubre de 1979 secuestraron y asesinaron a cinco chicas. Lucinda Schaefer, de dieciséis años, volvía de una reunión de la iglesia en Redondo Beach. Andrea Hall, de dieciocho, hacía autoestop. Jackie Gilliam, de quince, y Leah Lamp, de trece, iban juntas hacia Hermosa Beach." },
+        { "voz": "ximena", "texto": "Shirley Ledford, de dieciséis, desapareció la noche de Halloween, cuando volvía de una fiesta. A la mañana siguiente, un hombre que salió a correr encontró su cuerpo en un barrio residencial. Fue la única de las cinco que apareció entonces." },
+        { "voz": "alvaro", "texto": "Nota del inspector. No voy a repetir lo que Norris describió aquel día. Fue de una crueldad extrema, y los detalles no honran a nadie. Anoto otra cosa: presentó a Bittaker como el cabecilla, y a sí mismo como el que seguía. Esa versión iba a pesar en todo lo que vino después." },
+        { "voz": "ximena", "texto": "La prensa los llamaría Toolbox Killers, los asesinos de la caja de herramientas, por los utensilios que llevaban en la furgoneta." },
+        { "voz": "alvaro", "texto": "Y al terminar aquella declaración, Roy Norris tenía algo que ofrecer. Sabía dónde estaban algunas de las chicas." },
+        { "voz": "ximena", "texto": "Por cinco asesinatos, en California, la fiscalía podía pedir para él la pena de muerte. Así que Norris empezó a negociar." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "¿Planearon sus crímenes desde dentro de la cárcel?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Eso declaró Norris más tarde. Bittaker quedó en libertad en 1978 y Norris, a comienzos de 1979. Se reencontraron en el área de Los Ángeles. Bittaker compró una furgoneta plateada, y con ella empezaron a recorrer las carreteras de la costa. Aquella furgoneta se convertiría en la pieza central de esta historia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Roy Norris, el asesino de la furgoneta de herramientas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Norris nació en 1948 en Colorado. Tuvo una infancia inestable, sirvió en la Marina de Estados Unidos y, tras dejarla, acumuló detenciones y condenas por agresiones sexuales en California. Por eso estaba en prisión cuando conoció a su futuro cómplice. Bittaker, ocho años mayor, arrastraba también un largo historial delictivo que incluía un grave ataque con arma blanca."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre junio y octubre de 1979, Norris y Bittaker secuestraron y asesinaron a cinco chicas adolescentes en el sur de California. Tenían entre trece y dieciocho años. Las abordaban en la calle o cuando hacían autoestop, en ciudades costeras como Hermosa Beach o Redondo Beach, y las llevaban en la furgoneta a las montañas de San Gabriel."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sus nombres eran Lucinda Schaefer, Andrea Hall, Jacqueline Gilliam, Jacqueline Leah Lamp y Shirley Ledford. Detrás de cada una había una familia que, durante semanas o meses, no supo nada de ellas. Como ocurre a menudo con adolescentes, algunas desapariciones se trataron al principio como posibles fugas de casa."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y algunas de esas familias nunca pudieron recuperar a sus hijas para enterrarlas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los crímenes fueron de una crueldad extrema, y aquí no vamos a detallarlos. Lo que importa recordar es quiénes eran ellas: chicas con toda la vida por delante. La furgoneta, cargada de herramientas, acabó dando a la pareja el nombre con el que se la conoce: los Toolbox Killers."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cómo se llegó hasta ellos?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por dos caminos. Por un lado, una joven a la que habían atacado en septiembre de 1979 logró escapar y lo denunció a la policía. Por otro, Norris le contó lo que habían hecho a un antiguo compañero de prisión, que acabó acudiendo a las autoridades."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los investigadores unieron ambas pistas y, en noviembre de 1979, detuvieron a los dos. La joven superviviente los reconoció. Y Norris, ante la perspectiva de una condena a muerte, empezó a negociar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Aceptó un acuerdo con la fiscalía: confesó, ayudó a localizar los restos de algunas víctimas en las montañas y testificó contra Bittaker. A cambio, evitó la pena capital. Fue condenado a una pena de cuarenta y cinco años a cadena perpetua."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué pasó con Bittaker?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En el juicio, el testimonio de su antiguo cómplice y las pruebas reunidas tras las detenciones resultaron decisivos. Fue uno de los procesos más duros de la época en Los Ángeles, por la naturaleza de los crímenes y por el sufrimiento de las familias, que tuvieron que escuchar lo ocurrido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El jurado lo declaró culpable y, en 1981, fue condenado a muerte. Nunca llegó a ser ejecutado: pasó casi cuatro décadas en el corredor de la muerte de San Quentin, donde murió en 2019. Norris murió en prisión pocos meses después, en 2020."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Dos cómplices, y dos destinos judiciales muy distintos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y una pregunta incómoda que acompaña a muchos acuerdos con la fiscalía: ¿es justo que uno de los autores reciba una pena menor a cambio de declarar? En este caso, sin su testimonio y su ayuda, algunas familias quizá nunca habrían sabido dónde estaban sus hijas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso dejó también una lección sobre las libertades condicionales. Los dos tenían antecedentes graves por violencia, y ambos salieron de prisión con pocos meses de diferencia. Su historia alimentó el debate sobre cómo se supervisa a los condenados por delitos violentos cuando recuperan la libertad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, el expediente de Norris está vinculado con el de Lawrence Bittaker, su cómplice en los cinco asesinatos. Juntos forman uno de los casos más estremecedores del sur de California."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero hoy, antes que sus nombres, queremos recordar los de Lucinda, Andrea, Jackie, Leah y Shirley. Hasta aquí el expediente de Roy Norris. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un cañón en las montañas de San Gabriel",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Un cañón en las montañas de San Gabriel." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Roy Norris. En 1979, junto a Lawrence Bittaker, al que había conocido en la cárcel, secuestró y asesinó a cinco adolescentes en el sur de California. Los dos fueron detenidos en noviembre de aquel año." },
+        { "voz": "ximena", "texto": "Norris guía a los investigadores hasta las montañas de San Gabriel, al norte de Los Ángeles. El 9 de febrero de 1980, en un cañón, aparecen los restos de Jackie Gilliam y de Leah Lamp. Llevaban desaparecidas desde principios de septiembre." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Buscaron también a Lucinda Schaefer y a Andrea Hall, en los lugares que él señaló. No las encontraron. Nunca se han encontrado. Es la otra cara de cualquier trato así: todo depende de la memoria y de la palabra de un asesino." },
+        { "voz": "ximena", "texto": "Ese mismo mes, la fiscalía lo acusa de asesinato. Antes de que pase un mes, Norris cierra el acuerdo: declarará contra Bittaker y, a cambio, no se pedirá para él la pena de muerte." },
+        { "voz": "ximena", "texto": "Se declara culpable de cinco asesinatos, de dos violaciones y de un robo. La pena pactada es de cuarenta y cinco años a cadena perpetua. Podría pedir la libertad condicional, pero solo al cabo de décadas." },
+        { "voz": "ximena", "texto": "Enero de 1981. Empieza en Los Ángeles el juicio contra Lawrence Bittaker. El testigo estrella de la acusación es su antiguo cómplice. Roy Norris sube al estrado y relata, uno por uno, los cinco crímenes." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Es el momento más delicado de un juicio así. El jurado escucha a un hombre que ha confesado cinco asesinatos y que se ha librado de la pena de muerte por declarar. ¿Por qué creerle? La defensa insistió en eso: que el asesino era Norris, y que había incriminado a Bittaker." },
+        { "voz": "ximena", "texto": "La respuesta estaba en las pruebas. Fotografías de algunas víctimas. La pulsera de una de ellas, en el piso de Norris. Y la cinta de audio grabada en la furgoneta durante uno de los crímenes. Se reprodujo ante el jurado. No vamos a describirla." },
+        { "voz": "ximena", "texto": "Bittaker también declaró. Admitió parte de los hechos, pero culpó de las muertes a Norris. El jurado no le creyó." },
+        { "voz": "ximena", "texto": "En febrero de 1981, el jurado declaró a Bittaker culpable de los cinco asesinatos y de otros veintiún delitos. En marzo fue condenado a muerte. Nunca llegó a ser ejecutado: murió en el corredor de la muerte de San Quentin en diciembre de 2019." },
+        { "voz": "ximena", "texto": "La condena de Norris se firmó en 1981, ya terminado aquel juicio. Ya no volvería a salir: pasó el resto de su vida en cárceles de California." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Me hago la pregunta que este expediente obliga a hacer. ¿Fue justo el trato? Sin Norris, quizá dos familias no habrían recuperado a sus hijas. Con él, uno de los dos autores evitó la pena de muerte. No tengo una respuesta limpia. Anoto los dos platos de la balanza." },
+        { "voz": "ximena", "texto": "Desde 2009, la ley le permitía pedir la libertad condicional. Nunca la obtuvo." },
+        { "voz": "ximena", "texto": "Roy Norris murió el 24 de febrero de 2020, a los setenta y dos años, en el centro médico penitenciario de Vacaville, por causas naturales. Llevaba más de cuarenta años preso. Bittaker había muerto apenas dos meses antes." },
+        { "voz": "alvaro", "texto": "Nota del inspector. El caso dejó una lección. Dos hombres con antecedentes graves por violencia salieron en libertad condicional con pocos meses de diferencia. A uno de ellos, además, unos médicos lo habían dado por no peligroso. En menos de un año, cinco chicas habían muerto." },
+        { "voz": "ximena", "texto": "Y dejó otra: escuchar. La joven que denunció el ataque de septiembre y el antiguo preso que no quiso callarse fueron quienes detuvieron aquella furgoneta. Sin ellos, quizá la lista habría sido más larga." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de Roy Norris, pero no le pertenece. Pertenece a Lucinda Schaefer y a Shirley Ledford, de dieciséis años. A Andrea Hall, de dieciocho. A Jackie Gilliam, de quince. A Leah Lamp, de trece. Lucinda y Andrea siguen sin aparecer. Sus familias nunca pudieron enterrarlas." },
+        { "voz": "ximena", "texto": "Fin del expediente de Roy Norris y los asesinatos de la caja de herramientas. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/norris.json. Pareja con bittaker: aquí se cuenta desde Norris (soplo, detención, confesión, trato, testimonio, libertad condicional y muerte); los hechos y cifras compartidos son los mismos. DISCREPANCIAS ENTRE FUENTES (se han dejado fuera las fechas exactas en disputa): 1) Fecha del secuestro de Lucinda Schaefer: 24 de junio (Tribunal Supremo de California, People v. Bittaker, 1989; Wikipedia) o 14 de junio (CDCR, 2019). 2) Andrea Hall: 4 de julio (Tribunal Supremo) u 8 de julio (CDCR; Wikipedia). 3) Gilliam y Lamp: 2 de septiembre (Tribunal Supremo; CDCR) o 3 de septiembre (Wikipedia). 4) Edad de Shirley Ledford: 18 según la sentencia de 1989; 16 según el CDCR, UPI (1981), CBS y KTVU (2020): el guion dice 16. 5) Condena de Norris: el CDCR dice que fue sentenciado el 28/4/1981 y que está en prisión desde el 8/5/1981 (KTVU también da 1981); Wikipedia dice que se declaró culpable el 18/3/1980 y fue sentenciado el 7/5/1980. El guion no da la fecha de la declaración de culpabilidad y dice que la condena «se firmó en 1981». Oxygen (2021) dice «25 años a cadena perpetua», contra los 45 del CDCR, la sentencia de 1989 y la prensa: se usan 45. 6) La v2 decía que Bittaker salió «en 1978» y Norris «a comienzos de 1979»: correcto (noviembre de 1978 y enero de 1979, sentencia de 1989). 7) La v2 decía que la joven atacada en septiembre «logró escapar»: según Wikipedia, a Robin Robeck la soltaron tras la agresión, y la que escapó fue Jan Malin (el mismo 30/9/1979); el guion dice «atacada y después liberada» y no nombra a ninguna de las dos. 8) La v2 decía que Norris guio a los restos de «algunas víctimas»: solo aparecieron Gilliam y Lamp (9/2/1980); Schaefer y Hall nunca se encontraron (CDCR, CBS, KTVU). DUDAS: a) El orden entre el hallazgo del 9/2/1980 y la acusación formal de febrero de 1980 no está claro en las fuentes; el guion dice «ese mismo mes». b) Libertad condicional: Wikipedia dice que pudo pedirla desde 2009, no acudió a la vista y se la volvieron a negar en 2019; titular del Daily Breeze del 25/3/2009 («Redondo Beach killer is denied parole»), no leído entero. El guion solo dice que pudo pedirla desde 2009 y nunca la obtuvo. c) Infancia en familias de acogida y destino en Vietnam (1969) solo están en Wikipedia (a partir de Markman y Bosco, 1989) y la v2; el guion lo atribuye a «su propio relato». d) No se nombra al antiguo compañero que dio el soplo (Joseph Jackson, según Wikipedia) ni a las supervivientes. e) Se nombra a víctimas menores (Lamp, 13; Gilliam, 15; Schaefer y Ledford, 16): nombres públicos desde 1979 y difundidos por la prensa y las autoridades, como en brady; misma duda de la regla 5."
 }

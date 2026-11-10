@@ -1,117 +1,92 @@
 {
   "id": "ridgway",
-  "titulo": "La muestra que esperó catorce años",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Gary Ridgway": "Gári Rídyuei",
     "Ridgway": "Rídyuei",
     "Green River Task Force": "Grin Ríver Task Fors",
     "Green River": "Grin Ríver",
+    "Green": "Grin",
     "Washington": "Guáshinton",
     "Salt Lake City": "Salt Léik Síti",
     "Seattle": "Siátel",
     "Kenworth": "Kénguorz",
+    "Renton": "Rénton",
     "Pacific Highway": "Pasífic Jáiguei",
     "Ted Bundy": "Ted Bándi",
     "Bundy": "Bándi",
     "Robert Keppel": "Róbert Képel",
     "Dave Reichert": "Déiv Ráikert",
     "Wendy Coffield": "Uéndi Kófild",
-    "Green": "Grin"
+    "Marie Malvar": "Marí Malvár",
+    "Jeff Baird": "Yef Berd",
+    "Skip Palenik": "Eskip Pálenik",
+    "Palenik": "Pálenik",
+    "Imron": "Ímron",
+    "DuPont": "Diupónt",
+    "Richard Jones": "Ríchard Yóuns",
+    "Norm Maleng": "Norm Máleng",
+    "Rebecca Marrero": "Rebeca Marréro",
+    "Auburn": "Óburn",
+    "Wendy Stephens": "Uéndi Stívens",
+    "Lori Razpotnik": "Lóri Raspótnik",
+    "Tammie Liles": "Támi Láils",
+    "Kassee Ann Lee": "Kási An Li",
+    "Kelly McGinnis": "Kéli Mekguínis",
+    "Patricia Osborn": "Patrícia Ósborn",
+    "NBC News": "en bi si Niús"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Abril de 1987, condado de King, en el estado de Washington. Unos investigadores piden a un pintor de camiones que muerda un trozo de gasa. Quieren una muestra de su saliva. Con la tecnología de la época, poco pueden hacer con ella. La guardan. Tendrán que esperar catorce años."
+      "n": 1,
+      "titulo": "Un trozo de gasa",
+      "tipo": "notas",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Gary Ridgway, el asesino de Green River. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un trozo de gasa." },
+        { "voz": "ximena", "texto": "8 de abril de 1987. Kent, en el estado de Washington, al sur de Seattle. La policía registra la casa, los vehículos y el lugar de trabajo de un pintor de camiones de treinta y ocho años. Antes de irse, le piden algo más: que muerda un trozo de gasa." },
+        { "voz": "ximena", "texto": "Quieren su saliva. Con la tecnología de 1987, poco pueden hacer con ella. No hay pruebas para detenerlo. El hombre vuelve a su trabajo en la fábrica de camiones Kenworth, en Renton. Y la gasa se guarda." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Ese hombre se llama Gary Ridgway, y no es la primera vez que aparece en este expediente. Lleva cuatro años en la lista de sospechosos. Lo que me inquieta es lo que viene después: pasarán catorce años antes de que alguien sepa lo que contaba ese trozo de gasa." },
+        { "voz": "ximena", "texto": "Para entender por qué lo buscaban hay que volver a 1982. El 15 de julio aparece en el río Green, cerca de Kent, el cuerpo de Wendy Coffield, de dieciséis años. En las semanas siguientes aparecen cuatro mujeres más, en el río o en sus orillas." },
+        { "voz": "ximena", "texto": "El 16 de agosto, la policía del condado de King crea un equipo especial: la Green River Task Force. La prensa ya tiene nombre para el autor desconocido: el asesino de Green River. En la primavera de 1983 ya es la mayor investigación de asesinatos del país." },
+        { "voz": "ximena", "texto": "Muchas víctimas eran adolescentes o mujeres muy jóvenes. Muchas ejercían la prostitución en la Pacific Highway, la carretera que pasa junto al aeropuerto de Seattle; otras se habían escapado de casa. Las desapariciones siguieron. A finales de 1984, la lista oficial llegaba a cuarenta y dos." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto un dato que lo explica casi todo. Eran mujeres a las que pocos buscaban. El asesino lo sabía. Cuando por fin habló, dijo que las elegía porque creía que podría matarlas sin que lo atraparan." },
+        { "voz": "ximena", "texto": "En abril de 1983 desaparece Marie Malvar, de dieciocho años. Su entorno cree reconocer, aparcada delante de una casa, la camioneta a la que se subió. Es la casa de Gary Ridgway. La policía lo interroga." },
+        { "voz": "ximena", "texto": "Ridgway nació en 1949 en Salt Lake City y creció cerca de Seattle. Sirvió en la Marina durante la guerra de Vietnam. Pintaba camiones en Kenworth, se había divorciado dos veces y tenía un hijo. En 1984 se sometió al polígrafo. Lo superó." },
+        { "voz": "alvaro", "texto": "Nota del inspector. El polígrafo. Una prueba que los tribunales no aceptan, y que aquí sirvió para tranquilizar a los investigadores. Un sospechoso que la supera parece menos sospechoso. Es uno de los errores que más pesan en este expediente, aunque entonces nadie podía saberlo." },
+        { "voz": "ximena", "texto": "Ese mismo año llegó una ayuda inesperada. Ted Bundy, condenado a muerte en Florida, se ofreció a colaborar. Los investigadores Robert Keppel y Dave Reichert fueron a entrevistarlo. Bundy les sugirió que el asesino volvía a los lugares donde dejaba los cuerpos, y que vigilaran cualquier tumba reciente." },
+        { "voz": "alvaro", "texto": "Bundy no resolvió nada. Pero en eso acertó: años después, Ridgway admitió que volvía junto a algunas de sus víctimas. El expediente de Bundy también está en este archivo." },
+        { "voz": "ximena", "texto": "Tras el registro de 1987, la investigación se fue apagando. Seguían apareciendo restos, pero no surgía ningún sospechoso nuevo. En julio de 1991, de aquel gran equipo especial quedaba un solo investigador." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Un solo investigador para decenas de muertes. Y, sin que nadie lo supiera, el asesino seguía matando. Su última víctima conocida murió en 1998. Entre las pruebas del caso, mientras tanto, seguía guardada aquella gasa de 1987." },
+        { "voz": "ximena", "texto": "En marzo de 2001, el laboratorio criminal del estado empezó a analizar las pruebas antiguas con una nueva técnica de ADN." },
+        { "voz": "ximena", "texto": "Y entre las muestras que volvieron a salir de sus cajas estaba la saliva del pintor de Kent." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Catorce años con la prueba clave esperando su momento."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y durante todo ese tiempo, el hombre al que pertenecía siguió viviendo en la zona, yendo cada mañana a la misma fábrica."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Gary Ridgway, el asesino de Green River."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ridgway nació en 1949 en Salt Lake City y creció cerca de Seattle. Tras servir en la Marina, entró a trabajar como pintor de camiones en la fábrica de Kenworth, en Renton. Allí siguió más de treinta años. Se casó tres veces y, para muchos, era un vecino corriente."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En el verano de 1982 empezaron a aparecer cuerpos de mujeres jóvenes en el río Green y en sus alrededores, cerca de la ciudad de Kent. Muchas eran adolescentes. Y muchas habían sido vistas por última vez en la Pacific Highway, la carretera que pasa junto al aeropuerto de Seattle."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La primera víctima hallada, Wendy Coffield, tenía dieciséis años. En las semanas siguientes aparecieron más mujeres en el río y en zonas boscosas cercanas. El miedo se extendió por todo el sur del condado."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "La prensa lo bautizó enseguida como el asesino de Green River."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y se creó un equipo especial, la Green River Task Force. En los años siguientes desaparecieron decenas de mujeres más. Eran chicas en situaciones muy vulnerables: muchas ejercían la prostitución, algunas se habían escapado de casa. Sus familias tardaron años en obtener respuestas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se convirtió en una de las investigaciones más largas y costosas de Estados Unidos. Los investigadores reunieron miles de pistas y de nombres de posibles sospechosos. El problema no era la falta de información: era encontrar la aguja en aquel pajar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ridgway llegó a estar en el radar de los investigadores. En 1984 incluso superó una prueba del polígrafo. En 1987 le registraron la casa y le tomaron aquella muestra de saliva. Pero no había nada concluyente contra él, y siguió con su vida."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y aquí aparece un nombre que nadie esperaba en esta investigación."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ted Bundy, cuyo expediente también está en este archivo. En 1984, desde el corredor de la muerte en Florida, Bundy escribió a los investigadores para ofrecerles su ayuda. Los detectives Robert Keppel y Dave Reichert se entrevistaron con él. Sus ideas no resolvieron el caso, pero ese contacto es uno de sus episodios más conocidos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Mientras tanto, la investigación se estancaba. Los asesinatos parecieron detenerse a mediados de los ochenta, aunque más tarde se supo que Ridgway había seguido matando durante años, hasta 1998."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué cambió en 2001?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Que la ciencia alcanzó al caso. Los nuevos análisis de ADN permitieron comparar aquella saliva de 1987 con restos biológicos hallados en varias víctimas. Coincidían. El 30 de noviembre de 2001, Ridgway fue detenido al salir de la fábrica. Dave Reichert, uno de los primeros detectives del caso, era para entonces el sheriff del condado. Habían pasado casi veinte años."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hubo además otra prueba: diminutas partículas de pintura halladas en algunas víctimas, del mismo tipo que se usaba en la fábrica donde trabajaba. Un ejemplo de cómo el análisis de restos microscópicos puede reforzar un caso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2003, Ridgway aceptó un acuerdo con la fiscalía. Se declaró culpable de cuarenta y ocho asesinatos y, a cambio de evitar la pena de muerte, ayudó a localizar los restos de víctimas que seguían desaparecidas. En 2011 admitió un asesinato más. Durante meses, acompañó a los investigadores a los lugares donde había dejado a sus víctimas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuál fue la condena?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cuarenta y nueve cadenas perpetuas consecutivas, sin posibilidad de libertad condicional. Se le atribuyen al menos cuarenta y nueve víctimas, aunque él mismo llegó a hablar de muchas más, y algunas estimaciones superan las setenta."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El acuerdo fue polémico: evitaba la pena de muerte a uno de los asesinos en serie con más condenas de la historia de Estados Unidos. Pero para muchas familias significó algo esencial: saber, por fin, dónde estaban sus hijas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso Green River es hoy un ejemplo clásico del valor de conservar las pruebas. Una muestra guardada en 1987 resolvió en 2001 lo que años de investigación no habían logrado. Y recuerda también que, detrás de cada expediente archivado, hay familias que siguen esperando."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Gary Ridgway. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Esferas de pintura",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Esferas de pintura." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente del asesino de Green River, que mató a decenas de mujeres en el condado de King, en el estado de Washington, desde 1982. Su principal sospechoso, el pintor de camiones Gary Ridgway, había dado una muestra de saliva en 1987." },
+        { "voz": "ximena", "texto": "En 2001, el nuevo análisis de ADN comparó esa saliva con restos biológicos hallados en varias víctimas. Coincidían. La policía lo vigiló durante unos dos meses. El 30 de noviembre de 2001 lo detuvieron al salir de la fábrica de Kenworth, en Renton." },
+        { "voz": "ximena", "texto": "El sheriff del condado era ya Dave Reichert, uno de los primeros detectives del caso. Explicó que habían interrogado a Ridgway varias veces y registrado su casa en 1987, pero que hasta entonces nunca hubo pruebas suficientes. Lo acusaron de cuatro asesinatos." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Cuatro, de una lista de cuarenta y nueve. El ADN solo servía donde quedaban restos biológicos, y muchos cuerpos habían pasado años a la intemperie. Para el resto hacía falta otra cosa. Y la fiscalía fue a buscarla fuera del laboratorio del estado." },
+        { "voz": "ximena", "texto": "En 2002, el fiscal Jeff Baird contrató laboratorios privados. Uno era el del especialista en rastros Skip Palenik. Al aspirar la ropa de las víctimas, encontró unas esferas diminutas de pintura. Eran de Imron, una pintura de la marca DuPont que se usaba en Kenworth." },
+        { "voz": "ximena", "texto": "Aquellas partículas permitieron acusarle de tres asesinatos más, entre ellos el de Wendy Coffield. En junio de 2003, Ridgway firmó un acuerdo: confesaría y ayudaría a encontrar restos a cambio de evitar la pena de muerte. Ese verano llevó a los investigadores a varios bosques del condado." },
+        { "voz": "ximena", "texto": "El 5 de noviembre de 2003, ante el juez Richard Jones, se declaró culpable de cuarenta y ocho asesinatos: cuarenta y dos de la lista de la policía y seis que nadie le atribuía. Se leyó cada nombre. A cada uno respondió que sí. En la sala, muchas familias lloraban." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Leo sus explicaciones, tal como las recogió la prensa. Que odiaba a aquellas mujeres. Que no quería pagarles. Que les quitaba las joyas y la ropa para que costara identificarlas. Y que las dejaba en grupos, cerca de referencias del paisaje, para no olvidar dónde estaban." },
+        { "voz": "ximena", "texto": "El fiscal del condado, Norm Maleng, defendió el acuerdo como el camino hacia la verdad, y dijo de Ridgway que no merecía piedad ni merecía vivir. Algunas familias se opusieron al trato. Otras lo apoyaron: para ellas, lo esencial era saber." },
+        { "voz": "ximena", "texto": "El 18 de diciembre de 2003 fue condenado a cuarenta y ocho cadenas perpetuas consecutivas, sin posibilidad de salir. En 2011 se declaró culpable de otro asesinato, el de Rebecca Marrero, de veinte años, cuyos restos aparecieron en 2010 cerca de Auburn. Suma cuarenta y nueve condenas." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Ahora, el error que más me pesa. En 2023, una investigación de NBC News reveló que aquellas esferas de pintura estaban en la ropa de Wendy Coffield desde 1982. Palenik había dado formación al laboratorio del estado en 1985. Le dijeron que lo llamarían si surgía un sospechoso. Nunca lo llamaron." },
+        { "voz": "ximena", "texto": "Según Palenik, con un microscopio de infrarrojos la pintura podría haberse identificado ya en los años ochenta. Investigadores veteranos del caso dijeron que, de haberlo sabido, habrían pedido el análisis. Mientras tanto, Ridgway siguió matando hasta 1998." },
+        { "voz": "ximena", "texto": "Él mismo habló de muchas más víctimas, y los investigadores calculan entre sesenta y cinco y más de setenta. La búsqueda sigue. Entre 2021 y 2024, el ADN devolvió el nombre a tres víctimas que llevaban décadas sin identificar: Wendy Stephens, Lori Razpotnik y Tammie Liles." },
+        { "voz": "alvaro", "texto": "Y anoto lo que sigue abierto. La policía del condado de King todavía busca a tres jóvenes desaparecidas en 1982 y 1983, que figuran en la investigación: Kassee Ann Lee, de dieciséis años; Kelly McGinnis, de dieciocho; y Patricia Osborn, de diecinueve. Nadie ha sido condenado por su desaparición." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de un río, y casi siempre el de su asesino. Pero pertenece a Wendy Coffield, a Marie Malvar, a Rebecca Marrero y a las demás mujeres y chicas de la lista. Sus familias tardaron décadas en tener respuestas. Algunas siguen esperando." },
+        { "voz": "ximena", "texto": "Fin del expediente de Gary Ridgway, el asesino de Green River. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/ridgway.json. DISCREPANCIAS: 1) Muestra de saliva: la v2 decía «abril de 1987» y que la tomaron unos investigadores; confirmado (registro y muestras del 8/4/1987, cronología de AP en The Herald; Wikipedia; NBC News: gasa mordida). 2) Bundy: la v2 decía que «escribió a los investigadores» en 1984. Wikipedia (artículo de Bundy, citando a Keppel, «The Riverman», y a Ann Rule) dice que en octubre de 1984 contactó con Keppel y se ofreció a ayudar, y que Keppel y Reichert lo entrevistaron; no queda claro que fuera por carta, así que el guion dice «se ofreció a colaborar». 3) La v2 decía que Ridgway trabajó en Kenworth «más de treinta años»: no encontrado en las fuentes consultadas; el guion no da la cifra. 4) La v2 hablaba de «diminutas partículas de pintura del mismo tipo que se usaba en la fábrica»: correcto; NBC News (2023) añade que eran de Imron (DuPont), que las encontró Skip Palenik (Microtrace) en 2003 y que podían haberse detectado en los ochenta. 5) Cifra de víctimas: la ficha dice «49 (estimadas 71+)»; 49 condenas (48 en 2003 y Rebecca Marrero en 2011, History.com y Wikipedia; Wikipedia recoge también una versión que atribuye la condena 49 al cráneo de Tracy Winston, contradictoria); él habló de 65 y después de 71 (Wikipedia); el Bellevue Reporter (2024) dice que los detectives creen que fueron entre 65 y 70; el guion dice «entre sesenta y cinco y más de setenta». La web del sheriff dice «al menos 48» y lista víctimas identificadas después (Stephens, Razpotnik, Liles). 6) Edad de Rebecca Marrero: 20 (History.com). DUDAS: a) La vigilancia de «unos dos meses» antes de la detención sale de una crónica de AP de diciembre de 2001 vista solo en un resumen de búsqueda; Wikipedia no la da. b) El testimonio que llevó a Ridgway en 1983: Wikipedia habla del novio de Marie Malvar; un artículo del Seattle P-I (2001) habla de su padre; el guion dice «su entorno». c) Fechas de identificación de Stephens (enero de 2021), Razpotnik (diciembre de 2023) y Liles (enero de 2024): Wikipedia; la web del sheriff las incluye ya en la lista de víctimas. d) El traslado de Ridgway a la cárcel del condado en septiembre de 2024 (Bellevue Reporter) se ha dejado fuera porque la razón no se ha confirmado. e) Se nombra a Wendy Coffield, de 16 años, y a tres desaparecidas menores o muy jóvenes (Kassee Ann Lee, 16): nombres que publica el propio sheriff del condado de King para pedir colaboración; misma duda de la regla 5 que en brady."
 }

@@ -1,105 +1,76 @@
 {
   "id": "ishikawa",
-  "titulo": "La maternidad de Kotobuki",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Miyuki Ishikawa": "Miyúki Ishikáua",
-    "Takeshi Ishikawa": "Takéshi Ishikáua",
+    "Takeshi": "Takéshi",
     "Ishikawa": "Ishikáua",
     "Kotobuki": "Kotobúki",
     "Shinjuku": "Shinyúku",
     "Miyazaki": "Miyasáki",
-    "Shiro Nakayama": "Shíro Nakayáma"
+    "Shiro Nakayama": "Shíro Nakayáma",
+    "Waseda": "Uaséda",
+    "Isamu Ide": "Isámu Íde",
+    "Musei Tokugawa": "Muséi Tokugáua",
+    "Yuriko Miyamoto": "Yúriko Miyamóto",
+    "Michiko Yamazaki": "Míchiko Yamasáki"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Tokio, enero de 1948. La policía encuentra los restos de varios recién nacidos. Las autopsias no dejan lugar a dudas: aquellos bebés no han muerto por causas naturales. El rastro conduce a una maternidad del barrio de Shinjuku y a la mujer que la dirige, una comadrona respetada de cincuenta años."
+      "n": 1,
+      "titulo": "Una bicicleta en la noche de Tokio",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Miyuki Ishikawa y la maternidad Kotobuki. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una bicicleta en la noche de Tokio." },
+        { "voz": "ximena", "texto": "Lunes, 12 de enero de 1948. Tokio, dos años y medio después de la derrota. Es de noche en el barrio de Shinjuku. Dos agentes de la comisaría de Waseda hacen una ronda de vigilancia y dan el alto a un hombre con una bicicleta. Lleva cargadas unas cajas de madera." },
+        { "voz": "ximena", "texto": "El hombre trabaja en una funeraria y tiene cincuenta y cuatro años. Los agentes le piden que abra las cajas. Dentro hay cuerpos de recién nacidos, envueltos en ropa de punto y en pañales. Son cinco." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Lo primero que hace el hombre es enseñar los papeles. Lleva permisos de entierro en regla. Y explica de dónde vienen los cuerpos: de una maternidad del barrio, la maternidad Kotobuki. Los agentes lo dejan marchar. Sobre el papel, no hay nada irregular." },
+        { "voz": "ximena", "texto": "Pero aquel hombre había dicho algo más. Que no era la primera vez. Que ya había incinerado unos treinta bebés para la misma maternidad. Los agentes se lo cuentan a su jefe, el comisario de Waseda, Isamu Ide." },
+        { "voz": "alvaro", "texto": "Treinta. Aquí gira el expediente. Un permiso de entierro explica una muerte. No explica treinta. Ide entendió que el problema no estaba en los papeles, sino en su número. A la mañana siguiente mandó a sus detectives a retener los cuerpos y avisó a la fiscalía." },
+        { "voz": "ximena", "texto": "Los cinco bebés se examinan en el Primer Hospital Nacional de Tokio. Las autopsias son claras: tres han muerto de hambre y dos de frío. Ninguno tiene alimento en el estómago." },
+        { "voz": "ximena", "texto": "El 15 de enero, de madrugada, la policía detiene a la directora de la maternidad, a su marido y al hombre de las cajas. Ella se llama Miyuki Ishikawa. Tiene cincuenta años y es una de las comadronas más conocidas del barrio." },
+        { "voz": "ximena", "texto": "Nació en 1897 en la prefectura de Miyazaki, en el sur de Japón. Se tituló como comadrona en Tokio en 1919, y ese mismo año se casó con Takeshi Ishikawa, que llegó a ser policía. Ella ocupaba cargos en las asociaciones de comadronas. En 1947 incluso se presentó a las elecciones del distrito." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Repaso cómo funcionaba aquello, según la investigación. La maternidad ponía anuncios en los periódicos: se aceptaban bebés, con discreción. Las madres eran sobre todo mujeres solas: viudas de guerra, camareras, jóvenes sin recursos. Pagaban entre cinco mil y diez mil yenes para que alguien criara a sus hijos." },
+        { "voz": "ximena", "texto": "A algunos niños los entregaban a familias adoptivas, también a cambio de dinero. A los que nadie se llevaba los dejaban sin cuidados. Recibían menos de la mitad de la leche necesaria. Apenas se les lavaba. Solo veían a un médico cuando ya se estaban muriendo." },
+        { "voz": "ximena", "texto": "Mientras tanto, la leche en polvo, el azúcar y hasta el sake que el racionamiento daba para los funerales acababan en el mercado negro. En el registro de la casa, la policía encontró leche en polvo, azúcar y arroz guardados." },
+        { "voz": "alvaro", "texto": "Y luego están los papeles que tanto tranquilizaron a todos. Un médico de sesenta años, Shiro Nakayama, firmó decenas de certificados de defunción casi sin ver a los bebés. Las muertes llegaban al distrito con causas corrientes. La prensa de la época lo reprochó: tantos avisos desde una misma dirección, y nadie preguntó." },
+        { "voz": "ximena", "texto": "Al reconstruir los libros, la policía contó doscientos once niños recibidos desde 1943. Y ochenta y cuatro permisos de entierro, casi todos de 1946 y 1947. Los primeros periódicos llegaron a hablar de ciento sesenta y nueve muertos. Esa cifra nunca se confirmó." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto algo que me pesa. Cuando llegó la policía, en la maternidad quedaban siete bebés con vida. Dos murieron en los días siguientes. Para ellos, la investigación llegó tarde." },
+        { "voz": "ximena", "texto": "La noticia sacudió Japón. El 18 de enero se juntó gente a las puertas de la comisaría de Waseda para gritar contra el matrimonio. Ese mismo día detuvieron a una ayudante de la maternidad y al médico de los certificados. Al día siguiente, el gobierno de Tokio prohibió a Ishikawa ejercer como comadrona." },
+        { "voz": "alvaro", "texto": "Faltaba lo más difícil. Demostrar ante un tribunal cuántos de aquellos niños habían muerto porque alguien decidió no alimentarlos." },
+        { "voz": "ximena", "texto": "Y Miyuki Ishikawa tenía preparada su defensa. Una pregunta, dirigida al país entero." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Una comadrona: alguien cuyo oficio es, precisamente, ayudar a nacer. Y esta es una de las historias más oscuras de la posguerra japonesa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Miyuki Ishikawa, conocida como la partera demoníaca."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ishikawa nació en 1897 en la prefectura de Miyazaki, en el sur de Japón. Estudió obstetricia en Tokio, se casó con Takeshi Ishikawa y llegó a ser una comadrona con prestigio. Dirigía la maternidad Kotobuki y tenía un papel destacado en la asociación de comadronas de su distrito."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para entender lo que ocurrió hay que situarse en el Japón de la posguerra. Un país derrotado, con ciudades destruidas, escasez de alimentos y una pobreza enorme. Nacían muchos niños que sus familias no podían mantener, y el aborto todavía era ilegal. Además, tras la guerra el país vivió un fuerte aumento de los nacimientos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y en ese contexto, una maternidad se convirtió en una trampa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muchos padres sin recursos dejaban allí a sus bebés. Ishikawa, con la ayuda de su marido, en lugar de cuidarlos o buscarles una familia, los dejaba morir por desatención deliberada. Y al mismo tiempo cobraba dinero a los padres, que creían estar pagando por su cuidado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Según la acusación, el matrimonio se habría beneficiado además de las raciones de alimentos y de otras ayudas destinadas a aquellos niños, en un momento en que la comida era un bien escaso y muy valioso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para ocultarlo, contaban con la complicidad de un médico, Shiro Nakayama, que firmaba certificados de defunción falsos. Sobre el papel, aquellos bebés morían de enfermedades corrientes en una época de miseria. Y casi nadie hacía preguntas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hay que recordar que, en aquel Tokio arrasado, la mortalidad infantil era muy alta. Que un bebé muriera no extrañaba a casi nadie. Precisamente por eso, durante años, nadie se preguntó por qué en una sola maternidad morían tantos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Cuántos bebés murieron así?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nunca se ha sabido con exactitud. Las estimaciones van de ciento tres a ciento sesenta y nueve, entre 1944 y 1948. La investigación no pudo reconstruir con certeza el destino de cada niño que pasó por aquella maternidad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras el hallazgo de enero de 1948, la policía detuvo a Ishikawa, a su marido y al médico. La noticia ocupó grandes titulares y causó un enorme escándalo en todo Japón. Y entonces llegó la parte más desconcertante de esta historia."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿El juicio?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Durante el proceso, la defensa de Ishikawa sostuvo que la responsabilidad era de los padres que habían abandonado a sus hijos. Y una parte de la opinión pública de la época llegó a compartir, en mayor o menor medida, ese argumento. Era una idea cruel, pero encontró eco en una sociedad agotada por la guerra, donde el abandono infantil era un drama cotidiano."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El tribunal la condenó a ocho años de prisión. En la apelación, la pena se redujo a cuatro. Cuatro años, por la muerte de más de un centenar de bebés. Su marido y el médico también recibieron penas de prisión, igualmente breves."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una condena que hoy resulta muy difícil de entender."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y que dice mucho sobre cómo se valoraba entonces la vida de los niños abandonados. En el Japón de la posguerra, aquellos recién nacidos eran, para muchos, una tragedia más entre tantas otras."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero el caso tuvo consecuencias que fueron más allá del tribunal. Ese mismo año, 1948, Japón aprobó la llamada Ley de Protección Eugenésica, que legalizó el aborto en determinadas circunstancias. Se suele señalar que el escándalo de la maternidad Kotobuki contribuyó a ese cambio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso también abrió un debate sobre la protección de los niños sin familia en la posguerra, un problema que el país arrastraría durante años. Y dejó una pregunta que todavía resuena: quién vela por los que no tienen a nadie que hable por ellos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, Miyuki Ishikawa comparte patrón con los ángeles de la muerte: personas a las que se confió el cuidado de otros y que traicionaron esa confianza. En su caso, las víctimas eran las más indefensas de todas: recién nacidos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Miyuki Ishikawa. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "La pregunta de la comadrona",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. La pregunta de la comadrona." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de la maternidad Kotobuki, en Tokio. Su directora, la comadrona Miyuki Ishikawa, y su marido, Takeshi, fueron detenidos en enero de 1948 por la muerte de bebés que les habían confiado." },
+        { "voz": "ximena", "texto": "Ishikawa negó haber matado a nadie. Dijo que a los bebés se les daba de comer y se les llevaba al médico. Y lanzó una pregunta que recogieron los periódicos: quién era peor, ella o los padres que los habían abandonado." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Ella decía que eran niños abandonados. Que en otras casas también morían bebés por falta de comida. Pero aquellas madres no le dejaron a sus hijos para que murieran. Le pagaron para que los cuidara." },
+        { "voz": "ximena", "texto": "Lo inquietante es que el argumento caló. Parte de la opinión pública culpó a las madres, casi todas solteras y pobres. El humorista Musei Tokugawa llegó a defender que la culpa era de los padres." },
+        { "voz": "ximena", "texto": "Otras voces respondieron. La escritora Yuriko Miyamoto defendió que todo niño tiene derecho a ser protegido, haya nacido dentro o fuera del matrimonio. Y el 2 de febrero, en el Parlamento, la diputada Michiko Yamazaki pidió maternidades, guarderías y residencias públicas para las madres sin recursos." },
+        { "voz": "ximena", "texto": "El juicio se abrió el 2 de junio de 1948 en el Tribunal de Distrito de Tokio. Todos los acusados negaron haber querido matar. Ishikawa solo admitió no haber vigilado bien a su personal." },
+        { "voz": "ximena", "texto": "La ayudante de la maternidad, de veinticinco años, también estaba acusada. Declaró que pedían más leche y calefacción, que se lo negaban, y que cada mes morían bebés." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Aquí está el problema de la prueba. La policía había contado más de ochenta muertes, pero muchos cuerpos estaban incinerados y los registros no cuadraban. Había niños sin inscribir y nombres cambiados. La fiscalía solo pudo acusar por veintisiete muertes. Y pidió quince años de prisión para ella." },
+        { "voz": "ximena", "texto": "La sentencia llegó el 11 de octubre de 1948. El tribunal dio por probados cinco asesinatos: el de bebés a los que se dejó morir de hambre a sabiendas. Las otras veintidós muertes quedaron sin probar. Miyuki Ishikawa fue condenada a ocho años de prisión; su marido, a cuatro." },
+        { "voz": "ximena", "texto": "La ayudante fue absuelta: el tribunal tuvo en cuenta que había pedido una y otra vez más leche para los niños." },
+        { "voz": "alvaro", "texto": "Cinco. Es la cifra de la sentencia, y es la única que puedo dar por probada. Pero no confundamos lo que un tribunal pudo demostrar con lo que ocurrió. Entre 1946 y 1948 salieron de aquella casa ochenta y cuatro permisos de entierro." },
+        { "voz": "ximena", "texto": "El matrimonio recurrió, y también la fiscalía. En abril de 1952, el Tribunal Superior de Tokio rebajó las penas a la mitad: cuatro años para ella y dos para él. En septiembre de 1953, el Tribunal Supremo rechazó el último recurso del matrimonio." },
+        { "voz": "alvaro", "texto": "Cuatro años. Era un país arruinado, donde morían muchos niños, y aquellos bebés sin familia, para muchos, no eran asunto de nadie. Eso no rebaja la culpa de quienes los dejaron morir. Explica por qué se tardó tanto en mirar." },
+        { "voz": "ximena", "texto": "El caso no se quedó en el tribunal. Al revisar otras maternidades privadas de Tokio aparecieron casos parecidos. En febrero de 1948, Tokio exigió licencia para cuidar bebés ajenos. En marzo, el gobierno prohibió anuncios como aquel: se aceptan bebés, con discreción." },
+        { "voz": "ximena", "texto": "Y en julio de 1948, Japón aprobó la Ley de Protección Eugenésica, que permitió el aborto en ciertos supuestos. En 1949 se añadieron los motivos económicos." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Una precisión. Se suele decir que este caso trajo la legalización del aborto. Las fuentes serias son más prudentes: fue uno de los motivos, dentro de un debate más amplio sobre la pobreza y la natalidad. Y aquella ley tuvo otra cara: amparó esterilizaciones forzosas, que el Parlamento japonés investigó en 2023." },
+        { "voz": "ximena", "texto": "Miyuki Ishikawa recuperó la libertad y acabó llevando una inmobiliaria en Tokio. En una entrevista de 1969 se declaró inocente. Murió en 1987, a los noventa años." },
+        { "voz": "ximena", "texto": "Los bebés de la maternidad Kotobuki no tienen nombre en este archivo. Muchos ni siquiera llegaron a ser inscritos. El 24 de febrero de 1948, en un templo de Tokio, se celebró un funeral conjunto por ochenta y cinco de ellos. Asistió el comisario Ide." },
+        { "voz": "ximena", "texto": "Este expediente es suyo. De los niños a los que nadie fue a buscar, y de las madres que creyeron estar pagando por su cuidado." },
+        { "voz": "ximena", "texto": "Fin del expediente de Miyuki Ishikawa y la maternidad Kotobuki. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/ishikawa.json. DISCREPANCIAS CON LA VERSIÓN 2 Y LA FICHA: 1) Víctimas: la ficha (v: «103 a 169») y el guion v2 («entre ciento tres y ciento sesenta y nueve, entre 1944 y 1948») recogen cifras de la prensa de los primeros días (169 el 17/1/1948 y 103 el 18/1/1948 en Asahi), que la Wikipedia japonesa califica de erróneas. Lo documentado: 211 niños recibidos (1943-1948) y 84 permisos de entierro (Wikipedia en inglés y japonés, a partir del registro policial; el informe del Parlamento japonés de 2023 da los 211 niños y «más de 100, según se dijo; 85 en lo procesado»); la fiscalía acusó por 27 muertes y el tribunal dio por probadas 5 (Wikipedia; Bunshun, Koike 2021). Funeral conjunto por 85 víctimas (24/2/1948). El guion dice «más de ochenta», 27 y 5, y menciona el 169 como cifra no confirmada. Propongo cambiar la ficha a algo como «5 probadas (84 muertes registradas)». 2) Periodo: la ficha dice 1944-1948; la fiscalía situó las muertes entre abril de 1946 y enero de 1948 (los permisos de entierro son de 1945: 1; 1946: 24; 1947: 53; 1948: 6). El guion dice «casi todos de 1946 y 1947». 3) Penas: la ficha y la v2 son correctas (8 años en 1948, 4 en apelación en 1952); el marido, 4 y 2. La v2 decía que el médico recibió prisión «igualmente breve»: solo la Wikipedia japonesa da una pena (4 meses por infringir la ley de médicos) y anota que la prensa no la recogió; el guion no habla de la condena del médico. 4) La v2 decía que el matrimonio se benefició de raciones «según la acusación»: correcto (leche, azúcar y sake de funeral desviados al mercado negro, informe del Parlamento 2023). 5) La Wikipedia en inglés llama «Michiko Fujiwara» a la diputada que habló en el Parlamento; el acta del 2/2/1948 y el informe de 2023 dicen Michiko Yamazaki (山崎道子): se usa Yamazaki. DUDAS: a) número de cuerpos en las cajas: la Wikipedia japonesa dice 4 cajas con un cuerpo cada una y que él declaró llevar 5; Bunshun (2026) habla de 5 cuerpos en 4 cajas y las autopsias fueron de 5. El guion dice «son cinco». b) La cifra de «unos treinta» bebés incinerados antes es la declaración del hombre de la funeraria (Wikipedia japonesa; Bunshun 2026). c) La edad de Ishikawa: los periódicos de 1948 dicen 52 años (cuenta japonesa); por fecha de nacimiento (5/2/1897) tenía 50, que es lo que dice el guion. d) La edad y la muerte en 1987 (30 de mayo, 90 años) solo están en las Wikipedias, a partir de registros oficiales; la vida posterior y la entrevista de 1969 (Shukan Shincho) también en Bunshun (Koike 2021). e) El nombre del marido: 猛, que la Wikipedia en inglés y Bunshun transcriben Takeshi. No se nombra a la ayudante (solo inicial en las fuentes) ni al hombre de la funeraria (no procesado)."
 }

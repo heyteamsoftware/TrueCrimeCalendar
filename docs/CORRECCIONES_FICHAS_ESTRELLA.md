@@ -93,3 +93,21 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## toppan
 
 - **Víctimas:** las fuentes dicen «hasta 100» o «más de 100»; la ficha da 70-100.
+
+## ishikawa
+
+- **Víctimas:** 5 probadas en la sentencia, con 84 muertes registradas. La ficha dice «103 a 169».
+- **Periodo:** de 1946 a 1948, no de 1944 a 1948.
+
+## hansen
+
+- Murió bajo custodia, en un hospital de Anchorage.
+- **Pena:** cadena perpetua más 461 años.
+
+## norris
+
+- Solo guio a la policía hasta los restos de dos víctimas.
+
+## ridgway
+
+- **Víctimas:** condenado por 49 asesinatos; las estimaciones van de 65 a más de 71.

@@ -1,5 +1,18 @@
 # Puntos para la verificación de las cintas
 
+## Regla común: víctimas que eran menores (decisión del coordinador, 10 de noviembre de 2026)
+
+Varias cintas estrella nombran a víctimas que eran menores. Afecta a brady, gacy, bonin, hansen, norris, ridgway y otras. El verificador de cada grupo aplica esto:
+
+- **Se mantiene el nombre** solo si se cumplen las dos condiciones:
+  - el caso tiene más de 30 años;
+  - consta en una fuente fiable que la familia ha hablado en público con ese nombre, o el nombre forma parte del nombre histórico del caso.
+- **Si no consta,** el nombre se sustituye por una descripción respetuosa: «un chico de quince años», «la víctima más joven».
+- **Las víctimas que ya eran adultas** se pueden nombrar si el dato es público y seguro.
+- **Lo que se hace con cada nombre** se apunta en la `nota_revision` de la cinta.
+
+## Puntos de cada caso
+
 Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 
 - **letby:**
