@@ -17,7 +17,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 |---|---|---|---|
 | 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
 | 11 | 19/19 ✓ | en marcha | — |
-| 10 | 24/24 ✓ (falta cambiar el 29/10, Chamberlain repetido) | en cola | — |
+| 10 | 24/24 ✓ | en marcha | — |
 | 02 a 09 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
@@ -28,13 +28,13 @@ Hecho antes: `brady` (piloto).
 |---|---|---|
 | enero A | letby keyes bonin puente | lanzado |
 | enero B | dominique shipman petiot robledo rifkin | lanzado |
-| enero C | bodkin camargo arropiero garavito | lanzado |
+| enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
 | febrero A | ishikawa norris hansen ridgway | lanzado |
 | febrero B | cullen muehlberg wuornos ramirez | lanzado |
 | marzo A | toole rader gaskins king | lanzado |
 | marzo B | ireland gacy kraft toppan | lanzado |
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
-| abril B | landru harvey yoo black | en cola |
+| abril B | landru harvey yoo black | lanzado |
 | mayo A | homolka beck bryant holmes | en cola |
 | mayo B | bellfield fish murano dahmer | en cola |
 | mayo C | bianchi chase escalero kurten | en cola |
@@ -86,3 +86,4 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
   - 2/10: el gallinero de Wineville, en lugar de Goold (la fecha solo la da Wikipedia);
   - 29/10: Ben Barka tiene la instrucción abierta y se puso Lindy Chamberlain, pero ese caso ya está el 17/8: está buscando otro.
 - **Regla para el coordinador:** antes de dar por buena una sustitución, buscar el nombre en todas las fichas y en la selección. En dos sustituciones (Dominici y Chamberlain) el caso ya estaba en otro día.
+  - 29/10, resuelto: la ejecución de Walter Raleigh (1618), en lugar de Lindy Chamberlain.
