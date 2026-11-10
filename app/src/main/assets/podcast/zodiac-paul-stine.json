@@ -1,0 +1,107 @@
+{
+  "id": "zodiac-paul-stine",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Paul Stine": "Pol Stain",
+    "Stine": "Stain",
+    "Presidio Heights": "Presidio Jáits",
+    "San Francisco Chronicle": "San Fransísco Crónicol",
+    "Chronicle": "Crónicol",
+    "Washington": "Uóshington",
+    "Cherry": "Cheri",
+    "Mason": "Méison",
+    "Geary": "Guíri",
+    "FBI": "efe be i"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un trozo de camisa",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesino del Zodiaco. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un trozo de camisa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Francisco, noche del 11 de octubre de 1969. Un taxista recoge a un pasajero en la esquina de las calles Mason y Geary, en pleno centro. El pasajero pide ir a un barrio residencial, Presidio Heights. El taxista se llama Paul Stine. Tiene veintinueve años y estudia un doctorado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la esquina de Washington y Cherry, el taxi se detiene. Allí el pasajero le dispara. Stine muere en el lugar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Hay un detalle que lo cambia todo. Esa noche tres adolescentes miraban desde una casa y vieron a un hombre moverse junto al taxi. Un crimen sin testigos se convirtió en uno con retrato robot."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía difundió el retrato. Se desplegó una amplia búsqueda por la zona. Y aun así el hombre desapareció."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Y aquí está el error que persigue a este expediente. Según la prensa, un operador de radio difundió una descripción equivocada del sospechoso. Un agente cruzó con un hombre que paseaba cerca y lo dejó seguir. Quizá era el asesino. Nunca lo sabremos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, una carta llegó al San Francisco Chronicle. Dentro, un trozo de la camisa del taxista. Firmaba el Zodiaco, nombre con el que ya había enviado cartas a los periódicos desde hacía meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese trozo de tela era su forma de asegurarse de que le atribuyeran el crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Pensemos en lo que supone. Se llevó un trozo de la camisa de la víctima y se lo mandó a un periódico. Habla de alguien que quería que la prensa le atribuyera el crimen. Eso es lo que sabemos; sus razones, no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes habían muerto otras personas en ataques en Vallejo y otras localidades de la zona, en 1968 y 1969. Dos más sobrevivieron. En total se le atribuyen cinco muertes confirmadas, y la policía sospecha que pudo cometer otros crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Stine es la última víctima que se le atribuye con certeza. Después siguieron las cartas, los mensajes cifrados y las amenazas. Pero no hay más muertes confirmadas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Muchos sospechosos pasaron por el caso. Solo uno fue nombrado por la policía: un hombre de Vallejo que murió en 1992 sin ser acusado nunca. En 2002, un perfil de ADN parcial, sacado de los sobres de las cartas, pareció descartarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se han señalado otros nombres en libros y foros durante décadas. Ninguno ha pasado por un tribunal. Y ese ADN sirve sobre todo para descartar, no para acusar. Además, según la policía de la época, cientos de personas llamaron convencidas de que su vecino o su exmarido era el Zodiaco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2004 la policía de San Francisco dejó el caso inactivo por falta de recursos. Aún quedaba material por analizar, un cabello bajo un sello entre otras cosas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. En diciembre de 2020 se descifró un mensaje que el Zodiaco mandó al Chronicle en 1969. El FBI anunció que se había resuelto. El mensaje no dice quién era. Y en 2021 un grupo de aficionados anunció que había dado con su identidad. La policía y el FBI no lo confirmaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el FBI, el caso sigue abierto y sin resolver. Cincuenta y siete años después, no hay nombre, no hay juicio y no hay sentencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo único seguro es que hubo un hombre que mató y quiso que lo supieran. Para el archivo, lo que pesa es lo contrario: quiénes eran ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Stine tenía veintinueve años. Era taxista y estudiante de doctorado. Los aficionados han vuelto durante décadas a las cartas y a los códigos, pero el expediente empieza en un hombre que hacía su turno de noche. No fue un símbolo ni un personaje. Fue un hombre trabajador, cuya vida terminó en una calle tranquila de San Francisco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesino del Zodiaco. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: SFGate/Chronicle (7/4/2004, por curl), Guardian (8/10/2021, por curl) y la ficha; el segundo SFGate no cargó. Caso sin resolver: no se nombra a ningún sospechoso (ni al único nombrado por la policía, fallecido sin ser acusado, ni al vecino citado por el Chronicle ni al que el grupo de aficionados anunció en 2021). Descartes por ADN: el SFGate habla de un perfil parcial de sobres; ojo, «pareció descartar» (el propio ADN solo sirve para descartar). Fecha de la carta: la ficha dice que llegó dos días después (13 de octubre; otras fuentes, el 14). Cuatro muertes anteriores: la ficha habla de cinco confirmadas (con Stine) y dos supervivientes; los lugares (Vallejo y lago Berryessa) y 1968-1969 no están en las fuentes abiertas del caso Stine salvo Vallejo (SFGate): conviene comprobar. «Pagaba su doctorado conduciendo un taxi» es una inferencia a partir de «taxista y estudiante de doctorado» de la ficha. Que tres adolescentes vieron desde una casa y el retrato robot son de la ficha; el fallo de la radio y el agente que dejó pasar a un hombre, del SFGate 2004. Dato sin fuente directa: «celebró el FBI» el descifrado de 2020 (NYT 2020 está en la ficha, no abierto); retirar si no se confirma. «Cincuenta y siete años después»: 2026 menos 1969. Pronunciaciones a oído."
+}

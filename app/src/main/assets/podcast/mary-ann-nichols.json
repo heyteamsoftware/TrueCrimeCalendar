@@ -1,0 +1,129 @@
+{
+  "id": "mary-ann-nichols",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mary Ann Nichols": "Méri An Níkols",
+    "Nichols": "Níkols",
+    "Polly": "Póli",
+    "Buck's Row": "Baks Rou",
+    "Durward Street": "Dúrguord Strit",
+    "Whitechapel": "Uáitchapel",
+    "Charles Cross": "Charls Cros",
+    "Cross": "Cros",
+    "Robert Paul": "Róbert Pol",
+    "John Neil": "Yon Nil",
+    "Neil": "Nil",
+    "Wynne Baxter": "Uin Báxter",
+    "Baxter": "Báxter",
+    "Emily Holland": "Émili Jóland",
+    "Holland": "Jóland",
+    "William Nichols": "Uíliam Níkols",
+    "Lambeth": "Lámbez",
+    "Flower and Dean Street": "Fláuer and Din Strit",
+    "Manor Park": "Mánor Park",
+    "Jack el Destripador": "Yak el Destripador"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una figura junto a la verja",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Whitechapel, el asesinato de Mary Ann Nichols. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una figura junto a la verja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 31 de agosto de 1888. Son casi las cuatro menos veinte de la madrugada. Un carretero, Charles Cross, camina hacia su trabajo por Buck's Row, hoy Durward Street, una calle estrecha de Whitechapel. Junto a la verja de una cuadra, ve algo en el suelo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se acerca. Es una mujer. En ese momento aparece otro hombre, Robert Paul. Los dos se agachan a mirar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Según el acta de la investigación, Cross dijo: creo que está muerta. Paul, en cambio, notó un movimiento muy leve de respiración. Dos testigos, dos impresiones. Lo anoto porque ya empieza la incertidumbre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fueron a buscar a un policía. Antes de que lo encontraran, el agente John Neil la halló en su ronda. Llamó a otros agentes y a un médico. Fue declarada muerta allí mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No llevaba documentos. Pero la reconocieron. Esa misma tarde, una conocida, Emily Holland, dijo que se llamaba Polly Nichols."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra conocida, Mary Ann Monk, la confirmó por la noche. Al día siguiente, su marido, William Nichols, lo ratificó. Llevaban unos ocho años viviendo separados. Es todo lo que sabemos de ese matrimonio, y es bastante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mary Ann Nichols había nacido en Londres, en 1845. Se casó a los dieciocho años y tuvo cinco hijos. El matrimonio se rompió. Según su marido, por la bebida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los años siguientes pasó por varios asilos, entre ellos el de Lambeth, y por albergues baratos. En agosto de 1888 dormía en una pensión de la calle Flower and Dean Street, en Whitechapel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La noche del crimen la sitúan en un bar. Luego, en el albergue, el encargado le pidió los cuatro peniques de la cama. No los tenía. Según el testimonio, se marchó diciéndole que mirara qué sombrero tan bonito llevaba ahora."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La vio por última vez Emily Holland, hacia las dos y media, en la esquina de Osborn Street. Muy bebida, según su testimonio. Holland le pidió que volviera. Ella no quiso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Poco más de una hora después, la encontraron muerta. Eso es lo que me inquieta del expediente: cuánto tiempo breve basta para que una vida de apuros termine en una calle vacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación judicial la dirigió el forense Wynne Baxter. El 22 de septiembre resumió sus conclusiones. Consideró que Nichols había sido atacada donde se encontró el cuerpo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Baxter señaló además similitudes con las muertes de otras mujeres de la zona en los meses anteriores. Apuntó que quizá era el mismo autor, y que tal vez algo lo había interrumpido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero dejar clara su cautela: dijo «quizá». No dijo «es». El jurado tampoco fue más allá. Su veredicto fue asesinato contra una o varias personas desconocidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue detenido ni condenado. Nichols es considerada la primera de las cinco víctimas «canónicas» del asesino que la prensa llamó Jack el Destripador."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay que ser estricto con las palabras. «Jack el Destripador» es un nombre de periódico, no el nombre de una persona. Nunca se identificó a nadie. No voy a especular sobre la identidad de nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La enterraron el 6 de septiembre de 1888 en el cementerio de la City de Londres, en Manor Park, en una tumba común. Varios miles de personas vieron pasar el cortejo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Miles de desconocidos en la acera, para despedir a una mujer pobre que casi nadie conocía en vida. Eso también es parte del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1996, su tumba recibió una placa con su nombre. Un siglo después de aquel entierro, por fin alguien escribió quién era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No fue «la primera víctima de». Fue Mary Ann. Fue Polly para quienes la conocían. Madre de cinco hijos. Tenía cuarenta y tres años según su partida de nacimiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Whitechapel, el asesinato de Mary Ann Nichols. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: transcripción de la investigación judicial en Casebook (Daily Telegraph, septiembre de 1888) y Wikipedia en inglés. OUP Blog, Fox News y The Guardian no se abrieron. Discrepancias menores: hora del hallazgo (hacia las 3.40, ficha y Wikipedia; hacia las 3.30, según el acta de la investigación; la señal de la policía, hacia las 3.45); el guion dice «casi las cuatro menos veinte». Edad: 43 según su partida de nacimiento (nacida el 26 de agosto de 1845, es decir, a punto de cumplir 43), 42 en el certificado de defunción y en la lápida; el guion da 43 con su fuente. Quién la encontró: Casebook dice que Neil la «encontró en su ronda», pero Cross y Paul ya la habían visto; el guion lo cuenta así, sin resolver el orden exacto. Identificación: Holland la identificó el 31 de agosto por la tarde y su marido al día siguiente (Wikipedia); la mención de que su padre, Edward Walker, la identificó en el depósito sale de Casebook y no se usa. El comentario sobre el sombrero «nuevo» sale de Wikipedia (testimonio del encargado del albergue, a través de la investigación); el guion lo recoge indirecto. Que Paul percibió una respiración muy leve es del acta de la investigación. Lo de la tumba común y las «varias miles» de personas, y la placa de 1996, de Wikipedia. Edad al casarse (18 años) y cinco hijos: Wikipedia (casada el 16 de enero de 1864; nacida en 1845). No se describe la agresión. No se da por buena ninguna teoría; nadie fue acusado."
+}

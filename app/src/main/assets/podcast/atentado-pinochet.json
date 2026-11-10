@@ -1,0 +1,98 @@
+{
+  "id": "atentado-pinochet",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "CNI": "ce ene i"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cohete que no estalló",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Atentado contra Augusto Pinochet. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cohete que no estalló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cajón del Maipo, Chile, domingo 7 de septiembre de 1986. Son las seis y media de la tarde. La comitiva del general Augusto Pinochet vuelve de su casa de descanso a Santiago. En una curva de la cuesta Las Achupallas, un cohete antitanque da en el coche blindado del dictador. Y no explota."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un cohete que no detona, y la historia de Chile cambia de rumbo. Lo habían preparado durante meses. Anoto lo que dijo la prensa chilena: el ataque fracasó por problemas con el armamento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era la llamada Operación Siglo XX, del Frente Patriótico Manuel Rodríguez, la organización armada vinculada al Partido Comunista. Había decidido el atentado a finales de 1985. Lo dirigía José Joaquín Valenzuela Levi, conocido como el comandante Ernesto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habían previsto actuar el 31 de agosto. Pero esa noche murió el expresidente Jorge Alessandri, Pinochet regresó a Santiago de madrugada y el grupo esperó una semana más. Un mes antes, la policía había descubierto un depósito de armas llegadas desde Cuba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Con un arsenal descubierto y un plan aplazado, siguieron adelante. Los propios frentistas estaban convencidos de haber tenido éxito. Se retiraron fingiendo ser agentes de la CNI."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El combate duró unos seis minutos. Una veintena de atacantes, repartidos en cuatro grupos, disparó contra la comitiva con fusiles y lanzacohetes. Una casa rodante bloqueó el camino. Pinochet, su nieto y su edecán escaparon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron cinco escoltas, todos cabos. Según la Wikipedia en castellano, se llamaban Pablo Silva, Gerardo Rebolledo, Cardenio Hernández, Roberto Rosales y Miguel Guerrero. Hubo además once heridos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que quede dicho: eran escoltas. Hombres que cumplían su turno. Cualquier lectura política de aquella tarde pasa por ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma noche se decretó el estado de sitio. Los servicios de seguridad detuvieron a dirigentes opositores, entre ellos Ricardo Lagos, Germán Correa y Patricio Hales. Y agentes de la CNI mataron a cuatro personas: el periodista José Carrasco, Gastón Vidaurrazaga, Abraham Muskatblit y Felipe Rivera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Estos cuatro no habían estado en la cuesta. Eran opositores que ya estaban en manos del régimen. Años después, el abogado de Pinochet dijo que aquellos excesos «no se justifican, pero se explican». Yo solo apunto el dato: cuatro muertes en una sola noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las huellas halladas en una casona alquilada en La Obra pusieron a la justicia militar tras los atacantes. En octubre de 1986 detuvieron a la mayoría. Valenzuela Levi no llegó a juicio: murió en 1987 a manos de la CNI."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los frentistas fueron procesados por la justicia militar. En 1990, ya con la democracia, muchos se fugaron de la Cárcel Pública de Santiago. Otros fueron indultados o conmutaron su pena por el exilio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda sin aclarar son las cifras. Los atacantes fueron diecisiete o una veintena, según la fuente. Los heridos, once o doce. Y la situación judicial de cada frentista no he podido confirmarla en dos fuentes. Prefiero no inventarla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2006, veinte años después, Guillermo Teillier, presidente del Partido Comunista y antiguo frentista, dijo que fue positivo que Pinochet sobreviviera. Con el tiempo, según él, se conocieron sus responsabilidades. Contó que el día del atentado se ocultó en una casa de Santiago, bajo el alias Sebastián. Es su opinión, no un hecho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos lecturas opuestas del mismo día. Para unos fue un acto de resistencia. Para otros, una emboscada que mató a cinco hombres. El expediente deja las dos en la mesa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2006, el Ejército ofició una misa en la Catedral Castrense por los suboficiales caídos. Se les recuerda por su nombre, igual que a Carrasco, Vidaurrazaga, Muskatblit y Rivera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una última nota. Aquel día murieron nueve personas, y el hombre al que iba dirigido el ataque salió ileso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Atentado contra Augusto Pinochet. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en castellano (preparativos, cronología, nombres de los escoltas, represalias, destino de los frentistas), Cooperativa.cl 7/9/2006 (dos artículos: fallo del cohete, cinco escoltas, Teillier, misa del Ejército, Pablo Rodríguez Grez y «no se justifican, pero se explican»). The Clinic devolvió 403; el parte del FPMR (CEDEMA) no se abrió. Discrepancias menores con la ficha: Wikipedia da 18:35 a 18:40, el guion dice «las seis y media» por prudencia; atacantes y heridos varían según la fuente (se dice en el guion). Los nombres de los cinco escoltas y de los cuatro asesinados por la CNI salen sobre todo de Wikipedia; Cooperativa solo cita a Carrasco. Revisar antes de publicar si se quiere confirmarlos en una segunda fuente. «Murieron nueve personas»: cinco escoltas más cuatro opositores. Mauricio Hernández Norambuena y la situación procesal individual no se tratan. Valenzuela Levi murió en 1987 a manos de la CNI (ficha y Wikipedia)."
+}

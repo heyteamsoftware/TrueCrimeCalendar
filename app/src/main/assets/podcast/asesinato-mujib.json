@@ -1,0 +1,120 @@
+{
+  "id": "asesinato-mujib",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sheikh Mujibur Rahman": "Sheik Mudyíbur Rahmán",
+    "Mujib": "Mudyíb",
+    "Dhanmondi": "Danmóndi",
+    "Dacca": "Dáca",
+    "Bangladés": "Banglades",
+    "Sheikh Hasina": "Sheik Jasína",
+    "Hasina": "Jasína",
+    "Sheikh Rehana": "Sheik Rejána",
+    "Rehana": "Rejána",
+    "Syed Faruk Rahman": "Sáid Faruk Rahmán",
+    "Abdul Majed": "Ábdul Madyíd",
+    "Khaleda Zia": "Kaléda Zía",
+    "Khandker Mushtaq Ahmed": "Kándker Mushták Ájmed",
+    "Awami League": "Awámi Lig",
+    "Tungipara": "Tungipára"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un golpe antes del amanecer",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de Dhanmondi 32. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un golpe antes del amanecer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dacca, 15 de agosto de 1975. Poco después de las tres de la madrugada, un oficial reúne a otros conspiradores en el cuartel de la ciudad. Una hora más tarde salen tanques y vehículos blindados. La orden oficial hablaba de un ejercicio rutinario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se dividen en grupos. Uno va hacia la casa de la calle treinta y dos de Dhanmondi. Allí vive el presidente de Bangladés: Sheikh Mujibur Rahman."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No fue un asalto a una casa cualquiera, ni un solo ataque. Hubo grupos coordinados contra varias direcciones a la vez. Eso exige planificación, no un arrebato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mujib era el líder de la independencia. Bangladés había nacido cuatro años antes, tras una guerra de nueve meses contra Pakistán. Los jóvenes oficiales que lo atacaron eran del propio ejército del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los guardias de la residencia que no dejaron pasar a los soldados fueron abatidos. Mujib murió ese amanecer, junto con su esposa, sus hijos y otros familiares. El menor tenía diez años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El número de muertos varía según la fuente. Una crónica periodística habla de Mujib y dieciséis familiares. Otras cuentan más de cuarenta en todos los ataques de esa madrugada. No tengo cifra segura, y prefiero decirlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más tarde, la radio anunció que Mujib había muerto y que se imponía la ley marcial. El nuevo presidente fue Khandker Mushtaq Ahmed."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo sobrevivieron dos de sus hijas: Sheikh Hasina y Sheikh Rehana. Estaban en Europa. Al día siguiente, los familiares fueron enterrados en una misma fosa, en Banani. Mujib, en su aldea de Tungipara, con soldados vigilando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y entonces ocurre lo que me parece más grave de todo el expediente. En noviembre de 1975, el nuevo gobierno aprobó una ordenanza de indemnidad. Protegía a los autores. Durante veintiún años, nadie pudo juzgarlos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La ordenanza se derogó en 1996, cuando volvió al poder el partido de Mujib, la Awami League. El 2 de octubre de ese año, un asistente personal de Mujib presentó una denuncia ante la comisaría de Dhanmondi contra veinticuatro personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veinte años después de los hechos. Dos décadas de silencio es mucho tiempo, y un juicio así empieza con el paso del tiempo en contra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de noviembre de 1998, un juez de Dacca condenó a muerte a quince de los veinte acusados. Hubo apelaciones. En el Tribunal Superior, los jueces discreparon y algunas condenas cayeron: quedaron doce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El proceso se frenó mientras gobernó la rival de la Awami League, Khaleda Zia, entre 2001 y 2006. Se aceleró de nuevo en 2009. El 19 de noviembre de ese año, el Tribunal Supremo rechazó las apelaciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los acusados alegaron que habían actuado en un motín y que debían haber sido juzgados bajo la ley marcial, no en un tribunal civil. El Supremo lo rechazó. Es un argumento que el tribunal consideró y descartó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 28 de enero de 2010, poco después de medianoche, cinco antiguos oficiales fueron ahorcados en la cárcel central de Dacca. Entre ellos, Syed Faruk Rahman. Hubo cientos de policías fuera, y una multitud que lo celebró."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Más allá de lo que cada uno piense de la pena capital, el dato histórico es otro. Seis condenados más estaban fuera, en países de todo el mundo. Aquí la justicia llegó tarde y a medias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En abril de 2020 fue detenido y ahorcado otro condenado: Abdul Majed, que había estado huido en el extranjero. Otros acusados siguen sin pisar un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un tema muy cargado en Bangladés, y no me corresponde a mí opinar sobre la política. Me limito a lo documentado: hubo un juicio, hubo condenas firmes, y el proceso tardó treinta y cinco años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En aquella casa murieron personas con nombre propio: una esposa, hijos, otros familiares, escoltas. Y un niño de diez años, el menor. El archivo los recuerda a todos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de Dhanmondi 32. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: bdnews24 (28/1/2010), Al Jazeera (28/1/2010) y Dhaka Courier (2018). Dawn, VOA y Wikipedia no se abrieron. Discrepancias: número de muertos (bdnews24: Mujib y 16 familiares; Wikipedia, según la ficha, más de 47 en todos los ataques; el guion lo dice así). Al Jazeera habla de «tres hermanos» de la esposa y no de tres hijos, y la ficha de «tres hijos»; el guion dice solo «sus hijos». Los condenados a muerte en 1998: 15 de 20 acusados (bdnews24); la ficha dice «quince exoficiales». Tras las apelaciones quedaron doce (ficha); bdnews24 detalla un Tribunal Superior dividido y una condena de diez en 2000, y su cuenta de fugitivos (seis, más uno fallecido) no cuadra del todo con la ficha. El guion dice «seis condenados más estaban fuera» (bdnews24; Al Jazeera: seis condenados in absentia y uno muerto en el extranjero). Abdul Majed: bdnews24 lo da como huido en Kenia en 2010; su detención y ejecución en abril de 2020 sale de la ficha, no de las fuentes abiertas. «Un oficial reúne a otros conspiradores» (el Dhaka Courier lo nombra, Farook Rahman; el guion no lo nombra al principio, solo después entre los ejecutados). Guerra de nueve meses: Al Jazeera. «Treinta y cinco años» entre 1975 y 2010: cálculo. El niño de diez años no se nombra. Redacción neutral por ser un tema políticamente cargado."
+}

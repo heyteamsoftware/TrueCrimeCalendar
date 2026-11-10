@@ -1,0 +1,110 @@
+{
+  "id": "templo-solar",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Templo Solar": "Templo Solár",
+    "Morin-Heights": "Morín Jáits",
+    "Quebec": "Kebék",
+    "Cheiry": "Chirí",
+    "Salvan": "Salván",
+    "Di Mambro": "Di Mámbro",
+    "Jouret": "Yurét",
+    "Tabachnik": "Tabáknik",
+    "Grenoble": "Grenóbl"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Tres incendios en una noche",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Orden del Templo Solar. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Tres incendios en una noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Morin-Heights, en Quebec, 4 de octubre de 1994. Los bomberos apagan el fuego de un chalé en el bosque. Entre los restos hallan cinco cuerpos. Tres de ellos son un matrimonio y su bebé, que habían sido asesinados días antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un incendio con cinco muertos ya es grave. Pero este tenía algo raro: una parte de las víctimas llevaba días muertas cuando ardió la casa. Quien prendió el fuego no quería accidentes. Quería que el fuego hablara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma noche, al otro lado del Atlántico, empezaron a arder otros edificios. Una granja en Cheiry, en el cantón suizo de Friburgo. Y unos chalés en Salvan, en el Valais."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Cheiry hallaron veintitrés cuerpos. En Salvan, veinticinco. Los incendios se habían activado a distancia, con un sistema de encendido accionado por teléfono."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Tres escenarios, dos continentes, un mismo método. Esto no fue un arrebato. Alguien lo había organizado con mucha antelación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los muertos de Salvan estaban los dos líderes de la Orden del Templo Solar: Joseph Di Mambro y Luc Jouret. La orden se había fundado en 1984 y mezclaba ocultismo, esoterismo y una promesa de salvación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Enseñaba que la muerte era un tránsito hacia la estrella Sirio. Con esa creencia, muchos miembros fueron persuadidos de que morir era un paso necesario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Aquí hay que ser exactos, porque la prensa de la época habló de suicidio colectivo y no era tan simple. Según la investigación, solo una parte fueron muertes voluntarias. Otros miembros, entre ellos niños, fueron asesinados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes de morir, Di Mambro dejó escrito una especie de testamento, en varias cartas, que se enviaron a unas trescientas personas, entre ellas periodistas y políticos. Era un mensaje para el mundo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Morin-Heights, la policía de Quebec llegó a una conclusión inquietante. La familia asesinada era de antiguos miembros y se les consideraba traidores. Algunas fuentes dicen que el líder creía que el bebé era el anticristo, aunque esta interpretación es discutida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Un bebé de pocas semanas no es un traidor ni un enemigo. Si la creencia fue esa, nos dice cuánto había calado el delirio dentro de la secta. Y también dice algo de quienes lo aceptaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez suizo André Piller dirigió parte de la investigación en Suiza. Varias de sus decisiones fueron criticadas y alimentaron teorías de conspiración que nunca se confirmaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y la historia no terminó ahí. En diciembre de 1995 aparecieron en los Alpes franceses, en la región del Vercors, otros dieciséis cuerpos, entre ellos tres niños. En 1997, más muertes en Saint-Casimir, en Quebec. En total, 74 personas entre 1994 y 1997."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Los dos líderes estaban muertos. ¿Quién respondía entonces ante la justicia? Solo hubo un procesado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue Michel Tabachnik, director de orquesta suizo. Admitió que había pertenecido a la orden, pero negó haber inducido a nadie a morir. En 2001, un tribunal de Grenoble lo absolvió. La fiscalía recurrió, y en diciembre de 2006 la apelación confirmó la absolución."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución es una absolución. Las autoridades suizas no lograron establecer ningún vínculo entre la secta y él. No hay más culpables vivos que señalar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda lo que nadie pudo contestar del todo: cuántos murieron por voluntad propia y cuántos no tuvieron elección. Las cifras varían según la fuente: cincuenta y dos, cincuenta y tres o cincuenta y cuatro en 1994."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran familias, jóvenes y personas mayores de Suiza, Francia y Canadá, que en su día habían buscado un sentido y una comunidad. Entre ellos había niños que no habían elegido nada. El archivo guarda su recuerdo, no el de quienes los llevaron hasta allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La Orden del Templo Solar. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en) y Swissinfo (20/12/2006); el NYT no abrió. Detalles de Morin-Heights (matrimonio y bebé asesinados el 30 de septiembre) de Wikipedia y de la ficha; el motivo del bebé como anticristo va como \"algunas fuentes\" y discutido. No se da el reparto entre suicidios y asesinatos (no hay cifra confirmada). Las cifras 52/53/54 y la variación 53 (1994) / 74 (1994-1997) vienen de la ficha. Swissinfo da 74 muertos (30 suizos, 30 franceses y 10 canadienses) y 48 en Suiza en 1994; Wikipedia 53 en total en 1994 con 5 en Quebec: el guion usa 23 y 25 en Suiza (ficha) y no suma. El juicio de 2006 fue por la muerte de 16 miembros del Vercors (Swissinfo). La ficha dice que Tabachnik fue absuelto en 2001 y en apelación en 2006. Se omite la fecha exacta de Cheiry (2-3 de octubre, Wikipedia) por discrepancia con la ficha (descubiertos el 4-5). No se nombra a las víctimas de Quebec ni al bebé. Pronunciaciones a oído."
+}

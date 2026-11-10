@@ -1,0 +1,116 @@
+{
+  "id": "norrmalmstorg",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Norrmalmstorg": "Norrmálmstorg",
+    "Kreditbanken": "Kredítbanken",
+    "Estocolmo": "Estocolmo",
+    "Jan-Erik Olsson": "Yan-Érik Ólson",
+    "Olsson": "Ólson",
+    "Clark Olofsson": "Clark Ulófson",
+    "Olofsson": "Ulófson",
+    "Olof Palme": "Ulof Pálme",
+    "Nils Bejerot": "Nils Beyerót",
+    "Bejerot": "Beyerót",
+    "Karolinska": "Karolínska"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Seis días en la cámara acorazada",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El síndrome de Estocolmo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Seis días en la cámara acorazada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estocolmo, 28 de agosto de 1973. Llevan seis días encerrados en la cámara acorazada de un banco. Dos hombres armados y cuatro empleados. Fuera, la policía y las cámaras de televisión. Y una decisión que acaba de tomar la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Han abierto agujeros en el techo de la cámara. Por ahí meten gas. Media hora después, los dos hombres se rinden. Los cuatro rehenes salen sin heridas permanentes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Ese final es lo menos extraño de todo el caso. Lo extraño ocurrió dentro. Los rehenes no parecían alegrarse de que la policía actuara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Empecemos por el principio. El 23 de agosto, Jan-Erik Olsson, un preso con un permiso de salida, entró armado en el Kreditbanken de la plaza Norrmalmstorg, en el centro de la ciudad. Tomó como rehenes a cuatro empleados del banco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pidió tres millones de coronas, armas, chalecos antibalas, cascos y un coche rápido. Y algo más: pidió que trajeran de la cárcel a un amigo, Clark Olofsson, atracador conocido. El Gobierno lo concedió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pido que se subraye: el Gobierno sueco aceptó traer a un preso al lugar del atraco. Hoy parece impensable. Había una vida en juego, y las reglas de la negociación todavía no estaban escritas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Olsson y Olofsson se encerraron con los rehenes en la cámara acorazada. La policía aceptó dar un coche con la condición de que ningún rehén se fuera con ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Olsson llamó al primer ministro, Olof Palme, y dijo que mataría a los rehenes. Pero también llamó, desde la cámara, una de las rehenes. Dijo al primer ministro que temía que la policía hiciera algo violento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el momento que dio la vuelta al mundo. Una empleada, secuestrada, que parecía defender a quienes la retenían. Pero fíjate en lo que dijo: temía que la policía empeorara las cosas con métodos violentos. Es una frase racional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de agosto la policía perforó la cámara desde el piso de arriba. Por ese agujero se hizo una fotografía muy difundida de los rehenes junto a Olofsson."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los asesores de la policía estaba el psiquiatra Nils Bejerot. Fue él quien bautizó lo ocurrido: el síndrome de Estocolmo. Una explicación para unos rehenes que no se comportaban como se esperaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí mi advertencia. No es un diagnóstico reconocido. Un psiquiatra del Karolinska lo describe como un mecanismo de defensa para sobrellevar el trauma. Una profesora de estudios de género sostiene que los rehenes actuaron con lógica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que sabemos con certeza: después de la liberación, los rehenes se negaron a declarar contra sus captores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que hizo famoso el caso, y lo que menos prueba. Cuando alguien te apunta con un arma y la policía puede empeorar las cosas, hacer lo que sea para sobrevivir no es un síntoma. Es sentido común."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras el juicio, Olsson fue condenado a diez años de prisión. Olofsson fue condenado en primera instancia, pero la condena se anuló en apelación. Él siempre dijo que solo había intentado mantener la calma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con esto: Olofsson fue absuelto en apelación, y esa absolución cuenta. Su historial de delitos en otras ocasiones es una cosa; el atraco de Norrmalmstorg, otra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Olofsson pasó más de la mitad de su vida en prisión por otros delitos. Murió en junio de 2025, a los setenta y ocho años. Una serie de televisión lo llevó a la pantalla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda del caso es una etiqueta. Muchos la usan hoy sin saber de dónde salió. De un banco, de seis días, de cuatro empleados que querían salir vivos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los cuatro empleados no eran personajes de una teoría. Eran trabajadores del banco, un día de agosto. Salieron vivos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El síndrome de Estocolmo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: The Local (21/8/2023), Nordstjernan (2013) y The Local (26/6/2025). Worldcrunch y la Wikipedia sueca no se abrieron. Discrepancias: la ficha dice que el síndrome «dio nombre» a la actitud de los rehenes; The Local (2023) y la nota de la ficha coinciden en que no es un diagnóstico reconocido y que lo acuñó Bejerot. La ficha dice que la policía introdujo gas por agujeros del techo y que los captores se rindieron media hora después: Nordstjernan dice «tras unos 30 minutos» y no menciona el techo; The Local 2025 dice que llenaron la cámara de gas lacrimógeno. El guion mantiene «agujeros en el techo» por la ficha: revisar. Sentencias: Nordstjernan (ambos condenados; a Olofsson se le anuló en apelación; Olsson, diez años) y la ficha; The Local 2025 no da veredicto. Las fuentes difieren en la frase exacta de la rehén (Nordstjernan: se sentía segura con los captores y temía la violencia policial; The Local 2023: confiaba «por completo» en la policía y temía un asalto; The Local 2025: confiaba más en la policía): el guion solo recoge lo común, su temor a un asalto violento. Que la hostage «llamó al primer ministro» y su frase sobre temer a la policía: Nordstjernan y The Local 2023 (la rehén no se nombra). Que Olsson llamara a Palme amenazando: Nordstjernan. La entrega del coche condicionada a que no se fuera ningún rehén: Nordstjernan. Que los rehenes se negaron a declarar contra los captores: The Local 2023. La sentencia exacta de Olofsson no se comprobó en fuente judicial. Los rehenes no se nombran. Caso resuelto; presunción de inocencia respetada para Olofsson (absuelto en apelación)."
+}

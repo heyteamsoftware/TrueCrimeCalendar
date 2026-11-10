@@ -1,0 +1,107 @@
+{
+  "id": "asesinato-sadat",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Anwar el-Sadat": "Ánuar el Sadát",
+    "Sadat": "Sadát",
+    "Islambuli": "Islambulí",
+    "Mubarak": "Mubárak",
+    "Faraj": "Farách",
+    "Yihad Islámica Egipcia": "Yihad Islámica Egipcia"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El camión que se paró ante la tribuna",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Sadat. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El camión que se paró ante la tribuna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Cairo, 6 de octubre de 1981. Es el desfile militar que celebra el aniversario de la guerra de 1973. Los aviones cruzan el cielo y la gente mira hacia arriba. En la tribuna presidencial están el presidente Anwar el-Sadat, ministros y invitados extranjeros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los vehículos militares, un camión del ejército se detiene frente a la tribuna. Según las crónicas, Sadat se levantó para devolver el saludo, creyendo que formaba parte del espectáculo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un camión parado, justo delante de la tribuna, en un desfile con miles de soldados armados. Para quien lo mirara de lejos, era una maniobra más del programa. Esa fue su protección: parecer lo que se esperaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Varios soldados bajaron disparando y lanzando granadas contra la tribuna. El ataque duró unos dos minutos. Fue lo bastante largo para dejar muertos y heridos entre los invitados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sadat fue trasladado en helicóptero a un hospital militar. Murió casi dos horas después. Con él murieron otras diez personas y hubo veintiocho heridos, entre ellos el vicepresidente, Hosni Mubarak, que asumiría el poder pocos días después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. El primer día reinó la confusión. La prensa recogió una versión sobre un exjefe del Estado Mayor exiliado que reclamaba el golpe. Era el humo del primer momento. Lo que se estableció después, en el juicio, fue otra cosa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El grupo estaba dirigido por el teniente Jálid el-Islambuli y se vinculaba a la Yihad Islámica Egipcia, una organización armada que consideraba traidor a Sadat."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1979 Sadat había firmado la paz con Israel. El tratado le dio prestigio en Occidente, pero le costó caro en casa y en el mundo árabe: la Liga Árabe suspendió a Egipto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Un mes antes, en septiembre de 1981, Sadat había ordenado una gran redada contra la oposición. Según una fuente, más de mil quinientas personas: islamistas, pero también clérigos e intelectuales. Muchos la consideraron muy impopular."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mubarak asumió el mando. Se declaró el estado de emergencia, un luto de cuarenta días y un funeral de Estado. El 14 de octubre juró como presidente. Gobernaría casi treinta años, hasta 2011."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El mismo día del atentado hubo una insurrección en Asyut, en el sur del país. Los rebeldes tomaron la sede de seguridad durante un día, hasta que llegaron paracaidistas. Murieron seis atacantes y sesenta y ocho policías y militares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Dos hechos el mismo día: el atentado en El Cairo y una revuelta armada en Asyut. Las fuentes que he podido abrir no aclaran cuánta coordinación hubo entre ambos. Prefiero no afirmarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un tribunal militar juzgó a diecinueve personas. Diecisiete fueron condenadas a prisión y dos, absueltas. Cinco recibieron la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 15 de abril de 1982 fueron ejecutados Islambuli, otros tres hombres de su grupo y el ideólogo, Muhammad Abd al-Salam Faraj, condenado como cerebro de la conspiración. Faraj era ingeniero civil y miembro de la Yihad Islámica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. El caso está cerrado, pero con un matiz. Un dirigente de otra organización, Gama'a Islamiyya, ha reclamado también haber planeado el asesinato. Es solo su palabra. No se ha confirmado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al funeral asistieron tres expresidentes de Estados Unidos, el primer ministro de Israel y numerosos jefes de Estado europeos. En Beirut y Damasco, según la prensa de la época, hubo celebraciones por su muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sadat está enterrado junto al Monumento al Soldado Desconocido, en Ciudad Nasr, a pocos pasos de la tribuna donde murió. Su tumba dice: el héroe de la guerra y la paz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron con él diez personas más: un general, un obispo, un diplomático y un fotógrafo. Sus familias también perdieron aquel día. El archivo las recuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Sadat. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en) y la crónica del Guardian del 7 de octubre de 1981 (abierta con curl); BBC y CNN no abrieron con WebFetch (la BBC sí por curl, solo cabecera). Contradicción con la ficha: la crónica del Guardian atribuyó en caliente el atentado al movimiento del general exiliado Shazli (National Front); el guion lo da como versión inicial y remite al juicio. La ficha dice 28 heridos y once muertos incluido Sadat (Wikipedia). Redada de septiembre, 1.500 personas: cifra de Wikipedia, atribuida con «según una fuente». Asyut: seis atacantes y 68 policías y militares (Wikipedia). Diecinueve juzgados, 17 condenados a prisión y 2 absueltos (Wikipedia); la ficha dice que cinco fueron ejecutados el 15 de abril de 1982. La ficha dice cinco ejecutados incluyendo Islambuli y Faraj; Wikipedia añade que fueron fusilados dos y ahorcados tres (omitido por ser gráfico). Que Sadat se levantó creyendo que era parte del espectáculo es de Wikipedia. Las víctimas se describen sin nombres (un general, un obispo, un diplomático, un fotógrafo) según Wikipedia; el cargo del diplomático (cubano) no se cita. «Un diplomático» y «un fotógrafo» son de Wikipedia/otras fuentes citadas por ella; comprobar si se prefiere quitar. Pronunciaciones a oído."
+}

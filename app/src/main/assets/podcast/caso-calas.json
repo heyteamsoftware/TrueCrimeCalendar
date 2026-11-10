@@ -1,0 +1,107 @@
+{
+  "id": "caso-calas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Calas": "Calás",
+    "Jean Calas": "Yan Calás",
+    "Toulouse": "Tulús",
+    "Marc-Antoine": "Mark Antuán",
+    "Filatiers": "Filatié",
+    "Voltaire": "Voltér",
+    "Saint-Georges": "San Yorch",
+    "Élie de Beaumont": "Elí de Bomón",
+    "Antoine Louis": "Antuán Luí",
+    "capitouls": "capitulés"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El hijo mayor, en la tienda",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Calas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El hijo mayor, en la tienda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Toulouse, noche del 13 de octubre de 1761. En la casa y tienda de la familia Calas, en la calle des Filatiers, aparece muerto Marc-Antoine, el hijo mayor. Su padre, Jean, es un comerciante protestante, respetado en el barrio. Esa noche, su familia da la alarma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Lo más importante de este informe pasó antes de que llegara la justicia. La familia descolgó el cuerpo y, al principio, habló de un agresor desconocido. Mintieron. Y con eso lo estropearon todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más tarde admitieron lo que ocultaban. Habían descolgado el cuerpo para esconder un suicidio, y con él, la vergüenza pública que entonces caía sobre la familia de quien se quitaba la vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero ya era tarde. En Toulouse, ciudad católica, la minoría protestante vivía bajo presión desde hacía décadas. Corrió un rumor: que Marc-Antoine iba a hacerse católico, y que su padre lo había matado para impedirlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Fíjate en el orden. Primero el rumor, después el delito. En las piezas del proceso no hay un crimen probado. Hay una familia con miedo, una mentira inicial y un barrio dispuesto a creer lo peor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los magistrados municipales, los capitouls, juzgaron a la familia. Pidieron testigos mediante un aviso público. Fueron acusados Jean Calas, su familia, una criada y un invitado, y en noviembre de 1761 los capitouls los declararon culpables."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Parlamento de Toulouse revisó la causa. Condenó a Jean Calas por ocho votos contra cinco. Calas siempre dijo que su hijo se había quitado la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Ocho contra cinco. Cinco magistrados dudaron, y con eso bastó para ejecutar a un hombre. Hoy una diferencia así, sin prueba directa, nos parecería una advertencia. En 1762 fue una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de marzo de 1762, Jean Calas fue ejecutado en la plaza de Saint-Georges, en Toulouse. Hasta el final proclamó su inocencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La causa de la familia la hicieron suya escritores protestantes. Después, el escritor más famoso de Europa: Voltaire."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Voltaire convirtió el caso en una causa pública. Escribió y movilizó a la opinión pública. Un abogado, Élie de Beaumont, redactó las memorias legales de la familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1763, Voltaire publicó el Tratado sobre la tolerancia. Ese mismo año, un cirujano, Antoine Louis, sostuvo que las señales del cuerpo eran compatibles con un suicidio y debilitó la tesis del asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1764, el Consejo del rey anuló la sentencia de Toulouse por defectos de procedimiento. Y el 9 de marzo de 1765 un tribunal de París rehabilitó la memoria de Jean Calas y de su familia, y le concedió una pensión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. El Parlamento de Toulouse nunca lo aceptó. Los jueces que condenaron a un inocente no pidieron perdón, y nadie los obligó. Eso también forma parte del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los historiadores siguen discutiendo. Unos hablan de un error judicial provocado por el prejuicio religioso. Otros creen que el suicidio es la explicación más probable, y que Voltaire simplificó la historia. El caso se recuerda como símbolo de la intolerancia religiosa, y como uno de los primeros en que un escritor cambió un proceso con la opinión pública."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda es una regla: si una familia miente por vergüenza, la justicia debe saber distinguir una mentira de un crimen. No lo hizo, y un hombre murió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Marc-Antoine murió joven, en una casa llena de miedo. Jean Calas fue ejecutado por un delito que nadie probó. El archivo guarda los dos nombres, y el de su familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El caso Calas. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en francés (Affaire Calas) y Persée (Romane-Musculus 1962: confirma la ejecución el 10 de marzo de 1762 en la plaza de Saint-Georges); Britannica (403), Universalis y las piezas del proceso no se pudieron abrir con detalle, y el dosier de los Archivos del Alto Garona devolvió acceso denegado. Contradicciones: ninguna con la ficha, salvo que Wikipedia dice «en la casa familiar» y la ficha «en la tienda de su familia» (el guion dice «casa y tienda»). La ficha da el voto de 8 a 5 y las fechas del 9 y 10 de marzo de 1762 de Wikipedia en francés. Frases a comprobar: que «Marc-Antoine era el hijo mayor» (Wikipedia fr: eldest son); que «Jean era un hombre mayor» (tenía 63 años según otras fuentes, no abiertas); que Voltaire «tardó en creerlos» (es la versión habitual, no consta en las fuentes abiertas: retirar si no se confirma); el sentido de «otros protestantes pidieron ayuda a Voltaire» es aproximado. El guion no menciona la tortura ni los detalles de la ejecución. «Todos los acusados fueron liberados»: no se afirma. Los historiadores citados (Garnot, Inchauspé) no se nombran. Pronunciaciones a oído."
+}

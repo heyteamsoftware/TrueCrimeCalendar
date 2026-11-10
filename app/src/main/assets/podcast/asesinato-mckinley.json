@@ -1,0 +1,121 @@
+{
+  "id": "asesinato-mckinley",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "McKinley": "Mackínli",
+    "Czolgosz": "Solgós",
+    "Leon Czolgosz": "Lión Solgós",
+    "William": "Uíliam",
+    "Búfalo": "Búfalo",
+    "Emma Goldman": "Ema Góldman",
+    "Goldman": "Góldman",
+    "James Parker": "Yéimes Párker",
+    "Matthew Mann": "Mátiu Man",
+    "Roswell Park": "Rósuel Park",
+    "Niágara": "Niágara",
+    "Theodore Roosevelt": "Zíodor Rósevelt",
+    "Roosevelt": "Rósevelt",
+    "Adirondacks": "Adiróndaks",
+    "Auburn": "Óburn",
+    "Margaret Leech": "Márgaret Lich",
+    "Scott Miller": "Escot Míler",
+    "Lincoln": "Linkoln",
+    "Garfield": "Gárfild",
+    "Servicio Secreto": "Servicio Secreto"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un pañuelo en la fila",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de McKinley. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un pañuelo en la fila."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Búfalo, Nueva York, 6 de septiembre de 1901. Hace calor en el Templo de la Música, dentro de la Exposición Panamericana. Una larga fila espera para estrechar la mano del presidente. Muchos se secan el sudor con pañuelos. Nadie se fija en el hombre que lleva uno enrollado en la mano derecha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un pañuelo en una sala sofocante: nada llamaba la atención. En 1901 el presidente se dejaba ver entre la gente, sin barreras. Y todavía no existía una ley que encargara su protección a nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran las cuatro y siete de la tarde. El presidente William McKinley tendió la mano izquierda. El hombre, Leon Czolgosz, disparó dos veces con un revólver que ocultaba bajo el pañuelo. McKinley fue alcanzado en la parte alta del abdomen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Varios hombres se echaron encima del agresor. Uno fue James Parker, que estaba justo detrás de él en la fila. Mientras lo golpeaban, según cuenta el Servicio de Parques Nacionales, el presidente pidió que no fueran duros con él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quédate con esa frase. Acaba de recibir dos disparos y pide calma para quien los ha hecho. Piense cada uno lo que piense de su política, el archivo debe conservarla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era Czolgosz? Un obrero de veintiocho años, nacido en Detroit, hijo de inmigrantes polacos. En 1893 perdió su empleo en una fábrica de Cleveland, en plena disputa laboral, y se acercó al anarquismo. Se le oyó decir que había cumplido con su deber."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1901 oyó hablar a la anarquista Emma Goldman. Ella no defendía la violencia, pero él contó después que sus palabras se le quedaron grabadas. El 3 de septiembre decidió matar al presidente. Ese mismo día compró el revólver."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un matiz importante. Goldman se entregó días después, cuando la policía detuvo a su familia para presionarla. Pasó casi tres semanas en la cárcel y la soltaron sin cargos. Oír un discurso no es participar en un plan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A McKinley lo llevaron al hospital de la exposición. Lo operó Matthew Mann, un ginecólogo sin experiencia en heridas abdominales, con poca luz y sin material básico. Roswell Park, el cirujano más experimentado de la ciudad, estaba operando en Niágara y no llegó a tiempo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. En la exposición había una máquina de rayos X, y no se usó. Según Margaret Leech, por orden de los médicos. Según Scott Miller, porque le faltaba una pieza. Dos historiadores, dos explicaciones. No me atrevo a elegir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al principio, McKinley pareció mejorar. Después apareció la gangrena. Murió a las dos y cuarto de la madrugada del 14 de septiembre. Los historiadores actuales creen que la causa fue la necrosis del páncreas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Theodore Roosevelt estaba en los montes Adirondacks. Volvió a toda prisa en carruaje y supo de la muerte al amanecer, en la estación. Pasó a ser el presidente de Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio de Czolgosz empezó el 23 de septiembre, nueve días después de la muerte de McKinley. La acusación tardó dos días en presentar sus pruebas. La defensa no llamó a ningún testigo. El jurado deliberó media hora y lo declaró culpable de asesinato en primer grado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta del expediente es la prisa. Nadie discutió quién había disparado, es cierto. Pero entre los disparos y la silla eléctrica pasaron menos de dos meses. Hoy una defensa así nos sorprendería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Czolgosz fue ejecutado en la prisión de Auburn el 29 de octubre de 1901."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras el atentado, los editoriales criticaron la poca protección del presidente. En 1902 el Servicio Secreto ya custodiaba a Roosevelt a tiempo completo. En 1906, el Congreso le encargó oficialmente la seguridad presidencial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una pregunta que el archivo no puede cerrar: qué habría pasado con otro quirófano, otra luz, otro cirujano. Nadie puede saberlo. Lo único documentado son las carencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "William McKinley fue el tercer presidente de Estados Unidos asesinado, después de Lincoln y de Garfield. Murió ocho días después de aquella tarde de calor, en la que solo había ido a saludar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de McKinley. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: NPS (Theodore Roosevelt Inaugural NHS, 6 de septiembre) y Wikipedia en inglés (hora 16:07, Parker, Mann, Park, gangrena y muerte a las 2:15, juicio, Goldman, Servicio Secreto); Britannica devolvió 403. Sin contradicciones con la ficha. Discrepancia entre historiadores: por qué no se usó el aparato de rayos X (Leech, por orden médica; Miller, por faltarle una pieza), atribuido en el guion. Detalles dejados fuera: papel de otros hombres que detuvieron a Czolgosz, la pregunta de si la causa fue gangrena o necrosis pancreática (se dice ambas, atribuidas a la época y a los historiadores actuales). La cita «cumplí con mi deber» está en Wikipedia, parafraseada; «ir con calma» del presidente, en el NPS. El dato de ser el tercer presidente asesinado y de la edad no viene de las fuentes abiertas (es de conocimiento general)."
+}

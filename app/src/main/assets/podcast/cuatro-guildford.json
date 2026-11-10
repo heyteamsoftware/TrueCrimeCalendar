@@ -1,0 +1,118 @@
+{
+  "id": "cuatro-guildford",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Guildford": "Guílford",
+    "Horse and Groom": "Jors an Grum",
+    "Surrey": "Sáreí",
+    "Gerry Conlon": "Yéri Cónlon",
+    "Conlon": "Cónlon",
+    "Paul Hill": "Pol Jil",
+    "Paddy Armstrong": "Pádi Ármstrong",
+    "Carole Richardson": "Cárol Ríchardson",
+    "Old Bailey": "Old Béili",
+    "Balcombe Street": "Bólcom Strit",
+    "Tony Blair": "Tóni Bler",
+    "Lord Lane": "Lord Lein",
+    "IRA": "Ira"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Quince años por una confesión",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los Cuatro de Guildford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Quince años por una confesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Guildford, Inglaterra, 5 de octubre de 1974. Es sábado por la noche y dos pubs están llenos de jóvenes. Muchos son soldados de los cuarteles cercanos. Una bomba estalla en el Horse and Groom. Hay cinco muertos: cuatro soldados muy jóvenes y un obrero de veintiún años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Otra bomba estalló en un segundo pub. Allí no hubo heridos. El IRA Provisional, el ejército clandestino irlandés, fue señalado enseguida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Guildford era una ciudad de guarnición, con seis mil militares en la zona. Los atentados contra soldados iban a provocar una presión enorme sobre la policía para encontrar culpables cuanto antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Semanas después, la policía detuvo a cuatro jóvenes: Paul Hill, Gerry Conlon, Paddy Armstrong y Carole Richardson. Los cuatro firmaron confesiones tras días de interrogatorio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que más me inquieta del expediente. No había pruebas materiales que los unieran a las bombas. Las condenas descansaban en confesiones. Y las confesiones, después, las retiraron los cuatro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ellos contaron que las firmaron bajo violencia, amenazas contra sus familias y presión constante. Siempre dijeron que eran inocentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 22 de octubre de 1975, el tribunal del Old Bailey los condenó a cadena perpetua. Carole Richardson tenía diecisiete años cuando la detuvieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mientras tanto, la historia se complicó. En 1976, cuatro hombres de la unidad del IRA de Balcombe Street, ya detenidos por otros atentados, reivindicaron las bombas de Guildford. Nunca fueron acusados de ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron los años. Los Cuatro seguían presos. Una campaña con apoyo de políticos y de jueces de alto rango fue ganando fuerza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los cuatro siempre defendieron su inocencia, y sus abogados nunca dejaron de recurrir. El tiempo acabó dándoles la razón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de octubre de 1989, el Tribunal de Apelación declaró las condenas inseguras. Los Cuatro salieron libres después de quince años. El presidente del tribunal, Lord Lane, resumió su opinión sobre la policía con una frase corta: los agentes debieron de mentir."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frase cambió muchas cosas. Se revisó cómo se obtienen las confesiones, qué pruebas debe revelar la acusación y cuánto crédito merece la palabra de un policía. Fue una crisis de confianza en el sistema entero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso fue el primero de varios errores judiciales relacionados con Irlanda que llevaron a una comisión real y, en 1996, a un organismo nuevo para revisar condenas dudosas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1993, tres policías de Surrey que habían participado en la investigación fueron juzgados por conspirar para falsear la justicia. Fueron absueltos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso hay que decirlo tal cual: absueltos. No se puede acusar a nadie de lo que no fue condenado. Lo que sí está probado es que los Cuatro eran inocentes, y que nadie ha sido juzgado por las bombas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005, el primer ministro Tony Blair pidió perdón en nombre del Gobierno. Gerry Conlon murió en 2014."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2019, un forense decidió retomar las diligencias sobre las muertes. No es un nuevo juicio contra nadie. Es una investigación sobre qué pasó con aquellos cinco jóvenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos injusticias en una. Cinco familias sin respuestas durante casi medio siglo. Y cuatro personas que perdieron su juventud en la cárcel por un crimen que no cometieron, y que al salir tuvieron que aprender a vivir de nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diez años después de la liberación, el diario The Guardian contó cómo les había ido. Un psiquiatra de Cambridge había hallado en Conlon un estrés postraumático persistente. Les costó abrir una cuenta en el banco, encontrar trabajo, cruzar una calle con tráfico. Habían perdido quince años y la vida que tenían planeada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y las víctimas, cinco jóvenes que salieron una noche de sábado a un pub, merecen que su recuerdo no se pierda entre las sentencias. Fin del expediente: Los Cuatro de Guildford. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: BBC (2019, vía curl) y The Guardian (1999, vía curl). NYT 1974 y Blair 2005 no se abrieron. No se nombran las víctimas (cuatro de entre 17 y 19 años); sí a los cuatro condenados por error, parte del nombre del caso. La muerte de Gerry Conlon en 2014 sale de la ficha (BBC 2014 sin abrir). Lo del estrés postraumático y las dificultades al salir, de The Guardian (1999: examen de Adrian Grounds a Conlon, no a los demás). 'Quince años' y 'IRA' como en la ficha. El Guardian da 'The officers must have lied' (Lord Lane). La BBC dice que la unidad de Balcombe Street reivindicó en 1976 'y nunca fue acusada'. 'Siempre dijeron que eran inocentes' (BBC). 'Inocentes' está probado por la anulación de las condenas. Seis mil militares: BBC 2019. El hecho de ser sábado (5-10-1974) es cálculo propio. Pronunciaciones por revisar. La comisión real (informe de 1993) y el organismo de revisión de casos 'tres años después' (1996) salen del Guardian (1999)."
+}

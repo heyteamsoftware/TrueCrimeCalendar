@@ -1,0 +1,107 @@
+{
+  "id": "miguel-servet",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Vienne": "Vien",
+    "Champel": "Shampél",
+    "Christianismi Restitutio": "Cristianísmi Restitúcio",
+    "Michel de Villeneuve": "Mishél de Vilnöv",
+    "Villeneuve": "Vilnöv",
+    "Sébastien Castellio": "Sebastián Castelio"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La iglesia donde predicaba Calvino",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El hereje quemado en Champel. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La iglesia donde predicaba Calvino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ginebra, 13 de agosto de 1553. Hay culto en la iglesia donde predica Juan Calvino. Entre los fieles, alguien reconoce a un hombre que no debería estar allí. Es un médico aragonés. Y lo buscan en media Europa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Miguel Servet. Aquel día lo detuvieron. Setenta y cinco días después, el 27 de octubre, moriría en la hoguera en Champel, a las afueras de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Este no es un caso criminal como los otros del archivo. No hubo víctima ni arma. Lo que se juzgó fueron ideas. Y aun así, el expediente de un hombre quemado merece sitio en esta caja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Servet nació hacia 1509 o 1511 en Villanueva de Sigena, en Aragón. Estudió en Zaragoza, en Toulouse y en París. Era médico. Y era teólogo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus ideas eran incómodas para todos. Negaba la Trinidad, un dogma que compartían católicos y protestantes. Ya en 1531 había publicado un libro sobre los errores de ese dogma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero detenerme aquí. Servet no fue un provocador inconsciente. Vivió años bajo otro nombre, Michel de Villeneuve, y llegó a ser médico del arzobispo de Vienne. Sabía que sus ideas eran peligrosas y se escondió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1553 publicó de forma anónima su gran obra, Christianismi Restitutio. En ella, entre páginas de teología, describió cómo circula la sangre por los pulmones. Fue la primera descripción explícita en el mundo cristiano occidental."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La obra llegó a manos de un católico, que sospechó quién era el autor. La Inquisición detuvo a Servet en Vienne. Pero él se escapó el 7 de abril de 1553."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay un hecho que me deja sin palabras. La justicia francesa lo condenó a muerte en ausencia y lo quemó en efigie, un muñeco que ardió en su lugar. Eso ocurrió antes de que pisara Ginebra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Servet llegó a Ginebra, ciudad protestante, donde Calvino mandaba. Años antes, Servet había mantenido correspondencia con él y le había enviado partes de su obra. Calvino y él discrepaban."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Las fuentes que he podido consultar no aclaran por qué fue a Ginebra, la ciudad del hombre que más le contradecía. Es la pregunta que más me incomoda de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El proceso por herejía se abrió ante el Consejo de Ginebra. Calvino fue su principal acusador. Antes de decidir, el Consejo consultó a las iglesias reformadas de Zúrich, Berna, Basilea y Schaffhausen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las ideas que se juzgaban eran antitrinitarias y estaban en sus libros y en sus cartas con Calvino. El Consejo lo condenó a la hoguera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser exacto: lo hicieron las autoridades de una ciudad que había huido de otra persecución. Quien perseguía ya había sido perseguido. Esa es la lección que no se debería olvidar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 27 de octubre de 1553, Servet fue quemado vivo en Champel, junto a sus libros. Tenía cuarenta y cuatro años. No daremos más detalles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al año siguiente, un teólogo francés, Sébastien Castellio, publicó bajo seudónimo un libro que preguntaba si debía perseguirse a los herejes. Abrió un debate entre los protestantes sobre la tolerancia religiosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la consecuencia que importa. La muerte de un hombre empujó a otros a escribir contra la persecución por las ideas. Y sus propias ideas sobre la Trinidad influyeron después en líderes religiosos de Polonia y Transilvania, aunque ellos no aceptaron todo lo que él pensaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1903, tres siglos y medio después, se levantó cerca del lugar de la hoguera un monumento expiatorio. Hoy Servet es recordado en Zaragoza, en Villanueva de Sigena, en Ginebra, en Annemasse y en París. Las iglesias unitarias lo consideran su pionero y primer mártir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El hereje quemado en Champel. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Encyclopedia of Religion (Encyclopedia.com) y Wikipedia en español (la ficha las cita). No es un crimen común sino un proceso religioso, que encaja como 'condena' por la ejecución. Nacimiento incierto (1509 o 1511). 'Setenta y cinco días' entre el 13 de agosto y el 27 de octubre (cálculo propio). Wikipedia dice que Servet 'pidió justicia contra Calvino'; no se incluye. La Encyclopedia of Religion no recoge el papel de Calvino ni la consulta a las iglesias suizas; salen de Wikipedia y de la ficha. El motivo del viaje a Ginebra no consta en las fuentes abiertas. 'Un católico sospechó quién era el autor' = Guillaume de Trie (Encyclopedia of Religion). Castellio (1554, De haereticis) de la Encyclopedia. Monumento de 1903 de la ficha; tres siglos y medio. Homenajes de Wikipedia. Pronunciaciones por revisar."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "noche-stammheim",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Stammheim": "Shtámjaim",
+    "Andreas Baader": "Andréas Báader",
+    "Baader": "Báader",
+    "Gudrun Ensslin": "Gúdrun Énslin",
+    "Ensslin": "Énslin",
+    "Jan-Carl Raspe": "Yan Carl Ráspe",
+    "Raspe": "Ráspe",
+    "Irmgard Möller": "Írmgard Méler",
+    "Möller": "Méler",
+    "Landshut": "Lándshut",
+    "Stuttgart": "Shtútgart",
+    "Schleyer": "Shláiyer"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una radio en la celda",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La noche de la muerte de Stammheim. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una radio en la celda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrugada del 18 de octubre de 1977. En la cárcel de Stammheim, en Stuttgart, un preso escucha la radio. Son las doce y cuarenta. La emisora da una noticia: en Somalia, una unidad alemana acaba de liberar a los rehenes de un avión secuestrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El avión se llamaba Landshut. Los secuestradores exigían la libertad de los líderes de la Fracción del Ejército Rojo. Esa noche, el plan había fracasado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Según la investigación, el preso era Jan-Carl Raspe, y pasó la noticia al resto por un hilo que unía las celdas. Lo que ocurrió después se reconstruye a partir de lo que hallaron los funcionarios a la mañana siguiente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Recuerda el contexto. Andreas Baader, Gudrun Ensslin y Jan-Carl Raspe eran los líderes de la primera generación de la banda. Habían sido condenados a cadena perpetua en abril de 1977, aunque había recursos pendientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre, la segunda generación había secuestrado al empresario Hanns Martin Schleyer para canjearlo por ellos. En octubre llegó el secuestro del Landshut. El Gobierno alemán no cedió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres presos y una cuarta, Irmgard Möller, en el mismo módulo de máxima seguridad. Una prisión descrita como la más segura de Europa. Y aun así, esa noche, todo dentro de ella salió mal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las siete y cuarenta, los funcionarios abrieron las celdas. Encontraron a Baader y a Ensslin muertos. Raspe vivía y fue trasladado a un hospital; murió hacia las diez menos veinte. Möller estaba inconsciente, herida, y sobrevivió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No describiremos más. Lo importante es lo que vino después: tres muertes en una cárcel de máxima seguridad, y una pregunta que todavía hoy divide a quienes estudian el caso. ¿Cómo entraron las armas?"
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la clave. Según la investigación, las pistolas entraron meses antes, ocultas en carpetas de documentos que un abogado llevaba a los presos. Los funcionarios solo hojeaban las carpetas, porque los presos salían del juicio deprisa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El plan se supo gracias a un colaborador de la defensa que, tras ser detenido, lo contó a la policía. El abogado señalado fue condenado en 1978 por ese contrabando. Él siempre ha negado saber lo que llevaban las carpetas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una tercera pistola se encontró un mes después en una celda vacía, escondida en la pared. Y se hallaron también explosivos y detonadores en otros escondites."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces, la versión oficial: se quitaron la vida al saber que el secuestro había fracasado. Fue una decisión política. Los defensores, sin embargo, hablaron desde el primer día de asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa tesis se apoyó en detalles que sembraron dudas. Una revista informó de un apagón en la prisión esa noche. Un perito sostuvo que un disparo se hizo a cierta distancia; otros tres peritos de la misma institución concluyeron lo contrario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto también lo que alimentó la sospecha. Más tarde se supo que algunas celdas de Stammheim estaban pinchadas. No hay prueba de que las autoridades supieran de las armas, y lo han negado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo versiones opuestas dentro del propio círculo de la banda. Algunos antiguos miembros contaron que existía un plan de suicidio colectivo que luego se presentaría como asesinato. Otros lo negaron siempre, y la superviviente también."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El día siguiente a las muertes, Schleyer apareció muerto. Había sido asesinado por sus secuestradores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En abril de 2013, la fiscalía de Stuttgart rechazó reabrir la investigación. Concluyó que no había indicios nuevos de intervención de terceros. No existe respaldo judicial para la tesis del asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que sigue sin respuesta es lo que sabía el Estado, y cuándo. Esas preguntas, de momento, están en archivos, no en sentencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda otra memoria. Aquel otoño, llamado en Alemania el otoño alemán, dejó muertos al piloto del avión, a un empresario y a sus escoltas, y un país que se preguntó cuánta libertad estaba dispuesto a ceder por seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La noche de la muerte de Stammheim. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Tagesspiegel (solo la entradilla; el resto de pago), Wikipedia alemana (horas, armas, controversia, referencias a Aust, Peters y Welt) y la nota de la Fiscalía de Stuttgart (no abrió por error SSL; la reapertura rechazada en abril de 2013 se toma de la ficha y de Wikipedia). Spiegel, Stern y Die Welt no se pudieron abrir. Hora de la radio (0:40), hallazgo (hacia 7:40-7:50) y muerte de Raspe (9:40) según Wikipedia alemana. No se nombra al abogado condenado (lo niega) ni a las personas de la banda que ejecutaron el secuestro. Se omiten los métodos y las armas concretas. Los 'varios escoltas' del otoño alemán: la cinta lo dice sin cifra (los asesinatos de Schleyer, su chófer y escoltas y del piloto del Landshut constan en las fuentes generales, no en las abiertas aquí). El perito discrepante y los tres que concluyeron lo contrario salen de Wikipedia/Aust. La frase sobre que 'no hay prueba de que las autoridades supieran de las armas' sigue a Wikipedia ('unklar und dementiert'). Pronunciación del alemán por revisar al escuchar."
+}

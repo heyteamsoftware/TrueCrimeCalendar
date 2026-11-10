@@ -1,0 +1,104 @@
+{
+  "id": "politkovskaya",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Politkóvskaya": "Politkófskaya",
+    "Nóvaya Gazeta": "Nóvaya Gazéta",
+    "Chechenia": "Chechénia",
+    "Majmúdov": "Majmúdov",
+    "Gaitukáyev": "Gaitukáyev",
+    "Jadzhikurbánov": "Jadyikurbánov",
+    "Lésnaya": "Liésnaya"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El ascensor de la calle Lésnaya",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Politkóvskaya. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El ascensor de la calle Lésnaya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Moscú, 7 de octubre de 2006. Una mujer de cuarenta y ocho años vuelve a casa. Entra en el portal de su edificio, en la calle Lésnaya, y sube al ascensor. Allí la encuentran más tarde, muerta a tiros. Se llamaba Anna Politkóvskaya."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un portal en el centro de una gran capital. Un asesinato así se prepara: hay que conocer los horarios de la víctima y por dónde entra. Según la fiscalía, otros la vigilaron antes de que se disparara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en Nueva York en 1958, hija de diplomáticos soviéticos, y estudió periodismo en Moscú. Escribía en Nóvaya Gazeta, un diario ruso de periodismo de investigación. Desde 1999 viajó a Chechenia casi siete años seguidos para contar la guerra desde el lado de los civiles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Documentó bombardeos, desapariciones y torturas. Denunció abusos de las fuerzas federales rusas y también de las fuerzas de seguridad chechenas. Recibió premios internacionales y muchas amenazas. Criticó incluso a las organizaciones de derechos humanos cuando, por miedo, callaban casos o ocultaban nombres de víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. En septiembre de 2004 se puso muy enferma en un avión, después de tomar un té, cuando iba a Osetia del Norte por la crisis de Beslán. Algunos señalaron a los servicios secretos, pero nunca se estableció quién fue. Lo anoto solo como contexto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación de su muerte tardó años. En 2009, un tribunal de Moscú absolvió a tres acusados. El Tribunal Supremo anuló la absolución y ordenó repetir el juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2012, un expolicía fue condenado a once años como cómplice. Según la fiscalía, había organizado el seguimiento de la periodista para conocer sus horarios y sus rutas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Seis años para llegar al primer condenado. En 2009 el autor de los disparos seguía prófugo. La justicia avanzó despacio y a trompicones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 2014, un jurado de Moscú declaró culpables a cinco hombres. El autor de los disparos, Rustam Majmúdov, y el organizador, Lom-Alí Gaitukáyev, recibieron cadena perpetua. Otros tres, entre ellos dos hermanos de Rustam, fueron condenados a penas de entre doce y veinte años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero hay una pregunta que ningún tribunal respondió: quién lo encargó. Nadie ha sido juzgado como autor intelectual."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Las autoridades rusas apuntaron a dos opositores exiliados como posibles instigadores. Los representantes de la familia rechazaron esa idea por infundada y políticamente motivada. Nadie ha probado nada contra nadie. No añadiré nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sus excolegas de Nóvaya Gazeta sostienen que el expolicía condenado sabía más de lo que contó. En 2016, el Comité de Investigación dio por resuelto el caso. El periódico respondió que no se había encontrado a quien lo pagó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Y el tiempo no ayudó. El plazo para perseguir el crimen venció en 2021, según el propio periódico. En 2023, otro de los condenados, Serguéi Jadzhikurbánov, fue indultado tras firmar un contrato para combatir en Ucrania."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su familia y el periódico denunciaron que no fueron informados del indulto, y que no se busca a los autores intelectuales. Los hijos de Anna, Ilya y Vera, siguen reclamando justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Chechenia la recuerdan como una heroína. Gran parte de lo que se sabe sobre los crímenes contra civiles en aquella guerra se debe a su trabajo. Hoy son muy pocos los periodistas que informan desde allí."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No fue una víctima casual ni una víctima de un robo. Murió, según todos los indicios, por lo que escribía. Es lo que deja su caso en el archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Está enterrada en el cementerio de Troyekúrovskoye, en Moscú. Tenía cuarenta y ocho años y dos hijos. Dejó libros sobre Chechenia y sobre la Rusia de Putin, y su diario póstumo se publicó en 2007."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El asesinato de Politkóvskaya. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: CPJ (ficha del caso), HRW (2016) y Wikipedia (en); Guardian/BBC/NYT/WaPo no probados o bloqueados. Contradicciones: fecha de las penas de 2014, CPJ dice julio, NYT y Wikipedia 9 de junio; el guion no da día. El CPJ dice que Dmitri Pavlyuchenkov habría ordenado el seguimiento (según la fiscalía). La ficha dice «condenados a entre 12 y 20 años» (CPJ: Dzhabrail 14, Ibragim 12, Khadzhikurbanov 20). Que los hijos «siguen reclamando» se basa en el CPJ (denuncia de 2023 de los hijos), no en actualidad comprobada. «Sábado» (7/10/2006 fue sábado) y «con la compra» (se ha repetido en la prensa) no consta en las fuentes abiertas; mejor quitar «con la compra» y «a plena luz de un sábado» si no se confirma. Los instigadores supuestos (exiliados) van sin nombres porque la familia y el equipo de la periodista lo califican de infundado. Cementerio de Troyekúrovskoye: ficha. Dato de que el autor material «siguió prófugo» hasta su detención: CPJ lo da fugado en 2009; no se comprobó la fecha de detención. Pronunciaciones a oído."
+}

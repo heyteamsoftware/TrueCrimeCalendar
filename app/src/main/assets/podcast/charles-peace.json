@@ -1,0 +1,119 @@
+{
+  "id": "charles-peace",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Charlie Peace": "Chárli Pis",
+    "Charles Peace": "Charls Pis",
+    "Peace": "Pis",
+    "Blackheath": "Blákjiz",
+    "St John's Park": "Sent Yons Park",
+    "Edward Robinson": "Édguard Róbinson",
+    "Robinson": "Róbinson",
+    "Sheffield": "Shéfild",
+    "Arthur Dyson": "Árzur Dáison",
+    "Dyson": "Dáison",
+    "William Habron": "Uíliam Jábron",
+    "Habron": "Jábron",
+    "Nicholas Cock": "Níkolas Cok",
+    "Old Bailey": "Old Béili",
+    "Armley": "Ármli",
+    "Leeds": "Lids",
+    "John Ward": "Yon Uord",
+    "Whalley Range": "Uáli Rein"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una luz en St John's Park",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Charlie Peace, el ladrón de los mil disfraces. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una luz en St John's Park."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Blackheath, al sureste de Londres. Son las dos de la madrugada del 10 de octubre de 1878. El agente Edward Robinson ve una luz extraña en una casa de St John's Park. No debería haber nadie dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un hombre salta por una ventana y dispara contra el agente. Robinson recibe un disparo en un brazo, pero no lo suelta. Lo sujeta hasta que llegan otros policías."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre con un revólver, un policía herido y aun así la presa no se escapa. Robinson podría haber retrocedido y nadie se lo habría reprochado. Aguantó. Sin esa decisión, este expediente no existiría."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El detenido dijo llamarse John Ward. Parecía un ladrón más. El Old Bailey lo condenó a cadena perpetua por intentar matar al agente, y el jurado recomendó una recompensa de veinticinco libras para Robinson."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero no era John Ward. Era Charles Peace, de Sheffield. Su compañera en Londres reveló su verdadera identidad, al parecer, para cobrar una recompensa de cien libras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Una recompensa. Siempre acaba en eso: no lo desenmascaró la astucia de la policía, lo delató alguien cercano. Peace vivía de cambiar de nombre y de aspecto, y se vino abajo por quien conocía su cara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en Sheffield en 1832. Una lesión en una pierna le dejó cojo, y se dedicó al robo. Pasó por prisión varias veces desde los dieciocho años, y en 1872 volvió a Sheffield con un negocio de cuadros. Más adelante vendió instrumentos musicales y cuadros enmarcados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1876, en Sheffield, mató a un vecino, Arthur Dyson, de un disparo. Según el relato de la época, Peace había mantenido una relación con la mujer de Dyson. Huyó, y la policía lo buscó por asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Se instaló en Peckham, en Londres. De día, un hombre respetable con su coche de caballos. De noche, robaba casas armado con un revólver, y disparaba para huir cuando lo sorprendían. Los relatos posteriores exageraron sus disfraces, y varios detalles son de biografías novelescas. Mejor quedarme con lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Trasladado en tren hacia Yorkshire para ser juzgado por el crimen de Sheffield, Peace se lanzó por la ventanilla en marcha. Lo hallaron inconsciente junto a la vía, en la nieve. Sobrevivió y fue juzgado igualmente, tras una breve demora por sus heridas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 4 de febrero de 1879, el jurado de Leeds lo declaró culpable de la muerte de Arthur Dyson. Deliberó doce minutos. Lo condenaron a muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Y aquí está lo más grave del expediente, que no tiene que ver con Dyson. Por la muerte de un policía en Mánchester en 1876 había otro condenado. Un chico de dieciocho años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba William Habron. Había sido condenado a muerte por matar al agente Nicholas Cock, durante un robo en Whalley Range. Peace estuvo presente en el juicio y no dijo nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes de morir, confesó ante un sacerdote que el asesino del agente era él. Habron fue indultado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Un inocente estuvo a punto de pagar por un crimen ajeno, y quien lo sabía calló hasta que ya no le servía de nada. No es una virtud. Es lo que queda cuando se acaba el tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Peace fue ahorcado en la prisión de Armley, en Leeds, el 25 de febrero de 1879. Se convirtió en leyenda: figuras de cera, canciones y novelas hicieron de él un personaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los vecinos de Blackheath regalaron a Robinson un reloj de bolsillo grabado. Más tarde lo adquirieron los amigos del Museo de la Policía Metropolitana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Que lo recuerde una leyenda de ladrón con disfraces es una mala noticia para el archivo. Los recordados deberían ser el policía que no soltó y las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Charlie Peace, el ladrón de los mil disfraces. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: History by the Yard (Policía Metropolitana), EBSCO Research Starters y la ficha; el registro del Old Bailey no se probó. Contradicciones: el número de disparos y los compañeros de Robinson difieren entre fuentes (el guion dice solo «dispara» y un brazo herido); la sesión del Old Bailey figura el 18 o el 19 de noviembre (el guion no da día). EBSCO dice que muchos detalles (disfraces elaborados, talento musical, nombres) vienen de biografías novelescas y son de dudosa fiabilidad: el guion no habla de disfraces concretos ni del violín, y titula la cinta con la luz de Blackheath; el inspector avisa de que las leyendas exageran. La relación con la mujer de Dyson es de EBSCO («Tuvo una relación con la vecina»); se atribuye a «el relato de la época» y no se nombra a ella. La compañera de Peace la identificó, «al parecer», para cobrar la recompensa (EBSCO, History by the Yard, que da la recompensa de 100 libras). Muerte de Cock: EBSCO dice agosto de 1876; Habron tenía 18 años y fue condenado a muerte (History by the Yard); el indulto lo da la ficha. «Peckham, de día, con su coche de caballos» de History by the Yard. «Pierna cojeando» de EBSCO (cojera permanente por un accidente laboral). «Scotland Yard» es una expresión del inspector, no una afirmación de los hechos. Pronunciaciones a oído."
+}

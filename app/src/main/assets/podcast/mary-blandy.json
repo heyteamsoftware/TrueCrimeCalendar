@@ -1,0 +1,122 @@
+{
+  "id": "mary-blandy",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mary Blandy": "Méri Blándi",
+    "Blandy": "Blándi",
+    "Francis Blandy": "Fránsis Blándi",
+    "Henley-on-Thames": "Jénli on Temz",
+    "Henley": "Jénli",
+    "William Cranstoun": "Uíliam Cránston",
+    "Cranstoun": "Cránston",
+    "Anthony Addington": "Ántoni Ádington",
+    "Addington": "Ádington",
+    "Oxford": "Óksford",
+    "Remenham": "Rémenam",
+    "Little Angel": "Lítol Éinyel",
+    "Escocia": "Escocia"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El polvo blanco del cazo",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Mary Blandy, la envenenadora de Henley. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El polvo blanco del cazo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Henley-on-Thames, Inglaterra, 1751. En la casa de un abogado, los criados notan algo en un cazo con el que se prepara la comida del dueño: un polvo blanco. No dicen nada. Todavía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El abogado se llama Francis Blandy, y lleva meses enfermo. Según la historia que se contó después, la cocinera vio a su hija intentar deshacerse de aquel polvo, y guardó una parte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un polvo guardado por una cocinera. En 1751 no había forma fiable de analizar un veneno, pero aquella cocinera hizo lo que haría cualquier investigador: conservar la muestra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Francis Blandy murió el 14 de agosto de 1751. Su hija, Mary, era hija única. Se decía que su padre podía dejarle diez mil libras, una fortuna enorme para la época."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mary tenía un pretendiente: el capitán William Cranstoun, oficial de marina e hijo de un lord escocés. Su padre desconfiaba de él. Sospechaba que ya estaba casado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tenía razón. Cranstoun estaba casado en secreto, en Escocia, desde 1745. La sospecha del padre era correcta. Lo cuento al revés de cómo se hizo: primero la sospecha, luego la prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la acusación, Cranstoun convenció a Mary de que diera a su padre un polvo en pequeñas dosis. Ella dijo siempre lo mismo: creía que era un filtro de amor, un remedio para que su padre aceptara la boda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En realidad era arsénico. Cuando el padre cayó gravemente enfermo, Mary fue vigilada en casa. Pero encontró la puerta abierta y salió a la calle."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes cuentan que los vecinos la persiguieron hasta un puente y que se refugió en una posada llamada Little Angel, en Remenham. Una huida de pocos metros. No llegó lejos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue juzgada en Oxford el 3 de marzo de 1752. Entre los testigos estaba el médico del padre, Anthony Addington, que identificó el arsénico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Conviene decirlo con prudencia. La prueba química de entonces era tosca: se calentaba el polvo y se olían los vapores. Los métodos modernos para detectar arsénico llegaron cuarenta años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado la declaró culpable. Mary sostuvo hasta el final su versión: había creído que era un filtro de amor. Las fuentes señalan que esa versión chocaba con muchos hechos presentados en el juicio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y hay un dato que me inquieta. Su padre, ya moribundo, la compadeció y trató de evitar que ella misma se incriminara. Parece que creyó hasta el final que ella había sido engañada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La ahorcaron el 6 de abril de 1752 ante la cárcel del castillo de Oxford. Su última petición, recogida por las crónicas, fue que no la subieran demasiado alto, por decoro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay quien ve en este caso el primero en que la medicina decidió una condena. Yo me quedo con algo más pequeño: una cocinera que guardó una muestra y unos médicos que, con lo poco que tenían, midieron un riesgo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cranstoun huyó a Francia, según HISTORY.com, y nunca fue juzgado. Murió el 2 de diciembre de 1752, pobre, ocho meses después de la ejecución de Mary."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se dijo que fue instigada por él. Pero quien pagó la cuenta fue ella. Eso no la libra de su parte, pero sí explica por qué el caso fascinó a Inglaterra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después de su muerte, un banquero londinense, señor del feudo de Henley, se quedó con parte de los bienes confiscados de los Blandy, entre ellos dos campos. Henley guardó el recuerdo durante siglos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una pregunta que los archivos no resuelven: cuánto sabía ella. El tribunal decidió que lo bastante. Ella dijo que no. Yo solo puedo atribuirlo a quien lo dijo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Francis Blandy fue un abogado de pueblo que murió en su casa, cuidado, creía, por su hija. Esa es la parte del caso que no se cuenta casi nunca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Mary Blandy, la envenenadora de Henley. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Royal Berkshire History (Nash Ford), DNB 1886 en Wikisource y HISTORY.com. Discrepancias: edad de Mary, «unos 31 años» en la ficha (nacida en 1720 según Berkshire History) y 26 según HISTORY.com; el guion no da edad. HISTORY.com no menciona a Addington; la identificación del arsénico por Addington sale de la ficha y de DNB (que cita su testimonio). El episodio de los criados y la cocinera que guarda el polvo, y la oferta a un criado para huir a Francia, salen solo de HISTORY.com y van atribuidos («según la historia que se contó»); la huida por Henley hasta Remenham y la posada Little Angel, de Berkshire History. Que «los métodos modernos llegaron cuarenta años después» y que la prueba era oler vapores, solo de HISTORY.com. La frase de que el padre «creyó hasta el final que ella había sido engañada» es lectura de DNB («parece que creía que había confundido el veneno con una poción»); está atenuada. Cranstoun: la ficha dice que murió en diciembre de 1752; HISTORY.com dice que huyó a Francia y murió pobre; DNB: 2 de diciembre de 1752. Pobreza: solo HISTORY.com. Las dos propiedades confiscadas pasaron a un banquero, Gillingham Cooper, señor del feudo de Henley (Berkshire History y DNB), no a la corona. La instigación de Cranstoun (ficha: «según el tribunal») va en el guion como «se dijo»; DNB dice que él la persuadió. Caso histórico de hace siglos, sin problema de menores."
+}

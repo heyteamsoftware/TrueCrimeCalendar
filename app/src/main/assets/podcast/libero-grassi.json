@@ -1,0 +1,121 @@
+{
+  "id": "libero-grassi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Libero Grassi": "Líbero Grási",
+    "Grassi": "Grási",
+    "Palermo": "Palermo",
+    "via Alfieri": "vía Alfiéri",
+    "Giornale di Sicilia": "Yornále di Sichília",
+    "Sigma": "Sigma",
+    "pizzo": "pitso",
+    "Cosa Nostra": "Cosa Nóstra",
+    "Salvino Madonia": "Salvino Madónia",
+    "Madonia": "Madónia",
+    "Marco Favaloro": "Marco Favalóro",
+    "Favaloro": "Favalóro",
+    "Samarcanda": "Samarcánda",
+    "Michele Santoro": "Miquéle Santóro",
+    "Sicindustria": "Sicindústria",
+    "Rai Tre": "Rai Tre"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Querido extorsionador",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El empresario que dijo no al pizzo. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Querido extorsionador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Palermo, 10 de enero de 1991. El Giornale di Sicilia publica una carta con un encabezado que nadie esperaba: «Querido extorsionador». La firma un empresario textil. Se llama Libero Grassi."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En ella escribe que ha levantado su fábrica con sus propias manos. Dice que no pagará el pizzo, el dinero que exige la Mafia a los comerciantes. Se lo habían pedido: cincuenta millones de liras. Y avisa de que no es solo una vez, sino pagos cada mes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Leída hoy, la carta es un acto de una frialdad enorme. No es un grito. Es un cálculo: pagar una vez es pagar siempre. Y lo publica con su nombre, en un periódico, con la policía avisada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su empresa, Sigma, fabricaba pijamas. Daba trabajo a unas cien personas. Según una de las crónicas, unos empleados habían sufrido robos cuando se negó a ceder, y los extorsionadores fueron detenidos más tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 11 de abril de 1991 apareció en el programa de televisión Samarcanda, en Rai Tre, que presentaba Michele Santoro. Dijo que pagar significaba renunciar a su dignidad de empresario. De pronto, toda Italia sabía quién era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene lo que más me pesa de este expediente. Estaba solo. En una carta al Corriere della Sera, él mismo contó que, aparte de la policía, solo una asociación de comerciantes lo apoyaba. La patronal de los industriales, Sicindustria, según las crónicas, le dio la espalda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro detalle: un juez de Catania había dictaminado, el 4 de abril, que pagar la protección no era delito. Grassi lo llamó «escandaloso». Aquel clima lo explica todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 29 de agosto de 1991, hacia las siete y media de la mañana, Grassi salió de su casa en la via Alfieri para ir andando a trabajar. Un hombre le disparó cuatro veces. Tenía sesenta y siete años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El pistolero huyó en un coche que lo esperaba. Grassi había denunciado las amenazas y había dicho públicamente que pedía protección a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo dejo escrito con cautela: las fuentes que he abierto no detallan qué protección se le dio, si es que se le dio alguna. Solo consta que murió camino de su fábrica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de ese año fueron detenidos dos hombres: Salvino Madonia, el pistolero, y Marco Favaloro, que conducía el coche de huida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Favaloro se convirtió en arrepentido y ayudó a reconstruir la emboscada. Su testimonio fue decisivo para condenar a Madonia a cadena perpetua. Hoy la cumple en régimen de aislamiento especial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un conductor que se arrepiente. Casi siempre es así: la Mafia cae por dentro, no por fuera. Y en este caso hubo algo más que un pistolero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En una sentencia de 18 de abril de 2008, en el proceso conocido como Agate Mariano más cincuenta y seis, los jueces concluyeron que la cúpula de Cosa Nostra había ordenado el crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Diecisiete años para llegar a quienes dieron la orden. Es el tiempo que tarda la justicia cuando se enfrenta a una organización entera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pocos meses después del asesinato, una ley creó un fondo de solidaridad para las víctimas de la extorsión. Su muerte impulsó un movimiento de comerciantes que denunciaban el pizzo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 20 de septiembre de 1991, Santoro y otro presentador organizaron una noche en su memoria, emitida por canales públicos y privados. En 2023, en el lugar del crimen, su mujer y sus hijos volvieron a recordarlo con autoridades de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la lección que yo guardo. Grassi no pretendía ser un héroe. Pidió a la policía que lo protegiera y dijo, con su nombre y apellidos, que no iba a pagar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Libero Grassi tenía sesenta y siete años. Era empresario, marido y padre. En la via Alfieri se le recuerda cada agosto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El empresario que dijo no al pizzo. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Il Post (2016), BlogSicilia/Italpress (2023) y Wikipedia en italiano (carta y juicios). L'Espresso, La Sicilia y Sky TG24 (archivo) no se abrieron. Discrepancias: Il Post dice que fundó MIMA (ropa interior femenina, 250 trabajadores); la ficha, BlogSicilia y Wikipedia hablan de Sigma, de pijamas y unos cien empleados: el guion usa Sigma, pijamas y cien. La hora del asesinato: 7:30 (ficha, Il Post, Wikipedia) o 7:45 (BlogSicilia): el guion dice hacia las siete y media. Madonia: Wikipedia da el nombre «Salvatore» y la ficha, «Salvino»; se usa Salvino. Fecha de la carta, 10 de enero de 1991 (Wikipedia; la ficha dice «en enero»). Detención de Madonia y Favaloro en octubre de 1991: Wikipedia. Favaloro, arrepentido y decisivo en la condena: ficha y Wikipedia. Sentencia de 2008 (18 de abril, proceso «Agate Mariano + 56»): Wikipedia; la ficha dice «sentencia firme de 2008» y no se pudo confirmar otro fallo de 2006. El cargo «cincuenta millones de liras», el programa del 11 de abril de 1991 y la carta al Corriere (30 de abril) son de Il Post y Wikipedia; el dictamen del juez de Catania es del 4 de abril de 1991 (Wikipedia). La ley antiextorsión «pocos meses después»: Wikipedia solo dice «unos meses»; la ficha dice que su muerte impulsó el movimiento. Qué protección recibió Grassi no consta en las fuentes abiertas; el guion lo deja abierto. Lo de «diecisiete años» es cálculo (1991 a 2008)."
+}

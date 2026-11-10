@@ -1,0 +1,125 @@
+{
+  "id": "macarthur-gubu",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "GUBU": "Gúbu",
+    "Malcolm Macarthur": "Málcolm Macárzur",
+    "Macarthur": "Macárzur",
+    "Bridie Gargan": "Brídi Gárgan",
+    "Gargan": "Gárgan",
+    "Donal Dunne": "Dónal Dan",
+    "Dunne": "Dan",
+    "Phoenix Park": "Fínix Park",
+    "Dalkey": "Dálki",
+    "Patrick Connolly": "Pátrik Cónoli",
+    "Connolly": "Cónoli",
+    "Charles Haughey": "Charls Jáui",
+    "Haughey": "Jáui",
+    "Conor Cruise O'Brien": "Cónor Crús O'Bráien",
+    "Edenderry": "Edenderi",
+    "Offaly": "Ófali",
+    "Dublín": "Dublín",
+    "Dún Laoghaire": "Dan Líri",
+    "Harry Beiling": "Jari Báilin",
+    "Killiney": "Kilíni"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El piso de Dalkey",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El escándalo GUBU. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El piso de Dalkey."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dalkey, a las afueras de Dublín, 13 de agosto de 1982. La policía irlandesa llama a la puerta de un piso. Tras un aviso, busca a un hombre. Lo encuentra allí, alojado como invitado. Se llama Malcolm Macarthur."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El dueño del piso no es cualquiera. Es Patrick Connolly, el fiscal general de Irlanda, el primer asesor jurídico del Gobierno. No tenía ni idea de a quién tenía en casa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un sospechoso de dos asesinatos, durmiendo en casa del hombre más alto de la justicia del país. Si esto fuera una novela, el editor lo tacharía por inverosímil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Macarthur venía de una familia con tierras cerca de Trim, en el condado de Meath. Tras la muerte de su padre, en 1974, heredó una suma que, según The Irish Times, gastó en unos pocos años de vida de lujo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando el dinero se acaba y el hábito no, aparece el plan. En 1982 planeaba robos. Eso dicen las crónicas. Lo que no dicen es por qué decidió pasar de los robos a la violencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 22 de julio atacó en el Phoenix Park de Dublín a Bridie Gargan, una enfermera que estaba en un descanso del trabajo. Quería su coche. Gargan murió en el hospital cuatro días después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres días después del ataque, el 25 de julio según la RTÉ, Macarthur fue a Edenderry, en el condado de Offaly, a ver una escopeta que un granjero, Donal Dunne, vendía. Discutieron. Dunne murió disparado con su propia arma, y Macarthur le robó el coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos muertes en pocos días. Y el hombre sigue yendo de casa en casa. El 4 de agosto asaltó en Killiney la vivienda de un antiguo diplomático estadounidense, Harry Beiling. La víctima escapó tras varias horas. Ya no era un caso aislado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Luego vino la detención. Macarthur confesó en la comisaría de Dún Laoghaire. Se declaró culpable del asesinato de Bridie Gargan."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero dejo una anotación sobre Dunne. La fiscalía no siguió adelante con ese cargo. Las crónicas dicen que las razones nunca se explicaron del todo. Esa familia no tuvo su juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras, el escándalo ya estaba en marcha. El 14 de agosto, Connolly salió de vacaciones a Estados Unidos. Los periodistas lo esperaban en Nueva York. El primer ministro, Charles Haughey, le ordenó volver."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Connolly dimitió a medianoche del 16 de agosto. Al día siguiente, Haughey compareció ante la prensa y describió todo el asunto con cuatro adjetivos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la RTÉ, dijo que era «grotesco, increíble, extravagante y sin precedentes». En inglés, grotesque, unbelievable, bizarre and unprecedented."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El político Conor Cruise O'Brien, con las iniciales, hizo una sigla: GUBU. Y la palabra se quedó. En Irlanda, GUBU pasó a significar cualquier escándalo político disparatado de aquellos años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1983, Macarthur fue condenado a cadena perpetua. Cumplió treinta años. En septiembre de 2012, con sesenta y seis, salió en libertad con un régimen supervisado por el servicio de libertad vigilada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sigo sin ver una explicación para lo que hizo. Las crónicas hablan de dinero y de coches. Pero entre robar y matar hay una distancia que ningún informe cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El ministerio de Justicia aseguró entonces que las familias de las víctimas habían sido informadas de su salida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y a mí me importa más otra frase: durante décadas, el escándalo político se contó mejor que las muertes. Se recordó el piso del fiscal. Se recordó la sigla. Y casi nadie recordó los nombres de ellos dos, de las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bridie Gargan era enfermera. Estaba en una pausa del trabajo, al sol de un parque. Donal Dunne era un granjero del condado de Offaly. Los dos murieron en pocos días, en el verano de 1982."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El escándalo GUBU. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: RTÉ Brainstorm (2022), The Irish Times (2002, «The day debonair McArthur got life for murder») e Irish Examiner (2012). Discrepancias: fecha de la detención, 13 de agosto según RTÉ Brainstorm y la ficha; el Irish Times (2002) dice «4 de agosto» (que según RTÉ es el día del robo a Beiling). El guion usa el 13. Lugar del homicidio de Dunne: la ficha y RTÉ dicen Edenderry, condado de Offaly; el Irish Times (2002) dice condado de Westmeath. El guion dice Edenderry, Offaly. Fecha de la muerte de Dunne: 25 de julio según RTÉ (atribuido en el guion), «tres días después» según Irish Times; Wikipedia y otros dan otras fechas. Que Gargan murió «cuatro días después» (RTÉ) y la fecha de la condena, enero de 1983 (ficha; RTÉ solo dice 1983), no se pudo precisar al día. La traducción de GUBU («grotesco, increíble, extravagante y sin precedentes») es nuestra; RTÉ la da en inglés. Que Macarthur se declaró culpable de Gargan y que no se siguió con el cargo por Dunne: Irish Examiner e Irish Times. Edad de Macarthur al salir (66): Irish Examiner. Herencia tras la muerte del padre en 1974 y finca en Meath: Irish Times. Se evitan los detalles del método del ataque. Dato de la ficha no contrastado en las fuentes abiertas: Connolly «que lo alojaba sin saber que era sospechoso» (Irish Times: invitado; los vecinos habían avisado a la policía). Caso cerrado; Gargan y Dunne eran adultos y su nombre es público."
+}

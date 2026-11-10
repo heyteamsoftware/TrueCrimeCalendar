@@ -1,0 +1,102 @@
+{
+  "id": "carlos-chacal",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Toullier": "Tulié",
+    "Drugstore Publicis": "Drágstor Publisís",
+    "Publicis": "Publisís",
+    "Clairvaux": "Clervó",
+    "Saint-Germain": "San Yermán"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un apartamento en la calle Toullier",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Carlos, el Chacal. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un apartamento en la calle Toullier."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 27 de junio de 1975. Dos agentes del contraespionaje francés acuden a un apartamento de la calle Toullier, para interrogar a un hombre. Con ellos va un informante. Ninguno de los tres sale con vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Dos policías van a interrogar a un hombre y mueren con su confidente. Es la primera huella muy clara de un hombre que, para el gran público, aún no tenía rostro. Y es el crimen por el que lo condenaron primero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre al que se buscaba se llamaba Ilich Ramírez Sánchez. Había nacido el 12 de octubre de 1949 en Venezuela. Su padre, un abogado marxista, le puso Ilich en honor de Lenin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con el alias de Carlos se había unido a grupos armados palestinos, y en los años setenta y ochenta participó en atentados por toda Europa. La prensa acabó llamándolo el Chacal, nombre popularizado a partir de una novela de ficción que, según se cuenta, ni siquiera era suya."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. El apodo es un adorno de prensa. Me interesa más lo que hizo: moverse entre países, apoyarse en gobiernos amigos y desaparecer. Por eso tardó casi veinte años en estar frente a un juez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 21 de diciembre de 1975, un comando bajo su dirección irrumpió en la sede de la OPEP, en Viena. Tomó a más de sesenta rehenes, entre ellos ministros de petróleo, y mató a tres personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, el grupo voló a Argel con cuarenta y dos rehenes y después a Trípoli. Entre los rehenes estaban los ministros de Finanzas de Irán y de Petróleo de Arabia Saudí; no fueron ejecutados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Una toma de rehenes que termina con un avión y un salvoconducto. Ese final dice mucho de la época: los estados negociaban con quienes disparaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fecha que celebra el calendario es su nacimiento. Pero el expediente dice más: en 1982 y 1983 hubo una serie de atentados en trenes, una estación y una calle de París. Murieron once personas y casi ciento cincuenta resultaron heridas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1994 lo localizaron en Jartum, en Sudán, tras meses de vigilancia. Las autoridades sudanesas lo entregaron a Francia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Casi veinte años después de París, cayó en Jartum. Los gobiernos que le habían dado cobijo cambiaron de interés. A veces la justicia llega por la política."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1997 fue condenado a cadena perpetua por los asesinatos de la calle Toullier. En 2011, a una segunda, por cuatro atentados de 1982 y 1983. La apelación la confirmó en 2013."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 2017, un tribunal de París lo condenó por una granada lanzada el 15 de septiembre de 1974 en el Drugstore Publicis, en el boulevard Saint-Germain. Murieron dos personas y treinta y cuatro resultaron heridas. Fue su tercera cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Él niega haber participado en ese atentado. La defensa anunció que apelaría y alegó que la cobertura de prensa había influido en los jueces. En los juicios por terrorismo en Francia no hay jurado: fueron cinco jueces, que deliberaron cuatro horas tras dos semanas de juicio, más de cuarenta años después de los hechos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lleva detenido desde 1994, más de treinta años, y cumple sus tres condenas en Francia. Desde 2006 está en la prisión de Clairvaux. Se convirtió al islam, según su biografía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entre las notas de esta caja, esto es lo que importa: quienes estuvieron en esas calles y esos trenes. Su nombre figura en las sentencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por todos ellos hay que contar este expediente con cuidado. Hablamos de: dos agentes, un informante, las víctimas de Viena y de los atentados de París. Son personas, no solo cifras en una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Carlos, el Chacal. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: ABC News Australia (29/3/2017), Wikipedia (en) y la ficha; el Guardian y los demás no abrieron. Contradicciones: lugar de nacimiento (Britannica, Caracas; Wikipedia, Michelena, Táchira): el guion dice solo «Venezuela». La fecha del crimen de la calle Toullier: Wikipedia menciona también 1979 para una orden de arresto, lo que no coincide; el guion usa 27 de junio de 1975 (ficha). El apodo «el Chacal» y la novela: según Wikipedia popularizado por el Guardian y el libro era de otro residente del piso; dicho con prudencia. «Barrio Latino» (calle Toullier): no consta en las fuentes abiertas, comprobar. «Sudaneses lo entregaron» y «meses de vigilancia» de Wikipedia. «Conversión al islam y boda con su abogada»: Wikipedia, 2001 (sigue casado con la segunda esposa): se dice solo «se casó en prisión con su abogada», quizá inexacto (la fecha de 2001 y el lugar no constan); revisar. «Veinte años de fuga» es aproximado (1975-1994). ABC dice que lleva 23 años detenido en 2017 (de 1994). Apelación de 2017: la defensa anunció que apelaría; no se ha comprobado el resultado. Muertos: Viena, tres; 1982-83, once; Publicis, dos; Toullier, tres. La ficha da «al menos 19» y la nota dice 16+3. El guion no da el total."
+}

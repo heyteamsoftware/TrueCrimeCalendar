@@ -1,0 +1,117 @@
+{
+  "id": "vuelo-108-guay",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sault-au-Cochon": "Só-o-Cochón",
+    "Canadian Pacific Air Lines": "Canéidian Pasífic Er Láins",
+    "Canadian Pacific": "Canéidian Pasífic",
+    "Baie-Comeau": "Bé Comó",
+    "Joseph-Albert Guay": "Yósef Albér Gué",
+    "Albert Guay": "Albér Gué",
+    "Guay": "Gué",
+    "Rita Morel": "Rita Morél",
+    "Généreux Ruest": "Yeneré Ruést",
+    "Ruest": "Ruést",
+    "Marguerite Pitre": "Margarít Pitr",
+    "Pitre": "Pitr",
+    "Marguerite": "Margarít",
+    "Bordeaux": "Bordó",
+    "Delphis Bouchard": "Delfís Bushár",
+    "DC-3": "de ce tres"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La mujer de negro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La tragedia de Sault-au-Cochon. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La mujer de negro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cabo Tourmente, a unos sesenta kilómetros de la ciudad de Quebec. Es la mañana del 9 de septiembre de 1949. Un pescador oye una explosión en el cielo. Cinco ferroviarios son los primeros en llegar al lugar donde ha caído un avión. Entre los restos no hay supervivientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era un DC-3 de Canadian Pacific Air Lines, en el vuelo de Montreal a Baie-Comeau, con escala en Quebec. Llevaba veintitrés personas, entre pasajeros y tripulación. Murieron todas. Cuatro eran niños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un avión estalla en el aire. En 1949 pocos sabían qué hacer con eso. Pero este cayó sobre tierra, y eso lo cambió todo. Los investigadores pudieron examinar los restos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los análisis en Montreal hallaron rastros de explosivo. Una bomba de relojería, en la bodega delantera, había destruido el avión. Con la Guerra Fría recién empezada, algunos temieron un ataque contra Estados Unidos: iban a bordo tres empresarios norteamericanos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de septiembre, la prensa habló de una mujer de negro que había dejado un paquete en el avión antes del despegue. La policía la identificó: Marguerite Pitre, de cuarenta y tres años, vecina de Quebec."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Pitre dijo que ese paquete era una estatuilla frágil, de un tal Delphis Bouchard para un tal Albert Plouffe, en Baie-Comeau. Bouchard negó haber enviado nada. De Plouffe no se halló rastro. Esa es la historia que ella contó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando la policía tiró del hilo, apareció un nombre: Joseph-Albert Guay. Un vendedor de relojes y joyas de treinta y un años. Su esposa, Rita Morel, de veintinueve, viajaba en ese avión. Él le había comprado el billete y un seguro de vida de diez mil dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto sin adjetivos. Guay fue detenido el 23 de septiembre. Se le acusó de matar a su esposa y a otras veintidós personas. Su matrimonio se había roto y quería otra relación. El divorcio, en el Quebec católico de entonces, era muy difícil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los testimonios del juicio, Guay hizo que Pitre comprara la dinamita, alegando que era para despejar terrenos. Y pidió a su hermano, Généreux Ruest, que fabricara un artefacto con un reloj despertador y baterías. Convenció a Rita de volar a Baie-Comeau con la excusa de recoger joyas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle que lo explica todo. La bomba estaba calculada para estallar sobre el río San Lorenzo, sin dejar restos. El avión despegó cinco minutos tarde. Ese pequeño retraso sacó a la luz el crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Guay fue declarado culpable de asesinato con premeditación en 1950. Un testigo declaró que le había ofrecido quinientos dólares por envenenar a su esposa, y que se negó. Poco antes de la fecha prevista para su ahorcamiento, implicó a los hermanos Ruest."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ruest admitió haber construido el aparato, pero dijo que creía que servía para arrancar tocones y, luego, para pescar con dinamita. Lo condenaron a muerte, aunque las pruebas contra él eran limitadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pitre insistió hasta el final en que creía llevar una estatua y en que solo supo la verdad después. Los jurados no la creyeron. El Tribunal Supremo de Canadá rechazó su apelación. La prensa la apodó «Madame le Corbeau», madame Cuervo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está la duda que queda: hasta qué punto sabían los hermanos Ruest lo que había detrás de aquel paquete. Fueron condenados, pero la pregunta sigue abierta. Guay afirmó, después de su condena, que ellos sabían muy bien lo que hacían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Guay fue ahorcado en la prisión de Bordeaux, en Montreal, el 12 de enero de 1951. Ruest, en julio de 1952. Pitre, el 9 de enero de 1953. Fue la última mujer ejecutada en Canadá."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un perito declaró que un ataque contra un avión civil en Filipinas, ese mismo año, pudo servir de inspiración a Guay. Un crimen doméstico, con un método nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se recuerda como uno de los peores sabotajes a un avión comercial hasta entonces. Después del once de septiembre de 2001, los medios lo citaron como un primer ejemplo de terrorismo contra la aviación civil."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero primero fueron veintitrés personas. Cuatro eran niños. Una era Rita Morel, que subió a ese avión sin saber lo que llevaba en la bodega."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La tragedia de Sault-au-Cochon. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: The Canadian Encyclopedia (cronología, plan, juicios y ejecuciones; dice que Guay fue condenado el 14 de marzo y que se confesó un mes antes de la fecha de la horca) y Canada History «A Monstrous Plot» (hora, pasajeros, paquete de la estatuilla; fecha de condena de Guay en febrero de 1950). CBC y Radio Canada International dieron 403. Discrepancias entre fuentes: la fecha de la condena de Guay (febrero o marzo de 1950; el guion dice solo «en 1950»); la identificación de Pitre (Le Canada, 14 de septiembre, o un periodista de Le Soleil; el guion dice «la prensa»); quién fue la primera persona que habló de la mujer de negro. Sobre la ficha: la detención de Guay el 23 de septiembre coincide con la Canadian Encyclopedia y Canada History; Wikipedia da ese día como el de la primera confesión de Pitre. Se omite el nombre de la joven con la que Guay mantenía una relación (era menor). Cuántos sabían los hermanos Ruest sigue sin aclararse. Seguro de 10.000 dólares (coincide con la ficha). Víctimas nombradas: solo Rita Morel."
+}

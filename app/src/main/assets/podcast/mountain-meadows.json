@@ -1,0 +1,118 @@
+{
+  "id": "mountain-meadows",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mountain Meadows": "Máuntein Médous",
+    "Baker-Fancher": "Béiker Fánser",
+    "Utah": "Iúta",
+    "Arkansas": "Árkansas",
+    "Cedar City": "Sídar Síti",
+    "John D. Lee": "Yon Di Li",
+    "Lee": "Li",
+    "Isaac Haight": "Áisac Jait",
+    "William Dame": "Uíliam Deim",
+    "Brigham Young": "Brígham Yong",
+    "Carleton": "Cárlton",
+    "Harrison": "Járison",
+    "paiutes": "páiuts"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una bandera blanca",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Mountain Meadows. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una bandera blanca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mountain Meadows, territorio de Utah, 11 de septiembre de 1857. Una caravana de emigrantes lleva cuatro días cercada. Casi sin provisiones ni munición, ve acercarse a un hombre con una bandera blanca. Ofrece una escolta segura hasta Cedar City. Solo piden que entreguen las armas y sus pertenencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran emigrantes de Arkansas, camino de California: la caravana Baker-Fancher. Entre ciento veinte y ciento cincuenta personas, según la fuente. El 7 de septiembre, cuando acampaban en una pradera del sur de Utah, alguien los atacó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Aguantaron cinco días. Volcaron los carros, cavaron fosos, se defendieron hasta quedarse sin nada. Y entonces les propusieron una tregua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre de la bandera era John D. Lee, miliciano mormón y agente indio de la zona. Los emigrantes aceptaron, entregaron las armas y salieron del campamento. Entonces los atacaron. Murieron al menos ciento veinte personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con las cifras. Las fuentes dicen que murieron al menos ciento veinte personas, y que la caravana tenía entre ciento veinte y ciento cincuenta. La cifra exacta nunca se fijó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Solo se salvaron diecisiete niños pequeños, de seis años o menos. Familias mormonas de la zona los acogieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores contaron que habían sido los paiutes. Es verdad que algunos paiutes participaron. Pero, según los historiadores, los jefes de la milicia querían que pareciera una violencia tribal, y los atacantes iban disfrazados de indígenas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Cada vez que lo leo me llama la atención lo mismo. Un crimen cometido por una milicia local, contado como obra de otros. Esa mentira duró años, y a ella se debe que la verdad tardara tanto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la Enciclopedia de Arkansas, la Iglesia intentó al principio encubrir el crimen, sobre todo culpando a los indígenas. Pero el Ejército halló restos a la vista, y las familias de Arkansas presionaron hasta que el gobierno actuó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1859 el Ejército de Estados Unidos encontró y devolvió a los niños a sus familiares en Arkansas. Un mayor, James Carleton, visitó el lugar, enterró los restos y levantó un túmulo con una cruz. Su informe culpó a dirigentes locales y también de la Iglesia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atribuyo, no afirmo. Los historiadores coinciden en que Brigham Young creó el clima y luego obstruyó la investigación. Debaten si sabía del plan de antemano. Ese debate sigue abierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los historiadores, entre los jefes de la milicia tuvieron un papel central Isaac Haight y William Dame. Nunca fueron condenados. En 1859, un gran jurado federal no presentó acusaciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo que esperar hasta 1874. Nueve hombres fueron acusados. Solo uno fue juzgado: John D. Lee. En 1875 el primer juicio acabó sin veredicto. En 1876, el segundo lo declaró culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lee fue fusilado en el propio Mountain Meadows el 23 de marzo de 1877, veinte años después de los hechos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedan cosas sin aclarar. ¿Quién dio la orden final? ¿Qué sabían los dirigentes de más arriba? La respuesta no cabe en un solo expediente. Y solo uno de nueve acusados pagó por una matanza de más de cien personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mucho tiempo después, en 1999, una obra en el lugar sacó a la luz restos de veintiocho víctimas. En 2007, la Iglesia de Jesucristo de los Santos de los Últimos Días expresó su pesar oficial, aunque aclaró que no era una disculpa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2011, Mountain Meadows fue declarado monumento histórico nacional. Hay memoriales en el lugar y en Harrison, Arkansas, la región de origen de la caravana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eran hombres, mujeres y niños que iban de paso hacia California. Los diecisiete niños que sobrevivieron volvieron con sus parientes en Arkansas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Veinte años tardó la justicia en juzgar a uno solo de los responsables. A las víctimas se las recuerda hoy en el lugar y en Harrison, y en el camino que hicieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Mountain Meadows. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Encyclopedia of Arkansas (asedio del 7 al 11, escolta, 17 niños, encubrimiento, juicio de Lee, memoriales, excavación de 1999, monumento nacional en 2011) y Wikipedia en inglés (bandera blanca de Lee, Haight y Dame, paiutes, Carleton, jurado de 1859, juicios, Iglesia 2007). Smithsonian devolvió 403; la Iglesia (archive) y Archaeology no se abrieron. Discrepancias: número de víctimas (ficha: al menos 120; Arkansas: 120 a 150 personas en la caravana; Wikipedia: 120 a 140), y el papel de la bandera blanca de Lee, que la Enciclopedia de Arkansas no menciona. Nota sobre responsabilidades: Haight y Dame se citan como «papel central» según historiadores, sin condena; la implicación de Brigham Young se deja como debate abierto. No se nombra a ningún niño superviviente. Se dice que Lee fue condenado en 1876 tras un primer juicio sin veredicto (Wikipedia). La ficha dice que los autores culparon a los paiutes: el guion lo recoge, pero aclara que algunos paiutes participaron."
+}

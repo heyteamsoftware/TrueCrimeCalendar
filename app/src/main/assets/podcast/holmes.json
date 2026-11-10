@@ -1,6 +1,6 @@
 {
   "id": "holmes",
-  "titulo": "El castillo y la leyenda",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "H. H. Holmes": "Áche Áche Jóums",
@@ -17,36 +17,168 @@
     "Pearl": "Perl",
     "Emeline Cigrand": "Émelin Sígrand",
     "Minnie Williams": "Míni Uíliams",
+    "Nannie": "Náni",
     "Alice": "Ális",
     "Nellie": "Néli",
     "Howard": "Jáuard",
     "Pinkerton": "Pínkerton",
-    "Erik Larson": "Érik Lárson"
+    "Irvington": "Érvington",
+    "Moyamensing": "Moyaménsin",
+    "Hearst": "Jérst",
+    "Erik Larson": "Érik Lárson",
+    "Adam Selzer": "Ádam Sélzer"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Verano de 1895. Toronto. Un detective de Filadelfia recorre una a una las agencias inmobiliarias de la ciudad. Lleva consigo las fotografías de un hombre y de dos niñas. Busca una casa que alguien alquiló durante unos pocos días del otoño anterior." },
-    { "voz": "ximena", "texto": "Se llama Frank Geyer. Y lo que encuentre en esa casa resolverá uno de los casos más famosos, y más deformados, de la historia criminal de Estados Unidos." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de H. H. Holmes, el dueño del llamado «castillo de los asesinatos». Y hoy toca algo poco habitual: separar con cuidado lo que se sabe de lo que se inventó." },
-    { "voz": "alvaro", "texto": "Porque de este caso circulan historias increíbles. Doscientas víctimas, pasadizos secretos, habitaciones trampa…" },
-    { "voz": "ximena", "texto": "Llegaremos ahí. Su verdadero nombre era Herman Webster Mudgett. Nació en 1861 en New Hampshire y estudió Medicina en la Universidad de Michigan. Según su propia confesión, ya entonces ideaba fraudes a compañías de seguros." },
-    { "voz": "ximena", "texto": "A mediados de la década de 1880 llegó a Chicago con un nombre nuevo: H. H. Holmes. Se instaló en el barrio de Englewood, se hizo con una farmacia y levantó enfrente un gran edificio de tres plantas, con tiendas abajo y habitaciones arriba." },
-    { "voz": "ximena", "texto": "Aquellos años culminaron con la Exposición Universal de 1893, que atrajo a millones de visitantes a la ciudad. Holmes era encantador, convincente y estaba siempre endeudado. Vivía de estafas: a proveedores, a socios y a aseguradoras." },
-    { "voz": "alvaro", "texto": "¿Y en qué momento pasa de estafador a asesino?" },
-    { "voz": "ximena", "texto": "Es difícil fecharlo. Pero varias personas de su entorno desaparecieron sin dejar rastro: Julia Conner, que trabajaba con él, y su hija Pearl; su secretaria, Emeline Cigrand; y Minnie Williams, con quien mantenía una relación, junto a una hermana de esta." },
-    { "voz": "ximena", "texto": "El caso que acabó con él fue otro. Holmes y su socio, Benjamin Pitezel, planearon un fraude: Pitezel fingiría su muerte para cobrar un seguro de vida. En septiembre de 1894 apareció en Filadelfia un cadáver. Era el del propio Pitezel. Holmes lo había matado." },
-    { "voz": "alvaro", "texto": "Y entonces entran en escena los niños." },
-    { "voz": "ximena", "texto": "Holmes convenció a la viuda de que su marido seguía vivo y consiguió que le confiara a tres de sus hijos: Alice, Nellie y Howard. Viajó con ellos por Estados Unidos y Canadá, mientras mantenía a la madre en otras ciudades, siempre cerca, pero sin que llegaran a encontrarse." },
-    { "voz": "ximena", "texto": "La agencia de detectives Pinkerton, que trabajaba para la aseguradora, le seguía la pista. En noviembre de 1894 fue detenido en Boston. Pero los niños no aparecían por ninguna parte. Y ahí entra Frank Geyer." },
-    { "voz": "ximena", "texto": "Geyer reconstruyó el viaje durante semanas, siguiendo cartas, registros de hotel y contratos de alquiler. En Toronto encontró la casa y, en ella, los restos de las dos niñas. Más tarde, cerca de Indianápolis, halló los de su hermano Howard." },
-    { "voz": "alvaro", "texto": "Un trabajo de detective a la antigua: a pie, con fotografías y muchísima paciencia." },
-    { "voz": "ximena", "texto": "En 1895, Holmes fue juzgado en Filadelfia por el asesinato de Benjamin Pitezel y condenado a muerte. Unos meses antes, en agosto, el edificio de Chicago había sufrido un incendio, y la prensa se lanzó a publicar todo tipo de historias sobre él." },
-    { "voz": "ximena", "texto": "Desde la cárcel, Holmes vendió a los periódicos una confesión de veintisiete asesinatos. Era muy poco fiable: algunas de las personas que mencionaba seguían vivas. Fue ahorcado en Filadelfia en mayo de 1896." },
-    { "voz": "alvaro", "texto": "Entonces, ¿qué hay de verdad en el castillo de las trampas y las doscientas víctimas?" },
-    { "voz": "ximena", "texto": "Aquí está la clave. La cifra de doscientas víctimas no sale de ninguna investigación: nació en la prensa sensacionalista de la época. Y muchas descripciones del «castillo», con sus cámaras y pasadizos, se exageraron o se inventaron después." },
-    { "voz": "ximena", "texto": "Lo comprobado es más sobrio, y no menos terrible: nueve víctimas, casi todas personas que confiaron en él. Hoy, en el solar donde estuvo el edificio de Englewood, hay una oficina de correos." },
-    { "voz": "ximena", "texto": "Su legado tiene dos caras. Por un lado, la investigación de Geyer, un ejemplo temprano de trabajo policial entre varias ciudades y dos países. Por otro, una leyenda que no ha dejado de crecer." },
-    { "voz": "ximena", "texto": "A comienzos de este siglo, el libro «El diablo en la ciudad blanca», de Erik Larson, la popularizó de nuevo. Y en esa fascinación por el «castillo», a menudo quedan en segundo plano quienes murieron." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de H. H. Holmes. Hoy recordamos a Alice, Nellie y Howard, y a todos los que creyeron en él. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cartas sin enviar",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: H. H. Holmes y el caso Pitezel. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cartas sin enviar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Junio de 1895. Un detective de Filadelfia, Frank Geyer, sale de la ciudad con una misión: seguir el rastro de tres niños. Entre sus papeles lleva unas cartas escritas por los propios niños. Nunca llegaron a su destino. El hombre al que persigue las había guardado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los niños se llaman Alice, Nellie y Howard Pitezel. Hace casi un año que nadie sabe nada de ellos. Su madre cree que están de viaje con un amigo de la familia, y ese amigo está detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Son niños de 1894, y sus nombres figuran en el sumario desde entonces. Por eso los pronuncio. Y aquí dejo el primer apunte: un hombre que conserva cartas de niños que no ha enviado no las guarda por descuido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El detenido es H. H. Holmes. Su nombre verdadero era Herman Webster Mudgett. Nació en 1861 en New Hampshire, estudió Medicina en la Universidad de Michigan y se graduó en 1884. Se casó varias veces, a veces sin haberse separado de la anterior."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1886 llegó a Chicago con el nombre de Henry Howard Holmes. Trabajó en una farmacia del barrio de Englewood, la compró y desde 1887 levantó un edificio en el solar. En 1892 añadió una tercera planta, que prometió a los inversores como hotel para la Exposición Universal de 1893."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Conviene separar leyenda y papel. La prensa de la época habló de cámaras secretas y pasadizos. Los historiadores consideran gran parte de eso exagerado o inventado. Lo documentado es otra cosa: un hombre encantador, siempre endeudado, al que los contratistas y los proveedores demandaban por facturas sin pagar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alrededor de él, varias personas desaparecieron. Julia Conner y su hija Pearl, en la Nochebuena de 1891. Emeline Cigrand, que había trabajado para él, a finales de 1892. Y Minnie Williams y su hermana Nannie, en 1893. Cómo murieron nunca se aclaró del todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sí quedó claro el negocio que lo hundió. Holmes y su socio, Benjamin Pitezel, planearon un fraude: Pitezel fingiría su muerte para que cobraran un seguro de vida de diez mil dólares. En septiembre de 1894 apareció en Filadelfia un cadáver. Era el del propio Pitezel."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primero se registró como una muerte accidental, y el seguro se cobró. Pero Holmes no se conformó con el dinero. Algunos historiadores creen que quiso evitar que alguien de la familia identificara el cuerpo o hablara. Es una hipótesis. Lo que consta es lo que hizo a continuación con los niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Convenció a la viuda de que su marido seguía vivo, escondido para no levantar sospechas. Y se hizo cargo de tres de sus hijos: Alice, Nellie y Howard. Los llevó de ciudad en ciudad por Estados Unidos y Canadá, alquilando casas por pocos días, mientras la madre esperaba en otro lugar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La aseguradora contrató a la agencia de detectives Pinkerton, que le siguió la pista a Holmes. El 17 de noviembre de 1894 lo detuvieron en Boston, primero por un asunto de caballos robados en Texas, y después por el fraude del seguro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con el hombre en prisión, el caso parecía cerrado: un estafador y un seguro cobrado. Pero faltaban tres niños. Y si el fraude de Pitezel era lo único que la ley podía probar, los niños eran lo único que el hombre no podía explicar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De ahí que se encargara el caso a Frank Geyer, un detective de la policía de Filadelfia. Su método fue el de los policías de aquel tiempo: papeles, cartas, registros de alquiler. Y, en su maleta, las cartas de los niños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según se ha contado, Geyer se sirvió de esas cartas para reconstruir el viaje. Trabajaba como se trabajaba entonces: preguntando en hoteles, comparando fechas, siguiendo cada alquiler. No buscaba un edificio famoso. Buscaba una casa pequeña, ocupada unos días, en una ciudad donde nadie conocía a la familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siguió el viaje de Holmes por varios estados. Salió de Filadelfia en junio de 1895 y la búsqueda lo llevó hasta Canadá. Lo que encontró en una casa de Toronto lo cuenta la cinta dos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un solar en Englewood",
+      "tipo": "epilogo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un solar en Englewood."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de H. H. Holmes. Empieza donde acabó la anterior, en una casa de Toronto, a mediados de 1895."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con ayuda de un detective de la policía de Toronto, Alf Cuddy, Geyer localizó la casa que Holmes había alquilado unos días del otoño anterior. Allí halló los restos de Alice y de Nellie. No vamos a dar más detalles. Eran dos niñas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siguió buscando. En Irvington, en las afueras de Indianápolis, encontró en otra casa alquilada por Holmes los restos de Howard. Los tres hijos de Pitezel estaban localizados. La madre, que durante meses había creído a su marido vivo, tuvo que saberlo todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fue un trabajo de detective a la antigua: a pie, de ciudad en ciudad, con cartas, fotografías y paciencia. Geyer publicó su relato en 1896, con el título «El caso Holmes-Pitezel». Hoy es una de las fuentes de primera mano más citadas del caso, y conviene leerla con cautela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la sala se expuso la historia del seguro, del viaje y de los niños. Los cargos de Chicago no se juzgaron: el único crimen por el que lo juzgaron fue la muerte de Pitezel. Y bastó. El jurado lo declaró culpable, y la sentencia, para el tribunal, no admitía dudas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1895, Holmes fue juzgado en Filadelfia, pero solo por el asesinato de Benjamin Pitezel. Fue declarado culpable y condenado a muerte. Según algunas fuentes, llevó en gran parte su propia defensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1895, entre la detención y el juicio, el edificio de Chicago había sufrido un incendio que los investigadores sospecharon provocado. La prensa se lanzó a publicar todo tipo de historias sobre lo que había dentro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay que andar con prudencia. Holmes vendió su confesión a los periódicos de Hearst, según se cuenta por siete mil quinientos dólares. Habló de veintisiete asesinatos. Pero algunas de las muertes que confesó se demostraron falsas. Un mentiroso que cobra por mentir no es un testigo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 7 de mayo de 1896 fue ahorcado en la prisión de Moyamensing, en Filadelfia. Según los periódicos de la época, en el cadalso negó haber matado a la familia Pitezel, y habló de otras muertes. Nada de eso se pudo comprobar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Para saber qué es verdad, hay que quedarse con lo que sobrevive a la comprobación. Los historiadores dan hoy como confirmadas nueve víctimas. Las de Chicago son difíciles de probar. Las de la familia Pitezel, no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay otra razón por la que la leyenda creció, y no es menor: el propio Holmes. Una reseña del libro del historiador Adam Selzer lo describe como un hombre frágil, encerrado en su celda, que contaba historias a la prensa y mandaba a los investigadores tras pistas falsas. Los periódicos hicieron el resto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La cifra de doscientas víctimas salió de la prensa sensacionalista. Los historiadores actuales estiman entre nueve y unas cincuenta. El edificio de Englewood se mantuvo en pie hasta 1938. Hoy, en el solar, hay una oficina de correos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2003, el libro «El diablo en la ciudad blanca», de Erik Larson, devolvió la historia al gran público. Y los rumores crecieron, hasta el de que Holmes no había muerto en la horca. En 2017 se abrió su tumba y se identificó su cuerpo por la dentadura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto una cosa más. De Holmes lo sabemos casi todo, y de sus víctimas, casi nada. Es el efecto de una leyenda: ocupa el sitio de las personas. Cada vez que se cuenta el castillo se olvida el trabajo de Geyer y los nombres de los tres niños. Eso es lo que debería quedarse en la memoria de este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los nueve nombres que se consideran confirmados son estos: Julia Conner y su hija Pearl. Emeline Cigrand. Minnie Williams y su hermana Nannie. Benjamin Pitezel. Y sus hijos Alice, Nellie y Howard."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente H. H. Holmes y el caso Pitezel. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias y dudas. 1) El v2 decía que Geyer recorrió agencias inmobiliarias de Toronto y revisó registros de hotel; no se ha podido contrastar y el guion solo afirma, atribuido, que usó las cartas de los niños que Holmes retuvo (Wikipedia, Frank Geyer; EBSCO no lo recoge). 2) Detective de Toronto Alf Cuddy: solo en un resumen de búsqueda sobre Wikipedia; contrastar con el libro de Geyer. 3) Se omite cualquier tesis de la defensa sobre la muerte de Pitezel (no verificada). 4) Confesión de 27 muertes y pago de 7.500 dólares de Hearst: Wikipedia; EBSCO solo dice que sus confesiones fueron poco fiables. 5) Cifra de víctimas: ficha dice 9 (estimadas 200+), Wikipedia 9 confirmadas, EBSCO 9 a unas 50; el guion dice 9 confirmadas. 6) Fecha del juicio: octubre de 1895 (Wikipedia, resumen de búsqueda de History.com); algunas webs ponen mal la fecha del asesinato de Pitezel (1891), que es septiembre de 1894. 7) Ejecución: 7/5/1896 en Moyamensing (periódicos de 1896 reproducidos por Lykens Valley). Se omiten los detalles. 8) Menores: Alice, Nellie y Howard Pitezel se nombran por ser un caso de 1894 con nombres públicos desde el sumario y formar parte del caso histórico (regla de más de 30 años); no consta declaración pública de familia actual, así que la regla común del coordinador podría pedir quitarlos: decisión del coordinador. Pearl Conner (hija de Julia, 1891) se nombra con el mismo criterio. 9) Sin métodos ni detalles del edificio. 10) Identificación por dentadura en 2017 (Wikipedia y noticias de la exhumación)."
 }

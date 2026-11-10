@@ -1,0 +1,114 @@
+{
+  "id": "asesinato-huey-long",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Huey Long": "Jui Long",
+    "Huey": "Jui",
+    "Long": "Long",
+    "Baton Rouge": "Batón Rúch",
+    "Luisiana": "Luisiana",
+    "Carl Weiss": "Karl Uais",
+    "Weiss": "Uais",
+    "Benjamin Pavy": "Benyamín Pávi",
+    "Pavy": "Pávi",
+    "Smithsonian": "Esmitsónian",
+    "Share Our Wealth": "Sher Auer Uélz",
+    "Alan Brinkley": "Alan Brínkli",
+    "Our Lady of the Lake": "Auer Léidi of de Léik"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Veinticuatro balas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Huey Long. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Veinticuatro balas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Baton Rouge, Luisiana, 8 de septiembre de 1935. Hacia las nueve y veinte de la noche, en un pasillo del Capitolio, suenan disparos. Cae el senador Huey Long, el hombre más poderoso del estado. Y cae, a pocos pasos, el médico que se le había acercado: Carl Weiss. Murió en el acto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre frente al senador, y alrededor del senador, escoltas armados. Esa es la escena. Y nadie hizo la autopsia de ninguno de los dos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Long era senador de Estados Unidos y antiguo gobernador de Luisiana. Aquella noche acababa de sacar adelante una ley que dejaba sin su distrito al juez Benjamin Pavy, un opositor suyo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Weiss tenía veintiocho años y era otorrinolaringólogo. Estaba casado con una hija del juez Pavy y acababa de tener un hijo. No participaba en política. Su motivo nunca se aclaró del todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un rumor: que Long habría despreciado a la familia Pavy en términos raciales. No consta por escrito en ninguna parte. Lo apunto como rumor y lo dejo ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la versión más extendida, Weiss salió de detrás de una columna y disparó a Long desde menos de dos metros con una pistola. Los escoltas del senador abrieron fuego y lo mataron allí mismo. Un testigo habló de más de sesenta disparos contra él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A Long lo llevaron al hospital Our Lady of the Lake. Lo operaron esa misma noche. Pareció mejorar. A la mañana siguiente apareció una hemorragia y se consideró que estaba demasiado débil para una segunda operación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió a las 4:10 de la madrugada del 10 de septiembre, unas treinta y una horas después del disparo. Tenía cuarenta y dos años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Los historiadores no se ponen de acuerdo con los médicos. Harry Williams atribuyó la muerte a la incompetencia. Alan Brinkley escribió que habían «chapuceado» la operación. No sé si es justo, pero tampoco hubo autopsia que lo demuestre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1935 hubo una encuesta oficial. Solo declararon partidarios de Long, y no se examinó ninguna prueba médica ni balística. Una investigación federal no halló una conspiración política."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasaron más de cincuenta años. En 1985, el hijo de Weiss, también médico y llamado Carl, localizó la pistola de su padre en una caja de seguridad de Nueva Orleans. La policía estatal concluyó después que no había disparado la bala mortal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado. Que esa pistola no matara a Long no prueba nada sobre quién lo hizo. Tampoco hay forma de saber, por esa vía, si Weiss disparó o no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1991, con permiso de su hijo, exhumaron los restos de Weiss. Los examinó el Smithsonian. Hallaron al menos veinticuatro balas, la mayoría desde atrás. Una bala, que antes pasó por su brazo, sugiere que lo tenía levantado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Algunos expertos leyeron eso como un tiroteo cruzado sin control. Otros sostienen que Weiss golpeó al senador y que Long cayó por el fuego de sus propios escoltas. Es una hipótesis con apoyo parcial, no un hecho demostrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia de Weiss nunca aceptó la versión oficial. Sus padres dijeron que aquella tarde parecía feliz. Su hijo defendió hasta su muerte, en 2019, que su padre no mató a Long. Nunca hubo juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Unas doscientas mil personas acudieron al funeral de Long en Baton Rouge. Lo enterraron en los jardines del Capitolio, con una estatua sobre su tumba. Sin él, su movimiento Share Our Wealth se desmoronó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda sin aclarar lo esencial: quién disparó la bala que mató a Long. Hay una placa en el lugar del tiroteo, dentro del Capitolio. No dice más que el sitio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y queda un joven médico, enterrado con la duda a cuestas. Su familia lo recuerda como alguien que no hizo daño a nadie. La versión oficial lo señala como autor del disparo. Entre ambas cosas, el expediente no puede elegir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Huey Long. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (hora, motivo, hospital, muerte 4:10, exhumación de 1991 con 24 balas, pistola de 1985, encuesta de 1935, funeral y estatua) y ABA Journal (ley Pavy, 61 balas, hipótesis del rebote, exhumación sugiere que Weiss golpeó). PMC (Trotter) pidió reCAPTCHA; NYT, Politico y Washington Post (archivo) no se pudieron abrir. Sin contradicciones con la ficha. Discrepancias menores entre fuentes: herida (ABA: colon, riñón y pulmón; Wikipedia: intestinos; el guion no la detalla), «más de sesenta» o «61» disparos (testigo; se dice «más de sesenta»), calibre de la pistola (.32 en Wikipedia; el guion no lo dice). Última frase de Long: versiones distintas, se omite. La hipótesis de que Weiss no disparó va atribuida y como no demostrada. No hay condena (nunca hubo juicio): se habla de «versión oficial» y de «atribuido»."
+}

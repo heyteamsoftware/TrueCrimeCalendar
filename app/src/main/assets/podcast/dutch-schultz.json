@@ -1,0 +1,120 @@
+{
+  "id": "dutch-schultz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dutch Schultz": "Dach Shults",
+    "Schultz": "Shults",
+    "Palace Chop House": "Pálas Chop Jáus",
+    "Newark": "Níuark",
+    "Nueva Jersey": "Nueva Yérsi",
+    "Arthur Flegenheimer": "Árzur Flégenjaimer",
+    "Thomas Dewey": "Tómas Dui",
+    "Dewey": "Dui",
+    "Murder, Inc.": "Mérder Inc",
+    "Charles Workman": "Chárls Uérkman",
+    "Workman": "Uérkman",
+    "Otto Berman": "Ótou Bérman",
+    "Weiss": "Uáis",
+    "Louis Buchalter": "Lúis Bucálter",
+    "Bronx": "Brons"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El baño del Palace Chop House",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza del Palace Chop House. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El baño del Palace Chop House."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Newark, Nueva Jersey, 23 de octubre de 1935. Es de noche en un restaurante del centro, el Palace Chop House. En la mesa del fondo hay cuatro hombres hablando de negocios. Uno de ellos se levanta y va al baño. Poco después entra otro, armado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre del baño era Dutch Schultz, nacido Arthur Flegenheimer. Había sido el rey de la cerveza ilegal en el Bronx. Esa noche, en pocos segundos, su vida se acabó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un restaurante, cuatro hombres, dos pistoleros. Quien lo hizo sabía en qué restaurante se reunían y a qué hora. Eso apunta a alguien de dentro, o a alguien que los vigilaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los pistoleros eran Charles Workman, a quien llamaban el Bicho, y Emanuel Weiss, apodado Mendy. Los dos trabajaban para Murder, Inc., la organización que ejecutaba los encargos de la mafia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Workman entró en el baño y disparó a Schultz. Después, los dos abrieron fuego contra los demás en el comedor del fondo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres acompañantes de Schultz eran su contable, Otto Berman, su nuevo lugarteniente, Abe Landau, y su guardaespaldas, Lulu Rosenkrantz. Los tres murieron. Schultz, no esa noche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Schultz fue trasladado al hospital de Newark con vida. Aguantó casi un día y murió el 24 de octubre. La prensa publicó entonces sus palabras de moribundo. Yo las dejo fuera: ya se contaron demasiado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La pregunta es por qué. Según los historiadores de la mafia, la respuesta está en una reunión de la llamada Comisión, el consejo de las grandes familias criminales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Schultz había propuesto matar al fiscal especial Thomas Dewey, que lo investigaba. La Comisión votó en contra. Matar a un fiscal traería una persecución feroz contra todos. Según los historiadores, Schultz se levantó furioso y dijo que lo haría de todos modos. Uno de los jefes, Albert Anastasia, contó después que Schultz le había pedido vigilar el edificio donde vivía el fiscal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene el matiz. Esto es lo que cuentan los historiadores: no es una sentencia. Schultz se negó a obedecer y, según esas versiones, la Comisión decidió que era él quien estorbaba. Se encargó el trabajo a Louis Buchalter, de Murder, Inc."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dewey siguió con su carrera de fiscal. Y Schultz, el hombre que, según esas versiones, quiso matarlo, murió antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una paradoja: el hombre que quería matar a un fiscal por peligroso murió por orden de sus propios socios, que lo consideraron peligroso a él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los pistoleros huyeron en un coche. Según las crónicas, uno de ellos, Weiss, ordenó al conductor marcharse y dejó a Workman atrás."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dejado atrás. Esa fue su suerte. Un pistolero abandonado por los suyos es un pistolero al que se puede encontrar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1941, Charles Workman fue condenado a cadena perpetua por el asesinato de Schultz. Workman salió en libertad condicional en 1964."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El Times de Nueva York, en marzo de 1941, titulaba que el crimen se atribuía a un hombre de Lepke, que era el apodo de Buchalter. Pasaron seis años hasta que alguien fue condenado, y la condena fue la de Workman."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La banda de Schultz perdió a su jefe. Su imperio de apuestas ilegales y cerveza ya no tenía quien lo defendiera. Schultz fue enterrado en un cementerio del estado de Nueva York y, por deseo de su madre, que era judía ortodoxa, su cuerpo se cubrió con un manto de oración."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan los otros tres muertos: un contable, un lugarteniente y un guardaespaldas. Estaban allí por trabajo, y su vida terminó en una disputa que no era suya."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hay buenos en este expediente. Pero tres vidas truncadas por una disputa de jefes merecen, al menos, una nota."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza del Palace Chop House. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés (detalle del tiroteo, víctimas, planificación, muerte de Schultz, sentencia de Workman) y la ficha. Britannica dio 403 y los NYT no abren; Crime Library (archivo) no devolvió texto. Se omite la delirante agonía de Schultz. El titular del NYT de 1941 sale solo de la ficha (no abre). La huida con Workman abandonado y la identidad de Buchalter como encargado salen de Wikipedia (Weiss ordenó dejar a Workman). Dato de Wikipedia: Berman murió esa noche a las 2:20 (ya 24 de octubre), Landau a las 6:00 y Rosenkrantz a las 29 horas: el guion dice 'los tres murieron' sin precisar. Discrepancia: Britannica pone la muerte de Schultz el 23 y Wikipedia el 24; el guion dice 24. Motivo (Dewey) atribuido a historiadores de la mafia, no a sentencia. Pronunciaciones por revisar."
+}
