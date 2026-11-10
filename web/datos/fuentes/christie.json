@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «John Christie (serial killer)» y «Timothy Evans», con sus referencias a Kennedy (1961), Oates (2012) y el informe Brabin (1966)",
+    "url": "https://en.wikipedia.org/wiki/John_Christie_(serial_killer)",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "Tribunal Superior de Inglaterra y Gales: sentencia Westlake contra la Criminal Cases Review Commission, [2004] EWHC 2779 (Admin) (17 de noviembre de 2004)",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2004/2779",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "Hansard (Cámara de los Comunes): «Timothy John Evans (Free Pardon)», declaración del ministro del Interior Roy Jenkins (18 de octubre de 1966)",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1966/oct/18/timothy-john-evans-free-pardon",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "Hansard (Cámara de los Lores): «The case of Timothy Evans» (18 de octubre de 1966)",
+    "url": "https://api.parliament.uk/historic-hansard/lords/1966/oct/18/the-case-of-timothy-evans",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "London Review of Books: Ysenda Maxtone Graham, «All Nerves», reseña de «The Peepshow» de Kate Summerscale (vol. 46, n.º 21, 2024)",
+    "url": "https://www.lrb.co.uk/the-paper/v46/n21/ysenda-maxtone-graham/all-nerves",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Time Out London: «The real story behind Rillington Place» (2016)",
+    "url": "https://www.timeout.com/london/blog/the-real-story-behind-rillington-place-113016",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Ludovic Kennedy: «Ten Rillington Place», Gollancz, 1961",
+    "url": "https://archive.org/details/tenrillingtonpla0000kenn",
+    "tipo": "libro"
+  },
+  {
+    "titulo": "Hansard (Cámara de los Comunes): votación que hizo permanente la Murder (Abolition of Death Penalty) Act 1965 (16 de diciembre de 1969)",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1969/dec/16/murder-abolition-of-death-penalty",
+    "tipo": "judicial"
+  }
+]

@@ -1,46 +1,190 @@
 {
   "id": "christie",
-  "titulo": "La pared hueca de la cocina",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "John Reginald Christie": "Yon Réyinald Crísti",
     "Christie": "Crísti",
     "Rillington Place": "Ríliñton Pléis",
     "Notting Hill": "Nótin Jil",
-    "Halifax": "Jálifax",
+    "Beresford Brown": "Béresford Bráun",
+    "Kathleen Maloney": "Cázlin Malóni",
+    "Rita Nelson": "Rita Nélson",
+    "Hectorina MacLennan": "Hectorina Maclénan",
     "Ethel": "Ézel",
+    "Ruth Fuerst": "Ruz Fiurst",
+    "Muriel Eady": "Miúriel Ídi",
     "Timothy Evans": "Tímozi Évans",
     "Evans": "Évans",
     "Beryl": "Béril",
     "Geraldine": "Yéraldin",
+    "Merthyr Tydfil": "Mérzer Tídvil",
     "Putney": "Pátni",
     "Pentonville": "Péntonvil",
-    "Ludovic Kennedy": "Lúdovic Kénedi"
+    "Albert Pierrepoint": "Álbert Pírpoint",
+    "Ludovic Kennedy": "Lúdovic Kénedi",
+    "Daniel Brabin": "Dániel Bréibin",
+    "Roy Jenkins": "Roi Yénkins",
+    "Scott Henderson": "Scot Jénderson",
+    "Brennan": "Brénan",
+    "Ruston Close": "Ráston Clóus",
+    "Richard Attenborough": "Ríchard Átenbrou"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "24 de marzo de 1953. Número 10 de Rillington Place, en el barrio londinense de Notting Hill. Un nuevo inquilino quiere colgar una balda en la cocina. Golpea la pared y suena a hueco. Despega el papel pintado y descubre una pequeña alacena tapiada." },
-    { "voz": "ximena", "texto": "Lo que encuentra dentro cambiará la historia penal del Reino Unido. Y obligará a mirar de nuevo un caso que ya estaba cerrado. Con una condena a muerte ejecutada." },
-    { "voz": "alvaro", "texto": "¿Una condena ya ejecutada? Eso suena a error irreparable." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de John Reginald Christie, el asesino de Rillington Place." },
-    { "voz": "ximena", "texto": "Christie nació el 8 de abril de 1899 en Halifax, en el norte de Inglaterra. Combatió en la Primera Guerra Mundial y en su juventud acumuló varias condenas por robos y otros delitos menores. A finales de los años treinta se instaló con su esposa, Ethel, en un modesto piso de Rillington Place." },
-    { "voz": "ximena", "texto": "Durante la Segunda Guerra Mundial, a pesar de sus antecedentes, sirvió como policía en la reserva de guerra. Tenía un aire respetable y meticuloso, y presumía de tener conocimientos de medicina." },
-    { "voz": "ximena", "texto": "En 1943 y 1944 mató a dos mujeres en su casa y las enterró en el pequeño jardín trasero. Nadie las relacionó con él." },
-    { "voz": "alvaro", "texto": "Y entonces llegaron unos vecinos nuevos al piso de arriba." },
-    { "voz": "ximena", "texto": "En 1948 se instalaron en el último piso Timothy Evans, un joven galés con grandes dificultades para leer y escribir, su esposa Beryl y, poco después, su hija recién nacida, Geraldine. En noviembre de 1949, Evans se presentó en una comisaría de Gales y dijo que su mujer había muerto." },
-    { "voz": "ximena", "texto": "La policía encontró en el edificio los cuerpos de Beryl y de la pequeña Geraldine. Evans dio varias versiones contradictorias, incluida una confesión. Christie declaró como testigo de la acusación, y su testimonio resultó decisivo." },
-    { "voz": "ximena", "texto": "Timothy Evans fue condenado por la muerte de su hija y ahorcado en marzo de 1950. Tenía veinticinco años. En el juicio había señalado a Christie como el verdadero culpable. Nadie le creyó." },
-    { "voz": "alvaro", "texto": "Y Christie siguió viviendo en la planta baja, como si nada." },
-    { "voz": "ximena", "texto": "Durante tres años más. En diciembre de 1952 mató a su esposa, Ethel. En las semanas siguientes mató a otras tres mujeres. En marzo de 1953 dejó el piso, que subarrendó sin permiso a otra pareja. Pocos días después, el nuevo inquilino golpeó aquella pared." },
-    { "voz": "ximena", "texto": "La policía encontró a las víctimas en la casa y en el jardín, y lanzó una búsqueda por todo el país. La noticia causó conmoción, y la prensa siguió día a día la caza del hombre. A finales de marzo, un agente reconoció a Christie junto al Támesis, en Putney, y lo detuvo." },
-    { "voz": "ximena", "texto": "Christie confesó varias muertes, incluida la de Beryl Evans, aunque nunca admitió la de la niña. Fue juzgado por el asesinato de su esposa, condenado y ahorcado en la prisión de Pentonville el 15 de julio de 1953. Se le atribuyen al menos ocho víctimas, entre ellas la pequeña Geraldine." },
-    { "voz": "alvaro", "texto": "¿Y qué pasó con la memoria de Timothy Evans?" },
-    { "voz": "ximena", "texto": "Su caso se convirtió en una herida abierta. Dos asesinos de mujeres en el mismo pequeño edificio y al mismo tiempo parecían demasiada coincidencia. Periodistas, abogados y políticos exigieron revisar la condena. Uno de ellos, el periodista Ludovic Kennedy, publicó un libro que fue decisivo." },
-    { "voz": "ximena", "texto": "Tras una investigación oficial, en 1966 Timothy Evans recibió un indulto póstumo. El Estado británico reconocía, demasiado tarde, que había ahorcado a un hombre por un crimen que probablemente no cometió." },
-    { "voz": "alvaro", "texto": "Y eso tuvo consecuencias mucho más allá de este caso." },
-    { "voz": "ximena", "texto": "Así es. El error judicial de Rillington Place pesó mucho en el debate sobre la pena de muerte en el Reino Unido. En 1965, el Parlamento suspendió la pena capital por asesinato, y pocos años después la abolición se hizo definitiva." },
-    { "voz": "ximena", "texto": "El caso dejó además una lección para los investigadores: la importancia de registrar a fondo un escenario, de no dar por buena una confesión confusa, y de desconfiar del testigo que parece demasiado colaborador." },
-    { "voz": "ximena", "texto": "En 1971 la historia llegó al cine, en una película que llevaba como título la dirección de la casa. El edificio fue demolido poco después y la calle ya no existe. Pero el nombre de Rillington Place sigue siendo sinónimo de error judicial. Y nos obliga a recordar a las mujeres asesinadas allí, a una niña de poco más de un año y a un hombre ahorcado injustamente." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de John Reginald Christie. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una pared que sonaba a hueco",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: John Reginald Christie y el número 10 de Rillington Place. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una pared que sonaba a hueco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Martes, 24 de marzo de 1953. Número 10 de Rillington Place, una calle sin salida del barrio londinense de Notting Hill. Beresford Brown, un músico jamaicano que vive en el piso de arriba, arregla la cocina de la planta baja. El casero le ha dejado usarla: el inquilino anterior se ha marchado hace cuatro días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Brown quiere colgar un soporte para su radio. Golpea la pared y suena a hueco. Despega el papel pintado y, detrás, encuentra un hueco en la madera: una pequeña alacena tapiada. Alumbra con una linterna. Dentro hay el cuerpo de una mujer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con otro vecino, corre a una cabina a llamar a la policía. Los agentes encuentran tres mujeres en la alacena: Kathleen Maloney, Rita Nelson y Hectorina MacLennan. Las tres tenían veintitantos años. Habían muerto entre enero y marzo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y la casa sigue hablando. Bajo las tablas del suelo del salón aparece Ethel, la esposa del inquilino, de cincuenta y cuatro años. En el pequeño jardín trasero, los restos de otras dos mujeres, enterradas allí hacía una década: Ruth Fuerst, una refugiada austriaca, y Muriel Eady, una londinense que había trabajado con él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. El inquilino que se ha marchado se llama John Reginald Christie. Tiene cincuenta y tres años, ha trabajado de oficinista y durante la guerra fue policía de reserva. Parece un hombre gris y respetable. Pero tenía antecedentes por robo y por agredir a una mujer, y nadie los comprobó cuando entró en la policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Christie se ha ido el 20 de marzo, tras subarrendar el piso sin permiso. Empieza una búsqueda por todo Londres. La prensa publica su descripción: un hombre de mediana edad, con gafas de pasta y gabardina. Cientos de hombres se le parecen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me inquieta de este expediente no está en 1953. Está en una fecha anterior. Porque esta dirección ya había salido en los periódicos. Tres años antes, en esta misma casa, la policía había encontrado a otras dos víctimas. Y la justicia había ahorcado a un hombre por ello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1948 se habían mudado al último piso Timothy Evans, un joven galés que apenas sabía leer, y su mujer, Beryl. En octubre nació su hija, Geraldine. El matrimonio discutía a menudo, y los vecinos lo oían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de noviembre de 1949, Evans se presentó en una comisaría de Merthyr Tydfil, en Gales, y dijo que su mujer había muerto. Dio varias versiones. En una de ellas acusó a Christie. Días después, en el lavadero del patio de Rillington Place, aparecieron los cuerpos de Beryl y de la pequeña Geraldine, de trece meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Evans firmó confesiones contradictorias, que luego retiró. En el juicio, en enero de 1950, sostuvo que el culpable era su vecino de abajo. El testigo principal de la acusación fue precisamente Christie: un antiguo policía, sereno y colaborador. Quedó la palabra de uno contra la del otro. Y el jurado creyó a Christie."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso los errores, y son muchos. Unos obreros habían trabajado en ese lavadero y declararon que días después de la supuesta muerte allí no había nada. Esas declaraciones nunca llegaron a la defensa. La policía, además, convenció al menos a dos de ellos para que dieran otra versión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el jardín. Los agentes lo miraron, pero no excavaron. Allí estaban, desde la guerra, los restos de Ruth Fuerst y de Muriel Eady. Uno de sus huesos llegó a sostener la valla. Según quienes han estudiado el caso, un registro a fondo habría señalado a Christie. Y habría salvado vidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Timothy Evans fue condenado por el asesinato de su hija y ahorcado el 9 de marzo de 1950 en la prisión de Pentonville. Tenía veinticinco años. Christie siguió viviendo en la planta baja. Durante los tres años siguientes mató a su mujer y a tres mujeres más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "31 de marzo de 1953. Un agente de patrulla se fija en un hombre con sombrero junto al Támesis, cerca del puente de Putney. Le pregunta quién es. Es John Reginald Christie. Lo detiene."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa detención cierra una búsqueda, pero abre una pregunta que el país entero empezó a hacerse en voz alta. Si Christie había matado en esa casa antes y después de 1949, ¿a quién habían ahorcado en 1950?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un indulto firmado por la mañana",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un indulto firmado por la mañana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de John Reginald Christie, el hombre que mató a ocho personas en el número 10 de Rillington Place, en Londres, entre 1943 y 1953. Y el de su vecino, Timothy Evans, ahorcado en 1950 por un crimen de esa casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los interrogatorios, Christie admitió primero la muerte de su esposa y la de las tres mujeres de la alacena. Después, la de las dos mujeres del jardín. Semanas después confesó haber matado también a Beryl Evans. La muerte de la niña, Geraldine, nunca la admitió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 1953 empezó su juicio en el Old Bailey, el mismo tribunal donde se había juzgado a Evans. Solo se le juzgó por el asesinato de su esposa, Ethel. La defensa alegó que estaba loco. El médico de la prisión declaró que no lo estaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado lo declaró culpable y fue condenado a muerte. Christie fue ahorcado el 15 de julio de 1953 en Pentonville. El verdugo fue Albert Pierrepoint, el mismo que había ahorcado a Timothy Evans en esa prisión tres años antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo lógico habría sido revisar el caso Evans de inmediato. Y se revisó, pero mal. El Gobierno encargó una investigación al jurista John Scott Henderson. Duró una semana. Concluyó que Evans era culpable de las dos muertes, y que las confesiones de Christie no eran fiables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Algunos periodistas y diputados hicieron la pregunta evidente. Si las confesiones de Christie no valían, ¿por qué sí valían las de Evans, un hombre impresionable y de escasa formación, interrogado de madrugada? La duda no se cerró. Siguió en el Parlamento y en la prensa durante más de diez años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1961, el periodista Ludovic Kennedy publicó un libro con la dirección de la casa como título. Un tribunal británico lo describiría años después como una demolición convincente de la acusación contra Evans."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1965 y 1966, el juez Daniel Brabin hizo una segunda investigación. Su conclusión fue que era imposible saber la verdad sin ninguna duda. Pero que, probablemente, Evans no había matado a su hija, el crimen por el que lo ahorcaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de octubre de 1966, el ministro del Interior, Roy Jenkins, anunció en la Cámara de los Comunes que la reina había firmado esa misma mañana el indulto de Timothy Evans. Lo llamó un caso sin precedentes, y dijo esperar que no tuviera sucesores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que el indulto no resolvió. Brabin había escrito también que Evans probablemente sí mató a su mujer. Esa sombra duró décadas. En 2003, el asesor que fijó la indemnización para la familia, lord Brennan, la rechazó: dijo que no había pruebas contra Evans, y que Beryl murió, muy probablemente, a manos de Christie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2004, la hermanastra de Evans acudió al Tribunal Superior para que se anulara formalmente la condena. Los jueces no lo consideraron necesario, pero lo dejaron por escrito: se reconoce que Timothy Evans no cometió ninguno de los dos asesinatos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso pesó en el debate sobre la pena de muerte. En noviembre de 1965 entró en vigor la ley que suspendía la horca por asesinato. En diciembre de 1969, el Parlamento hizo definitiva la abolición."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una pregunta abierta. Algunos autores sospecharon que Christie, como policía de reserva en plena guerra, pudo matar a más mujeres. Otros historiadores lo ven poco probable, porque siempre mató en su propia casa. Nunca se buscó de forma sistemática a otras posibles víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1954, a petición de los vecinos, Rillington Place pasó a llamarse Ruston Close. Años después la calle fue demolida. En 1971 se rodó allí una película, con Richard Attenborough en el papel de Christie. El número 10 ya no existe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su nombre sigue siendo sinónimo de error judicial. Pero este expediente pertenece a las víctimas: Ruth Fuerst. Muriel Eady. Beryl Evans y su hija Geraldine, de trece meses. Ethel Christie. Rita Nelson. Kathleen Maloney. Hectorina MacLennan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y a Timothy Evans, que tenía veinticinco años y dijo hasta el final que el culpable vivía en la planta baja."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de John Reginald Christie y el número 10 de Rillington Place. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": "La ficha dice «al menos ocho mujeres»; una de las ocho víctimas atribuidas es Geraldine Evans, una bebé de 14 meses. En el guion se habla de «ocho víctimas»."
+  "nota_revision": "Fuentes en web/datos/fuentes/christie.json. Discrepancias con la v2 y la ficha: 1) La v2 decía que un «nuevo inquilino» quería colgar una balda; según la London Review of Books (2024) y Wikipedia, Beresford Brown era el inquilino del piso de arriba, al que el casero dejó usar la cocina de la planta baja, y quería colgar un soporte para su radio. Corregido. 2) La ficha dice «al menos ocho mujeres»: una de las ocho víctimas es Geraldine Evans, de trece meses. El guion dice «ocho personas» y nombra a la niña. Es un caso de 1949 y su nombre forma parte de la historia pública del caso (lo usan el Parlamento, los tribunales y la prensa desde hace setenta años). 3) Fechas de las dos primeras muertes: Wikipedia da el 24/8/1943 y el 7/10/1944; Time Out (2016) habla de 1942 y 1943. El guion no da los años de cada una y dice «entre 1943 y 1953». 4) Derribo de la calle: la LRB dice que se derribó en 1971 y Time Out que a finales de los setenta; el guion dice «años después». 5) Culpabilidad de Evans en la muerte de Beryl: el informe Brabin (1966) dijo que probablemente la mató; lord Brennan (2003) rechazó esa conclusión y el Tribunal Superior (Westlake contra la CCRC, 2004) declaró que no cometió ninguno de los dos asesinatos. El guion recoge las tres cosas, en orden. 6) La v2 decía que el Estado reconocía que Evans «probablemente» no cometió el crimen; es lo que dijo Brabin, y el guion lo atribuye a él. Datos que solo aparecen en una fuente y se han dejado fuera: el recorte de prensa sobre Evans que Christie llevaba al ser detenido, la fecha exacta de su confesión sobre Beryl (27/4/1953), la duración de la deliberación del jurado (85 minutos) y la fecha de inicio del juicio (22/6/1953), todos en Wikipedia. Tampoco se cita la frase que se atribuye a Evans antes de morir («Christie lo hizo»): la recoge la LRB, pero no hay una fuente primaria. Respeto: no se describen los métodos (gas y estrangulamiento) ni las agresiones sexuales."
 }

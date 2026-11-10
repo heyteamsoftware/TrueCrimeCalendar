@@ -41,13 +41,13 @@ Hecho antes: `brady` (piloto).
 | febrero B | cullen muehlberg wuornos ramirez | ✓ hecho (4/4) |
 | marzo A | toole rader gaskins king | ✓ hecho (4/4) |
 | marzo B | ireland gacy kraft toppan | ✓ hecho (4/4) |
-| abril A | sobhraj jesperson christie pichushkin | lanzado |
+| abril A | sobhraj jesperson christie pichushkin | ✓ hecho (4/4) |
 | abril B | landru harvey yoo black | lanzado |
 | mayo A | homolka beck bryant holmes | lanzado |
 | mayo B | bellfield fish murano dahmer | lanzado |
 | mayo C | bianchi chase escalero kurten | lanzado |
 | junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |
-| julio | jones hindley magnotta onoprienko yang | en cola |
+| julio | jones hindley magnotta onoprienko yang | lanzado |
 | agosto A | bathory miyazaki lucas alcala | en cola |
 | agosto B | gein bernardo franklin | en cola |
 | septiembre A | desalvo gillesrais kearney | en cola |

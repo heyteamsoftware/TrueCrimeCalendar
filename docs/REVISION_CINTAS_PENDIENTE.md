@@ -32,3 +32,5 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **rader:** se nombra a los niños Otero. La familia ha hablado en público (Charlie Otero), así que se mantiene, comprobándolo.
 - **toole y lucas:** los informes del Dallas Times Herald (1985) y del fiscal general de Texas (1986) tienen que coincidir en las dos cintas.
 - **rader:** si hay novedades de las sospechas de Oklahoma de 2023, actualizarlo.
+- **jesperson:** comprobar en dos fuentes la identificación del 27 de agosto de 2026 (Lydia Jane Wade McWhorter).
+- **christie:** se nombra a Geraldine Evans, de 13 meses, en un caso de 1949. Es parte de la historia pública del caso Evans y la familia hizo campaña durante años; se mantiene, comprobándolo.

@@ -128,3 +128,21 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## gaskins
 
 - Walter Neely estuvo presente en dos de los asesinatos y fue condenado a muerte con Gaskins en 1976 (la pena se le redujo después a cadena perpetua). No «colaboró» con la policía.
+
+## sobhraj
+
+- **Víctimas:** «al menos 12» o «más de 20»; la ficha dice «12 a 24».
+
+## christie
+
+- Las ocho víctimas no eran todas mujeres: una era Geraldine Evans, de 13 meses. Hay que decir «ocho personas».
+
+## pichushkin
+
+- **Víctimas:** 48 asesinatos probados y 3 intentos; se le atribuyen más de 60.
+- **Chikatilo:** que quería superarlo lo especuló la prensa rusa; la ficha y el `vin` lo dan como declaración suya.
+
+## jesperson
+
+- **Pavlinac:** fue condenada a cadena perpetua con un mínimo de diez años, no a «diez años».
+- **Víctimas:** desde el 27 de agosto de 2026 las ocho confirmadas están identificadas («Claudia» es Lydia Jane Wade McWhorter). Hay que comprobarlo en dos fuentes.

@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Alexander Pichushkin»",
+    "url": "https://en.wikipedia.org/wiki/Alexander_Pichushkin",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "BBC News: «Russia 'chessboard killer' guilty» (24 de octubre de 2007)",
+    "url": "http://news.bbc.co.uk/1/hi/world/europe/7059939.stm",
+    "tipo": "judicial"
+  },
+  {
+    "titulo": "BBC News: «Russian suspected of 62 murders» (1 de agosto de 2007)",
+    "url": "http://news.bbc.co.uk/2/hi/europe/6926680.stm",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Reuters (copia en Internet Archive): «'Chessboard' killer guilty of murder» (24 de octubre de 2007)",
+    "url": "https://web.archive.org/web/20071026020714/http://www.reuters.com/article/topNews/idUSL247048420071024",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "CNN / Associated Press (copia en Internet Archive): «'Chessboard killer' revels in death» (9 de octubre de 2007)",
+    "url": "https://web.archive.org/web/20071215164721/http://edition.cnn.com/2007/WORLD/europe/10/09/russian.killer.ap/index.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "TIME (copia en Internet Archive): «The Grandmaster of Murder?» (2007)",
+    "url": "https://web.archive.org/web/20090123094408/http://www.time.com/time/world/article/0,8599,1661084,00.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Independent: «Serial killer on trial: Moscow's grandmaster of murder» (14 de septiembre de 2007)",
+    "url": "https://www.independent.co.uk/news/world/europe/serial-killer-on-trial-moscows-grandmaster-of-murder-402313.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Argumenty i Fakty (AiF): «Я вернусь в Битцевский парк». Маньяк Пичушкин планировал убить 100 человек",
+    "url": "https://aif.ru/society/law/-ya-vernus-v-bitcevskiy-park-manyak-pichushkin-planiroval-ubit-100-chelovek",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "RIA Novosti: el tribunal de casación rechaza el traslado del «maníaco de Bitsevski» desde la colonia Lechuza Polar (30 de mayo de 2026)",
+    "url": "https://ria.ru/20260530/pichushkin-2095684293.html",
+    "tipo": "judicial"
+  }
+]

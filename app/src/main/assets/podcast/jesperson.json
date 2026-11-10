@@ -1,46 +1,209 @@
 {
   "id": "jesperson",
-  "titulo": "Dos inocentes y una cara sonriente",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Keith Jesperson": "Kiz Yésperson",
     "Jesperson": "Yésperson",
-    "Washington": "Uáshinton",
+    "Keith": "Kiz",
     "Portland": "Pórtland",
+    "Washington": "Uáshinton",
+    "The Oregonian": "De Oregónian",
+    "Blythe": "Bláiz",
+    "Turlock": "Túrlok",
+    "Santa Nella": "Santa Néla",
+    "Salem": "Séilem",
+    "Sonya Bennett": "Sónia Bénet",
     "Taunja Bennett": "Tónya Bénet",
     "Bennett": "Bénet",
-    "Corbett": "Córbet",
-    "Laverne Pavlinac": "Lavérn Pávlinac",
+    "Madonna": "Madona",
     "John Sosnovske": "Yon Sosnóvski",
-    "Melissa Moore": "Melisa Mur",
+    "Sosnovske": "Sosnóvski",
+    "Laverne Pavlinac": "Lavérn Pávlinac",
     "Pavlinac": "Pávlinac",
-    "Sosnovske": "Sosnóvski"
+    "Phil Stanford": "Fil Estánford",
+    "Julie Winningham": "Yúli Uíningam",
+    "Camas": "Cámas",
+    "Paul Lipscomb": "Pol Lípscom",
+    "Patricia Skiple": "Patricia Eskípel",
+    "Suzanne Kjellenberg": "Susán Chélenberg",
+    "Lydia Jane Wade McWhorter": "Lídia Yéin Uéid Macjuórter",
+    "Cynthia Lyn Rose": "Síntia Lin Róus",
+    "Laurie Ann Pentland": "Lóri An Péntland",
+    "Angela Subrize": "Ányela Subráis",
+    "Melissa Moore": "Melisa Mur"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Principios de los años noventa. En la pared de unos aseos públicos de Montana aparece un mensaje escrito a mano. Su autor asegura haber matado a una mujer en Oregón. Y añade algo inquietante: que otras personas están pagando por su crimen. Nadie se lo toma en serio." },
-    { "voz": "ximena", "texto": "Mientras tanto, en Oregón, dos personas cumplen condena por ese asesinato. Dos personas que no lo cometieron." },
-    { "voz": "alvaro", "texto": "¿Dos inocentes en la cárcel... y el verdadero culpable dejando mensajes en las paredes?" },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Keith Jesperson, al que la prensa llamó el asesino de la cara feliz." },
-    { "voz": "ximena", "texto": "Keith Jesperson nació el 6 de abril de 1955 en Canadá, en la Columbia Británica. Siendo adolescente se mudó con su familia al estado de Washington, en Estados Unidos. Era un hombre corpulento, de casi dos metros. Se casó, tuvo tres hijos y acabó trabajando como camionero de larga distancia." },
-    { "voz": "ximena", "texto": "La carretera le daba movilidad. Recorría miles de kilómetros por distintos estados, durmiendo en la cabina y parando en áreas de servicio. Y eso, durante años, hizo muy difícil relacionar sus crímenes entre sí, porque cada uno lo investigaba una policía distinta." },
-    { "voz": "ximena", "texto": "Su primer asesinato fue en enero de 1990, en Portland, Oregón. La víctima fue Taunja Bennett, una joven de veintitrés años. Su cuerpo apareció en una zona boscosa cerca de Corbett, junto al río Columbia." },
-    { "voz": "alvaro", "texto": "Y aquí empieza la parte más increíble de este caso." },
-    { "voz": "ximena", "texto": "Una mujer llamada Laverne Pavlinac acudió a la policía y acusó a su pareja, John Sosnovske, del crimen. Llegó a afirmar que ella misma le había ayudado. Su relato tenía contradicciones, pero aportaba detalles que parecían encajar." },
-    { "voz": "ximena", "texto": "Años después se sabría por qué lo hizo: quería librarse de una relación en la que, según contó, sufría malos tratos. Su plan se le fue de las manos. En 1991, ambos fueron condenados: ella, a diez años de prisión; él, a cadena perpetua." },
-    { "voz": "alvaro", "texto": "¿Y ella no intentó retractarse?" },
-    { "voz": "ximena", "texto": "Lo intentó, pero nadie la creyó. Mientras, el verdadero autor seguía en la carretera. Entre 1990 y 1995 mató a ocho mujeres en varios estados. Y empezó a escribir: mensajes en paredes y, más tarde, cartas a periódicos y a la policía, firmadas con una cara sonriente." },
-    { "voz": "alvaro", "texto": "Ocho mujeres. Y durante todo ese tiempo, Pavlinac y Sosnovske seguían en prisión." },
-    { "voz": "ximena", "texto": "Muchas de sus víctimas eran mujeres a las que conoció en la carretera, en paradas de camiones o haciendo autoestop. Personas que viajaban solas y cuya ausencia, a veces, tardaba días en notarse." },
-    { "voz": "ximena", "texto": "Fue la prensa la que, a partir de aquella cara sonriente, le puso el apodo. Pero aquellas cartas no bastaron para identificarle. Lo que acabó delatándole fue su última víctima, una mujer con la que mantenía una relación." },
-    { "voz": "ximena", "texto": "Ella apareció muerta en el estado de Washington en marzo de 1995. Jesperson era un sospechoso evidente. La policía lo interrogó. Antes de entregarse, escribió una carta a su hermano en la que admitía varios crímenes. Poco después, él mismo se presentó ante las autoridades y confesó. No solo ese crimen: también el de Taunja Bennett." },
-    { "voz": "alvaro", "texto": "Entonces, por fin, los dos inocentes quedaron libres." },
-    { "voz": "ximena", "texto": "Sí, aunque no de inmediato. Los investigadores comprobaron que Jesperson conocía detalles del caso Bennett que solo el autor podía saber. A finales de 1995, Laverne Pavlinac y John Sosnovske salieron de prisión, tras más de cuatro años encerrados por un crimen ajeno." },
-    { "voz": "ximena", "texto": "Jesperson se declaró culpable de varios asesinatos y fue condenado a cadenas perpetuas. Cumple condena en una prisión de Oregón. En algún momento llegó a atribuirse más de un centenar de víctimas, una cifra que él mismo rebajó después y que nunca se ha sostenido. La cifra probada es de ocho." },
-    { "voz": "alvaro", "texto": "¿Y qué cambió después de este caso en la forma de investigar?" },
-    { "voz": "ximena", "texto": "Se cita a menudo como ejemplo de los riesgos de las confesiones falsas. Una persona presionada, o con sus propias razones, puede confesar algo que no hizo. Y un sistema con prisa por cerrar un caso puede creerla sin comprobar lo suficiente." },
-    { "voz": "ximena", "texto": "Hoy, la historia de Laverne Pavlinac y John Sosnovske figura entre los casos que estudian quienes trabajan para revisar condenas erróneas en Estados Unidos." },
-    { "voz": "ximena", "texto": "También se recuerda por las víctimas: mujeres que, en muchos casos, vivían en los márgenes y cuyas muertes tardaron en investigarse a fondo. Y por la hija de Jesperson, Melissa Moore, que lleva años hablando en público del impacto que estos crímenes tienen en las familias de los propios culpables." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Keith Jesperson. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una cara sonriente en el correo",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Keith Jesperson, el asesino de la cara feliz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cara sonriente en el correo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Portland, Oregón, 1994. A la redacción del periódico The Oregonian llega una carta anónima, escrita a mano. En lo alto, alguien ha dibujado una cara sonriente. El autor dice ser camionero. Y asegura haber matado a cinco mujeres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Da lugares concretos: Blythe, Turlock y Santa Nella, en California, y Salem, en Oregón. Los periodistas lo comprueban. En cada uno de esos sitios ha aparecido el cuerpo de una mujer asesinada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. La quinta muerte de la carta es la que me quita el sueño. El autor dice que su primera víctima fue una joven de Portland, a la que llama Sonya Bennett. Según la carta, fue la primera, y pensó que no volvería a hacerlo. Pero ese crimen, para la justicia de Oregón, ya estaba resuelto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay que volver cuatro años atrás. El 21 de enero de 1990, Taunja Bennett, de veintitrés años, pasa la noche en un bar de Portland. Poco después, su cuerpo aparece junto a la antigua carretera del río Columbia, en la garganta que se abre al este de la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su hermana la recuerda así: la única de la familia que terminó el instituto, una chica que leía mucho y que se pasaba el día escuchando a Madonna."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Semanas después, la policía recibe una llamada anónima. Una mujer asegura haber oído a un hombre presumir en un bar de haber matado a Taunja Bennett. Da un nombre: John Sosnovske."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La que llama es su pareja, Laverne Pavlinac. Llevan unos diez años juntos. Y no es la primera vez que intenta meterlo en problemas: ya lo había denunciado al FBI como atracador de bancos, y se quejaba de él a menudo a su agente de la libertad condicional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que ocurre después es un manual de cómo se fabrica un culpable. La policía le pone a ella un micrófono oculto para grabar a Sosnovske. Él no admite nada. Los objetos que ella entrega como pruebas no se pueden relacionar con la víctima. Y su relato cambia una y otra vez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero Pavlinac lleva a los agentes al lugar exacto del bosque donde apareció el cuerpo. Y al final se acusa a sí misma: dice que estaba allí y que ayudó a su pareja. Su relato tiene contradicciones, pero también detalles que parecen encajar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto el error de fondo. Ella misma explicó más tarde de dónde salían esos detalles: de los periódicos y de una orden de registro que leyó sin que nadie se diera cuenta. El lugar lo dedujo por las rodadas y las ramas rotas. Lo que parecía saber un culpable estaba al alcance de cualquiera que mirase."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el juicio, a principios de 1991, Pavlinac se retracta. Dice que se lo inventó todo para librarse de una relación en la que sufría malos tratos. El jurado escucha la grabación de su confesión y no la cree. La condenan a cadena perpetua, con un mínimo de diez años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sosnovske, que siempre negó el crimen, decide no oponerse a la acusación para evitar la pena de muerte. También lo condenan a cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está el detalle que más me inquieta. Según el periodista Phil Stanford, que investigó el caso, durante aquel juicio apareció un mensaje escrito en los aseos de un área de descanso de Montana. Alguien decía haber matado a Taunja Bennett, y que otros habían cargado con la culpa. Nadie le dio valor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mientras dos inocentes cumplían condena, el verdadero autor seguía en la carretera. Entre 1992 y 1994 aparecieron más mujeres asesinadas en California, Oregón y Florida. Cada caso lo investigaba una policía distinta, en un estado distinto, y nadie los unía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Volvamos a la carta de 1994. El autor contaba que conduciendo camiones había oído hablar de gente que se libraba de crímenes así gracias a, en sus palabras, «nuestra forma de vida nómada»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1994, The Oregonian publicó lo que había comprobado. El periodista Phil Stanford bautizó al desconocido por aquel dibujo: el asesino de la cara feliz. Pero la carta no llevaba firma, y la policía no tenía un nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta marzo de 1995. En el estado de Washington, los amigos de una mujer asesinada recordaron un detalle. Salía con un camionero muy alto. Se llamaba Keith."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "El bolso que nadie encontró",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. El bolso que nadie encontró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Keith Jesperson, el camionero que firmaba sus cartas con una cara sonriente. Por su primer crimen, dos personas inocentes, Laverne Pavlinac y John Sosnovske, llevaban años en prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Marzo de 1995. Julie Winningham, una mujer de cuarenta y un años de Camas, en el estado de Washington, aparece asesinada. Sus amigos saben que salía con un camionero muy alto llamado Keith. Así llegan los detectives hasta él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jesperson tiene treinta y nueve años. Nació en 1955 en la Columbia Británica, en Canadá, y creció en el estado de Washington. Mide casi dos metros. Está divorciado, tiene tres hijos y lleva años como camionero de larga distancia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo interrogan, pero sin pruebas no pueden detenerlo. Él entiende que el cerco se cierra. Llama por teléfono a un detective desde una cafetería de Arizona y confiesa la muerte de Julie Winningham. Ese mismo día escribe a su hermano: le cuenta que ha matado a otras siete mujeres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo detienen a finales de marzo de 1995. Meses después, desde la cárcel, empieza a enviar a la prensa cartas decoradas con caras sonrientes. Se atribuye ocho asesinatos. Y repite que, al menos en un caso, hay inocentes cumpliendo condena por él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un juez acaba ordenándole que deje de confesar a los medios. Un antiguo perito caligráfico de la policía de Portland compara su letra con la de la carta anónima de 1994. Según su análisis, no oficial, son de la misma mano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El fiscal del distrito reconoce que es escéptico. Es comprensible: ya hay dos condenados por ese crimen. Pero Jesperson aporta algo que solo el autor podía saber. Indica dónde está el bolso de Taunja Bennett, que nunca había aparecido junto al cuerpo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de noviembre de 1995, Keith Jesperson es condenado por el asesinato de Taunja Bennett. Y los fiscales que habían acusado a Pavlinac y a Sosnovske piden ahora que los liberen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez Paul Lipscomb se resiste al principio. Pero a finales de noviembre lo dice en la sala: ya no hay ninguna duda de que esas dos personas son inocentes. Pavlinac y Sosnovske salen de prisión tras más de cuatro años encerrados por un crimen ajeno."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto un matiz que el juez dejó por escrito. Anuló la condena de Sosnovske, porque las mentiras de ella habían vulnerado sus derechos. La de Pavlinac la mantuvo, aunque la dejó salir. Escribió que su obstrucción había desviado la investigación mientras el verdadero asesino quedaba libre para volver a matar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En aquella vista, Pavlinac pidió perdón a su antigua pareja, con grilletes en las muñecas. Sosnovske lo resumió en una frase: él no había matado a nadie en 1990."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jesperson se declaró culpable de varios asesinatos y cumple varias cadenas perpetuas en la penitenciaría estatal de Oregón. En algún momento llegó a atribuirse ciento sesenta víctimas. Casi todo lo retiró después. Las probadas son ocho mujeres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que quedó pendiente durante décadas fueron los nombres. Algunas viajaban solas o vivían en los márgenes, y nadie las reclamó. Tres aparecieron sin identificar. Durante años, solo se las conoció por los nombres que él decía recordar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La genética genealógica se los ha ido devolviendo. En 2022 se identificó a Patricia Skiple. En 2023, a Suzanne Kjellenberg. Y en agosto de 2026, a la mujer que él llamaba Claudia: Lydia Jane Wade McWhorter, de veintiséis años, desaparecida de Texas. Sus hermanas pasaron décadas sin saber qué le había ocurrido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Laverne Pavlinac murió en 2003. Sosnovske también ha muerto. Sus hijas siguen intentando entender por qué hizo lo que hizo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y está Melissa Moore, la hija de Jesperson. En el otoño de 1994, con quince años, su padre le dijo en una cafetería que no era lo que ella creía, sin llegar a explicarse. Hoy habla en público de lo que estos crímenes dejan en las familias de los culpables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este caso se estudia como ejemplo del peligro de las confesiones falsas. Una persona puede confesar algo que no hizo, por presión o por sus propias razones. Y un sistema con prisa por cerrar un caso puede creerla. Anoto la lección: una confesión no es una prueba hasta que se comprueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva su nombre, pero la memoria es de ellas: Taunja Bennett, Lydia Jane Wade McWhorter, Cynthia Lyn Rose, Laurie Ann Pentland, Patricia Skiple, Suzanne Kjellenberg, Angela Subrize y Julie Winningham."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Keith Jesperson, el asesino de la cara feliz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/jesperson.json. Discrepancias: 1) Liberación de Pavlinac y Sosnovske: el guion v2 decía «a finales de 1995», lo que es correcto; la Wikipedia en inglés sobre Jesperson da por error el 7/1/1996. The Spokesman-Review y Deseret News (28/11/1995) dicen que salieron el lunes 27/11/1995; la Wikipedia sobre Pavlinac dice que el juez los exoneró el 27 y salieron el 28. El guion dice «a finales de noviembre». 2) Condena de Pavlinac: la v2 decía «diez años»; las fuentes dicen cadena perpetua (Spokesman, Deseret) con un mínimo de diez años (ABC News, Wikipedia). Corregido. 3) Si el juez anuló también la condena de Pavlinac: Deseret dice que anuló las dos; Spokesman y ABC News (20/20) dicen que solo la de Sosnovske y que a ella la dejó salir sin anularla. El guion sigue a estas dos. 4) El mensaje en los aseos: la v2 lo situaba en Montana y lo ponía como arranque. Solo lo localiza en Livingston (Montana) el capítulo de Phil Stanford en «True Stories of False Confessions» (Northwestern University Press, 2009), citado por Wikipedia; otras fuentes hablan de una parada de camiones o de una estación de autobuses. Por eso ya no es el arranque (ahora lo es la carta a The Oregonian de 1994, documentada en Spokesman-Review y Wikipedia) y se atribuye a Stanford. No se cita el texto del mensaje por su contenido gráfico. 5) Tiempo en prisión: la v2 decía «más de cuatro años»; Spokesman dice «cuatro años» y la Wikipedia sobre Pavlinac «casi seis» (contando desde la detención de marzo de 1990). El guion mantiene «más de cuatro años». 6) Número de cadenas perpetuas: Wikipedia dice tres consecutivas en Oregón más una cuarta en California (2010); CNN (2024), cuatro; ABC News (2021), cinco. El guion dice «varias». 7) La ficha y la v2 decían que la última víctima apareció muerta en Washington y que él se entregó: según Spokesman (1995), confesó por teléfono a un detective desde Arizona tras saber que lo buscaban; según Wikipedia, se entregó tras dos intentos de suicidio (no se menciona). 8) Nombre de una víctima: Wikipedia escribe «Laurie Ann Pentland» y ABC News «Lori Ann Pentland»; se ha dejado Laurie. 9) Hecho nuevo: el 27/8/2026 la fiscalía de Riverside identificó a «Claudia» como Lydia Jane Wade McWhorter, de 26 años (KTLA, Oxygen); con ella, las ocho víctimas confirmadas tienen nombre (Patricia Skiple, abril de 2022; Suzanne Kjellenberg, octubre de 2023, según CNN). 10) Primera víctima y lugar: la v2 decía «cerca de Corbett»; las fuentes dicen la antigua carretera del río Columbia, cerca de Crown Point (en la zona de Corbett); el guion dice «junto a la antigua carretera del río Columbia». Respeto: no se describe cómo murieron las víctimas ni se reproduce el contenido de los mensajes del autor, salvo la frase «nuestra forma de vida nómada» de la carta de 1994 (Spokesman-Review). Se nombra a las ocho víctimas confirmadas, todas adultas y con nombres difundidos por las autoridades."
 }

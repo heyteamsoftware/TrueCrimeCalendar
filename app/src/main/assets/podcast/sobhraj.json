@@ -1,41 +1,219 @@
 {
   "id": "sobhraj",
-  "titulo": "El guía demasiado amable",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Charles Sobhraj": "Charls Sobrách",
     "Sobhraj": "Sobrách",
+    "Charles": "Charls",
     "Nueva Delhi": "Nueva Deli",
     "hippie": "jípi",
     "Pattaya": "Patáya",
     "Herman Knippenberg": "Jérman Knípenberg",
     "Knippenberg": "Knípenberg",
-    "Tihar": "Tijár"
+    "Tihar": "Tijár",
+    "Kanit House": "Kánit Jáus",
+    "Seattle": "Siátel",
+    "Teresa Knowlton": "Teresa Nóulton",
+    "Marie-Andrée Leclerc": "Marí André Leclér",
+    "Leclerc": "Leclér",
+    "Ajay Chowdhury": "Ayái Cháudjuri",
+    "Connie Jo Bronzich": "Cóni Yo Brónzich",
+    "Laurent Carrière": "Lorán Cariér",
+    "Jean-Luc Solomon": "Yan Luc Solomón",
+    "Sompol Suthimai": "Sómpol Sutimái",
+    "Nadine Gires": "Nadín Yir",
+    "Richard Neville": "Ríchard Nével",
+    "Neville": "Nével",
+    "Julie Clarke": "Yúli Clark",
+    "Clarke": "Clark",
+    "Madhukar Zende": "Mádjukar Zénde",
+    "The Himalayan Times": "De Jimaléian Táims",
+    "Joseph Nathan": "Yósef Néizan"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Nueva Delhi, julio de 1976. Un grupo de estudiantes franceses de viaje por la India ha encontrado un guía encantador. Habla su idioma, conoce los mejores sitios y, cuando algunos se quejan del estómago, les ofrece unas pastillas. Al poco rato, varios empiezan a encontrarse muy mal." },
-    { "voz": "ximena", "texto": "Algunos se dan cuenta de lo que está pasando. Lo reducen y lo entregan a la policía. Aquel guía tan amable era uno de los hombres más buscados de Asia." },
-    { "voz": "alvaro", "texto": "¿Unos estudiantes de viaje atraparon a quien la policía de varios países no había logrado detener?" },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Charles Sobhraj, conocido como la Serpiente y también como el asesino del bikini." },
-    { "voz": "ximena", "texto": "Charles Sobhraj nació el 6 de abril de 1944 en Saigón, hijo de un padre indio y de una madre vietnamita. Tuvo nacionalidad francesa y pasó su juventud entre Francia e Indochina. Desde muy joven entró y salió de cárceles francesas por robos y estafas." },
-    { "voz": "ximena", "texto": "A mediados de los setenta se instaló en Bangkok. Era la época de la llamada ruta hippie: miles de jóvenes occidentales recorrían Asia con poco dinero y mucha confianza. Sobhraj, políglota y seductor, se presentaba como comerciante de piedras preciosas y se ganaba su amistad." },
-    { "voz": "ximena", "texto": "Su método era la estafa. Ofrecía ayuda, alojamiento y, a veces, medicinas. Drogaba a sus víctimas para robarles el dinero y, sobre todo, los pasaportes, que después usaba para moverse por la región con otras identidades." },
-    { "voz": "alvaro", "texto": "Pero no se quedaba en el robo, ¿verdad?" },
-    { "voz": "ximena", "texto": "No. Entre 1975 y 1976 se le atribuyen al menos doce asesinatos en Tailandia, Nepal y la India, en algunos casos con la ayuda de cómplices. Algunas estimaciones elevan la cifra hasta veinticuatro. Una de las primeras víctimas apareció en bikini junto a una playa de Pattaya, y de ahí nació uno de sus apodos." },
-    { "voz": "ximena", "texto": "Lo que hizo saltar las alarmas fue la desaparición de una pareja de jóvenes holandeses. Un diplomático de la embajada de los Países Bajos en Bangkok, Herman Knippenberg, empezó a investigar por su cuenta al ver que la policía tailandesa avanzaba muy despacio." },
-    { "voz": "ximena", "texto": "Knippenberg reunió testimonios y documentos durante meses. Cuando por fin se registró el apartamento de Sobhraj, aparecieron pasaportes y objetos de varias víctimas. Pero él ya había salido del país." },
-    { "voz": "ximena", "texto": "Siguió moviéndose por Asia con documentos ajenos, siempre un paso por delante. Hasta aquel día de julio de 1976 en Nueva Delhi, cuando unos estudiantes franceses no se dejaron engañar." },
-    { "voz": "alvaro", "texto": "Y una vez detenido en la India, ¿qué pasó con él?" },
-    { "voz": "ximena", "texto": "Fue juzgado y condenado en la India, y pasó años encerrado en la prisión de Tihar, en Nueva Delhi. Allí vivió con privilegios poco habituales. En 1986, cuando le quedaba poco de condena, se fugó tras drogar a los guardias durante una supuesta celebración." },
-    { "voz": "ximena", "texto": "Lo recapturaron semanas después en Goa. Muchos creen que la fuga fue calculada: al sumar años de condena en la India, evitaba ser entregado a Tailandia, donde le esperaba un proceso con posible pena de muerte, hasta que aquella orden de búsqueda perdiera validez." },
-    { "voz": "ximena", "texto": "Y así ocurrió. En 1997 salió libre y regresó a Francia. Allí vivió años como una especie de celebridad, concediendo entrevistas pagadas. Tailandia nunca llegó a juzgarle." },
-    { "voz": "alvaro", "texto": "Pero en 2003 cometió un error difícil de explicar." },
-    { "voz": "ximena", "texto": "Volvió a Nepal, uno de los países donde había matado. Un periodista lo reconoció en Katmandú y fue detenido. En 2004, un tribunal nepalí lo condenó a cadena perpetua por el asesinato de una turista estadounidense en 1975. Años después llegó una segunda condena, por la muerte de un joven canadiense." },
-    { "voz": "ximena", "texto": "Pasó casi veinte años en una cárcel de Katmandú. En diciembre de 2022, el Tribunal Supremo de Nepal ordenó su liberación por su edad y su estado de salud. Fue deportado a Francia." },
-    { "voz": "alvaro", "texto": "¿Y por qué este caso sigue fascinando tanto, casi cincuenta años después?" },
-    { "voz": "ximena", "texto": "En parte, por las series y documentales que lo han convertido en un personaje de la cultura popular. Pero conviene mirar donde importa: a jóvenes que viajaban con una mochila y confiaron en alguien que les ofrecía ayuda, y a familias que esperaron décadas para ver una condena." },
-    { "voz": "ximena", "texto": "Y también al tesón de un diplomático que no se conformó con el silencio oficial, y de unos estudiantes que, enfermos y lejos de casa, supieron reaccionar. Sin ellos, quizá esta historia no habría tenido final." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Charles Sobhraj. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una carta desde Ámsterdam",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Charles Sobhraj, la Serpiente. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una carta desde Ámsterdam."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diciembre de 1975. En una carretera al norte de Bangkok aparecen los cuerpos quemados de un hombre y una mujer jóvenes. Nadie sabe quiénes son."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras, a la embajada de los Países Bajos llega una carta desde Ámsterdam. Un hombre lleva seis semanas sin noticias de su cuñada y del novio de ella, que viajaban por Tailandia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La carta llega a Herman Knippenberg, un joven tercer secretario sin experiencia policial. Knippenberg ata cabos: los cuerpos de la carretera son los de la pareja holandesa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Sus familias pidieron discreción: en la serie de televisión sobre el caso aparecen con otros nombres, y este archivo tampoco los nombra. Lo que consta es que la policía avanzaba despacio, y que Knippenberg decidió investigar por su cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las pistas llevaban a Kanit House, un edificio de apartamentos de Bangkok. Allí vivía un supuesto comerciante de piedras preciosas, francés y encantador. La pareja se había alojado con él poco antes de morir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Charles Sobhraj. Nació en Saigón en 1944, hijo de un comerciante indio que no lo reconoció y de una madre vietnamita. Tenía nacionalidad francesa y un largo historial de robos, estafas y fugas de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me interesa el método, porque explica por qué nadie lo vio venir. Eran los años de la ruta hippie: miles de jóvenes occidentales cruzaban Asia con poco dinero. Sobhraj los ayudaba con alojamiento, consejos y medicinas. A veces era él quien los había hecho enfermar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo acompañaban Marie-Andrée Leclerc, una canadiense enamorada de él, y Ajay Chowdhury, un joven indio que fue su mano derecha. Según los investigadores, drogaban a los viajeros para robarles el dinero y, sobre todo, los pasaportes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Algunos no sobrevivieron. Una de las primeras víctimas conocidas fue Teresa Knowlton, una joven de Seattle. Apareció en el mar, cerca de Pattaya, con un bikini, y al principio se creyó que se había ahogado. De ahí saldría su apodo: el asesino del bikini."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está lo que más me inquieta. Dos días después del hallazgo de la carretera, Sobhraj y Leclerc entraron en Nepal con los pasaportes de la pareja holandesa. Allí, en vísperas de Navidad, murieron dos viajeros más: la estadounidense Connie Jo Bronzich y el canadiense Laurent Carrière."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Volvieron a Tailandia con los documentos de esas víctimas. Cada muerte le daba una identidad nueva. Por eso lo llamaron la Serpiente: cambiaba de piel y se escurría de las autoridades."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 1976, ante la insistencia del diplomático, la policía tailandesa interrogó a Sobhraj y lo soltó a las pocas horas. Según el oficial de Interpol Sompol Suthimai, nadie revisó bien su pasaporte. Era el de otra persona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Knippenberg tenía una aliada: Nadine Gires, vecina de Sobhraj en Kanit House. Le pasaba información, y ayudó a escapar del piso a varios jóvenes que habían caído bajo el control de su vecino."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto el error de este expediente. Al diplomático no le dejaron registrar el apartamento hasta que Sobhraj se había marchado del país. Dentro estaba todo: pasaportes y efectos de las víctimas, y un arsenal de medicamentos. Las pruebas estaban allí. El permiso llegó tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En mayo de 1976, Interpol difundió una orden internacional de detención contra Sobhraj por los asesinatos de Tailandia. Pero ¿dónde estaba?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Julio de 1976, Nueva Delhi. Unos estudiantes franceses de posgrado viajan por la India con unos guías muy amables. Cuando algunos se quejan del estómago, el guía principal les reparte unas pastillas contra la disentería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las pastillas actúan antes de lo previsto. En el vestíbulo del hotel, los estudiantes empiezan a desplomarse. Algunos, todavía en pie, comprenden lo que pasa. Retienen al guía y avisan a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pienso a menudo en esto. Un diplomático lo persiguió durante meses con informes y fotografías, y fueron unos estudiantes medio inconscientes quienes lo retuvieron. Con él cayeron Leclerc y otras dos mujeres del grupo, que confesaron. A Sobhraj lo acusaron también de la muerte de un turista francés, Jean-Luc Solomon."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Charles Sobhraj ingresó en la prisión de Tihar, en Nueva Delhi. Parecía el final de su huida. Pero la cárcel de Tihar estaba a punto de convertirse en su mejor escondite."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una fiesta en Tihar",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una fiesta en Tihar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Charles Sobhraj, el estafador al que se atribuyen al menos doce asesinatos de viajeros en Asia. Lo dejamos en julio de 1976, detenido en Nueva Delhi."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Tihar, Sobhraj compró voluntades. Había entrado con piedras preciosas escondidas y sobornaba a los guardias. Tenía televisión, buena comida y visitas de periodistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Convirtió su juicio en un espectáculo: contrataba y despedía abogados, y llegó a ponerse en huelga de hambre. Lo condenaron a doce años por la muerte de Jean-Luc Solomon y otros delitos. Leclerc fue declarada culpable de drogar a los estudiantes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Ella enfermó de cáncer en prisión. La dejaron volver a Canadá y murió en 1984, con treinta y ocho años, proclamándose inocente. Él, mientras, vendía su historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1977, los periodistas Richard Neville y Julie Clarke lo entrevistaron durante horas para un libro. Según Clarke, les describió los asesinatos con detalle. Años después lo negó todo y presentó sus actos como una venganza contra el imperialismo occidental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Su condena tenía un problema, visto desde su lado. Iba a terminar antes de que caducara la orden de Tailandia, que tenía veinte años para juzgarle. Al salir, podían entregarlo. Y allí se enfrentaba a la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Domingo, 16 de marzo de 1986. Sobhraj organiza en Tihar una supuesta fiesta de cumpleaños para guardias y presos. Reparte dulces con somníferos. Cuando los guardias caen dormidos, él y otros cuatro reclusos salen por la puerta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres semanas después, en un restaurante de Goa, lo encuentra un inspector de la policía de Bombay, Madhukar Zende, que ya lo había detenido años atrás. Según contó él mismo, se acercó a la mesa y lo saludó: «Hola, Charles». Era el 6 de abril, su cumpleaños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene la parte más discutida. El propio Sobhraj aseguró después que la fuga fue una jugada calculada: sumaba años de condena en la India mientras corría el plazo tailandés. Le cayeron diez años más. Justo lo que, según él, buscaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A principios de 1997 salió libre, con cincuenta y dos años. El plazo tailandés se había agotado, y Bangkok ya había anunciado que no pediría su extradición. Para Neville, no se había hecho justicia. Volvió a Francia, donde cobraba por sus entrevistas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y en 2003 hace algo que nadie ha sabido explicar. Viaja a Nepal, uno de los pocos países donde aún podían juzgarlo, y se deja ver por los casinos de Katmandú. Quienes lo investigaron creen que buscaba atención, convencido de que su inteligencia lo protegería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un periodista de The Himalayan Times, Joseph Nathan, lo reconoció, lo siguió y publicó sus fotografías. El 19 de septiembre de 2003, la policía lo detuvo en el casino de un hotel de Katmandú."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Ese mismo día se jubilaba Herman Knippenberg. Y fue su archivo el que sostuvo el caso: fotografías y declaraciones que había llevado consigo, de destino en destino, durante veintisiete años. En Bangkok, el permiso llegó tarde. En Katmandú, sus papeles llegaron a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 2004, un tribunal de Katmandú lo condenó a cadena perpetua por el asesinato de Connie Jo Bronzich. En 2014 llegó una segunda condena, de veinte años, por el de Laurent Carrière. Él siempre negó ambas muertes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 2022, con setenta y ocho años y problemas de corazón, el Tribunal Supremo de Nepal ordenó liberarlo por su edad. El día 23 salió de prisión y fue deportado a Francia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que quedó sin resolver. Las muertes de Tailandia nunca llegaron a juicio. Nadie sabe cuántas víctimas hubo: al menos doce, quizá más de veinte. Y Ajay Chowdhury nunca apareció. Se dijo que Sobhraj lo mató, pero un conocido aseguró haberlo visto en Alemania en 1977."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sobhraj difundió durante años un relato sobre sus víctimas: que eran drogadictos y delincuentes. Según el guionista de la serie sobre el caso, ese relato falso es una de las razones por las que muchas familias prefirieron no participar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No eran eso. Eran jóvenes que viajaban con una mochila y confiaron en quien les ofrecía ayuda. Teresa Knowlton. Connie Jo Bronzich. Laurent Carrière. Jean-Luc Solomon. Una pareja holandesa cuyas familias pidieron discreción. Y otros cuyos nombres quizá nunca se sepan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El expediente guarda a quienes no se conformaron: un diplomático, una vecina valiente, un policía de Interpol y unos estudiantes que, enfermos y lejos de casa, supieron reaccionar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Charles Sobhraj, la Serpiente. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/sobhraj.json. Discrepancias y decisiones: 1) Nombres de víctimas: no se nombra a la pareja holandesa (Henk Bintanja y Cornelia Hemker), porque, según Los Angeles Times (2/4/2021), sus familias pidieron que en la serie «The Serpent» aparecieran con nombres ficticios; la guía (regla 5) pide no nombrar a víctimas cuya familia pidió discreción. Sí se nombra a Teresa Knowlton (su tío colaboró con la serie), Connie Jo Bronzich, Laurent Carrière y Jean-Luc Solomon, que aparecen en sentencias y prensa. 2) Número de víctimas: la ficha dice «12 a 24»; las fuentes dan «al menos 12» (Asia Times, Wikipedia en castellano) y «más de 20» (BBC, The Guardian, Kathmandu Post); el guion dice «al menos doce, quizá más de veinte». 3) Condena en la India: Wikipedia y Asia Times dicen 12 años (Asia Times: por homicidio y otros delitos); The Guardian habla de «una condena de dos décadas» por la muerte de Jean-Luc Solomon, la BBC de «20 años por envenenar a un autobús de turistas franceses» y el Kathmandu Post de 21 años por envenenar a un turista francés y matar a un israelí. Son los 12 años iniciales más los 10 añadidos por la fuga (Asia Times, Wikipedia); el guion dice «doce años por la muerte de Jean-Luc Solomon y otros delitos» y «le cayeron diez años más». 4) Orden de Tailandia: Wikipedia y UPI (1995) hablan de cuatro asesinatos; BBC 2004 de cinco; BBC 2022 y The Guardian de seis. El guion dice «por los asesinatos de Tailandia», sin cifra. 5) Primera condena en Nepal: Wikipedia la fecha el 20/8/2004, pero la BBC publicó el 12/8/2004 (jueves) que ese mismo día lo habían condenado. El guion dice «en agosto de 2004». 6) Fecha de salida de Tihar: Wikipedia da el 17/2/1997 y Asia Times «a principios de 1997»; el guion dice esto último. 7) Detención de 1976: la cifra de estudiantes drogados (22 según Asia Times; «un autobús» según la BBC) y el nombre del hotel no se dan. Wikipedia dice que tres estudiantes lo redujeron; el guion dice «algunos». 8) Ajay Chowdhury: Wikipedia dice que se cree que Sobhraj lo mató en Malasia; Los Angeles Times (coproductor de la serie) y Asia Times recogen que un conocido alemán lo vio en Alemania en 1977, después de la detención de Sobhraj. El guion presenta las dos versiones y dice que nunca apareció. 9) Zende: TIME (1986) dice que lo había detenido ya en 1972 y el propio Zende dice 1971; el guion dice «años atrás». La cita «Hola, Charles» la recogen TIME (1986), Business Standard (2012) y Tribune (2021), en palabras del propio Zende. 10) El aviso de la familia en Ámsterdam: según NOS (radio pública neerlandesa), el autor de la carta era el cuñado de la joven; otras fuentes hablan de los padres. El guion sigue a NOS. 11) Respeto: no se describe cómo murieron las víctimas ni qué sustancias usaba. Revisado frente a la v2: los datos de la v2 eran correctos en lo esencial; se ha quitado la idea de que la fuga fue «calculada» según «muchos» y se atribuye al propio Sobhraj (BBC 2022) y a sus críticos (BBC 2004). Fuentes consultadas además de las de la lista: BBC News (18/9/2014 y 23/12/2022), Business Standard (16/6/2012, entrevista con Zende: fuga el 16/3/1986 y recaptura el 6/4/1986), The Tribune (2021, Zende), The Guardian (Julie Clarke, 23/1/2021) y Wikipedia en castellano."
 }
