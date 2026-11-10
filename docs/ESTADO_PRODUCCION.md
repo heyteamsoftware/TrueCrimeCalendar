@@ -103,3 +103,14 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
 
   Hispanoamérica ha perdido varios casos (UCA, Galán y Asunta). Al unir hay que comprobar la cuota.
 - **Fechas de los casos estrella:** gaskins y king tienen mal la fecha de nacimiento, que es la que decide su día. Se comprueban las 100 (`docs/FECHAS_ESTRELLA_ENCARGO.md`).
+
+## 10 de noviembre por la tarde: relanzado con Sonnet de esfuerzo medio
+
+Por petición del usuario, desde ahora los agentes de la producción usan el modelo Sonnet con esfuerzo medio. Los 20 agentes anteriores se cortaron por el límite de uso, así que se relanzaron como agentes nuevos que siguen desde lo guardado en disco:
+
+- fichas de junio (20 de 25 guardadas);
+- verificación de 11 meses (todos menos junio), con los puntos especiales de cada mes en `docs/revision_fichas/PUNTOS.md`;
+- comprobación de las fechas de los 100 casos estrella;
+- 6 agentes con los guiones estrella que faltan (hechos: 33 de 100 más el piloto).
+
+Todo lo que ya estaba guardado y validado sigue en GitHub.
