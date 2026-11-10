@@ -1,0 +1,101 @@
+{
+  "id": "barrios-altos",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una pollada para arreglar el desagüe",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Barrios Altos. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una pollada para arreglar el desagüe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lima, domingo 3 de noviembre de 1991. En una quinta del jirón Huanta, en el barrio de Barrios Altos, los vecinos celebran una pollada: un almuerzo con pollo para recaudar dinero. Quieren arreglar el desagüe del patio, por donde se filtraba mucha suciedad, y donde jugaban los niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las diez y media de la noche irrumpen hombres encapuchados con armas automáticas. Rosa Rojas, que vivía allí, lo recordaría treinta años después: gritaron a los presentes que se echaran al suelo. Lo primero que pensó fue que eran terroristas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Ella pensó en Sendero Luminoso, porque en aquella Lima vivían con miedo a los atentados. No eran terroristas. Eran agentes del Estado, y habían venido a matar a gente que, para ellos, lo era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron quince personas. Cuatro más resultaron heridas. Entre los muertos había un niño de ocho años, hijo de Rosa. También murió su marido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los autores eran el Grupo Colina, un escuadrón del Servicio de Inteligencia del Ejército. Su misión era eliminar sin juicio a personas que creían vinculadas a Sendero Luminoso. Según un agente infiltrado, creyeron que se celebraba una reunión de la guerrilla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y se equivocaron. La Corte Suprema determinó años después que ninguna de las víctimas era terrorista ni tenía relación con terroristas. Vecinos, familias. Habían ido a una fiesta de barrio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Gobierno de Alberto Fujimori, que había llegado al poder prometiendo acabar con el terrorismo, no esclareció el crimen. La Comisión de la Verdad y la Reconciliación concluyó después que se impidió deliberadamente la investigación con mecanismos legislativos y judiciales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1995 una ley de amnistía frenó el caso. Y las familias seguían oyendo decir que sus muertos eran terroristas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que esto quede anotado: la hija de Rosa oyó en el colegio que a su padre lo habían matado por terruco. El insulto que usaban para señalar a los senderistas. A la herida de la muerte se le sumó la de la sospecha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la caída de Fujimori, el caso se reabrió. En 2007 Fujimori fue extraditado desde Chile a Perú. Era un expresidente elegido en las urnas, y nunca antes en América Latina uno había sido condenado en su país por violaciones de derechos humanos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 7 de abril de 2009, la Corte Suprema lo condenó a veinticinco años de prisión como autor mediato de esta masacre, de la de La Cantuta y de dos secuestros. Fujimori defendió siempre su inocencia y habló de haber tenido que «gobernar desde el infierno»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Autor mediato quiere decir que no disparó él: se le atribuyó la responsabilidad como quien estaba por encima de los ejecutores. El presidente de la sala dijo que los cuatro cargos estaban probados más allá de toda duda razonable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 1 de octubre de 2010 otro tribunal condenó a veinticinco años a Vladimiro Montesinos, jefe de los servicios de inteligencia, y al jefe del grupo, Santiago Martín Rivas. Determinó que Martín Rivas ordenó la ejecución de las quince víctimas e inició los disparos. Veinte miembros del Grupo Colina recibieron otras penas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las penas se movieron después. La Corte Suprema revisó esas penas en 2012 y 2013. Y Fujimori fue indultado en 2017; el indulto se anuló y luego se restituyó. Murió en 2024. La justicia peruana llegó lejos, pero no sin sacudidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rosa cobró años después una indemnización. La gastó en una casa, en un nicho para su marido y su hijo, y en educar a sus dos hijas, que tenían cinco años y nueve meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En una entrevista con la BBC dijo que el odio no le devolvería a su marido ni a su hijo, y que hacía años que había perdonado. Aun así, nadie le había pedido perdón."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que queda sin cerrar. Condenas, sí. Pero también el relato de que aquellos muertos no eran inocentes, que algunos aún repiten. Este expediente existe para desmentirlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quince personas murieron en una fiesta de barrio para arreglar un desagüe. Esa es la historia que merece recordarse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Barrios Altos. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: BBC Mundo (3/11/2021, testimonio de Rosa Rojas), El País (7/4/2009, condena de Fujimori), Andina (1/10/2010, condenas a Montesinos, Martín Rivas y otros) y Wikipedia en castellano (Corte Suprema: ninguna víctima era terrorista; pollada para el desagüe; extradición de 2007). La ficha de la Corte Interamericana y el informe de la CVR (PDF) no se abrieron; la cita de la CVR sale de BBC Mundo. La sentencia de 2009 (PDF) no se consultó. El niño de ocho años no se nombra; se nombra a Rosa Rojas porque habló en público con la BBC. Sin contradicciones con la ficha. Nota: BBC (2021) decía que Fujimori seguía preso, lo que sigue a la ficha (indulto 2017, anulado y restituido, muerte en 2024) sin que esos tres hechos se hayan contrastado en una segunda fuente abierta. Penas de 2010 revisadas en 2012-13 según la ficha. La frase «más allá de toda duda razonable» es de El País 2009 sobre la sentencia a Fujimori."
+}

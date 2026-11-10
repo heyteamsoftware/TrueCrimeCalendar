@@ -240,3 +240,18 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## bundy
 
 - Confesó 30 asesinatos según Wikipedia y Britannica, y 28 según UPI.
+
+## corll
+
+- Se hallaron 27 cuerpos en 1973; Wikipedia habla de al menos 29. La ficha dice «al menos 28».
+- A Henley le dieron seis penas consecutivas de 99 años en 1974 y seis cadenas perpetuas concurrentes en 1979.
+
+## hogel
+
+- Llegó a Delmenhorst el 15 de diciembre de 2002.
+- **Exhumaciones:** 134 cuerpos en Alemania, Polonia y Turquía.
+- Los siete antiguos superiores fueron absueltos el 13 de octubre de 2022.
+
+## holmes
+
+- El asesinato de Pitezel fue en septiembre de 1894. En 2017 se le identificó por la dentadura.

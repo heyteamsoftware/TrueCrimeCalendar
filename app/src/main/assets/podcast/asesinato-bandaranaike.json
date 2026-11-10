@@ -1,0 +1,110 @@
+{
+  "id": "asesinato-bandaranaike",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bandaranaike": "Bandaranáike",
+    "Tintagel": "Tíntayel",
+    "Talduwe Somarama": "Taldúue Somarama",
+    "Somarama": "Somarama",
+    "Mapitigama Buddharakkitha": "Mapitigama Budarakítha",
+    "Buddharakkitha": "Budarakítha",
+    "Jayawardena": "Yayauardena",
+    "Welikada": "Welikáda",
+    "Hemachandra": "Jemachándra"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un documento en el taburete",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El magnicidio de Tintagel. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un documento en el taburete."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Colombo, Ceilán, 25 de septiembre de 1959. Son las nueve y cuarto de la mañana. En la residencia del primer ministro, Tintagel, hay unas veinte personas dentro y unas cuarenta esperando fuera. Un monje budista espera en la cola, hasta que lo dejan pasar. Dice que quiere hablar de mejoras para su colegio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es Talduwe Somarama, profesor de un colegio de medicina ayurvédica. El primer ministro, S. W. R. D. Bandaranaike, se levanta, se inclina ante él y le pide que presente sus peticiones por escrito. El monje finge buscar un documento en un archivo, sobre un taburete."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un documento. Un gesto cotidiano, en una casa abierta al público. Nadie registraba a un monje que iba a hablar de un colegio. Ese es el fallo que me inquieta: la confianza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran las nueve y cuarenta y cinco. Somarama sacó un revólver oculto bajo su túnica y disparó a quemarropa. Bandaranaike se levantó y trató de entrar en la casa. El monje lo siguió y volvió a disparar. En total hizo seis disparos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un policía de la puerta hirió al agresor en una pierna. La multitud lo rodeó. Gritaba que lo había hecho por el país, la raza y la religión. Bandaranaike, en el suelo, pidió que no le hicieran daño. La policía detuvo a Somarama."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Lo anoto tal como aparece en la prensa de Colombo: en su mensaje desde el hospital, el primer ministro habló de un hombre necio con hábito de monje. Y pidió compasión para él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo operaron en el hospital general. La operación duró más de cinco horas. Tras la operación recuperó la conciencia y dictó un mensaje a la nación. Empeoró de golpe hacia las siete de la mañana. Murió hacia las ocho del 26 de septiembre, unas veintidós horas después del ataque."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El estado de emergencia se declaró ese mismo día, a las once de la mañana. Al principio se sospechó de un tamil, por la confusión con el nombre del agresor. Los medios tuvieron que aclarar que no lo era, para evitar nuevas violencias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Esa confusión pudo costar muchas vidas. En un país con tensiones étnicas, un nombre mal leído era un peligro. Y aquí apareció la verdadera pregunta: ¿actuó solo?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detectives de Scotland Yard colaboraron con la policía local. Las pesquisas apuntaron al monje Mapitigama Buddharakkitha, un líder religioso con mucha influencia, que fue arrestado el 20 de octubre. Según la prensa y la acusación, tenía motivos económicos y políticos: un contrato de importación de arroz y una licencia para una azucarera, que el gobierno le había negado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Somarama llegó a confesar que Buddharakkitha y otro hombre, Hemachandra Jayawardena, lo habían incitado y le habían dado el arma. Después retiró la confesión ante el tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en febrero de 1961 y duró 55 días. Dos acusados fueron absueltos. Buddharakkitha, Jayawardena y Somarama fueron declarados culpables por unanimidad y condenados a muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con los dos absueltos: una absolución es una absolución. Uno lo fue por unanimidad; el otro, por cinco votos contra dos. Ninguno de los dos debe cargar con sombra alguna. Solo se condenó a los tres que constan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Tribunal de Apelación confirmó las condenas, pero cambió a cadena perpetua las de Buddharakkitha y Jayawardena, porque la ley no incluía de forma explícita la conspiración. Somarama fue ahorcado el 6 de julio de 1962 en la prisión de Welikada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1966 la pena de Buddharakkitha se redujo a veinte años. Murió en prisión en 1967. Jayawardena salió libre en 1977."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no se aclaró del todo es el papel de cada uno. Una comisión investigó en 1963 los aspectos políticos del caso. Su informe de 1964 solo hizo una conclusión adversa, contra una persona ya absuelta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bandaranaike era el primer ministro de Ceilán. Antes de morir pidió que no hicieran daño a quien le había disparado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que recuerda el archivo. No el nombre del monje, sino el gesto de un hombre que, herido, pidió compasión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El magnicidio de Tintagel. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: D. B. S. Jeyaraj en el Daily Mirror (2014 y 2019): hora (9:45), colas, taburete, seis disparos, hospital, muerte hacia las 8:00 del 26, estado de emergencia, sospecha errónea de un tamil, arresto de Buddharakkitha el 20 de octubre, acusación del 26 de noviembre, juicio de 55 días, absoluciones, apelación, ejecución el 6 de julio de 1962, pena reducida a 20 años en 1966, muerte en 1967, liberación de Jayawardena en 1977, comisión de 1963-64. Sunday Times, Time y Britannica no se abrieron. Sin contradicciones con la ficha. El móvil económico de Buddharakkitha lo da la prensa y la acusación (el guion lo atribuye). Discrepancias entre fuentes: fecha de inicio del juicio (22 de febrero o 22 de mayo de 1961; el guion dice «febrero» siguiendo el Daily Mirror 2019). No se nombra a los dos absueltos. «Somarama retractó su confesión» (ficha y Daily Mirror). El Daily Mirror 2014 dice que el agresor es profesor de un colegio ayurvédico (el guion lo describe así). La frase «hombre necio con hábito de monje» es traducción libre de la que la prensa atribuye al primer ministro."
+}
