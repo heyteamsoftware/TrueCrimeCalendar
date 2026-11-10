@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Prototipo A · «Quiosco» — TRUE CRIME CALENDAR</title>
+<meta name="viewport" content="width=1400">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&display=swap" rel="stylesheet">
+<style>
+/* PROTOTIPO A · «QUIOSCO»
+   Semanario de sucesos impreso a dos tintas: negro + la tinta del mes (enero: bermellón). */
+:root{
+  --paper:#ece5d3; --paper-2:#e2d9c3; --ink:#16130f; --ink-2:#4a443a; --spot:#d6321e; --spot-d:#b02413;
+  --disp:"Anton","Impact","Haettenschweiler","Arial Narrow",sans-serif;
+  --lab:"Archivo Narrow","Bahnschrift Condensed","Arial Narrow",sans-serif;
+  --txt:"Newsreader","Georgia","Times New Roman",serif;
+  --noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' seed='4'/%3E%3CfeColorMatrix values='0 0 0 0 .1 0 0 0 0 .08 0 0 0 0 .05 0 0 0 .55 -.16'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1400px;height:1000px;overflow:hidden}
+body{background:#1b1815;font-family:var(--lab);color:var(--ink);display:flex;justify-content:center;gap:41px;padding-top:26px;-webkit-font-smoothing:antialiased}
+.col{width:412px}
+.cap{font:600 12px/1 var(--lab);letter-spacing:.16em;text-transform:uppercase;color:#a79f90;margin-top:13px;display:flex;justify-content:space-between}
+.cap b{color:#efe7d6;font-weight:700}
+.phone{position:relative;width:412px;height:915px;overflow:hidden;background:var(--paper);border-radius:22px}
+.phone::after{content:"";position:absolute;inset:0;background:var(--noise);mix-blend-mode:multiply;opacity:.55;pointer-events:none;z-index:50}
+.sb{height:26px;display:flex;align-items:center;justify-content:space-between;padding:0 18px;font:600 12px/1 var(--lab);letter-spacing:.04em}
+.sb i{display:inline-block;width:20px;height:9px;border:1.5px solid var(--ink);border-radius:2px;position:relative}
+.sb i::before{content:"";position:absolute;inset:1px 6px 1px 1px;background:var(--ink)}
+.pad{padding:0 14px}
+svg{display:block}
+.ico{width:20px;height:20px;fill:none;stroke:var(--ink);stroke-width:2;stroke-linecap:square}
+
+/* ---------- Cabecera ---------- */
+.mast-top{display:flex;align-items:center;justify-content:space-between;font:600 10.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;padding:5px 0 6px;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink)}
+.mast-top .tools{display:flex;gap:12px}
+.mast h1{font:400 44.5px/1 var(--disp);letter-spacing:.005em;white-space:nowrap;text-transform:uppercase;padding:7px 0 3px;text-align:center}
+.mast h1 em{font-style:normal;color:var(--spot)}
+.mast-sub{display:flex;justify-content:space-between;align-items:center;font:700 10.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;border-top:1px solid var(--ink);border-bottom:3px solid var(--ink);padding:5px 0}
+.mast-sub b{background:var(--ink);color:var(--paper);padding:3px 6px 2px;margin:-3px 0}
+
+/* ---------- Portada del día ---------- */
+.cover{position:relative;height:258px;margin-top:10px;background:var(--ink);overflow:hidden}
+.cover svg.art{position:absolute;inset:0;width:100%;height:100%}
+.cover .tag{position:absolute;left:0;top:0;background:var(--ink);color:var(--paper);font:700 11px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;padding:7px 9px 6px}
+.cover .tag i{font-style:normal;color:var(--spot)}
+.seal{position:absolute;right:10px;top:10px;width:66px;height:66px;transform:rotate(11deg)}
+.cover .txt{position:absolute;left:12px;right:12px;bottom:46px;color:var(--paper)}
+.cover .kick{font:700 11px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;color:var(--spot)}
+.cover h2{font:400 58px/.92 var(--disp);text-transform:uppercase;margin:5px 0 4px -2px;letter-spacing:.005em}
+.cover .dek{font:italic 500 19px/1.1 var(--txt)}
+.cover .bar{position:absolute;left:0;right:0;bottom:0;height:36px;display:flex;background:var(--paper);border:2px solid var(--ink)}
+.cover .bar span{flex:1;display:flex;align-items:center;gap:8px;padding:0 10px;font:700 11.5px/1 var(--lab);letter-spacing:.12em;text-transform:uppercase}
+.cover .bar span+span{flex:0 0 auto;background:var(--spot);color:var(--paper);border-left:2px solid var(--ink)}
+.cover .bar svg{width:12px;height:12px;fill:currentColor}
+
+/* ---------- Sumario del mes (calendario) ---------- */
+.sec{display:flex;align-items:baseline;justify-content:space-between;margin-top:12px;padding-bottom:4px;border-bottom:2px solid var(--ink)}
+.sec h3{font:400 19px/1 var(--disp);text-transform:uppercase;letter-spacing:.02em}
+.sec span{font:600 10.5px/1 var(--lab);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+.sec span b{color:var(--spot)}
+.wk{display:grid;grid-template-columns:repeat(7,1fr);font:700 9.5px/1 var(--lab);letter-spacing:.16em;color:var(--ink-2);padding:6px 0 4px}
+.wk div{padding-left:4px}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);border-left:1px solid var(--ink);border-top:1px solid var(--ink)}
+.d{position:relative;height:47px;border-right:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:3px 4px;overflow:hidden}
+.d .n{font:400 22px/1 var(--disp);display:block}
+.d .k{position:absolute;left:4px;right:2px;bottom:4px;font:700 8.4px/1 var(--lab);letter-spacing:.02em;text-transform:uppercase;white-space:nowrap}
+.d.off{background:repeating-linear-gradient(135deg,transparent 0 4px,rgba(22,19,15,.16) 4px 5px)}
+.d.off .n{color:rgba(22,19,15,.32)}
+.d.star{background:var(--ink);color:var(--paper)}
+.d.star::after{content:"★";position:absolute;right:4px;top:3px;font-size:10px;line-height:1;color:var(--spot)}
+.d.x2::before{content:"×2";position:absolute;right:4px;top:15px;font:700 9px/1 var(--lab);color:var(--spot)}
+.d.today{background:var(--spot);color:var(--paper);box-shadow:inset 0 0 0 2px var(--ink)}
+.d.today::after{content:"HOY";font:700 9px/1 var(--lab);letter-spacing:.1em;color:var(--ink);top:5px}
+.lg{display:flex;gap:14px;align-items:center;font:600 10px/1 var(--lab);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);padding:7px 0 0}
+.lg i{display:inline-block;width:11px;height:11px;border:1px solid var(--ink);margin-right:5px;vertical-align:-2px}
+.lg i.s{background:var(--ink)} .lg i.t{background:var(--spot)}
+.lg em{margin-left:auto;font-style:normal;color:var(--ink);border-bottom:1.5px solid var(--spot);padding-bottom:1px}
+
+.idx{margin-top:9px;border-top:2px solid var(--ink)}
+.row{display:grid;grid-template-columns:44px 1fr auto;align-items:center;gap:10px;padding:7px 0 6px;border-bottom:1px solid var(--ink)}
+.row .dn{font:400 31px/1 var(--disp);text-align:center}
+.row .dn small{display:block;font:700 9px/1 var(--lab);letter-spacing:.14em;margin-bottom:2px;color:var(--ink-2)}
+.row h4{font:600 16.5px/1.08 var(--txt);letter-spacing:-.005em}
+.row p{font:600 10.5px/1 var(--lab);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);margin-top:4px}
+.row p b{color:var(--spot)}
+.row .go{font:400 18px/1 var(--disp)}
+
+.months{position:absolute;left:0;right:0;bottom:0;height:44px;display:grid;grid-template-columns:repeat(12,1fr);background:var(--ink);padding:0 6px;z-index:5}
+.months span{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;font:700 10px/1 var(--lab);letter-spacing:.08em;color:#a59d8d}
+.months span i{width:14px;height:4px;background:var(--c)}
+.months span.on{background:var(--paper);color:var(--ink)}
+.months span.on i{width:22px}
+
+/* ---------- Expediente ---------- */
+.nav{display:flex;align-items:center;justify-content:space-between;height:40px;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);font:700 10.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase}
+.nav .l,.nav .r{display:flex;align-items:center;gap:8px}
+.nav .r{gap:14px}
+.nav b{background:var(--ink);color:var(--paper);padding:4px 7px 3px}
+.kicker{display:flex;justify-content:space-between;align-items:center;margin-top:11px;font:700 10.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase}
+.kicker .st{background:var(--spot);color:var(--paper);padding:4px 7px 3px}
+.kicker span:last-child{color:var(--ink-2)}
+.hd{font:400 93px/.88 var(--disp);text-transform:uppercase;margin:9px 0 0 -3px;white-space:nowrap;letter-spacing:.004em}
+.dek2{font:italic 500 22px/1.1 var(--txt);margin-top:7px}
+.efe{font:700 11px/1 var(--lab);letter-spacing:.12em;text-transform:uppercase;color:var(--spot);margin-top:8px}
+.facts{display:grid;grid-template-columns:.7fr 1.15fr 1fr 1.15fr;margin-top:11px;border-top:2px solid var(--ink);border-bottom:1px solid var(--ink)}
+.facts div{padding:6px 8px 6px 0}
+.facts div+div{border-left:1px solid var(--ink);padding-left:8px}
+.facts small{display:block;font:700 9px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
+.facts b{display:block;font:400 19px/1 var(--disp);margin-top:5px;text-transform:uppercase;white-space:nowrap}
+.facts div:first-child b{font-size:34px;line-height:.75;color:var(--spot);margin-top:7px}
+.body{font:400 15.3px/1.36 var(--txt);margin-top:10px;hyphens:auto;text-align:justify}
+.body::first-letter{font:400 53px/.8 var(--disp);float:left;padding:4px 6px 0 0;color:var(--spot)}
+.verd{display:grid;grid-template-columns:auto 1fr;margin-top:11px;border:2px solid var(--ink)}
+.verd span{writing-mode:vertical-rl;transform:rotate(180deg);background:var(--ink);color:var(--paper);font:700 9.5px/1 var(--lab);letter-spacing:.16em;text-transform:uppercase;padding:6px 5px;text-align:center}
+.verd p{font:600 14.5px/1.22 var(--txt);padding:8px 10px}
+.verd p b{font:400 17px/1 var(--disp);text-transform:uppercase;color:var(--spot);letter-spacing:.02em;margin-right:4px}
+.map{position:relative;height:138px;margin-top:11px;border:1px solid var(--ink);overflow:hidden;background:var(--paper-2)}
+.map svg{width:100%;height:100%}
+.map .cap2{position:absolute;left:0;top:0;background:var(--ink);color:var(--paper);font:700 9.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;padding:5px 7px 4px}
+.h5{font:400 15px/1 var(--disp);text-transform:uppercase;letter-spacing:.03em;margin-top:12px;padding-bottom:4px;border-bottom:2px solid var(--ink);display:flex;justify-content:space-between;align-items:baseline}
+.h5 small{font:600 10px/1 var(--lab);letter-spacing:.12em;color:var(--ink-2)}
+.link{display:flex;align-items:center;gap:9px;padding:7px 0;border-bottom:1px solid var(--ink)}
+.link .av{width:30px;height:30px;background:var(--ink);color:var(--paper);font:400 15px/30px var(--disp);text-align:center}
+.link h4{font:600 15.5px/1.05 var(--txt)}
+.link p{font:600 10px/1 var(--lab);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);margin-top:3px}
+.link .go{margin-left:auto;font:400 18px/1 var(--disp)}
+.src{font:400 13px/1.25 var(--txt);padding:6px 0 0 22px;position:relative}
+.src i{position:absolute;left:0;top:6px;font:400 13px/1.2 var(--disp);font-style:normal;color:var(--spot)}
+.listen{position:absolute;left:0;right:0;bottom:0;height:60px;background:var(--ink);color:var(--paper);display:flex;align-items:center;gap:12px;padding:0 14px;z-index:5}
+.listen .pl{width:40px;height:40px;background:var(--spot);display:grid;place-items:center;flex:none}
+.listen .pl svg{width:16px;height:16px;fill:var(--paper)}
+.listen h4{font:400 18px/1 var(--disp);text-transform:uppercase;letter-spacing:.03em}
+.listen p{font:600 10.5px/1 var(--lab);letter-spacing:.12em;text-transform:uppercase;color:#b9b09e;margin-top:5px}
+.listen .mini{margin-left:auto;display:flex;gap:5px}
+.listen .mini i{width:34px;height:22px;border:1.5px solid var(--paper);position:relative;display:block}
+.listen .mini i::before{content:"";position:absolute;left:6px;right:6px;top:6px;height:7px;border:1.5px solid var(--paper);border-radius:4px}
+.listen .mini i.h{background:var(--spot);border-color:var(--spot)}
+
+/* ---------- Grabadora ---------- */
+.deck{position:relative;margin-top:10px;background:var(--ink);color:var(--paper);padding:10px 12px 12px}
+.deck-top{display:flex;justify-content:space-between;align-items:center;font:700 10px/1 var(--lab);letter-spacing:.16em;text-transform:uppercase}
+.deck-top .rec{display:flex;align-items:center;gap:6px;color:var(--spot)}
+.deck-top .rec i{width:8px;height:8px;border-radius:50%;background:var(--spot)}
+.well{position:relative;margin-top:9px;background:var(--spot);padding:14px 16px 0;border:2px solid var(--paper);height:214px;overflow:hidden}
+.well::before{content:"";position:absolute;inset:0;background:radial-gradient(circle,rgba(22,19,15,.5) 1.1px,transparent 1.4px) 0 0/6px 6px;-webkit-mask:linear-gradient(180deg,transparent 0,#000 95%);mask:linear-gradient(180deg,transparent 0,#000 95%)}
+.well svg{position:relative;width:100%}
+.well .lip{position:absolute;left:-2px;right:-2px;bottom:-2px;height:20px;background:var(--ink);border-top:2px solid var(--paper)}
+.well .lip::after{content:"PLETINA · ARRASTRA AQUÍ UNA CINTA";position:absolute;inset:0;display:grid;place-items:center;font:700 8.5px/1 var(--lab);letter-spacing:.2em;color:#b9b09e}
+.count{display:flex;align-items:flex-end;justify-content:space-between;margin-top:10px}
+.count .now{font:400 40px/.8 var(--disp);letter-spacing:.02em}
+.count .now small{font:400 17px/1 var(--disp);color:#b9b09e;margin-left:6px}
+.count .tt{text-align:right}
+.count .tt small{display:block;font:700 9.5px/1 var(--lab);letter-spacing:.16em;text-transform:uppercase;color:var(--spot)}
+.count .tt b{display:block;font:italic 500 16px/1 var(--txt);margin-top:4px}
+.scrub{position:relative;height:16px;margin-top:9px;background:repeating-linear-gradient(90deg,var(--paper) 0 1.5px,transparent 1.5px 6px);opacity:1}
+.scrub::before{content:"";position:absolute;left:0;top:0;bottom:0;width:41%;background:var(--spot)}
+.scrub::after{content:"";position:absolute;left:41%;top:-4px;bottom:-4px;width:4px;background:var(--paper)}
+.keys{display:grid;grid-template-columns:1fr 1fr 1.5fr 1fr 1fr;gap:5px;margin-top:13px}
+.key{height:46px;background:var(--paper);color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;font:700 8.5px/1 var(--lab);letter-spacing:.14em;text-transform:uppercase;box-shadow:0 4px 0 #8f8674}
+.key svg{width:16px;height:14px;fill:var(--ink)}
+.key.on{background:var(--spot);color:var(--paper);box-shadow:0 1px 0 var(--spot-d);transform:translateY(3px)}
+.key.on svg{fill:var(--paper)}
+.box{position:relative;height:158px;margin-top:8px}
+.slot{position:absolute;left:0;top:14px;width:176px;height:112px;border:1.5px dashed var(--ink);display:grid;place-items:center;text-align:center;font:700 10px/1.5 var(--lab);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
+.slot b{display:block;font:400 17px/1 var(--disp);color:var(--ink);letter-spacing:.03em;margin-bottom:3px}
+.out{position:absolute;right:6px;top:8px;width:196px;transform:rotate(-5deg);filter:drop-shadow(5px 6px 0 rgba(22,19,15,.28))}
+.hint{position:absolute;left:150px;top:-4px;width:84px;height:70px}
+.box .st{position:absolute;right:8px;bottom:0;font:700 10px/1 var(--lab);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+.box .st b{color:var(--spot)}
+.read{border-top:2px solid var(--ink);margin-top:4px}
+.blk{display:grid;grid-template-columns:54px 1fr;gap:10px;padding:8px 0 7px;border-bottom:1px solid var(--ink)}
+.blk small{font:700 9px/1.25 var(--lab);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2);padding-top:3px}
+.blk small b{display:block;font:400 15px/1 var(--disp);color:var(--ink);letter-spacing:.02em;margin-bottom:3px}
+.blk p{font:400 14.3px/1.3 var(--txt)}
+.blk.now{background:var(--ink);color:var(--paper);margin:0 -14px;padding:9px 14px 8px}
+.blk.now small{color:#b9b09e}.blk.now small b{color:var(--spot)}
+.blk.dim p{color:var(--ink-2)}
+.fade{position:absolute;left:0;right:0;bottom:0;height:46px;background:linear-gradient(180deg,rgba(236,229,211,0),var(--paper));z-index:4}
+</style>
+</head>
+<body>
+
+<!-- ============ 1 · CALENDARIO ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <header class="mast">
+      <div class="mast-top"><span>Año I · N.º 1</span><span>Un caso cada día</span>
+        <span class="tools">
+          <svg class="ico" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l6 6"/></svg>
+          <svg class="ico" viewBox="0 0 24 24"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2zM9 4v14M15 6v14"/></svg>
+          <svg class="ico" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg>
+        </span></div>
+      <h1>True <em>Crime</em> Calendar</h1>
+      <div class="mast-sub"><span>‹ &nbsp;Diciembre</span><b>Enero de 2027 · 33 casos</b><span>Febrero&nbsp; ›</span></div>
+    </header>
+
+    <article class="cover">
+      <svg class="art" viewBox="0 0 384 258" preserveAspectRatio="xMidYMin slice">
+        <defs>
+          <pattern id="ht" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.7" fill="#16130f"/></pattern>
+          <pattern id="ht2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="3" cy="3" r="1.1" fill="#16130f"/></pattern>
+          <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".75" stop-color="#000"/></linearGradient>
+          <mask id="m1"><rect width="384" height="150" fill="url(#g1)"/></mask>
+        </defs>
+        <rect width="384" height="282" fill="#d6321e"/>
+        <rect width="384" height="150" fill="url(#ht)" mask="url(#m1)" opacity=".85"/>
+        <g transform="translate(0 -16)"><circle cx="128" cy="66" r="27" fill="#ece5d3"/>
+        <!-- páramo -->
+        <path d="M0 118 C40 96 86 104 128 114 C170 124 210 92 262 96 C310 100 346 118 384 106 V300 H0Z" fill="#16130f"/>
+        <path d="M0 120 C40 98 86 106 128 116 C170 126 210 94 262 98 C310 102 346 120 384 108" fill="none" stroke="#ece5d3" stroke-width="1.2" opacity=".0"/>
+        <path d="M150 118 C186 116 214 98 262 97 C300 99 330 110 352 112 C300 112 262 116 232 132 C206 128 176 122 150 118Z" fill="url(#ht2)" opacity=".0"/>
+        <!-- cabina -->
+        <g transform="translate(252 34)">
+          <path d="M3 10 Q20 -4 37 10 V68 H3Z" fill="#16130f"/>
+          <rect x="0" y="66" width="40" height="5" fill="#16130f"/>
+          <rect x="6" y="9" width="28" height="6" fill="#ece5d3"/>
+          <g fill="#ece5d3">
+            <rect x="7" y="18" width="7.5" height="7"/><rect x="16.2" y="18" width="7.5" height="7"/><rect x="25.5" y="18" width="7.5" height="7"/>
+            <rect x="7" y="26.6" width="7.5" height="7"/><rect x="16.2" y="26.6" width="7.5" height="7"/><rect x="25.5" y="26.6" width="7.5" height="7"/>
+            <rect x="7" y="35.2" width="7.5" height="7"/><rect x="25.5" y="35.2" width="7.5" height="7"/>
+            <rect x="7" y="43.8" width="7.5" height="7"/><rect x="25.5" y="43.8" width="7.5" height="7"/>
+            <rect x="7" y="52.4" width="7.5" height="7"/><rect x="16.2" y="52.4" width="7.5" height="7"/><rect x="25.5" y="52.4" width="7.5" height="7"/>
+          </g>
+          <path d="M40 71 L120 100 L60 100 L0 71Z" fill="#ece5d3" opacity=".16"/>
+        </g></g>
+      </svg>
+      <div class="tag">Hoy · sábado <i>2</i> de enero</div>
+      <svg class="seal" viewBox="0 0 66 66"><circle cx="33" cy="33" r="31" fill="#ece5d3" stroke="#16130f" stroke-width="2"/><circle cx="33" cy="33" r="25.5" fill="none" stroke="#16130f" stroke-width="1" stroke-dasharray="2 2"/><path d="M33 14l3.4 8.6 9.2.6-7.1 5.9 2.3 9-7.8-5-7.8 5 2.3-9-7.1-5.9 9.2-.6z" fill="#d6321e"/><text x="33" y="47.5" text-anchor="middle" font-family="Anton,Impact,sans-serif" font-size="9.4" letter-spacing=".6" fill="#16130f">CASO</text><text x="33" y="56.5" text-anchor="middle" font-family="Anton,Impact,sans-serif" font-size="8.2" letter-spacing=".6" fill="#16130f">ESTRELLA</text></svg>
+      <div class="txt">
+        <div class="kick">Nació un día como hoy · hace 89 años</div>
+        <h2>Ian Brady</h2>
+        <div class="dek">«El asesino de los páramos»</div>
+      </div>
+      <div class="bar"><span><svg viewBox="0 0 12 12"><path d="M2 1l9 5-9 5z"/></svg>2 cintas · 10 min 58 s</span><span>Abrir expediente &nbsp;→</span></div>
+    </article>
+
+    <div class="sec"><h3>Sumario de enero</h3><span><b>14</b> estrella · <b>19</b> del archivo</span></div>
+    <div class="wk"><div>LUN</div><div>MAR</div><div>MIÉ</div><div>JUE</div><div>VIE</div><div>SÁB</div><div>DOM</div></div>
+    <div class="grid" id="grid"></div>
+    <div class="lg"><span><i class="s"></i>Caso estrella</span><span><i></i>Caso del archivo</span><em>Ver en lista</em></div>
+
+    <div class="idx">
+      <div class="row"><div class="dn"><small>DOM</small>3</div><div><h4>El asedio de Sidney Street</h4><p>Reino Unido · <b>hace 116 años del crimen</b></p></div><span class="go">→</span></div>
+      <div class="row"><div class="dn"><small>LUN</small>4</div><div><h4>Lucy Letby</h4><p>★ «El ángel de la muerte neonatal» · <b>nació en 1990</b></p></div><span class="go">→</span></div>
+    </div>
+  </div>
+  <div class="fade" style="bottom:44px;height:30px"></div>
+  <nav class="months" id="months"></nav>
+</div>
+<div class="cap"><b>1 · Calendario</b><span>la portada es el caso de hoy</span></div>
+</div>
+
+<!-- ============ 2 · EXPEDIENTE ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <div class="nav"><span class="l"><svg class="ico" viewBox="0 0 24 24"><path d="M14 5l-7 7 7 7M7 12h13"/></svg>Enero</span><b>Expediente 1938-001</b><span class="r"><span>‹ 1</span><span>3 ›</span></span></div>
+    <div class="kicker"><span class="st">★ Caso estrella</span><span>Sábado 2 de enero</span></div>
+    <h1 class="hd">Ian Brady</h1>
+    <p class="dek2">«El asesino de los páramos»</p>
+    <p class="efe">Nació un día como hoy · hace 89 años</p>
+    <div class="facts">
+      <div><small>Víctimas</small><b>5</b></div>
+      <div><small>País</small><b>Reino Unido</b></div>
+      <div><small>Actividad</small><b>1963–1965</b></div>
+      <div><small>Nacimiento</small><b>2 ene. 1938</b></div>
+    </div>
+    <p class="body" lang="es">Junto a su pareja Myra Hindley secuestró y asesinó a cinco menores en el área de Mánchester, en los llamados «asesinatos de los páramos». Varias víctimas fueron enterradas en el páramo de Saddleworth; el cuerpo de Keith Bennett nunca se ha encontrado. Fue detenido en 1965 tras la denuncia de David Smith, cuñado de Hindley, que presenció el último crimen.</p>
+    <div class="verd"><span>Situación</span><p><b>Cadena perpetua.</b> Murió en el hospital de alta seguridad de Ashworth (2017).</p></div>
+
+    <div class="map">
+      <svg viewBox="0 0 384 138" preserveAspectRatio="xMidYMid slice">
+        <defs><pattern id="hm" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1" fill="#16130f"/></pattern></defs>
+        <path d="M250 0 C232 30 262 52 244 82 C232 104 256 120 246 138 H384 V0Z" fill="url(#hm)" opacity=".5"/>
+        <path d="M300 0 C290 30 312 60 300 92 C294 110 306 126 300 138 H384 V0Z" fill="url(#hm)" opacity=".7"/>
+        <g fill="none" stroke="#16130f" stroke-width="1.3">
+          <path d="M0 96 C50 88 96 100 140 84 C180 70 214 70 258 50 C300 32 340 34 384 22"/>
+          <path d="M60 138 C74 108 96 96 140 84" stroke-dasharray="5 4"/>
+          <path d="M140 84 C150 60 132 34 150 0" stroke-dasharray="5 4"/>
+        </g>
+        <path d="M30 28 h44 v26 h-44z M40 34 h10 v8 h-10z M56 40 h12 v8 h-12z" fill="none" stroke="#16130f" stroke-width="1"/>
+        <text x="30" y="68" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="9" letter-spacing="1.4" fill="#4a443a">MÁNCHESTER</text>
+        <rect x="296" y="113" width="82" height="16" fill="#e2d9c3"/><text x="372" y="124" text-anchor="end" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="9" letter-spacing="1.4" fill="#16130f">PEAK DISTRICT</text>
+        <g><circle cx="140" cy="84" r="7" fill="#d6321e" stroke="#16130f" stroke-width="1.5"/><text x="140" y="87.6" text-anchor="middle" font-family="Anton,Impact,sans-serif" font-size="9.5" fill="#ece5d3">1</text>
+        <rect x="88" y="100" width="150" height="17" fill="#ece5d3" stroke="#16130f"/><text x="94" y="112" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="10.5" fill="#16130f">Hattersley · domicilio, último crimen</text></g>
+        <g><circle cx="286" cy="40" r="7" fill="#d6321e" stroke="#16130f" stroke-width="1.5"/><text x="286" y="43.6" text-anchor="middle" font-family="Anton,Impact,sans-serif" font-size="9.5" fill="#ece5d3">2</text>
+        <rect x="196" y="55" width="180" height="17" fill="#ece5d3" stroke="#16130f"/><text x="202" y="67" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="10.5" fill="#16130f">Páramo de Saddleworth · enterramientos</text></g>
+      </svg>
+      <div class="cap2">Lugares del caso · 2</div>
+    </div>
+
+    <h5 class="h5">Vínculos <small>1 EXPEDIENTE RELACIONADO</small></h5>
+    <div class="link"><div class="av">MH</div><div><h4>Myra Hindley</h4><p>Pareja y cómplice en todos los crímenes</p></div><span class="go">→</span></div>
+    <h5 class="h5">Fuentes <small>10 REFERENCIAS</small></h5>
+    <p class="src"><i>01</i>The Guardian: Peter Stanford, obituario de Myra Hindley (16 de noviembre de 2002).</p>
+    <p class="src"><i>02</i>BBC News: «Moors Murder victim Keith Bennett’s mother dies» (18 de agosto de 2012).</p>
+  </div>
+  <div class="listen">
+    <div class="pl"><svg viewBox="0 0 12 12"><path d="M2 1l9 5-9 5z"/></svg></div>
+    <div><h4>Escuchar el caso</h4><p>2 cintas · 10 min 58 s</p></div>
+    <div class="mini"><i class="h"></i><i></i></div>
+  </div>
+</div>
+<div class="cap"><b>2 · Expediente</b><span>se lee como un reportaje</span></div>
+</div>
+
+<!-- ============ 3 · GRABADORA ============ -->
+<div class="col">
+<div class="phone">
+  <div class="sb"><span>9:41</span><i></i></div>
+  <div class="pad">
+    <div class="nav"><span class="l"><svg class="ico" viewBox="0 0 24 24"><path d="M14 5l-7 7 7 7M7 12h13"/></svg>Ian Brady</span><b>Las cintas del caso</b><span class="r"><span>1 / 2</span></span></div>
+
+    <section class="deck">
+      <div class="deck-top"><span>Grabadora de archivo · TCC-2</span><span class="rec"><i></i>Reproduciendo</span></div>
+      <div class="well"><div id="casIn"></div><div class="lip"></div></div>
+      <div class="count">
+        <div class="now">02:14<small>/ 05:27</small></div>
+        <div class="tt"><small>Cinta 1 de 2 · Hallazgo</small><b>Una cabina en Hattersley</b></div>
+      </div>
+      <div class="scrub"></div>
+      <div class="keys">
+        <div class="key"><svg viewBox="0 0 16 14"><path d="M8 1l6 6H2zM2 9.5h12V13H2z"/></svg>Expulsar</div>
+        <div class="key"><svg viewBox="0 0 16 14"><path d="M8 1v12L1 7zM15 1v12L8 7z"/></svg>−15 s</div>
+        <div class="key on"><svg viewBox="0 0 16 14"><path d="M3 1h3.6v12H3zM9.4 1H13v12H9.4z"/></svg>Pausa</div>
+        <div class="key"><svg viewBox="0 0 16 14"><path d="M1 1l7 6-7 6zM8 1l7 6-7 6z"/></svg>+30 s</div>
+        <div class="key"><svg viewBox="0 0 16 14"><path d="M1 1l8 6-8 6zM11 1h3.4v12H11z"/></svg>Cinta 2</div>
+      </div>
+    </section>
+
+    <div class="sec" style="margin-top:14px"><h3>La caja de cintas</h3><span>Arrastra o toca para cambiar</span></div>
+    <div class="box">
+      <div class="slot"><div><b>Cinta 1</b>en la pletina<br>a medias · 02:14</div></div>
+      <svg class="hint" viewBox="0 0 84 70"><path d="M78 56 C66 22 40 10 10 14" fill="none" stroke="#d6321e" stroke-width="2.5" stroke-dasharray="6 5"/><path d="M20 4 L8 14 L21 23" fill="none" stroke="#d6321e" stroke-width="2.5"/></svg>
+      <div class="out" id="casOut"></div>
+      <div class="st">Cinta 2 · Epílogo · 05:31 · <b>sin escuchar</b></div>
+    </div>
+
+    <div class="sec" style="margin-top:8px"><h3>Leer el caso</h3><span>Toca un párrafo para saltar a él</span></div>
+    <div class="read" style="border-top:0;margin-top:0">
+      <div class="blk now"><small><b>02:13</b>Nota del inspector</small><p>Un caso terrible, pero en apariencia cerrado: un crimen, un testigo, un detenido. Lo que me inquieta es lo que Smith añadió en comisaría. Que Brady presumía de otras muertes.</p></div>
+      <div class="blk dim"><small><b>02:28</b>Archivo</small><p>En la casa había libros, cuadernos y muchos papeles. Los agentes lo revisaron todo, página por página. En un cuaderno escolar, entre garabatos y nombres sueltos, apareció uno que les sonaba: John Kilbride.</p></div>
+    </div>
+  </div>
+  <div class="fade"></div>
+</div>
+<div class="cap"><b>3 · Grabadora</b><span>cinta 1 sonando, cinta 2 en la caja</span></div>
+</div>
+
+<script>
+/* Enero de 2027: el día 1 cae en viernes. Datos reales del archivo. */
+const E={2:"Brady",4:"Letby",7:"Keyes",8:"Bonin",9:"Puente",14:"Shipman",17:"Petiot",19:"Robledo",20:"Rifkin",21:"Bodkin",22:"Camargo",25:"Arropiero"};
+const N={1:"Fruitvale",3:"Sidney St.",5:"Yablonski",6:"Vuelo 2511",10:"Chamorro",11:"C. Tresca",12:"Fago",13:"Banco Río",15:"La Dalia",16:"Kabila",18:"Pastrana",23:"A. Ruiz",24:"Hobeika",26:"Beaumont",27:"Pólvora",28:"E. Alfaro",29:"S. Clark",30:"Mayerling",31:"K. Durst"};
+let h="";
+for(const o of [28,29,30,31]) h+=`<div class="d off"><span class="n">${o}</span></div>`;
+for(let d=1;d<=31;d++){
+  const s=E[d], c=["d"]; if(s)c.push("star"); if(d===9||d===25)c.push("x2"); if(d===2)c.push("today");
+  h+=`<div class="${c.join(" ")}"><span class="n">${d}</span><span class="k">${s||N[d]}</span></div>`;
+}
+document.getElementById("grid").innerHTML=h;
+const M=[["ENE","#d6321e"],["FEB","#2c5fa8"],["MAR","#2f7d4f"],["ABR","#c9871a"],["MAY","#b0396e"],["JUN","#1f8a8a"],["JUL","#d9541a"],["AGO","#6a55a3"],["SEP","#8a6b1e"],["OCT","#c2452d"],["NOV","#4b6a78"],["DIC","#7a2330"]];
+document.getElementById("months").innerHTML=M.map((m,i)=>`<span class="${i?"":"on"}" style="--c:${m[1]}"><i></i>${m[0]}</span>`).join("");
+
+/* Casete a dos tintas */
+function cas(o){
+  const reel=(cx,spin)=>`<g transform="translate(${cx} 70)"><circle r="17" fill="#ece5d3" stroke="#16130f" stroke-width="2"/><g transform="rotate(${spin})">${[0,60,120,180,240,300].map(a=>`<rect x="-2" y="-12" width="4" height="6" fill="#16130f" transform="rotate(${a})"/>`).join("")}</g><circle r="4.5" fill="#16130f"/></g>`;
+  return `<svg viewBox="0 0 300 190">
+  <rect x="1.5" y="1.5" width="297" height="187" rx="9" fill="#16130f" stroke="#ece5d3" stroke-width="3"/>
+  <rect x="16" y="14" width="268" height="118" rx="3" fill="#ece5d3"/>
+  <rect x="16" y="14" width="268" height="30" fill="${o.c}"/>
+  <text x="26" y="35" font-family="Anton,Impact,sans-serif" font-size="17" letter-spacing=".6" fill="#ece5d3">${o.t}</text>
+  <text x="274" y="35" text-anchor="end" font-family="Anton,Impact,sans-serif" font-size="17" fill="#16130f">${o.n}</text>
+  <rect x="62" y="50" width="176" height="42" rx="21" fill="#16130f"/>
+  <rect x="124" y="56" width="52" height="30" fill="#ece5d3" opacity=".14"/>
+  <circle cx="92" cy="70" r="${o.l}" fill="#4a443a"/><circle cx="208" cy="70" r="${o.r}" fill="#4a443a"/>
+  ${reel(92,o.s||0)}${reel(208,(o.s||0)+25)}
+  <text x="26" y="110" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="10" letter-spacing="1.6" fill="#16130f">EXP. 1938-001 · IAN BRADY</text>
+  <text x="274" y="110" text-anchor="end" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="10" letter-spacing="1.6" fill="#16130f">${o.d}</text>
+  <path d="M16 120h268" stroke="#16130f" stroke-width="1"/>
+  <text x="26" y="129" font-family="Archivo Narrow,Arial Narrow,sans-serif" font-weight="700" font-size="7" letter-spacing="1.8" fill="#4a443a">TRUE CRIME CALENDAR · ARCHIVO SONORO</text>
+  <path d="M52 188 L64 144 H236 L248 188Z" fill="#16130f" stroke="#ece5d3" stroke-width="2"/>
+  <circle cx="92" cy="168" r="6" fill="#ece5d3"/><circle cx="208" cy="168" r="6" fill="#ece5d3"/><rect x="128" y="160" width="44" height="14" fill="#ece5d3" opacity=".18"/>
+  <circle cx="14" cy="176" r="3.5" fill="#ece5d3"/><circle cx="286" cy="176" r="3.5" fill="#ece5d3"/></svg>`;
+}
+document.getElementById("casIn").innerHTML=cas({t:"UNA CABINA EN HATTERSLEY",n:"1",d:"05:27",c:"#16130f",l:24,r:30,s:18});
+document.getElementById("casOut").innerHTML=cas({t:"LO QUE AÚN GUARDA EL PÁRAMO",n:"2",d:"05:31",c:"#d6321e",l:19,r:33});
+</script>
+</body>
+</html>
