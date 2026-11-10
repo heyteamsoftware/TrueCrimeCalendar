@@ -131,3 +131,11 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
   - casos nuevos de febrero 1-15 y agosto, septiembre, octubre 1-15 y octubre 16-31.
 - **Pendiente de relanzar** (se hará poco a poco): noviembre 1-15, noviembre 16-30, diciembre 1-15, diciembre 16-31 y la verificación de los guiones nuevos de enero.
 - Guiones validados: 295 de 297 (fallan por pocas palabras matanza-san-valentin, puerto-hurraco y thompson-bywaters, que ya tienen agente asignado).
+
+## 10 de noviembre, noche: los audios irán al servidor del usuario
+
+- Decisión del usuario: las cintas se sirven desde su servidor (`https://myappsserver.duckdns.org/truecrimescalendar/<id>/cinta-<n>.ogg`, Apache con soporte de `Range`) y no van dentro del APK.
+- Carpeta creada en el servidor y probada con 6 cintas (Brady, Dalia Negra, Letby, Marvin Gaye): `200 OK`, `Accept-Ranges` y `206` al pedir un tramo.
+- `tools/subir_audios.ps1` sube las carpetas grabadas. Los audios no se suben a GitHub.
+- Tanda 1 de grabación en marcha (`tools/tandas/tanda1.txt`: casos estrella revisados y casos nuevos de febrero a septiembre).
+- **Pendiente en la app:** descargar y guardar las cintas en el móvil (caché) para escucharlas sin conexión después; `index.json` con direcciones https; mantener dentro de la app los sonidos de la grabadora.
