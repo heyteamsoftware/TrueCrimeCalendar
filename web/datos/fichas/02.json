@@ -283,7 +283,7 @@
     "f": "🇪🇸",
     "per": "1981",
     "st": "ETA militar reivindicó el secuestro y el asesinato. Las fuentes consultadas no recogen ninguna condena por el crimen.",
-    "c": "El 29 de enero de 1981, ETA militar secuestró a José María Ryan, de 37 años, ingeniero jefe de la central nuclear de Lemóniz (Vizcaya), y dio una semana de plazo para que se demoliera la central a cambio de su vida. Ni el Gobierno ni la empresa, Iberduero, cedieron, y miles de personas se manifestaron pidiendo su libertad. El 6 de febrero de 1981 su cuerpo apareció en un camino forestal entre Zarátamo y Arcocha, atado y con un disparo en la cabeza. Su muerte provocó una huelga general en el País Vasco.",
+    "c": "El 29 de enero de 1981, ETA militar secuestró a José María Ryan, de 37 años, ingeniero jefe de la central nuclear de Lemóniz (Vizcaya), y dio una semana de plazo para que se demoliera la central a cambio de su vida. Ni el Gobierno ni la empresa, Iberduero, cedieron, y miles de personas se manifestaron pidiendo su libertad. El 6 de febrero de 1981 su cuerpo apareció en un camino forestal entre Zarátamo y Arcocha, atado y con un disparo en la nuca. Su muerte provocó una huelga general en el País Vasco.",
     "mo": "Secuestro con ultimátum político: ETA exigió el derribo de la central a cambio de su vida y, al vencer el plazo, lo mató de un disparo.",
     "loc": [
       [
@@ -342,7 +342,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "No se ha podido confirmar si hubo condenas: ninguna fuente consultada las menciona (conviene comprobarlo en el mapa de víctimas de Covite o en sentencias de la Audiencia Nacional). Lugar del secuestro: la Wikipedia dice que fue al salir de la central; Auñamendi, que en Bilbao. Lugar del hallazgo: camino entre Zarátamo y Arcocha (Wikipedia), «bosque cerca de Galdácano» (The Objective); la herida, en la cabeza o en la nuca según la fuente. Las piezas de El País y El Correo no se pudieron abrir (dominios bloqueados). Edad calculada con el año de nacimiento (1943)."
+    "nota_revision": "No se ha podido confirmar si hubo condenas: ninguna fuente consultada las menciona (conviene comprobarlo en el mapa de víctimas de Covite o en sentencias de la Audiencia Nacional). Lugar del secuestro: la Wikipedia dice que fue al salir de la central; Auñamendi, que en Bilbao. Lugar del hallazgo: camino entre Zarátamo y Arcocha (Wikipedia), «bosque cerca de Galdácano» (The Objective); El País del 7 de febrero de 1981 (abierto) dice que lo hallaron hacia las 22:00 del 6 de febrero y que la bala entró por la nuca. Las dos piezas de El País (31 de enero y 7 de febrero de 1981) se abrieron en la verificación. Edad calculada con el año de nacimiento (1943). Verificación: el artículo de El Independiente y el de El Correo tratan sobre el asesinato de Ángel Pascual Múgica y solo citan a Ryan de pasada; una búsqueda adicional tampoco halló condenas por el crimen de Ryan, así que sigue pendiente Covite/Audiencia Nacional."
   },
   {
     "id": "pavle-bulatovic",
@@ -450,11 +450,6 @@
       {
         "titulo": "«On this day in 1983: nationwide hunt begins for famous racehorse Shergar allegedly kidnapped by the IRA», The Irish Post",
         "url": "https://www.irishpost.com/life-style/on-this-day-in-1983-nationwide-hunt-begins-for-famous-racehorse-shergar-allegedly-kidnapped-by-the-ira-203399",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Graham Dench, «Brilliant Derby winner never seen again after being taken from stud», Racing Post (6 de diciembre de 2016)",
-        "url": "https://www.racingpost.com/news/brilliant-derby-winner-never-seen-again-after-being-taken-from-stud-afPzC5j8NZk5/",
         "tipo": "hemeroteca"
       },
       {
@@ -584,18 +579,13 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Uta Harnischfeger y Nicholas Kulish, «At Zurich Museum, a Theft of 4 Masterworks», The New York Times (12 de febrero de 2008)",
-        "url": "https://www.nytimes.com/2008/02/12/world/europe/12swiss.html",
+        "titulo": "NPR, «Stolen Cezanne Portrait Surfaces In Serbia», 12 de abril de 2012",
+        "url": "https://www.npr.org/sections/thetwo-way/2012/04/12/150488797/stolen-cezanne-portrait-surfaces-in-serbia",
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Interpol, «Four masterpieces stolen from Zurich museum» (11 de febrero de 2008; copia archivada)",
-        "url": "https://web.archive.org/web/20200413083935/https://www.interpol.int/Public/News/2008/woa20080211.asp",
-        "tipo": "policial"
-      },
-      {
-        "titulo": "AP, «4 charged in theft of Cezanne's “Boy in the Red Vest”», LiveAuctioneers",
-        "url": "https://www.liveauctioneers.com/news/top-news/crime-and-litigation/4-charged-in-theft-of-cezannes-boy-in-the-red-vest/",
+        "titulo": "The Local (Suiza), «Stolen Cezanne back in Switzerland», 25 de abril de 2012",
+        "url": "https://www.thelocal.com/20120425/3187/",
         "tipo": "hemeroteca"
       },
       {
@@ -604,7 +594,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Nacionalidad de los detenidos: un macedonio y tres serbios según la Fiscalía de Zúrich; tres serbios y un montenegrino según swissinfo. No se encontró la sentencia del juicio en Serbia: hay que comprobarla antes de nombrar a nadie. El valor de 180 millones de francos sale de la Wikipedia y de la selección. Las piezas del New York Times, Interpol y AP se citan sin abrir. La coordenada de la villa es aproximada; la del Burghölzli es la de la Wikipedia; la de Belgrado, el centro de la ciudad."
+    "nota_revision": "Nacionalidad de los detenidos: un macedonio y tres serbios según la Fiscalía de Zúrich; tres serbios y un montenegrino según swissinfo. No se encontró la sentencia del juicio en Serbia: hay que comprobarla antes de nombrar a nadie. El valor de 180 millones de francos sale de la Wikipedia y de la selección. Se quitaron las piezas del New York Times, de Interpol (archivo caído) y de LiveAuctioneers (no abría), y se añadieron NPR y The Local. La nacionalidad de los detenidos la da la Fiscalía de Zúrich (nota de prensa de 27 de abril de 2012, abierta); Fox/AP habla de cuatro serbios. La coordenada de la villa es aproximada; la del Burghölzli es la de la Wikipedia; la de Belgrado, el centro de la ciudad. Verificación: tampoco se encontró la sentencia en una búsqueda adicional."
   },
   {
     "id": "matanza-legacion-teheran",
@@ -652,11 +642,6 @@
       {
         "titulo": "Radio Svoboda, artículo sobre la muerte de Griboyédov y la investigación de Yakov Arinshtein",
         "url": "https://www.svoboda.org/a/2072761.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Ishaan Tharoor, «A Russian ambassador was murdered. The apology came in the shape of a huge diamond», The Washington Post (22 de diciembre de 2016)",
-        "url": "https://www.washingtonpost.com/news/worldviews/wp/2016/12/22/a-russian-ambassador-was-murdered-the-apology-came-in-the-shape-of-a-huge-diamond/",
         "tipo": "hemeroteca"
       },
       {
@@ -722,11 +707,6 @@
       {
         "titulo": "«Justicia reabrió caso por muerte de Jorge Matute Johns», Cooperativa.cl (10 de enero de 2014)",
         "url": "https://www.cooperativa.cl/noticias/pais/judicial/caso-matute/justicia-reabrio-caso-por-muerte-de-jorge-matute-johns/2014-01-10/153832.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Emol, especial «Jorge Matute Johns»: cronología de 2004",
-        "url": "http://www.emol.com/especiales/matute/cronologia_04.htm",
         "tipo": "hemeroteca"
       },
       {
@@ -824,8 +804,8 @@
     "p": "Estados Unidos",
     "f": "🇺🇸",
     "per": "1929",
-    "st": "Sin condena. Se retiraron por falta de pruebas los cargos contra Jack McGurn, Albert Anselmi y John Scalise, y Fred Burke solo fue condenado por matar a un policía en Michigan.",
-    "c": "Hacia las 10:30 del 14 de febrero de 1929, varios hombres, algunos disfrazados de policías, entraron en un garaje del 2122 de North Clark Street, en Chicago, que usaba la banda de George «Bugs» Moran. Pusieron contra la pared a siete hombres, miembros y colaboradores de la banda, y los mataron a tiros; Frank Gusenberg llegó vivo al hospital, pero murió sin decir quién había disparado. Moran aún no había llegado. La matanza se atribuyó a la banda de Al Capone, y en diciembre de 1929 la balística identificó como armas del crimen unas metralletas halladas en poder de Fred Burke, pero nadie fue condenado.",
+    "st": "Sin condena. Se retiraron por falta de pruebas los cargos contra Jack McGurn, Albert Anselmi y John Scalise, y Fred Burke, detenido en 1931, solo fue condenado (a cadena perpetua) por matar a un policía en Michigan.",
+    "c": "Hacia las 10:30 del 14 de febrero de 1929, varios hombres, algunos disfrazados de policías, entraron en un garaje del 2122 de North Clark Street, en Chicago, que usaba la banda de George «Bugs» Moran. Pusieron contra la pared a siete hombres, miembros y colaboradores de la banda, y los mataron a tiros; Frank Gusenberg llegó vivo al hospital, pero murió sin decir quién había disparado. Moran aún no había llegado. La matanza se atribuyó a la banda de Al Capone, y en diciembre de 1929 la balística identificó como armas del crimen unas metralletas halladas en la casa de Fred Burke, buscado por matar a un policía en Michigan, pero nadie fue condenado por la matanza.",
     "mo": "Unos hombres disfrazados de policías fingieron una redada, pusieron a las víctimas contra la pared y dispararon con metralletas Thompson.",
     "loc": [
       [
@@ -999,16 +979,6 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "TASS, «В Кремле воссоздают монумент на месте убийства в 1905 году великого князя»",
-        "url": "https://tass.ru/obschestvo/3750702",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "RIA Novosti, «Крест на месте гибели князя Сергея Александровича заложили у стен Кремля» (1 de noviembre de 2016)",
-        "url": "https://ria.ru/20161101/1480455797.html",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Kommersant, «Владимир Путин вернул в Кремль памятник» (2017)",
         "url": "https://www.kommersant.ru/doc/3289291",
         "tipo": "hemeroteca"
@@ -1075,11 +1045,6 @@
         "titulo": "Tomás Fernández y Elena Tamaro, «Venancio Flores», Biografías y Vidas (2004)",
         "url": "https://www.biografiasyvidas.com/biografia/f/flores_venancio.htm",
         "tipo": "enciclopedia"
-      },
-      {
-        "titulo": "Luis F. Pacheco, «Mataron a Venancio Flores (1808-1868)», Instituto de Formación Docente de Minas",
-        "url": "http://ifdminas.cfe.edu.uy/attachments/article/18/MATARON%20A%20VENANCIO%20FLORES.pdf",
-        "tipo": "libro"
       },
       {
         "titulo": "Wikipedia (en castellano), «Venancio Flores» (punto de partida; consultada por sus referencias)",
@@ -1278,7 +1243,7 @@
     "f": "🇺🇸",
     "per": "1978",
     "st": "Sin explicar. No se halló ningún indicio de delito y Gary Mathias sigue oficialmente desaparecido.",
-    "c": "La noche del viernes 24 de febrero de 1978, cinco amigos de la zona de Yuba City y Marysville (California), Jack Madruga, Bill Sterling, Jack Huett, Ted Weiher y Gary Mathias, fueron a Chico a ver un partido de baloncesto universitario y no volvieron. El 28 de febrero un guarda forestal halló su coche, sin daños y abandonado en la nieve, en una pista de montaña del bosque nacional de Plumas, a unos 110 kilómetros de Chico. En junio aparecieron los restos de cuatro de ellos; Weiher, en un remolque forestal donde pudo sobrevivir semanas. Mathias nunca apareció y el caso sigue sin explicar.",
+    "c": "La noche del viernes 24 de febrero de 1978, cinco amigos de la zona de Yuba City y Marysville (California), Jack Madruga, Bill Sterling, Jack Huett, Ted Weiher y Gary Mathias, fueron a Chico a ver un partido de baloncesto universitario y no volvieron. El 28 de febrero un guarda forestal halló su coche, sin daños y abandonado en la nieve, en una pista de montaña del bosque nacional de Plumas, a unos 110 kilómetros de Chico. En junio aparecieron los restos de cuatro de ellos; uno de ellos, Weiher, en un remolque forestal donde pudo sobrevivir semanas. Mathias nunca apareció y el caso sigue sin explicar.",
     "mo": "Desconocido. Los investigadores creen que se desviaron hacia la montaña, dejaron el coche atascado en la nieve y murieron de frío y hambre buscando refugio.",
     "loc": [
       [
@@ -1440,11 +1405,6 @@
         "tipo": "judicial"
       },
       {
-        "titulo": "«Roldán, condenado», El Mundo (27 de febrero de 1998)",
-        "url": "https://www.elmundo.es/1998/02/27/espana/27N0019.html",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en castellano), «Luis Roldán Ibáñez» (punto de partida; consultada por sus referencias)",
         "url": "https://es.wikipedia.org/wiki/Luis_Rold%C3%A1n_Ib%C3%A1%C3%B1ez",
         "tipo": "enciclopedia"
@@ -1508,16 +1468,11 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Radio Sweden, «No Retrial of Christer Pettersson» (1998)",
-        "url": "https://sverigesradio.se/sida/artikel.aspx?programid=2054&artikel=804697",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en inglés), «Assassination of Olof Palme» (punto de partida; consultada por sus referencias)",
         "url": "https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Novedad respecto a la selección: el 18 de diciembre de 2025 el director de la Fiscalía sueca, Lennart Guné, rechazó reabrir la investigación y concluyó que las pruebas contra Engström no bastan para señalarlo como autor (DPA, SVT). Las fechas exactas de la condena de Pettersson (julio de 1989) y de su absolución en el tribunal de apelación (otoño de 1989) no se han podido confirmar: SvD, The New York Times y Radio Sweden se citan sin abrir. Coordenadas tomadas de la Wikipedia."
+    "nota_revision": "Novedad respecto a la selección: el 18 de diciembre de 2025 el director de la Fiscalía sueca, Lennart Guné, rechazó reabrir la investigación y concluyó que las pruebas contra Engström no bastan para señalarlo como autor (confirmado en dos fuentes abiertas: SVT, actualización de 18 de diciembre de 2025, y DPA vía Yahoo, 18 de diciembre de 2025). Las fechas exactas de la condena de Pettersson (julio de 1989) y de su absolución en el tribunal de apelación (otoño de 1989) no se han podido confirmar: SvD, The New York Times y Radio Sweden se citan sin abrir. Coordenadas tomadas de la Wikipedia."
   }
 ]

@@ -20,7 +20,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 10 | 24/24 ✓ | ✓ verificado (11 correcciones) | — |
 | 03 | 23/23 ✓ | ✓ verificado (11 correcciones; 11/3 cambiado a Ravachol) | — |
 | 05 | 19/19 ✓ | ✓ verificado (2 correcciones) | — |
-| 02 | 23/23 ✓ | en marcha | — |
+| 02 | 23/23 ✓ | ✓ verificado (11 correcciones) | — |
 | 09 | 25/25 ✓ | ✓ verificado (22/9 Sara Jane Moore; 25/9 cambiado a Bandaranaike por Rucci con causa reactivada) | — |
 | 04 | 23/23 ✓ | ✓ verificado (8 correcciones) | — |
 | 07 | 26/26 ✓ | ✓ verificado (5 correcciones) | — |
