@@ -40,3 +40,29 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
   - el nacimiento de Riina (16/11).
 - **Atentados contra Alfonso XIII:** Sancho Alegre (13/4) y Mateo Morral (31/5).
 - **Kennedy:** Robert Kennedy (5/6) y John F. Kennedy (22/11).
+
+## Marzo
+
+- **Noi del Sucre (10/3) y Dato (8/3):** ya puesto, por el pistolerismo.
+- **Puig Antich (2/3) y Atocha (4/3):** con otros casos del tardofranquismo, como Arturo Ruiz (23/1).
+- **Talaat y Tehlirian (15/3):** con otros casos de la Operación Némesis, si los hay.
+- **Atocha:** García Juliá fue detenido en 2018 en São Paulo, no en Bolivia como decía la selección.
+
+## Mayo
+
+- **Aramburu (29/5) y Rucci (25/9):** los dos son crímenes de Montoneros.
+- **Trujillo (30/5) y las hermanas Mirabal (25/11).**
+- **Tobagi (28/5):** con otros casos de los años de plomo italianos, si los hay.
+- **Caso Almería (10/5):** con otros casos de la guerra sucia de la Transición, si los hay.
+- **Sacco y Vanzetti (5/5) y Tresca (11/1).**
+
+## Febrero
+
+- **Reg Murphy (20/2):** con el secuestro de Patty Hearst, si está en el archivo.
+- **Tucapel Jiménez (25/2):** con otros crímenes de la dictadura chilena, como Prats (30/9).
+- **Ryan (6/2):** con otros casos de ETA.
+- **Bulatović:** con los asesinatos de Arkan o de Đinđić, si están en el archivo.
+- **Gran duque Sergio (17/2):** con otros atentados de los socialistas revolucionarios.
+- **Shergar (8/2):** con otros casos del IRA: Guildford (22/10) y Birmingham (21/11).
+- **Mondlane (3/2):** con otros paquetes bomba políticos.
+- **Sandino (21/2):** con Chamorro (10/1) y Somoza Debayle (17/9).
