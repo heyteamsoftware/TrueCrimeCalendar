@@ -1,103 +1,192 @@
 {
   "id": "garavito",
-  "titulo": "Lo que encontraron en Pereira",
+  "version": 3,
   "pronunciacion": {
-    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "CTI": "ce te i"
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Pereira, Colombia, finales de los años noventa. En las afueras de la ciudad aparecen los restos de varios niños. No es el primer hallazgo de este tipo en el país, pero sí uno de los que obliga a los investigadores a hacerse una pregunta temible: ¿y si todos estos casos tienen un mismo autor?"
+      "n": 1,
+      "titulo": "Unas gafas junto a un zapato",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Luis Alfredo Garavito, la Bestia. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Unas gafas junto a un zapato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pereira, Colombia, noviembre de 1998. En una quebrada y en un solar lleno de maleza aparecen restos humanos. Son de niños. No uno ni dos: decenas, casi todos varones, de entre ocho y dieciséis años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El país entero se estremece. Las primeras hipótesis apuntan a una secta satánica o a una red criminal. Nadie piensa todavía en un solo hombre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo primero que me inquieta de este expediente es el tiempo. Aquellos niños llevaban meses o años desaparecidos. Muchos eran hijos de familias muy pobres, de vendedores ambulantes. Y muchos de aquellos restos tardarían años en tener nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades formaron un grupo especial de investigación. Lo formaban fiscales, agentes del Cuerpo Técnico de Investigación de la Fiscalía, de la policía y de los servicios de seguridad, con el apoyo de Medicina Legal. Su tarea era comparar casos de todo el país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de los investigadores que siguieron el rastro fue el detective Aldemar Durán, del Cuerpo Técnico de Investigación. Su trabajo, como el de sus compañeros, consistía en algo poco vistoso: comparar expedientes de niños desaparecidos y asesinados en regiones muy distintas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1998 detuvieron en Pereira a un sospechoso. No era el hombre que buscaban. Mientras estaba preso, según las crónicas, siguieron desapareciendo niños en Bogotá."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Error anotado, y con consecuencias. Una detención equivocada tranquiliza a la opinión pública y desvía recursos. Por suerte, los investigadores no cerraron el caso. Siguieron cruzando datos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y los datos hablaban. En escenarios muy alejados entre sí aparecían las mismas cosas: cuerdas de nailon iguales y, cerca de los cuerpos, botellas o tapas de un licor barato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Palmira, en el Valle del Cauca, junto al cuerpo de un niño, un fiscal encontró un zapato gastado, unas gafas, papeles y dinero. Un experto estudió el desgaste del zapato y llegó a una conclusión: su dueño cojeaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un zapato y unas gafas. Es poco, pero es concreto. Y encajaba con algo que, según la revista Semana, habían contado testigos en Tunja: que un hombre que cojeaba había huido de la zona donde apareció un niño asesinado. Por primera vez, el autor tenía un rasgo físico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los papeles había una nota con una dirección. Llevó a los investigadores hasta una mujer, la novia de un hombre que viajaba sin parar por el país. Ella les entregó lo que él guardaba en su casa: fotografías, recortes de prensa y una agenda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre se llamaba Luis Alfredo Garavito. Contra él había ya una orden de captura por el asesinato de un niño en Tunja, en 1996. Pero nadie sabía dónde estaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Villavicencio, 22 de abril de 1999, al caer la tarde. Un hombre se lleva a un niño de doce años, un vendedor de lotería, hacia una zona de maleza a las afueras de la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alguien que vivía en la calle oye lo que pasa. Le tira piedras al agresor y lo distrae. El niño consigue escapar. Alguien llama a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto el nombre que no sé: el de aquella persona sin hogar. No figura en las crónicas que he revisado. Fue ella, y no un informe policial, quien salvó a ese niño. Y quien, sin saberlo, puso fin a años de búsqueda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las siete de la tarde, los agentes detienen a un hombre que sale de la maleza. Dice llamarse Bonifacio Morera Lizcano. Lo acusan de intento de secuestro y agresión a un menor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante semanas, nadie sabe quién es en realidad. En julio, los peritos del Cuerpo Técnico de Investigación establecen su identidad. Es Luis Alfredo Garavito Cubillos, de cuarenta y dos años. El hombre de la agenda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los investigadores tenían ya mucho material: las cuerdas, el licor, el zapato, las gafas y la agenda. Ahora podían comparar cada pieza con el hombre detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ya lo tenían. Faltaba lo más difícil: que hablara. Y cuando habló, la cifra superó todo lo que los investigadores habían imaginado."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Una pregunta que nadie quería tener que hacerse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Durante años, en distintas regiones de Colombia, habían desaparecido niños de familias pobres: chicos que vendían en la calle o que trabajaban en el campo. Muchas de esas desapariciones apenas se investigaron. Hasta que los hallazgos de restos empezaron a multiplicarse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Luis Alfredo Garavito, al que la prensa llamó La Bestia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Garavito nació en 1957 en Génova, en el departamento del Quindío. Era el mayor de varios hermanos y, según su propio relato, sufrió malos tratos en la infancia. Dejó pronto la escuela y pasó por trabajos diversos, con problemas de alcohol y periodos de tratamiento psiquiátrico."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1992 y 1999 recorrió buena parte de Colombia. Cambiaba de apariencia y de papel: se hacía pasar por vendedor ambulante, por monje o por trabajador social. Con ofertas de dinero o de trabajo, se ganaba la confianza de niños en situación de pobreza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La mayoría de sus víctimas eran niños y adolescentes de entre seis y dieciséis años. Los llevaba a zonas rurales apartadas, donde los asesinaba. Después seguía su camino hacia otra ciudad, otro departamento. Esa movilidad constante le permitió actuar durante años sin que nadie conectara los casos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Cuándo se dieron cuenta de que era un solo hombre?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Poco a poco. La Fiscalía y los investigadores del CTI empezaron a cruzar datos de distintos departamentos: las edades de las víctimas, los lugares, la forma de actuar. Los patrones coincidían, y los indicios reunidos en varios escenarios apuntaban a un mismo perfil."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Sobre el mapa, los hallazgos dibujaban un recorrido inquietante por numerosos departamentos del país. Quien estuviera detrás no tenía un domicilio fijo ni un territorio propio. Se movía por carretera, de pueblo en pueblo, y desaparecía antes de que nadie pudiera relacionarlo con nada."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La clave llegó en abril de 1999, en Villavicencio. Un hombre intentó llevarse a un niño, pero alguien que estaba cerca intervino y el niño logró ponerse a salvo. El sospechoso fue detenido. Al principio, nadie sabía a quién tenían delante."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Lo detuvieron por un intento de secuestro, sin saber que era el hombre al que buscaba todo el país?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Los investigadores que seguían la gran serie de crímenes acabaron relacionándolo con sus pistas. Ante las pruebas, Garavito confesó. Admitió más de ciento noventa asesinatos de niños, y sus declaraciones permitieron localizar restos en distintos lugares del país."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Identificar a las víctimas fue un trabajo enorme para los forenses colombianos. Tuvieron que comparar restos hallados en lugares muy distintos con denuncias de desaparición presentadas en todo el país, a veces muchos años antes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue condenado por ciento treinta y ocho de esos crímenes. Sumadas, sus penas superaban los mil ochocientos años de prisión. Pero la ley colombiana de entonces fijaba un límite: cuarenta años efectivos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Cuarenta años, por casi ciento cuarenta asesinatos de niños?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esa desproporción indignó al país. El caso impulsó cambios legales en Colombia para endurecer las penas por crímenes contra menores y limitar los beneficios de quienes los cometen. La sociedad colombiana no quería que algo así pudiera repetirse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En los años siguientes, la posibilidad de que obtuviera rebajas de pena por colaborar con la justicia y por su comportamiento en prisión provocó un fuerte debate público. Para muchas familias, la sola idea de verlo en libertad era insoportable."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Garavito nunca salió de prisión. Murió en 2023, cumpliendo condena, a los sesenta y seis años."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué queda hoy de este caso?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Queda, sobre todo, el recuerdo de las víctimas: niños de familias humildes, muchos de los cuales pasaron años sin ser identificados. Para muchas madres y padres, aquella confesión fue la primera noticia de lo que les había ocurrido a sus hijos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y queda una lección dolorosa. Los niños más vulnerables, los que trabajan en la calle o viven en la pobreza, son también los que menos atención reciben cuando desaparecen. Ese silencio fue el mejor aliado del asesino."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, Garavito forma parte del patrón Andes. Hasta aquí el expediente de Luis Alfredo Garavito. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Palitos en una hoja de papel",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Palitos en una hoja de papel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Luis Alfredo Garavito, detenido en Villavicencio en abril de 1999 tras intentar llevarse a un niño, y buscado desde hacía meses por la muerte de decenas de menores en toda Colombia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Finales de octubre de 1999, Villavicencio. Una fiscal de Armenia, Lily Naranjo, lo interroga por tres niños asesinados en Génova, en el Quindío, su pueblo natal. El interrogatorio dura horas, hasta el amanecer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al final, Garavito confiesa. Dice ser responsable de la muerte de ciento cuarenta niños en los siete años anteriores, en más de diez departamentos de Colombia y también en Ecuador."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo que más me impresiona no es la confesión. Son sus papeles. Llevaba la cuenta. En una hoja anotaba con palitos, ciudad por ciudad, cada niño asesinado. Y guardaba los recortes de prensa sobre sus crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido el 25 de enero de 1957 en Génova. Según su propio relato, sufrió abusos en la infancia; algunos expertos han puesto en duda esa versión. Desde 1992 recorría el país sin domicilio fijo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cambiaba de nombre y de papel. Se hacía pasar por mendigo, por lisiado, por cura o por representante de una fundación. Se acercaba a niños pobres, muchos de ellos trabajadores de la calle, con golosinas, regalos o dinero."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa era su ventaja, y anoto que no la inventó él. La encontró en un país donde un niño que vende en la calle puede desaparecer sin que nadie lo busque. La movilidad hizo el resto: cada crimen quedaba en una fiscalía distinta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con sus indicaciones, los investigadores encontraron más restos. Llevaban mapas y expedientes para comparar cada caso con lo que él contaba. Los forenses tuvieron que identificar a niños desaparecidos años antes, en lugares muy alejados entre sí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1999 llegó la primera condena. Un juez de Tunja lo condenó a cincuenta y dos años y medio de prisión por el asesinato de un niño en esa ciudad y por el intento de agresión de Villavicencio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Vinieron muchas más. La Fiscalía le atribuyó ciento setenta y dos asesinatos, y fue condenado en ciento treinta y ocho casos. Sumadas, sus penas llegaban a mil ochocientos cincuenta y tres años y nueve días de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cifra que no significa nada en la práctica. La ley colombiana fijaba un máximo de cuarenta años de cárcel efectiva. Y por colaborar con la justicia, por estudiar y por su conducta en prisión podía obtener rebajas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ecuador lo reclamaba por la muerte de cuatro niños en 1998. En 1999, la Corte Suprema colombiana rechazó la extradición."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con los años, la posibilidad de que saliera antes de tiempo provocó una fuerte indignación. En 2021 se supo que había peticiones en ese sentido. Un juez la bloqueó. La Fiscalía, por su parte, abrió nuevos procesos en su contra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mientras tanto, Colombia debatía cómo castigar los crímenes contra niños. En 2021 se aprobó en Colombia la cadena perpetua para quienes los violan o los asesinan. A él no podía aplicársele: las leyes penales no son retroactivas. Y poco después la Corte Constitucional la anuló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Garavito pasó sus últimos años en la cárcel de máxima seguridad de Valledupar, conocida como La Tramacúa. Enfermo de leucemia y de cáncer en un ojo, murió el 12 de octubre de 2023 en una clínica de esa ciudad, adonde lo habían trasladado. Tenía sesenta y seis años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llevaba veinticuatro años preso. Nunca recuperó la libertad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que no se cerró. Nunca se supo la cifra exacta de víctimas. Las estimaciones van de ciento cuarenta a más de doscientas. Y a finales de 1999, según la revista Semana, las autoridades aún tenían restos de más de cien niños sin identificar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este archivo no los nombra, por respeto a sus familias. Eran niños de familias humildes: vendedores de lotería, limpiabotas, chicos que trabajaban en la calle o en el campo. Para muchas familias, aquella confesión y los hallazgos que siguieron fueron la primera noticia de sus hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El expediente deja también una lección. Los niños que menos atención recibían cuando desaparecían eran los más vulnerables. Ese silencio fue el mejor aliado de su asesino. Y la memoria de todos ellos es la razón de este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Luis Alfredo Garavito. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha dice «murió en prisión (2023)». Según la información publicada, murió en un hospital de Valledupar mientras cumplía condena; en el guion se dice «murió en 2023, cumpliendo condena» para no contradecir la ficha."
+  "nota_revision": "FUENTES en web/datos/fuentes/garavito.json. DISCREPANCIAS CON LA FICHA: 1) Ficha (st): «Murió en prisión (2023)». Murió en la clínica Nueva Santo Tomás del Caribe de Valledupar, adonde lo habían llevado desde La Tramacúa (El Tiempo, Semana, Noticias RCN, 12/10/2023). El guion lo dice así; conviene corregir la ficha a «murió bajo custodia». 2) Ficha (c): «Confesó más de 190 asesinatos». En 1999 confesó 140 (Semana, El Tiempo, CBS, La Nación); en 2003 admitió 28 más (Wikipedia); la cifra de 193 es una suma posterior (Wikipedia en inglés); la Fiscalía le atribuyó 172. El guion usa 140 (confesión de 1999), 172 (Fiscalía) y 138 (condenas). 3) Ficha: «Su caso impulsó cambios legales». No he encontrado dos fuentes que atribuyan la reforma al caso; el guion solo dice que en 2021 se aprobó la cadena perpetua para violadores y asesinos de niños (no retroactiva: Wikipedia en castellano) y que la Corte Constitucional la anuló (Semana, 31/10/2021). 4) Ficha (c): «vendedor ambulante, monje o trabajador social»: las fuentes consultadas dicen mendigo, lisiado y cura (CBS, 30/10/1999) y representante de una fundación (Semana, 28/11/1999); el guion usa estas. OTRAS DISCREPANCIAS: número de niños de Pereira (25 según CBS, 33 según Semana, hasta 36 según Wikipedia en inglés): el guion dice «decenas». Fecha de la confesión: 26-29 de octubre de 1999 (Semana, 12/12/1999; El Tiempo, 3/11/1999; Noticias RCN, 28/10) frente al 25 de noviembre (Semana, 28/11/1999 y 2021): el guion dice «finales de octubre». Duración del interrogatorio (8-9, 10 o 12 horas): el guion dice «horas, hasta el amanecer». Departamentos: 11 (El Tiempo) o 13 (Semana): «más de diez». Pena efectiva: 40 años (Wikipedia en castellano, Semana, RCN, El País de Cali) frente a «reducida a 22 años» (Wikipedia en inglés): el guion dice que la ley fijaba un máximo de 40 años y que podía obtener rebajas. Fecha del hallazgo del zapato y las gafas en Palmira: marzo de 1998 (Semana) o febrero de 1999 (Wikipedia en inglés): el guion no la da. Quien salvó al niño en Villavicencio: «indigente» (Semana), «habitante de calle» (Wikipedia en castellano), «drogadicto» (El Tiempo) o «adolescente sin hogar de 16 años» (Wikipedia en inglés): el guion dice «alguien que vivía en la calle». La orden de captura de Tunja (1996) solo la recoge CBS; el caso de Tunja lo confirman Semana y La Nación. RESPETO: no se nombra a ninguna víctima ni al niño de Villavicencio (menores, hechos de hace menos de 30 años). Se omiten los métodos."
 }

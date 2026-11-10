@@ -1,98 +1,191 @@
 {
   "id": "arropiero",
-  "titulo": "Cuarenta y ocho confesiones",
+  "version": 3,
   "pronunciacion": {
-    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Margaret Hélène Boudrie": "Márgaret Elén Budrí",
+    "Dossier 21": "Dosier veintiuno",
+    "Carles Balagué": "Cárles Balagué"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "El Puerto de Santa María, Cádiz, enero de 1971. Una mujer ha desaparecido: Antonia Rodríguez, una vecina con discapacidad intelectual, especialmente vulnerable. La última vez que la vieron iba acompañada de su pareja, un vagabundo sevillano. La policía lo localiza y lo interroga. Y él acaba admitiendo que la ha matado."
+      "n": 1,
+      "titulo": "Cuarenta y ocho nombres en un despacho",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Manuel Delgado Villegas, el Arropiero. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cuarenta y ocho nombres en un despacho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Puerto de Santa María, Cádiz, diciembre de 1970. Aparece el cadáver de un joven de veinticuatro años, Francisco Marín. Es un caso sin explicación. Un mes después, en enero de 1971, desaparece una vecina de la ciudad, Antonia Rodríguez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antonia tenía una discapacidad intelectual y era una mujer especialmente vulnerable. Dos policías de la Brigada de Investigación Criminal averiguan que mantenía una relación con un hombre de veintisiete años, sevillano, sin oficio fijo, que había vuelto a El Puerto para vivir con su padre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Manuel Delgado Villegas. Lo llaman el Arropiero, porque su padre vendía arrope, un dulce tradicional, por las calles. En enero de 1971 queda detenido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Al principio lo niega todo. Dice que estaba en otra parte, y según la prensa que contó el caso, su coartada no resiste la investigación. Lo interroga un inspector de la policía de Cádiz, Salvador Ortega. Y entonces el detenido cambia de actitud."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Admite que mató a Antonia Rodríguez. Luego admite la muerte de Francisco Marín. Y sigue. Habla de Barcelona, de Mataró, de Ibiza, de un pueblo de Madrid. Habla de Francia y de Italia. Cuando termina, ha confesado cuarenta y ocho asesinatos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El cuerpo de Antonia Rodríguez apareció en un descampado a las afueras de El Puerto. La prensa fue contando cada nueva confesión. En febrero de 1971, el diario ABC ya publicaba que el detenido se declaraba autor de otra muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí empieza el verdadero trabajo, y es ingrato. Un detenido que confiesa cuarenta y ocho muertes puede estar diciendo la verdad, exagerando o mezclando recuerdos. Cada nombre exige buscar un atestado antiguo, un certificado, un testigo. Años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante los dos años siguientes, el juez instructor y varios policías lo llevaron de viaje por España para que señalara los lugares de los crímenes. La comitiva judicial llegó a ir con él hasta Ibiza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y allí apareció el primer gran error de esta historia. En junio de 1967, en Ibiza, habían matado a una joven francesa, Margaret Hélène Boudrie. Por aquel crimen había pasado alrededor de un año en prisión un amigo suyo, un estadounidense, hasta que lo exculparon."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto esto con cuidado. Un inocente estuvo preso por un asesinato que, según la investigación posterior, había cometido otro. El autor seguía libre, moviéndose por la costa. Nadie lo relacionó con aquella muerte hasta que él mismo la contó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No fue el único. En julio de 1968, junto al río Tajuña, cerca de Chinchón, un hombre de setenta y un años, Venancio Hernández, había muerto en el agua. Se archivó como un ahogamiento accidental."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La lista que él daba empezaba en enero de 1964, en una playa del Garraf, cerca de Barcelona, con la muerte de un hombre de cuarenta y nueve años, Adolfo Folch. Siguió en Barcelona y en Mataró en 1969. Y terminaba en El Puerto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La pregunta es por qué nadie lo vio antes. Mi respuesta es la que dan las fuentes: vivía de un sitio a otro, sin domicilio fijo, siempre de paso. Y sus víctimas no tenían, a primera vista, nada en común."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De los cuarenta y ocho crímenes confesados, la policía investigó veintidós. Consiguió probar su autoría en siete. Del resto, unos no pudieron comprobarse y otros no encajaban con ningún caso conocido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la detención se publicó que tenía una anomalía cromosómica, un cromosoma Y de más, y se presentó como la clave de su violencia. Estudios posteriores han descartado esa relación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro error que apunto. Buscar en un cromosoma la explicación de todo tranquiliza a mucha gente, pero no explica nada. Lo que sí explica este caso son siete muertes probadas y un sistema que tardó años en conectarlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siete asesinatos probados, a la espera de juicio. Pero ese juicio nunca llegó. Lo que vino después es la parte de esta historia que todavía hoy cuesta creer."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Un crimen que parecía resuelto en cuestión de horas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Eso creyeron los agentes. Pero aquel hombre siguió hablando. Habló de otras muertes, en otras ciudades de España y en el sur de Francia, a lo largo de varios años. Cuando terminó, había confesado cuarenta y ocho asesinatos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Manuel Delgado Villegas, el Arropiero."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en Sevilla en 1943. Su madre murió al poco de nacer él, y creció en condiciones muy duras. Su apodo viene del oficio de su padre, que vendía arrope, un dulce tradicional, por las calles. Apenas fue a la escuela y nunca aprendió a leer ni a escribir."
-    },
-    {
-      "voz": "ximena",
-      "texto": "De joven se alistó en la Legión, de la que acabó desertando, y después empezó a vagar por España y por el sur de Francia. Vivía de trabajos ocasionales y pequeños hurtos, siempre de paso. Ese modo de vida, sin raíces, es clave para entender por qué tardó tanto en ser descubierto."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Porque nadie sigue la pista de un hombre que nunca está en el mismo sitio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Según su propio relato, sus crímenes empezaron en 1964 y se repartieron por buena parte del país, de Barcelona a Andalucía. Elegía víctimas de oportunidad: personas con las que se cruzaba, a veces conocidas, a veces desconocidas. No había un patrón claro que los investigadores de entonces pudieran detectar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Algunas de aquellas muertes se habían archivado como accidentes o como casos sin resolver. Nadie las había relacionado entre sí. Hasta que el propio autor empezó a enumerarlas en un despacho policial."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras su detención, la policía hizo algo poco habitual: lo llevó de viaje por España para que señalara los lugares de los crímenes que había confesado. Fue una larga reconstrucción, ciudad por ciudad, para separar lo cierto de lo que no podía comprobarse. Verificar cada confesión exigía buscar viejos atestados, localizar testigos y volver a lugares años después."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántos de esos cuarenta y ocho crímenes resultaron ser ciertos?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "La policía pudo verificar siete. Del resto, unos no se pudieron comprobar y en otros sus datos no encajaban con ningún caso conocido. Algunos investigadores sospechan que fueron más; otros creen que exageró. La cifra real nunca se ha sabido, y probablemente nunca se sabrá."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Aun así, esos siete crímenes verificados bastaron para que se le considerara uno de los asesinos en serie más graves de la historia de España. Pero lo más llamativo del caso no estaba en las cifras. Estaba en lo que vino después."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Porque nunca llegó a ser juzgado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nunca. Pasó años en prisión preventiva, a la espera de un juicio que no llegaba; se ha dicho que fue una de las preventivas más largas de la historia de España. Finalmente, los psiquiatras concluyeron que padecía un trastorno que le impedía comprender el alcance de sus actos, y se le declaró no imputable. No hubo juicio ni sentencia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En lugar de una condena, fue internado en centros psiquiátricos penitenciarios. Allí pasó más de veinticinco años, sin juicio. Su caso se cita a menudo en los debates sobre las personas internadas indefinidamente sin que un tribunal se haya pronunciado sobre los hechos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cómo terminó su historia?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En sus últimos años, ya enfermo, vivió en Cataluña. Murió en Badalona en 1998, sin haber sido juzgado nunca por ninguno de los crímenes que confesó."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Se ha señalado a menudo que, en la España de la dictadura, el caso tuvo mucho menos eco del que cabría esperar. Fueron documentales y libros publicados décadas después los que lo rescataron del olvido y lo convirtieron en un caso conocido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El Arropiero dejó un expediente lleno de preguntas: cuántas víctimas hubo en realidad, cuántas familias nunca supieron que su caso estaba entre aquellas confesiones, y por qué la justicia nunca llegó a pronunciarse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las siete víctimas verificadas, entre ellas Antonia Rodríguez, son lo que este archivo quiere recordar. Ellas, y todas aquellas personas cuyo final quizá nunca lleguemos a conocer."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, su caso forma parte del patrón España. Hasta aquí el expediente de Manuel Delgado Villegas, el Arropiero. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Seis años y medio sin abogado",
+      "tipo": "epilogo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Seis años y medio sin abogado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Manuel Delgado Villegas, el Arropiero, detenido en El Puerto de Santa María en 1971. Confesó cuarenta y ocho asesinatos y la policía le probó siete. Primero, quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en Sevilla el 25 de enero de 1943. Su madre murió al darle a luz. Él y su hermana se criaron con su abuela. Su padre vendía arrope por las calles, y de ese oficio le vino el apodo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1961 se alistó en la Legión, de la que desertó poco después. Desde entonces vivió de un lado a otro, sobre todo por la costa mediterránea, sin domicilio fijo y con trabajos ocasionales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Hay quien busca en esa infancia sin madre la explicación. Yo me quedo con lo que consta. Y lo que consta del proceso judicial es casi peor que lo que consta de su vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras su detención, pasó años en prisión preventiva, a la espera de juicio. Tardó seis años y medio en tener un abogado defensor. Se ha dicho que fue una de las esperas más largas de la justicia española."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso las fechas. Detenido en 1971, sin abogado hasta 1977. Por medio, la muerte de Franco y el cambio de régimen. Un preso sin juicio, sin defensa y sin sentencia, del que nadie parecía responsable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1978, la Audiencia Nacional archivó la causa. Los peritos lo consideraron enfermo mental y no imputable: es decir, que no se le podía exigir responsabilidad penal por sus actos. Se ordenó su internamiento en el psiquiátrico penitenciario de Carabanchel, en Madrid."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entonces llevaba siete años encerrado sin que nadie lo hubiera juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No hubo juicio. No hubo sentencia. Ningún tribunal llegó a pronunciarse sobre si Manuel Delgado Villegas había matado a aquellas siete personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que me deja peor sabor de boca. Sin juicio, no hay hechos probados por un tribunal. Las familias de las víctimas nunca escucharon una sentencia. Y él nunca tuvo la ocasión de defenderse ante un juez. Nadie salió ganando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más tarde, según la prensa, lo trasladaron a un psiquiátrico de Santa Coloma de Gramenet, cerca de Barcelona, para que estuviera cerca de los pocos familiares que le quedaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1993, la televisión pública lo entrevistó para el programa Dossier 21. Fue una de las pocas veces que el país escuchó su voz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1996 salió de la custodia penitenciaria y quedó al cuidado de un hospital psiquiátrico. Murió el 2 de febrero de 1998 en el hospital de Can Ruti, en Badalona, a los cincuenta y cinco años, de una enfermedad pulmonar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sigue abierta la pregunta de la cifra. Nadie sabe si fueron más de siete, ni cuántas de sus confesiones eran ciertas. No hay forma de saberlo. Lo que sí sé es que cada confesión sin comprobar es una familia que nunca supo si su caso estaba en aquella lista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Décadas después, el caso se rescató del olvido. En 2009 se estrenó el documental Arropiero, el vagabundo de la muerte, de Carles Balagué. En 2025 se publicó un libro de investigación sobre el crimen de Ibiza y el resto del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo firman Cristina Amanda Tur y Héctor Escandell, y parte de aquel crimen de 1967 y del joven estadounidense acusado por error."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me parece bien que se vuelva a mirar este expediente con calma y con documentos. Medio siglo de leyenda ha convertido al Arropiero en un personaje. Las víctimas, en cambio, se habían quedado casi sin nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el apodo de quien lo causó, pero no le pertenece. Pertenece a las siete víctimas cuya muerte se le probó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Adolfo Folch, en el Garraf. Margaret Hélène Boudrie, en Ibiza. Venancio Hernández, junto al Tajuña. Ramón Estrada, en Barcelona. Anastasia Borrella, en Mataró. Francisco Marín y Antonia Rodríguez, en El Puerto de Santa María."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y también al joven estadounidense que pasó alrededor de un año preso en Ibiza por un crimen que no había cometido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Manuel Delgado Villegas, el Arropiero. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "FUENTES en web/datos/fuentes/arropiero.json. DISCREPANCIAS: 1) La ficha y la v2 decían que «admitió haberla matado» al ser interrogado; según Wikipedia en inglés, al principio lo negó y confesó tras aparecer el cuerpo (21/2/1971); según Infobae, su coartada (el cine) no resistió la investigación. El guion dice que primero lo negó. 2) Fecha de la detención: 18/1/1971 (las dos Wikipedias) o «a fines de enero de 1971» (Infobae): el guion dice «en enero de 1971». 3) Las siete víctimas probadas: Wikipedia en castellano solo enumera seis (no incluye a Francisco Marín); Wikipedia en inglés incluye a Marín (muerto el 3/12/1970, hallado en el Guadalete) y Noudiari sitúa su muerte en el origen de la investigación. El guion nombra a las siete de la lista inglesa: conviene confirmarlo con Catalán-Deus (2011) o con el libro de Tur y Escandell (2025). Marín era delineante según Noudiari y electricista según Wikipedia en inglés: el guion dice solo «un joven de veinticuatro años». 4) Noudiari dice que solo se investigaron a fondo 7 de los 48; las Wikipedias e Infobae dicen 22 investigados y 7 probados: el guion sigue a estos. 5) Causa de la muerte: enfermedad pulmonar (Wikipedias, EPOC según la inglesa) o neumonía (Infobae): el guion dice «enfermedad pulmonar». 6) Noudiari fecha el viaje de la comitiva judicial a Ibiza en 1969, lo que es imposible (fue tras la detención de 1971): el guion no da año. 7) El estadounidense preso por el crimen de Ibiza: «más de un año» (Wikipedia en inglés) o «un año» (Noudiari): el guion dice «alrededor de un año»; no se le nombra. 8) Fontcalent no aparece en ninguna fuente para este caso; el traslado a Santa Coloma de Gramenet solo lo recoge Infobae (atribuido: «según la prensa»). La ficha dice «25 años internado sin juicio»: de 1971 a 1996-1998 son unos 25-27 años de privación de libertad, pero solo desde 1978 en psiquiátricos; el guion no da esa cifra. Se dejan fuera por tener una sola fuente o ser poco seguros: que no sabía leer ni escribir, el nombre del juez instructor (Conrado Gallardo Ros), las detenciones por la ley de vagos, la frase sobre el asesino mexicano y los crímenes de Francia e Italia más allá de la mención de que los confesó. No se describe el método («golpe del legionario»). Todas las víctimas nombradas eran adultas y sus nombres son públicos desde hace más de cincuenta años."
 }

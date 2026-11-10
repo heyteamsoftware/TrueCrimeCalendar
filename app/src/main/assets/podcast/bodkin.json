@@ -1,109 +1,215 @@
 {
   "id": "bodkin",
-  "titulo": "Los testamentos de Eastbourne",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "John Bodkin Adams": "Yon Bódkin Ádams",
     "Adams": "Ádams",
     "Eastbourne": "Ístborn",
-    "Old Bailey": "Old Béili",
-    "Belfast": "Bélfast",
     "Gertrude Hullett": "Guértrud Jálet",
+    "Hullett": "Jálet",
+    "Randalstown": "Rándalstaun",
+    "Belfast": "Bélfast",
     "Scotland Yard": "Escótland Iard",
     "Herbert Hannam": "Jérbert Jánam",
+    "Hannam": "Jánam",
+    "Richard Walker": "Ríchard Uóker",
     "Edith Morrell": "Ídiz Mórel",
+    "Morrell": "Mórel",
+    "Rolls-Royce": "Rols Róis",
+    "Old Bailey": "Old Béili",
     "Patrick Devlin": "Pátrik Dévlin",
-    "Devlin": "Dévlin"
+    "Devlin": "Dévlin",
+    "Reginald Manningham-Buller": "Réyinald Mániñam Búler",
+    "Geoffrey Lawrence": "Yéfri Lórens",
+    "Lawrence": "Lórens",
+    "Arthur Douthwaite": "Árzur Dázueit",
+    "Lewes": "Lúis",
+    "Easing the Passing": "Ísin de Pásin"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Londres, abril de 1957. Tribunal del Old Bailey. Tras diecisiete días de juicio, el más largo por asesinato celebrado hasta entonces en Gran Bretaña, el jurado se retira a deliberar. Vuelve en solo cuarenta y cuatro minutos."
+      "n": 1,
+      "titulo": "Un cheque de mil libras",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: John Bodkin Adams, el médico de Eastbourne. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cheque de mil libras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eastbourne, costa sur de Inglaterra, 17 de julio de 1956. Una viuda acomodada, Gertrude Hullett, firma un cheque de mil libras a nombre de su médico. Es un regalo. Además, le deja en herencia su Rolls-Royce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, la señora Hullett cae en un coma del que ya no despierta. Muere la mañana del 23 de julio. El médico que la atendía firma el certificado: hemorragia cerebral."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. El patólogo del Ministerio del Interior no opina lo mismo. Según su análisis, en el cuerpo hay barbitúricos, los somníferos que el propio médico le recetaba. La investigación judicial de la muerte concluye que fue un suicidio. Pero la pregunta ya está en el aire: ¿por qué ese certificado?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "El médico se llama John Bodkin Adams. Tiene cincuenta y siete años y es, probablemente, el doctor más conocido de la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en 1899 en Randalstown, en el norte de Irlanda, en una familia protestante muy religiosa. Estudió Medicina en Belfast y en 1922 abrió consulta en Eastbourne, una ciudad de veraneo y de jubilados acomodados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con los años se convirtió en uno de los médicos más solicitados de la ciudad. Muchos de sus pacientes eran viudas y viudos ricos. Y muchos lo mencionaban en sus testamentos: dinero, joyas, plata, muebles e incluso automóviles."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un médico que hereda de sus pacientes no comete ningún delito. Lo que llama la atención es la frecuencia. En una ciudad pequeña, eso se comenta. Y en Eastbourne se comentaba desde hacía años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jefe de la policía local, Richard Walker, conocía en persona al médico y a la familia Hullett. Aun así, tras aquella muerte pidió ayuda a Scotland Yard. En agosto de 1956, la brigada de homicidios de Londres se hizo cargo del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al frente iba un detective veterano, el superintendente Herbert Hannam. Su equipo empezó a revisar certificados de defunción firmados por Adams en los diez años anteriores, uno por uno."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso sus cifras. Encontraron al menos ciento treinta y dos testamentos con legados para el doctor. Según los recuentos que se citan, más de ciento sesenta muertes parecían merecer una investigación. Hannam llegó a creer, según varias fuentes, que había matado hasta a veinticinco pacientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa se enteró enseguida. Los periódicos hablaban de cientos de testamentos y de decenas de muertes antes de que hubiera una sola acusación. Más tarde se supo que la propia policía había filtrado información a algunos periodistas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí apunto el primer error de este expediente. Una investigación que se cuenta en los periódicos antes de llegar al juez contamina a los testigos, a los jurados y a la opinión pública. Y a la larga perjudica a la propia acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De entre todos los casos, la fiscalía eligió uno antiguo: el de Edith Morrell. Era una viuda anciana y rica, que había muerto en noviembre de 1950. Adams la había tratado durante años con morfina y heroína."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En uno de sus testamentos, la señora Morrell le dejaba un cofre de cubiertos de plata. Pocos meses antes de morir, añadió una cláusula que lo excluía del todo. Aun así, su hijo le entregó después la plata y el Rolls-Royce de su madre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según el relato del policía, durante la investigación Adams le dijo una frase sobre la señora Morrell: que aliviar el tránsito de un moribundo no era algo tan malo. Para la acusación, aquello sonaba a confesión. Para la defensa, era la descripción de lo que hace cualquier médico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de diciembre de 1956, Herbert Hannam detuvo a John Bodkin Adams por el asesinato de Edith Morrell. Más adelante se añadió una segunda acusación: la de Gertrude Hullett."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi duda es la de los fiscales de entonces. El cuerpo de la señora Morrell había sido incinerado. No había análisis posibles. Todo dependería de las recetas y de lo que recordaran las cuatro enfermeras que la cuidaron, seis años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que nadie sabía es que, en un armario de la consulta del doctor, seguían guardados unos cuadernos escritos por aquellas mismas enfermeras. Y que la policía no los había visto."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Cuarenta y cuatro minutos. ¿Para condenar o para absolver?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para absolver. El acusado, un médico de cincuenta y ocho años, quedaba libre del cargo de asesinato. Pero la pregunta que lo había llevado al banquillo nunca se ha cerrado del todo: ¿cuántos de sus pacientes murieron antes de tiempo?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de John Bodkin Adams, conocido como el médico envenenador. Un expediente distinto a casi todos, porque Adams nunca fue condenado por asesinato."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en 1899 en Irlanda del Norte, en una familia protestante muy religiosa. Estudió Medicina en Belfast y en 1922 se instaló en Eastbourne, una ciudad costera del sur de Inglaterra muy popular entre jubilados acomodados. Allí se convirtió en uno de los médicos más solicitados de la ciudad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muchos de sus pacientes eran personas mayores y adineradas. Y muchos lo incluyeron en sus testamentos. A lo largo de los años recibió dinero, joyas, coches y otros bienes. Según la investigación policial, su nombre aparecía en más de cien testamentos. En la ciudad empezaron a circular rumores."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué hizo saltar todo por los aires?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "La muerte de una paciente, Gertrude Hullett, en 1956. Su caso atrajo la atención de la policía, y Scotland Yard envió a un detective veterano, Herbert Hannam. Su equipo revisó cientos de certificados de defunción y concluyó que más de ciento sesenta muertes resultaban sospechosas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Al final, la fiscalía decidió acusarle por la muerte de Edith Morrell, una viuda rica fallecida en 1950. Era un caso difícil: su cuerpo había sido incinerado, así que no se podían hacer análisis. Todo dependería de las recetas, de los historiales y del testimonio de las enfermeras que la cuidaron."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso se convirtió en un acontecimiento mediático. La prensa británica, y también la extranjera, siguió cada paso de la investigación y del juicio. Los periódicos hablaban de decenas de muertes sospechosas antes incluso de que empezara el proceso."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y en el juicio, la defensa tenía guardada una sorpresa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los cuadernos originales de aquellas enfermeras, en los que anotaban cada día los cuidados y la medicación de Edith Morrell. Lo escrito entonces no coincidía con lo que esas mismas enfermeras recordaban años después, ya ante el tribunal. La credibilidad de los principales testigos de la acusación se vino abajo. Y hubo otro detalle llamativo: el propio Adams nunca subió al estrado para declarar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El juez, Patrick Devlin, dio además al jurado una instrucción que haría historia. Vino a decir que un médico puede aliviar el dolor de un enfermo terminal aunque esa medicación, como efecto secundario, acorte su vida. Lo que no puede hacer es buscar deliberadamente su muerte."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un principio que todavía hoy aparece en los debates sobre el final de la vida."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Se conoce como la doctrina del doble efecto, y el caso Adams es una de sus referencias en el derecho británico. Tras la absolución, la fiscalía renunció a seguir adelante con una segunda acusación de asesinato, la de Gertrude Hullett. Años más tarde, el propio Devlin escribió un libro sobre aquel juicio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ese mismo año, Adams fue condenado en otro tribunal por delitos menores: falsificar recetas y otras infracciones relacionadas con los medicamentos y los certificados. Le retiraron temporalmente la licencia de médico. En 1961 volvió a ejercer en Eastbourne, donde murió en 1983."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Entonces, ¿era culpable o no?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Legalmente, es inocente: fue absuelto, y ninguna de las demás muertes llegó a probarse. Algunos autores que han estudiado los archivos policiales creen que mató a muchos pacientes. Otros piensan que era un médico codicioso y poco escrupuloso, pero no un asesino."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La verdad completa probablemente nunca se conocerá. Algunas de aquellas personas fueron incineradas, los testigos han muerto y las pruebas que quedan son papeles, sospechas y recuerdos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por eso este expediente es especial. Nos recuerda que la sospecha, por fuerte que sea, no es una prueba. Y también que la confianza depositada en un médico necesita controles que, en la Inglaterra de los años cincuenta, apenas existían."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, Adams figura dentro del patrón de los ángeles de la muerte, aunque con una diferencia fundamental: la justicia nunca llegó a probar que matara a nadie."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de John Bodkin Adams. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Ocho cuadernos de enfermera",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Ocho cuadernos de enfermera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de John Bodkin Adams, el médico de Eastbourne acusado de matar a una paciente anciana, Edith Morrell, para quedarse con parte de su herencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 18 de marzo de 1957. Tribunal del Old Bailey. Preside el juez Patrick Devlin. La acusación la dirige en persona el fiscal general del Estado, Reginald Manningham-Buller. Defiende a Adams el abogado Geoffrey Lawrence."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. La tesis de la fiscalía era sencilla. Las dosis de morfina y heroína eran innecesarias para una mujer en ese estado. Y el motivo era el dinero: el temor a que la paciente cambiara el testamento en su contra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las enfermeras que cuidaron a la señora Morrell declararon como testigos de cargo. Recordaban inyecciones grandes en sus últimos días, dosis que ellas mismas no conocían. Eran testimonios graves."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al segundo día del juicio, Lawrence sacó ocho cuadernos. Eran los registros que las enfermeras llevaban cada día, escritos de su puño y letra mientras la cuidaban. La policía los había pasado por alto al registrar la consulta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo anotado entonces no coincidía con lo que recordaban seis años después. Las cantidades eran menores de lo que suponía la acusación. Y aquellas inyecciones de las últimas noches figuraban como paraldehído, un sedante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que me enseña este expediente. La memoria de un testigo honrado cambia con los años, y más si ha leído los periódicos. Un papel escrito el mismo día no cambia. La acusación lo descubrió en mitad del juicio, delante del jurado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El principal perito de la acusación, el doctor Arthur Douthwaite, sostuvo que había habido asesinato, pero modificó su teoría durante el juicio. El otro experto de la fiscalía fue mucho más prudente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y hubo un silencio llamativo: Adams no declaró. Su defensa no lo llamó al estrado. Tenía derecho a callar. El propio juez escribiría años después que aquella decisión era un riesgo para él ante el jurado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la instrucción del juez Devlin, porque sobrevivió al caso. Un médico puede hacer todo lo necesario para aliviar el dolor de un enfermo, aunque eso acorte su vida de forma secundaria. Lo que no puede es buscar su muerte. Es la doctrina del doble efecto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue el juicio por asesinato más largo celebrado hasta entonces en Gran Bretaña: diecisiete días. En abril de 1957, el jurado se retiró a deliberar. Volvió a los cuarenta y cuatro minutos. Veredicto: no culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaba la segunda acusación, la de Gertrude Hullett. El fiscal general decidió no seguir adelante. Nunca se celebró ese juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pocos meses después, en julio de 1957, Adams fue juzgado en Lewes por delitos menores. Fue condenado por falsificar recetas, por mentir en formularios de incineración y por no llevar el registro obligatorio de drogas peligrosas. Recibió una multa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 1957, el colegio de médicos británico lo expulsó del registro profesional. En 1961 lo readmitieron y volvió a su consulta de Eastbourne. Tras el juicio, ganó varias demandas contra periódicos que habían publicado sobre él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "John Bodkin Adams murió el 4 de julio de 1983, a los ochenta y cuatro años, en Eastbourne. Dejó una herencia de unas cuatrocientas mil libras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos años después, el juez Devlin publicó su libro sobre el juicio, Easing the Passing, aliviar el tránsito. Fue el primer libro de un juez británico sobre un proceso que él mismo presidió. Y sigue siendo una de las fuentes principales de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2003 se abrieron los archivos policiales del caso. Desde entonces, los autores que los han estudiado no se ponen de acuerdo. Para unos, Adams mató a muchos pacientes. Para otros, era un médico codicioso y descuidado, pero no un asesino."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi conclusión es la del tribunal, porque es la única que vale. Adams fue absuelto. Ninguna otra muerte llegó a juzgarse. Las sospechas pueden ser muchas, pero una sospecha no es una prueba. Y en el caso juzgado, el cuerpo ya no existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó huella en la ley británica. El principio del doble efecto se sigue citando hoy en los debates sobre los cuidados al final de la vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y deja también unos nombres. Edith Morrell, que murió en 1950. Gertrude Hullett, que murió en 1956. Y tantos pacientes de Eastbourne cuyas familias se quedaron con una pregunta que ningún tribunal llegó a responder."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de John Bodkin Adams. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha dice «condenado solo por falsificar recetas». En 1957, en Lewes, fue condenado por varios delitos menores: falsificar recetas, falsedades en formularios de cremación y no llevar el registro de drogas peligrosas. En el guion se habla de «falsificar recetas y otras infracciones relacionadas con los medicamentos y los certificados». Si se prefiere ajustarlo literalmente a la ficha, basta con dejar «falsificar recetas»."
+  "nota_revision": "FUENTES en web/datos/fuentes/bodkin.json. DISCREPANCIAS: 1) Ficha (st): «Condenado solo por falsificar recetas». En Lewes (julio de 1957) fue condenado por falsificar recetas, falsedades en formularios de incineración, no llevar el registro de drogas peligrosas y (según Wikipedia) obstruir el registro policial; el número de cargos varía (13, 14 o 15 según la fuente) y la multa también (2.400 libras según Wikipedia y la prensa de 1957; 2.200 según Crime+Investigation), por eso el guion no da cifras. 2) Fecha del veredicto: 9 de abril de 1957 (Wikipedia), 10 de abril (Solicitors Journal), 8 de abril (artículo de Wikipedia sobre R v Adams); el guion dice «en abril de 1957». Duración de la deliberación: 44 minutos (Wikipedia, Irish Times) frente a 46 (R v Adams) o 45 (Crime+Investigation); se mantiene 44. 3) «Más de ciento sesenta muertes»: la cifra (163 de 310 certificados) solo está en Wikipedia (Cullen); el guion la atribuye a «los recuentos que se citan». 132 testamentos: Wikipedia, Solicitors Journal e Irish Times («más de 130»). 4) La religión familiar: Wikipedia dice Plymouth Brethren, el Irish Times dice presbiteriana y el Solicitors Journal metodista; el guion dice «familia protestante muy religiosa». 5) Crime+Investigation fecha la muerte de Morrell en 1949 y el veredicto el 15 de abril: son errores; se sigue a Wikipedia (13/11/1950). Se dejan fuera por tener una sola fuente: la llamada anónima de Leslie Henson, el episodio de los frascos de morfina escondidos durante el registro, la frase «¿Puede probar que fue un asesinato?», la crítica de Devlin al nolle prosequi como «abuso de proceso», su juicio de Adams como «mercenary mercy killer» y la reforma de la Criminal Justice Act 1967. La frase «aliviar el tránsito de un moribundo no era tan malo» se atribuye al relato del policía (Wikipedia; History Ireland/Devlin); es paráfrasis, no cita."
 }

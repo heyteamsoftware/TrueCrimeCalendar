@@ -1,106 +1,184 @@
 {
   "id": "camargo",
-  "titulo": "La fuga de Gorgona",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Isla Gorgona, en el Pacífico colombiano, noviembre de 1984. Un penal rodeado de selva y de un mar peligroso, del que casi nadie lograba escapar. Pero un preso de cincuenta y cuatro años lo consigue a bordo de una embarcación precaria. Durante un tiempo, muchos lo dan por muerto."
+      "n": 1,
+      "titulo": "Un maletín en Los Granados",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Daniel Camargo Barbosa, el sádico del Charquito. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un maletín en Los Granados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quito, Ecuador, 26 de febrero de 1986. Dos policías hacen su ronda por la avenida de Los Granados. Se fijan en un hombre mayor, mal vestido, que carga con un maletín. Le dan el alto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro del maletín hay ropa manchada de sangre. Es la ropa de una niña. Poco antes, según las crónicas, el hombre la había asesinado en una zona boscosa cercana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo que me interesa de esta detención es que nadie lo buscaba a él. No había orden contra ese hombre. Fue una patrulla corriente y un maletín sospechoso. Y el detenido, para empezar, da a los agentes un nombre falso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando por fin se establece su identidad, la sorpresa es doble. Se llama Daniel Camargo Barbosa, es colombiano y tiene cincuenta y seis años. Y en su país lo daban por muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Año y medio antes, en noviembre de 1984, Camargo se había fugado de la isla prisión de Gorgona, en el Pacífico colombiano. Cumplía allí una larga condena por el asesinato de una niña en Barranquilla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gorgona era un penal del que casi nadie escapaba. La isla estaba rodeada de un mar bravo, y se decía que de tiburones. Camargo huyó en una embarcación precaria. Las autoridades dieron por hecho que se había ahogado. Algunos periódicos llegaron a escribir que se lo habían comido los tiburones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cómo escapó exactamente no está claro. Según una versión, publicada en Colombia, construyó una canoa con madera de la isla y pasó tres días a la deriva, sin agua ni comida. Según otra, recogida por la prensa ecuatoriana, se puso un traje de buceo y nadó hasta la lancha que llevaba víveres y correo a la isla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos versiones de la misma fuga. Las anoto las dos y no elijo ninguna, porque ninguna está probada. Lo único seguro es que salió de Gorgona y que en Colombia lo dieron por muerto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el primer error de este expediente. A un fugado se le da por muerto sin cuerpo. Y si está muerto, nadie lo busca. Nadie avisa a los países vecinos. Su ficha se queda en un cajón de Colombia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1984, Camargo entró en Ecuador. Pasó por Quito y se instaló en Guayaquil, la gran ciudad de la costa. Vivía en la calle, sin domicilio fijo, y se ganaba la vida vendiendo bolígrafos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde entonces empezaron a desaparecer niñas y muchachas en Guayaquil y en otras ciudades del país, como Quevedo y Machala. Él se les acercaba con engaños y las llevaba a parajes apartados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con los meses aparecieron restos en descampados y matorrales. Según la agencia France Presse, unos veinte cuerpos se hallaron a lo largo de la carretera que une Guayaquil con Daule."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los investigadores ecuatorianos tenían un precedente reciente. En 1980 habían detenido en el país a otro colombiano, Pedro Alonso López, por los asesinatos de muchas niñas. Me pregunto si, con aquel caso aún fresco, alguien pensó que la historia podía repetirse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía de Guayaquil montó grandes operativos. Las familias denunciaban, buscaban y pegaban fotografías. Ante la presión, Camargo se marchó de la ciudad. Siguió matando en otros lugares, hasta que llegó a Quito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y ahora estaba detenido, con el maletín sobre la mesa. Una vez identificado, empezó a hablar. Confesó haber matado a más de setenta niñas y jóvenes en Ecuador en poco más de un año."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una confesión así hay que comprobarla, porque un detenido puede exagerar o equivocarse. Camargo condujo a los investigadores a varios de los lugares donde había dejado a sus víctimas. Allí se encontraron restos. Eso sí era una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para muchas familias de Guayaquil, aquella confesión fue la primera respuesta en meses. La peor posible. Pero era una respuesta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me queda una pregunta antes de cerrar esta cinta. ¿Cómo había llegado ese hombre a Gorgona? ¿Y por qué, con su historial, nadie lo esperaba al otro lado de la frontera? La respuesta está en Colombia, treinta años atrás."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Pero no había muerto. Y lo que hizo después es la parte más terrible de esta historia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Daniel Camargo Barbosa, conocido como el sádico del Chinchiná."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Camargo nació en 1930 en Colombia, en el departamento de Cundinamarca. Según los relatos sobre su vida, tuvo una infancia marcada por la dureza familiar. De adulto acumuló detenciones, y ya en los años sesenta pasó por prisión por agresiones sexuales."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1974, en Barranquilla, cometió el crimen que lo llevaría a Gorgona: el asesinato de una niña. Fue detenido, juzgado y condenado a una larga pena de prisión. El Estado colombiano lo envió a la isla, uno de los penales más aislados del país."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Gorgona funcionó durante décadas como prisión de máxima seguridad. Hoy es un parque nacional, conocido por su biodiversidad y por las ballenas que llegan cada año a sus aguas. Pero en los años ochenta era, para los presos, sinónimo de aislamiento casi total."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras su fuga, Camargo cruzó la frontera y se instaló en Ecuador, en la zona de Guayaquil. Vivía de forma humilde, moviéndose por la ciudad sin llamar la atención. Nadie allí sabía quién era ni de dónde venía."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y entonces empezaron las desapariciones."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1984 y 1986 desaparecieron en la zona de Guayaquil numerosas niñas y jóvenes. Camargo se acercaba a ellas con pretextos, pidiéndoles ayuda para encontrar una dirección o para llevar algo. Las conducía a zonas boscosas de las afueras. Allí las asesinaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las familias denunciaban, la policía buscaba, pero nadie imaginaba que detrás de tantas desapariciones hubiera un solo hombre. Y mucho menos un fugitivo colombiano al que en su propio país casi habían olvidado."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Cómo lo atraparon, entonces?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Casi por casualidad. En febrero de 1986, en Quito, una patrulla se fijó en un hombre de comportamiento sospechoso que cargaba con una bolsa. Lo detuvieron. Según las crónicas de la época, en esa bolsa llevaba objetos que lo relacionaban con uno de los crímenes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Al principio ocultó su identidad. Pero, una vez identificado, Camargo confesó. Y confesó mucho: setenta y dos asesinatos en Ecuador. Condujo a los investigadores a varios lugares donde se hallaron restos que confirmaban parte de su relato."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los investigadores ecuatorianos fueron contrastando su relato con las denuncias de desaparición acumuladas en Guayaquil. Para muchas familias, aquella confesión fue la primera respuesta, terrible pero cierta, después de meses de búsqueda."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Setenta y dos confesiones… ¿y cuál fue la condena?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dieciséis años de prisión. Era la pena máxima que permitía entonces la ley ecuatoriana. La cifra causó una enorme indignación: un hombre que había confesado decenas de asesinatos podría, en teoría, volver a salir algún día en libertad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nunca ocurrió. Camargo cumplía condena en la penitenciaría García Moreno de Quito cuando, en 1994, fue asesinado por otro recluso. Según diversas fuentes, el agresor era familiar de una de sus víctimas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En ese mismo penal habría coincidido con otro preso cuyo expediente también está en este archivo: Pedro Alonso López. Diversas fuentes sitúan a ambos en García Moreno durante aquellos años, aunque los detalles de esa coincidencia no están bien documentados."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Dos de los criminales más temidos de Sudamérica, bajo el mismo techo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. El caso Camargo dejó varias lecciones amargas. Una fuga de la que nadie hizo un seguimiento eficaz. Un condenado que cruzó una frontera sin que la información viajara con él. Y una ley que no estaba preparada para crímenes de esta magnitud."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La cooperación entre Colombia y Ecuador era entonces limitada, y las bases de datos compartidas, prácticamente inexistentes. Hoy, casos como este se citan a menudo para explicar por qué la colaboración policial entre países es imprescindible."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y se sabe cuántas víctimas hubo en total?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No con certeza. Las cifras se mueven entre setenta y dos y más de ciento cincuenta, según las estimaciones, sumando sus crímenes en Colombia y en Ecuador. Pero detrás de cada número hay niñas y jóvenes con nombre, y familias que siguen recordándolas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, Camargo forma parte del patrón Andes. Hasta aquí el expediente de Daniel Camargo Barbosa. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una fosa en El Batán",
+      "tipo": "epilogo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una fosa en El Batán."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Daniel Camargo Barbosa, el colombiano que escapó de la isla prisión de Gorgona y asesinó a decenas de niñas y jóvenes en Ecuador entre 1984 y 1986."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació el 22 de enero de 1930 en el departamento de Cundinamarca, en Colombia. Su madre murió antes de que él cumpliera un año, y su infancia, según los relatos sobre su vida, fue muy dura. Fue a la escuela en Bogotá, pero la dejó pronto para ayudar a su familia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto esa infancia porque consta en las fuentes, no porque lo explique todo. Muchos niños crecen así y no hacen daño a nadie. Lo que sí explica este expediente es lo que vino después: un hombre que pasó por la cárcel varias veces sin que nadie midiera el riesgo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los años sesenta fue condenado en Colombia por agresiones sexuales contra niñas. Cumplió su pena y salió. En la prensa colombiana se le conocería después como el sádico del Charquito, por una vereda de Soacha, cerca de Bogotá."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A principios de los setenta se instaló en Barranquilla, en la costa caribe. Allí asesinó a una niña. En mayo de 1974 fue detenido, condenado a unos veinticinco años de prisión y, en 1977, enviado a Gorgona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso las fechas. Llevaba unos siete años en la isla cuando se fugó. Y en poco más de un año en libertad, en otro país, dejó un rastro de decenas de víctimas. Con la información compartida entre policías, quizá alguien lo hubiera reconocido antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Volvamos a Ecuador. Tras su confesión, Camargo fue juzgado y condenado a dieciséis años de prisión. Era la pena máxima que permitía entonces la ley ecuatoriana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La cifra causó indignación. Muchos ecuatorianos la consideraron injusta y temían que, si algún día salía en libertad, volviera a matar. Ya en 1994, la prensa hablaba de su posible salida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No es un fallo de los jueces, que aplicaron la ley que había. Es un fallo de una ley pensada para un asesinato, no para setenta. El caso de Pedro Alonso López, unos años antes, ya había puesto el mismo problema sobre la mesa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Camargo cumplía condena en una cárcel de Quito. Según algunas fuentes, coincidió allí con Pedro Alonso López, aunque esa coincidencia no está bien documentada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 1994, Daniel Camargo Barbosa murió apuñalado en la cárcel. Lo mató otro recluso, Geovanny Noguera, que acababa de ser trasladado desde Guayaquil. Según la prensa, era familiar de una de sus víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Habrá quien diga que fue justicia. Yo lo apunto como lo que fue: otro homicidio, esta vez dentro de una prisión del Estado. Y con él se cerró cualquier posibilidad de que Camargo aclarara los casos que quedaban sin resolver."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue enterrado en una fosa común del cementerio de El Batán, en Quito. Tenía sesenta y cuatro años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nunca se supo con certeza cuántas víctimas hubo. Él confesó más de setenta en Ecuador. Las estimaciones que suman sus crímenes en Colombia y en Ecuador superan las ciento cincuenta. Ninguna de esas cifras está comprobada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la crónica de la agencia France Presse tras su muerte, unas treinta víctimas habían podido identificarse. De otras, unas veinte, no fue posible: el tiempo había borrado lo que quedaba de ellas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la cifra que más me pesa. No los setenta, ni los ciento cincuenta. Las veinte sin nombre. Detrás de cada una hay una familia en Guayaquil, en Quevedo o en Machala que quizá sigue esperando saber si su hija estaba entre ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso Camargo se cita todavía para explicar lo que pasa cuando un condenado cruza una frontera y su historial no viaja con él. Una fuga mal resuelta, un fugado dado por muerto y una frontera sin intercambio de datos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero este expediente no es de él. Es de las niñas y las jóvenes de Ecuador y de Colombia que nunca volvieron a casa, y de las familias que las buscaron por carreteras y descampados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Daniel Camargo Barbosa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "FUENTES en web/datos/fuentes/camargo.json. DISCREPANCIAS CON LA FICHA: 1) Alias: la ficha dice «El sádico del Chinchiná»; las fuentes (El Tiempo, 15/11/1994 y 2018/2021) dicen «el sádico del Charquito», por la vereda El Charquito de Soacha. El guion usa «Charquito»: conviene corregir la ficha (campo a). 2) Ficha (st): «asesinado en la penitenciaría García Moreno». Wikipedia en castellano dice «Centro de Rehabilitación de Varones n.º 2 de Quito»; El Tiempo/AFP y Vistazo no nombran la cárcel. El guion dice «una cárcel de Quito». 3) Ficha (per) 1974–1986 y v2 «setenta y dos asesinatos»: Vistazo y Wikipedia en castellano dan 71 confesados; Wikipedia en inglés, 72; El Tiempo/AFP, «más de cincuenta». El guion dice «más de setenta». OTRAS DISCREPANCIAS: lugar de nacimiento (Anolaima según Wikipedia en inglés y Vistazo; La Mesa según El Tiempo 2021): el guion dice «Cundinamarca». Condenas en Colombia en los años sesenta (1964, de 3 a 8 años, según Wikipedia en inglés; 1967-1968 y 5 años según El Tiempo y Wikipedia en castellano): el guion dice «en los años sesenta». Condena de Barranquilla: 30 rebajada a 25 (Wikipedia en inglés), 25 (Vistazo, Wikipedia en castellano), 30 (El Tiempo 2021), 24 (El Tiempo/AFP 1994, que además habla de «unas veinte mujeres»); el guion dice «unos veinticinco años» por el asesinato de una niña. Fuga: 23/11/1984 según Vistazo; método discutido (canoa y tres días a la deriva, según El Tiempo y Wikipedia en castellano; traje de buceo y lancha de suministros, según Vistazo); el guion da las dos versiones. Año de la condena de 16 años: 1986 (Vistazo) o 1989 (Wikipedia en inglés): el guion no da año. Edad de la última víctima: 9 años (Wikipedia en inglés) o 12 (El Tiempo/AFP): el guion dice «una niña». Muerte: 13/11/1994 (las dos Wikipedias); El Tiempo/AFP, fechado el 15, dice «la víspera»; el guion dice «noviembre de 1994». Parentesco del agresor: «sobrino» (Wikipedias), «pariente» (Vistazo), «familiar» (El Tiempo 2021); El Tiempo/AFP no lo menciona; el guion dice «según la prensa, familiar de una de sus víctimas». Coincidencia con Pedro Alonso López: solo la recoge Wikipedia en castellano; se mantiene con prudencia («según algunas fuentes… no está bien documentada»). Se dejan fuera por tener una sola fuente: el nombre falso (Manuel Bulgarín Solís), el ejemplar de «Crimen y castigo» del maletín, la superviviente que lo identificó, la entrevista de Francisco Febres Cordero (diario Hoy), la madrastra y la conversión religiosa en prisión. No se nombra a ninguna víctima (menores)."
 }
