@@ -28,22 +28,70 @@
       "titulo": "Un bar junto a los juzgados",
       "tipo": "hallazgo",
       "bloques": [
-        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Edmund Kemper, el co-ed killer. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
-        {"voz": "ximena", "texto": "Cinta uno. Un bar junto a los juzgados."},
-        {"voz": "ximena", "texto": "Pueblo, Colorado, 23 de abril de 1973. Un hombre enorme marca desde un teléfono público el número de la policía de Santa Cruz, en California, a más de mil kilómetros. Dice que ha matado a su madre. Y a muchas personas más."},
-        {"voz": "ximena", "texto": "Al otro lado de la línea, al principio, no le creen. Tiene que llamar varias veces hasta que alguien lo toma en serio. El hombre que espera en el teléfono es para ellos Big Ed. Solía tomar algo con los policías en un bar cercano a los juzgados."},
-        {"voz": "alvaro", "texto": "Nota del inspector. Quédate con este detalle: lo conocían y les caía bien. Es una advertencia que sirve para muchos casos. La confianza que despierta un hombre amable no es una prueba. A veces es una coartada."},
-        {"voz": "ximena", "texto": "Edmund Kemper había nacido en California en 1948. Su infancia estuvo marcada por el divorcio de sus padres y una relación muy conflictiva con su madre. De adulto superaría los dos metros de estatura, una estatura que lo hacía inconfundible."},
-        {"voz": "ximena", "texto": "En agosto de 1964, con quince años, mató a sus abuelos paternos en el rancho familiar de North Fork, California. Fue internado en el hospital psiquiátrico estatal de Atascadero, donde le diagnosticaron esquizofrenia paranoide."},
-        {"voz": "alvaro", "texto": "Un chico de quince años, un doble homicidio, un diagnóstico. Y cinco años después, la calle. Lo anoto sin adjetivos. Los médicos del hospital, según varias crónicas, aconsejaron que no volviera a vivir con su madre. Volvió."},
-        {"voz": "ximena", "texto": "El 18 de diciembre de 1969, el día que cumplía veintiún años, salió del hospital y se instaló con su madre en Aptos, cerca de Santa Cruz. Habían pasado cinco años. Según se cuenta, quiso entrar en la policía de carreteras de California, pero lo rechazaron por su estatura. Acabó trabajando para el departamento de carreteras del estado."},
-        {"voz": "ximena", "texto": "Frecuentaba los lugares donde se reunían los agentes. Y entre mayo de 1972 y febrero de 1973 murieron seis chicas que hacían autoestop en la zona de Santa Cruz. Era una forma habitual de moverse en aquella época, sobre todo en un ambiente universitario."},
-        {"voz": "ximena", "texto": "Eran estudiantes de entre dieciocho y veintitrés años, salvo una. Se llamaban Mary Ann Pesce, Anita Luchessa, Cynthia Schall, Rosalind Thorpe y Alice Liu. La sexta era una estudiante de instituto de quince años. Eran jóvenes, con la vida por delante. Sus restos aparecieron durante meses en zonas de montaña y de costa de los alrededores."},
-        {"voz": "alvaro", "texto": "Y aquí está una de las ironías del expediente. En esos meses, la zona vivía una ola de crímenes tan grave que llegó a llamarse la capital mundial del asesinato. Al menos otro asesino actuaba en las mismas fechas. Para la policía, Kemper era uno de los suyos."},
-        {"voz": "ximena", "texto": "En septiembre de 1972, en plena serie de crímenes, se presentó ante dos psiquiatras para que se borraran sus antecedentes juveniles. Ambos lo consideraron rehabilitado y no peligroso. Los registros se cancelaron en noviembre de ese año."},
-        {"voz": "alvaro", "texto": "Lo evaluaron en mitad de la serie. Ese error se sigue estudiando. Kemper parecía tranquilo, educado y colaborador, y supo mostrar justo lo que los evaluadores esperaban ver. Una entrevista en un despacho no mide el riesgo de quien sabe qué se espera de él."},
-        {"voz": "ximena", "texto": "El Viernes Santo, 20 de abril de 1973, mató a su madre, Clarnell Strandberg, en la casa que compartían. Después mató a una amiga de ella, Sally Hallett. Huyó en coche hacia el este, cruzando varios estados."},
-        {"voz": "ximena", "texto": "Días después, en Pueblo, hizo aquella llamada. Esperó a que llegara la policía local y se entregó sin oponer resistencia. Los interrogatorios posteriores condujeron a pruebas que confirmaron su relato. Quedaba por saber qué iba a decir un hombre que llevaba casi un año matando sin que nadie lo sospechara."}
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Edmund Kemper, el co-ed killer. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un bar junto a los juzgados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pueblo, Colorado, 23 de abril de 1973. Un hombre enorme marca desde un teléfono público el número de la policía de Santa Cruz, en California, a más de mil kilómetros. Dice que ha matado a su madre. Y a muchas personas más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al otro lado de la línea, al principio, no le creen. Tiene que llamar varias veces hasta que alguien lo toma en serio. El hombre que espera en el teléfono es para ellos Big Ed. Solía tomar algo con los policías en un bar cercano a los juzgados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Quédate con este detalle: lo conocían y les caía bien. Es una advertencia que sirve para muchos casos. La confianza que despierta un hombre amable no es una prueba. A veces es una coartada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Edmund Kemper había nacido en California en 1948. Su infancia estuvo marcada por el divorcio de sus padres y una relación muy conflictiva con su madre. De adulto superaría los dos metros de estatura, una estatura que lo hacía inconfundible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1964, con quince años, mató a sus abuelos paternos en el rancho familiar de North Fork, California. Fue internado en el hospital psiquiátrico estatal de Atascadero, donde le diagnosticaron esquizofrenia paranoide."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un chico de quince años, un doble homicidio, un diagnóstico. Y cinco años después, la calle. Lo anoto sin adjetivos. Los médicos del hospital, según varias crónicas, aconsejaron que no volviera a vivir con su madre. Volvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de diciembre de 1969, el día que cumplía veintiún años, salió del hospital y se instaló con su madre en Aptos, cerca de Santa Cruz. Habían pasado cinco años. Según se cuenta, quiso entrar en la policía de carreteras de California, pero lo rechazaron por su estatura. Acabó trabajando para el departamento de carreteras del estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Frecuentaba los lugares donde se reunían los agentes. Y entre mayo de 1972 y febrero de 1973 murieron seis chicas que hacían autoestop en la zona de Santa Cruz. Era una forma habitual de moverse en aquella época, sobre todo en un ambiente universitario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran estudiantes de entre dieciocho y veintitrés años, salvo una. Se llamaban Mary Ann Pesce, Anita Luchessa, Cynthia Schall, Rosalind Thorpe y Alice Liu. La sexta era una estudiante de instituto de quince años. Eran jóvenes, con la vida por delante. Sus restos aparecieron durante meses en zonas de montaña y de costa de los alrededores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está una de las ironías del expediente. En esos meses, la zona vivía una ola de crímenes tan grave que la prensa llegó a llamarla la capital mundial del asesinato. Otros dos asesinos actuaban en las mismas fechas. Para la policía, Kemper era uno de los suyos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre de 1972, en plena serie de crímenes, se presentó ante dos psiquiatras para que se borraran sus antecedentes juveniles. Ambos lo consideraron rehabilitado y no peligroso. Los registros se cancelaron en noviembre de ese año."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo evaluaron en mitad de la serie. Ese fallo se ha comentado mucho. Kemper parecía tranquilo, educado y colaborador, y supo mostrar justo lo que los evaluadores esperaban ver. Una entrevista en un despacho no mide el riesgo de quien sabe qué se espera de él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Viernes Santo, 20 de abril de 1973, mató a su madre, Clarnell Strandberg, en la casa que compartían. Después mató a una amiga de ella, Sally Hallett. Huyó en coche hacia el este, cruzando varios estados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Días después, en Pueblo, hizo aquella llamada. Esperó a que llegara la policía local y se entregó sin oponer resistencia. Los interrogatorios posteriores condujeron a pruebas que confirmaron su relato. Quedaba por saber qué iba a decir un hombre que llevaba casi un año matando sin que nadie lo sospechara."
+        }
       ]
     },
     {
@@ -51,26 +99,80 @@
       "titulo": "Una confesión de ocho cargos",
       "tipo": "juicio",
       "bloques": [
-        {"voz": "ximena", "texto": "Cinta dos. Una confesión de ocho cargos."},
-        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Edmund Kemper, que se entregó por teléfono desde Pueblo en abril de 1973. Lo dejamos con una policía que no lograba creer a un hombre al que conocía."},
-        {"voz": "ximena", "texto": "Cuando por fin le creyeron, las pruebas confirmaron su relato. Las autoridades de California encontraron lo que él había dicho. Lo acusaron de ocho asesinatos en primer grado: su madre, su amiga y seis chicas."},
-        {"voz": "alvaro", "texto": "Observa lo que no está en la acusación: sus abuelos. Los mató con quince años, años antes, y ya había respondido por eso ante un tribunal de menores. Por eso las cifras bailan entre diez y ocho: diez son las muertes, ocho son los cargos."},
-        {"voz": "ximena", "texto": "El juicio empezó en octubre de 1973. Su defensa alegó enajenación mental. Pero los psiquiatras nombrados por el tribunal lo consideraron legalmente cuerdo."},
-        {"voz": "ximena", "texto": "El 8 de noviembre de 1973, el jurado lo declaró culpable de los ocho asesinatos. Kemper llegó a pedir la pena de muerte para sí mismo. Pero en California estaba suspendida en esa época. Recibió cadenas perpetuas, que se cumplen a la vez, en lugar de la pena de muerte."},
-        {"voz": "alvaro", "texto": "Las fuentes dan una cifra distinta de años por cada cargo, de siete a perpetua. No importa. Lo que cuenta es que, desde 1973, no ha vuelto a estar libre."},
-        {"voz": "ximena", "texto": "Desde entonces cumple condena en el hospital penitenciario de Vacaville, en California. En los años ochenta pidió, sin éxito, una operación cerebral para eliminar sus impulsos violentos, y su expediente penitenciario era descrito como impecable. En 1985 renunció a una audiencia porque había prensa presente. Le han denegado la libertad condicional en 1979, 1980, 1981, 1982, 1988, 1991, 1994, 2007, 2017 y 2024."},
-        {"voz": "ximena", "texto": "En la última audiencia, en julio de 2024, él no quiso asistir. Un informe psiquiátrico de abril lo calificó de riesgo alto de volver a delinquir. El fiscal del condado de Santa Cruz declaró que sigue siendo peligroso. Podrá pedirla de nuevo en 2031, con más de ochenta años. Una prima suya, Patricia Kemper, asistió en representación de las víctimas."},
-        {"voz": "alvaro", "texto": "Una nota de actualidad. En 2024 tenía setenta y cinco años y, según las informaciones, usaba silla de ruedas y padecía diabetes y una enfermedad del corazón. No consta en las fuentes que haya fallecido. Conviene confirmarlo en la fecha en que se escuche esto."},
-        {"voz": "ximena", "texto": "Su caso tuvo una consecuencia inesperada. A finales de los años setenta, los agentes del FBI Robert Ressler y John Douglas lo entrevistaron en la cárcel, dentro de un estudio sobre asesinos en serie. Un boletín del FBI de 1980 recoge esas entrevistas."},
-        {"voz": "ximena", "texto": "De ahí salió buena parte del perfilado criminal moderno. El FBI quería entender cómo piensan estos criminales, y preguntó directamente a los condenados. Décadas después, la serie Mindhunter, estrenada en 2017, recreó aquellas conversaciones."},
-        {"voz": "alvaro", "texto": "Lo que se aprendió de aquellas entrevistas, en lo esencial, es que la apariencia normal no descarta a nadie. Un hombre amable, educado y colaborador puede ser quien busca la policía. Es lo que repite este expediente desde el principio."},
-        {"voz": "alvaro", "texto": "Y esto es lo que me da más reparo. Escuchar al asesino enseña mucho. Pero tiene un riesgo: hacer su voz más memorable que la de sus víctimas. Por eso, en este archivo, ellas van primero."},
-        {"voz": "ximena", "texto": "Las jóvenes asesinadas en la zona de Santa Cruz entre 1972 y 1973 fueron Mary Ann Pesce, Anita Luchessa, Cynthia Schall, Rosalind Thorpe y Alice Liu, y una chica de quince años. Estudiantes con toda la vida por delante."},
-        {"voz": "ximena", "texto": "A ellas se suman Clarnell Strandberg, su madre, y su amiga Sally Hallett. Y los abuelos, Edmund y Maude Kemper, que murieron mucho antes."},
-        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a diez personas, desde una chica de quince años hasta dos abuelos, y a las familias que se quedaron esperando."},
-        {"voz": "ximena", "texto": "Fin del expediente de Edmund Kemper. Archivo de TRUE CRIME CALENDAR."}
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una confesión de ocho cargos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Edmund Kemper, que se entregó por teléfono desde Pueblo en abril de 1973. Lo dejamos con una policía que no lograba creer a un hombre al que conocía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando por fin le creyeron, las pruebas confirmaron su relato. Las autoridades de California encontraron lo que él había dicho. Lo acusaron de ocho asesinatos en primer grado: su madre, su amiga y seis chicas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Observa lo que no está en la acusación: sus abuelos. Los mató con quince años, años antes, y ya había respondido por eso ante un tribunal de menores. Por eso las cifras bailan entre diez y ocho: diez son las muertes, ocho son los cargos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en octubre de 1973. Su defensa alegó enajenación mental. Pero los psiquiatras nombrados por el tribunal lo consideraron legalmente cuerdo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de noviembre de 1973, el jurado lo declaró culpable de los ocho asesinatos. Kemper llegó a pedir la pena de muerte para sí mismo. Pero en California estaba suspendida en esa época. Recibió cadenas perpetuas, que se cumplen a la vez, en lugar de la pena de muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes dan una cifra distinta de años por cada cargo, de siete a perpetua. No importa. Lo que cuenta es que, desde 1973, no ha vuelto a estar libre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde entonces cumple condena en el hospital penitenciario de Vacaville, en California. Según crónicas de los años ochenta, pidió sin éxito una operación cerebral para eliminar sus impulsos violentos, y su expediente penitenciario era descrito como impecable. En 1985 renunció a una audiencia porque había prensa presente. Le han denegado la libertad condicional en 1979, 1980, 1981, 1982, 1988, 1991, 1994, 2007, 2017 y 2024."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la última audiencia, en julio de 2024, él no quiso asistir. Un informe psiquiátrico de abril lo calificó de riesgo alto de volver a delinquir. El fiscal del condado de Santa Cruz declaró que sigue siendo peligroso. Podrá pedirla de nuevo en 2031, con más de ochenta años. Una prima suya asistió en representación de las víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una nota de actualidad. En 2024 tenía setenta y cinco años y, según las informaciones, usaba silla de ruedas y padecía diabetes y una enfermedad del corazón. No consta en las fuentes que haya fallecido, pero conviene confirmarlo en la fecha en que se escuche esto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su caso tuvo una consecuencia inesperada. A finales de los años setenta, los agentes del FBI Robert Ressler y John Douglas lo entrevistaron en la cárcel, dentro de un estudio sobre asesinos en serie. Un boletín del FBI de 1980 recoge esas entrevistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "De ahí salió buena parte del perfilado criminal moderno. El FBI quería entender cómo piensan estos criminales, y preguntó directamente a los condenados. Décadas después, la serie Mindhunter, estrenada en 2017, recreó aquellas conversaciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que se aprendió de aquellas entrevistas, en lo esencial, es que la apariencia normal no descarta a nadie. Un hombre amable, educado y colaborador puede ser quien busca la policía. Es lo que repite este expediente desde el principio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y esto es lo que me da más reparo. Escuchar al asesino enseña mucho. Pero tiene un riesgo: hacer su voz más memorable que la de sus víctimas. Por eso, en este archivo, ellas van primero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las jóvenes asesinadas en la zona de Santa Cruz entre 1972 y 1973 fueron Mary Ann Pesce, Anita Luchessa, Cynthia Schall, Rosalind Thorpe y Alice Liu, y una chica de quince años. Estudiantes con toda la vida por delante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A ellas se suman Clarnell Strandberg, su madre, y su amiga Sally Hallett. Y los abuelos, Edmund y Maude Kemper, que murieron mucho antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a diez personas, desde una chica de quince años hasta dos abuelos, y a las familias que se quedaron esperando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Edmund Kemper. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en), Biography.com, Lookout Santa Cruz (9/7/2024), UPI (3/6/1985), FBI Law Enforcement Bulletin (septiembre de 1980, a través del buscador), Britannica (403 al abrirlo; solo resumen del buscador). DISCREPANCIAS. 1) Ficha: «seis estudiantes»; Wikipedia: seis «estudiantes universitarias o de instituto»; una de ellas, de 15 años (instituto). El guion lo recoge como «una estudiante de instituto de quince años». 2) Ficha y v2: «mató a seis estudiantes y después a su madre y a una amiga»; correcto. Total diez muertes, ocho cargos en el juicio (abuelos aparte). 3) Fecha de la llamada: 23 de abril de 1973 (Biography.com); v2 decía «abril de 1973». Asesinatos de madre y amiga: 20-21 de abril (Viernes Santo, 20 de abril) (Wikipedia, Biography.com). 4) UPI (1985) dice que mató a sus abuelos «maternos»; el resto (Wikipedia, Lookout, Biography.com) dice «paternos»; el guion usa «paternos». 5) Nombre de la madre: Clarnell Strandberg (Wikipedia, Lookout, Biography.com); UPI dice «Claranell». Amiga: Sally Hallett (Biography.com, v2); Wikipedia (en) dice «Sara» en un resumen. 6) Condena: «ocho cadenas perpetuas concurrentes» (Biography.com, Britannica) o «de siete años a perpetua por cargo» (Wikipedia). 7) Evaluación psiquiátrica: v2 dice septiembre de 1972, con dos psiquiatras; Wikipedia, registros cancelados el 29/11/1972; el guion lo mantiene como v2; consta que lo dijo el propio Kemper, y se estudió después. 8) Trial: octubre de 1973; veredicto el 8 de noviembre de 1973 (Wikipedia, Biography.com). 9) Libertad condicional: denegada en 1979, 1980, 1981, 1982, 1988, 1991, 1994, 2007, 2017 y 2024; la última, el 9 de julio de 2024; próxima, en 2031 (Wikipedia, Lookout). Renunció a algunas audiencias, incluida la de 2024. 10) FBI: Ressler y Douglas lo entrevistaron en Vacaville (un boletín del FBI de 1980 lo menciona); fechas exactas no se han podido fijar; el guion dice «a finales de los setenta». 11) «Capital mundial del asesinato» (v2): no verificada en las fuentes abiertas; se mantiene como dato de contexto sin atribuir, pero conviene revisar. 12) El v2 decía que Kemper «ayudaba a los psicólogos» en el hospital y que tenía «puntuaciones muy altas»: no está en estas fuentes y se quitó. 13) Estado actual: vivo en 2024 (Lookout). La ficha dice «Preso en California»; la nota de REVISION_GUIONES pide confirmar que sigue vivo: no se encontró ninguna noticia de su muerte hasta noviembre de 2026, pero tampoco una confirmación posterior a la audiencia de 2024. 14) Mother's weapons and mutilation: no se mencionan. RESPETO: se nombra a las cinco víctimas adultas (nombres públicos, en Wikipedia y en el v2) y a las dos mujeres mayores; a la chica de 15 años (Aiko Koo en las fuentes) no se la nombra por la regla común (caso de 1972; no consta que la familia haya hablado en público). No se describen métodos ni el tratamiento de los cuerpos."
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en), Biography.com, Lookout Santa Cruz (9/7/2024), UPI (3/6/1985), FBI Law Enforcement Bulletin (septiembre de 1980, a través del buscador), Britannica (403 al abrirlo; solo resumen del buscador). DISCREPANCIAS. 1) Ficha: «seis estudiantes»; Wikipedia: seis «estudiantes universitarias o de instituto»; una de ellas, de 15 años (instituto). El guion lo recoge como «una estudiante de instituto de quince años». 2) Ficha y v2: «mató a seis estudiantes y después a su madre y a una amiga»; correcto. Total diez muertes, ocho cargos en el juicio (abuelos aparte). 3) Fecha de la llamada: 23 de abril de 1973 (Biography.com); v2 decía «abril de 1973». Asesinatos de madre y amiga: 20-21 de abril (Viernes Santo, 20 de abril) (Wikipedia, Biography.com). 4) UPI (1985) dice que mató a sus abuelos «maternos»; el resto (Wikipedia, Lookout, Biography.com) dice «paternos»; el guion usa «paternos». 5) Nombre de la madre: Clarnell Strandberg (Wikipedia, Lookout, Biography.com); UPI dice «Claranell». Amiga: Sally Hallett (Biography.com, v2); Wikipedia (en) dice «Sara» en un resumen. 6) Condena: «ocho cadenas perpetuas concurrentes» (Biography.com, Britannica) o «de siete años a perpetua por cargo» (Wikipedia). 7) Evaluación psiquiátrica: v2 dice septiembre de 1972, con dos psiquiatras; Wikipedia, registros cancelados el 29/11/1972; el guion lo mantiene como v2; consta que lo dijo el propio Kemper, y se estudió después. 8) Trial: octubre de 1973; veredicto el 8 de noviembre de 1973 (Wikipedia, Biography.com). 9) Libertad condicional: denegada en 1979, 1980, 1981, 1982, 1988, 1991, 1994, 2007, 2017 y 2024; la última, el 9 de julio de 2024; próxima, en 2031 (Wikipedia, Lookout). Renunció a algunas audiencias, incluida la de 2024. 10) FBI: Ressler y Douglas lo entrevistaron en Vacaville (un boletín del FBI de 1980 lo menciona); fechas exactas no se han podido fijar; el guion dice «a finales de los setenta». 11) «Capital mundial del asesinato» (v2): no verificada en las fuentes abiertas; se mantiene como dato de contexto sin atribuir, pero conviene revisar. 12) El v2 decía que Kemper «ayudaba a los psicólogos» en el hospital y que tenía «puntuaciones muy altas»: no está en estas fuentes y se quitó. 13) Estado actual: vivo en 2024 (Lookout). La ficha dice «Preso en California»; la nota de REVISION_GUIONES pide confirmar que sigue vivo: no se encontró ninguna noticia de su muerte hasta noviembre de 2026, pero tampoco una confirmación posterior a la audiencia de 2024. 14) Mother's weapons and mutilation: no se mencionan. RESPETO: se nombra a las cinco víctimas adultas (nombres públicos, en Wikipedia y en el v2) y a las dos mujeres mayores; a la chica de 15 años (Aiko Koo en las fuentes) no se la nombra por la regla común (caso de 1972; no consta que la familia haya hablado en público). No se describen métodos ni el tratamiento de los cuerpos. VERIFICACIÓN estrella-9: «capital mundial del asesinato» ahora atribuido a la prensa (Biography.com; con Frazier y Mullin, dos asesinos más). Operación cerebral atribuida a crónicas (UPI 1985, no abierta). Quitado el nombre de la prima. Sin señales de fallecimiento hasta noviembre de 2026."
 }

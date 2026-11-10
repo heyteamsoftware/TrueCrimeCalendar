@@ -11,23 +11,74 @@
       "titulo": "Una patrulla en Moctezuma",
       "tipo": "hallazgo",
       "bloques": [
-        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Juana Barraza, la Mataviejitas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
-        {"voz": "ximena", "texto": "Cinta uno. Una patrulla en Moctezuma."},
-        {"voz": "ximena", "texto": "Ciudad de México, 25 de enero de 2006. Un joven que vive en casa de una anciana regresa y se cruza con una mujer corpulenta que sale con prisa. Dentro encuentra a la dueña de la casa sin vida. Se llamaba Ana María de los Reyes Alfaro y tenía más de ochenta años."},
-        {"voz": "ximena", "texto": "Sale a la calle y da la alarma. Tras una breve persecución, una patrulla detiene a la mujer en la colonia Moctezuma, en la delegación Venustiano Carranza, al oriente de la capital. Lo que nadie sabe todavía es que acaban de poner fin a años de miedo."},
-        {"voz": "alvaro", "texto": "Nota del inspector. Anoto la ironía de esta escena. Durante años, la ciudad entera buscó a alguien. Pero no a ella. Y lo hizo con retratos, avisos a los vecinos y grandes operativos policiales. La detuvo un testigo que no se quedó callado."},
-        {"voz": "ximena", "texto": "Juana Barraza nació en diciembre de 1957, en el estado de Hidalgo. Las fuentes discrepan en el municipio y en el año: algunas dicen 1958. Según su propio relato, tuvo una infancia de maltrato y abandono."},
-        {"voz": "ximena", "texto": "Ya adulta se instaló en Ciudad de México, tuvo varios hijos y trabajó en distintos oficios. Se dedicó también a la lucha libre. En el cuadrilátero era la Dama del Silencio, una luchadora enmascarada. Una lesión de espalda la apartó del ring. La lucha libre es una pasión popular en México, con sus máscaras y sus personajes, y de ahí salió su alias."},
-        {"voz": "alvaro", "texto": "Una luchadora profesional. Nadie la habría imaginado así, y eso fue parte del problema. Un prejuicio es una pista falsa que a veces pasa por buena, porque se parece a lo que uno espera."},
-        {"voz": "ximena", "texto": "Entre 2002 y 2006 fueron apareciendo muertas en sus casas, en la capital, mujeres de sesenta años o más que vivían solas. Algunas fuentes retrotraen los crímenes a los años noventa. Al principio, muchas de esas muertes no se relacionaron entre sí."},
-        {"voz": "ximena", "texto": "En muchos casos alguien había entrado haciéndose pasar por enfermera, por trabajadora social o por empleada de un programa público para mayores. Las víctimas abrían la puerta a quien decía venir a ayudarlas. Una vez dentro, la autora robaba objetos de valor."},
-        {"voz": "ximena", "texto": "El entonces procurador de justicia del Distrito Federal, Bernardo Bátiz, la describió al principio como alguien inteligente y cuidadoso. Los testigos hablaban de una persona robusta, vestida de enfermera."},
-        {"voz": "alvaro", "texto": "Y ahí se torció la investigación. Según las crónicas, en una de las líneas se buscó a una persona trans o a un hombre vestido de mujer. Se interrogó a gente que no tenía nada que ver, incluidas mujeres trans y trabajadoras sexuales. Esas actuaciones se criticaron mucho. Con razón."},
-        {"voz": "ximena", "texto": "Mientras tanto, los crímenes continuaban y el miedo se extendía por los barrios. Las autoridades difundieron retratos y pidieron a las personas mayores que no abrieran la puerta a desconocidos. Pero la autora seguía sin rostro."},
-        {"voz": "ximena", "texto": "La prensa ya la había bautizado la Mataviejitas, en diminutivo. Era un apodo que mezclaba el miedo con un humor de muy mal gusto."},
-        {"voz": "alvaro", "texto": "Anoto algo sobre ese apodo. El diminutivo suena cariñoso, pero convierte a las víctimas en objeto de broma. Eran mujeres de sesenta años o más, vecinas de toda la vida. Yo prefiero no repetirlo sin recordar eso."},
-        {"voz": "ximena", "texto": "Cuando la detuvieron, el Ministerio Público dijo que era responsable de, al menos, diez asesinatos. Después, la acusación formal llegaría a más. Pero en aquel momento solo había una certeza: la mujer de la patrulla había estado en la casa de Ana María."},
-        {"voz": "ximena", "texto": "Joel Ortega, entonces secretario de Seguridad Pública de la ciudad, habló públicamente de la captura. Y quedaba lo más difícil. Durante años, nadie había encontrado a quien comparar con aquellas huellas, y ahora tenían a alguien. ¿Coincidirían?"}
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Juana Barraza, la Mataviejitas. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una patrulla en Moctezuma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ciudad de México, 25 de enero de 2006. Un joven que vive en casa de una anciana regresa y se cruza con una mujer corpulenta que sale con prisa. Dentro encuentra a la dueña de la casa sin vida. Se llamaba Ana María de los Reyes Alfaro y tenía más de ochenta años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sale a la calle y da la alarma. Tras una breve persecución, una patrulla detiene a la mujer en la colonia Moctezuma, en la delegación Venustiano Carranza, al oriente de la capital. Lo que nadie sabe todavía es que acaban de poner fin a años de miedo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto la ironía de esta escena. Durante años, la ciudad entera buscó a alguien. Pero no a ella. Y lo hizo con retratos, avisos a los vecinos y grandes operativos policiales. La detuvo un testigo que no se quedó callado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Juana Barraza nació en diciembre de 1957, en el estado de Hidalgo. Las fuentes discrepan en el municipio y en el año: algunas dicen 1958. Según su propio relato, tuvo una infancia de maltrato y abandono."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ya adulta se instaló en Ciudad de México, tuvo varios hijos y trabajó en distintos oficios. Se dedicó también a la lucha libre. En el cuadrilátero era la Dama del Silencio, una luchadora enmascarada. Una lesión de espalda la apartó del ring. La lucha libre es una pasión popular en México, con sus máscaras y sus personajes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una luchadora profesional. Nadie la habría imaginado así, y eso fue parte del problema. Un prejuicio es una pista falsa que a veces pasa por buena, porque se parece a lo que uno espera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 2002 y 2006 fueron apareciendo muertas en sus casas, en la capital, mujeres de sesenta años o más que vivían solas. Algunas fuentes retrotraen los crímenes a los años noventa. Al principio, muchas de esas muertes no se relacionaron entre sí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En muchos casos alguien había entrado haciéndose pasar por enfermera, por trabajadora social o por empleada de un programa público para mayores. Las víctimas abrían la puerta a quien decía venir a ayudarlas. Una vez dentro, la autora robaba objetos de valor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El entonces procurador de justicia del Distrito Federal, Bernardo Bátiz, la describió al principio como alguien inteligente y cuidadoso. Los testigos hablaban de una persona robusta, vestida de enfermera."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahí se torció la investigación. Según las crónicas, en una de las líneas se buscó a una persona trans o a un hombre vestido de mujer. Se interrogó a gente que no tenía nada que ver, incluidas mujeres trans y trabajadoras sexuales. Esas actuaciones se criticaron mucho. Con razón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, los crímenes continuaban y el miedo se extendía por los barrios. Las autoridades difundieron retratos y pidieron a las personas mayores que no abrieran la puerta a desconocidos. Pero la autora seguía sin rostro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa ya la había bautizado la Mataviejitas, en diminutivo. Era un apodo que mezclaba el miedo con un humor de muy mal gusto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto algo sobre ese apodo. El diminutivo suena cariñoso, pero convierte a las víctimas en objeto de broma. Eran mujeres de sesenta años o más, vecinas de toda la vida. Yo prefiero no repetirlo sin recordar eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando la detuvieron, el Ministerio Público dijo que era responsable de, al menos, diez asesinatos. Después, la acusación formal llegaría a más. Pero en aquel momento solo había una certeza: la mujer de la patrulla había estado en la casa de Ana María."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Joel Ortega, entonces secretario de Seguridad Pública de la ciudad, habló públicamente de la captura y de lo mucho que faltaba por aclarar. Y quedaba lo más difícil. Durante años, nadie había encontrado a quien comparar con aquellas huellas, y ahora tenían a alguien. ¿Coincidirían?"
+        }
       ]
     },
     {
@@ -35,27 +86,84 @@
       "titulo": "Setecientos cincuenta y nueve años",
       "tipo": "juicio",
       "bloques": [
-        {"voz": "ximena", "texto": "Cinta dos. Setecientos cincuenta y nueve años."},
-        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Juana Barraza, detenida el 25 de enero de 2006 tras el asesinato de Ana María de los Reyes Alfaro. Lo dejamos con la pregunta de las huellas."},
-        {"voz": "ximena", "texto": "Las huellas dactilares coincidieron con las halladas en otras escenas del crimen. Según una de las fuentes, la policía pudo vincularla por ese medio con al menos diez de los casi cuarenta asesinatos que se le atribuían."},
-        {"voz": "alvaro", "texto": "Las pruebas estaban allí desde el principio. Faltaba alguien con quien compararlas. No lo digo como reproche gratuito. Un archivo de huellas no sirve de nada sin un nombre que cotejar."},
-        {"voz": "ximena", "texto": "Ante los investigadores reconoció el asesinato de aquel día, y según una fuente otros tres. Negó los demás. Más tarde, en el juicio, aceptó solo el de Ana María de los Reyes Alfaro, su antigua patrona. Habló de un conflicto por el pago de unos trabajos."},
-        {"voz": "ximena", "texto": "También habló del rencor que guardaba hacia su madre. Hay que decir, con prudencia, que estas son sus palabras. Nada de ello se ha comprobado como causa de los crímenes."},
-        {"voz": "ximena", "texto": "El juicio duró dos años. El 31 de marzo de 2008, el juez 67 penal del Reclusorio Femenil de Santa Martha Acatitla, Enrique Juárez Saavedra, la condenó a setecientos cincuenta y nueve años de prisión."},
-        {"voz": "ximena", "texto": "La sentencia habla del homicidio de dieciséis mujeres mayores y de doce robos. El subprocurador Miguel Mancera explicó que la acusación se apoyó en el enlace de indicios, como las huellas dactilares halladas en los lugares de los hechos. Ella dijo que la sentencia era injusta y anunció que apelaría."},
-        {"voz": "ximena", "texto": "Tenía cinco días hábiles para recurrir. El recurso lo revisaría una sala del Tribunal Superior de Justicia del Distrito Federal."},
-        {"voz": "alvaro", "texto": "Cifras de este caso, una por una. Dieciséis es la condena, según Proceso. Otras fuentes hablan de diecisiete. Wikipedia habla de dieciséis cargos, entre ellos once de asesinato. Y se le han atribuido hasta cuarenta y nueve. No son contradicciones: son cosas distintas."},
-        {"voz": "ximena", "texto": "Setecientos cincuenta y nueve años es una cifra simbólica. La ley mexicana fija un máximo de cumplimiento mucho menor. La fiscalía dijo que no tendría beneficios ni libertad anticipada."},
-        {"voz": "ximena", "texto": "Sigue presa en el penal de Santa Martha Acatitla, en la capital. En 2023 la ingresaron por la rotura de un fémur, y en mayo de 2026 la llevaron a un hospital por una insuficiencia renal. En ambos casos volvió a prisión. Dentro del penal, según algunas informaciones, da clases de gimnasia y vende comida. En 2024 declaró que es inocente."},
-        {"voz": "alvaro", "texto": "Una duda más, para quien escuche con atención. Una de las fuentes sostiene que la investigación se cerró oficialmente aunque quedaban más de treinta casos sin aclarar. No he podido confirmarlo en una segunda fuente. Si fuera cierto, habría familias que siguen sin saber quién mató a sus madres."},
-        {"voz": "alvaro", "texto": "Dejo una nota sobre lo que el caso enseñó. Primero, que los prejuicios entorpecen una investigación. Segundo, la vulnerabilidad de las personas mayores que viven solas ante quien se presenta como alguien que viene a ayudar. Y tercero, el valor de un testigo que reaccionó a tiempo."},
-        {"voz": "ximena", "texto": "Este expediente comparte etiqueta con el de José Antonio Rodríguez Vega, el mataviejas de Santander. Dos casos separados por un océano y por casi veinte años, con un mismo patrón: ganarse la confianza de mujeres mayores."},
-        {"voz": "ximena", "texto": "Las autoridades mexicanas la relacionaron con decenas de casos de los años anteriores. La cifra exacta probablemente nunca se conocerá."},
-        {"voz": "ximena", "texto": "Su historia ha inspirado libros y documentales. Pero en el centro deben estar ellas."},
-        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Ana María de los Reyes Alfaro y a las otras mujeres mayores que murieron en sus casas. A mujeres que habían criado familias, que vivían solas en sus barrios y que abrieron la puerta a quien decía venir a cuidarlas."},
-        {"voz": "ximena", "texto": "Fin del expediente de Juana Barraza. Archivo de TRUE CRIME CALENDAR."}
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Setecientos cincuenta y nueve años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Juana Barraza, detenida el 25 de enero de 2006 tras el asesinato de Ana María de los Reyes Alfaro. Lo dejamos con la pregunta de las huellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las huellas dactilares coincidieron con las halladas en otras escenas del crimen. Según una de las fuentes, la policía pudo vincularla por ese medio con al menos diez de los casi cuarenta asesinatos que se le atribuían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las pruebas estaban allí desde el principio. Faltaba alguien con quien compararlas. No lo digo como reproche gratuito. Un archivo de huellas no sirve de nada sin un nombre que cotejar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ante los investigadores reconoció el asesinato de aquel día, y según una fuente otros tres. Negó los demás. Más tarde, en el juicio, aceptó solo el de Ana María de los Reyes Alfaro, su antigua patrona. Habló de un conflicto por el pago de unos trabajos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También habló del rencor que guardaba hacia su madre. Hay que decir, con prudencia, que estas son sus palabras. Nada de ello se ha comprobado como causa de los crímenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio duró dos años. El 31 de marzo de 2008, el juez 67 penal del Reclusorio Femenil de Santa Martha Acatitla, Enrique Juárez Saavedra, la condenó a setecientos cincuenta y nueve años de prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La sentencia habla del homicidio de dieciséis mujeres mayores y de doce robos. El subprocurador Miguel Mancera explicó que la acusación se apoyó en el enlace de indicios, como las huellas dactilares halladas en los lugares de los hechos. Ella dijo que la sentencia era injusta y anunció que apelaría."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tenía cinco días hábiles para recurrir. El recurso lo revisaría una sala del Tribunal Superior de Justicia del Distrito Federal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cifras de este caso, una por una. Dieciséis es la condena, según Proceso. Otras fuentes hablan de diecisiete. Una enciclopedia habla de dieciséis cargos, entre ellos once de asesinato. Y se le han atribuido hasta cuarenta y nueve. No son contradicciones: son cosas distintas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Setecientos cincuenta y nueve años es una cifra simbólica. La ley mexicana fija un máximo de cumplimiento mucho menor. La fiscalía dijo que no tendría beneficios ni libertad anticipada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sigue presa en el penal de Santa Martha Acatitla, en la capital. En 2023 la ingresaron por la rotura de un fémur, y en mayo de 2026 la llevaron a un hospital por una insuficiencia renal. En ambos casos volvió a prisión. Dentro del penal, según algunas informaciones, da clases de gimnasia y vende comida. En 2024 declaró que es inocente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una duda más, para quien escuche con atención. Según una de las fuentes, tras la detención la investigación se dio oficialmente por cerrada aunque quedaban más de treinta casos sin aclarar. Si fuera así, habría familias que siguen sin saber quién mató a sus madres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dejo una nota sobre lo que el caso enseñó. Primero, que los prejuicios entorpecen una investigación. Segundo, la vulnerabilidad de las personas mayores que viven solas ante quien se presenta como alguien que viene a ayudar. Y tercero, el valor de un testigo que reaccionó a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente comparte etiqueta con el de José Antonio Rodríguez Vega, el mataviejas de Santander. Dos casos separados por un océano y por casi veinte años, con un mismo patrón: ganarse la confianza de mujeres mayores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las autoridades mexicanas la relacionaron con decenas de casos de los años anteriores. La cifra exacta probablemente nunca se conocerá."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su historia ha inspirado libros y documentales. Pero en el centro deben estar ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Ana María de los Reyes Alfaro y a las otras mujeres mayores que murieron en sus casas. A mujeres que habían criado familias, que vivían solas en sus barrios y que abrieron la puerta a quien decía venir a cuidarlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Juana Barraza. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en), Proceso (1/4/2008, sentencia), Infobae (2021, 2022, 2024), El Universal (24/5/2026), Milenio (a través del buscador). DISCREPANCIAS. 1) Nacimiento: la ficha dice 27/12/1957; Wikipedia (en) dice Epazoyucan (Hidalgo); Infobae (2022), Pachuca y 27/12/1958. El guion dice «diciembre de 1957, en el estado de Hidalgo» y reconoce la discrepancia. Edad al ser detenida: 48 (v2); con 1957, 48; con 1958, 47. 2) Edad de la víctima: 82 (Wikipedia, v2) o 84 (Infobae). El guion dice «más de ochenta años». 3) Relación con la víctima: v2, «inquilino en casa de una anciana»; Proceso, «su patrona» (Barraza había sido empleada); Infobae, «un joven que vivía con la víctima». El guion dice «un joven que vive en casa de una anciana» y «su antigua patrona» (esta última, Proceso). 4) Víctimas: ficha, «condenada por 16, hasta 49»; Proceso y El Universal, 16 homicidios y 12 robos; Infobae y Milenio, 17; Wikipedia, 16 cargos con 11 de asesinato; Wikipedia, 40-48 atribuidos. El guion recoge 16 y 49 y explica las diferencias. 5) Sentencia: 31/3/2008, juez Enrique Juárez Saavedra (Proceso), 759 años y multa; Wikipedia (en) da lo mismo; el v2 decía solo «en 2008». 6) Cumplimiento: Infobae, máximo 50 años; Wikipedia, 60 años; el guion no da cifra. 7) El v2 decía que se buscó «a un hombre disfrazado de mujer»; Wikipedia (en) habla de una persona trans; Infobae, «según algunos informes»; el guion lo atribuye a «las crónicas» y se menciona la crítica. 8) Confesión: Wikipedia, reconoció la de Alfaro y otras tres, y en el juicio solo la de Alfaro; Proceso, solo Alfaro. 9) Cuando la detuvieron, el MP dijo que era responsable de «al menos diez» (Infobae); Wikipedia: huellas con al menos diez de unos cuarenta. 10) Procurador Bernardo Bátiz (Wikipedia en). 11) Detención en la delegación Venustiano Carranza, colonia Moctezuma (v2, Infobae). 12) Primeros crímenes: la ficha, 2002; El Universal y Wikipedia, años noventa; el guion deja ambas. 13) 2023: fémur roto (El Universal); mayo de 2026: ingreso por insuficiencia renal y regreso a prisión (El Universal, Proceso, 24-25/5/2026). 14) 2024: negó ser asesina (titular de Infobae del 12/1/2024, no abierto). 15) No se menciona el estetoscopio ni otros detalles de método. RESPETO: solo se nombra a Ana María de los Reyes Alfaro (adulta, nombre público). No se detalla el relato de abusos de su infancia, solo «maltrato y abandono». Se evita repetir el diminutivo como broma."
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en), Proceso (1/4/2008, sentencia), Infobae (2021, 2022, 2024), El Universal (24/5/2026), Milenio (a través del buscador). DISCREPANCIAS. 1) Nacimiento: la ficha dice 27/12/1957; Wikipedia (en) dice Epazoyucan (Hidalgo); Infobae (2022), Pachuca y 27/12/1958. El guion dice «diciembre de 1957, en el estado de Hidalgo» y reconoce la discrepancia. Edad al ser detenida: 48 (v2); con 1957, 48; con 1958, 47. 2) Edad de la víctima: 82 (Wikipedia, v2) o 84 (Infobae). El guion dice «más de ochenta años». 3) Relación con la víctima: v2, «inquilino en casa de una anciana»; Proceso, «su patrona» (Barraza había sido empleada); Infobae, «un joven que vivía con la víctima». El guion dice «un joven que vive en casa de una anciana» y «su antigua patrona» (esta última, Proceso). 4) Víctimas: ficha, «condenada por 16, hasta 49»; Proceso y El Universal, 16 homicidios y 12 robos; Infobae y Milenio, 17; Wikipedia, 16 cargos con 11 de asesinato; Wikipedia, 40-48 atribuidos. El guion recoge 16 y 49 y explica las diferencias. 5) Sentencia: 31/3/2008, juez Enrique Juárez Saavedra (Proceso), 759 años y multa; Wikipedia (en) da lo mismo; el v2 decía solo «en 2008». 6) Cumplimiento: Infobae, máximo 50 años; Wikipedia, 60 años; el guion no da cifra. 7) El v2 decía que se buscó «a un hombre disfrazado de mujer»; Wikipedia (en) habla de una persona trans; Infobae, «según algunos informes»; el guion lo atribuye a «las crónicas» y se menciona la crítica. 8) Confesión: Wikipedia, reconoció la de Alfaro y otras tres, y en el juicio solo la de Alfaro; Proceso, solo Alfaro. 9) Cuando la detuvieron, el MP dijo que era responsable de «al menos diez» (Infobae); Wikipedia: huellas con al menos diez de unos cuarenta. 10) Procurador Bernardo Bátiz (Wikipedia en). 11) Detención en la delegación Venustiano Carranza, colonia Moctezuma (v2, Infobae). 12) Primeros crímenes: la ficha, 2002; El Universal y Wikipedia, años noventa; el guion deja ambas. 13) 2023: fémur roto (El Universal); mayo de 2026: ingreso por insuficiencia renal y regreso a prisión (El Universal, Proceso, 24-25/5/2026). 14) 2024: negó ser asesina (titular de Infobae del 12/1/2024, no abierto). 15) No se menciona el estetoscopio ni otros detalles de método. RESPETO: solo se nombra a Ana María de los Reyes Alfaro (adulta, nombre público). No se detalla el relato de abusos de su infancia, solo «maltrato y abandono». Se evita repetir el diminutivo como broma. VERIFICACIÓN estrella-9: quitado «no he podido confirmarlo» y la cita de Wikipedia dentro del texto; alias de la lucha libre aclarado. Lesión de columna y nombre de luchadora (Dama del Silencio): Infobae y Wikipedia. Cierre de la investigación: Wikipedia (en)."
 }

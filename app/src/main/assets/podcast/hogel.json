@@ -35,7 +35,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Nota del inspector. Anoto un detalle que me incomoda. La clínica abrió una investigación interna, pero Högel tenía vacaciones dos días después y siguió trabajando. La noche del 24 de junio murió otro paciente. Es lo que cuentan las crónicas del caso."
+          "texto": "Nota del inspector. Anoto un detalle que me incomoda. La clínica abrió una investigación interna, pero Högel tenía vacaciones dos días después y siguió trabajando. La última noche antes de sus vacaciones murió otro paciente, según cuenta la prensa."
         },
         {
           "voz": "ximena",
@@ -79,15 +79,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "No lo estaba. Los familiares de otros pacientes fallecidos en las dos clínicas no se rindieron. Pidieron investigaciones, y en 2008, bajo su presión, la fiscalía ordenó exhumar ocho cuerpos."
+          "texto": "No lo estaba. Las sospechas sobre otras muertes en las dos clínicas seguían ahí, y pasaron años hasta que alguien volvió a mirar."
         },
         {
           "voz": "alvaro",
-          "texto": "Ocho cuerpos. Y una cifra de la que nadie quería hablar. Con el tiempo se supo que aquello era solo el principio, y que lo que parecía un solo incidente era una serie de años."
+          "texto": "Años. Y una cifra de la que nadie quería hablar. Con el tiempo se supo que aquello era solo el principio, y que lo que parecía un solo incidente era una serie de años."
         },
         {
           "voz": "ximena",
-          "texto": "En 2014 se creó un equipo especial de investigación, y esta vez se pusieron los medios. Lo que descubrió, y lo que Högel acabó reconociendo, es lo que cuenta la cinta dos."
+          "texto": "En 2014 la fiscalía abrió una nueva investigación y se creó un equipo especial, y esta vez se pusieron los medios. Lo que descubrió, y lo que Högel acabó reconociendo, es lo que cuenta la cinta dos."
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Admitió cuarenta y tres de los cien cargos, dijo que no recordaba otros cincuenta y dos y negó cinco. Un psicólogo forense concluyó que decía la verdad. Pero fíjate en lo que eso significa: una parte enorme de los casos solo consta por lo que él quiso recordar."
+          "texto": "Admitió cuarenta y tres de los cien cargos, dijo que no recordaba otros cincuenta y dos y negó cinco. Un perito concluyó que sus confesiones eran veraces. Pero fíjate en lo que eso significa: una parte enorme de los casos solo consta por lo que él quiso recordar."
         },
         {
           "voz": "ximena",
@@ -138,7 +138,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El Tribunal Supremo Federal confirmó la sentencia el 11 de septiembre de 2020. En marzo de 2026, el tribunal de Oldenburg fijó un mínimo de veintiocho años de cumplimiento. No es una fecha de salida: antes habría que comprobar si sigue siendo peligroso."
+          "texto": "El Tribunal Supremo Federal confirmó la sentencia el 11 de septiembre de 2020. En marzo de 2026, el tribunal de Oldenburg fijó un mínimo de veintiocho años de cumplimiento, y en abril la decisión quedó firme. No es una fecha de salida: antes habría que comprobar si sigue siendo peligroso."
         },
         {
           "voz": "alvaro",
@@ -167,5 +167,5 @@
       ]
     }
   ],
-  "nota_revision": "Discrepancias y dudas. 1) El v2 decía que lo sorprendió «una enfermera» y que el paciente sufrió una crisis grave; las crónicas hablan de compañeros que lo sorprendieron administrando un fármaco sin indicación, y de una enfermera que encontró cuatro ampollas vacías (NOS, Ärzteblatt); no consta que el paciente tuviera una crisis. 2) Llegada a Delmenhorst: el v2 decía 2003; Wikipedia y NOS dan el 15/12/2002 (The Local dice 2003). 3) Condena de 2008: Wikipedia, 7,5 años por intento de homicidio (antes, en diciembre de 2006, cinco años, anulada); NOS dice que en el primer juicio se le condenó por una muerte; Rappler dice siete años. El guion dice intento de homicidio con 7,5 años. 4) La detención: Wikipedia, verano de 2005; NOS, diciembre de 2005; el guion no da fecha. 5) Condena de 2015: dos asesinatos y dos intentos (NOS); Wikipedia solo dice que fue acusado de tres asesinatos y dos intentos. 6) El v2 decía que se exhumaron más de cien cuerpos en decenas de cementerios del norte de Alemania; Wikipedia dice 134 en Alemania, Polonia y Turquía. 7) El v2 decía que 'pidió perdón' en 2019; no se ha podido confirmar en las fuentes leídas y se omite. 8) El v2 decía que varios exresponsables fueron llevados a juicio sin dar el resultado: fueron absueltos el 13/10/2022 (evangelisch.de, Wikipedia). 9) El v2 decía que en Baja Sajonia se reforzó por ley la vigilancia de fármacos; no se ha podido contrastar y se omite. Solo consta que las clínicas anunciaron en julio de 2015 una segunda inspección de los fallecimientos (Wikipedia). 10) Cifras: 85 condenados; 15 absoluciones; 100 cargos; 97 acusados en enero de 2018; ficha dice 300+ (estimación). 11) Nombres: no se nombra a ninguna víctima; se nombra a Christian Marbach (portavoz de las familias, citado por The Local). 12) El inspector atribuye la frase «punta del iceberg» a los investigadores (Wikipedia). 13) Marzo de 2026: mínimo de 28 años (LG Oldenburg, 17/3/2026, beck-aktuell, 23/3/2026), no firme en la fecha de la noticia: comprobar que sigue así. 14) El v2 comparaba con Kristen Gilbert; se elimina. 15) La referencia a la noche del 24/6/2005 (otra muerte tras la detección) sale de crónicas en neerlandés y alemán de resumen; sería mejor segunda fuente."
+  "nota_revision": "Discrepancias y dudas. 1) El v2 decía que lo sorprendió «una enfermera» y que el paciente sufrió una crisis grave; las crónicas hablan de compañeros que lo sorprendieron administrando un fármaco sin indicación, y de una enfermera que encontró cuatro ampollas vacías (NOS, Ärzteblatt); no consta que el paciente tuviera una crisis. 2) Llegada a Delmenhorst: el v2 decía 2003; Wikipedia y NOS dan el 15/12/2002 (The Local dice 2003). 3) Condena de 2008: Wikipedia, 7,5 años por intento de homicidio (antes, en diciembre de 2006, cinco años, anulada); NOS dice que en el primer juicio se le condenó por una muerte; Rappler dice siete años. El guion dice intento de homicidio con 7,5 años. 4) La detención: Wikipedia, verano de 2005; NOS, diciembre de 2005; el guion no da fecha. 5) Condena de 2015: dos asesinatos y dos intentos (NOS); Wikipedia solo dice que fue acusado de tres asesinatos y dos intentos. 6) El v2 decía que se exhumaron más de cien cuerpos en decenas de cementerios del norte de Alemania; Wikipedia dice 134 en Alemania, Polonia y Turquía. 7) El v2 decía que 'pidió perdón' en 2019; no se ha podido confirmar en las fuentes leídas y se omite. 8) El v2 decía que varios exresponsables fueron llevados a juicio sin dar el resultado: fueron absueltos el 13/10/2022 (evangelisch.de, Wikipedia). 9) El v2 decía que en Baja Sajonia se reforzó por ley la vigilancia de fármacos; no se ha podido contrastar y se omite. Solo consta que las clínicas anunciaron en julio de 2015 una segunda inspección de los fallecimientos (Wikipedia). 10) Cifras: 85 condenados; 15 absoluciones; 100 cargos; 97 acusados en enero de 2018; ficha dice 300+ (estimación). 11) Nombres: no se nombra a ninguna víctima; se nombra a Christian Marbach (portavoz de las familias, citado por The Local). 12) El inspector atribuye la frase «punta del iceberg» a los investigadores (Wikipedia). 13) Marzo de 2026: mínimo de 28 años (LG Oldenburg, 17/3/2026, beck-aktuell, 23/3/2026), no firme en la fecha de la noticia: comprobar que sigue así. 14) El v2 comparaba con Kristen Gilbert; se elimina. 15) La referencia a la noche del 24/6/2005 (otra muerte tras la detección) sale de crónicas en neerlandés y alemán de resumen; sería mejor segunda fuente. VERIFICACIÓN estrella-9: el mínimo de 28 años (17/3/2026) es firme: el tribunal comunicó en abril de 2026 que ni Högel ni la fiscalía recurrieron (beck-aktuell, 17/4/2026; fuente añadida). Quitada la exhumación de ocho cuerpos en 2008 (sin fuente). 28/2/2015 y cifras de 2017-2019 confirmadas con Wikipedia; absolución de los siete superiores, evangelisch.de."
 }

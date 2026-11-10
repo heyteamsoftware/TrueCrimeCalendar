@@ -10,23 +10,74 @@
       "titulo": "Una habitación pintada de rojo",
       "tipo": "hallazgo",
       "bloques": [
-        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: José Antonio Rodríguez Vega, el mataviejas de Santander. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
-        {"voz": "ximena", "texto": "Cinta uno. Una habitación pintada de rojo."},
-        {"voz": "ximena", "texto": "Santander, 19 de mayo de 1988. Tras semanas de seguimiento, la policía detiene a un albañil de treinta años y registra su vivienda. En una habitación pintada de rojo hay objetos que no parecen suyos: figuras, joyas, pequeños recuerdos de otras vidas."},
-        {"voz": "ximena", "texto": "Pronto se sabrá a quién pertenecían. Eran de mujeres mayores que vivían solas y que habían muerto en sus casas en los meses anteriores. Muertes que, en su mayoría, nadie había investigado."},
-        {"voz": "alvaro", "texto": "Nota del inspector. Anoto el dato más inquietante del expediente. De las dieciséis muertes, trece se habían certificado como naturales. Una mujer de ochenta años muere en su casa y a nadie le extraña. Nadie sospecha de nada, porque así suele ser. Esa fue la puerta por la que entró."},
-        {"voz": "ximena", "texto": "José Antonio Rodríguez Vega había nacido en Santander el 3 de diciembre de 1957. En 1978 lo condenaron a veintisiete años por agresiones sexuales cometidas en la ciudad. Salió en 1986, tras cumplir unos ocho. En los años setenta lo llamaban en la ciudad el violador de la moto. Pasó buena parte de su juventud en prisión."},
-        {"voz": "ximena", "texto": "Trabajaba como albañil. Tenía buena presencia y un trato educado. Era el tipo de hombre al que una vecina mayor no dudaría en abrir la puerta."},
-        {"voz": "alvaro", "texto": "Pensemos en la España de finales de los ochenta. Muchas mujeres de aquella generación habían enviudado y vivían solas en pisos antiguos, a menudo con pocas visitas. Es el contexto que repiten quienes han estudiado el caso. No justifica nada. Explica por qué nadie preguntó."},
-        {"voz": "ximena", "texto": "Su método se basaba en la confianza. Se ofrecía a hacer pequeñas obras a mujeres mayores que vivían solas. Según la prensa, también se presentaba como técnico de mantenimiento o como vendedor de seguros. Volvía, charlaba con ellas, y así conocía sus casas y sus rutinas."},
-        {"voz": "ximena", "texto": "Entre 1987 y 1988 murieron dieciséis mujeres, de entre sesenta y uno y noventa y tres años. Las fuentes no coinciden en cuándo empezó todo: en abril o en agosto de 1987. Eran viudas o jubiladas, vivían solas y murieron en sus propios domicilios. El último crimen conocido es de abril de 1988. Un mes después, lo detuvieron."},
-        {"voz": "alvaro", "texto": "Y aquí aparece una pieza que no se suele contar. Según varias fuentes, fue un periódico, El Diario Montañés, y no la policía, el que alertó del patrón de muertes de ancianas. Una redacción cruzó lo que ninguna comisaría había cruzado."},
-        {"voz": "ximena", "texto": "Algunas familias, cuando recogían las cosas de sus madres, echaron en falta objetos en las casas de sus madres y abuelas. Pequeños detalles que no cuadraban. Y los investigadores comprobaron que en varias viviendas se habían hecho obras de albañilería."},
-        {"voz": "ximena", "texto": "En una de las casas apareció una tarjeta con su nombre y su dirección. La Guardia Civil, que investigaba el último crimen, el de Muriedas, identificó al mismo albañil."},
-        {"voz": "ximena", "texto": "La prensa lo bautizó como el mataviejas, un apodo cruel que pasó a la crónica negra española. Pero al principio, cuando morían aquellas mujeres, nadie hablaba de un asesino. Hablaban de ancianas que se iban en paz."},
-        {"voz": "alvaro", "texto": "Dos cuerpos policiales, una cadena de muertes y una coincidencia. Obras en casas distintas. Pudo salir antes. Pero casi ninguna de aquellas muertes figuraba como un delito, y nadie cruza expedientes que no existen. Es mi lectura, no una acusación."},
-        {"voz": "ximena", "texto": "Los policías lo vigilaron durante semanas, y reunieron testimonios de vecinos y análisis forenses, con la presión de la prensa. Hasta que, el 19 de mayo de 1988, llegó la detención."},
-        {"voz": "ximena", "texto": "Y con ella, una pregunta para las familias: ¿a quién había pertenecido cada pieza de aquella habitación? Cada objeto tenía una dueña. Y cada dueña, una familia que no había imaginado cómo había muerto."}
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: José Antonio Rodríguez Vega, el mataviejas de Santander. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una habitación pintada de rojo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Santander, 19 de mayo de 1988. Tras semanas de seguimiento, la policía detiene a un albañil de treinta años y registra su vivienda. En una habitación pintada de rojo hay objetos que no parecen suyos: figuras, joyas, pequeños recuerdos de otras vidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pronto se sabrá a quién pertenecían. Eran de mujeres mayores que vivían solas y que habían muerto en sus casas en los meses anteriores. Muertes que, en su mayoría, nadie había investigado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto el dato más inquietante del expediente. De las dieciséis muertes, trece se habían certificado como naturales. Una mujer de ochenta años muere en su casa y a nadie le extraña. Nadie sospecha de nada, porque así suele ser. Esa fue la puerta por la que entró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "José Antonio Rodríguez Vega había nacido en Santander el 3 de diciembre de 1957. En 1978 lo condenaron a veintisiete años por agresiones sexuales cometidas en la ciudad. Salió en 1986, tras cumplir unos ocho. En los años setenta lo llamaban en la ciudad el violador de la moto. Pasó buena parte de su juventud en prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Trabajaba como albañil y vivía en una habitación alquilada. Tenía buena presencia y un trato educado. Era el tipo de hombre al que una vecina mayor no dudaría en abrir la puerta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pensemos en la España de finales de los ochenta. Muchas mujeres de aquella generación habían enviudado y vivían solas en pisos antiguos, a menudo con pocas visitas. Es el contexto que repiten quienes han estudiado el caso. No justifica nada. Explica por qué nadie preguntó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su método se basaba en la confianza. Se ofrecía a hacer pequeñas obras a mujeres mayores que vivían solas. Según la prensa, también se presentaba como técnico de mantenimiento o como vendedor de seguros. Volvía, charlaba con ellas, y así conocía sus casas y sus rutinas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1987 y 1988 murieron dieciséis mujeres, de entre sesenta y uno y noventa y tres años. Las fuentes no coinciden en cuándo empezó todo: en abril o en agosto de 1987. Eran viudas o jubiladas, vivían solas y murieron en sus propios domicilios. El último crimen conocido es de abril de 1988. Un mes después, lo detuvieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí aparece una pieza que no se suele contar. Según varias fuentes, fue un periódico, El Diario Montañés, y no la policía, el que alertó del patrón de muertes de ancianas. Una redacción cruzó lo que ninguna comisaría había cruzado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Algunas familias, al recoger las cosas de sus madres y abuelas, echaron en falta objetos. Pequeños detalles que no cuadraban. Y los investigadores comprobaron que en varias viviendas se habían hecho obras de albañilería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En una de las casas apareció una tarjeta con su nombre y su dirección. La Guardia Civil, que investigaba el último crimen, el de Muriedas, identificó al mismo albañil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa lo bautizó como el mataviejas, un apodo cruel que pasó a la crónica negra española. Pero al principio, cuando morían aquellas mujeres, nadie hablaba de un asesino. Hablaban de ancianas que se iban en paz."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos cuerpos policiales, una cadena de muertes y una coincidencia. Obras en casas distintas. Pudo salir antes. Pero casi ninguna de aquellas muertes figuraba como un delito, y nadie cruza expedientes que no existen. Es mi lectura, no una acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los policías lo vigilaron durante semanas, y reunieron testimonios de vecinos y análisis forenses, con la presión de la prensa. Hasta que, el 19 de mayo de 1988, llegó la detención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y con ella, una pregunta para las familias: ¿a quién había pertenecido cada pieza de aquella habitación? Cada objeto tenía una dueña. Y cada dueña, una familia que no había imaginado cómo había muerto."
+        }
       ]
     },
     {
@@ -34,28 +85,88 @@
       "titulo": "Cuatrocientos cuarenta años",
       "tipo": "juicio",
       "bloques": [
-        {"voz": "ximena", "texto": "Cinta dos. Cuatrocientos cuarenta años."},
-        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de José Antonio Rodríguez Vega, detenido en Santander el 19 de mayo de 1988. Lo dejamos con una habitación llena de objetos que las familias iban a reconocer una a una."},
-        {"voz": "ximena", "texto": "Tras su detención, confesó. Los objetos de su vivienda permitieron relacionarlo con las víctimas, una a una. Se revisaron otras muertes recientes de mujeres mayores de la ciudad."},
-        {"voz": "alvaro", "texto": "Fíjate en lo que supone para una familia. Han enterrado a su madre como a una persona que murió en paz. Y de pronto la policía les enseña un objeto suyo en una habitación ajena. No hay una forma suave de entender eso."},
-        {"voz": "ximena", "texto": "El juicio se celebró en la Audiencia Provincial de Santander, a finales de noviembre de 1991. Sobre lo que dijo allí las fuentes no coinciden. Unas afirman que reconoció quince de las dieciséis muertes. Otras, que sostuvo que las mujeres habían muerto por causas naturales."},
-        {"voz": "ximena", "texto": "Los peritos concluyeron que era imputable, es decir, que respondía de sus actos. Describieron rasgos psicopáticos y una peligrosidad muy alta. Los psiquiatras advirtieron de que podría volver a matar cuando saliera de prisión."},
-        {"voz": "ximena", "texto": "El 5 de diciembre de 1991 lo condenaron a cuatrocientos cuarenta años de prisión por los dieciséis asesinatos. El tribunal lo calificó de psicópata y estableció que no saldría de la cárcel al menos hasta 2008."},
-        {"voz": "ximena", "texto": "Con los beneficios penitenciarios, y con el límite legal de treinta años, el tribunal calculaba que habría quedado libre en 2008. No llegó a esa fecha."},
-        {"voz": "alvaro", "texto": "Cuatrocientos cuarenta años suenan a mucho. Pero el Código Penal de entonces limitaba el cumplimiento a treinta, y las redenciones por trabajo lo acortaban más. La cifra de la sentencia es un símbolo. La que cuenta es la del cumplimiento."},
-        {"voz": "ximena", "texto": "No llegó a cumplirla. El 24 de octubre de 2002, dos días después de un traslado a la prisión de Topas, en Salamanca, dos presos lo mataron a cuchilladas en el patio. Tenía cuarenta y cuatro años. Los agresores dijeron que lo hicieron porque era un violador. Ya lo habían atacado en la cárcel anterior."},
-        {"voz": "ximena", "texto": "Aquella sentencia describió al condenado como un psicópata y un pervertido sexual. Es el lenguaje del tribunal. Las familias hablaban de otra cosa: de sus madres."},
-        {"voz": "ximena", "texto": "Su muerte no cerró nada. Muchas familias llevaban catorce años sin respuestas completas sobre cómo murieron sus madres."},
-        {"voz": "alvaro", "texto": "Queda la cifra. Son al menos dieciséis. Algún analista ha sugerido que pudieron ser entre veinticinco y veintiséis, porque una décima parte de los objetos nunca se reconoció. No hay pruebas de eso. Lo anoto y lo dejo ahí."},
-        {"voz": "ximena", "texto": "El caso sacudió Santander y toda España. Puso de relieve la soledad de muchas personas mayores y lo fácil que era que una muerte en casa no se investigara a fondo."},
-        {"voz": "ximena", "texto": "También obligó a reflexionar sobre los certificados de defunción rutinarios y sobre la necesidad de mirar con más cuidado las muertes de personas mayores que viven solas."},
-        {"voz": "alvaro", "texto": "Dos medidas prácticas se pueden extraer. La primera: examinar con más cuidado la muerte de una persona mayor que vive sola, aunque parezca natural. La segunda: que una familia que echa en falta un objeto, o que sospecha, encuentre una puerta abierta. En este caso, ambas faltaron durante meses."},
-        {"voz": "alvaro", "texto": "En este archivo hay otro caso de patrón muy parecido, al otro lado del Atlántico: el de Juana Barraza, la Mataviejitas de Ciudad de México. Dos historias que muestran cómo se puede traicionar la confianza de una persona mayor."},
-        {"voz": "ximena", "texto": "Pero detrás del apodo hay dieciséis mujeres. Madres, abuelas, vecinas de toda la vida, que abrieron la puerta a alguien que parecía un buen hombre."},
-        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a ellas, de entre sesenta y uno y noventa y tres años. Y a las familias que tardaron en saber qué había pasado."},
-        {"voz": "ximena", "texto": "Fin del expediente de José Antonio Rodríguez Vega. Archivo de TRUE CRIME CALENDAR."}
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Cuatrocientos cuarenta años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de José Antonio Rodríguez Vega, detenido en Santander el 19 de mayo de 1988. Lo dejamos con una habitación llena de objetos que las familias iban a reconocer una a una."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras su detención, confesó. Los objetos de su vivienda permitieron relacionarlo con las víctimas, una a una. Se revisaron otras muertes recientes de mujeres mayores de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que supone para una familia. Han enterrado a su madre como a una persona que murió en paz. Y de pronto la policía les enseña un objeto suyo en una habitación ajena. No hay una forma suave de entender eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en la Audiencia Provincial de Santander, a finales de noviembre de 1991. Sobre lo que dijo allí las fuentes no coinciden. Unas afirman que reconoció quince de las dieciséis muertes. Otras, que sostuvo que las mujeres habían muerto por causas naturales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los peritos concluyeron que era imputable, es decir, que respondía de sus actos. Describieron rasgos psicopáticos y una peligrosidad muy alta. Los informes concluyeron que no tenía ninguna enfermedad mental que le impidiera entender sus actos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 5 de diciembre de 1991 lo condenaron a cuatrocientos cuarenta años de prisión por los dieciséis asesinatos. El tribunal lo calificó de psicópata y de pervertido sexual, y estableció que no saldría de la cárcel al menos hasta 2008."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con el límite legal de treinta años y los beneficios penitenciarios, habría quedado libre en 2008. No llegó a esa fecha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuatrocientos cuarenta años suenan a mucho. Pero el Código Penal de entonces limitaba el cumplimiento a treinta, y las redenciones por trabajo lo acortaban más. La cifra de la sentencia es un símbolo. La que cuenta es la del cumplimiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No llegó a cumplirla. El 24 de octubre de 2002, dos días después de un traslado a la prisión de Topas, en Salamanca, dos presos lo mataron a cuchilladas en el patio. Tenía cuarenta y cuatro años. Los agresores dijeron que lo hicieron porque era un violador. Ya lo habían atacado en la cárcel anterior."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los informes y la sentencia hablan de él: de su personalidad, de su peligrosidad. Las familias hablaban de otra cosa: de sus madres, de sus nombres y de todo lo que les faltaba por saber."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su muerte no cerró nada. Muchas familias llevaban catorce años sin respuestas completas sobre cómo murieron sus madres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda la cifra. Son al menos dieciséis. Algún analista ha sugerido que pudieron ser entre veinticinco y veintiséis, porque una décima parte de los objetos nunca se reconoció. No hay pruebas de eso. Lo anoto y lo dejo ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso sacudió Santander y toda España. Puso de relieve la soledad de muchas personas mayores y lo fácil que era que una muerte en casa no se investigara a fondo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También obligó a reflexionar sobre los certificados de defunción rutinarios y sobre la necesidad de mirar con más cuidado las muertes de personas mayores que viven solas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos medidas prácticas se pueden extraer. La primera: examinar con más cuidado la muerte de una persona mayor que vive sola, aunque parezca natural. La segunda: que una familia que echa en falta un objeto, o que sospecha, encuentre una puerta abierta. En este caso, ambas faltaron durante meses."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En este archivo hay otro caso de patrón muy parecido, al otro lado del Atlántico: el de Juana Barraza, la Mataviejitas de Ciudad de México. Dos historias que muestran cómo se puede traicionar la confianza de una persona mayor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero detrás del apodo hay dieciséis mujeres. Madres, abuelas, vecinas de toda la vida, que abrieron la puerta a alguien que parecía un buen hombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a ellas, de entre sesenta y uno y noventa y tres años. Y a las familias que tardaron en saber qué había pasado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de José Antonio Rodríguez Vega. Archivo de TRUE CRIME CALENDAR."
+        }
       ]
     }
   ],
-  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (es), AMC Channels, Cantabria24Horas (Criminalia), Hablar y Decir, AP/Deseret News (25/10/2002). Pocas fuentes de prensa de la época a las que se pueda acceder; faltan El País y El Diario Montañés (no se pudieron abrir). DISCREPANCIAS. 1) Ficha: «Condenado a 440 años»: AP y Cantabria24Horas dicen 440 (sentencia del 5/12/1991); Wikipedia (es) pone 432 en la sección del juicio y 440 en el resto. 2) Ficha: «1987–1988»: Wikipedia, de agosto de 1987 a abril de 1988; Cantabria24Horas, del 15/4/1987 al 19/4/1988. El guion dice «en abril o en agosto de 1987». 3) Edades: Wikipedia, «entre 60 y 93»; Cantabria24Horas y AMC, «61 a 93». El guion dice 61 a 93. 4) El v2 decía que se ganaba la confianza «ofreciéndose a hacer reparaciones»; AP dice que fingía ser reparador de televisores o vendedor de seguros; hablarydecir, técnico de mantenimiento. 5) Lo que dijo en el juicio: Cantabria24Horas, reconoció 15 de las 16 muertes; Wikipedia (es), alegó causas naturales y que solo las había dejado inconscientes. El guion recoge ambas versiones. 6) Antecedentes: condena de 27 años en 1978, cumplió unos 8 (AMC, Cantabria24, Hablar y Decir, Wikipedia); una fuente menciona 17 años, descartada. 7) Detección: Wikipedia, periodistas de El Diario Montañés investigaron a finales de 1987; AMC, un error en la escena y una puerta blindada; Cantabria24, tarjeta con su nombre, obras de albañilería y la Guardia Civil de Muriedas. El guion combina lo común y lo atribuye. 8) «Seguimiento de 28 días» (Cantabria24Horas): se dice «semanas». 9) Trece de las 16 muertes se certificaron como naturales (Cantabria24Horas). 10) Muerte: 24/10/2002, dos días después del traslado a Topas (AP); AMC dice «hasta cien puñaladas», Hablar y Decir habla de cuchilla: el guion no da el método. 11) Estimación de 25-26 víctimas: opinión de un analista (Criminalia / Cantabria24), sin pruebas; se dice así. 12) En el v2 se hablaba de «Código Penal de entonces, máximo de treinta años»: lo recoge AP. Fecha de liberación prevista: 2008 (AP, Cantabria24). 13) Quitado: el detalle de un objeto concreto en el cuerpo de una víctima (AMC) y el método de las muertes, por morbo. 14) Victimas: Wikipedia (es) nombra a cinco (Margarita González, Carmen González Fernández, Natividad Robledo Espinosa, Carmen Martínez González y Julia Paz Fernández), solo en esa fuente; no se nombra a ninguna por no haber segunda fuente ni constar la voluntad de las familias. 15) El primer v2 decía «mató a dieciséis en Santander»: algunas fueron en localidades cercanas (Muriedas). 16) La «habitación roja» se recoge en Wikipedia y AMC; v2 no la mencionaba. Los beneficios de redención por trabajo: AP."
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (es), AMC Channels, Cantabria24Horas (Criminalia), Hablar y Decir, AP/Deseret News (25/10/2002). Pocas fuentes de prensa de la época a las que se pueda acceder; faltan El País y El Diario Montañés (no se pudieron abrir). DISCREPANCIAS. 1) Ficha: «Condenado a 440 años»: AP y Cantabria24Horas dicen 440 (sentencia del 5/12/1991); Wikipedia (es) pone 432 en la sección del juicio y 440 en el resto. 2) Ficha: «1987–1988»: Wikipedia, de agosto de 1987 a abril de 1988; Cantabria24Horas, del 15/4/1987 al 19/4/1988. El guion dice «en abril o en agosto de 1987». 3) Edades: Wikipedia, «entre 60 y 93»; Cantabria24Horas y AMC, «61 a 93». El guion dice 61 a 93. 4) El v2 decía que se ganaba la confianza «ofreciéndose a hacer reparaciones»; AP dice que fingía ser reparador de televisores o vendedor de seguros; hablarydecir, técnico de mantenimiento. 5) Lo que dijo en el juicio: Cantabria24Horas, reconoció 15 de las 16 muertes; Wikipedia (es), alegó causas naturales y que solo las había dejado inconscientes. El guion recoge ambas versiones. 6) Antecedentes: condena de 27 años en 1978, cumplió unos 8 (AMC, Cantabria24, Hablar y Decir, Wikipedia); una fuente menciona 17 años, descartada. 7) Detección: Wikipedia, periodistas de El Diario Montañés investigaron a finales de 1987; AMC, un error en la escena y una puerta blindada; Cantabria24, tarjeta con su nombre, obras de albañilería y la Guardia Civil de Muriedas. El guion combina lo común y lo atribuye. 8) «Seguimiento de 28 días» (Cantabria24Horas): se dice «semanas». 9) Trece de las 16 muertes se certificaron como naturales (Cantabria24Horas). 10) Muerte: 24/10/2002, dos días después del traslado a Topas (AP); AMC dice «hasta cien puñaladas», Hablar y Decir habla de cuchilla: el guion no da el método. 11) Estimación de 25-26 víctimas: opinión de un analista (Criminalia / Cantabria24), sin pruebas; se dice así. 12) En el v2 se hablaba de «Código Penal de entonces, máximo de treinta años»: lo recoge AP. Fecha de liberación prevista: 2008 (AP, Cantabria24). 13) Quitado: el detalle de un objeto concreto en el cuerpo de una víctima (AMC) y el método de las muertes, por morbo. 14) Victimas: Wikipedia (es) nombra a cinco (Margarita González, Carmen González Fernández, Natividad Robledo Espinosa, Carmen Martínez González y Julia Paz Fernández), solo en esa fuente; no se nombra a ninguna por no haber segunda fuente ni constar la voluntad de las familias. 15) El primer v2 decía «mató a dieciséis en Santander»: algunas fueron en localidades cercanas (Muriedas). 16) La «habitación roja» se recoge en Wikipedia y AMC; v2 no la mencionaba. Los beneficios de redención por trabajo: AP. VERIFICACIÓN estrella-9: quitada la advertencia de los psiquiatras sobre «volver a matar» (sin fuente); apodo «violador de la moto», habitación roja, tarjeta con su nombre y 440 años confirmados en Cantabria24Horas, AMC y Wikipedia (es). Sin nombres de víctimas."
 }
