@@ -1,0 +1,40 @@
+{
+  "id": "idiarte-borda",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Idiarte Borda": "Idiárte Bórda",
+    "Arredondo": "Arredóndo",
+    "Aparicio Saravia": "Aparísio Saravía"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un tedeum y un revólver",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El magnicidio de Idiarte Borda. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un tedeum y un revólver." },
+        { "voz": "ximena", "texto": "Montevideo, 25 de agosto de 1897. Es el día de la independencia de Uruguay. Hay desfile, tropas formadas y una ciudad engalanada. El presidente, Juan Idiarte Borda, asiste al tedeum en la Iglesia Matriz." },
+        { "voz": "ximena", "texto": "Según contaron sus hijas, ellas le habían advertido antes de salir de que corría peligro. El país llevaba meses en guerra y la tensión se notaba en la calle. Él restó importancia al aviso y se negó a llevar una escolta a caballo." },
+        { "voz": "alvaro", "texto": "Primera nota. Un presidente en plena guerra civil que sale a pie, con un desfile, entre una multitud. Nadie le puso un cordón detrás. Ese día, la seguridad fue una cuestión de confianza." },
+        { "voz": "ximena", "texto": "Al salir de la ceremonia, encabezaba la comitiva por la calle Sarandí, camino de la casa de gobierno. Frente al Club Uruguay, un joven de veintisiete años, Avelino Arredondo, se adelantó y le disparó con un revólver antiguo." },
+        { "voz": "ximena", "texto": "La bala le dio en el pecho y murió casi en el acto. Según el relato más repetido, sus últimas palabras fueron «estoy muerto». Una crónica de la época habla de un tumulto en la calle y de heridos." },
+        { "voz": "alvaro", "texto": "Fíjate en el detalle. Las tropas estaban allí, formadas para rendirle honores, y no evitaron el disparo. Una multitud rodeaba la comitiva. Hay historiadores que lo leen como reflejo de lo poco que se le apreciaba." },
+        { "voz": "ximena", "texto": "Idiarte Borda había nacido en Mercedes en 1844, en una familia acomodada. De joven tocaba el clarinete y le llamaban el Pelotari, por su afición a la pelota vasca. Fue soldado, diputado y senador." },
+        { "voz": "ximena", "texto": "En 1894 llegó a la presidencia tras una de las elecciones más difíciles de la historia del país: veintiún días y cuarenta votaciones en el Senado." },
+        { "voz": "alvaro", "texto": "No fue un gobierno vacío. Empezó el nuevo puerto de Montevideo, fundó el Banco de la República y trazó una línea de ferrocarril. Pero también arrastró una acusación: la de favorecer el fraude electoral." },
+        { "voz": "ximena", "texto": "Esa acusación la formuló un líder de su propio partido, José Batlle y Ordóñez. A comienzos de 1897 estalló una revolución del Partido Nacional, encabezada por Aparicio Saravia. Fue una de las guerras civiles más sangrientas del país." },
+        { "voz": "alvaro", "texto": "A mediados de 1897 casi toda la clase política pedía su salida. El presidente apostaba por una solución militar y se negaba a negociar. Esa es la tensión de fondo. Sus enemigos no estaban solo en las filas rebeldes." },
+        { "voz": "ximena", "texto": "Arredondo era del Partido Colorado, el del propio presidente. Según las crónicas de entonces, se mostró tranquilo, dijo estar satisfecho con lo que había hecho y negó que lo moviera otra cosa que el odio personal." },
+        { "voz": "ximena", "texto": "Sostuvo siempre que había actuado solo, sin cómplices ni órdenes de nadie. Fue juzgado y condenado a prisión. La pena exacta y cuánto tiempo estuvo preso no hemos podido comprobarlo." },
+        { "voz": "alvaro", "texto": "Y aquí está lo que el archivo no cierra. Un joven de veintisiete años, un revólver antiguo y un motivo personal. Pero el presidente tenía enemigos dentro de su propio partido. Quien quiera ir más allá de su declaración estaría especulando." },
+        { "voz": "ximena", "texto": "La muerte del presidente no detuvo la guerra de golpe. Pero poco después se firmó la paz. Fue el único magnicidio de un presidente de Uruguay." },
+        { "voz": "alvaro", "texto": "Me quedo con una idea incómoda. El crimen resolvió políticamente lo que la política no había conseguido: un presidente que ya casi nadie defendía dejó de ser el obstáculo de la paz." },
+        { "voz": "ximena", "texto": "El escritor argentino Jorge Luis Borges convirtió a Arredondo en personaje de un cuento. En el archivo queda, sobre todo, un hombre de cincuenta y tres años que salió de una iglesia un día de fiesta y no llegó a la casa de gobierno." },
+        { "voz": "ximena", "texto": "Fin del expediente: El magnicidio de Idiarte Borda. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en español (hora y lugar: calle Sarandí 331 frente al Club Uruguay; hijas; revólver Lefaucheux; últimas palabras; presidencia; Borges), crónica de The County Record (2 de septiembre de 1897; cable de Montevideo, OCR dañado; Arredondo «oficial del ejército» de 27 años, calmo, «odio personal»; tumulto), Biografías y Vidas (resumen: asesinato en las escaleras de la catedral; ejército «no hizo nada»; Arredondo colorado; paz posterior). Contradicciones: lugar del disparo (Sarandí 331, frente al Club Uruguay, según Wikipedia y la ficha; en las escaleras de la catedral según Biografías y Vidas): el guion sigue Wikipedia. Arredondo: «oficial del ejército» (cable de 1897) frente a militante colorado (Biografías): no se afirma su profesión. Edad de Idiarte: 53 años (1844-1897). Pena de Arredondo: ficha dice «juzgado y condenado a prisión»; la pena no se pudo comprobar; el guion lo dice. «Uno de los guerras civiles más sangrientas» y petición de destitución a mediados de 1897: Wikipedia. Que el presidente apostara por una solución militar y se negara a negociar: Wikipedia. «Escolta a caballo» y aviso de las hijas: Wikipedia, «según sus hijas». «A comienzos de 1897 estalló una revolución del Partido Nacional»: Biografías (marzo de 1897). La lectura de que las tropas no lo evitaron «refleja poco aprecio» es interpretación de Biografías y Vidas. «Poco después se firmó la paz»: ficha y Biografías (el Pacto de la Cruz fue en septiembre, no comprobado)."
+}

@@ -49,3 +49,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **atentado-juan-pablo-ii:** la cita del fiscal Marini sale de una sola fuente (CSM). **caso-almeria:** la reparación simbólica de 2023 no tiene crónica posterior. Pronunciación de Ağca (Adyá).
 - **heavens-gate, glico-morinaga, sakuradamon, atentado-reagan:** segundas fuentes débiles (Wikipedia). Pronunciaciones a oído en julio 1-15 (soapy-smith, secuestro-getty, rachel-nickell).
 - **junio 16-30:** Calvi, Escobar y Mississippi Burning tienen datos de contexto sin fuente abierta. Pronunciaciones a oído: Čabrinović, Ilić, Boumaarafi, Rathenau y nombres filipinos.
+- **asesinato-jaures:** el guion dice «mató a Jaurès» aunque Villain fue absuelto; mejor «le disparó». **julio 16-31:** pronunciaciones a oído (Jewell, Hawthorne, Bouchikhi, Provenzano, Giacalone, Wixom, Aung San Suu Kyi, Vilán). **asesinato-obregon:** sin segunda fuente aparte de El Universal.

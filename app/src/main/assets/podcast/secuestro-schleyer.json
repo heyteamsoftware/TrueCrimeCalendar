@@ -1,0 +1,118 @@
+{
+  "id": "secuestro-schleyer",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Schleyer": "Shláier",
+    "Hanns Martin Schleyer": "Jans Mártin Shláier",
+    "Vincenz-Statz": "Vínsents Shtáts",
+    "Heinz Marcisz": "Jainz Mársich",
+    "Reinhold Brändle": "Ráinjold Brendle",
+    "Helmut Ulmer": "Jélmut Úlmer",
+    "Roland Pieler": "Róland Píler",
+    "Helmut Schmidt": "Jélmut Shmit",
+    "Stammheim": "Shtámjaim",
+    "Mulhouse": "Mulús",
+    "Peter-Jürgen Boock": "Péter Yürguen Buk",
+    "Landshut": "Lándshut",
+    "Mogadiscio": "Mogadíshu",
+    "Siegfried Buback": "Sígfrid Búbak",
+    "Jürgen Ponto": "Yürguen Pónto",
+    "Baader": "Báder",
+    "Ensslin": "Énslin",
+    "Raspe": "Ráspe",
+    "RAF": "erre a efe",
+    "SS": "ese ese",
+    "Daimler-Benz": "Déimler Bens"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Noventa segundos en Colonia",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Schleyer. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Noventa segundos en Colonia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Colonia, 5 de septiembre de 1977, las cinco y veintiocho de la tarde. Dos Mercedes avanzan por la calle Vincenz-Statz: en el primero, el empresario Hanns Martin Schleyer y su chófer; detrás, el coche de la escolta, con tres policías. De una entrada sale marcha atrás un coche amarillo y corta la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El chófer frena a tiempo. El coche de escolta, no, y empuja al primero contra el obstáculo. En ese instante empieza el fuego. En poco más de un minuto, al menos ciento diecinueve disparos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cuatro tiradores, una cadena de llamadas que avisaba de cada coche que se acercaba y un obstáculo preparado de antemano. No fue improvisado. Y los escoltas eran policías jóvenes en un coche sin blindar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron los cuatro hombres que protegían a Schleyer: el chófer, Heinz Marcisz, de cuarenta y un años, y los policías Reinhold Brändle, de cuarenta y uno, Helmut Ulmer, de veinticuatro, y Roland Pieler, de veinte. Los atacantes se llevaron a Schleyer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el presidente de la patronal alemana y de la federación de industriales. Durante la guerra había sido miembro de las SS en Praga. Después no fue juzgado y llegó a ser directivo de Daimler-Benz. Para sus secuestradores, era el símbolo de la República Federal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Meses antes, la misma organización había matado al fiscal general, Siegfried Buback, y al banquero Jürgen Ponto. Schleyer ya estaba en la lista de personas en peligro. Sabían que iban a por él y no consiguieron evitarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los secuestradores eran de la Fracción del Ejército Rojo, la RAF. Pedían la liberación de once presos, entre ellos los jefes de la banda, Andreas Baader, Gudrun Ensslin y Jan-Carl Raspe. El canciller, Helmut Schmidt, decidió no ceder."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Schleyer pasó más de seis semanas en pisos francos: primero en un bloque de pisos cerca de Colonia, luego en La Haya y por último en Bruselas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un fallo que me cuesta perdonar. Un policía local detectó que un piso de ese bloque reunía todas las condiciones de un escondite de la RAF y lo comunicó. Según la Wikipedia alemana, el aviso se archivó en el sitio equivocado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 13 de octubre, terroristas palestinos secuestraron un avión de Lufthansa, el Landshut, para apoyar las exigencias. En la madrugada del 18, un grupo especial alemán asaltó el avión en Mogadiscio y liberó a los noventa rehenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma noche, Baader, Ensslin y Raspe murieron en sus celdas de la prisión de Stammheim, en Stuttgart. La conclusión oficial fue que se habían quitado la vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al enterarse, los secuestradores mataron a Schleyer ese mismo día. Su cuerpo apareció el 19 de octubre en el maletero de un coche aparcado en Mulhouse, en Francia. Una llamada a una agencia de prensa había dado la dirección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siete miembros de la RAF fueron condenados a cadena perpetua por su participación en el secuestro. Otros tres recibieron penas menores por colaborar con la justicia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aun así, falta algo. Nadie ha aclarado quién disparó a Schleyer. La autopsia habla de tres disparos de una sola arma, pero con ángulos que apuntan a dos personas. En 2007, un antiguo miembro de la banda, Peter-Jürgen Boock, dio dos nombres. Él no lo presenció; estaba en Bagdad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tampoco está resuelto otro punto: en la calle se encontró una pistola que no se asignó a ninguno de los cuatro tiradores conocidos. Algunos análisis apuntan a una quinta persona. Nunca se ha identificado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los secuestradores no consiguieron lo que querían. Los presos no salieron y la mayoría de los alemanes apoyó la firmeza del Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Colonia hay hoy un monumento a las víctimas del terrorismo de la RAF. Este expediente recuerda a cuatro de ellos: Marcisz, Brändle, Ulmer y Pieler."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Schleyer. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifras y datos: el guion usa «más de seis semanas» porque la ficha dice 43 días (el comunicado de la RAF también) y el Spiegel de 2007 dice 44. El cochecito de bebé de la ficha (campo «mo») no aparece en la Wikipedia alemana, que dice que un coche amarillo salió marcha atrás de una entrada y cortó la calle; el guion usa esa versión y no menciona el cochecito (habría que verificarlo en Aust o en Peters). Hora: 17:28 según la Wikipedia alemana (17:10 es la hora en que salió de la sede de la patronal). Condenas: la Wikipedia alemana da siete condenas a cadena perpetua (Wisniewski, Schulz, Mohnhaupt, Klar, Boock, Wagner, Hofmann) y tres penas de siete a diez años por la ley del arrepentido (Maier-Witt, Helbing, Sternebeck); el guion no nombra a los condenados. Quién disparó a Schleyer: Boock señaló en 2007 a Wisniewski y a Rolf Heißler sin haberlo presenciado; el guion no los nombra para no señalar a nadie con una versión de oídas (Heißler no figura entre los condenados por el secuestro). El archivado erróneo del aviso policial sobre el piso de Erftstadt y la pistola sin asignar en la calle (posible quinta persona) salen de la Wikipedia alemana; no se pudieron contrastar con una segunda fuente. Que los presos de Stammheim se suicidaron es la conclusión oficial que recogen LeMO y la Wikipedia. Fuentes abiertas: LeMO, Welt, Spiegel (2007) y la Wikipedia alemana; el NYT, la KAS y la FAZ no se abrieron."
+}

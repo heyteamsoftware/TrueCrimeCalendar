@@ -1,0 +1,117 @@
+{
+  "id": "atentado-das",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bogotá": "Bogotá",
+    "Paloquemao": "Paloquemáo",
+    "Maza Márquez": "Másá Márquez",
+    "Miguel Maza": "Miguel Masa",
+    "Pablo Escobar": "Pablo Escobár",
+    "Rodríguez Gacha": "Rodríguez Gácha",
+    "Medellín": "Medeyín",
+    "Extraditables": "Extraditables"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un bus en Paloquemao",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra el DAS. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un bus en Paloquemao."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bogotá, miércoles 6 de diciembre de 1989. Son las siete y media de la mañana. En el barrio de Paloquemao, un bus se detiene frente al edificio del Departamento Administrativo de Seguridad, el DAS. El servicio de inteligencia de Colombia. En su interior hay unos quinientos kilos de dinamita."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Segundos después, la calle desaparece."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Hora punta, barrio de oficinas y juzgados, un bus aparcado frente a una sede policial. Un bus es un vehículo que nadie mira dos veces. Y el DAS, además, era el blanco más evidente: investigaba precisamente a esos hombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El objetivo era el director del DAS, el general Miguel Maza Márquez. Se salvó porque su despacho tenía blindaje. El edificio, no. Según El Tiempo, las paredes cayeron y solo quedaron las columnas. La explosión abrió un cráter de trece metros de ancho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las cifras de víctimas varían según la fuente. Entre cincuenta y sesenta y tres personas murieron. Las heridas se cuentan por cientos. El Tiempo habla de más de seiscientas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los alrededores quedaron destruidos unos trescientos comercios y varios bloques de viviendas, y resultaron dañados más de doscientos juzgados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eran empleados, escoltas, vecinos, gente que había ido a hacer una gestión. Ninguno eligió esa guerra, y muchos de ellos seguían buscando respuestas décadas después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa guerra tenía un nombre: la extradición. Los narcotraficantes colombianos, que se hacían llamar los Extraditables, no querían que los enviaran a juzgar a Estados Unidos. Y para impedirlo atacaban al Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Maza Márquez era uno de sus enemigos. Seis meses antes, el 30 de mayo de 1989, había sobrevivido a otro atentado que dejó siete muertos. Combatía a las redes de Pablo Escobar, de Gonzalo Rodríguez Gacha y de otros capos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las investigaciones atribuyeron el atentado al cártel de Medellín. Recuerda esa palabra: atribuyeron. No hubo un juicio que lo estableciera contra quienes se señalaron como cerebros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Y quién lo ejecutó? Los dos únicos condenados, en 1994, fueron dos colaboradores. Uno recibió ocho años y otro nueve, con rebajas por acogerse a la política de sometimiento a la justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los señalados como autores intelectuales, Escobar, Rodríguez Gacha y otros jefes de la organización, murieron sin ser juzgados por este atentado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos condenas y más de cincuenta muertos. Esa es la cuenta de la justicia. Los señalados como cerebros murieron antes de que nadie los juzgara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las consecuencias políticas fueron enormes. El Congreso impulsó un referendo sobre la extradición, lo que hundió una reforma constitucional. Años después, la Asamblea Constituyente prohibió extraditar a colombianos, y Escobar se entregó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es decir: la bomba no consiguió su objetivo inmediato, pero sí contribuyó a cambiar el ambiente político. Según El Espectador, el caso quedó en la impunidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los supervivientes siguieron adelante con lo que quedó. Un detective, Hernando Jiménez Ñungo, perdió un ojo y quedó con una discapacidad del noventa y seis por ciento. Dice que nunca se le reconoció como víctima en el proceso judicial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un jefe de escoltas, Jhon Jairo Castellanos, había vuelto a su alojamiento en el último momento. Una columna junto a su casillero le salvó la vida. Años después perdió una pierna en un accidente, y dice que el DAS nunca lo indemnizó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Espectador recoge el caso de dos hermanas, Angélica y Consuelo Henríquez Esteban, que desaparecieron después de acudir al DAS ese día. Según el artículo, la Unidad de Reparación no las incluyó como víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Treinta y siete años después, esa es la memoria que importa. No la de los capos. La de quienes quedaron con las secuelas y con la sensación de que nadie les rindió cuentas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los nombres de los señalados como cerebros están en los libros de historia. Los de las víctimas, muchas veces, ni siquiera constan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado contra el DAS. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Tiempo y El Espectador (se citan también en la ficha). El Espectador no recoge las condenas de 1994 y habla de impunidad; El Tiempo da los dos condenados (8 y 9 años, por sometimiento a la justicia). Cifras discrepantes: 50 (El Espectador) a 63 muertos (El Tiempo), más de 600 heridos (El Tiempo): el guion dice «entre cincuenta y sesenta y tres». Hora: 7:30. Sobre los Extraditables (contexto) no hay fuente abierta consultada: dato de la ficha. Se citan sin su nombre completo los dos condenados y las víctimas por su testimonio público (Jiménez Ñungo, Castellanos, hermanas Henríquez). No se comprobó quién conducía el bus ni cómo se preparó."
+}

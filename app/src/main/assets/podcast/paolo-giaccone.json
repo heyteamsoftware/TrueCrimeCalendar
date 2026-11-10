@@ -1,0 +1,108 @@
+{
+  "id": "paolo-giaccone",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Paolo Giaccone": "Páolo Yacóne",
+    "Giaccone": "Yacóne",
+    "Bagheria": "Bageríya",
+    "Giuseppe Marchese": "Yusépe Markése",
+    "Marchese": "Markése",
+    "Vincenzo Sinagra": "Vinchénzo Sinágra",
+    "Salvatore Rotolo": "Salvatóre Rotólo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una huella en un Fiat",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El médico que no cambió su informe. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una huella en un Fiat."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Palermo, 11 de agosto de 1982. Un miércoles de calor, hacia las ocho y media de la mañana. Un médico llega al Policlínico, aparca y echa a andar por un paseo apartado, hacia el Instituto de Medicina Legal, donde le espera un trabajo más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Paolo Giaccone y tenía cincuenta y tres años. Era catedrático de medicina legal, y aquella mañana iba a examinar a dos hombres muertos el día anterior."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el perito de confianza de los jueces. Había hecho las autopsias de víctimas ilustres de la mafia, como el presidente de la región siciliana, Piersanti Mattarella, el fiscal Gaetano Costa, el juez Cesare Terranova o el periodista Mario Francese."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el paseo había hombres esperando. Según la prensa de aquel día, eran tres. Dispararon y huyeron a pie por los jardines del hospital."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Las autopsias no eran el motivo. Un investigador lo dijo al periodista: los muertos son muertos y ya no hay nada que hacer. Para entender el asesinato de un perito hay que mirar un informe que escribió meses antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran los años de la guerra de la mafia en Palermo, cuando los corleoneses y sus aliados se abrían paso a tiros. El 25 de diciembre de 1981, en Bagheria, cerca de la ciudad, un comando atacó un coche con mafiosos rivales. Murieron varias personas, entre ellas una mujer que pasaba por allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía encontró el coche de los asesinos, un Fiat. Dentro, en el interior, había una huella dactilar. El encargo de examinarla fue para Giaccone."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Piensa en lo que significa una sola huella. Era casi la única prueba que podía atar a un asesino a la masacre. La huella no mentía. Y al perito, sí le pidieron que mintiera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El análisis de Giaccone identificó a Giuseppe Marchese, sobrino de Filippo Marchese, un jefe mafioso de Palermo. Desde ese momento, Giaccone recibió presiones y amenazas, también del abogado de Marchese, para que cambiara sus conclusiones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un abogado fue detenido por las amenazas. Es un dato público. No hace falta suponer más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Giaccone se negó una y otra vez. Su informe sirvió para que Giuseppe Marchese fuera condenado a cadena perpetua. Y a los pocos meses, Giaccone fue asesinado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las primeras sospechas señalaron a Filippo Marchese. Pero muchos investigadores pensaron que era una hipótesis demasiado corta: la muerte de alguien tan conocido no se decidía sin el visto bueno de toda la cúpula mafiosa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atribuyo esa tesis a quienes investigaron entonces. No tengo una sentencia que la confirme. Lo que sí hay es un arrepentido, Vincenzo Sinagra, que contó los detalles del crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gracias a esa declaración, Salvatore Rotolo fue condenado a cadena perpetua en el maxiproceso de Palermo como autor material. Quién lo ordenó nunca se estableció del todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que más me inquieta del expediente. Un hombre que cumplía con su trabajo fue asesinado después de resistir presiones y amenazas. Se castigó al brazo. La cabeza sigue en la sombra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Lo que hizo Giaccone no fue un gesto de héroe de película. Fue una negativa de oficina: no cambiar una conclusión que era verdad. Cada vez que alguien se niega a torcer un informe, sostiene algo más grande que él mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Giaccone había nacido en Palermo en 1929. Estudió en los jesuitas, tocaba música, pintaba caricaturas y escribía poesía. Se casó con Rosetta y tuvieron cuatro hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy el Policlínico de Palermo lleva su nombre, y una calle del parque de la Favorita. Se le recuerda por algo sencillo: cuando le pidieron que cambiara un informe, no lo cambió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El médico que no cambió su informe. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Vittime Mafia (con reproducción de La Stampa, 11 de agosto de 1982), Antimafia Duemila (Roberto Greco, 2019), Wikipedia en italiano; BlogSicilia y Repubblica no se abrieron. Contradicción: La Stampa (1982) habla de tres sicarios que huyeron a pie; Greco (2019), de dos hombres a pie y un tercero en un coche, que huyeron en moto: el guion dice «según la prensa de aquel día, eran tres» y no da el número de disparos (solo Wikipedia y Greco dan cinco). Antimafia Duemila y Vittime Mafia dicen que el tiroteo de Bagheria fue con cuatro muertos y que la huella estaba en un Fiat 128; el guion dice «un Fiat». Filippo Marchese como sospechoso de las primeras investigaciones sale de Antimafia Duemila, que lo califica de hipótesis reductiva: se da como tesis atribuida y sin condena. Lo del abogado detenido por las amenazas sale de Vittime Mafia (que cita a Wikipedia). Víctimas ilustres de las que hizo las autopsias: Antimafia Duemila (Greco), que también da su biografía (jesuitas, música, caricaturas, poesía, cuatro hijos). El Policlínico y la calle de la Favorita llevan su nombre: Wikipedia en italiano. Rotolo condenado como autor material y los mandantes sin establecer: ficha y Wikipedia en italiano. Giaccone iba a hacer la autopsia de dos Di Peri, muertos el día anterior (La Stampa)."
+}

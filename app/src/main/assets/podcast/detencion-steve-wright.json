@@ -1,0 +1,115 @@
+{
+  "id": "detencion-steve-wright",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Steve Wright": "Estív Rait",
+    "Wright": "Rait",
+    "Ipswich": "Ípswich",
+    "Felixstowe": "Félikstou",
+    "Suffolk": "Sáfok",
+    "Old Bailey": "Old Béili",
+    "Gemma Adams": "Yéma Ádams",
+    "Tania Nicol": "Tánia Níkol",
+    "Anneli Alderton": "Ánneli Ólderton",
+    "Paula Clennell": "Pola Clénel",
+    "Annette Nicholls": "Anét Níkols",
+    "Trimley": "Trímli",
+    "Tom Stephens": "Tom Estívens",
+    "Y-STR": "i es te erre"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cinco cuerpos en diez días",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La detención de Steve Wright. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cinco cuerpos en diez días."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Suffolk, Inglaterra, diciembre de 2006. El día 2, en el campo, cerca de Ipswich, aparece el cuerpo de una mujer. Diez días después ya son cinco. Todas habían desaparecido de la misma zona de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cinco mujeres en diez días, en una ciudad pequeña. Todas trabajaban en la misma calle y todas subieron a un coche. Esa era la pista: el coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaban Gemma Adams, Tania Nicol, Anneli Alderton, Paula Clennell y Annette Nicholls. Eran mujeres que ejercían la prostitución en Ipswich. Las fuentes de la época las reducían a una palabra, y vamos a empezar por sus nombres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía de Suffolk lo supo desde el primer cuerpo: alguien estaba recogiendo mujeres de esa zona y abandonándolas en el campo. Los hallazgos se repartían a lo largo de la carretera entre Ipswich y Felixstowe, donde había tres de los cuerpos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que hay que recordar. Con cada hallazgo, el miedo se extendía. Las mujeres de esa calle dejaron de salir y la ciudad contuvo el aliento. Una investigación bajo presión comete errores, y esta estaba sometida a mucha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El lunes 18 de diciembre, la policía arrestó a un hombre de treinta y siete años, Tom Stephens, vecino de Trimley St. Martin. Quedó en libertad bajo fianza mientras seguían las investigaciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí es donde conviene la prudencia. Un detenido no es un culpable. A ese hombre lo soltaron, y la presunción de inocencia importa más cuando la ciudad pide un nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El martes 19 de diciembre, la policía detuvo a otro hombre en Ipswich: Steve Wright, de cuarenta y ocho años, que trabajaba como conductor de carretilla elevadora. Vivía en la misma zona donde trabajaban las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, el jueves 21, el fiscal anunció que había pruebas suficientes para acusarlo de los cinco asesinatos. Según el caso, restos de sangre en su coche y otras pruebas de ADN lo relacionaban con las víctimas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto como fuerza del caso. No hubo confesión, no hubo testigo del crimen. Hubo ciencia: el ADN, las fibras, el rastro de un coche que se movió por la ciudad. Es una investigación que se ganó con el laboratorio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 2008, Wright fue juzgado por los cinco asesinatos. El 21 de febrero, el jurado lo declaró culpable. Al día siguiente recibió una cadena perpetua sin posibilidad de libertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero la historia no terminó allí. En 2026, casi veinte años después, Wright se declaró culpable en el Old Bailey, el tribunal penal de Londres, de otro crimen: el secuestro y asesinato de una chica de diecisiete años en Felixstowe, en 1999."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese caso llevaba más de dos décadas sin resolver. ¿Qué lo cambió? Una técnica nueva de ADN, capaz de detectar fragmentos mínimos de material masculino en muestras de la autopsia que antes no decían nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía explicó que había más: de una lista de cincuenta y seis vehículos sospechosos, solo dos quedaron en pie, y uno era de Wright. Una cámara de una gasolinera captó a un hombre que dos expertos consideraron más que probable que fuera él. Y la noche anterior, había intentado secuestrar a otra mujer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay otro dato que me parece importante. Un patólogo forense concluyó que quien mató a la chica en 1999 era también quien mató a las cinco mujeres de Ipswich. El tribunal admitió sus condenas anteriores por la similitud entre los hechos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 6 de febrero de 2026 recibió otra cadena perpetua, con un mínimo de cuarenta años. Tenía sesenta y siete. La víctima de 1999 no aparece aquí con su nombre: su caso es reciente para los criterios de este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedan seis mujeres. Cinco que tenían planes para las Navidades de 2006 y una que tenía diecisiete años en 1999. Este expediente no las recuerda por cómo murieron, sino por lo que fueron: hijas, madres, amigas, vecinas de Suffolk."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro la cinta con una idea. Tardaron diecinueve años en poner nombre a la sexta. La ciencia llega tarde, pero a veces llega."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La detención de Steve Wright. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. Las fuentes de 2006 hablan de «prostitutas»; se usa «mujeres que ejercían la prostitución». La detención del 19 de diciembre se deduce de AP («el martes»). La acusación fue el jueves 21 (AP). Tom Stephens, detenido y liberado bajo fianza, se nombra solo como detenido que quedó en libertad, sin atribuirle nada; si se prefiere, quitarlo. No se menciona el coche concreto ni detalles de los hallazgos de los cuerpos. Sentencia de 2026: CPS y PA coinciden (perpetua con mínimo de 40 años). No se pudieron abrir el Guardian ni la BBC."
+}

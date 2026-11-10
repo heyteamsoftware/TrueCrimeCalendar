@@ -1,0 +1,111 @@
+{
+  "id": "detencion-mata-hari",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mata Hari": "Máta Jári",
+    "Margaretha Zelle": "Margaréta Zéle",
+    "Pierre Bouchardon": "Pier Bushardón",
+    "Bouchardon": "Bushardón",
+    "Ladoux": "Ladú",
+    "Clunet": "Clunét",
+    "Edouard Clunet": "Eduár Clunét",
+    "Vincennes": "Vinsén",
+    "Leeuwarden": "Léuwarden",
+    "H-21": "hache veintiuno"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La orden del 12 de febrero",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Mata Hari. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La orden del 12 de febrero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 13 de febrero de 1917. La policía francesa llama a la puerta de una habitación de hotel. Dentro está una bailarina de cuarenta años, conocida en toda Europa como Mata Hari. La orden de arresto había sido firmada el día antes. La acusa de espiar para Alemania."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Margaretha Zelle y había nacido en Leeuwarden, en los Países Bajos. Casada con un oficial del ejército neerlandés, el matrimonio se rompió y se instaló en París."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjese en el contexto. Es el tercer año de la Gran Guerra, y aparece una mujer extranjera con muchos amigos entre oficiales de varios países. En tiempos de miedo, una sospechosa cómoda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En París había construido su fama con un espectáculo de danzas de inspiración oriental. Con los años llegaron menos contratos, y completó sus ingresos con relaciones con hombres del Gobierno y del ejército."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación decía que, después de hablar con un agregado alemán, este envió a Berlín mensajes en los que la identificaba como espía. Los franceses los interceptaron. Su nombre en clave era H-21."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí vienen mis dudas. Según la autora Pat Shipman, los mensajes que se presentaron hoy se consideran manipulados. Y la numeración del expediente sugiere que se incorporaron en abril de 1917, no en diciembre y enero, como afirmó el oficial Ladoux."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los mensajes originales desaparecieron después de los archivos. Ladoux fue arrestado más tarde, acusado de espionaje, pero solo después de que Mata Hari hubiera sido ejecutada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La interrogó el capitán Pierre Bouchardon, juez de instrucción. En su diario, según National Geographic, mostraba hostilidad hacia las mujeres como ella. Su abogado, Edouard Clunet, tenía poca experiencia en juicios militares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una acusada aislada, un juez con prejuicios y un abogado sin práctica. Todo esto ocurre antes del juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 24 de julio de 1917. Eran ocho cargos, vagos, y no nombraban ningún secreto concreto que hubiera pasado al enemigo. Los siete miembros del tribunal eran militares."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gran parte de las declaraciones giró en torno a sus gastos, a sus amantes ricos y a sus objetos personales. Ninguno de esos objetos apuntaba a espionaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los testigos de la defensa la describieron como encantadora, y dijeron que nunca preguntaba por asuntos militares. Un antiguo amante suyo, Henri de Marguerie, secretario del ministro de Asuntos Exteriores, la defendió con fuerza y acusó al fiscal de sostener un caso que sabía falso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ella había recibido dinero de oficiales alemanes y de un barón neerlandés. La acusación lo tomó por pago de espionaje. Es lo más parecido a una prueba que aparece en este expediente, y no prueba que pasara ningún secreto. Según National Geographic, el propio fiscal reconoció más tarde que había muy poco con qué sostener el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tribunal deliberó menos de cuarenta y cinco minutos. La declaró culpable de los ocho cargos y la condenó a muerte. Se rechazaron las peticiones de conmutar la pena y el indulto presidencial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue fusilada en Vincennes el 15 de octubre de 1917. Estaban presentes su abogado, unas monjas de la prisión y un pelotón de zuavos. Según se cuenta, se negó a que la ataran y se mantuvo erguida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nadie ha demostrado que pasara información útil. Algunos historiadores creen que Alemania la utilizó como cebo. Otros, que fue una doble agente. Ninguna de las dos cosas está probada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Muchos historiadores creen hoy que fue una cabeza de turco, y que su espionaje tuvo poca importancia. La condena nunca se ha anulado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una mujer que bailaba para ganarse la vida y que vivió como quiso, en una época que no se lo perdonaba. Esa libertad se usó, en tiempos de guerra, como argumento contra ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Mata Hari. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Condena nunca anulada; culpabilidad discutida. Fuentes abiertas: National Geographic, Biography.com, Smithsonian (403, no abrió), The Guardian y TNA (no abrieron). Fecha de la orden (12 de febrero de 1917) y detención el 13 (National Geographic, Biography.com). Juicio: 24 y 25 de julio (ficha), National Geographic da inicio el 24. Cargos: ocho; jurado de siete militares; mensajes interceptados que hoy se consideran manipulados (National Geographic, atribuido a Pat Shipman); la acusación admitió después que había pocas pruebas (frase atribuida al fiscal en National Geographic; se cuenta sin cita). H-21: aparece en la ficha y no en National Geographic ni Biography.com; se cuenta atribuido a la acusación. Desclasificación del sumario por el Ejército francés en 2017: solo está en la ficha; no se encontró en las fuentes abiertas, por eso no se cita. Hotel: no se nombra. Lugar de detención: solo «su hotel» (ficha). Ejecución en Vincennes (ficha); National Geographic: presentes los zuavos, monjas y su abogado. Las dudas sobre si fue doble agente (Biography.com) se atribuyen. Se omite el trato en prisión (aislamiento) por no ser imprescindible."
+}

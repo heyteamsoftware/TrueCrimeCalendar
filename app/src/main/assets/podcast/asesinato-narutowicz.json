@@ -1,0 +1,112 @@
+{
+  "id": "asesinato-narutowicz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Narutowicz": "Narutóvich",
+    "Niewiadomski": "Nievyadómski",
+    "Eligiusz": "Eliguiush",
+    "Zachęta": "Zajénta",
+    "Varsovia": "Varsovia",
+    "Piłsudski": "Piusúdski",
+    "Gabriel Narutowicz": "Gabriel Narutóvich"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un cuadro llamado Escarcha",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato del presidente Gabriel Narutowicz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un cuadro llamado Escarcha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Varsovia, sábado 16 de diciembre de 1922. Poco después del mediodía, en la galería Zachęta se inaugura una exposición. El presidente de Polonia mira un cuadro de un pintor de la época. Se titula «Escarcha». Detrás de él, alguien saca una pistola."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dispara tres veces, por la espalda, en apenas un par de segundos. El presidente muere allí mismo, ante los invitados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un presidente asesinado a los cinco días de jurar el cargo. Antes de buscar al culpable, hay que entender qué clima se respiraba en esa sala. Y era un clima de odio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gabriel Narutowicz era ingeniero y profesor en Zúrich. Llevaba tres años en Polonia y había sido ministro. El 9 de diciembre, la Asamblea Nacional lo eligió primer presidente de la Polonia independiente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo votaron el centro, la izquierda y los diputados de las minorías, entre ellos los judíos. Su rival, un aristócrata de la derecha, perdió. Juró el cargo el día 11."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa elección fue la chispa. La prensa nacionalista lo atacó desde el primer momento: decía que era un presidente elegido por votos que no eran polacos. Hubo disturbios en las calles de Varsovia el mismo día de su juramento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el historiador Patryk Pleskot, del Instituto de la Memoria Nacional, un político de la derecha lo había llamado ya «un obstáculo». En otro texto, el mismo historiador sostiene que esa campaña de prensa fue el detonante del crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El autor no huyó. Se dejó detener en el acto. Se llamaba Eligiusz Niewiadomski, tenía cincuenta y tres años y era pintor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido en una familia noble arruinada. Estudió en París y trabajó en el ministerio de cultura, hasta que lo despidieron a finales de 1921 tras una disputa con el ministro. Sus conocidos lo describían como reservado, irascible y radical."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en un detalle. Era nacionalista, pero estaba enfrentado con el movimiento nacionalista, al que consideraba demasiado tibio. No era un hombre de partido. Era un hombre solo con una idea fija."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se le juzgó en un solo día. En el juicio dijo algo desconcertante: que llevaba tiempo planeando matar a otro hombre, el mariscal Józef Piłsudski, y que Narutowicz no le importaba. Al mismo tiempo, se presentó como un patriota que salvaba al país de un supuesto complot."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me interesa lo que no cuadra. Si le era indiferente, ¿por qué él? Los historiadores no lo han aclarado del todo. Hay quien cuenta que, tras perder su empleo, tenía ideas de suicidio y buscaba una muerte histórica. Es una versión, no un hecho probado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También se discutió su salud mental. Un psiquiatra habló en 1923 de catatonia; otros, décadas después, de un delirio de misión. Pleskot recuerda que el tribunal no examinó su estado mental y que ningún especialista del caso lo evaluó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de diciembre de 1922 lo condenaron a muerte. Lo fusilaron el 31 de enero de 1923, en las laderas de la Ciudadela de Varsovia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene lo más inquietante. Su tumba se convirtió en lugar de peregrinación. Ese año, unos trescientos niños fueron bautizados con su nombre, Eligiusz. Para una parte de la sociedad, el asesino era un héroe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, la izquierda acusó a la derecha de haber armado la mano del pintor. La derecha, al principio, habló de locura para distanciarse. Cada bando usó el crimen contra el otro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto en el informe: el disparo duró un segundo y medio, pero el ambiente que lo hizo posible llevaba semanas preparándose. Ninguna sentencia desmonta eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Narutowicz ocupó la presidencia cinco días. Había vuelto a Polonia para servir a un país nuevo, y ese país lo despidió con una bala en el primer acto público que presidía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Polonia se le recuerda como el primer presidente de la República y como la primera víctima de la violencia política de la Polonia libre. La memoria de Niewiadomski, en cambio, sigue discutiéndose hasta hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato del presidente Gabriel Narutowicz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Hora de ataque: hacia las 12:12 (Wikipedia en polaco) o hacia las 12:15 (dzieje.pl); el guion dice «poco después del mediodía». Arma: «browning» (IPN y dzieje.pl) o pistola Ruby española (Wikipedia); el guion dice solo «pistola». IPN y dzieje.pl discrepan en lo que explica el motivo: IPN subraya que nunca se supo con certeza por qué disparó y recoge versiones (idea de suicidio, diagnósticos contradictorios); dzieje.pl lo vincula a la campaña de prensa de la derecha. El guion recoge ambas con prudencia y atribuidas. Que el título del cuadro era «Szron» (Escarcha) viene del IPN. Edad de Niewiadomski (53) calculada desde su nacimiento en 1869 (IPN). Bautizos de niños con su nombre en 1923 y peregrinación a su tumba: IPN. Fusilamiento por una compañía del 30.º Regimiento de Fusileros: IPN, omitido. Sepultura en la catedral: de la ficha, no se ha contrastado en las fuentes abiertas, por eso no se menciona."
+}

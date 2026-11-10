@@ -1,0 +1,117 @@
+{
+  "id": "intento-magnicidio-moore-ford",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Gerald Ford": "Yérald Ford",
+    "Sara Jane Moore": "Sára Yein Mor",
+    "Moore": "Mor",
+    "St. Francis": "Sent Fránsis",
+    "Union Square": "Yunion Escuér",
+    "San Francisco": "San Francisco",
+    "Oliver Sipple": "Óliver Sípol",
+    "Sipple": "Sípol",
+    "Tennessee": "Tenesí",
+    "Servicio Secreto": "Servicio Secreto",
+    "Fromme": "Fróm",
+    "Sacramento": "Sacramento"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un revólver comprado esa mañana",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El segundo atentado contra Gerald Ford. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un revólver comprado esa mañana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Francisco, 22 de septiembre de 1975. El presidente de Estados Unidos, Gerald Ford, sale del hotel St. Francis, junto a Union Square. Al otro lado de la calle espera una multitud. Entre ella hay una mujer con un revólver del calibre treinta y ocho en el bolso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Sara Jane Moore. Esa mañana ha comprado el arma. El día anterior, la policía la había detenido por llevar otra pistola sin permiso. La dejaron libre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esto es lo que no puedo dejar pasar. La víspera, una mujer detenida con un arma ilegal en la ciudad adonde llegaba el presidente. Y a la mañana siguiente estaba en primera fila, con otra arma. Algo falló en esas horas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Moore apuntó. Un hombre que estaba entre la multitud, cerca de ella, Oliver Sipple, un antiguo marine y veterano de Vietnam, le agarró el brazo. El disparo se desvió y Ford salió ileso. El Servicio Secreto lo metió en un coche y se lo llevó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes no coinciden en cuántos disparos hubo. Unas hablan de uno solo; otras, de dos, con un taxista herido por un rebote. Lo dejo así, sin elegir. Lo seguro es que Sipple reaccionó a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Moore fue detenida en el acto, sin que nadie resultara muerto. Era contable, había estado casada varias veces y tenía hijos. Trabajaba como contable voluntaria en People in Need, una organización benéfica que había fundado el padre de Patricia Hearst. Y había sido informante del FBI."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una antigua informante que acaba atentando contra el presidente. Lo que sí sabemos es que el FBI la conocía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era el segundo atentado contra Ford en diecisiete días. El 5 de septiembre, en Sacramento, una seguidora de Charles Manson, Lynette Fromme, ya había apuntado al presidente con una pistola."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Diecisiete días entre dos atentados contra el mismo hombre. Cualquier jefe de seguridad habría dormido mal. Lo que me interesa es cómo respondió el sistema: la escolta cerró el cerco, y Ford siguió con su agenda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso no tuvo un largo juicio. Moore se declaró culpable de intentar matar al presidente. En enero de 1976 fue condenada a cadena perpetua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según se informó, ella quería provocar una revolución violenta que acabara con el gobierno. Años después dijo que se arrepentía: «Ahora sé que me equivoqué al intentarlo»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una frase breve, muchos años tarde. No cambia lo que ocurrió, pero conviene dejar constancia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cosa más sobre la víspera. Los documentos que he podido revisar solo dicen que la detuvieron y la dejaron marchar. No explican por qué. Es una pregunta, no una acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estuvo en prisión treinta y dos años. Salió en libertad condicional el 31 de diciembre de 2007. En 2019 volvió brevemente a prisión por incumplir esas condiciones: no había avisado de un viaje al extranjero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Oliver Sipple recibió una carta de agradecimiento del presidente. Era un antiguo marine, veterano de Vietnam. Su gesto, un movimiento rápido del brazo, desvió el arma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No sabemos qué habría pasado sin ese gesto. Los archivos no hablan de lo que no ocurre. Pero creo que esa es la lección: a veces la historia depende de una persona que está en el lugar adecuado y que reacciona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos atentados en diecisiete días, y los dos fallaron. En seguridad presidencial se dice que el atacante necesita acertar una vez y la escolta, siempre. Aquí el atacante falló las dos veces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gerald Ford terminó su mandato en enero de 1977, ileso. Sara Jane Moore murió el 24 de septiembre de 2025, a los noventa y cinco años, en una residencia de Franklin, en Tennessee."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese día de 1975 no hubo víctimas mortales. Hubo un hombre que reaccionó a tiempo, y una pregunta sobre cómo una mujer detenida la víspera pudo llegar hasta allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El segundo atentado contra Gerald Ford. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia en inglés (biografía, FBI, detención previa, disparos, taxista, condena, libertad condicional, cita de arrepentimiento, muerte) y History.com (Sipple, Fromme el 5 de septiembre, carta de Ford). SFGate no cargó. Pendientes de revisar: 1) No se da la edad de Moore en el guion; 2) «hijos»/«casada varias veces»: Wikipedia (cinco matrimonios, cuatro hijos); 3) el guion no describe su entorno (Wikipedia la sitúa en la organización benéfica People in Need); 4) disparos: SFGate/History/Nashville Banner dicen uno que falló; Wikipedia, dos con un taxista herido por un rebote; el guion presenta ambas; 5) «Ford terminó su mandato en enero de 1977»: dato general. 6) El guion no cita la fuga de la cárcel (1979 según Wikipedia, 1989 según History.com). Moore: motivo según Wikipedia (revolución por Vietnam); cita traducida de Wikipedia."
+}
