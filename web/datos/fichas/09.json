@@ -127,11 +127,6 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "History Matters (George Mason University), «Rock Springs Is Killed»: memorial de los trabajadores chinos al cónsul de China (1885)",
-        "url": "https://historymatters.gmu.edu/d/5042",
-        "tipo": "judicial"
-      },
-      {
         "titulo": "Alexander Saxton, «The Indispensable Enemy: Labor and the Anti-Chinese Movement in California» (University of California Press, 1971)",
         "url": "https://books.google.com/books?id=H_nWDV0HS2YC&pg=PA202",
         "tipo": "libro"
@@ -142,7 +137,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La cifra de 28 muertos es la confirmada; algunas fuentes hablan de 40 o 50. La indemnización del Congreso (147.748,74 dólares) se presentó como un gesto de buena voluntad, no como reconocimiento de responsabilidad."
+    "nota_revision": "La cifra de 28 muertos es la confirmada; algunas fuentes hablan de 40 o 50. La indemnización del Congreso (147.748,74 dólares) se presentó como un gesto de buena voluntad, no como reconocimiento de responsabilidad. Se ha quitado la fuente historymatters (404)."
   },
   {
     "id": "robo-museo-montreal",
@@ -614,11 +609,6 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Ronald W. Walker, Richard E. Turley Jr. y Glen M. Leonard, «Massacre at Mountain Meadows» (Oxford University Press, 2008)",
-        "url": "https://archive.org/details/massacreatmounta00walk_491",
-        "tipo": "libro"
-      },
-      {
         "titulo": "La Iglesia de Jesucristo de los Santos de los Últimos Días, «Mountain Meadows Massacre» (tema de historia de la Iglesia; copia archivada)",
         "url": "https://web.archive.org/web/20220926174708/https://abn.churchofjesuschrist.org/study/history/topics/mountain-meadows-massacre?lang=eng",
         "tipo": "enciclopedia"
@@ -639,7 +629,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "El número de víctimas varía: la caravana sumaba entre 120 y 140 personas según Wikipedia y entre 120 y 150 según la Encyclopedia of Arkansas. En 2007 la Iglesia SUD expresó su pesar oficial, aunque precisó que no era una disculpa."
+    "nota_revision": "El número de víctimas varía: la caravana sumaba entre 120 y 140 personas según Wikipedia y entre 120 y 150 según la Encyclopedia of Arkansas. En 2007 la Iglesia SUD expresó su pesar oficial, aunque precisó que no era una disculpa. Se ha quitado la fuente el libro de Walker en archive.org (404)."
   },
   {
     "id": "captura-abimael-guzman",
@@ -795,7 +785,7 @@
     "f": "🇮🇹",
     "per": "1968–1985",
     "st": "Sin resolver. Pietro Pacciani, condenado en primera instancia en 1994, fue absuelto en apelación y murió en 1998 antes de repetirse el juicio; Mario Vanni y Giancarlo Lotti fueron condenados en firme solo por los cuatro últimos dobles crímenes (1982-1985).",
-    "c": "La noche del 14 de septiembre de 1974, Pasquale Gentilcore, de 19 años, y Stefania Pettini, de 18, fueron asesinados a tiros en el coche en el que se habían apartado, en un camino de tierra de Fontanine di Rabatta, junto a Sagginale (Borgo San Lorenzo), en el Mugello. Un agricultor encontró los cuerpos. La balística vinculó después el crimen a la misma pistola del calibre 22 usada en Signa en 1968 y en seis dobles crímenes más hasta 1985: los del «Monstruo de Florencia». Pietro Pacciani fue condenado en 1994 y absuelto en apelación, y murió en 1998. Este crimen sigue sin culpable.",
+    "c": "La noche del 14 de septiembre de 1974, Pasquale Gentilcore, de 19 años, y Stefania Pettini, de 18, fueron asesinados a tiros y a cuchilladas junto al coche en el que se habían apartado, en un camino de tierra de Fontanine di Rabatta, junto a Sagginale (Borgo San Lorenzo), en el Mugello. Un agricultor encontró los cuerpos. La balística vinculó después el crimen a la misma pistola del calibre 22 usada en Signa en 1968 y en seis dobles crímenes más hasta 1985: los del «Monstruo de Florencia». Pietro Pacciani fue condenado en 1994 y absuelto en apelación, y murió en 1998. Este crimen sigue sin culpable.",
     "mo": "Atacaba de noche a parejas apartadas en coche en el campo, con una pistola del calibre 22 que nunca se encontró.",
     "loc": [
       [
@@ -839,7 +829,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Proceso: no hay ningún acusado vivo por el crimen de 1974. La Fiscalía de Florencia ha seguido investigando la serie (análisis de ADN, exhumaciones) y la familia de Mario Vanni pidió en 2025 la revisión de su condena; el Tribunal de Apelación de Génova la declaró inadmisible y la Casación resolvió el recurso en 2026 (sentencia 8825), pero esa revisión afecta a los crímenes de 1984 y 1985, no a este. Conviene comprobar antes de publicar que no se ha abierto un proceso nuevo. Edad de Stefania Pettini: 18 años según Il Post y la Wikipedia italiana, 19 según Sky TG24. Algunas fuentes hablan de la noche del 14 al 15 de septiembre. Las coordenadas son las del pueblo de Sagginale, no las del punto exacto."
+    "nota_revision": "Proceso: no hay ningún acusado vivo por el crimen de 1974. La Fiscalía de Florencia ha seguido investigando la serie (análisis de ADN, exhumaciones) y la familia de Mario Vanni pidió en 2025 la revisión de su condena; el Tribunal de Apelación de Génova la declaró inadmisible y la Casación resolvió el recurso en 2026 (sentencia 8825), pero esa revisión afecta a los crímenes de 1984 y 1985, no a este. Comprobado en noviembre de 2026: no consta ningún acusado vivo. En enero de 2026 un abogado presentó denuncias en la Fiscalía de Florencia que apuntan a un hombre vivo, pero son iniciativas privadas y no hay constancia de que se le haya abierto proceso; conviene repasarlo antes de publicar. Un agricultor encontró los cuerpos (Wikipedia italiana). Edad de Stefania Pettini: 18 años según Il Post y la Wikipedia italiana, 19 según Sky TG24. Algunas fuentes hablan de la noche del 14 al 15 de septiembre. Las coordenadas son las del pueblo de Sagginale, no las del punto exacto."
   },
   {
     "id": "asesinato-pino-puglisi",
@@ -1256,8 +1246,8 @@
     "p": "Italia",
     "f": "🇮🇹",
     "per": "1990",
-    "st": "Cerrado con sentencias firmes. Los cuatro sicarios de la Stidda (Paolo Amico, Domenico Pace, Gaetano Puzzangaro y Giovanni Avarello) y varios inductores fueron condenados a cadena perpetua entre 1992 y 2001.",
-    "c": "La mañana del 21 de septiembre de 1990, el juez Rosario Livatino, de 37 años, conducía solo y sin escolta su viejo Ford Fiesta camino del tribunal de Agrigento cuando el coche de sus asesinos lo embistió en la carretera estatal 640, junto al viaducto Gasena. Intentó huir a pie, pero lo alcanzaron y lo mataron a tiros. Gracias al testimonio de Pietro Nava, un comerciante que pasaba por allí, se identificó a los cuatro sicarios de la Stidda, condenados a cadena perpetua igual que los inductores. Fue beatificado en Agrigento el 9 de mayo de 2021.",
+    "st": "Cerrado con sentencias firmes. Los sicarios de la Stidda Paolo Amico y Domenico Pace (condenados a cadena perpetua en 1992) y Gaetano Puzzangaro y Giovanni Avarello (en 1995), así como varios inductores, recibieron cadena perpetua; un quinto participante, Giuseppe Croce Benvenuto, colaboró con la justicia y recibió una pena menor.",
+    "c": "La mañana del 21 de septiembre de 1990, el juez Rosario Livatino, de 37 años, conducía solo y sin escolta su viejo Ford Fiesta camino del tribunal de Agrigento cuando el coche de sus asesinos lo embistió en la carretera estatal 640, junto al viaducto Gasena. Intentó huir a pie, pero lo alcanzaron y lo mataron a tiros. Gracias al testimonio de Piero Nava, un representante comercial que pasaba por allí, se identificó a los sicarios de la Stidda; cuatro fueron condenados a cadena perpetua, igual que los inductores. Fue beatificado en Agrigento el 9 de mayo de 2021.",
     "mo": "Embestida al coche de la víctima en una carretera y persecución a pie hasta matarla a tiros.",
     "loc": [
       [
@@ -1315,85 +1305,79 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Avvenire, «Testimone. Il giudice beato. Rosario Livatino tra Vangelo e Costituzione» (8 de mayo de 2021)",
-        "url": "https://www.avvenire.it/chiesa/pagine/biografia-livatino-beato",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en italiano), «Rosario Livatino» (punto de partida; consultada por sus referencias)",
         "url": "https://it.wikipedia.org/wiki/Rosario_Livatino",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Los nombres de los condenados y las fechas de las sentencias proceden de la Wikipedia italiana y de los titulares de La Repubblica (1992, 1997); no se han abierto los textos de La Repubblica ni de Vatican News. El apodo «giudice ragazzino» viene de una frase de Francesco Cossiga de 1991, que luego negó referirse a Livatino. Según la Wikipedia italiana, en octubre de 2026 fue declarado patrono de los magistrados italianos."
+    "nota_revision": "Verificado con la Wikipedia italiana: Piero Nava era agente de comercio (no «comerciante»); Amico y Pace fueron condenados en 1992, Puzzangaro y Avarello en 1995 («Livatino bis»), los inductores (Gallea, Calafato, Parla, Montanti) en el proceso «ter» hasta 2002, y Croce Benvenuto, colaborador, recibió una pena menor. Los nombres y las fechas proceden de la Wikipedia italiana y de los titulares de La Repubblica (1992, 1997); no se han abierto los textos de La Repubblica ni de Vatican News. El apodo «giudice ragazzino» viene de una frase de Francesco Cossiga de 1991, que luego negó referirse a Livatino. Según la Wikipedia italiana, en octubre de 2026 fue declarado patrono de los magistrados italianos. Se ha quitado la URL de Avvenire (404)."
   },
   {
-    "id": "caso-asunta",
+    "id": "intento-magnicidio-moore-ford",
     "m": 9,
     "d": 22,
-    "y": 2013,
-    "n": "Rosario Porto y Alfonso Basterra",
-    "a": "El caso Asunta",
-    "v": "1",
-    "p": "España",
-    "f": "🇪🇸",
-    "per": "2013",
-    "st": "Cerrado con sentencia firme. Rosario Porto y Alfonso Basterra fueron condenados a 18 años de prisión cada uno; el Tribunal Supremo confirmó la condena en 2016. Porto murió en la cárcel de Brieva (Ávila) en noviembre de 2020.",
-    "c": "Hacia la una y cuarto de la madrugada del 22 de septiembre de 2013, dos jóvenes encontraron en una pista forestal de Teo (A Coruña) el cuerpo de una niña de 12 años, adoptada en China, cuya desaparición habían denunciado sus padres horas antes. La autopsia reveló que la habían sedado con lorazepam y asfixiado el día 21. Las cámaras de seguridad desmintieron el relato de la madre, Rosario Porto, detenida el 24, y el padre, Alfonso Basterra, fue detenido al día siguiente. En octubre de 2015 un jurado declaró a ambos culpables de asesinato.",
-    "mo": "La sedaron en repetidas ocasiones con lorazepam, la asfixiaron en una casa de Teo y abandonaron el cuerpo en una pista forestal.",
+    "y": 1975,
+    "n": "Sara Jane Moore",
+    "a": "El segundo atentado contra Gerald Ford",
+    "v": "Ninguna (atentado fallido)",
+    "p": "Estados Unidos",
+    "f": "🇺🇸",
+    "per": "1975",
+    "st": "Cerrado. Moore se declaró culpable de intentar matar al presidente y fue condenada a cadena perpetua en enero de 1976; salió en libertad condicional el 31 de diciembre de 2007 y murió el 24 de septiembre de 2025 en una residencia de Franklin (Tennessee), a los 95 años.",
+    "c": "El 22 de septiembre de 1975, el presidente Gerald Ford salía del hotel St. Francis, junto a Union Square, en San Francisco, cuando Sara Jane Moore, entre el público al otro lado de la calle, le apuntó con un revólver del calibre 38. Oliver Sipple, un exmarine que estaba cerca, le agarró el brazo, el disparo se desvió y Ford salió ileso, protegido por el Servicio Secreto. Moore, antigua informante del FBI, había sido detenida el día anterior por llevar un arma ilegal. Se declaró culpable y fue condenada a cadena perpetua. Era el segundo atentado contra Ford en 17 días.",
+    "mo": "Disparó con un revólver del calibre 38, comprado esa misma mañana, desde la multitud que esperaba frente a la salida del hotel.",
     "loc": [
       [
-        42.8242,
-        -8.5468,
-        "Cacheiras, Teo (pista forestal donde apareció el cuerpo)"
+        37.7879,
+        -122.4079,
+        "Hotel St. Francis, Union Square, San Francisco (atentado)"
       ],
       [
-        42.8804,
-        -8.5459,
-        "Santiago de Compostela (donde vivía la familia)"
+        38.5767,
+        -121.4934,
+        "Capitolio de California, Sacramento (primer atentado contra Ford, de Lynette Fromme, el 5 de septiembre)"
       ]
     ],
-    "vin": [],
-    "g": [
-      "espana"
+    "vin": [
+      [
+        "manson",
+        "r",
+        "Lynette Fromme, de la «familia» Manson, atentó contra Ford 17 días antes, en Sacramento"
+      ]
     ],
+    "g": [],
     "estrella": false,
-    "tipo_efemeride": "hallazgo",
-    "titulo_caso": "Caso Asunta: hallazgo del cuerpo (Teo, A Coruña)",
-    "autor": "Rosario Porto y Alfonso Basterra (condenados)",
+    "tipo_efemeride": "crimen",
+    "titulo_caso": "Intento de magnicidio de Sara Jane Moore contra Gerald Ford (San Francisco)",
+    "autor": "Sara Jane Moore (declarada culpable)",
     "fuentes": [
       {
-        "titulo": "EFE en Última Hora, «Los investigadores sospecharon del comportamiento de los padres de Asunta» (5 de octubre de 2015)",
-        "url": "https://www.ultimahora.es/sucesos/ultimas/2015/10/05/163409/investigadores-sospecharon-del-comportamiento-padres-asunta.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Juan Capeáns y Alberto Mahía, «Rosario y Alfonso sedaron y asfixiaron a Asunta», La Voz de Galicia (31 de octubre de 2015)",
-        "url": "https://www.lavozdegalicia.es/noticia/galicia/2015/10/31/rosario-alfonso-sedaron-asfixiaron-asunta/0003_201510G31P2996.htm",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "S. R. Pontevedra, «Surveillance cameras debunk story offered by Asunta's mother», El País (7 de octubre de 2015)",
-        "url": "https://elpais.com/elpais/2015/10/07/inenglish/1444216072_741362.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Giles Tremlett, «Why did two parents murder their adopted child?», The Guardian (2 de febrero de 2016)",
-        "url": "https://www.theguardian.com/world/2016/feb/02/why-did-two-parents-murder-their-adopted-child-asunta-fong-yang",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "El Mundo, «Encuentran a Rosario Porto, la madre de Asunta Basterra, ahorcada en su celda en la cárcel de Brieva» (18 de noviembre de 2020)",
-        "url": "https://www.elmundo.es/cronica/2020/11/18/5fb4ee0efc6c83cf048b45e8.html",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Wikipedia (en inglés), «Murder of Asunta Basterra» (punto de partida; consultada por sus referencias)",
-        "url": "https://en.wikipedia.org/wiki/Murder_of_Asunta_Basterra",
+        "titulo": "Sara Jane Moore, Wikipedia en inglés",
+        "url": "https://en.wikipedia.org/wiki/Sara_Jane_Moore",
         "tipo": "enciclopedia"
+      },
+      {
+        "titulo": "«Sara Jane Moore, who tried to kill Ford in 75», San Francisco Chronicle (SFGate), 1 de enero de 2008",
+        "url": "https://www.sfgate.com/news/article/sara-jane-moore-who-tried-to-kill-ford-in-75-3232286.php",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Sara Jane Moore, woman who tried to assassinate President Gerald Ford in San Francisco in 1975, dies at 95», ABC7 News, septiembre de 2025",
+        "url": "https://abc7news.com/post/sara-jane-moore-woman-tried-assassinate-president-gerald-ford-san-francisco-1975-dies-95/17894103/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Sara Jane Moore dies», Nashville Banner, 24 de septiembre de 2025",
+        "url": "https://nashvillebanner.com/2025/09/24/sara-jane-moore-dies-gerald-ford/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«President Ford survives second assassination attempt», History.com (This Day in History, 22 de septiembre)",
+        "url": "https://www.history.com/this-day-in-history/september-22/president-ford-survives-second-assassination-attempt",
+        "tipo": "documental"
       }
     ],
-    "nota_revision": "Víctima menor (12 años) en hechos de 2013, menos de 30 años: según la regla, no se la nombra en el resumen ni en «n», pero el caso se conoce públicamente por su nombre y así figura en el apodo y en el título; decide el coordinador si se mantiene. Alfonso Basterra sigue en prisión: no se dan datos personales. El lugar del hallazgo aparece como Feros (EFE) o San Simón de Ons, parroquia de Cacheiras (Wikipedia), ambos en Teo; el punto es el de Cacheiras. En 2016 el Tribunal Superior de Galicia atribuyó la asfixia solo a Porto, pero mantuvo la condena de Basterra; el Supremo la confirmó en 2016 y el Constitucional rechazó los amparos en 2017 (Wikipedia, sin segunda fuente abierta)."
+    "nota_revision": "Sustituye a la ficha del caso Asunta (víctima menor, hechos de 2013), según PUNTOS.md. Las fuentes no coinciden en los disparos: SFGate, History.com y Nashville Banner hablan de un disparo que falló; Wikipedia, de un primer disparo fallido y un segundo cuando Sipple le agarró el brazo, con un taxista herido por rebote. History.com sitúa una fuga de la cárcel en 1989 y Wikipedia (con el NYT de 1979) en 1979, por lo que no se cita. No se ha comprobado la hora exacta (SFGate sitúa el hecho en la puerta de Post Street). Los artículos del NYT y del Washington Post no abren."
   },
   {
     "id": "absolucion-emmett-till",
@@ -1477,8 +1461,8 @@
     "p": "Argentina",
     "f": "🇦🇷",
     "per": "1973",
-    "st": "Sin condena. La causa se reabrió en 2008; en 2012 el juez federal Ariel Lijo concluyó que el crimen lo cometieron miembros de Montoneros, pero que no era de lesa humanidad y por tanto había prescrito, y la archivó.",
-    "c": "Hacia el mediodía del 25 de septiembre de 1973, dos días después de que Juan Domingo Perón ganara las elecciones presidenciales, el secretario general de la CGT, José Ignacio Rucci, fue acribillado cuando salía de una casa de la avenida Avellaneda 2953, en el barrio de Flores (Buenos Aires): recibió 23 disparos. Nadie reivindicó el crimen en ese momento. Dos años después, la revista Evita Montonera lo incluyó en una lista de «ajusticiados» por Montoneros, aunque dirigentes de la organización lo negaron más tarde. La causa se reabrió en 2008 y se archivó en 2012 por prescripción.",
+    "st": "Sin condena. En agosto de 2012 el juez Ariel Lijo atribuyó el crimen a Montoneros, pero lo declaró prescrito por no ser de lesa humanidad y archivó la causa; en diciembre de 2012 la Cámara Federal revocó el archivo por prematuro y la investigación se reactivó en 2013. En 2016 la familia pidió citar a indagatoria a cuatro antiguos dirigentes de Montoneros; no consta ninguna condena.",
+    "c": "Hacia el mediodía del 25 de septiembre de 1973, dos días después de que Juan Domingo Perón ganara las elecciones presidenciales, el secretario general de la CGT, José Ignacio Rucci, fue acribillado cuando salía de una casa de la avenida Avellaneda 2953, en el barrio de Flores (Buenos Aires): recibió 23 disparos. Nadie reivindicó el crimen en ese momento. Dos años después, la revista Evita Montonera lo incluyó en una lista de «ajusticiados» por Montoneros, aunque dirigentes de la organización lo negaron más tarde. La causa se reabrió en 2008; el juez Lijo la archivó en 2012 por prescripción, pero la Cámara Federal revocó ese archivo y la investigación continuó.",
     "mo": "Un comando lo esperó junto a la casa y le disparó en cuanto salió a la calle, a plena luz del día.",
     "loc": [
       [
@@ -1513,8 +1497,18 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Clarín, sobre el libro «Operación Traviata» de Ceferino Reato (8 de octubre de 2008)",
-        "url": "http://www.clarin.com/diario/2008/10/08/elpais/p-01776893.htm",
+        "titulo": "«Ordenan reabrir la causa del asesinato de Rucci», La Nueva, 19 de diciembre de 2012",
+        "url": "https://www.lanueva.com/nota/2012-12-19-9-0-0-ordenan-reabrir-la-causa-del-asesinato-de-rucci",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Reactivan la causa y citan a testigos por el asesinato de Rucci», La Nación, 18 de abril de 2013",
+        "url": "https://www.lanacion.com.ar/politica/reactivan-la-causa-y-citan-a-testigos-por-el-asesinato-de-rucci-nid1573943/",
+        "tipo": "hemeroteca"
+      },
+      {
+        "titulo": "«Piden llamar a indagatoria a ex jefes Montoneros por el asesinato del sindicalista Rucci», Los Andes, 28 de marzo de 2016",
+        "url": "https://www.losandes.com.ar/piden-llamar-a-indagatoria-a-ex-jefes-montoneros-por-el-asesinato-del-sindicalista-rucci",
         "tipo": "hemeroteca"
       },
       {
@@ -1523,7 +1517,7 @@
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La autoría de Montoneros procede de la investigación de Ceferino Reato, de testimonios y de la resolución de 2012 del juez Lijo, pero no hubo juicio ni condena: se presenta como atribuida. Mario Firmenich y Roberto Perdía negaron la autoría (Firmenich admitió la «responsabilidad política»). La Evita Montonera fechaba el crimen el «23-09-73». La hora es las 12:11 según la Wikipedia. La reapertura figura como 2008 (Infobae) o 2009 (otra sección de Wikipedia). No se ha podido comprobar si hubo recursos posteriores al archivo de 2012. El artículo de Clarín no se pudo abrir (bloqueo de la copia archivada)."
+    "nota_revision": "La autoría de Montoneros procede de la investigación de Ceferino Reato, de testimonios y de la resolución de 2012 del juez Lijo, pero no hubo juicio ni condena: se presenta como atribuida. Mario Firmenich y Roberto Perdía negaron la autoría (Firmenich admitió la «responsabilidad política»). La Evita Montonera fechaba el crimen el «23-09-73». La hora es las 12:11 según la Wikipedia. La reapertura figura como 2008 (Infobae) o 2009 (otra sección de Wikipedia). Verificación: el archivo de Lijo (agosto de 2012) fue revocado por la Sala II de la Cámara Federal (Cattani e Irurzun) hacia el 18 de diciembre de 2012 (La Nueva), la causa se reactivó en 2013 (La Nación) y en 2016 la familia pidió indagatorias de Firmenich, Vaca Narvaja, Perdía y Jauretche (Los Andes). No se ha localizado ninguna resolución posterior ni se sabe si la causa sigue abierta en 2026: puede contar como proceso abierto sin acusados, igual que el caso López, y decide el coordinador. El artículo de Clarín no se pudo abrir (bloqueo de la copia archivada). Se ha quitado la URL de Clarín (404)."
   },
   {
     "id": "detencion-machine-gun-kelly",
@@ -1579,17 +1573,12 @@
         "tipo": "policial"
       },
       {
-        "titulo": "Penny Owen, «Machine Gun Kelly Meets His Match», The Oklahoman (20 de julio de 2003)",
-        "url": "https://www.oklahoman.com/story/news/2003/07/20/machine-gun-kelly-meets-his-match/62034425007/",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en inglés), «Machine Gun Kelly (gangster)» (punto de partida; consultada por sus referencias)",
         "url": "https://en.wikipedia.org/wiki/Machine_Gun_Kelly_(gangster)",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La frase «Don't shoot, G-Men» la recoge el propio FBI «según la leyenda»; Wikipedia la considera un mito de prensa posterior. La muerte de Kelly en Leavenworth (18 de julio de 1954) y la salida de Kathryn en 1958 proceden de Wikipedia, sin segunda fuente abierta. El artículo de The Oklahoman no se abrió. El punto de Memphis es la ciudad, no la casa de la detención."
+    "nota_revision": "La frase «Don't shoot, G-Men» la recoge el propio FBI «según la leyenda»; Wikipedia la considera un mito de prensa posterior. La muerte de Kelly en Leavenworth (18 de julio de 1954) y la salida de Kathryn en 1958 proceden de Wikipedia, sin segunda fuente abierta. El artículo de The Oklahoman no se abrió. El punto de Memphis es la ciudad, no la casa de la detención. Se ha quitado la fuente The Oklahoman (402, de pago)."
   },
   {
     "id": "asesinato-ruiz-massieu",
@@ -1642,17 +1631,12 @@
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "The Washington Post, crónica sobre la condena de Raúl Salinas (22 de enero de 1999)",
-        "url": "https://www.washingtonpost.com/wp-srv/inatl/longterm/mexico/stories/990122.htm",
-        "tipo": "hemeroteca"
-      },
-      {
         "titulo": "Wikipedia (en inglés), «José Francisco Ruiz Massieu» (punto de partida; consultada por sus referencias)",
         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Ruiz_Massieu",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "Raúl Salinas fue absuelto: no se le presenta como culpable. La pena de Aguilar Treviño fue de 50 años, rebajada a 42, según Wikipedia; la de Raúl Salinas se rebajó en apelación a 27 años y medio (New York Times) y la BBC dice que cumplió diez años. El diputado Manuel Muñoz Rocha, señalado en la planificación, desapareció y nunca fue juzgado. Hora (9:22) y arma (pistola de 9 mm) según Milenio. No se pudieron abrir los artículos de The New York Times, Los Angeles Times y The Washington Post (citados a partir de Wikipedia). La colonia Tabacalera es la de la calle Lafragua según OpenStreetMap."
+    "nota_revision": "Raúl Salinas fue absuelto: no se le presenta como culpable. La pena de Aguilar Treviño fue de 50 años, rebajada a 42, según Wikipedia; la de Raúl Salinas se rebajó en apelación a 27 años y medio (New York Times) y la BBC dice que cumplió diez años. El diputado Manuel Muñoz Rocha, señalado en la planificación, desapareció y nunca fue juzgado. Hora (9:22) y arma (pistola de 9 mm) según Milenio. No se pudieron abrir los artículos de The New York Times, Los Angeles Times y The Washington Post (citados a partir de Wikipedia). La colonia Tabacalera es la de la calle Lafragua según OpenStreetMap. Se ha quitado la fuente el Washington Post de 1999 (no abre)."
   },
   {
     "id": "prats-cuthbert",

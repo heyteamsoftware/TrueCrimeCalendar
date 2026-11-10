@@ -18,7 +18,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 01 | 18/18 ✓ | en marcha (y cambiar el 24/1, Mumcu: proceso abierto) | — |
 | 11 | 19/19 ✓ | en marcha | — |
 | 10 | 24/24 ✓ | ✓ verificado (11 correcciones) | — |
-| 03 | 23/23 ✓ | en marcha (mirar el 11/3, Ragone: ¿causa cerrada?) | — |
+| 03 | 23/23 ✓ | ✓ verificado (11 correcciones; 11/3 cambiado a Ravachol) | — |
 | 05 | 19/19 ✓ | ✓ verificado (2 correcciones) | — |
 | 02 | 23/23 ✓ | en marcha | — |
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
