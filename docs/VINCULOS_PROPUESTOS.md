@@ -99,3 +99,9 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
 - **Lillehammer (21/7):** con la masacre de Múnich, si está en el archivo.
 - **Jaurès (31/7):** con Sarajevo, si está en el archivo.
 - **Charley Ross (1/7):** con el secuestro del hijo de Lindbergh, si está en el archivo.
+
+## Agosto
+
+- **Ya puestos dentro del mes:** Giaccone (11/8) con Grassi (29/8), y Gladbeck (16/8) con Norrmalmstorg (28/8).
+- **Giaccone y Grassi:** con Puglisi (15/9), Livatino (21/9) y Riina (16/11).
+- **Trece Rosas (5/8):** con Puig Antich (2/3) y otros casos de la represión franquista.

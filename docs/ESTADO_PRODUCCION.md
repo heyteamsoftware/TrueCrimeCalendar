@@ -24,7 +24,8 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
 | 04 | 23/23 ✓ | en marcha | — |
 | 07 | 26/26 ✓ | en marcha | — |
-| 06, 08 y 12 | en marcha | — | — |
+| 08 | 26/26 ✓ | en marcha | — |
+| 06 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -94,3 +95,9 @@ Pendiente. Se graba por tandas con `python tools/generar_cintas.py` cuando los g
 - **Regla para el coordinador:** antes de dar por buena una sustitución, buscar el nombre en todas las fichas y en la selección. En dos sustituciones (Dominici y Chamberlain) el caso ya estaba en otro día.
   - 29/10, resuelto: la ejecución de Walter Raleigh (1618), en lugar de Lindy Chamberlain.
 - **22/9:** Sara Jane Moore contra Ford, en lugar del caso Asunta (víctima menor en un caso reciente). Se quedan el 18/9 (Jorge Julio López: se busca al desaparecido, no hay acusado) y el 14/9 (el Monstruo de Florencia, pendiente de verificar).
+- **Cambios hechos por el agente de agosto:**
+  - 5/8: las Trece Rosas (caso nuevo);
+  - 11/8: Paolo Giaccone, en lugar del Carlton de Cannes (fuentes contradictorias);
+  - 18/8: Julien Lahaut, en lugar de Galán (proceso abierto).
+
+  Hispanoamérica ha perdido varios casos (UCA, Galán y Asunta). Al unir hay que comprobar la cuota.
