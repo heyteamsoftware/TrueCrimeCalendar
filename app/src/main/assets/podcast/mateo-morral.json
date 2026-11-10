@@ -1,0 +1,106 @@
+{
+  "id": "mateo-morral",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mateo Morral": "Mateo Morral",
+    "Alfonso XIII": "Alfonso trece",
+    "Victoria Eugenia": "Victoria Eugenia",
+    "Sabadell": "Sabadél",
+    "Nakens": "Nákens",
+    "José Nakens": "José Nákens",
+    "Torrejón de Ardoz": "Torrejón de Ardós",
+    "Ferrer Guardia": "Ferrér Guárdia",
+    "Francisco Ferrer Guardia": "Francisco Ferrér Guárdia",
+    "El Motín": "El Motín",
+    "Escuela Moderna": "Escuela Moderna",
+    "Pérez Abellán": "Pérez Abeyán",
+    "Coullaut-Valera": "Culaut Valéra"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un ramo en la calle Mayor",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado de la calle Mayor. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un ramo en la calle Mayor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 31 de mayo de 1906. Poco antes de las dos de la tarde, la carroza de los recién casados Alfonso XIII y Victoria Eugenia avanza por la calle Mayor, entre una multitud en fiesta. Desde el balcón de una pensión, en el número 88, cae un ramo de flores. Entre las flores hay una bomba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El ramo chocó con los cables del tranvía y cayó sobre el público. Los reyes salieron ilesos. Murieron más de veinte personas, entre civiles y militares que estaban allí para ver pasar la comitiva, y hubo más de cien heridos. Las cifras varían según la fuente: entre veintitrés y veinticinco muertos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una bomba pequeña, de fabricación casera, escondida en flores. No era un plan de un ejército. Era de un hombre que, según Vozpópuli, actuó en solitario. Y eso es lo que más inquieta: el daño que puede hacer una sola persona decidida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Mateo Morral y había nacido en Sabadell, en 1879 o 1880. Era hijo de un fabricante de tejidos. Estudió en el extranjero y volvió a España a dirigir la fábrica familiar. Terminó abandonándola."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se acercó al anarquismo. Trabajó como bibliotecario y en la editorial de la Escuela Moderna, que dirigía Francisco Ferrer Guardia. En Madrid se alojaba en la pensión de la calle Mayor, en un tercer piso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los anarquistas de la época veían en la monarquía el símbolo de la injusticia social. Esa era su motivación; así la cuentan las fuentes. Lo que no consigo entender, y no lo anoto como hipótesis sino como pregunta, es por qué eligió el día de una boda y una calle llena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras el atentado, Morral escapó. Según las fuentes, pasó la noche en la redacción del periódico El Motín, cuyo director, el periodista José Nakens, le dio refugio. Después salió de Madrid a pie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de junio, cerca de Torrejón de Ardoz, un guarda lo reconoció y lo retuvo. Según la versión oficial, Morral mató al guarda de un disparo y después se quitó la vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Digo versión oficial, porque no es la única. Un estudio forense de las fotografías del cadáver, que difundió el periodista Francisco Pérez Abellán, sostiene que no se suicidó. No lo doy por cierto: es la tesis de un autor, y yo no he visto el análisis. Queda como duda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1907 se juzgó a quienes lo habían ayudado. José Nakens y otros dos hombres fueron condenados a nueve años de prisión por facilitarle la huida. Los tres fueron indultados un año después, tras una campaña de prensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También fue juzgado Francisco Ferrer Guardia, por su relación con Morral. Fue absuelto, junto con otros tres acusados. Una absolución es una absolución."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el punto donde conviene ser estricto. Ferrer había sido jefe de Morral en la editorial, y esa relación bastó para sentarlo en el banquillo. El tribunal no encontró nada que lo probara, y quedó libre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El atentado trajo más vigilancia y más represión contra los anarquistas. La figura del rey salió reforzada, por un tiempo, y los periódicos alabaron su serenidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan los muertos. Eran gente que había salido a ver pasar una boda; según una fuente, quince eran militares. Las fuentes de este expediente no dan sus nombres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Por eso es la parte que más pesa. En el relato de reyes, bombas y fugas, ellos no tienen voz. Murieron en una calle de fiesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fueron más de veinte vidas rotas por una bomba dirigida a otras personas, y más de cien heridos que cargaron con ello el resto de su vida. Hoy, frente al número 79 de la calle Mayor, un monumento de Coullaut-Valera, con un ángel arrodillado, recuerda a las víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado de la calle Mayor. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Vozpópuli (2026), Wikipedia (es), Gran Enciclopèdia Catalana; El Temps (PDF) no se pudo leer (imagen). Cifras de muertos: 23 a 25 según fuente; el guion dice «más de veinte» y «entre veintitrés y veinticinco». No se nombra al guarda (Fructuoso Vega solo en Wikipedia). Muerte de Morral: versión oficial (suicidio) y estudio forense citado por Pérez Abellán (ABC, 2015, no accesible): se atribuye y se deja como duda. Año de nacimiento 1879/1880. Que 'pasó la noche en El Motín' y que escapó 'a pie' (la ficha dice a pie): de Wikipedia. Nakens y otros dos: nueve años, indultados al año (Wikipedia); Ferrer y tres más absueltos. Que el atentado reforzó al rey y trajo represión: Vozpópuli. Las fuentes no dan nombres de víctimas. La GEC dice que se suicidó al ser descubierto y atribuye su acción a la influencia de Soledad Villafranca: no se usa, por ser una interpretación. Monumento en el 79 de la calle Mayor: Vozpópuli."
+}

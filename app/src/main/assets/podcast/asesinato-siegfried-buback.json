@@ -1,0 +1,123 @@
+{
+  "id": "asesinato-siegfried-buback",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Siegfried Buback": "Zígfrid Búbak",
+    "Michael Buback": "Mikael Búbak",
+    "Buback": "Búbak",
+    "Karlsruhe": "Karlsrue",
+    "Wolfgang Göbel": "Volfgang Guébel",
+    "Georg Wurster": "Gueorg Vúrster",
+    "Ulrike Meinhof": "Ulrike Máinjof",
+    "RAF": "erre a efe",
+    "Christian Klar": "Cristian Klar",
+    "Knut Folkerts": "Knut Fólkerts",
+    "Brigitte Mohnhaupt": "Brigite Mónjaupt",
+    "Verena Becker": "Verena Béker",
+    "Stuttgart": "Stútgart",
+    "Alemania Occidental": "Alemania Occidental"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un semáforo en Karlsruhe",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Siegfried Buback. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un semáforo en Karlsruhe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Karlsruhe, Alemania Occidental, jueves 7 de abril de 1977. Hacia las nueve y cuarto de la mañana, un coche oficial se detiene en un semáforo. Al lado se para una moto con dos personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el coche viaja el fiscal general federal, Siegfried Buback, camino de su despacho. Va con su chófer y con un funcionario del tribunal. Una ráfaga destroza el cristal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una escena de tres segundos: dos en una moto, un semáforo, un coche parado. Fue un ataque rápido, a plena luz del día, en una calle de una ciudad pequeña. Y los autores huyeron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buback murió en el acto, y su chófer, Wolfgang Göbel, también. Georg Wurster, el funcionario que viajaba en el asiento trasero, murió días después de las heridas, el 13 de abril."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Buback, de cincuenta y seis años, era fiscal general desde 1974 y dirigía la lucha contra la RAF, la Fracción del Ejército Rojo, un grupo terrorista de extrema izquierda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Era un objetivo evidente. Y no era la primera vez que la RAF atacaba, pero sí la primera de un año que acabaría con otros asesinatos. En Alemania lo llaman «el otoño alemán»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después, un «Comando Ulrike Meinhof» reivindicó el atentado en cartas. Citaba como motivo la muerte de varios miembros de la RAF en prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más adelante fueron condenados como autores tres miembros de la organización: Christian Klar, Knut Folkerts y Brigitte Mohnhaupt."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está el problema. Ningún tribunal ha establecido quién conducía la moto ni quién disparó. Publicaciones posteriores han puesto en duda que esos tres fueran los autores directos de los disparos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quien más ha insistido en ello es el hijo de la víctima, Michael Buback, profesor de química en Gotinga. Tenía treinta y un años cuando mataron a su padre. Desde 2007 se ha dedicado a reabrir el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese año, un antiguo miembro de la RAF le dijo que Klar no era el que había disparado, y Buback pidió que se le indultara."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me impresiona es la tenacidad. Durante años, Michael Buback se limitó a recordar a su padre, y luego dedicó su tiempo a exigir respuestas. Un hijo que pide clemencia para el hombre condenado por la muerte de su padre porque no cree que sea el autor. Es una postura rara, y por eso la anoto con respeto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después apareció otro nombre. Verena Becker, antigua miembro de la RAF, era sospechosa. Se halló su ADN en las cartas de reivindicación. Fue juzgada en Stuttgart a partir de 2010."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En julio de 2012 fue condenada a cuatro años por complicidad en los tres asesinatos. El tribunal no dijo que ella hubiera disparado. En 2014 se suspendió el resto de su pena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un episodio que me incomoda. En 1981, según se supo en 2007, Becker había dado información sobre el atentado a los servicios de inteligencia. La fiscalía la había mantenido fuera del juicio, y las familias no lo sabían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Michael Buback sospecha que alguien la protegió desde dentro del Estado. Es su hipótesis. Un historiador la considera razonable, pero no está demostrada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No señalo a nadie. Me limito a lo que consta: la acusación tuvo informaciones que el tribunal no vio, y esa decisión alimentó la desconfianza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En noviembre de 2014, la Fiscalía Federal reabrió la investigación. En 2015, la familia pidió que se acusara a otras dos personas, y el tribunal superior de Stuttgart la rechazó por inadmisible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoy el caso sigue sin resolver. Nunca se ha sabido quién condujo aquella moto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres hombres murieron en esa calle: un fiscal, un chófer y un funcionario. Que sus tres nombres queden juntos en este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Siegfried Buback. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: die tageszeitung (2010, retrato de Michael Buback) y Wikipedia en alemán (para cotejar). Der Spiegel y la Süddeutsche Zeitung no se pudieron abrir. Hora (hacia las 9.15) solo en Wikipedia alemana y en la ficha. Número de disparos (unos quince) solo en Wikipedia alemana; se dice «una ráfaga». Quién disparó y quién conducía la moto: no se establece. Condenas de Klar, Folkerts y Mohnhaupt «como autores» según la ficha; Wikipedia alemana dice que publicaciones posteriores ponen en duda su participación directa, y se dice así. Becker: condenada en 2012 por complicidad, cuatro años (Wikipedia alemana); no se afirma que fuera la autora. Las informaciones que Becker dio al Verfassungsschutz en 1981 y que no llegaron al tribunal salen de la taz (2010); las sospechas de Michael Buback sobre una mano protectora se atribuyen a él y se dice que no están probadas (Kraushaar, vía Wikipedia alemana). La frase de Michael Buback sobre las seis semanas se omite. La fecha de la muerte de Wurster, 13 de abril, sale de Wikipedia alemana."
+}

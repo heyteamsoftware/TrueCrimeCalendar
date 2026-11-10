@@ -1,0 +1,107 @@
+{
+  "id": "lizzie-borden",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Lizzie Borden": "Lízi Bórden",
+    "Lizzie": "Lízi",
+    "Andrew": "Ándriu",
+    "Abby": "Ábi",
+    "Bridget Sullivan": "Brídyet Sálivan",
+    "Fall River": "Fol Ríver",
+    "Second Street": "Sécond Strit",
+    "New Bedford": "Niu Bédford",
+    "Massachusetts": "Masachúsets",
+    "Emma": "Ema"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El mango que faltaba",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Lizzie Borden. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El mango que faltaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fall River, Massachusetts, 4 de agosto de 1892. Hacia las once de la mañana. Una mujer se asoma a la puerta lateral de una casa de Second Street y avisa a una vecina: han matado a su padre. Se llama Lizzie Borden y tiene treinta y dos años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Andrew Borden, rico y muy tacaño, aparece en el sofá del salón. Poco después, la criada, Bridget Sullivan, y la vecina suben al piso de arriba y encuentran a su esposa, Abby, en la habitación de invitados. Los dos habían muerto a golpes de hacha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La casa estaba cerrada, y no se vio a nadie salir. Al principio se pensó en un desconocido, pero la sospecha cayó pronto en la gente de la casa: Lizzie, la criada y un tío que dormía allí esa noche. Ella era la que estaba en casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las pruebas del médico indicaron que Abby murió antes que Andrew, con bastante diferencia. Ese orden importaba: de él dependía quién heredaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota, y es lo que más me intriga: en la casa casi no había sangre fuera de las víctimas. La vecina dijo que Lizzie estaba impecable. En un caso así, eso sería un enigma para cualquier investigador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo un vestido. Al día siguiente del funeral, Lizzie quemó en la cocina una prenda que, según dijo, estaba manchada de pintura. Su hermana Emma declaró más tarde que la idea había sido suya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el sótano, la policía halló la cabeza de un hacha sin mango, tapada de ceniza. Para los investigadores, la rotura parecía reciente. Pero nadie probó que fuera el arma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Una cabeza de hacha con el mango roto, en una caja de herramientas viejas. Parece una pista, pero en 1892 no había manera de demostrar qué sangre quedó, ni de quién. Ni siquiera estaba claro que hubiera sido usada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lizzie dio su versión ante un tribunal, en una investigación judicial. Sus respuestas levantaron sospechas. El 11 de agosto la detuvieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarto apunte, y es jurídico. Ese testimonio es la base del debate moderno, pero el tribunal lo declaró inadmisible en el juicio. Lo que más la comprometía, el jurado no lo oyó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 5 de junio de 1893 en New Bedford. Fue el juicio del siglo diecinueve: periodistas de todo el país y largas colas a la puerta. Doce hombres formaban el jurado: en Massachusetts las mujeres no pudieron ser jurado hasta 1951."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La fiscalía sostuvo que solo ella tuvo ocasión y motivo, por los roces con su padre y su madrastra por el dinero y por una casa. La defensa respondió que no había pruebas directas, que nadie vio nada y que no se halló sangre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra prueba quedó fuera. Según la CBS, una mujer identificada como Lizzie había intentado comprar un veneno el día anterior. Los jueces no dejaron que el jurado lo oyera. Un abogado defensor consultado por la CBS cree que fue lo correcto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 20 de junio de 1893, el jurado deliberó menos de dos horas y la absolvió por unanimidad. Dentro de la sala hubo vítores, y fuera se oyeron a más de un kilómetro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que dice el expediente, y lo digo con claridad: Lizzie Borden fue absuelta. Nadie más fue acusado. Ni siquiera hoy hay certeza. Los que la creen culpable especulan, y los que no, tampoco pueden señalar a nadie más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lizzie siguió viviendo en Fall River, en una casa más grande, a la que llamó Maplecroft. Murió el 1 de junio de 1927. Pocas personas fueron a su entierro. Está enterrada en el panteón familiar, al lado de su hermana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y hay otra memoria, la de Andrew y Abby Borden, dos personas muertas en su casa un día de verano, cuyo nombre quedó muchos años a la sombra de un crimen sin respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Lizzie Borden. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver y absolución: el guion dice claramente que Lizzie Borden fue absuelta, que nadie más fue acusado y no la señala. Fuentes abiertas: CBS News 48 Hours (2021), Wikipedia en inglés. Detalles: hora «hacia las once» (CBS dice solo «late morning»; no consta la hora exacta en las fuentes abiertas), orden de las muertes (CBS: Abby murió antes que Andrew; el guion no da la diferencia horaria). Contradicciones menores: Wikipedia y CBS discrepan en la duración del juicio (CBS: unas tres semanas; con inicio el 5 y veredicto el 20 de junio fueron unas dos), y el guion no la cita. Se deja fuera por morbo: las calaveras mostradas en la sala, el número de golpes y las fotografías de la escena. El intento de comprar ácido prúsico, no admitido en el juicio, se menciona sin entrar en detalle. «El tío» que dormía allí es John Morse (CBS). El vestido: Lizzie y Emma dijeron que estaba manchado de pintura; Emma declaró que fue idea suya quemarlo (CBS). La cabeza de hacha: CBS dice que parecía una rotura reciente según la policía; la defensa lo discutió. Fecha de la muerte de Lizzie (1 de junio de 1927) y entierro con poca asistencia: Wikipedia y NYT."
+}

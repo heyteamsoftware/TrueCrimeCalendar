@@ -1,0 +1,118 @@
+{
+  "id": "ravachol-saint-germain",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ravachol": "Ravachól",
+    "Saint-Germain": "San Yermán",
+    "Edmond Benoît": "Edmón Benuá",
+    "Benoît": "Benuá",
+    "Clichy": "Clishí",
+    "Bulot": "Bulo",
+    "Véry": "Verí",
+    "Montbrison": "Monbrisón",
+    "Lhérot": "Lerró",
+    "Magenta": "Mayénta",
+    "Koenigstein": "Kénigstain",
+    "París": "París",
+    "Saint-Chamond": "San Chamón"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Número 136 del bulevar",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado de Ravachol. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Número 136 del bulevar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 11 de marzo de 1892. Hacia las seis de la tarde, un hombre deja un paquete en el número 136 del bulevar Saint-Germain y sale del edificio. Poco después, una explosión sacude la escalera y los cristales de toda la calle."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el cuarto piso vive un magistrado, Edmond Benoît. Quedó ileso. Hubo un herido, y daños materiales graves. Pero la bomba no había sido puesta en el edificio por casualidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un paquete de dinamita en la casa de un juez. El mensaje no es para los vecinos, es para el sistema judicial entero. Y quien lo dejó sabía muy bien en qué piso vivía Benoît."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Benoît había presidido el juicio contra los anarquistas de Clichy. Dos años antes, en una manifestación, la policía había disparado contra anarquistas, y varios de ellos acabaron condenados a prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre que puso la bomba quería vengarlos. Se llamaba François Claudius Koenigstein, pero todo el mundo lo conocía por su apodo: Ravachol. Había nacido en 1859 en Saint-Chamond, en una familia pobre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el matiz. En la prensa de entonces era un simple terrorista. Para los anarquistas, un vengador. Para el archivo, un hombre que había matado antes de poner bombas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los atentados no eran su primer delito. El año anterior, en 1891, Ravachol había matado a un anciano ermitaño al que creía dueño de una fortuna. Había huido a París con nombre falso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dieciséis días después de la bomba de Saint-Germain, el 27 de marzo, otra explosión destrozó el edificio del fiscal Bulot, en la calle de Clichy. Según la Wikipedia francesa, siete personas resultaron heridas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos bombas en dos semanas. París estaba aterrorizada. La policía buscaba un nombre, y no tenía ni una pista segura. Quien al final los encontró no fue un detective."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de marzo, Ravachol entró en el restaurante Véry, en el bulevar Magenta. Allí había hablado días antes con un camarero, Jules Lhérot, que había encontrado sospechosas sus palabras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lhérot lo reconoció, sobre todo, por una cicatriz en la mano izquierda. Avisó a la policía. Ravachol fue detenido, aunque, según un relato, hicieron falta diez agentes para reducirlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate: un camarero, una cicatriz, una conversación. Así se acaba con una oleada de atentados, sin ninguna técnica especial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de abril de 1892, el tribunal de París le condenó a trabajos forzados a perpetuidad por los atentados. Asumió él solo la responsabilidad y dijo que actuaba para vengar a los condenados de Clichy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero aún faltaba otro juicio. El 21 de junio, en Montbrison, un jurado le condenó a muerte por los crímenes de 1891. Reconoció el asesinato del ermitaño, pero negó otros que se le atribuían."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es mi reserva. Parte de lo que se le atribuyó nunca estuvo claro. Una de las fuentes dice que fue condenado también por varios crímenes que probablemente no cometió. No me fío de las cifras redondas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue guillotinado el 11 de julio de 1892 en Montbrison. No pidió la gracia y se negó a recibir al capellán. Sus últimas palabras quedaron cortadas, y nunca se supo con certeza cómo terminaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después de su muerte, algunos anarquistas lo convirtieron en un mito. Se escribieron canciones y elogios. Y hubo más atentados: en 1893 una bomba en el Parlamento francés, y en 1894 el asesinato del presidente Sadi Carnot."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el peor legado. Un hombre convertido en símbolo, y detrás, los que nunca eligieron ser símbolo. Un herido en un bulevar. Siete más en una calle. Y un anciano que vivía de limosnas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran personas corrientes, y no consintieron nada. De eso se ocupa también el archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El atentado de Ravachol. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "El número de heridos de la calle de Clichy (siete) es de la Wikipedia francesa y de Encyclopedia.com; la ficha dice 1 herido (bulevar). Fecha de la bomba: Maitron y Wikipedia francesa (11 de marzo). Bomba del restaurante Véry (días después de la ejecución según Encyclopedia.com, 25 de abril según la Wikipedia francesa) no se menciona. No se nombra al ermitaño (Jacques Brunel, 93 años según la Wikipedia francesa). Las 'dos años antes' de la manifestación de Clichy no están en la ficha (1891, Wikipedia francesa, no verificado): revisar. 'Diez agentes': Encyclopedia.com. 'Terror' y vínculos con los atentados de 1893 y 1894: Encyclopedia.com y Wikipedia francesa (Vaillant y Caserio). 'Condenado también por varios crímenes que probablemente no cometió': Encyclopedia.com. 'Los 40.000 francos' no se usan."
+}

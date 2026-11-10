@@ -1,0 +1,104 @@
+{
+  "id": "tucapel-jimenez",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Tucapel Jiménez": "Tucápel Jiménez",
+    "Pinochet": "Pinochét",
+    "Punta Peuco": "Punta Péuco"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un taxi en el camino de Lampa",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Tucapel Jiménez. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un taxi en el camino de Lampa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Santiago de Chile, 25 de febrero de 1982. Un taxista sube a varios pasajeros en Renca. Parecen clientes normales. Pero no lo son. Le piden que los lleve por un camino hacia Lampa, en las afueras. Allí, lejos de las luces, lo matan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El taxista se llamaba Tucapel Jiménez. Conducía un taxi, pero su cargo era otro: presidente de la Agrupación Nacional de Empleados Fiscales, la ANEF, y una de las voces sindicales más visibles contra el régimen de Pinochet."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un sindicalista opositor, en plena dictadura, asesinado en un camino apartado. Ya con eso, cualquier investigador tendría una hipótesis. Pero entonces se habló de otra cosa: de un robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa fue la primera versión oficial. Según la sentencia judicial, el crimen se encubrió para atribuirlo a delincuentes comunes. La familia y el sindicato no lo creyeron. La ANEF presentó una querella el 9 de marzo de 1982. La viuda de Jiménez, el 17 de marzo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en las fechas. A las dos semanas, quienes lo conocían ya decían que no era un robo. Tardaron veinte años en tener la razón por escrito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso avanzó muy despacio. Según el tribunal, documentos reservados importantes no se entregaron a tiempo al juez que investigaba. Y en 1983, apareció un hombre que parecía cerrar el expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Juan Alegría Mundaca, y era carpintero. Lo encontraron muerto en Valparaíso, junto a una carta en la que confesaba el crimen. Parecía un suicidio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Una carta de confesión, un hombre solo y un caso que se cierra. Es el final que más conviene a quien quiere que no se investigue más. Y estaba fabricado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años más tarde se supo que no fue un suicidio. Agentes del Ejército habían matado a Alegría Mundaca y simulado la carta para cerrar el caso Jiménez. Dos muertes por un solo plan de encubrimiento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La pista llegó por un oficial. Carlos Herrera Jiménez, mayor del Ejército, salió de Chile en septiembre de 1991. Fue detenido en Argentina en enero de 1992. Tras ser extraditado, confesó su participación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un oficial del propio Ejército acabó rompiendo el silencio, y eso es lo que más pesa. Sin su confesión, según la lectura de los jueces, el caso habría quedado en un robo y en una carta de un carpintero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez Sergio Muñoz, ministro en visita, dirigió la investigación durante tres años. El 5 de agosto de 2002 dictó sentencia. Según la sentencia, el plan se había preparado entre noviembre de 1981 y febrero de 1982 desde la Dirección de Inteligencia del Ejército."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Herrera Jiménez, autor de los disparos, fue condenado a presidio perpetuo, una pena que unificó con la del asesinato de Alegría Mundaca. Otros militares, entre ellos el general Ramsés Álvarez Sgolia, exdirector de esa inteligencia, recibieron penas por autoría, complicidad o encubrimiento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero ser exacto con las penas. En segunda instancia, la Corte de Apelaciones de Santiago revisó el fallo. Mantuvo la pena de Herrera, modificó otras y absolvió a varios acusados. Una sentencia así no es un final limpio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Herrera Jiménez cumple su condena en la cárcel de Punta Peuco. En 2018, la Corte Suprema rechazó un recurso de amparo que había presentado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi conclusión: se sabe quién disparó, quién lo organizó y cómo lo taparon. Lo que sigue discutiéndose es hasta dónde llegó la cadena de mando. Los tribunales pusieron un límite. La memoria, no."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cada 25 de febrero, familiares y autoridades lo han homenajeado en el aniversario de su muerte, como recogía Cooperativa en 2010."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda la memoria de un dirigente sindical que defendía a los empleados públicos. Y la de un carpintero de Valparaíso, Juan Alegría, a quien atribuyeron una confesión que no era suya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Tucapel Jiménez. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: sentencia de apelación (Nizkor) y Emol (2002); Cooperativa y Radio Agricultura solo se citan por la ficha, sin abrir. Contradicciones: ficha dice «doce condenados»; la sentencia de apelación absuelve a varios (Corbalán, Ibarra, León Alessandrini...), se dice solo «varios militares». Lugar: sentencia, sector Peralillo del camino Renca-Lampa; Cooperativa, El Noviciado: se pone «Renca-Lampa». «Taxi para ganarse un dinero extra» es mi inferencia (la ficha dice que conducía el taxi): revisar. «Cada 25 de febrero... en 2010»: dato de Cooperativa sobre la ficha, no abierto. «Sin parentesco» entre Herrera Jiménez y Tucapel Jiménez: no figura en ninguna fuente abierta; quitar si no se puede probar. «Las fuentes aclaran» es falso: no está en la fuente. El texto de «pasajeros en Renca» cuenta con «abordado», según la sentencia. «Valparaíso» y la confesión: ficha. «Veinte años» = 1982 a 2002."
+}

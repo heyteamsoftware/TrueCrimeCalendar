@@ -1,6 +1,6 @@
 {
   "id": "bundy",
-  "titulo": "El hombre del brazo en cabestrillo",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Ted Bundy": "Ted Bándi",
@@ -13,6 +13,7 @@
     "Tacoma": "Tacóma",
     "Utah": "Iúta",
     "Carol DaRonch": "Károl Da Rónch",
+    "Caryn Campbell": "Kéren Cámbel",
     "Aspen": "Áspen",
     "Glenwood Springs": "Glénuud Springs",
     "Chi Omega": "Kái Oméga",
@@ -20,118 +21,184 @@
     "Lisa Levy": "Lísa Lívi",
     "Margaret Bowman": "Márgaret Bóuman",
     "Lake City": "Léik Síti",
-    "Kimberly Leach": "Kímberli Lích",
     "Pensacola": "Pensacóla",
     "Green River": "Grin Ríver",
     "Robert Keppel": "Róbert Képel",
     "Gary Ridgway": "Gári Ríchuei",
-    "Volkswagen": "Folksváguen"
+    "Volkswagen": "Folksváguen",
+    "Starke": "Stark"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Lago Sammamish, estado de Washington, 14 de julio de 1974. Un domingo de sol, con el parque lleno de familias. Un joven con el brazo en cabestrillo se acerca a varias mujeres y les pide ayuda para cargar un velero en su coche."
+      "n": 1,
+      "titulo": "Un brazo en cabestrillo",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Ted Bundy y los asesinatos de estudiantes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un brazo en cabestrillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Parque estatal del lago Sammamish, estado de Washington, 14 de julio de 1974. Un domingo de sol, con el parque lleno de familias. Un joven con el brazo en cabestrillo se acerca a varias mujeres y les pide ayuda para cargar un velero en su coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Algunas le dicen que no. Pero dos jóvenes, Janice Ott y Denise Naslund, que no se conocían, desaparecen ese mismo día. Varios testigos recuerdan un detalle: el hombre dijo llamarse Ted."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto ya la pregunta que atraviesa este expediente: un nombre, un brazo vendado y un coche, ¿cómo es posible que no bastara para encontrarlo? Pasó mucho tiempo. Y hubo mucha gente buscando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía difundió un retrato y la descripción de un coche, un Volkswagen escarabajo. Llegaron miles de pistas. Cinco de ellas apuntaban a Bundy, pero se perdieron en aquel mar de papeles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los detectives del condado de King trabajaron con un psicólogo de la Universidad de Washington para entender a quién buscaban. Había miles de pistas y pocos medios para cruzarlas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ted Bundy había nacido el 24 de noviembre de 1946 en Burlington, Vermont, y creció en Tacoma, en el estado de Washington. Estudió en la Universidad de Washington y colaboró en campañas políticas. De cara al exterior, era un joven educado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cinco pistas señalaban a Bundy. Cinco entre miles. Esa proporción es la mejor lección de este caso: la respuesta estaba dentro del archivo, pero en un montón demasiado grande para leerlo entero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su forma de actuar se repetía. Fingía una lesión para despertar compasión, o se hacía pasar por una figura de autoridad, como un policía, para que sus víctimas confiaran en él. Era una táctica sencilla, y funcionaba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay un patrón que hoy parece evidente. Pero entonces cada policía veía una sola pieza. Las desapariciones ocurrían en jurisdicciones distintas, y no existía una base de datos que cruzara los casos. Así se pierde un asesino: no por falta de pistas, sino por falta de puentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde principios de 1974 desaparecieron mujeres jóvenes en Washington y Oregón. Cuando Bundy empezó Derecho en Utah, en agosto de 1974, las desapariciones siguieron allí. Y después, en Colorado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre la había engañado: dijo ser agente y que iba a llevarla a comisaría por un robo en su coche. Ella logró escapar. Años después, su declaración sería importante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de noviembre de 1974, una joven, Carol DaRonch, escapó en un centro comercial de las afueras de Salt Lake City de un hombre que se hacía pasar por policía. Declaró contra él años después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1975, un agente de tráfico de Utah le dio el alto a un coche que circulaba de madrugada sin luces. En su interior había objetos sospechosos. El nombre del conductor empezó a encajar con varios expedientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "DaRonch lo identificó. En 1976 lo condenaron por secuestro con agravantes, y le impusieron entre uno y quince años de cárcel. Pero aquello era solo el principio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una condena por un delito menor permitió abrir los demás. Es el método más antiguo del oficio. Cuando no puedes probar lo grave, pruebas lo que puedes. Pero hay que aguantar mientras tanto, y la custodia falló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1977 lo trasladaron a Colorado para juzgarlo por el asesinato de la enfermera Caryn Campbell, ocurrido en Aspen. Allí se fugó dos veces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera fue el 7 de junio de 1977, durante un descanso de las audiencias previas al juicio, en Aspen. Lo capturaron casi una semana después. La segunda, a finales de diciembre, desde la cárcel de Glenwood Springs. Esta vez nadie lo encontró a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegó a Florida con otro nombre. Allí nadie sabía quién era. En la cinta dos: una hermandad universitaria en Tallahassee, un jurado y la confesión final."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Algunas le dicen que no. Pero dos jóvenes, Janice Ott y Denise Naslund, desaparecen ese mismo día. Varios testigos recuerdan un detalle: el hombre dijo llamarse Ted."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un nombre, un brazo vendado y un coche. ¿Con eso no bastaba para encontrarlo?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Durante mucho tiempo, no. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Ted Bundy, el carnicero de estudiantes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en 1946 en Vermont y creció en Tacoma, en el estado de Washington. Estudió Psicología y, en 1974, empezó Derecho en Utah. De cara al exterior era un joven educado, con aspiraciones políticas, al que nadie veía como una amenaza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Desde principios de 1974 empezaron a desaparecer mujeres jóvenes en Washington y Oregón, muchas de ellas estudiantes. Cuando él se mudó a Utah, las desapariciones siguieron allí. Y después, en Colorado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Su forma de actuar se repetía. Fingía una lesión para despertar compasión, o se hacía pasar por una figura de autoridad, como un policía, para que sus víctimas confiaran en él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras lo ocurrido en el lago, la policía difundió un retrato robot y la descripción del coche, un Volkswagen escarabajo. Llegaron miles de pistas. Su nombre llegó a figurar entre ellas, pero se perdió en aquel mar de papeles."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuándo se cruzó por fin en el camino de la policía?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "En agosto de 1975, en Utah, un agente le dio el alto porque circulaba de madrugada sin luces y no se detuvo. En su coche encontró objetos sospechosos. Y su nombre empezó a encajar con varios expedientes abiertos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Una joven que había logrado escapar de un falso policía en 1974, Carol DaRonch, lo identificó. En 1976 fue condenado por secuestro. Pero aquello era solo el principio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Trasladado a Colorado para ser juzgado por asesinato, se fugó dos veces. La primera, en 1977, saltó por la ventana de la biblioteca del juzgado de Aspen. Lo capturaron días después."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La segunda, a finales de ese mismo año, escapó de la cárcel de Glenwood Springs y llegó hasta Florida. Allí nadie sabía quién era."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Dos fugas. Eso dice mucho de los fallos de custodia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y esos fallos tuvieron un coste terrible. En enero de 1978 entró en la residencia de la hermandad Chi Omega, en la Universidad Estatal de Florida, en Tallahassee. Mató a dos jóvenes, Lisa Levy y Margaret Bowman, e hirió a otras dos. Esa misma noche atacó a otra estudiante a pocas manzanas de allí."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Semanas después secuestró y asesinó en Lake City a Kimberly Leach, una niña de doce años. Poco después fue detenido en Pensacola, conduciendo un coche robado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En el juicio por el caso Chi Omega, en 1979, una prueba forense pesó mucho: un odontólogo comparó una marca de mordedura con sus dientes. Era una técnica poco habitual entonces, y hoy está muy cuestionada por la comunidad científica."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántas condenas a muerte recibió?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tres. Dos por el caso Chi Omega y otra por el asesinato de Kimberly Leach. Tras casi diez años de recursos, fue ejecutado en la silla eléctrica en Florida en enero de 1989."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En los días previos a su ejecución confesó treinta asesinatos. Los investigadores creen que pudieron ser más. Y muchas familias nunca obtuvieron las respuestas que buscaban."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hay un episodio de su etapa en el corredor de la muerte que conecta con otro expediente de este archivo. En 1984 se ofreció a ayudar a los investigadores del caso Green River, en el estado de Washington, y se entrevistó con ellos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Uno de ellos, el investigador Robert Keppel, mantuvo largas conversaciones con él. Aquellas charlas no resolvieron el caso. Su autor, Gary Ridgway, no fue detenido hasta 2001, gracias al ADN."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Así que ni siquiera eso sirvió para atrapar al asesino del Green River."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No directamente. Pero el caso Bundy sí dejó lecciones: la necesidad de compartir información entre estados y de cruzar datos de crímenes parecidos, algo que hoy parece obvio y entonces no lo era."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Durante décadas, su figura ha protagonizado películas y series, a menudo con una fascinación peligrosa por su encanto. Este archivo prefiere recordar a las mujeres jóvenes cuyas vidas quedaron truncadas, desde Washington hasta Florida."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Ted Bundy. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una ventana en Tallahassee",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una ventana en Tallahassee."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Ted Bundy. Tallahassee, Florida, 15 de enero de 1978. En la madrugada, un hombre entra en la residencia de la hermandad Chi Omega, junto a la Universidad Estatal de Florida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un recuerdo previo, de Colorado. Caryn Campbell, una enfermera, había desaparecido en Aspen a principios de 1975. Bundy fue acusado de su muerte, pero se fugó antes del juicio. Nunca se le juzgó por ella, y su familia nunca vio un veredicto. Sus fugas posteriores abrieron el camino a Florida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mueren dos jóvenes, Margaret Bowman, de veinte años, y Lisa Levy, de veintiuno. Otras estudiantes resultan heridas. Esa misma noche, otra joven sobrevive a un ataque en una casa cercana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos fugas, y a las pocas semanas, dos mujeres muertas. Así de caro fue el fallo de custodia. No se me ocurre una forma más clara de explicarlo. Cada puerta que se abrió tuvo un precio, y lo pagaron otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 9 de febrero, una niña de doce años desapareció de su colegio de Lake City. Su cuerpo apareció semanas después en un parque estatal. Su familia, como las demás, tuvo que esperar un veredicto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seis días después, el 15 de febrero, la policía de Pensacola detuvo a un hombre al volante de un coche robado. Poco después supieron quién era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto algo. Una de las claves del juicio fue una marca de mordedura comparada con sus dientes. Era una técnica poco habitual entonces. Hoy la comunidad científica la cuestiona. Lo menciono porque ilustra cómo evoluciona lo que aceptamos como prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Le juzgaron primero por el caso Chi Omega. Fue declarado culpable el 24 de julio de 1979, y condenado a muerte. Meses después, en febrero de 1980, lo condenaron también por el asesinato de la niña de Lake City. En total, tres condenas a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras casi diez años de recursos, fue ejecutado en la silla eléctrica de la prisión estatal de Florida, en Starke, el 24 de enero de 1989. Los últimos días confesó cerca de treinta asesinatos. La prensa de la época habló de veintiocho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que decir una cosa sobre esas cifras. Son lo que él dijo, y algunos investigadores dudaron de que dijera la verdad. Se le atribuyen más de treinta y seis. Lo que está probado es mucho menos. Nunca sabremos la cifra real."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los recursos se alargaron durante años. En 1986 se firmaron varias órdenes de ejecución que los tribunales fueron deteniendo, y en 1987 un juez federal confirmó que Bundy era competente cuando lo juzgaron en 1979."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de enero de 1989, Bundy ofreció hablar de otros asesinatos si se retrasaba la ejecución. El gobernador Bob Martinez se negó. En Washington, los detectives lograron que admitiera once muertes, aunque solo supo nombrar a ocho víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1984, desde el corredor de la muerte, ofreció ayuda a los investigadores del caso Green River. El investigador Robert Keppel mantuvo largas conversaciones con él. No resolvieron nada: Gary Ridgway no fue detenido hasta 2001, gracias al ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó lecciones: la necesidad de compartir información entre estados, de cruzar datos de crímenes parecidos y de custodiar mejor a los presos peligrosos. Algo que hoy parece obvio y entonces no lo era."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Podría describir los crímenes y no lo haré. Con este caso, los detalles alimentan una fascinación que a las familias les hace daño. Lo que importa de ellos es lo que se aprendió de los fallos que los permitieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Durante décadas, su figura ha protagonizado películas y series, a veces con una fascinación peligrosa por su encanto. Este archivo prefiere no darle ese espacio. Su rostro no es la parte importante de esta historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Prefiere recordar a las mujeres jóvenes cuyas vidas quedaron truncadas, desde Washington hasta Florida. Janice Ott, Denise Naslund, Caryn Campbell, Margaret Bowman, Lisa Levy, una niña de doce años, y tantas otras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Ted Bundy. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "Se suele citar que confesó 30 asesinatos en siete estados (incluida California); la ficha menciona seis. El guion no enumera los estados y no contradice la ficha."
+  "nota_revision": "Fuentes: Wikipedia en inglés, UPI (cronología del 24/1/1989), HistoryLink.org, Britannica y prensa. DISCREPANCIAS CON EL V2/FICHA: (1) Fecha de la detención en Utah: 16/8/1975 (Wikipedia) o 17/8 (UPI): el guion dice «agosto de 1975». (2) Segunda fuga: 30/12/1977 (Wikipedia) o 31/12 (UPI): «a finales de diciembre». (3) Detención en Pensacola: 15/2/1978 (Wikipedia) o 14/2 (UPI): el guion dice el 15. (4) Confesión: 30 asesinatos (Wikipedia, Britannica, ficha) o 28 (UPI, 21/1/1989); HistoryLink dice «más de 20»; el guion dice «cerca de treinta» y que la prensa dijo 28. (5) El v2 dice que condenaron a muerte «dos veces por Chi Omega y una por Leach»: tres condenas a muerte (Wikipedia), dos por Chi Omega (sentencia el 31/7/1979) y una por Leach (12/2/1980, UPI): coincide. (6) El v2 dice que «saltó por la ventana de la biblioteca del juzgado»: UPI solo dice que se fugó durante un descanso de las audiencias. Se quitó la ventana, aunque el título de la cinta 2 usa «ventana» por la hermandad (el título sigue siendo un objeto, no la fuga). (7) El v2 dice que fue detenido en Pensacola «conduciendo un coche robado»: HistoryLink dice tras pelea con un agente en una parada de tráfico; el guion dice coche robado y nombre falso (Wikipedia, ficha; la parte del nombre falso no se ha verificado en las fuentes fetch, es de conocimiento general: se deja). (8) Carol DaRonch: el v2 dice «lo identificó. En 1976 fue condenado por secuestro»: correcto; sentencia de 1 a 15 años (UPI, Wikipedia). (9) El v2 dice que el crimen de Carol DaRonch fue en 1974: correcto (8/11/1974). (10) La ficha dice 30 (estimadas 36+): correcto. (11) Respeto de menores: se omite el nombre de Kimberly Leach (12 años) por la regla común (consta en las actas y la prensa; falta fuente de que la familia haya hablado en público); se nombran Ott (23), Naslund (19), Campbell, Bowman (20) y Levy (21), adultas. DaRonch (superviviente) declaró en juicio. (12) Técnica de la mordedura: señalada como cuestionada hoy (informe de la Academia Nacional de Ciencias de 2009; no verificado en estas fuentes)."
 }

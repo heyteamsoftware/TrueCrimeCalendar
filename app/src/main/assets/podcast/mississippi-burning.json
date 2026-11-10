@@ -1,0 +1,111 @@
+{
+  "id": "mississippi-burning",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mississippi": "Misisípi",
+    "Misisipi": "Misisípi",
+    "Neshoba": "Neshóba",
+    "James Chaney": "Yeims Chéini",
+    "Chaney": "Chéini",
+    "Andrew Goodman": "Ándriu Gúdman",
+    "Goodman": "Gúdman",
+    "Michael Schwerner": "Máicol Chuérner",
+    "Schwerner": "Chuérner",
+    "Cecil Price": "Sésil Práis",
+    "Price": "Práis",
+    "Edgar Ray Killen": "Édgar Rei Kílen",
+    "Killen": "Kílen",
+    "Ku Klux Klan": "Ku Klux Klan",
+    "Klan": "Clan",
+    "FBI": "efe be i",
+    "Lawrence Rainey": "Lórens Réini",
+    "Bowers": "Báuers"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche quemado junto al pantano",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Mississippi Burning. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un coche quemado junto al pantano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Condado de Neshoba, Misisipi, junio de 1964. Tres días después de que tres jóvenes salieran de una comisaría de pueblo, un coche familiar aparece quemado cerca de un pantano. Es el que conducían. Dentro no hay nadie."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un coche abandonado en una zona remota, medio quemado, es un mensaje para quien lo encuentre. No lo esconden. Quien lo dejó allí quería que se supiera que había pasado algo, pero no qué."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres eran James Chaney, Andrew Goodman y Michael Schwerner. Chaney era negro y de Misisipi. Schwerner y Goodman eran blancos y judíos, y venían del Norte. Trabajaban en el Verano de la Libertad, una campaña para inscribir a votantes negros en un estado que lo impedía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco antes, miembros del Ku Klux Klan habían golpeado a gente en una iglesia baptista de Neshoba y la habían quemado. Los tres fueron hasta allí para investigar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una cosa que no se debe olvidar: en 1964, en buena parte de Misisipi, el Klan y la autoridad no eran mundos separados. Lo de ese día lo demuestra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 21 de junio, un ayudante del sheriff, Cecil Price, detuvo a los tres y los encerró en la cárcel de Filadelfia, la capital del condado. Pasadas las diez de la noche los dejó salir. Price y otros hombres los siguieron en coche. Nunca volvieron a ser vistos con vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI abrió una investigación por secuestro. Más de cuatrocientos marineros de la Armada ayudaron en la búsqueda. Mientras rastreaban la zona, aparecieron los restos de otras dos personas negras, Henry Dee y Charles Moore, cuyos casos no tenían relación con este."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en esto: la tragedia sacó a la luz otras muertes que nadie había buscado. El foco nacional llegó, en parte, porque dos de los desaparecidos eran blancos. Rita Schwerner, la esposa de Michael, lo dijo así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 4 de agosto, gracias a un informante, los agentes encontraron los cuerpos enterrados bajo un dique de tierra en una granja. Habían pasado cuarenta y cuatro días."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Misisipi se negó a juzgar a nadie por los asesinatos. Fue el Gobierno federal el que acusó a dieciocho personas, y no de asesinato, sino de violar los derechos civiles de las víctimas. Es una puerta lateral, pero era la única que había."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio federal empezó el 7 de octubre de 1967. Trece días después, un jurado condenó a siete hombres, entre ellos Cecil Price y el líder del Klan en el estado, Samuel Bowers. Las penas fueron de entre tres y diez años. El sheriff Lawrence Rainey fue absuelto, y el jurado no se pronunció sobre otros tres acusados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entre los que quedaron sin condena estaba Edgar Ray Killen. Se le acusaba de organizar los hechos. Un jurado no pudo ponerse de acuerdo y él siguió libre casi cuarenta años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2005, un tribunal de Misisipi lo declaró culpable de homicidio involuntario, no de asesinato. Fue condenado a tres penas de veinte años, sesenta en total. Murió en prisión en enero de 2018."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Treinta y ocho años de espera en un caso así tienen un precio: los años y la memoria de los testigos. Aun así, el cierre llegó. Las autoridades federales y del estado cerraron la investigación el 20 de junio de 2016."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los asesinatos ayudaron a reunir apoyo para la Ley de Derecho al Voto, que firmó el presidente Johnson el 6 de agosto de 1965. En 2014, los tres hombres recibieron a título póstumo la Medalla Presidencial de la Libertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fueron tres hombres que llevaron a una carretera de Misisipi la idea de que votar es un derecho. Hay monumentos a su nombre, en Misisipi y en Nueva York. Pero su verdadero monumento sigue siendo ese derecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Mississippi Burning. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: PBS y Wikipedia (en inglés); FBI, CNN, Clarion Ledger y NYT no se abrieron. Discrepancias: la iglesia de Mount Zion (PBS: golpes e incendio el 16 de junio; Wikipedia: Schwerner había hablado allí el 25 de mayo y la quema fue posterior); el guion dice «poco antes». PBS dice que Price detuvo a los tres; Wikipedia, que Chaney fue detenido por exceso de velocidad y los otros dos retenidos para investigación: el guion dice «detuvo a los tres». «Los tres fueron hasta allí para investigar» sale de la lógica del caso conocido; no consta en las fuentes abiertas: revisar. Las condenas de Killen: tres penas de 20 años (PBS/Wikipedia), no cadena perpetua. «Trece días» = del 7 al 20 de octubre de 1967. Edades de las víctimas no dadas (las fuentes abiertas no las recogen). Los restos de Dee y Moore: el guion los menciona sin pormenores. No se detalla cómo murieron los tres. El «jurado no se pronunció sobre otros tres» sale de PBS; Killen entre ellos."
+}

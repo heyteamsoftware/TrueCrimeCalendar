@@ -1,0 +1,119 @@
+{
+  "id": "delito-matteotti",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Giacomo Matteotti": "Yácomo Matéoti",
+    "Matteotti": "Matéoti",
+    "Amerigo Dumini": "Amerigo Dumíni",
+    "Dumini": "Dumíni",
+    "Lungotevere Arnaldo da Brescia": "Lungotévere Arnaldo da Bréshia",
+    "Quartarella": "Cuartarela",
+    "Riano": "Riano",
+    "Mussolini": "Musolíni",
+    "Velia": "Vélia",
+    "Chieti": "Kiéti",
+    "Fratta Polesine": "Frata Polésine",
+    "Volpi": "Vólpi",
+    "Poveromo": "Poverómo",
+    "Aventino": "Aventino"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un Lancia negro junto al río",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El delito Matteotti. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un Lancia negro junto al río."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roma, 10 de junio de 1924, a media tarde. Un hombre camina por la orilla del Tíber, en el Lungotevere Arnaldo da Brescia, camino de la Cámara de Diputados. Se llama Giacomo Matteotti. Es diputado socialista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Junto a la acera hay un Lancia negro, con varios hombres dentro. Cuando Matteotti pasa, lo atacan. Lo golpean y lo meten a la fuerza en el coche, que se aleja a toda velocidad hacia el norte de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es pleno día, en una calle de Roma, en la orilla de un río. Y se lo llevan sin que nadie logre impedirlo. La audacia de los autores es lo primero que llama la atención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diez días antes, el 30 de mayo, Matteotti había hablado en la Cámara. Denunció las violencias de los escuadristas fascistas durante las elecciones y pidió anular el resultado. La mayoría lo interrumpió a gritos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al salir, según recoge la biografía de Treccani, dijo a un compañero de partido: «Ahora preparaos para hacer mi conmemoración»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto porque es una cita documentada y breve. Sabía que había cruzado una línea. Mussolini calificó el discurso de «monstruosamente provocador»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El comando lo dirigía Amerigo Dumini, jefe de un grupo de escuadristas. Con él iban Albino Volpi, Augusto Malacria, Amleto Poveromo y Giuseppe Viola. El coche pertenecía a una persona del entorno del diario fascista Corriere italiano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahí está el problema. Un Lancia prestado por el director de un periódico fascista. No hacía falta ser un genio de la investigación para tirar del hilo. Los cinco fueron arrestados en los días siguientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Matteotti había sido apuñalado dentro del coche. Durante semanas, Italia no supo dónde estaba. Dejaba a su esposa, Velia Titta, y a tres hijos pequeños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El 27 de junio, la oposición abandonó el Parlamento en señal de protesta. Se llamó la secesión del Aventino. Mientras tanto, la prensa independiente preguntaba cada día: ¿dónde está Matteotti?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 16 de agosto, el cuerpo apareció en el bosque de la Quartarella, en Riano, a las afueras de Roma, en una fosa junto a la vía Flaminia. El funeral se celebró en Fratta Polesine, su pueblo natal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1925, Mussolini habló en la Cámara. Asumió la responsabilidad política, moral e histórica de lo ocurrido, sin reconocer que él lo hubiera ordenado. Fue el paso hacia la dictadura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con esa frase. Mussolini asumió una responsabilidad política. Lo que nunca se probó ante un tribunal es que diera la orden. Los historiadores han discutido ese punto durante un siglo, y no voy a cerrar yo el debate."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La instrucción tuvo dos fases. Al principio, los primeros magistrados sostuvieron que había sido un delito voluntario. Después, otros jueces optaron por el delito preterintencional, y en 1925 una amnistía permitió excarcelar a varios implicados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 1926, en Chieti, un tribunal condenó a Dumini, Volpi y Poveromo a poco menos de seis años por homicidio preterintencional. Malacria y Viola fueron absueltos. Una amnistía los dejó libres meses después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Preterintencional significa que el resultado fue más grave que la intención. Para un secuestro, un coche y una fosa. Según Treccani, entre unas cosas y otras no cumplieron ni dos años de cárcel. Eso dice mucho de lo que la justicia podía hacer bajo el fascismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la caída del fascismo, un nuevo juicio en Roma condenó a Dumini a cadena perpetua en 1947."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia de Matteotti se enseña en Italia como símbolo de la defensa de la libertad frente a la fuerza. Dos de sus hijos, Giancarlo y Gian Matteo, fueron después diputados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y sin embargo, no es la política lo que hay que recordar primero. Era un hombre de treinta y nueve años que iba a trabajar y no volvió. Es lo que merece el archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El delito Matteotti. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Treccani (Matteotti) y Sky TG24 (Dumini y LaPresse no se leyeron). Hora: hacia las 16:30 (Treccani), 16:15 (Wikipedia) o 16:00 (LaPresse); el guion dice a media tarde. Que el cuerpo estaba en la Quartarella y el funeral: Sky TG24 fecha el funeral el 21 de agosto y Treccani dice que los restos viajaron el 20; el guion no da día. El Lancia: Treccani dice que lo había prestado el director del Corriere italiano (Filippelli); el guion lo atribuye a una persona de su entorno. La frase final de Matteotti (no matar la idea) de Sky no se usa. El juicio de 1947: solo la cadena perpetua de Dumini (Treccani); Viola y Poveromo también la recibieron según Wikipedia. Treccani dice que cumplieron menos de dos años; Mussolini no fue condenado: el guion dice que su responsabilidad política no equivale a una orden probada. Edad de Matteotti (39) calculada de su fecha de nacimiento (22 de mayo de 1885), no abierta en las fuentes; de los hijos solo se cita a los dos diputados."
+}

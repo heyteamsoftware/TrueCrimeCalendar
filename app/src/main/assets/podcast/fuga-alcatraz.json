@@ -1,0 +1,113 @@
+{
+  "id": "fuga-alcatraz",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alcatraz": "Alcatráz",
+    "Frank Morris": "Fránk Mórris",
+    "Morris": "Mórris",
+    "John Anglin": "Yon Anglin",
+    "Clarence Anglin": "Clárens Anglin",
+    "Anglin": "Anglin",
+    "Allen West": "Alen Uést",
+    "West": "Uést",
+    "Angel Island": "Éinyel Áiland",
+    "Golden Gate": "Góulden Guéit",
+    "Marshals": "Márshals",
+    "FBI": "efe be i",
+    "San Francisco": "San Francisco"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una cabeza que cae al suelo",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La fuga de Alcatraz. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cabeza que cae al suelo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alcatraz, bahía de San Francisco, 12 de junio de 1962. Son las siete de la mañana. Un guardia intenta despertar al preso de una celda. No se mueve. Le toca la cama, y la cabeza del hombre cae al suelo. No es una cabeza: es de yeso, con pelo humano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los guardias abren las celdas contiguas. En dos de ellas, lo mismo. Tres presos han desaparecido de la prisión de máxima seguridad más famosa del país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Piensa en lo que esto significa. Cada noche, los recuentos. Y durante horas, nadie descubrió que había tres camas con maniquíes. El engaño funcionó porque era sencillo, no porque fuera genial."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tres presos eran Frank Morris y los hermanos John y Clarence Anglin. Un cuarto, Allen West, también había participado en el plan. Pero no consiguió salir de su celda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante unos seis meses, según las fuentes, habían agrandado las rejillas de ventilación de sus celdas. Usaban cucharas de la cafetería, hojas de sierra y un taladro hecho con el motor de una aspiradora. El acordeón de Morris tapaba el ruido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me impresiona es la paciencia. Cartón pintado para esconder el agujero. Un taller secreto en lo alto del bloque. Y más de cincuenta impermeables cosidos para hacer una balsa y unos chalecos salvavidas. Un trabajo de meses, bajo la mirada de los guardias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noche del 11 de junio, después del toque de queda, Morris y los Anglin subieron por los conductos hasta el tejado. Bajaron por una tubería hasta el borde de la isla. Y, según se cree, lanzaron la balsa al agua desde la orilla nororiental, una zona sin focos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "West descubrió esa noche que el cemento de su rejilla se había endurecido. No pudo salir. Más tarde dijo a los investigadores que la idea había sido suya."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un detalle que no encaja con la leyenda: la fuga no fue una locura improvisada. Estuvo muy bien preparada. Y aun así, la bahía de San Francisco tiene aguas muy frías y corrientes fuertes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, un guardacostas encontró un remo cerca de Angel Island. Apareció una cartera impermeable con fotos y cartas de la familia Anglin. En los días siguientes, aparecieron dos chalecos salvavidas. La balsa nunca se encontró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Semanas más tarde, según la Oficina Federal de Prisiones, apareció un cuerpo con ropa azul parecida a la de la prisión. Estaba tan deteriorado que no pudo identificarse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el verbo. Parecida. Nadie pudo ni descartar que fuera uno de ellos ni afirmar que lo fuera. Ese cuerpo es el agujero del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI investigó diecisiete años. El 31 de diciembre de 1979 cerró el caso con una conclusión: lo más probable es que los tres hombres se ahogaran. El Servicio de Marshals de Estados Unidos, en cambio, mantiene abierta la búsqueda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso nos lleva a lo que nunca se ha probado. Hubo fotos, postales y una carta de 2018 en la que un hombre decía ser John Anglin, y que murieron Morris y Clarence. Su autenticidad no pudo determinarse. Para mí, son historias, no pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay quien ha demostrado, con experimentos, que la travesía era posible en principio. Un estudio de la Universidad de Delft, en 2014, concluyó que habrían podido llegar a tierra si salieron en el momento adecuado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Posible no quiere decir que ocurriera. Y no olvidemos que eran presos federales con condenas largas. No hablamos de héroes de película, sino de hombres con un pasado que no vamos a juzgar aquí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alcatraz cerró el 21 de marzo de 1963. No fue por esta fuga, sino por el coste: mantener la isla era casi tres veces más caro que cualquier otra prisión federal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que queda es una pregunta sin respuesta, y una cama con una cabeza falsa. A veces un expediente no se cierra: se deja abierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La fuga de Alcatraz. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

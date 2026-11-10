@@ -1,0 +1,97 @@
+{
+  "id": "hoguera-barbara",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un tren a Quito",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La Hoguera Bárbara. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un tren a Quito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quito, domingo 28 de enero de 1912, hacia el mediodía. Llega un tren de Guayaquil. En él viajan presos el general Eloy Alfaro, que fue dos veces presidente de Ecuador, su hermano Medardo, su sobrino Flavio y otros jefes liberales. Se habían rendido tras una guerra civil. Les habían prometido garantías."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los llevan al Penal García Moreno, llamado entonces el Panóptico. Según El Universo, el gentío que los rodea muestra ya actitudes sospechosas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. A los vencidos se les prometió respeto en el Tratado de Durán, firmado seis días antes. Y tres días antes, en Guayaquil, otro jefe liberal, Pedro Montero, había sido asesinado y mutilado por una multitud. Esa era la señal de lo que podía pasar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eloy Alfaro, que tenía sesenta y nueve años, había sido el líder de la Revolución Liberal. Fue presidente de 1895 a 1901 y de 1906 a 1911. Estableció la libertad de culto y la educación gratuita, y terminó el ferrocarril entre Guayaquil y Quito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esos cambios le habían ganado enemigos poderosos. La prensa conservadora lo atacaba, y entre los propios liberales había una fractura entre radicales y moderados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa fractura es clave. Alfaro había sido derrocado en agosto de 1911. En diciembre murió el presidente Estrada y el poder pasó, de forma interina, a Carlos Freile Zaldumbide. El país se dividió entre sus apoyos y los de otros generales liberales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alfaro regresó el 4 de enero de 1912 para pacificar el país, y no lo consiguió. Hubo combates feroces entre sus partidarios y las fuerzas del gobierno interino, y los alfaristas llevaron la peor parte. Entonces se firmó el tratado que daba garantías a los jefes prisioneros. Según El Universo, esas garantías resultaron falsas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese día, según El Universo, una multitud asaltó los calabozos con la complicidad de autoridades y guardias de turno. Murieron Eloy, Medardo y Flavio Alfaro, el periodista Luciano Coral y los militares Manuel Serrano y Ulpiano Páez."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a describir lo que ocurrió después. Basta con saber que los cuerpos fueron arrastrados hasta el parque de El Ejido y quemados allí. El escritor Alfredo Pareja Diezcanseco bautizó el episodio: la hoguera bárbara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El fiscal Pío Jaramillo Alvarado investigó después el caso. Según Wikipedia, los militares que rodeaban el penal no ofrecieron resistencia y, según él, incluso llamaron a la gente. Solo resistió la guardia interna."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero fíjate en esto: el fiscal acusó a varios cabecillas y criticó al Gobierno y al Ejército. No consta que nadie fuera condenado. La Hoguera Bárbara quedó impune."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién fue el responsable? Durante años se culpó a los conservadores y al clero. Hoy muchos historiadores señalan a los liberales moderados que estaban en el Gobierno y no hicieron nada para frenar a la multitud."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otros ponen en duda esa tesis. El historiador Enrique Ayala Mora ve pruebas insuficientes contra el general Leonidas Plaza. La autoría intelectual sigue discutida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También discrepan las cifras. El Universo habla de seis muertos. El Comercio, en un reportaje de 2021, cita solo cuatro. Lo seguro es que Eloy Alfaro, Medardo y Flavio murieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un crimen político a plena luz del día, en la capital, con las puertas abiertas y las autoridades mirando. Eso es lo que más me cuesta de leer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En El Ejido hay hoy un monumento a la Hoguera Bárbara y otro a Alfaro. En 2012, el 28 de enero pasó a ser el Día de la Reparación Nacional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El Estado ecuatoriano lo reconoció así, un siglo después, como una deuda. Los seis hombres de este expediente fueron asesinados cuando estaban presos y bajo palabra de respeto. Eso es lo que queda en el archivo: sus nombres y una deuda reconocida tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La Hoguera Bárbara. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Número de muertos: El Universo da seis (Eloy, Medardo y Flavio Alfaro, Luciano Coral, Manuel Serrano y Ulpiano Páez); El Comercio (2021) cita cuatro. Se dice «seis» atribuido a El Universo y se nombran solo los tres Alfaro como seguros. La responsabilidad intelectual está discutida (conservadores/clero frente a liberales moderados del Gobierno de Freile; Ayala Mora ve pruebas insuficientes contra Plaza). El informe del fiscal Jaramillo Alvarado es de 1919 según Wikipedia; no se ha encontrado el resultado del proceso. Los nombres de quienes se acusa en Wikipedia como presuntos sicarios no se citan (sin condena). Lo de «Tres días antes… Montero linchado» (25 de enero) viene de El Universo."
+}

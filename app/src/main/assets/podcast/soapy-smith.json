@@ -1,0 +1,124 @@
+{
+  "id": "soapy-smith",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Soapy Smith": "Sópi Esmiz",
+    "Soapy": "Sópi",
+    "Jefferson Randolph Smith": "Yéfferson Rándolf Esmiz",
+    "Skagway": "Escágüei",
+    "Alaska": "Alaska",
+    "Klondike": "Clóndaik",
+    "Denver": "Dénver",
+    "Creede": "Crid",
+    "Colorado": "Colorádo",
+    "Georgia": "Yórya",
+    "Frank Reid": "Frank Rid",
+    "Reid": "Rid",
+    "Juneau": "Yunó",
+    "Stewart": "Stiuart",
+    "Winchester": "Uínchester"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El saco de oro de Stewart",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Soapy Smith. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El saco de oro de Stewart."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Skagway, Alaska, 7 de julio de 1898. Un minero, John Stewart, vuelve de los yacimientos con un saco de pepitas que vale unos dos mil setecientos dólares. Lo cuenta a unos desconocidos. Poco después, el saco ha desaparecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. En una ciudad con poca ley, un saco de oro puede desaparecer sin que nadie vea nada. Pero esta vez el robado no se calló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender el escándalo hay que saber quién mandaba en Skagway. Se llamaba Jefferson Randolph Smith, pero todo el mundo lo conocía como Soapy. Había nacido en Georgia en 1860."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su fama venía del jabón. En una esquina, vendía pastillas de jabón a unos pocos dólares, y decía que en algunas iba envuelto un billete de cien. Siempre ganaba un cómplice entre el público. Los demás se quedaban con el jabón."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El jabón era el truco pequeño. En Creede, Colorado, hizo algo mejor: enterró una estatua y la desenterró con gran publicidad como un hombre prehistórico. Cobró entrada a los curiosos. Esa es la clase de hombre de la que hablamos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con trileros, juegos de cartas amañados y sobornos, mandó en los bajos fondos de Denver y de Creede. En 1897 llegó a Skagway, en plena fiebre del oro del Klondike."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Compró un local y lo bautizó Jeff Smith's Parlor. Era bar y casa de juego. Contaba con una banda de colaboradores y hasta una falsa oficina de telégrafos. Miles de buscadores de oro pasaban por allí de camino al norte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que eso significa: su clientela eran personas de paso, con dinero y sin tiempo. Si alguien se quejaba, ya iba camino de otra parte. Para un estafador es la víctima ideal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando Stewart se quejó, Skagway se movilizó. Los comerciantes se reunieron en un comité. Frank Reid, ingeniero de la ciudad, y otros exigieron a Smith que devolviera el oro antes de las cuatro de la tarde. Un juez lo citó y le dio hasta las seis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Smith no devolvió nada. Esa noche, un grupo de vecinos se reunió en un muelle, el Juneau, y puso guardias a la entrada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Hasta aquí, un comité de comerciantes. Esa noche, una reunión que se convocó sin esperar al plazo acordado. La justicia, en Skagway, ya se tomaba por su mano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Smith acudió al muelle con un rifle Winchester. Frank Reid estaba en la entrada. Hubo una discusión y un forcejeo. Se oyeron los disparos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Smith murió allí mismo. Reid quedó herido y murió doce días después. Quién disparó la bala mortal de Smith sigue siendo materia de debate: la versión clásica dice que fue Reid, pero otros autores apuntan a otro vigilante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto sin más: el hombre que dominó dos ciudades con sus timos nunca fue condenado por ellos. Murió antes de que ningún tribunal lo juzgara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La banda de Smith fue detenida. A su entierro, según un testimonio, acudieron siete hombres y una mujer. Lo enterraron fuera del límite del cementerio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reid, en cambio, tuvo un entierro multitudinario. En su tumba se grabó: dio su vida por el honor de Skagway."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos funerales, dos épocas. Un entierro fuera del cementerio, el otro con honores. Así lo recordó el pueblo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Y el oro de Stewart? Las fuentes no cuentan que apareciera. Lo que sí sabemos es que la caída de Smith dejó a su banda detenida y a Skagway sin su rey."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El local donde Smith tuvo su salón sobrevive hoy: es el museo Jeff Smith's Parlor, parte del Parque Histórico Nacional de la Fiebre del Oro del Klondike. Un edificio que estuvo apenas tres meses en sus manos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo que dejan las leyendas: un nombre que suena a broma, y detrás muchas personas que perdieron sus ahorros en una esquina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Soapy Smith. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Donald L. Singer (Fortnightly Club of Redlands, 2003), History.com y NPS (página del museo Jeff. Smith's Parlor); la ficha cita también el informe HSR del NPS, el Rocky Mountain News y Wikipedia, que no se abrieron. Discrepancias: quién disparó el tiro mortal (la versión clásica atribuye a Reid; la ficha avisa de dudas, y Singer lo dice también): el guion dice que murió en el tiroteo con Reid y que «no está claro» quién disparó la bala mortal. La versión del robo a Stewart varía (una fuente lo hace en un hotel, otra en un callejón por un «comprador de oro»): el guion dice solo que le robaron un saco de oro de unos 2.700 dólares. Se deja fuera la hipótesis de que Reid manipulara a Stewart. Smith nunca fue condenado: se dice. El origen del apodo «Soapy» varía y no se cuenta. Singer escribe que el saco valía 2.700 dólares y el Skagway News, que pesaba 12 a 15 libras. Pronunciación a revisar al escuchar."
+}

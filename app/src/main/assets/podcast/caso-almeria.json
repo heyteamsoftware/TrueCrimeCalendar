@@ -1,0 +1,113 @@
+{
+  "id": "caso-almeria",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El coche del barranco de Gérgal",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Almería. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El coche del barranco de Gérgal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Carretera de Gérgal, Almería. Madrugada del 10 de mayo de 1981. En el fondo de un barranco hay un coche destrozado y quemado. Dentro, tres cuerpos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La versión oficial llegó enseguida: eran tres terroristas armados que habían intentado huir y habían muerto en el choque. No era cierto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cuando una versión oficial llega antes que la investigación, hay que desconfiar. Tres muertos y una explicación ya escrita: eso solo se sostiene si nadie hace preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaban Luis Montero, de treinta y tres años, Luis Cobo, de veintinueve, y Juan Mañas, de veinticuatro. Vivían en Cantabria y trabajaban en empresas de Santander y su entorno. Luis Cobo era el dueño del coche en el que viajaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habían ido en coche hasta Pechina, en Almería, para la primera comunión del hermano de Juan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquellos días, la Guardia Civil buscaba a un comando de ETA después de un atentado en Madrid. Tras una avería, los tres alquilaron un coche. Alguien creyó reconocerlos en las fotos de la prensa y avisó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la cadena. Un atentado, unas fotos en los periódicos, un aviso y una confusión. Nada de eso es una prueba. Es una sospecha que se convierte en detención."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noche del 9 de mayo, guardias civiles detuvieron a los tres en Roquetas de Mar. Nunca volvieron a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Unas horas después aparecieron muertos en el coche. Qué ocurrió entre la detención y el hallazgo no se ha aclarado del todo. Aquí no vamos a especular. Al principio, fuentes de la Guardia Civil llegaron a sugerir que las víctimas podían pertenecer a ETA."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Enseguida, las comprobaciones en Santander y en Almería mostraron que los tres jóvenes no podían ser los autores del atentado. El Ministerio del Interior terminó reconociendo que no tenían ninguna relación con ETA."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está la pregunta que lo cambia todo. Si eran inocentes, ¿por qué la primera versión decía lo contrario? Y fueron algunos periodistas quienes ayudaron a desmontarla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Algunos periodistas fueron publicando lo que se descubría. Los cuerpos fueron exhumados para un nuevo examen forense. Según el abogado de las familias, hicieron falta siete autopsias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso acabó ante la Audiencia Provincial de Almería. De los once guardias civiles implicados, solo tres fueron condenados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En julio de 1982, la Audiencia condenó por homicidio al teniente coronel Carlos Castillo Quero a veinticuatro años, al teniente Manuel Gómez Torres a quince, y al guardia Manuel Fernández Llamas a doce. El Tribunal Supremo lo confirmó en 1984. Los otros ocho fueron absueltos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El abogado de las familias, Darío Fernández, denunció contradicciones en las defensas de los guardias y la desaparición de pruebas. Es su versión, pero explica por qué el caso tardó tanto en cerrarse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en una cosa. Se condenó por homicidio, no por asesinato. Y las penas se cumplieron en parte en centros militares, aunque la sentencia mandaba cárceles ordinarias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las familias nunca fueron reconocidas como víctimas del terrorismo, porque la ley solo cubre los actos de bandas armadas. Durante décadas pidieron algo más sencillo: que se les reconociera como víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2018, el Parlamento de Cantabria pidió por unanimidad reparar a todas las víctimas de violencia policial. Y en enero de 2023, el Gobierno convocó en Almería un acto con diplomas de reparación para las familias, cuarenta años después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Diplomas, cuarenta años después. Es poco. Pero que se haya dicho en voz alta, y por un gobierno, importa más de lo que parece."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Pechina, el pueblo de Juan, hay un parque con su nombre. En Almería, un monolito. Y tres familias que no han dejado de pedir que no se olvide."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Luis Montero, Luis Cobo y Juan Mañas iban a una comunión. Nunca llegaron a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El caso Almería. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fechas: La Marea, Público y eldiario.es sitúan la detención el 9 de mayo y el hallazgo el 10; las Wikipedias dicen 10 y 11. Se sigue a la prensa. Sentencia de la Audiencia Provincial: julio de 1982 (28 de julio según Wikipedia); Supremo en 1984 (ficha). Lugar de retención (Casafuerte o Casa Fuertes, Cabo de Gata) no localizado con precisión: no se nombra. Discrepancia: eldiario.es (2023) habla de torturas y descuartizamiento y dice que las torturas nunca fueron condenadas; la ficha dice que la sentencia dio por probados los malos tratos. El guion no describe nada de lo ocurrido entre la detención y el hallazgo y dice solo que «lo que pasó exactamente nunca se aclaró del todo». Las víctimas eran adultas (33, 29 y 24 años) y se nombran. La reparación simbólica de 2023 (acto del 20 de enero en la Subdelegación del Gobierno en Almería) se cuenta a partir de eldiario.es de enero de 2023, que anunciaba el acto; la ficha da por entregados los diplomas, pero no se pudo confirmar con una crónica posterior. Se omiten las citas atribuidas al ministro y al juez."
+}

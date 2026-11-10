@@ -1,0 +1,122 @@
+{
+  "id": "asesinato-emiliano-zapata",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Guajardo": "Guajárdo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Tres toques de clarín",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La emboscada de Chinameca. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Tres toques de clarín."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacienda de Chinameca, Morelos, 10 de abril de 1919. Un clarín suena tres veces para honrar al invitado que entra por la puerta. Es un saludo militar. Y es la señal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al terminar la tercera nota se disparan dos descargas. El hombre al que se saludaba, Emiliano Zapata, jefe del Ejército Libertador del Sur, cae."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un saludo con honores y una descarga. El honor y la muerte salen de la misma corneta. Quien lo organizó convirtió un saludo en una trampa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Zapata llevaba años siendo el rostro de la lucha campesina por la tierra, nacido en el pueblo de Anenecuilco. Su ejército resistía en Morelos a las tropas del gobierno de Venustiano Carranza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1919, la campaña del general Pablo González contra los zapatistas era implacable. Y entonces llegaron los rumores: dentro del ejército carrancista había descontentos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y Zapata, cauteloso por naturaleza, escribió al coronel Jesús Guajardo para invitarlo a unirse a su causa. No lo sabía: esa carta era justo lo que buscaban en el otro bando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el INAH, el general González ordenó a Guajardo que fingiera simpatizar con Zapata. Guajardo aceptó la invitación y propuso una cita en Chinameca, con el pretexto de entregarle armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para ganarse la confianza de Zapata, Guajardo fusiló a un grupo de soldados federales. Era una prueba de lealtad, según el relato, y Zapata lo creyó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la lógica. Para convencer a un hombre suspicaz, el traidor dio un paso que no podía retirar. Funcionó. Es la clase de trampa que no se prepara en un día."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de abril, Zapata se acercó a la hacienda con una escolta pequeña. Lo invitaron a comer dentro. Dudó, pero dejó a un lado su prudencia habitual y aceptó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando cruzó la entrada, la guardia presentó armas y sonó el clarín. Los soldados apostados dispararon."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Antes de seguir, una cautela. El número de hombres de su escolta que también murieron cambia según la fuente, y las crónicas de la época mezclan los hechos con la leyenda. Prefiero decir «varios»."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su cuerpo fue llevado a Cuautla, la ciudad más cercana, y exhibido en el Palacio Municipal. Era la prueba, para el gobierno, de que Zapata estaba muerto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Exhibir el cuerpo era una decisión política: demostrar que el jefe del sur ya no existía. No sabemos más de lo que dicen las fuentes, pero el gesto lo dice todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chinameca existe todavía. El INAH conserva allí una sala dedicada a la muerte de Zapata, en la hacienda donde ocurrió todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue enterrado en Cuautla, en la plaza que hoy se llama Revolución del Sur."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y aquí el archivo termina en una pregunta incómoda. Nadie fue juzgado. Ni el coronel que montó la trampa ni el general que, según las fuentes, la ordenó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un dato más sobre Guajardo: según las fuentes, no actuó por su cuenta, sino por orden del general González. Eso no lo exime, pero sitúa la responsabilidad más arriba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los detalles de los cronistas varían. Lo esencial está en las fuentes oficiales: una invitación, un saludo militar y dos descargas, todo a cargo de tropas que fingían ser amigas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fue una operación del ejército, planeada y ejecutada. Y no hubo ningún proceso contra sus responsables. Eso es lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero la muerte de Zapata no puso fin al zapatismo. Su nombre se convirtió en bandera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Queda el recuerdo de aquellos hombres que cruzaron la puerta con él, y del caudillo agrarista de Anenecuilco, que dejó su nombre en la memoria de Morelos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro con el clarín. Tres notas de honor para un hombre al que iban a matar. Nada más cruel puede sonar en una hacienda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La emboscada de Chinameca. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: INAH (Lugares INAH, sala de Chinameca) y Wikipedia en español para cotejar; el PDF de la CNDH se descargó pero no se pudo leer el texto; HISTORY.com y Excélsior no se abrieron (no se usan). Número de muertos de la escolta: varía según la fuente; no se da. Los fusilados por Guajardo: no se da la cifra (la ficha avisa de que no está contrastada); se dice «un grupo de soldados federales». Hora de la emboscada: no se da («por la tarde» viene de Wikipedia). Que el cuerpo fue exhibido en Cuautla en el Palacio Municipal sale del INAH. La orden del general Pablo González: INAH y ficha; no se afirma nada sobre Carranza. «Nadie fue juzgado» sale de la ficha."
+}

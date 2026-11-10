@@ -1,0 +1,100 @@
+{
+  "id": "masacre-ludlow",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Ludlow": "Lódlou",
+    "Colorado Fuel & Iron": "Colorádo Fiuel and Áiron",
+    "Rockefeller": "Rókefeler",
+    "Louis Tikas": "Luis Tícas",
+    "Tikas": "Tícas",
+    "Wilson": "Uílson",
+    "Trinidad": "Trinidad"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El foso bajo la tienda",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Ludlow. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El foso bajo la tienda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ludlow, Colorado, 21 de abril de 1914. Un operario de la compañía telefónica revisa los restos de un campamento de tiendas quemado. Bajo una de ellas encuentra un foso cavado en la tierra. Dentro hay trece cuerpos: dos mujeres y once niños."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un foso bajo una tienda no se cava para morir. Se cava para refugiarse de las balas. La gente que lo usó hizo lo que se le había dicho que hiciera cuando empezaran a disparar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante meses, miles de mineros del carbón del sur de Colorado habían estado en huelga contra la Colorado Fuel & Iron, la compañía controlada por la familia Rockefeller. Habían perdido las casas de la empresa y vivían en campamentos de tiendas. El mayor era el de Ludlow, con unas mil personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. La propia compañía contrató detectives privados, que según varias fuentes disparaban contra las tiendas. Después llegó la Guardia Nacional, que los huelguistas creyeron una protección. No lo era: tenía órdenes de romper la huelga, y los Rockefeller pagaban sus salarios."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 20 de abril, la mañana siguiente a la Pascua ortodoxa que celebraban muchos mineros griegos, la Guardia Nacional abrió fuego contra el campamento. El dirigente de la colonia, Louis Tikas, había salido a reunirse con un mayor de la milicia para intentar una tregua."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los tiros duraron todo el día. Los hombres respondieron con pistolas y rifles. Las mujeres y los niños se refugiaron en fosos. Al caer la tarde, la milicia bajó de las colinas y, hacia las siete, el campamento ardía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tikas fue capturado esa noche con otros dos hombres. Los tres aparecieron después muertos a tiros. Sus cuerpos estuvieron tres días junto a la vía del tren."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la cifra, que no está cerrada. Las crónicas de la época hablan de unos veinte muertos, doce de ellos niños. Wikipedia dice unos veintiuno. Una periodista de entonces escribió que fueron cincuenta y cinco mujeres y niños. Es un número que los historiadores modernos no sostienen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia corrió por todo el país. El sindicato de mineros, los trabajadores de la zona y miles de personas se alzaron. Hubo diez días de combates armados por el sur de Colorado. Al final, el presidente Wilson envió tropas federales, que desarmaron a ambos bandos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En total, la guerra del carbón de Colorado dejó unos setenta y cinco muertos. El sindicato se quedó sin dinero y puso fin a la huelga el 10 de diciembre de 1914. No consiguió el reconocimiento. Muchos huelguistas fueron sustituidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ahora viene la parte que me inquieta. Fueron detenidos cuatrocientos ocho huelguistas, y a trescientos treinta y dos los acusaron de asesinato. De los presentes en Ludlow, solo el líder de la huelga fue condenado, y el Tribunal Supremo de Colorado anuló la condena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Del otro lado, veintidós guardias nacionales, diez de ellos oficiales, fueron juzgados por un consejo de guerra. Fueron absueltos. Según History.com, ningún miliciano ni detective fue acusado ante la justicia civil."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un tribunal militar de Colorado elogió el comportamiento de los guardias y echó la culpa de las víctimas civiles a los huelguistas. Años después, las investigaciones históricas y la arqueología han respaldado buena parte de lo que contaron los huelguistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el caso no se olvidó. La Comisión de Relaciones Industriales del Congreso escuchó a todas las partes. Su informe apoyó reformas como la jornada de ocho horas y la prohibición del trabajo infantil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el lugar se levantó un monumento a quienes murieron aquel día. En 2009, el campamento de Ludlow fue declarado Monumento Histórico Nacional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hay un condenado, y por eso el expediente termina con otros nombres. Los de las mujeres y los niños que murieron en el foso. No los voy a leer sin saber qué familias los reclaman, pero quedan en el archivo: eran las personas a las que el campamento intentaba proteger."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Ludlow. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Se evita nombrar a víctimas menores y a los guardias; a Linderfelt no se le menciona aunque Wikipedia dice que fue «considerado responsable» de la muerte de Tikas y fue absuelto. Fuentes abiertas: History.com (informe de la mañana al anochecer, foso con 11 niños y 2 mujeres, ningún miliciano ni detective acusado, 66 muertos en la huelga), Wikipedia en inglés (Pascua ortodoxa, Tikas, detenidos y acusados, 22 guardias en consejo de guerra, Ten-Day War, tropas federales de Wilson, ~75 muertos de la guerra del carbón, 10 de diciembre de 1914, informe de la junta militar, comisión de relaciones industriales, NHL el 16 de enero de 2009). La cifra de muertos: History.com no da cifra del día; las cuentas de la época dan 20 (12 niños, 8 adultos); Wikipedia «unos 21»; Julia May Courtney (1914) dijo 55 mujeres y niños; el guion usa «unos veinte». La entrada de Wikipedia citada sobre «Rockefeller Sr.» no se usa por dudosa. El monumento (sindicato, 1918) se menciona sin fecha. Las fuentes libros e informe de 1915 no se leyeron. Contradicción menor: History.com habla de 66 muertos en la huelga; Wikipedia, unos 75 en la guerra del carbón; el guion usa 75 con atribución a la «guerra del carbón»."
+}

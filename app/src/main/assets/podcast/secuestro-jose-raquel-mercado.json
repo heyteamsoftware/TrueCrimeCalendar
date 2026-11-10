@@ -1,0 +1,104 @@
+{
+  "id": "secuestro-jose-raquel-mercado",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "José Raquel Mercado": "José Rakél Mercádo",
+    "M-19": "eme diecinueve",
+    "Mercado": "Mercádo",
+    "El Salitre": "El Salítre",
+    "CTC": "ce te ce",
+    "Cartagena": "Cartajena",
+    "Bogotá": "Bogotá"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Sí o no, en los billetes",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El juicio popular del M-19. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Sí o no, en los billetes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Colombia, febrero de 1976. En las paredes de Bogotá, en los autobuses, en los billetes que pasan de mano en mano, empiezan a aparecer dos palabras escritas a mano: «sí» y «no». Es una votación. Lo que se vota es si debe morir un hombre que sigue vivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese hombre es José Raquel Mercado, presidente de la Confederación de Trabajadores de Colombia, la CTC. El 15 de febrero lo secuestró en Bogotá el Movimiento 19 de abril, el M-19, una guerrilla urbana de apenas dos años de vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Fíjate en la palabra «juicio». El M-19 no se limitó a secuestrarlo: lo llamó «juicio popular» y pidió a la gente que opinara. Un juicio sin defensa, sin ley y sin juez no es un juicio. Es un comunicado que quiere parecerlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según su propio comunicado de dos páginas, lo acusaban de «traición a la patria», «traición a la clase obrera» y de ser «enemigo del pueblo». Pedían que se respondiera sí o no en las paredes, en los billetes y por carta a periódicos, sindicatos y juntas comunales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quién era Mercado: un hombre que creció en los barrios pobres de Cartagena y trabajó desde niño como estibador en los muelles. Allí fundó la Federación de Trabajadores de Bolívar. Más tarde lo eligieron para dirigir la central obrera y fue representante a la Cámara por el Partido Liberal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Sus propios compañeros decían que nadie sabía qué traición había cometido. Se citan algunas pistas: que negoció reformas laborales con el gobierno, que viajaba a reuniones sindicales internacionales, que se codeaba con el poder. Pero nada de eso era un delito. Y la pena de muerte no existía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, el reloj corría. El 7 de abril, el M-19 pidió al gobierno tres cosas a cambio de la libertad de Mercado: reintegrar a los sindicalistas despedidos, derogar tres decretos que limitaban las libertades sindicales, y publicar su comunicado en la prensa. El ministro de Gobierno rechazó las exigencias."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto algo que casi nunca se cuenta. La CTC hizo una campaña de carteles para pedir que no lo mataran. Hubo sindicatos que debatieron el asunto. La propia guerrilla lo reconoció después. Fue una sociedad entera haciendo de espectadora de un asesinato anunciado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el periodista que reconstruyó la historia para ¡PACIFISTA!, en la noche del 18 de abril los guerrilleros votaron entre ellos. Ganó el «sí». En la madrugada del 19 de abril, después de sesenta y cuatro días de cautiverio, lo mataron a tiros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Horas después, su cuerpo apareció en una glorieta del occidente de Bogotá, junto al parque El Salitre. Alguien lo dejó donde pudiera verlo todo el mundo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo dejaron a la vista. Igual que en la votación, el mensaje era para los demás: para los líderes sindicales, para decirles qué pasaba si no se alineaban. Así lo interpretó años más tarde el presidente de la CTC. Es una lectura, no una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquí el expediente se queda sin sentencia. Nadie fue juzgado. El M-19 reivindicó el crimen, pero los autores materiales no se han identificado judicialmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Años después, el M-19 firmó la paz y dejó las armas. Aquel proceso no incluyó confesiones ni reconstrucción de la verdad. Uno de sus antiguos dirigentes dijo en 2016 que no había archivos con información detallada del homicidio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarenta años de silencio. En 2016, los dirigentes de la CTC seguían exigiendo una disculpa pública del M-19. La central quedó marcada tras el crimen y perdió a decenas de afiliados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2022, el informe final de la Comisión de la Verdad recogió el caso entre las infracciones al derecho humanitario cometidas por la guerrilla. Cuenta que Mercado fue secuestrado y asesinado entre febrero y abril de 1976."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mercado está enterrado en el Cementerio Central de Bogotá. Un hogar infantil de Bucaramanga lleva su nombre. Y cada año la central que presidió conmemora su asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto lo que se votó en aquellos billetes: un hombre con una historia. No era un símbolo, aunque lo convirtieron en uno. En este archivo queda su nombre y el de quien fue: un estibador de Cartagena que llegó a presidir a los trabajadores de su país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El juicio popular del M-19. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Tema político sensible: no se atribuye autoría material a personas concretas ni se nombra a antiguos dirigentes del M-19. Fuentes abiertas: ¡PACIFISTA! (2016: votación del 18 de abril, cuerpo en el parque El Salitre, biografía, opiniones de dirigentes de la CTC, falta de verdad en el proceso de paz), Wikipedia en español (secuestro del 15 de febrero, 64 días, demandas del 7 de abril rechazadas por el ministro de Gobierno, campaña de carteles de la CTC, glorieta de la calle 63 con carrera 50, tumba en el Cementerio Central, hogar infantil de Bucaramanga) y Colombiacheck (2022: informe de la Comisión de la Verdad, secuestro y asesinato entre febrero y abril de 1976). Discrepancia de fechas: Wikipedia dice que la votación pública es previa al asesinato; ¡PACIFISTA! cuenta que los guerrilleros votaron la noche del 18 de abril y ganó el «sí»; se atribuye al periodista. Que la «CTC hizo una campaña de carteles» y que la guerrilla lo reconoció salen de una declaración atribuida a Jaime Bateman en Wikipedia, de fuente indirecta, y se ha dado con cautela. La amnistía de 1990 no se menciona (la ficha ya avisa de que no se confirmó). Nota de 2016 del dirigente: Navarro Wolff, no nombrado. Que «años después el M-19 firmó la paz» es de conocimiento general y aparece en ¡PACIFISTA! (acuerdo con Barco)."
+}

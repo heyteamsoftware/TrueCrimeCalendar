@@ -1,0 +1,122 @@
+{
+  "id": "graeme-thorne",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Graeme Thorne": "Grem Zorn",
+    "Graeme": "Grem",
+    "Thorne": "Zorn",
+    "Bazil Thorne": "Bázil Zorn",
+    "Bondi": "Bóndi",
+    "Seaforth": "Sífort",
+    "Stephen Bradley": "Stíven Brádli",
+    "Bradley": "Brádli",
+    "Colombo": "Colómbo",
+    "Goulburn": "Gólburn",
+    "Sídney": "Sídney",
+    "Ópera": "Ópera",
+    "Clontarf": "Clóntarf"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Pelo de perro en una manta",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Graeme Thorne. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Pelo de perro en una manta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sídney, 7 de julio de 1960. Una mañana más, Graeme Thorne, de ocho años, sale de su casa de Bondi camino del colegio. Nunca llega. Esa misma mañana suena el teléfono en casa de los Thorne: un hombre con acento extranjero pide veinticinco mil libras antes de las cinco de la tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La familia no tenía tanto dinero, o no lo había tenido hasta hacía poco. Semanas antes, el padre, Bazil, había ganado cien mil libras en la lotería que financiaba la Ópera de Sídney. Los periódicos publicaron su foto y su barrio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esa noticia fue una invitación. En 1960 un ganador no tenía derecho al anonimato. Cualquiera que leyera la prensa podía saber quién era, dónde vivía y cuánto había ganado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por la noche llamó una segunda vez. Colgó casi enseguida, sin dar instrucciones para el pago."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Un secuestrador que cuelga sin decir cómo se paga es alguien que no ha pensado el final. O que ha perdido el control. Lo digo porque el resto del expediente va de un hombre que tuvo que improvisar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía hizo un llamamiento por radio y en televisión. Se encontró una cartera de colegio cerca de Seaforth. Unos testigos habían visto un coche oscuro en una gasolinera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 16 de agosto, seis semanas después, dos niños encontraron el cuerpo de Graeme entre la maleza, en Seaforth. Había muerto poco después del secuestro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando no hay sospechosos, se interroga a las cosas. Y aquí las cosas hablaron. Una manta en la que iba envuelto: la policía rastreó al fabricante y a quién se había vendido. Más cosas: restos de dos tipos de árboles, y pelo de perro. De un pequinés."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había también restos de mortero de cal, que sugerían que el cuerpo había estado en un lugar bajo una casa. Con esos indicios, los investigadores fueron cerrando el cerco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las pistas llevaron a Stephen Bradley, un inmigrante húngaro que vivía en Clontarf. Pero Bradley ya se había marchado. El 26 de septiembre había embarcado hacia Londres."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es aquí donde el caso se vuelve una carrera. Un barco en alta mar y un hombre a bordo. No existía la comunicación instantánea de hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre, los agentes subieron al barco en Colombo, en Ceilán, y lo detuvieron. Lo trajeron de vuelta a Australia el 18 de noviembre de 1960."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Firmó una confesión. Después se retractó. En el juicio, que comenzó en marzo de 1961 y duró nueve días, negó el asesinato, pero admitió el secuestro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según la prensa de entonces, al abrirse el juicio la madre de Graeme exclamó que aquel era el hombre que había matado a su hijo. Pero lo que pesó no fue eso. Fue lo que no necesitaba confesión: la ciencia ya había atado los cabos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bradley fue condenado por asesinato el 29 de marzo de 1961 a cadena perpetua, la pena máxima en Nueva Gales del Sur. El tribunal de apelación la confirmó en mayo. Murió en la cárcel de Goulburn en 1968."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Bradley negó el asesinato. El jurado lo declaró culpable. Pero cómo y cuándo murió Graeme, exactamente, es algo que este archivo no va a contar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se consideró el primer gran secuestro de un niño por rescate en Australia. Cambió las reglas de la lotería para que los ganadores pudieran quedarse en el anonimato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se recuerda también como un ejemplo de la ciencia forense de su tiempo: un pelo, una fibra, una partícula de polvo bastaron para encontrar al culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Thorne se mudaron a Rose Bay. Bazil Thorne murió en 1978. Freda, su esposa, en 2012."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Graeme tenía ocho años y volvía a una mañana como las demás. Es lo único que debe quedar de él en este archivo: un niño que iba al colegio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Graeme Thorne. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y el extracto del libro de Mark Tedeschi en el SMH (Good Weekend, 2015). El ADB devolvió solo la cabecera y news.com.au no respondió; el Canberra Times (Trove) no se abrió. Discrepancia menor: Wikipedia dice que el niño no llegó al coche de un amigo de la familia; el SMH, que iba a una tienda de la esquina donde una mujer lo recogía en coche para ir al colegio. El guion dice solo «camino del colegio». La ficha dice que lo mataron «poco después del secuestro»: el guion no entra en la causa ni el momento. Wikipedia habla de dos especies de árboles tipo ciprés, pelo de pequinés y de persona, hongos en los zapatos y fragmentos de mortero de cal; el guion cita solo lo esencial. Bradley se retractó de su confesión escrita (Wikipedia) y negó el asesinato, admitiendo el secuestro. Se nombra a la víctima por tratarse de un caso histórico (1960) conocido por su nombre. Se dejan fuera la historia personal de Bradley y los datos sobre los otros hijos de los Thorne."
+}

@@ -1,0 +1,113 @@
+{
+  "id": "noi-del-sucre",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Noi del Sucre": "Noi del Súcre",
+    "Salvador Seguí": "Salvadór Seguí",
+    "Seguí": "Seguí",
+    "Francesc Comas": "Fransésc Cómas",
+    "Comas": "Cómas",
+    "Paronas": "Paronás",
+    "Raval": "Rabál",
+    "calle de la Cadena": "calle de la Cadéna",
+    "CNT": "ce ene te",
+    "Sindicato Libre": "Sindicato Líbre",
+    "La Canadiense": "La Canadiénse",
+    "Barcelona": "Barcelona"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una esquina del Raval",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato del Noi del Sucre. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una esquina del Raval."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barcelona, sábado 10 de marzo de 1923. Hacia las siete de la tarde, dos hombres caminan por una calle estrecha del Raval, la antigua calle de la Cadena. Uno es Salvador Seguí, el dirigente más conocido del sindicalismo catalán. Al otro lo llaman Paronas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Francesc Comas. Entra un momento a comprar tabaco. En ese instante se oyen los disparos. Según los testigos, fueron tres hombres armados. Seguí cae en la esquina. Comas queda herido y muere poco después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Tres hombres, una calle, unos segundos. Y la policía no identificó a ninguno. Nadie respondió jamás por esto: ni un juicio, ni una condena. Eso es lo que hace de este expediente un expediente sin cerrar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A Seguí lo llamaban el Noi del Sucre, el muchacho del azúcar, por su costumbre de comer terrones con el café. Había sido uno de los fundadores de la CNT, la gran central anarcosindicalista, y su secretario general en Cataluña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el historiador que firma en El Salto, era un dirigente elegante y partidario del diálogo, que rechazaba la violencia, incluso la de quienes se decían anarquistas. En 1919, durante la huelga de La Canadiense, explicó el acuerdo final ante unos veinte mil trabajadores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa huelga consiguió la jornada de ocho horas, entre otras cosas. Un hombre que logra eso, y que además habla con ambos lados, es un obstáculo para quienes querían una guerra abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Barcelona vivía entonces la época del pistolerismo. Bandas de pistoleros pagadas por patronos y grupos armados anarquistas se disparaban en la calle. Hubo muchos muertos de un lado y de otro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En ese contexto, la pregunta es qué pasó con las amenazas. Según el diario Ara, unos días antes ya habían intentado atentar contra Seguí al salir de un teatro del Paralelo con su mujer. Y anuló una reunión con Francesc Macià, porque se sabía que el Sindicato Libre lo tenía en el punto de mira."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seguí no ignoraba el peligro: la propia prensa catalana, un siglo después, se sigue preguntando si tenía miedo. Pero siguió saliendo a la calle, en un barrio que conocía bien."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Sindicato Libre era una organización sindical creada con respaldo de empresarios para enfrentarse a la CNT. Los historiadores atribuyen a sus pistoleros, financiados por la patronal, el asesinato de Seguí."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atención al verbo: «atribuyen». Hay trabajos que dan nombres de organizadores y ejecutores, y de autoridades que lo habrían amparado. Pero nadie fue juzgado. Sin sentencia, no los nombro. Y los expedientes de la época, según Ara, han desaparecido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un historiador citado por Ara sostiene que la orden vino del entonces gobernador civil. Otro artículo habla de «sentencia de muerte» firmada por la burguesía. Son tesis de historiadores y periodistas, no hechos probados en un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo más triste: que la verdad no se haya podido demostrar. Tres hombres, una esquina y cien años de silencio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Francesc Comas, Paronas, tenía veintiséis o veintisiete años. Era cristalero y activo en la CNT. Había estado preso en el castillo de la Mola, en Menorca, y salió en mayo de 1922. Su hija Rosa y su nieta han defendido su memoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seguí ha tenido más presencia en los libros que Comas, que quedó olvidado durante décadas. En el centenario, en 2023, se colocó una placa en la calle donde nació Comas, y hubo un acto en el cementerio de Sants."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una placa en una pared. A veces es lo único que queda cuando nadie responde ante un tribunal. Y aun así, aquí hay algo más: hijos, nietos y estudiosos que siguen preguntando por ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este fue uno de los últimos crímenes del pistolerismo barcelonés. Dos hombres, dos tumbas y ningún culpable oficial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Que la historia no los olvide."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato del Noi del Sucre. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso impune: no se nombra a ningún presunto autor (Ara y El Debate dan nombres: Feced, Martí Homs, Muntadas, Martínez Anido; no hubo juicio). La muerte de Comas: 'poco después' (ficha); El Debate, horas; Wikipedia, días. Apodo: 'Paronas' (Ara) o 'Perones' (El Debate). Edad de Comas (26): de nacido en 1896 (Ara). Tornabous y año de nacimiento de Seguí no se dan (1886 o 1887). Que 'Comas entró a comprar tabaco' es el relato de la ficha. 'El Salto': artículo de opinión; Ara: Ivan Miró. Los atentados previos y la anulación de la reunión con Macià: Ara. 'Cien años de silencio' es aproximado. La casa de 'Paronas': Menorca (Maó) es el castillo de la Mola; Ara."
+}

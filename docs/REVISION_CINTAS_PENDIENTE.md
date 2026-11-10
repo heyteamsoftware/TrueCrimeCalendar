@@ -39,3 +39,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **bernardo:** comprobar si hubo audiencia de libertad condicional posterior a noviembre de 2024.
 - **berkowitz y magnotta:** comprobar la audiencia de libertad condicional de Berkowitz de 2026 y el estado actual de Magnotta tras su traslado de 2024.
 - **hindley:** repite los nombres de menores de brady; aplicar la misma decisión a las dos cintas.
+- **Pronunciación (a oído al grabar):** trujillo, tobagi, nakens y los nombres japoneses de sada-abe.

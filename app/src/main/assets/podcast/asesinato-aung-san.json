@@ -1,0 +1,105 @@
+{
+  "id": "asesinato-aung-san",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Aung San Suu Kyi": "Aung San Su Chi",
+    "Aung San": "Aung San",
+    "U Saw": "U Só",
+    "Rangún": "Rangún",
+    "Insein": "Insein",
+    "Birmania": "Birmania",
+    "Thakin Nu": "Takin Nu",
+    "Myanmar": "Mianmar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una reunión interrumpida en Rangún",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Aung San. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una reunión interrumpida en Rangún."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rangún, Birmania, 19 de julio de 1947. Por la mañana, el Consejo Ejecutivo del gobierno de transición se reúne en una sala del edificio de la Secretaría. Faltan seis meses para la independencia del país, hasta entonces colonia británica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entran varios hombres armados. Disparan contra los reunidos. Aung San, el líder de la independencia y jefe del gobierno de transición, muere allí, con apenas treinta y dos años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un comando entra en el centro de la ciudad, en un edificio oficial, durante una reunión del gobierno. No es un golpe de suerte, sino un plan. Quien lo ordenó sabía qué sala, qué hora y a quién buscaba. Y lo hizo seis meses antes de la fecha prevista para la independencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con Aung San murieron varios miembros del consejo, entre ellos su hermano. Las fuentes dan cifras distintas: seis o siete acompañantes, a las que otras suman un secretario y un guardaespaldas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa discrepancia la dejo anotada, sin resolverla. El número de muertos importa menos que lo que significa. En una sola mañana, Birmania perdió a buena parte de la cúpula del gobierno que iba a llevarla a la independencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Detrás del ataque estaba U Saw, antiguo primer ministro y rival político de Aung San. A comienzos de 1947, Aung San había firmado con Londres el acuerdo de independencia, pero U Saw se había negado a firmarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una fuente lo resume así: U Saw había quedado fuera del juego político y, aparentemente, esperaba que, con Aung San fuera de escena, el gobernador británico le encargara dirigir el país. Es una hipótesis sobre su motivo, no una confesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El plan, sin embargo, estaba mal preparado. La policía siguió el rastro de los pistoleros hasta la casa de U Saw. Él y sus cómplices fueron detenidos casi de inmediato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Para mí, esa es la clave de la investigación. Un antiguo primer ministro ordena un crimen de Estado, y los pistoleros dejan un rastro que conduce hasta su casa. La investigación no necesitó mucho más para llegar al instigador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El gobernador británico no aprovechó el crimen para retrasar la independencia. Nombró enseguida primer ministro a Thakin Nu, presidente de la Asamblea Constituyente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un tribunal especial juzgó a U Saw y a sus cómplices entre octubre y diciembre de 1947, en treinta y siete vistas. En diciembre, seis personas, entre ellas U Saw, fueron condenadas a muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "U Saw fue ahorcado en la cárcel de Insein, en Rangún, a las cinco y treinta y tres de la madrugada del 8 de mayo de 1948. Según The Irrawaddy, un medio birmano, rezó ante un altar budista y dijo que no guardaba rencor a los jueces."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una pregunta que todavía se plantea. Algunos historiadores creen que U Saw no actuó solo, y un documental de la BBC de 1997 planteó otras implicaciones. No hay nada probado: la justicia condenó a U Saw, y es lo único que puedo afirmar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Birmania se hizo independiente en enero de 1948, sin el hombre que la había conducido hasta ahí. Su hija Aung San Suu Kyi tenía solo dos años cuando lo mataron, según GlobalSecurity."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquella niña llegaría a ser la líder de la oposición democrática y Nobel de la Paz. Un solo día de 1947 sigue presente en la historia del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cada 19 de julio, Myanmar celebra el Día de los Mártires, en memoria de Aung San y de sus compañeros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Están enterrados en el Mausoleo de los Mártires, en Rangún. Aquella mañana de julio no solo murió un político: murió un grupo de personas que trabajaban para que su país tuviera un futuro, y el archivo guarda su recuerdo junto a la fecha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Aung San. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cerrado (U Saw ahorcado en 1948). Fuentes abiertas: GlobalSecurity.org (abierto con curl), The Irrawaddy (abierto con curl), Britannica (Aung San, abierto con curl, solo confirma el atentado y «seis colegas»). Discrepancias: nº de muertos (Britannica: Aung San y seis colegas; GlobalSecurity: siete ministros más él en el mismo párrafo se habla de ocho en total; el guion dice «seis o siete acompañantes», más lo que suman otras fuentes, y evita la cifra total). Condenados a muerte: seis (Irrawaddy); GlobalSecurity solo habla de «cómplices». Fecha de la independencia: enero de 1948 (ficha: «seis meses»; dato general conocido, no abierto en fuente consultada). Autoría única de U Saw: discutida por algunos historiadores (documental BBC 1997, solo en la ficha); no se señala a nadie más. Motivo de U Saw: «apparently» en GlobalSecurity; el guion lo presenta como hipótesis. Hora de la ejecución y su último gesto: Irrawaddy. La hija (Aung San Suu Kyi, Nobel): GlobalSecurity. Omitido: cualquier detalle del arma o de los pistoleros."
+}

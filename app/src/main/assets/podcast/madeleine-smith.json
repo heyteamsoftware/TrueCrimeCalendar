@@ -31,7 +31,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Glasgow, madrugada del 23 de marzo de 1857. Un empleado de comercio nacido en la isla de Jersey, Pierre Emile L'Angelier, muere en su alojamiento tras una noche de dolores atroces. Tiene unos treinta años. Lo que se descubre después en su habitación va a escandalizar a toda Escocia."
+          "texto": "Glasgow, madrugada del 23 de marzo de 1857. Un empleado de comercio nacido en la isla de Jersey, Pierre Emile L'Angelier, muere en su alojamiento tras una noche de malestar. Lo que se descubre después en su habitación va a escandalizar a toda Escocia."
         },
         {
           "voz": "ximena",
@@ -59,7 +59,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La acusación sostuvo que se lo dio disuelto en una taza de cacao, durante sus citas nocturnas, en la casa de ella. L'Angelier había contado a amigos que se sentía enfermo desde hacía semanas."
+          "texto": "La acusación sostuvo que se lo dio disuelto en una taza de cacao, durante sus citas nocturnas, en la casa de ella. L'Angelier había contado a amigos que llevaba semanas enfermo. Según EBSCO, llegó a decir que ella intentaba envenenarlo."
         },
         {
           "voz": "alvaro",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Otro dato que no te puedo callar. El diario de L'Angelier no se admitió como prueba. Y varios testigos recordaron que él había hablado de intentos de suicidio tras haber sido rechazado por otra mujer. Una versión que la acusación no pudo descartar del todo."
+          "texto": "Otro dato que no te puedo callar. El diario de L'Angelier no se admitió como prueba. Y varios testigos recordaron que él había hablado de intentos de suicidio tras haber sido rechazado por otra mujer."
         },
         {
           "voz": "ximena",
@@ -99,7 +99,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pierre Emile L'Angelier tenía unos treinta años. Su memoria quedó cubierta por las cartas de ella y por un veredicto ambiguo. Que se recuerde también a él: un joven que murió solo, una madrugada de marzo, lejos de su casa."
+          "texto": "Su memoria quedó cubierta por las cartas de ella y por un veredicto ambiguo. Que se recuerde también a Pierre Emile L'Angelier: un joven que murió una madrugada de marzo en Glasgow, lejos de su isla natal, y cuya muerte nadie ha explicado del todo."
         },
         {
           "voz": "ximena",
@@ -107,5 +107,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Caso de absolución («no probado»): no se la presenta como autora. Fuentes abiertas: TheGlasgowStory, Undiscovered Scotland y EBSCO Research Starters (2024). Discrepancias: Langelier era empleado de comercio (ficha; EBSCO: hijo de jardinero y empleado de almacén) o vivero (Undiscovered Scotland); sus años (1823-1857 según TheGlasgowStory; 29 años en 1855 según Undiscovered Scotland) no coinciden, por eso el guion no da edad. Fecha del compromiso con Minnoch: enero (EBSCO) o febrero de 1857 (Undiscovered Scotland): el guion dice «a comienzos de 1857». Las fechas del juicio (30 de junio-9 de julio) salen de la ficha; Undiscovered Scotland dice solo julio. Número de cartas (unas 250): una sola fuente."
 }

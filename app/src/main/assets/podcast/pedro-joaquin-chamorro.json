@@ -1,0 +1,92 @@
+{
+  "id": "pedro-joaquin-chamorro",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "María Moors Cabot": "María Mors Cábot",
+    "TIME": "Taim",
+    "Estirpe sangrienta": "Estírpe sangriénta"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche contra un poste",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Pedro Joaquín Chamorro. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un coche contra un poste."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Managua, 10 de enero de 1978. Es la primera hora de la mañana. En la calle del Trébol, un taxista ve cómo un coche sube a la acera y se estrella contra un poste. Al principio parece un accidente de tráfico. No lo es."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al volante iba Pedro Joaquín Chamorro Cardenal, director del diario La Prensa y la voz más conocida de la oposición a la dictadura de Anastasio Somoza. Iba solo, camino del periódico. Le habían disparado desde otro vehículo, con escopetas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Los atacantes huyeron en un Toyota verde, y a media cuadra cambiaron a otro coche que los esperaba. Es decir, una emboscada con relevo preparado. Dentro del Toyota había latas de cerveza viejas y una caja de pañuelos. Ese mismo día, La Prensa supuso que las habían dejado para despistar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chamorro llevaba décadas enfrentado a los Somoza. Desde su periódico denunciaba la corrupción del régimen en editoriales y reportajes. Lo encarcelaron al menos cinco veces, y durante casi tres años el régimen censuró el diario."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. En febrero de 1975, tres años antes, dejó por escrito que el somocismo podía eliminarlo. Contaba que una fuente había oído hablar de secuestrarlo y arrojarlo al mar desde un avión. Lo recoge el medio Divergentes. No pruebo nada con eso: dejo constancia de que él lo temía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tres meses antes había viajado a Nueva York a recibir el premio María Moors Cabot, de la Universidad de Columbia, que reconoce a periodistas. Poco antes, el régimen le había prohibido salir del país."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La noticia se extendió por Managua en minutos. Cientos de personas acudieron al hospital y a la puerta del periódico. En la redacción, según el propio diario, las máquinas siguieron funcionando para sacar la edición de la tarde con la muerte de su director."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, la policía detuvo a cuatro hombres. Uno de ellos, Silvio Peña Rivas, declaró ante un juez de Managua que le habían pagado cien mil córdobas por el crimen. Dijo que el dinero venía de Pedro Ramos, empresario cubanoamericano, dueño de un banco de sangre que La Prensa había denunciado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Fíjate bien: esto es lo que dijo uno de los acusados. Ramos lo calificó de monstruosidad desde Miami y lo negó. Somoza también negó cualquier implicación, y dijo a la revista TIME que lamentaba la muerte de su adversario. Aquí no hay una verdad probada. Hay tres versiones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La oposición culpó a Somoza. El asesinato desató disturbios, una huelga general y una insurrección que no se detuvo. Año y medio después, en julio de 1979, la dictadura cayó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. Hay quien da por hecho quién lo ordenó. Una crónica de 2011 lo atribuye a sicarios enviados por Somoza. Yo no puedo respaldarlo, porque esa autoría no se probó ante un tribunal, y no voy a cerrar con una frase lo que los tribunales dejaron abierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pedro Ramos nunca volvió a Nicaragua. Según una fuente secundaria, que no hemos podido confirmar con otra, un tribunal lo condenó en ausencia después de la revolución. De los autores materiales no hemos podido confirmar qué penas recibieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces, lo que sabemos es poco y es firme: dos hombres dispararon, otros esperaban, uno de los detenidos señaló a un pagador, y ese pagador lo negó. El resto es un hueco en el archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su viuda, Violeta Barrios de Chamorro, ganó las elecciones de 1990. En Nicaragua se le recuerda como el mártir de las libertades públicas. Había contado su propia cárcel y la de otros en el libro Estirpe sangrienta, sobre la familia Somoza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un periodista, solo en su coche, camino del trabajo. Uno de sus hijos, Carlos Fernando, también se hizo periodista, y ha sido durante décadas una voz crítica. La Prensa, dirigido por la familia, siguió contando Nicaragua. Esa es la memoria que dejó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Pedro Joaquín Chamorro. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: La Prensa (crónica de la edición vespertina del 10-1-1978, publicada en 2017), TIME (23-1-1978, solo la página 2), Divergentes (2023) y Tico Times (2011). Tema políticamente vivo: no se atribuye la autoría intelectual. Discrepancias: (1) hora: La Prensa 1978 dice «ocho y veinte» y su nota de 2017 «8:30»; el guion dice «primera hora de la mañana». (2) Tico Times (2011) afirma que lo mataron «sicarios desconocidos enviados por Somoza»; Somoza lo negó a TIME y no se probó: el guion lo recoge atribuido a esa crónica y sin respaldarlo. (3) Divergentes dice 26 años y 30 años al frente de La Prensa: no se da la cifra. (4) Penas de los autores materiales: no se han podido confirmar. (5) Condena en ausencia de Pedro Ramos: solo Wikipedia (ya señalado en la ficha); el guion lo da como «fuente secundaria que no hemos podido confirmar». (6) Que Chamorro estuviera encarcelado «al menos cinco veces» y la censura de 33 meses: Divergentes. El Toyota verde, el cambio de coche, las latas de cerveza y la suposición de La Prensa de que eran para desviar la atención: crónica de La Prensa. El apunte de febrero de 1975 sobre un plan para secuestrarlo es de Divergentes y se atribuye. Cantidad de 100.000 córdobas, declaración de Peña Rivas ante un juez, negación de Ramos («monstruosidad») y de Somoza: TIME. No se describen las heridas ni el cuerpo (la crónica original es muy gráfica)."
+}

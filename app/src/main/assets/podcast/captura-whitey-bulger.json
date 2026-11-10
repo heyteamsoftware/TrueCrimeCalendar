@@ -1,0 +1,108 @@
+{
+  "id": "captura-whitey-bulger",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Whitey Bulger": "Juiti Bólyer",
+    "Bulger": "Bólyer",
+    "James": "Yeims",
+    "Santa Mónica": "Santa Mónica",
+    "Catherine Greig": "Cáterin Grig",
+    "Greig": "Grig",
+    "Boston": "Bóston",
+    "California": "Californía",
+    "Charles": "Charls",
+    "Carol Gasko": "Carol Gásco",
+    "Gasko": "Gásco",
+    "John Connolly": "Yon Cónoli",
+    "Connolly": "Cónoli",
+    "Hazelton": "Jéiselton",
+    "FBI": "efe be i",
+    "Fotios Geas": "Fótios Guís",
+    "Geas": "Guís",
+    "Stephen Flemmi": "Estíven Flémi",
+    "Flemmi": "Flémi"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un anuncio sobre una peluquería",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La captura de Whitey Bulger. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un anuncio sobre una peluquería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Santa Mónica, California, 22 de junio de 2011. Dos agentes del FBI llaman a la puerta de un apartamento de dos habitaciones. Allí viven un hombre de ochenta y un años y una mujer de sesenta, que se hacen llamar Charles y Carol Gasko. No oponen resistencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre era James «Whitey» Bulger. Llevaba dieciséis años huido y figuraba entre los diez más buscados del FBI. La mujer era su pareja, Catherine Greig."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Dos días antes, el FBI había difundido un anuncio dirigido a mujeres que pudieran haber visto a Greig en una peluquería o en una consulta. No buscaban a un gánster, buscaban a una mujer. Y funcionó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un aviso llevó a los agentes hasta el apartamento. Dentro encontraron armas, documentos falsos y más de ochocientos mil dólares en efectivo. Había una recompensa de dos millones de dólares, la más alta que el FBI había ofrecido nunca por un fugitivo dentro del país."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dieciséis años escondido a plena luz, con una mujer que no se separó de él. Apúntalo: no lo cogió la inteligencia, lo cogió la insistencia. Tiene su gracia, y su dolor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bulger había crecido en un barrio obrero del sur de Boston. En los años setenta y ochenta dirigió una banda de mafia irlandesa dedicada a la extorsión, el tráfico de drogas y el asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El FBI sostenía que, además, era uno de sus informantes. Con su socio Stephen Flemmi, daba información sobre bandas rivales y recibía a cambio protección. Bulger siempre negó haber sido informante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está el escándalo. El agente John Connolly, su contacto, lo avisó en diciembre de 1994 de que iban a acusarlo por crimen organizado. Bulger desapareció. Connolly fue condenado más tarde por crimen organizado, obstrucción a la justicia y homicidio en segundo grado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras la detención, Greig fue condenada en 2012 a ocho años de prisión por ayudarlo a esconderse. Bulger fue juzgado en Boston en 2013. En agosto, un jurado lo declaró culpable de 31 de los 32 cargos, entre ellos la participación en once asesinatos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Once, los que el jurado dio por probados. Había familias que esperaban respuestas por muchos más. Para las familias, que un jurado reconozca lo ocurrido también cuenta como justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de noviembre de 2013 fue condenado a dos cadenas perpetuas más cinco años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 2018, con ochenta y nueve años, Bulger murió en la prisión de Hazelton, en Virginia Occidental, horas después de llegar trasladado desde otra cárcel. Había sido agredido por otros presos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La fiscalía acusó a tres reclusos. Un informe de 2022 del inspector general del Departamento de Justicia habló de fallos de gestión y de incompetencia en el sistema penitenciario, sin encontrar mala fe de los empleados. Hay que leerlo con calma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2024 se cerró también esa causa. Fotios Geas se declaró culpable de homicidio voluntario y fue condenado a veinticinco años. Paul DeCologero, a poco más de cuatro años, por agresión. Un tercero, por mentir a los agentes, no recibió más cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es una historia con muchos nombres de delincuentes. Quedan los de las personas que él asesinó, cuyas familias llevaron décadas pidiendo verdad. Ellas son el centro de este archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La captura de Whitey Bulger. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Datos de HISTORY.com, PBS NewsHour (Associated Press 2024) y la ficha; no se abrieron WBUR ni Wikipedia. Discrepancia menor: la ficha dice que la captura fue en el apartamento del 1012 de la calle Tercera; el guion no da la dirección. HISTORY.com dice que estaba reclamado por 19 asesinatos; el guion dice solo lo que probó el jurado (once). La edad de 89 en 2018 y la de Greig (60) salen de PBS y HISTORY. «Poco más de cuatro años» (DeCologero) de PBS. Que Bulger «siempre» negó ser informante: PBS dice «strongly denied»."
+}

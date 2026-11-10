@@ -1,0 +1,110 @@
+{
+  "id": "sally-clark",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Sally Clark": "Sali Clark",
+    "Clark": "Clark",
+    "Wilmslow": "Uílmslou",
+    "Cheshire": "Chéshir",
+    "Chester": "Chéster",
+    "Roy Meadow": "Roi Médou",
+    "Meadow": "Médou",
+    "Alan Williams": "Alan Uíliams",
+    "Angela Cannings": "Ángela Cánings"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una cifra entre 73 millones",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Sally Clark. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una cifra entre 73 millones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chester, noviembre de 1999. Un jurado acaba de declarar culpable a una abogada de treinta y cuatro años. La condena es cadena perpetua. Se llama Sally Clark y se le acusa de haber matado a sus dos hijos bebés."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que ha pesado en el juicio no es una prueba directa, sino un número. Un pediatra de prestigio, el profesor Roy Meadow, ha dicho ante el tribunal que la probabilidad de dos muertes súbitas de bebés en una familia así era de una entre 73 millones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una cifra tan grande suena a certeza. Es justo lo que hay que mirar con más cuidado. Una probabilidad no es una prueba de que alguien hiciera algo, y aquí se usó como si lo fuera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sally Clark vivía en Wilmslow, en Cheshire. Su primer hijo murió en diciembre de 1996, con once semanas. El segundo murió en enero de 1998, con ocho. En ambos casos se pensó primero en lo que llaman muerte súbita del lactante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No vamos a nombrar a los niños: eran bebés, murieron hace menos de treinta años y esa es la regla del archivo. Su madre siempre dijo que fueron muertes naturales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Respeto esa decisión. Hay que decir lo que sí consta: tras el segundo fallecimiento, la policía abrió una investigación por asesinato. Su marido, que también es abogado, estuvo a su lado durante todo el proceso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una primera apelación, en octubre de 2000, fue rechazada. El tribunal vio en el caso pruebas abrumadoras de que había matado a sus hijos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mientras tanto, la Real Sociedad de Estadística hizo algo inusual. Escribió al Lord Canciller para decirle que la cifra no tenía base estadística. El error era de método: se trataba de multiplicar probabilidades como si cada muerte fuera independiente, cuando en una misma familia pueden compartir causas genéticas o ambientales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La BBC recogió que unos científicos de Manchester habían descubierto en 2001 un vínculo genético en casos de muerte súbita. Eso hacía más probable lo que el jurado oyó como casi imposible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero la pieza decisiva estaba escondida en el informe de la autopsia del segundo niño. Revelaba una infección bacteriana, estafilococo áureo, que se había extendido hasta el líquido cefalorraquídeo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El patólogo de la acusación, Alan Williams, conocía ese dato en el juicio de 1999. No lo pasó al tribunal ni a la defensa. Los jueces lo criticaron después con claridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 29 de enero de 2003, el Tribunal de Apelación anuló la condena. Sally Clark llevaba más de tres años en prisión. Los jueces dijeron que la cifra de Meadow había sido muy engañosa y que la condena era insegura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salió de los calabozos a las tres y cuarenta de la tarde, abrazada por su marido. Dijo: esto no es una victoria. No hay ganadores. Todos hemos perdido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres años de cárcel por una cifra mal calculada y un análisis que no se compartió. Eso no es un fallo menor. Es un error judicial reconocido, con una mujer inocente dentro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso tuvo consecuencias. La decisión también dio esperanza a otras madres condenadas por la muerte de sus hijos, como Angela Cannings, que luchaba por limpiar su nombre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El tribunal de apelación ya no se fiaba de aquella forma de usar los números. Desde entonces, la estadística tiene que explicarse con más cuidado en los juzgados de Inglaterra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sally Clark murió en marzo de 2007, a los cuarenta y dos años. Su abogado dijo que nunca se recuperó del todo de aquel error judicial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda su nombre limpio y un hijo que la recuerda. Y queda una advertencia que se sigue enseñando: una cifra imponente no sustituye a las pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El caso Sally Clark. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Los hijos eran bebés y murieron hace menos de 30 años: no se les nombra. Verificados en BBC (29/1/2003) y MOJO Scotland (reproduce la nota de la BBC): condena en Chester, cifra de 1 entre 73 millones, crítica de la Real Sociedad de Estadística, primera apelación rechazada en octubre de 2000, infección no entregada por el patólogo, Alan Williams, hijo superviviente, frase de Sally Clark. Edad al condenarla (34) y al morir (42) deducidas de la edad de 38 años en 2003 de la BBC/MOJO y de su muerte en marzo de 2007: comprobar. La causa de su muerte no se menciona (MOJO: intoxicación aguda por alcohol; se omite por respeto). La explicación de la independencia estadística y que «desde entonces la estadística se explica con más cuidado» son comentario de contexto y no están en estas fuentes: considerar suprimirlas. Meadow fue sancionado por el GMC en 2005 (MOJO); no se menciona porque la decisión posterior no se ha verificado."
+}
