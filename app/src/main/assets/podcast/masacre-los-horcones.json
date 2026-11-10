@@ -1,0 +1,107 @@
+{
+  "id": "masacre-los-horcones",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Los Horcones": "Los Orcónes",
+    "Olancho": "Oláncho",
+    "Honduras": "Ondúras",
+    "Juticalpa": "Jutikálpa",
+    "Santa Clara": "Santa Clara",
+    "Lepaguare": "Lepaguáre",
+    "Iván Betancourt": "Iván Betancúr",
+    "Betancourt": "Betancúr",
+    "Michael Jerome Cypher": "Máicol Yeróm Sáifer",
+    "Cypher": "Sáifer",
+    "José Enrique Chinchilla": "José Enríque Chinchíya",
+    "Chinchilla": "Chinchíya",
+    "Benjamín Plata": "Benyamín Pláta",
+    "Manuel Zelaya Ordóñez": "Manuél Selaya Ordóñes",
+    "Zelaya Ordóñez": "Selaya Ordóñes",
+    "Carlos Bähr": "Carlos Ber",
+    "Bähr": "Ber",
+    "Unión Nacional de Campesinos": "Unión Nacional de Campesinos"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un pozo en el valle de Lepaguare",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre de Los Horcones. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un pozo en el valle de Lepaguare."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Olancho, Honduras, 25 de junio de 1975. Un grupo de campesinos hace un alto en su camino en el centro de formación de Santa Clara, cerca de Juticalpa. Llevan días marchando para pedir tierras. De pronto, alguien entra en el edificio y dispara."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. La marcha era pacífica y se sabía hacia dónde iba. En esa región, terratenientes y militares tenían tantos motivos para temerla como medios para detenerla. Lo que ocurrió después no fue un incidente. Fue una decisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los campesinos pertenecían a la Unión Nacional de Campesinos. Querían llegar hasta la capital para exigir tierras y la liberación de veinticinco compañeros presos, en pleno debate sobre la reforma agraria. Según el informe de la propia unión, terratenientes, militares y la policía de investigación les habían preparado una trampa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Santa Clara murieron varios campesinos y un taxista. Otras personas fueron detenidas y llevadas a la cárcel de Juticalpa. Esa noche, algunas fueron sacadas de allí y trasladadas al valle de Lepaguare."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el itinerario: del centro de formación a la cárcel, de la cárcel a una hacienda. Las personas pasan de mano en mano, sin acta ni juicio. A cada etapa, un testigo menos y una responsabilidad más difusa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La hacienda se llamaba Los Horcones y era de un terrateniente, Manuel Zelaya Ordóñez. La ocupaba un pelotón del ejército. Allí murieron los detenidos. Entre ellos, dos sacerdotes: Iván Betancourt, colombiano, y Michael Jerome Cypher, estadounidense."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También murieron dos jóvenes. Las fuentes recogen sus nombres, pero no los damos aquí. Los cuerpos fueron arrojados a un pozo cercano, que después fue dinamitado. En total, entre catorce y quince víctimas, según la fuente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tomo nota de una cifra con asterisco. Wikipedia habla de hasta catorce muertos y El Heraldo, de quince. No hay una cifra cerrada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando se encontraron los cuerpos, el Gobierno ordenó a todos los sacerdotes, monjes y monjas que abandonaran la zona por su propia seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo juicio. Cuatro hombres fueron condenados a veinte años de cárcel: dos militares, el mayor José Enrique Chinchilla y el subteniente Benjamín Plata, y dos terratenientes, el propio Manuel Zelaya Ordóñez y Carlos Bähr."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La justicia llegó, pero no duró. El 11 de septiembre de 1980, un decreto de amnistía e indulto de la Asamblea Nacional Constituyente los puso en libertad. Salieron mucho antes de cumplir los veinte años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El informe de la unión de campesinos atribuyó además la trama a la federación de agricultores y ganaderos del país, y a miembros de la empresa privada. Es una acusación del informe, no una sentencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y un dato más que no quiero dejar pasar. Manuel Zelaya Ordóñez es el padre de otro Manuel Zelaya, que años después fue presidente de Honduras. Lo anoto, sin más, porque es público."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 2009 se celebró una misa en memoria de las víctimas. Asistieron supervivientes y políticos. En Olancho se sigue recordando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No hay lápida con todos sus nombres. Hay un valle, una hacienda y una fecha que sus familias no han dejado de contar. Este archivo guarda esa memoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre de Los Horcones. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Heraldo (2014) y Wikipedia (en inglés); Time y La Prensa (copias archivadas) y Phillips no se abrieron. Cifra de víctimas: Wikipedia, hasta 14; El Heraldo, 15 (la ficha, «unas quince»). El guion da la horquilla. Las dos jóvenes no se nombran. Los nombres de los campesinos no se dan. «Sobre la reforma agraria» sale de la ficha. «Una trampa» sale del informe de la Unión Nacional de Campesinos citado por El Heraldo: va atribuido. La acusación a la federación de agricultores también. La dinamita del pozo: ficha; El Heraldo no la detalla. Sacerdote estadounidense: El Heraldo lo escribe «Zypher», ficha y Wikipedia «Cypher». Los condenados cumplieron «una fracción de su pena»: Wikipedia dice «poco más de un año de prisión», pero esa cifra choca con 1975 y 1980 (juicio y fechas no verificados): el guion lo dice en términos generales. El Gobierno ordenó marcharse a los religiosos: Wikipedia. Misa de 2009: Wikipedia (La Prensa 2009 no se abrió). «Hay un valle, una hacienda…» sin memorial identificado."
+}

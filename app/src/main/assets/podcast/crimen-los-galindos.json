@@ -1,0 +1,103 @@
+{
+  "id": "crimen-los-galindos",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Los Galindos": "Los Galíndos",
+    "Paradas": "Paradas",
+    "Marchena": "Marchena"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El sumario que se perdió",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de Los Galindos. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El sumario que se perdió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Paradas, provincia de Sevilla, 22 de julio de 1975. A media tarde, en el cortijo de Los Galindos, una gran finca de cereal a unos dos kilómetros del pueblo, se descubre algo que nadie entiende. Hay cuatro personas muertas, y un incendio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los vecinos acuden. Apagan el fuego con cubos, mueven los cuerpos, pisan el suelo. Sin saberlo, están borrando lo que más tarde nadie podrá recuperar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una escena del crimen es un documento, y aquí lo estropearon en la primera hora. No lo digo por culpar a nadie: quien apaga un fuego y quiere ayudar a un herido no piensa en una investigación. Pero esa hora pesó para siempre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran Juana Martín, de cincuenta y tres años, esposa del encargado del cortijo; Ramón Parrilla, de cuarenta; y Asunción Peralta, de treinta y cuatro, esposa del tractorista José González. Con ellos, el propio José González. Cuatro personas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaba el capataz de la finca, Manuel Zapata, de cincuenta y nueve años. Su cuerpo no apareció hasta tres días después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese retraso torció la investigación. Si el capataz no estaba entre los muertos, parecía el culpable: alguien que había huido tras matar a los demás. Esa fue la primera hipótesis, y era falsa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La autopsia demostró que Manuel Zapata había sido el primero en morir. Quedó descartado como autor. En total, cinco víctimas: un homicidio y cuatro asesinatos, según el agente judicial José Francisco Zapico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuando la primera pista cae, hay que empezar de cero. Pero ya se habían perdido días. La investigación, según La Vanguardia, estuvo llena de errores. Se barajaron móviles pasionales, reyertas, drogas e incluso una trama política."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los Galindos ocurre cuatro meses antes de la muerte de Franco. Eran los últimos meses de la dictadura, y el sumario se reabrió varias veces sin que se sacara nada en claro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1983, ocho años después, el caso se reabrió de nuevo, con una segunda autopsia. El juez Heriberto Asensio sostuvo que los ejecutores habían sido dos hombres que no vivían en el cortijo, y exoneró a uno de los fallecidos, al que antes se había señalado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en lo que dice el juez, y en lo que no dice. Dice que no fue ninguno de los que vivían allí. No dice quiénes fueron. Más adelante, otro juez declaró que sospechaba que personas influyentes ayudaron a paralizar la investigación. Es su sospecha; no está probada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se cerró en 1988. En 1995, veinte años después, prescribió. El Tribunal Supremo entiende que varios asesinatos en un mismo suceso prescriben como un solo delito."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie fue juzgado. Nadie fue condenado. Por eso no se puede nombrar a ningún culpable: no hay ninguno oficial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay teorías. Un libro de 2019, escrito por el hijo de los dueños de la finca, sostiene que un sicario actuó por encargo y sigue vivo. El agente judicial Zapico lo califica de disparate. Yo lo anoto como lo que es: una teoría, no un hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y hay un último capítulo. El sumario original, de unos mil setecientos folios en siete tomos, se extravió en un traslado tras un derrumbe en el juzgado de Marchena. Zapico conserva una copia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un expediente de cinco muertos, perdido en una mudanza. Al final, lo único que se conserva entero es una copia en manos de un funcionario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las víctimas fueron cinco trabajadores de una finca. Ya no queda nadie a quien juzgar, pero sí quien las recuerde: en Paradas, hoy, el crimen apenas se comenta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso me inquieta tanto como el silencio de la investigación. Un pueblo entero que prefiere no hablar de ello. Quizá porque quienes lo vivieron son ya muy mayores, y es una forma de respeto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de Los Galindos. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

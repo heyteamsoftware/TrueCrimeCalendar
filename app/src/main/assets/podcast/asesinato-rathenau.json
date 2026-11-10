@@ -20,7 +20,12 @@
     "Reichstag": "Raixstag",
     "Wirth": "Virt",
     "Joseph Wirth": "Yósef Virt",
-    "AEG": "a e ge"
+    "AEG": "a e ge",
+    "Erzberger": "Érzberger",
+    "Matthias Erzberger": "Matías Érzberger",
+    "Scheidemann": "Cháidemann",
+    "Philipp Scheidemann": "Fílip Cháidemann",
+    "Oberschöneweide": "Óberschenevaide"
   },
   "cintas": [
     {
@@ -53,6 +58,10 @@
           "texto": "En la Koenigsallee, un coche abierto lo adelanta. Al volante va Ernst Werner Techow. En el asiento de atrás, Erwin Kern dispara con una metralleta y Hermann Fischer lanza una granada de mano. Rathenau muere a los pocos minutos."
         },
         {
+          "voz": "ximena",
+          "texto": "Rathenau había llegado al ministerio el 1 de febrero de 1922. Durante la Gran Guerra había dirigido la sección que organizaba las materias primas de la economía alemana. Era un judío liberal en un país que buscaba culpables de la derrota."
+        },
+        {
           "voz": "alvaro",
           "texto": "Los tres eran jóvenes. Venían de los ambientes nacionalistas de la posguerra, de excombatientes y de exmarinos, donde la derrota se explicaba con una conspiración. Atento a esto, porque el crimen empieza antes del disparo."
         },
@@ -71,6 +80,10 @@
         {
           "voz": "ximena",
           "texto": "El Gobierno aprobó medidas de urgencia y, el 21 de julio, la Ley de Protección de la República."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía relacionó enseguida el crimen con otros dos atentados contra políticos republicanos, los de Matthias Erzberger y Philipp Scheidemann. Todos los autores pertenecían a la misma organización."
         },
         {
           "voz": "alvaro",
@@ -94,7 +107,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Rathenau tenía cincuenta y cuatro años. Fue industrial, organizó la economía de guerra alemana y llegó a ministro. Hoy se lo recuerda como un mártir de la democracia alemana."
+          "texto": "Rathenau tenía cincuenta y cuatro años. Está enterrado en el panteón familiar de Oberschöneweide, con tumba de honor de la ciudad. Hoy se lo recuerda como un mártir de la democracia alemana."
         },
         {
           "voz": "ximena",

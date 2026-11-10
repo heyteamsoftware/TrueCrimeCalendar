@@ -1,0 +1,107 @@
+{
+  "id": "secuestro-shergar",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Shergar": "Shérgar",
+    "Aga Kan": "Aga Kan",
+    "Ballymany": "Balimani",
+    "Kildare": "Kildér",
+    "Epsom": "Épsom",
+    "Derby": "Dérbi",
+    "IRA": "Ira",
+    "Gardaí": "Gardí",
+    "Leitrim": "Lítrim",
+    "Zahra": "Zára"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un remolque en la noche",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El secuestro de Shergar. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un remolque en la noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Condado de Kildare, Irlanda, noche del 8 de febrero de 1983. Tres hombres armados y enmascarados llaman a la puerta de la casa del mozo principal de la yeguada de Ballymany. Entran. Encierran a su familia en una habitación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de ellos le ordena llevarlos hasta una cuadra concreta. Allí duerme el caballo más famoso de Irlanda, y uno de los más valiosos del mundo. Se llama Shergar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Quien entra sabe lo que quiere: una cuadra concreta, un animal concreto. Y viene con un remolque. Lo demás, el dinero, vendría después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Shergar era un purasangre de la yeguada del Aga Kan. En 1981 había ganado el Derby de Epsom por diez cuerpos. Ese año fue elegido caballo europeo del año."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Retirado en la yeguada de Ballymany, ya había tenido sus primeros potros. Lo poseía un grupo de copropietarios, y se estimaba su valor en diez millones de libras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los hombres cargaron al caballo en un remolque. Tres de ellos se llevaron al mozo en una furgoneta. Horas después lo soltaron a más de treinta kilómetros de su casa, con una advertencia: nada de avisar a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay un fallo que me desespera. La policía irlandesa, los Gardaí, no fue avisada hasta la mañana del 9 de febrero. Para entonces el rastro estaba frío. Según una crónica, se perdió una oportunidad de rastrear una llamada de los secuestradores porque el agente encargado de interceptarlas ya se había marchado a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegaron las llamadas. Una voz pidió dos millones de libras. Los copropietarios decidieron no pagar. Temían no tener garantías de que el caballo volviera, y que cada animal valioso se convirtiera en objetivo de secuestradores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una decisión dura, y no me corresponde juzgarla. Pero hay otro motivo, que la familia del Aga Kan explicó en 2026: el caballo tenía muchos propietarios y no se podía forzar un acuerdo entre todos. Tampoco estaba asegurado contra un secuestro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las negociaciones duraron menos de una semana. Los secuestradores enviaron fotografías del animal. Se consideraron prueba insuficiente de que seguía vivo. Y los contactos se rompieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jefe de la investigación, el superintendente James Murphy, dijo que el caballo podía estar en cualquier parte del país. Los peritos forenses examinaron la cuadra. Los Gardaí dijeron al principio que no veían indicios de implicación terrorista, y en esas primeras horas no tenían ninguna pista sobre el paradero del animal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La sospecha recayó en el IRA. Nunca lo reconoció. Nadie fue detenido, nadie fue acusado. Lo que se cuenta de la banda, que habría sido de seis a nueve hombres, viene de relatos posteriores, no de pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 2026, la princesa Zahra Aga Kan afirmó que el caballo murió a los dos días del secuestro, y que lo mataron de forma cruel y poco profesional. Es su testimonio, y no se ha confirmado por otras vías."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se cree que los restos podrían estar en una turbera, quizá en el condado de Leitrim. Pero nunca se han encontrado. Es el dato que cierra este expediente: no hay tumba, no hay cuerpo, no hay culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y, sin embargo, el nombre sigue vivo. Shergar se recuerda como un símbolo de la cría y las carreras de caballos de Irlanda. Zahra Aga Kan lo describió como un semental amable que no merecía aquel final."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y queda la familia del mozo, retenida a punta de pistola en su propia casa, y sus siete hijos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un secuestro, hay un rescate, hay una familia aterrorizada. Y una pregunta que sigue abierta desde hace más de cuarenta años: ¿dónde está el caballo?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El secuestro de Shergar. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver. Fuentes abiertas: RTÉ Archivo (2018), Irish Post, RTÉ (13/6/2026) y la ficha; ninguna da el Derby de 1981 (sale de la ficha). Nombre del mozo: Jim Fitzgerald (RTÉ, Irish Post) / James Fitzpatrick (History.com): no se nombra. Número de atacantes: tres entraron en la casa; la banda era de unos seis a nueve (Irish Post, RTÉ 2026, Wikipedia). Fecha: 8 de febrero por la noche; las autoridades no fueron avisadas hasta la mañana del 9 (Irish Post). La hora (20:30) no se cita porque no aparece en las fuentes abiertas. Rescate: dos millones de libras (Irish Post y RTÉ 2026). Valor total de la sindicación: diez millones de libras (RTÉ, Irish Post); 34 socios (RTÉ) o 36 (Irish Post): el guion dice «un grupo de copropietarios». Zahra Aga Khan afirma en junio de 2026 que el caballo murió a los dos días; es una afirmación suya sin confirmar y así se cuenta. El IRA nunca lo reconoció oficialmente; nadie fue acusado. Restos en un pantano de Leitrim: solo «se cree» (Irish Post). No se incluye el relato del exmiembro del IRA Sean O’Callaghan ni lo del Sunday Telegraph de 2008 con la muerte violenta."
+}

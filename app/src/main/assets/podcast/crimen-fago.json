@@ -1,0 +1,92 @@
+{
+  "id": "crimen-fago",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Piedras en la carretera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de Fago. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Piedras en la carretera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pirineo de Huesca, noche del 12 de enero de 2007. En la carretera que une Majones con Fago, una pista asfaltada con el firme roto, curvas y casi sin señalizar, alguien ha puesto varias piedras de lado a lado. Un coche que pasa hacia las nueve las retira y sigue. Quien las puso las vuelve a colocar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las diez llega otro coche. Es el del alcalde de Fago, Miguel Grima, que vuelve de una reunión en Jaca. Para, baja a apartar las piedras. Ese es el momento que alguien llevaba horas esperando."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Mira el plan: un lugar que conoce bien, piedras para obligarle a bajar, una espera de horas. La sentencia lo llama un punto estratégicamente adecuado para ver venir a los demás coches. No fue un arrebato. Fue una emboscada preparada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Miguel Grima Masiá tenía cincuenta y un años y era alcalde de Fago desde 1998. Fago es un pueblo diminuto: unas treinta personas, un concejo abierto en el que el alcalde responde ante la asamblea de vecinos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El pueblo llevaba años enfrentado. Según Público, las tensiones crecieron cuando Grima impulsó delimitar el término municipal de Fago con el de su vecino Ansó. Hubo pleitos por licencias, permisos y negocios. Algunos vecinos lo consideraban arbitrario y despótico. Eso dice la sentencia que recogía su versión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Apunto una cosa que la prensa repitió: los pleitos y los rencores de un pueblo pequeño no explican nada por sí solos. Lo que cuenta es lo que un tribunal dio por probado, y eso vendrá después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Guardia Civil interrogó a los vecinos y registró casas durante tres semanas. Según un reportaje divulgativo, un informe de ADN sobre restos hallados en el coche del alcalde, que apareció lejos del lugar del crimen, señaló a un vecino: Santiago Mainar, guarda forestal y ganadero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mainar había sido amigo de Grima. La sentencia cuenta que incluso había ayudado a que Grima comprara una casa en Fago. Con el tiempo, la relación se rompió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 2 de febrero de 2007, la Guardia Civil lo detuvo en su finca. Según ese mismo reportaje, confesó ante un secretario judicial y una abogada de oficio. Más tarde se retractó, y dijo que se había inculpado para provocar un juicio público sobre la situación de Fago."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Una confesión retirada es el punto débil de cualquier caso, y esta lo fue. Pero la Audiencia no se apoyó solo en ella, y valoró la actividad probatoria y también la de descargo, como dijo después el Supremo. No puedo detallar más las pruebas: no he podido contrastarlas en documentos judiciales abiertos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 4 de diciembre de 2009, la Audiencia Provincial de Huesca condenó a Mainar a veinte años y nueve meses de prisión por asesinato, atentado contra la autoridad y tenencia ilícita de armas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su defensa recurrió. Alegó que debía juzgarlo un jurado popular y que hubo un juicio paralelo, por la repercusión mediática y una miniserie de televisión sobre el caso. En octubre de 2010, el Tribunal Supremo rechazó los ocho motivos. Un magistrado discrepó, pero solo en que debió haber un jurado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. El Supremo dejó una frase que merece quedar en el archivo: la justicia paralela no es justicia. Vale para los dos lados. Para los medios que juzgan antes del juicio, y para los condenados que juzgan a los tribunales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay un matiz que recogió Público en 2017. La Audiencia y el Supremo dejaron abierta la posibilidad de que hubiera más de un autor. Hasta donde sabemos, nadie más fue acusado. Mainar sigue negando los hechos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Del pueblo queda un conflicto sin resolver sobre la frontera que dividió a los vecinos. Del alcalde, un homenaje: en 2008 se levantó un monolito en su memoria, que fue profanado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No sé cómo cerrar esto. Un pueblo de treinta personas, dos amigos y un camino de montaña. Cuando los motivos son tan pequeños, el resultado es tan grande que cuesta mirarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de Fago. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

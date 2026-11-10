@@ -1,0 +1,103 @@
+{
+  "id": "caso-gescartera",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Gescartera": "Yescartéra",
+    "Camacho": "Camácho",
+    "Giménez-Reyna": "Jiménez Réina",
+    "Valiente": "Valiénte",
+    "ONCE": "Ónce",
+    "CNMV": "la Comisión Nacional del Mercado de Valores"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un agujero de cien millones",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Gescartera. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un agujero de cien millones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrid, 14 de junio de 2001. Los inspectores de la Comisión Nacional del Mercado de Valores entran en las oficinas de una agencia de valores llamada Gescartera Dinero. La intervienen porque no pueden conocer su situación financiera ni el destino del dinero de los clientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que descubren es un agujero de unos cien millones de euros. Eran los ahorros de unos dos mil clientes. Entre ellos había pequeños ahorradores, mutualidades, la ONCE, fundaciones y una treintena de órdenes religiosas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Mira bien el orden. Primero la intervención, luego la cifra. La pregunta no es cuánto falta, sino por qué tardó tanto en saberse. Y la respuesta está en los antecedentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1999, el organismo supervisor había multado a la empresa por resistirse a ser inspeccionada. La sanción no se hizo pública. Desde 1998, según la prensa, se investigaba un descuadre de unos cinco mil millones de pesetas. La intervención llegó en 2001."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres años. Ese es el dato que más pesó en la opinión pública. Lo apunto sin acusar a nadie en concreto, pero una pregunta merece repetirse: ¿qué hizo falta para que alguien actuara?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "El dueño y principal accionista era Antonio Camacho. Según la fiscalía, durante nueve años la sociedad captó dinero de sus clientes con promesas de rentabilidad y lo desvió hacia sociedades de constitución fraudulenta. Las pérdidas se ocultaban con documentos falsos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La presidenta de la agencia era Pilar Giménez-Reyna. Su hermano, Enrique, era secretario de Estado de Hacienda. Ese parentesco convirtió una estafa financiera en un escándalo político."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la secuencia. Una presidenta hermana de un alto cargo. Una presidenta del organismo supervisor que admitió dos reuniones con directivos de la agencia, a petición del secretario de Estado. Ninguna de esas situaciones fue un delito por sí sola. Pero el daño político fue enorme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Enrique Giménez-Reyna dimitió. También lo hizo la presidenta de la CNMV, Pilar Valiente, en septiembre de 2001, después de que aparecieran documentos que apuntaban a posibles intervenciones a favor de la agencia. El Congreso abrió una comisión de investigación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antonio Camacho ingresó en prisión tres días después de la intervención. La jueza Teresa Palacios instruyó la causa durante años hasta que el caso llegó a la Audiencia Nacional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mientras tanto, los afectados esperaban. Entre ellos, el arzobispado de Valladolid, que había retirado su inversión en 1999, tras conocer la visita de los inspectores a las oficinas de la agencia. Otros no tuvieron esa información."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en 2007 en la Audiencia Nacional. Hubo catorce imputados y unos ciento veinte testigos. El 27 de marzo de 2008, el tribunal condenó a Camacho a once años de prisión: ocho por apropiación indebida y tres por falsedad documental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pilar Giménez-Reyna fue condenada a tres años y seis meses como cómplice. Su hermano no figura entre los condenados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de noviembre de 2009, el Tribunal Supremo confirmó la pena de Camacho, a quien describió como el ideador y director del entramado. El fraude causó, según esa sentencia, un agujero de casi 88 millones de euros. El Supremo confirmó también otras condenas, como la de diez años y seis meses para el número dos de la agencia, y absolvió a cuatro de los ocho condenados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuatro absoluciones. Y conviene recordarlo: una absolución es una absolución, también en los casos que más indignan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En este expediente no hay víctimas mortales, pero sí miles de personas que confiaron su dinero a una agencia con buen aspecto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso deja una lección sencilla: los fraudes viven de la confianza. Por eso hay que mirar a quién se la entregamos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El caso Gescartera. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Debate (EFE), Noticias Juridicas, es.wikipedia y Servimedia. Contradicciones: el agujero (mas de 120 millones segun Wikipedia, unos 100 segun EFE, 87,99 millones segun la sentencia del Supremo); afectados (unos 2.000 en la ficha y EFE, 4.000 inversores segun Servimedia); la pena de Pilar Gimenez-Reyna (3 anos en Wikipedia, 3 anos y 6 meses en EFE, Noticias Juridicas y Servimedia; el guion usa 3 anos y 6 meses); la fecha de la condena de la Audiencia (27 de marzo segun la ficha y Wikipedia, 28 segun Noticias Juridicas); la dimision de Enrique Gimenez-Reyna (EFE da dos fechas distintas; el guion no la fecha). Wikipedia sitúa la absolucion de cuatro condenados por el Supremo en 2012; el guion sigue Servimedia (18 de noviembre de 2009). La ONCE y las ordenes religiosas constan en la ficha, no en las fuentes abiertas. La multa de 1999 por resistirse a la inspeccion es de Wikipedia. Camacho ingreso en prision tres dias despues de la intervencion segun EFE."
+}

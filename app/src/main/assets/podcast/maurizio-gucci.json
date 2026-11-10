@@ -1,0 +1,122 @@
+{
+  "id": "maurizio-gucci",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Maurizio Gucci": "Mauritsio Gucci",
+    "Gucci": "Gucci",
+    "Milán": "Milán",
+    "Patrizia Reggiani": "Patritsia Redyáni",
+    "Reggiani": "Redyáni",
+    "Palestro": "Palestro",
+    "Giuseppe Onorato": "Yusepe Onoráto",
+    "Onorato": "Onoráto",
+    "Pina Auriemma": "Pina Auriemma",
+    "Auriemma": "Auriemma",
+    "Ivano Savioni": "Ivano Savióni",
+    "Savioni": "Savióni",
+    "Benedetto Ceraulo": "Benedeto Cherráulo",
+    "Ceraulo": "Cherráulo",
+    "Orazio Cicala": "Oratsio Chicála",
+    "Cicala": "Chicála",
+    "Renault Clio": "Renó Clío",
+    "Clio": "Clío"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Siete escalones hasta el portal",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Maurizio Gucci. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Siete escalones hasta el portal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milán, lunes 27 de marzo de 1995, hacia las ocho y media de la mañana. Maurizio Gucci, de cuarenta y seis años, nieto del fundador de la famosa casa de moda, sale de su casa y camina unos cientos de metros hasta su oficina, en el número veinte de la vía Palestro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sube los escalones del portal. Saluda al portero, Giuseppe Onorato. Un hombre elegante, con abrigo de pelo de camello, entra tras él. El portero lo describiría después a la prensa: pensó que era otro cliente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre bien vestido entra a un portal de oficinas a plena mañana. Nadie se fija. Es la normalidad de un barrio caro, y es lo que lo hace posible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre dispara. Maurizio Gucci muere en el portal. El portero también es alcanzado y queda herido. El agresor sube a un Renault Clio verde que lo espera con un conductor al volante, y desaparece."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gucci ya no dirigía la empresa de su familia. En 1993 había vendido sus acciones a un grupo de inversión y había creado una nueva sociedad. Estaba casado con Patrizia Reggiani desde 1973; se divorciaron tras doce años y tenían dos hijas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las primeras pistas eran difíciles. Los investigadores siguieron sus negocios, sobre todo un proyecto para abrir un casino en Suiza. Descartaron a su primo Paolo, con quien tenía mala relación. Y durante casi dos años no hubo nada firme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1997, un informante dio un aviso a la policía: dos personas buscaban ayuda para presionar a una viuda que, tras encargar un asesinato, regateaba el precio. El precio pactado era de seiscientos millones de liras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un agente se infiltró en el grupo, haciéndose pasar por un pistolero. Llenó de micrófonos las casas y los coches de los sospechosos. Lo que salió de esas escuchas es la prueba central del caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre los nombres que surgieron estaba el de un portero de hotel, Ivano Savioni, relacionado con una mujer que se hacía llamar vidente, Pina Auriemma, amiga y confidente de la exmujer de Gucci."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre el 30 y el 31 de enero de 1997 fueron detenidos cinco: Patrizia Reggiani, Pina Auriemma, Ivano Savioni, Benedetto Ceraulo, que disparó, y Orazio Cicala, que conducía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según la sentencia, la cadena era esta. Reggiani encargó el asesinato; Auriemma y Savioni buscaron al sicario; Ceraulo disparó; Cicala condujo. Apunto lo que se probó en el tribunal, no lo que se rumoreó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los jueces consideraron que Reggiani no soportaba la idea de que su exmarido se casara con otra mujer y que el patrimonio que debía ir a sus hijas se perdiera. Ella sostuvo siempre que había sido víctima de un chantaje."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es un punto que no se puede omitir: la defensa de Reggiani, según Affaritaliani, fue que unos la habían extorsionado después del crimen. El tribunal no la creyó, y la acusación sostuvo lo contrario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en mayo de 1998. El 3 de noviembre, los jueces condenaron a Reggiani a veintinueve años de cárcel. Ceraulo y Cicala recibieron cadena perpetua. Savioni, veintisiete años, y Auriemma, veinticinco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la apelación, el 17 de marzo de 2000, la pena de Reggiani bajó a veintiséis años. Las de los demás también se redujeron. El Tribunal de Casación confirmó las condenas en febrero de 2001."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un dato que me parece justo añadir. Ceraulo, el que disparó, siempre se declaró inocente. Eso consta. Y, aun así, las sentencias son firmes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reggiani pasó unos diecisiete años en prisión. Desde 2013 salió a trabajar fuera mientras cumplía, y más tarde un juez dio por concluida su libertad vigilada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quien lea las crónicas sociales verá muchos nombres y mucho glamur. Yo prefiero que se quede una sola imagen: un hombre que sube siete escalones, saluda a un portero y no sabe que ya lo están siguiendo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Maurizio Gucci tenía cuarenta y seis años. Dejó dos hijas. Giuseppe Onorato, el portero que quedó herido, fue también testigo de todo aquello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Maurizio Gucci. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

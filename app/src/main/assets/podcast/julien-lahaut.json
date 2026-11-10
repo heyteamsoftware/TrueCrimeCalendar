@@ -1,0 +1,45 @@
+{
+  "id": "julien-lahaut",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Julien Lahaut": "Yulién Lao",
+    "Lahaut": "Lao",
+    "Seraing": "Serén",
+    "Lieja": "Liéja",
+    "Balduino": "Baldoino",
+    "Neuengamme": "Noigámme",
+    "Mauthausen": "Mauthausen",
+    "CegeSoma": "Seyesoma",
+    "Bruselas": "Bruselas"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche verde o gris",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Asesinato de Julien Lahaut. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un coche verde o gris." },
+        { "voz": "ximena", "texto": "Seraing, junto a Lieja, Bélgica. Viernes 18 de agosto de 1950, hacia las nueve y cuarto de la noche. Dos hombres llaman a la puerta de una casa. Su mujer va a buscar a Julien Lahaut. Él sale. Le disparan, y los dos escapan en un coche donde esperaban otros dos." },
+        { "voz": "ximena", "texto": "Lahaut tenía sesenta y cinco años. Obrero, diputado y presidente del Partido Comunista de Bélgica. Había sobrevivido a los campos de concentración nazis de Neuengamme y Mauthausen." },
+        { "voz": "alvaro", "texto": "Primera nota. Una semana antes, el príncipe Balduino había jurado como heredero, y en el Parlamento alguien gritó viva la república. Muchos creyeron que había sido Lahaut. Quién lo gritó primero nunca estuvo claro. Pero el crimen se entendió enseguida como un ajuste de cuentas político." },
+        { "voz": "ximena", "texto": "Esa misma noche empezó el desorden. Al llegar la policía, el cuerpo ya había sido trasladado al interior de la casa. En el lugar había gente ajena al caso. Una vaina de bala apareció al día siguiente." },
+        { "voz": "ximena", "texto": "El juez de instrucción de guardia, poco experimentado, no llegó hasta las diez y cuarenta y cinco. El interrogatorio de la viuda, de madrugada, no aportó nada útil sobre los autores ni sobre el coche." },
+        { "voz": "alvaro", "texto": "Lo que más me inquieta de este informe es el atestado de la gendarmería de Seraing. Describía un coche pequeño, verde o gris, quizá un Vanguard. Estaba en el archivo del ministro. Nunca llegó al juez." },
+        { "voz": "ximena", "texto": "Más pruebas se perdieron por el camino. Un informe de un servicio de seguridad de 1949 ya señalaba a un grupo anticomunista armado. Un policía de Amberes anotó en 1948 un plan de atentado contra Lahaut, pero no lo incluyó en su informe." },
+        { "voz": "alvaro", "texto": "Y hay otro documento. Un informe del jefe de ese grupo, del 31 de agosto de 1950, parecía reivindicar el crimen. En la copia conservada, el pasaje sobre Lahaut había sido eliminado." },
+        { "voz": "ximena", "texto": "Su funeral reunió a más de cien mil personas. Pasaron los años. En 1972, tras cuatro jueces de instrucción, el caso se cerró con un sobreseimiento. Nadie fue juzgado." },
+        { "voz": "ximena", "texto": "En 2008, el Senado belga votó por unanimidad encargar un estudio científico. Lo hizo el CegeSoma, un centro de historia, con el profesor Emmanuel Gerard al frente. Se publicó en 2015." },
+        { "voz": "alvaro", "texto": "Esto es lo que concluyó el estudio, y lo atribuyo a sus autores. Que el crimen lo cometieron militantes anticomunistas de aquella red clandestina de información, con financiación privada. Y que la policía judicial estaba ligada a la red, y obstaculizó la investigación." },
+        { "voz": "ximena", "texto": "El estudio apunta a varios nombres. Ninguno fue acusado ni juzgado. Uno de ellos, el dueño de un coche gris, murió en 1977. No daremos más nombres: sin sentencia, siguen siendo presuntos." },
+        { "voz": "alvaro", "texto": "También conviene decir lo que no se demostró. Se llegó a pensar en una venganza monárquica, y los investigadores de 2015 la descartaron. Tampoco hallaron pruebas de que la red dependiera de la CIA." },
+        { "voz": "ximena", "texto": "Por eso este expediente es raro. Hay una explicación histórica, respaldada por un estudio oficial, y a la vez no hay ningún culpable ante un tribunal." },
+        { "voz": "alvaro", "texto": "¿Por qué no se resolvió? Pruebas perdidas, informes que no llegaron al juez y, según el estudio, un aparato de policía que miraba a otro lado. Cuando se quiso mirar, ya había prescrito." },
+        { "voz": "ximena", "texto": "Queda Julien Lahaut, nacido en Seraing en 1884. Un obrero que llegó al Parlamento y que pasó por dos campos de concentración. Cae a las puertas de su casa." },
+        { "voz": "ximena", "texto": "En el cementerio de Seraing hay un monumento a su memoria. Fin del expediente: Asesinato de Julien Lahaut. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Paris Match Belgique (2020) y Brussels Times (indirectamente, resumen) ; el comunicado del Senado y la reseña de la Revue belge d'histoire contemporaine son PDF ilegibles. Contradicción con la ficha: ninguna de fondo; la ficha atribuye a Goossens, los Devillé y Hamelrijck (presuntos): el guion no da nombres. Discrepancias de detalle: asistentes al funeral, «más de 100.000» (Paris Match) frente a unos 150.000 (gendarmería según Brussels Times): se dice «más de cien mil». Mayor de 65 años: Brussels Times; nació en 1884. El prescrito del caso en 1970 y el sobreseimiento en 1972 (Brussels Times; la ficha: 4 de diciembre de 1972 según Wikipedia). Los gritos de «viva la república»: la ficha dice que a menudo se le atribuyen por error; Brussels Times: no está claro quién lo gritó primero. La red: la ficha habla de «red clandestina de información»; Paris Match del BACB de André Moyen, no se nombra. Paris Match: «a las 21.15 dos hombres llamaron y uno disparó»; el guion dice «le disparan», sin más detalle. Se omite el tiro de gracia y los detalles gráficos. Goossens (propietario del coche gris, muerto en 1977 según Brussels Times) no se nombra, pero se alude a él como «dueño de un coche gris»: valorar si se quita esa alusión por la presunción de inocencia. El cementerio: Paris Match habla de un monumento soviético con inscripción en el cementerio de Seraing. «Cuatro jueces de instrucción»: Brussels Times."
+}

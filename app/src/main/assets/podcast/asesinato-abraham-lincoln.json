@@ -1,0 +1,133 @@
+{
+  "id": "asesinato-abraham-lincoln",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Abraham Lincoln": "Éibraham Línkon",
+    "Lincoln": "Línkon",
+    "John Wilkes Booth": "Yon Uilks Buz",
+    "Booth": "Buz",
+    "Our American Cousin": "Aur Américan Cósin",
+    "Lewis Powell": "Luis Páuel",
+    "Powell": "Páuel",
+    "William Seward": "Uíliam Síuard",
+    "Seward": "Síuard",
+    "George Atzerodt": "Yorch Átserot",
+    "Atzerodt": "Átserot",
+    "David Herold": "Déivid Jérold",
+    "Herold": "Jérold",
+    "Mary Surratt": "Meri Surát",
+    "Surratt": "Surát",
+    "Samuel Mudd": "Sámuel Mad",
+    "Mudd": "Mad",
+    "Garrett": "Gárret",
+    "Lee": "Li",
+    "Rathbone": "Ráthboun"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un palco sin guardia",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Abraham Lincoln. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un palco sin guardia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Washington, viernes 14 de abril de 1865. Hacia las diez y cuarto de la noche, en el teatro Ford, se representa una comedia, «Our American Cousin». En el palco presidencial está sentado el presidente Abraham Lincoln."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según algunos relatos, el guardia que debía vigilar la puerta del palco se había ausentado. Un hombre entra sin que nadie lo detenga. Es un actor muy conocido: John Wilkes Booth."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cinco días antes, el general Lee se había rendido. La guerra civil casi había terminado, y el presidente iba al teatro como cualquier otro. Esa tranquilidad es lo que más me pesa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Booth dispara una vez a Lincoln. Un oficial que estaba en el palco, el mayor Rathbone, intenta sujetarlo y resulta herido de una cuchillada. El asesino salta al escenario, grita en latín una frase y huye cojeando, con una pierna rota."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La frase es «Sic semper tyrannis»: así siempre a los tiranos. Booth era simpatizante de la Confederación, el bando derrotado en la guerra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No era un acto aislado. Booth llevaba tiempo reclutando gente para secuestrar al presidente y llevárselo a Richmond. Cuando eso fracasó, el plan cambió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquella noche tenían que atacar también al secretario de Estado, William Seward, y al vicepresidente. Lewis Powell entró en casa de Seward y lo hirió con un cuchillo. Seward sobrevivió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "George Atzerodt debía matar al vicepresidente Andrew Johnson, pero perdió el valor y se pasó la noche bebiendo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos de las tres partes del plan fallaron. Uno de los complotados no se atrevió, y otro hirió al hombre al que atacaba, pero no lo mató. Solo una salió como estaba prevista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A Lincoln lo llevaron a una casa de huéspedes frente al teatro. Murió a las siete y veintidós de la mañana siguiente, el 15 de abril. Fue el primer presidente de Estados Unidos asesinado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Booth y David Herold huyeron hacia Maryland. Se detuvieron en la taberna Surratt para recoger provisiones, y el doctor Samuel Mudd entablilló la pierna de Booth. Durante doce días, miles de soldados los buscaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Doce días. Y los encontraron en una granja de Virginia, la de los Garrett. Herold se rindió. Booth se negó, y fue abatido el 26 de abril."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los demás conspiradores fueron detenidos. Les juzgó una comisión militar, durante unas siete semanas en mayo y junio de 1865, en el antiguo arsenal de Washington, hoy Fort McNair."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto la polémica. El presidente Johnson y el secretario de Guerra insistieron en un tribunal militar con el argumento de que Washington era zona de guerra. Otros defendían que un tribunal civil habría sido más justo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Declararon trescientos sesenta y seis testigos. Los acusados podían interrogarlos mediante sus abogados, pero no podían hablar en su propia defensa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 7 de julio de 1865 fueron ahorcados cuatro: Lewis Powell, David Herold, George Atzerodt y Mary Surratt."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los otros cuatro recibieron prisión: cadena perpetua para Mudd, Arnold y O'Laughlen, y seis años de trabajos forzados para Spangler. Tres fueron indultados en 1869; el cuarto murió de fiebre amarilla en la cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "John Surratt, hijo de Mary, huyó del país. Lo juzgaron en 1867, y el jurado no llegó a ponerse de acuerdo. No volvió a ser juzgado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otra duda que queda: la de aquel tribunal. Quienes se oponían decían que un tribunal civil habría sido más justo, y la duda sobre aquel proceso ha llegado hasta hoy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lincoln tenía cincuenta y seis años. Había sostenido a la Unión durante cuatro años de guerra, y no vio llegar la paz."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que merece quedar en el archivo no es el disparo, sino el hombre al que se le arrebató el final de su obra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Abraham Lincoln. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cinta de 1 caso nuevo. Fuentes abiertas: History.com («John Wilkes Booth shoots Abraham Lincoln»), National Park Service («The Lincoln Conspirators») y Ford's Theatre («The Trial of the Conspirators»). Library of Congress: 403, no se pudo abrir. Casa Petersen: History.com no la nombra («un alojamiento barato frente al teatro»); la ficha sí; se dice «una casa de huéspedes frente al teatro». El guardia John Parker «había salido a tomar una cerveza»: lo da History.com; el guion lo presenta como «según algunos relatos». Quién mató a Booth: History.com dice un cabo (Boston Corbett) y la NPS «un soldado de la Unión»; el guion dice «fue abatido». Comisión militar: Ford's Theatre dice nueve miembros en el texto y doce en un pie de foto; el guion no da el número. Nueve acusados en la página de Ford's Theatre (incluye a John Surratt); ocho juzgados, según la NPS y la ficha. Los 366 testigos salen de Ford's Theatre. Condenas: cuatro ahorcados el 7 de julio de 1865 (Mary Surratt, Powell, Herold, Atzerodt); Arnold, Mudd y O'Laughlen, cadena perpetua; Spangler, seis años; O'Laughlen murió de fiebre amarilla en 1867; tres indultados en 1869 (NPS). John Surratt huyó, fue juzgado en 1867 y el jurado no llegó a un veredicto (NPS). Sin detalles gráficos."
+}
