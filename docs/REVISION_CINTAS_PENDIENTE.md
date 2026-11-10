@@ -50,3 +50,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **heavens-gate, glico-morinaga, sakuradamon, atentado-reagan:** segundas fuentes débiles (Wikipedia). Pronunciaciones a oído en julio 1-15 (soapy-smith, secuestro-getty, rachel-nickell).
 - **junio 16-30:** Calvi, Escobar y Mississippi Burning tienen datos de contexto sin fuente abierta. Pronunciaciones a oído: Čabrinović, Ilić, Boumaarafi, Rathenau y nombres filipinos.
 - **asesinato-jaures:** el guion dice «mató a Jaurès» aunque Villain fue absuelto; mejor «le disparó». **julio 16-31:** pronunciaciones a oído (Jewell, Hawthorne, Bouchikhi, Provenzano, Giacalone, Wixom, Aung San Suu Kyi, Vilán). **asesinato-obregon:** sin segunda fuente aparte de El Universal.
+- **abril 16-30:** Gerardi (en Wikipedia sigue «abierto en la Fiscalía»), Stephen Lawrence (lo de 2025 viene de Wikipedia en inglés). Pronunciaciones a oído: nombres portugueses, alemanes y «Báunti».

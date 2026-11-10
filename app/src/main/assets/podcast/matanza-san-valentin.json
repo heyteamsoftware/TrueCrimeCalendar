@@ -1,0 +1,124 @@
+{
+  "id": "matanza-san-valentin",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "George Moran": "Yorch Móran",
+    "Bugs Moran": "Bags Móran",
+    "Moran": "Móran",
+    "North Clark Street": "Nors Clark Strit",
+    "Gusenberg": "Gúsenberg",
+    "Frank Gusenberg": "Frank Gúsenberg",
+    "Capone": "Capóne",
+    "Al Capone": "Al Capóne",
+    "Calvin Goddard": "Cálvin Gódard",
+    "Fred Burke": "Fred Berk",
+    "Burke": "Berk",
+    "St. Joseph": "San Yósef",
+    "Michigan": "Míchigan",
+    "Charles Skelly": "Charles Skéli",
+    "Thompson": "Tómpson",
+    "McGurn": "Maguérn",
+    "Jack McGurn": "Yak Maguérn",
+    "Anselmi": "Anselmi",
+    "Scalise": "Escalíse",
+    "Albert Anselmi": "Álbert Anselmi",
+    "John Scalise": "Yon Escalíse",
+    "Highball": "Jaibol",
+    "Bundesen": "Bundésen"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un garaje en North Clark Street",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de San Valentín. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un garaje en North Clark Street."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Chicago, 14 de febrero de 1929, día de San Valentín. Son las diez y media de la mañana. Un coche se detiene frente a un garaje de North Clark Street, y varios hombres bajan de él. Algunos llevan uniformes de policía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dentro, siete hombres esperan. Son miembros y colaboradores de la banda de George Bugs Moran, que controlaba el contrabando de alcohol en la zona norte de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Es el truco más viejo: un uniforme. Nadie discute una redada. Los siete hombres se dejaron colocar contra la pared sin resistirse, porque creyeron que era la policía de verdad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los pusieron de cara a la pared y les dispararon con metralletas Thompson. Era la hora en que, según se supo, Moran debía llegar. Pero Moran vio lo que le pareció un coche de policía, y se alejó a tomar un café."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un hombre que se retrasa y se salva. Eso lo cambia todo. Si el objetivo era Moran, el plan falló. Si no lo era, fue una matanza de otro tipo. Nadie lo ha aclarado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando llegaron los agentes de verdad, uno de los siete seguía con vida. Frank Gusenberg fue trasladado al hospital. Los policías le preguntaron quién le había disparado, y respondió que nadie. Murió poco después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el Museo de la Mafia de Las Vegas, el único testigo de la matanza fue un perro, llamado Highball. Los hombres no tuvieron más compañía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una víctima que calla incluso moribunda. Era el código de aquellos años: la justicia se arreglaba entre ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La sospecha cayó enseguida sobre la banda rival de Al Capone. Capone estaba en Florida. Cuando lo citó un gran jurado federal en marzo, alegó estar enfermo. Nunca fue procesado por la matanza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía detuvo en febrero a tres hombres vinculados con esa banda: Jack McGurn, Albert Anselmi y John Scalise. Los acusaron, pero tuvieron que retirar los cargos por falta de pruebas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí aparece algo nuevo. Un experto en balística, Calvin Goddard, abrió un laboratorio en Chicago. Descubrió que las metralletas de la policía no eran las que se habían usado. Era la primera vez que la ciencia se metía en una investigación de este tipo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1929, un hombre llamado Fred Burke, borracho, tuvo un accidente de coche en St. Joseph, Michigan. Mató a tiros a un policía, Charles Skelly. En su casa, la policía encontró metralletas Thompson."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los análisis balísticos mostraron que eran las armas de San Valentín. Burke, buscado, fue capturado en marzo de 1931. Lo condenaron a cadena perpetua. Pero no por la matanza, sino por matar al policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Léalo despacio. Hay armas que coinciden. Hay un hombre que cae por otro crimen. Y no hay una sola condena por los siete muertos. La ley llegó hasta donde pudo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 17 de noviembre de 1931, el forense cerró la investigación con una frase: los hechos fueron obra de personas desconocidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La matanza contribuyó a la ley de armas de 1934, que gravó las metralletas y reguló su venta. El garaje fue demolido en 1967."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y lo que no tiene fecha de caducidad es lo que sigue en un museo: un trozo de pared, con las marcas de los disparos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siete hombres murieron aquel día. Que nos importen o no sus vidas es otra cuestión. Pero eran siete personas, y hoy nadie responde por ellas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de San Valentín. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Sin condena por la matanza. Fuentes abiertas: Mob Museum, History.com y Wikipedia (Encyclopedia of Chicago dio ECONNREFUSED; WTTW 403). Discrepancias: número de pistoleros (History.com, cuatro vestidos de policía; Wikipedia, de cuatro a seis, dos vestidos de policía): el guion dice «varios hombres, algunos disfrazados de policías». Hora: 10:30 (ficha y Wikipedia). Palabras de Frank Gusenberg: «No one shot me» (Wikipedia) / «No one, nobody shot me» (History.com): el guion dice que dijo que nadie le había disparado y no cita nombre. Víctimas: siete hombres de la banda y su entorno; Wikipedia aclara que dos (Schwimmer y May) no eran miembros; el guion dice «miembros y colaboradores». Capone: se dice que la matanza «se atribuyó» a su organización y que nadie fue procesado; Capone estaba en Florida (coartada; History.com la llama «a prueba de todo», Wikipedia lo menciona de pasada), pero el guion no la desarrolla. McGurn, Anselmi y Scalise: cargos retirados por falta de pruebas (Wikipedia). Burke: capturado en marzo de 1931, condenado a cadena perpetua por matar al policía Skelly (Wikipedia, History.com); nunca juzgado por la matanza. Cierre de la investigación del forense: 17 de noviembre de 1931, «por personas desconocidas» (Wikipedia). El perro Highball (Mob Museum) se cuenta como curiosidad atribuida. Se omite la confesión de 1935 de Byron Bolton (discutida por historiadores)."
+}

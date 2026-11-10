@@ -1,0 +1,37 @@
+{
+  "id": "puerto-hurraco",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cazar tórtolas",
+      "tipo": "expediente",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de Puerto Hurraco. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Cazar tórtolas." },
+        { "voz": "ximena", "texto": "Puerto Hurraco, Badajoz, domingo 26 de agosto de 1990. Al anochecer, dos hermanos, Emilio y Antonio Izquierdo, de cincuenta y seis y cincuenta y dos años, salen de casa con sendas escopetas. A sus hermanas les dicen que van a cazar tórtolas." },
+        { "voz": "ximena", "texto": "No van al monte. Se esconden en un callejón y esperan a que pase gente por la plaza. Entonces empiezan a disparar." },
+        { "voz": "alvaro", "texto": "Primera nota. Escogieron la hora de la tarde en que el pueblo está en la calle. No fue un arrebato: fue una emboscada. Lo dice el lugar, el callejón, y lo dice la hora." },
+        { "voz": "ximena", "texto": "Buscaban sobre todo a miembros de la familia Cabanillas, sus vecinos y enemigos. Pero los disparos alcanzaron a cualquiera que se cruzara con ellos. Murieron nueve personas, entre ellas dos niñas que jugaban en la plaza. Unas doce resultaron heridas." },
+        { "voz": "ximena", "texto": "No daremos nombres: aún viven allí familiares de los muertos. Era un pueblo de pocos cientos de vecinos, una pedanía de Benquerencia de la Serena. Todos se conocían." },
+        { "voz": "alvaro", "texto": "Los hermanos huyeron al monte. Horas después los detuvieron sin oponer resistencia. Lo que más me inquieta es la calma: lo habían planeado y no se defendieron cuando se acabó." },
+        { "voz": "ximena", "texto": "Para entender qué los empujó hay que retroceder. Las dos familias vivían enfrentadas por tierras. En 1967, una disputa de lindes se mezcló con un asesinato: un hermano de los Izquierdo mató a un Cabanillas y cumplió catorce años de condena." },
+        { "voz": "ximena", "texto": "En 1984 murió en un incendio la madre de los Izquierdo. La policía no halló culpables, pero la familia culpó a los Cabanillas. Dos años después, el hermano que salió de prisión hirió con un cuchillo a un miembro de esa familia, y murió poco después en un psiquiátrico." },
+        { "voz": "alvaro", "texto": "Fíjate cómo se encadenan las fechas. 1967, 1984, 1986, 1990. Una pelea de lindes que no se resolvió en veintitrés años, sin que nadie, ni las instituciones ni el pueblo, la cortara a tiempo." },
+        { "voz": "ximena", "texto": "El juicio se celebró cuatro años después, en 1994. Los hermanos fueron condenados a cientos de años de prisión: según la fuente, entre seiscientos y setecientos en total." },
+        { "voz": "ximena", "texto": "La sentencia sostuvo que no eran enfermos mentales y que tenían inteligencia normal. Eran pastores con un rebaño de unas mil ovejas y fincas arrendadas." },
+        { "voz": "alvaro", "texto": "Las cifras de la pena varían de una fuente a otra: seiscientos ochenta y cuatro años, seiscientos ochenta y ocho, o trescientos cincuenta para cada uno. Lo firme es que no iban a salir." },
+        { "voz": "ximena", "texto": "Emilio murió en la cárcel de Badajoz en 2006. Antonio se quitó la vida en la prisión en 2010. Ninguno de los protagonistas vive ya." },
+        { "voz": "ximena", "texto": "El caso volvió a la memoria del país con la película El séptimo día, del director Carlos Saura. Parte de la región la rechazó, por temor a lo que dijera de Extremadura." },
+        { "voz": "alvaro", "texto": "Hay quien ve en este crimen algo más que una venganza: un rincón del campo abandonado por las instituciones, sin servicios, donde la desconfianza creció sin freno. No lo digo yo: es la tesis de uno de los periodistas que lo ha estudiado." },
+        { "voz": "ximena", "texto": "Hoy Puerto Hurraco tiene unos cien vecinos. En 2015, su alcalde dijo que el pueblo no quiere recordar, quiere olvidar. La casa de los Izquierdo seguía abandonada, a la espera de ser derribada." },
+        { "voz": "alvaro", "texto": "Pues el archivo recuerda por ellos, con sobriedad. Nueve personas, dos de ellas niñas, que salieron a la calle un domingo de agosto." },
+        { "voz": "ximena", "texto": "Fin del expediente: La matanza de Puerto Hurraco. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Salto (2020) y Público/EFE (2015); ESdiario, Libertad Digital y Wikipedia no abiertas esta vez. Contradicciones: pena (688 años según El Salto; 684, 350 para cada uno, 345 según las demás): el guion dice «cientos de años» y cita 684, 688 y 350 por hermano; las edades de las niñas no se dan; ESdiario incluye a dos guardias civiles entre los muertos y ninguna otra fuente lo hace (no se dice). Las hermanas Luciana y Ángela, señaladas como instigadoras en Público y exculpadas según Wikipedia, no se mencionan. Que el hermano mayor de los Izquierdo (no se nombra) mató a un Cabanillas en 1967 y cumplió catorce años, que la madre murió en un incendio en 1984 y que el mismo hermano hirió a un Cabanillas en 1986 y murió nueve días después: El Salto. «Hoy unos cien vecinos» (Público, 2015: unos 110). La tesis de la España vaciada: El Salto. La polémica con Ibarra sobre la película: El Salto, no se detalla. «Alcanzaron a cualquiera»: El Salto. La plaza como lugar del tiroteo: El Salto (la ficha habla de la calle principal)."
+}

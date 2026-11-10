@@ -1,0 +1,122 @@
+{
+  "id": "robo-museo-van-gogh",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Van Gogh": "Van Gog",
+    "Ámsterdam": "Ámsterdam",
+    "Scheveningen": "Esjévenigen",
+    "Nuenen": "Nuenen",
+    "Octave Durham": "Octáv Dúram",
+    "Henk Bieslijn": "Jenk Bíslein",
+    "Castellammare di Stabia": "Castelamare di Estabia",
+    "Camorra": "Camorra",
+    "Nápoles": "Nápoles"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una escalera y una cuerda",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo del Museo Van Gogh. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una escalera y una cuerda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ámsterdam, madrugada del sábado 7 de diciembre de 2002. Una escalera se apoya en la parte trasera del Museo Van Gogh. Dos hombres suben. Cruzan un tejado del primer piso. Llevan un mazo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rompen una ventana. Entran. Descuelgan dos cuadros de la pared. Y se van por donde han venido, bajando por la fachada con una cuerda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Todo esto, en pocos minutos. Sin armas, sin explosivos, sin tecnología. Una escalera, una cuerda y un mazo. La seguridad de un museo es tan fuerte como su ventana más débil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El museo tenía cámaras que reaccionaban al movimiento, dentro y fuera. Un vigilante vio a un intruso, pero llegó tarde. La policía acordonó la zona enseguida, pero los ladrones ya habían huido en un coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llevaron dos obras de Vincent van Gogh: «Vista del mar en Scheveningen», de 1882, y «Congregación saliendo de la iglesia reformada de Nuenen», pintada entre 1884 y 1885."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en cuáles eligieron. No las más famosas del museo. Dos cuadros de juventud, fáciles de transportar. Un ladrón con un comprador a la vista habría ido a por los girasoles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las imágenes de las cámaras eran escasas. Había siluetas borrosas en la escalera, pero nada del robo. Los vigilantes y las limpiadoras dijeron no haber visto nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que sí dejaron los ladrones fueron dos prendas: una gorra y un gorro. Se les cayeron durante la huida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los criminales cometen errores. Casi siempre es uno. Este fue de los que no perdonan: dejaron su propio ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A principios de 2003, el chivatazo de un informante llevó a los investigadores hasta dos sospechosos. La policía les intervino los teléfonos y los vigiló. Los detuvieron a finales de ese año."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2004, un tribunal condenó a Octave Durham y a Henk Bieslijn, ambos de treinta y un años. Durham recibió cuatro años y medio de cárcel y Bieslijn, cuatro. El juez se basó en el ADN de la gorra y del gorro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Siempre lo negaron. Y aquí está el problema que me interesa: había dos condenados, pero los cuadros no aparecían. Nadie sabía dónde estaban. Una condena sin obras es una historia a medias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante años, ni rastro. En 2010, un alto cargo de la policía italiana sugirió que la Camorra, la mafia de Nápoles, había encargado el robo. El museo ofreció cien mil euros de recompensa, pero no sirvió de nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El lunes 26 de septiembre de 2016, una operación policial en Nápoles encontró dos cuadros que podían ser los robados. Estaban en poder de un clan de la Camorra dedicado al tráfico internacional de drogas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según The Art Newspaper, las obras habían terminado en Castellammare di Stabia, un pueblo costero al sur de Nápoles, como parte de un trato de drogas. Estaban ocultas en una cavidad de un muro, en la casa de los padres del jefe del clan."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Catorce años escondidos dentro de una pared. Y los hombres que los robaron no lo sabían: los cuadros pasaron de mano en mano como moneda de cambio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un experto del museo viajó a Italia y confirmó que eran los originales. Habían sufrido. Probablemente los marcos se tiraron a un canal, y un fragmento de «Scheveningen» se había perdido, en la esquina inferior izquierda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los restauradores lo reconstruyeron con un molde impreso en tres dimensiones. También retiraron barnices oscurecidos y descubrieron una firma falsa de «Vincent» añadida hacia 1903."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El conservador Pieter van Os lo llamó un milagro. Quince años después de la noche del tejado, los cuadros habían sobrevivido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 17 de abril de 2019, los dos cuadros volvieron a colgar en el museo de Ámsterdam. Durham y Bieslijn no dijeron nada: seguían negando su participación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No sabemos si eran los autores, ni cómo llegó una pieza robada en Holanda a manos de la Camorra. Lo que sabemos es lo que dijo el tribunal. Y lo que cuelga hoy en una pared de Ámsterdam."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo del Museo Van Gogh. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "BORRADOR"
+}
