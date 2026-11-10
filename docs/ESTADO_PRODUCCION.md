@@ -24,7 +24,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
 | 04 | 23/23 ✓ | en marcha | — |
 | 07 | 26/26 ✓ | en marcha | — |
-| 08 | 26/26 ✓ | en marcha | — |
+| 08 | 26/26 ✓ | ✓ verificado (cambiar el 13/8: Garzón tiene juicio abierto, entra Macarthur) | — |
 | 12 | 25/25 ✓ | en marcha | — |
 | 06 | en marcha | — | — |
 
