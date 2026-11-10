@@ -34,7 +34,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un coche blindado, pesado, volando por encima de un tejado. Eso no es un accidente ni un atentado improvisado. Eso es una obra de ingeniería, y alguien llevaba meses trabajando en ella."
+          "texto": "Primera nota. Un coche pesado, volando por encima de un tejado. Eso no es un accidente ni un atentado improvisado. Eso es una obra de ingeniería, y alguien llevaba meses trabajando en ella."
         },
         {
           "voz": "ximena",
@@ -54,7 +54,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "La policía de la época tenía otra explicación para los vecinos: unas obras. Hoy sabemos que bajo ellos había un túnel que cruzaba la calle."
+          "texto": "Los vecinos creían que eran unas obras. Hoy sabemos que bajo ellos había un túnel que cruzaba la calle."
         },
         {
           "voz": "ximena",
@@ -90,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "También el almirante tenía familia: casado, con cinco hijos. Aquel día murió a los setenta años."
+          "texto": "También el almirante tenía familia: casado, con cinco hijos. Aquel día murió a los sesenta y nueve años."
         },
         {
           "voz": "alvaro",
@@ -107,5 +107,5 @@
       ]
     }
   ],
-  "nota_revision": "Explosivo: ocho kilos de goma-2 (EFE) o cincuenta de dinamita (El Independiente): no se da cifra. Hora: 9:27 (El Independiente) o hacia las 9:30: el guion dice «hacia las nueve y media». Altura del vuelo del coche: 20 m (EFE) o 35-40 m (El Independiente): no se da; solo «por encima de un edificio». Composición del comando: EFE nombra a Ezkerra, Wilson y Argala; Fernández Soldevilla y Wikipedia, otros: no se nombra a nadie. Amnistía de 1977: Wikipedia y Onda Vasca (fuente menos sólida); EFE confirma solo que nadie fue juzgado; el guion dice «según varias fuentes». Teorías sobre quién más se beneficiaba (Cerdán, Villar, vía EFE) se atribuyen y se contrapone la tesis de Fernández Soldevilla (el sumario basta para explicar los hechos); no se afirma nada sobre implicación de terceros. Edades y familias de las víctimas: Fernández Soldevilla (The Objective). Siete heridos, entre ellos dos niñas: The Objective. Se evitan detalles gráficos."
+  "nota_revision": "Explosivo: ocho kilos de goma-2 (EFE) o cincuenta de dinamita (El Independiente): no se da cifra. Hora: 9:27 (El Independiente) o hacia las 9:30: el guion dice «hacia las nueve y media». Altura del vuelo del coche: 20 m (EFE) o 35-40 m (El Independiente): no se da; solo «por encima de un edificio». Composición del comando: EFE nombra a Ezkerra, Wilson y Argala; Fernández Soldevilla y Wikipedia, otros: no se nombra a nadie. Amnistía de 1977: Wikipedia y Onda Vasca (fuente menos sólida); EFE confirma solo que nadie fue juzgado; el guion dice «según varias fuentes». Teorías sobre quién más se beneficiaba (Cerdán, Villar, vía EFE) se atribuyen y se contrapone la tesis de Fernández Soldevilla (el sumario basta para explicar los hechos); no se afirma nada sobre implicación de terceros. Edades y familias de las víctimas: Fernández Soldevilla (The Objective). Siete heridos, entre ellos dos niñas: The Objective. Se evitan detalles gráficos. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

@@ -51,11 +51,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Los rumores existen. Lo que importa es qué hace la justicia con ellos. En julio de 1949 se exhumó el cuerpo de Léon, y se encontró arsénico. Marie fue detenida el 21 de ese mes."
+          "texto": "Los rumores existen. Lo que importa es qué hace la justicia con ellos. En julio de 1949 se exhumó el cuerpo de Léon, y se encontró arsénico. Marie fue detenida el 21 de ese mes, y siempre proclamó su inocencia."
         },
         {
           "voz": "ximena",
-          "texto": "Después se exhumaron otros cuerpos de familiares y conocidos. El perito, un toxicólogo de Marsella, Georges Béroud, informó de arsénico en todos. Y todos habían dejado alguna herencia a Marie."
+          "texto": "Después se exhumaron otros cuerpos de familiares y conocidos. El perito, un toxicólogo de Marsella, Georges Béroud, informó de arsénico en todos. Y, según la acusación, todos habían dejado alguna herencia a Marie."
         },
         {
           "voz": "ximena",
@@ -71,7 +71,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Durante ese proceso, informantes de la policía aseguraron que ella pensaba contratar a delincuentes contra sus vecinos. Los expertos, mientras tanto, seguían sin ponerse de acuerdo, y el juez nombró a unos peritos de rango superior para zanjarlo."
+          "texto": "Durante ese proceso, los expertos seguían sin ponerse de acuerdo, y el juez nombró a unos peritos de rango superior para zanjarlo."
         },
         {
           "voz": "alvaro",
@@ -91,7 +91,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Léelo despacio. Absuelta. No hubo un culpable alternativo, ni se demostró que se hubiera cometido ningún crimen. Se hizo lo que debe hacer un tribunal: no condenar sin pruebas."
+          "texto": "Léelo despacio. Absuelta. Esa es la palabra que cierra el caso. No hubo un culpable alternativo, ni se demostró que se hubiera cometido ningún crimen. Se hizo lo que debe hacer un tribunal: no condenar sin pruebas."
         },
         {
           "voz": "ximena",
@@ -112,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Muerte de Léon: Time la sitúa en 1948 y Wikipedia en francés el 25 de octubre de 1947; el guion no da año. Número de supuestas víctimas: Time dice 13 en la acusación inicial y 11 en Poitiers; Wikipedia, doce; el guion dice «una docena» y «tres» en el tercer juicio (Time). La votación de siete contra cinco solo la da Wikipedia en francés: el guion dice solo que el jurado la absolvió. El detalle del cementerio (el guarda cultivaba patatas y usaba abono con arsénico) sale de Time; Wikipedia habla de posible contaminación posterior del suelo y tratamientos químicos. Se dice como argumento de la defensa. Que Marie Besnard estaba en el banquillo por cinco años de prisión preventiva sale de la ficha («casi cinco años»); Time dice que el Estado no la indemnizó. Los rumores iniciales (Louise Pintou, una funcionaria de correos) se dan atribuidos a los chismes locales. History.com la llama envenenadora: no se sigue. Se deja fuera el resto de la biografía y las memorias de 1962. No se pudo abrir France Télévisions ni History."
+  "nota_revision": "Muerte de Léon: Time la sitúa en 1948 y Wikipedia en francés el 25 de octubre de 1947; el guion no da año. Número de supuestas víctimas: Time dice 13 en la acusación inicial y 11 en Poitiers; Wikipedia, doce; el guion dice «una docena» y «tres» en el tercer juicio (Time). La votación de siete contra cinco solo la da Wikipedia en francés: el guion dice solo que el jurado la absolvió. El detalle del cementerio (el guarda cultivaba patatas y usaba abono con arsénico) sale de Time; Wikipedia habla de posible contaminación posterior del suelo y tratamientos químicos. Se dice como argumento de la defensa. Que Marie Besnard estaba en el banquillo por cinco años de prisión preventiva sale de la ficha («casi cinco años»); Time dice que el Estado no la indemnizó. Los rumores iniciales (Louise Pintou, una funcionaria de correos) se dan atribuidos a los chismes locales. History.com la llama envenenadora: no se sigue. Se deja fuera el resto de la biografía y las memorias de 1962. No se pudo abrir France Télévisions ni History. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

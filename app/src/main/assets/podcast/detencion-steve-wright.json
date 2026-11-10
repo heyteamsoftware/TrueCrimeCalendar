@@ -13,9 +13,7 @@
     "Tania Nicol": "Tánia Níkol",
     "Anneli Alderton": "Ánneli Ólderton",
     "Paula Clennell": "Pola Clénel",
-    "Annette Nicholls": "Anét Níkols",
-    "Trimley": "Trímli",
-    "Tom Stephens": "Tom Estívens"
+    "Annette Nicholls": "Anét Níkols"
   },
   "cintas": [
     {
@@ -45,7 +43,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía de Suffolk investigaba las muertes de mujeres de esa zona, cuyos cuerpos habían sido dejados en el campo. Los hallazgos se repartían a lo largo de la carretera entre Ipswich y Felixstowe, donde había tres de los cuerpos."
+          "texto": "La policía de Suffolk investigaba las muertes de mujeres de esa zona, cuyos cuerpos habían sido dejados en el campo. Los cuerpos aparecieron en el campo, en las afueras de la ciudad."
         },
         {
           "voz": "alvaro",
@@ -53,7 +51,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El lunes 18 de diciembre, la policía arrestó a un hombre de treinta y siete años, Tom Stephens, vecino de Trimley St. Martin. Quedó en libertad bajo fianza mientras seguían las investigaciones."
+          "texto": "El lunes 18 de diciembre, la policía arrestó a un hombre de treinta y siete años. Quedó en libertad bajo fianza mientras seguían las investigaciones."
         },
         {
           "voz": "alvaro",
@@ -110,5 +108,5 @@
       ]
     }
   ],
-  "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. Las fuentes de 2006 hablan de «prostitutas»; se usa «mujeres que ejercían la prostitución». La detención del 19 de diciembre se deduce de AP («el martes»). La acusación fue el jueves 21 (AP). Tom Stephens, detenido y liberado bajo fianza, se nombra solo como detenido que quedó en libertad, sin atribuirle nada; si se prefiere, quitarlo. No se menciona el coche concreto ni detalles de los hallazgos de los cuerpos. Sentencia de 2026: CPS y PA coinciden (perpetua con mínimo de 40 años). No se pudieron abrir el Guardian ni la BBC."
+  "nota_revision": "La víctima de 1999 tenía 17 años y el caso es de hace menos de 30: no se la nombra. Las fuentes de 2006 hablan de «prostitutas»; se usa «mujeres que ejercían la prostitución». La detención del 19 de diciembre se deduce de AP («el martes»). La acusación fue el jueves 21 (AP). Tom Stephens, detenido y liberado bajo fianza, se nombra solo como detenido que quedó en libertad, sin atribuirle nada; si se prefiere, quitarlo. No se menciona el coche concreto ni detalles de los hallazgos de los cuerpos. Sentencia de 2026: CPS y PA coinciden (perpetua con mínimo de 40 años). No se pudieron abrir el Guardian ni la BBC. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

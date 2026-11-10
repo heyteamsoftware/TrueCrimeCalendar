@@ -34,7 +34,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un contrato sin renovar, una huelga anunciada para la medianoche y tres trabajadores que deciden presionar a la dirección. No querían matar a casi cien personas: querían dañar el hotel. Pero hay actos que no se pueden medir."
+          "texto": "Primera nota. Un contrato sin renovar, una huelga anunciada para la medianoche y tres trabajadores que deciden presionar a la dirección. Según su versión, querían presionar a la dirección, no matar a casi cien personas. Pero hay actos que no se pueden medir."
         },
         {
           "voz": "ximena",
@@ -62,7 +62,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Eran turistas, familias enteras, y también trabajadores. Un joven socorrista de veintidós años perdió ese día a su madre, a su abuela, a su hermano y a su tío."
+          "texto": "Eran turistas, familias enteras, y también trabajadores. Muchas familias perdieron a varios de los suyos esa misma tarde."
         },
         {
           "voz": "alvaro",
@@ -94,7 +94,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Después del incendio, Puerto Rico obligó a los hoteles a instalar rociadores y el Congreso de Estados Unidos debatió exigirlos en todo el país."
+          "texto": "Después del incendio, la seguridad contra incendios en los hoteles pasó a exigirse mucho más."
         },
         {
           "voz": "alvaro",
@@ -115,5 +115,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: UPI (1987), EBSCO y NotiCel (2019). Discrepancias: hora (15:15 UPI, 15:30 EBSCO, 14:00 NotiCel; el guion dice 15:15 o 15:30); muertos 97 (UPI, EBSCO) frente a 96/98 (otras, y NotiCel se contradice); puertas cerradas con cadena solo en EBSCO (atribuido en el guion); NotiCel dice que los culpables eran dirigentes sindicales, lo que contradice a UPI (sin vínculos con el sindicato): se sigue UPI. UPI sitúa el casino un piso por encima del fuego y EBSCO dice que ambos estaban en la segunda planta: no se especifica. Escudero Aponte: resultado del juicio en Puerto Rico no encontrado. Indemnizaciones de 240 millones solo de NotiCel. No se nombra a víctimas."
+  "nota_revision": "Fuentes abiertas: UPI (1987), EBSCO y NotiCel (2019). Discrepancias: hora (15:15 UPI, 15:30 EBSCO, 14:00 NotiCel; el guion dice 15:15 o 15:30); muertos 97 (UPI, EBSCO) frente a 96/98 (otras, y NotiCel se contradice); puertas cerradas con cadena solo en EBSCO (atribuido en el guion); NotiCel dice que los culpables eran dirigentes sindicales, lo que contradice a UPI (sin vínculos con el sindicato): se sigue UPI. UPI sitúa el casino un piso por encima del fuego y EBSCO dice que ambos estaban en la segunda planta: no se especifica. Escudero Aponte: resultado del juicio en Puerto Rico no encontrado. Indemnizaciones de 240 millones solo de NotiCel. No se nombra a víctimas. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

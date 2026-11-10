@@ -44,11 +44,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Interpretaba un papel en la telenovela De Corpo e Alma, escrita por su madre. Ese día había salido de una grabación."
+          "texto": "Interpretaba un papel en la telenovela De Corpo e Alma, escrita por su madre. Ese día había salido de una grabación de la serie."
         },
         {
           "voz": "ximena",
-          "texto": "Su compañero de reparto en la serie era Guilherme de Pádua. Según la reconstrucción de la prensa brasileña, al terminar el trabajo se acercó a ella, la obligó a subir a un coche y su esposa, Paula Thomaz, condujo hasta el descampado."
+          "texto": "Su compañero de reparto en la serie era Guilherme de Pádua. Según la reconstrucción de la prensa brasileña, al terminar el trabajo la interceptaron él y su esposa, Paula Thomaz, en un descampado."
         },
         {
           "voz": "alvaro",
@@ -84,7 +84,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Ninguno cumplió la pena entera. Ambos salieron en 1999. Pádua estuvo en prisión unos seis años y nueve meses. Para la familia, eso es lo difícil de entender."
+          "texto": "Ninguno cumplió la pena entera. Ambos salieron en 1999. Pádua, según la prensa, estuvo en prisión unos seis años. Para la familia, eso es lo difícil de entender."
         },
         {
           "voz": "ximena",
@@ -92,7 +92,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1994 se aprobó la ley ocho mil novecientos treinta, que incluyó el homicidio cualificado entre esos delitos, con condiciones más duras para la libertad bajo fianza y la progresión de grado. En 2006, el Supremo prohibió endurecer esta última."
+          "texto": "En 1994 se aprobó la ley ocho mil novecientos treinta, que incluyó el homicidio cualificado entre esos delitos, con condiciones más duras para la libertad bajo fianza y la progresión de grado. En 2006, el Supremo declaró inconstitucional prohibir esa progresión en estos delitos."
         },
         {
           "voz": "alvaro",
@@ -108,7 +108,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Daniella no fue un personaje. Fue una joven de veintidós años que volvía de trabajar."
+          "texto": "Daniella no fue un personaje de ficción. Fue una joven de veintidós años que volvía de trabajar."
         },
         {
           "voz": "ximena",
@@ -117,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: CNN Brasil (2025), Observador (2022) y Wikipedia en portugués (arresto, confesión, campaña y ley 8.930/1994, que no están en las otras dos). Penas: 19 años (CNN), 19 años y medio (Observador), 20 (Metrópoles, según la ficha); el guion dice «unos diecinueve» y 18 y medio para Thomaz. Observador dice que el cuerpo apareció en el monte y que el arma nunca se encontró, y habla de puñal; CNN dice otra cosa según la ficha: el guion no nombra arma. Móviles: envidia/papel (fiscalía, CNN) y celos de Thomaz (Observador): atribuidos. CNN Brasil dice que Pádua murió en 2023 (error; Observador y Metrópoles: 6/11/2022). La ley de 1994 y las firmas solo salen de Wikipedia; el Supremo de 2006 también (Wikipedia). La profesión del testigo (abogado según Wikipedia) no se menciona. «Hallado esa misma noche» y «llegó el 29 por la mañana» son de Observador (28/12) y Wikipedia. Víctima adulta, nombrada; familia pública."
+  "nota_revision": "Fuentes abiertas: CNN Brasil (2025), Observador (2022) y Wikipedia en portugués (arresto, confesión, campaña y ley 8.930/1994, que no están en las otras dos). Penas: 19 años (CNN), 19 años y medio (Observador), 20 (Metrópoles, según la ficha); el guion dice «unos diecinueve» y 18 y medio para Thomaz. Observador dice que el cuerpo apareció en el monte y que el arma nunca se encontró, y habla de puñal; CNN dice otra cosa según la ficha: el guion no nombra arma. Móviles: envidia/papel (fiscalía, CNN) y celos de Thomaz (Observador): atribuidos. CNN Brasil dice que Pádua murió en 2023 (error; Observador y Metrópoles: 6/11/2022). La ley de 1994 y las firmas solo salen de Wikipedia; el Supremo de 2006 también (Wikipedia). La profesión del testigo (abogado según Wikipedia) no se menciona. «Hallado esa misma noche» y «llegó el 29 por la mañana» son de Observador (28/12) y Wikipedia. Víctima adulta, nombrada; familia pública. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

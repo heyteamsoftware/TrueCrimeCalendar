@@ -62,7 +62,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Quienes lo hicieron eran anarquistas ilegalistas: creían que robar a los ricos era una forma legítima de rebelión individual. Octave Garnier disparó, Raymond Callemin cortó la correa de la bolsa y Jules Bonnot conducía."
+          "texto": "Quienes lo hicieron eran anarquistas ilegalistas: creían que robar a los ricos era una forma legítima de rebelión individual. Según las reconstrucciones habituales, Octave Garnier disparó, Raymond Callemin cortó la correa de la bolsa y Jules Bonnot conducía."
         },
         {
           "voz": "alvaro",
@@ -78,7 +78,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en cómo se resolvió: con identificaciones, un confidente y huellas dactilares. La oficina de Bertillon ya las cotejaba. Garnier llegó a enviar a la policía una carta burlona, y llevaba su huella."
+          "texto": "Fíjate en cómo se resolvió: con identificaciones, un confidente y huellas dactilares. La oficina de Bertillon ya las cotejaba. Garnier llegó a enviar a la policía una carta burlona."
         },
         {
           "voz": "ximena",
@@ -90,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Garnier y otro compañero resistieron en una villa de Nogent-sur-Marne el 13 de mayo. Tras unas siete horas, la policía usó explosivos. Los dos murieron."
+          "texto": "Garnier y otro compañero resistieron en una villa de Nogent-sur-Marne en mayo. Tras unas siete horas, la policía usó explosivos. Los dos murieron."
         },
         {
           "voz": "alvaro",
@@ -102,7 +102,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Callemin, Soudy y Monier fueron guillotinados en la prisión de la Santé el 21 de abril de 1913. Dieudonné fue indultado."
+          "texto": "Callemin, Soudy y Monier fueron guillotinados en la prisión de la Santé el 21 de abril de 1913. A Dieudonné le conmutaron la pena."
         },
         {
           "voz": "alvaro",
@@ -127,5 +127,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Criminocorpus (Renneville) y la crónica de Méric (traducción de Abidor). Quién disparó: Garnier (Renneville, Steiner); Callemin se lo atribuyó en sus memorias (nota de la ficha): atribuido. Número de la calle no usado. Caby: Méric dice que quedó grave y su resumen lo describe como muerto; la ficha y Criminocorpus omiten su muerte; se sigue la ficha (sobrevivió). Botín: Méric habla de 318.772 francos en títulos y 5.266 en monedas; el guion dice unos cinco mil francos en monedas. Dieudonné: Criminocorpus dice que fue identificado erróneamente (y campañas de Albert Londres); su participación en el asalto se discute: no se afirma ni se niega. Algunas frases del guion son síntesis o conclusión del guionista, no de fuentes: quién disparó (Garnier según Renneville y Steiner, que no están abiertas aquí; memorias de Callemin), la mención a canciones y películas (Criminocorpus). Ejecuciones del 21 de abril y juicio: Criminocorpus. Pronunciaciones a oído."
+  "nota_revision": "Fuentes abiertas: Criminocorpus (Renneville) y la crónica de Méric (traducción de Abidor). Quién disparó: Garnier (Renneville, Steiner); Callemin se lo atribuyó en sus memorias (nota de la ficha): atribuido. Número de la calle no usado. Caby: Méric dice que quedó grave y su resumen lo describe como muerto; la ficha y Criminocorpus omiten su muerte; se sigue la ficha (sobrevivió). Botín: Méric habla de 318.772 francos en títulos y 5.266 en monedas; el guion dice unos cinco mil francos en monedas. Dieudonné: Criminocorpus dice que fue identificado erróneamente (y campañas de Albert Londres); su participación en el asalto se discute: no se afirma ni se niega. Algunas frases del guion son síntesis o conclusión del guionista, no de fuentes: quién disparó (Garnier según Renneville y Steiner, que no están abiertas aquí; memorias de Callemin), la mención a canciones y películas (Criminocorpus). Ejecuciones del 21 de abril y juicio: Criminocorpus. Pronunciaciones a oído. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

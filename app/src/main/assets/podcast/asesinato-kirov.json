@@ -8,8 +8,14 @@
     "Smolny": "Smólni",
     "Leningrado": "Leningrádo",
     "Stalin": "Estálin",
-    "Zinóviev": "Zinóviev",
-    "Milda Draule": "Milda Dráule"
+    "Zinóviev": "Zinóvief",
+    "Milda Draule": "Milda Dráule",
+    "NKVD": "Ene Ká Ube Dé",
+    "Politburó": "Politburó",
+    "Siegelbaum": "Sígelbaum",
+    "Rodina": "Ródina",
+    "Kámenev": "Kámeniev",
+    "Kulisher": "Kúlisher"
   },
   "cintas": [
     {
@@ -51,7 +57,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Esa misma tarde fue la primera persona interrogada. Nikoláyev, al principio, apenas podía hablar. Esa noche empezó a declarar y registraron su casa."
+          "texto": "Nikoláyev, al principio, apenas podía hablar. Esa misma noche empezó a declarar y registraron su casa."
         },
         {
           "voz": "ximena",
@@ -128,5 +134,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Siegelbaum (MSU), Rodina 2005 (Museo Kírov) y ficha. Se omite, por no confirmarse en las fuentes abiertas, que Nikoláyev hubiera sido detenido semanas antes con el arma en una cartera (dato de la ficha, procedente de Wikipedia). Se omiten la hipótesis personal (celos) de la reexaminación forense de 2004, por ser discutida y no tocar a las víctimas, y los nombres de escoltas. La comisión del Politburó de 1989 y las del periodo 1956-1989 se resumen sin cifrar su número exacto. Fecha de ejecución de Draule/Kulisher: 10 de marzo de 1935 según el Museo Kírov."
+  "nota_revision": "Fuentes abiertas: Siegelbaum (MSU), Rodina 2005 (Museo Kírov) y ficha. Se omite, por no confirmarse en las fuentes abiertas, que Nikoláyev hubiera sido detenido semanas antes con el arma en una cartera (dato de la ficha, procedente de Wikipedia). Se omiten la hipótesis personal (celos) de la reexaminación forense de 2004, por ser discutida y no tocar a las víctimas, y los nombres de escoltas. La comisión del Politburó de 1989 y las del periodo 1956-1989 se resumen sin cifrar su número exacto. Fecha de ejecución de Draule/Kulisher: 10 de marzo de 1935 según el Museo Kírov. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }

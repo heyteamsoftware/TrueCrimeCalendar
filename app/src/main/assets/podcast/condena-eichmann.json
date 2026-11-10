@@ -42,7 +42,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Eichmann había sido oficial de las SS. Dirigió desde Berlín la organización de los transportes con los que se deportó a más de un millón y medio de judíos hacia guetos y campos de exterminio."
+          "texto": "Eichmann había sido oficial de las SS. Dirigió desde Berlín la organización de los transportes con los que se deportó a millones de judíos hacia guetos y campos de exterminio."
         },
         {
           "voz": "ximena",
@@ -66,7 +66,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Durante cuatro meses declararon testigos que contaron lo que habían visto y sufrido. Entre ellos hubo combatientes de los guetos y fotógrafos. El juicio se retransmitió por televisión y el mundo lo siguió."
+          "texto": "Durante cuatro meses declararon testigos que contaron lo que habían visto y sufrido. Entre ellos hubo supervivientes y antiguos combatientes de los guetos. El juicio se retransmitió por televisión y el mundo lo siguió."
         },
         {
           "voz": "alvaro",
@@ -78,7 +78,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en lo que admite: reconoció que organizó los transportes de millones de personas hacia la muerte. Y en lo que niega: sentirse culpable. Es la distancia entre un hecho y una responsabilidad."
+          "texto": "Fíjate en lo que admite: reconoció que organizó los transportes. Y en lo que niega: sentirse culpable. Es la distancia entre un hecho y una responsabilidad."
         },
         {
           "voz": "ximena",
@@ -98,7 +98,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La filósofa Hannah Arendt asistió al proceso y escribió sobre lo que llamó la banalidad del mal. Sigue debatiéndose hoy. Pero el proceso tuvo otro efecto en Israel: muchos supervivientes que habían callado se atrevieron a contar su historia."
+          "texto": "La filósofa Hannah Arendt asistió al proceso y escribió sobre lo que llamó la banalidad del mal. Sigue debatiéndose hoy, y no todos los historiadores la comparten. Pero el proceso tuvo otro efecto en Israel: muchos supervivientes que habían callado se atrevieron a contar su historia."
         },
         {
           "voz": "alvaro",
@@ -111,5 +111,5 @@
       ]
     }
   ],
-  "nota_revision": "Veredicto: USHMM lo sitúa el 11 y 12 de diciembre, AFP el 15; el guion dice que el tribunal lo declaró culpable y lo condenó a muerte el 15 de diciembre (la sentencia es del 15 en todas las fuentes). Captura: 11 de mayo (Wikipedia) o 20 de mayo (USHMM, día del vuelo); el guion dice solo «mayo de 1960». Ejecución: 31 de mayo de 1962 (AFP) o 1 de junio (USHMM); el guion dice «en la noche entre el 31 de mayo y el 1 de junio». Número de testigos: 111 (AFP); se dice «más de cien». No se dice que fuera la única ejecución judicial de Israel (la ficha lo retiró). La frase de Eichmann sobre su responsabilidad (carta de indulto) se cita con la fuente (AFP). La de «pequeño engranaje» (USHMM) se cita atribuida. Sin detalles gráficos del Holocausto. No se pudo abrir Yad Vashem."
+  "nota_revision": "Veredicto: USHMM lo sitúa el 11 y 12 de diciembre, AFP el 15; el guion dice que el tribunal lo declaró culpable y lo condenó a muerte el 15 de diciembre (la sentencia es del 15 en todas las fuentes). Captura: 11 de mayo (Wikipedia) o 20 de mayo (USHMM, día del vuelo); el guion dice solo «mayo de 1960». Ejecución: 31 de mayo de 1962 (AFP) o 1 de junio (USHMM); el guion dice «en la noche entre el 31 de mayo y el 1 de junio». Número de testigos: 111 (AFP); se dice «más de cien». No se dice que fuera la única ejecución judicial de Israel (la ficha lo retiró). La frase de Eichmann sobre su responsabilidad (carta de indulto) se cita con la fuente (AFP). La de «pequeño engranaje» (USHMM) se cita atribuida. Sin detalles gráficos del Holocausto. No se pudo abrir Yad Vashem. VERIFICACIÓN nuevos-diciembre: revisado con fichas y fuentes abiertas; ver docs/revision_guiones/nuevos-diciembre.md."
 }
