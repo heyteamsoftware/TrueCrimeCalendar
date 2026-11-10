@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Myra Hindley», con sus referencias a la BBC, The Guardian y The Telegraph",
+    "url": "https://en.wikipedia.org/wiki/Myra_Hindley",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "The Guardian: «Myra Hindley» (obituario, Peter Stanford, 16 de noviembre de 2002)",
+    "url": "https://www.theguardian.com/news/2002/nov/16/guardianobituaries.ukcrime",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC News: «Obituary: Myra Hindley» (15 de noviembre de 2002)",
+    "url": "http://news.bbc.co.uk/1/hi/england/452614.stm",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Telegraph: «Myra Hindley, the Moors monster, dies after 36 years in jail» (16 de noviembre de 2002)",
+    "url": "https://www.telegraph.co.uk/news/uknews/3304454/Myra-Hindley-the-Moors-monster-dies-after-36-years-in-jail.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC On This Day: «1966: Moors murderers jailed for life» (6 de mayo de 1966)",
+    "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/may/6/newsid_2512000/2512119.stm",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC On This Day: «1987: Moors murderer claims more killings» (4 de agosto de 1987)",
+    "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/august/4/newsid_2491000/2491917.stm",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC News: «Moors Murders: No remains yet found in search for Keith Bennett» (1 de octubre de 2022)",
+    "url": "https://www.bbc.com/news/uk-england-manchester-63101655",
+    "tipo": "hemeroteca"
+  }
+]

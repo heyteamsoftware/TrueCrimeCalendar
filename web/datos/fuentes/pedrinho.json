@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Pedro Rodrigues Filho», con sus referencias a Folha de S.Paulo y G1",
+    "url": "https://en.wikipedia.org/wiki/Pedro_Rodrigues_Filho",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "G1 Mogi das Cruzes e Suzano: «Assassino em série conhecido como Pedrinho Matador é morto na Grande SP, diz PM» (5 de marzo de 2023)",
+    "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2023/03/05/homem-conhecido-como-pedrinho-matador-e-assassinado-na-grande-sp-diz-pm.ghtml",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "G1: «Corpo de Pedrinho Matador é enterrado em Mogi das Cruzes, na Grande SP» (6 de marzo de 2023)",
+    "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2023/03/06/corpo-de-pedrinho-matador-e-enterrado-em-mogi-das-cruzes-na-grande-sp.ghtml",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Folha de S.Paulo: «Maior serial killer do Brasil vira comentarista de crimes e faz sucesso no YouTube» (diciembre de 2018)",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2018/12/maior-serial-killer-do-brasil-vira-comentarista-de-crimes-e-faz-sucesso-no-youtube.shtml",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "UOL: «'Meu nome é Pedrinho Matador': escritora descreve serial killer morto em SP» (Ilana Casoy, 7 de marzo de 2023)",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/03/07/meu-nome-e-pedrinho-matador-escritora-descreve-serial-killer-morto-em-sp.htm",
+    "tipo": "hemeroteca"
+  }
+]

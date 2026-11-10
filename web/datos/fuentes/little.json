@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Samuel Little», con sus referencias al FBI, The New York Times y Los Angeles Times",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Little",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "FBI: «Samuel Little: Most Prolific Serial Killer in U.S. History» (6 de octubre de 2019, según la URL)",
+    "url": "https://www.fbi.gov/news/stories/samuel-little-most-prolific-serial-killer-in-us-history-100619",
+    "tipo": "policial"
+  },
+  {
+    "titulo": "Los Angeles Times / Associated Press: «Samuel Little, the man called most prolific serial killer in U.S. history, dies at 80» (30 de diciembre de 2020)",
+    "url": "https://www.latimes.com/obituaries/story/2020-12-30/samuel-little-most-prolific-serial-killer-in-us-history-dies",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The New York Times (26 de noviembre de 2018): reportaje sobre las confesiones de Samuel Little (referencia citada por Wikipedia)",
+    "url": "https://www.nytimes.com/2018/11/26/us/samuel-little-serial-killer-murderer.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "ABC7 Los Ángeles: «Serial killer gets life in prison for 3 South LA killings in 1980s»",
+    "url": "https://abc7.com/post/serial-strangler-gets-life-for-3-murders-in-1980s/324467/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "CBS Los Angeles: «Man, 74, Found Guilty In Cold Case Murders Of 3 Women» (septiembre de 2014)",
+    "url": "https://www.cbsnews.com/amp/losangeles/news/man-74-found-guilty-in-cold-case-murders-of-3-women",
+    "tipo": "hemeroteca"
+  }
+]

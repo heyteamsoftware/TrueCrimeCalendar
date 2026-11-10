@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Genene Jones», con sus referencias a The New York Times, Texas Monthly, AP y San Antonio Express-News",
+    "url": "https://en.wikipedia.org/wiki/Genene_Jones",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "BBC News: «Genene Jones, former Texas nurse, charged again with baby murder» (27 de mayo de 2017)",
+    "url": "https://www.bbc.com/news/world-us-canada-40067949",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "San Antonio Express-News: «Petti McClellan-Wiese, mother of Texas child killed by 'Angel of Death' nurse Genene Jones, dies at 64» (20 de junio de 2019)",
+    "url": "https://www.expressnews.com/news/local/article/Petti-McClellan-Wiese-mother-of-Texas-child-14024941.php",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The New York Times: «Nurse Gets a 99-Year Term» (15 de mayo de 1984)",
+    "url": "https://www.nytimes.com/1984/05/15/us/nurse-gets-a-99-year-term.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Texas Monthly: «The Death Shift» (agosto de 1983)",
+    "url": "https://www.texasmonthly.com/true-crime/the-death-shift-2/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "UPI: «Dr. Kathleen Holland testified Thursday that during the five...» (2 de febrero de 1984)",
+    "url": "https://www.upi.com/Archives/1984/02/02/Dr-Kathleen-Holland-testified-Thursday-that-during-the-five/7589444546000/",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "UPI: «Genene Jones: I didn't kill Chelsea» (18 de febrero de 1984)",
+    "url": "https://www.upi.com/Archives/1984/02/18/Genene-Jones-I-didnt-kill-Chelsea/5969445928400/",
+    "tipo": "hemeroteca"
+  }
+]

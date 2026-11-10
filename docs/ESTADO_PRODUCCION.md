@@ -25,7 +25,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 04 | 23/23 ✓ | ✓ verificado (8 correcciones) | — |
 | 07 | 26/26 ✓ | ✓ verificado (5 correcciones) | — |
 | 08 | 26/26 ✓ | ✓ verificado (13/8 cambiado a Macarthur) | — |
-| 12 | 25/25 ✓ | en marcha | — |
+| 12 | 25/25 ✓ | ✓ verificado (22 correcciones) | ✓ |
 | 06 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
@@ -114,3 +114,12 @@ Por petición del usuario, desde ahora los agentes de la producción usan el mod
 - 6 agentes con los guiones estrella que faltan (hechos: 33 de 100 más el piloto).
 
 Todo lo que ya estaba guardado y validado sigue en GitHub.
+
+## 10 de noviembre, tarde: fichas unidas
+
+- Los 12 meses están verificados y unidos en `web/datos/casos_nuevos.json` (277 casos nuevos, contando la Dalia Negra).
+- `node tools/validar_casos.js`: 277/277 correctas y 366/366 días cubiertos.
+- **Cuotas:** España e Hispanoamérica 31 % (mínimo 30 %), EE. UU. y Canadá 23 %, Asia, África y Oceanía 29 casos, antes de 1900 el 16 %.
+- Los vínculos entre meses de `docs/VINCULOS_PROPUESTOS.md` aún no están puestos.
+- Pendiente de decisión del usuario: las fechas de 7 casos estrella (`docs/DECISIONES_FECHAS_ESTRELLA.md`).
+- Siguiente fase: guiones de los 276 casos nuevos (una cinta cada uno), por mitades de mes.
