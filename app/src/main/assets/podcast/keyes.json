@@ -1,6 +1,6 @@
 {
   "id": "keyes",
-  "titulo": "Los escondites enterrados",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Israel Keyes": "Israel Kis",
@@ -8,107 +8,76 @@
     "Anchorage": "Ánkorich",
     "Samantha Koenig": "Samánza Kéinig",
     "Samantha": "Samánza",
+    "Tudor Road": "Túdor Roud",
+    "Common Grounds": "Cómon Gráunds",
     "Lufkin": "Láfkin",
+    "Bryan Henry": "Bráian Jénri",
     "Utah": "Iúta",
     "Washington": "Guáshinton",
+    "Matanuska": "Matanúska",
     "FBI": "efe be i",
     "Currier": "Kárrier",
     "Lorraine": "Lorréin",
-    "Essex": "Ésex"
+    "Essex": "Ésex",
+    "Eagle River": "Ígel Ríver",
+    "Blake Falls": "Bléik Fols",
+    "Jolene Goeden": "Yolín Góuden"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Marzo de 2012. Desde hace semanas, la policía de Anchorage, en Alaska, sigue el rastro de una tarjeta bancaria. Pertenece a Samantha Koenig, una joven de dieciocho años que desapareció el 1 de febrero del puesto de café donde trabajaba. Y alguien la está usando en cajeros de Arizona, Nuevo México y Texas, a miles de kilómetros."
+      "n": 1,
+      "titulo": "Un puesto de café en Tudor Road",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Israel Keyes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un puesto de café en Tudor Road." },
+        { "voz": "ximena", "texto": "Miércoles, 1 de febrero de 2012. Anchorage, Alaska. Son poco más de las ocho de la tarde. En Tudor Road, una caseta de café para coches, Common Grounds, está a punto de cerrar. Dentro trabaja sola una chica de dieciocho años: Samantha Koenig." },
+        { "voz": "ximena", "texto": "Un hombre con pasamontañas se acerca a la ventanilla y pide un café. Ella se lo prepara. Entonces él saca una pistola, entra en la caseta, le ata las manos y se la lleva hacia una camioneta aparcada al otro lado de la calle. La cámara de seguridad lo graba." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Lo había preparado. Descartó otros puestos de café y eligió ese porque cerraba más tarde. Quitó las matrículas a su camioneta. Y no conocía de nada a Samantha. Esa es la primera clave del caso: no hay ningún vínculo entre víctima y agresor del que tirar." },
+        { "voz": "ximena", "texto": "Esa noche, desde el teléfono de Samantha, salen mensajes que dicen que se va fuera el fin de semana. No es verdad. Su familia da la alarma." },
+        { "voz": "ximena", "texto": "Semanas después llega desde ese teléfono una exigencia de rescate: treinta mil dólares. Samantha ya había muerto. Su padre ingresa en la cuenta de su hija el dinero donado por vecinos para una recompensa." },
+        { "voz": "alvaro", "texto": "Aquí la investigación acierta. Ese dinero queda disponible y la cuenta se vigila. Si alguien usa la tarjeta, dejará rastro. Y lo deja: retiradas en Anchorage, y después en Arizona, Nuevo México y Texas. Una cámara de cajero capta al fondo el coche de alquiler: un Ford Focus blanco." },
+        { "voz": "ximena", "texto": "Martes, 13 de marzo de 2012. En Lufkin, Texas, un cabo de la patrulla de carreteras, Bryan Henry, para ese coche. El conductor lleva el teléfono y la tarjeta de Samantha. Es un contratista de Anchorage de treinta y cuatro años: Israel Keyes." },
+        { "voz": "ximena", "texto": "Keyes nació en Utah en 1978 y creció en una familia muy religiosa, aislada en los bosques del estado de Washington. Sirvió en el Ejército entre 1998 y 2001. En 2007 se instaló en Anchorage con su hija y montó una pequeña empresa de construcción." },
+        { "voz": "alvaro", "texto": "Para sus vecinos era un padre trabajador, aficionado a la pesca. A los investigadores les dijo que nadie sabía de verdad quién era, porque era, en sus palabras, «dos personas distintas»." },
+        { "voz": "ximena", "texto": "Primero da una explicación absurda: alguien le tiró la tarjeta y el teléfono por la ventanilla. Después confiesa que secuestró y mató a Samantha, y dice dónde buscarla. El 2 de abril, buzos del FBI recuperan sus restos en el lago Matanuska." },
+        { "voz": "ximena", "texto": "Entre abril y octubre, el FBI y la policía de Anchorage lo interrogan durante más de cuarenta horas. Él pone condiciones: que los detalles no lleguen a la prensa. Y habla, a su ritmo." },
+        { "voz": "ximena", "texto": "Así sale a la luz otro caso. En junio de 2011, en Essex, Vermont, un matrimonio había desaparecido de su casa de noche: Bill y Lorraine Currier. Keyes confiesa que los mató." },
+        { "voz": "alvaro", "texto": "Voló de Alaska a Chicago, alquiló un coche y condujo unos mil seiscientos kilómetros hasta Vermont. Buscó víctimas al azar. Según contó, eligió aquella casa porque le resultaba fácil entrar. Los Currier no habían hecho nada para cruzarse en su camino." },
+        { "voz": "ximena", "texto": "Se los llevó a una granja abandonada y allí los mató. Cuando los investigadores supieron dónde buscar, la granja ya estaba derribada. Sus cuerpos nunca se han encontrado." },
+        { "voz": "ximena", "texto": "Y aparece lo más inquietante del expediente. Keyes había enterrado por el país escondites con armas, dinero y material para deshacerse de cuerpos, por si algún día los necesitaba. El dinero salía, en parte, de atracos a bancos." },
+        { "voz": "alvaro", "texto": "Con esos escondites no tenía que subir a un avión con un arma ni pagar con tarjeta cerca del crimen. El FBI ha recuperado dos: uno en Eagle River, en Alaska, y otro junto al embalse de Blake Falls, en el estado de Nueva York. Él dio a entender que había más." },
+        { "voz": "ximena", "texto": "En mayo de 2012, en una vista en el juzgado de Anchorage, Keyes rompe los grilletes y salta la barandilla hacia el público. Lo reducen con una pistola eléctrica. En la sala están los padres de Samantha." },
+        { "voz": "ximena", "texto": "Keyes seguía hablando, a su manera. Insinuaba otros nombres, otros lugares. Pero antes de que acabara el año, en una celda de Anchorage, ocurrió algo que nadie esperaba. Lo cuenta la segunda cinta." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Alguien que, sin saberlo, estaba dejando por fin una pista."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El 13 de marzo, un agente detiene un coche de alquiler cerca de Lufkin, en Texas. Al volante va un contratista de Alaska de treinta y cuatro años. En el vehículo aparece la tarjeta de Samantha. Su nombre es Israel Keyes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Israel Keyes, el meticuloso asesino de los kits de entierro."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Keyes nació en Utah en 1978 y creció en una familia muy religiosa que vivía aislada, primero allí y después en el estado de Washington. Sirvió en el Ejército de Estados Unidos y, años más tarde, se instaló en Anchorage con su pareja y su hija. Allí montó una pequeña empresa de construcción."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para quienes lo rodeaban, era un padre trabajador y discreto, un hombre hábil con las manos que se ganaba la vida reformando casas. Nada en su vida diaria hacía sospechar lo que la investigación iba a descubrir."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Una cámara de seguridad había grabado cómo un hombre se llevaba a Samantha del puesto de café. Su familia, desesperada, había reunido dinero para una recompensa y lo había ingresado en la cuenta de la joven. Fue ese dinero el que Keyes retiró en su viaje hacia el sur."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué contó cuando lo detuvieron?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ya de vuelta en Alaska, confesó que había secuestrado y asesinado a Samantha, y ayudó a localizar su cuerpo en un lago al norte de Anchorage. Pero los interrogatorios no se quedaron ahí. Ante agentes del FBI y fiscales, Keyes empezó a hablar de otros crímenes, midiendo cada palabra."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así salió a la luz el asesinato del matrimonio Currier, Bill y Lorraine, en Essex, Vermont, en junio de 2011. Keyes había viajado hasta allí desde Alaska. No conocía de nada a sus víctimas. Las eligió al azar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En Vermont, la desaparición de los Currier llevaba casi un año sin explicación. La policía local no tenía sospechosos ni pistas firmes. Sus cuerpos nunca se han encontrado."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Al azar? ¿Y por qué tan lejos de su casa?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Precisamente para no dejar rastro. Ese era su método: elegir víctimas sin ninguna relación con él, en lugares lejanos, y prepararlo todo con años de antelación. Y así llegamos a lo que da nombre a este expediente."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Keyes enterraba en distintos puntos del país escondites con armas y dinero, que dejaba allí durante años por si algún día los necesitaba. Uno de ellos estaba en Vermont, y él mismo lo usó en el crimen de los Currier. Otro apareció en el estado de Nueva York."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una planificación que explica por qué nadie lo relacionó con nada durante tanto tiempo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Sin vínculo con las víctimas, sin un patrón geográfico y pagando casi siempre en efectivo, resultaba invisible para los métodos habituales. El FBI cree que mató al menos a once personas entre 2001 y 2012, aunque solo tres asesinatos se han podido confirmar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero ninguna de esas confesiones llegó a un juicio. El 2 de diciembre de 2012, Keyes se quitó la vida en su celda de Anchorage. El proceso por el caso de Samantha estaba previsto para el año siguiente."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y con él se fueron muchas de las respuestas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Demasiadas. No dejó nombres ni lugares de otras posibles víctimas. Muchas familias con seres queridos desaparecidos se quedaron sin saber si su caso estaba relacionado. Por eso el FBI publicó una cronología detallada de sus viajes y pidió ayuda a cualquiera que pudiera reconocer algo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy, el caso se estudia como ejemplo de un tipo de delincuente especialmente difícil de detectar: planificaba durante años, viajaba lejos y cuidaba cada detalle para no dejar huellas. El secuestro de Samantha, en su propia ciudad, rompía sus reglas. Y le costó caro."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y aun así, lo que lo delató fue algo sencillo: un rastro bancario y un control de carretera. A veces, la pieza que derriba la planificación más fría es un pequeño descuido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Detrás de este expediente quedan Samantha Koenig, Bill y Lorraine Currier, y un número desconocido de personas cuyas familias todavía esperan una respuesta."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Israel Keyes. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Once calaveras en una celda",
+      "tipo": "epilogo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Once calaveras en una celda." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Israel Keyes, el contratista de Anchorage, en Alaska, detenido en 2012 por el secuestro y asesinato de Samantha Koenig, una joven de dieciocho años." },
+        { "voz": "ximena", "texto": "Domingo, 2 de diciembre de 2012. A primera hora de la mañana, Keyes aparece muerto en su celda de la prisión de Anchorage. Estaba solo. Se había quitado la vida. Su juicio por el caso de Samantha iba a empezar en marzo de 2013." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Su muerte sorprendió a los que lo interrogaban: pocos días antes seguía hablando con ellos. Lo que pedía era claro. No quería juicios en varios estados ni publicidad. Quería la pena de muerte, y pronto. Al final ejerció el único control que le quedaba." },
+        { "voz": "ximena", "texto": "Bajo su cuerpo había unas hojas manuscritas, manchadas de sangre. El laboratorio del FBI las analizó y concluyó que no contenían ningún código ni ninguna pista sobre otras víctimas." },
+        { "voz": "ximena", "texto": "Y había algo más, hallado en la celda meses antes: unos dibujos hechos con su propia sangre. En once de ellos aparecen calaveras. El FBI los hizo públicos años después. Cree que cada calavera representa a una víctima." },
+        { "voz": "alvaro", "texto": "Once. Es la cifra que maneja el FBI, y sale de él mismo. Cuando le pedían un número, decía que eran menos de doce. Los agentes le hablaban de «sus once víctimas» y él no los corregía, cuando solía corregirlos en todo. Es una estimación, no una lista." },
+        { "voz": "ximena", "texto": "Solo tres asesinatos están confirmados: los de Samantha Koenig y el matrimonio Currier. Keyes admitió otros: cuatro personas en el estado de Washington, donde vivió entre 2001 y 2007, y una víctima en 2009 en la costa este, enterrada en el estado de Nueva York." },
+        { "voz": "ximena", "texto": "También dijo que el cuerpo de una de sus víctimas había aparecido, pero que su muerte se había considerado accidental. Nadie ha podido identificarla. Ni a ella ni a las demás." },
+        { "voz": "alvaro", "texto": "Ahí está el problema de este expediente. Keyes no seguía un patrón de víctima. Elegía al azar, lejos de casa, en parques, campings o caminos de montaña, y pagaba en efectivo. Sin relación con las víctimas y sin rastro de su paso, los métodos clásicos no encontraban nada que unir." },
+        { "voz": "ximena", "texto": "En agosto de 2013, el FBI publicó una cronología detallada de sus viajes desde 1997, con coches alquilados, vuelos y campings, y difundió vídeos de los interrogatorios. Pidió ayuda a cualquiera que recordara algo." },
+        { "voz": "ximena", "texto": "La agente del FBI Jolene Goeden, que lo interrogó, lo resumió así: aunque elegía a muchas víctimas al azar, cada crimen estaba planeado con enorme cuidado. Según ella, Keyes no mostró ningún remordimiento y les dijo que, de no haber sido detenido, habría seguido matando." },
+        { "voz": "alvaro", "texto": "Y sin embargo cayó. Anoto por qué. Durante años se impuso una regla: nunca actuar cerca de casa. Con Samantha la rompió. Lo hizo en su propia ciudad y, además, pidió un rescate. Ese rescate llevó a una cuenta vigilada, y la cuenta, a un control de carretera en Texas." },
+        { "voz": "alvaro", "texto": "La lección es incómoda. El criminal más cuidadoso de este archivo no cayó por un análisis de laboratorio, sino por pedir dinero y por un agente de carreteras atento. Sin aquel rescate, quizá seguiríamos sin saber su nombre." },
+        { "voz": "ximena", "texto": "En 2018, tras la batalla judicial de una periodista que escribía un libro sobre él, se hicieron públicas las grabaciones completas de los interrogatorios. En ellas, Keyes habla una y otra vez de su necesidad de control." },
+        { "voz": "ximena", "texto": "En Vermont, la fiscalía del condado dejó claro que la muerte de los Currier fue un acto de violencia al azar: nada de lo que hicieron en su vida contribuyó a ella. Keyes murió sin ser acusado formalmente de sus asesinatos. Sus cuerpos siguen sin aparecer." },
+        { "voz": "ximena", "texto": "Años después de su muerte, el FBI seguía considerando abiertos algunos aspectos del caso. Sus agentes repetían el objetivo: poner nombre a cada una de aquellas calaveras." },
+        { "voz": "alvaro", "texto": "Y conviene recordar a quién pertenece este expediente. No a él, que quiso evitar a toda costa la atención pública y hoy se estudia en todas partes." },
+        { "voz": "ximena", "texto": "Pertenece a Samantha Koenig, que tenía dieciocho años y trabajaba en un puesto de café de Anchorage. A Bill y Lorraine Currier, que dormían en su casa de Vermont. Y a las víctimas sin nombre que sus familias todavía esperan encontrar." },
+        { "voz": "ximena", "texto": "Fin del expediente de Israel Keyes. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias con el v2 y la ficha: 1) Víctimas: la ficha dice «3 (estimadas 11+)» y el v2 «al menos once»; el FBI habla de 11 en total («We believe there are 11 victims total»), deducido de que Keyes dijo que eran «menos de doce»; el guion dice «once» como estimación. 2) Fecha de la muerte: el v2 dice «el 2 de diciembre»; Wikipedia la sitúa en la noche del 1 de diciembre y el FBI y el Anchorage Daily News, el 2 (hallado muerto el domingo 2 por la mañana); el guion dice que «aparece muerto» el 2. 3) Escondites: el v2 dice que uno estaba en Vermont y otro en Nueva York; el FBI solo ha recuperado dos, en Eagle River (Alaska) y junto al embalse de Blake Falls (Nueva York); que en Vermont usó un escondite enterrado años antes lo recoge Wikipedia (con referencia a la prensa local), por eso el guion no lo afirma. 4) En la detención, según el comunicado de la fiscalía, el teléfono estaba en el coche y la tarjeta en la cartera de Keyes; el v2 decía que la tarjeta estaba en el vehículo. 5) Detenido en Texas el 13/3/2012 (no en abril, como dice un artículo del Anchorage Daily News de 2018). Comprobado: secuestro el 1/2/2012 hacia las 20:00 en Common Grounds (Tudor Road), con pasamontañas y pistola, grabado por la cámara; viaje al crucero al día siguiente; rescate de 30.000 dólares; recompensa ingresada por el padre; retiradas en Anchorage, Arizona, Nuevo México y Texas; Ford Focus blanco; cabo Bryan Henry y ranger Steve Rayburn en Lufkin; restos en el lago Matanuska el 2/4/2012; más de 40 horas de interrogatorios; intento de fuga del 23/5/2012; juicio previsto para marzo de 2013; los Currier desaparecieron el 8/6/2011 en Essex (Vermont), granja derribada y cuerpos no hallados; Keyes nunca fue acusado de su muerte; cronología del FBI (agosto de 2013); once calaveras dibujadas con sangre. Se ha dejado fuera, por no estar confirmado: la posible identificación de la víctima de 2009 (una mujer de Nueva Jersey que el FBI investigó) y los casos sospechosos sin vínculo probado. Respeto: no se describen la agresión sexual ni lo que hizo con el cuerpo de Samantha Koenig; no se nombra a la hija de Keyes. Citas: «dos personas distintas» (traducción de «I'm two different people», interrogatorio publicado por el FBI); «sus once víctimas» (agente Jolene Goeden, FBI)."
 }

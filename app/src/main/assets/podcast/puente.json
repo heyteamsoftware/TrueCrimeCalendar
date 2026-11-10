@@ -1,101 +1,77 @@
 {
   "id": "puente",
-  "titulo": "Un café y una huida",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Dorothea Puente": "Dorotía Puénte",
     "Dorothea": "Dorotía",
-    "F Street": "Ef Estrít"
+    "F Street": "Ef Estrít",
+    "Clarion": "Clárion",
+    "Stockton": "Stócton",
+    "Donna Johanson": "Dóna Yóanson",
+    "Monterey": "Monteréi",
+    "Chowchilla": "Chouchíla",
+    "Ruth Munroe": "Ruz Manró",
+    "Everson Gillmouth": "Éverson Gílmuz",
+    "Betty Palmer": "Béti Pálmer",
+    "Leona Carpenter": "Leóna Cárpenter",
+    "James Gallop": "Yeims Gálop",
+    "Vera Faye Martin": "Vera Fei Martin",
+    "Dorothy Miller": "Dóroti Míler",
+    "Benjamin Fink": "Bényamin Fink"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Sacramento, California, noviembre de 1988. En el jardín de una pensión, la policía acaba de desenterrar restos humanos. La dueña de la casa, una mujer de cincuenta y nueve años con aspecto de abuela entrañable, pide permiso para ir a tomar un café a un hotel cercano. Nadie se lo impide. No volverá."
+      "n": 1,
+      "titulo": "Un café en el hotel Clarion",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Dorothea Puente, la casera de Sacramento. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un café en el hotel Clarion." },
+        { "voz": "ximena", "texto": "Sábado, 12 de noviembre de 1988. Sacramento, California. En el jardín de una casa victoriana del número 1426 de F Street, la policía excava desde primera hora. Hay agentes, técnicos forenses y un antropólogo. El día anterior, en ese mismo jardín, aparecieron huesos." },
+        { "voz": "ximena", "texto": "La casera, Dorothea Puente, una mujer de cincuenta y nueve años y pelo blanco, manda llamar al detective John Cabrera. Le pregunta si está detenida. Él responde que no. Ella le dice que está nerviosa y que quiere ir a tomar un café al cercano hotel Clarion, con su sobrino." },
+        { "voz": "ximena", "texto": "Cabrera le dice que de acuerdo y la acompaña fuera de la finca. Siguen cavando. Unos veinte minutos después, el detective encuentra un cuerpo. Dorothea Puente no vuelve." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Es fácil juzgar a Cabrera desde aquí. Pero ella no estaba detenida. Había colaborado, había dejado cavar y había ido a comisaría a declarar. Podía irse. El error no fue de un hombre en una mañana. Venía de mucho antes." },
+        { "voz": "ximena", "texto": "Hay que volver atrás. En febrero de 1988 llega a la casa un inquilino, Bert Montoya, de cincuenta y un años. Ha pasado cinco años en un centro de desintoxicación, oye voces y tiene un diagnóstico de esquizofrenia. Puente pide ser la administradora de su prestación pública." },
+        { "voz": "ximena", "texto": "A finales de agosto, Montoya deja de verse. Dos trabajadores sociales que lo atienden preguntan por él en septiembre y octubre. Puente les dice que está en México, con su familia. Le dan un plazo: debe volver antes del 1 de noviembre para no perder su prestación." },
+        { "voz": "ximena", "texto": "Entonces, a la trabajadora social de Montoya la llama un hombre que dice ser su cuñado y que se lo ha llevado a Utah. La historia no se sostiene. Era, según se probó después, uno de los presos de un centro de reinserción a los que Puente pagaba por trabajar en su jardín. Ella se lo había pedido." },
+        { "voz": "alvaro", "texto": "Aquí destaca alguien. La trabajadora social escucha los mensajes, detecta las contradicciones y avisa a Puente de que va a llamar a la policía. Sin su insistencia, quizá esta caja estaría vacía. A veces la pieza clave es una funcionaria que no se conforma." },
+        { "voz": "ximena", "texto": "El 7 de noviembre, un policía se presenta en la casa. Puente le dice que Montoya ha vuelto de México y que su cuñado se lo ha llevado. Le anima a preguntar a los inquilinos. Uno de ellos repite la mentira que ella le había pedido, pero le enseña un papel donde ha escrito que está mintiendo." },
+        { "voz": "ximena", "texto": "El 11 de noviembre vuelven dos detectives con el agente de libertad condicional de Puente. Ella repite su historia. Les deja registrar la casa y cavar en el jardín. En su dormitorio aparece un frasco vacío con el nombre de otra mujer. En la tierra, huesos y un zapato. Llaman al forense." },
+        { "voz": "alvaro", "texto": "Ese agente de libertad condicional es una pieza importante. Puente tenía antecedentes. En 1982 fue condenada por drogar a personas mayores para robarles y por falsificación, y salió de prisión en 1985. Según el tribunal, el agente probablemente ni siquiera la conocía en persona antes de aquella visita." },
+        { "voz": "alvaro", "texto": "Y hay más. Según contaron los fiscales en el juicio, meses antes alguien había avisado a la policía de que Puente mataba a gente y la enterraba. El aviso se descartó porque venía de una persona con problemas de drogas y otros cargos pendientes." },
+        { "voz": "ximena", "texto": "Entre el 12 y el 14 de noviembre aparecen siete cuerpos enterrados en el jardín: bajo un cobertizo de metal, bajo un cenador, bajo una capa de cemento junto a unos rosales. Uno de ellos es el de Bert Montoya." },
+        { "voz": "ximena", "texto": "Muchos de esos inquilinos habían llegado derivados por programas sociales que buscaban casa para personas mayores sin hogar. Una de esas trabajadoras llevó a diecinueve personas a la casa entre 1987 y 1988. No sabía nada de los antecedentes de la casera." },
+        { "voz": "alvaro", "texto": "Ese es el agujero del sistema. La casera estaba en libertad condicional por drogar a personas mayores, y los servicios sociales le enviaban personas mayores. Nadie cruzó los dos datos. Mientras, ella cobraba sus prestaciones." },
+        { "voz": "ximena", "texto": "Aquel sábado, mientras la policía seguía cavando, Dorothea Puente ya estaba lejos de F Street. Adónde fue, cómo la encontraron y qué decidió la justicia lo cuenta la segunda cinta." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "¿La dejaron marcharse? ¿Así, sin más?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así, sin más. No estaba detenida y, en ese momento, los agentes no la consideraban sospechosa. Fue uno de los errores más comentados del caso. Mientras ella se alejaba, la policía siguió cavando. Al final, en aquel jardín aparecieron siete cuerpos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dorothea Puente, la casera asesina de Sacramento."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dorothea Puente nació en California en 1929. Tuvo una infancia muy dura: perdió pronto a sus padres y pasó parte de su niñez en un orfanato. De adulta tomó el apellido de uno de sus maridos y construyó una imagen pública de mujer generosa, dedicada a ayudar a los más necesitados."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero su historial contaba otra cosa. Acumulaba condenas por falsificación y fraude, y a principios de los años ochenta fue encarcelada por drogar y robar a personas mayores. Salió en libertad condicional con una prohibición clara: no podía trabajar con ancianos ni gestionar su dinero."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una prohibición que, por lo que vamos a ver, nadie hizo cumplir."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nadie. Desde la pensión de F Street, una casa victoriana de dos plantas, Puente acogía a ancianos, a personas con discapacidad y a otras con problemas de alcohol o sin hogar. Muchas llegaban derivadas por los propios servicios sociales, que la veían como una casera de confianza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Lo que nadie veía era lo que ocurría dentro. Puente drogaba a algunos de sus inquilinos con medicamentos, los enterraba en el jardín y seguía cobrando sus prestaciones públicas. A quien preguntaba, le daba explicaciones: que se habían mudado, que estaban de viaje con su familia."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cómo salió todo a la luz?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Gracias a una trabajadora social que no se conformó. Uno de los inquilinos, Bert Montoya, un hombre con discapacidad intelectual, había dejado de dar señales de vida. Puente ofrecía explicaciones que no encajaban. La trabajadora social insistió, y acabó acudiendo a la policía."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Los agentes visitaron la casa a comienzos de noviembre de 1988. Les llamó la atención la tierra removida del jardín. Empezaron a excavar… y apareció el primer cuerpo. En los días siguientes se sumaron otros seis. Entre ellos, el de Bert Montoya."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y mientras tanto, la casera había desaparecido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Huyó a Los Ángeles. Allí, pocos días después, un hombre mayor al que había conocido en un bar la reconoció por las noticias de televisión y dio el aviso. La detuvieron a mediados de noviembre. Para entonces, su cara ya estaba en todos los informativos del país."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso causó sensación en todo Estados Unidos. La imagen de una mujer mayor, de pelo blanco y aire maternal, acusada de una serie de asesinatos desconcertaba a todo el mundo. Era justo esa imagen la que le había permitido actuar durante años."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El juicio tardó años en llegar, y por la enorme atención mediática se trasladó a Monterey, lejos de Sacramento. Se la acusó de nueve asesinatos: los siete del jardín y otras dos muertes sospechosas anteriores. En 1993, el jurado la declaró culpable de tres. En el resto no logró ponerse de acuerdo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue condenada a cadena perpetua sin posibilidad de libertad condicional. Siempre se declaró inocente de los asesinatos y sostuvo que sus inquilinos habían muerto por causas naturales. Murió en prisión en 2011, a los ochenta y dos años."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un caso que dejó en muy mal lugar a quienes debían vigilarla."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Tenía antecedentes por drogar a ancianos y, aun así, siguió al frente de una pensión llena de personas vulnerables, muchas enviadas por la propia administración. El caso puso en cuestión cómo se supervisaba a las residencias informales y a quienes gestionan el dinero de otros."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las víctimas eran, precisamente, personas sin red: mayores, enfermas, solas. Por muchas de ellas nadie preguntó durante meses. Recordarlas a ellas, y no la imagen de abuela amable de su asesina, es la mejor forma de entender por qué este caso importa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, Puente comparte patrón con las envenenadoras: crímenes silenciosos, casi invisibles, escondidos detrás de una sonrisa amable y de una apariencia de confianza que engañó a vecinos, inquilinos y funcionarios."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Dorothea Puente. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un bar de Los Ángeles",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Un bar de Los Ángeles." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Dorothea Puente, la casera de la pensión del número 1426 de F Street, en Sacramento, en cuyo jardín la policía encontró siete cuerpos en noviembre de 1988." },
+        { "voz": "ximena", "texto": "Tras salir de la finca, Puente toma un taxi hasta Stockton y desde allí llega a Los Ángeles. El 14 de noviembre se dicta una orden de detención. Su cara aparece en los informativos de todo el país." },
+        { "voz": "ximena", "texto": "El 16 de noviembre, en un bar de Los Ángeles, se acerca a un hombre mayor. Le invita a una copa y le pregunta cuánto cobra de pensión por discapacidad. Le dice que debería cobrar más, le ofrece cocinarle la cena de Acción de Gracias y le propone irse a vivir con él." },
+        { "voz": "ximena", "texto": "Se presenta como Donna Johanson y le da el teléfono de su motel. Pero el hombre ha visto su foto en las noticias y avisa a la policía, que la detiene en un motel del centro. Lleva más de tres mil dólares en efectivo en el bolso." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Me detengo en esa conversación del bar. Huye de siete cuerpos y lo primero que hace es preguntar a un desconocido por su prestación. No hace falta adivinar qué pensaba. Basta con ver que repetía el mismo patrón." },
+        { "voz": "ximena", "texto": "¿Quién era aquella mujer? Dorothea Puente nació en 1929 en el sur de California. Sus padres eran alcohólicos. Su madre murió cuando ella era niña, y pasó por un orfanato donde, según testigos del juicio, sufrió abusos. Se casó a los dieciséis años. A los diecinueve ya tenía una condena por falsificar cheques." },
+        { "voz": "ximena", "texto": "Con los años se construyó una imagen de mujer caritativa, que ayudaba a alcohólicos y a personas sin hogar. Pero acumuló condenas: en 1978, por falsificar un cheque del Tesoro; en 1982, por drogar y robar a personas mayores. Salió de prisión en septiembre de 1985 y volvió a F Street." },
+        { "voz": "alvaro", "texto": "Repaso la acusación final: nueve asesinatos. Los siete del jardín y dos más. Ruth Munroe, su amiga y socia, que murió en 1982 por una sobredosis de codeína. Y Everson Gillmouth, un jubilado de Oregón cuyo cuerpo apareció en 1986 dentro de una caja, junto al río Sacramento. Tardaron casi tres años en identificarlo." },
+        { "voz": "ximena", "texto": "El caso se traslada a Monterey por la enorme atención de la prensa. El juicio se celebra en 1993. No hay testigos de ninguna muerte. La fiscalía sostiene que Puente daba a sus inquilinos medicamentos hasta provocarles la muerte, los enterraba y seguía cobrando sus prestaciones." },
+        { "voz": "ximena", "texto": "En varios cuerpos se encontraron restos de un somnífero que Puente compraba con receta una y otra vez. En la casa estaban los documentos y las medicinas de los muertos. Ella siempre dijo que sus inquilinos habían muerto por causas naturales, y que no lo comunicó por miedo a volver a prisión." },
+        { "voz": "alvaro", "texto": "La defensa no negó que ella hubiera enterrado los cuerpos. Su argumento era otro: muchas víctimas estaban muy enfermas o bebían mucho. Sin testigos, ¿cómo probar que no murieron solas? La fiscalía respondió con lo que vino después de cada muerte: firmas falsificadas, cheques cobrados y mentiras a quien preguntaba." },
+        { "voz": "ximena", "texto": "El 26 de agosto de 1993, tras semanas de deliberación, el jurado la declara culpable de tres asesinatos: los de Benjamin Fink, Leona Carpenter y Dorothy Miller. En los otros seis no hay acuerdo." },
+        { "voz": "ximena", "texto": "Tampoco lo hay sobre la pena. El 10 de diciembre de 1993 es condenada a cadena perpetua sin posibilidad de libertad condicional. Sus recursos fracasan, el último ante un tribunal federal en 2006." },
+        { "voz": "ximena", "texto": "Pasa el resto de su vida en una prisión de mujeres de Chowchilla, en California. Muere allí por causas naturales el 27 de marzo de 2011, a los ochenta y dos años." },
+        { "voz": "alvaro", "texto": "Lo que quedó sin aclarar pesa. Seis muertes sin veredicto. Y una pregunta incómoda: cuántas veces se dio por buena una explicación de la casera. Que se habían mudado. Que estaban en México. Que se habían ido a Los Ángeles. Durante años, a casi nadie le pareció raro." },
+        { "voz": "ximena", "texto": "Los investigadores llamaron a sus víctimas «gente en la sombra»: personas mayores, alcohólicos, personas con discapacidad. Gente por la que pocos preguntaban. Por eso conviene decir sus nombres." },
+        { "voz": "ximena", "texto": "Ruth Munroe, Everson Gillmouth, Betty Palmer, Leona Carpenter, James Gallop, Vera Faye Martin, Dorothy Miller, Bert Montoya y Benjamin Fink. Tenían entre cincuenta y uno y setenta y ocho años. Casi todos llegaron a aquella casa buscando un techo." },
+        { "voz": "ximena", "texto": "Fin del expediente de Dorothea Puente. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Base principal de hechos: la sentencia federal Puente v. Mitchell (tribunal de distrito del norte de California, 10/3/2006), que transcribe literalmente los hechos probados de la sentencia de apelación de California (1997), más el Los Angeles Times (1989 y 2011) y Wikipedia. Discrepancias con el v2 y la ficha: 1) El v2 dice que Bert Montoya tenía «discapacidad intelectual»: según el tribunal, tenía un diagnóstico de «probable esquizofrenia crónica» y oía voces (el Los Angeles Times habla de «mentally disabled»); el guion dice esquizofrenia. 2) El v2 sitúa el primer cuerpo en la primera visita: el 11/11/1988 aparecieron huesos y un zapato; el 12/11, unos veinte minutos después de que Puente se marchara al hotel Clarion, apareció el primer cuerpo; los siete cuerpos salieron entre el 12 y el 14 de noviembre. 3) El v2 dice que «no la consideraban sospechosa»: no se ha encontrado fuente; el tribunal recoge que preguntó si estaba detenida y el detective dijo que no. El guion se queda con eso. 4) El v2 habla de una «prohibición clara» de trabajar con ancianos o gestionar su dinero: no se ha encontrado en esos términos. El tribunal dice que su agente de libertad condicional le planteó una posible infracción «por tener huéspedes y ser la administradora» de sus prestaciones, y el Los Angeles Times que su abogado dijo que temía violar la libertad condicional por regentar la pensión. El guion no menciona la prohibición. 5) La ficha y el v2 hablan de «nueve» víctimas: son los nueve cargos (los siete del jardín, Ruth Munroe en 1982 y Everson Gillmouth, hallado en una caja en el río en 1986); fue condenada por tres: primer grado por Benjamin Fink y Dorothy Miller y segundo grado por Leona Carpenter (tribunal). Datos con una sola fuente: el aviso que la policía descartó meses antes, contado por los fiscales en el juicio (Los Angeles Times, 28/3/2011); que Gillmouth tardó casi tres años en ser identificado (Wikipedia: identificado el 28/12/1988). Fechas comprobadas: llegada de Montoya en febrero de 1988 (tribunal: «early February»); visita policial del 7/11; visita con el agente de libertad condicional el 11/11; orden de detención el 14/11; detención en Los Ángeles el 16/11 tras ir en taxi a Stockton; condena en 1982 por administrar sustancias, hurto y falsificación, y salida de prisión el 9/9/1985; veredicto del 26/8/1993; cadena perpetua el 10/12/1993; recurso federal denegado en 2006; muerte el 27/3/2011 en Chowchilla, a los 82 años. Respeto: no se describe el estado de los cuerpos (se omite que el de Betty Palmer apareció mutilado). Todas las víctimas eran adultas; sus nombres constan en las sentencias. Cita: «gente en la sombra» (traducción de «shadow people», como llamaron los investigadores a las víctimas, Los Angeles Times, 2011)."
 }

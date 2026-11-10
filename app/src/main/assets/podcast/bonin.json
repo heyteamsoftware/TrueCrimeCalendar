@@ -1,108 +1,93 @@
 {
   "id": "bonin",
-  "titulo": "La furgoneta de la autopista",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "William Bonin": "Uíliam Bónin",
     "Bonin": "Bónin",
     "Downey": "Dáuni",
-    "Vernon Butts": "Vérnon Bats",
-    "Gregory Miley": "Grégori Máili",
-    "James Munro": "Yeims Manró",
-    "Miley": "Máili",
-    "Munro": "Manró",
+    "Hollywood": "Jóliguud",
+    "Santa Monica Boulevard": "Sánta Mónica Búlevar",
     "Freeway Killers": "Fríguei Kílers",
     "Freeway Killer": "Fríguei Kíler",
-    "San Quentin": "San Kuéntin",
     "Orange County": "Óranch Káunti",
-    "Hollywood": "Jóliguud",
-    "Connecticut": "Conéticat"
+    "Randy Kraft": "Rándi Kraft",
+    "Connecticut": "Conéticat",
+    "David McVicker": "Déivid Mac Víquer",
+    "McVicker": "Mac Víquer",
+    "Vernon Butts": "Vérnon Bats",
+    "Butts": "Bats",
+    "Gregory Miley": "Grégori Máili",
+    "Miley": "Máili",
+    "James Munro": "Yeims Manró",
+    "Munro": "Manró",
+    "William Pugh": "Uíliam Piu",
+    "Pugh": "Piu",
+    "Marcus Grabs": "Márcus Grabs",
+    "James McCabe": "Yeims Makéib",
+    "McCabe": "Makéib",
+    "Disneyland": "Dísnilan",
+    "Steven Wells": "Estíven Uéls",
+    "Huntington Beach": "Jántington Bich",
+    "San Quentin": "San Kuéntin",
+    "Pete Wilson": "Pit Uílson",
+    "Kern": "Kern",
+    "Riverside": "Ráiversaid",
+    "Russell Rugh": "Rásel Ru",
+    "Russell": "Rásel"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Junio de 1980, Los Ángeles. Un equipo de policías de paisano lleva días siguiendo a un hombre que conduce una furgoneta. Esa noche lo ven recoger a un adolescente en Hollywood. Los agentes no esperan más. Intervienen… y llegan a tiempo: el chico sale con vida."
+      "n": 1,
+      "titulo": "Una furgoneta en Hollywood",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: William Bonin, el asesino de la autopista. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Una furgoneta en Hollywood." },
+        { "voz": "ximena", "texto": "Miércoles, 11 de junio de 1980. Hollywood, Los Ángeles. Un equipo de policías de paisano sigue a una furgoneta desde hace nueve días. Esa noche, el conductor se para a hablar con cinco chicos distintos en varias esquinas. Al final, uno sube." },
+        { "voz": "ximena", "texto": "La furgoneta aparca en un descampado de Santa Monica Boulevard. Los agentes no esperan más y entran. Encuentran al conductor agrediendo sexualmente al chico, un menor que se había ido de casa. Lo detienen allí mismo. El chico sale con vida." },
+        { "voz": "alvaro", "texto": "Nota del inspector. El detenido se llama William Bonin. Tiene treinta y tres años, vive en Downey y conduce camiones. En la furgoneta hay cuerdas, cuchillos y una barra de hierro. Para los policías que lo seguían no era una detención cualquiera. Llevaban días intentando confirmar una sospecha." },
+        { "voz": "ximena", "texto": "La sospecha tenía nombre en la prensa: el Freeway Killer, el asesino de la autopista. Desde 1979, en el sur de California aparecían cuerpos de chicos y jóvenes junto a carreteras y detrás de edificios, en varios condados. Tenían entre doce y diecinueve años. Muchos hacían autoestop." },
+        { "voz": "ximena", "texto": "Entre ellos, Marcus Grabs, un estudiante alemán de diecisiete años que recorría el país con su mochila. O James McCabe, de doce, que en febrero de 1980 esperaba un autobús para ir a Disneyland. Los cuerpos aparecían a menudo lejos de donde habían desaparecido." },
+        { "voz": "alvaro", "texto": "Aquí está la primera dificultad. Cada cuerpo caía en una jurisdicción distinta: Los Ángeles, Orange County, otros condados. Cada una con su policía. Y en esos mismos años actuaba otro asesino con víctimas parecidas, Randy Kraft, condenado después por dieciséis asesinatos. Separar un caso de otro no era sencillo." },
+        { "voz": "ximena", "texto": "¿Quién era Bonin? Nació en Connecticut en 1947, en una casa con un padre violento que bebía y apostaba. De niño pasó por un orfanato y por un centro de menores, donde, según contó a los médicos, sufrió abusos. Su familia se trasladó después al sur de California." },
+        { "voz": "ximena", "texto": "Sirvió en Vietnam como artillero de helicóptero. A su vuelta, en 1969, fue condenado por agresiones sexuales a varios chicos y pasó años internado en un hospital psiquiátrico. Salió en 1974. Al año siguiente atacó a un chico de catorce años que hacía autoestop." },
+        { "voz": "ximena", "texto": "Ese chico se llamaba David McVicker, y sobrevivió. Bonin volvió a prisión. Según la documentación del caso, al ser detenido advirtió a un policía de que la próxima vez no dejaría testigos. En 1978 quedó otra vez en libertad." },
+        { "voz": "alvaro", "texto": "Esa frase debería haber pesado más. Un agresor reincidente anuncia lo que hará, y aun así sale. No juzgo con los ojos de hoy: las autoridades de la época consideraron que podía volver a la calle. Pero este expediente demuestra lo caro que puede salir equivocarse en esa decisión." },
+        { "voz": "ximena", "texto": "Entre mayo de 1979 y junio de 1980, Bonin recorre las autopistas en su furgoneta. Recoge a chicos que hacen autoestop o esperan un autobús. Muchas veces no va solo: lo acompañan jóvenes de su entorno." },
+        { "voz": "ximena", "texto": "Se llaman Vernon Butts, Gregory Miley, James Munro y William Pugh. Ninguno participa en todos los crímenes. El hilo común, en cada caso, es Bonin." },
+        { "voz": "alvaro", "texto": "La pista que lo rompe todo no sale de un laboratorio. Sale de uno de esos jóvenes. A finales de mayo de 1980 detienen a William Pugh, de diecisiete años, por robar un coche. Y cuenta a los detectives que Bonin lo llevó una vez a casa y le habló de matar a chicos." },
+        { "voz": "ximena", "texto": "Los investigadores revisan los antecedentes de Bonin: condenas por agresiones a chicos, un patrón que encaja con los crímenes. El 2 de junio de 1980 empieza la vigilancia." },
+        { "voz": "alvaro", "texto": "Esto es lo que más me pesa del expediente. Ese mismo 2 de junio, según la documentación judicial, Bonin y Munro recogieron en Downey a un joven de dieciocho años que hacía autoestop, Steven Wells. Lo mataron esa tarde y dejaron su cuerpo en Huntington Beach. La vigilancia llegó horas tarde para él." },
+        { "voz": "ximena", "texto": "Nueve días después llegó aquella noche en Hollywood. Bonin estaba detenido. Faltaba saber cuántos chicos había detrás de aquella furgoneta, quién más había participado y si la justicia podría probarlo. Lo cuenta la segunda cinta." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Una detención a tiempo que, en realidad, llegaba muy tarde."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Porque para entonces el sur de California llevaba más de un año viviendo con miedo. Junto a las autopistas iban apareciendo los cuerpos de chicos jóvenes, muchos de ellos autoestopistas. La prensa ya tenía un nombre para el responsable: el Freeway Killer, el asesino de la autopista."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de William Bonin, el asesino de la autopista original."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Bonin nació en 1947 en Connecticut, en la costa este, y tuvo una infancia marcada por el abandono y la violencia en su familia. Sirvió en la Fuerza Aérea durante la guerra de Vietnam. A su regreso, a finales de los sesenta, fue condenado por agresiones sexuales a chicos jóvenes, y pasó varios años entre un hospital psiquiátrico penitenciario y la cárcel."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1978 volvió a quedar en libertad. Vivía en Downey, en el condado de Los Ángeles, y trabajaba como conductor de camiones de reparto. Al año siguiente comenzó la serie de crímenes por la que sería recordado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre mayo de 1979 y junio de 1980, Bonin secuestró y asesinó a adolescentes y jóvenes varones, muchos de ellos captados mientras hacían autoestop. Algunos tenían apenas trece años. Los cuerpos aparecían abandonados junto a las autopistas de Los Ángeles y de Orange County."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y lo más inquietante es que no siempre actuaba solo, ¿verdad?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. Bonin arrastró a varios cómplices, jóvenes de su entorno: Vernon Butts, Gregory Miley y James Munro participaron en distintos crímenes. Ninguno estuvo en todos. El hilo común, el que unía cada caso, era siempre él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La investigación avanzaba despacio. Los cuerpos aparecían en distintas jurisdicciones, cada una con su propia policía, y la coordinación entre ellas era limitada. Además, en aquellos años actuaban en la zona otros asesinos de jóvenes, y era difícil saber qué casos estaban realmente conectados."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué fue lo que rompió por fin el caso?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Una información que llegó desde el propio entorno de Bonin. Un joven que lo conocía contó a la policía lo que sospechaba. Los investigadores revisaron sus antecedentes, vieron que encajaban con el perfil de los crímenes y montaron un dispositivo de vigilancia. Así llegó aquella noche de junio en Hollywood."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tras su detención, Bonin habló. Según los investigadores, reconoció numerosos asesinatos y señaló a sus cómplices. Vernon Butts se quitó la vida en la cárcel antes de ser juzgado. Miley y Munro aceptaron declarar contra él y fueron condenados a largas penas de prisión."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántos crímenes se le pudieron probar a él?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fue condenado por catorce asesinatos en dos juicios, uno en Los Ángeles y otro en Orange County, en los que pesaron sus propias declaraciones y el testimonio de sus cómplices. Recibió la pena de muerte. Se le atribuyen al menos veintiuno, y algunas estimaciones elevan la cifra hasta treinta y seis."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pasó más de una década en el corredor de la muerte de San Quentin mientras se resolvían sus recursos. El 23 de febrero de 1996 fue ejecutado. Fue el primer preso ejecutado en California mediante inyección letal. Hasta entonces, las ejecuciones en el estado se habían llevado a cabo en la cámara de gas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y, sin embargo, el apodo no desapareció con él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. En el sur de California, la etiqueta del asesino de la autopista también se aplicó a otros criminales de aquellos años, que actuaron por separado y con víctimas parecidas. Por eso, en este archivo, Bonin forma parte del patrón Freeway Killers, y su alias lo distingue de los demás."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Detrás de las cifras hay chicos con nombre y apellidos. Muchos eran menores que solo intentaban llegar a algún sitio haciendo autoestop, como tantos chicos de su edad en la California de entonces. Sus familias tuvieron que esperar años a que la justicia diera una respuesta."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso dejó también una lección para la policía. Cuando los crímenes cruzan los límites entre jurisdicciones, compartir la información a tiempo puede marcar la diferencia. Y, a veces, la pista decisiva no la aporta un laboratorio, sino alguien que decide hablar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de William Bonin. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "La cámara de San Quentin",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. La cámara de San Quentin." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de William Bonin, el conductor de Downey detenido en junio de 1980 en Hollywood y acusado de ser el asesino de la autopista, el Freeway Killer del sur de California." },
+        { "voz": "ximena", "texto": "Tras su detención, Bonin habla. Ante la policía y, más tarde, ante un periodista, confiesa haber violado y matado a veintiún chicos y jóvenes. Al periodista le dijo, según su testimonio, que no podía parar y que cada vez le resultaba más fácil." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Una confesión así no basta. Había que probar cada muerte. Según los peritos, las fibras de la moqueta de la furgoneta coincidían con las halladas en varios cuerpos, y había restos de sangre en el vehículo. Y estaban los cómplices." },
+        { "voz": "ximena", "texto": "Vernon Butts, acusado de acompañarle en varios crímenes, se quitó la vida en la cárcel del condado de Los Ángeles en enero de 1981, antes de ser juzgado. Gregory Miley y James Munro aceptaron declarar contra Bonin a cambio de evitar la pena de muerte." },
+        { "voz": "ximena", "texto": "Miley fue condenado a cadena perpetua con un mínimo de veinticinco años; Munro, con un mínimo de quince. William Pugh, el chico cuya información llevó a la detención, fue condenado a seis años de prisión por su participación en una de las muertes." },
+        { "voz": "ximena", "texto": "Noviembre de 1981. Primer juicio, en Los Ángeles, por doce asesinatos. Miley y Munro declaran contra él. En enero de 1982, el jurado lo declara culpable de diez asesinatos y lo absuelve de dos. Lo condena a muerte." },
+        { "voz": "alvaro", "texto": "Anoto el punto débil de la acusación: dependía en parte de dos cómplices que declaraban para salvarse de la pena de muerte. La defensa atacó su credibilidad. Pero sus relatos encajaban con las pruebas de la furgoneta y con lo que el propio Bonin había confesado." },
+        { "voz": "ximena", "texto": "En 1983, un segundo jurado, en Orange County, lo declara culpable de otros cuatro asesinatos y lo condena de nuevo a muerte. En total, catorce condenas por asesinato." },
+        { "voz": "ximena", "texto": "Pasa catorce años en el corredor de la muerte de San Quentin. Sus abogados recurren una y otra vez: alegan que no tuvo una defensa adecuada y que su infancia de abusos no se tuvo en cuenta. Todos los recursos fracasan." },
+        { "voz": "alvaro", "texto": "La víspera de la ejecución, Bonin habló por la radio. Dijo que estaba en paz. Y tuvo unas palabras frías para las familias de sus víctimas: según él, su muerte no les traería el cierre que esperaban. No hay en el expediente ni una muestra pública de arrepentimiento." },
+        { "voz": "ximena", "texto": "Febrero de 1996. El gobernador de California, Pete Wilson, rechaza la clemencia y dice que su culpabilidad está fuera de toda duda. Los tribunales rechazan los últimos recursos." },
+        { "voz": "ximena", "texto": "Viernes, 23 de febrero de 1996, pasada la medianoche. En la antigua cámara de gas de San Quentin, William Bonin es ejecutado. Tiene cuarenta y nueve años. Es el primer preso de California ejecutado con inyección letal." },
+        { "voz": "ximena", "texto": "En su última declaración, entregada al director de la prisión, dijo que la pena de muerte no era la respuesta y que enviaba un mensaje equivocado a los jóvenes. Fuera esperaban familiares de sus víctimas, y también David McVicker, el chico al que agredió en 1975." },
+        { "voz": "alvaro", "texto": "Anoto lo que la sentencia no cerró. Bonin confesó veintiún asesinatos, pero solo fue juzgado por catorce. Hubo otros cuerpos, en Kern, Riverside, San Diego y San Bernardino, por los que nunca fue procesado. Circulan cifras mayores. No he encontrado fuentes sólidas que las respalden." },
+        { "voz": "ximena", "texto": "El apodo tampoco murió con él. En el sur de California, la etiqueta del asesino de la autopista se aplicó a otros criminales de la época, como Randy Kraft, que actuaron por separado. Por eso, en este archivo, Bonin forma parte del patrón de los Freeway Killers." },
+        { "voz": "ximena", "texto": "Pero este expediente no pertenece a Bonin. Pertenece a catorce chicos y jóvenes con nombre en las actas judiciales. A Marcus Grabs, el estudiante alemán. A James McCabe, que iba a Disneyland. A Russell Rugh, de quince años, que esperaba el autobús para ir a trabajar." },
+        { "voz": "ximena", "texto": "La madre de Russell estaba junto a San Quentin la noche de la ejecución. Llevaba dieciséis años esperando. Como ella, muchas familias tardaron años en saber qué les había pasado a sus hijos, y nunca dejaron de recordarlos." },
+        { "voz": "ximena", "texto": "Fin del expediente de William Bonin. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias con la ficha y el v2: 1) Víctimas: la ficha dice «21 a 36». Bonin fue condenado por 14 asesinatos (10 en Los Ángeles en 1982 y 4 en Orange County en 1983) y confesó 21 (Los Angeles Times, The Independent, Departamento de Prisiones de California, CDCR). No se ha encontrado ninguna fuente fiable para la cifra de 36; el CDCR solo dice que se le sospechaban otras muertes en los condados de Kern, Riverside, San Diego y San Bernardino. El guion dice que «circulan cifras mayores» sin darlas. 2) El v2 decía que sirvió en la Fuerza Aérea; Wikipedia dice que se alistó en la Fuerza Aérea en 1966 pero sirvió como artillero en una unidad de helicópteros, y The Independent habla del Ejército. El guion dice «sirvió en Vietnam como artillero de helicóptero», sin precisar el cuerpo. 3) El v2 decía que la pista vino de «un joven que lo conocía»: era William Pugh, de 17 años, detenido por robar un coche el 29/5/1980, que habló con los detectives (CDCR); según Wikipedia, se lo contó antes a un orientador, que avisó a la policía. 4) Edad del chico rescatado el 11/6/1980: 15 años según el CDCR y 17 según el Los Angeles Times; el guion dice «un menor» y no lo nombra. 5) Ejecución: el CDCR la sitúa el 23/2/1996 (orden a las 0.09 y muerte a las 0.13); Wikipedia dice que fue declarado muerto el 24, lo que es un error (el 23 fue viernes). 6) Grafía: se usan los nombres del CDCR, «Marcus Grabs» y «James McCabe» (Wikipedia: «Markus» y «Macabe»). Comprobado: vigilancia desde el 2/6/1980 (CDCR) y nueve días (Wikipedia); asesinato de Steven Wells el 2/6/1980 con Munro (CDCR, Wikipedia); fibras de la moqueta de la furgoneta y sangre (People v. Bonin, Tribunal Supremo de California, 1988; Wikipedia); suicidio de Butts en la cárcel del condado de Los Ángeles (CDCR; enero de 1981 según Wikipedia); penas de Miley (25 años a perpetua), Munro (15 años a perpetua) y Pugh (6 años por homicidio voluntario) (CDCR); Randy Kraft, condenado en 1989 por 16 asesinatos (Los Angeles Times); clemencia denegada por Pete Wilson («beyond dispute», Los Angeles Times); última declaración (CDCR, The Independent); McVicker y la madre de Russell Rugh junto a la prisión (Los Angeles Times, The Independent). Datos apoyados sobre todo en Wikipedia: los años en el hospital psiquiátrico de Atascadero (1969-1974). Se ha dejado fuera, por tener una sola fuente: el error administrativo de agosto de 1979 que lo dejó en libertad, la recompensa de activistas gais y el acuerdo por el que se le absolvió de la muerte de Sean King. DUDA PARA EL USUARIO (como en Brady): la regla 5 de la guía solo permite nombrar a víctimas menores en casos históricos si sus familias han difundido sus nombres. Se nombra a James McCabe (12), Russell Rugh (15) y Marcus Grabs (17): sus nombres constan en el resumen oficial del CDCR desde hace décadas y la madre de Russell habló en público en 1996; no consta que las familias de McCabe y Grabs lo hayan hecho. Si se prefiere, se puede quitar a McCabe y a Grabs. David McVicker, superviviente de 1975, habló en público como adulto. No se describen las agresiones ni la forma de matar."
 }

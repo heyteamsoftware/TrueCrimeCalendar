@@ -30,7 +30,7 @@ Hecho antes: `brady` (piloto).
 
 | Grupo | Casos | Estado |
 |---|---|---|
-| enero A | letby keyes bonin puente | lanzado |
+| enero A | letby keyes bonin puente | ✓ hecho (4/4) |
 | enero B | dominique shipman petiot robledo rifkin | ✓ hecho (5/5) |
 | enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
 | febrero A | ishikawa norris hansen ridgway | lanzado |

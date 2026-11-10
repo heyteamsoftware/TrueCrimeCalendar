@@ -46,3 +46,21 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## rifkin
 
 - La condena por 9 asesinatos está confirmada.
+
+## letby
+
+- No es una «condena revisable»: son 15 cadenas perpetuas íntegras. La condena está cuestionada y la Comisión de Revisión de Casos Penales la estudia sin decisión. Hay que comprobar el estado antes de publicar.
+
+## keyes
+
+- **Víctimas:** el FBI estima 11 en total; la ficha dice «11+».
+- **Muerte:** el 2 de diciembre de 2012 según el FBI y el Anchorage Daily News.
+
+## bonin
+
+- **Víctimas:** la cifra de 36 no aparece en ninguna fuente fiable. Fue condenado por 14 asesinatos y confesó 21.
+
+## puente
+
+- **Montoya:** tenía un diagnóstico de esquizofrenia, no una discapacidad intelectual.
+- **Primer cuerpo:** apareció el 12 de noviembre de 1988; el 11 solo se encontraron huesos.
