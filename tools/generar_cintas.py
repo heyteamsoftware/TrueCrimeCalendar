@@ -114,14 +114,26 @@ def main():
     ap.add_argument("ids", nargs="+")
     ap.add_argument("--locucion", default=os.environ.get("LOCUCION_XIMENA", ""))
     ap.add_argument("--sin-validar", action="store_true")
-    ap.add_argument("--paralelo", type=int, default=2)
+    ap.add_argument("--paralelo", type=int, default=2, help="cintas a la vez dentro de un caso")
+    ap.add_argument("--casos-paralelo", type=int, default=1, help="casos a la vez (el índice se protege con un cerrojo)")
     a = ap.parse_args()
     if not a.locucion or not os.path.exists(a.locucion):
         sys.exit("Indica la ruta de Locucion.py con --locucion o LOCUCION_XIMENA")
     if not a.sin_validar and not validar(a.ids):
         sys.exit("Hay guiones que no pasan la validación (usa --sin-validar para probar)")
-    for cid in a.ids:
-        caso(cid, a.locucion, a.paralelo)
+    fallos = []
+
+    def uno(cid):
+        try:
+            caso(cid, a.locucion, a.paralelo)
+        except Exception as e:                       # un caso roto no para la tanda
+            log(f"✗ {cid}: {e}")
+            fallos.append(cid)
+
+    with ThreadPoolExecutor(max(1, a.casos_paralelo)) as ex:
+        list(ex.map(uno, a.ids))
+    if fallos:
+        sys.exit("Casos con error: " + " ".join(fallos))
 
 
 if __name__ == "__main__":

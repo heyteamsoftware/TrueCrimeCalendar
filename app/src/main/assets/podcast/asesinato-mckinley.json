@@ -60,15 +60,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "¿Quién era Czolgosz? Un obrero de veintiocho años, nacido en Detroit, hijo de inmigrantes polacos. En 1893 perdió su empleo en una fábrica de Cleveland, en plena disputa laboral, y se acercó al anarquismo. Se le oyó decir que había cumplido con su deber."
+          "texto": "¿Quién era Czolgosz? Un obrero de veintiocho años, nacido en Míchigan, hijo de inmigrantes polacos. En 1893 perdió su empleo en una fábrica de Cleveland, en plena disputa laboral, y se acercó al anarquismo."
         },
         {
           "voz": "ximena",
-          "texto": "En mayo de 1901 oyó hablar a la anarquista Emma Goldman. Ella no defendía la violencia, pero él contó después que sus palabras se le quedaron grabadas. El 3 de septiembre decidió matar al presidente. Ese mismo día compró el revólver."
+          "texto": "En mayo de 1901 oyó hablar a la anarquista Emma Goldman. Él contó después que sus palabras se le quedaron grabadas. El 3 de septiembre decidió matar al presidente. Ese mismo día compró el revólver."
         },
         {
           "voz": "alvaro",
-          "texto": "Un matiz importante. Goldman se entregó días después, cuando la policía detuvo a su familia para presionarla. Pasó casi tres semanas en la cárcel y la soltaron sin cargos. Oír un discurso no es participar en un plan."
+          "texto": "Un matiz importante. Goldman fue detenida días después, la interrogaron y la soltaron sin cargos. Oír un discurso no es participar en un plan."
         },
         {
           "voz": "ximena",
@@ -117,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: NPS (Theodore Roosevelt Inaugural NHS, 6 de septiembre) y Wikipedia en inglés (hora 16:07, Parker, Mann, Park, gangrena y muerte a las 2:15, juicio, Goldman, Servicio Secreto); Britannica devolvió 403. Sin contradicciones con la ficha. Discrepancia entre historiadores: por qué no se usó el aparato de rayos X (Leech, por orden médica; Miller, por faltarle una pieza), atribuido en el guion. Detalles dejados fuera: papel de otros hombres que detuvieron a Czolgosz, la pregunta de si la causa fue gangrena o necrosis pancreática (se dice ambas, atribuidas a la época y a los historiadores actuales). La cita «cumplí con mi deber» está en Wikipedia, parafraseada; «ir con calma» del presidente, en el NPS. El dato de ser el tercer presidente asesinado y de la edad no viene de las fuentes abiertas (es de conocimiento general)."
+  "nota_revision": "Fuentes abiertas: NPS (Theodore Roosevelt Inaugural NHS, 6 de septiembre) y Wikipedia en inglés (hora 16:07, Parker, Mann, Park, gangrena y muerte a las 2:15, juicio, Goldman, Servicio Secreto); Britannica devolvió 403. Sin contradicciones con la ficha. Discrepancia entre historiadores: por qué no se usó el aparato de rayos X (Leech, por orden médica; Miller, por faltarle una pieza), atribuido en el guion. Detalles dejados fuera: papel de otros hombres que detuvieron a Czolgosz, la pregunta de si la causa fue gangrena o necrosis pancreática (se dice ambas, atribuidas a la época y a los historiadores actuales). La cita «cumplí con mi deber» está en Wikipedia, parafraseada; «ir con calma» del presidente, en el NPS. El dato de ser el tercer presidente asesinado y de la edad no viene de las fuentes abiertas (es de conocimiento general). VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

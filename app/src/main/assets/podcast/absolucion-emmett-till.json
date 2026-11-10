@@ -5,7 +5,7 @@
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Emmett Till": "Émet Til",
     "Till": "Til",
-    "Mamie": "Éimi",
+    "Mamie": "Méimi",
     "Misisipi": "Misisipi",
     "Sumner": "Sámner",
     "Money": "Máni",
@@ -38,11 +38,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Sesenta y siete minutos. Para decidir si dos hombres habían matado a un adolescente. Un jurado que, por la ley de aquel estado, solo podía formarse con personas registradas para votar. Y en aquel condado, donde más del sesenta por ciento de la población era negra, ningún negro podía registrarse."
+          "texto": "Primera nota. Sesenta y siete minutos. Para decidir si dos hombres habían matado a un adolescente. Un jurado que, por la ley de aquel estado, solo podía formarse con personas registradas para votar. Y en aquel condado, donde más del sesenta por ciento de la población era negra, casi ningún negro lograba registrarse."
         },
         {
           "voz": "ximena",
-          "texto": "Emmett había llegado a Misisipi a finales de agosto, de visita a casa de unos familiares, en Money. Su madre, Mamie, lo había enviado en tren desde Chicago."
+          "texto": "Emmett había llegado a Misisipi en agosto, de visita a casa de unos familiares, en Money. Su madre, Mamie, lo había enviado en tren desde Chicago."
         },
         {
           "voz": "ximena",
@@ -78,7 +78,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Un detalle del juicio: el fiscal dijo ante el jurado que Emmett merecía un castigo. Es lo que cuenta la cronología de EJI. Cuando la acusación se disculpa ante el jurado por acusar, ya sabes cómo va a terminar."
+          "texto": "Un detalle del juicio: la defensa apeló en su alegato a la identidad de los jurados como hombres blancos del Sur. Cuando eso se pide a un jurado así, ya sabes cómo va a terminar."
         },
         {
           "voz": "ximena",
@@ -86,7 +86,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y entonces, la parte más difícil del expediente. En 1956, protegidos por la ley de doble enjuiciamiento, Bryant y Milam contaron a la revista Look cómo lo habían hecho, a cambio de dinero. Unos cuatro mil dólares, según algunas fuentes."
+          "texto": "Y entonces, la parte más difícil del expediente. En 1956, protegidos por la ley de doble enjuiciamiento, Bryant y Milam concedieron una entrevista a la revista Look en la que, según la revista, admitían el crimen, a cambio de dinero. Unos cuatro mil dólares, según algunas fuentes."
         },
         {
           "voz": "ximena",
@@ -111,5 +111,5 @@
       ]
     }
   ],
-  "nota_revision": "Absolución: Bryant y Milam fueron absueltos y nunca condenados; el guion dice que lo que cuenta la revista Look (1956, ficha) es su propia versión publicada. Víctima menor (14 años) en un caso de hace setenta años, con su nombre en el nombre del caso y la madre hizo público el caso: se nombra, sin detalles gráficos. Fuentes abiertas: EJI y PBS American Experience (cronología). Britannica y el Departamento de Justicia no se abrieron. Hay que revisar antes de publicar: 1) sin cita textual de Mamie Till (parafraseado); 2) el comentario del jurado sobre el refresco (EJI); 3) «la defensa insinuó que el cuerpo había sido colocado por organizaciones de derechos civiles» (EJI, acusación del abogado Whitten); 4) pago de Look de 4.000 dólares (ficha dice entre 3.600 y 4.000) y su fecha (enero de 1956, EJI); 5) la ley antilinchamiento de 2022 y la firma de Biden: dato general que no se abrió en NPR; 6) la ficha dice 'tras una acusación de la mujer de Bryant de haberle faltado al respeto': el guion dice solo que las versiones varían."
+  "nota_revision": "Absolución: Bryant y Milam fueron absueltos y nunca condenados; el guion dice que lo que cuenta la revista Look (1956, ficha) es su propia versión publicada. Víctima menor (14 años) en un caso de hace setenta años, con su nombre en el nombre del caso y la madre hizo público el caso: se nombra, sin detalles gráficos. Fuentes abiertas: EJI y PBS American Experience (cronología). Britannica y el Departamento de Justicia no se abrieron. Hay que revisar antes de publicar: 1) sin cita textual de Mamie Till (parafraseado); 2) el comentario del jurado sobre el refresco (EJI); 3) «la defensa insinuó que el cuerpo había sido colocado por organizaciones de derechos civiles» (EJI, acusación del abogado Whitten); 4) pago de Look de 4.000 dólares (ficha dice entre 3.600 y 4.000) y su fecha (enero de 1956, EJI); 5) la ley antilinchamiento de 2022 y la firma de Biden: dato general que no se abrió en NPR; 6) la ficha dice 'tras una acusación de la mujer de Bryant de haberle faltado al respeto': el guion dice solo que las versiones varían. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

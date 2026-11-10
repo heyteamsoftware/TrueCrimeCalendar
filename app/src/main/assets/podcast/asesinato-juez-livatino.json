@@ -18,7 +18,8 @@
     "Giovanni Avarello": "Yovani Avarélo",
     "Cosa Nostra": "Cosa Nostra",
     "Sicilia": "Sicilia",
-    "Colonia": "Colonia"
+    "Colonia": "Colonia",
+    "Cossiga": "Cósiga"
   },
   "cintas": [
     {
@@ -64,7 +65,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En los años ochenta participó en la gran investigación sobre la mafia de Agrigento, que desembocó en el maxiproceso de 1987, con cuarenta condenas. Desde 1989 se ocupaba sobre todo de medidas de prevención, como el decomiso de bienes. Según Il Post, ese día debía decidir medidas que perjudicaban a los intereses de la Stidda."
+          "texto": "En los años ochenta participó en la gran investigación sobre la mafia de Agrigento, que desembocó en un gran proceso contra la mafia de Agrigento. Desde 1989 se ocupaba sobre todo de medidas de prevención, como el decomiso de bienes. Según Il Post, ese día debía decidir medidas que perjudicaban a los intereses de la Stidda."
         },
         {
           "voz": "alvaro",
@@ -108,7 +109,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Rosario Livatino tenía treinta y siete años. Según la Wikipedia italiana, en octubre de 2026 fue declarado patrono de los magistrados italianos."
+          "texto": "Rosario Livatino tenía treinta y siete años. Hoy lo recuerdan, sobre todo, los magistrados italianos que ejercen su oficio con la misma discreción."
         },
         {
           "voz": "ximena",
@@ -117,5 +118,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia italiana y Il Post (2020); no se abrieron La Repubblica, LaPresse ni Vatican News. Problemas: 1) El guion dice solo que iba en su coche particular y sin escolta (Wikipedia italiana e Il Post). 2) El apodo «juez muchacho»: según la Wikipedia italiana lo popularizó un libro de 1992 y Cossiga (que habló de «jueces muchachos» en 1991) negó referirse a él; Il Post lo atribuye a Cossiga; el guion lo deja prudente. 3) Patrono de los magistrados desde octubre de 2026: dato solo de la Wikipedia italiana; confirmar antes de publicar. 4) Nava: «milanés» (Wikipedia) o «de Bérgamo» (Il Post); el guion no dice de dónde. Condenas de los inductores: proceso «ter» (Gallea, Calafato, Parla, Montanti), firmes en 2001-2002; no se nombran."
+  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia italiana y Il Post (2020); no se abrieron La Repubblica, LaPresse ni Vatican News. Problemas: 1) El guion dice solo que iba en su coche particular y sin escolta (Wikipedia italiana e Il Post). 2) El apodo «juez muchacho»: según la Wikipedia italiana lo popularizó un libro de 1992 y Cossiga (que habló de «jueces muchachos» en 1991) negó referirse a él; Il Post lo atribuye a Cossiga; el guion lo deja prudente. 3) Patrono de los magistrados desde octubre de 2026: dato solo de la Wikipedia italiana; confirmar antes de publicar. 4) Nava: «milanés» (Wikipedia) o «de Bérgamo» (Il Post); el guion no dice de dónde. Condenas de los inductores: proceso «ter» (Gallea, Calafato, Parla, Montanti), firmes en 2001-2002; no se nombran. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

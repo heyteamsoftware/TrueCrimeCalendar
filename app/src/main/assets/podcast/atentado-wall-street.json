@@ -6,7 +6,8 @@
     "Wall Street": "Uol Strit",
     "J. P. Morgan": "Yei Pi Mórgan",
     "Beverly Gage": "Béverli Gueich",
-    "Paul Avrich": "Pol Ávrich"
+    "Paul Avrich": "Pol Ávrich",
+    "Oklahoma City": "Oclajoma Síti"
   },
   "cintas": [
     {
@@ -40,7 +41,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un mensajero de diecisiete años cogió un coche aparcado y llevó a treinta heridos al hospital. La policía requisó otros coches para usarlos de ambulancias."
+          "texto": "La policía requisó coches de la zona para usarlos de ambulancias. Los hospitales cercanos se llenaron en minutos."
         },
         {
           "voz": "ximena",
@@ -76,7 +77,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Paul Avrich fue más lejos y dio un nombre, el de Mario Buda, un anarquista que conocía bien la dinamita. Según esa hipótesis, quizá fue una venganza por aquellas detenciones. Buda se marchó a Italia ese mismo año y no volvió."
+          "texto": "Paul Avrich fue más lejos y dio un nombre, el de Mario Buda, un anarquista que conocía bien la dinamita. Según esa hipótesis, quizá fue una venganza por aquellas detenciones. Buda acabó viviendo en Italia."
         },
         {
           "voz": "alvaro",
@@ -84,7 +85,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Así que el caso sigue sin resolver. Fue el peor atentado en suelo estadounidense hasta el de Oklahoma City, en 1995."
+          "texto": "Así que el caso sigue sin resolver. Según PBS, fue el peor atentado en suelo estadounidense hasta el de Oklahoma City, en 1995."
         },
         {
           "voz": "alvaro",
@@ -105,5 +106,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver: la autoría anarquista es hipótesis de historiadores (Gage, Avrich); Mario Buda nunca fue detenido, interrogado ni acusado, y así se dice. Cifra de 38 muertos (30 en el acto y 8 después) y 143 heridos graves: Wikipedia y PBS; otras fuentes dan 33-40. Duración de la investigación: «más de tres años» (Wikipedia; PBS/Gage dice cuatro). Fuentes abiertas: Wikipedia en inglés (peso de dinamita, pesas de hierro, herrador, octavillas, cierre de la Bolsa, revisión del FBI de 1944, marcas en la fachada) y PBS NewsHour (cifras, teoría de Gage, peor atentado hasta Oklahoma City). FBI.gov y MoneyWeek no se pudieron abrir. «Buda se marchó a Italia ese mismo año»: Wikipedia dice que estaba en Italia en noviembre. No se nombra al mensajero de 17 años. Se dejan fuera el tenista Edwin Fischer (internado sin acusación) y la hipótesis soviética."
+  "nota_revision": "Caso sin resolver: la autoría anarquista es hipótesis de historiadores (Gage, Avrich); Mario Buda nunca fue detenido, interrogado ni acusado, y así se dice. Cifra de 38 muertos (30 en el acto y 8 después) y 143 heridos graves: Wikipedia y PBS; otras fuentes dan 33-40. Duración de la investigación: «más de tres años» (Wikipedia; PBS/Gage dice cuatro). Fuentes abiertas: Wikipedia en inglés (peso de dinamita, pesas de hierro, herrador, octavillas, cierre de la Bolsa, revisión del FBI de 1944, marcas en la fachada) y PBS NewsHour (cifras, teoría de Gage, peor atentado hasta Oklahoma City). FBI.gov y MoneyWeek no se pudieron abrir. «Buda se marchó a Italia ese mismo año»: Wikipedia dice que estaba en Italia en noviembre. No se nombra al mensajero de 17 años. Se dejan fuera el tenista Edwin Fischer (internado sin acusación) y la hipótesis soviética. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

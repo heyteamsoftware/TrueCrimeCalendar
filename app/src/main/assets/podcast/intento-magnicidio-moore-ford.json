@@ -14,7 +14,9 @@
     "Tennessee": "Tenesí",
     "Servicio Secreto": "Servicio Secreto",
     "Fromme": "Fróm",
-    "Sacramento": "Sacramento"
+    "Sacramento": "Sacramento",
+    "Patricia Hearst": "Patrícia Jerst",
+    "People in Need": "Pípol in Nid"
   },
   "cintas": [
     {
@@ -60,7 +62,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Era el segundo atentado contra Ford en diecisiete días. El 5 de septiembre, en Sacramento, una seguidora de Charles Manson, Lynette Fromme, ya había apuntado al presidente con una pistola."
+          "texto": "Era el segundo atentado contra Ford en diecisiete días. El 5 de septiembre, en Sacramento, Lynette Fromme, que había formado parte del círculo de Charles Manson sin que se la acusara de sus crímenes, ya había apuntado al presidente con una pistola."
         },
         {
           "voz": "alvaro",
@@ -72,11 +74,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Según se informó, ella quería provocar una revolución violenta que acabara con el gobierno. Años después dijo que se arrepentía: «Ahora sé que me equivoqué al intentarlo»."
+          "texto": "Según se informó, ella quería provocar una revolución violenta que acabara con el gobierno. Años después dijo que se arrepentía de haberlo intentado."
         },
         {
           "voz": "alvaro",
-          "texto": "Una frase breve, muchos años tarde. No cambia lo que ocurrió, pero conviene dejar constancia."
+          "texto": "Una declaración breve, muchos años tarde. No cambia lo que ocurrió, pero conviene dejar constancia."
         },
         {
           "voz": "alvaro",
@@ -84,7 +86,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Estuvo en prisión treinta y dos años. Salió en libertad condicional el 31 de diciembre de 2007. En 2019 volvió brevemente a prisión por incumplir esas condiciones: no había avisado de un viaje al extranjero."
+          "texto": "Estuvo en prisión treinta y dos años. Salió en libertad condicional el 31 de diciembre de 2007."
         },
         {
           "voz": "ximena",
@@ -113,5 +115,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia en inglés (biografía, FBI, detención previa, disparos, taxista, condena, libertad condicional, cita de arrepentimiento, muerte) y History.com (Sipple, Fromme el 5 de septiembre, carta de Ford). SFGate no cargó. Pendientes de revisar: 1) No se da la edad de Moore en el guion; 2) «hijos»/«casada varias veces»: Wikipedia (cinco matrimonios, cuatro hijos); 3) el guion no describe su entorno (Wikipedia la sitúa en la organización benéfica People in Need); 4) disparos: SFGate/History/Nashville Banner dicen uno que falló; Wikipedia, dos con un taxista herido por un rebote; el guion presenta ambas; 5) «Ford terminó su mandato en enero de 1977»: dato general. 6) El guion no cita la fuga de la cárcel (1979 según Wikipedia, 1989 según History.com). Moore: motivo según Wikipedia (revolución por Vietnam); cita traducida de Wikipedia."
+  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia en inglés (biografía, FBI, detención previa, disparos, taxista, condena, libertad condicional, cita de arrepentimiento, muerte) y History.com (Sipple, Fromme el 5 de septiembre, carta de Ford). SFGate no cargó. Pendientes de revisar: 1) No se da la edad de Moore en el guion; 2) «hijos»/«casada varias veces»: Wikipedia (cinco matrimonios, cuatro hijos); 3) el guion no describe su entorno (Wikipedia la sitúa en la organización benéfica People in Need); 4) disparos: SFGate/History/Nashville Banner dicen uno que falló; Wikipedia, dos con un taxista herido por un rebote; el guion presenta ambas; 5) «Ford terminó su mandato en enero de 1977»: dato general. 6) El guion no cita la fuga de la cárcel (1979 según Wikipedia, 1989 según History.com). Moore: motivo según Wikipedia (revolución por Vietnam); cita traducida de Wikipedia. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

@@ -22,7 +22,10 @@
     "Albert Bates": "Álbert Béits",
     "Bates": "Béits",
     "Texas": "Téjas",
-    "Edgar S. Vaught": "Édgar Vot"
+    "Edgar S. Vaught": "Édgar Vot",
+    "Lindbergh": "Líndberg",
+    "Pop Gun": "Pop Gan",
+    "Denver": "Dénver"
   },
   "cintas": [
     {
@@ -80,7 +83,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Fue el primer juicio federal filmado por cámaras de cine, el primer caso bajo la llamada ley Lindbergh contra el secuestro y el primer gran caso resuelto por el FBI de J. Edgar Hoover."
+          "texto": "Fue uno de los primeros casos bajo la llamada ley Lindbergh contra el secuestro y uno de los grandes éxitos del FBI de J. Edgar Hoover."
         },
         {
           "voz": "alvaro",
@@ -92,7 +95,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Kathryn salió en libertad en 1958 y vivió con otro nombre en Oklahoma hasta su muerte, en 1985."
+          "texto": "Kathryn salió en libertad en 1958 y murió en 1985. Para entonces, el apodo de su marido ya era más famoso que cualquiera de sus delitos."
         },
         {
           "voz": "alvaro",
@@ -109,5 +112,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Oklahoma Historical Society (secuestro, granja de Paradise, rescate de 200.000 dólares, liberación el 30 de julio, arrestos de los Shannon, Bailey y Bates, 21 condenas, sentencias de cadena perpetua del juez Vaught) y Wikipedia en inglés (apodo, Kathryn, arresto en Memphis, mito de G-Men, juicio filmado, 73.250 dólares recuperados, Alcatraz, muerte de Kelly el 18 de julio de 1954, salida de Kathryn en 1958). Las dos páginas del FBI dieron 403. Sin contradicciones con la ficha. La frase «No disparéis, G-Men» se da como leyenda/mito (ficha). Kelly estaba «sin armas y se rindió» es lo que recoge Wikipedia como versión del FBI. La muerte de Kelly y la salida de Kathryn solo constan en Wikipedia (ficha). El invitado de Urschel (Walter Jarrett) no se nombra. Discrepancia menor: no consta en las fuentes abiertas la cantidad exacta de casas/agentes en la detención de Memphis; el guion se limita a lo de la ficha. Importante: la ficha dice que condenaron a ambos el 12 de octubre; Oklahoma Historical Society habla de siete juzgados en septiembre y octubre; el guion dice solo que el caso produjo veintiuna condenas."
+  "nota_revision": "Fuentes abiertas: Oklahoma Historical Society (secuestro, granja de Paradise, rescate de 200.000 dólares, liberación el 30 de julio, arrestos de los Shannon, Bailey y Bates, 21 condenas, sentencias de cadena perpetua del juez Vaught) y Wikipedia en inglés (apodo, Kathryn, arresto en Memphis, mito de G-Men, juicio filmado, 73.250 dólares recuperados, Alcatraz, muerte de Kelly el 18 de julio de 1954, salida de Kathryn en 1958). Las dos páginas del FBI dieron 403. Sin contradicciones con la ficha. La frase «No disparéis, G-Men» se da como leyenda/mito (ficha). Kelly estaba «sin armas y se rindió» es lo que recoge Wikipedia como versión del FBI. La muerte de Kelly y la salida de Kathryn solo constan en Wikipedia (ficha). El invitado de Urschel (Walter Jarrett) no se nombra. Discrepancia menor: no consta en las fuentes abiertas la cantidad exacta de casas/agentes en la detención de Memphis; el guion se limita a lo de la ficha. Importante: la ficha dice que condenaron a ambos el 12 de octubre; Oklahoma Historical Society habla de siete juzgados en septiembre y octubre; el guion dice solo que el caso produjo veintiuna condenas. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

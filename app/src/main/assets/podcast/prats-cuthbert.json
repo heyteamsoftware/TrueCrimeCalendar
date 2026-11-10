@@ -11,8 +11,6 @@
     "Palermo": "Palermo",
     "Michael Townley": "Máikel Táunli",
     "Townley": "Táunli",
-    "Mariana Callejas": "Mariana Cayéjas",
-    "Callejas": "Cayéjas",
     "Arancibia Clavel": "Arancíbia Clável",
     "DINA": "dina",
     "Manuel Contreras": "Manuel Contréras",
@@ -54,7 +52,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cuatro días después del golpe de 1973, partió al exilio en Argentina. Allí vivió con restricciones para hablar en público. Escribió unas memorias que criticaban a muchos militares y políticos. Sus hijas las rescataron y se publicaron en México."
+          "texto": "Cuatro días después del golpe de 1973, partió al exilio en Argentina. Allí vivió con restricciones para hablar en público. Escribió unas memorias que criticaban a muchos militares y políticos. Sus hijas las rescataron."
         },
         {
           "voz": "alvaro",
@@ -66,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Townley confesó, tras un acuerdo con la justicia de Estados Unidos, que fabricó, colocó y detonó la bomba. Según los documentos, lo hizo junto con Mariana Callejas, también agente. Callejas intentó accionar el detonador y no funcionó. Entonces lo hizo Townley."
+          "texto": "Townley confesó, tras un acuerdo con la justicia de Estados Unidos, que preparó la bomba, la colocó bajo el coche y la hizo estallar. Lo contó él mismo, y esa confesión es la base de lo que se sabe de la ejecución material."
         },
         {
           "voz": "alvaro",
@@ -102,7 +100,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Sus hijas rescataron las memorias de Prats. En 1983 pidieron la extradición de Townley a Argentina, pero un juez de Estados Unidos lo impidió por un acuerdo judicial anterior. Siguieron esperando casi treinta años."
+          "texto": "Sus hijas rescataron las memorias de Prats y esperaron durante décadas a que la justicia hablara. Ni Prats ni su esposa aparecen en este expediente como un símbolo, sino como dos personas que volvían a casa."
         },
         {
           "voz": "ximena",
@@ -111,5 +109,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: National Security Archive (Kornbluh, 2024) y Human Rights Watch (2003). BBC (2000, 2004) y Memoria Viva no se abrieron; la condena de Arancibia Clavel en 2000 (BBC) y su confirmación en 2004 vienen de la ficha. Wikipedia no se abrió. Sin contradicciones con la ficha. Discrepancias: dirección (Malabia 3351 o 3305; el guion dice solo calle Malabia); NSA dice que Callejas intentó accionar el detonador y que Townley lo hizo después (se atribuye a los documentos); HRW habla de procesamientos en 2003 y NSA de condenas en junio de 2010 (los dos se recogen). Pinochet: la orden de Pinochet viene del NSA, con documentos; nunca fue procesado por este crimen (el guion lo dice así). Mariana Callejas: la ficha la cita como colaboradora de Townley; el guion lo atribuye a los documentos y no dice que fuera condenada. No se nombra a los Iturriaga ni a Zara (procesados en 2003; no consta condena en las fuentes abiertas)."
+  "nota_revision": "Fuentes abiertas: National Security Archive (Kornbluh, 2024) y Human Rights Watch (2003). BBC (2000, 2004) y Memoria Viva no se abrieron; la condena de Arancibia Clavel en 2000 (BBC) y su confirmación en 2004 vienen de la ficha. Wikipedia no se abrió. Sin contradicciones con la ficha. Discrepancias: dirección (Malabia 3351 o 3305; el guion dice solo calle Malabia); NSA dice que Callejas intentó accionar el detonador y que Townley lo hizo después (se atribuye a los documentos); HRW habla de procesamientos en 2003 y NSA de condenas en junio de 2010 (los dos se recogen). Pinochet: la orden de Pinochet viene del NSA, con documentos; nunca fue procesado por este crimen (el guion lo dice así). Mariana Callejas: la ficha la cita como colaboradora de Townley; el guion lo atribuye a los documentos y no dice que fuera condenada. No se nombra a los Iturriaga ni a Zara (procesados en 2003; no consta condena en las fuentes abiertas). VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

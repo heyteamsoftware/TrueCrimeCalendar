@@ -23,7 +23,10 @@
     "Raspe": "Ráspe",
     "RAF": "erre a efe",
     "SS": "ese ese",
-    "Daimler-Benz": "Déimler Bens"
+    "Daimler-Benz": "Déimler Bens",
+    "Lufthansa": "Luftjansa",
+    "Jan-Carl": "Yan Karl",
+    "Gudrun": "Gúdrun"
   },
   "cintas": [
     {
@@ -101,7 +104,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Los secuestradores no consiguieron lo que querían. Los presos no salieron y la mayoría de los alemanes apoyó la firmeza del Estado."
+          "texto": "Los secuestradores no consiguieron lo que querían. El Gobierno no cedió y los presos no salieron de la cárcel."
         },
         {
           "voz": "ximena",
@@ -114,5 +117,5 @@
       ]
     }
   ],
-  "nota_revision": "Cifras y datos: el guion usa «más de seis semanas» porque la ficha dice 43 días (el comunicado de la RAF también) y el Spiegel de 2007 dice 44. El cochecito de bebé de la ficha (campo «mo») no aparece en la Wikipedia alemana, que dice que un coche amarillo salió marcha atrás de una entrada y cortó la calle; el guion usa esa versión y no menciona el cochecito (habría que verificarlo en Aust o en Peters). Hora: 17:28 según la Wikipedia alemana (17:10 es la hora en que salió de la sede de la patronal). Condenas: la Wikipedia alemana da siete condenas a cadena perpetua (Wisniewski, Schulz, Mohnhaupt, Klar, Boock, Wagner, Hofmann) y tres penas de siete a diez años por la ley del arrepentido (Maier-Witt, Helbing, Sternebeck); el guion no nombra a los condenados. Quién disparó a Schleyer: Boock señaló en 2007 a Wisniewski y a Rolf Heißler sin haberlo presenciado; el guion no los nombra para no señalar a nadie con una versión de oídas (Heißler no figura entre los condenados por el secuestro). El archivado erróneo del aviso policial sobre el piso de Erftstadt y la pistola sin asignar en la calle (posible quinta persona) salen de la Wikipedia alemana; no se pudieron contrastar con una segunda fuente. Que los presos de Stammheim se suicidaron es la conclusión oficial que recogen LeMO y la Wikipedia. Fuentes abiertas: LeMO, Welt, Spiegel (2007) y la Wikipedia alemana; el NYT, la KAS y la FAZ no se abrieron."
+  "nota_revision": "Cifras y datos: el guion usa «más de seis semanas» porque la ficha dice 43 días (el comunicado de la RAF también) y el Spiegel de 2007 dice 44. El cochecito de bebé de la ficha (campo «mo») no aparece en la Wikipedia alemana, que dice que un coche amarillo salió marcha atrás de una entrada y cortó la calle; el guion usa esa versión y no menciona el cochecito (habría que verificarlo en Aust o en Peters). Hora: 17:28 según la Wikipedia alemana (17:10 es la hora en que salió de la sede de la patronal). Condenas: la Wikipedia alemana da siete condenas a cadena perpetua (Wisniewski, Schulz, Mohnhaupt, Klar, Boock, Wagner, Hofmann) y tres penas de siete a diez años por la ley del arrepentido (Maier-Witt, Helbing, Sternebeck); el guion no nombra a los condenados. Quién disparó a Schleyer: Boock señaló en 2007 a Wisniewski y a Rolf Heißler sin haberlo presenciado; el guion no los nombra para no señalar a nadie con una versión de oídas (Heißler no figura entre los condenados por el secuestro). El archivado erróneo del aviso policial sobre el piso de Erftstadt y la pistola sin asignar en la calle (posible quinta persona) salen de la Wikipedia alemana; no se pudieron contrastar con una segunda fuente. Que los presos de Stammheim se suicidaron es la conclusión oficial que recogen LeMO y la Wikipedia. Fuentes abiertas: LeMO, Welt, Spiegel (2007) y la Wikipedia alemana; el NYT, la KAS y la FAZ no se abrieron. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }

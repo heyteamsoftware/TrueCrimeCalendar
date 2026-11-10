@@ -61,7 +61,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Hacia las dos de la tarde, entre cien y ciento cincuenta hombres armados, algunos con mujeres y niños detrás, se dividieron y rodearon el barrio chino. Aquel día era fiesta en China y muchos mineros estaban en casa, sin saber nada."
+          "texto": "Hacia las dos de la tarde, entre cien y ciento cincuenta hombres armados, algunos con mujeres y niños detrás, se dividieron y rodearon el barrio chino. Muchos mineros estaban en casa o en el trabajo, sin saber nada."
         },
         {
           "voz": "ximena",
@@ -85,7 +85,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Una matanza a plena luz del día, ante cientos de personas. Y ningún testigo. El silencio es una prueba también, aunque no la de un tribunal. A los detenidos los recibió una multitud el día que salieron."
+          "texto": "Una matanza a plena luz del día, ante cientos de personas. Y ningún testigo. El silencio es una prueba también, aunque no la de un tribunal. Los detenidos quedaron en libertad sin ser juzgados."
         },
         {
           "voz": "ximena",
@@ -110,5 +110,5 @@
       ]
     }
   ],
-  "nota_revision": "Cifra: 28 muertos y 15 heridos (WyoHistory y la ficha); algunas fuentes hablan de 40 o 50 muertos. Indemnización: la ficha da 147.748,74 dólares (gesto de buena voluntad, no reconocimiento de responsabilidad); el guion dice solo «unos 150.000 dólares» y que el Congreso acabó pagando. Detenidos: dieciséis según la ficha y WyoHistory (uno era un diputado electo del territorio, que no se nombra); el gran jurado no los acusó y quedaron libres el 7 de octubre. Nadie fue condenado. Fuentes abiertas: WyoHistory.org (entera) y Wikipedia en inglés (sección de arrestos); los artículos del New York Times dan error 403. Detalle de los vagones: WyoHistory. No se describen los cuerpos ni la violencia."
+  "nota_revision": "Cifra: 28 muertos y 15 heridos (WyoHistory y la ficha); algunas fuentes hablan de 40 o 50 muertos. Indemnización: la ficha da 147.748,74 dólares (gesto de buena voluntad, no reconocimiento de responsabilidad); el guion dice solo «unos 150.000 dólares» y que el Congreso acabó pagando. Detenidos: dieciséis según la ficha y WyoHistory (uno era un diputado electo del territorio, que no se nombra); el gran jurado no los acusó y quedaron libres el 7 de octubre. Nadie fue condenado. Fuentes abiertas: WyoHistory.org (entera) y Wikipedia en inglés (sección de arrestos); los artículos del New York Times dan error 403. Detalle de los vagones: WyoHistory. No se describen los cuerpos ni la violencia. VERIFICACIÓN nuevos-septiembre: guion revisado por un segundo agente; correcciones en docs/revision_guiones/nuevos-septiembre.md."
 }
