@@ -1,6 +1,6 @@
 {
   "id": "hogel",
-  "titulo": "Los cementerios del norte",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Niels Högel": "Nils Jéguel",
@@ -8,109 +8,58 @@
     "Wilhelmshaven": "Vilhelmsjáfen",
     "Oldenburg": "Óldenburg",
     "Delmenhorst": "Délmenjorst",
-    "Kristen Gilbert": "Krísten Guílbert"
+    "Weser-Ems-Hallen": "Véser Ems Jálen",
+    "Christian Marbach": "Krístian Márbaj"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Delmenhorst, norte de Alemania, junio de 2005. Una enfermera entra en la habitación de un paciente de cuidados intensivos y sorprende a un compañero junto a la cama, con una jeringa en la mano. Nadie le había indicado que administrara ese medicamento."
+      "n": 1,
+      "titulo": "Cuatro ampollas vacías",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Niels Högel y los pacientes de Oldenburg y Delmenhorst. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Cuatro ampollas vacías." },
+        { "voz": "ximena", "texto": "Delmenhorst, norte de Alemania, 22 de junio de 2005. En la unidad de cuidados intensivos de una clínica, unos compañeros sorprenden a un enfermero junto a la cama de un paciente. Le está administrando un medicamento que nadie le había recetado." },
+        { "voz": "ximena", "texto": "Poco después, una enfermera encuentra cuatro ampollas vacías del mismo fármaco, un medicamento para el corazón. El enfermero se llama Niels Högel. Tiene veintiocho años. Y ese gesto es el primer hilo del mayor caso de asesinatos en serie de la Alemania de posguerra." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto un detalle que me incomoda. La clínica abrió una investigación interna, pero Högel tenía vacaciones dos días después y siguió trabajando. La noche del 24 de junio murió otro paciente. Es lo que cuentan las crónicas del caso." },
+        { "voz": "ximena", "texto": "Niels Högel nació el 30 de diciembre de 1976 en Wilhelmshaven, en la costa de la Baja Sajonia. A los diecinueve años era enfermero, como su padre. En 1999 empezó a trabajar en la unidad de cuidados intensivos de cirugía cardíaca de la clínica de Oldenburg." },
+        { "voz": "ximena", "texto": "Allí se ganó fama de enfermero eficaz en las emergencias. Aparecía siempre que un paciente entraba en parada cardíaca, y destacaba en las reanimaciones. Nadie sospechó, al principio, que él provocaba aquellas paradas." },
+        { "voz": "alvaro", "texto": "Esto es lo que más pesa en el expediente. Lo hacía, según él mismo contó después, por una necesidad de reconocimiento. Provocaba una crisis para lucirse al reanimar. No voy a detallar cómo. Lo que importa es lo que nadie hizo con las señales." },
+        { "voz": "ximena", "texto": "En el verano de 2001, algunos compañeros de Oldenburg comentaron que las reanimaciones y las muertes aumentaban en los turnos de Högel. Él se tomó tres semanas de baja. Mientras estuvo fuera, murieron menos pacientes. Cuando volvió, volvieron a aumentar." },
+        { "voz": "ximena", "texto": "No se tomó ninguna medida. En septiembre de 2002, un médico jefe habló con él y le dio a elegir: dimitir con tres meses de sueldo o pasar al transporte de pacientes. El 10 de octubre de 2002, la clínica le entregó un informe elogioso." },
+        { "voz": "alvaro", "texto": "Un buen informe para quien se iba con sospechas encima. Lo leo y me pregunto qué pensó quien lo firmó. Las familias, años después, lo llamaron una negligencia. No es un juicio mío. Es lo que dijeron ellos." },
+        { "voz": "ximena", "texto": "Con aquel informe, Högel empezó a trabajar en la clínica de Delmenhorst el 15 de diciembre de 2002. Los compañeros lo apodaron «el Rambo de las reanimaciones», por las muchas veces que estaba presente cuando un paciente se agravaba." },
+        { "voz": "ximena", "texto": "En 2003 y 2004 las muertes en su unidad casi se duplicaron, y el consumo de uno de los fármacos para el corazón se disparó. Algunos colegas sospecharon y se distanciaron de él. Pero nadie pudo probar nada. Nadie actuó." },
+        { "voz": "alvaro", "texto": "Los números estaban ahí, en los registros de la propia clínica. La mortalidad se doblaba, el medicamento se agotaba, y él estaba de turno casi siempre. Un patrón así es una prueba. Pero hace falta que alguien lo mire." },
+        { "voz": "ximena", "texto": "Después de lo del 22 de junio, Högel fue detenido. En 2008 lo condenaron por un intento de asesinato a siete años y medio de prisión y a la prohibición de ejercer su profesión. La justicia parecía haber cerrado el caso." },
+        { "voz": "ximena", "texto": "No lo estaba. Los familiares de otros pacientes fallecidos en las dos clínicas no se rindieron. Pidieron investigaciones, y en 2008, bajo su presión, la fiscalía ordenó exhumar ocho cuerpos." },
+        { "voz": "alvaro", "texto": "Ocho cuerpos. Y una cifra de la que nadie quería hablar. Con el tiempo se supo que aquello era solo el principio, y que lo que parecía un solo incidente era una serie de años." },
+        { "voz": "ximena", "texto": "En 2014 se abrió una nueva investigación, y esta vez se pusieron los medios. Lo que descubrió, y lo que Högel acabó reconociendo, es lo que cuenta la cinta dos." }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "El paciente sufre poco después una crisis grave. Y ese gesto, sorprendido a tiempo, es el primer hilo del mayor caso de asesinatos en serie de la Alemania de posguerra."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Un enfermero de cuidados intensivos? ¿Precisamente quien tenía que salvarlos?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Niels Högel, el enfermero criminal alemán."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació en 1976 en Wilhelmshaven, en una familia vinculada a la sanidad. Se formó como enfermero y trabajó primero en la clínica de Oldenburg y, desde 2003, en la de Delmenhorst, dos ciudades cercanas de la Baja Sajonia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Tenía fama de enfermero eficaz en las emergencias. Siempre parecía estar presente cuando un paciente entraba en parada cardíaca, y destacaba en las reanimaciones."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Me suena. Es un patrón que ya hemos visto en otros ángeles de la muerte."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Lo es. Según su propia confesión, provocaba crisis cardíacas a pacientes con medicamentos para después intentar reanimarlos. Lo hacía, dijo, por aburrimiento y para lucirse ante sus compañeros."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En Oldenburg hubo sospechas. Algunos compañeros notaron que las muertes y las reanimaciones aumentaban en sus turnos. Pero en lugar de denunciarlo, según se supo después, la clínica facilitó su salida con una buena carta de recomendación."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con esa carta llegó a Delmenhorst. Y allí siguió matando, hasta aquel día de junio de 2005."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En Delmenhorst, el consumo de uno de los fármacos que utilizaba se disparó durante su etapa en la unidad. Y el número de reanimaciones y de muertes también. Nadie se preguntó a tiempo por qué."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Las cifras estaban ahí. Solo que nadie las estaba mirando."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hubo varias oportunidades de detenerlo, y se perdieron. Tras ser sorprendido en Delmenhorst, fue juzgado por intento de asesinato y condenado a prisión en 2008. Pero el caso parecía limitarse a un único episodio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Fueron los familiares de otros pacientes fallecidos quienes no se rindieron. Insistieron, pidieron investigaciones y presionaron para que se revisaran más muertes en las dos clínicas. Algunos, como el nieto de uno de los fallecidos, se convirtieron durante años en la voz de todas las familias."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En un nuevo juicio, en 2015, fue condenado a cadena perpetua por dos asesinatos. Y durante ese proceso dijo algo que heló la sala: admitió alrededor de treinta muertes más."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Treinta. Y eso fue solo el principio."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. La policía creó una comisión especial. Se revisaron historiales clínicos y se exhumaron más de cien cuerpos en decenas de cementerios del norte de Alemania. Muchas familias no supieron que su ser querido podía ser una víctima hasta que la policía llamó a su puerta para pedir permiso para una exhumación."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muchos pacientes no pudieron analizarse porque habían sido incinerados. Aun así, los investigadores encontraron rastros de fármacos en numerosos cuerpos que nunca deberían haberlos tenido."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2019, en un tercer juicio celebrado en Oldenburg, fue condenado por ochenta y cinco asesinatos. Otra cadena perpetua. Las sesiones tuvieron que celebrarse en un gran recinto para eventos, porque la sala no bastaba para acoger a los familiares. Al final pidió perdón. Para muchas de aquellas familias, sus palabras llegaban demasiado tarde."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ese número, ochenta y cinco, es solo lo que se pudo demostrar. Los investigadores creen que la cifra real podría ser mucho mayor, y se ha llegado a hablar de más de trescientas víctimas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué pasó con quienes miraron hacia otro lado?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Años después, varios antiguos responsables y empleados de las dos clínicas fueron llevados a juicio por no haberlo detenido a tiempo. El caso obligó, además, a revisar los controles de medicamentos y los sistemas de alerta en los hospitales alemanes. En Baja Sajonia, por ejemplo, se reforzaron por ley la vigilancia de los fármacos y los canales para que el personal pueda comunicar sus sospechas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En este archivo, su expediente comparte etiqueta con otros ángeles de la muerte, como el de la enfermera estadounidense Kristen Gilbert. Casos distintos con una lección común: los patrones de mortalidad también son pruebas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y detrás de cada cifra hay una persona ingresada en un hospital, que confiaba en recibir cuidados. Familias que, en muchos casos, tardaron más de una década en saber la verdad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Niels Högel. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "El recinto de eventos",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. El recinto de eventos." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Niels Högel: la investigación que se abrió en 2014, los juicios y lo que quedó sin respuesta." },
+        { "voz": "ximena", "texto": "Con el caso reabierto, la fiscalía revisó cientos de historiales clínicos. Se examinaron más de doscientos casos sospechosos y se exhumaron ciento treinta y cuatro cuerpos, en Alemania, en Polonia y en Turquía. Muchos pacientes habían sido incinerados, y eso limitó lo que se pudo probar." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Imagino lo que supone esa llamada. Una familia recibe un aviso de la policía: quieren exhumar a un familiar enterrado años antes. Muchos no sabían que su ser querido pudiera ser una víctima. Y esa llamada, en muchos casos, llegó más de diez años tarde." },
+        { "voz": "ximena", "texto": "En septiembre de 2014, Högel fue acusado de tres asesinatos y dos intentos. En el juicio confesó, y dijo que había cometido treinta más. El 28 de febrero de 2015, el tribunal de Oldenburg lo condenó a cadena perpetua por dos asesinatos y dos intentos de asesinato." },
+        { "voz": "ximena", "texto": "Los fiscales dijeron que lo hizo por aburrimiento y por el deseo de lucirse reanimando. Los investigadores seguían encontrando casos. En noviembre de 2017 hablaban de ciento seis muertes, y en enero de 2018 acusaron a Högel de noventa y siete asesinatos." },
+        { "voz": "ximena", "texto": "El juicio empezó el 30 de octubre de 2018. Se celebró en un recinto de eventos, el Weser-Ems-Hallen, en Oldenburg, porque había ciento veinte acusadores particulares, familiares casi todos, y la sala de justicia no bastaba. Al empezar, a la pregunta del tribunal, Högel respondió en voz baja que sí." },
+        { "voz": "alvaro", "texto": "Admitió cuarenta y tres de los cien cargos, dijo que no recordaba otros cincuenta y dos y negó cinco. Un psicólogo forense concluyó que decía la verdad. Pero fíjate en lo que eso significa: una parte enorme de los casos solo consta por lo que él quiso recordar." },
+        { "voz": "ximena", "texto": "El 6 de junio de 2019, el tribunal lo condenó por ochenta y cinco asesinatos, cometidos entre 2000 y 2005, y lo absolvió de quince cargos. Impuso cadena perpetua, declaró la especial gravedad de la culpa y le prohibió de por vida ejercer como enfermero." },
+        { "voz": "ximena", "texto": "El Tribunal Supremo Federal confirmó la sentencia el 11 de septiembre de 2020. En marzo de 2026, el tribunal de Oldenburg fijó un mínimo de veintiocho años de cumplimiento. No es una fecha de salida: antes habría que comprobar si sigue siendo peligroso." },
+        { "voz": "alvaro", "texto": "Ochenta y cinco es lo que se pudo demostrar. Los investigadores hablaron de «la punta del iceberg», y se ha llegado a estimar unas trescientas víctimas. Es una estimación, no una condena. Pero obliga a recordar que detrás de cada cifra hay alguien que confiaba en recibir cuidados." },
+        { "voz": "ximena", "texto": "Quedaba una pregunta: quién miró hacia otro lado. En 2022, siete antiguos superiores de las dos clínicas fueron juzgados por no haber actuado ante las sospechas. El 13 de octubre de 2022 los absolvieron a todos. El presidente del tribunal dijo que no era una absolución por falta de pruebas, sino porque no hubo conducta dolosa." },
+        { "voz": "alvaro", "texto": "Anoto lo que la sentencia no resolvió. Que no hubiera delito no significa que no hubiera errores. Christian Marbach, portavoz de las familias, dijo que las muertes se habrían podido evitar. Es su opinión, y la de muchos. La justicia penal tiene sus límites." },
+        { "voz": "ximena", "texto": "Tras el primer juicio, ambas clínicas prometieron indemnizar a las familias. Y en 2015 anunciaron que cada fallecimiento llevaría una segunda inspección por otro médico forense, para detectar muertes no naturales." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a los pacientes que ingresaron en una clínica para curarse, y a las familias que durante años no supieron la verdad." },
+        { "voz": "ximena", "texto": "Fin del expediente Niels Högel y los pacientes de Oldenburg y Delmenhorst. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "x"
 }

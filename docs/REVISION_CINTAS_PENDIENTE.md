@@ -53,3 +53,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **abril 16-30:** Gerardi (en Wikipedia sigue «abierto en la Fiscalía»), Stephen Lawrence (lo de 2025 viene de Wikipedia en inglés). Pronunciaciones a oído: nombres portugueses, alemanes y «Báunti».
 - **febrero y agosto (restos):** pronunciaciones a oído de nombres bengalíes, irlandeses, italianos y suecos. braybrook: fecha de captura (15/11) y suspensión de la pena de muerte en 1965 sin segunda fuente.
 - **octubre 1-15:** sadat (cargos de las víctimas), zodiac (descifrado de 2020 y SFGate 2004), wanninkhof (el homenaje de abril de 2026 solo estaba previsto), calas, carlos-chacal (conversión al islam) sin segunda fuente.
+- **octubre 16-31:** popieluszko (fuga del chófer y maletero solo en la ficha), ito-hirobumi (monumento de Harbin), gloria-martinez (nombre de una menor con familia pública, 34 años). Pronunciaciones: polaco, ruso, alemán, japonés, coreano y árabe.
