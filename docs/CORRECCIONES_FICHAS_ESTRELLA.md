@@ -80,3 +80,16 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## ramirez
 
 - Condenado por 13 asesinatos; se le atribuyen al menos 14.
+
+## kraft
+
+- La ficha dice «moratoria de ejecuciones vigente»; ver el anuncio de Newsom del 5 de noviembre de 2026.
+- Era programador, no «consultor informático».
+
+## gacy
+
+- Los cuerpos estaban en el hueco bajo la casa, no en un sótano.
+
+## toppan
+
+- **Víctimas:** las fuentes dicen «hasta 100» o «más de 100»; la ficha da 70-100.

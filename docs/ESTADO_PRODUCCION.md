@@ -38,7 +38,7 @@ Hecho antes: `brady` (piloto).
 | febrero A | ishikawa norris hansen ridgway | lanzado |
 | febrero B | cullen muehlberg wuornos ramirez | ✓ hecho (4/4) |
 | marzo A | toole rader gaskins king | lanzado |
-| marzo B | ireland gacy kraft toppan | lanzado |
+| marzo B | ireland gacy kraft toppan | ✓ hecho (4/4) |
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
 | abril B | landru harvey yoo black | lanzado |
 | mayo A | homolka beck bryant holmes | lanzado |
