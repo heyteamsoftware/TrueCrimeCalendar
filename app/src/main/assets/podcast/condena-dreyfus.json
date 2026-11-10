@@ -1,0 +1,127 @@
+{
+  "id": "condena-dreyfus",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alfred Dreyfus": "Alfréd Dréifus",
+    "Dreyfus": "Dréifus",
+    "Cherche-Midi": "Sherch Midí",
+    "bordereau": "borderó",
+    "La Libre Parole": "La Líbr Paról",
+    "RetroNews": "Retronius",
+    "La Justicia": "La Yustís",
+    "Marie-Georges Picquart": "Marí Yorch Pikár",
+    "Picquart": "Pikár",
+    "Esterhazy": "Esterasí",
+    "Émile Zola": "Emíl Zolá",
+    "L'Aurore": "Lorór",
+    "Émile Loubet": "Emíl Lubé",
+    "Rennes": "Ren"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un papel en una papelera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Dreyfus. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un papel en una papelera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 22 de diciembre de 1894. En una sala de la calle del Cherche-Midi, cerrada al público, siete jueces militares terminan de deliberar. Al principio de esas deliberaciones, el presidente del tribunal recibió un sobre sellado que la defensa nunca vio. Poco después, el veredicto es unánime."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un sobre secreto entregado a los jueces en mitad de un proceso. Eso solo ya bastaría para anular cualquier condena. Y la anularon, pero tardaron doce años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El acusado era el capitán Alfred Dreyfus, oficial de artillería, judío y de origen alsaciano. Se le acusaba de entregar notas militares secretas a Alemania."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prueba central era una nota sin firma, el famoso bordereau. Según la Asamblea Nacional francesa, había sido encontrada en una papelera. Se atribuyó a Dreyfus."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es la clave del error judicial. Un papel anónimo, atribuido a un hombre concreto, en un país donde, además, los periódicos ya llevaban semanas repitiendo su nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un diario antisemita, La Libre Parole, había lanzado una violenta campaña de prensa. Dreyfus fue arrestado en octubre de 1894 por orden del ministro de la Guerra y juzgado a puerta cerrada en diciembre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue condenado a deportación perpetua, expulsión del ejército y degradación militar. Según RetroNews, se libró de la pena de muerte porque estaba abolida para delitos políticos desde 1848."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La prensa lo condenó sin dudar. Según RetroNews, el periódico La Justicia titulaba «El traidor», y otro diario lamentó que no lo hubieran ejecutado. Casi nadie dudó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo degradaron en la Escuela Militar de París el 5 de enero de 1895. Después lo llevaron a la isla del Diablo, frente a la Guayana Francesa, adonde llegó en marzo de 1895."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dreyfus se declaró inocente. Siempre. Pero su voz quedó al otro lado del Atlántico, en una isla, mientras en Francia el asunto parecía cerrado para siempre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1896, el teniente coronel Marie-Georges Picquart, jefe de la sección de estadística del ejército, abrió una contrainvestigación. Concluyó que el autor era el comandante Esterhazy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1898, un tribunal militar juzgó a Esterhazy y lo absolvió por unanimidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fue el momento más oscuro. El verdadero sospechoso, absuelto. El inocente, en una isla. Y, sin embargo, el sistema empezó a crujir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 13 de enero de 1898, el escritor Émile Zola publicó en el diario L'Aurore una carta abierta al presidente de la República, titulada «Yo acuso». Criticaba al tribunal militar. Zola fue condenado por difamación a un año de prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Francia se dividió entre dreyfusistas y antidreyfusistas. Lo que había empezado como un proceso militar se volvió una crisis nacional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero subrayar algo: el caso no se resolvió solo con pruebas. Se resolvió porque personas con poco que ganar se negaron a callar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1899, el Tribunal de Casación anuló la sentencia de 1894 y ordenó un nuevo consejo de guerra en Rennes. Ese tribunal volvió a declarar culpable a Dreyfus, esta vez con circunstancias atenuantes, y lo condenó a diez años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de septiembre de 1899, el presidente Émile Loubet lo indultó. Salió de prisión, pero su inocencia seguía sin reconocerse legalmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La reparación definitiva llegó el 12 de julio de 1906, cuando el Tribunal de Casación anuló la condena de 1899 sin enviarla a otro tribunal. Dreyfus fue readmitido en el ejército y recibió la Legión de Honor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda un hecho que incomoda: Esterhazy, a quien Picquart había señalado, fue absuelto por un tribunal militar en 1898. En 2025, una ley francesa ascendió a Dreyfus a general de brigada, a título póstumo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alfred Dreyfus fue inocente. Su caso quedó como la prueba de que un error judicial puede durar años, y de lo que cuesta repararlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Dreyfus. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Asamblea Nacional (cronología 1894-1906 y 2025) y RetroNews (2017). El día 22 y la unanimidad de siete jueces, de RetroNews. Papelera, sobre secreto, Picquart, Esterhazy, Zola, Rennes, indulto, 1906 y ley de 2025: Asamblea Nacional. Isla del Diablo y 12 de marzo de 1895: RetroNews. Degradación el 5 de enero de 1895: dato de la ficha (loc), no comprobado en estas dos fuentes. La Asamblea no menciona los peritos de la letra ni la isla del Diablo; no se usan. Inocencia declarada sin ambigüedad. Se omite el falso del comandante Henry y su suicidio por dudas de la página. Esterhazy: absuelto en 1898 (la ficha lo da como verdadero autor). Pronunciación a oído."
+}

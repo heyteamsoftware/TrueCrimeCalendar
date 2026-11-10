@@ -1,0 +1,119 @@
+{
+  "id": "brinks-mat",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Brink's-Mat": "Brinks Mat",
+    "Heathrow": "Jíthrou",
+    "Anthony Black": "Ántoni Blak",
+    "Brian Robinson": "Braian Róbinson",
+    "Micky McAvoy": "Míki Macavói",
+    "Kenneth Noye": "Kénet Noi",
+    "Noye": "Noi",
+    "John Fordham": "Yon Fórdam",
+    "The Observer": "Di Obsérver",
+    "Londres": "Londres"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Seis mil ochocientos lingotes",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El robo de Brink's-Mat. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Seis mil ochocientos lingotes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Heathrow, Londres, sábado 26 de noviembre de 1983. Poco después de las seis y cuarenta de la mañana, seis hombres armados irrumpen en el almacén de la empresa de seguridad Brink's-Mat."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reducen a los guardias. Los rocían con gasolina y amenazan con prenderles fuego si no dan las combinaciones de las cámaras. Nadie muere en el atraco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Nadie murió, pero la amenaza era quemar vivos a unos hombres desarmados. Eso también forma parte del expediente, aunque casi siempre se recuerde solo el oro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los ladrones esperaban dinero en efectivo: unos tres millones de libras. En las cámaras encontraron otra cosa: seis mil ochocientos lingotes de oro, valorados en unos veintiséis millones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto cambia todo. Un atracador sabe qué hacer con billetes. Con oro, no. Según The Observer, nadie en el círculo cercano de los ladrones tenía experiencia en manejarlo, así que pidieron ayuda por todo el hampa. Aquel oro cambió el mundo criminal de Londres, que hasta entonces trabajaba solo con dinero en efectivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía sospechó enseguida de un infiltrado. Los atracadores conocían el sistema de seguridad. Entre los guardias, uno había llegado tarde al trabajo y se había librado del atraco: Anthony Black."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo interrogaron y confesó. Dio nombres, entre ellos el de Brian Robinson, un veterano atracador del sur de Londres, y el de Micky McAvoy. Black declaró contra la banda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el error de los ladrones. Unas semanas después del atraco, McAvoy se mudó de una casa de protección oficial a una mansión. Y puso a sus dos perros de presa de nombre Brinks y Mat."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1984, Robinson y McAvoy fueron condenados a veinticinco años de cárcel. Black, el guardia que había dado la información, recibió seis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el oro ya no estaba. Se había fundido y blanqueado a través de una red que, según la prensa, dejó varios muertos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa red es el verdadero legado del caso. Un botín así necesita muchos cómplices. El grupo que lo atracó apenas era el principio, y buena parte de la investigación se perdió siguiendo el rastro del oro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de ellos fue Kenneth Noye. En 1985, un policía que vigilaba de incógnito su finca de Kent, John Fordham, murió apuñalado allí. Noye fue juzgado por su muerte y absuelto de asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1986 volvió a los tribunales por ayudar a deshacerse del oro y fue condenado a catorce años de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución es una absolución. Lo único que se probó contra Noye en aquel caso fue su participación en el manejo del oro. La muerte del policía quedó, en el plano judicial, sin condena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2003, The Observer contó que al menos nueve asesinatos se habían relacionado con la búsqueda del dinero del atraco, y que al menos diez millones de libras seguían sin aparecer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ojo: es lo que el periódico llamó la maldición del Brink's-Mat. Son vínculos que se atribuyen, no sentencias. Ninguna de las fuentes que se citan habla de condenas que los unan al atraco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "McAvoy salió de prisión en el año 2000. Según The Observer, le dijeron entonces que su parte del oro se había esfumado y que la culpa era de otros. Una versión que el periódico atribuye a fuentes del hampa y no confirma."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La paradoja es redonda: el hombre que se hizo rico en un día no pudo cobrar nada de aquello, y el guardia que habló fue el único que cumplió pena corta. Es la lección del crimen organizado: el botín nunca es de quien lo roba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Que se recuerde a los guardias de aquella mañana: la gasolina, la amenaza y el miedo de saber que podían morir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sigue sin saberse adónde fue buena parte del oro. Es un expediente donde casi nada del botín volvió a su dueño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El robo de Brink's-Mat. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso con condenas. Fuentes abiertas: The Observer/Guardian (2003, copia archivada) y BBC News (2007), ambas leídas. La ficha atribuye el parentesco de Black a Robinson (BBC), mientras que The Observer dice que Black nombró a McAvoy y The Independent (1996, no abierta) lo hace cuñado de McAvoy: el guion dice solo que Black «confesó y dio nombres». La ficha da 25 años a Robinson y McAvoy en diciembre de 1984; las fuentes abiertas confirman 25 años a McAvoy, 6 a Black y 14 a Noye en 1986 (dato de Robinson y fecha: solo de la ficha). Noye fue absuelto de asesinato por la muerte del policía John Fordham (The Observer: «cleared of murder»); se dice así. Se omiten los nombres de los asesinados después (el Observer los vincula al caso, pero no se acusa a nadie en ellos) y la condena posterior de Noye por otro asesinato. Cifras: 6.800 lingotes, 26 millones de libras, «al menos 10 millones sin localizar» en 2003. Pronunciaciones a oído."
+}

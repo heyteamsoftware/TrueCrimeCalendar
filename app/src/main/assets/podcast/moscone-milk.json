@@ -1,0 +1,120 @@
+{
+  "id": "moscone-milk",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Moscone": "Moscóne",
+    "George Moscone": "Yorch Moscóne",
+    "Harvey Milk": "Járvi Milk",
+    "Milk": "Milk",
+    "Dan White": "Dan Juáit",
+    "White": "Juáit",
+    "San Francisco": "San Francisco",
+    "Dianne Feinstein": "Daián Fáinstain",
+    "Jonestown": "Yónstaun",
+    "Jim Jones": "Yim Yons",
+    "White Night": "Juáit Náit"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una ventana del sótano",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Los asesinatos de Moscone y Milk. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una ventana del sótano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "San Francisco, 27 de noviembre de 1978. Hace diecisiete días que Dan White ha dejado su puesto de concejal. Ahora quiere recuperarlo. Esa mañana entra en el ayuntamiento por una ventana del sótano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No lo hace por la puerta principal porque hay detectores de metales. Va armado con un revólver."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. El detalle de la ventana es lo que me importa. No es un arrebato en el pasillo. Es un hombre que sabe cómo sortear un control y que lleva munición de sobra. Eso lo dejo anotado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hacia las diez y media, White se presenta en el despacho del alcalde, George Moscone. Había pedido hablar con él a solas. Moscone iba a nombrar a otra persona para el puesto que White ya había dejado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "White mató al alcalde. Después recargó el arma y fue a otra oficina, donde pidió ver al concejal Harvey Milk."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Milk aceptó reunirse con él porque en las oficinas del concejo nadie sabía todavía lo que había pasado en el despacho del alcalde. Es una de esas cosas que cuesta escuchar. Murió por una cita que aceptó con normalidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "White salió del ayuntamiento y se entregó a la policía. Ese mismo día, la presidenta del Concejo, Dianne Feinstein, anunció ante un ayuntamiento conmocionado que ambos habían muerto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Moscone, nacido en la ciudad y antiguo senador del estado, ganó la alcaldía en 1975."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Acababa de cumplir cuarenta y nueve años y dejaba esposa y cuatro hijos. Era el primer alcalde progresista de la ciudad moderna y había abierto el ayuntamiento a minorías que hasta entonces no tenían voz. Una semana antes, la ciudad había recibido la noticia de Jonestown, en Guyana, donde murieron más de novecientas personas de la secta de Jim Jones, que tenía su sede en San Francisco."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso importa. Dos tragedias en pocos días. La ciudad no tuvo tiempo de respirar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Harvey Milk era el primer cargo electo abiertamente gay de San Francisco. Moscone lo había nombrado para comisiones y juntas. White había votado contra la primera ordenanza de derechos de los gays de la ciudad, y Milk había pedido al alcalde que no lo volviera a nombrar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en 1979. White admitió los disparos. Su defensa alegó que estaba en un estado mental disminuido, por estrés, noches sin dormir y cambios de ánimo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el jurado lo creyó. La acusación era de asesinato. La palabra que se leyó fue otra: homicidio voluntario sin premeditación, por cada una de las dos muertes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La pena fue de menos de ocho años. Cumplió algo más de cinco. El 21 de mayo de 1979, la ciudad estalló: una noche de disturbios a las puertas del ayuntamiento, conocida como la White Night."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "California reaccionó cambiando la ley y eliminó la defensa de capacidad disminuida para casos futuros. Una condena no solo decide la suerte de un hombre. También cambia las reglas del juego."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En las horas siguientes a los asesinatos, la ciudad se llenó de vigilias con velas. Milk, conocido sobre todo en California en vida, ha acabado siendo un símbolo en todo el país, y su historia ha inspirado libros, una ópera y un documental premiado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "White salió de prisión y se quitó la vida dos años después. Su familia ha elegido llorar en privado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Del caso queda una pregunta que el archivo no resuelve: si aquel veredicto fue justicia. La sentencia fue la que fue."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "A mí me queda la mañana del ayuntamiento. Dos servidores públicos que fueron a trabajar y no volvieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milk recibió a título póstumo la Medalla Presidencial de la Libertad, y California declaró el 22 de mayo, día de su nacimiento, Día de Harvey Milk. Moscone es recordado, sobre todo, por el centro de convenciones que lleva su nombre. Merecía un recuerdo mayor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Los asesinatos de Moscone y Milk. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso con condena (homicidio voluntario sin premeditación, 1979). Fuentes abiertas leídas: LA Times (opinión de Getlin, 2008, testigo directo), History.com y SF Chronicle 2003 (la copia archivada solo muestra el titular: se usa solo para que se omite la «defensa Twinkie» por ser un mito, según la ficha). No se menciona la «defensa Twinkie»: el LA Times y History la citan como «famosa» y el Chronicle como mito; el guion dice solo que la defensa alegó estado mental disminuido. La ficha dice «primer cargo electo abiertamente gay de California» y el LA Times «de la ciudad»: el guion dice «de San Francisco». Ficha: condenado a menos de ocho años y cumplió cinco; LA Times: algo más de cinco años en custodia; el guion dice «algo más de cinco años». Suicidio de White dos años después de salir (LA Times), 1985 (ficha). No se dan detalles del número de disparos ni de la herida. Pronunciaciones a oído."
+}

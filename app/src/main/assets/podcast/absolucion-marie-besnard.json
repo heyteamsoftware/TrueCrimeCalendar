@@ -1,0 +1,116 @@
+{
+  "id": "absolucion-marie-besnard",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Marie Besnard": "Marí Benár",
+    "Besnard": "Benár",
+    "Léon": "León",
+    "Loudun": "Ludún",
+    "Georges Béroud": "Yorch Beru",
+    "Béroud": "Beru",
+    "Poitiers": "Puatié",
+    "Burdeos": "Burdeos",
+    "Louise Pintou": "Luís Pentú",
+    "Pintou": "Pentú",
+    "Time": "Táim"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Patatas en el cementerio",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La absolución de Marie Besnard. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Patatas en el cementerio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Burdeos, 1961. En el tribunal se habla de patatas. Según la defensa, el guarda del cementerio de Loudun las había cultivado entre las tumbas. Y las había abonado con un producto que contenía arsénico. ¿Era ese el origen de lo que se halló en los cuerpos?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese detalle puede parecer menor. Pero en juego estaba la vida de una mujer de sesenta y cinco años, Marie Besnard, acusada de envenenar con arsénico a una docena de personas, muchas de ellas familiares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Guarda esto: los análisis de la acusación decían que había arsénico en los cuerpos. Lo que se discutía era cómo había llegado allí, y si esos análisis eran fiables. Esa es una pregunta de la ciencia, no del chisme. Aunque el caso empezó con chismes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Loudun, una pequeña ciudad del oeste de Francia. Marie y su marido, Léon, eran gente acomodada. Cuando Léon murió, los médicos lo atribuyeron a una enfermedad de los riñones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero en el pueblo corrió el rumor de que lo habían envenenado. Una empleada de correos, Louise Pintou, tuvo un papel central en esos rumores. Se escribió al fiscal. Y se habló de las herencias que Marie había recibido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los rumores existen. Lo que importa es qué hace la justicia con ellos. En julio de 1949 se exhumó el cuerpo de Léon, y se encontró arsénico. Marie fue detenida el 21 de ese mes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después se exhumaron otros cuerpos de familiares y conocidos. El perito, un toxicólogo de Marsella, Georges Béroud, informó de arsénico en todos. Y todos habían dejado alguna herencia a Marie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasó casi cinco años en prisión preventiva. Su primer juicio se abrió en Poitiers, en 1952. Allí la defensa cuestionó los análisis: su abogado puso en duda cómo el perito distinguía el arsénico, y se habló de tubos mal etiquetados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo importante. El juicio se suspendió. Nuevos análisis de otros expertos contradijeron al primero, y la lista de víctimas se fue acortando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Segundo juicio, Burdeos, 1954. Los expertos de la policía de París también hallaron arsénico, pero los errores y las muestras mezcladas llevaron al tribunal a ordenar más estudios. Marie recibió libertad provisional bajo fianza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante ese proceso, informantes de la policía aseguraron que ella pensaba contratar a delincuentes contra sus vecinos. Los expertos, mientras tanto, seguían sin ponerse de acuerdo, y el juez nombró a unos peritos de rango superior para zanjarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene lo inquietante. Dos juicios, más de una década de procedimiento, y los expertos seguían sin ponerse de acuerdo. Cuando la ciencia no puede dar una respuesta firme, un tribunal no debería condenar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el tercer juicio, a finales de 1961, la defensa desacreditó a los peritos. Y planteó lo de la tierra del cementerio. La acusación redujo su caso a tres muertes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquellos peritos reconocieron que sus métodos estaban pasados de moda. Sus conclusiones, que debían ser la última palabra, quedaron muy debilitadas ante el jurado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 12 de diciembre de 1961, el jurado la absolvió. Según Time, tras unas tres horas y media de deliberación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Léelo despacio. Absuelta. No hubo un culpable alternativo, ni se demostró que se hubiera cometido ningún crimen. Se hizo lo que debe hacer un tribunal: no condenar sin pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Estado no estaba obligado a indemnizarla por los años de prisión preventiva. En 1962 publicó sus memorias. Murió en Loudun en 1980, a los ochenta y tres años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con una pregunta incómoda. ¿Cuántos juicios se necesitan para que un rumor deje de ser una acusación?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para la memoria del caso, quedan también quienes murieron. Familiares y vecinos de Loudun cuyas muertes nunca se explicaron del todo. No se probó que fueran asesinatos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La absolución de Marie Besnard. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Muerte de Léon: Time la sitúa en 1948 y Wikipedia en francés el 25 de octubre de 1947; el guion no da año. Número de supuestas víctimas: Time dice 13 en la acusación inicial y 11 en Poitiers; Wikipedia, doce; el guion dice «una docena» y «tres» en el tercer juicio (Time). La votación de siete contra cinco solo la da Wikipedia en francés: el guion dice solo que el jurado la absolvió. El detalle del cementerio (el guarda cultivaba patatas y usaba abono con arsénico) sale de Time; Wikipedia habla de posible contaminación posterior del suelo y tratamientos químicos. Se dice como argumento de la defensa. Que Marie Besnard estaba en el banquillo por cinco años de prisión preventiva sale de la ficha («casi cinco años»); Time dice que el Estado no la indemnizó. Los rumores iniciales (Louise Pintou, una funcionaria de correos) se dan atribuidos a los chismes locales. History.com la llama envenenadora: no se sigue. Se deja fuera el resto de la biografía y las memorias de 1962. No se pudo abrir France Télévisions ni History."
+}

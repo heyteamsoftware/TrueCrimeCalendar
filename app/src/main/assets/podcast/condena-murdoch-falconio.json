@@ -1,0 +1,122 @@
+{
+  "id": "condena-murdoch-falconio",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Peter Falconio": "Píter Falcónio",
+    "Falconio": "Falcónio",
+    "Joanne Lees": "Yoán Lis",
+    "Lees": "Lis",
+    "Bradley John Murdoch": "Brádli Yon Mérdoc",
+    "Murdoch": "Mérdoc",
+    "Stuart Highway": "Stiúart Jáiguei",
+    "Barrow Creek": "Bárrou Crik",
+    "Darwin": "Dárwin",
+    "Alice Springs": "Alis Springs",
+    "Territorio del Norte": "Territorio del Norte",
+    "Yorkshire": "Yórkshir",
+    "Kombi": "Cómbi"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cinco horas entre la maleza",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El crimen de la Stuart Highway. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cinco horas entre la maleza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Territorio del Norte, Australia. Noche del 14 de julio de 2001. Una mujer joven, con las muñecas atadas, está escondida entre arbustos junto a la Stuart Highway, una carretera que cruza el interior del país. No se mueve. Escucha. Está así unas cinco horas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Joanne Lees, es británica, y no sabe dónde está su novio, Peter Falconio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Cinco horas. Piensa lo que significa esa cifra en pleno interior de Australia, de noche, atada, sin saber si quien se llevó a su pareja puede volver."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Peter Falconio tenía veintiocho años y era de Yorkshire. Joanne y él llevaban meses viajando por Asia y por Australia. Iban hacia el norte en una furgoneta Kombi naranja. Era la última etapa del viaje."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cerca de Barrow Creek, un hombre los hizo detenerse. Según el relato recogido en el juicio, dijo haber visto chispas en la furgoneta. Falconio bajó a mirar. Según la acusación, el hombre disparó a Falconio y ató a Lees. Ella logró escapar y esconderse."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí hay que ser exactos. Nadie vio morir a Peter. Su cuerpo nunca apareció. Lo que sabemos sale del relato de Joanne, de lo que se halló en el lugar y de las pruebas posteriores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un conductor de camión la encontró y la ayudó. Eran cerca de la una de la madrugada. La policía tardó en reaccionar: según una crónica, los controles de carretera no se pusieron hasta unas ocho horas después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese retraso, ocho horas, es una nota que me pesa. En ese tiempo, un vehículo puede recorrer cientos de kilómetros. Es lo primero que quiero que se entienda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación tenía una prueba clave: un rastro de ADN de un hombre desconocido en la camiseta de Joanne. Más tarde se encontró también en un objeto del lugar y en la furgoneta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante meses nadie sabía de quién era. Una imagen de una gasolinera de Alice Springs llevó a la policía hacia un hombre y un vehículo concretos: un mecánico llamado Bradley John Murdoch."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado. Eso no era una prueba, era una línea de investigación. Lo que cambió el caso fue el ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2002 fue detenido en Australia Meridional por otros delitos. En noviembre de 2003, quedó libre de esos cargos, y fue entonces cuando la policía lo detuvo por el crimen de Falconio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en Darwin y duró casi dos meses. Murdoch dijo que estaba a cientos de kilómetros. Admitió que traficaba con cannabis. Su defensa sostuvo que el ADN pudo haberse transferido por accidente o haber sido colocado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El jurado no lo creyó. Hay una frase de la defensa que debo anotar: el ADN pudo transferirse. Es una hipótesis de abogado. Para el jurado, no bastó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 13 de diciembre de 2005, el jurado lo declaró culpable por unanimidad. Cadena perpetua, con un mínimo de veintiocho años. Era la única pena que permitía la ley del territorio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murdoch perdió sus recursos en 2007. Siempre negó el crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y queda la ausencia. Peter sigue sin aparecer. Murdoch murió en julio de 2025, de cáncer de garganta, sin decir dónde estaba el cuerpo, ni siquiera después de que en 2016 el territorio aprobara una ley que niega la libertad condicional a quien oculta dónde están sus víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Joanne Lees, fuera del tribunal, pidió a Murdoch que dijera lo que había hecho con Peter. No lo hizo. La policía del territorio lamentó su silencio y dijo que había negado a la familia la posibilidad de cerrar la herida. En junio de 2025 había ofrecido una recompensa de quinientos mil dólares australianos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres de Peter, Luciano y Joan, dijeron que lo primero que sintieron fue alivio. Todavía esperan que algún día aparezcan sus restos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Peter tenía veintiocho años. Viajaba con su novia y quería ver el mundo. Eso es lo que debe quedar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El crimen de la Stuart Highway. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Estancia de Lees oculta: cinco horas (RTÉ, SBS) frente a «horas» (Wikipedia); el guion dice «unas cinco horas». Juicio: ocho semanas (RTÉ), nueve (Irish Times, según la ficha) y 37 días de juicio; el guion dice «casi dos meses». Mínimo de 28 años: lo da Wikipedia; el guion lo da por fijado. Recursos: Tribunal de Apelación Penal en enero de 2007 y Tribunal Superior en junio de 2007 (Wikipedia). Murió el 15 de julio de 2025 de cáncer de garganta (SBS, Wikipedia). La recompensa de 500.000 dólares australianos (SBS, junio de 2025). Que Murdoch dijera estar a cientos de kilómetros del lugar (RTÉ) y que el ADN pudo haberse transferido o plantado (Wikipedia) son argumentos de la defensa, citados atribuidos. Se deja fuera la cobertura mediática hostil a Lees, la absolución de Murdoch en otro caso y su identificación por la imagen de una gasolinera. No se describe la agresión. Los datos de la vida de Falconio (nacido en 1972, tercero de cuatro hermanos) vienen de Wikipedia."
+}

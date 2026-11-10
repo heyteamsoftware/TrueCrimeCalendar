@@ -1,0 +1,131 @@
+{
+  "id": "bonnot-rue-ordener",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bonnot": "Bonó",
+    "Jules Bonnot": "Yul Bonó",
+    "Société Générale": "Sosieté Yeneral",
+    "Ernest Caby": "Ernést Cabí",
+    "Caby": "Cabí",
+    "Octave Garnier": "Octáv Garnié",
+    "Garnier": "Garnié",
+    "Raymond Callemin": "Remón Calmén",
+    "Callemin": "Calmén",
+    "Victor Méric": "Víctor Merík",
+    "Criminocorpus": "Criminocórpus",
+    "Dieppe": "Diép",
+    "Boulogne-sur-Seine": "Bulóñ sur Sen",
+    "André Dieudonné": "André Diodoné",
+    "Dieudonné": "Diodoné",
+    "Bertillon": "Bertiyón",
+    "Chantilly": "Shantiyí",
+    "Choisy-le-Roi": "Shuasí le Rua",
+    "Nogent-sur-Marne": "Nojáng sur Marn",
+    "Soudy": "Sudí",
+    "Monier": "Monié",
+    "Alfred Capus": "Alfréd Capús",
+    "Le Figaro": "Le Figaró",
+    "Albert Londres": "Albér Londr",
+    "Santé": "Santé",
+    "Ordener": "Ordené"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un coche con el motor en marcha",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La banda de Bonnot. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un coche con el motor en marcha."
+        },
+        {
+          "voz": "ximena",
+          "texto": "París, 21 de diciembre de 1911. Una mañana lluviosa y gris, en la calle Ordener. Un empleado de la Société Générale, Ernest Caby, baja del tranvía con una bolsa de valores. A unos quince metros del banco, un hombre se le acerca y le dispara. Un coche espera cerca, con el motor en marcha."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un coche de huida. Hoy suena a tópico, pero en 1911 era una novedad: la policía iba a pie o en bicicleta. Según Criminocorpus, usar un coche en un atraco no tenía precedentes. Por eso este caso hizo ruido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la crónica de Victor Méric, Caby cayó herido y un segundo disparo sonó cerca. Un cómplice se llevó la bolsa. Los transeúntes que intentaron detener el coche recibieron disparos, aunque nadie resultó alcanzado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Caby sobrevivió, aunque en estado grave. El botín fue escaso: sobre todo títulos registrados, difíciles de vender, y unos cinco mil francos en monedas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quienes lo hicieron eran anarquistas ilegalistas: creían que robar a los ricos era una forma legítima de rebelión individual. Octave Garnier disparó, Raymond Callemin cortó la correa de la bolsa y Jules Bonnot conducía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sobre quién disparó, la versión más repetida señala a Garnier. Pero Callemin se atribuyó el disparo en sus memorias. Lo dejo atribuido y sin resolver."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El coche, robado en Boulogne-sur-Seine una semana antes, apareció abandonado al día siguiente en Dieppe. Esa pista llevó a la policía hasta un escondite y a varios arrestos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Caby identificó a Garnier. También señaló a André Dieudonné, pero su participación se discute: los historiadores no están de acuerdo. Un confidente, a cambio de no ser procesado, dio detalles del asalto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en cómo se resolvió: con identificaciones, un confidente y huellas dactilares. La oficina de Bertillon ya las cotejaba. Garnier llegó a enviar a la policía una carta burlona, y llevaba su huella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La banda siguió actuando. Entre diciembre de 1911 y mayo de 1912 hubo varios muertos más: un anciano y su criada, un policía, un chófer y dos empleados de banco en Chantilly. La Société Générale ofreció cien mil francos por su captura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 28 de abril de 1912, la policía asedió un garaje en Choisy-le-Roi, donde se escondía Bonnot. Duró unas cinco horas. Usaron dinamita. Bonnot murió después a causa de sus heridas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Garnier y otro compañero resistieron en una villa de Nogent-sur-Marne el 13 de mayo. Tras unas siete horas, la policía usó explosivos. Los dos murieron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Alrededor de la banda se formó casi una leyenda. Según Criminocorpus, el periodista Alfred Capus escribió en Le Figaro que la leyenda ya se formaba en la imaginación popular. Yo prefiero lo escrito en los sumarios: hubo muertos y heridos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 3 de febrero de 1913. El 27 de febrero, cuatro acusados fueron condenados a muerte: Callemin, Soudy, Monier y Dieudonné."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Callemin, Soudy y Monier fueron guillotinados en la prisión de la Santé el 21 de abril de 1913. Dieudonné fue indultado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Su caso es la duda que queda. Según Criminocorpus, Dieudonné fue identificado por error. Escapó, fue recapturado y salió en libertad tras campañas, como las del periodista Albert Londres, que creían en su inocencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Qué queda? Un atraco con poco botín que inauguró en Francia el atraco con coche de huida, y una banda que, en pocos meses, dejó una larga lista de muertos y heridos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y queda lo que casi nunca se cuenta: las víctimas. Un empleado herido en una calle lluviosa. Policías, un chófer, empleados de banco. Ninguno eligió estar allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Más tarde, libros, obras de teatro, películas y canciones convirtieron a Bonnot en una figura romántica. El archivo prefiere dejarlo en lo que fue: una banda de atracadores que mató."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La banda de Bonnot. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Criminocorpus (Renneville) y la crónica de Méric (traducción de Abidor). Quién disparó: Garnier (Renneville, Steiner); Callemin se lo atribuyó en sus memorias (nota de la ficha): atribuido. Número de la calle no usado. Caby: Méric dice que quedó grave y su resumen lo describe como muerto; la ficha y Criminocorpus omiten su muerte; se sigue la ficha (sobrevivió). Botín: Méric habla de 318.772 francos en títulos y 5.266 en monedas; el guion dice unos cinco mil francos en monedas. Dieudonné: Criminocorpus dice que fue identificado erróneamente (y campañas de Albert Londres); su participación en el asalto se discute: no se afirma ni se niega. Algunas frases del guion son síntesis o conclusión del guionista, no de fuentes: quién disparó (Garnier según Renneville y Steiner, que no están abiertas aquí; memorias de Callemin), la mención a canciones y películas (Criminocorpus). Ejecuciones del 21 de abril y juicio: Criminocorpus. Pronunciaciones a oído."
+}

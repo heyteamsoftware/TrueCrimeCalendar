@@ -1,0 +1,116 @@
+{
+  "id": "hermanas-mirabal",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mirabal": "Mirabál",
+    "Trujillo": "Trujíyo",
+    "Rafael Leónidas Trujillo": "Rafaél Leónidas Trujíyo",
+    "Patria": "Pátria",
+    "Minerva": "Minérva",
+    "Rufino de la Cruz": "Rufíno de la Cruz",
+    "Puerto Plata": "Puérto Pláta",
+    "La Cumbre": "La Cúmbre",
+    "Salcedo": "Salsédo",
+    "Dedé": "Dedé",
+    "Bogotá": "Bogotá"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un jeep en el barranco",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Las hermanas Mirabal. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un jeep en el barranco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "República Dominicana, 25 de noviembre de 1960. Un jeep avanza por la carretera entre Puerto Plata y Santiago. Dentro van tres hermanas y su chófer. Vuelven de visitar a sus maridos, que están en prisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaban Patria, Minerva y María Teresa Mirabal. Y el chófer, Rufino de la Cruz. A la altura de La Cumbre, agentes del Servicio de Inteligencia Militar les cortan el paso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esto no fue un asalto ni una riña. Fue una emboscada de la policía política, en una carretera, y todo el mundo sabía quién era la víctima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las hermanas nacieron en una familia acomodada de Salcedo. Tenían estudios, estaban casadas y tenían hijos. Minerva y María Teresa ya habían estado presas varias veces por oponerse al régimen de Rafael Leónidas Trujillo, que gobernaba el país desde 1930."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pertenecían a un grupo de oposición llamado 14 de Junio. En mayo de 1960, Minerva, María Teresa y sus maridos fueron juzgados por atentar contra la seguridad del Estado y condenados a tres años de cárcel. En agosto, ellas salieron en libertad, pero sus maridos siguieron presos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran conocidas como las Mariposas. La cuarta hermana, Dedé, tenía un papel menos activo y no estaba con ellas ese día."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anótalo: en 1960 todo el mundo sabía que corrían peligro. La BBC recoge que su muerte era casi un secreto a voces. Y aun así siguieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes las mataron a ellas y al chófer. Después colocaron los cuerpos en el jeep y lo arrojaron por un barranco, para que pareciera un accidente de tráfico."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un accidente. Es la parte que más me pesa. Una mentira pensada para que nadie preguntara. Dedé contó que ella insistía a los policías: no fue un accidente, las asesinaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie lo creyó. Según la BBC, la historia de las hermanas puso un rostro humano a una dictadura violenta, y el crimen hizo que hasta los cercanos al régimen se sintieran inseguros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Seis meses después, el 30 de mayo de 1961, Trujillo fue muerto a tiros en una carretera por conspiradores. Los implicados citaron el crimen de las hermanas como la gota que colmó el vaso, dice la directora del Museo de la Resistencia Dominicana."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ojo con la secuencia, porque tienta a la simplificación. El crimen no derribó la dictadura por sí solo. Fue una de varias razones. Pero el régimen perdió lo que le quedaba de excusas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con la caída de la dictadura vino el juicio. La instrucción comenzó en enero de 1962 y las audiencias públicas, el 28 de junio. Las sentencias definitivas llegaron el 24 de noviembre de 1962."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se juzgó a los agentes del Servicio de Inteligencia Militar que ejecutaron la orden. Los testigos contaron en el tribunal cómo había sido la emboscada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay una frase que no aparece en las sentencias. Quién dio la orden. Un testimonio atribuido a uno de los agentes habla de órdenes directas del dictador. Pero Trujillo ya había muerto y no podía ser juzgado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dedé, la hermana que sobrevivió, habló de aquel día en un documental. Una provincia lleva hoy el nombre de las hermanas, y en Salcedo hay un museo en su honor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1981, un encuentro feminista en Bogotá eligió el 25 de noviembre como día de lucha contra la violencia hacia las mujeres. En 1999, la Asamblea General de las Naciones Unidas lo declaró Día Internacional de la Eliminación de la Violencia contra la Mujer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una fecha elegida en memoria de tres hermanas. Ellas murieron por oponerse a una dictadura, y así se las recuerda también."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuatro personas fueron asesinadas en aquella carretera. Que se recuerde también a Rufino de la Cruz, el chófer, casi siempre olvidado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Las hermanas Mirabal. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Crimen de Estado con condena de los autores materiales (noviembre de 1962). Fuentes abiertas: BBC Mundo (hoy en su web; la ficha la fecha en 2017 pero menciona la muerte de Dedé «este año», que no es de 2017: no se usa ese dato), Infobae (2018), Acento (2019). Discrepancias: la ficha dice que las mataron a golpes; BBC dice que las ahorcaron y apalearon: el guion no da el método, solo que las mataron y simularon un accidente. Infobae da testimonio de un agente que no se cita. Acento: instrucción 20/1/1962, audiencias desde el 28/6, sentencias definitivas el 24/11/1962. No se dan penas concretas (la ficha dice hasta 30 años; Acento no las da). Se omiten los nombres de los condenados y del jefe del SIM de Santiago, citado en un testimonio del juicio, porque no consta la sentencia individual en las fuentes abiertas. Trujillo fue muerto el 30/5/1961 (BBC e Infobae, «ajusticiamiento»). La ONU declaró el 25 de noviembre en 1999 (resolución 54/134; 17 de diciembre de 1999); el Encuentro Feminista de 1981 en Bogotá es de BBC. Pronunciaciones a oído."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "kaspar-hauser",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kaspar Hauser": "Cáspar Jáuser",
+    "Hauser": "Jáuser",
+    "Kaspar": "Cáspar",
+    "Núremberg": "Núremberg",
+    "Ansbach": "Ánsbaj",
+    "Hofgarten": "Jofgárten",
+    "Daumer": "Dáumer",
+    "Stanhope": "Stánhop",
+    "Meyer": "Máier",
+    "Baden": "Báden"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una bolsa en el Hofgarten",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El apuñalamiento de Kaspar Hauser. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una bolsa en el Hofgarten."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ansbach, Baviera. 14 de diciembre de 1833. En un jardín de la ciudad, el Hofgarten, la policía encuentra una bolsa tirada. Dentro hay una nota, escrita al revés: solo puede leerse con un espejo. Está firmada con unas iniciales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Poco antes, un joven de unos veintiún años había vuelto a casa con una herida en el pecho. Dijo que un desconocido lo había citado en ese jardín, que le entregó una bolsa y que luego lo apuñaló. Se llamaba Kaspar Hauser."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una nota en escritura de espejo. Parece sacada de una novela. Y ese es el problema de este caso: tiene tanto de misterio que cuesta separar los hechos de la leyenda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hauser murió tres días después, el 17 de diciembre. Nadie fue detenido. El rey de Baviera había ofrecido una recompensa por el agresor, y aun así el caso se quedó sin culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender el caso hay que volver a 1828. Un lunes de Pentecostés, en Núremberg, aparece un muchacho de unos dieciséis años. Apenas sabe hablar. Lleva una carta. Dice que ha vivido siempre encerrado en una celda oscura."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí aparece la duda. No hay documentos que lo confirmen. Todo lo que se sabe de su infancia viene de lo que él contó, y de lo que otros entendieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su caso atrajo la atención de media Europa. Pasó a vivir con un maestro de escuela, Friedrich Daumer, y aprendió en poco tiempo a leer, escribir y tocar el piano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1829 lo encontraron herido en la frente, en el sótano de Daumer. Dijo que un hombre encapuchado le había atacado. Algunos creyeron que se había herido él mismo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos heridas, dos relatos, y los dos sin testigos. Un detective no tiene mucho que hacer con eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después lo acogió un lord inglés, Stanhope, que trató de averiguar de dónde venía, sin éxito. Acabó viviendo en Ansbach, con otro maestro, Johann Georg Meyer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando le tomaron declaración, en 1833, la policía encontró incoherencias. Los médicos forenses de la época dijeron que la herida pudo habérsela hecho él mismo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atribuyo, no acuso. Muchos autores han pensado que se hirió para llamar la atención, y que esta vez la herida fue mortal por error. Otros, que lo mataron para que nunca revelara quién era. No hay prueba de ninguna de las dos cosas. Un estudio forense de 2005 dijo que no podía descartar ni el suicidio ni el homicidio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y sobre su origen se tejieron teorías. Que era un príncipe heredero de la casa de Baden. Que era hijo de una familia campesina del Tirol. Que era un impostor."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La teoría del príncipe tiene su gracia: explicaría el misterio y la importancia del joven. Pero hay que hablar de ADN."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1996 se analizó sangre de unos pantalones, y no coincidía con descendientes de la casa de Baden. Pero no se sabía si la prenda era suya. En 2002, un análisis de pelo mostró cierto parecido, aunque no se publicó oficialmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2024, un estudio genético dio una respuesta más clara: no tenía relación con la madre del supuesto príncipe. Sigue sin saberse quién era, aunque probablemente venía de Europa occidental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una respuesta que cierra una puerta y no abre ninguna. Hoy nadie sabe quién fue, ni quién lo mató, si es que alguien lo hizo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Está enterrado en Ansbach. Su lápida lo llama el enigma de su tiempo. En el Hofgarten hay un monumento con una inscripción en latín que dice: aquí fue muerto un misterioso de un modo misterioso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que quiero que quede es esto: un joven que apareció sin lenguaje ni pasado, que aprendió muchas cosas en pocos años, y que murió a los veintiuno sin que nadie supiera con certeza quién era, ni quién le hizo aquella herida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El apuñalamiento de Kaspar Hauser. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "La ficha dice que el 14 de diciembre de 1833 Hauser «volvió a casa con una puñalada»; el guion dice que volvió con una herida en el pecho. Los análisis de ADN: el de 1996 (pantalones con sangre) no coincidió con descendientes de Estefanía de Beauharnais, pero no se sabe si la prenda era suya; el de 2001-2002 (pelo y otra prenda) dio un parecido con un descendiente, pero con un fragmento muy pequeño (Il Post; el parecido de la ZDF no se publicó oficialmente según evangelisch.de); el de 2024 (preprint en iScience, según Il Post) descarta la relación con la casa de Baden. Se dice «según un estudio de 2024» y no más. Lo de «un joven de unos dieciséis años» sale de la ficha. El episodio de 1829 (herida en la frente en casa de Daumer) viene de Wikipedia; se cuenta con prudencia. «Muchos autores creen que se hirió él mismo» (Wikipedia) se atribuye así. Un análisis forense de 2005 (Wikipedia) concluyó que no se podía descartar ni el suicidio ni el homicidio. La inscripción de la lápida y la del monumento (Wikipedia, evangelisch.de) se traducen del latín/alemán. Fecha de nacimiento 30 de abril de 1812 solo por una carta que llevaba: no se da. El resto de teorías (impostor, hijo de Feuerbach, familia tirolesa) se citan como hipótesis de otros."
+}

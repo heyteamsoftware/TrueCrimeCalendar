@@ -1,0 +1,116 @@
+{
+  "id": "kennedy-dallas",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Dallas": "Dálas",
+    "Dealey Plaza": "Dili Pláza",
+    "Kennedy": "Kénedi",
+    "Connally": "Cónali",
+    "Parkland": "Párkland",
+    "Oswald": "Óswald",
+    "Lee Harvey Oswald": "Li Járvi Óswald",
+    "Tippit": "Típit",
+    "Jack Ruby": "Yak Rubi",
+    "Ruby": "Rubi",
+    "Texas Theatre": "Téksas Zíater",
+    "Johnson": "Yónson",
+    "Warren": "Uóren",
+    "Love Field": "Lav Fild",
+    "Texas": "Téksas"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Las doce y media en Dealey Plaza",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Kennedy. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Las doce y media en Dealey Plaza."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dallas, 22 de noviembre de 1963. Las doce y media del mediodía. Una limusina descubierta avanza despacio por Dealey Plaza entre calles llenas de gente que saluda. Dentro van el presidente Kennedy y su esposa, y delante el gobernador de Texas, John Connally, con la suya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al pasar junto al edificio del almacén de libros se oyen varios disparos. Kennedy fue herido de gravedad. Connally también. La limusina sale hacia el hospital Parkland."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Piensa en cómo era aquel momento. Un presidente, a la vista de miles de personas, en un coche sin techo, a ritmo lento. La protección del presidente fue una de las críticas de la Comisión Warren."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kennedy fue declarado muerto media hora después en el hospital. Tenía cuarenta y seis años. A las dos y treinta y nueve de la tarde, el vicepresidente Lyndon Johnson juró el cargo en el avión presidencial, en el aeropuerto de Love Field. Jacqueline Kennedy estaba a su lado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, la policía de Dallas buscaba a un sospechoso. Su atención se centró en un empleado del almacén de libros desde donde se habían hecho los disparos: Lee Harvey Oswald, de veinticuatro años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Oswald tenía una vida difícil de resumir: marine, viajó a la Unión Soviética, se casó allí con una mujer soviética y regresó a Estados Unidos en 1962. Nada de eso lo hace culpable. Lo que se atribuye se apoya en lo que las investigaciones oficiales llegaron a concluir."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Menos de una hora después de los disparos, un policía de Dallas, J. D. Tippit, fue muerto a tiros en una calle cuando interrogó a un hombre. Media hora más tarde, Oswald fue detenido en un cine, el Texas Theatre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue acusado por la muerte del presidente y por la de Tippit. Nunca llegó a ser juzgado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos días después tenía que ser trasladado a una cárcel más segura. Lo harían ante la prensa, con las cámaras de televisión encendidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 24 de noviembre, en el sótano de la jefatura de policía de Dallas, un hombre salió de entre los presentes y le disparó una sola vez. Era Jack Ruby, propietario de un club nocturno. Ruby dijo que lo hizo por rabia ante el asesinato de Kennedy."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso significa algo que quiero dejar claro. Oswald nunca fue juzgado. Nunca se escuchó su versión en un tribunal. Todo lo que sabemos de su culpabilidad procede de investigaciones, no de una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ruby fue condenado, y la sentencia se anuló en 1966 por un juicio injusto. Murió en 1967, antes de que pudiera celebrarse el nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1964, la Comisión Warren, creada tras el crimen, concluyó que Oswald disparó tres veces y que actuó solo. También concluyó que Ruby actuó solo y que no había pruebas de conspiración. Criticó la protección del presidente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La conclusión de «un solo hombre» nunca convenció a todos. En 1979, un comité de la Cámara de Representantes sostuvo que Oswald había disparado, pero que Kennedy fue «probablemente» asesinado por una conspiración."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese comité se apoyó en un estudio de grabaciones de sonido. Esas pruebas acústicas se pusieron en duda después. El comité no identificó a ningún otro tirador ni la magnitud de la conspiración. Dijo también que la investigación de la Comisión Warren sobre una conspiración fue inadecuada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Entonces, ¿qué hay firme? Que Kennedy murió en Dallas. Que Tippit murió. Que Oswald murió sin juicio. Lo demás está en los informes, con sus límites."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kennedy fue enterrado con honores militares en el cementerio de Arlington. Su viuda encendió una llama que sigue encendida. J. D. Tippit fue un policía de Dallas que murió esa misma tarde. Que su nombre se recuerde junto al del presidente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos hombres muertos a tiros un mismo día. Un tercero, acusado, que no llegó a escuchar una sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Kennedy. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso no juzgado: Oswald fue acusado pero nunca juzgado; todo se atribuye a la Comisión Warren (1964) y al comité de la Cámara (1979). Fuentes abiertas: National Archives (índice del informe Warren y página del comité de la Cámara, vía WebFetch) y History.com (vía node fetch; la JFK Library devuelve 403). No se ha podido abrir el texto completo de los informes, solo sus resúmenes. Ruby: condenado en 1964 (no consta en las páginas abiertas); History.com: anulado en octubre de 1966 y murió esperando nuevo juicio en enero de 1967 (el texto abierto se corta, se dice solo «murió en 1967»). Las pruebas acústicas que sostenían la «probable conspiración» fueron rebatidas en 1982 por una comisión de la Academia Nacional de Ciencias (solo de la ficha, sin segunda fuente abierta): el guion dice solo «se pusieron en duda». Se omite la herida concreta, la autopsia, la película de Zapruder y todas las teorías de conspiración nombradas. Pronunciaciones a oído."
+}

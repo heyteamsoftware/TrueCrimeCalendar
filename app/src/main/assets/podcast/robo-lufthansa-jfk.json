@@ -8,18 +8,12 @@
     "Kennedy": "Kénedi",
     "Louis Werner": "Luis Wérner",
     "Werner": "Wérner",
-    "Jimmy Burke": "Yími Burk",
     "Burke": "Burk",
     "Lucchese": "Lukése",
-    "Henry Hill": "Énri Jil",
     "Brooklyn": "Brúklin",
     "Vincent Asaro": "Vínsent Asáro",
     "Asaro": "Asáro",
-    "Valenti": "Valénti",
-    "Gaspare Valenti": "Gaspáre Valénti",
-    "Nueva York": "Nueva York",
-    "Goodfellas": "Gudfélas",
-    "Brink's": "Brinks"
+    "Nueva York": "Nueva York"
   },
   "cintas": [
     {
@@ -49,7 +43,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Se llevaron más de cinco millones de dólares en efectivo y casi un millón en joyas. Fue, en su momento, el mayor robo en dinero en efectivo cometido en Estados Unidos."
+          "texto": "Se llevaron más de cinco millones de dólares en efectivo y casi un millón en joyas. Según las crónicas, la cifra exacta varía algo de una fuente a otra, pero ronda los seis millones."
         },
         {
           "voz": "ximena",
@@ -57,7 +51,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Y lo que vino después fue el verdadero problema de la banda. Una furgoneta abandonada en Brooklyn. Huellas dentro. Un golpe perfecto con un error muy tonto."
+          "texto": "Y lo que vino después fue el verdadero problema de la banda. Según una de las crónicas, el conductor dejó la furgoneta mal aparcada en Brooklyn tras beber, y la policía encontró en ella sus huellas. Un golpe muy bien pensado, con un error muy tonto."
         },
         {
           "voz": "ximena",
@@ -69,7 +63,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Fíjate en esa palabra: según. Por lo que he leído, la lista de sospechosos era corta y nadie quiso hablar. Y entonces empezaron a desaparecer los que sabían demasiado."
+          "texto": "Fíjate en esa palabra: según. Atribuir no es probar. Burke fue condenado años después, pero por otros delitos, y nunca por este. Lo que sí consta es que muchos de los implicados dejaron de aparecer."
         },
         {
           "voz": "ximena",
@@ -77,7 +71,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Nadie quiso cobrar a plena luz. Quien se enriquecía llamaba la atención. Y quien llamaba la atención, o quien podía hablar, no duraba. Es la regla de una banda que no se fía ni de sí misma."
+          "texto": "Cuando un botín así se reparte entre gente que no se fía, cada hombre que sabe algo es un riesgo para los demás. Eso es lo que sugieren los investigadores. No tenemos pruebas de quién dio cada orden, y no voy a inventarlas."
         },
         {
           "voz": "ximena",
@@ -101,11 +95,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El dinero nunca se recuperó, ni siquiera en parte importante. Medio siglo después, nadie sabe adónde fue a parar."
+          "texto": "La mayor parte del dinero nunca se recuperó. Casi medio siglo después, nadie sabe adónde fue a parar."
         },
         {
           "voz": "ximena",
-          "texto": "La historia llegó al cine en «Uno de los nuestros», de Martin Scorsese, en 1990. Hizo famoso el golpe. Pero ocultó, quizá, a quienes pagaron el precio después."
+          "texto": "La historia llegó al cine en «Uno de los nuestros», de Martin Scorsese, en 1990, y hoy mucha gente conoce el golpe por esa película. Este expediente prefiere recordar también a los hombres que pagaron el precio después."
         },
         {
           "voz": "alvaro",
