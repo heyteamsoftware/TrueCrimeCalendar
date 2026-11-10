@@ -1,0 +1,110 @@
+{
+  "id": "jorge-matute-johns",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Jorge Matute Johns": "Jorge Matúte Yons",
+    "Matute Johns": "Matúte Yons",
+    "Matute": "Matúte",
+    "Talcahuano": "Talcaguáno",
+    "Biobío": "Bíobío",
+    "Carriel Sur": "Carriél Sur",
+    "La Cucaracha": "La Cucaracha",
+    "Carola Rivas": "Carola Rivas",
+    "Aurelio Luna": "Aurelio Luna"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Kilómetro 22,6",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Matute Johns. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Kilómetro 22,6."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Talcahuano, Chile, madrugada del 20 de noviembre de 1999. Un estudiante de veintitrés años sale de la discoteca La Cucaracha, junto al camino al aeropuerto de Carriel Sur. Es la última vez que alguien lo ve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Jorge Matute Johns. Tocaba en una banda, estudiaba en Concepción y era hijo de un conocido sindicalista."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un joven que sale de una discoteca y no vuelve. Parece una historia de miles de familias. La diferencia está en lo que vino después: casi veinte años de investigación judicial que acabaron sin responsables identificados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su familia lo buscó desde el primer día. Su padre pidió desde el principio un ministro en visita, un juez especial, y se lo negaron. Se presentó una querella, y el Consejo de Defensa del Estado se sumó a ella. Un ministro en visita no llegó hasta diciembre de 2002."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En la primera etapa se detuvo y procesó a siete jóvenes por obstrucción a la justicia. Años después, la justicia dejó sin efecto ese procesamiento. Lo anoto con pesar: hubo jóvenes señalados sin base, y se perdió un tiempo que no volvió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 12 de febrero de 2004, unos restos aparecieron a orillas del río Biobío, en el kilómetro 22,6 de la Ruta de la Madera, camino de Santa Juana. Eran los de Jorge. Habían pasado más de cuatro años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Servicio Médico Legal concluyó que habían intervenido terceras personas. Durante casi dieciséis años, el certificado de defunción registró la causa de muerte como indeterminada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuatro años buscando. Casi dieciséis con una causa de muerte sin nombre. Ese es el tamaño de la deuda de este expediente con una familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2014, con el caso reabierto, la jueza Carola Rivas asumió la investigación como ministra en visita. Se exhumaron los restos y se hicieron nuevos análisis en Santiago. En noviembre de 2014, el Servicio Médico Legal informó de que Jorge había sido asesinado. En julio de 2015, la ministra declaró que murió por el efecto de un tóxico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2015, el forense español Aurelio Luna detectó pentobarbital en los restos, un sedante que, dijo, no tenía justificación terapéutica. El 27 de agosto de 2015, el Registro Civil cambió la causa de muerte a intoxicación por pentobarbital."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un fármaco que no se toma por casualidad. Esto cambió la forma de entender la noche: no fue solo una desaparición, sino que alguien le suministró una sustancia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La ministra Rivas sostuvo después que lo habían drogado para agredirlo sexualmente. Es su hipótesis de trabajo, que ella misma dijo basar en las diligencias. No hay condena ni acusación firme que la confirme."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí tengo que ser prudente. Hubo detenidos en 2016 y careos con testigos. Todos fueron liberados. Nadie ha sido condenado, y por eso en este archivo no hay nombres de sospechosos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La jueza criticó también el trabajo policial de los primeros días, que según ella destruyó evidencia y descartó demasiado pronto una línea de investigación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 31 de diciembre de 2018, la ministra Rivas decretó el sobreseimiento temporal del caso. Dijo que no se había logrado determinar quiénes eran los autores. El sobreseimiento no es definitivo: puede reabrirse si aparecen nuevos antecedentes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Casi veinte años de causa para un papel que dice «no se pudo». No lo escribo como crítica, sino porque es la verdad del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso sigue vivo en Chile. Hay libros, documentales y series que han mantenido su nombre en la memoria del país. Y detrás de todo eso hay un chico de veintitrés años que tocaba en una banda y que tenía toda la vida por delante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su padre, el sindicalista Jorge Matute, murió en 2011 sin saber qué había pasado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Matute Johns. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver; nadie condenado. Fuentes abiertas: Cooperativa (2015), Radio Agricultura (31/12/2018) y Wikipedia (cronología). Discrepancias de la Wikipedia consigo misma en varias fechas (sobreseimiento de 2006/2008; cierre en octubre de 2009 o enero de 2010): el guion no las usa. Edad: nació el 24 de febrero de 1976 (Wikipedia), por tanto tenía 23 años en noviembre de 1999. Cooperativa: la discoteca estaba en el camino al aeropuerto Carriel Sur; la fecha del hallazgo del 12 de febrero de 2004 y el km 22,6 salen de Cooperativa. Causa de muerte: certificado «indeterminada» durante casi 16 años; el 27 de agosto de 2015 el Registro Civil rectificó a intoxicación por pentobarbital (Cooperativa). Hipótesis de la ministra Rivas (drogado para agredirlo sexualmente, 2017-2018): solo Wikipedia y la ficha; se cuenta atribuida y sin detalles. No se nombra a ningún sospechoso, testigo, guardia ni exdueño (nadie fue acusado ni condenado; algunos fallecieron). Radio Agricultura dice que en 2014 se comprobó el pentobarbital; Cooperativa lo sitúa en enero de 2015 por el forense español Aurelio Luna: el guion dice «en 2014 y 2015». Las llamadas pidiendo 50 millones de pesos solo salen de la Wikipedia, se omiten."
+}

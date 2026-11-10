@@ -1,0 +1,112 @@
+{
+  "id": "desaparicion-hoffa",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Jimmy Hoffa": "Yími Jófa",
+    "Hoffa": "Jófa",
+    "Teamsters": "Tímsters",
+    "Machus Red Fox": "Máchus Red Fox",
+    "Detroit": "Ditróit",
+    "Michigan": "Míchigan",
+    "Nixon": "Níkson",
+    "FBI": "efe be i",
+    "Bloomfield": "Blumfild",
+    "Wixom": "Uíksom",
+    "Jersey City": "Yérsi Síti",
+    "Anthony Provenzano": "Ántoni Provenzáno",
+    "Anthony Giacalone": "Ántoni Yacalóne",
+    "Provenzano": "Provenzáno",
+    "Giacalone": "Yacalóne"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un aparcamiento en Michigan",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La desaparición de Jimmy Hoffa. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un aparcamiento en Michigan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bloomfield Township, cerca de Detroit, Michigan. Tarde del 30 de julio de 1975. En el aparcamiento del restaurante Machus Red Fox espera un hombre muy conocido en todo Estados Unidos: Jimmy Hoffa. Dijo que había quedado allí con dos personas, y creía que la reunión trataría de sus planes para volver al sindicato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa es la última vez que alguien lo vio. Nadie lo ha vuelto a ver."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre famoso, con la prensa detrás desde hace años, desaparece en un aparcamiento a plena luz del día. No hay cuerpo ni escena del crimen conocida. El caso empieza donde acaba, en un trozo de asfalto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoffa presidió de 1957 a 1971 el sindicato de camioneros, los Teamsters. En 1967 entró en prisión para cumplir trece años por soborno de un jurado, fraude y conspiración."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El presidente Nixon le conmutó la pena en 1971. Pero con una condición: no podía volver a dirigir el sindicato hasta 1980. Hoffa quería recuperarlo antes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la pista que manejó el FBI desde el principio. Un memorando de 1975 decía que la desaparición estaba probablemente relacionada con su intento de volver a presidir el sindicato. Es una hipótesis de los investigadores, no una conclusión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Decía haber quedado en el restaurante con dos hombres vinculados a la mafia: Anthony Provenzano, de Nueva Jersey, y Anthony Giacalone, de Detroit. Ambos negaron haberlo visto. Ninguno fue acusado nunca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con cuidado. Hay una frase que las historias baratas repiten: «lo mataron los mafiosos». Pero un nombre en una cita no es una prueba. Que dos personas negaran una cita no las convierte en culpables, y la justicia nunca las acusó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según una de las fuentes, Hoffa fue visto por última vez subiendo a un coche. Un camionero dijo haberlo visto en el asiento de atrás. Los detalles varían de un relato a otro, y conviene tomarlos con cautela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aun así, el FBI y los fiscales federales se pusieron a trabajar desde el primer momento, en parte por lo que un testigo federal contó al FBI en noviembre de 1975: no lo había visto, sino que se lo habían contado. El 4 de diciembre de 1975, un gran jurado de Detroit interrogó a varias personas, y todas se acogieron a la quinta enmienda, el derecho a no declarar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una pista, un secreto y nadie dispuesto a hablar: es la receta de los casos que no se resuelven. Después llegaron los testigos de oídas. Quien cuenta lo que le contó otro no aporta una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y se ha buscado muchas veces. En diciembre de 1975, el FBI registró un vertedero en Jersey City, sin resultados. En 2006, registró una granja en Wixom, Michigan, y tampoco encontró restos ni pruebas de un crimen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2020, un examen con radar de suelo cerca de ese vertedero detectó lo que parecían barriles de acero. Que se sepa, no se recuperaron restos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Medio siglo de búsquedas sin resultado. Yo me quedo con lo documentado: no hay cuerpo, no hay acusado, no hay sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1982, Jimmy Hoffa fue declarado legalmente muerto. Su cuerpo nunca apareció. Ni el FBI ni decenas de excavaciones posteriores han encontrado sus restos, y el FBI mantiene el caso abierto."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo más duro de un caso así es la familia: años de espera sin una tumba. No tengo fuentes sobre cómo lo vivieron, y no voy a imaginarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoffa pasó a ser una leyenda. Pero antes fue un hombre con una familia, que un día de julio de 1975 salió para ir a una reunión y no volvió. Eso es lo que este expediente quiere conservar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La desaparición de Jimmy Hoffa. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: nadie acusado; no se señala a nadie. Provenzano y Giacalone se nombran solo como las dos personas con las que decía haber quedado y que negaron haberlo visto (ficha; ambos con vínculos con la mafia, según Mob Museum y EBSCO), y se dice que nunca fueron acusados. No se nombra a Chuckie O'Brien ni a otros citados en las fuentes (no acusados). Fuentes abiertas: Mob Museum (artículo en primera persona de Dan Moldea con su propia teoría) y EBSCO Research Starters; Britannica, FBI Vault y Wikipedia no abiertos por mí. Discrepancias: Mob Museum dice Bloomfield Hills, EBSCO y la ficha, Bloomfield Township (el guion pone Township); fin del mandato (Britannica 1971 vs EBSCO 1967): se pone 1957 a 1971 (ficha). El coche en el que subió y el testimonio del camionero: solo EBSCO, tratado con cautela; Mob Museum no cita ningún testigo presencial. Búsquedas: diciembre de 1975 (vertedero de Jersey City), 2006 (granja de Wixom, sin restos), noviembre de 2020 (radar cerca del vertedero: posibles barriles, sin restos recuperados que se sepa): Mob Museum. Gran jurado del 4 de diciembre de 1975 y quinta enmienda: Mob Museum. Memorando del FBI de 1975 sobre su intento de recuperar el sindicato: EBSCO. Declarado muerto en 1982: ficha."
+}

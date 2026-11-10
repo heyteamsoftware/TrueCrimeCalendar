@@ -1,0 +1,128 @@
+{
+  "id": "alves-dos-reis",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alves dos Reis": "Álves dos Réis",
+    "Waterlow & Sons": "Uóterlou and Sons",
+    "Waterlow": "Uóterlou",
+    "Banco de Angola e Metrópole": "Banco de Angola i Metrópole",
+    "O Século": "O Sékulo",
+    "Karel Marang": "Cárel Marang",
+    "Marang": "Marang",
+    "Vasco da Gama": "Básco da Gama",
+    "Lisboa": "Lisboa",
+    "Angola": "Angola",
+    "Lores": "Lores"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Dos billetes iguales",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La estafa del Banco de Portugal. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Dos billetes iguales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lisboa, octubre de 1925. Un cajero del Banco de Portugal tiene en la mano dos billetes de quinientos escudos. Son auténticos. Están impecables. Y llevan exactamente el mismo número de serie."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un billete falso se descubre por un defecto. Aquí no había ninguno, y por eso resultaba tan inquietante. El papel y las planchas eran los del banco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquel cajero no pudo imaginar lo que había detrás. Dos meses después, el 4 de diciembre, un inspector del banco encontró más billetes repetidos, esta vez en los depósitos de una entidad llamada Banco de Angola e Metrópole."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 5 de diciembre, el diario O Século publicó la noticia en primera plana. Al día siguiente detuvieron a su responsable, Artur Alves dos Reis, a bordo del barco en el que volvía de Angola."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Detrás de los billetes había un hombre con una idea sencilla y una imprenta de Londres que no hizo preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alves dos Reis había dejado los estudios de ingeniería. Se fue a Angola en 1916 con un diploma que decía ser de una institución británica, y volvió a Lisboa con dinero. En 1923 se hizo con el control de una compañía ferroviaria angoleña."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo detuvieron por malversación y pasó cincuenta y cuatro días en prisión. Entre rejas, según una historiadora del Algarve, ideó su plan."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sabía algo que casi nadie sabía: el Banco de Portugal imprimía billetes sin llevar un registro exacto de los números de serie, y sin informar al gobierno de cuánto circulaba. Portugal ya no tenía patrón oro desde 1891. Fabricar dinero costaba solo el papel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con firmas falsificadas y una carta que parecía firmada por la dirección del banco, Reis y sus socios se hicieron pasar por agentes autorizados del Banco de Portugal. Decían tener un encargo secreto: billetes para un préstamo a Angola."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con esa documentación convencieron a la imprenta londinense Waterlow & Sons de que fabricara doscientos mil billetes de quinientos escudos, con el retrato de Vasco da Gama. Los hicieron con las planchas auténticas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un socio holandés, Karel Marang, recogía los billetes en Londres y los enviaba a Lisboa. Desde febrero de 1925 se fueron cambiando por divisas extranjeras y se ingresaron en sucursales de las afueras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Con ese dinero fundaron su propio banco, el Banco de Angola e Metrópole. Y fíjate en el siguiente paso, que es el más audaz: empezaron a comprar acciones del Banco de Portugal, la única entidad que podía denunciar la falsificación de sus billetes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Les faltaba mucho para controlarlo. Necesitaban cuarenta y cinco mil acciones con derecho de voto y en noviembre de 1925 tenían unas diez mil. Entonces apareció el billete repetido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Unos meses más y quizá lo habrían conseguido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El escándalo fue enorme. Hubo disturbios, y el escudo perdió credibilidad. Según el relato del Algarve, el fraude añadió a la circulación el equivalente a más de un millón de libras de entonces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los jueces tardaron cinco años en juzgarlo. Las órdenes falsas eran tan convincentes que sospecharon la complicidad de directivos del banco. En mayo de 1930, Reis fue condenado a veinte años de cárcel."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el juicio sostuvo que su propósito era desarrollar Angola. Según la prensa portuguesa, estuvo preso hasta 1945 y murió en Lisboa el 9 de julio de 1955, sin fortuna."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Marang, el socio holandés, fue juzgado en Holanda en 1926. Le cayeron once meses."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo otra víctima: la imprenta. El banco demandó a Waterlow & Sons, y en 1932 la Cámara de los Lores le dio la razón, con una indemnización superior a seiscientas mil libras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el desenlace que más me interesa: una gran empresa de Londres, responsable por no comprobar un encargo. Según el relato, el escándalo contribuyó a la muerte de su presidente, sir William Waterlow, en 1931."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para Portugal, fue más que una anécdota. Según la historiadora del Algarve, la crisis contribuyó a que en 1932 llegara el Estado Novo de Salazar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los billetes, por cierto, no eran falsos. Eran reales, pero no estaban autorizados. En 2026 se anunció una película británica sobre esta historia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La estafa del Banco de Portugal. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "BORRADOR"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "robo-museo-montreal",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Skylight Caper": "Skáilait Kéiper",
+    "Rembrandt": "Rémbrant",
+    "Delacroix": "Delacruá",
+    "Corot": "Corró",
+    "Gainsborough": "Géinsborou",
+    "Brueghel": "Brúgel",
+    "Amore": "Amóre"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La claraboya en obras",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El Skylight Caper. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La claraboya en obras."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Montreal, 4 de septiembre de 1972, poco después de medianoche. Es el lunes del Día del Trabajo. En el tejado del Museo de Bellas Artes, unos obreros han dejado una escalera y una claraboya a medio reparar. Su alarma está desconectada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un hombre sube por un árbol hasta el tejado y baja la escalera a otros dos. Los tres entran por la claraboya y se descuelgan hasta la segunda planta con una cuerda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Tres hombres, un árbol, una escalera que no era suya y una alarma apagada por obras. No hace falta ser un genio para ver lo que más me inquieta: el momento. Todo estaba en su sitio, justo esa noche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se encuentran con un vigilante. Como tarda en obedecer, uno de los ladrones dispara dos veces al techo con una escopeta. Los otros dos vigilantes acuden al ruido. Los tres terminan atados, amordazados y encerrados en una sala de conferencias, sin heridos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los vigilantes contaron que eran dos hombres con el pelo largo y pasamontañas, armados. Uno hablaba francés, otro inglés. Oyeron también a un tercero, que hablaba francés, pero no llegaron a verlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante unos treinta minutos, los ladrones descolgaron cuadros y reunieron joyas. Se llevaron dieciocho pinturas: un paisaje de Rembrandt, obras de Delacroix, Corot y Gainsborough, un Brueghel, y casi cuarenta joyas. Valor entonces, unos dos millones de dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y dejaron atrás algunos cuadros que ya habían bajado de las paredes: un Picasso, un Renoir, un Greco y otro Rembrandt. Saltó una alarma de la puerta lateral y huyeron con lo que llevaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quien entró primero en las salas, la conservadora Ruth Jackson, vio vitrinas rotas y marcos partidos. Dijo luego que parecía que querían vaciar el museo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía vigiló durante semanas a un grupo de estudiantes de bellas artes conocidos por el museo. No acabó en nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Como siempre en estos casos, se pensó en alguien de dentro. Se interrogó a los empleados y a los obreros de la claraboya. Todos quedaron descartados. Un experto en robos de arte, Anthony Amore, dice que le huele a trabajo con información interna. Es una opinión, no una prueba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A los pocos días, una voz con acento europeo mandó a un responsable del museo a una cabina junto a la universidad McGill. Allí lo guiaron hasta un paquete de tabaco tirado en el suelo. Dentro había un colgante robado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de octubre llegó un sobre con una foto de las obras robadas puestas en fila. Los ladrones pedían medio millón de dólares. Luego bajaron a doscientos cincuenta mil."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El director del museo exigió una prueba. Dejaron un cuadro de Brueghel en una consigna de la Estación Central. Se preparó un intercambio con dinero y un policía de paisano como intermediario. Pero un coche patrulla que no sabía nada pasó por el lugar y los ladrones se asustaron."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un cuadro y un colgante. Es todo lo que volvió. Después, en el verano de 1973, una llamada anónima llevó a un tasador de seguros por once cabinas de teléfono en una sola noche. Dejó diez mil dólares en un solar. El teléfono no volvió a sonar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie ha sido detenido ni acusado. El resto de las obras no ha aparecido en ningún mercado, ninguna subasta, ninguna redada. El museo cobró el seguro y compró un Rubens que, según un análisis, probablemente era de sus discípulos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no sabemos pesa más. Quiénes eran, quién les dio la información, dónde están los cuadros. La policía no habla del caso. Quizá nadie los busca ya."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es el mayor robo de arte de la historia de Canadá. No hubo víctimas mortales ni heridos, pero tres vigilantes pasaron una noche atados y amordazados en el edificio que cuidaban."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El Skylight Caper. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Cifras: dieciocho cuadros y 39 joyas según Canadian Art y Observer (la ficha dice 38 o 39 piezas pequeñas); el guion dice «casi cuarenta joyas». Valor: dos millones de dólares en 1972 (Canadian Art, Observer); la policía habló de unos cinco millones. Hora: justo después de medianoche (Canadian Art y Observer) frente a «madrugada» de la ficha; coincide. Número de vigilantes y detalles del tiro de escopeta: Canadian Art; la ficha habla de «redujeron a los vigilantes». Cuadro de Brueghel recuperado: las fuentes discrepan; el guion dice solo «un paisaje de Brueghel» y un colgante. La hipótesis del trabajo desde dentro es una opinión del autor del artículo de Observer (Anthony Amore); la policía descartó al personal del museo y a los obreros de la claraboya. No se señala a nadie. El Rembrandt: 1 millón en 1972 (Canadian Art), unos 50 millones hoy según el cineasta Maxime-Claude L'Écuyer (Observer). Fuentes abiertas: Canadian Art (2019) y Observer (2017); la Canadian Encyclopedia y la CBC dan error 403."
+}

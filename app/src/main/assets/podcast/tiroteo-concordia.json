@@ -1,0 +1,108 @@
+{
+  "id": "tiroteo-concordia",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Concordia": "Concórdia",
+    "Valery Fabrikant": "Válerí Fábrikant",
+    "Fabrikant": "Fábrikant",
+    "Montreal": "Montreál",
+    "Hall": "Jol",
+    "Matthew Douglass": "Máthiu Dáglas",
+    "Michael Hogben": "Máikel Jógben",
+    "Jaan Saber": "Yan Séiber",
+    "Phoivos Ziogas": "Fívos Ziógas",
+    "Archambault": "Arshambó",
+    "Quebec": "Kebec"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El noveno piso",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de la Universidad Concordia. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El noveno piso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Montreal, Canadá, lunes 24 de agosto de 1992. Hacia la una y media de la tarde, un profesor de ingeniería mecánica entra en la novena planta del edificio Hall de la Universidad Concordia. Lleva un maletín. Dentro hay tres pistolas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llama Valery Fabrikant. Lleva trece años en la universidad y está a punto de ser despedido. Hace meses que se enfrenta a sus colegas por su plaza y por la autoría de unos trabajos de investigación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. No era un rayo en un cielo limpio. Los informes posteriores documentan años de comportamiento hostil hacia estudiantes y colegas. El problema no estaba escondido: estaba en los expedientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fabrikant busca primero al decano y al jefe de su departamento. No están. Se dirige entonces a su propio despacho, donde tiene una cita con Michael Hogben, presidente de la asociación de profesores. Según la policía, Hogben iba a entregarle una carta con las condiciones para entrar en las oficinas del sindicato, porque su conducta incomodaba a quienes trabajaban allí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí empieza la matanza. Murieron cuatro profesores: Michael Hogben, Jaan Saber, Matthew Douglass y Phoivos Ziogas. Una secretaria resultó herida. Ninguno de ellos había intervenido en la disputa de Fabrikant."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo repito porque es lo más duro del expediente. Las víctimas no eran el objetivo de la queja. Dos de ellas murieron en el hospital, una al día siguiente y otra un mes después. No fue solo una tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después se encerró en un despacho con un vigilante de seguridad y otro profesor, George Abdou. Llamó a emergencias y dijo que acababa de cometer varios asesinatos. Quería hablar con un periodista de televisión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estuvo una hora al teléfono. Cuando dejó un momento la pistola para colocar el aparato, Abdou la apartó de una patada y el vigilante lo redujo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En un momento así, el instinto de dos personas valió más que un protocolo. Y hubo algo que sí funcionó: los servicios de emergencia aplicaron lo aprendido tras el tiroteo de la Escuela Politécnica de Montreal, en 1989."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fabrikant fue acusado de asesinato y se defendió a sí mismo en el juicio. Lo condenaron a cadena perpetua por cuatro asesinatos en primer grado. La condena cuenta desde el 8 de junio de 1993."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La universidad lo despidió diecisiete días después. Dos comités independientes investigaron lo ocurrido. Uno confirmó algunas de las acusaciones de Fabrikant sobre la gestión del dinero y la atribución de artículos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero ese mismo informe añadió algo importante. Dijo que sus denuncias no nacían de la preocupación por el bien común. Las describió como la venganza final de un hombre desesperado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Concordia cambió sus normas éticas y la forma de tratar a profesores conflictivos. El segundo informe señaló que, en las universidades, la conducta agresiva se había excusado a menudo bajo el paraguas de la libertad académica."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Otro dato incómodo. Periodistas del Montreal Gazette comprobaron que no era el disidente perseguido que decía ser: había emigrado de la Unión Soviética tras ser despedido de varios puestos por conducta amenazante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En prisión, Fabrikant pidió la libertad condicional varias veces. Se la negaron en 2015, en 2020 y en 2022. La junta señaló que seguía sin reconocer que había atacado a personas inocentes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Murió en la prisión de Archambault, en Quebec, el 27 de junio de 2026, a los ochenta y seis años. Causa natural, según el servicio penitenciario."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta aquí, el expediente del autor. El archivo prefiere cerrar con ellos: cuatro profesores que fueron a trabajar un lunes de agosto, y una secretaria que resultó herida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La matanza de la Universidad Concordia. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: CP24/Canadian Press (junio de 2026: muerte el 27 de junio de 2026 en Archambault, a los 86 años, causa aparentemente natural; cadena perpetua desde el 8 de junio de 1993; denegación de 2020) y Wikipedia inglesa (cronología del día, nombres de las víctimas, hostage, informes Arthurs y Cowan). Los informes de Concordia, La Presse y la Gazette no se abrieron. Discrepancias: Wikipedia da libertad condicional denegada en 2015 y 2022 (ficha) y CP en 2020; el guion cita 2015, 2020 y 2022. La ficha dice que se defendió a sí mismo: no se confirmó en fuentes abiertas. Los cuatro profesores se nombran por ser adultos y constar en Wikipedia; no se nombra a la secretaria herida. Que dos murieran en hospital (Saber al día siguiente, Ziogas un mes después) es de Wikipedia; la ficha dice que uno murió al día siguiente y otro un mes después. «Hacia la una y media»: Wikipedia. Fabrikant llevaba 13 años en la universidad (Wikipedia). Que lo despidieran 17 días después (Wikipedia)."
+}

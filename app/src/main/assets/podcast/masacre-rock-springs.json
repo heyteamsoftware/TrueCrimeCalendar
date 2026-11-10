@@ -9,14 +9,9 @@
     "Caballeros del Trabajo": "Caballeros del Trabajo",
     "Evanston": "Évanston",
     "Sweetwater": "Suítuater",
-    "Green River": "Grin Ríver",
     "Francis Warren": "Fránsis Uóren",
     "Grover Cleveland": "Gróver Clívland",
-    "Bitter Creek": "Bíter Crik",
-    "Ah Say": "A Sei",
-    "Omaha": "Omaja",
-    "San Francisco": "San Fransísco",
-    "Camp Pilot Butte": "Camp Páilot Biut"
+    "San Francisco": "San Fransisco"
   },
   "cintas": [
     {
@@ -42,7 +37,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Los llevaron de vuelta al lugar donde habían huido, con engaño, para que volvieran a la mina. Esto no es una pelea entre mineros. Es una historia en la que alguien más sacaba provecho."
+          "texto": "Primera nota. Los llevaron de vuelta, con engaño, al lugar del que habían huido. Según el historiador Tom Rea, eso mantenía el carbón fluyendo, que era lo que la compañía quería. Esto no es solo una pelea entre mineros."
         },
         {
           "voz": "ximena",
@@ -82,7 +77,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Después, la compañía se negó a pagarles lo que les debía y a darles billetes a California. Al final, los volvió a llevar a Rock Springs. Para quedarse sin comer, solo tenían que no volver a la mina. Casi todos volvieron."
+          "texto": "La compañía se negó a pagarles lo que les debía y a darles billetes a California. Después dejó de venderles comida a quienes no trabajaban y amenazó con echarlos de los vagones. Casi todos volvieron a la mina."
         },
         {
           "voz": "ximena",
@@ -106,7 +101,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Esos veintiocho eran mineros, hijos, hermanos y padres que habían cruzado el océano para ganarse la vida. Por muchos que fueran los nombres que se perdieron, el archivo los recuerda."
+          "texto": "Esos veintiocho eran mineros, hijos, hermanos y padres que habían cruzado el océano para ganarse la vida. Sus nombres no se conservaron en estas fuentes. El archivo guarda, al menos, el recuerdo de que existieron."
         },
         {
           "voz": "ximena",

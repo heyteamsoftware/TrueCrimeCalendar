@@ -1,0 +1,111 @@
+{
+  "id": "alvin-karpis",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alvin Karpis": "Álvin Kárpis",
+    "Karpis": "Kárpis",
+    "J. Edgar Hoover": "Yei Édgar Júver",
+    "Hoover": "Júver",
+    "Barker": "Bárker",
+    "William Hamm": "Uíliam Jam",
+    "Edward Bremer": "Édguard Brímer",
+    "Saint Paul": "Seint Pol",
+    "Minnesota": "Minesóta",
+    "New Orleans": "Nu Orlíns",
+    "McNeil Island": "Macníl Áiland",
+    "Roosevelt": "Rúsvelt",
+    "Kansas": "Cánsas",
+    "Alcatraz": "Alcatrás"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una corbata como esposas",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Alvin Karpis. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una corbata como esposas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueva Orleans, 1936. Una tarde de principios de mayo, una docena de agentes del FBI rodea un coche aparcado. Dentro está el hombre más buscado de Estados Unidos. Y el jefe del FBI, J. Edgar Hoover, ha viajado hasta allí para anunciarle personalmente que queda detenido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hoover ordena que le pongan las esposas. Pero nadie ha llevado esposas. Al detenido lo atan con la corbata de un agente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esa escena es lo que más se recuerda, y es también lo menos fiable. El propio detenido contó en sus memorias que Hoover apareció solo cuando todos los agentes lo tenían sujeto. La versión oficial del FBI cuenta otra cosa. Dos relatos, un mismo coche."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El detenido se llamaba Alvin Karpis. Había nacido en 1907 en Montreal, hijo de inmigrantes lituanos, y creció en Kansas. Con diez años ya trataba con contrabandistas y tahúres, y en 1926 lo condenaron por intento de robo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cárcel de Kansas conoció a Fred Barker, de la banda de los hermanos Barker. Al salir, en 1931, se unieron. Y Karpis acabó siendo el cerebro del grupo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Un mito: la banda era de «Ma Barker», una madre de armas tomar que lo dirigía todo. Karpis, y otro atracador de la época, dijeron que ella no sabía ni planear un robo. Según algunos autores, Hoover alimentó la leyenda tras la muerte de ella en un tiroteo con agentes. Es una tesis, no un hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La banda asaltó bancos y trenes de correos. En 1933 secuestró en Saint Paul, Minnesota, al cervecero William Hamm, y cobró cien mil dólares. En 1934 secuestró a un banquero, Edward Bremer, y cobró doscientos mil. Los dos fueron liberados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota, y aquí cambió todo. El padre de Bremer era amigo del presidente Roosevelt, que mencionó el caso en uno de sus discursos radiofónicos. Con el país aterrado por los secuestros, el FBI recibió todo el apoyo que pedía. Karpis se convirtió en la presa que faltaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1934 habían caído Dillinger, Bonnie y Clyde, Pretty Boy Floyd y Baby Face Nelson. Karpis quedó como «enemigo público número uno». En enero de 1935 murieron Fred y su madre en un tiroteo con el FBI, y Karpis siguió huido todavía más de un año."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su captura cerró una época: fue el último de los grandes «enemigos públicos» de los años treinta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo detuvieron en mayo de 1936. Se declaró culpable y lo condenaron a cadena perpetua por el secuestro de Bremer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay otro dato que anoto: Karpis se había quitado las huellas dactilares en 1934, con ayuda de un médico del hampa. No sirvió de nada. Una cirugía clandestina para borrar la identidad de un hombre que ya no tenía dónde esconderse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cumplió su condena en Alcatraz, desde 1936 hasta 1962. Fue el preso que más tiempo pasó allí: unos veintiséis años. Trabajaba en la panadería y se peleaba con otros presos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1962, con Alcatraz a punto de cerrar, lo trasladaron a la prisión de McNeil Island, en el estado de Washington. En 1969 salió en libertad condicional y fue deportado a Canadá."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Escribió sus memorias y las presentó en una gira por Canadá. Un cerebro criminal convertido en autor de su propia leyenda. Mi nota final es una duda: el mito del gánster romántico necesita que se olvide a los secuestrados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1979, Alvin Karpis apareció muerto en España, donde vivía. Al principio se habló de suicidio. Después, un juez determinó que murió de causas naturales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hamm y Bremer, los dos secuestrados, volvieron a casa. Pero sus familias tuvieron que pagar un rescate. Eso también forma parte del expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Alvin Karpis. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: año de nacimiento (1907 según Kansas Historical Society, FBI y Wikipedia; 1908 según The Canadian Encyclopedia y EBSCO): el guion usa 1907. Detención: la ficha dice 1 de mayo de 1936; Wikipedia dice que lo localizaron el 1 y lo detuvieron el 2 de mayo hacia las 17 h; el guion dice «principios de mayo» y «mayo de 1936». EBSCO da una detención en abril de 1935, que contradice al resto: se ignora. Años en Alcatraz: 25 o 26 (Wikipedia: 26 años; Kansapedia: de agosto de 1936 a 1962): el guion dice «unos veintiséis». Las dos versiones de la detención (memorias de Karpis y versión oficial) salen de Wikipedia; el detalle de las esposas olvidadas y la corbata también. Fuentes abiertas: Kansapedia, EBSCO (leída por el buscador), Wikipedia en inglés; las páginas del FBI no se abrieron. «Padre de Lituania»: ficha dice inmigrantes lituanos (no verificado en las fuentes abiertas). Muerte: Kansapedia dice que lo hallaron muerto el 26 de agosto de 1979, primero suicidio y después causas naturales; no se menciona la localidad. Declaración de culpabilidad (Hamm y Bremer): Wikipedia, citada con sus fuentes de prensa. El mito de «Ma Barker» se da como opinión de Karpis y Harvey Bailey (Wikipedia) y se señala la tesis de Hoover como «sospecha de algunos historiadores»."
+}

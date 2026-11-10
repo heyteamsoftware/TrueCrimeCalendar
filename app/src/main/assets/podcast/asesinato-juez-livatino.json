@@ -1,0 +1,121 @@
+{
+  "id": "asesinato-juez-livatino",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Rosario Livatino": "Rosário Livatino",
+    "Livatino": "Livatino",
+    "Agrigento": "Agrijento",
+    "Stidda": "Stída",
+    "Piero Nava": "Piéro Nava",
+    "Gasena": "Gasena",
+    "Ford Fiesta": "Ford Fiesta",
+    "Canicattì": "Canikatí",
+    "Caltanissetta": "Kaltanisseta",
+    "Paolo Amico": "Páolo Amíko",
+    "Domenico Pace": "Doménico Páche",
+    "Gaetano Puzzangaro": "Gaetáno Putsangáro",
+    "Giovanni Avarello": "Yovani Avarélo",
+    "Cosa Nostra": "Cosa Nostra",
+    "Sicilia": "Sicilia",
+    "Colonia": "Colonia"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Sin escolta en la carretera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El juez muchacho. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Sin escolta en la carretera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sicilia, 21 de septiembre de 1990. Por la mañana, un hombre de treinta y siete años conduce solo hacia su trabajo, en su viejo Ford Fiesta. Es juez. No lleva escolta. Va camino del tribunal de Agrigento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un juez que investigaba a la mafia, en su coche particular, sin escolta. Es lo que más me inquieta del expediente: iba sin ninguna protección por una carretera que cualquiera podía vigilar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la carretera estatal 640, junto al viaducto Gasena, en dirección a Agrigento, otro coche embiste al suyo. Rosario Livatino intenta escapar a pie. Lo alcanzan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí, junto a la carretera, pasa por casualidad un hombre, Piero Nava, agente comercial. Ve la escena."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en este detalle. Un testigo que no tenía por qué estar allí, que podía haber seguido su camino. En un crimen mafioso, donde casi nadie ve nada, él vio y habló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gracias a su testimonio se identificó a los asesinos. Eran sicarios de la Stidda, una organización criminal del sur de Sicilia surgida en los años ochenta y enfrentada a Cosa Nostra. Nava tuvo que vivir después bajo protección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Livatino había nacido en Canicattì en 1952. Estudió Derecho en Palermo y desde 1979 trabajó en Agrigento, primero como fiscal. Investigó la corrupción, los negocios de la mafia y los sobornos, y fue de los primeros en usar el decomiso de bienes contra los criminales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En los años ochenta participó en la gran investigación sobre la mafia de Agrigento, que desembocó en el maxiproceso de 1987, con cuarenta condenas. Desde 1989 se ocupaba sobre todo de medidas de prevención, como el decomiso de bienes. Según Il Post, ese día debía decidir medidas que perjudicaban a los intereses de la Stidda."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Sus compañeros hablaban de rigor y de discreción. Era un hombre religioso, y escribía en sus notas personales tres letras: STD. Significan «bajo la tutela de Dios». Lo dejo apuntado porque explica su calma."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 7 de octubre de 1990, la policía arrestó en Alemania, en Colonia, a Paolo Amico y a Domenico Pace. En 1992 un tribunal de Caltanissetta los condenó a cadena perpetua. Después, Gaetano Puzzangaro y Giovanni Avarello recibieron la misma pena, en 1995."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A partir de 1992 colaboraron con la justicia varios miembros de la organización, entre ellos Giuseppe Croce Benvenuto, que había participado en el crimen y recibió una pena menor. Sus declaraciones ayudaron a llegar hasta los que habían encargado el asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el punto clave. Los que apretaron el gatillo eran el último eslabón. Un tribunal tuvo que probar quién mandaba. Y lo hizo en un proceso largo, que acabó con condenas firmes a los inductores en 2001 y 2002. No siempre ocurre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A Livatino se le conoce a menudo como «el juez muchacho». El apodo se asoció a una frase del presidente Francesco Cossiga sobre los jueces jóvenes, aunque años después Cossiga dijo que no se refería a él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Prefiero la imagen de un funcionario que cumplió con su trabajo hasta el final, sin heroísmos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de sus asesinos, Gaetano Puzzangaro, declaró años después en el proceso diocesano de beatificación de Livatino."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2020 el papa Francisco aprobó el decreto que reconoce su martirio, y Livatino fue beatificado en la catedral de Agrigento, el 9 de mayo de 2021."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Más allá de la fe, lo que me queda es esto: una carretera, un coche viejo, un testigo que no se fue, y una justicia que, esta vez, llegó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Treinta y siete años. Una carrera de once años en el tribunal, un coche viejo y una agenda con tres letras. Es poco material para una leyenda. Y es justo lo que lo hace creíble."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Rosario Livatino tenía treinta y siete años. Según la Wikipedia italiana, en octubre de 2026 fue declarado patrono de los magistrados italianos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El juez muchacho. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso cerrado. Fuentes abiertas: Wikipedia italiana y Il Post (2020); no se abrieron La Repubblica, LaPresse ni Vatican News. Problemas: 1) El guion dice solo que iba en su coche particular y sin escolta (Wikipedia italiana e Il Post). 2) El apodo «juez muchacho»: según la Wikipedia italiana lo popularizó un libro de 1992 y Cossiga (que habló de «jueces muchachos» en 1991) negó referirse a él; Il Post lo atribuye a Cossiga; el guion lo deja prudente. 3) Patrono de los magistrados desde octubre de 2026: dato solo de la Wikipedia italiana; confirmar antes de publicar. 4) Nava: «milanés» (Wikipedia) o «de Bérgamo» (Il Post); el guion no dice de dónde. Condenas de los inductores: proceso «ter» (Gallea, Calafato, Parla, Montanti), firmes en 2001-2002; no se nombran."
+}

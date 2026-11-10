@@ -1,0 +1,112 @@
+{
+  "id": "masacre-vizconde",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Vizconde": "Vizcónde",
+    "Estrellita Vizconde": "Estreyíta Vizcónde",
+    "Estrellita": "Estreyíta",
+    "Carmela": "Carmela",
+    "Lauro Vizconde": "Láuro Vizcónde",
+    "Lauro": "Láuro",
+    "Vinzons Street": "Vínsons Strít",
+    "Parañaque": "Paranyáque",
+    "Manila": "Manila",
+    "BF Homes": "Bi Ef Jóums",
+    "Filipinas": "Filipinas",
+    "Jessica Alfaro": "Yésica Alfáro",
+    "Alfaro": "Alfáro",
+    "Hubert Webb": "Jíubert Ueb",
+    "Webb": "Ueb",
+    "NBI": "ene be ai",
+    "Tribunal Supremo": "Tribunal Supremo",
+    "Estados Unidos": "Estados Unidos",
+    "Aquino": "Akíno"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una casa de Vinzons Street",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La masacre Vizconde. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una casa de Vinzons Street."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Parañaque, en Manila, mañana del 30 de junio de 1991. Un guardia de seguridad recibe un aviso y acude a una casa de Vinzons Street, en la urbanización BF Homes. Entra en el dormitorio principal. Allí encuentra a tres mujeres sin vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran Estrellita Vizconde, su hija Carmela, de diecinueve años, y la hija menor, una niña de siete. A la niña no la nombramos. El padre, Lauro Vizconde, estaba de viaje en Estados Unidos por trabajo. Murieron en la noche del 29 al 30 de junio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una familia entera de mujeres, y un hombre que está fuera. La policía tardó años en responder a la pregunta más sencilla: ¿quién? Y cuando por fin hubo respuesta judicial, otro tribunal la deshizo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía detuvo en 1991 a un grupo de sospechosos acusados de robar casas. Algunos llegaron a confesar con detalle. Después, un tribunal los liberó: dijeron que les habían arrancado las confesiones. El caso se quedó sin resolver casi cuatro años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un error clásico: conformarse con una confesión que no resiste. Si los primeros detenidos no eran los autores, el asesino tuvo cuatro años de ventaja, y la familia, cuatro años de dolor sin respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1995, el NBI, la policía de investigación de Filipinas, presentó a una testigo, Jessica Alfaro. Ella dijo que había presenciado los hechos. Implicó a un joven de familia influyente, Hubert Webb, hijo de un político conocido, y a otros jóvenes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio duró años y se llamó «el juicio del siglo». En enero de 2000, el tribunal condenó a seis acusados a cadena perpetua. En diciembre de 2005, la Corte de Apelaciones confirmó las condenas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El Supremo señaló que Alfaro trabajaba como colaboradora del NBI, con beneficios y trato especial. Su superior declaró que se ofreció como testigo cuando no pudo presentar a la persona que había prometido. Otros testigos de la acusación se consideraron poco concluyentes o contradictorios."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Todo se apoyaba en una testigo. Y aquí entra el Tribunal Supremo. El 14 de diciembre de 2010 examinó su relato y lo encontró poco creíble: contradicciones, detalles que coincidían con lo que ya había visto en los expedientes, y acciones que no tenían sentido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Webb sostuvo que estaba en Estados Unidos desde marzo de 1991 hasta octubre de 1992. Presentó pasaporte, certificaciones oficiales y testigos. El Supremo concluyó que esa coartada estaba documentada y que la fiscalía no la desmontó. El juez de primera instancia había descartado la mayor parte de aquellas pruebas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Atento: absolver no es inventar un inocente. Es decir que no se probó la culpabilidad más allá de toda duda razonable. Siete acusados fueron absueltos, entre ellos Webb, y no pueden ser juzgados de nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos acusados más, Artemio Ventura y Joey Filart, nunca fueron capturados, así que nunca fueron juzgados: no se ha probado nada contra ellos, ni se les ha absuelto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lauro Vizconde criticó la sentencia. Los partidarios de Webb la celebraron. Jessica Alfaro afirmó que mantenía su historia. En diciembre de 2010, el presidente Aquino ordenó una nueva investigación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa investigación no ha dado condenas. En 2011, una declaración oficial puso en duda la coartada, y la defensa lo discutió. Como no se puede juzgar otra vez a los absueltos, no afirmo nada contra nadie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murieron tres personas y el crimen sigue sin culpables. Lauro Vizconde murió en febrero de 2016, sin conocer la verdad, y fue enterrado con su esposa y sus hijas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que queda es una casa, una familia y una verdad que ningún tribunal ha podido dar. Estrellita, Carmela y la niña merecen que el archivo no sea solo una discusión sobre pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La masacre Vizconde. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: sentencia del Tribunal Supremo (G.R. n.º 176389) y Wikipedia (en inglés); Inquirer, ABS-CBN y Philstar no se abrieron. Discrepancia: Wikipedia dice que la menor era nieta de Estrellita (Lauro, padre de dos de las víctimas); la sentencia y la ficha, que eran sus dos hijas. El guion dice «la hija menor». La menor no se nombra (la sentencia la nombra); a Carmela, de 19 años, sí. Primera instancia: 4 o 6 de enero de 2000 (sentencia: 4; Wikipedia: 6). No se detalla la violencia ni los cargos. Webb y los otros seis absueltos no se señalan; la reinvestigación de 2011 no se detalla porque la defensa la discute y no hay juicio posible (doble enjuiciamiento). El guion dice que el juez de primera instancia descartó «la mayor parte de aquellas pruebas»: Wikipedia, 132 de 142. «El guardia recibió un aviso» y «dormitorio principal»: sentencia. «Casi cuatro años sin resolver» y la liberación de los primeros sospechosos: sentencia y Wikipedia (absueltos en 1993). «Seis acusados a cadena perpetua» y «siete absueltos»: sentencia y Wikipedia (Biong, condenado como encubridor, también absuelto). «Entre ellos Webb y siete...» sale de Wikipedia. Muerte de Lauro Vizconde en febrero de 2016: Wikipedia."
+}

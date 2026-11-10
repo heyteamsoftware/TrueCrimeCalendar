@@ -1,0 +1,110 @@
+{
+  "id": "motin-bounty",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bounty": "Báunti",
+    "HMS Bounty": "Eich Em Es Báunti",
+    "William Bligh": "Uíliam Blái",
+    "Bligh": "Blái",
+    "Fletcher Christian": "Flécher Críschan",
+    "Christian": "Críschan",
+    "Tofua": "Tofúa",
+    "Pitcairn": "Pítkern",
+    "Pandora": "Pandora",
+    "Kupang": "Cúpang",
+    "Tahití": "Tahití",
+    "Portsmouth": "Pórtsmouz",
+    "John Adams": "Yon Ádams"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La lancha de Bligh",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El motín de la Bounty. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La lancha de Bligh."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Océano Pacífico, 28 de abril de 1789. Poco después de las cinco de la madrugada, a unas treinta millas al sur de la isla de Tofua, un oficial despierta al hombre que duerme en su camarote. El capitán William Bligh sale de allí con las manos atadas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Nadie murió en el motín. Según el Museo Marítimo de Greenwich, no se derramó sangre. Quien lo lidera no es un marinero cualquiera, sino un oficial, Fletcher Christian."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El HMS Bounty era un buque pequeño de la Marina Real británica. Había zarpado de Inglaterra en diciembre de 1787 con una misión: recoger plantones de árbol del pan en Tahití para llevarlos a las Antillas y alimentar allí a la población esclavizada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El viaje fue largo y la disciplina, un problema. Llegaron a Tahití en octubre de 1788, pero no era la época de recoger los plantones, y se quedaron más de cinco meses. Los marineros vivieron en tierra, en un clima suave. Volver al barco fue duro."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Hay dos versiones. Para algunos, Bligh era un comandante opresivo que insultaba a sus hombres. Para otros, un oficial exigente en un barco sin infantes de marina que respaldaran su autoridad. Mi opinión importa menos que lo que se dijo después en el tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las tres semanas de zarpar de Tahití, Christian y otros hombres tomaron el barco. Bligh y dieciocho leales fueron obligados a subir a una lancha de unos siete metros. Los dejaron a la deriva en mitad del Pacífico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era casi una sentencia de muerte. Pero Bligh era un navegante meticuloso. Con un compás, un sextante y la ayuda de sus hombres, rumbo al oeste, hizo escala en Tofua para buscar víveres y después navegó cuarenta y siete días más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Llegaron a Kupang, en Timor, el 14 de junio de 1789. Habían recorrido más de tres mil quinientas millas náuticas en una lancha abierta. Bligh volvió a Inglaterra en 1790."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tengo que reconocérselo: aquello fue una hazaña de navegación. Y aun así, cuando llegó el juicio, lo que se discutió fue su trato a la tripulación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los amotinados volvieron a Tahití. Dieciséis decidieron quedarse allí. Christian y otros ocho hombres, con seis hombres y doce mujeres tahitianos, buscaron un refugio. En enero de 1790 se instalaron en la isla de Pitcairn, deshabitada y remota, y quemaron el barco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Marina envió el HMS Pandora a capturarlos. Detuvo en Tahití a catorce hombres y los encerró a bordo. Pandora no encontró a Christian. En el viaje de vuelta encalló en la Gran Barrera de Coral, y murieron cuatro de los presos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Diez llegaron a Inglaterra en junio de 1792. El consejo de guerra se abrió el 12 de septiembre en Portsmouth. Cuatro fueron absueltos. Seis fueron declarados culpables y condenados a muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "De esos seis, tres recibieron después el indulto del rey. Los otros tres fueron ahorcados en octubre de 1792, a bordo de un buque en el puerto. Parte de los testimonios del juicio criticó el trato de Bligh. Hubo quien dijo en la prensa que el dinero salvó a unos y la pobreza condenó a otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1808, un ballenero estadounidense llegó a Pitcairn. Encontró una comunidad de mujeres y niños dirigida por John Adams, el único que quedaba de los nueve amotinados. Según su relato, Christian y los demás habían muerto por peleas internas y enfermedades."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "A Adams no lo juzgaron. En 1825 un barco británico le concedió la amnistía. Esa es la clave del expediente: tres hombres colgados en Portsmouth, y el hombre que lideró el motín nunca pisó un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Christian y quienes se escondieron con él no fueron juzgados nunca. Descendientes de los amotinados y de sus acompañantes tahitianos viven aún en Pitcairn."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No hay un solo muerto en el motín. Pero sí en lo que siguió: cuatro presos en un naufragio, tres hombres colgados, y una isla donde casi todos acabaron muertos. El archivo recuerda el barco, y a quienes no volvieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El motín de la Bounty. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Contradicciones: 1) Número de amotinados: Royal Museums Greenwich dice «Christian y 18 amotinados» (de 42 hombres, 22 leales y 2 pasivos); History.com dice «Christian y 25 oficiales subalternos y marineros»; Wikipedia, «25 hombres» a bordo tras el motín (incluidos leales retenidos). El guion no da cifra de amotinados. 2) Distancia: History.com, unas 3.600 millas; Wikipedia, unas 3.500 millas náuticas; RMG, 3.618 millas náuticas; el guion dice «más de tres mil quinientas millas náuticas». 3) Ahorcamientos el 28 de octubre de 1792 (Wikipedia); la ficha dice «28 o 29». 4) Navío del consejo: Wikipedia (HMS Duke, lord Hood); ahorcamiento en HMS Brunswick. 5) Los 'seis hombres y doce mujeres tahitianos' y 'dieciséis se quedaron' vienen de History.com. 6) 'Bligh criticado por los testimonios del juicio' y 'dinero/pobreza' vienen de Wikipedia (Dening). 7) 'Bligh opresivo' viene de History.com; 'sin infantes de marina' de RMG. 8) La amnistía de Adams en 1825 es de History.com. 9) La muerte de Christian a manos de otros o por enfermedad: el relato de Adams; Wikipedia dice que murieron por peleas entre ellos o a manos de sus compañeros polinesios. No se nombra a los condenados. El texto de Bligh en Gutenberg no se ha leído."
+}
