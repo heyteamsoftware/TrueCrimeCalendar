@@ -1451,73 +1451,70 @@
     "nota_revision": "Víctima menor (14 años), pero en un caso de hace setenta años que lleva su nombre y que su madre hizo público a propósito. Bryant y Milam fueron absueltos: la ficha dice que confesaron en la prensa, no que fueran condenados. El pago de Look fue de 4.000 dólares según Wikipedia (otra cifra en la misma página: entre 3.600 y 4.000). En 2022 un gran jurado tampoco acusó a Carolyn Bryant Donham."
   },
   {
-    "id": "asesinato-rucci",
+    "id": "asesinato-bandaranaike",
     "m": 9,
     "d": 25,
-    "y": 1973,
-    "n": "José Ignacio Rucci",
-    "a": "Operación Traviata",
+    "y": 1959,
+    "n": "Talduwe Somarama",
+    "a": "El magnicidio de Tintagel",
     "v": "1",
-    "p": "Argentina",
-    "f": "🇦🇷",
-    "per": "1973",
-    "st": "Sin condena. En agosto de 2012 el juez Ariel Lijo atribuyó el crimen a Montoneros, pero lo declaró prescrito por no ser de lesa humanidad y archivó la causa; en diciembre de 2012 la Cámara Federal revocó el archivo por prematuro y la investigación se reactivó en 2013. En 2016 la familia pidió citar a indagatoria a cuatro antiguos dirigentes de Montoneros; no consta ninguna condena.",
-    "c": "Hacia el mediodía del 25 de septiembre de 1973, dos días después de que Juan Domingo Perón ganara las elecciones presidenciales, el secretario general de la CGT, José Ignacio Rucci, fue acribillado cuando salía de una casa de la avenida Avellaneda 2953, en el barrio de Flores (Buenos Aires): recibió 23 disparos. Nadie reivindicó el crimen en ese momento. Dos años después, la revista Evita Montonera lo incluyó en una lista de «ajusticiados» por Montoneros, aunque dirigentes de la organización lo negaron más tarde. La causa se reabrió en 2008; el juez Lijo la archivó en 2012 por prescripción, pero la Cámara Federal revocó ese archivo y la investigación continuó.",
-    "mo": "Un comando lo esperó junto a la casa y le disparó en cuanto salió a la calle, a plena luz del día.",
+    "p": "Sri Lanka",
+    "f": "🇱🇰",
+    "per": "1959–1962",
+    "st": "Cerrado. El monje Talduwe Somarama fue condenado a muerte por asesinato y ahorcado el 6 de julio de 1962. Mapitigama Buddharakkitha y Hemachandra Piyasena Jayawardena fueron condenados por conspiración: sus penas de muerte se cambiaron por cadena perpetua en apelación y luego se conmutaron a 20 años; Buddharakkitha murió en prisión en 1967 y Jayawardena salió en 1977.",
+    "c": "La mañana del 25 de septiembre de 1959, el primer ministro de Ceilán, S. W. R. D. Bandaranaike, recibía a visitantes en la terraza de su residencia de Colombo cuando el monje budista Talduwe Somarama le disparó con un revólver. Bandaranaike fue operado en el hospital general, pero murió a la mañana siguiente. La policía detuvo a Somarama en el lugar y la investigación destapó una conspiración que apuntaba al influyente monje Mapitigama Buddharakkitha. En 1961 un jurado condenó a ambos y a un tercer acusado; otros dos fueron absueltos. Somarama fue ahorcado en 1962.",
+    "mo": "Somarama, que se hizo pasar por un visitante más, esperó su turno en la audiencia pública del primer ministro, sacó el revólver oculto bajo su túnica y disparó a quemarropa. Según la acusación, el plan fue instigado por Buddharakkitha por motivos económicos y políticos.",
     "loc": [
       [
-        -34.6265,
-        -58.4725,
-        "Avenida Avellaneda 2953, Flores, Buenos Aires (atentado)"
+        6.9144,
+        79.8716,
+        "Rosmead Place, Colombo 7 (residencia «Tintagel», donde fue el atentado; posición aproximada en la calle)"
+      ],
+      [
+        6.9217,
+        79.8792,
+        "Prisión de Welikada, Colombo (donde fue ahorcado Somarama)"
       ]
     ],
     "vin": [],
-    "g": [
-      "argentina",
-      "hispanoamerica"
-    ],
+    "g": [],
     "estrella": false,
     "tipo_efemeride": "crimen",
-    "titulo_caso": "Asesinato de José Ignacio Rucci (Buenos Aires)",
-    "autor": "Atribuido a Montoneros (sin condena)",
+    "titulo_caso": "Asesinato de S. W. R. D. Bandaranaike (Colombo)",
+    "autor": "Talduwe Somarama (condenado por asesinato), con Mapitigama Buddharakkitha y Hemachandra Piyasena Jayawardena (condenados por conspiración)",
     "fuentes": [
       {
-        "titulo": "Canal 26, «El día que Montoneros mató a Rucci, el sindicalista de Perón» (25 de septiembre de 2017)",
-        "url": "https://www.canal26.com/politica/2017/09/25/el-dia-que-montoneros-mato-a-rucci-el-sindicalista-de-peron/",
+        "titulo": "D. B. S. Jeyaraj, «The incident that rocked Ceylon 55 years ago: the assassination of Prime Minister S.W.R.D. Bandaranaike», Daily Mirror (Colombo)",
+        "url": "https://dailymirror.lk/dbs-jeyaraj-column/the-incident-that-rocked-ceylon-55-years-ago-the-assassination-of-prime-minister-swrd-bandaranaike/192-53002",
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Marcelo Gullo, «Veintitrés balas para Perón», Infobae (25 de septiembre de 2020)",
-        "url": "https://www.infobae.com/sociedad/2020/09/25/veintitres-balas-para-peron/",
+        "titulo": "D. B. S. Jeyaraj, «Aftermath of Bandaranaike's assassination: investigation to indictment», Daily Mirror (28 de septiembre de 2019)",
+        "url": "https://www.dailymirror.lk/opinion/Aftermath-Of-Bandaranaikes-Assassination-INVESTIGATION-TO-INDICTMENT/231-175319",
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "Infobae, «Para la Justicia, el crimen de Rucci no fue un delito de lesa humanidad» (10 de agosto de 2012; copia archivada)",
-        "url": "https://web.archive.org/web/20120812234303/http://www.infobae.com/notas/664001-Para-la-Justicia-el-crimen-de-Rucci-no-fue-un-delito-de-lesa-humanidad.html",
+        "titulo": "Gaveshaka, «Our Heritage: a Prime Minister's assassination trial», The Sunday Times (Colombo, 11 de mayo de 2008)",
+        "url": "https://www.sundaytimes.lk/080511/FunDay/heritage.html",
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "«Ordenan reabrir la causa del asesinato de Rucci», La Nueva, 19 de diciembre de 2012",
-        "url": "https://www.lanueva.com/nota/2012-12-19-9-0-0-ordenan-reabrir-la-causa-del-asesinato-de-rucci",
+        "titulo": "«Ceylon: Banda Avenged», Time (19 de mayo de 1961)",
+        "url": "https://time.com/archive/6810036/ceylon-banda-avenged/",
         "tipo": "hemeroteca"
       },
       {
-        "titulo": "«Reactivan la causa y citan a testigos por el asesinato de Rucci», La Nación, 18 de abril de 2013",
-        "url": "https://www.lanacion.com.ar/politica/reactivan-la-causa-y-citan-a-testigos-por-el-asesinato-de-rucci-nid1573943/",
-        "tipo": "hemeroteca"
+        "titulo": "Encyclopaedia Britannica, «S.W.R.D. Bandaranaike»",
+        "url": "https://www.britannica.com/biography/S-W-R-D-Bandaranaike",
+        "tipo": "enciclopedia"
       },
       {
-        "titulo": "«Piden llamar a indagatoria a ex jefes Montoneros por el asesinato del sindicalista Rucci», Los Andes, 28 de marzo de 2016",
-        "url": "https://www.losandes.com.ar/piden-llamar-a-indagatoria-a-ex-jefes-montoneros-por-el-asesinato-del-sindicalista-rucci",
-        "tipo": "hemeroteca"
-      },
-      {
-        "titulo": "Wikipedia (en castellano), «José Ignacio Rucci» (punto de partida; consultada por sus referencias)",
-        "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Rucci",
+        "titulo": "Wikipedia (en inglés), «Assassination of S. W. R. D. Bandaranaike» (punto de partida; consultada por sus referencias)",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_S._W._R._D._Bandaranaike",
         "tipo": "enciclopedia"
       }
     ],
-    "nota_revision": "La autoría de Montoneros procede de la investigación de Ceferino Reato, de testimonios y de la resolución de 2012 del juez Lijo, pero no hubo juicio ni condena: se presenta como atribuida. Mario Firmenich y Roberto Perdía negaron la autoría (Firmenich admitió la «responsabilidad política»). La Evita Montonera fechaba el crimen el «23-09-73». La hora es las 12:11 según la Wikipedia. La reapertura figura como 2008 (Infobae) o 2009 (otra sección de Wikipedia). Verificación: el archivo de Lijo (agosto de 2012) fue revocado por la Sala II de la Cámara Federal (Cattani e Irurzun) hacia el 18 de diciembre de 2012 (La Nueva), la causa se reactivó en 2013 (La Nación) y en 2016 la familia pidió indagatorias de Firmenich, Vaca Narvaja, Perdía y Jauretche (Los Andes). No se ha localizado ninguna resolución posterior ni se sabe si la causa sigue abierta en 2026: puede contar como proceso abierto sin acusados, igual que el caso López, y decide el coordinador. El artículo de Clarín no se pudo abrir (bloqueo de la copia archivada). Se ha quitado la URL de Clarín (404)."
+    "nota_revision": "Fecha (atentado 25-09-1959, muerte 26-09 hacia las 8.00) confirmada en Daily Mirror (2014 y 2019), Sunday Times, Britannica y Wikipedia; la efeméride es el atentado. Ejecución de Somarama el 6 de julio de 1962 en Welikada: Daily Mirror (2019) y Wikipedia; el Sunday Times (2008) solo dice que fue ahorcado, sin fecha. Hora del disparo (hacia las 9.45) y condenas de los otros acusados (Anura de Silva absuelto por unanimidad, Newton Perera por 5-2): Daily Mirror y Wikipedia. Britannica y Time no se abrieron completos (403 / solo extracto): se citan por los datos de fecha, condena y motivo que dan sus extractos. La calle se escribe Rosmead/Rosemead según la fuente; la coordenada es la del centro de Rosmead Place (OpenStreetMap), sin localizar el número 65 de Tintagel. Algunas fuentes dan otra fecha de inicio del juicio (22 de febrero o 22 de mayo de 1961): no se fija. Somarama retractó su confesión en el juicio. No hay procesos abiertos. Vínculo con el caso Athulathmudali (23/4) descartado: no hay relación real (otro periodo, otros hechos)."
   },
   {
     "id": "detencion-machine-gun-kelly",
