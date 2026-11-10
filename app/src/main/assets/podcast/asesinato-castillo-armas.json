@@ -42,7 +42,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pocos días después, el gobierno presentó un diario atribuido al soldado, con un plan para matar al presidente. Lo dio a conocer el secretario de publicidad de la Presidencia."
+          "texto": "Pocos días después, el gobierno presentó un diario atribuido al soldado, con un plan para matar al presidente. Lo dio a conocer Roberto Castañeda Felice, secretario de publicidad de la Presidencia."
         },
         {
           "voz": "alvaro",
@@ -62,11 +62,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un año después, la hemeroteca de Prensa Libre repasaba lo que seguía sin saberse. No estaba probado que el soldado hubiera disparado, ni que las dos balas salieran de su arma."
+          "texto": "Un año después, un artículo de Prensa Libre, publicado en 1958 y reeditado en 2015, concluía que la muerte del presidente no estaba esclarecida, y repasaba lo que seguía sin saberse. No estaba probado que el soldado hubiera disparado, ni que las dos balas salieran de su arma."
         },
         {
           "voz": "alvaro",
-          "texto": "Tampoco se sabía con claridad cuál de las dos heridas fue la mortal. Y ni siquiera estaba claro si el superior del soldado estaba en la Casa Presidencial en el momento del crimen. Son huecos enormes para un asesinato de Estado."
+          "texto": "Tampoco se sabía con claridad cuál de las dos heridas fue la mortal. Y ni siquiera estaba claro si el superior del soldado estaba en la Casa Presidencial en el momento del crimen. Son huecos enormes para un crimen de esta gravedad."
         },
         {
           "voz": "ximena",
@@ -74,7 +74,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Anoto que son hipótesis que circularon en la prensa y entre historiadores. Ninguna se probó en un tribunal. No voy a señalar a nadie, porque aquí no hay a quién señalar con pruebas."
+          "texto": "Anoto que son hipótesis que circularon en la prensa y entre historiadores, y que algunas se contradicen entre sí. Ninguna se probó en un tribunal. No voy a señalar a nadie, porque aquí no hay a quién señalar con pruebas."
         },
         {
           "voz": "ximena",
@@ -94,5 +94,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Caso sin aclarar: nadie fue juzgado; no se señala a nadie. Fuentes abiertas: Prensa Libre (3 artículos, WebFetch: relato del crimen, «El diario sospechoso» y la hemeroteca de 1958 republicada en 2015). El documento FRUS y Wikipedia no se abrieron. Todo lo del soldado va como «versión oficial». Discrepancia: hora de la muerte (la hemeroteca dice que murió esa noche; el artículo del crimen, que se confirmó a las 3 de la madrugada del 27): el guion dice «de madrugada». Edad del soldado (24): ficha. Ortografía extraña del diario: ficha, no la recogen los artículos abiertos. Se omite el nombre del superior del soldado al que acusó el Ministerio Público (Prensa Libre 1958): no consta condena. Las hipótesis (terratenientes, CIA, trujillistas, liberacionistas, comunistas) se atribuyen a prensa e historiadores sin darlas por buenas. El historiador «Wilhelm» sale citado en Prensa Libre sin más datos. Detenidos liberados por falta de pruebas: ficha. «Mataron al presidente» y la herida a una trabajadora y a un coronel: versión oficial según Prensa Libre (artículo del crimen)."
 }

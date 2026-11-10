@@ -1,0 +1,112 @@
+{
+  "id": "operacion-malaya",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Marbella": "Marbella",
+    "Marisol Yagüe": "Marisol Yagüe",
+    "Juan Antonio Roca": "Juan Antonio Roca",
+    "Miguel Ángel Torres": "Miguel Ángel Torres"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El ayuntamiento desalojado",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Operación Malaya. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El ayuntamiento desalojado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Marbella, Málaga, 29 de marzo de 2006. Pasadas las nueve de la mañana, agentes de la Policía Nacional entran en el Ayuntamiento. Ordenan desalojar por completo la casa consistorial y las oficinas de urbanismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A esa hora, la alcaldesa, Marisol Yagüe, ya está detenida. Con ella, otras diecisiete personas, entre ellas el asesor de Urbanismo del Ayuntamiento, Juan Antonio Roca. Los agentes registran también sus casas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un ayuntamiento vaciado por la policía a media mañana. Es una escena casi imposible para una ciudad tan conocida por su turismo de lujo. Y sin embargo la operación llevaba meses preparándose."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La investigación había empezado en noviembre de 2005. La dirigían el juez Miguel Ángel Torres, del Juzgado de Instrucción número cinco de Marbella, y la Fiscalía Anticorrupción. El nombre, Malaya, viene de la «gota malaya»: una presión pequeña, lenta y constante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso dice mucho del método. Durante meses se fue acumulando información, sin ruido, hasta que se pudo actuar a la vez en muchos sitios. La operación no cayó de golpe: se construyó gota a gota."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los delitos que se investigaban eran graves: cohecho, malversación de fondos públicos, prevaricación y tráfico de influencias. Se sospechaba de un entramado de sociedades que encubría el negocio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera fase terminó con unas veinte detenciones entre el 29 de marzo y el 1 de abril. El juez dictó prisión para Roca, para la alcaldesa y para la primera teniente de alcalde."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero aclarar el sistema, porque parece complicado y no lo es tanto. Según la sentencia, desde la concejalía de Urbanismo, Roca cobraba a empresarios a cambio de licencias y de convenios. Repartía parte del dinero entre concejales. Y el resto lo blanqueaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo blanqueaba, siempre según la sentencia, con sociedades, fincas y obras de arte. Todo eso se juzgó. Y no hace falta imaginarlo: está en los autos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí la víctima no tiene cara. Es una ciudad. Cada licencia comprada es una decisión pública que se tomó por dinero, y no por interés general. Los vecinos pagaron esa diferencia sin saberlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pocos días después, el 7 de abril, el Consejo de Ministros disolvió el Ayuntamiento de Marbella. Lo gobernó una comisión gestora hasta las elecciones municipales de mayo de 2007."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siguieron más fases. En junio de 2006 hubo otra treintena de detenciones, con trece exconcejales y otros tantos constructores. Llegaron más en noviembre. En 2007, el juez procesó a ochenta y seis personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una precisión sobre las cifras. Las de los detenidos del primer día varían: las agencias contaron dieciocho la misma mañana y la EFE habló después de una veintena en total. No importa el número exacto. Importa que no era un caso de una persona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en Málaga el 27 de septiembre de 2010. Se prolongó durante años. El 4 de octubre de 2013, la Audiencia Provincial de Málaga condenó a cincuenta y dos acusados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roca fue condenado a once años de cárcel y a una multa de doscientos cuarenta millones de euros, por cohecho, blanqueo, fraude y prevaricación. La Fiscalía había pedido treinta años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuidado con una cosa. Hubo absoluciones, y hubo piezas aparte, juzgadas después. Aquí hablo de los condenados, por sentencia. A los demás, ni se les nombra: la ley es igual para todos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2015, el Tribunal Supremo confirmó la mayoría de las penas. Los condenados quedaron en cuarenta y ocho. Y subió a diecisiete años la pena de Roca."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Queda una pregunta, y no es jurídica. ¿Cuánto cuesta una ciudad vendida al detalle? Los jueces pusieron cifras de multas. No pueden devolver el tiempo ni lo que se construyó donde no debía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la Wikipedia, el caso sirvió de modelo para otras investigaciones de corrupción urbanística en decenas de ayuntamientos españoles. Y todavía hoy algunos condenados soportan deudas con la Hacienda pública."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la memoria que le corresponde a este expediente. No hay un muerto que nombrar. Hay una ciudad entera que, durante años, fue gobernada por quienes la vendían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: Operación Malaya. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

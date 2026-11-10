@@ -1,0 +1,104 @@
+{
+  "id": "desaparicion-julio-lopez",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Etchecolatz": "Etchecólatz",
+    "Los Hornos": "Los Hornos",
+    "Circuito Camps": "Circuito Camps"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La mañana del alegato",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El testigo desaparecido. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La mañana del alegato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Plata, Argentina. Lunes 18 de septiembre de 2006. Un albañil de setenta y seis años sale de su casa de Los Hornos. Hoy es el día de los alegatos del juicio contra el excomisario Miguel Etchecolatz. Y él ha ido a escuchar, porque es uno de los testigos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había quedado en que su sobrino pasaría a buscarlo. Pero salió de casa sin esperarlo, y caminó varias cuadras. Un vecino lo vio en la calle. Fue la última persona que lo vio. Jorge Julio López nunca llegó a los tribunales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un hombre de setenta y seis años no se pierde en unas pocas calles de su barrio. Y menos ese día. La pregunta no es adónde iba. Es quién sabía que iba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "López había nacido en 1929, en General Villegas. Se instaló en Los Hornos en 1956 y trabajó como peón y albañil. Tenía mujer y dos hijos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre de 1976, en plena dictadura militar, lo secuestraron en su barrio. Pasó por cuatro centros clandestinos del llamado Circuito Camps y estuvo preso sin juicio hasta 1979."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando años después se anularon las leyes de impunidad, declaró. Primero, en el Juicio por la Verdad de La Plata, en 1999. Y el 28 de junio de 2006, como testigo en la causa contra Etchecolatz. Sus hijos, que nunca le habían oído contar aquello, estaban en la sala."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quiero que quede dicho: aquel testimonio importaba. Era uno de los pocos que podía poner nombre y lugar a lo que ocurrió dentro de esos centros. Y el juicio estaba a punto de terminar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de septiembre, al día siguiente de su desaparición, Etchecolatz fue condenado a prisión perpetua. López no estuvo para escucharlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La causa pasó los primeros meses como una simple búsqueda de persona desaparecida, en manos de la policía bonaerense. Hubo rastrillajes con miles de agentes, carteles con su foto, mensajes de texto. En mayo de 2008, la justicia federal la calificó como desaparición forzada y apartó a la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los primeros meses, con la investigación en manos de la policía de la provincia. Es lo que más me inquieta del expediente. Los organismos de derechos humanos lo cuestionaron desde el primer día. Quien sea que lo hiciera tuvo mucho tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Qué ocurrió? Nadie lo sabe. El presidente Néstor Kirchner habló de grupos parapoliciales. Los organismos de derechos humanos sostienen que participaron miembros de las fuerzas de seguridad y que el objetivo era intimidar a los testigos. Ninguna de esas hipótesis ha sido probada ante un tribunal."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que decirlo claro. No hay ningún acusado. No hay una sentencia. Hay una causa abierta y una hipótesis que se repite: que se le silenció para frenar los juicios. Pero una hipótesis no es un nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2011, un testigo de identidad reservada aseguró que sabía dónde estaba enterrado. Se buscó, y las búsquedas no hallaron nada. Se han cruzado huellas y datos genéticos con cuerpos sin identificar, y se han analizado millones de registros telefónicos. Sin resultado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2023, ante la Comisión Interamericana de Derechos Humanos, Argentina reconoció su responsabilidad internacional por no haber protegido bien al testigo ni investigado como debía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Para mí esa es la frase más dura de todo el expediente. El Estado admite que falló en cuidar a un hombre al que había pedido que declarara."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En junio de 2026, el gobierno de la provincia de Buenos Aires elevó la recompensa por información sobre su paradero. Veinte años después, el decreto reconoce que los resultados no han bastado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su foto sigue presente en las marchas que reclaman su aparición. Los supervivientes de los centros clandestinos dicen que su ausencia les obliga aún más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jorge Julio López tenía setenta y seis años y fue a contar lo que vivió. Su causa sigue abierta en la justicia federal de La Plata."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El testigo desaparecido. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Caso sin resolver: no se atribuye autoría. Las hipótesis (grupos parapoliciales según Kirchner; participación de fuerzas de seguridad según organismos de derechos humanos; silenciar a testigos según la AEDD) van atribuidas y se dice que no están probadas. Fuentes abiertas: Wikipedia en castellano (biografía, 28 de junio de 2006, vecino, causa en manos de la bonaerense, mayo de 2008, Kirchner, 2011, 2014 sin citar) y Perfil de 18 de septiembre de 2026 (testimonio, causa, cruce de huellas/ADN, acuerdo CIDH de 2023, recompensa de junio de 2026). Discrepancias: Perfil dice que la causa tardó más de tres meses en llegar a la justicia federal y Wikipedia que se tramitó 18 meses como desaparición simple; el guion no da la duración, solo «los primeros meses» y mayo de 2008. Etchecolatz: 'prisión perpetua' (Perfil) frente a 'reclusión perpetua'. 'Un vecino lo vio en la calle' sin nombrarlo. Se deja fuera la foto de Etchecolatz de 2014."
+}

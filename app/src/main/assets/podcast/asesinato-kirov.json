@@ -1,0 +1,132 @@
+{
+  "id": "asesinato-kirov",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Kírov": "Kírof",
+    "Nikoláyev": "Nikoláyef",
+    "Smolny": "Smólni",
+    "Leningrado": "Leningrádo",
+    "Stalin": "Estálin",
+    "Zinóviev": "Zinóviev",
+    "Milda Draule": "Milda Dráule"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un pasillo en el Smolny",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El asesinato de Kírov. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un pasillo en el Smolny."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Leningrado, 1 de diciembre de 1934. Son las cuatro y media de la tarde. Serguéi Kírov, jefe del partido comunista de la ciudad y miembro del Politburó, entra en el Instituto Smolny, la sede del partido. Sube a la tercera planta. Camina por un pasillo hacia su despacho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Allí suena un disparo. Un hombre acaba de matarlo. Quedará detenido en el acto, con el revólver todavía en la mano."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un dirigente de su rango, y el edificio más importante de la ciudad. Y un pasillo por el que un desconocido llega hasta él. Aquí empiezo a preguntarme dónde estaba la seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según el artículo de la revista Rodina, publicado en 2005, la protección de Kírov había crecido en 1934. Aun así, el Smolny albergaba muchas oficinas. Una entrada lateral estaba sin vigilar y circulaban copias de su llave."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y un detalle del expediente: Kírov se resistía a que lo protegieran más. No quería una guardia permanente. No es una excusa, pero explica parte del descuido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El hombre se llamaba Leonid Nikoláyev. Había sido militante del partido, lo habían expulsado y estaba sin trabajo. Su mujer, Milda Draule, trabajaba en el propio Smolny."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa misma tarde fue la primera persona interrogada. Nikoláyev, al principio, apenas podía hablar. Esa noche empezó a declarar y registraron su casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que pasó después importa más que el disparo. Dos días más tarde, el jefe de la policía política ordenó apartar a los dirigentes del NKVD en Leningrado, por negligencia en la protección del estado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la secuencia. El crimen es de un solo hombre, con un arma. Pero en pocos días la historia oficial deja de ser la de un solitario resentido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Stalin viajó a Leningrado e intervino él mismo. En Moscú se hablaba de una conspiración: un «centro de Leningrado» inspirado en las ideas de Zinóviev, antiguo jefe del partido en la ciudad, que hacía tiempo había caído en desgracia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de diciembre, Stalin corrigió personalmente el borrador de la acusación. El 28 empezó el juicio, a puerta cerrada, ante un tribunal militar. Duró unas dieciséis horas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran catorce acusados. El 29 de diciembre los condenaron a muerte a todos. La sentencia se ejecutó aproximadamente una hora después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un juicio de una sola noche. Sin público, sin periodistas independientes y sin recurso posible. Si querían saber la verdad, no era la forma de hacerlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las consecuencias se alargaron. Zinóviev y Kámenev, dos antiguos líderes del partido, fueron condenados por «complicidad moral» y encarcelados. En 1936, otro proceso, ya público, los llevó ante el pelotón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los historiadores relacionan el crimen con las grandes purgas de 1936 a 1938. Pero el propio Siegelbaum, de la Universidad de Michigan, cree que ese vínculo es más circunstancial que directo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Lo ordenó Stalin? Durante décadas, muchos lo sospecharon. Entre 1956 y 1989, varias comisiones revisaron el caso. La última, del Politburó, no halló pruebas de que Stalin ni el NKVD lo hubieran ordenado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con cuidado. Esas comisiones no encontraron una prueba. Eso no es lo mismo que demostrar su inocencia, y hay historiadores que siguen sosteniendo lo contrario. Con los archivos que conocemos, nadie puede cerrarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2004, a petición del servicio de seguridad ruso, unos peritos volvieron a examinar las pruebas. Sus conclusiones, publicadas en Rodina, pusieron en duda la versión oficial. Sus propios autores las presentan como hipótesis."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa es la cuestión de fondo. Hay un asesino detenido y una pregunta sin respuesta: si actuó solo, y qué ganaba el poder dejando el camino libre o aprovechándolo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo seguro es lo que ocurrió después. En enero de 1935 destituyeron o trasladaron a setenta y nueve empleados de los comités de Leningrado, incluidos todos los testigos de aquel día. Algunos fueron detenidos o desterrados."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milda Draule, su hermana Olga y el marido de Olga, Roman Kulisher, fueron fusilados el 10 de marzo de 1935. Su caso se separó del juicio principal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1989, trece de los fusilados fueron rehabilitados: las comisiones habían concluido que no existía ninguna organización clandestina detrás del crimen."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ese es el balance humano de aquel pasillo. Un muerto, y a su alrededor, gente que quizá no sabía nada, borrada en pocas semanas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kírov fue enterrado en la muralla del Kremlin. Ciudades, calles y hasta un famoso teatro de ballet llevaron su nombre. Y en cambio, casi nadie recuerda a quienes pagaron por su muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El asesinato de Kírov. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Siegelbaum (MSU), Rodina 2005 (Museo Kírov) y ficha. Se omite, por no confirmarse en las fuentes abiertas, que Nikoláyev hubiera sido detenido semanas antes con el arma en una cartera (dato de la ficha, procedente de Wikipedia). Se omiten la hipótesis personal (celos) de la reexaminación forense de 2004, por ser discutida y no tocar a las víctimas, y los nombres de escoltas. La comisión del Politburó de 1989 y las del periodo 1956-1989 se resumen sin cifrar su número exacto. Fecha de ejecución de Draule/Kulisher: 10 de marzo de 1935 según el Museo Kírov."
+}

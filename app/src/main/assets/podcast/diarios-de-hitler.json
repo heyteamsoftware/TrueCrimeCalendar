@@ -9,8 +9,7 @@
     "Gerd Heidemann": "Guerd Jáidemann",
     "Heidemann": "Jáidemann",
     "Hugh Trevor-Roper": "Hiú Trévor Róper",
-    "Trevor-Roper": "Trévor Róper",
-    "Kenneth Rendell": "Kéneth Réndel"
+    "Trevor-Roper": "Trévor Róper"
   },
   "cintas": [
     {
@@ -32,7 +31,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Es el error más pequeño y el más delator. Quien hizo los cuadernos compró unas letras de plástico en unos grandes almacenes, y se confundió con la primera. Una editorial pagó millones de marcos por ellos y nadie se fijó en la portada."
+          "texto": "Primera nota. Es el error más pequeño y el más delator. Quien hizo los cuadernos compró unas letras de plástico en unos grandes almacenes, y se confundió con la primera. Una editorial pagó millones de marcos por ellos."
         },
         {
           "voz": "ximena",
@@ -48,7 +47,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. No era un falsificador brillante. Copiaba bien la letra, pero hacía el resto a lo grande: papel de papelería moderna, tinta que empapaba con té para envejecerla, errores de datos. Lo que sí tenía era un comprador que quería creer."
+          "texto": "Segunda nota. No era un falsificador brillante. Copiaba bien la letra, pero el resto era tosco: papelería moderna, té derramado para envejecer los papeles, errores de datos. Y tenía un comprador que quería creer."
         },
         {
           "voz": "ximena",
@@ -64,19 +63,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Anótalo bien: el mismo experto que dio crédito a los diarios fue el primero en dudar. Stern había mostrado los cuadernos a especialistas antes de la presentación, pero no había hecho el análisis forense que hacía falta."
+          "texto": "Anótalo: el experto que dio crédito a los diarios fue el primero en dudar. Y nadie había hecho antes el análisis forense."
         },
         {
           "voz": "ximena",
           "texto": "El Archivo Federal alemán lo hizo después. Con luz ultravioleta, el papel mostraba un componente fluorescente que no podía existir en un documento antiguo. Y la encuadernación de uno de los cuadernos incluía poliéster, que no se fabricó antes de 1953. El 6 de mayo de 1983, el Archivo anunció que los diarios eran falsos."
         },
         {
-          "voz": "ximena",
-          "texto": "Según el Archivo Federal, una semana después de la rueda de prensa, la sensación se había convertido en un escándalo periodístico."
-        },
-        {
           "voz": "alvaro",
-          "texto": "Piensa en el calendario. Veintiún días antes, sesenta y dos cuadernos eran uno de los mayores hallazgos de la historia. Ahora eran papel mal envejecido. Lo único que cambió fue que alguien hizo el análisis que debió hacerse al principio."
+          "texto": "Piensa en el calendario. En once días, un hallazgo del siglo pasó a ser un escándalo. Lo único que cambió fue que alguien hizo el análisis que debió hacerse al principio."
         },
         {
           "voz": "ximena",
@@ -96,7 +91,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Los cuadernos no están en el Archivo Federal. La mayoría sigue en la editorial. Es un buen sitio para un objeto así: guardados, y con la historia de las dos letras equivocadas."
+          "texto": "Los cuadernos no están en el Archivo Federal. La mayoría sigue guardada en la editorial."
         },
         {
           "voz": "ximena",
@@ -105,5 +100,5 @@
       ]
     }
   ],
-  "nota_revision": "Fechas: Stern anunció el hallazgo el 22 de abril y lo presentó el 25 (German History in Documents); el Archivo Federal anunció la falsificación el 6 de mayo de 1983 y data la rueda de prensa en el número del 25 de abril. 62 cuadernos (GHDI) frente a «unos sesenta» (Wikipedia). Penas: Archivo Federal (4 años y 6 meses y 4 años y 8 meses; julio de 1985); GHDI: «más de cuatro años y medio»; el día exacto no se confirmó. Fuentes abiertas: Archivo Federal, GHDI, Wikipedia en inglés (FH/AH, estrellado de 1945, papel y poliéster, 680.000 marcos y la mitad, 1,7 y 1,5 millones, cinco millones sin aclarar, salida de prisión en 1987, muerte de Kujau en 2000). «Un componente fluorescente en el papel» y «poliéster anterior a 1953» son de Wikipedia (Harris). La afirmación de que Stern «había mostrado los cuadernos a especialistas» es una interpretación general: Trevor-Roper los vio antes; el texto dice que no hizo el análisis forense. Contradicción menor: la ficha dice que Kujau escribió los cuadernos «hasta 1983» y 1981-83 son las fechas de Wikipedia; el guion no da años de fabricación. El Christian Science Monitor no se abrió; solo se vio en el buscador. Los cuadernos «siguen en la editorial»: Archivo Federal («sie befinden sich zum allergrößten Teil immer noch beim Verlag»). «La mayoría en el Archivo»: no, el texto dice que no están. El detalle de que Heidemann no daba recibos sale de Wikipedia."
+  "nota_revision": "Fechas: Stern anunció el hallazgo el 22 de abril y lo presentó el 25 (German History in Documents); el Archivo Federal anunció la falsificación el 6 de mayo de 1983 y data la rueda de prensa en el número del 25 de abril. 62 cuadernos (GHDI) frente a «unos sesenta» (Wikipedia). Penas: Archivo Federal (4 años y 6 meses y 4 años y 8 meses; julio de 1985); GHDI: «más de cuatro años y medio»; el día exacto no se confirmó. Fuentes abiertas: Archivo Federal, GHDI, Wikipedia en inglés (FH/AH, estrellado de 1945, papel y poliéster, 680.000 marcos y la mitad, 1,7 y 1,5 millones, cinco millones sin aclarar, salida de prisión en 1987, muerte de Kujau en 2000). «Un componente fluorescente en el papel» y «poliéster anterior a 1953» son de Wikipedia (Harris).  Contradicción menor: la ficha dice que Kujau escribió los cuadernos «hasta 1983» y 1981-83 son las fechas de Wikipedia; el guion no da años de fabricación. El Christian Science Monitor no se abrió; solo se vio en el buscador. Los cuadernos «siguen en la editorial»: Archivo Federal («sie befinden sich zum allergrößten Teil immer noch beim Verlag»). El detalle de que Heidemann no daba recibos sale de Wikipedia."
 }
