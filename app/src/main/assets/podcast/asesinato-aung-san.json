@@ -10,7 +10,10 @@
     "Insein": "Insein",
     "Birmania": "Birmania",
     "Thakin Nu": "Takin Nu",
-    "Myanmar": "Mianmar"
+    "Myanmar": "Mianmar",
+    "The Irrawaddy": "Di Irauádi",
+    "GlobalSecurity": "Glóbal Sequiúriti",
+    "BBC": "be be sí"
   },
   "cintas": [
     {
@@ -68,11 +71,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Un tribunal especial juzgó a U Saw y a sus cómplices entre octubre y diciembre de 1947, en treinta y siete vistas. En diciembre, seis personas, entre ellas U Saw, fueron condenadas a muerte."
+          "texto": "Un tribunal especial juzgó a U Saw y a sus cómplices entre octubre y diciembre de 1947, en treinta y siete vistas. En diciembre, U Saw y varios cómplices fueron condenados a muerte."
         },
         {
           "voz": "ximena",
-          "texto": "U Saw fue ahorcado en la cárcel de Insein, en Rangún, a las cinco y treinta y tres de la madrugada del 8 de mayo de 1948. Según The Irrawaddy, un medio birmano, rezó ante un altar budista y dijo que no guardaba rencor a los jueces."
+          "texto": "U Saw fue ahorcado en la cárcel de Insein, en Rangún, a las cinco y treinta y tres de la madrugada del 8 de mayo de 1948. Según The Irrawaddy, un medio birmano, rezó ante un altar budista antes de la ejecución."
         },
         {
           "voz": "alvaro",
@@ -101,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado (U Saw ahorcado en 1948). Fuentes abiertas: GlobalSecurity.org (abierto con curl), The Irrawaddy (abierto con curl), Britannica (Aung San, abierto con curl, solo confirma el atentado y «seis colegas»). Discrepancias: nº de muertos (Britannica: Aung San y seis colegas; GlobalSecurity: siete ministros más él en el mismo párrafo se habla de ocho en total; el guion dice «seis o siete acompañantes», más lo que suman otras fuentes, y evita la cifra total). Condenados a muerte: seis (Irrawaddy); GlobalSecurity solo habla de «cómplices». Fecha de la independencia: enero de 1948 (ficha: «seis meses»; dato general conocido, no abierto en fuente consultada). Autoría única de U Saw: discutida por algunos historiadores (documental BBC 1997, solo en la ficha); no se señala a nadie más. Motivo de U Saw: «apparently» en GlobalSecurity; el guion lo presenta como hipótesis. Hora de la ejecución y su último gesto: Irrawaddy. La hija (Aung San Suu Kyi, Nobel): GlobalSecurity. Omitido: cualquier detalle del arma o de los pistoleros."
+  "nota_revision": "Cerrado (U Saw ahorcado en 1948). Fuentes abiertas: GlobalSecurity.org (abierto con curl), The Irrawaddy (abierto con curl), Britannica (Aung San, abierto con curl, solo confirma el atentado y «seis colegas»). Discrepancias: nº de muertos (Britannica: Aung San y seis colegas; GlobalSecurity: siete ministros más él en el mismo párrafo se habla de ocho en total; el guion dice «seis o siete acompañantes», más lo que suman otras fuentes, y evita la cifra total). Condenados a muerte: seis (Irrawaddy); GlobalSecurity solo habla de «cómplices». Fecha de la independencia: enero de 1948 (ficha: «seis meses»; dato general conocido, no abierto en fuente consultada). Autoría única de U Saw: discutida por algunos historiadores (documental BBC 1997, solo en la ficha); no se señala a nadie más. Motivo de U Saw: «apparently» en GlobalSecurity; el guion lo presenta como hipótesis. Hora de la ejecución y su último gesto: Irrawaddy. La hija (Aung San Suu Kyi, Nobel): GlobalSecurity. Omitido: cualquier detalle del arma o de los pistoleros. VERIFICACIÓN nuevos-julio: quitadas las palabras de U Saw sobre los jueces (sin segunda fuente) y la cifra de seis condenados (otras fuentes difieren). U Saw condenado y ahorcado; nadie más señalado. Pronunciación: Aung San Suu Kyi = «Aung San Su Chi», correcto."
 }

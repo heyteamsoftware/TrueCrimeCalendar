@@ -12,7 +12,7 @@
   "cintas": [
     {
       "n": 1,
-      "titulo": "Un furgón sin nadie al volante",
+      "titulo": "Un vigilante al volante",
       "tipo": "expediente",
       "bloques": [
         {
@@ -21,7 +21,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cinta uno. Un furgón sin nadie al volante."
+          "texto": "Cinta uno. Un vigilante al volante."
         },
         {
           "voz": "ximena",
@@ -69,7 +69,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "De los casi trescientos millones de pesetas, solo se recuperaron unos ciento setenta y cinco. La mayor parte del resto nunca apareció. Salió de prisión en mayo de 1995, en libertad condicional, tras cumplir tres cuartas partes de la pena. En total, había pasado unos seis años entre su huida, la cárcel en Brasil y la de España."
+          "texto": "De los casi trescientos millones de pesetas, solo se recuperaron unos ciento setenta y cinco. La mayor parte del resto nunca apareció. Salió de prisión en 1995. Para entonces habían pasado seis años desde el robo, entre la huida, la cárcel en Brasil y la de España."
         },
         {
           "voz": "alvaro",
@@ -98,5 +98,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado: condenado y cumplida la pena. Sin víctimas. El protagonista vive: solo se cuenta lo público y su condena; nada de su vida posterior salvo la fama (Sabina, bares, libro). Fuentes abiertas: El Tiempo (Colombia) y Wikipedia (es), ambas con WebFetch. Discrepancias: botín 298 millones (Wikipedia), 300 (El Tiempo, ficha), 320 (otras; el guion dice «unos trescientos» y «de 298 a 320»). Estancia en Brasil: unas semanas (ficha) o dos meses (El Tiempo); cárcel en Brasil: diez meses (Wikipedia) o un año (El Tiempo); el guion da el intervalo. Hora del robo, 19:20: Wikipedia. Lo del recorte de sueldo es su explicación (El Tiempo); se presenta como dicho. Condena de tres años y cuatro meses y 175 millones recuperados: Wikipedia; salida de prisión en mayo de 1995 con libertad condicional: Wikipedia (El Tiempo dice que cumplió tres años). No se opinó sobre el juicio, que ninguna fuente abierta detalla. El Temps (1991) y Gestalten no se abrieron. Lugar exacto del robo no consta."
+  "nota_revision": "Cerrado: condenado y cumplida la pena. Sin víctimas. El protagonista vive: solo se cuenta lo público y su condena; nada de su vida posterior salvo la fama (Sabina, bares, libro). Fuentes abiertas: El Tiempo (Colombia) y Wikipedia (es), ambas con WebFetch. Discrepancias: botín 298 millones (Wikipedia), 300 (El Tiempo, ficha), 320 (otras; el guion dice «unos trescientos» y «de 298 a 320»). Estancia en Brasil: unas semanas (ficha) o dos meses (El Tiempo); cárcel en Brasil: diez meses (Wikipedia) o un año (El Tiempo); el guion da el intervalo. Hora del robo, 19:20: Wikipedia. Lo del recorte de sueldo es su explicación (El Tiempo); se presenta como dicho. Condena de tres años y cuatro meses y 175 millones recuperados: Wikipedia; salida de prisión en mayo de 1995 con libertad condicional: Wikipedia (El Tiempo dice que cumplió tres años). No se opinó sobre el juicio, que ninguna fuente abierta detalla. El Temps (1991) y Gestalten no se abrieron. Lugar exacto del robo no consta. VERIFICACIÓN nuevos-julio: el título «Un furgón sin nadie al volante» contradecía el texto (el vigilante estaba al volante): cambiado. Quitados mayo de 1995/libertad condicional/tres cuartas partes (las fuentes discrepan). Pena de 3 años y 4 meses por apropiación indebida según la ficha."
 }

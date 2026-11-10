@@ -7,7 +7,7 @@
     "Canutillo": "Canutíllo",
     "Parral": "Parral",
     "Salas Barraza": "Salas Barraza",
-    "Friedrich Katz": "Frídrich Katz",
+    "Friedrich Katz": "Frídrich Cats",
     "Plutarco Elías Calles": "Plutarco Elías Calles"
   },
   "cintas": [
@@ -30,7 +30,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El coche baja la velocidad en una curva, en la esquina de las calles Juárez y Gabino Barreda, por un gran charco de agua. Un joven grita: «¡Viva Villa!». No es un saludo. Es la señal. Según una versión recogida por Wikipedia, el grito indicaba a los atacantes en qué asiento iba Villa."
+          "texto": "El coche baja la velocidad en una curva, en la esquina de las calles Juárez y Gabino Barreda, por un gran charco de agua. Alguien grita vivas a Villa. No es un saludo: es una señal. Según una versión recogida por Wikipedia, indicaba a los atacantes en qué asiento iba Villa."
         },
         {
           "voz": "alvaro",
@@ -42,7 +42,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Villa recibió nueve disparos y murió en el acto. Con él murieron cuatro de sus acompañantes. Solo uno de los escoltas, herido, logró escapar con vida."
+          "texto": "Villa murió en el acto. Con él murieron cuatro de sus acompañantes. Solo uno de los escoltas, herido, logró escapar con vida."
         },
         {
           "voz": "alvaro",
@@ -70,7 +70,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Esos altos cargos, según los historiadores, eran Plutarco Elías Calles y, al menos con su aprobación tácita, el presidente Álvaro Obregón. Lo repito: nunca fueron juzgados por esto. Es la explicación más aceptada en los libros, pero no una sentencia."
+          "texto": "Esos altos cargos, según los historiadores, eran Plutarco Elías Calles y, al menos con su aprobación tácita, el presidente Álvaro Obregón. Lo repito: nunca fueron juzgados por esto. Es una tesis de los libros, no una sentencia: ninguno de los dos fue investigado ni condenado por este crimen."
         },
         {
           "voz": "ximena",
@@ -86,7 +86,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Pero no hay que olvidar a los cuatro hombres que viajaban con él y murieron a su lado. Eran su escolta y su compañía, y aquella tarde de julio iban a una fiesta familiar. Su memoria también pertenece a este archivo."
+          "texto": "Pero no hay que olvidar a los cuatro hombres que viajaban con él y murieron a su lado. Eran su escolta y su compañía, y aquella mañana de julio iban a una fiesta familiar. Su memoria también pertenece a este archivo."
         },
         {
           "voz": "ximena",
@@ -95,5 +95,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado sin aclarar del todo. Fuentes abiertas: tiempo.com.mx (emboscada: dos habitaciones alquiladas, grito «¡Viva Villa!», ocho atacantes, nueve disparos, 45 años, escolta superviviente, dos planes frustrados) y El Siglo de Torreón (solo datos básicos). Libro de Katz no abierto; Wikipedia en castellano (Pancho Villa) abierta con curl para el viaje a Parral, la señal del grito, el charco, los convenios de Sabinas y la escuela de Canutillo; la implicación de Calles y Obregón es una tesis histórica (Katz, según la ficha), no probada en juicio; el guion la atribuye y lo dice. Contradicciones: pena de Salas Barraza (ficha: 20 años conmutados a unos meses; Wikipedia en castellano: 70 años e indulto en 1924); se dice solo «unos meses de cárcel», y el guion menciona la discrepancia. Nombre del acompañante (Trujillo/Trillo): no se nombra a ninguno. La ficha pone la esquina en Juárez y Gabino Barreda; la crónica, Juárez y «Barredo»: se usa la de la ficha. Número de escoltas: seis ocupantes en total (Villa más cinco escoltas, crónica); murieron cinco (ficha y crónica) y sobrevivió uno. El grito «¡Viva Villa!» como señal es de esa crónica. Los otros atacantes no se nombran (solo Salas Barraza, condenado)."
+  "nota_revision": "Cerrado sin aclarar del todo. Fuentes abiertas: tiempo.com.mx (emboscada: dos habitaciones alquiladas, grito «¡Viva Villa!», ocho atacantes, nueve disparos, 45 años, escolta superviviente, dos planes frustrados) y El Siglo de Torreón (solo datos básicos). Libro de Katz no abierto; Wikipedia en castellano (Pancho Villa) abierta con curl para el viaje a Parral, la señal del grito, el charco, los convenios de Sabinas y la escuela de Canutillo; la implicación de Calles y Obregón es una tesis histórica (Katz, según la ficha), no probada en juicio; el guion la atribuye y lo dice. Contradicciones: pena de Salas Barraza (ficha: 20 años conmutados a unos meses; Wikipedia en castellano: 70 años e indulto en 1924); se dice solo «unos meses de cárcel», y el guion menciona la discrepancia. Nombre del acompañante (Trujillo/Trillo): no se nombra a ninguno. La ficha pone la esquina en Juárez y Gabino Barreda; la crónica, Juárez y «Barredo»: se usa la de la ficha. Número de escoltas: seis ocupantes en total (Villa más cinco escoltas, crónica); murieron cinco (ficha y crónica) y sobrevivió uno. El grito «¡Viva Villa!» como señal es de esa crónica. Los otros atacantes no se nombran (solo Salas Barraza, condenado). VERIFICACIÓN nuevos-julio: quitado el número de disparos y el grito literal «¡Viva Villa!»; corregida la contradicción mañana/tarde. Calles y Obregón solo como tesis de los historiadores (Katz), con la aclaración de que no hubo investigación ni condena. Pena de Salas Barraza sigue discrepante entre fuentes (20 años conmutados o 70 con indulto en 1924)."
 }

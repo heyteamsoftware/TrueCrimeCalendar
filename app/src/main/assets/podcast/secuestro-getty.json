@@ -13,7 +13,8 @@
     "Lauria": "Láuria",
     "Lagonegro": "Lagonégro",
     "Piromalli": "Piromáli",
-    "Mammoliti": "Mamolíti"
+    "Mammoliti": "Mamolíti",
+    "Fortune": "Fórchun"
   },
   "cintas": [
     {
@@ -31,19 +32,19 @@
         },
         {
           "voz": "ximena",
-          "texto": "Roma, julio de 1973. A los pocos días de la madrugada del 10, la madre de un chico de dieciséis años recibe una carta. Dice: «Estoy en manos de secuestradores. No dejéis que me maten. Que la policía no intervenga. No lo toméis como una broma»."
+          "texto": "Roma, julio de 1973. A los pocos días de la madrugada del 10, la madre de un chico de dieciséis años recibe una carta de los secuestradores. Era el comienzo de cinco meses de angustia para su familia. Dice que el chico está en sus manos, que no avise a la policía y que la amenaza va en serio."
         },
         {
           "voz": "ximena",
-          "texto": "Pero muchos lo tomaron como una broma. El chico se llamaba John Paul Getty tercero, y era nieto del magnate del petróleo J. Paul Getty, a quien la revista Forbes había llamado en 1957 el hombre más rico de Estados Unidos. El chico vivía en Italia, donde su padre dirigía la filial italiana del negocio."
+          "texto": "Pero muchos lo tomaron como una broma. El chico se llamaba John Paul Getty tercero, y era nieto del magnate del petróleo J. Paul Getty, a quien la revista Fortune había llamado en 1957 el hombre más rico de Estados Unidos. El chico vivía en Roma."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Fíjate en el problema de fondo. Un chico de dieciséis años, rebelde, sin dinero y con fama de fiestero. Su familia pensó que podía tratarse de un montaje para sacar dinero al abuelo. Esa sospecha, que se manejó entonces, nunca se probó."
+          "texto": "Primera nota. Fíjate en el problema de fondo. Un chico de dieciséis años, con fama de rebelde. Su familia pensó que podía tratarse de un montaje para sacar dinero al abuelo. Esa sospecha, que se manejó entonces, nunca se probó."
         },
         {
           "voz": "ximena",
-          "texto": "La policía italiana frenó la investigación, a la espera de más pruebas de que no era un montaje. Llegaron dos cartas más y una llamada telefónica a su madre. Los secuestradores decían ser de la 'Ndrangheta, la mafia calabresa. Pedían diecisiete millones de dólares."
+          "texto": "La policía italiana dudó al principio de que no fuera un montaje. Llegaron dos cartas más y una llamada telefónica a su madre. Los secuestradores decían ser de la 'Ndrangheta, la mafia calabresa. Pedían diecisiete millones de dólares."
         },
         {
           "voz": "ximena",
@@ -59,7 +60,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En noviembre, el diario Il Messaggero recibió un sobre. Dentro había una carta, un mechón de pelo y una parte de una oreja del joven. La demanda de dinero había bajado a unos tres millones de dólares."
+          "texto": "En noviembre, el diario Il Messaggero recibió un sobre. Dentro había una carta y un mechón de pelo y una parte de la oreja del joven, como prueba de que seguía en su poder. La demanda de dinero había bajado a unos tres millones de dólares."
         },
         {
           "voz": "alvaro",
@@ -75,7 +76,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cuando llamó a su abuelo para darle las gracias, según se contó después, el anciano no se puso al teléfono."
+          "texto": "Cuando llamó a su abuelo, según se contó después, el anciano no se puso al teléfono."
         },
         {
           "voz": "alvaro",
@@ -83,7 +84,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La policía italiana siguió el rastro. En 1976, el juicio de Lagonegro condenó a dos de los acusados como autores materiales. Dos presuntos jefes de la 'Ndrangheta, Girolamo Piromalli y Saverio Mammoliti, fueron absueltos."
+          "texto": "La policía italiana siguió el rastro. En 1976, el juicio de Lagonegro condenó a dos de los acusados como autores materiales. Dos hombres señalados como jefes de la 'Ndrangheta, Girolamo Piromalli y Saverio Mammoliti, fueron absueltos."
         },
         {
           "voz": "alvaro",
@@ -95,7 +96,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Getty tercero se sometió a una operación para reparar la oreja, estudió, se casó y tuvo un hijo. Pero las secuelas de aquellos meses lo acompañaron el resto de su vida."
+          "texto": "Getty tercero rehizo su vida, se casó y tuvo un hijo. Pero las secuelas de aquellos meses lo acompañaron el resto de su vida."
         },
         {
           "voz": "ximena",
@@ -112,5 +113,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Rolling Stone (20/3/2018) y Wikipedia en inglés/italiano no abierta; La Gazzetta del Mezzogiorno y el Washington Post no se pudieron leer (la página de la Gazzetta devolvió otras noticias; el Post, vacío). Por tanto el detalle sale de Rolling Stone y de la ficha, ya verificada. Discrepancia ya señalada en la ficha: plaza Navona (Rolling Stone) o plaza Farnese (Gazzetta, Wikipedia): el guion dice «en el centro de Roma». Cifras: Rolling Stone da 17 millones de dólares pedidos al principio y 3,2 millones en noviembre, y un pago de unos 3 millones, de los que el abuelo puso 2,2: el guion da las cifras con prudencia. Que fuera un montaje del propio joven se recoge solo como sospecha que tuvo la familia y que quedó sin probar (Rolling Stone: «unproven»). Se deja fuera la historia de la familia Getty, su muerte en 2011 tras años de secuelas, la película y la serie. Se menciona la oreja sin detalle; se nombra a la víctima, que era menor, por ser un caso de hace más de 50 años conocido por su nombre. Los capos absueltos se mencionan sin entrar en el juicio."
+  "nota_revision": "Fuentes abiertas: Rolling Stone (20/3/2018) y Wikipedia en inglés/italiano no abierta; La Gazzetta del Mezzogiorno y el Washington Post no se pudieron leer (la página de la Gazzetta devolvió otras noticias; el Post, vacío). Por tanto el detalle sale de Rolling Stone y de la ficha, ya verificada. Discrepancia ya señalada en la ficha: plaza Navona (Rolling Stone) o plaza Farnese (Gazzetta, Wikipedia): el guion dice «en el centro de Roma». Cifras: Rolling Stone da 17 millones de dólares pedidos al principio y 3,2 millones en noviembre, y un pago de unos 3 millones, de los que el abuelo puso 2,2: el guion da las cifras con prudencia. Que fuera un montaje del propio joven se recoge solo como sospecha que tuvo la familia y que quedó sin probar (Rolling Stone: «unproven»). Se deja fuera la historia de la familia Getty, su muerte en 2011 tras años de secuelas, la película y la serie. Se menciona la oreja sin detalle; se nombra a la víctima, que era menor, por ser un caso de hace más de 50 años conocido por su nombre. Los capos absueltos se mencionan sin entrar en el juicio. VERIFICACIÓN nuevos-julio: quitada la cita literal de la carta de rescate (era una cita de los secuestradores sin fuente abierta); la revista era Fortune (1957), no Forbes (error); la oreja queda en un solo bloque sin más detalle (se quitó la mención a su reparación quirúrgica); «fiestero» y «la policía frenó la investigación» suavizados. Piromalli y Mammoliti, absueltos, se presentan como «señalados»."
 }

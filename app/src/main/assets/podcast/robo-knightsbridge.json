@@ -46,11 +46,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota, sobre el método. Cerrar el local con un cartel de cortesía, sin alarma y sin prisas, es robar apoyándose en la rutina. Funciona mientras nadie sospecha de un cartel."
+          "texto": "Segunda nota, sobre el método. Cerrar el local con un cartel de cortesía, sin alarma y sin prisas, es robar apoyándose en la rutina. Funciona mientras nadie sospecha de un cartel."
         },
         {
           "voz": "ximena",
-          "texto": "Una hora más tarde cambió el turno. Los empleados que llegaron encontraron el robo y avisaron a la policía."
+          "texto": "Una hora después de que los ladrones se marcharan, los empleados del turno siguiente encontraron el robo y avisaron a la policía."
         },
         {
           "voz": "ximena",
@@ -58,15 +58,15 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Hay un problema que complica todo: nadie sabe exactamente qué había en esas cajas. Quien las alquila no declara su contenido. Por eso las cifras varían, y por eso muchos clientes no dijeron lo que habían perdido."
+          "texto": "Tercera nota. Hay un problema que complica todo: nadie sabe exactamente qué había en esas cajas. Quien las alquila no declara su contenido. Por eso las cifras varían, y por eso muchos clientes no dijeron lo que habían perdido."
         },
         {
           "voz": "ximena",
-          "texto": "¿Cómo entraron tan fácilmente? Según las crónicas, tuvieron ayuda desde dentro. El director del centro, Parvez Latif, estaba muy endeudado. Esa fue la versión que se manejó, y él fue juzgado."
+          "texto": "¿Cómo entraron tan fácilmente? Según las crónicas, tuvieron ayuda desde dentro. El director del centro, Parvez Latif, tenía deudas, según se publicó. Esa fue la versión que se manejó, y él fue juzgado."
         },
         {
           "voz": "ximena",
-          "texto": "El líder del golpe era un italiano, Valerio Viccei. Había llegado a Londres en 1986. En Italia lo buscaban por unos cincuenta atracos a mano armada."
+          "texto": "El líder del golpe era un italiano, Valerio Viccei. Había llegado a Londres en 1986. En Italia lo buscaban por decenas de atracos a mano armada."
         },
         {
           "voz": "alvaro",
@@ -90,7 +90,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1992 lo trasladaron a Italia para cumplir el resto de la condena. Lo destinaron a una cárcel abierta de Pescara, donde, según se recoge, dirigía una pequeña empresa de traducción."
+          "texto": "En 1992 lo trasladaron a Italia para cumplir el resto de la condena. Lo destinaron a una cárcel abierta de Pescara, donde, según se recoge, trabajaba en una pequeña empresa de traducción."
         },
         {
           "voz": "alvaro",
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés, Crime+Investigation UK y Time Out London (BBC, SCMP y el archivo de LBC no se abrieron o no daban detalle). Discrepancias: la cifra del botín (40 a 60 millones de libras; BBC y otros hablan de cifras distintas): el guion dice «unos sesenta millones» atribuido a las estimaciones y la ficha. El papel de Parvez Latif (cómplice desde dentro) lo recoge Crime+Investigation (que añade que desactivó las cámaras y que tenía deudas) y Wikipedia lo marca «citation needed»: el guion lo cuenta con prudencia («según las crónicas»), y nombra que fue juzgado, no su condena (no consta). La condena de 22 años la dan C+I y Wikipedia. La fecha de la muerte de Viccei (19 de abril de 2000) es de Wikipedia; C+I dice «abril de 2000». Cómo se produjo el golpe se cuenta con lo básico. Se deja fuera el destino del botín (no consta). Viccei murió en un tiroteo con la policía; el guion no sugiere responsabilidad de nadie."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés, Crime+Investigation UK y Time Out London (BBC, SCMP y el archivo de LBC no se abrieron o no daban detalle). Discrepancias: la cifra del botín (40 a 60 millones de libras; BBC y otros hablan de cifras distintas): el guion dice «unos sesenta millones» atribuido a las estimaciones y la ficha. El papel de Parvez Latif (cómplice desde dentro) lo recoge Crime+Investigation (que añade que desactivó las cámaras y que tenía deudas) y Wikipedia lo marca «citation needed»: el guion lo cuenta con prudencia («según las crónicas»), y nombra que fue juzgado, no su condena (no consta). La condena de 22 años la dan C+I y Wikipedia. La fecha de la muerte de Viccei (19 de abril de 2000) es de Wikipedia; C+I dice «abril de 2000». Cómo se produjo el golpe se cuenta con lo básico. Se deja fuera el destino del botín (no consta). Viccei murió en un tiroteo con la policía; el guion no sugiere responsabilidad de nadie. VERIFICACIÓN nuevos-julio: en.wikipedia confirma 60 millones, la hora de descubrimiento, los registros del 12/8/1987, el Ferrari Testarossa, Parkhurst/Dick Leach, Pescara y el tiroteo del 19/4/2000; no da la condena de Latif (el guion no la da). Corregido el orden de las notas del inspector, «cincuenta atracos» pasa a «decenas» (ficha), deudas de Latif atribuidas a la prensa."
 }

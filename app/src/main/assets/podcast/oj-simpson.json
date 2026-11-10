@@ -59,7 +59,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "La acusación llevó pruebas físicas y de ADN. Sangre en el lugar de los hechos, un guante hallado en la casa de Simpson, huellas de zapatos. Dijo que todo apuntaba a él."
+          "texto": "La acusación llevó pruebas físicas y de ADN: sangre en el lugar de los hechos, un guante hallado en la casa de Simpson, huellas de zapatos. Sostuvo que todo apuntaba a él."
         },
         {
           "voz": "ximena",
@@ -83,7 +83,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1997 hubo otro juicio, esta vez civil, a instancias de la familia de Ronald Goldman y otros demandantes. Un jurado civil lo declaró responsable de las dos muertes y lo condenó a pagar más de treinta millones de dólares."
+          "texto": "En 1997 hubo otro juicio, esta vez civil, a instancias de la familia de Ronald Goldman y otros demandantes. Un jurado civil lo declaró responsable de las dos muertes y lo condenó a pagar unos treinta y tres millones y medio de dólares."
         },
         {
           "voz": "alvaro",
@@ -116,5 +116,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés («O. J. Simpson murder case»), History.com (3 de octubre) y Bloomberg Línea (11/4/2024). Discrepancias: la duración del juicio (252 días según History.com; 134 días televisados según Wikipedia): el guion no da cifra. La indemnización civil (33,5 millones según la ficha; Wikipedia habla de 34 millones a favor de la familia Goldman): el guion dice «más de treinta millones de dólares». La pena de Las Vegas: la ficha da nueve años de prisión; Bloomberg, «condena de nueve años» cumplida hasta 2017; el guion dice «pasó nueve años en prisión». No se dice cómo murieron las víctimas más que «asesinados», sin detalles. Presunción de inocencia: fue absuelto en lo penal; el guion lo dice y explica que el civil usa otro nivel de prueba, sin llamarlo asesino. Se nombra a las víctimas, adultas, por ser un dato público y seguro. Se deja fuera lo del maltrato doméstico (History.com lo trata como antecedente; la acusación retiró esa parte del caso según Wikipedia). La ficha dice «fuentes»: el desacuerdo sobre el veredicto y la raza se cita solo de forma general."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés («O. J. Simpson murder case»), History.com (3 de octubre) y Bloomberg Línea (11/4/2024). Discrepancias: la duración del juicio (252 días según History.com; 134 días televisados según Wikipedia): el guion no da cifra. La indemnización civil (33,5 millones según la ficha; Wikipedia habla de 34 millones a favor de la familia Goldman): el guion dice «más de treinta millones de dólares». La pena de Las Vegas: la ficha da nueve años de prisión; Bloomberg, «condena de nueve años» cumplida hasta 2017; el guion dice «pasó nueve años en prisión». No se dice cómo murieron las víctimas más que «asesinados», sin detalles. Presunción de inocencia: fue absuelto en lo penal; el guion lo dice y explica que el civil usa otro nivel de prueba, sin llamarlo asesino. Se nombra a las víctimas, adultas, por ser un dato público y seguro. Se deja fuera lo del maltrato doméstico (History.com lo trata como antecedente; la acusación retiró esa parte del caso según Wikipedia). La ficha dice «fuentes»: el desacuerdo sobre el veredicto y la raza se cita solo de forma general. VERIFICACIÓN nuevos-julio: sin cambios de fondo: absuelto (no culpable) en 1995, responsable en lo civil 1997 (33,5 millones, ficha), nunca llamado asesino, no se describe cómo murieron las víctimas. «Sostuvo» en vez de «dijo» para atribuir las pruebas a la acusación. Pronunciación correcta."
 }

@@ -51,7 +51,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuando cae la primera pista, hay que empezar de cero, y ya se habían perdido días. Se barajaron móviles pasionales, reyertas, drogas e incluso una trama política."
+          "texto": "Cuando cae la primera pista, hay que empezar de cero, y ya se habían perdido días. Se barajaron varios móviles, desde los pasionales hasta los políticos."
         },
         {
           "voz": "ximena",
@@ -67,7 +67,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El caso se cerró en 1988. En 1995, veinte años después, prescribió. El Tribunal Supremo entiende que varios asesinatos en un mismo suceso prescriben como un solo delito."
+          "texto": "El caso se cerró en 1988. En 1995, veinte años después, prescribió. Según se ha explicado, varios asesinatos en un mismo suceso prescribieron como un solo delito."
         },
         {
           "voz": "ximena",
@@ -75,7 +75,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Hay teorías. Un libro de 2019, escrito por el hijo de los dueños de la finca, sostiene que un sicario actuó por encargo y sigue vivo. El agente judicial Zapico lo califica de disparate. Yo lo anoto como lo que es: una teoría, no un hecho."
+          "texto": "Hay teorías. Un libro de 2019, escrito por el hijo de los dueños de la finca, sostiene que un sicario actuó por encargo, sin dar pruebas que un tribunal haya aceptado. El agente judicial Zapico lo califica de disparate. Yo lo anoto como lo que es: una teoría, no un hecho."
         },
         {
           "voz": "ximena",
@@ -100,5 +100,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver: nadie fue juzgado y no se señala a nadie. Fuentes abiertas: elDiario.es (WebFetch) y La Vanguardia (2015, abierta con curl). Diario de Sevilla no se pudo abrir. Discrepancias: la ficha dice que el cuerpo del capataz no se halló hasta tres días después y que la autopsia demostró que fue el primero en morir (elDiario.es); La Vanguardia dice que «murió el mismo día» y un pie de foto da fechas erróneas (15/07, 22 de junio). Cómo se descubrieron los cuerpos: elDiario.es (humo, vecinos con cubos) frente a La Vanguardia (trabajadores que vuelven del campo a media tarde): el guion dice solo «a media tarde se descubre» y que los vecinos acudieron. Edades de las víctimas: La Vanguardia (Zapata 59, Martín 53, Parrilla 40, Peralta 34). Papel de Asensio y de Moreno Andrade (jueces): La Vanguardia, 2015; el guion atribuye. No se cuenta la tesis del juez de 1983 contra uno de los fallecidos (La Vanguardia la recoge como hipótesis de la Guardia Civil), solo que fue exonerado. Se omiten la reunión de militares, la actuación del marqués y cualquier mención a propietarios (no condenados). El libro de 2019 lo recoge elDiario.es (autor: hijo de los dueños; el guion lo dice y lo atribuye al libro). Prescripción de 1995 y extravío del sumario (elDiario.es no da año; la ficha: 2014). Se omiten el método y el estado de los cuerpos."
+  "nota_revision": "Caso sin resolver: nadie fue juzgado y no se señala a nadie. Fuentes abiertas: elDiario.es (WebFetch) y La Vanguardia (2015, abierta con curl). Diario de Sevilla no se pudo abrir. Discrepancias: la ficha dice que el cuerpo del capataz no se halló hasta tres días después y que la autopsia demostró que fue el primero en morir (elDiario.es); La Vanguardia dice que «murió el mismo día» y un pie de foto da fechas erróneas (15/07, 22 de junio). Cómo se descubrieron los cuerpos: elDiario.es (humo, vecinos con cubos) frente a La Vanguardia (trabajadores que vuelven del campo a media tarde): el guion dice solo «a media tarde se descubre» y que los vecinos acudieron. Edades de las víctimas: La Vanguardia (Zapata 59, Martín 53, Parrilla 40, Peralta 34). Papel de Asensio y de Moreno Andrade (jueces): La Vanguardia, 2015; el guion atribuye. No se cuenta la tesis del juez de 1983 contra uno de los fallecidos (La Vanguardia la recoge como hipótesis de la Guardia Civil), solo que fue exonerado. Se omiten la reunión de militares, la actuación del marqués y cualquier mención a propietarios (no condenados). El libro de 2019 lo recoge elDiario.es (autor: hijo de los dueños; el guion lo dice y lo atribuye al libro). Prescripción de 1995 y extravío del sumario (elDiario.es no da año; la ficha: 2014). Se omiten el método y el estado de los cuerpos. VERIFICACIÓN nuevos-julio: ficha débil: «drogas» como móvil y «sigue vivo» (sin fuente) quitados; la tesis del libro de 2019 queda como tesis, el agente judicial la califica de disparate. Solo las cinco víctimas adultas, con nombre de La Vanguardia (2015). Nadie señalado."
 }

@@ -11,7 +11,6 @@
     "Klondike": "Clóndaik",
     "Denver": "Dénver",
     "Creede": "Crid",
-    "Colorado": "Colorádo",
     "Georgia": "Yórya",
     "Frank Reid": "Frank Rid",
     "Reid": "Rid",
@@ -43,7 +42,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Para entender el escándalo hay que saber quién mandaba en Skagway. Se llamaba Jefferson Randolph Smith, pero todo el mundo lo conocía como Soapy. Había nacido en Georgia en 1860."
+          "texto": "Para entender el escándalo hay que saber quién mandaba en Skagway. Se llamaba Jefferson Randolph Smith, pero todo el mundo lo conocía como Soapy. Había nacido en Georgia en 1860 y acabó en el último rincón del oeste, en la frontera con Canadá."
         },
         {
           "voz": "ximena",
@@ -51,7 +50,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "El jabón era el truco pequeño. En Creede, Colorado, hizo algo mejor: enterró una estatua y la desenterró con gran publicidad como un hombre prehistórico. Cobró entrada a los curiosos. Esa es la clase de hombre de la que hablamos."
+          "texto": "El jabón era el truco pequeño. Después vinieron los juegos amañados y una red de cómplices, policías y políticos sobornados. Esa es la clase de hombre de la que hablamos."
         },
         {
           "voz": "ximena",
@@ -67,7 +66,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Cuando Stewart se quejó, Skagway se movilizó. Los comerciantes se reunieron en un comité. Frank Reid, ingeniero de la ciudad, y otros exigieron a Smith que devolviera el oro antes de las cuatro de la tarde. Un juez lo citó y le dio hasta las seis."
+          "texto": "Cuando Stewart se quejó, Skagway se movilizó. Los comerciantes se reunieron en un comité. Frank Reid, ingeniero de la ciudad, y otros exigieron a Smith que devolviera el oro antes de las cuatro de la tarde. "
         },
         {
           "voz": "ximena",
@@ -75,7 +74,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Hasta aquí, un comité de comerciantes. Esa noche, una reunión que se convocó sin esperar al plazo acordado. La justicia, en Skagway, ya se tomaba por su mano."
+          "texto": "Segunda nota. Hasta aquí, un comité de comerciantes. Esa noche, una reunión pública en el muelle. La justicia, en Skagway, ya se tomaba por su mano."
         },
         {
           "voz": "ximena",
@@ -107,7 +106,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El local donde Smith tuvo su salón sobrevive hoy: es el museo Jeff Smith's Parlor, parte del Parque Histórico Nacional de la Fiebre del Oro del Klondike. Un edificio que estuvo apenas tres meses en sus manos."
+          "texto": "El local donde Smith tuvo su salón sobrevive hoy: es el museo Jeff Smith's Parlor, parte del Parque Histórico Nacional de la Fiebre del Oro del Klondike. Un edificio de madera que sigue ahí como recuerdo de aquellos meses."
         },
         {
           "voz": "alvaro",
@@ -120,5 +119,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Donald L. Singer (Fortnightly Club of Redlands, 2003), History.com y NPS (página del museo Jeff. Smith's Parlor); la ficha cita también el informe HSR del NPS, el Rocky Mountain News y Wikipedia, que no se abrieron. Discrepancias: quién disparó el tiro mortal (la versión clásica atribuye a Reid; la ficha avisa de dudas, y Singer lo dice también): el guion dice que murió en el tiroteo con Reid y que «no está claro» quién disparó la bala mortal. La versión del robo a Stewart varía (una fuente lo hace en un hotel, otra en un callejón por un «comprador de oro»): el guion dice solo que le robaron un saco de oro de unos 2.700 dólares. Se deja fuera la hipótesis de que Reid manipulara a Stewart. Smith nunca fue condenado: se dice. El origen del apodo «Soapy» varía y no se cuenta. Singer escribe que el saco valía 2.700 dólares y el Skagway News, que pesaba 12 a 15 libras. Pronunciación a revisar al escuchar."
+  "nota_revision": "Fuentes abiertas: Donald L. Singer (Fortnightly Club of Redlands, 2003), History.com y NPS (página del museo Jeff. Smith's Parlor); la ficha cita también el informe HSR del NPS, el Rocky Mountain News y Wikipedia, que no se abrieron. Discrepancias: quién disparó el tiro mortal (la versión clásica atribuye a Reid; la ficha avisa de dudas, y Singer lo dice también): el guion dice que murió en el tiroteo con Reid y que «no está claro» quién disparó la bala mortal. La versión del robo a Stewart varía (una fuente lo hace en un hotel, otra en un callejón por un «comprador de oro»): el guion dice solo que le robaron un saco de oro de unos 2.700 dólares. Se deja fuera la hipótesis de que Reid manipulara a Stewart. Smith nunca fue condenado: se dice. El origen del apodo «Soapy» varía y no se cuenta. Singer escribe que el saco valía 2.700 dólares y el Skagway News, que pesaba 12 a 15 libras. Pronunciación a revisar al escuchar. VERIFICACIÓN nuevos-julio: quitados «un juez le dio hasta las seis», la estatua prehistórica de Creede y «apenas tres meses en sus manos» (sin fuente abierta). Se mantiene que la bala mortal es discutida. Smith murió sin condena por sus estafas (se dice). Pronunciación revisada: Sópi Esmiz, Skagway, Klondike correctos."
 }

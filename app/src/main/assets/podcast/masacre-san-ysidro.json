@@ -5,9 +5,8 @@
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "San Ysidro": "San Isidro",
     "McDonald's": "Macdónalds",
-    "Alberto Leos": "Alberto Leos",
-    "Wendy Flanagan": "Güendi Flánagan",
-    "San Diego": "San Diego"
+    "San Diego": "San Diego",
+    "Los Angeles Times": "Los Ányeles Táimes"
   },
   "cintas": [
     {
@@ -25,7 +24,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "San Ysidro, un barrio de San Diego pegado a la frontera con México. Es el miércoles 18 de julio de 1984, un poco después de las cuatro de la tarde. En el McDonald's de San Ysidro Boulevard hay unas cuarenta y cinco personas: familias, niños, empleados."
+          "texto": "San Ysidro, un barrio de San Diego pegado a la frontera con México. Es el miércoles 18 de julio de 1984, un poco después de las cuatro de la tarde. En el McDonald's de San Ysidro Boulevard hay unas cuarenta y cinco personas: familias, niños, empleados. Es una comida corriente de un día corriente, y eso es lo que hace tan difícil entender lo que va a ocurrir."
         },
         {
           "voz": "ximena",
@@ -45,15 +44,15 @@
         },
         {
           "voz": "ximena",
-          "texto": "Dentro, un grupo de empleados se había encerrado en un armario de la cocina. Entre ellos, una joven de diecisiete años, Wendy Flanagan, que se había quedado después de su turno para ayudar."
+          "texto": "Dentro, un grupo de empleados se había encerrado en un armario de la cocina. Entre ellos, una joven de diecisiete años que se había quedado después de su turno para ayudar."
         },
         {
           "voz": "ximena",
-          "texto": "Otro empleado, Alberto Leos, recibió cinco disparos. Contó cuarenta años después que se hizo torniquetes con los cordones de sus zapatos y mordió un trapo para aguantar el dolor, rezando, hasta que logró llegar al armario."
+          "texto": "Otro empleado recibió cinco disparos. Contó cuarenta años después que se hizo torniquetes con los cordones de sus zapatos, rezando, hasta que logró llegar al armario."
         },
         {
           "voz": "alvaro",
-          "texto": "Wendy Flanagan cuenta que ha necesitado años de terapia por la culpa de haber sobrevivido. Lo anoto sin adornos: el daño no termina cuando termina el tiroteo."
+          "texto": "Una de las supervivientes ha contado que necesitó años de terapia por la culpa de haber sobrevivido. Lo anoto sin adornos: el daño no termina cuando termina el tiroteo."
         },
         {
           "voz": "ximena",
@@ -93,7 +92,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Hay una cosa más. Alberto Leos, el empleado que fue herido, acabó siendo agente de policía de San Diego y llegó a capitán. Dijo que quería ser un protector."
+          "texto": "Hay una cosa más. El empleado herido que se hizo los torniquetes acabó siendo agente de policía de San Diego y llegó a capitán. Dijo que quería ser un protector."
         },
         {
           "voz": "ximena",
@@ -106,5 +105,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado sin juicio (el autor murió en el lugar). No se nombra al autor ni se da motivo. No se nombran víctimas fallecidas (muchas menores). Se nombran dos supervivientes por su testimonio público en NBC 7 (2024): Alberto Leos y Wendy Flanagan (17 años en 1984, hoy adulta); revisar si se prefiere quitar el nombre de la segunda. Fuentes abiertas: History.com, NBC 7 San Diego y LA Times (1986, abierto con curl). El Washington Post no se abrió. Discrepancias: duración (History.com: «una hora»; NBC 7: título «77 Minutes»; el guion recoge ambas). NBC 7 dice que fueron 40 los alcanzados (21 muertos, 19 heridos), coincide con la ficha. «Veinte en los primeros diez minutos, cuatro al intentar escapar» y la ayuda del sótano: History.com. El pleito: lo que dice el guion son alegaciones de los abogados de las víctimas según el LA Times de 1986; el desenlace no se comprobó. La frase final de los supervivientes y los datos de la compensación (fondo de 1,5 millones de dólares, todavía repartiéndose en 1986) son de ese artículo."
+  "nota_revision": "Cerrado sin juicio (el autor murió en el lugar). No se nombra al autor ni se da motivo. No se nombran víctimas fallecidas (muchas menores). Se nombran dos supervivientes por su testimonio público en NBC 7 (2024): Alberto Leos y Wendy Flanagan (17 años en 1984, hoy adulta); revisar si se prefiere quitar el nombre de la segunda. Fuentes abiertas: History.com, NBC 7 San Diego y LA Times (1986, abierto con curl). El Washington Post no se abrió. Discrepancias: duración (History.com: «una hora»; NBC 7: título «77 Minutes»; el guion recoge ambas). NBC 7 dice que fueron 40 los alcanzados (21 muertos, 19 heridos), coincide con la ficha. «Veinte en los primeros diez minutos, cuatro al intentar escapar» y la ayuda del sótano: History.com. El pleito: lo que dice el guion son alegaciones de los abogados de las víctimas según el LA Times de 1986; el desenlace no se comprobó. La frase final de los supervivientes y los datos de la compensación (fondo de 1,5 millones de dólares, todavía repartiéndose en 1986) son de ese artículo. VERIFICACIÓN nuevos-julio: quitados los nombres de los dos supervivientes (el encargo es no nombrar a víctimas); el autor y su motivo siguen sin nombrarse. Se mantiene la nota: pleitos como alegaciones de abogados según el LA Times de 1986, sin desenlace comprobado."
 }

@@ -4,9 +4,9 @@
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Obregón": "Obregón",
-    "José de León Toral": "Josué de León Toral",
     "Concepción Acevedo": "Concepción Acevedo",
-    "Lecumberri": "Lecumberri"
+    "Lecumberri": "Lecumberri",
+    "El Universal": "El Universal"
   },
   "cintas": [
     {
@@ -24,11 +24,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "San Ángel, en las afueras de Ciudad de México, 17 de julio de 1928. En el restaurante La Bombilla, unos diputados de Guanajuato dan un banquete en honor de Álvaro Obregón, el presidente electo. No hay precauciones especiales: el general no soportaba que lo vigilaran de cerca."
+          "texto": "San Ángel, en las afueras de Ciudad de México, 17 de julio de 1928. En el restaurante La Bombilla, unos diputados de Guanajuato dan un banquete en honor de Álvaro Obregón, el presidente electo. No hay precauciones especiales."
         },
         {
           "voz": "ximena",
-          "texto": "Entre los comensales se mueve un joven delgado, con un cuaderno de dibujo. Dice que es caricaturista. Va enseñando retratos de los invitados, y a nadie le extraña."
+          "texto": "Según la crónica de El Universal, entre los comensales se mueve un joven delgado, con un cuaderno de dibujo. Dice que es caricaturista. Va enseñando retratos de los invitados, y a nadie le extraña."
         },
         {
           "voz": "alvaro",
@@ -40,7 +40,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Algunos invitados creyeron que los tiros formaban parte de la música de la orquesta. Obregón cayó sobre la mesa y después al suelo. Murió ese mismo día. Según la autopsia, tenía cinco heridas de bala."
+          "texto": "Algunos invitados creyeron que los tiros formaban parte de la música de la orquesta. Obregón cayó sobre la mesa y después al suelo. Murió ese mismo día, con cuarenta y ocho años. Según la autopsia, tenía cinco heridas de bala."
         },
         {
           "voz": "alvaro",
@@ -56,7 +56,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Obregón acababa de lograr la reelección. Volvía a la presidencia. Ya en 1927 había sufrido un atentado con bombas en Chapultepec, que las autoridades relacionaron después con Toral."
+          "texto": "Obregón acababa de lograr la reelección. Volvía a la presidencia. Ya en 1927 había sufrido un atentado con bombas en Chapultepec, del que salió ileso."
         },
         {
           "voz": "alvaro",
@@ -64,7 +64,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El juicio empezó el 2 de noviembre de 1928, con un jurado popular. Toral reconoció los hechos y contó su motivación. Según su declaración, un comentario de la madre Conchita sobre la muerte de Obregón fue el último empujón."
+          "texto": "El juicio empezó el 2 de noviembre de 1928, con un jurado popular. Toral reconoció los hechos y contó su motivación. Según su declaración, las conversaciones con la madre Conchita pesaron en su decisión."
         },
         {
           "voz": "ximena",
@@ -80,7 +80,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "José de León Toral fue fusilado en la penitenciaría de Lecumberri el 9 de febrero de 1929. Su última palabra, según esa misma crónica, fue «Viva», cortada por la descarga."
+          "texto": "José de León Toral fue fusilado en la penitenciaría de Lecumberri el 9 de febrero de 1929. Tenía veintiocho años. La madre Conchita cumplió su pena en las islas Marías."
         },
         {
           "voz": "alvaro",
@@ -101,5 +101,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: El Universal (crónica del asesinato y del juicio, 2020); Britannica dio 403. No se abrió una segunda fuente aparte de El Universal x2; datos secundarios de la ficha. Papel de la madre Conchita: discutido; el guion dice que la acusación la presentó como inductora y que Toral sostuvo que actuó solo (ficha: «supuesta»). Cifras de disparos: el artículo da cinco o seis y dos calibres; se usa solo «cinco heridas» (autopsia, según El Universal). Hora del crimen: inconsistente en la crónica, no se da. Fecha del fusilamiento: 9 de febrero de 1929 (ficha y Memoria Política); la crónica de El Universal tiene un encabezado con el 10, y en otro punto fecha el crimen en junio: error de la fuente. Solo en la ficha: guerra cristera, reelección, Toral culpando a Obregón de la persecución religiosa, monumento en La Bombilla. El atentado de 1927 en Chapultepec se atribuye a Toral solo como «relacionaron las autoridades» (El Universal). Ya no aparece lo de la toma de posesión. «No hubo más condenados»: según la ficha y las crónicas, solo Toral y la madre Conchita."
+  "nota_revision": "Fuentes abiertas: El Universal (crónica del asesinato y del juicio, 2020); Britannica dio 403. No se abrió una segunda fuente aparte de El Universal x2; datos secundarios de la ficha. Papel de la madre Conchita: discutido; el guion dice que la acusación la presentó como inductora y que Toral sostuvo que actuó solo (ficha: «supuesta»). Cifras de disparos: el artículo da cinco o seis y dos calibres; se usa solo «cinco heridas» (autopsia, según El Universal). Hora del crimen: inconsistente en la crónica, no se da. Fecha del fusilamiento: 9 de febrero de 1929 (ficha y Memoria Política); la crónica de El Universal tiene un encabezado con el 10, y en otro punto fecha el crimen en junio: error de la fuente. Solo en la ficha: guerra cristera, reelección, Toral culpando a Obregón de la persecución religiosa, monumento en La Bombilla. El atentado de 1927 en Chapultepec se atribuye a Toral solo como «relacionaron las autoridades» (El Universal). Ya no aparece lo de la toma de posesión. «No hubo más condenados»: según la ficha y las crónicas, solo Toral y la madre Conchita. VERIFICACIÓN nuevos-julio: segunda fuente: CNDH (juicio desde el 2/11/1928, la madre Conchita a veinte años, Toral a muerte) y Excélsior/Wikipedia (fusilamiento el 9/2/1929); un boletín del INAH discrepa sobre el juicio (dice que fueron ejecutados sin juicio), que se descarta frente a la CNDH. Quitadas la última palabra de Toral (cita literal de un condenado), el vínculo de Toral con el atentado de 1927, «no soportaba que lo vigilaran» (sin fuente). Pronunciación errónea «Josué de León Toral» eliminada (José se lee igual). Detalles del banquete atribuidos a El Universal."
 }

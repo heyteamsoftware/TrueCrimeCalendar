@@ -16,7 +16,10 @@
     "FBI": "efe be i",
     "Janet Reno": "Yánet Réno",
     "Birmingham": "Bírmingjam",
-    "Alabama": "Alabama"
+    "Alabama": "Alabama",
+    "CNN": "sí ene ene",
+    "Georgia": "Yórya",
+    "Meriwether": "Mériuezer"
   },
   "cintas": [
     {
@@ -70,7 +73,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "El 26 de octubre de 1996, la fiscalía federal le comunicó por escrito que no era objetivo de la investigación. En julio de 1997, la fiscal general, Janet Reno, dijo: «Creo que le debemos una disculpa»."
+          "texto": "El 26 de octubre de 1996, la fiscalía federal le comunicó por escrito que no era objetivo de la investigación. Richard Jewell era inocente. En julio de 1997, la fiscal general, Janet Reno, dijo: «Creo que le debemos una disculpa»."
         },
         {
           "voz": "alvaro",
@@ -111,5 +114,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado: Rudolph condenado (2005); Jewell inocente, nunca acusado. Fuentes abiertas: Departamento de Justicia (2005), History.com y Wikipedia (inglés). Britannica no se pudo extraer. Discrepancias: fecha de la carta de exculpación: 26 de octubre de 1996 (Wikipedia; Britannica habla de la rueda de prensa del 28, no usado); el guion pone el 26. Heridos: «más de cien». Atentados de Rudolph: el DOJ habla de cuatro (Centennial, Sandy Springs, Otherside Lounge y Birmingham); History.com habla de tres bombas y el asesinato del policía: el guion dice cuatro atentados, de los que dos en la zona de Atlanta. El aviso anónimo y que la bomba estalló antes de lo anunciado: History.com. Hora de la bomba no se da. Víctima citada: Alice Hawthorne (adulta, nombre del DOJ); el cámara turco no se nombra; su hija no se nombra. Citas: Reno («Creo que le debemos una disculpa», Wikipedia, 1997), Brokaw (Wikipedia). Demandas: NBC 500.000 dólares (Wikipedia), el AJC ganó en 2011. Jewell murió el 29 de agosto de 2007 a los 44 años (Wikipedia); no se dan más detalles de su muerte."
+  "nota_revision": "Cerrado: Rudolph condenado (2005); Jewell inocente, nunca acusado. Fuentes abiertas: Departamento de Justicia (2005), History.com y Wikipedia (inglés). Britannica no se pudo extraer. Discrepancias: fecha de la carta de exculpación: 26 de octubre de 1996 (Wikipedia; Britannica habla de la rueda de prensa del 28, no usado); el guion pone el 26. Heridos: «más de cien». Atentados de Rudolph: el DOJ habla de cuatro (Centennial, Sandy Springs, Otherside Lounge y Birmingham); History.com habla de tres bombas y el asesinato del policía: el guion dice cuatro atentados, de los que dos en la zona de Atlanta. El aviso anónimo y que la bomba estalló antes de lo anunciado: History.com. Hora de la bomba no se da. Víctima citada: Alice Hawthorne (adulta, nombre del DOJ); el cámara turco no se nombra; su hija no se nombra. Citas: Reno («Creo que le debemos una disculpa», Wikipedia, 1997), Brokaw (Wikipedia). Demandas: NBC 500.000 dólares (Wikipedia), el AJC ganó en 2011. Jewell murió el 29 de agosto de 2007 a los 44 años (Wikipedia); no se dan más detalles de su muerte. VERIFICACIÓN nuevos-julio: inocencia explícita añadida («Richard Jewell era inocente»). Datos contrastados con la ficha y el informe del Departamento de Justicia; el cámara turco y la hija de Hawthorne, sin nombre."
 }

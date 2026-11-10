@@ -12,7 +12,8 @@
     "Septiembre Negro": "Septiembre Negro",
     "Noruega": "Noruega",
     "Múnich": "Múnich",
-    "Lund": "Lund"
+    "Lund": "Lund",
+    "Shimon Peres": "Shimón Pérez"
   },
   "cintas": [
     {
@@ -30,7 +31,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Lillehammer, Noruega, 21 de julio de 1973. Sobre las diez y media de la noche, un hombre sale de un cine con su mujer, que está embarazada. Caminan hacia casa. Un coche los sigue."
+          "texto": "Lillehammer, Noruega, 21 de julio de 1973. Sobre las diez y media de la noche, un hombre sale de un cine con su mujer, que está embarazada. Caminan hacia casa. Es una ciudad pequeña y tranquila, famosa por sus montañas, que veintiún años después acogería unos Juegos de Invierno. Esa noche, un coche los sigue."
         },
         {
           "voz": "ximena",
@@ -74,7 +75,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cinco años y medio como máximo por un asesinato. Y ni siquiera lo cumplieron. Los cinco condenados fueron indultados tras unos veintidós meses y volvieron a Israel. Los tiradores no pasaron por un tribunal. En 1998 la fiscalía noruega llegó a acusar al jefe de la operación, pero retiró el cargo un año después. Esa persona nunca fue condenada."
+          "texto": "Cinco años y medio como máximo por un asesinato. Y ni siquiera lo cumplieron. Los cinco condenados fueron indultados tras unos veintidós meses y volvieron a Israel. Los tiradores no pasaron por un tribunal."
         },
         {
           "voz": "ximena",
@@ -103,5 +104,5 @@
       ]
     }
   ],
-  "nota_revision": "Cerrado en lo judicial (cinco condenados y luego indultados); los dos tiradores nunca fueron juzgados. Fuentes abiertas: Store norske leksikon (WebFetch), Il Post (WebFetch) y JTA (WebFetch). History Today dio 403 y no se abrió. Discrepancias: condenados por «complicidad» (ficha, SNL) o por asesinato (Il Post); penas de uno a cinco años y medio (ficha, SNL) o de dos a cinco (Il Post): el guion usa la ficha. Detenidos: seis (SNL), cinco (Il Post). Los que escaparon: nueve (SNL) o dos (Il Post): el guion dice «nueve, entre ellos los dos tiradores». Familia indemnizada: SNL dice viuda y dos hijos; JTA, viuda, una hija y un hijo de un matrimonio anterior: el guion no lo detalla. Coche: Il Post dice que el coche del crimen quedó abandonado en un campo y que huyeron en un Peugeot alquilado, pero que al día siguiente un agente llevó «el coche» al aeropuerto; la ficha dice que siguieron usando el mismo coche: el guion habla de «un coche ya señalado como sospechoso». Acusación del jefe de la operación en 1998 y retirada en 1999: de la nota de la ficha (no abierta por mí), sin nombrarlo. Cantidad de la indemnización: secreta (JTA; Ha'aretz: unos 400.000 dólares, no usado). La ficha da «unos 22 meses» de condena antes del indulto (Il Post: 22 meses). Ortografía: Bouchikhi (ficha, SNL) o Bouchiki."
+  "nota_revision": "Cerrado en lo judicial (cinco condenados y luego indultados); los dos tiradores nunca fueron juzgados. Fuentes abiertas: Store norske leksikon (WebFetch), Il Post (WebFetch) y JTA (WebFetch). History Today dio 403 y no se abrió. Discrepancias: condenados por «complicidad» (ficha, SNL) o por asesinato (Il Post); penas de uno a cinco años y medio (ficha, SNL) o de dos a cinco (Il Post): el guion usa la ficha. Detenidos: seis (SNL), cinco (Il Post). Los que escaparon: nueve (SNL) o dos (Il Post): el guion dice «nueve, entre ellos los dos tiradores». Familia indemnizada: SNL dice viuda y dos hijos; JTA, viuda, una hija y un hijo de un matrimonio anterior: el guion no lo detalla. Coche: Il Post dice que el coche del crimen quedó abandonado en un campo y que huyeron en un Peugeot alquilado, pero que al día siguiente un agente llevó «el coche» al aeropuerto; la ficha dice que siguieron usando el mismo coche: el guion habla de «un coche ya señalado como sospechoso». Acusación del jefe de la operación en 1998 y retirada en 1999: de la nota de la ficha (no abierta por mí), sin nombrarlo. Cantidad de la indemnización: secreta (JTA; Ha'aretz: unos 400.000 dólares, no usado). La ficha da «unos 22 meses» de condena antes del indulto (Il Post: 22 meses). Ortografía: Bouchikhi (ficha, SNL) o Bouchiki. VERIFICACIÓN nuevos-julio: quitado lo de la acusación de 1998 al jefe de la operación (solo en la ficha, sin segunda fuente y señalaba a alguien sin condena). Los tiradores nunca fueron juzgados; los cinco condenados lo fueron por complicidad."
 }

@@ -17,7 +17,14 @@
     "Lew Wallace": "Lu Uálas",
     "Richardson": "Ríchardson",
     "Brushy Bill": "Brashi Bil",
-    "Tunstall": "Tánstol"
+    "Tunstall": "Tánstol",
+    "Regulators": "Réguleitors",
+    "McSween": "Macsuín",
+    "Bristol": "Brístol",
+    "Hindman": "Híndman",
+    "Olinger": "Olínyer",
+    "Roberts": "Róberts",
+    "Bonney": "Bóni"
   },
   "cintas": [
     {
@@ -67,7 +74,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1879, según se contó, el gobernador Lew Wallace le prometió amnistía a cambio de su testimonio. Billy declaró. Pero la promesa no se cumplió, y se fugó."
+          "texto": "En 1879, según se contó, el gobernador Lew Wallace le prometió amnistía a cambio de su testimonio. Billy declaró, pero la promesa no se cumplió y acabó huyendo."
         },
         {
           "voz": "ximena",
@@ -95,7 +102,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En 1948, un hombre llamado Brushy Bill Roberts dijo ser él. Una prueba de ADN de 2005 sobre los restos de otro aspirante no concluyó nada."
+          "texto": "A mediados del siglo veinte, un hombre llamado Brushy Bill Roberts dijo ser él. Los intentos de ADN de los años 2000 no cerraron la polémica."
         },
         {
           "voz": "alvaro",
@@ -120,5 +127,5 @@
       ]
     }
   ],
-  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y History.com (14 de julio). Discrepancias: History.com dice que Billy cometió «hasta diecisiete asesinatos» y Wikipedia lo relaciona con nueve muertes: el guion no da cifra. Fecha del ataque a Brady (1 de abril de 1878, History.com y Wikipedia). History.com dice que Garrett lo esperó en el dormitorio mientras Billy estaba fuera; la ficha y Wikipedia dicen que Garrett entró en el dormitorio de Maxwell y disparó a oscuras: el guion sigue la versión más sobria (disparo a oscuras en el dormitorio, hacia medianoche). La leyenda de la supervivencia y el perdón de 2010 vienen de Wikipedia. Se deja fuera el detalle de los asesinatos de los dos guardianes (solo se dice que murieron) y los de la fuga. Sin víctimas conocidas por nombre salvo el sheriff Brady. Las fuentes de la ficha: New Mexico History.org (no accesible), Garrett 1882 y True West no se abrieron."
+  "nota_revision": "Fuentes abiertas: Wikipedia en inglés y History.com (14 de julio). Discrepancias: History.com dice que Billy cometió «hasta diecisiete asesinatos» y Wikipedia lo relaciona con nueve muertes: el guion no da cifra. Fecha del ataque a Brady (1 de abril de 1878, History.com y Wikipedia). History.com dice que Garrett lo esperó en el dormitorio mientras Billy estaba fuera; la ficha y Wikipedia dicen que Garrett entró en el dormitorio de Maxwell y disparó a oscuras: el guion sigue la versión más sobria (disparo a oscuras en el dormitorio, hacia medianoche). La leyenda de la supervivencia y el perdón de 2010 vienen de Wikipedia. Se deja fuera el detalle de los asesinatos de los dos guardianes (solo se dice que murieron) y los de la fuga. Sin víctimas conocidas por nombre salvo el sheriff Brady. Las fuentes de la ficha: New Mexico History.org (no accesible), Garrett 1882 y True West no se abrieron. VERIFICACIÓN nuevos-julio: suavizadas fechas dudosas: Brushy Bill (1948 no confirmado, pasa a «mediados del siglo veinte») y el ADN de 2005. La condena de 1881 y el jurado forense están en la ficha. Añadidas pronunciaciones de nombres sin mapa."
 }
