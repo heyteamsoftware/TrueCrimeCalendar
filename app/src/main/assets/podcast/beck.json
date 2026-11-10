@@ -1,45 +1,204 @@
 {
   "id": "beck",
-  "titulo": "La falsa hermana",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Martha Beck": "Marta Bec",
     "Martha": "Marta",
-    "Byron Center": "Báiron Sénter",
-    "Delphine Downing": "Delfín Dáunin",
-    "Delphine": "Delfín",
+    "Beck": "Bec",
     "Raymond Fernandez": "Réimond Fernández",
     "Fernandez": "Fernández",
-    "Milton": "Mílton",
+    "Delphine Downing": "Delfín Dáunin",
+    "Delphine": "Delfín",
+    "Downing": "Dáunin",
     "Janet Fay": "Yánet Féi",
+    "Fay": "Féi",
+    "Grand Rapids": "Grand Rápids",
+    "Milton": "Mílton",
     "Valley Stream": "Váli Strim",
-    "Rainelle": "Reinél",
-    "Arturo Ripstein": "Arturo Rípstein"
+    "Long Island": "Long Áilan",
+    "Albany": "Ólbani",
+    "Seabrook": "Sibruc",
+    "Sing Sing": "Sing Sing",
+    "Ferdinand Pecora": "Férdinand Pecóra",
+    "Thomas Dewey": "Tómas Dúi",
+    "Pensacola": "Pensacóla"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Invierno de 1949. Byron Center, un pueblo de Míchigan. Los vecinos de Delphine Downing, una joven viuda, se extrañan: no la ven a ella ni a su hija pequeña. En cambio, en la casa siguen los dos invitados que llegaron hace poco: el prometido de Delphine y la hermana de él." },
-    { "voz": "ximena", "texto": "Los vecinos avisan a la policía. Y cuando los agentes llaman a la puerta, la verdad empieza a salir. Ni él es el prometido que dice ser, ni ella es su hermana." },
-    { "voz": "alvaro", "texto": "¿Una pareja haciéndose pasar por hermanos? ¿Y con qué fin?" },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Martha Beck, la mitad de la pareja que la prensa llamó los asesinos de los corazones solitarios." },
-    { "voz": "ximena", "texto": "Martha Beck nació el 6 de mayo de 1920 en Milton, Florida. Tuvo una infancia difícil y una adolescencia marcada por las burlas. Estudió enfermería y llegó a dirigir un centro para niños con discapacidad en Pensacola. Era madre de dos hijos." },
-    { "voz": "ximena", "texto": "En 1947, tras un breve matrimonio, sola y buscando compañía, se apuntó a un club de correspondencia para corazones solitarios. Así conoció, por carta, a Raymond Fernandez." },
-    { "voz": "ximena", "texto": "Fernandez, nacido en Hawái de padres españoles, vivía en Nueva York y se dedicaba a una estafa muy concreta: contactaba con mujeres solas a través de esos anuncios, las enamoraba y desaparecía con su dinero." },
-    { "voz": "ximena", "texto": "Las cartas eran su herramienta. Escribía con palabras cuidadas, prometía amor y estabilidad, y después pedía, poco a poco, dinero o propiedades." },
-    { "voz": "alvaro", "texto": "Y Martha, al descubrir a qué se dedicaba, ¿qué hizo?" },
-    { "voz": "ximena", "texto": "Lejos de apartarse, se unió a él. Dejó a sus hijos al cuidado de otros y se fue a vivir con Fernandez. Desde entonces actuaron juntos: ella se presentaba ante las víctimas como su hermana, para dar confianza y respetabilidad a la historia." },
-    { "voz": "ximena", "texto": "Pero lo que empezó como estafa desembocó en algo mucho peor. Según se reconstruyó después, los celos de Martha hacia las mujeres a las que Fernandez cortejaba, y el miedo a ser descubiertos, convirtieron el engaño en asesinato. Las víctimas ya no solo perdían su dinero." },
-    { "voz": "ximena", "texto": "En enero de 1949 mataron a Janet Fay, una viuda de sesenta y seis años, en un apartamento de Valley Stream, en el estado de Nueva York. Janet Fay creía que iba a casarse con Fernandez. Después viajaron a Míchigan, donde vivía Delphine Downing, de veintiocho años, con su hija Rainelle, de dos." },
-    { "voz": "alvaro", "texto": "Y allí se cerró el círculo." },
-    { "voz": "ximena", "texto": "Sí. A finales de febrero mataron a Delphine y a la pequeña Rainelle. Los vecinos, extrañados por su ausencia, alertaron a la policía, y la pareja fue detenida. Una vez detenidos, confesaron." },
-    { "voz": "ximena", "texto": "Míchigan no tenía pena de muerte. Nueva York, sí. Las autoridades decidieron que fueran juzgados primero allí, por el asesinato de Janet Fay. Fue una decisión deliberada, pensada para que pudieran ser condenados a muerte." },
-    { "voz": "alvaro", "texto": "Y supongo que el juicio se convirtió en un circo mediático." },
-    { "voz": "ximena", "texto": "Lo fue. La prensa convirtió el proceso en un folletín. Y se ensañó especialmente con Martha Beck, mucho más que con él: con su físico, con su vida sentimental, con su condición de mujer. Hoy muchos estudiosos ven en aquella cobertura un ejemplo claro del machismo de la época." },
-    { "voz": "ximena", "texto": "En 1949 ambos fueron declarados culpables y condenados a muerte. Martha Beck y Raymond Fernandez fueron ejecutados en la silla eléctrica de la prisión de Sing Sing el 8 de marzo de 1951. Murieron la misma noche, uno después del otro." },
-    { "voz": "ximena", "texto": "Se les atribuyen hasta veinte víctimas, aunque solo fueron condenados por tres asesinatos. La cifra real, como tantas veces, nunca se ha podido confirmar. Raymond Fernandez tiene su propio expediente en este archivo: son dos caras de la misma historia." },
-    { "voz": "alvaro", "texto": "Una historia que, años después, acabó llegando al cine. También en castellano." },
-    { "voz": "ximena", "texto": "Así es. Inspiró varias películas, entre ellas «Profundo carmesí», de 1996, dirigida por el mexicano Arturo Ripstein. Pero conviene no olvidar a las víctimas: mujeres que buscaban compañía por carta y una niña de dos años." },
-    { "voz": "ximena", "texto": "Su caso muestra además algo inquietante: la presencia de una mujer, que parecía una garantía de confianza, sirvió precisamente para desarmar las sospechas de las víctimas. La falsa hermana era la pieza que hacía creíble todo el engaño. Hoy estas estafas ya no llegan por carta, sino por internet. Pero el patrón se parece mucho." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Martha Beck. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La hermana de él",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Martha Beck. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La hermana de él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Principios de marzo de 1949. Una casa en las afueras de Grand Rapids, en Míchigan. Los vecinos llevan días sin ver a su dueña, una viuda joven, ni a su hija de dos años. En la casa, en cambio, hay luz y movimiento: viven con ellas un hombre que se presenta como el prometido de la viuda y una mujer que dice ser su hermana."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los vecinos avisan a la policía. El 1 de marzo, los agentes llaman a la puerta. Detienen a la pareja."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un detalle me llama la atención. Un hombre solo con una viuda levanta preguntas. Con «su hermana» en la casa, todo parece más respetable. Esa mujer es Martha Beck, y su papel era parte del plan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En aquella casa, los agentes descubrieron lo peor: la viuda, Delphine Downing, y su hija habían muerto, y sus cuerpos estaban ocultos en el sótano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquellos dos detenidos no eran hermanos, sino pareja. Y la de Míchigan no era la primera casa en la que habían ocurrido cosas así."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Martha Beck nació el 6 de mayo de 1920 en Milton, Florida, con otro apellido, Seabrook. Estudió enfermería, pero le costó encontrar trabajo. Tuvo dos hijos de dos relaciones distintas y un matrimonio muy breve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde 1946 trabajaba en un hospital infantil de Pensacola, y llegó a dirigir una institución para niños con discapacidad. En 1947 hizo algo que cambió su vida: pagó cinco dólares para entrar en un club de correspondencia de corazones solitarios."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pensemos en 1947. Una mujer de veintisiete años, sin pareja, con dos hijos y un sueldo corto. Esos clubes prometían compañía. Para otros, como veremos, eran un catálogo de víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al otro lado de las cartas había un hombre de Nueva York: Raymond Fernandez, nacido en Hawái de padres españoles. Estafaba a mujeres solas con promesas de matrimonio. Su historia, la de él, la cuenta su propio expediente en este archivo. Aquí contamos la de ella."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fernandez fue a Pensacola, se quedó dos días y se marchó. Después escribió que ya no la quería. Beck perdió su puesto tras conocerlo, y se fue tras él a Nueva York. A sus hijos los dejó al cuidado del Ejército de Salvación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y de este expediente es lo que más me pesa: dos niños, dejados atrás. No juzgo, solo anoto. Lo que sí consta es que Beck no se apartó cuando supo a qué se dedicaba él. Se sumó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A partir de ahí fueron una pareja de estafadores. Beck se presentaba como la hermana de Fernandez. Una mujer en el trío daba confianza a las víctimas: si la hermana estaba con él, él debía de ser un hombre decente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según las reconstrucciones del caso, Beck sentía celos de las mujeres a las que Fernandez cortejaba. Y el engaño pasó a ser algo mucho peor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A principios de enero de 1949, en un apartamento de Valley Stream, en Long Island, murió Janet Fay, una viuda de sesenta y seis años, de Albany. Se creía prometida de Fernandez, y le había entregado unos cuatro mil dólares en dinero y ahorros, además de joyas y bonos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a detallar cómo murió. Lo que cuenta es esto: la pareja se movía de una ciudad a otra con una mujer mayor, ilusionada, que había confiado en una carta. Y nadie pudo advertirla."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Menos de dos meses después, en Míchigan, acabaron con la vida de Delphine Downing y de su hija de dos años. Los cuerpos quedaron ocultos en el sótano, bajo cemento reciente. Fue a finales de febrero. Pocos días después, la policía estaba en la puerta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una pregunta: ¿por qué confesaron? Se cuenta que lo hicieron creyendo que en Míchigan, un estado sin pena de muerte, estaban a salvo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquí empieza otra historia: la de dos acusados que creían estar a salvo en un estado, y un tribunal de Nueva York que los reclamaba. Y una prensa que ya tenía sus titulares preparados."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un tribunal de Nueva York",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un tribunal de Nueva York."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Martha Beck: la pareja detenida en Míchigan, el juicio y la ejecución. Primero, la decisión de las autoridades."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Míchigan no tenía pena de muerte. Nueva York, sí. Los dos habían confesado en Míchigan, y las autoridades decidieron extraditarlos para juzgarlos en Nueva York por la muerte de Janet Fay. Fue el único asesinato por el que se les procesó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto esto, porque la ficha del caso lo cuenta de otra manera: dice que fueron condenados por tres muertes. Según las fuentes, no es así. Los crímenes de Míchigan se reconocieron en las confesiones, pero la condena fue solo por el de Janet Fay."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 9 de junio de 1949, en pleno verano, y duró más de dos meses. Presidió el juez Ferdinand Pecora. La defensa alegó que los acusados estaban mentalmente enfermos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La acusación presentó sus confesiones y la historia de Janet Fay: el dinero que había entregado, su desaparición en enero y el lugar donde la encontraron, enterrada en el sótano de una casa alquilada, bajo cemento nuevo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Beck declaró y contó que había intentado quitarse la vida en cuatro ocasiones. Un psiquiatra la calificó de mentalmente inestable. El jurado no se dejó convencer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un recurso conocido: cuando no se puede negar lo ocurrido, se discute la mente de los acusados. Aquí no funcionó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y mientras tanto, la prensa de Nueva York cubría cada sesión. Se fijaba en ella sin pudor: en su peso, en su aspecto, en su vida íntima. De él, en cambio, se hablaba como del seductor latino. Se contó que en la sala ella se abalanzó a besarlo y los guardias tuvieron que separarla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Releo aquellas crónicas desde hoy y me parece evidente: se la juzgaba también por lo que era. Por ser una mujer corpulenta, sola, que se había buscado un amor por carta. Hoy muchos estudiosos ven en esa cobertura un ejemplo del machismo de la época."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 18 de agosto de 1949, tras casi doce horas y media de deliberación, el jurado los declaró culpables de asesinato en primer grado. La pena de muerte era obligatoria."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Recurrieron. El Tribunal de Apelaciones del estado denegó un nuevo juicio. El gobernador Thomas Dewey rechazó el indulto, y el Tribunal Supremo de Estados Unidos no aceptó revisar el caso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una nota más sobre Beck. Dos hijos suyos habían quedado al cuidado del Ejército de Salvación cuando se fue con Fernandez. Las fuentes no cuentan qué fue de ellos. Son otras víctimas silenciosas de esta historia, y no tenemos más datos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de marzo de 1951, en la prisión de Sing Sing, en el estado de Nueva York, murieron los dos en la silla eléctrica, primero él y después ella. Según algunas crónicas, al final los dos proclamaron su amor. "
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se les atribuyeron diecisiete asesinatos, que ellos negaron, y otras fuentes hablan de veinte. Lo que las fuentes sostienen es mucho menos. La cifra real, si existió, se fue con ellos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se les han atribuido hasta veinte víctimas. La justicia solo pudo probar una. Lo que sabemos con seguridad: Janet Fay, Delphine Downing y una niña de dos años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y de ahí sale lo que a mí me inquieta de este archivo. La falsa hermana no era un adorno. Era el mecanismo. Bajaba las defensas de las mujeres, las convencía de que no corrían peligro. Hoy esas estafas llegan por internet, pero el truco de la confianza fabricada es el mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La historia ha inspirado varias películas, entre ellas «Los asesinos de la luna de miel», de 1970, y la mexicana «Profundo carmesí», de 1996."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero conviene recordar quiénes pagaron. Mujeres que buscaban compañía por carta. Janet Fay, viuda de sesenta y seis años, que creyó haber encontrado el amor por carta. Delphine Downing, viuda también. Y una niña de dos años cuya vida apenas había empezado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Martha Beck. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/beck.json. Contada desde Beck; la pareja (fernandez) lleva el historial de él. Cifras comunes con fernandez: Janet Fay (66 años, enero de 1949, Valley Stream), Delphine Downing y su hija de dos años (finales de febrero de 1949, zona de Grand Rapids), detención el 1/3/1949, juicio en Nueva York del 9/6 al 18/8/1949 solo por Fay, ejecución el 8/3/1951 en Sing Sing, atribuidas 17 (hasta 20). DISCREPANCIAS: 1) Ficha y guion v2: «condenados por tres asesinatos» (Fay, Downing y la niña). Las fuentes (Wikipedia en inglés, Great American Trials, History.com, AP 1949) dicen que en Nueva York solo se juzgó y se condenó el de Janet Fay; los de Míchigan nunca se juzgaron. Wikipedia en español dice «condenados por tres». El guion dice un asesinato juzgado y conserva el nombre de las otras dos víctimas como muertes reconocidas en las confesiones. 2) Ficha: «Se les atribuyen hasta 20 víctimas» y «v: 3 (estimadas 20)»: Wikipedia da 3 a 20 y 17 atribuidas; el guion dice 17 atribuidas (que negaron) y otras fuentes hablan de 20. 3) Fecha de la muerte de Fay: 4 de enero (AP, 1949), 5 de enero u «1949» sin día (Wikipedia). El guion dice «principios de enero». 4) Edad de Delphine Downing: 28 (Wikipedia, People/Yahoo) o 41 (Great American Trials); no se da. Lugar: Byron Center (ficha y v2), Wyoming Township o Grand Rapids (fuentes); el guion dice la zona de Grand Rapids. 5) Cómo dio la policía con ellos: vecinos (Wikipedia, Great American Trials, Yahoo) o Fernandez desafió a la policía a registrar (History.com); el guion dice vecinos. Great American Trials añade que la hijastra de Fay avisó a la policía de Nueva York: dato de una sola fuente, no usado. 6) Dos hijos de Beck: dejados con el Ejército de Salvación (Wikipedia, History.com); no se sabe qué fue de ellos; no se nombran. 7) Bio de Beck: nacida 6/5/1920 en Milton (Seabrook de soltera), hospital infantil de Pensacola desde 1946 (Wikipedia) o «superintendent» (Great American Trials); cinco dólares del club (Great American Trials); el guion v2 decía que dirigía un centro de discapacidad (Great American Trials: «superintendent»); se mantiene como «llegó a dirigir una institución para niños con discapacidad». Se quitó del v2 «adolescencia marcada por las burlas» (sin fuente). 8) Película: «Profundo carmesí» (1996) está en Wikipedia; el v2 añadía el director Arturo Ripstein (no confirmado en las fuentes consultadas), así que no se cita. «Los asesinos de la luna de miel» (1970). 9) Deliberación del jurado: 12 h 34 min (AP) o 12 h y media (Great American Trials); el guion dice casi doce horas y media. 10) Veredicto del 18 de agosto (Great American Trials, AP del 19). Apelaciones, indulto de Dewey y negativa del Supremo: solo Great American Trials. Orden de ejecución (él primero): Great American Trials, Wikipedia. El v2 decía «misma noche»; no consta en las fuentes y se quitó. RESPETO: no se nombra a la niña de dos años (Wikipedia la nombra; no consta que la familia haya hablado) ni a los hijos de Beck. No se describen métodos (las fuentes difieren sobre quién hizo qué). Cobertura de prensa: sensacionalista y centrada en el cuerpo de Beck (Great American Trials, AP); lectura machista, interpretación actual atribuida a «muchos estudiosos». Sin citas literales. Fuente débil: History.com y Yahoo/People son prensa generalista."
 }

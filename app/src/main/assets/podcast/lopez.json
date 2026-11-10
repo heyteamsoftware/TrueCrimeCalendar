@@ -1,34 +1,61 @@
 {
   "id": "lopez",
-  "titulo": "El hombre que salió por la puerta",
+  "version": 3,
   "pronunciacion": {
-    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar"
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Interpol": "Interpól"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Ambato, Ecuador, 1980. En un mercado de la ciudad, una mujer ve cómo un desconocido se aleja con su hija. Grita. Los vendedores reaccionan, rodean al hombre y lo retienen hasta que llega la policía." },
-    { "voz": "ximena", "texto": "Poco antes, una crecida había dejado al descubierto en la zona los restos de varias niñas desaparecidas. El desconocido que retuvieron aquel día era colombiano y tenía treinta y un años. Acabaría confesando una cifra que estremeció a tres países." },
-    { "voz": "alvaro", "texto": "¿Tres países?" },
-    { "voz": "ximena", "texto": "Colombia, Perú y Ecuador. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Pedro Alonso López, el monstruo de los Andes." },
-    { "voz": "ximena", "texto": "López nació en 1948 en Santa Isabel, en el departamento colombiano del Tolima. Según su propio relato, su infancia fue de pobreza extrema y violencia, y siendo todavía un niño acabó en la calle, en los años más duros de la Violencia en Colombia." },
-    { "voz": "ximena", "texto": "Una advertencia: mucho de lo que sabemos de su vida procede de sus propias declaraciones. Y es un hombre que mintió, exageró y cambió de versión muchas veces. Lo que sí parece documentado es que pasó por prisiones colombianas en su juventud." },
-    { "voz": "ximena", "texto": "Según su versión, en Perú un grupo de indígenas llegó a capturarlo, y una misionera intercedió para que lo entregaran a las autoridades, que lo dejaron marchar. Es uno de esos episodios que nunca se han podido confirmar." },
-    { "voz": "ximena", "texto": "Tras su detención en Ambato, al principio se negó a hablar. Los investigadores recurrieron a un método poco habitual: un sacerdote compartió celda con él haciéndose pasar por preso. Y López empezó a contar." },
-    { "voz": "alvaro", "texto": "¿Y qué contó?" },
-    { "voz": "ximena", "texto": "Que había matado a más de trescientas niñas en Colombia, Perú y Ecuador. Decía que las elegía en mercados y plazas, a menudo niñas de familias humildes e indígenas. Y para demostrarlo, guió a la policía hasta varios lugares donde aparecieron restos." },
-    { "voz": "ximena", "texto": "A partir de sus indicaciones, las autoridades ecuatorianas localizaron los restos de decenas de víctimas. Fue condenado en Ecuador por ciento diez asesinatos, una cifra que ya situaba el caso entre los peores de la historia." },
-    { "voz": "alvaro", "texto": "Con una cifra así, la condena sería durísima." },
-    { "voz": "ximena", "texto": "Y aquí está lo que más indigna de este caso. La ley ecuatoriana fijaba entonces una pena máxima de dieciséis años, sin importar el número de víctimas. Esa fue su condena. Ingresó en la penitenciaría García Moreno, en Quito." },
-    { "voz": "ximena", "texto": "Según diversas fuentes, allí coincidió con otro asesino en serie colombiano, Daniel Camargo Barbosa, cuyo expediente también forma parte de este archivo. Dos hombres responsables de la muerte de decenas de niñas, en la misma cárcel." },
-    { "voz": "ximena", "texto": "En los años noventa, López salió de la prisión ecuatoriana y fue deportado a Colombia. Allí fue declarado enfermo mental e internado en un hospital psiquiátrico de Bogotá." },
-    { "voz": "alvaro", "texto": "¿Y desde allí?" },
-    { "voz": "ximena", "texto": "En 1998, los médicos consideraron que ya no representaba un peligro, y quedó en libertad. Según distintas informaciones, bastó una pequeña fianza. Desde entonces, su paradero es desconocido. Años después, la justicia colombiana lo buscó por un nuevo crimen y se emitió una alerta internacional. Nunca fue localizado." },
-    { "voz": "ximena", "texto": "Ha habido supuestos avistamientos, rumores y especulaciones. Algunos periodistas creen que pudo haber muerto; otros, que sigue vivo con otra identidad. Lo cierto es que nadie lo sabe." },
-    { "voz": "alvaro", "texto": "Es decir, que uno de los mayores asesinos de la historia podría estar en cualquier parte." },
-    { "voz": "ximena", "texto": "Y esa incertidumbre es su legado más inquietante. El caso dejó en evidencia las lagunas legales de su tiempo: sistemas que no estaban preparados para crímenes de esa magnitud y que no pudieron impedir que saliera por la puerta." },
-    { "voz": "ximena", "texto": "También dejó en evidencia lo poco que se buscaba a ciertas víctimas: niñas pobres, muchas de comunidades indígenas, cuyas desapariciones apenas se investigaban. Muchas familias nunca tuvieron una respuesta. Algunas no la tendrán jamás." },
-    { "voz": "ximena", "texto": "Y aquella mujer del mercado de Ambato nos recuerda algo importante: fue la reacción de una madre y de unos vendedores, y no una gran operación policial, lo que detuvo a uno de los criminales más peligrosos del continente." },
-    { "voz": "ximena", "texto": "En TRUE CRIME CALENDAR lo incluimos en el patrón de los Andes, junto a otros casos que muestran cómo la pobreza, las fronteras y la falta de recursos policiales permitieron que algunos criminales actuaran durante años sin ser detectados." },
-    { "voz": "ximena", "texto": "Casos en los que la frontera entre países servía de escondite, y en los que cada policía veía solo una parte del rompecabezas. Hasta aquí el expediente de Pedro Alonso López, el monstruo de los Andes. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una riada en Ambato",
+      "tipo": "hallazgo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Pedro Alonso López, el monstruo de los Andes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. Una riada en Ambato."},
+        {"voz": "ximena", "texto": "Ambato, Ecuador, 1980. En un mercado de la ciudad, una mujer ve cómo un desconocido se aleja con una niña de la mano. Grita. Los vendedores reaccionan, rodean al hombre y lo retienen hasta que llega la policía."},
+        {"voz": "ximena", "texto": "Era colombiano y tenía treinta y pocos años. Se llamaba Pedro Alonso López. Poco antes, una riada había dejado al descubierto en la región los restos de varias niñas desaparecidas."},
+        {"voz": "ximena", "texto": "Ambato es la capital de la provincia de Tungurahua, en la sierra central de Ecuador. La policía descubrió enseguida que aquel hombre no tenía domicilio fijo y que llevaba años moviéndose entre Colombia, Perú y Ecuador."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Anoto lo que consta. No fue una investigación la que sacó a la luz esos restos: fue el agua. Y a este hombre no lo detuvo una gran operación policial, ni un informe, sino una mujer que gritó y unos vendedores que no miraron a otro lado."},
+        {"voz": "ximena", "texto": "La policía lo interrogó. Al principio no habló. Entonces se recurrió a un método poco habitual: alguien se ganó su confianza en la celda haciéndose pasar por preso. Las crónicas lo describen como un policía; otras versiones, como un sacerdote. Y López empezó a contar."},
+        {"voz": "alvaro", "texto": "Una cautela jurídica. Lo que alguien confiesa a un compañero de celda que en realidad es un agente no se valora igual que lo declarado ante un juez. No sé qué peso se le dio en Ecuador. El expediente no lo aclara."},
+        {"voz": "ximena", "texto": "Dijo haber matado a más de trescientas niñas en Colombia, Perú y Ecuador. Las elegía en mercados y plazas, casi siempre de familias humildes, muchas de ellas indígenas, de entre ocho y trece años."},
+        {"voz": "ximena", "texto": "En su confesión repartió las cifras por países: al menos ciento diez en Ecuador, cien en Colombia y muchas más de cien en Perú. Son sus palabras. No son cifras judiciales."},
+        {"voz": "alvaro", "texto": "Y aquí empieza mi desconfianza. Trescientas es lo que él dijo, y nadie ha podido comprobarlo. Mucho de lo que sabemos de su vida sale de sus propias declaraciones. Y era un hombre que mintió, exageró y cambió de versión muchas veces, a veces para presumir y a veces para escabullirse."},
+        {"voz": "ximena", "texto": "Para demostrar lo que decía, guió a la policía a varios lugares. En algunos aparecieron restos; en otros no se encontró nada. Según las fuentes, los cuerpos localizados en Ecuador fueron entre cincuenta y tres y cincuenta y siete. Solo una parte llegó a identificarse."},
+        {"voz": "ximena", "texto": "López había nacido en 1948 en el departamento colombiano del Tolima; las fuentes no coinciden en el municipio ni en el día exacto. Según su relato, su infancia fue de pobreza extrema y violencia, y siendo niño acabó en la calle."},
+        {"voz": "ximena", "texto": "En 1969 ingresó en prisión por robo. Allí murieron varios presos a sus manos, y el caso se consideró defensa propia. Salió en 1978. A partir de entonces viajó por Perú, Ecuador y Colombia. Lo que sabemos de esos años procede en buena parte de él mismo. Lo documentado empieza con su detención."},
+        {"voz": "ximena", "texto": "Él mismo contó que, en Perú, unos vecinos de una aldea llegaron a capturarlo, y que una misionera intercedió para que lo entregaran a las autoridades, que lo dejaron marchar. Es uno de esos episodios que nunca se han podido confirmar."},
+        {"voz": "alvaro", "texto": "Si fuera cierto, sería un dato terrible: alguien sorprendido con una niña termina otra vez al otro lado de una frontera. Es una hipótesis, no un hecho. Pero encaja con lo que sí consta: cada policía veía solo una parte del rompecabezas."},
+        {"voz": "ximena", "texto": "En Ecuador, las autoridades tenían ahora a un hombre que reconocía cientos de muertes. Faltaba saber qué dirían los jueces, y qué castigo preveía la ley para un caso así. Y la ley ecuatoriana de entonces tenía un tope."}
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una fianza en Bogotá",
+      "tipo": "epilogo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. Una fianza en Bogotá."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Pedro Alonso López, detenido en Ambato en 1980. Lo dejamos con una confesión de más de trescientas niñas y una ley con un límite."},
+        {"voz": "ximena", "texto": "La ley ecuatoriana fijaba entonces una pena máxima de dieciséis años y no permitía sumar las penas por cada víctima. Las fuentes no coinciden en por cuántas muertes lo condenaron: entre tres y dieciséis, según cuál se lea. La pena sí se repite: dieciséis años. Ingresó en la penitenciaría García Moreno, en Quito."},
+        {"voz": "alvaro", "texto": "Un tope de dieciséis años, igual para una víctima que para cien. No lo digo yo: lo decía la ley. Y esa norma, pensada para otros delitos, no estaba preparada para un caso así."},
+        {"voz": "alvaro", "texto": "Repasa las cifras conmigo. Él dijo haber matado a ciento diez niñas en Ecuador. Aparecieron entre cincuenta y tres y cincuenta y siete cuerpos. Los jueces lo condenaron por muchas menos. Son tres medidas distintas: lo que confesó, lo que se encontró y lo que se pudo probar ante un tribunal."},
+        {"voz": "ximena", "texto": "También intentó defenderse con otra versión: dijo ser solo cómplice de un tal Patiño, al que señalaba como el verdadero asesino. Es lo que declaró él. Ninguna fuente que hayamos consultado lo respalda."},
+        {"voz": "ximena", "texto": "Ecuador juzgó solo una parte de lo que López había confesado. De los casos de Colombia y Perú, que sepamos, casi nada llegó a los tribunales."},
+        {"voz": "ximena", "texto": "En 1994 terminó su condena, tras unos catorce años de cárcel, contando la rebaja por buena conducta. Un juez de Ibarra frenó durante unos días su entrega en la frontera hasta revisar sus expedientes. Después fue deportado a Colombia."},
+        {"voz": "ximena", "texto": "Poco antes de salir, el propio López había pedido a un tribunal ecuatoriano que le concediera libertad vigilada. Decía que llevaba catorce años preso."},
+        {"voz": "alvaro", "texto": "Anoto algo de aquellos días. La policía colombiana investigaba si tenía antecedentes en su país. Y varios juristas, citados por la prensa de entonces, creían probable que los posibles delitos cometidos en Colombia ya hubieran prescrito."},
+        {"voz": "ximena", "texto": "En Colombia, un juez lo declaró inimputable por enfermedad mental. Pasó unos cuatro años internado en un centro psiquiátrico."},
+        {"voz": "alvaro", "texto": "Explico el término. Inimputable es quien, por enfermedad mental, no responde penalmente de sus actos. No va a la cárcel; va a un tratamiento. Y el tratamiento acaba cuando los médicos dicen que acaba."},
+        {"voz": "ximena", "texto": "En 1998, los médicos lo declararon sano. Salió con una fianza de unos ochenta mil pesos de la época y la obligación de seguir un tratamiento. Según algunos informes, no la cumplió."},
+        {"voz": "alvaro", "texto": "Fíjate en la secuencia: una condena con tope, un hombre declarado inimputable, luego declarado sano, y una fianza simbólica. Cada paso tenía su lógica legal. Juntos dejaron salir por la puerta a quien había confesado cientos de muertes."},
+        {"voz": "ximena", "texto": "Después, su rastro se pierde. La última aparición documentada es de septiembre de 1999, en un registro civil de Bogotá. En 2002, Colombia pidió a Interpol su búsqueda, reclamado por un juzgado de El Espinal, en el Tolima, por la violación y muerte de once menores a finales de los setenta. Nunca fue localizado."},
+        {"voz": "ximena", "texto": "Desde entonces ha habido supuestos avistamientos y rumores: que murió, que vive con otra identidad. Nadie lo sabe. Esa incertidumbre es lo más inquietante de este expediente: un hombre que confesó cientos de muertes, y nadie sabe dónde está."},
+        {"voz": "alvaro", "texto": "Prefiero fijarme en otra cosa. De las niñas de Ecuador solo una parte tiene nombre en los registros. De las de Colombia y Perú, casi ninguna. Eso también es un dato sobre cómo se buscaba a las niñas pobres."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a esas niñas, de entre ocho y trece años, la mayoría sin nombre en los registros que conservamos. Muchas familias nunca tuvieron una respuesta, y algunas no la tendrán jamás. A las madres que las esperaron. Y a una mujer de un mercado de Ambato que gritó a tiempo."},
+        {"voz": "ximena", "texto": "Fin del expediente de Pedro Alonso López. Archivo de TRUE CRIME CALENDAR."}
+      ]
+    }
   ],
-  "nota_revision": "La ficha dice que «cumplió 16 años». Según la mayoría de fuentes, fue condenado a 16 años (la pena máxima), pero salió de la prisión ecuatoriana en 1994, tras unos 14 años, por buena conducta. El guion dice que fue condenado a 16 años y que salió «en los años noventa», sin precisar cuántos cumplió."
+  "nota_revision": "Versión 3 en 2 cintas. Caso con muchísimas discrepancias de cifras; manda la prudencia. 1) Ficha: «Fue condenado en Ecuador por 110». Ninguna fuente lo respalda: 110 es lo que él dijo haber matado en Ecuador. El Tiempo (31/8/1994) dice condenado por 16 menores; Wikipedia (en) dice juzgado por 57 cargos y condenado por 3 asesinatos en enero de 1981; El Tiempo (Asesinos en Colombia) y El Comercio no precisan. El guion dice «entre tres y dieciséis» y calla el 110 como condena. 2) Ficha: «cumplió 16 años». Salió en 1994 tras unos 14 años (rebaja de 599 días por buena conducta, El Tiempo, 12/3/1994); Semana (2002) dice libertad en 1993. El guion dice 1994 y unos catorce años. 3) Cuerpos hallados en Ecuador: 53 (Wikipedia en), 57 (El Tiempo), «más de 60» (AFP/El Tiempo 1994), 74 (Infobae). El guion dice «entre 53 y 57». Solo Wikipedia (en) dice que se identificó a 17. 4) El v2 decía que un sacerdote compartió celda; Wikipedia (en) dice que fue un capitán de policía, Pastor Córdova Gudino, haciéndose pasar por preso; Wikipedia (es) habla de un padre. El guion recoge las dos versiones sin nombres. 5) Detención: Wikipedia (en) dice que el 9 de marzo de 1980 una comerciante frustró un intento de secuestro y lo soltaron, y que lo detuvieron de nuevo en abril, tras la riada; Wikipedia (es) y Semana dan otras fechas (marzo/abril). El guion dice solo «1980» y no da el día; la fecha de la riada tampoco. 6) Nacimiento: 5 u 8 de octubre de 1948, en El Espinal, Venadillo o Santa Isabel; el guion dice 1948, Tolima. 7) 1969: tres o cuatro presos muertos; el guion dice «varios». 8) Episodio del Perú (aldea, misionera): solo su relato; se presenta como no confirmado. 9) Último rastro (22/9/1999, Bogotá): Wikipedia; Infobae dice «desde 1998». Interpol: Wikipedia dice que la alerta se desactivó en 2005 tras identificarse un cadáver, pero sigue como fugitivo; el guion solo dice que Colombia pidió su búsqueda en 2002 (El Tiempo; Semana habla de circular roja de 1998, sin cuadrar). 10) Cifra de «trescientas» y reparto por país (110 Ecuador, 100 Colombia, más de 100 Perú): solo su confesión. 11) Fianza: 80.000 pesos (El Tiempo), unos 50 o 70 dólares (otras fuentes). 12) «Ayacucho» y Patiño: Wikipedia (en) lo llama Jorge Patiño, El Tiempo (1994) Pedro Patiño; el guion dice «un tal Patiño». RESPETO: no hay nombres de víctimas; no se describen métodos. Quitado del v2: la coincidencia en la cárcel con Daniel Camargo (sin fuente clara) y las alusiones al «patrón de los Andes»."
 }

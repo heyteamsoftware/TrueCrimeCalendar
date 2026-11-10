@@ -1,41 +1,77 @@
 {
   "id": "harvey",
-  "titulo": "Un olor a almendras amargas",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Donald Harvey": "Dónald Járvi",
     "Harvey": "Járvi",
     "Cincinnati": "Sinsináti",
     "Drake Memorial": "Dréik Memórial",
+    "Drake": "Dréik",
     "Ohio": "Oháio",
     "Kentucky": "Kentáki",
     "London": "Lóndon",
+    "Marymount": "Mérimaunt",
     "Pat Minarcin": "Pat Minársin",
-    "John Powell": "Yon Páuel"
+    "WCPO": "dóbliu si pi óu",
+    "John Powell": "Yon Páuel",
+    "Hamilton": "Jámilton",
+    "Arthur Ney": "Árzur Néi",
+    "Associated Press": "Asósieited Pres",
+    "Time": "Táim"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Cincinnati, Ohio, marzo de 1987. En la sala de autopsias, un patólogo examina el cuerpo de un paciente que acaba de morir en el hospital Drake Memorial. Nada parece extraño. Hasta que percibe un olor tenue, a almendras amargas. Un olor que los especialistas asocian al cianuro." },
-    { "voz": "ximena", "texto": "Los análisis lo confirman. El paciente se llamaba John Powell y llevaba meses en coma tras un accidente de moto. Ha sido envenenado. Y la pregunta es inmediata: ¿quién, dentro del hospital, podía hacer algo así?" },
-    { "voz": "alvaro", "texto": "Un envenenamiento dentro de un hospital. Eso significa que el culpable estaba entre el personal..." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Donald Harvey, al que se conoce como el otro ángel de la muerte." },
-    { "voz": "ximena", "texto": "Donald Harvey nació el 15 de abril de 1952 en Ohio y creció en una zona rural de los Apalaches, en Kentucky. Dejó pronto los estudios y, con apenas dieciocho años, empezó a trabajar como auxiliar en un hospital de la localidad de London, en Kentucky." },
-    { "voz": "ximena", "texto": "Allí, según su propia confesión posterior, empezaron sus crímenes, en 1970. Tenía acceso a pacientes frágiles, mayores o muy enfermos, en un entorno en el que una muerte más rara vez levantaba sospechas." },
-    { "voz": "ximena", "texto": "Durante los años siguientes trabajó en otros centros, entre ellos un hospital de veteranos de Cincinnati, donde pasó una década. En 1986 entró a trabajar en el Drake Memorial. Siempre en contacto directo con los pacientes. Para muchos compañeros, era un empleado cumplidor y amable." },
-    { "voz": "alvaro", "texto": "¿Y en todos esos años nadie notó nada raro?" },
-    { "voz": "ximena", "texto": "Hubo compañeros que se dieron cuenta de que las muertes aumentaban cuando él estaba de turno. Pero aquellas sospechas no llegaron a convertirse en una investigación. Harvey envenenó a pacientes con arsénico, cianuro y otros métodos que no vamos a detallar." },
-    { "voz": "ximena", "texto": "Tras la autopsia de marzo de 1987, la policía interrogó al personal que había atendido a aquel paciente. Harvey estaba en la lista. En su casa encontraron venenos y un diario. Fue detenido y, al principio, solo admitió esa muerte, que presentó como un acto de compasión." },
-    { "voz": "alvaro", "texto": "Un acto de compasión... Esa fue su versión. Pero no tardó en derrumbarse." },
-    { "voz": "ximena", "texto": "Un periodista de televisión de Cincinnati, Pat Minarcin, empezó a investigar por su cuenta. Habló con enfermeras del Drake Memorial que llevaban tiempo sospechando. Su reportaje, emitido unos meses después de la detención, apuntaba a que las víctimas podían ser muchas más." },
-    { "voz": "ximena", "texto": "La presión pública obligó a ampliar la investigación. Y Harvey, ante la posibilidad de una condena a muerte, negoció con la fiscalía: confesaría todos sus crímenes a cambio de evitar la silla eléctrica." },
-    { "voz": "ximena", "texto": "En agosto de 1987 se declaró culpable de veinticuatro asesinatos en Ohio. Después llegaron más confesiones y más condenas, también en Kentucky. Fue condenado por treinta y siete muertes, y se le atribuyen hasta cincuenta y siete. Él mismo llegó a dar cifras aún mayores." },
-    { "voz": "alvaro", "texto": "Varias cadenas perpetuas, entonces. Pero la historia tuvo un final inesperado." },
-    { "voz": "ximena", "texto": "Sí. En marzo de 2017, cuando tenía sesenta y cuatro años, fue agredido por otro preso en su celda, en una prisión de Toledo, en Ohio, donde cumplía sus condenas. Murió dos días después." },
-    { "voz": "ximena", "texto": "A Harvey se le conoce como el otro ángel de la muerte, un apodo que lo sitúa junto a otros sanitarios que mataron a sus pacientes. Pertenece a un patrón que este archivo agrupa con ese nombre: profesionales que matan precisamente a quienes deberían cuidar." },
-    { "voz": "alvaro", "texto": "¿Y qué cambió en los hospitales después de algo así?" },
-    { "voz": "ximena", "texto": "Mucho, aunque despacio. Casos como este empujaron a controlar mejor el acceso a fármacos y sustancias peligrosas, a revisar las muertes inesperadas y a vigilar patrones estadísticos: qué empleado está presente cuando se repiten los fallecimientos. Hoy, muchos programas de seguridad del paciente incluyen sistemas para detectar ese tipo de anomalías." },
-    { "voz": "ximena", "texto": "Y recordaron algo esencial: una autopsia bien hecha puede ser la única voz que le queda a una víctima. Sin la atención de aquel patólogo, quizá nadie habría preguntado nunca por qué morían tantos pacientes en los turnos de un mismo auxiliar." },
-    { "voz": "ximena", "texto": "Pero la lección más dura tiene que ver con la escucha. Las sospechas existían; lo que faltó fue alguien que las tomara en serio a tiempo. Hoy recordamos a los pacientes que confiaron en el hospital, y a sus familias, que tardaron años en conocer la verdad." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Donald Harvey. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un olor a almendras amargas",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Donald Harvey, el auxiliar del hospital Drake Memorial. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un olor a almendras amargas." },
+        { "voz": "ximena", "texto": "Cincinnati, Ohio, marzo de 1987. En la sala de autopsias, un patólogo examina a un paciente que acaba de morir en el hospital Drake Memorial. Al abrir el cuerpo percibe un olor tenue, como de almendras amargas. Es un olor que los forenses asocian al cianuro." },
+        { "voz": "ximena", "texto": "El paciente se llamaba John Powell. Tenía cuarenta y cuatro años y llevaba ocho meses en coma tras un accidente de moto. Su muerte no habría extrañado a nadie. Pero los análisis lo confirman: ha recibido una dosis mortal de cianuro poco antes de morir." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Me detengo en lo que no pasó. Nadie había pedido investigar esa muerte. Un paciente en coma durante meses, en un hospital de enfermos crónicos. Si el patólogo no hubiera reparado en aquel olor, el certificado habría dicho causas naturales, como tantos otros." },
+        { "voz": "ximena", "texto": "La policía repasa quién tuvo acceso a la habitación. En la lista aparece un auxiliar de enfermería de treinta y cinco años, elogiado por sus supervisores por lo atento que era con los pacientes. Se llama Donald Harvey." },
+        { "voz": "ximena", "texto": "Harvey confiesa haber matado a John Powell. Lo presenta como un acto de compasión. Se declara inocente por enajenación mental. Pero los psicólogos que nombra el tribunal no encuentran indicios sólidos de enfermedad mental." },
+        { "voz": "alvaro", "texto": "Un caso grave, pero en apariencia cerrado: una víctima, un culpable que confiesa. Lo que me inquieta es que en el hospital había gente que no se sorprendió. Algunas trabajadoras llevaban tiempo contando muertes. Demasiadas, en las plantas donde estaba él." },
+        { "voz": "ximena", "texto": "Las escuchó un periodista. Pat Minarcin, presentador del canal de televisión WCPO de Cincinnati, recibió avisos anónimos. Preguntó en antena si Harvey podía estar detrás de otras muertes del hospital. Y empezaron a llamar enfermeras y trabajadores del Drake." },
+        { "voz": "ximena", "texto": "Varias enfermeras contaron a la cadena que habían presentado quejas sobre Harvey, y que sus superiores les dijeron que no hablaran. El jefe de policía de entonces aseguró que su departamento no tenía constancia de esas sospechas." },
+        { "voz": "ximena", "texto": "El reportaje se emitió en junio de 1987 y abrió una investigación ante un gran jurado. El forense del condado de Hamilton ordenó exhumar diez cuerpos, y en varios aparecieron restos de arsénico." },
+        { "voz": "alvaro", "texto": "Aquí está la clave del caso, y no es una huella. Es un calendario. Los investigadores cruzaron los turnos de Harvey con las muertes sospechosas. Coincidían. El patrón estaba en los registros del propio hospital, y nadie lo había mirado." },
+        { "voz": "ximena", "texto": "Entonces se reconstruyó su vida. Donald Harvey nació en Ohio el 15 de abril de 1952 y creció en una zona rural de Kentucky. Con dieciocho años entró como celador en el hospital Marymount, en el pueblo de London, en Kentucky." },
+        { "voz": "ximena", "texto": "Según su propia confesión, allí empezó a matar, en mayo de 1970. Su primera víctima, dijo, fue un paciente de ochenta y ocho años. Tenía acceso a enfermos frágiles, en un lugar donde una muerte más rara vez levantaba sospechas." },
+        { "voz": "ximena", "texto": "De 1975 a 1985 trabajó en el hospital de veteranos de Cincinnati. En 1985, el personal de seguridad le registró la bolsa y encontró, entre otras cosas, un revólver cargado y material del hospital. No hubo sanción. Harvey dejó el puesto." },
+        { "voz": "alvaro", "texto": "Este es el error que más me pesa. Según publicó la revista Time en 1987, Harvey ya estaba bajo sospecha cuando se marchó. Pero el Drake Memorial, que lo contrató en 1986, no fue informado: las leyes federales de privacidad lo impedían. Un hospital lo dejó ir, y otro lo recibió sin saber nada." },
+        { "voz": "ximena", "texto": "En su nuevo trabajo volvió a estar en contacto directo con pacientes mayores y muy enfermos. Y las muertes volvieron a repetirse en sus turnos. Hasta aquel olor en la sala de autopsias." },
+        { "voz": "alvaro", "texto": "Con las exhumaciones, la fiscalía tenía ya mucho más que una muerte. Y Harvey se arriesgaba a la pena de muerte. Su abogado buscó un trato." },
+        { "voz": "ximena", "texto": "La propuesta era sencilla y terrible: Harvey lo contaría todo a cambio de librarse de la silla eléctrica. Lo que dijo en aquella confesión iba a superar todo lo que la ciudad imaginaba." }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un juzgado de London, Kentucky",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Un juzgado de London, Kentucky." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Donald Harvey, el auxiliar de enfermería que, entre 1970 y 1987, envenenó a pacientes en hospitales de Kentucky y Ohio. Lo descubrió, en marzo de 1987, la autopsia de un paciente del Drake Memorial de Cincinnati." },
+        { "voz": "ximena", "texto": "Agosto de 1987. Tribunal del condado de Hamilton, en Cincinnati. Gracias al acuerdo con la fiscalía, Harvey se declara culpable de veinticuatro asesinatos con agravantes, de varios intentos de asesinato y de una agresión grave. Es condenado a tres cadenas perpetuas consecutivas." },
+        { "voz": "ximena", "texto": "Veintiuna de esas víctimas eran pacientes del Drake. Las demás eran personas de su entorno. Entre ellas, el padre de su compañero sentimental. A ese compañero, con el que vivía desde hacía seis años, también le dio arsénico. Sobrevivió." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Repaso el móvil, porque él tenía su versión: muertes por compasión, para acabar con el sufrimiento de los enfermos. El fiscal del condado, Arthur Ney, la rechazó de plano. Según sus palabras, recogidas por la agencia Associated Press, Harvey «mataba porque le gustaba matar»." },
+        { "voz": "alvaro", "texto": "Y los hechos le dan la razón al fiscal. No hay compasión en envenenar durante meses a la persona con la que vives. Él mismo contó a un periódico que le gustaba decidir quién vivía y quién moría." },
+        { "voz": "ximena", "texto": "Faltaba Kentucky. El 2 de noviembre de 1987, en un juzgado de London, el pueblo donde todo empezó, Harvey se declaró culpable de ocho asesinatos y de un homicidio cometidos en el hospital Marymount. Lo condenaron a cadena perpetua más veinte años." },
+        { "voz": "ximena", "texto": "Con aquellas confesiones, las condenas llegaron a treinta y siete muertes, casi todas de pacientes mayores o con enfermedades crónicas. Es una de las cifras más altas de la historia criminal de Estados Unidos." },
+        { "voz": "alvaro", "texto": "Anoto lo que la sentencia no resolvió: la cifra real. Harvey habló después de otras muertes en el hospital de veteranos, que no llegaron a juicio. Según la fuente, llegó a atribuirse cincuenta, setenta o más de ochenta. Nunca se sabrá cuántas fueron. Y él no era un testigo fiable de nada." },
+        { "voz": "ximena", "texto": "Los compañeros del hospital contaron después algo difícil de escuchar. En los turnos se bromeaba sobre cuántos pacientes morían cuando trabajaba Harvey. Y él bromeaba con ellos. Como sus víctimas eran mayores o estaban muy enfermas, sus muertes apenas extrañaban." },
+        { "voz": "ximena", "texto": "Las familias de las víctimas de Cincinnati presentaron al menos dieciocho demandas civiles, por más de dos millones de dólares. Muchas tardaron años en saber que la muerte de su padre o de su madre no había sido natural." },
+        { "voz": "ximena", "texto": "Harvey pasó treinta años en prisiones de Ohio. El 28 de marzo de 2017 lo encontraron malherido en su celda de la cárcel de Toledo, en Ohio. Otro preso lo había golpeado. Murió dos días después, a los sesenta y cuatro años." },
+        { "voz": "ximena", "texto": "En 2019, un compañero de prisión fue acusado de matarlo. Para algunas familias, aquella muerte no cerró nada: la verdad completa que esperaban de él se fue con él." },
+        { "voz": "alvaro", "texto": "Me quedo con la lección del expediente, que no es médica, sino de escucha. Las sospechas estaban ahí: las enfermeras las contaron, los turnos las mostraban. Faltó que alguien con autoridad las tomara en serio. Al final lo hicieron un patólogo atento, un periodista y unas trabajadoras que se negaron a callar." },
+        { "voz": "ximena", "texto": "La prensa lo llamó el Ángel de la Muerte, como a otros sanitarios que mataron a quienes debían cuidar. Pero este expediente no le pertenece. Pertenece a los pacientes que entraron en un hospital para ser atendidos y que confiaron en quien les llevaba la comida o les cambiaba las sábanas." },
+        { "voz": "ximena", "texto": "Hombres y mujeres mayores, enfermos crónicos y un hombre en coma tras un accidente de moto, John Powell, cuya autopsia acabó dando voz a todos los demás." },
+        { "voz": "ximena", "texto": "En 2025 se anunció el cierre del antiguo hospital Drake de Cincinnati. Los edificios cambian. Las familias que esperaron años la verdad siguen recordando a los suyos." },
+        { "voz": "ximena", "texto": "Fin del expediente de Donald Harvey. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/harvey.json. DISCREPANCIAS: 1) Ficha, víctimas «37 a 57»: el 37 está en AP/CBS, NPR, WVXU y Wikipedia (WCPO dice 36 condenas). El 57 no aparece en ninguna fuente consultada: AP/CBS dice que después se atribuyó 18 más en el hospital de veteranos (37 + 18 = 55); NPR, hasta 50; WVXU, hasta 70; WCPO, más de 80; Wikipedia, 87. El guion v2 decía «se le atribuyen hasta cincuenta y siete»; el nuevo dice que llegó a atribuirse «cincuenta, setenta o más de ochenta» y que la cifra real nunca se sabrá. Conviene revisar el 57 de la ficha. 2) Alias: la ficha dice «El otro Ángel de la Muerte»; las fuentes lo llaman «Angel of Death»; el guion dice que la prensa lo llamó el Ángel de la Muerte. 3) Del guion v2 se ha quitado que «en su casa encontraron venenos y un diario» (no hallado en las fuentes; WVXU solo recoge que él dijo guardar una lista de víctimas tras el espejo del baño). 4) Intentos de asesinato en la declaración de agosto de 1987: cuatro (UPI, con la lista) o dos (WCPO); el guion dice «varios». 5) Salida del hospital de veteranos en 1985: Time habla del robo de muestras de tejido; Oxygen (citando a UPI), de un revólver cargado, material del hospital y libros de ocultismo en su bolsa; Wikipedia, de que lo obligaron a dimitir tras robar restos humanos. El guion cuenta solo el registro de la bolsa (revólver y material) y que dejó el puesto sin sanción. 6) No se nombra al patólogo (en ninguna de las fuentes consultadas aparece su nombre). Datos de una sola fuente, atribuidos o prudentes: que el Drake no fue informado por las leyes federales de privacidad (Time, 24/8/1987, atribuido en el guion); diez exhumaciones con restos de arsénico (Time); dieciocho demandas civiles por más de dos millones (WCPO); cierre del antiguo Drake anunciado en 2025 (WVXU). La cita del fiscal Arthur Ney («He killed because he liked to kill») está en AP/CBS y NPR. RESPETO: no se detallan los métodos; solo se nombra a John Powell (adulto, nombre público desde 1987)."
 }

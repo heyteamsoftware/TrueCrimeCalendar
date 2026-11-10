@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "Wikipedia (en inglés): «Peter Sutcliffe», con sus referencias a la BBC y The Guardian",
+    "url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
+    "tipo": "enciclopedia"
+  },
+  {
+    "titulo": "BBC News: «Yorkshire Ripper Peter Sutcliffe dies» (13 de noviembre de 2020)",
+    "url": "https://www.bbc.co.uk/news/uk-england-54874713",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Guardian: «Peter Sutcliffe obituary» (Duncan Campbell, 13 de noviembre de 2020)",
+    "url": "https://www.theguardian.com/uk-news/2020/nov/13/peter-sutcliffe-obituary",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Guardian: «'It was toxic': How sexism threw police off the trail of the Yorkshire Ripper» (Pidd y Topping, 13 de noviembre de 2020)",
+    "url": "https://www.theguardian.com/uk-news/2020/nov/13/it-was-toxic-how-sexism-threw-police-off-the-trail-of-the-yorkshire-ripper",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC On This Day: «1981: Yorkshire Ripper jailed for life» (22 de mayo de 1981)",
+    "url": "https://news.bbc.co.uk/onthisday/hi/dates/stories/may/22/newsid_2504000/2504409.stm",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "BBC News: «Yorkshire Ripper hoaxer Wearside Jack dies» (20 de agosto de 2019)",
+    "url": "https://www.bbc.co.uk/news/uk-england-tyne-49406231",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "The Independent: «Wearside Jack: I deserve to go to jail for 'evil' Ripper hoax» (21 de marzo de 2006)",
+    "url": "https://www.independent.co.uk/news/uk/crime/wearside-jack-i-deserve-to-go-to-jail-for-evil-ripper-hoax-6106028.html",
+    "tipo": "hemeroteca"
+  },
+  {
+    "titulo": "Sir Lawrence Byford: «Report into the Police Handling of the Yorkshire Ripper Case» (Ministerio del Interior, 1981-1982; publicado en 2006)",
+    "url": "https://www.gov.uk/government/publications/sir-lawrence-byford-report-into-the-police-handling-of-the-yorkshire-ripper-case",
+    "tipo": "policial"
+  }
+]

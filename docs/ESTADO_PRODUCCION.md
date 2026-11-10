@@ -21,7 +21,7 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 03 | 23/23 ✓ | ✓ verificado (11 correcciones; 11/3 cambiado a Ravachol) | — |
 | 05 | 19/19 ✓ | ✓ verificado (2 correcciones) | — |
 | 02 | 23/23 ✓ | en marcha | — |
-| 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
+| 09 | 25/25 ✓ | ✓ verificado (22/9 Sara Jane Moore; 25/9 cambiado a Bandaranaike por Rucci con causa reactivada) | — |
 | 04 | 23/23 ✓ | ✓ verificado (8 correcciones) | — |
 | 07 | 26/26 ✓ | ✓ verificado (5 correcciones) | — |
 | 08 | 26/26 ✓ | ✓ verificado (13/8 cambiado a Macarthur) | — |
@@ -42,8 +42,8 @@ Hecho antes: `brady` (piloto).
 | marzo A | toole rader gaskins king | ✓ hecho (4/4) |
 | marzo B | ireland gacy kraft toppan | ✓ hecho (4/4) |
 | abril A | sobhraj jesperson christie pichushkin | ✓ hecho (4/4) |
-| abril B | landru harvey yoo black | lanzado |
-| mayo A | homolka beck bryant holmes | lanzado |
+| abril B | landru harvey yoo black | ✓ hecho (4/4) |
+| mayo A | homolka beck bryant holmes | ✓ homolka y beck; bryant y holmes en curso |
 | mayo B | bellfield fish murano dahmer | lanzado |
 | mayo C | bianchi chase escalero kurten | lanzado |
 | junio | berkowitz sutcliffe shawcross little pedrinho | lanzado |

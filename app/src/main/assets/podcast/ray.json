@@ -1,6 +1,6 @@
 {
   "id": "ray",
-  "titulo": "La mujer a la que nadie creyó",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "David Parker Ray": "Déivid Párker Réi",
@@ -8,117 +8,182 @@
     "Elephant Butte": "Élefant Biút",
     "Truth or Consequences": "Truz or Cónsekuenses",
     "Cynthia Vigil": "Síntia Bijíl",
+    "Vigil": "Bijíl",
     "Kelli Garrett": "Kéli Gárret",
     "Cindy Hendy": "Síndi Jéndi",
     "Hendy": "Jéndi",
-    "FBI": "efe be i",
-    "Albuquerque": "Albukérke"
+    "Dennis Yancy": "Dénis Yánsi",
+    "Jesse": "Yési",
+    "Belen": "Bélen",
+    "Lea County": "Li Cáunti",
+    "Hobbs": "Jobs",
+    "Albuquerque": "Albukérke",
+    "Nuevo México": "Nuévo Méjico",
+    "Associated Press": "Asóusieited Pres"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Elephant Butte, Nuevo México, 19 de marzo de 1999. Una joven llega corriendo, descalza y aterrorizada, a la puerta de una casa. Pide ayuda. Acaba de escapar de un lugar del que, según cuenta, no esperaba salir con vida."
+      "n": 1,
+      "titulo": "Un camino junto al embalse",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: David Parker Ray, el asesino de la caja de juguetes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un camino junto al embalse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nuevo México, 22 de marzo de 1999. Cerca del parque estatal de Elephant Butte, una joven corre por un camino sin asfaltar. Solo lleva un collar de metal cerrado con un candado. Se llama Cynthia Vigil y tiene veintidós años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuenta que la raptaron tres días antes en Albuquerque. Que una pareja la retuvo en una vivienda de esa zona y que acaba de escapar. Lo que dice a la policía va a abrir una investigación que durará años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Antes de seguir, una advertencia. El apodo de este expediente habla de un asesino, pero la justicia nunca condenó a David Parker Ray por asesinato. Lo que sí se probó basta para entender el caso. No hace falta añadir nada que no conste."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes siguen el rastro hasta una propiedad de Elephant Butte. Su dueño es David Parker Ray, de cincuenta y nueve años. Con él vive su pareja, Cindy Hendy. Los dos son detenidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ray había nacido el 6 de noviembre de 1939 en Belen, Nuevo México. Trabajaba en el mantenimiento del parque estatal, y vivía cerca de Truth or Consequences, un pueblo de aguas termales que había tomado su nombre de un concurso de radio en 1950."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para quienes lo conocían era un hombre discreto. Junto a su casa tenía un remolque insonorizado que él mismo llamaba la caja de juguetes. Allí retenía a mujeres, según se probó en los casos que llegaron a juicio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No voy a detallar lo que había dentro. Basta saber que estaba preparado para retener a personas contra su voluntad. Esa preparación llevó a los investigadores a pensar que Vigil no era la primera. Eso es una sospecha de los investigadores, y así la anoto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ray no actuaba solo. Cindy Hendy se declaró culpable de ser cómplice y acabó colaborando. Su hija, conocida como Jesse, fue acusada por su papel en un ataque de 1996. Y un amigo de la pareja, Dennis Yancy, fue acusado de algo más grave."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras las primeras noticias, otra mujer contactó con la policía y contó que la pareja la había agredido. Una conocida de Hendy dijo a los investigadores que Ray había hablado de enterrar a gente cerca de su casa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esa frase pesa más que ninguna otra. Pero es lo que dijo una conocida, según la crónica, no una prueba. Nunca se halló un cuerpo en aquella propiedad. Lo repito pronto porque este caso se presta a las leyendas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el remolque apareció una cinta de vídeo. Gracias a ella, los investigadores identificaron a otra mujer, Kelli Garrett, víctima de un ataque ocurrido en 1996. La localizaron, y ella pudo contar lo que había vivido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mientras tanto, el FBI envió a un centenar de agentes a registrar la propiedad y sus alrededores. Buscaron durante días. No encontraron restos humanos que se pudieran identificar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un centenar de agentes, una propiedad entera, y ninguna respuesta. Con un apodo así, la gente espera un cementerio. Lo que hay son preguntas. Y la cifra que se repite, hasta sesenta posibles víctimas, es una estimación de sospechosos, no un recuento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que la fiscalía podía probar eran los secuestros y las agresiones sufridas por mujeres que seguían vivas y que estaban dispuestas a declarar. Eso bastaba. Pero iba a costar mucho conseguirlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay dos mujeres que hicieron posible todo esto. Una escapó y pidió ayuda en el peor momento de su vida. La otra apareció en una cinta que, de otro modo, nadie habría sabido a quién pertenecía. Que no se olvide."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaban dos juicios, un acuerdo y un detenido que no iba a llegar a contar todo lo que sabía. En la cinta dos: una cinta de vídeo, un veredicto y un silencio."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Se llama Cynthia Vigil y tiene veintidós años. La habían raptado en Albuquerque tres días antes. Cuando llega la policía, ella señala un remolque cercano. Lo que hay dentro cambiará para siempre la historia de este pequeño lugar junto a un embalse."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Tres días retenida. ¿Y nadie la estaba buscando?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esa es una de las preguntas más duras de este caso. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de David Parker Ray, el asesino de la caja de juguetes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Antes de seguir, una advertencia importante. El apodo habla de un asesino, pero la justicia nunca lo condenó por asesinato. Nunca se encontraron restos que lo demostraran. Lo que sí se probó es más que suficiente para entender por qué este caso estremeció a Estados Unidos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ray nació en 1939 en Nuevo México. Cuando lo detuvieron tenía cincuenta y nueve años y trabajaba como mecánico en el parque estatal de Elephant Butte, muy cerca de la localidad de Truth or Consequences."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Truth or Consequences es un pueblo pequeño, que tomó su curioso nombre de un concurso de radio en 1950. Un lugar tranquilo, conocido por sus aguas termales y por los turistas que acuden al embalse."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para sus vecinos era un hombre conocido y discreto. Pero junto a su casa tenía un remolque insonorizado que él mismo había preparado durante años para retener a mujeres. Él lo llamaba su caja de juguetes."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y no actuaba solo, ¿verdad?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "No. Aquel mismo día fue detenida también su pareja, Cindy Hendy, que acabó colaborando con la investigación. Más tarde se acusó a otras personas de su entorno, entre ellas a su propia hija."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con el testimonio de Hendy y el material hallado en la propiedad, los investigadores empezaron a reconstruir años de agresiones. Las grabaciones y los escritos del propio Ray sugerían que había muchas más víctimas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y entonces apareció un nombre que alguien en la zona ya había escuchado antes: Kelli Garrett."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Quién era Kelli Garrett?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Una mujer de la zona que, en 1996, había contado que la habían secuestrado y retenido durante dos días. La dejaron después junto a una carretera, sin apenas recuerdos de lo ocurrido, porque la habían drogado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Casi nadie la creyó, ni siquiera su entorno más cercano. Su vida se desmoronó. Hasta que, en 1999, apareció entre las pruebas una cinta de vídeo que confirmaba su relato. Llevaba tres años diciendo la verdad."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Tres años sin que nadie la creyera. Eso también es una forma de daño."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El FBI se sumó a la investigación. Se buscó en el desierto, en el embalse y en los alrededores. Se revisaron decenas de desapariciones de la región. Pero nunca se encontraron restos que permitieran acusarle de asesinato."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Un cómplice llegó a declararse culpable de la muerte de una joven en 1995, y señaló que Ray había participado. Pero el cuerpo nunca apareció, y Ray no fue juzgado por ese caso."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2001 fue condenado por los secuestros y agresiones a Cynthia Vigil y a otras mujeres, entre ellas Kelli Garrett. La pena total sumó doscientos veinticuatro años de prisión."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Murió de un infarto en 2002, en prisión, poco antes de un interrogatorio en el que los investigadores esperaban que hablara de otras posibles víctimas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Así que muchas preguntas se fueron con él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muchas. Por eso la cifra sigue abierta. Se ha hablado de decenas de posibles víctimas, incluso de más de sesenta, pero son sospechas. Ningún tribunal ha confirmado una sola muerte a manos de David Parker Ray."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso dejó una enseñanza clara. Dos mujeres fueron fundamentales para que se hiciera justicia. Una escapó y pidió ayuda en el peor momento de su vida. La otra mantuvo su versión cuando casi nadie la creía. Por eso este caso recuerda la importancia de escuchar a las víctimas desde el primer momento, aunque su relato parezca increíble."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Con el tiempo, Cynthia Vigil ha hablado públicamente de lo que vivió, y su testimonio se ha convertido en un símbolo de supervivencia. Kelli Garrett, por su parte, recuperó al fin algo que le habían arrebatado durante años: la credibilidad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Y queda una pregunta que todavía hoy sigue sin respuesta: cuántas mujeres desaparecidas en aquella región tuvieron que ver con ese remolque. Sus familias siguen esperando."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de David Parker Ray. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una cinta de vídeo",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una cinta de vídeo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de David Parker Ray. Había tres mujeres vivas que podían declarar y varios juicios por delante."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aclaro algo. No eran juicios por asesinato. Eran por secuestro y agresión. Y de las tres mujeres, según una crónica de la agencia Associated Press, una murió de neumonía el año antes de la sentencia, y su caso se retiró con el acuerdo final."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Conviene recordar qué se juzgó en cada caso. En el de 1996, los cargos eran secuestro y tortura. En el de 1999, secuestro, violación y conspiración para secuestrar. Según la acusación, todo ocurrió en la misma propiedad de Elephant Butte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El primer juicio fue el del caso de Kelli Garrett, el ataque de 1996. Terminó sin veredicto. En la repetición, en abril de 2001, un jurado declaró a Ray culpable de secuestro y tortura."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En julio, ya iniciado el juicio por el caso de Cynthia Vigil, Ray se declaró culpable de los cargos de 1999. Dijo que lo hacía en parte para que su hija no cumpliera una pena mayor por haber sido su cómplice."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un acuerdo así cierra el caso en los tribunales. Pero también cierra la boca de quien más podía contar. Es una de las razones por las que todavía hoy hay preguntas sin respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 20 de septiembre de 2001, un juez de Truth or Consequences lo condenó a más de doscientos veintitrés años de prisión. La mayoría de las fuentes dan la cifra de doscientos veinticuatro. En la práctica, era una cadena perpetua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una pena de más de doscientos años no se pensó para cumplirse. Es una manera de decir que no iba a salir nunca. Ray murió poco más de tres años después de su detención, y sin haber empezado a vivir esa condena de verdad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su hija aceptó un acuerdo y recibió una pena que ya había cumplido, más cinco años de libertad vigilada. Cindy Hendy colaboró con la fiscalía. Y Dennis Yancy se había declarado culpable en 1999 de la muerte de una joven en 1997. Según él, Ray le ordenó cometerla."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es lo más cercano a un asesinato que llegó a un tribunal. Un cómplice reconoce una muerte y señala a Ray. Pero Ray no fue juzgado por ese caso. Lo digo con precisión: señalado por un cómplice, no condenado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ray no cumplió su condena. Murió de un infarto el 28 de mayo de 2002, en la prisión de Lea County, en Hobbs, Nuevo México, poco antes de un interrogatorio previsto con la policía. Tenía sesenta y dos años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Muchas respuestas se fueron con él. Las autoridades revisaron otras desapariciones de la región. Pero las cifras que circulan, decenas de víctimas, siguen siendo sospechas que ningún tribunal confirmó. Y cada nombre añadido sin prueba hiere a una familia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aquel proceso no fue fácil para las mujeres que declararon. Tuvieron que contar ante un tribunal, y ante la prensa, lo ocurrido en el peor momento de su vida. El caso se sostuvo porque ellas decidieron hablar, y por una investigación que supo tomarlas en serio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2011, el FBI publicó fotografías de objetos recogidos durante la investigación, por si algún familiar reconocía algo que hubiera pertenecido a una desaparecida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cynthia Vigil, que escapó aquel día de marzo, ha hablado en público de lo que vivió. Su testimonio, y el de las otras mujeres, fue lo que permitió que el caso llegara a los tribunales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La lección es sencilla y dura. Cuando una mujer llega a una puerta y pide ayuda, hay que escucharla desde el primer momento, aunque lo que cuente parezca imposible. Todo lo demás de este expediente dependió de eso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan las supervivientes, que tuvieron que reconstruirse. Y las familias de mujeres desaparecidas en la región que siguen esperando respuestas que quizá nunca lleguen."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente David Parker Ray. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha da 0 víctimas confirmadas. Un cómplice (Dennis Roy Yancy) se declaró culpable en 2001 del asesinato de Jill Marie Parker (1995) y dijo que Ray participó, pero Ray nunca fue juzgado por ello. El guion lo menciona con prudencia, sin nombres y sin contradecir la ficha."
+  "nota_revision": "Fuentes: Wikipedia en inglés, History.com (22/3), The Battalion/Associated Press (20/9/2001) y prensa. DISCREPANCIAS CON EL V2: (1) Fecha de la huida de Vigil: el v2 decía 19 de marzo de 1999 (había confundido el día del secuestro); Wikipedia y History.com dicen 22 de marzo, tras tres días de cautiverio. (2) El v2 decía que Hendy fue detenida el mismo día y que «se acusó a otras personas»: se mantiene que fue detenida; el momento exacto no consta. (3) El v2 decía que Kelli Garrett había denunciado en 1996 y que no la creyó nadie, y que un vídeo de 1999 confirmó su relato: no he encontrado fuente; Wikipedia y la AP dicen solo que fue identificada gracias a una cinta de vídeo hallada en el remolque (el guion lo dice así). (4) El v2 decía que un cómplice se declaró culpable de la muerte de una joven en 1995; Wikipedia la sitúa en 1997 (desaparición de un bar de Elephant Butte, History.com) y 1995 es la desaparición de otra mujer, Jill Troia. (5) El v2 decía que Ray fue condenado en 2001 por los secuestros de Vigil y Garrett: matiz: jurado de abril de 2001 por el caso de 1996 (Garrett); declaración de culpabilidad en julio por los cargos de 1999 (Vigil); sentencia el 20 de septiembre de 2001. (6) Pena: AP dice «más de 223 años»; Wikipedia, la ficha y otras fuentes dicen 224; History.com dice «200 años». El guion da las dos primeras cifras. (7) Muerte: Wikipedia y otras dicen que ocurrió antes de un interrogatorio; History.com dice que iba camino de empezar a cumplir condena. Se usa la versión de Wikipedia. (8) Hendy: Wikipedia da 36 años (2000) y salida en libertad el 15/7/2019; no verificado en segunda fuente, no se cita. La ficha dice «0 confirmadas (sospecha de 60+)»: coincide. La cifra de 60 es de Wikipedia y de prensa; se dice solo como sospecha. Respeto: no se describen el contenido del remolque ni los métodos; se omiten la grabación que Ray reproducía a sus víctimas y los detalles de las agresiones; no se nombra a la joven del caso de Yancy (Sylvia Marie Parker según Wikipedia); no se nombra al tercer caso. Vigil y Garrett son nombres públicos."
 }

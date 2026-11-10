@@ -1,46 +1,206 @@
 {
   "id": "bianchi",
-  "titulo": "Dos primos y una placa falsa",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
-    "Bellingham": "Bélingam",
-    "Washington": "Uáshington",
     "Kenneth Bianchi": "Kénez Biánki",
+    "Ken Bianchi": "Ken Biánki",
     "Bianchi": "Biánki",
     "Angelo Buono": "Ányelo Buóno",
     "Buono": "Buóno",
+    "Bellingham": "Bélingam",
+    "Washington": "Uáshington",
+    "Karen Mandic": "Káren Mándik",
+    "Karen": "Káren",
+    "Diane Wilder": "Daián Uáilder",
+    "Diane": "Daián",
+    "Bayside Road": "Béisaid Róud",
+    "Kelli Boyd": "Kéli Boid",
     "Rochester": "Róchester",
     "Glendale": "Gléndeil",
-    "Karen Mandic": "Káren Mándik",
-    "Diane Wilder": "Daián Uáilder",
+    "Steve Walker": "Stiv Uóker",
     "Steve": "Stiv",
+    "Billy": "Bíli",
     "Martin Orne": "Mártin Orn",
-    "Ronald George": "Rónald Yorch"
+    "Orne": "Orn",
+    "Veronica Compton": "Verónica Cómpton",
+    "Compton": "Cómpton",
+    "Ronald George": "Rónald Yorch",
+    "George": "Yorch",
+    "Walla Walla": "Uála Uála",
+    "Anthony D'Amato": "Ánzoni Damáto"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Bellingham, estado de Washington, enero de 1979. Dos estudiantes universitarias aceptan un encargo sencillo y bien pagado: vigilar una casa vacía durante un par de horas. No vuelven. Al día siguiente las encuentran sin vida en el coche de una de ellas." },
-    { "voz": "ximena", "texto": "Antes de salir, una de las jóvenes había contado quién le había ofrecido aquel trabajo: un guardia de seguridad llamado Ken. Era un hombre de veintisiete años, con pareja y un hijo pequeño, que parecía de lo más corriente. La policía no tardó en llamar a su puerta." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Kenneth Bianchi, uno de los dos estranguladores de la colina. Porque esta historia, en realidad, tiene dos protagonistas." },
-    { "voz": "alvaro", "texto": "¿Dos? ¿Y quién era el otro?" },
-    { "voz": "ximena", "texto": "Su primo, Angelo Buono. Bianchi nació en Rochester, en el estado de Nueva York, en 1951, y fue adoptado siendo un bebé. A mediados de los setenta se mudó a Los Ángeles y se instaló cerca de Buono, un tapicero de coches de Glendale diecisiete años mayor que él." },
-    { "voz": "ximena", "texto": "Entre octubre de 1977 y febrero de 1978, los dos primos secuestraron y asesinaron a diez mujeres y chicas en la zona de Los Ángeles. La más joven tenía doce años. Abandonaban los cuerpos en las laderas de las colinas, y la prensa habló del «estrangulador de la colina»." },
-    { "voz": "alvaro", "texto": "En singular. Nadie sabía que eran dos." },
-    { "voz": "ximena", "texto": "Así es. Y su método tenía algo especialmente perverso: se hacían pasar por policías. Con placas falsas, convencían a las víctimas de que subieran a su coche. Bianchi, de hecho, había intentado entrar en la policía sin conseguirlo. En una ciudad acostumbrada a confiar en el uniforme, aquello sembró un miedo nuevo." },
-    { "voz": "ximena", "texto": "Las pistas eran escasas: descripciones vagas de testigos y algunas fibras halladas en los cuerpos. Años después, esas fibras ayudarían a relacionar los crímenes con el taller de tapicería de Buono. Pero entonces nadie sabía a quién buscar." },
-    { "voz": "ximena", "texto": "La investigación movilizó a cientos de agentes, con una presión mediática enorme. Pero, de pronto, los crímenes se detuvieron. Bianchi se había mudado a Bellingham, cerca de la frontera con Canadá, para reunirse con su pareja y con el hijo que acababan de tener." },
-    { "voz": "ximena", "texto": "Allí, en enero de 1979, mató a Karen Mandic y a Diane Wilder. Esta vez, sin su primo, dejó un rastro evidente. Y su pasado reciente en Los Ángeles llamó enseguida la atención. Los investigadores californianos empezaron a mirar hacia aquel guardia de seguridad recién llegado del sur." },
-    { "voz": "alvaro", "texto": "Y entonces aparece lo de las personalidades múltiples." },
-    { "voz": "ximena", "texto": "Exacto. Bajo hipnosis, Bianchi hizo aparecer a un supuesto alter ego, «Steve», que cargaba con la culpa. Durante un tiempo, algunos especialistas le creyeron. Pero el psiquiatra Martin Orne, experto en hipnosis, sospechó que estaba fingiendo." },
-    { "voz": "ximena", "texto": "Orne le dejó caer que los casos auténticos rara vez tienen solo dos personalidades. Poco después, como por arte de magia, apareció una tercera. La farsa quedó al descubierto." },
-    { "voz": "alvaro", "texto": "Un truco muy sencillo… y cayó de lleno en él." },
-    { "voz": "ximena", "texto": "Bianchi cambió entonces de estrategia. Se declaró culpable de los dos asesinatos de Bellingham y de cinco de Los Ángeles, y aceptó declarar contra su primo a cambio de evitar la pena de muerte." },
-    { "voz": "alvaro", "texto": "¿Y fue un buen testigo contra Buono?" },
-    { "voz": "ximena", "texto": "Pésimo. Se contradecía y cambiaba de versión. La fiscalía de Los Ángeles llegó a pedir que se retiraran los cargos contra Buono, pero el juez Ronald George se negó, y el caso pasó a manos de la fiscalía general del estado." },
-    { "voz": "ximena", "texto": "El juicio de Buono se prolongó de 1981 a 1983 y fue uno de los más largos de la historia de Estados Unidos. Terminó con su condena por nueve asesinatos y cadena perpetua. Murió en prisión en 2002." },
-    { "voz": "ximena", "texto": "Bianchi, por su parte, cumple cadena perpetua en una prisión del estado de Washington. Le han denegado la libertad condicional en varias ocasiones." },
-    { "voz": "ximena", "texto": "El caso dejó huella en la psiquiatría forense, que todavía lo estudia como ejemplo de simulación de un trastorno mental. Y recordó algo muy incómodo: que la confianza en la autoridad también puede convertirse en un arma." },
-    { "voz": "ximena", "texto": "Una nota para nuestro archivo: Angelo Buono tiene su propio expediente, y los dos se entienden mejor juntos. Primos, cómplices y, durante meses, un solo nombre en los periódicos." },
-    { "voz": "ximena", "texto": "Hoy recordamos a las diez víctimas de Los Ángeles, y a Karen Mandic y Diane Wilder. Hasta aquí el expediente de Kenneth Bianchi. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La casa de Bayside Road",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Kenneth Bianchi, uno de los estranguladores de la colina. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La casa de Bayside Road."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bellingham, estado de Washington, cerca de la frontera con Canadá. Jueves, 11 de enero de 1979. Hacia las siete de la tarde, Karen Mandic, universitaria de veintidós años, sale de la tienda donde trabaja. Ha prometido volver hacia las nueve. No vuelve."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Karen había contado un secreto a algunos amigos. Le habían ofrecido cien dólares por vigilar dos horas una casa vacía de Bayside Road mientras reparaban la alarma. Iría con su compañera de piso, Diane Wilder, estudiante de danza de veintisiete años. El encargo venía de un guardia de seguridad: Ken Bianchi."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto el secreto: un trabajo bien pagado que había que callar. Karen no lo calló del todo, y eso lo cambió todo. Después, en su coche, apareció un papel con la dirección de la casa, la hora y un nombre: Ken."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche, sus amigos la buscan sin éxito y avisan a la policía. Localizado por teléfono, Bianchi dice que estaba en una reunión de la reserva del sheriff y que no conoce a Karen. Pero se había excusado para no ir."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "De madrugada cambia de versión: dice que estuvo conduciendo solo por el condado. Dos coartadas en unas horas. Todavía no hay cuerpos, pero una coartada que cambia tan deprisa ya es una pista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente, una vecina ve el coche verde de Karen al final de un callejón sin salida, en una zona de bosque. Dentro están las dos jóvenes, sin vida. Esa tarde detienen a Bianchi en una caseta de vigilancia del puerto. Cerca de su camioneta aparece escondido el abrigo de Diane."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kenneth Bianchi tenía veintisiete años. Vivía con su pareja, Kelli Boyd, y con el hijo de ambos, de pocos meses. Hacía cursos de policía y quería ser ayudante voluntario del sheriff."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí está el detalle decisivo. El detenido aún tenía un carné de conducir de California. Un detective de Bellingham pidió sus antecedentes al sheriff de Los Ángeles, y la llamada fue a parar, por casualidad, a un sargento del equipo que buscaba al estrangulador de la colina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al sargento, la dirección del carné le resultó familiar: estaba relacionada con dos de sus víctimas. Al día siguiente, dos investigadores de Los Ángeles aterrizaban en Bellingham."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era aquel guardia? Kenneth Bianchi nació en Rochester, en el estado de Nueva York, el 22 de mayo de 1951. Su madre, una chica de diecisiete años, lo dio en adopción, y ese verano lo adoptó un matrimonio de origen italiano. Fue su único hijo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quería ser policía, pero el sheriff de su condado lo rechazó. Trabajó como guardia de seguridad y robaba a quienes lo contrataban. En 1976 se mudó a Los Ángeles, con su primo Angelo Buono, un tapicero de coches de Glendale dieciséis años mayor. Allí, las policías de Los Ángeles y de Glendale tampoco lo admitieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre octubre de 1977 y febrero de 1978, los dos primos mataron a diez mujeres y chicas de entre doce y veintiocho años. A menudo se hacían pasar por policías, con placas falsas, para que subieran a su coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La prensa hablaba del estrangulador de la colina, en singular, porque los cuerpos aparecían en laderas junto a las carreteras. Nadie sabía que eran dos. Más de un centenar de agentes buscaron durante meses. Y en febrero de 1978 los crímenes se detuvieron de golpe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La explicación era sencilla: Kelli Boyd había vuelto a Bellingham con el bebé, y en mayo Bianchi se fue tras ella. En su casa, los detectives encontraron joyas robadas. Al menos dos piezas coincidían con las de víctimas de Los Ángeles."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En Bellingham, las pruebas eran sólidas: fibras de la alfombra de la casa en la ropa de las jóvenes y en la de él, y un testigo que vio una camioneta de la agencia por la zona. Lo acusaron de dos asesinatos. En Washington, eso podía costarle la pena de muerte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 1979 cambió de estrategia: dijo que no recordaba nada de aquella noche, y su abogado alegó enajenación mental. Según la defensa, dentro de Kenneth Bianchi vivía alguien más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bajo hipnosis, ante los especialistas, empezó a hablar otra voz. Dijo llamarse Steve. Y Steve sí recordaba. Recordaba Bellingham… y recordaba Los Ángeles."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "La tercera voz",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. La tercera voz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Kenneth Bianchi, detenido en Bellingham en enero de 1979 por la muerte de dos universitarias, Karen Mandic y Diane Wilder. Lo dejamos alegando que los crímenes los había cometido otra personalidad: Steve Walker."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Steve surgió en sesiones de hipnosis. Confesó los crímenes de los dos estados y señaló al primo de Bianchi, Angelo Buono."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez encargó la evaluación a varios expertos. Algunos creyeron que el trastorno era real. Otro, el psiquiatra Martin Orne, gran especialista en hipnosis, sospechaba que Bianchi fingía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Orne hizo dos pruebas. En la primera, con Bianchi en apariencia hipnotizado, le dijo que su abogado estaba en la sala. No estaba. Bianchi le estrechó la mano y conversó con él. Cuando entró el abogado de verdad, Bianchi, desconcertado, dijo que el otro había desaparecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La segunda es casi una trampa de manual. Fuera de la hipnosis, Orne comentó de pasada que era raro que un caso auténtico tuviera solo dos personalidades. Nadie había logrado sacar una tercera. Esa misma tarde, apareció. Dijo llamarse Billy."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Orne concluyó que simulaba. Pero el debate quedó en nada: las fiscalías de los dos estados le ofrecieron un acuerdo. Si se declaraba culpable de dos asesinatos en Bellingham y cinco en Los Ángeles, evitaría la pena de muerte y cumpliría condena en California. A cambio, declararía contra Buono de forma veraz y completa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de octubre de 1979, en Bellingham, se declaró culpable: dos cadenas perpetuas consecutivas. Ese mismo día detuvieron a Buono en Glendale. Tres días después, en Los Ángeles, Bianchi admitió cinco asesinatos y sumó otras cadenas perpetuas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí el acuerdo empieza a torcerse. La acusación contra Buono dependía en buena parte de su primo. Y el primo, ya a salvo de la pena de muerte, empezó a contradecirse: se retractaba y luego se retractaba de sus retractaciones. Un testigo así es una bomba de relojería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1980, desde la cárcel, trabó relación con Veronica Compton, una mujer que le escribía. Según la investigación, tramaron hacer creer que el estrangulador seguía libre: en septiembre, Compton intentó estrangular a una joven en un motel de Bellingham. La joven logró huir. Compton fue condenada por intento de asesinato."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "En julio de 1981, la fiscalía del distrito de Los Ángeles pidió retirar los cargos de asesinato contra Buono: temía no poder condenarlo con un testigo tan poco fiable. El juez Ronald George se negó. Años después explicó que su papel no era dar por bueno, sin más, lo que pidiera la acusación."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez pasó el caso a la fiscalía general de California, que veía pruebas suficientes aun sin Bianchi. En el juicio, desde noviembre de 1981, él declaró durante meses. Llegó a decir que había perdido la memoria y a negar todos los crímenes, incluso los de Bellingham."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Aun así, el 18 de noviembre de 1983, tras dos años de juicio, el jurado declaró a Buono culpable de nueve de los diez asesinatos. Lo libró de la pena de muerte: cadena perpetua sin libertad condicional."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 1984, al dictar sentencia, el juez George culpó a Bianchi de sabotear el juicio: no había declarado de forma veraz y completa. Lo devolvió al estado de Washington."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es decir, perdió lo que más quería del acuerdo: cumplir condena en California. Buono murió en su celda en 2002, a los sesenta y siete años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kenneth Bianchi sigue preso en Walla Walla, en Washington, y se ha cambiado el nombre por el de Anthony D'Amato. En sus recursos ha alegado, sin éxito, que es inocente y que su confesión fue fruto de una manipulación hipnótica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "California le ha denegado la libertad condicional en 2010 y en julio de 2025; podrá pedirla de nuevo dentro de diez años. Aunque la obtuviera, le quedarían las condenas de Washington."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este expediente deja una lección sobre la simulación: el estudio que Orne y sus colegas publicaron en 1984 sobre Bianchi se sigue citando en psiquiatría forense. Y otra más incómoda: aquellos primos convirtieron la confianza en una placa de policía en un cebo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Karen Mandic, estudiante de Empresariales, de veintidós años, y a Diane Wilder, estudiante de danza, de veintisiete. Y a las diez mujeres y chicas asesinadas en Los Ángeles, de entre doce y veintiocho años, y a sus familias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Kenneth Bianchi. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": "La ficha da 10 víctimas, que son las de Los Ángeles junto a Buono. Contando las dos de Bellingham (Karen Mandic y Diane Wilder), que la propia ficha menciona, el total atribuido a Bianchi suele ser 12. Convendría aclarar la cifra en la ficha."
+  "nota_revision": "Revisado por encima (guion ya en v3 de un agente anterior). Corregido: «seis expertos… dos creyeron» → «varios expertos» (el LA Times de 2000 dice que dos expertos concluyeron que fingía; no se pudo contrastar el desglose). Coherente con buono: diez víctimas de entre doce y veintiocho años (octubre de 1977-febrero de 1978), Bianchi detenido en Bellingham en enero de 1979, acuerdo de culpabilidad, Buono condenado en 1983 por nueve de los diez asesinatos. Discrepancias menores: Washington State Standard dice que la nota con su teléfono y dirección estaba en casa de Karen Mandic; HistoryLink, que estaba en su coche (el guion sigue HistoryLink). No se pudo verificar en abierto que el carné de California llevara a un sargento del equipo de Los Ángeles (viene del episodio anterior; el ángulo general, que Bellingham pidió datos a Los Ángeles y Glendale, sí consta). Fechas sin segunda fuente: declaración de culpabilidad el 19 de octubre de 1979 (NYT del 20 y 23 de octubre de 1979 no accesibles; Wikipedia no da fecha), veredicto de Buono el 18 de noviembre de 1983 y sentencia de enero de 1984 (por buono), detención de Karen Mandic y Diane Wilder: 11 de enero de 1979, Bianchi detenido el 12 de enero. Libertad condicional: denegada el 18 de agosto de 2010 y en julio de 2025 (LA Times; Wikipedia); con el nombre Anthony D'Amato (Washington State Standard, 24 de junio de 2025). Las víctimas de Los Ángeles no se nombran; Mandic y Wilder eran adultas. La ficha dice «Cadena perpetua. Preso en Washington»: correcto, pero él mismo confesó solo cinco de los diez asesinatos de Los Ángeles (el guion dice que admitió cinco)."
 }

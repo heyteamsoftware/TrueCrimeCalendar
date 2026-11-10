@@ -1,49 +1,213 @@
 {
   "id": "black",
-  "titulo": "Lo que vio un vecino",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Robert Black": "Róbert Blac",
     "Black": "Blac",
     "Stow": "Stóu",
     "Borders": "Bórders",
+    "David Herkes": "Déivid Hérkes",
+    "Herkes": "Hérkes",
     "Grangemouth": "Gréinchmaz",
+    "Selkirk": "Sélkirk",
     "Jennifer Cardy": "Yénifer Cárdi",
     "Jennifer": "Yénifer",
+    "Cardy": "Cárdi",
     "Ballinderry": "Balindéri",
-    "Susan Maxwell": "Súsan Mácsuel",
-    "Susan": "Súsan",
-    "Caroline Hogg": "Cárolain Jog",
-    "Caroline": "Cárolain",
-    "Sarah Harper": "Sára Járper",
-    "Sarah": "Sára",
+    "Hillsborough": "Jílsboro",
+    "Portobello": "Portobélo",
+    "Hector Clark": "Héctor Clark",
+    "Lothian y Borders": "Lóudian i Bórders",
+    "Newcastle upon Tyne": "Niucásel opon Táin",
     "Newcastle": "Niucásel",
-    "Armagh": "Armá"
+    "Nottingham": "Nótingam",
+    "Armagh": "Armá",
+    "Belfast": "Bélfast",
+    "Weatherup": "Uéderap",
+    "Maghaberry": "Majabéri",
+    "Genette Tate": "Yenét Teit",
+    "Genette": "Yenét",
+    "Devon": "Dévon",
+    "Leicestershire": "Léstershir",
+    "Staffordshire": "Stáfordshir",
+    "Trent": "Trent",
+    "Leeds": "Lidz",
+    "Morley": "Mórli",
+    "Andy": "Ándi",
+    "Pat": "Pat"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Sábado, 14 de julio de 1990. Stow, un pequeño pueblo de los Borders, en el sur de Escocia. Un vecino está cortando el césped de su jardín cuando ve algo que no encaja: una niña pequeña que desaparece de la acera y una furgoneta que arranca a toda prisa." },
-    { "voz": "ximena", "texto": "No lo duda. Avisa a la policía y describe el vehículo. Poco después, la furgoneta vuelve a pasar por el pueblo. Los agentes la detienen. Dentro está la niña, de seis años. Viva." },
-    { "voz": "alvaro", "texto": "Una niña rescatada gracias a un vecino atento. Pero aquella detención destapó mucho más." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Robert Black, uno de los casos más dolorosos de la historia criminal británica. Sus víctimas fueron niñas, y vamos a contarlo con todo el cuidado que merecen." },
-    { "voz": "ximena", "texto": "Robert Black nació el 21 de abril de 1947 en Grangemouth, Escocia. No conoció a su padre, y su madre lo dio en acogida cuando era un bebé. Creció en distintos hogares e instituciones. Siendo todavía joven ya tuvo condenas por agredir a menores. Según quienes lo conocieron, era un hombre solitario." },
-    { "voz": "ximena", "texto": "A mediados de los setenta se instaló en Londres. Trabajaba como repartidor para una empresa de distribución de carteles. Su ruta le llevaba por todo el Reino Unido: Escocia, el norte y el centro de Inglaterra y, de vez en cuando, Irlanda del Norte." },
-    { "voz": "ximena", "texto": "Entre 1981 y 1986 desaparecieron cuatro niñas en lugares muy distintos. Jennifer Cardy, de nueve años, en Ballinderry, Irlanda del Norte. Susan Maxwell, de once, cerca de la frontera entre Escocia e Inglaterra. Caroline Hogg, de cinco, en Edimburgo. Y Sarah Harper, de diez, en el norte de Inglaterra." },
-    { "voz": "alvaro", "texto": "Cuatro niñas, en lugares tan alejados entre sí. ¿Cómo se relacionan casos así?" },
-    { "voz": "ximena", "texto": "Ese era el gran problema. Cada caso lo investigaba una policía distinta, en una época en la que los sistemas informáticos apenas se compartían. Aun así, algunos investigadores sospechaban que detrás podía haber un mismo autor que se movía por carretera." },
-    { "voz": "ximena", "texto": "Tras la detención en Stow, Black fue condenado ese mismo año a cadena perpetua por aquel secuestro. Y los investigadores de los otros casos empezaron a revisar algo muy concreto: sus rutas de reparto." },
-    { "voz": "alvaro", "texto": "¿Las rutas de trabajo de un repartidor como prueba?" },
-    { "voz": "ximena", "texto": "Exacto. Su empresa guardaba registros de las entregas. Y él pagaba la gasolina con recibos que indicaban fecha y lugar. Con años de trabajo minucioso, la policía logró situar su furgoneta cerca de los lugares de las desapariciones, en las fechas clave." },
-    { "voz": "ximena", "texto": "Fue un trabajo enorme, coordinado entre varias policías británicas, con miles de documentos, muchos en archivos de papel, revisados uno a uno. Ninguna prueba aislada bastaba. Todas juntas dibujaban un recorrido imposible de ignorar." },
-    { "voz": "alvaro", "texto": "Es decir, una investigación hecha a base de papeles, no de confesiones." },
-    { "voz": "ximena", "texto": "En 1994, en un juicio celebrado en Newcastle, fue declarado culpable de los asesinatos de Susan Maxwell, Caroline Hogg y Sarah Harper. La acusación se apoyó en aquellos registros y en las similitudes con el secuestro de Stow. Recibió diez cadenas perpetuas. Para las familias, fue el final de años de incertidumbre." },
-    { "voz": "ximena", "texto": "Faltaba un caso: el de Jennifer Cardy, en Irlanda del Norte. Las pruebas eran más difíciles de reunir y el proceso tardó mucho más. La condena no llegó hasta 2011, en un tribunal de Armagh, treinta años después de su muerte." },
-    { "voz": "alvaro", "texto": "Treinta años esperando justicia. ¿Y qué fue de él después?" },
-    { "voz": "ximena", "texto": "Murió en una prisión de Irlanda del Norte en enero de 2016, a los sesenta y ocho años. Nunca aportó nada más sobre otros posibles crímenes." },
-    { "voz": "ximena", "texto": "Y eso pesa. Porque se le investigó por otras desapariciones de niñas de aquellos años, sin que llegara a probarse nada. Para algunas familias, las preguntas siguen abiertas." },
-    { "voz": "alvaro", "texto": "¿Y qué cambió después de este caso?" },
-    { "voz": "ximena", "texto": "Se convirtió en un ejemplo de cómo coordinar investigaciones entre distintas policías, y de cómo los datos más corrientes, un recibo de gasolina o un albarán de reparto, pueden resolver un crimen. También reforzó la necesidad de bases de datos policiales compartidas en todo el Reino Unido." },
-    { "voz": "ximena", "texto": "Pero, sobre todo, se recuerda a cuatro niñas: Jennifer, Susan, Caroline y Sarah. Y a sus familias. Y a un vecino de Stow que, aquel sábado de julio, levantó la vista del césped y decidió actuar sin perder un segundo." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Robert Black. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un césped en Stow",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Robert Black. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un césped en Stow."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sábado, 14 de julio de 1990. Stow, un pueblo pequeño de los Borders, en el sur de Escocia. Un vecino jubilado, David Herkes, corta el césped de su jardín. Junto a una furgoneta aparcada ve a un hombre que no conoce. Un momento después, una niña de seis años está dentro y la furgoneta arranca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Herkes no se queda parado. Apunta la matrícula y avisa a la policía. Lo que hace en ese minuto lo cambia todo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Anoto lo más sencillo del expediente: un hombre que miró, apuntó una matrícula y llamó. Sin esa llamada, esta cinta sería otra. No hizo falta heroicidad, hizo falta no mirar hacia otro lado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La furgoneta volvió a pasar por el pueblo. Esta vez la policía la detuvo. En la parte de atrás estaba la niña, atada, pero viva. El conductor era un repartidor de cuarenta y tres años: Robert Black."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nació en Grangemouth, en Escocia, en 1947, y creció en acogida. Desde 1976 trabajaba para una empresa de Londres que distribuía carteles publicitarios. Su trabajo era conducir, por toda Gran Bretaña y a veces hasta Irlanda del Norte."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En agosto de 1990, en un tribunal de Selkirk, se declaró culpable de aquel secuestro. Le cayó cadena perpetua. Pero para muchos policías aquello no era el final, sino el principio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Porque había una lista de casos sin resolver que parecía no tener relación. Niñas desaparecidas en lugares muy distintos, a lo largo de cinco años, con policías diferentes al frente de cada caso. Eso es lo que me inquieta de este archivo: nadie había juntado las piezas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 12 de agosto de 1981, Jennifer Cardy, de nueve años, salió en bicicleta de su casa de Ballinderry, en Irlanda del Norte, para ir a casa de una amiga. Nunca llegó. Seis días después, su cuerpo apareció en una presa cerca de Hillsborough."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 30 de julio de 1982, una niña de once años desapareció cuando volvía de jugar al tenis, cerca de la frontera entre Escocia e Inglaterra. Su cuerpo fue hallado dos semanas después, a más de cuatrocientos kilómetros, en Staffordshire."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 8 de julio de 1983, una niña de cinco años desapareció de Portobello, en Edimburgo, cerca de una feria. Diez días después la encontraron junto a una autopista de Leicestershire."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y el 26 de marzo de 1986, una niña de diez años salió a una tienda cercana a su casa, en Morley, cerca de Leeds. Su cuerpo apareció en el río Trent, en abril."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuatro niñas, cuatro territorios distintos y centenares de kilómetros de por medio. Los detectives de las tres primeras sí vieron el hilo, y Hector Clark, de la policía de Lothian y Borders, coordinó una gran búsqueda. Aun así, durante años, el nombre de Black no destacó en ninguna lista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según se ha contado después, el sistema informático de la investigación no lo marcó: su única condena anterior quedaba fuera de los criterios de búsqueda. Era un repartidor más, entre miles."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tras Stow, todo cambió. Los investigadores dejaron de buscar a un desconocido y empezaron a leer la vida de un hombre concreto: dónde estuvo, cuándo, y qué dejó escrito sin querer."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y dejó muchísimo. La empresa guardaba albaranes de reparto y recibos de gasolina, años de papeles en cajas. Alguien tuvo que sentarse a cruzar esas fechas con las de las desapariciones. Nada de laboratorio: tinta y paciencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los recibos situaban a Black comprando combustible cerca de los lugares, en los días de cada desaparición. Pieza a pieza, su ruta coincidía con la de las niñas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Pero lo que más me pesa es lo que no había. Ningún análisis científico lo unía a los crímenes. Tendría que bastar el papel, y convencer a un jurado de que tantas coincidencias no podían ser casualidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Así que el caso iba a depender de recibos, de fechas y de una furgoneta. Y de si doce personas, en una sala de Inglaterra, creían que la suma de todo aquello era imposible de ignorar."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Los recibos de gasolina",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Los recibos de gasolina."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Robert Black: cuatro niñas asesinadas entre 1981 y 1986. Primero, el juicio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se celebró en Newcastle upon Tyne, en Inglaterra, y duró alrededor de un mes. Empezó en abril de 1994. Black negó los asesinatos de las tres niñas del norte de Inglaterra y Escocia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Repaso lo que había. Los recibos de gasolina y los registros de reparto que ponían su furgoneta cerca de cada lugar. Las semejanzas con el secuestro de Stow. Y el permiso del juez para que el jurado conociera sus antecedentes. Todo circunstancial: un perito reconoció que no había pruebas científicas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 19 de mayo de 1994, el jurado lo declaró culpable del secuestro y el asesinato de las tres niñas. También de un intento de llevarse a una chica de quince años en Nottingham, en 1988, que se defendió y escapó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juez le impuso cadena perpetua, con un mínimo de treinta y cinco años. Black nunca admitió ninguno de aquellos crímenes."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunto otro detalle. La fiscalía escocesa no había llegado a procesarlo por falta de pruebas, y el caso se vio en un tribunal inglés. Un expediente que estuvo a punto de perderse en la frontera entre dos sistemas judiciales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Quedaba la primera niña. El caso de Jennifer Cardy lo llevaba la policía de Irlanda del Norte, y su familia llevaba años esperando. Black fue interrogado por su muerte en 2005 y acusado a finales de 2009."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio se celebró en Armagh y duró seis semanas. La acusación presentó los recibos de gasolina, los registros de nóminas y un albarán de reparto. El jurado deliberó unas cuatro horas y, el 27 de octubre de 2011, lo declaró culpable. Treinta años después."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es el mismo método que en Newcastle: papeles de trabajo contra un hombre que negó su responsabilidad hasta el final. Y la sentencia lo deja claro: el juez no vio un crimen improvisado, sino a alguien que estaba en la zona para aprovechar cualquier oportunidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 2011, en Belfast, el juez Weatherup le impuso otra cadena perpetua. La fiscalía había pedido que no pudiera salir nunca. El tribunal fijó un mínimo de veinticinco años, y la prensa recogió que tendría al menos ochenta y nueve antes de que se pudiera considerar su libertad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres de Jennifer, Andy y Pat Cardy, estaban en la sala. Dijeron que su fe les había ayudado y que habían vivido sin amargura ni deseo de venganza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso, para mí, es lo más grande de este expediente. Una familia que esperó treinta años y habló sin odio. No se me ocurre un contrapunto más duro para el nombre de Black."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Robert Black murió el 12 de enero de 2016, de un infarto, en la prisión de Maghaberry, en Irlanda del Norte. Tenía sesenta y ocho años. Llevaba preso desde su detención en Stow, más de veinticinco años. No dejó ninguna confesión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y eso deja preguntas. Fue el sospechoso principal de la desaparición de Genette Tate, una chica de trece años que desapareció en 1978 en Devon, y se le relacionó con otros casos. Nunca fue acusado de ninguno. No sabemos más, y no vamos a decir más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando murió, la policía de Devon y Cornualles preparaba un nuevo informe para la fiscalía sobre el caso de Genette. Para algunas familias, las preguntas siguen abiertas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y lo que enseña este caso es incómodo: la clave estuvo en un vecino atento, en un recibo de gasolina y en la paciencia de quienes cruzaron datos de varias policías. Eso es lo que sostuvo el caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a Jennifer Cardy, de nueve años. A una niña de once, otra de cinco y otra de diez. Y a sus familias. Y a un vecino de Stow que apuntó una matrícula."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Robert Black. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": "No he usado en el guion el alias de la ficha («El asesino de niñas británico») por respeto a las víctimas; si se prefiere mencionarlo, puede añadirse en la presentación."
+  "nota_revision": "Fuentes en web/datos/fuentes/black.json (la sentencia de 2011 del tribunal de Irlanda del Norte es la fuente primaria de condenas, fechas y mínimos). DISCREPANCIAS: 1) El guion v2 decía «diez cadenas perpetuas» en 1994: fueron cadenas perpetuas concurrentes con un mínimo de 35 años (sentencia de 2011); algunos medios hablan de 10 o 12 cadenas perpetuas en total. 2) El v2 decía que la condena de Cardy fue «en un tribunal de Armagh»: el veredicto fue en Armagh (27/10/2011) pero la pena se fijó en Belfast (8/12/2011; Irish Times, sentencia). Wikipedia en español dice «mínimo de 89 años»: es un error; son 25 años de mínimo y el juez dijo que tendría al menos 89 años de edad. 3) El v2 decía que pagaba la gasolina «con recibos»: los recibos eran archivos de la empresa (Wikipedia, Crime+Investigation). 4) Cuerpo de Jennifer Cardy: «seis días» (Wikipedia en español, HuffPost) o «una semana» (v2/otras); el guion dice seis días. La sentencia da el 12 de agosto de 1981 y, en otro párrafo, el 14. 5) Cargo sobre la chica de quince años de Nottingham (1988): intento de secuestro (Wikipedia) o retención ilegal (sentencia); el guion dice «intento de llevarse a». No se nombra a la superviviente. 6) Detención de Stow: la niña no se nombra. Detalles de quién apuntó la matrícula (David Herkes, vecino jubilado) están en Wikipedia en inglés y Staffordshire Live (2022, que cita un libro); algunas fuentes añaden que el padre de la niña era policía: no se usa. Irish Times (2016) dice por error que la niña era su hija. 7) Dato de una sola fuente: HOLMES no marcó a Black por el criterio de búsqueda de su única condena (Wikipedia en inglés), atribuido con «según se ha contado»; que la fiscalía escocesa rehusó procesar por falta de pruebas y el juicio se vio en Newcastle (síntesis de prensa/Wikipedia). 8) Fecha del arresto: la ficha dice «detenido en 1990 en Stow» y es correcta. La ficha dice «Cadenas perpetuas. Murió en prisión (2016)»: correcto (12/1/2016, Maghaberry, infarto, 68 años). RESPETO: solo se nombra a Jennifer Cardy (más de 40 años; sus padres, Andy y Pat, hablaron en público en 2011). A Susan Maxwell, Caroline Hogg y Sarah Harper no se les nombra, y se describen por edad y lugar, porque en las fuentes consultadas no se encontró una declaración pública de sus familias (hay un indicio de que Tom Maxwell, hermano de Susan, habló tras el veredicto de 2011, sin confirmar en el texto); si el coordinador lo acepta, se pueden restituir los tres nombres. Tampoco se nombra a la niña de Stow ni a la chica de Nottingham. No se describen métodos ni agresiones. SOSPECHAS: Genette Tate (sospechoso principal según prensa; policía de Devon y Cornualles preparaba un informe para la fiscalía al morir; nunca acusado) se cuenta como sospecha, sin afirmar culpa. Sin citas literales."
 }

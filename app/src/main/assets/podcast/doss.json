@@ -1,11 +1,12 @@
 {
   "id": "doss",
-  "titulo": "Una risa en el interrogatorio",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Nannie Doss": "Náni Dos",
     "Nannie": "Náni",
     "Samuel Doss": "Sámuel Dos",
+    "Doss": "Dos",
     "Nancy Hazle": "Nánsi Jéisel",
     "Blue Mountain": "Blu Máuntein",
     "Anniston": "Ániston",
@@ -16,34 +17,182 @@
     "Tulsa": "Tálsa",
     "Oklahoma": "Oklajóma",
     "Kansas": "Kánsas",
-    "Mary Ann Cotton": "Méri An Cóton"
+    "Dovie": "Dóvi",
+    "J. Howard Edmondson": "Yéi Jáuard Édmondson",
+    "McAlester": "Maquálister",
+    "Oak Hill Memorial Park": "Oc Jil Memórial Parc"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Tulsa, Oklahoma, otoño de 1954. Samuel Doss muere en su casa pocas semanas después de salir del hospital, donde lo habían tratado por graves problemas digestivos. Su médico no se queda tranquilo. Se niega a dar el caso por cerrado y pide una autopsia." },
-    { "voz": "ximena", "texto": "El resultado es demoledor: en el cuerpo hay una cantidad enorme de arsénico. La viuda, Nannie, es detenida. Y en la sala de interrogatorios ocurre algo que nadie esperaba: se ríe." },
-    { "voz": "alvaro", "texto": "¿Se ríe? ¿Mientras la interrogan por la muerte de su marido?" },
-    { "voz": "ximena", "texto": "Bromea, sonríe, habla de revistas románticas. Y poco a poco, entre risas, empieza a contar mucho más de lo que los investigadores imaginaban. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Nannie Doss, la viuda negra risueña." },
-    { "voz": "ximena", "texto": "Nació como Nancy Hazle el 4 de noviembre de 1905 en Blue Mountain, junto a Anniston, en Alabama. Su infancia fue dura: trabajo en el campo, poca escuela y un padre muy autoritario." },
-    { "voz": "ximena", "texto": "De niña sufrió un golpe en la cabeza en un accidente de tren, y más tarde atribuyó a aquel golpe sus dolores y sus cambios de humor. Le apasionaban las revistas de amor y los anuncios de corazones solitarios, donde se buscaba pareja por carta." },
-    { "voz": "ximena", "texto": "Se casó por primera vez muy joven, con Charley Braggs. Durante aquel matrimonio murieron de forma repentina dos de sus hijas pequeñas, y él acabó marchándose. Fue el único de sus cinco maridos que sobrevivió." },
-    { "voz": "alvaro", "texto": "¿Y los otros cuatro?" },
-    { "voz": "ximena", "texto": "Fueron muriendo, uno tras otro, a lo largo de casi una década. Frank Harrelson, en 1945. Arlie Lanning, en 1952. Richard Morton, en 1953. Y Samuel Doss, en 1954." },
-    { "voz": "ximena", "texto": "Casi siempre con el mismo cuadro: fuertes dolores de estómago y una muerte que los médicos atribuían a causas naturales. En varios casos, ella cobró después un seguro de vida." },
-    { "voz": "ximena", "texto": "A su alrededor murieron también otros familiares. Entre ellos, según la investigación, su propia madre y algunos de sus nietos. Se le atribuyen once muertes en total, aunque solo llegó a ser juzgada por una." },
-    { "voz": "alvaro", "texto": "¿Y cómo es posible que nadie relacionara tantas muertes?" },
-    { "voz": "ximena", "texto": "Porque se mudaba. Cada matrimonio la llevaba a un lugar distinto: Alabama, Carolina del Norte, Kansas, Oklahoma. Cada muerte la certificaba un médico diferente. Ninguna autoridad local veía el conjunto. En aquella época no existían registros que cruzaran los certificados de defunción entre estados." },
-    { "voz": "ximena", "texto": "Además, era una mujer amable, sonriente, una abuela de aspecto inofensivo. Encajaba muy mal en la imagen que se tenía entonces de un asesino." },
-    { "voz": "ximena", "texto": "Hasta que el médico de Samuel Doss se negó a firmar sin más. La autopsia confirmó el veneno, y las autoridades exhumaron los cuerpos de maridos anteriores. También en varios de ellos apareció arsénico." },
-    { "voz": "ximena", "texto": "Ante los investigadores confesó haber envenenado a cuatro de sus maridos. Su explicación desconcertó a todos: dijo que buscaba al compañero perfecto, el amor verdadero, como el de sus revistas, y que ninguno de ellos estaba a la altura." },
-    { "voz": "alvaro", "texto": "O sea, que no era solo por el dinero de los seguros." },
-    { "voz": "ximena", "texto": "Esa fue la gran pregunta del caso. Cobró seguros, sí, pero ella siempre habló de amor y de decepción. Tras ser examinada por psiquiatras, se la consideró capaz de afrontar un juicio." },
-    { "voz": "ximena", "texto": "En 1955 se declaró culpable del asesinato de Samuel Doss ante un tribunal de Oklahoma. Fue condenada a cadena perpetua. Los demás estados no llegaron a juzgarla. Murió de leucemia en la penitenciaría estatal de Oklahoma en 1965, a los cincuenta y nueve años." },
-    { "voz": "ximena", "texto": "La prensa la convirtió en un personaje casi cómico, con apodos que se burlaban de su risa. Con el tiempo, el caso se ha leído de otra manera, mucho menos amable." },
-    { "voz": "ximena", "texto": "Muestra cómo una sucesión de muertes puede pasar inadvertida cuando cada una se investiga por separado, en un lugar distinto y por un médico distinto. Y lo peligroso que es fiarse de la apariencia de alguien." },
-    { "voz": "alvaro", "texto": "Y cómo una sola autopsia puede cambiarlo todo." },
-    { "voz": "ximena", "texto": "Exacto. La decisión de un médico de Tulsa permitió reconstruir treinta años de muertes. En este archivo, su expediente comparte etiqueta con el de otras envenenadoras, como la inglesa Mary Ann Cotton, que actuó casi un siglo antes con un patrón muy parecido." },
-    { "voz": "ximena", "texto": "Detrás de la risa que llenó los titulares hubo maridos, hijas, nietos y una madre que confiaron en ella y se sentaron a su mesa. A ellos se debe la memoria de este caso." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Nannie Doss. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una revista romántica",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Nannie Doss, la viuda negra risueña. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una revista romántica."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tulsa, Oklahoma. Octubre de 1954. Samuel Doss, un pastor nazareno, lleva semanas enfermo. En septiembre ingresó en el hospital con síntomas de gripe y una grave infección digestiva. Le dieron el alta el 5 de octubre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Siete días después, el 12, muere en su casa. Su mujer, Nannie, de cuarenta y ocho años, era quien lo cuidaba. Parece la muerte de un hombre que ya estaba enfermo. Pero el médico que lo había tratado no se queda tranquilo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Lo que abre este caso no es un policía. Es un médico que duda. Pide una autopsia, y según los relatos convence a la viuda de que ayudaría a otros pacientes. Ella acepta. Muchas veces los casos se resuelven así: porque alguien se niega a firmar sin más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La autopsia encuentra una cantidad letal de arsénico. Las crónicas de la época dicen que bastaba para matar a un caballo. Nannie Doss es detenida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y en el interrogatorio ocurre lo que convertirá este expediente en leyenda de la prensa: la mujer sonríe, bromea y se ríe mientras habla con los investigadores."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con la imagen, pero con prudencia. La risa es lo que cuentan los periódicos. Lo documentado es otra cosa: reconoció haber matado a cuatro de sus maridos. Y según varios relatos, a cambio de poder conservar una de sus revistas románticas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esas revistas importan en esta historia. Nancy Hazle nació el 4 de noviembre de 1905 en Blue Mountain, un pueblo de Alabama que hoy forma parte de Anniston. Fue una de cinco hermanos, trabajó en la granja desde niña y fue poco a la escuela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su padre, según los relatos, era duro y autoritario. De niña, un frenazo de tren le lanzó la cabeza contra una barra metálica. Más tarde achacó a aquel golpe sus dolores y su tristeza. Y soñaba con los anuncios de corazones solitarios: el amor perfecto, por correo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1921, con dieciséis años, se casó con Charley Braggs. Tuvieron cuatro hijas. En 1927 murieron dos de ellas, y se atribuyó a una intoxicación por comida. Braggs se marchó, se divorciaron en 1928, y fue el único de sus maridos que sobrevivió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos niñas muertas y ninguna sospecha. Anoto con cuidado lo que se sabe. Nadie investigó entonces. Los relatos sobre su confesión no coinciden en si ella las incluyó, y por esas muertes nunca fue juzgada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después llegaron otras cuatro bodas. Frank Harrelson, con quien se casó en 1929, murió en 1945. Arlie Lanning murió de lo que se dio por un fallo cardíaco. Richard Morton, en 1953. Y Samuel Doss, el último."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Morton murió el 19 de mayo de 1953, pocos meses después que la madre de Nannie, que vivía con ellos. En junio, Nannie se casó en Tulsa con Samuel Doss. Era su quinto marido. Tenía cuarenta y siete años, y entre un marido y otro apenas pasaban unas semanas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Por el camino murieron también su madre, en enero de 1953, y su hermana Dovie. Y un nieto de dos años, que murió asfixiado mientras ella lo cuidaba. Después cobró un seguro de quinientos dólares."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Mi pregunta es la de siempre: ¿cómo no lo vio nadie? Porque se mudaba. Alabama, Carolina del Norte, Kansas, Oklahoma. Cada muerte la firmaba un médico distinto, en un lugar distinto. Y porque nadie sospecha de una abuela amable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ahora Nannie Doss estaba sentada ante los investigadores, con una confesión de varias muertes sobre la mesa. Pero faltaban muchas respuestas. ¿Cuántas muertes eran en realidad? ¿Por qué lo hizo? ¿Y qué podía probarse de verdad?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta dos: un tribunal que juzgó una sola muerte, una celda en McAlester, y un motivo que nadie logró aclarar."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una celda en McAlester",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una celda en McAlester."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Nannie Doss. Otoño de 1954. La autopsia dice arsénico, la viuda ha hablado y las autoridades empiezan a mirar atrás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según los relatos, se exhumaron cuerpos de algunos de sus maridos. En varios apareció arsénico o veneno de ratas. Ella contó que había mezclado el veneno en la comida y la bebida de sus víctimas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Alabama, Carolina del Norte, Kansas y Oklahoma. En ese viaje de bodas y mudanzas, las muertes quedaron repartidas en cuatro estados. Ningún certificado, ninguna autoridad local, vio el conjunto. Con la autopsia de Tulsa, por fin alguien lo hizo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay que separar tres cosas. Lo que ella contó. Lo que se comprobó. Y lo que la prensa añadió. Se le atribuyen once muertes entre 1927 y 1954. Solo una llegó a un juez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era la de Samuel Doss. El fiscal, J. Howard Edmondson, que años después sería gobernador de Oklahoma, la acusó solo de ese asesinato. De las demás muertes no se la acusó formalmente."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "¿Por qué un solo cargo? No he encontrado ningún documento que lo explique. Lo lógico es que se eligiera el caso mejor probado: una autopsia reciente, un testigo médico, una confesión."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los psiquiatras la examinaron y la consideraron capaz de ser juzgada. El 17 de mayo de 1955 se declaró culpable. Fue condenada a cadena perpetua. Oklahoma no pidió la pena de muerte; según los relatos, por ser mujer."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hay un detalle jurídico. Al declararse culpable, no hubo juicio con jurado ni testigos. Lo que sabemos de las otras muertes viene de su confesión, de las exhumaciones y de lo que contaron los familiares. Por eso tantas siguen siendo atribuciones."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La prensa de la época la bautizó la abuela risueña, la viuda negra, la asesina de los corazones solitarios. Convirtió una sucesión de muertes en un espectáculo, con titulares que jugaban con su risa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y ahí está el problema. La risa vende periódicos. Pero detrás de esa risa había hombres enfermos en una cama, a quienes su mujer servía la comida. Yo prefiero que se recuerde eso, y no el chiste."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto una contradicción. Según una de las fuentes, Nannie aseguró que nunca había hecho daño a su propia sangre. Pero entre las muertes que se le atribuyen están su madre y su hermana. Las dos versiones no encajan, y nadie las contrastó ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando le preguntaron por qué, habló de amor. Dijo que buscaba al compañero perfecto, como el de sus revistas, y que ninguno estaba a la altura. También cobró seguros: Samuel Doss tenía dos pólizas a su nombre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Ninguna explicación me convence. El dinero no explica la muerte de su madre ni de su hermana. El amor de revista tampoco explica nada. El móvil sigue sin respuesta, y no voy a inventar una."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso se ha seguido contando durante décadas. Libros, crónicas y programas la recuerdan como una de las envenenadoras más conocidas de Estados Unidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nannie Doss murió de leucemia el 2 de junio de 1965, a los cincuenta y nueve años, en la penitenciaría estatal de Oklahoma, en McAlester. Está enterrada en esa ciudad, en Oak Hill Memorial Park."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las cifras cambian según la fuente. Se habla de once muertes, y las autoridades llegaron a especular con hasta doce. La cifra exacta nunca se conoció, porque la mayoría de aquellas muertes nunca se juzgó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que enseña este caso es incómodo. Cinco bodas, varios estados y décadas de muertes sin que nadie las sumara. Bastó la duda de un médico. Hace falta que alguien se atreva a no firmar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan las personas. Cuatro maridos, una madre, una hermana, una suegra y niños muy pequeños. Gente que confió en ella y se sentó a su mesa. Algunas de aquellas muertes no se probaron nunca, y es justo decirlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando recordemos este caso, que no sea por la risa. Que sea por quienes ya no pudieron reírse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Nannie Doss. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes: Wikipedia en inglés, Encyclopedia of Alabama, columna de J. Mark Powell (Albuquerque Journal), Gizmodo y reseña de The Lonely Hearts Killers. DISCREPANCIAS: (1) Muerte de Arlie Lanning: 1952 (Wikipedia) o 1950 (Encyclopedia of Alabama); el guion no da año. (2) Wikipedia dice que Oklahoma fue el único estado que la acusó; la Encyclopedia of Alabama dice que Carolina del Norte, Kansas y Alabama también presentaron cargos; el guion dice solo que no se la acusó formalmente de las demás muertes en el juicio. (3) Fecha de la declaración de culpabilidad: 17/5/1955 (Wikipedia); un pie de foto de Gizmodo da el 2/6/1955; se usa el 17 de mayo. (4) Número de víctimas y quiénes confesó: los relatos no coinciden (Wikipedia: cuatro maridos, madre, hermana, un nieto y suegra; Powell: once muertes, incluyendo dos hijas y dos nietos); el guion dice que se le atribuyen once muertes entre 1927 y 1954. (5) La ficha dice «cuatro de sus cinco maridos» y «detenida en 1954»: correcto. (6) Doss tenía dos pólizas de seguro sobre Samuel Doss (Wikipedia); el episodio antiguo hablaba de seguros en general. Respeto: no se nombran las hijas ni los nietos. Se omiten detalles del método. Datos no incluidos por discutidos: fecha de la detención, tipo de veneno, el nombre del médico."
 }

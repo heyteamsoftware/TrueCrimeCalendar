@@ -1,50 +1,199 @@
 {
   "id": "fish",
-  "titulo": "El sobre",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Albert Fish": "Álbert Fish",
-    "Brooklyn": "Brúklin",
-    "Washington": "Uáshington",
-    "Edward Budd": "Éduard Bad",
     "Grace Budd": "Gréis Bad",
-    "Grace": "Gréis",
+    "Edward Budd": "Éduard Bad",
+    "Budd": "Bad",
     "Frank Howard": "Frank Jáuard",
     "Manhattan": "Manjátan",
-    "Long Island": "Long Áiland",
+    "Brooklyn": "Brúklin",
+    "Staten Island": "Státen Áiland",
     "Westchester": "Uéstchester",
     "Wisteria Cottage": "Uistíria Cótach",
     "William King": "Uíliam King",
-    "Francis McDonnell": "Fránsis Macdónel",
-    "Staten Island": "Státen Áiland",
-    "Billy Gaffney": "Bíli Gáfni",
+    "King": "King",
     "White Plains": "Uáit Pléins",
     "Fredric Wertham": "Frédric Uérzam",
-    "Sing Sing": "Sin Sin"
+    "Wertham": "Uérzam",
+    "Sing Sing": "Sin Sin",
+    "Charles Pope": "Chárls Poup",
+    "Washington": "Uáshington",
+    "Long Island": "Long Áiland"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Noviembre de 1934. Nueva York. Una mujer recibe una carta sin firma. Han pasado seis años desde que su hija, de diez años, salió de casa con un anciano amable y no volvió. La carta habla de la niña. Y es atroz." },
-    { "voz": "ximena", "texto": "No vamos a leerla. Pero en el sobre hay un detalle minúsculo que la policía no dejará escapar." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Albert Fish, el llamado vampiro de Brooklyn. Una historia sobre la confianza de una familia humilde… y sobre la tenacidad de un detective." },
-    { "voz": "ximena", "texto": "Albert Fish nació en Washington en 1870 y pasó parte de su infancia en un orfanato. Ya adulto, trabajó como pintor de brocha gorda, se casó y tuvo seis hijos. Fue detenido varias veces por delitos menores. Para quien lo trataba, era un hombre mayor, educado y discreto, de pelo canoso y bigote, con modales corteses. Nada en su aspecto invitaba a desconfiar de él." },
-    { "voz": "alvaro", "texto": "La imagen perfecta del abuelo inofensivo." },
-    { "voz": "ximena", "texto": "Exacto. En 1928, Edward Budd, un joven de dieciocho años, puso un anuncio en un periódico: buscaba trabajo en el campo. Un hombre que se presentó como Frank Howard visitó a la familia en su piso de Manhattan. Dijo que tenía una granja en Long Island." },
-    { "voz": "ximena", "texto": "Para los Budd, que vivían con muy poco dinero, aquella oferta era una oportunidad que no podían dejar pasar. El visitante parecía generoso, hablaba de su granja y de sus hijos, y se ganó enseguida la confianza de la casa." },
-    { "voz": "ximena", "texto": "Volvió unos días después y comió con ellos. Antes de irse, pidió permiso para llevar a la pequeña Grace a una fiesta infantil en casa de su hermana. Los padres dudaron, pero aceptaron. Era el 3 de junio de 1928." },
-    { "voz": "alvaro", "texto": "Y esa hermana, claro, no existía." },
-    { "voz": "ximena", "texto": "No. La dirección que dio era falsa. Fish llevó a la niña a una casa deshabitada en Westchester, al norte de la ciudad, conocida como Wisteria Cottage. Allí la asesinó." },
-    { "voz": "ximena", "texto": "La policía buscó a Grace durante años. Se siguieron pistas falsas, se repartieron miles de carteles y hasta se detuvo a sospechosos equivocados. La desaparición ocupó durante meses las portadas de la ciudad. Pero, con el tiempo, el interés se fue apagando. Un detective, William King, nunca dio el caso por cerrado." },
-    { "voz": "alvaro", "texto": "Hasta que, seis años después, llega esa carta." },
-    { "voz": "ximena", "texto": "Sí. Fish, por razones que nunca quedaron claras, escribió a la madre de Grace. En el sobre, King se fijó en un pequeño emblema con unas iniciales. Pertenecían a una asociación benéfica de chóferes privados de Nueva York." },
-    { "voz": "ximena", "texto": "Tiró del hilo. Un empleado de la asociación admitió haberse llevado papel y sobres a una pensión en la que había vivido. Allí, la casera reconoció la descripción de un inquilino anciano: Albert Fish. Se había marchado, pero esperaba una carta de uno de sus hijos." },
-    { "voz": "ximena", "texto": "King esperó. Cuando Fish volvió a recogerla, en diciembre de 1934, lo detuvo. Y Fish confesó el crimen de Grace Budd con una frialdad que impresionó a los investigadores." },
-    { "voz": "alvaro", "texto": "¿Se le pudo relacionar con otros casos?" },
-    { "voz": "ximena", "texto": "Con otros dos niños: Francis McDonnell, en Staten Island en 1924, y Billy Gaffney, en Brooklyn en 1927. Se le atribuyen tres víctimas. Él mismo insinuó que habían sido muchas más, y algunas estimaciones hablan de más de cien, pero eso nunca se ha podido demostrar." },
-    { "voz": "ximena", "texto": "El juicio se celebró en 1935 en White Plains. Su defensa alegó locura, y el psiquiatra Fredric Wertham lo describió como un enfermo grave. El jurado, sin embargo, lo consideró responsable de sus actos y lo declaró culpable. Wertham sería muy conocido años después por sus estudios sobre la violencia y la infancia." },
-    { "voz": "ximena", "texto": "Albert Fish murió en la silla eléctrica de la prisión de Sing Sing en enero de 1936. Tenía sesenta y cinco años, y fue uno de los reos de más edad ejecutados allí." },
-    { "voz": "ximena", "texto": "El caso se recuerda por dos razones. Por la crueldad de un hombre que se aprovechó de familias pobres, desesperadas por encontrar trabajo. Y por la paciencia de un detective que convirtió un simple sobre en la prueba decisiva." },
-    { "voz": "alvaro", "texto": "Y también por la madre de Grace, que esperó seis largos años una respuesta." },
-    { "voz": "ximena", "texto": "Así es. Una respuesta que llegó de la peor manera posible, pero que permitió que hubiera justicia. Hoy recordamos a Grace Budd, a Francis McDonnell y a Billy Gaffney. Hasta aquí el expediente de Albert Fish. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un sobre sin remitente",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Albert Fish y el caso de Grace Budd. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un sobre sin remitente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Noviembre de 1934, en Nueva York. Una mujer recibe una carta sin firma. Han pasado seis años desde que su hija de diez años salió de casa con un anciano amable y no volvió. La carta habla de la niña. Y es atroz."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No vamos a leerla. Pero en el sobre hay un detalle diminuto: un emblema con unas iniciales. Ese detalle será el principio del final."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Aquella mujer era Delia Budd, y la niña, Grace. Anoto algo antes de seguir. Quien escribió esa carta no podía resistirse a ponerse en contacto con la familia. Esa necesidad es lo que va a delatarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Volvamos a mayo de 1928. Edward Budd, de dieciocho años, publica un anuncio en un periódico: busca trabajo en el campo. La familia vive con muy poco dinero en un piso de Manhattan, y el trabajo era una necesidad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 28 de mayo se presenta un hombre mayor, educado y de modales corteses. Dice llamarse Frank Howard y tener una granja en Long Island. Habla de sus hijos. Se gana enseguida la confianza de la casa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una persona mayor, amable, con aspecto de abuelo. Eso es lo que me inquieta de este expediente. Su aspecto explicaba todo. La confianza fue el cebo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 3 de junio vuelve a casa de los Budd. Pide permiso para llevar a Grace a una fiesta infantil en casa de su hermana. Los padres dudan, pero aceptan. La niña sale con él. Es la última vez que la ven."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La dirección que había dado era falsa. La policía buscó a Grace durante meses. Se repartieron miles de carteles y se siguieron muchas pistas. El caso ocupó las portadas de los periódicos de la ciudad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí aparece un error del que no se habla tanto. En 1930 la policía detuvo a un hombre, Charles Pope, por el secuestro de Grace. Fue juzgado y lo declararon no culpable. Una absolución es una absolución. Un hombre inocente tuvo que sentarse en el banquillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tiempo pasó y el interés se apagó, pero un detective de Nueva York, William King, nunca dio el caso por cerrado. Seis años después, la carta de noviembre de 1934 le dio algo que no tenía: un objeto concreto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El emblema del sobre pertenecía a una asociación benéfica de chóferes privados de Nueva York. King empezó por ahí. Fue de miembro en miembro, preguntando quién había podido llevarse papel y sobres de la sede."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Uno de ellos recordó que había dejado papel y sobres en una pensión donde había vivido. King fue a la pensión y revisó el registro de inquilinos, buscando una letra parecida a la de la carta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un trabajo sin gloria: comparar caligrafías, nombre por nombre, en un registro de pensión. Pero fue lo que funcionó. Hoy tendríamos huellas, bases de datos y cámaras. Él tenía paciencia y un sobre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El rastro llevó hasta un hombre ya mayor, que había vivido allí y que esperaba recibir correo de uno de sus hijos. Se llamaba Albert Fish."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Albert Fish había nacido en Washington en 1870 y había pasado parte de su infancia en un orfanato. De adulto fue pintor de brocha gorda. Se casó y tuvo hijos. Había sido detenido varias veces por delitos menores."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nadie que lo conociera, y el aspecto lo ayudaba, habría imaginado lo que había hecho. El 13 de diciembre de 1934, cuando Fish volvió a la pensión, King lo detuvo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El hombre que cayó tenía sesenta y cuatro años. La pregunta que se hizo la policía, y con ella la cinta siguiente, es otra: ¿qué más había hecho? Y cómo juzgar a alguien que confesó sin esfuerzo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fish confesó el asesinato de Grace Budd casi de inmediato. Pero la confesión era solo el principio. En la cinta dos, el juicio, la pregunta de la locura y las víctimas que nunca se pudieron probar."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Doce hombres en White Plains",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Doce hombres en White Plains."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En la cinta anterior, el detective William King detuvo a Albert Fish en diciembre de 1934, seis años después de la desaparición de Grace Budd. Fish confesó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los restos de la niña aparecieron en una casa abandonada de Westchester, conocida como Wisteria Cottage. No daremos más detalles. Grace Budd tenía diez años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Hay una cosa que debo decir. La confesión de Fish es fiable en lo esencial, pero no todo lo que dijo lo es. Mintió, exageró y se contradijo con otros crímenes. Un confeso no es un testigo fiable de sí mismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fish habló de otros niños. La policía lo relacionó con la muerte de un niño en Staten Island, en 1924, y con la desaparición de otro, de muy corta edad, en Brooklyn, en 1927. Los dos casos seguían abiertos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fish nunca fue juzgado por ninguno de ellos. Él mismo sugirió que había habido muchas más víctimas, hasta un centenar, pero esa cifra nunca se ha podido demostrar. Los investigadores de la época sospecharon de varios casos más. La cifra real nunca se conoció y probablemente nunca se conocerá."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí conviene prudencia. Hay quien repite cifras de decenas de víctimas como si fueran un hecho. No lo son. Lo probado es Grace Budd. Lo confesado y creído por la policía, otros dos niños. El resto, hipótesis."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Había nacido como Hamilton Howard Fish y se cambió el nombre en el orfanato. Usó varios alias a lo largo de su vida, y Frank Howard era solo uno. Se había mudado de pensión en pensión, con trabajos pasajeros y detenciones menores que nadie había unido entre sí. Su hijo mayor dijo a la prensa que sabía que algo así acabaría ocurriendo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una constante de este archivo: un nombre falso, un hombre que se muda, y ningún registro que cruce los datos. En 1928 no existía una base de datos común. Para desaparecer bastaba con cambiar de barrio."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó el 11 de marzo de 1935 en White Plains, en el condado de Westchester, ante el juez Frederick Close. Su abogado, James Dempsey, no negó los hechos: alegó que Fish estaba loco."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La defensa llevó al estrado al psiquiatra Fredric Wertham, que lo describió como un hombre gravemente enfermo. Los psiquiatras de la fiscalía respondieron que alguien puede hacer cosas terribles y seguir siendo responsable de ellas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El debate de fondo es muy antiguo. Si un hombre confiesa lo indecible, ¿es prueba de que está loco o de que sabía lo que hacía? Según las crónicas, algunos jurados dudaron de su cordura, pero votaron igualmente por la condena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El jurado lo declaró cuerdo y culpable de asesinato en primer grado. A finales de marzo se le impuso la pena de muerte. Su apelación fracasó, y también la petición al gobernador de que conmutara la pena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 16 de enero de 1936, Albert Fish murió en la silla eléctrica de la prisión de Sing Sing. Tenía sesenta y cinco años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que más me cuesta de este expediente no es el culpable, sino el tiempo. Seis años para llegar a él, y una familia que vivió ese tiempo sin saber nada. Y un hombre inocente que pasó por un banquillo mientras el verdadero autor seguía suelto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó huella también en la psiquiatría forense, y Wertham se hizo famoso años después por sus estudios sobre la violencia y la infancia. Pero la historia de Albert Fish no se recuerda por él."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se recuerda por un detective que no dio un caso por perdido. Y por una familia humilde que dio su confianza a un desconocido amable, porque necesitaba un trabajo. Eso no es culpa de los Budd. Fue una trampa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a Grace Budd, de diez años, y a su familia. A los niños de Staten Island y de Brooklyn cuyas muertes se le atribuyeron. Y a todas las familias que esperaron respuestas que no llegaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Albert Fish. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias y decisiones. Ficha: dice que atacaba a niños y que fue identificado en 1934 por el sobre; coincide. Menores: se nombra solo a Grace Budd (nombre histórico del caso, familia pública, caso de 1928); los otros dos niños (Staten Island 1924, Brooklyn 1927) se dejan sin nombre ni edad, porque no consta que sus familias hablaran en público y las fuentes discrepan (Francis McDonnell: 8 o 9 años; el niño de Brooklyn: 3 o 4); el episodio anterior los nombraba. Grace tenía 10 años (Wikipedia); EBSCO dice 11. Se dice «seis años» y «noviembre de 1934» (carta del 11 de noviembre). Entre las fuentes, el anuncio de Edward Budd aparece el 25 de mayo de 1928 y la visita del 28 de mayo (Wikipedia); el guion dice solo «mayo de 1928». Nombre del emblema: Wikipedia y Oxygen dicen New York Private Chauffeur0027s Benevolent Association; Crime Library y otra fuente hablan de una asociación de chóferes, y alguna web dice que era el papel de una empresa: el guion dice «asociación benéfica de chóferes». Cómo se llegó a Fish: Oxygen dice que un miembro había dejado sobres en una pensión y se comparó la letra del registro; otras versiones (episodio anterior, Wikipedia) hablan de la casera y de que Fish esperaba una carta de su hijo: se deja solo lo común. Detención: 13 de diciembre de 1934 (Wikipedia); no se pudo contrastar en una segunda fuente accesible el lugar exacto (el guion dice «cuando volvió a la pensión»). Condena a muerte: el guion dice «a finales de marzo» (NYT del 26 de marzo de 1935 titula «Fish is sentenced»; no accesible). Ejecución 16 de enero de 1936, 65 años (Wikipedia, Oxygen). Cifra de víctimas: Wikipedia: al menos tres niños; Wertham creía al menos cinco (EBSCO); la policía estimó entre 8 y 15; él habló de unos cien: el guion solo dice que Grace es lo probado, dos casos más se le atribuyen y el resto es hipótesis. Se ha añadido el episodio de Charles Pope (detenido en 1930 por el secuestro de Grace y declarado no culpable en diciembre de 1930; solo Wikipedia y el NYT de 1930), pendiente de segunda fuente accesible. El episodio anterior decía que Fish «llevó a la niña a Wisteria Cottage»; el guion no da detalles del crimen ni de la carta. «Pintor de brocha gorda» y orfanato: Wikipedia y EBSCO. Dudas: ubicación exacta de Wisteria Cottage (Irvington, Westchester)."
 }

@@ -1,38 +1,72 @@
 {
   "id": "yoo",
-  "titulo": "El mismo número de teléfono",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Yoo Young-chul": "Iu Iong Chol",
     "Yoo": "Iu",
-    "The Chaser": "Ze Chéiser"
+    "Sinchon": "Sinchon",
+    "Sinsa-dong": "Sinsa dong",
+    "Gangnam": "Gángnam",
+    "Gugi-dong": "Gugui dong",
+    "Samseong-dong": "Samsong dong",
+    "Hyehwa-dong": "Jejuá dong",
+    "Bongwon": "Bonguón",
+    "Imun-dong": "Imun dong",
+    "Jeong Nam-gyu": "Chong Nam Guiu",
+    "The Chaser": "Ze Chéiser",
+    "Netflix": "Nétflics"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Seúl, julio de 2004. La responsable de un negocio de acompañantes se da cuenta de algo extraño. Varias de las mujeres que trabajaban para ella han desaparecido en los últimos meses. Todas, antes de esfumarse, habían acudido a una cita con un cliente que llamaba desde el mismo número de teléfono." },
-    { "voz": "ximena", "texto": "Cuando ese número vuelve a llamar, ella y algunos colegas deciden no quedarse esperando. Le tienden una trampa y avisan a la policía." },
-    { "voz": "alvaro", "texto": "¿Ellos mismos? ¿Gente corriente montando su propia operación para atrapar a un asesino?" },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Yoo Young-chul, al que la prensa llamó el asesino del impermeable amarillo." },
-    { "voz": "ximena", "texto": "Yoo Young-chul nació el 18 de abril de 1970 en Corea del Sur. Creció en una familia pobre y con muchas dificultades. Desde joven acumuló condenas por robos y otros delitos, y pasó buena parte de su vida adulta en prisión. Su matrimonio terminó en divorcio mientras estaba encarcelado." },
-    { "voz": "ximena", "texto": "Salió en libertad en 2003. Pocos meses después, en septiembre, empezó una serie de crímenes que conmocionaría a todo el país." },
-    { "voz": "ximena", "texto": "Primero atacó a personas mayores y adineradas, en sus casas de barrios acomodados de Seúl. Entraba en las viviendas y asesinaba a quienes estaban dentro. Apenas robaba nada. Según declaró después, le movía el odio hacia los ricos." },
-    { "voz": "alvaro", "texto": "¿Y la policía no tenía ninguna pista?" },
-    { "voz": "ximena", "texto": "Muy pocas. Los crímenes parecían no tener relación entre sí, y no había un móvil económico claro que seguir. Las investigaciones avanzaban por separado, distrito a distrito. Y tras varios meses, él cambió de objetivo." },
-    { "voz": "ximena", "texto": "A partir de entonces eligió a mujeres jóvenes que trabajaban como masajistas o acompañantes. Las citaba en su piso. Sobre este segundo grupo, según sus propias declaraciones, le movía el rencor hacia las mujeres. Eran especialmente vulnerables: su desaparición tardaba en denunciarse, y en muchos casos nadie llegó a denunciarla." },
-    { "voz": "ximena", "texto": "Por eso la clave no vino de la policía, sino de alguien de ese mismo entorno, que conocía a las desaparecidas y no se resignó. La trampa funcionó: a mediados de julio de 2004, Yoo fue retenido y entregado a los agentes." },
-    { "voz": "alvaro", "texto": "Pero todavía hubo un último giro antes de que todo terminara, ¿no?" },
-    { "voz": "ximena", "texto": "Lo hubo. Estando ya bajo custodia policial, logró escapar durante unas horas, lo que provocó duras críticas contra la policía. Fue capturado de nuevo poco después." },
-    { "voz": "ximena", "texto": "Ya detenido, confesó. Y guio a los investigadores hasta un monte cercano a un templo budista de Seúl, donde había enterrado a varias de sus víctimas." },
-    { "voz": "ximena", "texto": "La confesión conmocionó a Corea del Sur. Durante semanas, el caso ocupó las portadas y abrió un intenso debate sobre la seguridad y sobre el trabajo de la policía." },
-    { "voz": "alvaro", "texto": "¿De cuántas víctimas estamos hablando?" },
-    { "voz": "ximena", "texto": "Confesó más asesinatos de los que pudieron probarse. El tribunal lo condenó por veinte, entre personas mayores asesinadas en sus casas y mujeres jóvenes. Una cifra que lo convirtió en uno de los peores asesinos en serie de la historia de Corea del Sur." },
-    { "voz": "alvaro", "texto": "Veinte víctimas en apenas diez meses. Y una condena a muerte, supongo." },
-    { "voz": "ximena", "texto": "Así es. En diciembre de 2004 fue condenado a muerte, una pena que confirmaron después los tribunales superiores. Pero Corea del Sur no ejecuta a nadie desde 1997, y se la considera abolicionista en la práctica. Así que sigue en prisión, en el corredor de la muerte." },
-    { "voz": "alvaro", "texto": "Un caso que dejó huella también en el cine, ¿verdad?" },
-    { "voz": "ximena", "texto": "Sí. Inspiró la película surcoreana «The Chaser», de 2008, sobre un antiguo policía que busca a un asesino con un patrón muy parecido. Y en 2021, un documental con testimonios de los investigadores volvió a examinar el caso y los errores de la investigación." },
-    { "voz": "ximena", "texto": "Pero el debate que abrió en Corea fue mucho más profundo. Sobre la protección de las mujeres que trabajan en la prostitución, a menudo invisibles para el sistema. Sobre los fallos de coordinación policial. Y sobre la pena de muerte, que el país mantiene en sus leyes sin aplicarla." },
-    { "voz": "ximena", "texto": "También dejó una pregunta incómoda: por qué tuvo que ser alguien de fuera de la policía quien uniera las desapariciones. Las mujeres que trabajaban en aquel entorno sabían que algo iba mal mucho antes de que nadie las escuchara." },
-    { "voz": "ximena", "texto": "Al final, recordamos a veinte personas: hombres y mujeres mayores asaltados en sus propias casas y mujeres jóvenes a las que pocos buscaban. Y a quienes, desde los márgenes, hicieron lo que nadie más estaba haciendo." },
-    { "voz": "ximena", "texto": "Hasta aquí el expediente de Yoo Young-chul. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un número que vuelve a llamar",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Yoo Young-chul, el asesino del impermeable. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Un número que vuelve a llamar." },
+        { "voz": "ximena", "texto": "Seúl, julio de 2004. El dueño de un servicio de masajes a domicilio, cerca del barrio de Sinchon, ha notado algo que le inquieta. Varias de las mujeres a las que envió a una cita no han vuelto. Y todas habían ido a ver a un cliente que llamaba desde el mismo teléfono." },
+        { "voz": "ximena", "texto": "El 15 de julio, ese número vuelve a llamar. Pide otra mujer. Esta vez, el dueño avisa a la policía. Se concierta la cita y, cuando el cliente aparece, el dueño y sus empleados lo retienen hasta que un agente lo esposa." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Anoto quién dio el paso. No fue una brigada ni un perfilador. Fue alguien del mismo mundo que las desaparecidas, un mundo que casi nunca denuncia. Esas mujeres no figuraban en ninguna lista de personas buscadas. Él sí las echó de menos." },
+        { "voz": "ximena", "texto": "El detenido tiene treinta y tres años y está en paro. Se llama Yoo Young-chul. Acumula catorce condenas anteriores, por robo, violación, agresiones y estafa, y ha pasado unos siete años en prisión. Hace poco que ha salido de la cárcel." },
+        { "voz": "ximena", "texto": "En comisaría, el interrogatorio apenas empieza. Al día siguiente, Yoo consigue escapar de la custodia policial. Las versiones difieren: según la prensa de la época, fingió un ataque epiléptico y los agentes le aflojaron las sujeciones. Según otras, aprovechó un descuido de sus vigilantes." },
+        { "voz": "alvaro", "texto": "Es un error que costó caro a la policía de Seúl, y no solo en titulares. Durante unas doce horas, un hombre que acababa de ser detenido por la desaparición de varias mujeres estuvo libre por la ciudad. Unas doce horas después lo volvieron a capturar. Y entonces empezó a hablar." },
+        { "voz": "ximena", "texto": "Lo que contó dejó helados a los investigadores. Yoo dijo que había matado a diecinueve personas en once meses. Más tarde subió la cifra a veintiséis, sin explicar por qué. Y una parte de su relato encajaba con unos crímenes que llevaban casi un año sin resolver." },
+        { "voz": "ximena", "texto": "Habían empezado el 24 de septiembre de 2003, en Sinsa-dong, un barrio acomodado de Gangnam. Un matrimonio mayor apareció muerto en su casa. Él había sido profesor universitario. No faltaba dinero ni objetos de valor." },
+        { "voz": "ximena", "texto": "Dieciséis días después, en Gugi-dong, mataron a tres miembros de una familia. El 16 de octubre, a una mujer de sesenta y nueve años en Samseong-dong. El 18 de noviembre, a dos personas en Hyehwa-dong, en una casa a la que el autor prendió fuego para borrar pruebas." },
+        { "voz": "alvaro", "texto": "Lo que desconcertaba a los investigadores era el móvil. Todo parecía un robo, pero no se llevaba nada. Las víctimas no tenían relación entre sí. Pruebas, muy pocas: huellas de un mismo calzado en varias casas y una cámara de seguridad que grabó a un hombre de espaldas, con una chaqueta de una de las víctimas." },
+        { "voz": "ximena", "texto": "Según contaron después los investigadores, aquellas imágenes cambiaron su conducta. Yoo dejó de entrar en casas de barrios ricos. A partir de marzo de 2004 empezó a citar en su piso, en el oeste de Seúl, a mujeres que trabajaban como masajistas y acompañantes." },
+        { "voz": "ximena", "texto": "Sus desapariciones apenas se denunciaban. Trabajaban en un entorno que rara vez acude a la policía, y en el que una mujer que deja de aparecer no suele llamar la atención de nadie." },
+        { "voz": "alvaro", "texto": "Me detengo aquí, porque es el centro del expediente. Mi lectura es esta. Durante meses, los asesinatos de personas mayores ocuparon a los investigadores de la capital. Las mujeres que desaparecían en los márgenes no estaban en el mismo mapa. Nadie unió los dos grupos hasta que el propio Yoo lo hizo al confesar." },
+        { "voz": "ximena", "texto": "Según la policía, Yoo explicó así sus motivos: culpaba a los ricos de su vida miserable. Y, tras divorciarse de su mujer, que trabajaba como masajista, empezó a buscar a mujeres de esa misma profesión." },
+        { "voz": "ximena", "texto": "Pero una confesión no es una prueba. La policía admitía que tenía muy pocas pruebas materiales. Necesitaba encontrar a las desaparecidas. Y Yoo dijo saber dónde estaban." },
+        { "voz": "ximena", "texto": "Días después, los agentes lo llevaron esposado hasta un monte de Seúl. Y en una ladera, detrás de un templo budista, Yoo señaló dónde tenían que cavar." }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Una ladera detrás del templo",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Una ladera detrás del templo." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Yoo Young-chul, detenido en Seúl en julio de 2004. Mató a personas mayores en sus casas de barrios acomodados y, después, a mujeres que trabajaban como masajistas y acompañantes, a las que citaba en su piso." },
+        { "voz": "ximena", "texto": "En las laderas cercanas al templo de Bongwon, los agentes encontraron los restos de once mujeres. La excavación se hizo ante cámaras y periodistas, con el detenido presente. Corea del Sur entera siguió aquellas imágenes." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Hay un episodio que la propia policía revisó después con incomodidad. En el documental de Netflix de 2021, algunos agentes admitieron que exhibir al detenido ante la prensa le dio un escenario. Y reconocieron que en el interrogatorio hubo golpes. Nada de eso ayudó al caso." },
+        { "voz": "ximena", "texto": "En ese mismo documental se recuerda otra escena. La madre de una de las víctimas intentó golpear a Yoo con un paraguas. Un agente la apartó con violencia. Es una de las escenas que el documental vuelve a mostrar, casi veinte años después." },
+        { "voz": "alvaro", "texto": "Repaso el problema de la acusación. Yoo había confesado cifras que cambiaban. Una de las muertes que se atribuyó, la de una mujer joven en Imun-dong, en febrero de 2004, la negó en el juicio. Años después, ese crimen se atribuyó a otro asesino en serie, Jeong Nam-gyu." },
+        { "voz": "alvaro", "texto": "La lección es vieja: un hombre que presume de muertes no es un testigo fiable, ni siquiera contra sí mismo. Cada asesinato tenía que probarse por separado: con restos, con huellas, con objetos de las víctimas. No con su palabra." },
+        { "voz": "ximena", "texto": "El 13 de diciembre de 2004, el Tribunal de Distrito Central de Seúl lo condenó a muerte por veinte asesinatos. El tribunal dejó fuera el caso de Imun-dong. En junio de 2005, el Tribunal Supremo confirmó la sentencia." },
+        { "voz": "ximena", "texto": "Entre las víctimas reconocidas había personas mayores asesinadas en sus casas, miembros de sus familias y once mujeres que trabajaban como masajistas o acompañantes. Lo convirtieron en uno de los asesinos en serie más conocidos de Corea del Sur." },
+        { "voz": "ximena", "texto": "Pero Corea del Sur no ejecuta a nadie desde 1997. La pena de muerte sigue en sus leyes y los tribunales la imponen, pero no se aplica. Yoo sigue preso en Seúl, en el corredor de la muerte, más de veinte años después. En 2014 se supo que había sobornado a guardias para meter en su celda material prohibido." },
+        { "voz": "alvaro", "texto": "Anoto lo que la sentencia no resolvió. La cifra real. Yoo habló de diecinueve, de veintiséis, de crímenes en otras ciudades. La policía amplió la búsqueda, pero el tribunal solo dio por probados veinte. Y en algunos casos hubo que esperar años para descartar los que no eran suyos." },
+        { "voz": "ximena", "texto": "El caso abrió en Corea un debate que todavía sigue. Sobre la pena de muerte, que el país mantiene sin aplicarla. Sobre los fallos de la policía: la fuga, los golpes, la exhibición del detenido. Y sobre las mujeres que trabajan en la prostitución, invisibles para el sistema que debía protegerlas." },
+        { "voz": "ximena", "texto": "También llegó al cine. Inspiró de forma libre la película «The Chaser», de 2008, sobre un antiguo policía que busca a un asesino. Y en 2021 Netflix estrenó una serie documental con los investigadores. Su título en inglés lo llama el asesino del impermeable." },
+        { "voz": "alvaro", "texto": "Me quedo con la pregunta incómoda que deja este expediente. ¿Por qué tuvo que ser alguien de fuera de la policía quien uniera las desapariciones? Las mujeres de aquel entorno sabían que algo iba mal mucho antes. Lo que faltó fue alguien dispuesto a escucharlas." },
+        { "voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a veinte personas. A los hombres y mujeres mayores asaltados en sus propias casas, y a sus familias. Y a las once mujeres a las que pocos buscaban, y que durante semanas nadie echó de menos." },
+        { "voz": "ximena", "texto": "Y a quien, desde los márgenes, hizo lo que nadie más estaba haciendo: contar a las que faltaban." },
+        { "voz": "ximena", "texto": "Fin del expediente de Yoo Young-chul. Archivo de TRUE CRIME CALENDAR." }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes en web/datos/fuentes/yoo.json; también se ha consultado Wikipedia en coreano (유영철). DISCREPANCIAS: 1) Quién lo descubrió. El guion v2 hablaba de «la responsable» de un negocio de acompañantes que, con unos colegas, le tendió una trampa. Las fuentes hablan de un hombre: el dueño de un servicio de masajes a domicilio cerca de Sinchon (Wikipedia en coreano), «massage parlor owner» (Korea JoongAng Daily, 18/7/2004) o dueño de un burdel e informante de la policía (The National, 2021, sobre el documental). Según Wikipedia en inglés, los empleados del local lo retuvieron y un policía lo esposó; según JoongAng, la policía rastreó la llamada. El guion dice que el dueño avisó a la policía y que él y sus empleados lo retuvieron hasta que un agente lo esposó. 2) Salida de prisión: 11/9/2003 (Wikipedia en coreano) o diciembre (de 2002, según la redacción de JoongAng); el guion dice «hace poco». 3) La fuga: fingió un ataque epiléptico y le aflojaron las sujeciones (JoongAng, Wikipedia en inglés), empujó a un agente (Wikipedia en coreano) o salió cuando los dos vigilantes dejaron la sala (The National); recapturado unas 11 o 12 horas después. El guion da dos versiones y dice «unas doce horas». 4) Fecha de la sentencia: 13/12/2004 (Wikipedia en inglés y texto de la coreana) o 3/12/2004 (nota de la coreana); Supremo: 8/6/2005 (JoongAng, Wikipedia en inglés) o 9/6/2005 (coreana); el guion dice «junio de 2005». 5) Samseong-dong: 16 de octubre (The National, Wikipedia en coreano) o noviembre (JoongAng); el guion sigue la primera. 6) Lugar de los restos: detrás del templo de Bongwon (Wikipedia en inglés: 11 cuerpos) o cerca de Bongwonsa y de un sendero de la colina de la Universidad Sogang (coreana); el guion dice «en las laderas cercanas al templo de Bongwon». 7) Ficha, alias «El asesino del impermeable amarillo»: no se ha encontrado el origen del apodo ni la palabra «amarillo» en las fuentes; el guion dice que el título en inglés del documental de Netflix lo llama el asesino del impermeable. Conviene revisar el alias de la ficha. 8) Del guion v2 se ha quitado que las investigaciones «avanzaban por separado, distrito a distrito» (sin fuente). Datos atribuidos al documental de Netflix (vía The National): los golpes en el interrogatorio, la crítica a exhibirlo ante la prensa y la escena de la madre con el paraguas. RESPETO: no se nombra a ninguna víctima; no se describen métodos."
 }

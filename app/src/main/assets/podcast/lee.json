@@ -1,6 +1,6 @@
 {
   "id": "lee",
-  "titulo": "El hombre que no buscaban",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Derrick Todd Lee": "Dérrik Tod Li",
@@ -8,121 +8,181 @@
     "Baton Rouge": "Báton Rúch",
     "Lafayette": "Lafaiét",
     "St. Francisville": "Séint Fránsisvil",
-    "FBI": "efe be i",
+    "Zachary": "Zácari",
+    "Breaux Bridge": "Bró Brich",
+    "Angola": "Angóula",
+    "DNAPrint Genomics": "Di Ene Ei Print Yenómics",
     "Gina Wilson Green": "Yína Uílson Grin",
+    "Geralyn DeSoto": "Yéralin De Sóto",
     "Charlotte Murray Pace": "Chárlot Múrrei Péis",
     "Pam Kinamore": "Pam Kínamor",
     "Trineisha Dené Colomb": "Triníshia Dené Colóm",
     "Carrie Yoder": "Kéri Ióuder",
-    "Geralyn DeSoto": "Yéralin De Sóto",
-    "Dannie Mixon": "Dáni Míxon",
+    "Randi Mebruer": "Rándi Mébruer",
+    "Connie Warner": "Cóni Uórner",
+    "McDavid": "Macdévid",
+    "West Baton Rouge": "Uést Báton Rúch",
     "Atlanta": "Atlánta"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Primavera de 2003. Un laboratorio de Florida entrega a los investigadores de Luisiana un informe que nadie esperaba. Según el análisis genético, el hombre al que persiguen desde hace meses no es blanco."
+      "n": 1,
+      "titulo": "Un informe de Florida",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Derrick Todd Lee, el asesino de Baton Rouge. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un informe de Florida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Luisiana, 2003. Sobre la mesa de los investigadores hay un informe de un laboratorio privado de Florida, DNAPrint Genomics. Analiza el ADN que un asesino ha dejado en varias escenas del crimen. Y concluye algo que casi nadie esperaba: el hombre al que buscan tiene un origen mayoritariamente africano."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hasta ese momento, uno de los mayores operativos que había visto el estado buscaba a un hombre blanco. Así lo sugería el perfil del FBI, que hablaba de un hombre blanco de entre veinticinco y treinta y cinco años. Y así lo habían descrito algunos testigos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un perfil es una hipótesis, no una prueba. Aquí se trató como una certeza. Mientras la policía buscaba a quien encajaba en el retrato, el ADN, que no sabe de perfiles, esperaba. Es lo que más me inquieta de este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Para entender cómo se llegó hasta ahí hay que volver a septiembre de 2001. Gina Wilson Green aparece muerta en su casa de Baton Rouge. El ADN que deja el agresor queda guardado, pero aún no se sabe qué significa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 2002 muere Geralyn DeSoto. Su marido es el primer sospechoso. En mayo muere Charlotte Murray Pace, también en su casa de Baton Rouge. Todavía se tratan como casos separados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es lo difícil de ver desde fuera. Cada caso, solo, tenía una explicación posible. Hace falta que el laboratorio ponga dos muestras juntas para que aparezca la serie. Y eso tarda."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 9 de julio de 2002, una mujer sobrevive a un ataque en Breaux Bridge y ayuda a la policía a hacer un retrato del agresor. Tres días después, Pam Kinamore desaparece de su casa en Baton Rouge. Su ADN coincide con el de Green y Pace. Ya no hay duda: es la misma persona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se forma un grupo especial con policías locales, estatales y federales. Pero el asesino sigue actuando. El 21 de noviembre desaparece Trineisha Dené Colomb, en Lafayette. Y el 3 de marzo de 2003, Carrie Yoder, de su apartamento cerca de la universidad de Baton Rouge."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Seis mujeres en año y medio. En sus casas o sacadas de ellas. Imagino lo que significaba vivir allí entonces. Las propias mujeres de la zona cambiaron sus costumbres, y las llamadas con pistas no dejaron de llegar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El grupo especial tomó muestras de ADN a numerosos hombres de la zona. Nadie coincidía. Cada descarte parecía confirmar que el asesino era alguien al que aún no habían encontrado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Derrick Todd Lee había nacido el 5 de noviembre de 1968 en St. Francisville, Luisiana. Dejó el instituto en el penúltimo curso. Con trece años, en 1981, lo detuvieron por un robo. En 1993 lo condenaron a trabajos forzados por allanamiento, y en 1995 y 1997 lo detuvieron por espiar a mujeres."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Estaba casado y tenía hijos. Y la policía de Zachary lo tenía en el radar por casos antiguos, como la desaparición de Connie Warner en 1992. Nunca se le acusó de esa muerte. El jefe de policía, David McDavid, dijo años después que creían que lo había hecho, pero que no podían probarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un hombre con antecedentes de allanamiento y de merodeo, a pocos kilómetros de las escenas, mientras toda Luisiana buscaba a otro. Las fuentes no explican del todo por qué su nombre no apareció antes. Lo que consta es que el perfil miraba hacia otro lado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entonces llegó el informe de Florida, y el retrato que todos tenían en la cabeza se vino abajo. El análisis estimaba un origen africano cercano al ochenta y cinco por ciento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con cuidado. Esa prueba no daba un nombre. Solo obligaba a levantar la vista. Y a recordar a un hombre al que ya conocían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Faltaba una muestra de saliva y una carrera contra el reloj. En la cinta dos: un hisopo, una huida a Atlanta y una condena que no cerró todas las preguntas."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "Es una noticia incómoda. Durante todo ese tiempo, el operativo ha buscado a un hombre blanco. Lo sugería el perfil, lo decían algunos testigos. Y lo daba por hecho, sobre todo, la intuición de muchos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Me estás diciendo que llevaban meses buscando al hombre equivocado?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Al tipo de hombre equivocado. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Derrick Todd Lee, el asesino de Baton Rouge."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nació el 5 de noviembre de 1968 en St. Francisville, una pequeña localidad de Luisiana. Desde joven acumuló antecedentes: robos, allanamientos y denuncias por espiar a mujeres en sus casas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Era un hombre casado, con hijos, conocido en su comunidad. Las sospechas sobre él en algunos casos sin resolver de su zona se remontaban a los años noventa. Pero nada en su vida pública lo señalaba como el autor de una serie que aterrorizaría a todo un estado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 2001 y 2003, varias mujeres fueron asesinadas en sus casas en la zona de Baton Rouge y Lafayette. Entre ellas, Gina Wilson Green, Charlotte Murray Pace, Pam Kinamore, Trineisha Dené Colomb y Carrie Yoder."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuándo se dieron cuenta de que era el mismo hombre?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Gracias al ADN. En 2002, los análisis vincularon varios de los crímenes a un mismo agresor. Se formó un grupo especial con policías locales, agentes estatales y del FBI. La ciudad vivía con miedo, y muchas mujeres cambiaron sus rutinas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La presión era enorme. La prensa seguía cada paso y el grupo especial recibió miles de pistas de ciudadanos. Cada nueva víctima aumentaba el miedo y la sensación de que el asesino iba un paso por delante."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Un testigo había hablado de una camioneta blanca. El perfil apuntaba a un hombre blanco. Y el grupo especial tomó muestras de ADN a más de mil hombres de la zona. Ninguna coincidía."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entonces llegó el informe de Florida. Un análisis de ascendencia genética, muy novedoso en aquel momento, indicaba que el agresor tenía un origen mayoritariamente africano. El retrato que todos tenían en la cabeza se vino abajo."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y mientras tanto, ¿nadie se había fijado en Lee?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Alguien sí. En St. Francisville, un investigador, Dannie Mixon, llevaba tiempo siguiendo su rastro por casos antiguos sin resolver de esa zona. Estaba convencido de que había que comparar su ADN, aunque no encajara en el perfil oficial."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En mayo de 2003 consiguió una muestra de saliva de Lee. El laboratorio la comparó con el perfil del asesino en serie. Coincidía."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para entonces, Lee ya había abandonado Luisiana. Fue detenido días después en Atlanta, a finales de mayo de 2003."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La noticia corrió por Luisiana con alivio, pero también con estupor. El hombre al que nadie buscaba vivía a menos de una hora en coche de algunas de las escenas del crimen."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y por cuántos asesinatos lo juzgaron?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Por dos. En 2004 fue condenado a cadena perpetua por el asesinato de Geralyn DeSoto y, ese mismo año, a muerte por el de Charlotte Murray Pace. El ADN lo vinculó en total con siete muertes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pasó más de una década en el corredor de la muerte, mientras sus recursos seguían su curso. Murió en 2016, por una enfermedad del corazón, sin haber sido ejecutado."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Este caso se estudia hoy en academias de policía de muchos países. No por el asesino, sino por el error: un perfil tomado como si fuera una certeza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las ideas previas sobre el aspecto del asesino hicieron que, durante meses, un sospechoso con antecedentes quedara fuera del foco. Un perfil sirve para orientar, no para descartar a nadie por el color de su piel. Desde entonces, muchos manuales insisten en revisar el perfil con cada nueva prueba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "También fue uno de los primeros casos en los que un análisis de ascendencia por ADN ayudó a reorientar una investigación criminal. Una herramienta potente, que también abre debates éticos sobre lo que se puede deducir de nuestros genes."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "La lección vale para cualquier investigación: el perfil orienta, pero no sustituye a las pruebas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Y detrás de esa lección están ellas: mujeres de Baton Rouge y Lafayette que vivían sus vidas con normalidad, en sus propias casas. Y familias que esperaron demasiado tiempo una respuesta, mientras la investigación buscaba en la dirección equivocada."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Derrick Todd Lee. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una muestra de saliva",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una muestra de saliva."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Derrick Todd Lee. Con el informe de Florida sobre la mesa, la investigación cambia de rumbo. Ya no se busca al hombre del perfil. Se busca a alguien con antecedentes en la zona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Insisto en lo que no hizo esa prueba. No identificó a nadie. Lo que hizo fue llevar a los agentes de Zachary a una puerta que ya conocían. Esa es la diferencia entre una herramienta y una respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 5 de mayo de 2003, los agentes obtuvieron una muestra de ADN de Lee. Lee dejó Luisiana poco después, camino de Chicago y de Atlanta. Los resultados llegaron el 25 de mayo: su ADN coincidía con el de las víctimas de la serie."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 26 de mayo se dictó una orden de detención por el asesinato de Carrie Yoder. Al día siguiente, 27, lo arrestaron en Atlanta, a la salida de un taller de neumáticos. Volvió a Baton Rouge, donde ingresó en prisión el 28."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Luisiana respiró. Pero hay que ser precisos con las cifras. Se le atribuyen siete muertes entre 1998 y 2003. Otras, como la de Connie Warner, nunca llegaron a acusación. Y hay quien le atribuye más. Son sospechas, no sentencias."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una de las siete es Randi Mebruer, que desapareció en abril de 1998 en Zachary. Su cuerpo nunca se encontró. Las autoridades lo señalaron como principal sospechoso y hoy se la cuenta entre sus víctimas, pero nunca hubo juicio por su caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La detención se recibió con alivio, pero también con incomodidad: durante meses la investigación había buscado en la dirección contraria, y las mujeres de la zona lo habían sufrido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los fiscales eligieron dos casos. En agosto de 2004, un jurado de la parroquia de West Baton Rouge lo declaró culpable del asesinato en segundo grado de Geralyn DeSoto. La pena fue cadena perpetua, sin libertad condicional."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se eligió ese cargo porque no hubo agresión sexual. La acusación por Charlotte Murray Pace era de otra naturaleza, y con ella la pena capital. Es una decisión de estrategia: ir primero por el caso más sencillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A mediados de octubre de 2004, otro jurado lo declaró culpable de la muerte de Charlotte Murray Pace. En diciembre fue condenado a muerte por inyección letal. El Tribunal Supremo de Luisiana confirmó la sentencia en enero de 2008."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lee pasó unos doce años en el corredor de la muerte de la penitenciaría de Angola. Nunca fue ejecutado. Murió el 21 de enero de 2016, a los cuarenta y siete años, por complicaciones de una enfermedad del corazón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una mujer que sobrevivió a un ataque de Lee en Breaux Bridge ayudó a la policía a hacer un retrato. Años después reclamó una recompensa de cien mil dólares a una organización local, y en 2010 un tribunal dio la razón a la organización."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dejo para los manuales lo esencial. Primero, un perfil orienta, pero no descarta a nadie por su aspecto. Segundo, hay que revisar el perfil con cada prueba nueva. Y tercero, un nombre que ya estaba en un cajón puede valer más que mil muestras al azar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue de los primeros casos conocidos en que la ascendencia genética reorientó una investigación. Abrió un debate que sigue vivo: lo que el ADN permite deducir de una persona es útil, pero es una estimación, y no sustituye a la prueba."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto también lo que el juicio dejó fuera. Con una condena a cadena perpetua y otra a muerte, el sistema dio por cerrada la parte penal. Pero no hubo juicio por las demás muertes, y varias familias no tuvieron un veredicto propio. Una condena cierra un caso; no siempre cierra las preguntas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y quedan ellas. Gina Wilson Green, Geralyn DeSoto, Charlotte Murray Pace, Pam Kinamore, Trineisha Dené Colomb, Carrie Yoder y Randi Mebruer. Mujeres que vivían con normalidad en sus casas. Y familias que esperaron años una respuesta mientras se buscaba en la dirección equivocada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Derrick Todd Lee. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Fuentes: Wikipedia en inglés, WBRZ (cronología), Oxygen (Mark of a Killer) y prensa. DISCREPANCIAS CON EL EPISODIO V2: (1) El v2 atribuía la muestra de saliva a «Dannie Mixon, investigador de St. Francisville» en mayo de 2003: no he encontrado ninguna fuente que lo confirme; las fuentes dicen que la policía de Zachary conocía a Lee y que se obtuvo su ADN el 5/5/2003 (WBRZ, Oxygen); Wikipedia dice que dio una muestra voluntaria y huyó hacia el 10 de mayo. Se eliminó el nombre. (2) El v2 hablaba de «más de mil» muestras de ADN y de una camioneta blanca: no confirmado; el guion dice «numerosos hombres» y «algunos testigos». (3) El v2 situaba el informe de Florida en la primavera de 2003; ninguna fuente lo fecha, el guion dice solo «2003». (4) Condenas: agosto de 2004 (DeSoto, cadena perpetua) y octubre de 2004 (Pace; 13/10 según WBRZ, 14/10 según Wikipedia; el guion dice «mediados de octubre»); condena a muerte en diciembre (Oxygen). (5) Fecha del asesinato de Green: 23/9/2001 (Wikipedia) o 24/9 (WBRZ): se dice «septiembre de 2001». (6) La ficha dice periodo 1992–2003; las fuentes sitúan las siete muertes vinculadas entre 1998 y 2003 (1992 es el caso de Connie Warner, sin acusación). (7) Lugar de la muerte de DeSoto: Addis (Wikipedia) o Baton Rouge (WBRZ): no se menciona. Respeto: todas las víctimas eran adultas; no se dan métodos. A la superviviente de Breaux Bridge no se la nombra. La muestra de ADN se tomó el 5/5 y los resultados llegaron el 25/5 (Reveille, 2003); arresto el 27/5 en Atlanta a la salida de un taller (Reveille, Oxygen). Mebruer y Warner: en 2003 se les llamaba solo «principal sospechoso» (Reveille); hoy Wikipedia y Oxygen cuentan a Mebruer entre las siete víctimas; el guion lo matiza. Duda: la afirmación de Wikipedia de que huyó hacia el 10 de mayo tras una muestra voluntaria."
 }

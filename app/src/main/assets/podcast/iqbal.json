@@ -1,37 +1,63 @@
 {
   "id": "iqbal",
-  "titulo": "La carta de los cien",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Javed Iqbal": "Yavéd Icbál",
     "Iqbal": "Icbál",
     "Lahore": "Lajór",
-    "Jang": "Yang"
+    "Jang": "Yang",
+    "Allah Bukhsh Ranjha": "Alá Buksh Ránya",
+    "Kot Lakhpat": "Kot Lakpát",
+    "Moinuddin Haider": "Moinudín Jáider",
+    "Asma Jehangir": "Ásma Yahanguír"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Lahore, Pakistán, diciembre de 1999. A la policía y a la redacción de un periódico llega una carta. El autor dice haber asesinado a cien niños. Da su nombre y su dirección. Y anuncia que piensa quitarse la vida." },
-    { "voz": "ximena", "texto": "La policía acude a la dirección. Lo que encuentra allí confirma que no se trata de una broma. Pero el autor de la carta ya no está." },
-    { "voz": "alvaro", "texto": "¿Y adónde había ido?" },
-    { "voz": "ximena", "texto": "Nadie lo sabía. Su fotografía se difundió por todo el país y comenzó una de las mayores búsquedas de su historia. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Javed Iqbal, el asesino en serie que conmocionó a Pakistán." },
-    { "voz": "ximena", "texto": "Javed Iqbal nació en 1956 en Lahore, en una familia acomodada. Dirigió varios pequeños negocios y vivía en la ciudad sin llamar demasiado la atención. Años antes había sido denunciado por abusos a menores." },
-    { "voz": "ximena", "texto": "Según su propio relato, decidió vengarse de la sociedad tras un enfrentamiento con la policía. No hay forma de comprobar sus motivos, y conviene no darles demasiado crédito. Lo que sí está documentado es el resultado." },
-    { "voz": "ximena", "texto": "Entre 1998 y 1999, según su confesión, atrajo hasta su casa a niños de la calle y chicos que se habían fugado de sus hogares, de entre seis y dieciséis años. Les ofrecía comida, un lugar donde dormir o pequeños regalos. Muchos no tenían a nadie que denunciara su desaparición." },
-    { "voz": "alvaro", "texto": "Niños de la calle. Justo las víctimas que menos atención reciben de las autoridades." },
-    { "voz": "ximena", "texto": "Exacto. En su casa, la policía encontró fotografías de muchos niños, ropa, zapatos y un diario con anotaciones. También restos que confirmaban que, al menos en parte, lo que decía la carta era cierto." },
-    { "voz": "ximena", "texto": "La ropa y las fotografías se mostraron al público. Familias de distintos lugares viajaron a Lahore para verlas. Muchas reconocieron las prendas de sus hijos. Así se pusieron nombres a víctimas que, de otra forma, habrían quedado sin identificar." },
-    { "voz": "alvaro", "texto": "¿Y él? ¿Seguía sin aparecer?" },
-    { "voz": "ximena", "texto": "Durante casi un mes. Hasta que, a finales de diciembre de 1999, se presentó en la redacción del diario Jang, uno de los periódicos a los que había escrito. Dijo que temía que la policía lo matara si lo detenía. Prefería entregarse ante periodistas." },
-    { "voz": "ximena", "texto": "Días antes, uno de sus presuntos cómplices había muerto bajo custodia policial, tras caer por una ventana durante un interrogatorio. Aquello alimentó sus temores, y también las críticas contra la policía." },
-    { "voz": "ximena", "texto": "El juicio se celebró en el año 2000, junto a varios presuntos cómplices, algunos muy jóvenes. Iqbal se retractó y dijo que todo había sido una invención para llamar la atención sobre la situación de los niños de la calle. El tribunal no le creyó: los diarios, las pruebas y las identificaciones pesaban demasiado." },
-    { "voz": "ximena", "texto": "En marzo de 2000 fue condenado a muerte. La sentencia incluía, además, unos términos tan extremos que pretendían reproducir sus crímenes. Las propias autoridades paquistaníes anunciaron que no permitirían cumplirla de esa forma." },
-    { "voz": "alvaro", "texto": "Y, al final, la sentencia nunca se ejecutó." },
-    { "voz": "ximena", "texto": "No. En octubre de 2001 fue hallado muerto en su celda de una prisión de Lahore, junto a uno de sus cómplices. Según la versión oficial, se quitaron la vida. Hubo dudas sobre esa versión, pero nunca se aclararon del todo." },
-    { "voz": "ximena", "texto": "La cifra de cien víctimas procede de su confesión y de sus propios registros. Es imposible saber con exactitud cuántos niños murieron. Pero las pruebas halladas en su casa y las familias que reconocieron la ropa convencieron al tribunal de que no era una invención." },
-    { "voz": "alvaro", "texto": "¿Cambió algo para los niños de la calle en Pakistán?" },
-    { "voz": "ximena", "texto": "El caso provocó un debate nacional. Organizaciones de defensa de la infancia denunciaron la desprotección de miles de niños que vivían en las calles de las grandes ciudades, y la poca atención que recibían las denuncias por sus desapariciones." },
-    { "voz": "ximena", "texto": "Hoy, su recuerdo sigue siendo incómodo en Pakistán. No solo por los crímenes, sino por lo que revelaron: que durante meses decenas de niños pudieron desaparecer sin que las instituciones reaccionaran." },
-    { "voz": "ximena", "texto": "Las víctimas de este expediente apenas tienen rostro público. Muchas eran chicos que habían huido de la pobreza o de la violencia en sus casas y que buscaban en la gran ciudad una oportunidad. Encontraron lo contrario." },
-    { "voz": "ximena", "texto": "Recordarlas es también recordar a todos los niños que hoy siguen viviendo en la calle, en Lahore y en tantas otras ciudades del mundo. Protegerlos no es solo tarea de la policía, sino de toda una sociedad. Hasta aquí el expediente de Javed Iqbal. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una carta en Lahore",
+      "tipo": "hallazgo",
+      "bloques": [
+        {"voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Javed Iqbal, el asesino en serie de Lahore. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."},
+        {"voz": "ximena", "texto": "Cinta uno. Una carta en Lahore."},
+        {"voz": "ximena", "texto": "Lahore, Pakistán, diciembre de 1999. A la policía y a la redacción de un periódico llega una carta. Quien la firma dice haber matado a cien niños. Da su nombre y su dirección."},
+        {"voz": "ximena", "texto": "La policía acude a esa casa. Lo que encuentra allí confirma que no se trata de una broma. Pero el autor de la carta ya no está."},
+        {"voz": "alvaro", "texto": "Nota del inspector. Anoto lo hallado sin entrar en detalles que no hacen falta: fotografías de muchos niños, ropa y zapatos, y una cuba con restos de dos cuerpos. Y la cifra que la carta daba y el registro no podía cerrar. Cien niños. Dos cuerpos."},
+        {"voz": "ximena", "texto": "Las fotografías y las prendas se mostraron al público. Familias de distintos puntos del país viajaron a Lahore para verlas. Muchos padres reconocieron la ropa de sus hijos. Así se puso nombre a víctimas que, de otro modo, habrían quedado sin identificar."},
+        {"voz": "ximena", "texto": "Según la confesión, eran niños de la calle y chicos fugados de sus casas, de entre seis y dieciséis años. Los abordaba en lugares concurridos de la ciudad, entre ellos un santuario muy visitado. Les ofrecía comida, un sitio donde dormir o pequeños regalos."},
+        {"voz": "alvaro", "texto": "Esto es lo que más me inquieta, y es una hipótesis mía. Muchos de esos chicos no tenían a nadie que denunciara su desaparición. Un niño que nadie busca puede desaparecer durante meses sin que ninguna institución se entere."},
+        {"voz": "ximena", "texto": "Javed Iqbal era de Lahore, hijo de una familia de comerciantes. Dirigía pequeños negocios y vivía sin llamar la atención. Las fuentes no coinciden en su edad: entre los cuarenta y los cuarenta y dos años en el año 2000. Según una de ellas, años antes la policía lo había detenido tras la denuncia de un chico fugado, y no hubo cargos."},
+        {"voz": "ximena", "texto": "En la carta decía haber actuado por venganza contra la sociedad y contra la policía, tras un enfrentamiento anterior. No hay forma de comprobar sus motivos. Lo documentado es el resultado."},
+        {"voz": "alvaro", "texto": "Mi cautela es esta. Un hombre que escribe «cien» ofrece una cifra redonda, y la cifra es suya. No digo que mienta. Digo que lo comprobable son las familias que reconocieron la ropa y los restos hallados en la casa."},
+        {"voz": "ximena", "texto": "Se difundió su fotografía por todo el país y comenzó una de las mayores búsquedas de su historia. Durante semanas, nadie supo dónde estaba."},
+        {"voz": "ximena", "texto": "Entretanto, al menos uno de sus presuntos cómplices murió bajo custodia policial. Según la versión oficial, saltó por una ventana durante un interrogatorio. Aquello alimentó las críticas contra la policía, y los temores del propio Iqbal."},
+        {"voz": "ximena", "texto": "El 30 de diciembre de 1999 se presentó en la redacción del diario Jang, uno de los periódicos a los que había escrito. Dijo que temía que la policía lo matara si lo detenía. Prefería entregarse ante periodistas."},
+        {"voz": "alvaro", "texto": "Y ahí termina la búsqueda, pero empieza la parte difícil. Probar ante un tribunal una cifra de cien, con dos cuerpos y la palabra de un hombre que ya empezaba a desdecirse."}
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "El bloque siete",
+      "tipo": "juicio",
+      "bloques": [
+        {"voz": "ximena", "texto": "Cinta dos. El bloque siete."},
+        {"voz": "ximena", "texto": "Esta cinta cierra el expediente de Javed Iqbal, que se entregó en Lahore el 30 de diciembre de 1999 tras confesar por carta la muerte de cien niños."},
+        {"voz": "ximena", "texto": "El juicio empezó en febrero de 2000, ante el juez Allah Bukhsh Ranjha. Iqbal y los presuntos cómplices, algunos menores de catorce años, se declararon no culpables."},
+        {"voz": "ximena", "texto": "Iqbal se retractó. Dijo ser inocente y que no había matado a nadie. El tribunal no le creyó. Pesaban su carta, los restos hallados en su casa, las fotografías y la ropa que los padres reconocieron. A dos de sus cómplices los habían detenido en un banco, al intentar cobrar un cheque a su nombre."},
+        {"voz": "alvaro", "texto": "Pondero la prueba con cuidado. De cien víctimas, la policía halló restos de dos. El resto de la acusación se apoyó en la confesión y en lo que reconocieron las familias. El tribunal consideró que bastaba. Yo anoto que el número de cien sigue siendo, hoy, el suyo."},
+        {"voz": "ximena", "texto": "El 16 de marzo de 2000, el juez lo condenó a muerte por cien asesinatos y le sumó setecientos años de cárcel por destruir pruebas. Tres cómplices también fueron condenados: uno a muerte y dos, menores de edad, a largas penas de prisión."},
+        {"voz": "alvaro", "texto": "No voy a repetir la forma de ejecución que dictó el juez: pretendía reproducir los crímenes. El ministro del Interior, Moinuddin Haider, dijo que ese castigo no estaba permitido. La abogada Asma Jehangir la calificó de bárbara."},
+        {"voz": "ximena", "texto": "Iqbal recurrió. El Tribunal Superior de Lahore remitió el recurso al Tribunal Federal de la Sharía, que empezó a ocuparse del asunto en septiembre de 2001. No llegó a resolverlo."},
+        {"voz": "ximena", "texto": "El martes 9 de octubre de 2001, hacia las cinco de la madrugada, Iqbal y un cómplice condenado aparecieron muertos en celdas contiguas de la prisión de Kot Lakhpat. Los responsables de la cárcel hablaron de suicidio."},
+        {"voz": "alvaro", "texto": "Esa versión tuvo dudas desde el primer día. Según la prensa pakistaní, las autopsias mostraron marcas en el cuello y heridas antiguas. Y los propios policías dudaban de que dos hombres se ahorcaran a la vez. No sé qué pasó. Sí sé que nunca se aclaró."},
+        {"voz": "ximena", "texto": "Dos guardias, según la versión oficial, no vigilaron aquella noche. Los hermanos de Iqbal no quisieron recoger su cuerpo."},
+        {"voz": "ximena", "texto": "La muerte bajo custodia de uno de los acusados provocó también una renovación de la cúpula de la policía de Lahore."},
+        {"voz": "alvaro", "texto": "Y aquí hay una enseñanza incómoda. Un sistema que no buscó a los niños tampoco supo cuidar a quien debía responder por ellos. No es un reproche a nadie en concreto. Es una constatación de cómo se vivía la ley."},
+        {"voz": "ximena", "texto": "Las víctimas de este expediente apenas tienen rostro público. Eran niños y adolescentes de entre seis y dieciséis años, muchos huidos de la pobreza o de la violencia. Buscaban en la gran ciudad una oportunidad."},
+        {"voz": "ximena", "texto": "Este expediente lleva el nombre de quien lo causó, pero no le pertenece. Pertenece a ellos. Y a las familias que viajaron a Lahore para mirar una fotografía y reconocer una camisa."},
+        {"voz": "ximena", "texto": "Fin del expediente de Javed Iqbal. Archivo de TRUE CRIME CALENDAR."}
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Versión 3 en 2 cintas. Fuentes: Wikipedia (en), Dawn (9-10 de octubre de 2001 y 15 de octubre de 2003), CBS News/AP (16 de marzo de 2000), Britannica (solo resumen del buscador, 403 al abrirlo), The News. DISCREPANCIAS. 1) La ficha da nacimiento en 1956; Wikipedia (en) dice 1961 (deducido de una edad de la BBC en 1999); Dawn (2001) le da 40 años al morir y CBS (2000) 42 al condenarlo. El guion evita el año y dice «entre los cuarenta y los cuarenta y dos». 2) La ficha dice «hallado muerto en su celda (2001)»; la fecha es el 9 de octubre de 2001 (Dawn); Wikipedia (en) pone 8 en el cuadro y 9 en el texto. 3) Nombre del cómplice muerto con él: Sajid (Dawn 2001) o Shehzad, alias Guddu (Dawn 2003); y la causa: ahorcados con sábanas (Dawn 2001, Wikipedia) o con el cuello cortado (Dawn 2003). El guion no da nombre ni método. 4) Dirección de la casa: Ravi Road (Dawn) o la zona de Alter/Shadbagh (otras); el guion dice solo «una casa de Lahore». 5) Cómplice muerto bajo custodia en diciembre de 1999: Ishaq, alias Billa (Dawn 2001), cayó de un tercer piso; Wikipedia dice que murió en comisaría tras caer por una ventana; se dice «habría saltado», según la versión oficial. 6) Cuándo se envió la carta: «diciembre de 1999» (Wikipedia, ficha); otras fuentes apuntan a finales de noviembre; el parte policial (FIR) es del 12/12/1999 (Dawn 2003). 7) El v2 decía que en la casa había «un diario con anotaciones»; no consta en ninguna fuente consultada y se ha quitado. También que había restos «en parte»: CBS habla de una cuba con restos de dos cuerpos, y que no se hallaron más. 8) El v2 decía que Iqbal dijo que todo era «una invención para llamar la atención sobre los niños de la calle»; CBS (2000) lo recoge solo como retractación («soy inocente»); no se ha podido confirmar lo otro y se quitó. 9) El v2 decía que «las propias autoridades anunciaron que no permitirían cumplirla»: CBS recoge que el ministro dijo que el Gobierno la impugnaría; se redacta así. 10) El «debate nacional» sobre los niños de la calle del v2 no se ha podido contrastar en las fuentes abiertas; se ha quitado. La renovación de la cúpula policial de Lahore sale de Dawn (2001). 11) La detención previa de los noventa (denuncia de un chico fugado, sin cargos) solo la recoge Wikipedia (en). 12) La pena de «setecientos años» por destruir pruebas (siete por cada cuerpo) la recoge CBS. 13) Cifra de cien: solo su confesión; se identificó por las familias «la mayoría» según CBS; no se ha podido obtener una cifra de identificados. 14) El tribunal que recibió el recurso era el Tribunal Federal de la Sharía (Dawn 2003). RESPETO: no se nombra a ninguna víctima (no hay nombres públicos fiables) ni se describen métodos; la forma de ejecución dictada en sentencia se menciona sin describirla."
 }

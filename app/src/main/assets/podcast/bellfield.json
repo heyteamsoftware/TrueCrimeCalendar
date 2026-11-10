@@ -1,51 +1,206 @@
 {
   "id": "bellfield",
-  "titulo": "Paradas de autobús",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Levi Bellfield": "Lívai Bélfild",
     "Bellfield": "Bélfild",
-    "Walton-on-Thames": "Uólton on Téms",
-    "Milly Dowler": "Míli Dáuler",
-    "Milly": "Míli",
-    "Dowler": "Dáuler",
-    "Hampshire": "Jámpsher",
     "Marsha McDonnell": "Mársha Macdónel",
-    "Marsha": "Mársha",
-    "Hampton": "Jámpton",
-    "Kate Sheedy": "Kéit Shídi",
-    "Kate": "Kéit",
-    "Isleworth": "Áisolguorz",
     "Amélie Delagrange": "Amelí Delagránch",
-    "Amélie": "Amelí",
+    "Kate Sheedy": "Kéit Shídi",
+    "Twickenham Green": "Tuíkenam Grin",
     "Twickenham": "Tuíkenam",
+    "Hampton": "Jámpton",
+    "Isleworth": "Áisolguorz",
     "Colin Sutton": "Cólin Sáton",
+    "Sutton": "Sáton",
+    "Ford Courier": "Ford Kúrier",
+    "Walton-on-Thames": "Uólton on Téms",
+    "Station Avenue": "Stéishon Ávenyu",
+    "Old Bailey": "Old Béili",
+    "Rafferty": "Ráferti",
+    "Daewoo Nexia": "Déu Néxia",
     "Surrey": "Sárri",
-    "The Guardian": "De Gárdian",
+    "Hampshire": "Jámpsher",
     "News of the World": "Niús of de Uórld",
+    "The Guardian": "De Gárdian",
     "Leveson": "Líveson"
   },
-  "bloques": [
-    { "voz": "ximena", "texto": "Jueves, 21 de marzo de 2002. Walton-on-Thames, al suroeste de Londres. Milly Dowler, de trece años, se despide de unas amigas cerca de la estación y echa a andar hacia casa. Es media tarde y hay gente por la calle. Nunca llegará." },
-    { "voz": "ximena", "texto": "Su desaparición desató una de las mayores búsquedas del Reino Unido. Durante meses, su cara estuvo en todos los periódicos y televisiones del país, y su familia hizo llamamientos públicos una y otra vez. Pero el caso tardaría casi una década en tener respuesta ante un tribunal." },
-    { "voz": "ximena", "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Levi Bellfield, conocido como el asesino del martillo de Londres. Un caso que sacudió a la policía, a los tribunales… y hasta a la prensa británica." },
-    { "voz": "alvaro", "texto": "¿La prensa? ¿Qué tiene que ver un periódico con un asesinato?" },
-    { "voz": "ximena", "texto": "Más de lo que parece. Pero empecemos por él. Bellfield nació en 1968 en el oeste de Londres. Trabajó como portero de discotecas y montó una empresa que ponía cepos a los coches mal aparcados. Varias exparejas lo describirían después como un hombre violento y controlador." },
-    { "voz": "ximena", "texto": "En septiembre de 2002 aparecieron los restos de Milly en un bosque de Hampshire. Pero la investigación no avanzaba. Unos meses más tarde, en febrero de 2003, Marsha McDonnell, de diecinueve años, fue atacada tras bajar de un autobús cerca de su casa, en Hampton. Murió en el hospital." },
-    { "voz": "ximena", "texto": "En mayo de 2004, Kate Sheedy, de dieciocho años, fue arrollada deliberadamente por un vehículo en Isleworth. Sobrevivió. Y en agosto de ese año, Amélie Delagrange, una estudiante francesa de veintidós años, fue atacada en Twickenham. Ella no sobrevivió." },
-    { "voz": "alvaro", "texto": "Mujeres jóvenes atacadas cerca de paradas de autobús, en barrios vecinos. ¿Nadie relacionó los casos?" },
-    { "voz": "ximena", "texto": "Sí. Y aquí empieza la parte más meticulosa de la investigación. El inspector Colin Sutton y su equipo revisaron, una por una, las grabaciones de las cámaras de seguridad de la zona. Fue un trabajo lento y poco vistoso: horas y horas de imágenes, matrículas y vehículos que había que descartar uno a uno." },
-    { "voz": "ximena", "texto": "En ellas aparecía una y otra vez una furgoneta blanca. La pista llevó hasta Bellfield, que fue detenido en noviembre de 2004. En 2008, un jurado lo declaró culpable de los asesinatos de Marsha y Amélie y del intento de asesinato de Kate. Recibió cadena perpetua íntegra." },
-    { "voz": "alvaro", "texto": "¿Y Milly? Su caso seguía sin respuesta." },
-    { "voz": "ximena", "texto": "La policía de Surrey, que investigaba su desaparición, empezó a mirar hacia él. Bellfield había vivido muy cerca del lugar donde la vieron por última vez. En 2011 fue juzgado por su secuestro y asesinato, y declarado culpable. Segunda cadena perpetua íntegra." },
-    { "voz": "ximena", "texto": "Aquel juicio dejó otra herida. La defensa sometió a los padres de Milly a un interrogatorio durísimo, y la familia describió el proceso como una experiencia devastadora. Se abrió un debate nacional sobre cómo tratan los tribunales a las familias de las víctimas." },
-    { "voz": "alvaro", "texto": "Y ahora sí: ¿qué pasó con la prensa?" },
-    { "voz": "ximena", "texto": "Apenas dos semanas después del veredicto, el diario The Guardian reveló que en 2002, mientras Milly estaba desaparecida, un investigador al servicio del dominical News of the World había accedido ilegalmente a los mensajes de voz de su teléfono móvil." },
-    { "voz": "ximena", "texto": "La indignación fue inmediata. En cuestión de días, aquel periódico, con más de ciento sesenta años de historia, cerró. El gobierno encargó una gran investigación pública sobre la ética de la prensa, conocida como la investigación Leveson. Su informe final propuso un nuevo sistema de regulación de la prensa, y sus recomendaciones todavía generan debate en el Reino Unido." },
-    { "voz": "alvaro", "texto": "Un asesino condenado y, de rebote, el cierre de uno de los periódicos más vendidos del país." },
-    { "voz": "ximena", "texto": "Hoy Bellfield sigue en prisión, con dos condenas a cadena perpetua íntegra: en el Reino Unido, eso significa que no saldrá nunca. Según la policía de Surrey, años después del juicio admitió su responsabilidad en el caso de Milly, algo que había negado ante el jurado." },
-    { "voz": "ximena", "texto": "Su caso dejó varias lecciones. El valor de las cámaras de seguridad para reconstruir los movimientos de un sospechoso. La importancia de cruzar información entre distintos cuerpos policiales. Y, sobre todo, el respeto que merecen las familias, dentro y fuera de los tribunales." },
-    { "voz": "ximena", "texto": "Hoy recordamos a Milly Dowler, a Marsha McDonnell y a Amélie Delagrange. Y a Kate Sheedy, que sobrevivió y tuvo el valor de declarar contra él. Hasta aquí el expediente de Levi Bellfield. Esto ha sido TRUE CRIME CALENDAR." }
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Una furgoneta en Twickenham Green",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Levi Bellfield. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una furgoneta en Twickenham Green."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jueves, 19 de agosto de 2004. Anochece en Twickenham, al suroeste de Londres. Amélie Delagrange, una estudiante francesa de veintidós años, camina por Twickenham Green, una pradera con campo de críquet rodeada de casas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche la encuentran en el césped, con heridas gravísimas en la cabeza. Muere horas después en el hospital. La policía no tiene testigos del ataque ni un sospechoso."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Leo el informe y entiendo el miedo de aquellos detectives. Una joven sola, de noche, golpeada de camino a casa. Y no era la primera. Si ya había ocurrido antes, la pregunta cambia: no es solo quién la atacó, sino cuántas veces lo había hecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Febrero de 2003. Marsha McDonnell, de diecinueve años, vuelve a Hampton después de bajar de un autobús, a pocos metros de su casa. Alguien la golpea en la cabeza. Muere en el hospital dos días después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mayo de 2004. Kate Sheedy, de dieciocho años, acaba de bajar de un autobús en Isleworth. Un monovolumen la atropella a propósito y da marcha atrás sobre ella. Sobrevive, con heridas muy graves."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tres ataques a mujeres jóvenes, en tres barrios vecinos, siempre cerca de una parada de autobús. Pero eran investigaciones distintas, y durante meses nadie las miró juntas. Ese suele ser el primer error: tratar cada caso como si estuviera solo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al frente de la investigación de Twickenham estaba el inspector jefe Colin Sutton, de la policía de Londres. Sin testigos y sin pruebas físicas, decidió buscar todas las cámaras de seguridad de la zona."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su equipo reunió más de dos mil horas de grabaciones y las revisó enteras, sin saber qué buscaba. Era un trabajo lento y agotador. Y entonces apareció algo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una furgoneta blanca, una Ford Courier, llega a Twickenham Green justo antes del ataque. Espera unos ocho minutos. Después se marcha a toda velocidad."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una furgoneta blanca en Londres. El problema era evidente: había unas veintiséis mil que descartar. Ni siquiera el registro de vehículos bastaba para acotar la búsqueda. Era la única pista, y la pista se enfriaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El nombre llegó por otro camino. En Twickenham Green, la policía había instalado una unidad móvil para recoger declaraciones. Entre ellas, la de una mujer que señalaba a su expareja como posible sospechoso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese hombre acabó en una lista de ciento veintinueve nombres, la llamada lista de las exnovias. Los detectives la cruzaron con los propietarios de furgonetas blancas. Un nombre encajaba: Levi Bellfield."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Bellfield había nacido en 1968 en Isleworth. Había sido portero de discotecas y tenía una empresa de cepos para coches en el oeste de Londres. Acumulaba condenas anteriores y, según varias exparejas, era un hombre violento y controlador."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Desde ahí, las piezas encajaron una a una. Bellfield había tenido vehículos que se podían situar en la escena de cada uno de los tres ataques. Ninguno era una prueba por sí solo. Pero juntos formaban algo difícil de ignorar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 22 de noviembre de 2004, Bellfield fue detenido como sospechoso del asesinato de Amélie Delagrange. En 2006 se le acusó formalmente de los tres ataques."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene lo que me preocupa. Todo era indirecto: cámaras, coches, horarios y testimonios de su entorno. Sin confesión. Una cadena así se rompe por el eslabón más débil, y Sutton lo sabía. Por eso el juicio no empezó hasta octubre de 2007."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pero el nombre de Bellfield estaba ligado a un caso más antiguo. Años antes, en Walton-on-Thames, una colegiala de trece años había desaparecido de camino a casa. Y la policía ya había hablado con él de aquello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Walton-on-Thames, en el condado de Surrey. Marzo de 2002. Lo que guardaba ese expediente, y por qué tardó tanto en abrirse, ocupa la cinta dos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Un coche rojo en Station Avenue",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Un coche rojo en Station Avenue."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio por los tres primeros ataques empezó en el Old Bailey, el tribunal penal central de Londres, el 12 de octubre de 2007. Bellfield lo negó todo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 25 de febrero de 2008, el jurado lo declaró culpable de los asesinatos de Marsha McDonnell y Amélie Delagrange y del intento de asesinato de Kate Sheedy. Al día siguiente, la jueza Rafferty le impuso cadena perpetua íntegra: no saldrá nunca de prisión."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Ese mismo mes, la policía de Surrey lo señaló como principal sospechoso de otro crimen. En 2005 ya lo había interrogado por él, y no pudo explicar dónde estaba el 21 de marzo de 2002. Lo que sigue es la historia de por qué se tardó tanto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Jueves, 21 de marzo de 2002. Una colegiala de trece años sale del instituto en Walton-on-Thames, pasa un rato en la cafetería de la estación y echa a andar sola por Station Avenue, pasadas las cuatro. Minutos después, alguien la ve por última vez. Nunca llega a casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre, unos recolectores de setas encuentran sus restos en un bosque de Hampshire. Su familia nunca supo cómo murió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que me pesa es hacia dónde miró primero la policía de Surrey: hacia el padre de la niña. Años después, la propia policía reconoció que esa línea de investigación les hizo perder otras oportunidades, y pidió disculpas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo otras pistas. Una cámara de Station Avenue grabó, poco más de veinte minutos después de que la niña desapareciera, un Daewoo Nexia rojo. Era el coche de la novia de Bellfield, y él lo usaba. Dijo que se lo habían robado. Nunca apareció."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y estaba la mudanza. Según se contó en el juicio, Bellfield vivía muy cerca de Station Avenue y se marchó con prisa del piso al día siguiente de la desaparición. Su novia dijo que la cama estaba sin sábanas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cada detalle, por separado, tenía una explicación posible. Una cámara, un coche, una mudanza. Pero cuando alguien los sumó, años después, apuntaban al mismo hombre. Esa suma tardó nueve años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El juicio empezó en el Old Bailey en mayo de 2011. Bellfield no declaró. Su defensa interrogó con dureza a los padres y planteó que la niña podía ser una adolescente infeliz que quería irse de casa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El padre dijo después que sentían como si los juzgados fueran ellos. La hermana de la niña lo llamó el peor día de su vida. El 23 de junio de 2011, el jurado declaró culpable a Bellfield del secuestro y del asesinato. Segunda cadena perpetua íntegra."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Once días después, el diario The Guardian publicó que, en 2002, el dominical News of the World había accedido a escondidas al buzón de voz de la niña, con ayuda de un detective privado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Se dijo también que el periódico había borrado mensajes y dado a la familia una falsa esperanza. Meses después, la policía matizó que probablemente no fue el periódico quien los borró. Pero la intrusión no se discutió, y la prensa nunca debió entrar ahí."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 10 de julio de 2011 salió la última edición de News of the World, tras ciento sesenta y ocho años. El Gobierno abrió una investigación pública sobre la ética de la prensa, dirigida por el juez Leveson."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Según informó la prensa, la policía de Surrey sabía desde 2002 que el periódico había entrado en ese buzón de voz. Nueve años después, lo supo todo el país. Asesino y prensa comparten aquí un mismo fallo: quien debía mirar, no miró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En enero de 2016, la policía de Surrey anunció que Bellfield había admitido por primera vez el crimen. Semanas después, él lo negó. La condena es firme y cumple dos cadenas perpetuas íntegras."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota final del inspector. El caso se resolvió con paciencia: miles de horas de cámaras y un nombre que dio una expareja. Pero pudo resolverse antes. Una puerta a la que nadie volvió, una pista que no se cruzó con otra, una cámara que nadie miró a tiempo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a Marsha McDonnell, de diecinueve años, y a Amélie Delagrange, de veintidós. A la colegiala de Walton-on-Thames, de trece, y a su familia. Y a Kate Sheedy, que sobrevivió y declaró contra él."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Levi Bellfield. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias: la ficha dice que Bellfield fue condenado por el asesinato de Milly Dowler; el guion no nombra a la víctima (menor de 13 años en un caso de 2002, menos de 30 años) y la llama «una colegiala de trece años»; decisión para el coordinador (el nombre forma parte del nombre histórico del caso y la familia es pública). La ficha pone el periodo 2002-2004 y la fecha del asesinato de Marsha McDonnell fue el 4 de febrero de 2003 (murió dos días después). El episodio anterior decía «prisión preventiva desde el 22 de noviembre de 2004»; Wikipedia y Crime+Investigation sitúan la detención en noviembre de 2004 pero la imputación formal en 2006, y C+I habla de una detención en su casa en marzo de 2006: el guion dice solo «detenido en 2004, acusado en 2006». Se eliminan del episodio anterior por no encontrar fuente: el vehículo grabado siguiendo al autobús de Kate Sheedy, el coche plateado de Hampton, las once visitas de la policía al piso, los tres años hasta interrogar a la madre de la niña de once años y el teléfono apagado en Walton-on-Thames. Se mantienen: 2.000 horas de cámaras, Ford Courier blanca (8 minutos), 26.000 furgonetas, 129 nombres de la lista de exnovias (Crime+Investigation). Dudas: la policía de Surrey sabía de la intrusión de News of the World desde 2002 (Crime+Investigation; Wikipedia lo sitúa en informes de enero de 2012); la supresión de mensajes por el periódico se descartó después (Leveson, 2011). La confesión de 2016 la negó él semanas después. Bellfield se hace llamar ahora Yusuf Rahim (2023). Pendiente de contraste en una segunda fuente: inicio del juicio de 2007 (12 de octubre, solo Crime+Investigation)."
 }
