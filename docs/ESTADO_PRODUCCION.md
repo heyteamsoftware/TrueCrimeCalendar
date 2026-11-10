@@ -121,7 +121,7 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - `node tools/validar_casos.js`: 277/277 correctas y 366/366 días cubiertos.
 - **Cuotas:** España e Hispanoamérica 31 % (mínimo 30 %), EE. UU. y Canadá 23 %, Asia, África y Oceanía 29 casos, antes de 1900 el 16 %.
 - Los vínculos entre meses de `docs/VINCULOS_PROPUESTOS.md` aún no están puestos.
-- Pendiente de decisión del usuario: las fechas de 7 casos estrella (`docs/DECISIONES_FECHAS_ESTRELLA.md`).
+- Decidido por el usuario: las fechas de los casos estrella se dejan como están (`docs/DECISIONES_FECHAS_ESTRELLA.md`).
 - Siguiente fase: guiones de los 276 casos nuevos (una cinta cada uno), por mitades de mes.
 
 ## 10 de noviembre, noche: sesión interrumpida

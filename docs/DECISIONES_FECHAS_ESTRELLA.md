@@ -2,7 +2,11 @@
 
 Salen de `docs/revision_fechas_estrella.md` (10 de noviembre de 2026): 85 confirmadas, 8 confirmadas con nota, 2 incorrectas y 5 sin confirmar. En el calendario ya hay días con más de un caso estrella (100 casos en 89 días), así que compartir día no es un problema.
 
-## Propuesta del coordinador (pendiente de que la apruebe el usuario)
+## Decisión del usuario (10 de noviembre de 2026)
+
+**Se dejan todas las fechas como están.** No se mueve ningún caso estrella y no se buscan casos nuevos para los días 13 y 14 de marzo, 17 de junio y 29 de julio. Las discrepancias de fecha de Yang, Gaskins, Pedrinho y King quedan anotadas en las fichas del montaje (nota de revisión) pero no cambian el día del calendario.
+
+## Propuesta original del coordinador (no aplicada)
 
 | Caso | Fecha de la ficha | Qué dicen las fuentes | Propuesta |
 |---|---|---|---|
