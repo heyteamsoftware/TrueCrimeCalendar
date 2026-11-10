@@ -64,3 +64,19 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 
 - **Montoya:** tenía un diagnóstico de esquizofrenia, no una discapacidad intelectual.
 - **Primer cuerpo:** apareció el 12 de noviembre de 1988; el 11 solo se encontraron huesos.
+
+## muehlberg
+
+- La víctima de 1993 era un hombre, Kenneth Atchison (condena de 1995).
+- Las cuatro mujeres desaparecieron en 1990, no en 1990–1991.
+- En marzo de 2023 se declaró culpable de los cuatro asesinatos.
+
+## cullen
+
+- Lo despidieron del Somerset Medical Center el 31 de octubre de 2003 y lo detuvieron el 12 de diciembre en un restaurante.
+- **Penas:** 18 cadenas perpetuas, 11 en Nueva Jersey y 7 en Pensilvania.
+- **Víctimas:** 29 asesinatos y 6 intentos. La cifra de 400 es una estimación sin comprobar.
+
+## ramirez
+
+- Condenado por 13 asesinatos; se le atribuyen al menos 14.

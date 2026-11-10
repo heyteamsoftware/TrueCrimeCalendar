@@ -23,7 +23,8 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 02 | 23/23 ✓ | en marcha | — |
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
 | 04 | 23/23 ✓ | en marcha | — |
-| 06 a 08 y 12 | en marcha | — | — |
+| 07 | 26/26 ✓ | en marcha | — |
+| 06, 08 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -35,14 +36,14 @@ Hecho antes: `brady` (piloto).
 | enero B | dominique shipman petiot robledo rifkin | ✓ hecho (5/5) |
 | enero C | bodkin camargo arropiero garavito | ✓ hecho (4/4) |
 | febrero A | ishikawa norris hansen ridgway | lanzado |
-| febrero B | cullen muehlberg wuornos ramirez | lanzado |
+| febrero B | cullen muehlberg wuornos ramirez | ✓ hecho (4/4) |
 | marzo A | toole rader gaskins king | lanzado |
 | marzo B | ireland gacy kraft toppan | lanzado |
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
 | abril B | landru harvey yoo black | lanzado |
 | mayo A | homolka beck bryant holmes | lanzado |
 | mayo B | bellfield fish murano dahmer | lanzado |
-| mayo C | bianchi chase escalero kurten | en cola |
+| mayo C | bianchi chase escalero kurten | lanzado |
 | junio | berkowitz sutcliffe shawcross little pedrinho | en cola |
 | julio | jones hindley magnotta onoprienko yang | en cola |
 | agosto A | bathory miyazaki lucas alcala | en cola |

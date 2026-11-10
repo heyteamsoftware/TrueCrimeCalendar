@@ -1,6 +1,6 @@
 {
   "id": "cullen",
-  "titulo": "Nueve hospitales y ningún aviso",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Charles Cullen": "Charls Kálen",
@@ -12,101 +12,198 @@
     "West Orange": "Uest Óranch",
     "Allentown": "Álentaun",
     "Amy Loughren": "Éimi Lóren",
-    "The Good Nurse": "Ze Gud Ners"
+    "Loughren": "Lóren",
+    "Steven Marcus": "Stíven Márcus",
+    "Tim Braun": "Tim Bráun",
+    "Danny Baldwin": "Dáni Bóldguin",
+    "Pyxis": "Píxis",
+    "Florian Gall": "Flórian Gol",
+    "Saint Barnabas": "Seint Bárnabas",
+    "John Yengo": "Yon Yéngo",
+    "Bethlehem": "Bézlejem",
+    "Paul Armstrong": "Pol Ármstrong",
+    "Lehigh": "Líjai",
+    "Northampton": "Norzámpton",
+    "Michael Strenko": "Máikel Strénko",
+    "Charles Graeber": "Charls Gréiber",
+    "The Good Nurse": "Ze Gud Ners",
+    "Trenton": "Trénton"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Somerville, Nueva Jersey, otoño de 2003. En el Somerset Medical Center se han producido varias muertes inexplicables. Los análisis apuntan a medicamentos que esos pacientes nunca debieron recibir. Dos detectives revisan los registros del sistema informático que dispensa los fármacos. Y un nombre aparece una y otra vez."
+      "n": 1,
+      "titulo": "El cajón de los medicamentos",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Charles Cullen, el enfermero de los nueve hospitales. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El cajón de los medicamentos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Julio de 2003. Somerville, Nueva Jersey. En la unidad de cuidados intensivos del Somerset Medical Center, varios pacientes han tenido reacciones que nadie entiende. Los análisis muestran niveles de digoxina, un medicamento para el corazón, que ningún médico les había recetado. Otros tienen la insulina disparada sin motivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ese mes, los casos llegan al centro de toxicología del estado. Su director, el doctor Steven Marcus, advierte de al menos cuatro sobredosis sospechosas. Según contó él mismo años después en televisión, su consejo fue claro: aquello era un asunto para la policía."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Aquí está el primer error de este expediente, y no es pequeño. El hospital no llamó a la policía en julio. Hizo sus propias comprobaciones internas. Tardó unos tres meses en avisar a la fiscalía del condado. Y mientras tanto, el turno de noche siguió funcionando como siempre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En esos tres meses murieron cinco pacientes más en aquella unidad. Hoy se sabe que también fueron asesinados. Entre julio y octubre, nadie apartó de su puesto al hombre que les administraba los medicamentos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En octubre, el hospital avisa a la fiscalía del condado de Somerset. El caso llega a dos detectives, Tim Braun y Danny Baldwin. Empiezan por un paciente concreto: Florian Gall, de sesenta y ocho años, que había muerto el 28 de junio cuando parecía estar mejorando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su sangre había digoxina en una cantidad letal. Y la digoxina no estaba en su lista de medicamentos. Alguien se la había dado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "La pregunta de cualquier investigador es sencilla: ¿quién tuvo acceso? En un hospital moderno, la respuesta debería estar en los ordenadores. Aquella unidad usaba un armario automático, el Pyxis, que solo abre sus cajones a quien teclea su código. Cada apertura queda registrada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los registros del Pyxis y del sistema de historiales señalaban a un mismo enfermero del turno de noche: Charles Cullen, de cuarenta y tres años. Pedía medicamentos que sus pacientes no necesitaban. Anulaba pedidos minutos después de hacerlos. Y consultaba historiales de enfermos que no tenía asignados."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto un detalle. Según contaron los detectives a la cadena CBS, el hospital les dijo al principio que esos registros solo se guardaban treinta días. El fabricante del sistema les dijo otra cosa."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los detectives llamaron entonces a los anteriores empleadores de Cullen. Así supieron que la policía estatal de Pensilvania ya lo había investigado por la misma sospecha. Y que su currículo era un mapa: nueve hospitales y una residencia en dieciséis años, en Nueva Jersey y Pensilvania."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 31 de octubre de 2003, el Somerset Medical Center despide a Cullen. El motivo oficial no son las muertes, sino haber mentido en su solicitud de empleo. Él queda libre. Y los detectives siguen sin una prueba directa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tenemos registros, un historial alarmante y un análisis de sangre. Son indicios, no pruebas. Nadie lo había visto inyectar nada. Y la única persona que podía acercarse a él sin levantar sospechas trabajaba en su mismo turno."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Amy Loughren. Era enfermera de la misma unidad, madre de dos hijas y amiga íntima de Cullen. Él le había ayudado a ocultar en el hospital una grave enfermedad del corazón que ella padecía, para que no perdiera el empleo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los detectives le enseñaron los registros del Pyxis y el historial laboral de su amigo. Ella los estudió con el ojo de una enfermera. Ha contado en varias entrevistas que entonces lo supo con certeza. Decidió colaborar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que hizo después exige valor. Grabó llamadas con él. Y aceptó reunirse con Cullen en un restaurante llevando un micrófono oculto, pese a que acababan de ponerle un marcapasos y la policía no quería arriesgarse. Las fuentes no coinciden en el local exacto. Lo que consta es el resultado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En aquella conversación, Cullen no confesó. Pero lo que dijo y cómo reaccionó bastaron, según los investigadores, para pedir su detención. El 12 de diciembre de 2003 lo detuvieron en un restaurante. Se le acusó de un asesinato y de un intento de asesinato."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos días después, en la sala de interrogatorios, Cullen empezó a hablar. Y lo que contó no empezaba en Somerset, ni en 2003. Empezaba quince años antes, en otro hospital, con otro paciente."
+        }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "El nombre de un enfermero con muchos años de experiencia."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Charles Cullen, el Ángel de la Muerte de Nueva Jersey."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cullen nació en 1960 en West Orange, Nueva Jersey, el menor de una familia numerosa. Perdió a su padre siendo un bebé y a su madre en la adolescencia. Sirvió en la Marina y, a finales de los años ochenta, se tituló como enfermero."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Empezó a trabajar en 1988 en un hospital de Nueva Jersey. A partir de ahí, durante dieciséis años, pasó por nueve hospitales de Nueva Jersey y Pensilvania, entre ellos varios de la zona de Allentown. Cambiaba de empleo con frecuencia. A veces, de forma sospechosamente rápida."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y ningún hospital se dio cuenta de lo que estaba pasando?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Algunos sospecharon. Hubo investigaciones internas, compañeros que desconfiaban y despidos. Pero, por miedo a demandas, muchos hospitales se limitaban a despedirlo o a dejarle marchar sin dar explicaciones ni avisar a nadie. Y en el siguiente hospital no sabían nada. Su historial laboral, visto en conjunto, era una señal de alarma. Pero nadie lo miraba en conjunto."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Mientras tanto, Cullen administraba sobredosis de medicamentos, sobre todo digoxina e insulina, a pacientes ingresados. Muchos eran personas mayores o muy enfermas, y sus muertes pasaban por naturales. Nadie las investigaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En Somerset, las alarmas saltaron en 2003. Un centro de control de intoxicaciones advirtió al hospital de que varios casos de sobredosis no parecían accidentales. Pero el aviso a la fiscalía tardó meses en llegar, y durante ese tiempo Cullen siguió trabajando."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Cuando por fin llegaron los detectives, los registros mostraban que Cullen pedía medicamentos que sus pacientes no necesitaban y consultaba historiales de enfermos que no eran suyos. Era un indicio fuerte, pero no una prueba definitiva. Necesitaban algo más."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ahí entró en juego una compañera del turno de noche, la enfermera Amy Loughren. Era amiga de Cullen, pero al ver los datos decidió colaborar con la investigación. Llegó a reunirse con él mientras la policía escuchaba."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Una decisión muy difícil: ayudar a la policía contra alguien a quien apreciaba."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Muy difícil. Pero su colaboración fue clave para que Cullen, ya despedido del hospital, terminara detenido en diciembre de 2003. En los interrogatorios confesó haber matado a unos cuarenta pacientes a lo largo de su carrera."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Ante la posibilidad de la pena de muerte, aceptó un acuerdo: colaborar con los investigadores para identificar a sus víctimas a cambio de evitarla. Se declaró culpable de veintinueve asesinatos en Nueva Jersey y Pensilvania, además de varios intentos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Durante meses revisó historiales con los investigadores para identificar a sus víctimas. En muchos casos no recordaba los nombres. Por eso algunas familias nunca sabrán con certeza si un ser querido estuvo entre ellas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuál fue la condena final?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dieciocho cadenas perpetuas consecutivas, impuestas en 2006 por tribunales de los dos estados. En la práctica, nunca saldrá de prisión."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pero la cifra real de víctimas podría ser mucho mayor. Algunos investigadores han llegado a estimar que podría superar las cuatrocientas, aunque nunca se ha podido comprobar. Muchas muertes ocurrieron hace décadas y dejaron muy poco rastro."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un caso que dejó al descubierto un fallo de todo el sistema sanitario."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Tras el caso, Nueva Jersey y otros estados aprobaron leyes que obligan a los hospitales a comunicar sus sospechas sobre el personal y que protegen a quienes comparten esa información. La idea era cerrar la puerta por la que Cullen había pasado una y otra vez."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Detrás de cada cifra hay pacientes que entraron en un hospital para curarse, y familias que confiaron en quienes debían cuidarlos. Muchas solo descubrieron la verdad años después, cuando la fiscalía les comunicó que la muerte de su familiar no había sido natural."
-    },
-    {
-      "voz": "ximena",
-      "texto": "La historia volvió a la actualidad en 2022 con la película The Good Nurse, basada en un libro de investigación periodística y centrada en Amy Loughren. Y en este archivo, Cullen forma parte del patrón de los ángeles de la muerte: sanitarios que matan a quienes deberían cuidar."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Charles Cullen. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Una sala en Somerville",
+      "tipo": "juicio",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Una sala en Somerville."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Charles Cullen, el enfermero detenido en diciembre de 2003 en Nueva Jersey. Primero, quién era."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cullen nació el 22 de febrero de 1960 en West Orange, Nueva Jersey, el menor de ocho hermanos. Perdió a su padre a los siete meses y a su madre a los diecisiete, en un accidente de tráfico. Sirvió seis años en la Marina y después estudió enfermería."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 14 de diciembre de 2003, ante los detectives Tim Braun y Danny Baldwin, admitió haber matado a Florian Gall y haber intentado matar a otra paciente. Y añadió algo más: que a lo largo de su carrera podía haber matado a unas cuarenta personas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Repaso la cronología que salió de aquellas confesiones. Su primera víctima conocida fue John Yengo, de setenta y dos años, el 11 de junio de 1988, en el hospital Saint Barnabas. Cullen llevaba poco tiempo como enfermero. Siguió matando durante quince años más."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Usaba sobre todo digoxina e insulina. Muchos pacientes eran mayores o estaban muy graves, y sus muertes parecían naturales."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo grave no es que nadie sospechara. Es que sospecharon varios y nadie avisó al siguiente. Por miedo a demandas, los hospitales lo despedían o lo dejaban dimitir con referencias neutras. Y el siguiente lo contrataba sin saber nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso más claro fue el del hospital Saint Luke's, en Bethlehem, Pensilvania. En 2002 descubrió que se llevaba medicamentos que podían ser letales, y le ofreció marcharse con referencias neutras. Algunos compañeros acudieron a la fiscalía, que investigó durante nueve meses y cerró el caso sin cargos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Meses después, Cullen entraba en el Somerset Medical Center. Allí mató a trece pacientes en poco más de un año."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Nueva Jersey aún tenía la pena de muerte en sus leyes. Los fiscales de los siete condados donde había trabajado aceptaron no pedirla si Cullen les ayudaba a identificar a sus víctimas. Durante meses revisó historiales con ellos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un acuerdo incómodo, pero sin él muchas familias no sabrían nada. El problema es que Cullen no recordaba a la mayoría de sus pacientes. Reconocía los casos por los fármacos y las fechas. Si no había registros, no había forma de confirmar nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El resultado: se declaró culpable de veintidós asesinatos y tres intentos en Nueva Jersey, y de siete asesinatos y tres intentos en Pensilvania. En total, veintinueve personas asesinadas. Tenían entre veintiuno y noventa y un años."
+        },
+        {
+          "voz": "ximena",
+          "texto": "2 de marzo de 2006. En el juzgado de Somerville, unos sesenta familiares se enfrentan a él por primera vez. Cullen lleva chaleco antibalas y mantiene los ojos cerrados. Cuando le dan la palabra, dice que no tiene nada que decir."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que las familias querían era una explicación. No la tuvieron. El juez Paul Armstrong le dijo, según recogió la prensa, que había traicionado los cimientos ancestrales de las profesiones sanitarias. Le impuso once cadenas perpetuas consecutivas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ocho días después, en Pensilvania, los tribunales de Northampton y Lehigh sumaron siete cadenas perpetuas más. En Allentown, Cullen increpó al juez durante media hora y acabó amordazado. En total, dieciocho cadenas perpetuas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo que nunca se aclaró es la cifra real. Cullen habló de unas cuarenta muertes. El periodista Charles Graeber, que investigó el caso, cree que fueron cientos; se ha llegado a hablar de cuatrocientas. Nada de eso se ha podido comprobar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Este caso cambió leyes. Nueva Jersey aprobó en 2004 y 2005 normas que obligan a los hospitales a comunicar sus sospechas sobre el personal y que los protegen de demandas por hacerlo. Pensilvania y otros estados aprobaron leyes parecidas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Amy Loughren acabó dejando la enfermería. Su historia se contó en el libro The Good Nurse, de Charles Graeber, y en una película de 2022. Cullen cumple condena en la prisión estatal de Nueva Jersey, en Trenton."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cierro mis notas con una idea. A Cullen no lo detuvo el sistema que debía vigilarlo. Lo detuvieron un toxicólogo que dio la voz de alarma, dos detectives que hicieron llamadas y una enfermera que se arriesgó. Y aun así, llegaron quince años tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este expediente pertenece a quienes entraron en un hospital para curarse. A Michael Strenko, de veintiún años, el más joven. A Florian Gall, que parecía estar mejorando. A John Yengo, el primero. Y a todas las familias que supieron la verdad años después, por una llamada de la fiscalía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente de Charles Cullen. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": "La ficha dice que fue «detenido en 2003 en el Somerset Medical Center». Según las crónicas publicadas, lo despidieron de ese hospital en octubre de 2003 y la detención se produjo en diciembre, fuera del hospital (en un restaurante). En el guion se dice que la investigación partió del Somerset Medical Center y que fue detenido «ya despedido del hospital», sin precisar el lugar."
+  "nota_revision": "Fuentes en web/datos/fuentes/cullen.json. DISCREPANCIAS: 1) Ficha: «Fue detenido en 2003 en el Somerset Medical Center». Lo despidieron de ese hospital el 31/10/2003 y lo detuvieron el 12/12/2003 en un restaurante (Wikipedia en inglés y en castellano; CBS 60 Minutes, 2013). El guion dice «a la salida de un restaurante». 2) Ficha y guion v2: «18 cadenas perpetuas consecutivas». Las consecutivas son las 11 de Nueva Jersey (juez Paul Armstrong, 2/3/2006; NBC/AP, Irish Times); el 10/3/2006 se sumaron 1 en Northampton (juez Stephen Baratta, por Ottomar Schramm) y 6 en Lehigh (juez William Platt), total 18 (Vindicator/AP, 11/3/2006). Wikipedia en inglés da «18 consecutive life sentences» el 2/3/2006, y la versión en castellano suma 17: se ha seguido a la prensa de la época. 3) Ficha: «nueve hospitales». Fueron nueve hospitales y una residencia (Liberty, Allentown); NBC/AP habla de «10 facilities». El guion dice «nueve hospitales y una residencia». 4) Víctimas: 29 asesinatos (22 Nueva Jersey + 7 Pensilvania) y 6 intentos (3 + 3) (NBC/AP; Fox News con la lista de la fiscalía). La cifra de 400 no tiene fuente sólida: Charles Graeber habla de «cientos» (CBS, 2013) y Crime+Investigation de «hasta 400»; el guion la presenta como estimación no comprobada. 5) Amy Loughren aparece como «Amy Ridgway» en el reportaje de CBS de 2013 (apellido de entonces). El local de la reunión con micrófono varía según la fuente (diner, bar de Bridgewater); el guion dice «un restaurante» sin más. 6) La afirmación de que el hospital dijo que los registros del Pyxis solo se guardaban 30 días procede solo de los detectives en CBS; va atribuida. 7) Las cinco muertes entre el aviso de julio y octubre de 2003 cuadran con la lista de la fiscalía (13/7, 11/8, 20/9, 23/9 y 21/10/2003) y con CBS. 8) Leyes: Patient Safety Act (2004) y la ley de 2005 de comunicación obligatoria (Wikipedia); la Irish Times (2006) recoge la protección legal a los hospitales que informan. Se nombra solo a víctimas adultas cuyos nombres publicó la fiscalía y cuyas familias hablaron en público (Strenko, Gall, Yengo). La única cita del juez va parafraseada («traicionado los cimientos ancestrales de las profesiones sanitarias», de «You betrayed the ancient foundations of the healing professions», Irish Times)."
 }

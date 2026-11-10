@@ -1,109 +1,83 @@
 {
   "id": "muehlberg",
-  "titulo": "Treinta años en un archivo",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Gary Muehlberg": "Gári Míulberg",
     "Muehlberg": "Míulberg",
     "St. Louis": "Seint Lúis",
+    "St. Charles": "Seint Charls",
     "O'Fallon": "Ou Fálon",
     "Silex": "Sáilex",
+    "Lincoln": "Línkon",
     "Potosi": "Potósi",
-    "Package Killer": "Pákech Kíler"
+    "Package Killer": "Pákech Kíler",
+    "Robyn Mihan": "Róbin Míjan",
+    "Robyn": "Róbin",
+    "Donna Reitmeyer": "Dóna Ráitmaier",
+    "Brenda Pruitt": "Brenda Prúit",
+    "Sandy Little": "Sándi Lítel",
+    "Kenneth Atchison": "Kéniz Áchison",
+    "Atchison": "Áchison",
+    "Bel-Ridge": "Bel Ridch",
+    "Jodi Weber": "Yódi Uéber",
+    "Weber": "Uéber"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Misuri, principios de los años noventa. Junto a varias carreteras del este del estado empiezan a aparecer los cuerpos de mujeres asesinadas. No están simplemente abandonados: alguien los ha ocultado dentro de cajas, contenedores o entre colchones, como si fueran bultos. Con el tiempo, el asesino desconocido recibiría un apodo: el Package Killer, el asesino de los paquetes."
+      "n": 1,
+      "titulo": "Dos colchones junto a la carretera",
+      "tipo": "hallazgo",
+      "bloques": [
+        { "voz": "ximena", "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Gary Muehlberg, el asesino de los paquetes. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas." },
+        { "voz": "ximena", "texto": "Cinta uno. Dos colchones junto a la carretera." },
+        { "voz": "ximena", "texto": "26 de marzo de 1990. Una carretera rural cerca de Silex, un pueblo del condado de Lincoln, en Misuri, al noroeste de St. Louis. En la cuneta hay dos colchones atados con cable. Entre ellos, alguien ha escondido el cuerpo de una mujer." },
+        { "voz": "ximena", "texto": "Se llamaba Robyn Mihan y tenía dieciocho años. Unos días antes había desaparecido en el sur de St. Louis, la gran ciudad del este del estado, a orillas del Misisipi." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Me detengo en la forma, porque es lo que da nombre a este expediente. Quien hizo esto no se limitó a abandonar un cuerpo. Lo envolvió, lo ocultó, lo convirtió en un bulto. Y lo dejó junto a una carretera, a la vista de cualquiera que pasara." },
+        { "voz": "ximena", "texto": "El 11 de junio de 1990 aparece la segunda. Está dentro de un cubo de basura, en una acera de la ciudad de St. Louis. Es Donna Reitmeyer, de cuarenta años, madre de tres hijas." },
+        { "voz": "ximena", "texto": "Brenda Pruitt, de veintisiete años, había desaparecido en mayo. Su cuerpo apareció también en un cubo de basura de plástico, junto a una carretera muy transitada del condado de St. Louis. Pasó tiempo antes de que pudieran identificarla." },
+        { "voz": "ximena", "texto": "Sandy Little, de veintiún años, desapareció en septiembre. Cinco meses después, el 17 de febrero de 1991, sus restos aparecieron en un mueble abandonado junto a la interestatal 70, a la altura de O'Fallon, en el condado de St. Charles." },
+        { "voz": "alvaro", "texto": "Pongo las cuatro fichas sobre la mesa. Cuatro mujeres desaparecidas en seis meses de 1990, todas de la misma zona del sur de St. Louis. Los fiscales la describieron después como un lugar donde entonces se ejercía la prostitución. Y cuatro cuerpos escondidos en recipientes, como paquetes." },
+        { "voz": "alvaro", "texto": "Pero mirad dónde aparecieron. Dos condados distintos, más la ciudad, más un condado rural. Cada hallazgo caía en manos de un cuerpo policial diferente. En los documentos que he revisado no consta que nadie llegara entonces a un sospechoso." },
+        { "voz": "ximena", "texto": "Con el tiempo, a aquel asesino sin rostro se le conocería como el Package Killer: el asesino de los paquetes. Los casos se fueron quedando sin pistas nuevas. Las familias se quedaron sin respuestas." },
+        { "voz": "ximena", "texto": "Febrero de 1993. Un hombre de cincuenta y siete años, Kenneth Atchison, desaparece en el condado de St. Louis. Había ido con seis mil dólares a casa de un vendedor de coches de segunda mano, en el barrio de Bel-Ridge, para comprarle un coche." },
+        { "voz": "ximena", "texto": "El vendedor se llamaba Gary Muehlberg y tenía cuarenta y tres años. La policía encontró el cuerpo de Kenneth Atchison en el sótano de su casa, metido en una caja de madera contrachapada." },
+        { "voz": "alvaro", "texto": "Un cuerpo escondido dentro de una caja. Leído hoy, el detalle salta a la vista. Pero la víctima era un hombre, el móvil parecía el dinero y habían pasado casi tres años desde aquellas mujeres. Nadie lo relacionó en público con ellas." },
+        { "voz": "ximena", "texto": "En 1995, Gary Muehlberg fue declarado culpable del asesinato de Kenneth Atchison. Lo condenaron a cadena perpetua sin posibilidad de libertad condicional. Para el sistema, era el autor de un único crimen." },
+        { "voz": "ximena", "texto": "Y así pasaron los años. El asesino que nadie encontraba estaba en una prisión de Misuri, cumpliendo condena por otro crimen, mientras cuatro expedientes seguían abiertos." },
+        { "voz": "ximena", "texto": "En 2008, la sargento detective Jodi Weber, de la policía de O'Fallon, empezó a revisar homicidios antiguos sin resolver. Entre ellos estaba el de Sandy Little, hallada en su ciudad, y los de las otras tres mujeres." },
+        { "voz": "alvaro", "texto": "Esto es lo que más me interesa del expediente. Weber trabajó sobre pruebas que alguien había recogido y guardado bien a principios de los noventa, cuando todavía no se podían analizar como hoy. Sin aquel trabajo de conservación, no habría habido nada que revisar." },
+        { "voz": "ximena", "texto": "Fueron años de trabajo. En 2022, una muestra de ADN hallada en uno de los cuerpos dio por fin una coincidencia. El perfil pertenecía a un preso que llevaba casi tres décadas cumpliendo cadena perpetua." },
+        { "voz": "ximena", "texto": "Los investigadores fueron a la prisión a hablar con Gary Muehlberg. Tenía setenta y tres años. Y lo que les contó iba más allá de lo que el ADN podía demostrar." }
+      ]
     },
     {
-      "voz": "alvaro",
-      "texto": "Un apodo para alguien sin rostro. ¿Cuánto tiempo tardaron en ponerle nombre?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Más de treinta años. Y cuando por fin lo identificaron, resultó que ya estaba en prisión, cumpliendo condena por otro asesinato. El hombre al que nadie encontraba había estado, durante mucho tiempo, al alcance de la mano."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Gary Muehlberg, el asesino de los paquetes."
-    },
-    {
-      "voz": "ximena",
-      "texto": "De la vida de Muehlberg antes de sus crímenes se sabe muy poco con certeza. Nació en 1949 y, según la investigación, se movía por la zona de St. Louis, la gran ciudad del este de Misuri, a orillas del Misisipi. Allí captaba a sus víctimas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1990 y 1991, cuatro mujeres fueron asesinadas. Sus cuerpos aparecieron en lugares distintos: junto a la interestatal 70, cerca de O'Fallon, o en zonas rurales como Silex, a decenas de kilómetros de la ciudad. Siempre ocultos, siempre junto a una carretera."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y por qué no se resolvieron aquellos casos en su momento?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Las investigaciones de la época no lograron identificar a un sospechoso. Los cuerpos aparecían en jurisdicciones distintas, y la tecnología forense de principios de los noventa tenía grandes limitaciones. Con los años, los casos se quedaron sin pistas nuevas y pasaron a engrosar la lista de crímenes sin resolver."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Para las familias empezó una espera larguísima. Años sin un nombre, sin un juicio, sin saber siquiera si quien había matado a sus hijas, hermanas o madres seguía en libertad, quizá a pocos kilómetros de su casa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 1993, Muehlberg mató a otra mujer. Esta vez sí fue detenido, juzgado y condenado a cadena perpetua. Pero nadie lo relacionó entonces con los crímenes de 1990 y 1991. Para el sistema, era el autor de un único asesinato."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Así que el asesino que nadie encontraba llevaba años entre rejas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Y aquí entra en juego el trabajo de las unidades de casos archivados: equipos que vuelven sobre expedientes antiguos con herramientas que no existían cuando se abrieron. Sobre todo, los análisis de ADN, capaces hoy de extraer información de muestras mínimas o muy degradadas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "No es una tarea menor. En Estados Unidos se acumulan decenas de miles de homicidios sin resolver. Cada uno de esos expedientes guarda pruebas que, quizá, algún día podrán hablar. Solo hace falta que alguien vuelva a abrirlos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "En 2022, una de esas revisiones dio resultado. Una prueba de ADN de un caso archivado vinculó a Gary Muehlberg con las cuatro mujeres asesinadas en 1990 y 1991. Más de tres décadas después, el asesino de los paquetes tenía por fin nombre y apellido."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y qué dijo él cuando se lo plantearon?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Confesó. Su confesión confirmó lo que el ADN ya apuntaba. Reconoció los cuatro asesinatos, que se sumaban al que ya había motivado su condena. En total, cinco mujeres asesinadas entre 1990 y 1993."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy, Muehlberg sigue cumpliendo cadena perpetua en el centro penitenciario de Potosi, en Misuri. Su caso, con pocos detalles públicos sobre su vida, es uno de los menos conocidos de este archivo. Y, sin embargo, encierra algunas de sus lecciones más claras."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Un caso pequeño en fama, pero enorme para las familias."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así es. Para ellas, la confesión llegó cuando muchas ya habían perdido la esperanza de saber la verdad. Más de treinta años es una vida entera esperando una respuesta. Y una respuesta tardía, aunque no repare nada, al menos pone fin a la incertidumbre."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso deja también una lección sobre la importancia de conservar bien las pruebas. Lo que se recogió y se guardó a principios de los noventa fue lo que permitió resolver el caso cuando la ciencia estuvo preparada para ello."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Es una historia que se repite en muchos expedientes de este archivo: crímenes que parecían cerrados para siempre y que una muestra bien conservada, y alguien dispuesto a revisarla, devolvieron a la luz."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hoy queremos recordarlas a ellas: cinco mujeres cuyas vidas importaban, y unas familias que esperaron demasiado tiempo para saber qué les había ocurrido. Mujeres con nombre y con una historia propia, que no merecen quedar reducidas a un apodo."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Gary Muehlberg. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Un barril junto a un lavadero",
+      "tipo": "juicio",
+      "bloques": [
+        { "voz": "ximena", "texto": "Cinta dos. Un barril junto a un lavadero." },
+        { "voz": "ximena", "texto": "Esta cinta cierra el expediente de Gary Muehlberg, el hombre al que una prueba de ADN vinculó en 2022 con cuatro mujeres asesinadas en 1990 en la zona de St. Louis, en Misuri, cuando ya cumplía cadena perpetua por otro asesinato." },
+        { "voz": "ximena", "texto": "Muehlberg nació en St. Louis en 1949. De su vida antes de los crímenes se ha publicado poco que esté bien documentado. Según las crónicas, a principios de los noventa se dedicaba a la compraventa de coches usados." },
+        { "voz": "ximena", "texto": "Los fiscales le ofrecieron un acuerdo: no pedirían la pena de muerte si colaboraba. Muehlberg aceptó. Y confesó." },
+        { "voz": "alvaro", "texto": "Nota del inspector. Sobre ese acuerdo conviene ser claros. El ADN apuntaba a uno de los casos, no a los cuatro. Fue la confesión la que permitió cerrar los demás. Para las familias, sin ese acuerdo quizá no habría habido juicio en ninguno." },
+        { "voz": "alvaro", "texto": "Una detective que escuchó aquellas confesiones contó después a una televisión local lo que más le chocó: que parecía un abuelo corriente. Es una frase que conviene recordar. Los asesinos de este archivo casi nunca tienen el aspecto que esperamos." },
+        { "voz": "ximena", "texto": "El 19 de septiembre de 2022, los fiscales anunciaron los cargos: cuatro asesinatos en primer grado, por Robyn Mihan, Donna Reitmeyer, Brenda Pruitt y Sandy Little. Más de treinta años después, el asesino de los paquetes tenía nombre." },
+        { "voz": "ximena", "texto": "Los casos se repartían entre tres jurisdicciones, así que hubo tres vistas, todas en marzo de 2023. La primera, el día 6, en el condado de St. Charles. Muehlberg se declaró culpable del asesinato de Sandy Little y fue condenado a cadena perpetua." },
+        { "voz": "ximena", "texto": "El 21 de marzo, en el condado de St. Louis, se declaró culpable de los asesinatos de Brenda Pruitt y Donna Reitmeyer. Recibió dos cadenas perpetuas más." },
+        { "voz": "ximena", "texto": "El 31 de marzo, por videoconferencia, se declaró culpable ante un juzgado del condado de Lincoln del asesinato de Robyn Mihan. Treinta y tres años después de aquellos dos colchones en la cuneta, el último de los cuatro casos quedaba cerrado." },
+        { "voz": "alvaro", "texto": "Hago la cuenta. Cinco cadenas perpetuas: la de 1995 por Kenneth Atchison y las cuatro de 2023. En la práctica, para un hombre de setenta y cuatro años, la pena era la misma. Pero no se trataba de él. Se trataba de que cada familia tuviera una sentencia con el nombre de los suyos." },
+        { "voz": "ximena", "texto": "En aquellas vistas, algunas familias pudieron, por fin, mirarlo a la cara. La hermana de una de las víctimas se dirigió a él en el juzgado de St. Charles. Habían esperado más de tres décadas." },
+        { "voz": "ximena", "texto": "Pero el expediente no está cerrado del todo. Según los documentos judiciales, Muehlberg confesó también haber matado a una quinta mujer en su casa. Dijo que dejó su cuerpo dentro de un barril metálico, cerca de un lavadero de coches de autoservicio." },
+        { "voz": "ximena", "texto": "Sus restos nunca se encontraron. No se sabe quién era. No hay cargos por su muerte, porque no hay a quién nombrar en una acusación." },
+        { "voz": "alvaro", "texto": "Esa es la herida abierta de este caso. En algún lugar hay una familia que quizá denunció una desaparición a principios de los noventa y nunca supo nada más. Si alguna vez se la identifica, será gracias al mismo tipo de trabajo que resolvió los otros cuatro." },
+        { "voz": "ximena", "texto": "Hay otra pregunta sin respuesta: el porqué. Los fiscales no han hecho público ningún móvil. Muehlberg contó qué hizo y dónde, pero lo que se sabe de sus confesiones no explica por qué eligió a aquellas mujeres." },
+        { "voz": "alvaro", "texto": "Cierro mis notas con una lección. Este caso no lo resolvió una tecnología milagrosa. Lo resolvieron unas pruebas bien guardadas durante dieciocho años y una detective que decidió volver a abrir las cajas. Muchos expedientes de este archivo esperan todavía a alguien así." },
+        { "voz": "ximena", "texto": "Hoy, Gary Muehlberg cumple sus cadenas perpetuas en el centro penitenciario de Potosi, en Misuri. Su nombre no debería ser lo que se recuerde de este expediente." },
+        { "voz": "ximena", "texto": "Este expediente pertenece a Robyn Mihan, de dieciocho años. A Donna Reitmeyer, de cuarenta, y a sus tres hijas. A Brenda Pruitt, de veintisiete. A Sandy Little, de veintiuno. A Kenneth Atchison. Y a una mujer sin nombre que todavía nadie ha podido devolver a los suyos." },
+        { "voz": "ximena", "texto": "Fin del expediente de Gary Muehlberg. Archivo de TRUE CRIME CALENDAR." }
+      ]
     }
   ],
-  "nota_revision": "Caso con poca información pública verificable. El guion se ciñe a la ficha (cuatro asesinatos de 1990–1991 vinculados por ADN en 2022, condena previa por un asesinato de 1993, confesión, cadena perpetua en Potosi) y omite a propósito los nombres de las víctimas, los detalles de la vida del autor y los de la investigación. Conviene verificar el estado procesal de los cuatro asesinatos confesados (si hubo declaración de culpabilidad o nueva condena después de 2022) y si el apodo «Package Killer» se usó ya en los años noventa o solo a partir de 2022."
+  "nota_revision": "Fuentes en web/datos/fuentes/muehlberg.json. DISCREPANCIAS CON LA FICHA Y EL GUION V2: 1) La víctima de 1993 no fue una mujer, como decía el guion v2 («En 1993, Muehlberg mató a otra mujer»), sino un hombre: Kenneth Atchison, de 57 años, asesinado en febrero de 1993 en Bel-Ridge (AP/Spectrum, 7/3/2023; CBS/AP, 21/3/2023; Wikipedia). Condenado en septiembre de 1995 (St. Louis Post-Dispatch, citado por Wikipedia) a cadena perpetua sin libertad condicional. La ficha (v=5) es correcta si cuenta 4 mujeres y 1 hombre; conviene revisar el resumen de la ficha. 2) Ficha: «cuatro mujeres asesinadas en 1990–1991». Las cuatro desaparecieron en 1990, en seis meses (AP); 1991 es el año del último hallazgo (Sandy Little, 17/2/1991). El guion dice «asesinadas en 1990». 3) Ficha y v2: «una prueba de ADN... lo vinculó con cuatro mujeres». Según AP (Spectrum, 7/3/2023) la detective Jodi Weber encontró ADN en uno de los cuerpos que coincidía con Muehlberg; las demás se atribuyen por su confesión. Wikipedia sitúa la coincidencia en marzo de 2022. CBS dice que el ADN lo vinculó «con al menos cuatro asesinatos»: se ha seguido la versión más prudente. 4) Estado procesal (duda de REVISION_GUIONES.md): se declaró culpable de los cuatro en marzo de 2023 (6/3 St. Charles, Little; 21/3 St. Louis County, Pruitt y Reitmeyer; 31/3 Lincoln por vídeo, Mihan; AP, Riverfront Times, KSDK), con cadena perpetua en cada caso; el acuerdo fue no pedir la pena de muerte. 5) El apodo «Package Killer» aparece en la prensa de 2022-2023; no he podido confirmar si se usó en los noventa, así que el guion dice «con el tiempo, se le conocería». 6) Datos dudosos que se han dejado fuera: fecha del hallazgo de Brenda Pruitt (octubre de 1990 según Wikipedia, que añade que se la identificó en marzo de 1991; octubre de 1991 según AP); recipiente de Sandy Little (cómoda o «dresser» según AP del 21/3/2023; caja de madera según AP del 7/3/2023; el guion dice «un mueble abandonado»); edad de Robyn Mihan (18 en AP; 19 en alguna crónica); antecedentes en Kansas de 1972-1973 (solo Wikipedia, con recortes del Salina Journal); fallo renal citado como motivo para no pedir la muerte (solo Wikipedia). 7) La quinta mujer (barril metálico cerca de un lavadero de autoservicio, restos nunca hallados) procede de los documentos judiciales citados por AP. 8) «Parecía un abuelo corriente»: paráfrasis del titular de KSDK (20/9/2022) con la frase de la detective; no se ha podido leer el artículo completo (bloqueado). 9) La hermana que se dirigió a él en el juzgado de St. Charles: titulares de KSDK y Riverfront Times; no se nombra. Verificar que sigue vivo y preso en Potosi en la fecha de publicación (Wikipedia: preso en Potosi a marzo de 2025)."
 }

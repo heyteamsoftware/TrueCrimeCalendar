@@ -90,3 +90,12 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
 - **Lincoln (14/4):** con McKinley (6/9), Garfield (2/7) y John F. Kennedy (22/11).
 - **Athulathmudali (23/4):** con Premadasa (1/5/1993), si hay ficha.
 - **Sancho Alegre (13/4) y Mateo Morral (31/5):** atentados contra Alfonso XIII.
+
+## Julio
+
+- **Obregón (17/7) y Pancho Villa (20/7):** ya puesto.
+- **Garfield (2/7):** con Lincoln (14/4), McKinley (6/9) y John F. Kennedy (22/11).
+- **Ambrosoli (11/7) y Roberto Calvi (18/6):** el Banco Ambrosiano.
+- **Lillehammer (21/7):** con la masacre de Múnich, si está en el archivo.
+- **Jaurès (31/7):** con Sarajevo, si está en el archivo.
+- **Charley Ross (1/7):** con el secuestro del hijo de Lindbergh, si está en el archivo.
