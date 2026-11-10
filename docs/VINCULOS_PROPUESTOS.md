@@ -81,3 +81,12 @@ Los proponen los agentes de fichas y los pone el coordinador al unir los meses (
 - **McKinley (6/9):** con Bresci (10/11), Lincoln (14/4), Garfield (2/7) y John F. Kennedy (22/11).
 - **Puglisi y Livatino:** con Libero Grassi (29/8) y Giaccone (11/8).
 - **22/9, Sara Jane Moore:** con el caso estrella `manson`.
+
+## Abril
+
+- **Buback (7/4) y Schleyer (5/9):** la RAF y el otoño alemán.
+- **Lara Bonilla (30/4):** con el atentado contra el DAS (6/12), la entrega de Escobar (19/6) y Pastrana (18/1), todos del cartel de Medellín.
+- **Martin Luther King (4/4) y Robert Kennedy (5/6):** magnicidios de 1968.
+- **Lincoln (14/4):** con McKinley (6/9), Garfield (2/7) y John F. Kennedy (22/11).
+- **Athulathmudali (23/4):** con Premadasa (1/5/1993), si hay ficha.
+- **Sancho Alegre (13/4) y Mateo Morral (31/5):** atentados contra Alfonso XIII.

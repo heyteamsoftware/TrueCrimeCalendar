@@ -22,7 +22,8 @@ Lanzados el 10 de noviembre de 2026. Estado por mes: escritas / verificadas / un
 | 05 | 19/19 ✓ | en marcha | — |
 | 02 | 23/23 ✓ | en marcha | — |
 | 09 | 25/25 ✓ | en marcha (y cambiar el 22/9 por Sara Jane Moore) | — |
-| 04, 06 a 08 y 12 | en marcha | — | — |
+| 04 | 23/23 ✓ | en marcha | — |
+| 06 a 08 y 12 | en marcha | — | — |
 
 ## Guiones de casos estrella (2 cintas por caso)
 
@@ -40,7 +41,7 @@ Hecho antes: `brady` (piloto).
 | abril A | sobhraj jesperson christie pichushkin | lanzado |
 | abril B | landru harvey yoo black | lanzado |
 | mayo A | homolka beck bryant holmes | lanzado |
-| mayo B | bellfield fish murano dahmer | en cola |
+| mayo B | bellfield fish murano dahmer | lanzado |
 | mayo C | bianchi chase escalero kurten | en cola |
 | junio | berkowitz sutcliffe shawcross little pedrinho | en cola |
 | julio | jones hindley magnotta onoprienko yang | en cola |
