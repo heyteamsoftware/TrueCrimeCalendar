@@ -58,12 +58,12 @@ Al acabar todas las cintas, el oyente debe saber: qué pasó, a quién, cómo se
 
 ## 5. Longitud
 
-Ximena habla a unas 160 palabras por minuto y entre bloques hay pausas. Cada cinta dura unos 5 minutos.
+Con la voz real, una cinta de 765 palabras dura unos 5,5 minutos. Para que cada cinta dure unos 5 minutos, el objetivo es de **650 a 750 palabras** (el validador admite hasta 780).
 
 | Caso | Cintas | Palabras por cinta | Total |
 |---|---|---|---|
-| Estrella | 2 | 700–800 | 1.400–1.600 palabras (unos 10 min) |
-| Nuevo | 1 | 700–800 | 700–800 palabras (unos 5 min) |
+| Estrella | 2 | 650–750 | 1.300–1.500 palabras (unos 10 min) |
+| Nuevo | 1 | 650–750 | 650–750 palabras (unos 5 min) |
 
 - **Bloques:**
   - De Ximena: como mucho 70 palabras (1 a 4 frases).

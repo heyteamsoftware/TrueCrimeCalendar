@@ -26,8 +26,9 @@ for (const id of ids) {
   const estrella = !nuevos.has(id);
   // Estrella: 2 cintas de ~5 min; nuevo: 1 cinta de ~5 min (docs/GUIA_CINTAS.md, sección 5)
   const [minC, maxC] = estrella ? [2, 2] : [1, 1];
-  const [minT, maxT] = estrella ? [1400, 1600] : [700, 800];
-  const [minW, maxW] = [700, 800];
+  // objetivo 650-750 palabras por cinta (unos 5 min con la voz real); se admite hasta 780
+  const [minT, maxT] = estrella ? [1300, 1560] : [650, 780];
+  const [minW, maxW] = [650, 780];
 
   if (g.id !== id) p.push(`id "${g.id}" no coincide`);
   if (g.version !== 3) p.push("falta version: 3");

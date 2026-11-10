@@ -6,7 +6,9 @@ const path = require("path");
 const dir = path.join(__dirname, "..", "app", "src", "main", "assets", "podcast");
 const ids = process.argv.slice(2).length
   ? process.argv.slice(2)
-  : fs.readdirSync(dir).filter(f => f.endsWith(".json")).map(f => f.slice(0, -5));
+  : fs.readdirSync(dir).filter(f => f.endsWith(".json")).map(f => f.slice(0, -5))
+    // los guiones en cintas (versión 3) se comprueban con tools/validar_cintas.js
+    .filter(id => { try { return JSON.parse(fs.readFileSync(path.join(dir, id + ".json"), "utf8")).version !== 3; } catch { return true; } });
 
 const MIN_WORDS = 700, MAX_WORDS = 830;
 let bad = 0;
