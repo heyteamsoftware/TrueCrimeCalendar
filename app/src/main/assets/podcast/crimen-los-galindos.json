@@ -35,7 +35,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Eran Juana Martín, de cincuenta y tres años, esposa del encargado del cortijo; Ramón Parrilla, de cuarenta; y Asunción Peralta, de treinta y cuatro, esposa del tractorista José González. Con ellos, el propio José González. Cuatro personas."
+          "texto": "Eran Juana Martín, de cincuenta y tres años, esposa del encargado del cortijo; Ramón Parrilla, de cuarenta, tractorista; Asunción Peralta, de treinta y cuatro, esposa del tractorista José González; y el propio José González."
         },
         {
           "voz": "ximena",
@@ -43,7 +43,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Ese retraso torció la investigación. Si el capataz no estaba entre los muertos, parecía el culpable: alguien que había huido tras matar a los demás. Esa fue la primera hipótesis, y era falsa."
+          "texto": "Ese retraso torció la investigación. Si el capataz no estaba entre los muertos, parecía el culpable: alguien que había huido tras matar a los demás. Esa fue la primera hipótesis."
         },
         {
           "voz": "ximena",
@@ -51,11 +51,11 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Cuando la primera pista cae, hay que empezar de cero. Pero ya se habían perdido días. La investigación, según La Vanguardia, estuvo llena de errores. Se barajaron móviles pasionales, reyertas, drogas e incluso una trama política."
+          "texto": "Cuando cae la primera pista, hay que empezar de cero, y ya se habían perdido días. Se barajaron móviles pasionales, reyertas, drogas e incluso una trama política."
         },
         {
           "voz": "ximena",
-          "texto": "Los Galindos ocurre cuatro meses antes de la muerte de Franco. Eran los últimos meses de la dictadura, y el sumario se reabrió varias veces sin que se sacara nada en claro."
+          "texto": "El crimen ocurrió cuatro meses antes de la muerte de Franco, en los últimos meses de la dictadura. El sumario se reabrió varias veces, según La Vanguardia, sin que se sacara nada en claro."
         },
         {
           "voz": "ximena",
@@ -79,7 +79,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Y hay un último capítulo. El sumario original, de unos mil setecientos folios en siete tomos, se extravió en un traslado tras un derrumbe en el juzgado de Marchena. Zapico conserva una copia."
+          "texto": "Y hay un último capítulo. El sumario original, de unos mil setecientos folios en siete tomos, se extravió en 2014, según la ficha, durante un traslado tras un derrumbe en el juzgado de Marchena. El agente judicial Zapico conserva una copia, y sigue siendo la memoria del caso."
         },
         {
           "voz": "alvaro",
@@ -87,11 +87,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Las víctimas fueron cinco trabajadores de una finca. Ya no queda nadie a quien juzgar, pero sí quien las recuerde: en Paradas, hoy, el crimen apenas se comenta."
+          "texto": "Las víctimas fueron cinco personas que trabajaban y vivían en una finca. Sus nombres son lo único que este expediente puede garantizar: Manuel, Juana, Ramón, Asunción y José."
         },
         {
           "voz": "alvaro",
-          "texto": "Eso me inquieta tanto como el silencio de la investigación. Un pueblo entero que prefiere no hablar de ello. Quizá porque quienes lo vivieron son ya muy mayores, y es una forma de respeto."
+          "texto": "Según elDiario.es, en Paradas el crimen apenas se comenta hoy. Un caso sin culpables deja eso: un silencio. Que el archivo diga sus nombres es lo mínimo."
         },
         {
           "voz": "ximena",
@@ -99,5 +99,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Caso sin resolver: nadie fue juzgado y no se señala a nadie. Fuentes abiertas: elDiario.es (WebFetch) y La Vanguardia (2015, abierta con curl). Diario de Sevilla no se pudo abrir. Discrepancias: la ficha dice que el cuerpo del capataz no se halló hasta tres días después y que la autopsia demostró que fue el primero en morir (elDiario.es); La Vanguardia dice que «murió el mismo día» y un pie de foto da fechas erróneas (15/07, 22 de junio). Cómo se descubrieron los cuerpos: elDiario.es (humo, vecinos con cubos) frente a La Vanguardia (trabajadores que vuelven del campo a media tarde): el guion dice solo «a media tarde se descubre» y que los vecinos acudieron. Edades de las víctimas: La Vanguardia (Zapata 59, Martín 53, Parrilla 40, Peralta 34). Papel de Asensio y de Moreno Andrade (jueces): La Vanguardia, 2015; el guion atribuye. No se cuenta la tesis del juez de 1983 contra uno de los fallecidos (La Vanguardia la recoge como hipótesis de la Guardia Civil), solo que fue exonerado. Se omiten la reunión de militares, la actuación del marqués y cualquier mención a propietarios (no condenados). El libro de 2019 lo recoge elDiario.es (autor: hijo de los dueños; el guion lo dice y lo atribuye al libro). Prescripción de 1995 y extravío del sumario (elDiario.es no da año; la ficha: 2014). Se omiten el método y el estado de los cuerpos."
 }

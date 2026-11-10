@@ -1,0 +1,103 @@
+{
+  "id": "bomba-bishopsgate",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Bishopsgate": "Bíshopsgueit",
+    "St Ethelburga": "San Ézelberga",
+    "Ethelburga": "Ézelberga",
+    "Edward Henty": "Édward Hénti",
+    "Henty": "Hénti",
+    "NatWest": "Natuést",
+    "IRA": "i erre a",
+    "Armagh": "Armá",
+    "News of the World": "Niús of de Uérld",
+    "Staffordshire": "Stáfordshir"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un camión azul en la City",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La bomba de Bishopsgate. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un camión azul en la City."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, sábado 24 de abril de 1993. Hacia las nueve de la mañana, un camión volquete de color azul oscuro se detiene en pleno Bishopsgate, una de las calles principales de la City, el barrio financiero. Dos hombres bajan y se marchan en un coche. A esa hora, casi no hay nadie por la zona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un sábado por la mañana, en un barrio de oficinas, un camión aparcado delante de la sede de un banco. Nadie lo habría mirado dos veces. Esa era la idea. Y el camión era robado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Lo habían robado en marzo en Staffordshire y lo habían repintado. Dentro iba una tonelada de explosivo casero, oculto bajo una capa de alquitrán. La construyó el IRA Provisional, que quería dañar la economía británica y forzar al gobierno a negociar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Una hora antes de la explosión, empezaron a sonar los teléfonos. Las llamadas se hicieron desde una cabina de Armagh, en Irlanda del Norte, con una contraseña que la policía reconocía como del IRA. Dos agentes ya estaban preguntando por el camión y empezaron a desalojar la zona."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Los avisos explican por qué no hubo cientos de muertos. No hacen menos grave lo que pasó. Un aviso de una hora, en una calle llena de edificios altos, es poco margen para vaciar un barrio entero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "A las diez y veintisiete, la bomba estalló. Dejó un cráter de cuatro metros y medio en la calzada. Una nube en forma de hongo se vio desde buena parte de Londres. Se dañaron edificios a medio kilómetro, y se rompieron más de quinientas toneladas de cristal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La iglesia medieval de St Ethelburga, a siete metros del camión, se derrumbó. La torre NatWest, el rascacielos más alto de la City, perdió buena parte de sus cristales."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Murió una persona: Edward Henty, fotógrafo del periódico News of the World, que había acudido al lugar. Otras cuarenta y cuatro resultaron heridas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Que solo muriera un hombre fue una cuestión de horas y de calendario. Un día laborable, con la City llena, habría sido otra historia. Lo digo porque conviene no mirar la cifra y olvidar el riesgo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La policía creyó saber quiénes eran los autores. En 1994, según Wikipedia, los detectives pensaban conocer sus identidades, pero no tenían pruebas suficientes para detenerlos. Nadie ha sido juzgado ni condenado por el atentado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esto es un expediente sin sentencia, y lo anoto sin adornos. El IRA Provisional lo hizo; el atentado no tiene un solo condenado. Entre una cosa y otra, queda un hueco que la justicia no ha llenado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El atentado se produjo poco más de un año después de otra bomba en el cercano Baltic Exchange. La City respondió con el «anillo de acero». El 3 de julio de 1993 se cerraron o limitaron la mayoría de los accesos. Las vías restantes tuvieron controles de policía armada y cámaras que leían las matrículas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hay un cambio más discreto. Muchas empresas dejaron de poder permitirse una crisis improvisada y prepararon planes de recuperación. Los aseguradores perdieron tanto que el gobierno creó un sistema para cubrir los daños del terrorismo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El periodista Ed Moloney describió esa campaña de bombas contra el centro financiero como posiblemente la táctica militar más exitosa del IRA. El IRA la suspendió para no estorbar los avances políticos de la época. Fue el último gran atentado en Inglaterra de aquella fase del conflicto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La iglesia no desapareció. Una década después reabrió como centro para la reconciliación y la paz. Allí hay también un monumento al fotógrafo que murió."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Dos cosas quedan del sábado. Un hombre que fue a hacer su trabajo y no volvió. Y una iglesia de ochocientos años que se reconstruyó para enseñar otra forma de resolver los conflictos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La bomba de Bishopsgate. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "No hay condenados: se dice que el IRA Provisional lo reivindicó/avisó (la ficha) y se evita señalar a personas concretas. Fuentes abiertas: BBC (2018: 24 de abril, camión robado, 99 Bishopsgate, un muerto y 44 heridos, «anillo de acero» en julio de 1993, avisos en clave), Wikipedia en inglés (camión robado en marzo en Staffordshire, ANFO de una tonelada, aviso desde una cabina de Forkhill, 10:27, cráter, 500 toneladas de cristal, iglesia a 7 metros, ring of steel el 3 de julio de 1993, seguros y Pool Re, cita de Moloney) y St Ethelburga's Centre (iglesia medieval, reabierta como centro). Contradicciones: la ficha dice unos 40 heridos; BBC y Wikipedia, 44 (el guion usa 44). Hora: 10:27 (Wikipedia) o 10:30 (St Ethelburga's). La ficha no da cifra de daños; el guion tampoco. Edward Henty: Wikipedia dice que fue herido de muerte tras ignorar los avisos policiales y acudir al lugar; el guion solo dice «había acudido al lugar». La piedra 'monumento a Henty' sale de la web de Wikipedia (pie de foto). El libro de Moloney no se leyó; la cita se toma de Wikipedia. La reapertura de la iglesia 'una década después' (2002) sale de St Ethelburga's. Se omite el detalle de cómo se ocultó la bomba."
+}

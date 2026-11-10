@@ -1,0 +1,109 @@
+{
+  "id": "atentado-juan-pablo-ii",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Mehmet Ali Ağca": "Mémet Alí Adyá",
+    "Ağca": "Adyá",
+    "Gemelli": "Yemélli",
+    "Ilario Martella": "Ilário Martéla",
+    "Martella": "Martéla",
+    "KGB": "ka ge be",
+    "Browning": "Bráuning",
+    "Fátima": "Fátima"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cuatro disparos en la plaza de San Pedro",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra Juan Pablo II. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cuatro disparos en la plaza de San Pedro."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roma, 13 de mayo de 1981. Son las cinco y diecisiete de la tarde. Es miércoles, día de audiencia general, y la plaza de San Pedro está llena de peregrinos. El papa Juan Pablo II recorre la plaza en un vehículo descubierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre la multitud, un joven turco saca una pistola Browning de nueve milímetros. Se llama Mehmet Ali Ağca. Dispara varias veces a muy pocos metros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un vehículo descubierto, miles de personas y un hombre armado entre ellas. Estar cerca de la gente era una forma de ser visible. Aquella tarde, también fue un riesgo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dos balas alcanzaron al papa. Otras dos personas resultaron heridas. Juan Pablo II fue llevado de urgencia al policlínico Gemelli, donde lo operaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ağca no huyó. Fue detenido en el acto, allí mismo, en la plaza."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quedan fijos tres hechos, y el resto se discute. Uno, el atacante fue detenido en el lugar. Dos, el papa sobrevivió. Tres, la pregunta que quedaba en el aire: ¿por qué, y por orden de quién?"
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ağca fue juzgado muy deprisa. En julio de 1981, un tribunal italiano lo condenó a cadena perpetua. Pero el juez Ilario Martella siguió investigando, porque creía que había una trama detrás."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Durante un año, Ağca no colaboró. Después, en 1982, empezó a hablar. Dijo que había actuado por encargo de los servicios secretos de Bulgaria y acusó a tres búlgaros y a varios turcos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle. Antes de 1982, Ağca decía que había actuado solo. El caso búlgaro descansaba, en gran parte, en sus acusaciones posteriores. Y Ağca cambió de versión muchas veces."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Martella, Ağca era un hombre engañoso y calculado, y cambió decenas de versiones. Durante el juicio, llegó a declarar ante el tribunal que era Jesucristo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1986, un tribunal de Roma absolvió a los tres búlgaros y a los tres turcos acusados de conspiración. No había pruebas suficientes. Tras más de tres años de instrucción y diez meses de juicio, el fiscal Antonio Marini resumió así el resultado: «Estamos de nuevo en el punto de partida»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución por falta de pruebas no es una inocencia declarada, pero tampoco es una culpa. Tiene que quedar claro. Los acusados no fueron condenados, y no se les puede señalar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La teoría de la pista búlgara, según la cual detrás estaba el bloque soviético, no se probó ni se descartó del todo. Nunca se ha aclarado quién ordenó el atentado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo un gesto que se recuerda. En 1983, Juan Pablo II visitó a Ağca en la cárcel. Según la crónica de EFE, cuando Ağca le preguntó por qué no había muerto, el papa atribuyó su supervivencia a la Virgen de Fátima."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Ağca fue indultado en Italia en el año 2000, a petición del propio papa, y extraditado a Turquía. Salió de prisión en 2010."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una última nota. Treinta años después, el diario del Vaticano escribió que el papa «sabía bien quién lo quería muerto». Es una frase, no un hecho. En un archivo, las frases no sustituyen a las pruebas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Juan Pablo II sobrevivió. Una de las balas, según se contó, pasó a pocos milímetros de la aorta. Las otras dos personas heridas aquella tarde también merecen figurar en este expediente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Peregrinos que habían ido a escuchar al papa en una plaza abierta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El atentado contra Juan Pablo II. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Número de balas que alcanzaron al papa: dos (EFE, Wikipedia); algunas crónicas dicen cuatro. La fecha de la sentencia de cadena perpetua varía entre el 21 y el 22 de julio de 1981 (se dice «julio de 1981»). Absolución de los búlgaros: 29 de marzo de 1986 (Christian Science Monitor; AGI dice 29 de junio): el guion dice «en 1986». Las heridas de las dos peregrinas no se han contrastado con una segunda fuente; solo se dice que otras dos personas resultaron heridas (ficha). Se omiten los nombres de los acusados absueltos y las teorías sobre los Lobos Grises, los servicios de la Stasi y los casos Orlandi y Gregori (declaraciones de Martella no contrastadas). La pista búlgara se presenta como hipótesis no probada: los acusados fueron absueltos por insuficiencia de pruebas. Condena a Ağca en 1986 por contrabando de armas: no se recoge. El guion no atribuye la orden del atentado a nadie."
+}

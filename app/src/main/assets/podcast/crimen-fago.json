@@ -36,11 +36,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "El pueblo llevaba años enfrentado. Según Público, las tensiones crecieron cuando Grima impulsó delimitar el término municipal de Fago con el de su vecino Ansó. Hubo pleitos por licencias, permisos y negocios. Algunos vecinos lo consideraban arbitrario y despótico. Eso dice la sentencia que recogía su versión."
+          "texto": "El pueblo llevaba años enfrentado. Según Público, las tensiones crecieron cuando Grima impulsó delimitar el término municipal de Fago con el de su vecino Ansó. Hubo pleitos por licencias, permisos y negocios. Según la sentencia, Mainar, como otros vecinos, lo consideraba arbitrario y despótico."
         },
         {
           "voz": "alvaro",
-          "texto": "Segunda nota. Apunto una cosa que la prensa repitió: los pleitos y los rencores de un pueblo pequeño no explican nada por sí solos. Lo que cuenta es lo que un tribunal dio por probado, y eso vendrá después."
+          "texto": "Segunda nota. Los pleitos y los rencores de un pueblo pequeño no prueban nada por sí solos. Lo que cuenta es lo que un tribunal dio por probado, y eso llega después."
         },
         {
           "voz": "ximena",
@@ -56,7 +56,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Tercera nota. Una confesión retirada es el punto débil de cualquier caso, y esta lo fue. Pero la Audiencia no se apoyó solo en ella, y valoró la actividad probatoria y también la de descargo, como dijo después el Supremo. No puedo detallar más las pruebas: no he podido contrastarlas en documentos judiciales abiertos."
+          "texto": "Tercera nota. Una confesión retirada es el punto débil de cualquier caso, y esta lo fue. El Supremo diría después que la Audiencia valoró toda la prueba, también la de descargo. No puedo detallar más las pruebas: no he podido contrastarlas en documentos judiciales abiertos."
         },
         {
           "voz": "ximena",
@@ -76,7 +76,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Del pueblo queda un conflicto sin resolver sobre la frontera que dividió a los vecinos. Del alcalde, un homenaje: en 2008 se levantó un monolito en su memoria, que fue profanado."
+          "texto": "Del pueblo queda un conflicto sin resolver: diez años después, según Público, el deslinde con Ansó seguía pendiente. Y queda un hombre de cincuenta y un años que volvía de una reunión a casa."
         },
         {
           "voz": "alvaro",
@@ -88,5 +88,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: Legal Today (10-11-2010), Público/EFE (8-1-2009), Público (Bayona, 14-1-2017), El Mundo (27-10-2010, solo el arranque), Wikipedia en inglés (casi vacía), más una búsqueda web que dio dos páginas: Cosas Legales (crónica del juicio) y un reportaje divulgativo de Escapada Rural. Discrepancias con la ficha: (1) la hora: la sentencia (Legal Today) sitúa el crimen hacia las 22:00 de la noche del 12, no «la tarde» (la ficha dice «la tarde del 12»); Wikipedia en inglés dice el 13, y el reportaje de Escapada Rural dice que el cuerpo apareció el 13. El guion dice noche del 12 (hechos probados). (2) La ficha dice que Mainar «confesó y se retractó»: coincide con Cosas Legales y Escapada Rural. (3) El dato del ADN en el coche de la víctima, el hallazgo del coche lejos del lugar y la confesión ante secretario judicial y abogada de oficio salen SOLO del reportaje divulgativo de Escapada Rural (no contrastado en prensa ni en la sentencia, que no se ha podido abrir); el guion lo atribuye a «un reportaje divulgativo» y a «según ese mismo reportaje», y la nota del inspector avisa de que no se han contrastado las pruebas. Se dejó fuera la prueba de la parafina y el monolito profanado (solo ese reportaje). (4) Que Mainar siga en prisión no se ha comprobado (Público 2017 decía que llevaba casi diez años). (5) El Supremo fecha: 27-10-2010 (El Mundo) o 10-11-2010 (Legal Today, publicación); el guion dice «octubre de 2010». (6) Nombre de Mainar: la ficha lo llama agente forestal y guarda forestal. Se mencionan nombres solo de Grima y Mainar (condenado). No se describen la herida ni el cuerpo."
 }

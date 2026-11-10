@@ -43,3 +43,4 @@ Los dejan los guionistas. El verificador de cada grupo los revisa uno a uno.
 - **sandino:** el guion incluye la versión de Somoza sobre el embajador Lane, atribuida y discutida por Belli; la ficha decía no incluirla. Decidir. Pronunciaciones a oído: reg-murphy, cinco-de-yuba y olof-palme. Las notas de revisión de febrero 16-29 son largas.
 - **puig-antich y matanza-atocha:** datos de contexto sin fuente abierta (últimas ejecuciones con garrote vil; edad de Dato). Pronunciación de «Puig Antich».
 - **secuestro-pastrana:** el asesinato del procurador Hoyos (25/1/1988) no figura en las fuentes de la ficha; comprobar en dos fuentes.
+- **Menores no nombradas** en bundy, starkweather, nilsen y romasanta por falta de familia pública. Pronunciaciones a oído en abril 1-15 (Lorrén, Búbak, Yeims Erl Rei). Sancho Alegre y Zapata: solo dos fuentes abiertas.

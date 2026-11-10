@@ -42,11 +42,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Sube los escalones del portal. Saluda al portero, Giuseppe Onorato. Un hombre elegante, con abrigo de pelo de camello, entra tras él. El portero lo describiría después a la prensa: pensó que era otro cliente."
+          "texto": "Sube los escalones del portal. Saluda al portero, Giuseppe Onorato. Un hombre elegante, con abrigo de pelo de camello, entra tras él. Según contó después el portero a la prensa, nada hacía presagiar lo que iba a pasar."
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Un hombre bien vestido entra a un portal de oficinas a plena mañana. Nadie se fija. Es la normalidad de un barrio caro, y es lo que lo hace posible."
+          "texto": "Primera nota. Un hombre bien vestido, un portal de oficinas, unos segundos. Nada en la escena llamaba la atención, ni siquiera para el portero que estaba a dos pasos."
         },
         {
           "voz": "ximena",
@@ -54,7 +54,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Gucci ya no dirigía la empresa de su familia. En 1993 había vendido sus acciones a un grupo de inversión y había creado una nueva sociedad. Estaba casado con Patrizia Reggiani desde 1973; se divorciaron tras doce años y tenían dos hijas."
+          "texto": "Gucci ya no dirigía la empresa de su familia. En 1993 había vendido sus acciones a un grupo de inversión y había creado una nueva sociedad. Se había casado con Patrizia Reggiani en 1973. Tenían dos hijas y estaban divorciados."
         },
         {
           "voz": "alvaro",
@@ -62,7 +62,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "En enero de 1997, un informante dio un aviso a la policía: dos personas buscaban ayuda para presionar a una viuda que, tras encargar un asesinato, regateaba el precio. El precio pactado era de seiscientos millones de liras."
+          "texto": "En enero de 1997, un informante dio un aviso a la policía: dos personas buscaban ayuda para «dar una lección» a quien les había encargado el crimen y regateaba el precio, unos seiscientos millones de liras."
         },
         {
           "voz": "alvaro",
@@ -102,11 +102,11 @@
         },
         {
           "voz": "ximena",
-          "texto": "Reggiani pasó unos diecisiete años en prisión. Desde 2013 salió a trabajar fuera mientras cumplía, y más tarde un juez dio por concluida su libertad vigilada."
+          "texto": "Reggiani pasó unos diecisiete años en prisión, según Il Post. Desde 2013 salió a trabajar fuera mientras cumplía, y más tarde un juez dio por concluida su libertad vigilada."
         },
         {
           "voz": "alvaro",
-          "texto": "Quien lea las crónicas sociales verá muchos nombres y mucho glamur. Yo prefiero que se quede una sola imagen: un hombre que sube siete escalones, saluda a un portero y no sabe que ya lo están siguiendo."
+          "texto": "Quien lea las crónicas sociales verá muchos nombres y mucho glamur. Yo prefiero que se quede una sola imagen: un hombre que sube siete escalones, saluda a un portero, y no vuelve a bajarlos."
         },
         {
           "voz": "ximena",
@@ -118,5 +118,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nota_revision": "Fuentes abiertas: Il Post (2015), Affaritaliani (2017); la Wikipedia italiana no se pudo leer. Discrepancias: disparos (cuatro en Il Post, tres en Affaritaliani; el guion no da cifra); detenciones el 30 (Il Post, Affaritaliani) o 31 de enero (ficha, Wikipedia): el guion dice «entre el 30 y el 31»; duración del matrimonio (12 años en Il Post, 15 en Affaritaliani; el guion no la da); penas de 1998 según Il Post y Affaritaliani (Reggiani 29, Ceraulo y Cicala cadena perpetua, Savioni 27, Auriemma 25) frente a lo que dice la nota de la ficha de la Wikipedia (29 a Cicala, 26 a Savioni): se siguen los dos periódicos. Casación: 19 de febrero de 2001 (Affaritaliani). Salida: trabajo externo desde 2013 y fin de la libertad vigilada en 2017 (Affaritaliani); años en prisión: 17 (Il Post) o 16 (Affaritaliani). Ceraulo siempre se declaró inocente. Se omite la cita de la entrevista de Reggiani de 2014."
 }

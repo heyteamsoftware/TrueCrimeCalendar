@@ -1,0 +1,106 @@
+{
+  "id": "operacion-albania",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Corpus Christi": "Córpus Crísti",
+    "Salas Wenzel": "Sálas Vénsel",
+    "Hugo Salas Wenzel": "Ugo Sálas Vénsel",
+    "Dolmestch": "Dolmésh",
+    "Hugo Dolmestch": "Ugo Dolmésh",
+    "Álvaro Corbalán": "Álvaro Corbalán",
+    "Pinochet": "Pinoché",
+    "Frente Patriótico Manuel Rodríguez": "Frente Patriótico Manuel Rodríguez",
+    "Recoleta": "Recoleta",
+    "Pedro Donoso": "Pedro Donoso"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un ladrillo en el tejado de Pedro Donoso",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La matanza de Corpus Christi. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un ladrillo en el tejado de Pedro Donoso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Santiago de Chile, 16 de junio de 1987, de madrugada. En una casa de la calle Pedro Donoso, en el barrio de Recoleta, llegan varios coches. Dentro hay siete detenidos. Algunos vecinos oyen disparos. Pero lo que oyen no es un combate."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la causa judicial, uno de los agentes lanzó un ladrillo al tejado como señal. Después, otros dispararon al aire y gritaron para que los vecinos creyeran que se libraba un tiroteo. Era un montaje."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esto es lo más desconcertante: la escenografía. Un ladrillo, unos gritos, unas armas colocadas después. No es un enfrentamiento. Es un decorado para la prensa del día siguiente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los agentes pertenecían a la Central Nacional de Informaciones, la CNI, la policía política de la dictadura de Pinochet. Las víctimas eran doce militantes del Frente Patriótico Manuel Rodríguez, un grupo armado de oposición."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El día 15 de junio, coincidiendo con el Corpus Christi, murieron cinco en distintos puntos de Santiago. Los agentes los habían seguido durante horas. La CNI dijo que habían muerto en enfrentamientos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Apunta la cifra: doce muertos en dos días y ninguno juzgado en vida del régimen. Y la versión oficial, siempre la misma: enfrentamientos armados. Hay testigos que sostienen que alguno no iba armado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche, otros militantes fueron detenidos en una casa de seguridad. La madrugada del 16, siete de los detenidos fueron llevados a la casa de Pedro Donoso. Allí fueron ejecutados. La CNI presentó también esas muertes como un enfrentamiento."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un dato que cambia el expediente: ya estaban bajo custodia. No hay combate posible con hombres y mujeres detenidos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La justicia militar investigó el caso y lo cerró en 1995. Pero en 1998, el caso se reabrió. Se asignó al ministro en visita Hugo Dolmestch, un juez civil de la Corte de Apelaciones."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí viene lo que hace único este expediente. El juez no necesitó una gran prueba nueva. Le bastó con escuchar a los propios agentes: casi todos los implicados acabaron confesando."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Dolmestch reconstruyó el montaje. Y el 28 de enero de 2005, en primera instancia, condenó a cadena perpetua al exdirector de la CNI, el general Hugo Salas Wenzel. También condenó a Álvaro Corbalán, jefe operativo de la CNI, y a otros agentes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2007, la Corte Suprema confirmó las condenas y elevó la pena de Corbalán a veinte años de presidio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en el detalle: se condenó a cadena perpetua a un general. En Chile, no ocurre con frecuencia. La BBC lo contó en 2007 como la primera cadena perpetua para un general de Pinochet. Aquí no hablamos de rumores, sino de una sentencia firme."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Salas Wenzel murió en prisión en agosto de 2021, a los ochenta y cinco años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no se ha aclarado del todo es la cadena de mando. Las fuentes no coinciden en los cargos exactos que se le atribuyeron a Salas Wenzel. Y este es un tema que, en Chile, sigue siendo políticamente sensible."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Pedro Donoso hay hoy un lugar de memoria, la Casa de Memoria y Resistencia Corpus Christi."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Doce nombres que no eran terroristas ni héroes en un cartel. Eran personas, y la justicia chilena lo reconoció, aunque tarde."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente La matanza de Corpus Christi. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ]
+}

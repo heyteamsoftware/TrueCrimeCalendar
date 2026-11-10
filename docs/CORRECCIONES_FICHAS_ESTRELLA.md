@@ -216,3 +216,27 @@ Las detectan los guionistas de las cintas al contrastar con las fuentes. Se apli
 ## yang
 
 - **Periodo:** 2000–2003, no 1999–2003.
+
+## rwest
+
+- Charmaine era hijastra de Fred (hija de su primera esposa), no de Rose.
+
+## lee
+
+- Las siete muertes son de 1998 a 2003, no de 1992.
+
+## watts
+
+- Se llama Carl Eugene Watts. Tiene dos condenas en Míchigan (Dutcher y Gloria Steele, 2007) que la ficha omite.
+
+## deangelo
+
+- La primera víctima de las 13 es Claude Snelling, en Visalia (1975).
+
+## nilsen
+
+- Murió en un hospital de York, no en prisión.
+
+## bundy
+
+- Confesó 30 asesinatos según Wikipedia y Britannica, y 28 según UPI.

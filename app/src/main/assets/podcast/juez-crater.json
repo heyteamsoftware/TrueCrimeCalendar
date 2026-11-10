@@ -11,9 +11,7 @@
     "Maine": "Mein",
     "Coney Island": "Kóni Áilan",
     "Tammany Hall": "Támani Jol",
-    "Seabury": "Síbury",
-    "Billy Haas": "Bili Jas",
-    "Fifth Avenue": "Fif Ávenu"
+    "Seabury": "Síbury"
   },
   "cintas": [
     {
@@ -31,7 +29,7 @@
         },
         {
           "voz": "ximena",
-          "texto": "Nueva York, 6 de agosto de 1930. Una noche de verano de mucho calor. Un hombre de cuarenta y un años reserva una butaca para ver la comedia «Dancing Partner». Luego cena con dos amigos en un restaurante de la calle 45. Y no se le vuelve a ver."
+          "texto": "Nueva York, 6 de agosto de 1930. Una noche de verano. Un hombre de cuarenta y un años reserva una butaca para ver la comedia «Dancing Partner». Luego cena con dos amigos en un restaurante de la calle 45. Y no se le vuelve a ver."
         },
         {
           "voz": "ximena",
@@ -39,7 +37,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Primera nota. Lo que me importa no es la noche, sino la mañana. Ese día, según su secretario, Crater destruyó papeles, hizo sacar cinco mil dólares del banco y llevó dos maletines a su apartamento. Nadie hace eso para ir al teatro."
+          "texto": "Primera nota. Lo que me importa no es la noche, sino la mañana. Ese día, según su ayudante en el juzgado, Crater destruyó papeles, hizo sacar cinco mil dólares del banco y llevó dos maletines a su apartamento. Nadie hace eso para ir al teatro."
         },
         {
           "voz": "ximena",
@@ -63,7 +61,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Las hipótesis que se manejaron, y las atribuyo a la prensa y a los historiadores: que huyó con una amante, que sufrió una pérdida de memoria o que lo mataron. Detrás estaba la investigación de la corrupción municipal que sacudía entonces a la ciudad. Pruebas, ninguna."
+          "texto": "Las hipótesis que se manejaron, y las atribuyo a la prensa y a los historiadores: que huyó con una amante, que sufrió una pérdida de memoria o que lo mataron. Todo ocurría en plena investigación de la corrupción municipal. Pruebas, ninguna."
         },
         {
           "voz": "ximena",
@@ -79,7 +77,7 @@
         },
         {
           "voz": "alvaro",
-          "texto": "Lo apunto con todas las reservas. Es un papel póstumo, sin comprobar, que acusa a personas que ya no pueden responder. Un estudioso del caso, Richard Tofel, se mostró escéptico ante esa historia, y la policía no confirmó nada."
+          "texto": "Lo apunto con todas las reservas. Es un papel póstumo, sin comprobar, que acusa a personas que ya no pueden responder. Un estudioso del caso, Richard Tofel, se mostró escéptico ante esa historia, y dijo que, según sus informes, en las obras del acuario no aparecieron restos."
         },
         {
           "voz": "ximena",
@@ -96,5 +94,5 @@
       ]
     }
   ],
-  "nota_revision": "Caso sin resolver: no se señala a nadie. La nota póstuma de 2005 se presenta como sin comprobar, que acusa a fallecidos, y el escepticismo de Tofel (CNN 2005) es una cita atribuida. Fuentes abiertas: History.com, transcripción de CNN (2005), Wikipedia en inglés. Detalles: «cinco mil dólares» (History.com: 5.000; Wikipedia: dos cheques por 5.150) y «dos maletines» (Wikipedia): el guion dice «cinco mil». El empleado que cambió los cheques (Wikipedia: Joseph Mara, «law clerk»; History.com lo llama «law clerk»): el guion lo llama «su secretario» por «law clerk», revisar. La tardanza de «casi un mes» entre la desaparición y el aviso a la policía (6 de agosto a 3 de septiembre) sale de Wikipedia e History.com. Que los jueces se alarmaron el 25 de agosto: Wikipedia. Sobres encontrados el 20 de enero de 1931 con cheques, valores y una nota: Wikipedia; Tofel dice que el dinero retirado apareció en un sobre con una nota larga (CNN). La frase «Juez Crater, llame a su oficina»: History.com. Que el juez fuera amigo de la vida nocturna y la relación con coristas: Wikipedia, sin detalle. El guion no nombra a la corista ni al abogado amigo (la ficha tampoco). No se recogen las teorías de Tofel (burdel de Polly Adler, de muerte natural) por no ser comprobables. No se recoge la vinculación con la investigación de Seabury más allá de la mención a la corrupción municipal."
+  "nota_revision": "Caso sin resolver: no se señala a nadie. La nota póstuma de 2005 se presenta como sin comprobar, que acusa a fallecidos, y el escepticismo de Tofel (CNN 2005) es una cita atribuida. Fuentes abiertas: History.com, transcripción de CNN (2005), Wikipedia en inglés. Detalles: «cinco mil dólares» (History.com: 5.000; Wikipedia: dos cheques por 5.150) y «dos maletines» (Wikipedia): el guion dice «cinco mil». El empleado que cambió los cheques (Wikipedia: Joseph Mara, «law clerk»; History.com lo llama «law clerk»): el guion dice «su ayudante en el juzgado». La tardanza de «casi un mes» entre la desaparición y el aviso a la policía (6 de agosto a 3 de septiembre) sale de Wikipedia e History.com. Que los jueces se alarmaron el 25 de agosto: Wikipedia. Sobres encontrados el 20 de enero de 1931 con cheques, valores y una nota: Wikipedia; Tofel dice que el dinero retirado apareció en un sobre con una nota larga (CNN). La frase «Juez Crater, llame a su oficina»: History.com. Que el juez fuera amigo de la vida nocturna y la relación con coristas: Wikipedia, sin detalle. El guion no nombra a la corista ni al abogado amigo (la ficha tampoco). No se recogen las teorías de Tofel (burdel de Polly Adler, de muerte natural) por no ser comprobables. No se recoge la vinculación con la investigación de Seabury más allá de la mención a la corrupción municipal."
 }
