@@ -1,0 +1,108 @@
+{
+  "id": "disparo-roosevelt",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Theodore Roosevelt": "Zíodor Rúsvelt",
+    "Roosevelt": "Rúsvelt",
+    "John Schrank": "Yon Shrank",
+    "Schrank": "Shrank",
+    "Milwaukee": "Milwóki",
+    "Gilpatrick": "Guilpátrik",
+    "McKinley": "Mak Kínli",
+    "Waupun": "Uópan",
+    "Wisconsin": "Uiskónsin",
+    "Wilson": "Úilson",
+    "Taft": "Taft"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Cincuenta páginas de discurso",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El atentado contra Theodore Roosevelt. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Cincuenta páginas de discurso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Milwaukee, Wisconsin, noche del 14 de octubre de 1912. A la puerta del hotel Gilpatrick, el expresidente Theodore Roosevelt saluda a la multitud antes de subir a su coche. Hace campaña para volver a la Casa Blanca. De entre la gente sale un disparo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Un solo disparo, a corta distancia, al pecho de un hombre de pie. Debería haber sido el fin de una campaña. Fue el comienzo de una leyenda, y eso depende de lo que llevaba en el bolsillo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La bala atravesó el estuche metálico de sus gafas y un discurso de cincuenta páginas doblado en la chaqueta. Perdió fuerza y se quedó alojada en el músculo del pecho."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según las crónicas, Roosevelt no tosió sangre y, por eso, se convenció de que la bala no había llegado al pulmón. Se negó a ir al hospital y pidió que lo llevaran al Auditorio."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Aquí hay una decisión audaz y, vista desde hoy, imprudente. Nadie podía saber lo que había dentro del pecho sin una radiografía. Tuvo suerte. Pero eso no se sabía mientras hablaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El tirador no huyó. Un secretario de Roosevelt, Elbert Martin, lo derribó y le quitó el arma. Otros lo sujetaron hasta que llegó la policía. Roosevelt pidió a la multitud que no le hicieran daño."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba John Schrank. Había nacido en Baviera en 1876 y emigró a Estados Unidos de niño. Más tarde fue tabernero en Nueva York. Había seguido a Roosevelt desde Nueva Orleans hasta Milwaukee."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Un hombre que seguía al candidato de ciudad en ciudad pudo plantarse a pocos metros. Eso nos dice cómo era la seguridad de un candidato en 1912: un hombre de pie entre la multitud."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roosevelt subió al escenario y empezó con una frase que quedó para la historia: hace falta más que eso para matar a un alce. Hablaba del Partido Progresista, cuyo símbolo era el alce."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Habló unos cincuenta minutos. Al terminar, fue al hospital. Las radiografías mostraron la bala en el músculo. Los médicos juzgaron más seguro dejarla donde estaba, y la llevó consigo toda su vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Cuarta nota. ¿Y por qué lo hizo Schrank? Según documentos que se hallaron tras el atentado, aseguraba que el fantasma de William McKinley, asesinado once años antes, se le apareció en sueños. También se oponía a un tercer mandato de Roosevelt."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Un psicólogo lo describió con delirios de carácter grandioso. Schrank se declaró culpable de intento de homicidio. El juez dudó de su cordura. Una comisión de psiquiatras lo consideró enfermo mental."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Las fuentes difieren sobre el trámite: unas hablan de una declaración de culpabilidad y un dictamen médico, otras de un jurado que lo declaró no culpable por demencia. En lo esencial, coinciden: no fue a prisión, sino a un hospital."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue internado en el hospital estatal para criminales dementes de Waupun, en Wisconsin. Murió allí el 15 de septiembre de 1943, tras más de treinta años internado. Según The New York Times, nadie lo visitó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quinta nota. Schrank había perdido a su novia en el desastre del vapor General Slocum, en 1904, y se hizo muy religioso. Su enfermedad no lo disculpa, pero ayuda a entender que no fue una conspiración."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Roosevelt dio solo dos discursos más en la campaña después del atentado, y sus rivales hicieron una pausa en sus propias campañas. Taft y Wilson suspendieron temporalmente sus campañas. En noviembre, Roosevelt obtuvo más votos que Taft, pero Woodrow Wilson ganó la presidencia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fue herido, no muerto. Roosevelt dijo después a un periodista que estaba en plena forma. En el archivo, ese dato cuenta tanto como el discurso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente El atentado contra Theodore Roosevelt. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Wikipedia (en), Biblioteca Pública de Milwaukee (por curl) y la ficha; Smithsonian (403), Theodore Roosevelt Center (sin contenido) y NYT no abrieron. Contradicción en el trámite judicial: MPL dice que se declaró culpable y que el tribunal lo declaró demente; Wikipedia, que el juez rechazó la declaración y un jurado lo halló no culpable por demencia, con internamiento en 1914 en Waupun; el guion lo dice con prudencia. Que «nadie lo visitó» sale del titular del NYT de 1943 citado en la ficha (no abierto). Frase «con la camisa manchada»: no consta en las fuentes abiertas, retirar si no se confirma. «Roosevelt reducir campaña a dos discursos más» y las elecciones: Wikipedia. «Emigró de niño»: MPL (a los 9 años). «Tabernero en Nueva York»: MPL, Wikipedia. El hotel: Gilpatrick. «Nadie más resultó herido»: no consta en las fuentes abiertas; comprobar. El motivo del fantasma de McKinley es de Wikipedia («según documentos hallados»); no se detalla más de la salud mental de Schrank. Pronunciaciones a oído."
+}

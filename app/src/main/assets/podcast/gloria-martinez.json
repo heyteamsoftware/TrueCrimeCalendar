@@ -1,0 +1,107 @@
+{
+  "id": "gloria-martinez",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "L'Alfàs del Pi": "Lalfás del Pi",
+    "Torres de San Luis": "Torres de San Luis"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La habitación vacía",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La desaparición de Gloria Martínez. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La habitación vacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "L'Alfàs del Pi, Alicante, madrugada del 30 de octubre de 1992. A la una y media de la noche, una joven de diecisiete años está ingresada en una clínica privada. Hace unas horas la han llevado sus padres. A partir de ese momento, nadie sabe con seguridad qué pasó. Por la mañana, la habitación está vacía."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Se llamaba Gloria Martínez. Estudiaba, tocaba el piano y desde los catorce años sufría ansiedad y anorexia. Sus padres, Álvaro e Isabel, la internaron en la clínica Torres de San Luis por recomendación de su psiquiatra."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una chica que llega acompañada de sus padres, un ingreso voluntario, una clínica privada que cobra por cuidarla. Todo lo que ocurre después es responsabilidad de quienes tenían su custodia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según la investigación, esa noche la sedaron con dosis fuertes y la sujetaron a la cama de pies y manos. Es lo que declaró el personal ante el juez."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La versión de la clínica fue otra. Dijo que Gloria burló a sus cuidadoras, corrió por los jardines, saltó una valla y se perdió en la noche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo repito porque la contradicción es lo importante: sedada y atada, pero capaz de saltar una valla. La clínica lo mantuvo ante los tribunales. Sus padres nunca lo creyeron. Yo me limito a señalar que las dos cosas no encajan fácilmente."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La dirección no avisó a la policía hasta las siete de la mañana, según un reportaje de El Español. Los padres se enteraron esa mañana. Habían pasado horas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Esas horas son el verdadero hueco del caso. Si una menor desaparece de un centro, el primer minuto vale más que los años siguientes. Aquí se perdieron muchos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La Guardia Civil y cientos de voluntarios rastrearon los alrededores de la clínica. Se revisaron pozos y vertederos de la zona. En julio de 1993 se removieron los vertederos de La Nucía. No apareció nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hubo testimonios sueltos, como el de trabajadores de una gasolinera de Altea que dijeron haberla visto a primera hora de aquel día. Ninguno condujo a nada."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo anoto con prudencia. Un testimonio de hace décadas, sin pruebas que lo respalden, no es una pista; es una esperanza. Y las esperanzas no sirven para cerrar un caso."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1999, una carta de un supuesto testigo llegó a la Fiscalía de Alicante, que decidió investigarla. El diario El País la recogió con el titular de un testigo sorpresa. La causa penal, finalmente, se cerró en 2000 sin culpables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No lo olvides: nadie ha sido condenado por hacerle daño. Tampoco hay pruebas de que alguien se lo hiciera. Lo único probado es que se la perdió de vista cuando estaba bajo cuidado de otros."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La justicia civil sí fijó responsabilidades. En 2008, la Audiencia Provincial de Alicante condenó a la psiquiatra y a la sociedad propietaria de la clínica a indemnizar a la familia con ciento cuatro mil euros."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es una sentencia sobre responsabilidad civil. No dice qué le pasó a Gloria. Dice que no la protegieron como debían."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La clínica quebró poco después. Los padres, Álvaro e Isabel, han mantenido durante décadas la esperanza de encontrarla con vida."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hoy Gloria tendría más de cincuenta años. Su caso lleva más de tres décadas sin una respuesta oficial, y la Guardia Civil lo sigue considerando abierto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En marzo de 1993, el juez ordenó reconstruir lo ocurrido aquella noche. La reconstrucción confirmó que Gloria estuvo atada a la cama durante las primeras horas de su ingreso y que recibió varias dosis de sedantes. Con el paso de los años, las pesquisas se fueron diluyendo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Gloria Martínez tenía diecisiete años y un piano. Sigue sin aparecer. Es lo que dice este expediente, y es lo único que podemos afirmar con seguridad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La desaparición de Gloria Martínez. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: El Español (2017), El País (7 y 8 de septiembre de 1999). Información (2008) y ABC no se pudieron abrir. Se nombra a Gloria y a sus padres (Álvaro e Isabel) porque el caso tiene 34 años y la familia ha dado su nombre en toda la prensa (El Español, El País). Discrepancias: la ficha dice que la causa penal se cerró en 2000; El País (8-9-1999) dice 'archivo en octubre de 1996' y la Fiscalía la reabrió en 1999; el guion usa 2000 (ficha) y menciona la reapertura de 1999. Cómo huyó: El Español (ventana de planta baja), El País (muro de metro y medio) y ABC (valla); el guion dice 'saltó una valla' y 'según la clínica'. Hora del aviso (7:00 según El Español; después de las 8:00 según Wikipedia): se atribuye a El Español. Se omiten los fármacos concretos, la nota manuscrita, la psiquiatra por nombre, a la testigo que decía haberla visto años después y la carta de Tibi (acusa a una enfermera; no se nombra a nadie). La quiebra de la clínica y 'Zopito S.A.L.' salen de El Español (no se nombra la sociedad). El importe de 104.000 € sale de la ficha (Información, sin abrir). Que 'hoy tendría más de cincuenta años' = 17 años en 1992 + 34. Cuánto tiempo estuvo atada: El País (primeras horas de internamiento). 'Hasta la una y media' = hora que dan El País y El Español. Reconstrucción del 23 de marzo (El País, 8-9-1999; la fecha completa se ha dejado en 'marzo de 1993'). 'La Guardia Civil lo considera abierto' sale de la ficha."
+}

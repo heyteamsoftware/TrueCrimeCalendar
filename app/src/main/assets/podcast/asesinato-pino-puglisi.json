@@ -1,0 +1,118 @@
+{
+  "id": "asesinato-pino-puglisi",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Giuseppe Puglisi": "Yusépe Pulísi",
+    "Puglisi": "Pulísi",
+    "Pino": "Pino",
+    "Brancaccio": "Brancáchio",
+    "Palermo": "Palermo",
+    "Anita Garibaldi": "Anita Garibáldi",
+    "Padre Nostro": "Padre Nóstro",
+    "Cosa Nostra": "Cósa Nóstra",
+    "Salvatore Grigoli": "Salvatóre Grigóli",
+    "Grigoli": "Grigóli",
+    "Graviano": "Graviáno",
+    "Giuseppe": "Yusépe",
+    "Filippo": "Filípo",
+    "Gaspare Spatuzza": "Gaspáre Spatútsa",
+    "Spatuzza": "Spatútsa",
+    "San Gaetano": "San Gaetáno",
+    "Godrano": "Godráno"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Lo esperaba",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El cura de Brancaccio. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Lo esperaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Palermo, 15 de septiembre de 1993. Son las ocho y cuarenta de la tarde. Un sacerdote llega a su casa, en la plaza Anita Garibaldi, en el barrio de Brancaccio. Es su cumpleaños: hoy cumple cincuenta y seis años. Algunos feligreses lo esperan para celebrarlo. Cuando abre el portal, alguien se le acerca."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Era Giuseppe Puglisi, conocido como el padre Pino. Párroco de San Gaetano. Murió de un disparo a quemarropa. Años después, el hombre que lo mató contaría que el cura sonrió y dijo: «Me lo esperaba»."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Esa frase me persigue. No es la de una víctima sorprendida. Es la de un hombre que sabía que estaba en peligro y siguió adelante. Lo apunto como lo contó su asesino. Nadie más estaba allí para confirmarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Puglisi había nacido en 1937 y se había ordenado sacerdote en 1960. En 1990 lo destinaron a Brancaccio, un barrio de Palermo controlado por Cosa Nostra, la mafia siciliana. No se quedó callado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Antes había sido vicerrector del seminario de Palermo y, entre 1970 y 1978, párroco de Godrano, un pueblo de Sicilia. Era sacerdote desde hacía treinta años cuando llegó a un barrio donde la mafia mandaba."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde el púlpito denunció a la mafia. Reorganizó el oratorio para los niños. En enero de 1993 inauguró el Centro Padre Nostro, para atender a jóvenes, familias y vecinos. Pretendía apartar a los chicos del barrio de los hombres que los reclutaban."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Él no llevaba armas ni un cargo. Tenía un oratorio y un sermón. Y a la mafia eso le estorbaba. Los jueces lo dijeron después: se quiso silenciar a un sacerdote incómodo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde abril de 1993 recibió amenazas explícitas. Tras una vigilia contra la mafia, sus colaboradores sufrieron intimidaciones y una agresión. En su último sermón se dirigió a los mafiosos y les pidió hablar, para entender por qué obstaculizaban la educación de los niños."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuatro años después, en 1997, fue detenido Salvatore Grigoli, un sicario de la familia de Brancaccio. Colaboró con la justicia, confesó el asesinato del padre Puglisi y reconoció su implicación en cuarenta y seis homicidios."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. Aquí está la clave de la investigación: un sicario que decide hablar. Grigoli fue la pieza que permitió llegar hasta los jefes. Los jueces reconstruyeron la orden a partir de quienes la cumplieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La sentencia señaló a los hermanos Giuseppe y Filippo Graviano, jefes del clan de Brancaccio, como los que ordenaron el crimen. Ambos fueron condenados a cadena perpetua. El de Giuseppe, en 1999. El de Filippo, en apelación, en 2001."
+        },
+        {
+          "voz": "ximena",
+          "texto": "También recibieron cadena perpetua Gaspare Spatuzza y otros miembros del comando. Grigoli, que colaboró, fue condenado a dieciséis años."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una nota sobre el cierre. Este caso tiene sentencias firmes, y por eso es de los pocos de este archivo que se pueden dar por resueltos. Pero Grigoli aparece como autor material y Spatuzza como parte del comando, y las penas concretas deben leerse con cautela."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En el juicio quedó escrito el motivo: había que silenciar a un sacerdote incómodo. Los jueces añadieron que el crimen se había cometido por odio a la fe."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los jueces lo calificaron de martirio. El 25 de mayo de 2013, Puglisi fue beatificado en el Foro Itálico de Palermo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hubo condenas, y el caso está cerrado. Lo que ninguna sentencia cierra es el vacío que dejó en su barrio. Cuando el archivo lo recuerda, no es por cómo murió. Es por cómo vivió."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Puglisi decía de sí mismo que solo intentaba trabajar por el Reino de Dios. Insistía en que, si cada uno hace algo, se puede lograr mucho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Hoy su historia es una película y una serie. Pero antes fue un barrio, una plaza, y un portal que se abría cada tarde. Eso es lo que recuerda el archivo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El cura de Brancaccio. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Il Post (2016: biografía, último sermón, Grigoli y «me l'aspettavo», 46 homicidios, Graviano, beatificación, película y serie) y AGI (2023: San Gaetano, Centro Padre Nostro en enero de 1993, amenazas desde abril, Casación, 16 años de Grigoli, «martirio»). Quotidiano, Domani y Avvenire no se abrieron. Discrepancias: Il Post escribe «San Graviano» para la parroquia (parece errata; AGI y la ficha: San Gaetano); disparo «en la cabeza» (Il Post) o «en la nuca» (AGI) (el guion dice «un disparo a quemarropa», como la ficha). Penas individuales (16 años de Grigoli; cadena perpetua para Spatuzza y el comando; Filippo Graviano condenado en 2001 en apelación y Giuseppe en 1999) vienen de la ficha y de AGI para el comando, sin verificar el año de cada condena en una segunda fuente. La frase «Me lo esperaba» es el relato de Grigoli, así atribuido. Hora de las 20:40 de la ficha (no verificada en las dos fuentes abiertas)."
+}

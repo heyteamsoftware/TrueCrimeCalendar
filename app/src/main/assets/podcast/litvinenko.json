@@ -1,0 +1,117 @@
+{
+  "id": "litvinenko",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Alexander Litvinenko": "Alexánder Litvinénko",
+    "Litvinenko": "Litvinénko",
+    "Pine Bar": "Páin Bar",
+    "Millennium": "Milénium",
+    "Grosvenor Square": "Grósvenor Skuér",
+    "Piccadilly": "Píkadili",
+    "Scotland Yard": "Escótland Yard",
+    "University College Hospital": "Iunivérsiti Cólech Jóspital",
+    "Highgate": "Jáigueit",
+    "Luke Harding": "Liuc Járding",
+    "Robert Owen": "Róbert Óuen",
+    "FSB": "efe ese be"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "La tetera del Pine Bar",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El envenenamiento de Alexander Litvinenko. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. La tetera del Pine Bar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Londres, 1 de noviembre de 2006. En el Pine Bar del hotel Millennium, junto a Grosvenor Square, tres hombres hablan de negocios. Sobre la mesa hay tazas y una tetera con un poco de té verde, ya frío. Uno de ellos, Alexander Litvinenko, solo da tres o cuatro tragos. No le gusta."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Litvinenko no bebía alcohol y no pensaba gastar dinero en un hotel tan caro. Se conformó con lo que quedaba en la mesa. Según las investigaciones, esos pocos tragos acabaron con su vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Tenía cuarenta y tres años. Había sido oficial del FSB, el servicio de seguridad ruso, y en el año 2000 huyó a Reino Unido, donde se hizo ciudadano británico. Desde Londres criticaba al Kremlin y al presidente Vladímir Putin."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Con él estaban Andréi Lugovói y Dmitri Kovtún, dos rusos a los que conocía de su pasado. Según contó después a la policía, hablaron de un trabajo de asesoría para empresas que querían invertir en Rusia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa noche Litvinenko enfermó. Los médicos tardaron semanas en saber de qué. Murió el 23 de noviembre en el University College Hospital. Poco antes se supo la causa: lo habían envenenado con polonio doscientos diez."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "El polonio es un isótopo radiactivo rarísimo, que sale de un reactor nuclear. No lo lleva un delincuente corriente en el bolsillo. La investigación británica lo calificó, como mínimo, de fuerte indicio de que detrás había un Estado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los especialistas midieron la radiación por toda la ciudad: hoteles, oficinas, un restaurante de sushi de Piccadilly donde Litvinenko había comido. La lectura más alta salió de la tetera del Pine Bar. Después de aquella tarde había pasado por el lavavajillas y se había vuelto a usar."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y el rastro de polonio dibuja otro mapa: el de los pasos de Lugovói y Kovtún. Apareció en sus asientos, en los aseos del hotel y en el desagüe del baño de la habitación de Kovtún, con una concentración altísima. Según el periodista Luke Harding, hubo además un intento anterior, a mediados de octubre, que falló."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Desde la cama del hospital, Litvinenko habló con los detectives de Scotland Yard. Les dio un relato minucioso: quién se sentó dónde, quién le ofreció el té. Harding escribió que fue casi su propio investigador."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En su lecho de muerte acusó a Putin de ordenar su asesinato, según recogió la BBC. El Kremlin siempre ha negado cualquier implicación."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo apunto con cuidado. Una acusación hecha agonizando conmueve, pero no es una prueba. Lo que sí pesa es lo que vino después."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Reino Unido acusó de asesinato a Lugovói y a Kovtún. Rusia se negó a extraditarlos. Ambos lo negaron siempre: Kovtún habló de pruebas falsas, y Lugovói, que llegó a ser diputado en Moscú, calificó las acusaciones de absurdas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Sin juicio posible, el Gobierno británico abrió una investigación pública, presidida por el juez Robert Owen. En enero de 2016 concluyó que ambos hombres pusieron el veneno en el té. Y que probablemente actuaron bajo la dirección del FSB, con la aprobación de Putin."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fíjate en la palabra «probablemente». Esto no es una sentencia penal. Los dos hombres nunca se sentaron ante un tribunal, y Rusia tachó el informe de politizado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En septiembre de 2021 el Tribunal Europeo de Derechos Humanos fue más lejos: concluyó, más allá de toda duda razonable, que Lugovói y Kovtún lo mataron actuando como agentes del Estado ruso. Ordenó pagar una indemnización a su viuda. Moscú rechazó la sentencia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Kovtún murió de covid en 2022. Lugovói sigue en Rusia y lo niega todo. Nadie ha cumplido condena por la muerte de Litvinenko."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que queda sin cerrar: un caso con dos conclusiones oficiales y ningún juicio. Los acusados nunca se defendieron ante un tribunal."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su viuda, Marina, ha repetido que no buscaba dinero, sino justicia. Alexander Litvinenko está enterrado en el cementerio de Highgate, en un ataúd forrado de plomo por la radiación que aún conservaba su cuerpo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con la tetera. Un objeto de bar de hotel que volvió a servir a otros clientes. Aquel veneno puso en riesgo a mucha más gente que a un solo hombre. Eso también cuenta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El envenenamiento de Alexander Litvinenko. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: BBC (21/1/2016), The Guardian (Luke Harding, 19/1/2016; sentencia TEDH, 21/9/2021) y BBC (4/6/2022). Hechos del relato: té verde frío y tres o cuatro tragos (declaración de Litvinenko a Scotland Yard, recogida por Harding); lectura más alta en la tetera y lavavajillas (Harding); restos en el desagüe de la habitación 382 de Kovtún y primer intento fallido de octubre (Harding; atribuido a él). Ataúd forrado de plomo en Highgate (abogado de la viuda en The Guardian 2021). Sin contradicciones con la ficha. La acusación de asesinato del Reino Unido a ambos consta en la ficha y no se ha repetido en una fuente abierta consultada. Se ha evitado atribuir quién de los dos puso el veneno (Harding: no hay pruebas de cuál). Pronunciación a oír: Lugovói, Kovtún, Litvinénko."
+}

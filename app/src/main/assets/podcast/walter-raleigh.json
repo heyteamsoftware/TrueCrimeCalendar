@@ -1,0 +1,110 @@
+{
+  "id": "walter-raleigh",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Walter Raleigh": "Uólter Ráli",
+    "Raleigh": "Ráli",
+    "Winchester": "Uíncheste",
+    "Cobham": "Cóbam",
+    "Westminster": "Uéstminster",
+    "Old Palace Yard": "Old Pálas Yard",
+    "Gondomar": "Gondomár",
+    "Jacobo": "Jacobo",
+    "Guayana": "Guayana"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "El testigo que nunca llegó",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: La ejecución de sir Walter Raleigh. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. El testigo que nunca llegó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Castillo de Winchester, Inglaterra, 17 de noviembre de 1603. Un hombre de pie, solo, se defiende de una acusación de traición. Una y otra vez, repite la misma petición: que traigan al hombre que lo acusa, para mirarlo a la cara. Los jueces se la niegan."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El acusado era sir Walter Raleigh: explorador, poeta, favorito de la reina Isabel hasta su muerte ese mismo año. El que lo acusaba se llamaba lord Cobham."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Este es un caso en el que la prueba central no declara. Una confesión por escrito, firmada, de un hombre que no se presenta. Raleigh no puede preguntarle nada. Si eso te parece un problema, no eres el primero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Isabel I había muerto en marzo de 1603. El nuevo rey, Jacobo I, desconfiaba de los hombres que habían rodeado a la reina. Raleigh fue detenido en julio y enviado a la Torre de Londres, acusado de conspirar contra el rey."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Winchester se juzgó la llamada conjura principal. Raleigh, que no tenía abogado, llevó su propia defensa. La acusación descansaba sobre todo en lo que Cobham, un amigo de Raleigh, había declarado por escrito."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Raleigh pidió que Cobham compareciera para ser interrogado. El tribunal se negó. Esto lo anoto con cuidado: no sé qué habría dicho Cobham en persona. Lo que sé es que a Raleigh le quitaron la posibilidad de averiguarlo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue declarado culpable y condenado a muerte. Pero el rey le perdonó la vida. Raleigh pasó trece años preso en la Torre. Allí escribió su Historia del mundo, que dejó inconclusa."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una condena de muerte aplazada: eso es lo que le quedó. No fue un perdón, fue una espada colgando. Y se podía descolgar en cualquier momento."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1616 salió de la Torre. Lo habían liberado con una misión: buscar en Sudamérica un tesoro legendario, El Dorado, en la región de la Guayana. Partió en 1617."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La expedición salió mal. Un grupo de sus hombres, al mando de un capitán, atacó el puesto español de Santo Tomé, en el Orinoco. Eso rompía las condiciones de su perdón y contradecía sus órdenes. En el ataque murió su hijo Walter."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí cambia todo. España tenía embajador en Londres, el conde de Gondomar, y reclamó justicia. El rey Jacobo, que quería una alianza con España, tenía poca elección."
+        },
+        {
+          "voz": "ximena",
+          "texto": "No hubo nuevo juicio. Se reactivó la antigua condena de 1603. Raleigh volvió a Londres y tuvo ocasiones de huir, pero no huyó."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Quince años después de aquella sala de Winchester, sin una segunda vista. La condena de 1603 pesó más que cualquier cosa que hubiera pasado en Guayana. Es una ejecución diplomática, vestida de justicia."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 29 de octubre de 1618, en Old Palace Yard, junto al palacio de Westminster, sir Walter Raleigh fue decapitado. Según las crónicas, dijo al verdugo que empezara pronto: no quería que sus enemigos creyeran que temblaba de miedo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su cuerpo fue enterrado en la iglesia de Santa Margarita, al lado. Hoy una placa en el muro de la iglesia lo recuerda. Lleva su nombre y la fecha de su muerte."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Muchos contemporáneos consideraron la ejecución injusta. Uno de los jueces que lo había juzgado dijo que degradaba la justicia inglesa. Esa es la memoria que quedó."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Y la sala de Winchester dejó un legado. Su juicio se cita con frecuencia como uno de los orígenes del derecho a interrogar al testigo que te acusa. En 2004, el Tribunal Supremo de Estados Unidos lo mencionó en una sentencia sobre ese derecho."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Raleigh tuvo un proceso, tuvo una sentencia y, al final, tuvo un verdugo. Lo que no tuvo, en 1603, fue a su acusador delante."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: La ejecución de sir Walter Raleigh. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: abadía de Westminster (fecha, lugar y entierro en St Margaret's), Wikipedia en inglés (juicio de 1603, Cobham, Torre, expedición, Gondomar, discurso), y la sentencia Crawford v. Washington solo por la ficha (el sitio de Justia dio 403). Britannica y Royal Museums Greenwich no se abrieron. Discrepancia menor: la fecha de la liberación de la Torre (1616 en la introducción de Wikipedia, 1617 en el cuerpo); el guion usa 1616 y 'partió en 1617' como la ficha. 'Trece años' preso, de la ficha. El que 'uno de los jueces dijo que degradaba la justicia inglesa' lo recoge Wikipedia sin nombrarlo; revisar. La mención del Tribunal Supremo (2004) es de la ficha. 'Conjura principal' = Main Plot. Se omite lo que pasó con la cabeza. 'Quince años' entre el juicio y la ejecución (1603-1618). 'Un grupo de sus hombres al mando de un capitán' = Lawrence Kemys (no se nombra). La placa de la iglesia es de la web de la abadía (placa de 1845). Raleigh nació hacia 1552-54. Pronunciaciones por revisar. Raleigh se defendió él mismo (Wikipedia)."
+}

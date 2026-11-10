@@ -1,0 +1,119 @@
+{
+  "id": "monstruo-florencia-1974",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Pasquale Gentilcore": "Pascuále Yentilcóre",
+    "Gentilcore": "Yentilcóre",
+    "Stefania Pettini": "Stefanía Petíni",
+    "Pettini": "Petíni",
+    "Fontanine di Rabatta": "Fontaníne di Rabáta",
+    "Sagginale": "Sayinále",
+    "Borgo San Lorenzo": "Borgo San Lorénzo",
+    "Mugello": "Mugélo",
+    "Signa": "Siña",
+    "Pietro Pacciani": "Piétro Pachíani",
+    "Pacciani": "Pachíani",
+    "Mario Vanni": "Mario Váni",
+    "Vanni": "Váni",
+    "Giancarlo Lotti": "Yankárlo Loti",
+    "Lotti": "Loti",
+    "Stefano Mele": "Stéfano Méle",
+    "Barbara Locci": "Bárbara Lóchi",
+    "Antonio Lo Bianco": "Antonio Lo Biánco"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un camino de tierra en el Mugello",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El Monstruo de Florencia. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un camino de tierra en el Mugello."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Mugello, en la Toscana, noche del 14 de septiembre de 1974. Por un camino de tierra de Fontanine di Rabatta, junto a Sagginale, cerca de Borgo San Lorenzo, hay un coche aparcado, un Fiat. En su interior, dos jóvenes que buscaban un rato de intimidad. A la mañana siguiente, un agricultor se acerca. Y descubre lo que ha pasado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Eran Pasquale Gentilcore y Stefania Pettini, dos jóvenes de dieciocho y diecinueve años. Los habían matado a tiros y a cuchilladas. Fue la noche del 14 al 15 de septiembre, según varias fuentes. Nadie en el campo oyó ni vio nada que se haya conservado."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Una pareja, un camino apartado, la noche. Es un patrón que entonces nadie podía ver. Este era el segundo crimen de una serie que todavía no tenía nombre."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El primer doble crimen había ocurrido seis años antes, en agosto de 1968, en Signa. Barbara Locci y Antonio Lo Bianco fueron asesinados en un coche. El marido de ella, Stefano Mele, fue condenado en 1970 a catorce años. Más tarde se consideró que no pudo ser el autor de los siguientes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La pieza clave vino de la balística. Los especialistas compararon los casquillos con los de otro doble crimen de 1968, en Signa, y comprobaron que procedían de la misma pistola, una del calibre veintidós. La misma pistola apareció en seis dobles crímenes más hasta 1985."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. Hay una cosa que debo anotar con cuidado. El vínculo se estableció años después, y reabrió el caso de 1968. Por aquel crimen ya había sido condenado el marido de una de las víctimas. Si el arma era la misma, ese expediente tenía que revisarse."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Entre 1968 y 1985 hubo ocho dobles crímenes de parejas en lugares apartados, cerca de Florencia, con la misma pistola. La prensa llamó al autor el Monstruo de Florencia. El arma nunca se encontró."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí está el hueco más grande del expediente. Sin pistola, sin testigos y sin una forma de saber quién estaba detrás, cualquier teoría se sostiene en el aire. Me limito a lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1993 fue detenido Pietro Pacciani, un hombre de la zona. En 1994 lo condenaron en primera instancia. Pero en apelación lo absolvieron. El Tribunal de Casación anuló esa absolución y ordenó repetir el juicio. Pacciani murió en 1998, antes de que empezara."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Una absolución es una absolución. Y una condena anulada no es una condena firme. Pacciani murió sin que ninguna sentencia firme le atribuyera nada. Lo dejo escrito para que nadie lo olvide."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Después fueron juzgados otros dos hombres: Mario Vanni y Giancarlo Lotti, los llamados compañeros de merienda. Fueron condenados en firme, pero solo por los cuatro últimos dobles crímenes, los de 1982 a 1985."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Es decir: por el de Gentilcore y Pettini, en 1974, no hay ninguna condena. Ni hay hoy ningún acusado vivo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Tercera nota. La investigación sigue abierta. La fiscalía de Florencia ha trabajado con análisis de ADN y exhumaciones. En 2025, la familia de Vanni pidió que se revisara su condena. Pero eso afecta a los crímenes de 1984 y 1985, no al de 1974."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2024, una prima de Stefania Pettini pidió públicamente, según el diario Open, que se exhumara su cuerpo para analizarlo."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "No me corresponde decir si servirá. Pero ese gesto dice algo. Cincuenta años después, la familia sigue esperando una respuesta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Pasquale Gentilcore y Stefania Pettini fueron el segundo de los ocho dobles crímenes que la balística acabó uniendo, entre 1968 y 1985."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Fueron los primeros de una lista de dieciséis víctimas. El archivo guarda sus nombres, y deja en blanco el del autor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Este crimen sigue sin culpable."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El Monstruo de Florencia. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Il Post (2018) y Sky TG24 (2025). Open, Casación y Wikipedia italiana no se abrieron (la prima de Pettini y la exhumación vienen de la ficha). Sin resolver: Pacciani y los compagni di merende se mencionan solo con su situación judicial (Pacciani: condena de 1994 anulada, absolución en apelación, Casación ordenó repetir el juicio, murió en 1998; Vanni y Lotti: condenas firmes solo por 1982-1985). No se nombra a nadie más. Discrepancias: edad de Stefania Pettini (18 según Il Post y la Wikipedia italiana; 19 según Sky TG24; el guion dice dieciocho y diecinueve en conjunto, que es lo que dice Il Post/Sky para los dos); noche del 14 o del 15 (se dice «del 14 al 15»); cifra de condenas de Pacciani (Il Post: cadena perpetua por siete de ocho; Sky: catorce cadenas perpetuas; el guion no la da); Il Post no dice que un agricultor encontrara los cuerpos (la ficha sí, por la Wikipedia italiana; el guion lo recoge con cautela). Il Post no menciona la Beretta del calibre 22 (el guion habla solo de la pistola del calibre 22 de la ficha). Estado actual: no consta acusado vivo (ficha); las denuncias de enero de 2026 de un abogado no se mencionan."
+}

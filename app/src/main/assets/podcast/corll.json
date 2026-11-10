@@ -1,126 +1,179 @@
 {
   "id": "corll",
-  "titulo": "No eran fugitivos",
+  "version": 3,
   "pronunciacion": {
     "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
     "Dean Corll": "Din Córl",
-    "Dean": "Din",
     "Corll": "Córl",
     "Elmer Wayne Henley": "Élmer Uéin Jénli",
     "Henley": "Jénli",
     "David Brooks": "Déivid Brúks",
     "Brooks": "Brúks",
+    "Pasadena": "Pasadína",
     "Houston Heights": "Jiúston Jáits",
     "Houston": "Jiúston",
     "Sam Rayburn": "Sam Réiburn",
     "High Island": "Jái Áiland",
+    "San Antonio": "San António",
+    "Corpus Christi": "Córpus Críschi",
+    "Dolph Briscoe": "Dolf Brísko",
     "John Wayne Gacy": "Yon Uéin Guéisi"
   },
-  "bloques": [
+  "cintas": [
     {
-      "voz": "ximena",
-      "texto": "Pasadena, Texas, madrugada del 8 de agosto de 1973. La policía recibe una llamada. Al otro lado, un chico de diecisiete años dice que acaba de matar a un hombre. Cuando los agentes llegan a la casa, encuentran a tres adolescentes esperándolos en la puerta. Más tarde, el chico dirá que disparó para salvar su vida."
+      "n": 1,
+      "titulo": "Una llamada desde Pasadena",
+      "tipo": "hallazgo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: Dean Corll y los crímenes de Houston. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Una llamada desde Pasadena."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Madrugada del 8 de agosto de 1973. La policía de Pasadena, una ciudad junto a Houston, en Texas, recibe una llamada. Al otro lado, un chico de diecisiete años, Elmer Wayne Henley, cuenta que acaba de disparar a un hombre en una casa de la ciudad."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cuando los agentes llegan, encuentran muerto al dueño de la casa. Se llamaba Dean Corll y tenía treinta y tres años. Henley y otros dos adolescentes esperaban en el lugar. Según el relato de Henley, disparó para salvarse, y la fiscalía lo consideró defensa propia."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Un chico llama a la policía tras disparar a un adulto. En cualquier comisaría eso es un caso cerrado en una tarde. Aquí fue el principio de otro mucho mayor. Lo que Henley contó en las horas siguientes obligó a la policía a salir a cavar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "¿Quién era Corll? Había nacido en Indiana en la Navidad de 1939 y se crió en Texas. Su familia tenía una fábrica de caramelos en Houston Heights, un barrio obrero de Houston, y los niños del barrio lo conocían como el hombre de los caramelos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hizo un breve servicio en el ejército, con baja honorable en 1965. La empresa familiar cerró en 1968. Después trabajó como electricista en la compañía eléctrica de Houston. Para sus vecinos era un hombre amable y servicial."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que más me cuesta de este expediente. No hay un monstruo a la vista. Hay un vecino con empleo, con coche y con una casa. Y alrededor de él, adolescentes a los que ayudaba, daba dinero o ofrecía diversión. Esa cercanía fue su herramienta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Corll no actuó solo. David Brooks lo conocía desde los doce años, cuando era un niño del barrio, y desde 1970 le ayudó a acercar a otros chicos. Elmer Wayne Henley se unió a comienzos de 1972. Los dos eran adolescentes cuando empezaron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "La primera desaparición que se le atribuye es del 25 de septiembre de 1970. Hasta agosto de 1973, desaparecieron chicos de entre trece y veintiún años, muchos de Houston Heights. Algunos eran amigos entre sí. Algunos eran hermanos. Se les ofrecía una fiesta o un paseo en coche."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Aquí viene la parte que más pesa. Las familias denunciaron. Pero en los setenta, cuando un adolescente desaparecía, la policía de Houston solía pensar en una fuga. Hubo madres que insistieron una y otra vez, y a quienes les dijeron que sin un cuerpo no podían hacer nada."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los padres buscaron por su cuenta y repartieron fotografías de sus hijos. Pero cada chico quedaba registrado por separado, como un fugitivo más. Nadie unió las desapariciones. Nadie vio un patrón."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esa madrugada, Henley empezó a hablar con la policía. Y ese día, Brooks se presentó en comisaría. Según los relatos de la época, los agentes desconfiaron al principio de lo que contaban los chicos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue en un cobertizo alquilado, en el suroeste de Houston. Allí, los agentes empezaron a excavar con ayuda de presos del sistema penitenciario de Texas. Aquella primera noche aparecieron ocho cuerpos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Anoto cómo reaccionó la policía. Los agentes dudaron de lo que contaban unos adolescentes y les pidieron que los llevaran a un lugar concreto. Cuando llegaron, ya no pudieron seguir dudando. La policía actuó cuando alguien se lo puso delante, no antes."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Al día siguiente salieron nueve cuerpos más. Henley dio otros dos lugares: una playa de High Island, junto al golfo de México, y la orilla del lago Sam Rayburn. En esos dos sitios aparecieron diez más. Eran veintisiete, el 13 de agosto."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los medios de Houston publicaban el recuento cada día. Las familias de chicos desaparecidos acudían a la policía con fotografías y fichas dentales. Algunas salieron de allí con la peor noticia posible."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Veintisiete cuerpos. Y una pregunta que me quita el sueño en esta cinta: Henley insistía en que había más enterrados en High Island. ¿Se buscó todo lo que había que buscar? Eso es lo que cuenta la cinta dos."
+        }
+      ]
     },
     {
-      "voz": "ximena",
-      "texto": "El muerto es el dueño de la casa, Dean Corll, de treinta y tres años. El chico que ha disparado se llama Elmer Wayne Henley. Y lo que va a contar destapará el mayor caso de asesinatos en serie conocido hasta entonces en Estados Unidos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Un chico que mata a un hombre y llama él mismo a la policía?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Así empezó todo. Esto es TRUE CRIME CALENDAR. Hoy abrimos el expediente de Dean Corll, el hombre de los caramelos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Corll nació en Indiana en 1939. Su familia acabó instalándose en Texas, donde su madre montó un negocio de caramelos. La fábrica estaba en Houston Heights, un barrio obrero de Houston, frente a una escuela."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Dean trabajaba allí y regalaba dulces a los niños del barrio. De ahí el apodo que le pondría la prensa. Tras un breve paso por el ejército, volvió a Houston y siguió en el negocio familiar. Era amable y servicial, un vecino en apariencia normal."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Y con esa imagen, nadie desconfiaba de él."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Nadie. Houston era entonces una ciudad en plena expansión, y en sus barrios humildes muchos chicos pasaban el día en la calle, sin demasiada vigilancia. Un terreno propicio para alguien que sabía ganarse su confianza."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Entre 1970 y 1973 desaparecieron decenas de chicos y jóvenes de Houston, muchos del mismo barrio de Houston Heights. Algunos eran amigos entre sí; algunos, incluso, hermanos."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Corll no actuaba solo. Dos adolescentes, primero David Brooks y después Elmer Wayne Henley, le ayudaban a atraer a las víctimas. Según declararon, él les pagaba por cada chico que llevaban a su casa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Corll cambiaba a menudo de domicilio, lo que dificultaba que alguien notara un patrón. Y sus cómplices conocían a muchas de las víctimas, lo que hacía que confiaran en ellos."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y las familias? ¿Qué hacía la policía mientras tanto?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Esa es la parte más dolorosa. Cuando los padres denunciaban, la policía de Houston solía tratar los casos como fugas de adolescentes. Eran los años setenta, y muchos jóvenes se marchaban de casa."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Algunos padres insistieron una y otra vez, buscaron por su cuenta y repartieron fotos. Pero sus hijos quedaron registrados como fugitivos, y nadie conectó las desapariciones."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquella noche de agosto. Henley llevó a dos amigos a casa de Corll. Hubo un enfrentamiento, y Henley acabó disparándole con su propia pistola."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Después confesó y condujo a la policía a los lugares donde se habían ocultado los cuerpos: un cobertizo alquilado en Houston, la orilla del lago Sam Rayburn y una playa de High Island."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "¿Y cuántas víctimas encontraron?"
-    },
-    {
-      "voz": "ximena",
-      "texto": "Veintisiete cuerpos en aquellos días. Se le atribuyen al menos veintiocho víctimas, chicos y jóvenes de entre trece y veinte años. Puede que hubiera más. Durante esos días, muchas familias de chicos desaparecidos acudieron a la policía con fotografías y fichas dentales, temiendo lo peor."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Corll nunca fue juzgado: murió aquella noche. Sus cómplices sí lo fueron. Henley fue juzgado en 1974 en San Antonio, lejos del revuelo de Houston, y Brooks en 1975. Ambos fueron condenados a cadena perpetua. Brooks murió en prisión en 2020; Henley ha visto rechazadas una y otra vez sus peticiones de libertad condicional."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Pocos años después, el caso de John Wayne Gacy, en Chicago, superaría aquellas cifras."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Pero para Houston la herida ya estaba abierta. Y las preguntas, también."
-    },
-    {
-      "voz": "ximena",
-      "texto": "El caso provocó una oleada de críticas contra la policía por no haber escuchado a las familias. Y abrió un debate sobre cómo se investigaban las desapariciones de menores, que no podían despacharse sin más como fugas."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Algunas víctimas tardaron décadas en ser identificadas. Gracias a nuevas técnicas forenses, varios de aquellos chicos recuperaron su nombre mucho después. Para algunas familias, la espera duró más de tres décadas."
-    },
-    {
-      "voz": "alvaro",
-      "texto": "Para esas familias, por fin un nombre en una lápida."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Exacto. Y por eso este expediente no tiene como protagonista el apodo de los caramelos. Lo protagonizan veintiocho chicos de Houston a los que alguien tendría que haber buscado de verdad."
-    },
-    {
-      "voz": "ximena",
-      "texto": "Hasta aquí el expediente de Dean Corll. Esto ha sido TRUE CRIME CALENDAR."
+      "n": 2,
+      "titulo": "Veintisiete cuerpos y una lista",
+      "tipo": "epilogo",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Cinta dos. Veintisiete cuerpos y una lista."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Esta cinta cierra el expediente de Dean Corll: la búsqueda, los juicios y lo que quedó pendiente. Antes de empezar, una advertencia. En este archivo no nombramos a los chicos. Fueron veintisiete, y sus familias merecen que se les recuerde sin morbo."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El 13 de agosto de 1973, la policía dio por terminadas las excavaciones tras hallar los dos últimos cuerpos de High Island. Henley sostenía que allí había más. Aquella playa quedó después sumergida por un huracán."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Nota del inspector. Se criticó entonces que se cerrara la búsqueda, y se ha criticado después. Hoy se atribuyen a Corll al menos veintiocho víctimas, y para algunas fuentes son veintinueve. La cifra exacta no se conoce. Pero hubo un chico cuyo cuerpo nunca se encontró."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Corll no pudo ser juzgado: había muerto. Sus cómplices sí. Henley fue juzgado en San Antonio, lejos de Houston, a partir del 1 de julio de 1974. El 16 de julio lo declararon culpable de seis asesinatos y lo condenaron a seis penas de noventa y nueve años, consecutivas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En diciembre de 1978 se anuló esa condena. Henley fue juzgado de nuevo en Corpus Christi, en junio de 1979, y otra vez declarado culpable de seis asesinatos. Ahora recibió seis cadenas perpetuas, concurrentes. Desde 1980 puede pedir la libertad condicional. Se la han negado siempre, la última vez en noviembre de 2025."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Brooks fue juzgado en Houston en 1975 y declarado culpable de un asesinato. Lo condenaron a cadena perpetua. Murió en prisión en mayo de 2020, a los sesenta y cinco años, por complicaciones de la COVID. Henley sigue encarcelado en Texas."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un asunto que sigue sin cerrarse. En 1975 apareció material que podía apuntar a otras personas implicadas. La policía de Houston decidió no seguir esa pista. Según los relatos, dijo que las familias ya habían sufrido bastante. Nunca sabremos si había algo más."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Un periódico de Houston recordó años después que la ciudad quiso cerrar el asunto rápido, meter en prisión a los cómplices y evitar la fama de ciudad de asesinatos. No puedo afirmarlo. Pero explicaría por qué se dejaron cosas sin mirar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Los familiares tenían derecho a saber. Pero en 1973 muchos cuerpos tardaron en tener nombre. Para el verano de 1974, veintiuno de los veintisiete habían sido identificados. A otros hubo que esperar décadas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Las primeras identificaciones se hicieron con lo que había: fichas dentales, antiguas fracturas, la descripción que daban los padres. Más tarde llegó el ADN, y con él, la posibilidad de devolver el nombre a quienes lo habían perdido."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 2008, la cadena CBS contaba que tres jóvenes seguían sin identificar y que una antropóloga forense del condado de Harris trabajaba para ponerles nombre mediante ADN. Entre 2008 y 2014 hubo varias identificaciones. Hoy sigue sin nombre, al menos, una de las víctimas, y las autoridades han difundido nuevas reconstrucciones de su rostro, la última en 2023."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Piénsalo. Familias que pasaron años sin saber dónde estaba su hijo. Y un chico que sigue, en una caja, sin un nombre. La palabra fuga no debería haber servido para cerrar el expediente de un menor."
+        },
+        {
+          "voz": "ximena",
+          "texto": "El caso dejó una huella en Texas. El gobernador Dolph Briscoe puso en marcha una línea telefónica gratuita para que los chicos que se habían ido de casa pudieran avisar a sus padres de que estaban bien. Las familias, por su parte, criticaron durante años que la policía no las hubiera escuchado."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue, hasta 1978, el caso de asesinatos en serie con más víctimas conocido en Estados Unidos. Ese año lo superó el de John Wayne Gacy, en Chicago."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Me quedo con una idea para este archivo. El apodo de los caramelos es del asesino. No lo es el caso. El caso es de veintisiete chicos de Houston a los que alguien tendría que haber buscado de verdad cuando sus padres lo pidieron."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente Dean Corll y los crímenes de Houston. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
     }
   ],
-  "nota_revision": ""
+  "nota_revision": "Discrepancias: 1) Víctimas: la ficha y el v2 dicen 28 (al menos); Wikipedia ahora dice al menos 29; los cuerpos hallados en 1973 fueron 27 (CBS, Houston Press, Chron). El guion dice 27 hallados, al menos 28 atribuidos y 29 para algunas fuentes. 2) Edad de Corll: 33 (nacido el 24/12/1939; Wikipedia) frente a 34 en Chron; el guion usa 33. 3) Condena de Henley: el v2 y la ficha dicen cadena perpetua; en 1974 fueron seis penas consecutivas de 99 años; en 1979, seis cadenas perpetuas concurrentes (Wikipedia); verificar con una fuente judicial. 4) Henley: último rechazo de la libertad condicional en noviembre de 2025 (Wikipedia); sin segunda fuente. 5) Brooks: juicio y condena en 1975 por un asesinato, muerte el 28/5/2020 (Wikipedia); sin segunda fuente. 6) Dolph Briscoe y su línea telefónica: Wikipedia. 7) Opinión sobre el interés del ayuntamiento en cerrar el caso rápido: Houston Chronicle (un artículo). El guion la atribuye y la deja como duda. 8) Material hallado en 1975 y decisión de la policía de no investigarlo: Wikipedia; se cuenta sin detalles. 9) Menores: no se nombra a ninguna víctima (todas eran menores o muy jóvenes, caso de 1970-73 pero no consta declaración pública de familias en las fuentes leídas). Tampoco se nombra a la chica que estuvo presente la noche del 8 de agosto de 1973. Se nombra a Henley y Brooks (condenados). 10) La ficha y el v2 afirman que Corll nació en Indiana: Fort Wayne (Wikipedia). 11) El v2 decía que las familias acudían con fichas dentales: CBS recoge identificación por registros dentales. No se describe nada gráfico."
 }

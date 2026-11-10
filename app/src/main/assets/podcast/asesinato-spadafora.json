@@ -1,0 +1,96 @@
+{
+  "id": "asesinato-spadafora",
+  "version": 3,
+  "pronunciacion": {
+    "TRUE CRIME CALENDAR": "Tru Cráim Cálendar",
+    "Somoza": "Somósa",
+    "Guinea-Bissau": "Guinea Bisáu",
+    "Victoriano Lorenzo": "Victoriano Lorenzo"
+  },
+  "cintas": [
+    {
+      "n": 1,
+      "titulo": "Un puente en la frontera",
+      "tipo": "expediente",
+      "bloques": [
+        {
+          "voz": "ximena",
+          "texto": "Archivo de TRUE CRIME CALENDAR. Expediente: El caso Spadafora. Lo que vas a escuchar es una reconstrucción basada en documentos públicos. Las voces pertenecen al archivo, no a los protagonistas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Cinta uno. Un puente en la frontera."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Frontera entre Costa Rica y Panamá, 13 de septiembre de 1985. Un médico panameño regresa a su país por tierra. Es Hugo Spadafora. En la provincia de Chiriquí, militares de las Fuerzas de Defensa lo detienen y se lo llevan a un cuartel. Desde ese momento, nadie vuelve a verlo con vida."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Según Panamá América, lo interceptó una unidad de las Fuerzas de Defensa conocida como los Diablos Rojos y lo llevó al cuartel de La Concepción, en Bugaba. Allí lo asesinaron. Su cuerpo no apareció en Panamá."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Días después, su cuerpo apareció al otro lado de la frontera, bajo un puente, en territorio de Costa Rica. Según un diario panameño, seis días después de su detención. Otras fuentes sitúan el hallazgo el 14 de septiembre."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Primera nota. Dos fechas distintas para el hallazgo. No lo resuelvo. Pero hay algo que no cambia: un hombre entra en un cuartel de su propio país y no sale. Su cuerpo aparece en el extranjero."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Spadafora había nacido en Chitré en 1940. Se formó como médico en la Universidad de Bolonia. Fue sanitario de guerra con la guerrilla independentista de Guinea-Bissau, y viceministro de Salud de Panamá entre 1976 y 1978."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En 1978 organizó la Brigada Victoriano Lorenzo, de panameños que combatieron contra la dictadura de Somoza en Nicaragua. Después se enfrentó también a los sandinistas, a los que acusó de traicionar la revolución."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Es un hombre incómodo para casi todos los bandos. Pero el dato que importa para este expediente es otro: acusaba en público al hombre fuerte de Panamá, Manuel Antonio Noriega, de proteger el narcotráfico."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fue asesinado en el cuartel de La Concepción, en Bugaba, Chiriquí. No vamos a detallar cómo: el archivo no lo necesita. Su muerte conmocionó a muchos panameños y empeoró las relaciones de Noriega con Estados Unidos."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Segunda nota. El presidente Nicolás Ardito Barletta anunció una comisión para investigar. Noriega lo obligó a dimitir. Para muchos, ahí empezó la sospecha de que la orden venía del mando militar. Anoto: sospecha, no sentencia. La justicia panameña solo pudo condenar tras la caída de Noriega. Pasaron ocho años desde los hechos."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Su entierro en Chitré, su ciudad natal, con una caravana muy concurrida, se convirtió en una muestra de oposición al régimen. En 1989, Estados Unidos invadió Panamá y depuso a Noriega."
+        },
+        {
+          "voz": "ximena",
+          "texto": "En Chiriquí, un jurado de conciencia declaró no culpables a siete militares, y hubo protestas en la ciudad de David. Después, en un proceso sin jurado, Manuel Antonio Noriega, Francisco Eliécer González y Julio César Miranda fueron declarados culpables."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Y aquí hay un matiz que no puedo pasar por alto. La condena de Noriega, el 20 de octubre de 1993, fue a veinte años, la pena máxima entonces. Se dictó en ausencia. Es la sentencia, y es lo que consta."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Noriega cumplía su condena en el centro penitenciario El Renacer, hasta que en enero de 2017 le concedieron arresto domiciliario para operarse de un tumor cerebral benigno. Murió el 29 de mayo en un hospital. El 8 de agosto, un tribunal de Chiriquí declaró extinguida su condena por el homicidio de Spadafora, porque el condenado había fallecido."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Lo que no se aclaró es todo lo demás. Quiénes dieron las órdenes concretas. Por qué siete militares fueron absueltos. Qué pasó dentro del cuartel. Las sentencias nombran a tres hombres, pero las preguntas siguen abiertas."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Hugo Spadafora está enterrado en Chitré. Había sido médico de guerra en África y organizador de combatientes panameños en Nicaragua."
+        },
+        {
+          "voz": "alvaro",
+          "texto": "Eso es lo que merece quedar en el archivo. No el estado en que lo hallaron. Un hombre que dijo en voz alta lo que otros callaban, y que cada septiembre Panamá vuelve a recordar."
+        },
+        {
+          "voz": "ximena",
+          "texto": "Fin del expediente: El caso Spadafora. Archivo de TRUE CRIME CALENDAR."
+        }
+      ]
+    }
+  ],
+  "nota_revision": "Fuentes abiertas: Panamá América (quién era, Diablos Rojos, La Concepción, cuerpo «seis días después», entierro en Chitré, jurado que absolvió a siete militares, condena sin jurado de Noriega, González y Miranda), Wikipedia en inglés (biografía, Barletta, invasión de 1989, relaciones con EE. UU.) y Ministerio Público de Panamá (condena del 20 de octubre de 1993 a 20 años, extinción el 8 de agosto de 2017, muerte de Noriega el 29 de mayo). La Prensa, CIDH, Kinzer y los otros no se abrieron. Discrepancias: fecha del hallazgo del cuerpo (ficha y Wikipedia: 14 de septiembre; Panamá América: seis días después); el guion da las dos sin resolver. La Wikipedia en castellano sitúa el hallazgo en Laurel de Corredores (no verificado; el guion dice «bajo un puente en Costa Rica», según Panamá América). La condena de Noriega en ausencia viene de la ficha; la nota del Ministerio Público no lo precisa. Se omite deliberadamente cómo apareció el cuerpo (ficha). «Hombre fuerte» es la expresión de Panamá América."
+}
