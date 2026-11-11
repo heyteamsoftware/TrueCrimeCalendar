@@ -381,6 +381,13 @@ $("pFav").onclick=()=>{
   favWrite(); favSync(); SFX.play("page");
   renderAll();
 };
+$("pSeen").onclick=()=>{
+  if(!current) return;
+  setHeard(current.id,!caseHeard(current.id));
+  seenSync(); SFX.play("page");
+  renderCal(0); renderSlip();
+  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
+};
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
   w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
@@ -831,7 +838,7 @@ function trackProgress(){
   const busy=PS.buffering || (pendingSeek && pendingSeek.id===id);
   const pos=(PS.cambiando || busy) ? (old && old.n===n ? old.posMs : 0) : PS.positionMs;
   progSet(id,{n,posMs:pos,escuchadas:[...done].sort((a,b)=>a-b)},now);
-  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); }catch(_){} }   // ✓ al terminar la última cinta
+  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); seenSync(); }catch(_){} }   // ✓ al terminar la última cinta
   if(!PS.cambiando && !busy) trackPrev={id,n,pos:PS.positionMs,dur:PS.durationMs};
 }
 /* Dónde retomar: la cinta y el punto guardados; si esa cinta ya acabó, la siguiente sin escuchar;
@@ -852,6 +859,20 @@ function caseHeard(id){
   const ns=tapesOf(id).filter(t=>t.url).map(t=>t.n); if(!ns.length) return false;
   const p=progOf(id); if(!p) return false;
   return ns.every(n=>p.escuchadas.includes(n));
+}
+/* Marcar o desmarcar a mano un caso como escuchado (todas sus cintas); sirve para casos oídos fuera de la app */
+function setHeard(id,on){
+  const ns=tapesOf(id).filter(t=>t.url).map(t=>t.n); if(!ns.length) return;
+  // marcado: se queda en la última cinta (la pletina ofrece «De nuevo»); desmarcado: vuelve a empezar
+  if(on) progSet(id,{n:ns[ns.length-1], posMs:0, escuchadas:ns},true);
+  else{ delete PROG[id]; progWrite(); }          // sin marca ni progreso: como un caso sin empezar
+}
+function seenSync(){
+  const b=$("pSeen"); if(!b) return;
+  const can=!!current && tapesOf(current.id).some(t=>t.url), on=can && caseHeard(current.id);
+  b.hidden=!can;
+  b.setAttribute("aria-pressed",on);
+  b.setAttribute("aria-label", on?"Quitar la marca de escuchado":"Marcar el caso como escuchado");
 }
 function tapeStatus(id,n){
   const p=progOf(id);
@@ -1737,7 +1758,7 @@ function openP(id,fromHistory){
   if(pmap){ pmap.remove(); pmap=null; }
   $("pExp").textContent="EXP. "+expNo(e); $("pExpSub").textContent=e.title;
   sheet.dataset.mes=e.m;                                    // la lámpara del mes del caso
-  favSync();
+  favSync(); seenSync();
   const [stTxt,stCls]=estado(e);
   const direct=e.links, grp=e.g.map(g=>({g,others:D.filter(o=>o!==e&&o.g.includes(g))})).filter(x=>x.others.length);
   let lh="";

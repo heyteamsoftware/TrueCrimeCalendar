@@ -919,6 +919,10 @@ path.thread{stroke-dasharray:1;stroke-dashoffset:0}
 .ftab .lab{display:block;font:700 15px/1 var(--cond);letter-spacing:.22em;color:var(--silk);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-right:-.22em}
 .ftab .silk{display:block;margin-top:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ib[aria-pressed=true] svg{fill:var(--lamp);stroke:var(--lamp)}
+#pSeen[aria-pressed=true] svg{fill:none}
+#pSeen[aria-pressed=true] circle{fill:var(--lamp)}
+#pSeen[aria-pressed=true] path{stroke:var(--ink)}
+.ib[hidden]{display:none}
 .sh-body{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding:12px 12px calc(40px + var(--mini-h));position:relative}
 .sh-in{max-width:720px;margin:0 auto;position:relative}
 .sheet.swap .sh-in{animation:swapIn .28s var(--ease)}
@@ -1394,6 +1398,7 @@ body.has-mini{--mini-h:62px}
     <button class="ib" id="pClose" aria-label="Cerrar el expediente"><svg viewBox="0 0 24 24"><path d="M5.6 9 12 15.3 18.4 9"/></svg></button>
     <div class="ftab"><b class="lab" id="pExp"></b><span class="silk dim" id="pExpSub"></span></div>
     <button class="ib" id="pFav" aria-label="Guardar en favoritos" aria-pressed="false"><svg viewBox="0 0 24 24"><path d="M6.6 3.8h10.9v16.6L12 16.3l-5.4 4.1z"/></svg></button>
+    <button class="ib" id="pSeen" aria-label="Marcar el caso como escuchado" aria-pressed="false"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.2"/><path d="m8.4 12.3 2.5 2.5 4.7-5"/></svg></button>
     <button class="ib" id="pPrev" aria-label="Expediente anterior"><svg viewBox="0 0 24 24"><path d="M15 5.6 8.8 12l6.4 6.3"/></svg></button>
     <button class="ib" id="pNext" aria-label="Expediente siguiente"><svg viewBox="0 0 24 24"><path d="M9 5.7l6.3 6.2L9 18.4"/></svg></button>
   </div>
@@ -2906,6 +2911,13 @@ $("pFav").onclick=()=>{
   favWrite(); favSync(); SFX.play("page");
   renderAll();
 };
+$("pSeen").onclick=()=>{
+  if(!current) return;
+  setHeard(current.id,!caseHeard(current.id));
+  seenSync(); SFX.play("page");
+  renderCal(0); renderSlip();
+  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
+};
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
   w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
@@ -3356,7 +3368,7 @@ function trackProgress(){
   const busy=PS.buffering || (pendingSeek && pendingSeek.id===id);
   const pos=(PS.cambiando || busy) ? (old && old.n===n ? old.posMs : 0) : PS.positionMs;
   progSet(id,{n,posMs:pos,escuchadas:[...done].sort((a,b)=>a-b)},now);
-  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); }catch(_){} }   // ✓ al terminar la última cinta
+  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); seenSync(); }catch(_){} }   // ✓ al terminar la última cinta
   if(!PS.cambiando && !busy) trackPrev={id,n,pos:PS.positionMs,dur:PS.durationMs};
 }
 /* Dónde retomar: la cinta y el punto guardados; si esa cinta ya acabó, la siguiente sin escuchar;
@@ -3377,6 +3389,20 @@ function caseHeard(id){
   const ns=tapesOf(id).filter(t=>t.url).map(t=>t.n); if(!ns.length) return false;
   const p=progOf(id); if(!p) return false;
   return ns.every(n=>p.escuchadas.includes(n));
+}
+/* Marcar o desmarcar a mano un caso como escuchado (todas sus cintas); sirve para casos oídos fuera de la app */
+function setHeard(id,on){
+  const ns=tapesOf(id).filter(t=>t.url).map(t=>t.n); if(!ns.length) return;
+  // marcado: se queda en la última cinta (la pletina ofrece «De nuevo»); desmarcado: vuelve a empezar
+  if(on) progSet(id,{n:ns[ns.length-1], posMs:0, escuchadas:ns},true);
+  else{ delete PROG[id]; progWrite(); }          // sin marca ni progreso: como un caso sin empezar
+}
+function seenSync(){
+  const b=$("pSeen"); if(!b) return;
+  const can=!!current && tapesOf(current.id).some(t=>t.url), on=can && caseHeard(current.id);
+  b.hidden=!can;
+  b.setAttribute("aria-pressed",on);
+  b.setAttribute("aria-label", on?"Quitar la marca de escuchado":"Marcar el caso como escuchado");
 }
 function tapeStatus(id,n){
   const p=progOf(id);
@@ -4262,7 +4288,7 @@ function openP(id,fromHistory){
   if(pmap){ pmap.remove(); pmap=null; }
   $("pExp").textContent="EXP. "+expNo(e); $("pExpSub").textContent=e.title;
   sheet.dataset.mes=e.m;                                    // la lámpara del mes del caso
-  favSync();
+  favSync(); seenSync();
   const [stTxt,stCls]=estado(e);
   const direct=e.links, grp=e.g.map(g=>({g,others:D.filter(o=>o!==e&&o.g.includes(g))})).filter(x=>x.others.length);
   let lh="";

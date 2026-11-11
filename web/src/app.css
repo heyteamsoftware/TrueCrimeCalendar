@@ -245,6 +245,10 @@ path.thread{stroke-dasharray:1;stroke-dashoffset:0}
 .ftab .lab{display:block;font:700 15px/1 var(--cond);letter-spacing:.22em;color:var(--silk);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-right:-.22em}
 .ftab .silk{display:block;margin-top:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ib[aria-pressed=true] svg{fill:var(--lamp);stroke:var(--lamp)}
+#pSeen[aria-pressed=true] svg{fill:none}
+#pSeen[aria-pressed=true] circle{fill:var(--lamp)}
+#pSeen[aria-pressed=true] path{stroke:var(--ink)}
+.ib[hidden]{display:none}
 .sh-body{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding:12px 12px calc(40px + var(--mini-h));position:relative}
 .sh-in{max-width:720px;margin:0 auto;position:relative}
 .sheet.swap .sh-in{animation:swapIn .28s var(--ease)}

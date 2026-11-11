@@ -185,3 +185,10 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **Actualización obligatoria en la app** (`docs/CONTRATO.md` 7.8): actualización inmediata de Google Play más un aviso sin salida si `version-minima.json` del servidor pide una versión mayor. `version-minima.json` está en el servidor con `minVersionCode` 10 (la versión actual). Probado en el emulador: con `versionCode` 1 sale el aviso, Atrás no lo cierra y «Actualizar» abre Play; con la versión normal no sale; la compilación de publicación (R8) arranca y consulta a Play sin fallos.
 - **No comprobado:** el flujo real de la actualización inmediata de Play (solo se puede probar con una versión publicada en Play y otra instalada desde Play).
 - **Para que llegue a los usuarios hace falta una versión nueva en Play** (3.0.1, código 11): quien instale la 3.0.0 no tiene este mecanismo.
+
+## 11 de noviembre, tarde: marcar como escuchado y web instalable
+
+- **Ficha:** botón con un círculo ✓ en la cabecera del expediente que marca (o quita la marca de) todas las cintas del caso como escuchadas. Sirve para casos oídos fuera de la app; el calendario, la ficha y la caja de cintas se actualizan al momento. Al desmarcar se borra el progreso del caso.
+- **Web instalable (PWA):** `manifest.webmanifest`, `sw.js` (copia sin conexión: primero la red para lo que cambia, copia guardada para tipografías, sonidos e iconos; no toca las cintas, el contador ni `version-minima.json`), iconos 192, 512 y «maskable», y botón «Instalar la app» en el pie cuando el navegador lo permite. Chrome/Edge comprueban sin errores de instalación en la URL real. El service worker lleva la hora de publicación (`tools/publicar_web.py`), así que cada publicación renueva la caché. Solo está en la web publicada, no en la app.
+- **Sin comprobar:** la instalación real en un móvil y en Safari/iPhone (allí se instala con «Añadir a pantalla de inicio»).
+- **Forma de trabajo acordada:** se prueba en la web (`truecrime.html`); los cambios se van guardando en el mismo código que usa la app, y no se publica versión nueva en Play hasta que el usuario lo pida. El POCO se deja en paz por ahora.
