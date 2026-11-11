@@ -168,3 +168,13 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - La aguja del vúmetro es una animación: el reproductor no da el nivel real del audio.
 - Instalada en el POCO y publicada en `https://myappsserver.duckdns.org/truecrimescalendar/truecrime.html`.
 - **Sin comprobar a ojo en el móvil:** al instalar, la pantalla del POCO estaba apagada y no hay captura. Comprobado por depuración: página cargada, tipografías cargadas y 477 cintas guardadas.
+
+## 11 de noviembre, 08:10: publicación en Google Play
+
+- **App creada** en la consola de Google Play (`com.heyteamsoftware.truecrimecalendar`, gratis, es-ES). AAB firmado con la clave de subida (versión 3.0.0, código 10, 3,6 MB de descarga) subido a **producción en 178 países**, sin pruebas previas.
+- **Enviado a revisión** el 11 de noviembre de 2026 (11 cambios). Google suele tardar hasta 7 días; la publicación es automática al aprobarse.
+- **Ficha:** textos, icono, gráfico de funciones y capturas (`play/`); categoría Entretenimiento; contacto `heyteamsoftware@gmail.com` y web.
+- **Declaraciones:** privacidad, anuncios (no), inicio de sesión (no hay), ID de publicidad (no), gubernamental (no), financieras (no), salud (no), público 18+, seguridad de los datos (sin recogida) y clasificación IARC (violencia y violencia sexual solo en texto y audio, drogas por referencia).
+- **Servicios en primer plano:** `dataSync` (descargar todas) y `mediaPlayback`, con vídeos grabados en el emulador (`play/videos/`, publicados en `/truecrimescalendar/demo/`; no se pueden borrar mientras dure la revisión).
+- **Probada** la versión firmada (R8) en el emulador de Android 17: arranca, reproduce y descarga. En el POCO no se pudo instalar: pedía confirmación en pantalla.
+- **Pendiente:** ver la respuesta de Google; guardar copia de `%USERPROFILE%\.tcc-signing\tcc-upload.jks`; el efecto «casete gastado» solo existe en la app, no en la web.

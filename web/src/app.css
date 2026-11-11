@@ -45,7 +45,7 @@ svg{display:block}
 .brand-row{display:flex;align-items:center;gap:8px;min-height:48px}
 .brand{min-width:0;flex:1}
 .brand h1{font:700 17px/1.08 var(--cond);letter-spacing:.2em;color:var(--silk)}
-.sub{display:block;margin-top:5px;font:500 9.5px/1 var(--cond);letter-spacing:.3em;color:var(--dim);text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sub{display:block;margin-top:5px;font:500 9.5px/1.3 var(--cond);letter-spacing:.26em;color:var(--dim);text-transform:uppercase}
 .tools{display:flex;gap:1px;flex:none}
 .tool,.ib{position:relative;width:44px;height:44px;display:grid;place-items:center;flex:none}
 .tool::before,.ib::before{content:"";position:absolute;inset:5px;border-radius:50%;background:var(--ch3);box-shadow:inset 0 1px 0 #454948,0 2px 0 #090a0a;transition:box-shadow .15s}
