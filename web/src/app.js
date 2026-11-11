@@ -757,8 +757,15 @@ const durWords = ms => { const s=Math.round(ms/1000), m=Math.floor(s/60); return
 const TIPO_CINTA={expediente:"Expediente",hallazgo:"El hallazgo",notas:"Notas del inspector",declaraciones:"Declaraciones",hemeroteca:"Hemeroteca",juicio:"El juicio",epilogo:"Lo que nunca se aclaró"};
 const SHELLS=["#3b3733","#5b4635","#2f3a40","#4d2d29","#4f4c45"];
 function isV3(id){ if(tapeAudio(id)) return true; const sc=scriptsDone.get(id); return !!(sc && sc.v3); }
-/* url relativa a la página («audio/brady/cinta-1.ogg») o absoluta («https://…»); «asset:///» → relativa */
-const tapeSrc = u => String(u||"").trim().replace(/^asset:\/\/\//i,"");
+/* url relativa a la página («audio/brady/cinta-1.ogg») o absoluta («https://…»); «asset:///» → relativa.
+   Las cintas no van con la página: están en el servidor (contrato 7.7). En la app lo resuelve Android
+   (copia guardada o servidor); en el navegador, <audio> las pide al servidor directamente. */
+const TAPE_SERVER="https://myappsserver.duckdns.org/truecrimescalendar/";
+const tapeSrc = u => {
+  u=String(u||"").trim().replace(/^asset:\/\/\//i,"");
+  const m=/^audio\/([A-Za-z0-9_-]+\/cinta-\d+\.ogg)$/.exec(u);
+  return m ? TAPE_SERVER+m[1] : u;
+};
 function tapesOf(id){
   if(tapeCache.has(id)) return tapeCache.get(id);
   const au=(tapeAudio(id)||[]).map((c,i)=>({c,n:+c.n||i+1})), sc=scriptsDone.get(id), sl=sc && sc.v3 ? sc.cintas : [];
@@ -1921,9 +1928,53 @@ function setTapeVol(v){
   Object.values(webSfx).forEach(x=>{ x.volume=tapeVol; });
 }
 
+/* Cintas guardadas en el teléfono (contrato 7.7): estado y «Descargar todas». Solo en la app. */
+const HAS_DL = !!(NATIVE && typeof NATIVE.downloadAllTapes==="function" && typeof NATIVE.getTapeDownloadState==="function");
+let dlAsk=0;
+const megas = b => { const m=Math.max(0,+b||0)/1048576; return (m>=100 ? Math.round(m) : m.toFixed(1).replace(".",","))+" MB"; };
+function applyDl(s){
+  s=parseMaybe(s); if(!s) return;
+  const total=Math.max(0,+s.total||0), saved=Math.min(total,Math.max(0,+s.saved||0)), left=total-saved, run=!!s.running;
+  const tb=Math.max(0,+s.totalBytes||0), b=Math.max(0,+s.bytes||0);
+  $("dlState").textContent = !total ? "Todavía no hay cintas grabadas."
+    : run ? `Descargando: ${saved} de ${total} cintas…`
+    : left===0 ? `Las ${total} cintas están guardadas en el teléfono (${megas(b)}).`
+    : saved===0 ? `Hay ${total} cintas${tb?` (${megas(tb)})`:""}. Aún no hay ninguna guardada.`
+    : `${saved} de ${total} cintas guardadas (${megas(b)}).${tb>b?` Faltan ${megas(tb-b)}.`:""}`;
+  $("dlBar").hidden=!run;
+  $("dlBar").firstElementChild.style.width=(total ? Math.round(100*saved/total) : 0)+"%";
+  const all=$("dlAll");
+  all.textContent = run ? "Cancelar" : saved ? "Descargar las que faltan" : "Descargar todas";
+  all.hidden = !run && (!total || left===0);
+  all.dataset.run = run ? "1" : "";
+  const del=$("dlDel");
+  del.hidden = run || saved===0;
+  if(del.hidden || !dlAsk) { dlAsk=0; del.textContent="Borrar las guardadas"; }
+  const msg = run ? ""
+    : s.result==="error" ? `No se ${left===1?"ha podido bajar 1 cinta":`han podido bajar ${left} cintas`}. Comprueba la conexión y vuelve a intentarlo.`
+    : s.result==="cancelled" && left ? "Descarga cancelada. Lo que ya se bajó se conserva."
+    : "";
+  $("dlMsg").textContent=msg; $("dlMsg").hidden=!msg;
+}
+window.TCC_onTapeDownload=function(s){ try{ applyDl(s); }catch(err){ console.warn("TCC_onTapeDownload:",err); } };
+function readDl(){ if(HAS_DL) applyDl(nat("getTapeDownloadState")); }
+if(HAS_DL){
+  $("secCintas").hidden=false;
+  $("dlAll").onclick=()=>{ nat($("dlAll").dataset.run ? "cancelTapeDownload" : "downloadAllTapes"); setTimeout(readDl,400); };
+  // Borrar pide confirmación: hay que pulsar dos veces.
+  $("dlDel").onclick=()=>{
+    const del=$("dlDel");
+    if(!dlAsk){ dlAsk=setTimeout(()=>{ dlAsk=0; del.textContent="Borrar las guardadas"; },5000); del.textContent="¿Seguro? Pulsa otra vez para borrarlas"; return; }
+    clearTimeout(dlAsk); dlAsk=0; del.textContent="Borrar las guardadas";
+    nat("deleteDownloadedTapes"); setTimeout(readDl,600);
+  };
+  // Al volver a la app con la ficha abierta (la descarga sigue en segundo plano).
+  document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible" && settingsOpen) readDl(); });
+}
+
 function openSettings(){
   if(settingsOpen) return;
-  readNotif(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
+  readNotif(); readDl(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
   settingsOpen=true; $("settings").hidden=false; $("sbd").classList.add("on");
   requestAnimationFrame(()=>requestAnimationFrame(()=>$("settings").classList.add("on")));
   $("tAlerts").setAttribute("aria-expanded","true");

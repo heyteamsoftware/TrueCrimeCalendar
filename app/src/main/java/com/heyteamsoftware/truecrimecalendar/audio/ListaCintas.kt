@@ -10,7 +10,6 @@ import androidx.media3.common.Player
 import androidx.media3.common.util.UnstableApi
 import androidx.media3.exoplayer.ExoPlayer
 import com.heyteamsoftware.truecrimecalendar.R
-import java.io.IOException
 
 /**
  * Casos en cintas (contrato 7.3 y 7.4) dentro del ExoPlayer del servicio.
@@ -27,6 +26,8 @@ import java.io.IOException
  * Cuando una cinta debe empezar a mitad («Seguir escuchando»), el punto se guarda como pendiente
  * y se aplica al entrar la cinta tras su sonido (las cintas empiezan con 0,4 s de silencio, así
  * que el salto no se oye).
+ *
+ * Las cintas salen de la copia guardada en el móvil o, si no la hay, del servidor ([AlmacenCintas]).
  *
  * Todo se usa desde el hilo principal.
  */
@@ -83,6 +84,8 @@ internal class ListaCintas(
         exo.setMediaItems(elementos, 2 * i, 0L)
         exo.prepare()
         exo.play()
+        // Lo que se escucha desde el servidor se guarda a la vez, para la próxima vez (contrato 7.7).
+        AlmacenCintas.guardarCaso(context, caso)
     }
 
     /** `ejectTape()`: «stop y expulsar» y, al acabar el sonido, se detiene (y se quita la notificación). */
@@ -351,18 +354,21 @@ internal class ListaCintas(
         if (indice in 0 until exo.mediaItemCount) pistaDe(exo.getMediaItemAt(indice))?.tipo else null
 
     private fun existe(uri: String): Boolean {
-        val ruta = RutasAudio.rutaAsset(uri) ?: return true // https: se verá al reproducir
-        return try {
-            context.assets.open(ruta).close()
-            true
-        } catch (_: IOException) {
-            false
-        }
+        // Copia guardada o servidor: se verá al reproducir. Solo se comprueba lo que va en la APK.
+        val real = AlmacenCintas.uriReproducible(context, uri)
+        return RutasAudio.rutaAsset(real) == null || AlmacenCintas.enApk(context, real)
+    }
+
+    /** Si la cinta en curso se está escuchando desde el servidor (para explicar un fallo de conexión). */
+    fun cintaDelServidor(): Boolean {
+        val elemento = exo.currentMediaItem ?: return false
+        if (pistaDe(elemento)?.tipo != TipoPista.CINTA) return false
+        return elemento.localConfiguration?.uri?.scheme == "https"
     }
 
     private fun cinta(caso: CasoCintas, i: Int): MediaItem = MediaItem.Builder()
         .setMediaId("${caso.id}#cinta-${caso.cintas[i].n}")
-        .setUri(caso.cintas[i].uri)
+        .setUri(AlmacenCintas.uriReproducible(context, caso.cintas[i].uri))
         .setTag(Pista(TipoPista.CINTA, caso.id, caso, i))
         .setMediaMetadata(metadatos(caso, i))
         .build()

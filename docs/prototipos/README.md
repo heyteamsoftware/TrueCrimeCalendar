@@ -6,6 +6,8 @@ Dos direcciones para elegir. Son maquetas estáticas (HTML + CSS, sin tocar `web
 |---|---|
 | `prototipo-a.png` / `prototipo-a.html` | A · «Quiosco» |
 | `prototipo-b.png` / `prototipo-b.html` | B · «Pletina» |
+| `prototipo-c.png` / `prototipo-c.html` | C · «Teletexto» |
+| `prototipo-d.png` / `prototipo-d.html` | D · «Atlas» |
 | `actual.png` | La interfaz de hoy (cuaderno), para comparar |
 | `proto_shot.sh` | Temporal: `sh proto_shot.sh a` o `b` regenera el PNG con Edge sin cabeza |
 
@@ -51,6 +53,46 @@ En las tres pantallas de cada prototipo: (1) calendario de enero de 2027 con el 
 
 ---
 
+## C · «Teletexto»
+
+**Concepto.** La app es un servicio de teletexto: toda la pantalla es una rejilla de caracteres con ocho colores planos y dibujos de mosaico, y cada día del año es una página con su número (el 2 de enero es la 102). Se navega como en el mando: tocando números de página y con las cuatro teclas de color del pie, que significan siempre lo mismo (rojo, anterior; verde, siguiente; amarillo, cintas; cian, el mes).
+
+**Tipografías.** Una sola, «TCC Mosaico», dibujada para esta maqueta: matriz de 5 × 9 puntos en celda de 6 × 10 con redondeo de diagonales, monoespaciada, con acentos, eñe y los iconos de la grabadora. Va incrustada en `prototipo-c.html` (18 KB) y sustituiría a las tres familias actuales. Solo hay tres tamaños: normal, doble altura (rótulos) y doble tamaño (nombre del caso y contador).
+
+**Paleta.** Negro y los colores de la carta, algo templados: rojo `#e62b20`, verde `#27d64a`, amarillo `#ffe01a`, azul `#2333dd`, magenta `#ee45c6`, cian `#20d9e4` y blanco `#f3f3ec`, más un gris de media intensidad `#8b8b85` para lo ya escuchado. El color del mes es el de las bandas de cabecera (enero, cian); con seis colores y sus inversos salen los doce meses. Amarillo es siempre «caso estrella», azul «caso del archivo» y rojo «hoy».
+
+**Qué cambia respecto a la interfaz actual.**
+- La rejilla es de 34 columnas (celdas de 12 × 20 px en un móvil de 412): el texto queda grande y todo se alinea a la celda. No hay sombras, texturas ni esquinas redondeadas.
+- El calendario es una tabla de bloques de color: amarillo con estrella, caso estrella; azul, caso del archivo; rojo con «HOY» parpadeando, hoy; «×2» si el día tiene dos casos. Cada bloque mide 48 × 40 px, con aire alrededor.
+- El caso del día lleva una ilustración de mosaico (aquí, la cabina de Hattersley en el páramo, de madrugada). Habría que decidir si se dibuja una por caso estrella o un juego por tipo de efeméride; se generan con código, no son imágenes.
+- El expediente es una página con subpáginas (ficha 1/4, caso 2/4, situación 3/4, fuentes 4/4) y un mapa de mosaico del país, sacado de la geografía que ya lleva la app. Vínculos y fuentes son enlaces a otras páginas, con su número.
+- La grabadora se dibuja en mosaico: la cinta dentro de la pletina con el título en la etiqueta, contador a doble tamaño, barra de avance de bloques y cinco teclas. En la caja, el hueco de la cinta que está dentro se ve en mosaico punteado y la otra cinta se arrastra a saltos de celda. «Leer el caso» se mantiene, con el bloque que suena bajo una banda amarilla.
+- Búsqueda, mapa y ajustes pasan a ser páginas (600, 700, 800). Los meses se cambian con la banda del mes o con la tecla cian.
+
+**Coste de implementación: bajo-medio.** Es la dirección más barata de dibujar: todo es texto, CSS y un SVG de rectángulos; no hay imágenes ni fuentes externas y la app pesaría menos. El trabajo está en rehacer el marcado de calendario, expediente y grabadora en `app.js` (como en A) y en tres cosas propias: que la rejilla escale entera en pantallas de otro ancho y con el tamaño de letra del sistema, que los nombres largos tengan reglas claras (a doble tamaño caben 16 letras; el resto va a doble altura o en dos líneas) y que los mosaicos de portada estén a la altura. El lector de pantalla necesita etiquetas propias, porque los bloques de color no dicen nada por sí solos.
+
+---
+
+## D · «Atlas»
+
+**Concepto.** La app es un atlas: cada mes es una lámina con su planisferio y cada caso es un lugar con sus coordenadas. Se entra por el dónde y por el cuándo a la vez: la cuadrícula del mapa es el calendario y el expediente es una hoja con su mapa, su leyenda y su escala.
+
+**Tipografías.** Spectral (nombres, lectura y la cursiva de los topónimos), Overpass (rótulos y números de la cuadrícula) y Overpass Mono (coordenadas, tiempos y contador). Las tres son libres (OFL) y habría que empaquetarlas en `assets/fonts/`.
+
+**Paleta.** Papel de mapa `#f2f0e6`, tierra `#f8f5e7`, mar `#cfe1e2`, tinta azul negra `#17262e`, curvas de nivel en siena `#bf9160`, arbolado `#d3ddb4` y una tinta de sobreimpresión por mes (enero, magenta de carta náutica `#c4207c`). La sobreimpresión marca solo lo que es del caso o de hoy: la retícula del día, los lugares numerados, el avance de la cinta.
+
+**Qué cambia respecto a la interfaz actual.**
+- La pantalla de inicio abre con el planisferio del mes: los 33 casos de enero son puntos (relleno, caso estrella; hueco, caso del archivo) y el de hoy lleva una retícula que cruza el mapa, con sus coordenadas. Debajo, una cartela con el caso del día.
+- El calendario es la cuadrícula de la lámina: semanas en el margen, días en columnas, y en cada casilla el número, el símbolo del caso y el código del país. La fila y la columna de hoy quedan teñidas, como al buscar una referencia en un mapa.
+- La lista de fichas pasa a ser un nomenclátor: día, caso, lugar y coordenadas.
+- Los meses se cambian en una barra de escala de doce tramos, al pie.
+- El expediente es una hoja: nombre, mapa de la zona con relieve, carreteras y los lugares del caso numerados (con la distancia entre ellos), leyenda con coordenadas, franja de datos, texto, situación judicial y vínculos como «hojas contiguas». Desaparecen el retrato robot, la cinta adhesiva y la máquina de escribir.
+- La grabadora es una lámina de dibujo técnico a línea, con las mismas tintas. El avance de la cinta es una escala graduada en minutos con un marcador de posición, y «Leer el caso» es un itinerario: cada bloque es un hito con su hora, y el que suena va en la tinta del mes. Se mantienen arrastrar a la grabadora, expulsar, −15/+30, cambio de cinta y los tres estados.
+
+**Coste de implementación: alto (medio si se renuncia al mapa de detalle).** El planisferio, la cuadrícula, la barra de meses y la grabadora son SVG y CSS sobre datos que ya existen (`loc` de cada caso y el mapa del mundo que lleva la app), y eso es un trabajo medio. Lo caro es el mapa de cada hoja: el de la maqueta está dibujado a mano para Brady, y hay 377 casos. Hacerlo en serie exige o bien teselas vectoriales con estilo propio (hoy el mapa de detalle usa teselas de Esri y necesita conexión), o bien mapas generados solo con costa y fronteras, que quedan más pobres que el de la maqueta. Una salida intermedia: mapa generado para todos y lámina dibujada solo para los 100 casos estrella. Además hay que comprobar los `loc` uno a uno, porque aquí las coordenadas se leen.
+
+---
+
 ## Lo que tienen en común
 
 - Mismo contenido y mismos estados que hoy: un caso cada día (estrella o del archivo), días con dos casos, efeméride del día, expediente con ficha, mapa, vínculos y fuentes, y cintas arrastrables con su progreso.
@@ -62,3 +104,12 @@ En las tres pantallas de cada prototipo: (1) calendario de enero de 2027 con el 
 - Las maquetas cargan las tipografías de Google Fonts (hace falta conexión para verlas bien; sin ella caen a fuentes del sistema). Mansalva va incrustada en `prototipo-b.html`.
 - La fecha de la maqueta es el sábado 2 de enero de 2027 (por eso «hace 89 años»).
 - Solo están maquetadas estas tres pantallas: faltarían búsqueda, mapa mundial, ajustes, avisos y la tapa de arranque.
+
+### Notas de C y D
+
+- `sh proto_shot.sh c` y `sh proto_shot.sh d` regeneran sus capturas igual que las de A y B.
+- C no necesita conexión: la fuente va dentro del HTML. D carga Spectral y Overpass de Google Fonts.
+- En C, el número de página de cada día (100 más el día del año) y las páginas 500 a 800 son una propuesta de la maqueta, no algo que exista en la app. En la portada, la efeméride va abreviada («Nació un día como hoy, en 1938») porque la frase completa no cabe en 34 columnas; en el expediente va entera, en dos líneas.
+- En C y D las horas de «Leer el caso» salen de `bloquesMs` de la cinta 1 de Brady (01:54, 02:13 y 02:28): a las 02:14 suena un bloque de archivo, no la nota del inspector que marcan A y B.
+- En D, el planisferio y el mapa de mosaico de C salen del mapa del mundo que ya lleva la app. El mapa de Mánchester y Saddleworth de D es un esquema hecho a mano: las poblaciones, los dos lugares del caso, la escala y la distancia están en su sitio, pero las curvas de nivel y el trazado fino de carreteras y embalses son aproximados.
+- En D, los códigos de país de la cuadrícula (GBR, USA…) y los números de semana no están en los datos: habría que derivarlos de `p` y de la fecha.

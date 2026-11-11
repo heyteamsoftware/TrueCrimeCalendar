@@ -2,13 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Fotos de Wikipedia/Wikimedia y capa de mapa detallado (el resto funciona sin conexión). -->
+    <!-- Cintas (se bajan del servidor y se guardan en el móvil), fotos de Wikipedia/Wikimedia y
+         capa de mapa detallado. El resto funciona sin conexión. -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <!-- Podcast con la pantalla apagada (servicio en primer plano de reproducción multimedia). -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- «Descargar todas las cintas»: sigue con la app en segundo plano (servicio en primer plano de datos). -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
 
     <!-- Avisos diarios de efemérides (y reprogramarlos tras reiniciar el móvil). -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
@@ -47,6 +51,12 @@
                 <action android:name="androidx.media3.session.MediaSessionService" />
             </intent-filter>
         </service>
+
+        <!-- Descarga de todas las cintas, con su notificación de avance. -->
+        <service
+            android:name=".audio.DescargaCintasService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync" />
 
         <!-- Alarma diaria de los avisos. -->
         <receiver

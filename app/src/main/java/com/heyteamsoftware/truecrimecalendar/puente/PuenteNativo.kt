@@ -7,12 +7,13 @@ import android.webkit.JavascriptInterface
 import com.heyteamsoftware.truecrimecalendar.AbrirApp
 import com.heyteamsoftware.truecrimecalendar.audio.AjustesAudio
 import com.heyteamsoftware.truecrimecalendar.audio.ConexionAudio
+import com.heyteamsoftware.truecrimecalendar.audio.DescargaCintasService
 import com.heyteamsoftware.truecrimecalendar.audio.EstadoAudio
 import com.heyteamsoftware.truecrimecalendar.notificaciones.AlmacenCasos
 import com.heyteamsoftware.truecrimecalendar.notificaciones.ControlAvisos
 
 /**
- * Objeto `window.TCCNative` (secciones 4.1 y 7.4 del contrato).
+ * Objeto `window.TCCNative` (secciones 4.1, 7.4 y 7.7 del contrato).
  *
  * WebView llama a estos métodos desde su propio hilo: lo que toca el reproductor o la interfaz
  * se pasa al hilo principal y los getters devuelven el último estado en caché. Los números
@@ -108,6 +109,23 @@ class PuenteNativo(
 
     @JavascriptInterface
     fun getTapeVolume(): Double = AjustesAudio.volumen(app).toDouble()
+
+    // --- Cintas guardadas en el móvil (contrato 7.7) ---
+
+    /** Baja del servidor todas las cintas que falten, con una notificación de avance. */
+    @JavascriptInterface
+    fun downloadAllTapes() = enPrincipal { DescargaCintasService.empezar(app) }
+
+    @JavascriptInterface
+    fun cancelTapeDownload() = DescargaCintasService.cancelar()
+
+    /** Borra las copias guardadas (no hace nada con una descarga en marcha). */
+    @JavascriptInterface
+    fun deleteDownloadedTapes() = DescargaCintasService.borrar(app)
+
+    /** `TapeDownloadState` en JSON. Se calcula en el hilo de WebView, no en el principal. */
+    @JavascriptInterface
+    fun getTapeDownloadState(): String = DescargaCintasService.estadoJson(app)
 
     // --- Avisos diarios ---
 

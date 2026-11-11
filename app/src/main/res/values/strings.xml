@@ -12,6 +12,16 @@
     <string name="podcast_cinta_titulo">Cinta %1$d de %2$d · %3$s</string>
     <string name="podcast_cinta_numero">Cinta %1$d de %2$d</string>
 
+    <!-- Cintas: se escuchan desde el servidor y se guardan en el móvil -->
+    <string name="cinta_sin_conexion">No hay conexión y esta cinta aún no está descargada.</string>
+    <string name="canal_descargas">Descarga de cintas</string>
+    <string name="canal_descargas_descripcion">Avance de «Descargar todas las cintas».</string>
+    <string name="descarga_titulo">Descargando las cintas</string>
+    <string name="descarga_preparando">Preparando…</string>
+    <!-- 120 de 477 -->
+    <string name="descarga_avance">%1$d de %2$d</string>
+    <string name="descarga_cancelar">Cancelar</string>
+
     <!-- Avisos diarios -->
     <string name="canal_efemerides">Efemérides del día</string>
     <string name="canal_efemerides_descripcion">Un aviso diario cuando un caso del calendario cumple aniversario.</string>

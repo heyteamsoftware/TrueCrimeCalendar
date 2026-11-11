@@ -10,6 +10,10 @@ carpeta_datos es opcional (por defecto, web/datos junto a este script). De ella 
     titulo_caso, autor y fuentes. Se añaden a D conservando todos sus campos.
   - fuentes.json: { id: [ { titulo, url, tipo } ] } con las fuentes de los casos estrella.
     Queda disponible en la página como const FUENTES.
+  - correcciones_estrella.json: { id: { campo: valor, nota } } con los campos corregidos de las
+    fichas de los casos estrella (n, a, v, per, st, c, mo, loc). «nota» explica la corrección y
+    no va a la página.
+  - vinculos.json: [ [idA, idB, "c" | "r", nota] ] con los vínculos entre casos de meses distintos.
 Si no existen, están vacíos o aún no son JSON válido (los escriben otros), se monta sin ellos."""
 import sys, re, json, unicodedata, pathlib
 
@@ -151,12 +155,67 @@ fuentes = {k: [f for f in v if isinstance(f, dict) and isinstance(f.get("url"), 
            for k, v in (fuentes or {}).items() if isinstance(v, list)}
 fuentes = {k: v for k, v in fuentes.items() if v}
 
+# Correcciones de las fichas estrella: { id: { campo: valor, ..., nota } }. Los datos de la v3 no se
+# tocan: los campos corregidos se aplican encima al cargar la página. La fecha, el país y los
+# vínculos no se corrigen aquí, y «nota» (el porqué de la corrección) no va a la página.
+CORREGIBLES = {"n", "a", "v", "per", "st", "c", "mo", "loc"}
+estrella_ids = set(ids) - {c["id"] for c in nuevos}
+correcciones = {}
+crudo = leer_json(datos / "correcciones_estrella.json")
+if crudo is not None and not isinstance(crudo, dict):
+    aviso("correcciones_estrella.json no es un objeto { id: {...} }; se monta sin correcciones")
+    crudo = None
+for cid, cambios in (crudo or {}).items():
+    if cid not in estrella_ids or not isinstance(cambios, dict):
+        aviso(f"correcciones_estrella.json: «{cid}» no es un caso estrella; se omite")
+        continue
+    raros = set(cambios) - CORREGIBLES - {"nota"}
+    if raros:
+        aviso(f"correcciones_estrella.json: en «{cid}» no se aplican los campos {sorted(raros)}")
+    limpio = {k: v for k, v in cambios.items() if k in CORREGIBLES}
+    if limpio:
+        correcciones[cid] = limpio
+
+# Vínculos entre casos de meses distintos: [ [idA, idB, "c" | "r", nota] ]. Se apuntan en el primero
+# y la página los enseña en los dos. Los que ya existen en un sentido u otro no se repiten.
+vinculos = []
+crudo = leer_json(datos / "vinculos.json")
+if crudo is not None and not isinstance(crudo, list):
+    aviso("vinculos.json no es una lista; se monta sin esos vínculos")
+    crudo = None
+vistos = set()
+for v in crudo or []:
+    if not (isinstance(v, list) and len(v) == 4 and all(isinstance(x, str) for x in v)):
+        aviso(f"vinculos.json: entrada no válida {v!r}; se omite")
+        continue
+    a, b, tipo, nota = (x.strip() for x in v)
+    if a == b or a not in ids or b not in ids or tipo not in ("c", "r") or not nota:
+        aviso(f"vinculos.json: vínculo no válido entre «{a}» y «{b}»; se omite")
+        continue
+    if frozenset((a, b)) in vistos:
+        aviso(f"vinculos.json: el vínculo entre «{a}» y «{b}» está repetido; se omite")
+        continue
+    vistos.add(frozenset((a, b)))
+    vinculos.append([a, b, tipo, nota])
+
 extra = []
 if nuevos:
     extra.append("/* casos nuevos (web/datos/casos_nuevos.json) */")
     extra.append("D.push(")
     extra.append(",\n".join(js(c) for c in nuevos))
     extra.append(");")
+if correcciones:
+    extra.append("/* correcciones de las fichas estrella (web/datos/correcciones_estrella.json) */")
+    extra.append("{const C={" + ",\n".join(js(k) + ":" + js(v) for k, v in correcciones.items()) + "};")
+    extra.append("D.forEach(e=>{ if(C[e.id]) Object.assign(e,C[e.id]); });}")
+if vinculos:
+    extra.append("/* vínculos entre casos de meses distintos (web/datos/vinculos.json) */")
+    extra.append("{const P={}; D.forEach(e=>{ P[e.id]=e; });")
+    extra.append("[" + ",\n".join(js(v) for v in vinculos) + "].forEach(([a,b,t,n])=>{")
+    extra.append("  const x=P[a], y=P[b]; if(!x || !y) return;")
+    extra.append("  if((x.vin||[]).some(v=>v[0]===b) || (y.vin||[]).some(v=>v[0]===a)) return;")
+    extra.append("  (x.vin=x.vin||[]).push([b,t,n]);")
+    extra.append("});}")
 extra.append("/* fuentes de los casos estrella (web/datos/fuentes.json) */")
 extra.append("const FUENTES = {" + ",\n".join(js(k) + ":" + js(v) for k, v in fuentes.items()) + "};")
 
@@ -187,4 +246,5 @@ parts.append("</script>")
 parts.append("</body>")
 parts.append("</html>")
 out.write_text("\n".join(parts) + "\n", encoding="utf-8", newline="\n")
-print("ok", out, out.stat().st_size, f"· {len(nuevos)} casos nuevos · fuentes de {len(fuentes)} casos")
+print("ok", out, out.stat().st_size, f"· {len(nuevos)} casos nuevos · fuentes de {len(fuentes)} casos"
+      f" · {len(correcciones)} fichas estrella corregidas · {len(vinculos)} vínculos entre meses")

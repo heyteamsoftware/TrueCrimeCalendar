@@ -1,22 +1,10 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "revision_grupos_total": 21,
   "trabajos": [
     {
-      "nombre": "Diseño: prototipos C y D de interfaz",
-      "tipo": "diseño",
-      "progreso": {
-        "archivos": [
-          "docs/prototipos/prototipo-c.html",
-          "docs/prototipos/prototipo-c.png",
-          "docs/prototipos/prototipo-d.html",
-          "docs/prototipos/prototipo-d.png"
-        ]
-      }
-    },
-    {
-      "nombre": "Subida de las 477 cintas al servidor",
-      "tipo": "subida"
+      "nombre": "Rediseño de la interfaz: prototipo B «Pletina»",
+      "tipo": "diseño"
     }
   ],
   "nota": "progreso.archivos: rutas que el agente debe dejar escritas; progreso.carpetas + progreso.lista: una carpeta por id; progreso.hecho/total: a mano."

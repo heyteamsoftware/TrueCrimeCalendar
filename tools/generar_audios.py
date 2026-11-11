@@ -19,6 +19,8 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PODCAST = os.path.join(RAIZ, "app", "src", "main", "assets", "podcast")
 AUDIO = os.path.join(RAIZ, "app", "src", "main", "assets", "audio")
 INDICE = os.path.join(AUDIO, "index.json")
+# Las cintas v3 no van en la APK: se graban aquí (fuera de git) y se suben al servidor (tools/subir_audios.ps1).
+CINTAS = os.path.join(RAIZ, "cintas")
 TRABAJO = os.path.join(tempfile.gettempdir(), "tcc_tts")  # ruta corta: Windows y rutas largas
 LOCUCION_DEFECTO = os.environ.get("LOCUCION_XIMENA", "")
 PAUSA = 0.7          # segundos entre bloques

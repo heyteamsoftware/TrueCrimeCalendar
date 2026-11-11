@@ -2,7 +2,8 @@
 
 Para cada cinta: locución con la skill de Ximena (Ximena y Álvaro), 0,4 s de silencio inicial,
 voz nivelada a unos -19 dB RMS de media (picos por debajo de -2 dBFS) y Opus a 12 kbps (modo voz). El sonido de casete NO
-va grabado: lo aplica el móvil al reproducir (docs/CONTRATO.md, 7.6). Actualiza audio/index.json
+va grabado: lo aplica el móvil al reproducir (docs/CONTRATO.md, 7.6). Las cintas quedan en cintas/<id>/
+(fuera de git y de la APK: se suben al servidor con tools/subir_audios.ps1). Actualiza audio/index.json
 con la entrada v3 del caso y borra su episodio v2 (audio/<id>.ogg) si existía.
 
 Uso:
@@ -14,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from generar_audios import (AUDIO, PODCAST, RAIZ, TRABAJO, guardar_indice, leer_indice, lock, log,  # noqa: E402
+from generar_audios import (AUDIO, CINTAS, PODCAST, RAIZ, TRABAJO, guardar_indice, leer_indice, lock, log,  # noqa: E402
                             nivelar, texto_locutado)
 
 PAUSA = 0.7         # segundos entre bloques
@@ -69,7 +70,7 @@ def cinta(cid, c, pron, locucion):
     raw = os.path.join(carpeta, "voz.f32")
     x.astype(np.float32).tofile(raw)
 
-    destino_dir = os.path.join(AUDIO, cid)
+    destino_dir = os.path.join(CINTAS, cid)
     os.makedirs(destino_dir, exist_ok=True)
     ogg = os.path.join(destino_dir, f"cinta-{c['n']}.ogg")
     tmp = ogg + ".tmp.ogg"
@@ -81,7 +82,7 @@ def cinta(cid, c, pron, locucion):
     os.remove(raw)
     log(f"✓ {cid} cinta {c['n']}: {total / 60:.1f} min, {os.path.getsize(ogg) // 1024} KB")
     return {"n": c["n"], "titulo": c["titulo"], "url": f"audio/{cid}/cinta-{c['n']}.ogg",
-            "durationMs": round(total * 1000), "bloquesMs": inicios}
+            "durationMs": round(total * 1000), "bytes": os.path.getsize(ogg), "bloquesMs": inicios}
 
 
 def caso(cid, locucion, paralelo):
@@ -92,7 +93,7 @@ def caso(cid, locucion, paralelo):
     with ThreadPoolExecutor(paralelo) as ex:
         entradas = list(ex.map(lambda c: cinta(cid, c, pron, locucion), g["cintas"]))
     # borra cintas sobrantes de una versión anterior con más cintas
-    destino_dir = os.path.join(AUDIO, cid)
+    destino_dir = os.path.join(CINTAS, cid)
     validas = {f"cinta-{e['n']}.ogg" for e in entradas}
     for f in os.listdir(destino_dir):
         if f.endswith(".ogg") and f not in validas:

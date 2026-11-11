@@ -17,6 +17,7 @@ object AbrirApp {
     // Un código por origen para que el PendingIntent de uno no sustituya al de otro.
     const val PETICION_AVISO = 1
     const val PETICION_PODCAST = 2
+    const val PETICION_DESCARGA = 3
 
     /** Ids de caso aceptados (los del HTML: letras, números, guion y guion bajo). */
     private val ID_VALIDO = Regex("[A-Za-z0-9_-]{1,64}")

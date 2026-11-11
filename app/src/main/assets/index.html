@@ -1285,6 +1285,11 @@ body.has-mini{--mini-h:64px}
 .stamp-btn{font:400 15px/1 var(--stamp);letter-spacing:2px;text-transform:uppercase;color:var(--violet);border:2.5px solid var(--violet);padding:12px 14px 9px;min-height:44px;transform:rotate(-2deg)}
 .stamp-btn:active{transform:rotate(-2deg) scale(.96)}
 .sent{font:20px var(--hand);color:var(--blue);transform:rotate(-5deg)}
+.dl-state{position:relative;font:700 14px/1.45 var(--type);color:var(--ink);margin:4px 0 2px}
+.dl-bar{position:relative;height:10px;margin:8px 0 2px;border:1.5px solid var(--ink);background:rgba(255,255,255,.45)}
+.dl-bar span{display:block;height:100%;width:0;background:var(--ink);transition:width .3s linear}
+.set-act{flex-wrap:wrap}
+#dlDel{color:var(--red)}
 
 /* ---------- Tableta y escritorio ---------- */
 @media (min-width:700px){
@@ -1483,6 +1488,17 @@ body.has-mini{--mini-h:64px}
         <input type="range" id="tVol" min="0" max="100" step="5" value="100">
         <output id="tVolOut" for="tVol">100 %</output>
       </div>
+    </section>
+    <section class="set-sec" id="secCintas" aria-labelledby="secCin" hidden>
+      <h3 id="secCin">Cintas</h3>
+      <p class="set-intro">Cada cinta se baja de internet la primera vez que la escuchas y se queda guardada en el teléfono. Si quieres, puedes bajarlas todas de una vez para oírlas sin conexión (mejor con wifi).</p>
+      <p class="dl-state" id="dlState" role="status"></p>
+      <div class="dl-bar" id="dlBar" hidden><span></span></div>
+      <div class="set-act">
+        <button class="stamp-btn" id="dlAll">Descargar todas</button>
+        <button class="link-btn" id="dlDel" hidden>Borrar las guardadas</button>
+      </div>
+      <p class="perm info" id="dlMsg" hidden></p>
     </section>
     <section class="set-sec" id="secAvisos" aria-labelledby="secAv">
       <h3 id="secAv">Avisos diarios</h3>
@@ -2307,6 +2323,165 @@ D.push(
 {"id":"masacre-de-floresta","m":12,"d":29,"y":2001,"n":"Juan de Dios Velaztiqui","a":"La masacre de Floresta","v":"3","p":"Argentina","f":"🇦🇷","per":"2001","st":"Condenado a prisión perpetua el 10 de marzo de 2003 por el Tribunal Oral en lo Criminal 13 por triple homicidio con alevosía; la Cámara de Casación confirmó la pena en junio de 2003. Murió el 24 de julio de 2020.","c":"En la madrugada del 29 de diciembre de 2001, días después del estallido social que derribó al Gobierno de De la Rúa, cuatro jóvenes veían la televisión en el minimercado de una gasolinera de Gaona y Bahía Blanca, en el barrio porteño de Floresta. Tras un comentario de uno de ellos sobre la policía, el suboficial de la Policía Federal Juan de Dios Velaztiqui, que custodiaba el lugar, mató a tiros a Maximiliano Tasca, Cristian Gómez y Adrián Matassa; el cuarto escapó. Intentó simular un asalto colocando un cuchillo. En 2003 fue condenado a perpetua.","mo":"Disparos a quemarropa contra jóvenes desarmados; después movió los cuerpos, dejó un cuchillo junto a uno de ellos y llamó a la comisaría para fingir un enfrentamiento con ladrones.","loc":[[-34.6227,-58.4797,"Gasolinera de Gaona y Bahía Blanca, Floresta, Buenos Aires (lugar de los hechos; hoy señalización de memoria)"],[-34.6235,-58.4705,"Hospital Álvarez, Buenos Aires (donde murió Adrián Matassa)"]],"vin":[],"g":["argentina","hispanoamerica"],"estrella":false,"tipo_efemeride":"crimen","titulo_caso":"La masacre de Floresta","autor":"Juan de Dios Velaztiqui, suboficial de la Policía Federal Argentina (condenado)","fuentes":[{"titulo":"«Confirman la sentencia contra el autor de la masacre de Floresta», La Nación (19 de junio de 2003)","url":"https://www.lanacion.com.ar/sociedad/confirman-la-sentencia-contra-el-autor-de-la-masacre-de-floresta-nid504985/","tipo":"hemeroteca"},{"titulo":"Daniel Cecchini, «La Masacre de Floresta: los tres jóvenes asesinados por un policía que fueron las últimas víctimas del sangriento diciembre de 2001», Infobae (28 de diciembre de 2024)","url":"https://www.infobae.com/sociedad/2024/12/29/la-masacre-de-floresta-los-tres-jovenes-asesinados-por-un-policia-que-fueron-las-ultimas-victimas-del-sangriento-diciembre-de-2001/","tipo":"hemeroteca"},{"titulo":"Gobierno de Argentina, «Se inauguró una señalización en memoria de las víctimas de la Masacre de Floresta» (29 de diciembre de 2021)","url":"https://www.argentina.gob.ar/noticias/se-inauguro-una-senalizacion-en-memoria-de-las-victimas-de-la-masacre-de-floresta","tipo":"judicial"},{"titulo":"Wikipedia (en castellano), «Masacre de Floresta» (punto de partida; consultada por sus referencias)","url":"https://es.wikipedia.org/wiki/Masacre_de_Floresta","tipo":"enciclopedia"}],"nota_revision":"Hora: hacia las 4:10 según Wikipedia; las demás fuentes dicen solo «madrugada». Edades: Tasca y Gómez, 25; Matassa, 23 (La Nación, Gobierno). La muerte de Velaztiqui (24 de julio de 2020) solo la da la nota del Gobierno. Clarín (fuente de la selección) no se pudo abrir. Edad de Velaztiqui: 61 (Infobae) o 62 (Gobierno): se quita de la ficha. Condena del 10 de marzo de 2003 en Infobae y muerte el 24 de julio de 2020 en la nota del Gobierno. Coordenadas aproximadas."},
 {"id":"incendio-dupont-plaza","m":12,"d":31,"y":1986,"n":"Héctor Escudero Aponte","a":"El incendio de Nochevieja en San Juan","v":"97 muertos y unos 140 heridos","p":"Puerto Rico","f":"🇵🇷","per":"1986","st":"Los tres autores se declararon culpables. En 1987 un tribunal federal condenó a Escudero Aponte y a Francisco Rivera López a 99 años y a Armando Jiménez Rivera a 75; Rivera y Jiménez recibieron además 96 cadenas perpetuas en un tribunal de Puerto Rico. Las demandas civiles se cerraron con indemnizaciones de unos 240 millones de dólares.","c":"La tarde del 31 de diciembre de 1986, minutos después de que el sindicato de empleados del hotel Dupont Plaza, en el Condado de San Juan, votara ir a la huelga, tres trabajadores prendieron fuego con combustible de cocina a muebles nuevos almacenados junto al salón de baile. El humo tóxico llegó en pocos minutos al casino, lleno de clientes, que encontraron puertas de emergencia cerradas. Murieron 97 personas, la mayoría por asfixia, y unas 140 resultaron heridas. Los tres autores, Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera, se declararon culpables y fueron condenados a largas penas.","mo":"Incendio provocado en plena disputa laboral para asustar a los clientes: rociaron con combustible muebles envueltos en plástico en un almacén junto al salón de baile.","loc":[[18.4582,-66.0746,"Antiguo hotel Dupont Plaza (hoy San Juan Marriott), Condado, San Juan"]],"vin":[],"g":["hispanoamerica"],"estrella":false,"tipo_efemeride":"crimen","titulo_caso":"El incendio del hotel Dupont Plaza","autor":"Héctor Escudero Aponte, José Francisco Rivera López y Armando Jiménez Rivera (condenados)","fuentes":[{"titulo":"Ian Simpson (UPI), «One year after flames raged through the Dupont Plaza...» (30 de diciembre de 1987)","url":"https://www.upi.com/Archives/1987/12/30/One-year-after-flames-raged-through-the-Dupont-Plaza/2659567838800/","tipo":"hemeroteca"},{"titulo":"Joseph Dewey, «Dupont Plaza Hotel fire», EBSCO Research Starters (2019)","url":"https://www.ebsco.com/research-starters/law/dupont-plaza-hotel-fire/","tipo":"enciclopedia"},{"titulo":"NotiCel, «Memoria Viva: el catastrófico incendio del Hotel Dupont Plaza» (19 de mayo de 2019)","url":"https://noticel.com/en/vida-y-bienestar/20190519/memoria-viva-el-catastrofico-incendio-del-hotel-dupont-plaza/","tipo":"hemeroteca"},{"titulo":"Wikipedia (en inglés), «Dupont Plaza Hotel arson» (punto de partida; consultada por sus referencias)","url":"https://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson","tipo":"enciclopedia"}],"nota_revision":"Cifra de muertos: 97 (UPI, EBSCO, The Washington Post) frente a 96 o 98 en otras fuentes. Hora: hacia las 15:15 (UPI) o las 15:30 (EBSCO, Wikipedia); NotiCel dice las 14:00. Wikipedia atribuye 75 años a Jiménez y 99 a Escudero y Rivera, como UPI. Se quita The Washington Post (403, no verificable). Según UPI (diciembre de 1987), Escudero Aponte aún esperaba juicio en el tribunal de Puerto Rico por 96 cargos de asesinato en primer grado; no se encontró el resultado. Indemnizaciones de 240 millones: NotiCel. El Chicago Tribune (fuente de la selección) no se pudo abrir."}
 );
+/* correcciones de las fichas estrella (web/datos/correcciones_estrella.json) */
+{const C={"camargo":{"a":"El sádico del Charquito","v":"71 (cifra discutida)","st":"Asesinado por otro recluso en una cárcel de Quito (1994).","c":"Condenado en Colombia por el asesinato de una niña, fue enviado al penal de la isla Gorgona, del que escapó en 1984. Huyó a Ecuador, donde asesinó a niñas y jóvenes en la zona de Guayaquil. Fue detenido en Quito en 1986 y confesó 71 crímenes (las fuentes dan 71, 72 o «más de cincuenta»)."},
+"garavito":{"v":"138 (172 atribuidas por la Fiscalía)","st":"Condenado a más de 1.800 años (40 efectivos por ley). Murió bajo custodia en una clínica de Valledupar (2023).","c":"Recorría Colombia haciéndose pasar por mendigo, lisiado, cura o representante de una fundación para atraer a niños en situación de pobreza. Fue detenido en 1999 en Villavicencio. En 1999 confesó 140 asesinatos; la Fiscalía le atribuyó 172 y fue condenado por 138."},
+"bodkin":{"st":"ABSUELTO de asesinato (1957). Condenado por falsificar recetas, por mentir en los formularios de incineración y por no llevar el registro de drogas peligrosas. Murió en 1983."},
+"arropiero":{"c":"Nacido en Sevilla, recorrió España y el sur de Francia. Fue detenido en El Puerto de Santa María en enero de 1971 tras la muerte de su pareja, Antonia Rodríguez. Confesó 48 crímenes, de los que la policía dio por probados 7. Se le declaró no imputable y estuvo internado sin juicio, desde 1978, en centros psiquiátricos."},
+"robledo":{"st":"Reclusión perpetua. Es el preso más antiguo de Argentina. Según la última prensa que consta (2025), cumple condena en la Unidad 26 de Olmos (La Plata). En noviembre de 2024 un juez le autorizó el paso al régimen abierto y él lo rechazó a comienzos de 2025.","c":"Con 19 y 20 años cometió una serie de robos nocturnos en el Gran Buenos Aires en los que asesinó a 11 personas, muchas mientras dormían. Actuó con cómplices, entre ellos Jorge Ibáñez, y mató a uno de ellos, un joven de 17 años. Fue detenido en 1972.","loc":[[-34.51,-58.49,"Vicente López / Olivos"],[-34.97,-58.04,"Unidad 26 de Olmos, La Plata (prisión)"]]},
+"dominique":{"c":"Captaba a hombres jóvenes, muchos en situación vulnerable, en el sur de Luisiana, ofreciéndose a llevarlos o proponiéndoles sexo. Los asesinaba y abandonaba los cuerpos en zonas rurales y cañaverales de varias parroquias. Tras su detención en Houma en 2006 confesó 23 asesinatos.","mo":"Se ofrecía a llevar a las víctimas o les proponía sexo; abandono de cuerpos en zonas rurales."},
+"shipman":{"v":"218 identificadas (unas 250 según el informe final)","per":"1971–1998"},
+"letby":{"st":"Quince cadenas perpetuas íntegras (2023 y 2024). Condena cuestionada: la Comisión de Revisión de Casos Penales (CCRC) estudia el caso, sin decisión."},
+"keyes":{"v":"3 (el FBI estima 11 en total)","st":"Murió bajo custodia en Anchorage (2 de diciembre de 2012), antes del juicio.","c":"Contratista de construcción que viajaba por todo EE. UU. y escondía «kits» enterrados con armas y dinero para usarlos años después. Fue detenido en 2012 tras el secuestro de Samantha Koenig en Anchorage y se le vinculó con el asesinato del matrimonio Currier en Vermont. El FBI estima que hubo 11 víctimas en total."},
+"bonin":{"v":"14 condenas (21 confesadas)"},
+"muehlberg":{"c":"Conocido como el «Package Killer» porque los cuerpos de sus víctimas aparecían dentro de contenedores, cajas o entre colchones junto a carreteras de Misuri. Ya cumplía condena por el asesinato de un hombre en 1993 (Kenneth Atchison, condenado en 1995) cuando, en 2022, una prueba de ADN de un caso archivado lo relacionó con cuatro mujeres desaparecidas en 1990. En marzo de 2023 se declaró culpable de los cuatro asesinatos."},
+"cullen":{"st":"18 cadenas perpetuas (11 en Nueva Jersey y 7 en Pensilvania).","c":"Enfermero que trabajó en nueve hospitales y una residencia de Nueva Jersey y Pensilvania. Administraba sobredosis de digoxina e insulina a pacientes. Fue despedido del Somerset Medical Center el 31 de octubre de 2003 y detenido el 12 de diciembre a la salida de un restaurante. Fue condenado por 29 asesinatos y 6 intentos; los investigadores estiman muchas más muertes, pero la cifra de 400 no está comprobada.","v":"29 (la cifra de 400+ es una estimación sin comprobar)"},
+"ramirez":{"v":"13 condenas (se le atribuyen al menos 14)"},
+"kraft":{"st":"Condenado a muerte en California. El 5 de noviembre de 2026 el gobernador Newsom anunció que conmutará las condenas a muerte por cadena perpetua sin libertad condicional; en los casos con más de una condena grave falta la aprobación del Tribunal Supremo de California.","c":"Programador informático detenido en 1983 en un control de tráfico con una víctima en su coche. En el vehículo se encontró una lista codificada de 61 anotaciones que los investigadores interpretan como referencias a víctimas (de ahí el apodo «Scorecard Killer»). Condenado por 16 asesinatos."},
+"gacy":{"c":"Contratista y figura respetada de su comunidad que actuaba como «Pogo el payaso» en fiestas benéficas. Asesinó al menos a 33 jóvenes y enterró a 26 en el hueco bajo su casa de Norwood Park. Fue detenido en diciembre de 1978 cuando la policía buscaba a Robert Piest, un adolescente al que había ofrecido trabajo."},
+"toppan":{"v":"31 (hasta 100 según algunos autores)"},
+"ishikawa":{"v":"5 probadas en la sentencia (84 muertes registradas)","per":"1946–1948"},
+"hansen":{"st":"Condenado a cadena perpetua más 461 años. Murió bajo custodia en un hospital de Anchorage (2014).","c":"Panadero de Anchorage y aficionado a la caza. Secuestraba mujeres, las llevaba en su avioneta a zonas remotas de Alaska y las soltaba para cazarlas. Fue detenido en 1983 tras la huida de una joven de 17 años; en su casa apareció un mapa aéreo con las tumbas marcadas."},
+"ridgway":{"v":"49 condenas (estimaciones de 65 a más de 71)"},
+"gaskins":{"v":"10 condenas (afirmó más de 100)","c":"Delincuente habitual de Carolina del Sur que afirmó haber matado a más de 100 personas. Fue condenado por 10 asesinatos: nueve de los años setenta y el de otro recluso al que mató estando ya en prisión con un artefacto explosivo, lo que le valió la pena de muerte."},
+"king":{"c":"Británico afincado en la Costa del Sol, con antecedentes en Londres por agresiones a mujeres. Fue condenado por el asesinato de una joven de 17 años en Coín (2003) y por el de Rocío Wanninkhof (Mijas, 1999), crimen por el que antes había sido condenada erróneamente Dolores Vázquez. El ADN hallado en el segundo caso lo vinculó con el primero.","loc":[[36.659,-4.757,"Coín (joven de 17 años, 2003)"],[36.508,-4.69,"La Cala de Mijas (Rocío Wanninkhof)"]]},
+"sobhraj":{"v":"Al menos 12 (algunas fuentes dicen más de 20)"},
+"christie":{"c":"Se le atribuyen ocho muertes, entre ellas la de su esposa y la de una niña de trece meses, en el número 10 de Rillington Place (Notting Hill). Su vecino Timothy Evans había sido ahorcado en 1950 por el asesinato de su hija; recibió un indulto póstumo en 1966. El error judicial pesó en la abolición de la pena de muerte en Reino Unido."},
+"pichushkin":{"v":"48 probadas (se le atribuyen más de 60)"},
+"jesperson":{"c":"Camionero de larga distancia nacido en Canadá que mató a mujeres en varios estados de EE. UU. Firmaba sus cartas a medios con una cara sonriente. Por su primer asesinato fueron condenadas erróneamente dos personas, Laverne Pavlinac (a cadena perpetua con un mínimo de diez años) y John Sosnovske. En 1995 confesó por teléfono a un detective. Desde agosto de 2026 las ocho víctimas confirmadas están identificadas."},
+"bellfield":{"c":"Portero de discotecas y dueño de una empresa de cepos para coches en el oeste de Londres. Condenado por los asesinatos de Marsha McDonnell, Amélie Delagrange y una colegiala de Walton-on-Thames (2002), y por intentar matar a Kate Sheedy. El caso de la colegiala destapó el escándalo de escuchas telefónicas del News of the World.","loc":[[51.447,-0.337,"Twickenham"],[51.386,-0.417,"Walton-on-Thames (caso de 2002)"],[51.415,-0.368,"Hampton"]]},
+"escalero":{"per":"1986–1993","c":"Indigente con un grave trastorno mental que asesinó a otras personas sin hogar en Madrid, muchas en el entorno del cementerio de la Almudena. En 1993, tras matar a un compañero de internamiento con el que se había escapado del hospital psiquiátrico, se entregó o fue detenido (las versiones difieren). En el juicio, a finales de febrero de 1996, se le probaron 11 asesinatos y reconoció otros 4 sin pruebas."},
+"dahmer":{"st":"15 cadenas perpetuas en Wisconsin (16 con la de Ohio). Asesinado en prisión (1994)."},
+"murano":{"st":"Condenada a perpetua el 18 de junio de 1985 y liberada el 20 de noviembre de 1995. Murió el 26 de abril de 2014."},
+"desalvo":{"v":"13 (11 según el recuento de la época)","c":"Confesó los asesinatos de mujeres atribuidos al «Estrangulador de Boston» (11 según NBC News y la policía de la época, 13 según el recuento fijado después), aunque solo fue condenado por otras agresiones. En 2013 el ADN lo vinculó con la última víctima, Mary Sullivan; todavía hay dudas sobre si cometió todos los crímenes."},
+"alcala":{"v":"7 condenas (estimadas de 50 a 130)","c":"Fotógrafo que en 1978 participó y ganó en el concurso televisivo «The Dating Game» mientras seguía cometiendo crímenes. Tiene siete condenas por asesinato (cinco en California y dos en Nueva York); la acusación de Wyoming no llegó a juicio. En 2010 la policía publicó unas 120 de las fotografías halladas en su trastero para identificar a posibles víctimas."},
+"miyazaki":{"c":"Secuestró y asesinó a cuatro niñas en Saitama y Tokio y envió cartas a sus familias. Tras su detención en 1989, los medios difundieron su enorme colección de 5.763 cintas de vídeo, lo que provocó una ola de estigmatización hacia la cultura otaku en Japón."},
+"shawcross":{"v":"13 (y una más que se le atribuye)","c":"En 1972 mató a dos niños en Watertown (Nueva York) y salió en libertad condicional en 1987 tras 14 años. Ya en Rochester fue condenado por el asesinato de 11 mujeres entre 1988 y 1989 (se le atribuye una más), varias abandonadas junto al río Genesee. Fue detenido en 1990 cuando la policía lo vio junto a un cuerpo desde un helicóptero."},
+"jones":{"v":"3 condenas (se le atribuyen al menos 11; sospechas de hasta 46 o 60)","st":"Condenada en 1984; en 2020 se declaró culpable de otro asesinato y recibió cadena perpetua, con libertad condicional posible tras 20 años.","c":"Enfermera pediátrica en San Antonio y Kerrville (Texas). Inyectaba a bebés fármacos que provocaban paradas para luego intervenir en la emergencia. Las sospechas apuntan a entre 46 y 60 muertes en el hospital del condado de Bexar."},
+"little":{"v":"Casi 60 confirmadas (93 confesadas)","c":"Exboxeador y delincuente itinerante. Fue detenido en 2012 y en 2018 empezó a confesar al FBI, dibujando retratos de sus víctimas de memoria. Las autoridades han confirmado casi 60 de sus 93 confesiones, lo que le convierte, según el FBI, en el asesino en serie con más víctimas confirmadas de EE. UU."},
+"hindley":{"c":"Pareja y cómplice de Ian Brady en los asesinatos de los páramos. Su papel en la captación de las víctimas la convirtió en la presa más conocida de Reino Unido. En diciembre de 1986 empezó a colaborar con la policía, el 10 de febrero de 1987 hizo su confesión formal y después ayudó en la búsqueda de restos en Saddleworth."},
+"magnotta":{"st":"Cadena perpetua, sin posibilidad de libertad condicional hasta pasados 25 años. Trasladado en 2022 a la prisión de La Macaza, hecho que se conoció en 2024."},
+"berkowitz":{"st":"Seis condenas de 25 años a cadena perpetua, consecutivas. Preso en Nueva York; última denegación de libertad condicional comprobada: mayo de 2024."},
+"onoprienko":{"st":"Condenado a muerte; la pena se conmutó por cadena perpetua. Murió en prisión (2013)."},
+"yang":{"per":"2000–2003"},
+"rwest":{"c":"Esposa y cómplice de Fred West. En 1995 fue condenada por 10 asesinatos cometidos en Gloucester, entre ellos los de su hija Heather y Charmaine, hijastra de Fred (hija de la primera esposa de este). Sigue en prisión y nunca ha admitido su culpabilidad."},
+"lee":{"per":"1998–2003"},
+"watts":{"c":"Atacó a mujeres en Míchigan y Texas. En 1982 aceptó un acuerdo de inmunidad en Houston: confesó 13 asesinatos a cambio de ser condenado solo por robo. Iba a quedar libre en 2006 por una ley de reducción de penas, pero fue juzgado de nuevo en Míchigan y condenado en 2004 y 2007 por dos asesinatos de mujeres allí."},
+"nilsen":{"st":"Cadena perpetua. Murió en un hospital de York, bajo custodia (2018)."},
+"bundy":{"v":"30 confesados (28 según UPI; algunos autores estiman más de 36)","c":"Estudiante de Derecho que mató a mujeres jóvenes en Washington, Oregón, Utah, Colorado, Idaho y Florida. Se fugó dos veces de la custodia en Colorado. Ya en Florida atacó la residencia Chi Omega de la Universidad Estatal. Confesó 30 asesinatos antes de su ejecución (28 según UPI); los tribunales lo condenaron por tres."},
+"corll":{"v":"27 hallados (28 o 29 según otras fuentes)","c":"Su familia tenía una fábrica de caramelos en Houston Heights y él regalaba dulces a los niños del barrio. Con la ayuda de dos adolescentes, Elmer Wayne Henley y David Brooks, mató al menos a 27 chicos y jóvenes (los cuerpos hallados en 1973; algunas fuentes hablan de 28 o 29). El caso salió a la luz cuando Henley lo mató y avisó a la policía."},
+"yoo":{"a":"El asesino del impermeable"},
+"bianchi":{"c":"Junto a su primo Angelo Buono secuestró y asesinó a mujeres y chicas en Los Ángeles, haciéndose pasar por policías, y abandonó los cuerpos en las colinas. Murieron diez; Bianchi admitió cinco y un jurado condenó a Buono por nueve. En 1979 mató a dos mujeres en Bellingham (Washington), lo que llevó a su detención. Intentó fingir un trastorno de personalidad múltiple."},
+"beck":{"v":"3 (solo 1 con condena; se les atribuyen hasta 20)","c":"Junto a su pareja Raymond Fernandez estafaba a mujeres contactadas a través de anuncios de «corazones solitarios». Se les atribuyen hasta 20 víctimas; en Nueva York solo fueron condenados por la muerte de Janet Fay. Las muertes de Delphine Downing y de su hija pequeña, en Míchigan, constan en sus confesiones y nunca se juzgaron."},
+"fernandez":{"v":"3 (solo 1 con condena; se les atribuyen hasta 17)","c":"Estafador de origen español nacido en Hawái que seducía a mujeres por correspondencia para quedarse con su dinero. Con Martha Beck como cómplice fue condenado en Nueva York por la muerte de Janet Fay; se les atribuyeron hasta 17 víctimas."},
+"harvey":{"v":"37 (se atribuyó entre 50 y más de 80)"},
+"wuornos":{"v":"6 condenas (7 muertes atribuidas)","c":"Fue condenada por la muerte de seis hombres que la recogieron en autopistas de Florida mientras ejercía la prostitución; se le atribuye también un séptimo, cuyo cuerpo nunca apareció. En el primer caso alegó defensa propia. Fue detenida en 1991. Su historia inspiró la película «Monster» (2003)."},
+"romasanta":{"c":"Buhonero gallego que guiaba a mujeres y niños a través de la sierra con la promesa de trabajo y después vendía sus pertenencias. Confesó 13 asesinatos alegando que una maldición lo transformaba en lobo. La pena de muerte fue conmutada por cadena perpetua mediante un indulto real en 1854; un hipnotista francés pidió examinarlo, pero no se conocen resultados. Es el primer asesino en serie documentado de España."},
+"manson":{"v":"9 condenas (7 de Tate–LaBianca y 2 en procesos aparte; autor intelectual)"},
+"starkweather":{"c":"Con 19 años mató a 11 personas en Nebraska y Wyoming: la primera a finales de noviembre de 1957 y diez más durante una huida en enero de 1958, acompañado de su novia de 14 años, Caril Ann Fugate. Ella siempre sostuvo que era su rehén; fue condenada como cómplice por una de las muertes. Inspiró la película «Malas tierras» (Badlands, 1973)."},
+"lopez":{"v":"3 a 16 condenas (confesó 300+)","c":"Detenido en Ambato (Ecuador) en 1980, confesó haber asesinado a más de 300 niñas en Colombia, Perú y Ecuador, cifra que solo consta en su propia confesión. Ecuador lo condenó por un número de casos que varía según la fuente (entre 3 y 16) y salió en 1994 tras unos 14 años de cárcel. Deportado a Colombia, fue internado en un psiquiátrico y declarado sano en 1998; desde entonces se desconoce su paradero."}};
+D.forEach(e=>{ if(C[e.id]) Object.assign(e,C[e.id]); });}
+/* vínculos entre casos de meses distintos (web/datos/vinculos.json) */
+{const P={}; D.forEach(e=>{ P[e.id]=e; });
+[["pedro-joaquin-chamorro","asesinato-sandino","r","Dos asesinatos de opositores a la dinastía Somoza: Sandino en 1934 y Chamorro, director de La Prensa, en 1978"],
+["pedro-joaquin-chamorro","somoza-debayle","r","Chamorro fue la gran voz opositora a Somoza Debayle, que murió asesinado en Asunción en 1980"],
+["asesinato-sandino","somoza-debayle","r","Somoza García ordenó matar a Sandino; su hijo, Somoza Debayle, fue asesinado en Asunción en 1980"],
+["secuestro-pastrana","asesinato-rodrigo-lara-bonilla","r","Dos golpes del cártel de Medellín contra el Estado colombiano en los años ochenta"],
+["asesinato-rodrigo-lara-bonilla","atentado-das","r","Dos atentados atribuidos al cártel de Medellín en su guerra contra la extradición"],
+["escobar-la-catedral","atentado-das","r","El atentado del DAS (1989) fue parte de la guerra de Escobar contra la extradición, que acabó con su entrega en 1991"],
+["secuestro-pastrana","escobar-la-catedral","r","Los Extraditables secuestraron a Pastrana en 1988; Escobar se entregó en 1991 al prohibirse la extradición"],
+["arturo-ruiz","matanza-atocha","r","Violencia de la ultraderecha en Madrid con un día de diferencia, en enero de 1977"],
+["arturo-ruiz","garcia-caparros","r","Dos jóvenes muertos a tiros en manifestaciones de 1977 sin que se condenara al autor del disparo"],
+["garcia-caparros","caso-almeria","r","Dos muertes de la Transición ligadas a la actuación de las fuerzas de orden público"],
+["puig-antich","trece-rosas","r","Dos ejecuciones del franquismo tras consejos de guerra: las Trece Rosas en 1939 y Puig Antich en 1974"],
+["puig-antich","atentado-carrero-blanco","r","Puig Antich fue ejecutado en marzo de 1974, tres meses después del atentado de ETA contra Carrero Blanco"],
+["atentado-carrero-blanco","secuestro-ryan-lemoniz","r","Dos acciones de ETA: el atentado contra Carrero Blanco (1973) y el secuestro de Ryan (1981)"],
+["secuestro-ryan-lemoniz","ruperez","r","Dos secuestros de ETA con fines políticos, el de Rupérez en 1979 y el de Ryan en 1981"],
+["asesinato-dato","asesinato-cardenal-soldevila","r","Dos crímenes del pistolerismo anarquista de los años veinte: Dato en 1921 y el cardenal Soldevila en 1923"],
+["asesinato-cardenal-soldevila","noi-del-sucre","r","Los Solidarios mataron a Soldevila tras decidir, después del atentado contra Seguí, atacar a varias personalidades"],
+["asesinato-cardenal-soldevila","atraco-gijon-1923","r","Dos acciones de Los Solidarios en 1923: el asesinato del cardenal Soldevila y el atraco al Banco de España en Gijón"],
+["atraco-gijon-1923","bonnot-rue-ordener","r","Atracos anarquistas para financiarse: Los Solidarios en Gijón (1923) y la banda de Bonnot en París (1911)"],
+["atentado-sancho-alegre","mateo-morral","r","Dos atentados anarquistas contra Alfonso XIII, en 1906 y en 1913"],
+["cura-merino","atentado-sancho-alegre","r","Dos atentados contra monarcas españoles en Madrid: Isabel II en 1852 y Alfonso XIII en 1913"],
+["mateo-morral","bresci","r","Dos atentados anarquistas contra reyes europeos: Alfonso XIII en 1906 y Umberto I en 1900"],
+["ravachol-saint-germain","bomba-vaillant","r","Dos atentados anarquistas de París en 1892 y 1893; los dos autores acabaron guillotinados"],
+["bomba-vaillant","bresci","r","Ejemplos de la «propaganda por el hecho» anarquista: la bomba de Vaillant en 1893 y el regicidio de Bresci en 1900"],
+["bresci","asesinato-mckinley","r","El anarquista Czolgosz mató a McKinley en 1901, un año después de que Bresci matara a Umberto I"],
+["radowitzky-falcon","mateo-morral","r","Dos atentados anarquistas con bomba contra la autoridad: Morral en Madrid (1906) y Radowitzky en Buenos Aires (1909)"],
+["sacco-vanzetti","atentado-wall-street","r","Se atribuye el atentado de Wall Street a anarquistas, quizá en venganza por la detención de Sacco y Vanzetti"],
+["sacco-vanzetti","carlo-tresca","r","Tresca, anarquista italiano en Nueva York, impulsó la defensa de Sacco y Vanzetti"],
+["asesinato-abraham-lincoln","atentado-garfield","r","Dos presidentes de Estados Unidos atacados en Washington: Lincoln en 1865 y Garfield en 1881"],
+["atentado-garfield","asesinato-mckinley","r","Dos presidentes de Estados Unidos muertos por disparos de un atacante solitario: Garfield en 1881 y McKinley en 1901"],
+["asesinato-mckinley","disparo-roosevelt","r","Roosevelt sucedió a McKinley tras su asesinato y fue herido de un disparo como candidato en 1912"],
+["kennedy-dallas","asesinato-robert-kennedy","r","Los hermanos Kennedy fueron asesinados con cinco años de diferencia, John en 1963 y Robert en 1968"],
+["asesinato-robert-kennedy","asesinato-martin-luther-king","r","Dos magnicidios de 1968, con dos meses de diferencia"],
+["atentado-reagan","kennedy-dallas","r","Dos presidentes de Estados Unidos tiroteados en la calle: Kennedy murió en 1963 y Reagan sobrevivió en 1981"],
+["atentado-reagan","intento-magnicidio-moore-ford","r","Dos atentados fallidos contra presidentes de Estados Unidos: Ford en 1975 y Reagan en 1981"],
+["atentado-reagan","atentado-juan-pablo-ii","r","Dos atentados con arma de fuego contra líderes mundiales con mes y medio de diferencia en 1981"],
+["asesinato-medgar-evers","asesinato-martin-luther-king","r","Dos líderes de los derechos civiles asesinados a tiros: Evers en 1963 y King en 1968"],
+["absolucion-emmett-till","asesinato-medgar-evers","r","Dos crímenes racistas en Misisipi cuyos autores tardaron décadas en ser condenados, o no lo fueron: Till (1955) y Evers (1963)"],
+["oscar-grant","absolucion-caso-rodney-king","r","Dos casos de violencia policial contra hombres negros grabados en vídeo que provocaron protestas en California"],
+["asesinato-jesse-james","asesinato-hickok","r","Dos figuras del Oeste muertas de un disparo por la espalda: Hickok en 1876 y Jesse James en 1882"],
+["asesinato-emiliano-zapata","asesinato-pancho-villa","r","Dos caudillos de la Revolución mexicana asesinados en emboscadas: Zapata en 1919 y Villa en 1923"],
+["idiarte-borda","venancio-flores","r","Dos presidentes uruguayos asesinados en Montevideo en el siglo XIX: Flores en 1868 e Idiarte Borda en 1897"],
+["asesinato-rathenau","asesinato-narutowicz","r","Dos políticos asesinados por la extrema derecha nacionalista en 1922: Rathenau en Alemania y Narutowicz en Polonia"],
+["atentado-sarajevo","asesinato-jaures","r","Dos asesinatos de 1914 con un mes de diferencia que precedieron al estallido de la Primera Guerra Mundial"],
+["asesinato-kirov","asesinato-trotski","r","Dos crímenes del terror estalinista: el asesinato de Kírov (1934), pretexto de las purgas, y el de Trotski en el exilio (1940)"],
+["asesinato-kabila","asesinato-mohamed-budiaf","r","Dos presidentes asesinados por un miembro de su propia escolta: Budiaf en 1992 y Kabila en 2001"],
+["asesinato-bandaranaike","asesinato-lalith-athulathmudali","r","Dos asesinatos políticos en Sri Lanka, en 1959 y 1993"],
+["asesinato-siegfried-buback","secuestro-schleyer","r","Dos golpes de la Fracción del Ejército Rojo en 1977, en el «Otoño alemán»"],
+["secuestro-schleyer","noche-stammheim","r","La RAF secuestró a Schleyer para liberar a los presos de Stammheim; tras su muerte, Schleyer fue asesinado"],
+["asesinato-siegfried-buback","noche-stammheim","r","Buback fue asesinado por la RAF en abril de 1977; en octubre murieron en Stammheim los líderes de la banda"],
+["herrhausen","secuestro-schleyer","r","Dos crímenes reivindicados por la RAF contra grandes figuras de la economía alemana, en 1977 y 1989"],
+["atentado-pinochet","operacion-albania","r","El Frente Patriótico Manuel Rodríguez atentó contra Pinochet en 1986; la CNI mató a doce de sus miembros en 1987"],
+["operacion-albania","tucapel-jimenez","r","Dos crímenes de los servicios de seguridad de la dictadura de Pinochet presentados al principio con otra versión"],
+["barrios-altos","captura-abimael-guzman","r","Episodios de la lucha contra Sendero Luminoso en el Perú de Fujimori: Barrios Altos (1991) y la captura de Guzmán (1992)"],
+["aramburu","desaparicion-oesterheld","r","Oesterheld, militante de Montoneros, fue desaparecido en 1977; Montoneros había secuestrado a Aramburu en 1970"],
+["desaparicion-oesterheld","desaparicion-julio-lopez","r","Dos desapariciones ligadas a la dictadura argentina: Oesterheld en 1977 y López en 2006, testigo en un juicio"],
+["masacre-budge","masacre-de-floresta","r","Dos casos de gatillo fácil en Buenos Aires: Budge en 1987 y Floresta en 2001"],
+["religiosas-el-salvador","asesinato-juan-gerardi","r","Dos crímenes de la violencia de Estado en Centroamérica contra religiosos, en 1980 y 1998"],
+["libero-grassi","riina","r","Riina encabezaba la cúpula de Cosa Nostra, condenada como mandante del asesinato de Grassi"],
+["paolo-giaccone","riina","r","Giaccone fue asesinado en 1982, en plena guerra de mafias que ganaron los corleoneses de Riina"],
+["asesinato-pino-puglisi","riina","r","Puglisi fue asesinado en 1993, meses después de la detención de Riina, por los Graviano, jefes mafiosos de Brancaccio"],
+["asesinato-pino-puglisi","libero-grassi","r","Dos víctimas de Cosa Nostra que se negaron a plegarse: Grassi al pago del «pizzo» y Puglisi en el barrio de Brancaccio"],
+["asesinato-juez-livatino","paolo-giaccone","r","Dos servidores del Estado asesinados por la mafia siciliana: el forense Giaccone en 1982 y el juez Livatino en 1990"],
+["giorgio-ambrosoli","muerte-roberto-calvi","r","Dos muertes ligadas a la quiebra de la banca de Sindona y del Banco Ambrosiano en los años setenta y ochenta"],
+["walter-tobagi","roberto-peci","r","Dos crímenes del terrorismo de extrema izquierda de los «años de plomo» italianos: Tobagi en 1980 y Peci en 1981"],
+["cuatro-guildford","birmingham-pubs","r","Atentados del IRA en pubs británicos en 1974 que acabaron en condenas anuladas a inocentes"],
+["bomba-bishopsgate","cuatro-guildford","r","Dos atentados del IRA Provisional en Inglaterra, en 1974 y 1993"],
+["secuestro-shergar","bomba-bishopsgate","r","Dos hechos atribuidos al IRA Provisional, el secuestro del caballo en 1983 y la bomba de Londres en 1993"],
+["vuelo-2511","vuelo-108-guay","r","Dos bombas en aviones comerciales con sospecha de que buscaban cobrar un seguro de vida"],
+["vuelo-108-guay","city-of-liverpool","r","Dos aviones destruidos en el aire, en 1933 y 1949, con sospechas de un móvil económico"],
+["vuelo-2511","city-of-liverpool","r","Dos catástrofes aéreas con un pasajero sospechoso por motivos económicos, sin que se llegara a probar nada"],
+["atentado-air-india-182","vuelo-108-guay","r","Dos aviones destruidos por bombas facturadas en el equipaje o enviadas como paquete en Canadá"],
+["caso-calas","condena-dreyfus","r","Dos errores judiciales franceses con prejuicio religioso: Calas, protestante, y Dreyfus, judío"],
+["caso-calas","miguel-servet","r","Dos ejecuciones por motivos religiosos: Servet, quemado en Ginebra, y Calas, ajusticiado en Toulouse"],
+["azaria-chamberlain","sally-clark","r","Dos madres condenadas por la muerte de un hijo en procesos viciados por peritajes erróneos, y después liberadas"],
+["azaria-chamberlain","condena-murdoch-falconio","r","Dos casos del interior australiano con gran atención mediática y un cuerpo que nunca apareció"],
+["rachel-nickell","caso-wanninkhof","r","En ambos casos se acusó primero a una persona inocente y el culpable real se identificó años después"],
+["derek-bentley","thompson-bywaters","r","Dos ahorcados en Reino Unido cuyas condenas se consideran hoy injustas o muy dudosas"],
+["ranucci-jersey-rojo","dominici","r","Dos condenas a muerte en Francia que dejaron dudas sobre la culpabilidad"],
+["absolucion-marie-besnard","eliza-fenning","r","Dos mujeres acusadas de envenenar con arsénico: Fenning fue ahorcada en 1815 y Besnard, absuelta en 1961"],
+["mary-blandy","eliza-fenning","r","Dos mujeres ahorcadas en Inglaterra por envenenamiento con arsénico, en 1752 y 1815"],
+["litvinenko","politkovskaya","r","Dos críticos del Kremlin asesinados con semanas de diferencia en 2006"],
+["politkovskaya","dmitri-jolodov","r","Dos periodistas rusos asesinados por investigar y denunciar: Jolódov en 1994 y Politkóvskaya en 2006"],
+["condena-eichmann","asesinato-lillehammer","r","Dos operaciones del Mosad: la captura de Eichmann en Argentina (1960) y el fallido asesinato de Lillehammer (1973)"],
+["templo-solar","heavens-gate","r","Dos sectas con muertes colectivas, la de Quebec y Suiza en 1994 y la de California en 1997"],
+["charley-ross","graeme-thorne","r","Dos secuestros infantiles con petición de rescate que conmocionaron a su país, en 1874 y 1960"],
+["secuestro-sinatra-jr","secuestro-getty","r","Dos secuestros con rescate de jóvenes de familias famosas y ricas, en 1963 y 1973"],
+["dutch-schultz","matanza-san-valentin","r","Dos matanzas de gánsteres de la época de la Ley Seca: Chicago en 1929 y Newark en 1935"],
+["dutch-schultz","asesinato-bugsy-siegel","r","Dos gánsteres eliminados por el crimen organizado: Schultz en 1935 y Siegel en 1947"],
+["alvin-karpis","detencion-machine-gun-kelly","r","Dos secuestradores por rescate perseguidos por el FBI en los años treinta"],
+["alvin-karpis","bonnie-parker","r","Karpis y Bonnie Parker fueron dos de los forajidos de la Gran Depresión que persiguieron las autoridades federales"],
+["masacre-ludlow","familia-yablonski","r","Dos episodios de violencia contra el movimiento sindical minero del carbón en Estados Unidos, en 1914 y 1969"],
+["masacre-hungerford","bryant","r","Dos matanzas con armas de fuego que llevaron a endurecer la ley de armas: Hungerford en 1987 y Port Arthur en 1996"],
+["mary-ann-nichols","sutcliffe","r","Sutcliffe fue llamado «el destripador de Yorkshire» por el asesino de Whitechapel cuya primera víctima canónica fue Nichols"],
+["caso-gescartera","forum-afinsa","r","Dos grandes estafas a pequeños ahorradores en España: Gescartera en 2001 y Fórum y Afinsa en 2006"],
+["bathory","gillesrais","r","Dos nobles europeos juzgados por asesinar a decenas de jóvenes: Gilles de Rais en el siglo XV e Isabel Báthory en el XVII"]].forEach(([a,b,t,n])=>{
+  const x=P[a], y=P[b]; if(!x || !y) return;
+  if((x.vin||[]).some(v=>v[0]===b) || (y.vin||[]).some(v=>v[0]===a)) return;
+  (x.vin=x.vin||[]).push([b,t,n]);
+});}
 /* fuentes de los casos estrella (web/datos/fuentes.json) */
 const FUENTES = {"brady":[{"titulo":"Wikipedia (en inglés): «Moors murders», con sus referencias a Topping (1989), Lee (2010), Staff (2007) y Goodman (1973)","url":"https://en.wikipedia.org/wiki/Moors_murders","tipo":"enciclopedia"},{"titulo":"Chester Chronicle: «How Chester was the focus of the nation during Moors Murderers trial» (18 de abril de 2016)","url":"https://www.chesterchronicle.co.uk/news/chester-cheshire-news/how-chester-focus-nation-during-11204422","tipo":"hemeroteca"},{"titulo":"The Guardian: Peter Stanford, obituario de Myra Hindley (16 de noviembre de 2002)","url":"https://www.theguardian.com/news/2002/nov/16/guardianobituaries.ukcrime","tipo":"hemeroteca"},{"titulo":"The Irish Times (servicio de The Guardian): Peter Stanford, «Ian Brady: Moors murderer who never expressed remorse» (16 de mayo de 2017)","url":"https://www.irishtimes.com/news/world/uk/ian-brady-moors-murderer-who-never-expressed-remorse-1.3084703","tipo":"hemeroteca"},{"titulo":"BBC News: «Moors Murder victim Keith Bennett’s mother dies» (18 de agosto de 2012)","url":"https://www.bbc.co.uk/news/uk-england-manchester-19305055","tipo":"hemeroteca"},{"titulo":"BBC News: «Moors Murders: Ian Brady’s ashes disposed of at sea» (3 de noviembre de 2017)","url":"https://www.bbc.co.uk/news/uk-england-manchester-41855180","tipo":"hemeroteca"},{"titulo":"The Guardian: «Search ends for Moors murder victim Keith Bennett after no remains found» (7 de octubre de 2022)","url":"https://www.theguardian.com/uk-news/2022/oct/07/search-ends-saddleworth-moor-keith-bennett-no-remains-found","tipo":"hemeroteca"},{"titulo":"Hansard (Parlamento británico): respuesta del Gobierno sobre la visita de Myra Hindley al páramo de Saddleworth, con el informe del jefe de policía de Greater Manchester (12 de enero de 1987)","url":"https://api.parliament.uk/historic-hansard/written-answers/1987/jan/12/myra-hindley","tipo":"policial"},{"titulo":"Archivo LBC/IRN (Learning on Screen): rueda de prensa de Peter Topping sobre el hallazgo de Pauline Reade (2 de julio de 1987)","url":"https://learningonscreen.ac.uk/lbc/search/index.php/segment/0007200123009","tipo":"documental"},{"titulo":"David Smith y Carol Ann Lee: «Evil Relations» (antes «Witness»), Mainstream, 2011-2012","url":"https://www.penguin.co.uk/books/415181/evil-relations-formerly-published-as-witness-by-david-smith-with-carol-ann-lee/9781780574806","tipo":"libro"}],
 "alcala":[{"titulo":"Wikipedia (en inglés): «Rodney Alcala», con sus referencias","url":"https://en.wikipedia.org/wiki/Rodney_Alcala","tipo":"enciclopedia"},{"titulo":"Departamento de Correcciones de California (CDCR): «Condemned inmate Rodney Alcala dies of natural causes» (24 de julio de 2021)","url":"https://www.cdcr.ca.gov/news/2021/07/24/condemned-inmate-rodney-alcala-dies-of-natural-causes","tipo":"judicial"},{"titulo":"Biography.com: «Rodney Alcala»","url":"https://www.biography.com/criminal/rodney-alcala","tipo":"enciclopedia"},{"titulo":"Fiscalía del condado de Orange: «Media advisory – Rodney Alcala verdict» (2010)","url":"https://ocdistrictattorney.gov/?p=28209","tipo":"judicial"},{"titulo":"CBS News: «Dating show bachelor Rodney Alcala sentenced to death» (2010)","url":"https://www.cbsnews.com/news/dating-show-bachelor-rodney-alcala-sentenced-to-death-will-he-slip-away-again/","tipo":"hemeroteca"},{"titulo":"UPI: «Dating Game killer gets death sentence» (30 de marzo de 2010)","url":"https://www.upi.com/Top_News/US/2010/03/30/Dating-Game-killer-gets-death-sentence/41121269991099/","tipo":"hemeroteca"}],
@@ -3167,8 +3342,15 @@ const durWords = ms => { const s=Math.round(ms/1000), m=Math.floor(s/60); return
 const TIPO_CINTA={expediente:"Expediente",hallazgo:"El hallazgo",notas:"Notas del inspector",declaraciones:"Declaraciones",hemeroteca:"Hemeroteca",juicio:"El juicio",epilogo:"Lo que nunca se aclaró"};
 const SHELLS=["#3b3733","#5b4635","#2f3a40","#4d2d29","#4f4c45"];
 function isV3(id){ if(tapeAudio(id)) return true; const sc=scriptsDone.get(id); return !!(sc && sc.v3); }
-/* url relativa a la página («audio/brady/cinta-1.ogg») o absoluta («https://…»); «asset:///» → relativa */
-const tapeSrc = u => String(u||"").trim().replace(/^asset:\/\/\//i,"");
+/* url relativa a la página («audio/brady/cinta-1.ogg») o absoluta («https://…»); «asset:///» → relativa.
+   Las cintas no van con la página: están en el servidor (contrato 7.7). En la app lo resuelve Android
+   (copia guardada o servidor); en el navegador, <audio> las pide al servidor directamente. */
+const TAPE_SERVER="https://myappsserver.duckdns.org/truecrimescalendar/";
+const tapeSrc = u => {
+  u=String(u||"").trim().replace(/^asset:\/\/\//i,"");
+  const m=/^audio\/([A-Za-z0-9_-]+\/cinta-\d+\.ogg)$/.exec(u);
+  return m ? TAPE_SERVER+m[1] : u;
+};
 function tapesOf(id){
   if(tapeCache.has(id)) return tapeCache.get(id);
   const au=(tapeAudio(id)||[]).map((c,i)=>({c,n:+c.n||i+1})), sc=scriptsDone.get(id), sl=sc && sc.v3 ? sc.cintas : [];
@@ -4331,9 +4513,53 @@ function setTapeVol(v){
   Object.values(webSfx).forEach(x=>{ x.volume=tapeVol; });
 }
 
+/* Cintas guardadas en el teléfono (contrato 7.7): estado y «Descargar todas». Solo en la app. */
+const HAS_DL = !!(NATIVE && typeof NATIVE.downloadAllTapes==="function" && typeof NATIVE.getTapeDownloadState==="function");
+let dlAsk=0;
+const megas = b => { const m=Math.max(0,+b||0)/1048576; return (m>=100 ? Math.round(m) : m.toFixed(1).replace(".",","))+" MB"; };
+function applyDl(s){
+  s=parseMaybe(s); if(!s) return;
+  const total=Math.max(0,+s.total||0), saved=Math.min(total,Math.max(0,+s.saved||0)), left=total-saved, run=!!s.running;
+  const tb=Math.max(0,+s.totalBytes||0), b=Math.max(0,+s.bytes||0);
+  $("dlState").textContent = !total ? "Todavía no hay cintas grabadas."
+    : run ? `Descargando: ${saved} de ${total} cintas…`
+    : left===0 ? `Las ${total} cintas están guardadas en el teléfono (${megas(b)}).`
+    : saved===0 ? `Hay ${total} cintas${tb?` (${megas(tb)})`:""}. Aún no hay ninguna guardada.`
+    : `${saved} de ${total} cintas guardadas (${megas(b)}).${tb>b?` Faltan ${megas(tb-b)}.`:""}`;
+  $("dlBar").hidden=!run;
+  $("dlBar").firstElementChild.style.width=(total ? Math.round(100*saved/total) : 0)+"%";
+  const all=$("dlAll");
+  all.textContent = run ? "Cancelar" : saved ? "Descargar las que faltan" : "Descargar todas";
+  all.hidden = !run && (!total || left===0);
+  all.dataset.run = run ? "1" : "";
+  const del=$("dlDel");
+  del.hidden = run || saved===0;
+  if(del.hidden || !dlAsk) { dlAsk=0; del.textContent="Borrar las guardadas"; }
+  const msg = run ? ""
+    : s.result==="error" ? `No se ${left===1?"ha podido bajar 1 cinta":`han podido bajar ${left} cintas`}. Comprueba la conexión y vuelve a intentarlo.`
+    : s.result==="cancelled" && left ? "Descarga cancelada. Lo que ya se bajó se conserva."
+    : "";
+  $("dlMsg").textContent=msg; $("dlMsg").hidden=!msg;
+}
+window.TCC_onTapeDownload=function(s){ try{ applyDl(s); }catch(err){ console.warn("TCC_onTapeDownload:",err); } };
+function readDl(){ if(HAS_DL) applyDl(nat("getTapeDownloadState")); }
+if(HAS_DL){
+  $("secCintas").hidden=false;
+  $("dlAll").onclick=()=>{ nat($("dlAll").dataset.run ? "cancelTapeDownload" : "downloadAllTapes"); setTimeout(readDl,400); };
+  // Borrar pide confirmación: hay que pulsar dos veces.
+  $("dlDel").onclick=()=>{
+    const del=$("dlDel");
+    if(!dlAsk){ dlAsk=setTimeout(()=>{ dlAsk=0; del.textContent="Borrar las guardadas"; },5000); del.textContent="¿Seguro? Pulsa otra vez para borrarlas"; return; }
+    clearTimeout(dlAsk); dlAsk=0; del.textContent="Borrar las guardadas";
+    nat("deleteDownloadedTapes"); setTimeout(readDl,600);
+  };
+  // Al volver a la app con la ficha abierta (la descarga sigue en segundo plano).
+  document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible" && settingsOpen) readDl(); });
+}
+
 function openSettings(){
   if(settingsOpen) return;
-  readNotif(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
+  readNotif(); readDl(); showTapeVol(); $("sYes").checked=SFX.on; $("sNo").checked=!SFX.on;
   settingsOpen=true; $("settings").hidden=false; $("sbd").classList.add("on");
   requestAnimationFrame(()=>requestAnimationFrame(()=>$("settings").classList.add("on")));
   $("tAlerts").setAttribute("aria-expanded","true");

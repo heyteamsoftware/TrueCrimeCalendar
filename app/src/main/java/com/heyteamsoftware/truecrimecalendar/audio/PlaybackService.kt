@@ -3,6 +3,7 @@ package com.heyteamsoftware.truecrimecalendar.audio
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.widget.Toast
 import androidx.annotation.OptIn
 import androidx.media3.common.AudioAttributes
 import androidx.media3.common.C
@@ -228,6 +229,10 @@ class PlaybackService : MediaSessionService() {
             }
             // Por ejemplo, el audio aún no existe: se descarta y el estado queda sin reproducir.
             Log.w(TAG, "No se puede reproducir ${player.currentMediaItem?.mediaId}", error)
+            // Cinta sin copia en el móvil y sin conexión: se explica, porque la grabadora se queda vacía.
+            if (cintas.cintaDelServidor()) {
+                Toast.makeText(this@PlaybackService, R.string.cinta_sin_conexion, Toast.LENGTH_LONG).show()
+            }
             player.stop()
             player.clearMediaItems()
         }

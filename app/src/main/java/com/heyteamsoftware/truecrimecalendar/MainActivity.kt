@@ -24,6 +24,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.webkit.WebViewAssetLoader
 import com.heyteamsoftware.truecrimecalendar.audio.ConexionAudio
+import com.heyteamsoftware.truecrimecalendar.audio.DescargaCintasService
 import com.heyteamsoftware.truecrimecalendar.audio.EstadoAudio
 import com.heyteamsoftware.truecrimecalendar.notificaciones.ControlAvisos
 import com.heyteamsoftware.truecrimecalendar.puente.PuenteNativo
@@ -121,6 +122,7 @@ class MainActivity : ComponentActivity() {
     override fun onStart() {
         super.onStart()
         audio.conectar()
+        DescargaCintasService.oyente = { json -> llamarWeb("TCC_onTapeDownload", json) }
     }
 
     override fun onResume() {
@@ -135,6 +137,7 @@ class MainActivity : ComponentActivity() {
     }
 
     override fun onStop() {
+        DescargaCintasService.oyente = null
         audio.desconectar()
         super.onStop()
     }

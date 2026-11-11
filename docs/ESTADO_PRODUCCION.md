@@ -147,3 +147,13 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - Favoritos añadidos a la web (contrato, sección 9).
 - Prototipos de interfaz A y B entregados; C y D en marcha.
 - **Falta:** que la app descargue y guarde las cintas del servidor; aplicar `docs/CORRECCIONES_FICHAS_ESTRELLA.md`; poner los vínculos de `docs/VINCULOS_PROPUESTOS.md`; quitar los audios antiguos del APK; rediseño si el usuario elige un prototipo; compilar, probar en el POCO y subir la versión final.
+
+## 11 de noviembre, 00:05: cintas en el servidor, descarga en la app y fichas corregidas
+
+- **Servidor:** las 477 cintas están en `https://myappsserver.duckdns.org/truecrimescalendar/` (181.589.940 bytes, igual que en local). Las grabaciones pasan a `cintas/` (fuera de git y de la APK).
+- **App:** reproduce cada cinta desde la copia del móvil o, si no la hay, desde el servidor, y la guarda. La ficha de ajustes tiene la sección «Cintas» con «Descargar todas», cancelar y borrar (contrato 7.7). La APK de publicación baja a 3,7 MB.
+- **Probado en el POCO:** reproducción desde el servidor, guardado, descarga de las 477 cintas (173 MB, 0 fallos), cancelación y reproducción de una cinta guardada.
+- **Fichas estrella:** 56 corregidas (`web/datos/correcciones_estrella.json`). **Vínculos entre meses:** 95 (`web/datos/vinculos.json`). Los aplica `web/montar.py` (contrato 8.1).
+- **Web:** versión de navegador publicada en `https://myappsserver.duckdns.org/truecrimescalendar/truecrime.html` (con `img/`, `sfx/`, `podcast/` y `audio/index.json`). En el navegador las cintas suenan sin el efecto de casete, que solo lo pone Android.
+- Prototipos C «Teletexto» y D «Atlas» entregados. El usuario elige el B «Pletina».
+- **Falta:** implementar el diseño B, instalarlo en el POCO y volver a subir la web.

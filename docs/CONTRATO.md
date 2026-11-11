@@ -152,18 +152,19 @@ Durante la transición conviven dos formatos: los casos ya pasados a cintas y lo
 - `tipo` ∈ `hallazgo`, `notas`, `declaraciones`, `hemeroteca`, `juicio`, `epilogo`, `expediente` (cinta única).
 - `pronunciacion` es común a todas las cintas del caso.
 
-### 7.2. Audios: `assets/audio/<id>/cinta-<n>.ogg` e `index.json`
+### 7.2. Audios: `audio/<id>/cinta-<n>.ogg` (en el servidor) e `assets/audio/index.json`
 
 Entrada v3 en `audio/index.json`:
 
 ```json
 "brady": { "cintas": [
   { "n": 1, "titulo": "Saddleworth, octubre de 1965", "url": "audio/brady/cinta-1.ogg",
-    "durationMs": 241000, "bloquesMs": [1450, 9800] }
+    "durationMs": 241000, "bytes": 439959, "bloquesMs": [1450, 9800] }
 ] }
 ```
 
-- `url` es relativa a la página (dentro de la app: `asset:///audio/brady/cinta-1.ogg`). Si en el futuro los audios se sirven desde fuera de la APK, será absoluta (`https://…`): Android y la web deben aceptar las dos.
+- `url` es la ruta de siempre, relativa a la página (`audio/brady/cinta-1.ogg`). **El archivo ya no va dentro de la APK:** está en el servidor y Android y la web lo buscan allí (sección 7.7). También se acepta una `url` absoluta (`https://…`).
+- `bytes` es el tamaño del archivo. Sirve para decir cuánto ocupa la descarga.
 - `bloquesMs[i]` es el inicio del bloque `i` de esa cinta (hay 0,4 s de silencio al principio).
 - **Las cintas v3 solo llevan la voz limpia** (Opus 12 kbps, mono, 48 kHz). El sonido de casete lo pone el móvil al reproducir (sección 7.6).
 - La entrada v3 lleva además `"efecto": "casete-gastado"`.
@@ -241,6 +242,29 @@ Los audios v3 se guardan con la voz limpia (así se comprimen a 12 kbps sin sona
 - El efecto solo se aplica a las cintas v3. No se aplica a los episodios v2 (ya lo llevan grabado) ni a los sonidos de la grabadora.
 - Se acepta una imprecisión de unos 250 ms en el paso de un elemento a otro.
 - Siseo, cortes y chasquidos son aleatorios en el móvil: no hace falta que coincidan con las muestras.
+
+## 7.7. Cintas en el servidor y copia en el móvil
+
+- **Dónde están.** Las cintas se graban en `cintas/<id>/cinta-<n>.ogg` (fuera de git y de la APK) y `tools/subir_audios.ps1` las sube al servidor: `https://myappsserver.duckdns.org/truecrimescalendar/<id>/cinta-<n>.ogg`. En la APK solo van `audio/index.json` y los sonidos de la grabadora (`sfx/`).
+- **Android** (`AlmacenCintas`). Al reproducir `audio/<id>/cinta-<n>.ogg` usa, por este orden: la copia guardada en el móvil (`files/cintas/<id>/`), el archivo de la APK si existiera, o el servidor. Lo que suena desde el servidor se guarda a la vez, así que cada cinta solo se baja una vez. Sin conexión y sin copia, avisa con un mensaje breve.
+- **Web en el navegador.** `<audio>` pide la cinta al servidor directamente (`tapeSrc`).
+- **Descargar todas** (ficha de ajustes, sección «Cintas», solo en la app). Métodos de `window.TCCNative`:
+
+| Método | Qué hace |
+|---|---|
+| `downloadAllTapes()` | Baja las cintas que falten. Sigue con la app en segundo plano y muestra una notificación de avance con «Cancelar». |
+| `cancelTapeDownload()` | Cancela. Lo ya bajado se conserva. |
+| `deleteDownloadedTapes()` | Borra las copias guardadas. No hace nada con una descarga en marcha. |
+| `getTapeDownloadState()` | Devuelve `TapeDownloadState` en JSON. |
+
+- `TapeDownloadState`: `{ "total", "saved", "bytes", "totalBytes", "running", "result", "failed" }`. `result` es cómo acabó la última descarga (`""`, `"complete"`, `"cancelled"` o `"error"`) y `failed`, las cintas que quedaron sin bajar.
+- Android llama a `window.TCC_onTapeDownload(estado)` con cada avance y al terminar, cancelar o borrar.
+
+## 8.1. Correcciones de las fichas estrella y vínculos entre meses
+
+- `web/datos/correcciones_estrella.json`: `{ id: { campo: valor, "nota": "por qué" } }`. Corrige los campos `n`, `a`, `v`, `per`, `st`, `c`, `mo` y `loc` de las fichas de los casos estrella sin tocar `web/base/calendario_v3.html`. No corrige fechas, país ni vínculos. `nota` no va a la página.
+- `web/datos/vinculos.json`: `[ [idA, idB, "c" | "r", nota] ]`. Vínculos entre casos de meses distintos. La página los enseña en los dos expedientes.
+- Los aplica `web/montar.py` al montar la página.
 
 ## 9. Favoritos
 

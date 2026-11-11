@@ -610,6 +610,11 @@ body.has-mini{--mini-h:64px}
 .stamp-btn{font:400 15px/1 var(--stamp);letter-spacing:2px;text-transform:uppercase;color:var(--violet);border:2.5px solid var(--violet);padding:12px 14px 9px;min-height:44px;transform:rotate(-2deg)}
 .stamp-btn:active{transform:rotate(-2deg) scale(.96)}
 .sent{font:20px var(--hand);color:var(--blue);transform:rotate(-5deg)}
+.dl-state{position:relative;font:700 14px/1.45 var(--type);color:var(--ink);margin:4px 0 2px}
+.dl-bar{position:relative;height:10px;margin:8px 0 2px;border:1.5px solid var(--ink);background:rgba(255,255,255,.45)}
+.dl-bar span{display:block;height:100%;width:0;background:var(--ink);transition:width .3s linear}
+.set-act{flex-wrap:wrap}
+#dlDel{color:var(--red)}
 
 /* ---------- Tableta y escritorio ---------- */
 @media (min-width:700px){
