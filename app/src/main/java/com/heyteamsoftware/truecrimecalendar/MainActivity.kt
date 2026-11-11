@@ -23,6 +23,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.webkit.WebViewAssetLoader
+import com.heyteamsoftware.truecrimecalendar.actualizacion.ActualizacionObligatoria
 import com.heyteamsoftware.truecrimecalendar.audio.ConexionAudio
 import com.heyteamsoftware.truecrimecalendar.audio.DescargaCintasService
 import com.heyteamsoftware.truecrimecalendar.audio.EstadoAudio
@@ -42,6 +43,7 @@ class MainActivity : ComponentActivity() {
 
     private lateinit var webView: WebView
     private lateinit var audio: ConexionAudio
+    private val actualizacion = ActualizacionObligatoria(this)
     private val avisos = ControlAvisos(this) { json -> llamarWeb("TCC_onNotificationSettings", json) }
 
     // La página ha terminado de cargar: ya se le pueden pedir cosas (abrir un expediente…).
@@ -129,6 +131,7 @@ class MainActivity : ComponentActivity() {
         super.onResume()
         webView.onResume()
         avisos.refrescar()
+        actualizacion.comprobar()
     }
 
     override fun onPause() {

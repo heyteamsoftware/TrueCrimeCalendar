@@ -260,6 +260,16 @@ Los audios v3 se guardan con la voz limpia (así se comprimen a 12 kbps sin sona
 - `TapeDownloadState`: `{ "total", "saved", "bytes", "totalBytes", "running", "result", "failed" }`. `result` es cómo acabó la última descarga (`""`, `"complete"`, `"cancelled"` o `"error"`) y `failed`, las cintas que quedaron sin bajar.
 - Android llama a `window.TCC_onTapeDownload(estado)` con cada avance y al terminar, cancelar o borrar.
 
+## 7.8. Actualización obligatoria
+
+Las cintas del servidor y los guiones de la app deben corresponderse; una versión antigua no debe seguir abierta cuando cambia el contenido. `MainActivity` llama a `ActualizacionObligatoria.comprobar()` en `onResume`:
+
+- **Play (actualización inmediata):** si Google Play conoce una versión nueva, abre su pantalla de actualización a pantalla completa (librería `com.google.android.play:app-update`). Si el usuario la cancela, sale un aviso sin salida con «Actualizar» (ficha de Play) y «Salir»; Atrás no lo cierra. Solo funciona con la app instalada desde Play.
+- **Respaldo con el servidor:** `https://myappsserver.duckdns.org/truecrimescalendar/version-minima.json` → `{"minVersionCode": N}`. Si el `versionCode` de la app es menor, sale el mismo aviso. Sirve para forzar justo cuando se cambia el contenido del servidor, sin esperar a Play. Se consulta como mucho cada 5 minutos; si falla la consulta, la app se abre con normalidad.
+- **Procedimiento al cambiar contenido incompatible:** 1) subir `versionCode` y publicar la versión en Play; 2) cuando esté **aprobada y disponible**, subir `minVersionCode` en `web/publica/version-minima.json` y copiarlo al servidor (`scp` a `/var/www/html/truecrimescalendar/`); 3) solo entonces cambiar el contenido del servidor. Nunca subir el mínimo antes de que la versión nueva esté en Play: las apps antiguas quedarían bloqueadas sin poder actualizar.
+- Probar el aviso: `./gradlew :app:assembleDebug -Pvc=1` instala una compilación con `versionCode` 1.
+- La web no tiene versiones: se recarga con cada visita y ya sirve siempre el contenido actual.
+
 ## 8.1. Correcciones de las fichas estrella y vínculos entre meses
 
 - `web/datos/correcciones_estrella.json`: `{ id: { campo: valor, "nota": "por qué" } }`. Corrige los campos `n`, `a`, `v`, `per`, `st`, `c`, `mo` y `loc` de las fichas de los casos estrella sin tocar `web/base/calendario_v3.html`. No corrige fechas, país ni vínculos. `nota` no va a la página.

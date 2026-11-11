@@ -20,7 +20,8 @@ android {
         applicationId = "com.heyteamsoftware.truecrimecalendar"
         minSdk = 26
         targetSdk = 36
-        versionCode = 10
+        // -Pvc=1 sirve para probar el aviso de «versión demasiado antigua» con una compilación de prueba
+        versionCode = (project.findProperty("vc") as String?)?.toInt() ?: 10
         versionName = "3.0.0"
     }
 
@@ -68,6 +69,9 @@ dependencies {
     implementation(libs.androidx.webkit)
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.session)
+    implementation(libs.androidx.play.update)
+    // La librería de Play arrastra un Fragment antiguo y lint (InvalidFragmentVersionForActivityResult) falla
+    implementation(libs.androidx.fragment)
 
     testImplementation(libs.junit)
 }

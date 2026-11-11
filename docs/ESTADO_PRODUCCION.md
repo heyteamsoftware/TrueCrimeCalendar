@@ -178,3 +178,10 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **Servicios en primer plano:** `dataSync` (descargar todas) y `mediaPlayback`, con vídeos grabados en el emulador (`play/videos/`, publicados en `/truecrimescalendar/demo/`; no se pueden borrar mientras dure la revisión).
 - **Probada** la versión firmada (R8) en el emulador de Android 17: arranca, reproduce y descarga. En el POCO no se pudo instalar: pedía confirmación en pantalla.
 - **Pendiente:** ver la respuesta de Google; guardar copia de `%USERPROFILE%\.tcc-signing\tcc-upload.jks`; el efecto «casete gastado» solo existe en la app, no en la web.
+
+## 11 de noviembre, tarde: calendario con años y ✓, y actualización obligatoria
+
+- **Calendario (web y app):** cada día muestra el año del caso (o ×N si hay varios) y un tick ✓ cuando se han escuchado todas las cintas del caso; el tick también sale en la ficha, en la carátula de hoy y en la leyenda. Web publicada en `truecrime.html`; commit `44748c7`.
+- **Actualización obligatoria en la app** (`docs/CONTRATO.md` 7.8): actualización inmediata de Google Play más un aviso sin salida si `version-minima.json` del servidor pide una versión mayor. `version-minima.json` está en el servidor con `minVersionCode` 10 (la versión actual). Probado en el emulador: con `versionCode` 1 sale el aviso, Atrás no lo cierra y «Actualizar» abre Play; con la versión normal no sale; la compilación de publicación (R8) arranca y consulta a Play sin fallos.
+- **No comprobado:** el flujo real de la actualización inmediata de Play (solo se puede probar con una versión publicada en Play y otra instalada desde Play).
+- **Para que llegue a los usuarios hace falta una versión nueva en Play** (3.0.1, código 11): quien instale la 3.0.0 no tiene este mecanismo.

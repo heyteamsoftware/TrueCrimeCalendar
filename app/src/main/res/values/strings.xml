@@ -22,6 +22,12 @@
     <string name="descarga_avance">%1$d de %2$d</string>
     <string name="descarga_cancelar">Cancelar</string>
 
+    <!-- Actualización obligatoria (CONTRATO 7.8) -->
+    <string name="actualizar_titulo">Hay una versión nueva</string>
+    <string name="actualizar_mensaje">Esta versión de TRUE CRIME CALENDAR ya no coincide con los casos y las cintas actuales. Actualiza la app para seguir escuchando.</string>
+    <string name="actualizar_boton">Actualizar</string>
+    <string name="actualizar_salir">Salir</string>
+
     <!-- Avisos diarios -->
     <string name="canal_efemerides">Efemérides del día</string>
     <string name="canal_efemerides_descripcion">Un aviso diario cuando un caso del calendario cumple aniversario.</string>
