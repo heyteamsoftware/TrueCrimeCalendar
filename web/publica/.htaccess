@@ -1,0 +1,39 @@
+# Carpeta /truecrimescalendar (solo afecta a esta carpeta del servidor compartido)
+ErrorDocument 404 /truecrimescalendar/404.html
+DirectoryIndex truecrime.html
+
+# Forzar HTTPS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
+# Caché: las cintas, fuentes e imágenes cambian poco; las páginas y los índices, siempre frescos
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType audio/ogg "access plus 1 month"
+ExpiresByType font/woff2 "access plus 1 year"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType text/css "access plus 1 day"
+ExpiresByType text/html "access plus 0 seconds"
+ExpiresByType application/json "access plus 0 seconds"
+</IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css application/json image/svg+xml
+</IfModule>
+
+# Los guiones y el índice de audio se leen por JSON; el contador no se cachea
+<Files "contador.json">
+Require all denied
+</Files>

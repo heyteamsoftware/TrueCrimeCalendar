@@ -23,3 +23,6 @@ muestras-cinta/
 
 # Audio original del usuario (fuente de los sonidos de la grabadora; no se redistribuye)
 tools/fuentes_sonido/
+
+# Versión web montada para subir al servidor (tools/publicar_web.py)
+/web/publicada/

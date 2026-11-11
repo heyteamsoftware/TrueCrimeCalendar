@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /truecrimescalendar/truecrime.html
+Allow: /truecrimescalendar/privacidad.html
+Allow: /truecrimescalendar/terminos.html
+Disallow: /truecrimescalendar/podcast/
+Disallow: /truecrimescalendar/audio/
+Disallow: /truecrimescalendar/contador.php
+
+Sitemap: https://myappsserver.duckdns.org/truecrimescalendar/sitemap.xml

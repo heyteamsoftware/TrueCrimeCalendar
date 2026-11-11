@@ -1,8 +1,15 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import java.util.Properties
 
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+}
+
+// Clave de subida a Google Play: keystore.properties (fuera de git) con storeFile, storePassword, keyAlias y keyPassword.
+val firma = Properties().apply {
+    val f = rootProject.file("keystore.properties")
+    if (f.exists()) f.inputStream().use { load(it) }
 }
 
 android {
@@ -13,12 +20,24 @@ android {
         applicationId = "com.heyteamsoftware.truecrimecalendar"
         minSdk = 26
         targetSdk = 36
-        versionCode = 4
-        versionName = "3.0-piloto"
+        versionCode = 10
+        versionName = "3.0.0"
+    }
+
+    signingConfigs {
+        if (firma.containsKey("storeFile")) {
+            create("subida") {
+                storeFile = file(firma.getProperty("storeFile"))
+                storePassword = firma.getProperty("storePassword")
+                keyAlias = firma.getProperty("keyAlias")
+                keyPassword = firma.getProperty("keyPassword")
+            }
+        }
     }
 
     buildTypes {
         release {
+            signingConfigs.findByName("subida")?.let { signingConfig = it }
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(

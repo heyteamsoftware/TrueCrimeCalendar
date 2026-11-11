@@ -1,0 +1,23 @@
+/* Páginas estáticas de truecrime.html (privacidad, términos y 404): mismo chasis oscuro que la app. */
+:root{--ch:#191b1a;--ch2:#232625;--ch3:#2d302f;--silk:#dcd5c2;--dim:#a19e94;--lamp:#f2a43c;--edge:#3a3d3c;
+  --cond:"Barlow Condensed","Bahnschrift Condensed","Arial Narrow",sans-serif;--sans:"Barlow","Bahnschrift","Segoe UI",Roboto,sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+html{background:var(--ch);-webkit-text-size-adjust:100%}
+body{font:400 17px/1.55 var(--sans);color:var(--silk);min-height:100vh;-webkit-font-smoothing:antialiased}
+a{color:var(--lamp)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--lamp);outline-offset:2px}
+header.cab{padding:16px 20px;border-bottom:1px solid var(--edge);display:flex;align-items:center;justify-content:space-between;gap:12px}
+header.cab a.marca{font:700 17px/1.1 var(--cond);letter-spacing:.2em;color:var(--silk);text-decoration:none}
+header.cab a.volver{font:600 11px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase;text-decoration:none;padding:10px 12px;background:var(--ch3);border-radius:3px;box-shadow:inset 0 1px 0 #4a4e4d,0 2px 0 #080909;color:var(--silk);white-space:nowrap}
+main{max-width:720px;margin:0 auto;padding:28px 20px 56px}
+h1{font:700 34px/1.05 var(--cond);letter-spacing:.06em;text-transform:uppercase;color:var(--silk)}
+.fecha{margin-top:8px;font:600 11px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase;color:var(--dim)}
+h2{margin:30px 0 8px;font:600 12px/1.2 var(--cond);letter-spacing:.2em;text-transform:uppercase;color:var(--lamp)}
+p,ul{margin-top:10px;color:#c9c3b1}
+ul{padding-left:22px}
+li{margin-top:6px}
+strong{color:var(--silk)}
+footer.pie{max-width:720px;margin:0 auto;padding:18px 20px 40px;border-top:1px solid var(--edge);display:flex;flex-wrap:wrap;gap:8px 18px;font:600 11px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase}
+footer.pie a{color:var(--dim)}
+.grande{font:700 96px/1 var(--cond);color:var(--lamp);letter-spacing:.04em;margin-top:30px}
+.cta{display:inline-block;margin-top:22px;padding:14px 18px;border-radius:3px;background:var(--lamp);color:#1c1b18;font:700 12px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase;text-decoration:none;box-shadow:0 3px 0 #080909}
