@@ -1,16 +1,9 @@
 </head>
 <body>
-<!-- Tapa del cuaderno: se levanta al arrancar (una vez por sesión) -->
-<div class="cover" id="cover" aria-hidden="true">
-  <div class="worn"></div>
-  <span class="dymo"><b>T</b><b>R</b><b>U</b><b>E</b><i></i><b>C</b><b>R</b><b>I</b><b>M</b><b>E</b><i></i><b>C</b><b>A</b><b>L</b><b>E</b><b>N</b><b>D</b><b>A</b><b>R</b></span>
-  <div class="lbl">ARCHIVO DE PERFILES CRIMINALES<em>Cuaderno de expedientes</em></div>
-  <span class="cst ink">Confidencial</span>
-  <span class="tape tp"></span>
-  <i class="shade"></i>
-</div>
+<!-- Encendido del equipo: se apaga al arrancar (una vez por sesión) -->
+<div class="cover" id="cover" aria-hidden="true"><b>TRUE CRIME CALENDAR</b><span>Archivo sonoro de expedientes</span><i></i><em>Encendiendo</em></div>
 <script>
-(function(){ /* sin tapa si ya se abrió en esta sesión, si se viene de una notificación (#id) o si se pide menos movimiento */
+(function(){ /* sin encendido si ya se abrió en esta sesión, si se viene de una notificación (#id) o si se pide menos movimiento */
   var c=document.getElementById("cover"), skip=false;
   try{ skip=sessionStorage.getItem("tcc_cover")==="1"; sessionStorage.setItem("tcc_cover","1"); }catch(_){}
   if(skip || location.hash.length>1 || (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) c.parentNode.removeChild(c);
@@ -21,8 +14,8 @@
 <header class="top" id="top">
   <div class="brand-row">
     <div class="brand">
-      <h1 class="dymo"><span aria-hidden="true"><b>T</b><b>R</b><b>U</b><b>E</b><i></i><b>C</b><b>R</b><b>I</b><b>M</b><b>E</b><i></i><b>C</b><b>A</b><b>L</b><b>E</b><b>N</b><b>D</b><b>A</b><b>R</b></span><span class="sr">TRUE CRIME CALENDAR</span></h1>
-      <span class="sub">Archivo de perfiles criminales</span>
+      <h1>TRUE CRIME CALENDAR</h1>
+      <span class="sub">Archivo sonoro de expedientes</span>
     </div>
     <div class="tools">
       <button class="tool" id="tSearch" aria-label="Buscar en el archivo" aria-expanded="false" aria-controls="searchWrap"><svg viewBox="0 0 24 24"><path d="M10.6 4.2c3.7-.3 6.6 2.4 6.5 5.9-.1 3.4-2.9 6.2-6.4 6.1C7.3 16.1 4.4 13.4 4.6 10c.1-3.1 2.6-5.6 6-5.8z"/><path d="M15.3 15.1l5 5.3"/></svg></button>
@@ -37,7 +30,6 @@
     <button class="clr" id="clr" aria-label="Borrar la búsqueda"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
   </div>
   <div class="tags" id="filters" role="group" aria-label="Grupos" hidden></div>
-  <div class="coil"></div>
 </header>
 
 <main class="page" id="page">
@@ -45,18 +37,22 @@
     <div class="cal-col">
       <div id="calStage">
         <div class="cal" id="cal">
+          <div class="dial">
+            <nav class="mtabs" id="mtabs" aria-label="Meses"></nav>
+            <i class="needle" aria-hidden="true"></i>
+            <div class="year"><span class="silk dim">Año</span><b id="calYear"></b></div>
+          </div>
           <div class="cal-bar">
-            <button class="nav" id="prevM" aria-label="Mes anterior"><svg viewBox="0 0 30 22"><path d="M27 11.6c-7.4-.5-14.8-.2-22.6.3"/><path d="M10.4 4.6C8 7 6 9 3.6 11.7c2.4 2 4.6 3.8 7.3 6"/></svg></button>
+            <button class="nav" id="prevM" aria-label="Mes anterior"><svg viewBox="0 0 16 16"><path d="M10 3 5 8l5 5"/></svg></button>
             <div class="cal-title" id="calTitle" aria-live="polite"></div>
-            <button class="nav" id="nextM" aria-label="Mes siguiente"><svg viewBox="0 0 30 22"><path d="M3 10.9c7.4.4 14.8.1 22.6-.4"/><path d="M19.6 3.9c2.4 2.4 4.4 4.4 6.8 7.1-2.4 2-4.6 3.8-7.3 6"/></svg></button>
+            <button class="nav" id="nextM" aria-label="Mes siguiente"><svg viewBox="0 0 16 16"><path d="M6 3l5 5-5 5"/></svg></button>
           </div>
           <div class="wk" aria-hidden="true"><div>LUN</div><div>MAR</div><div>MIÉ</div><div>JUE</div><div>VIE</div><div>SÁB</div><div>DOM</div></div>
           <div class="days" id="days"></div>
           <div class="legend-cal">
-            <span><svg class="lg-seal ink" viewBox="0 0 34 34"><path d="M12.61 31.34A15 15 0 1 1 21.39 31.34" fill="none" stroke="#a3221b" stroke-width="2.4" stroke-linecap="round"/><path d="M12.63 28.39A12.2 12.2 0 1 1 21.37 28.39" fill="none" stroke="#a3221b" stroke-width="1.1"/><path d="M17 25.5L18.09 28.4 21.18 28.54 18.76 30.47 19.59 33.46 17 31.75 14.41 33.46 15.24 30.47 12.82 28.54 15.91 28.4z" fill="#a3221b"/></svg>Caso estrella</span>
-            <span id="lgPencil"><svg viewBox="0 0 22 16"><path d="M5 9.5C4.2 4.6 9.4 1.8 14.2 2.6c4.6.8 6.3 5.2 3.4 8.6-2.9 3.3-9.6 3.6-12.3.6C3.6 9.9 4.2 7 6.8 5.1" fill="none" stroke="#5f5b55" stroke-width="1.1" stroke-linecap="round" opacity=".85"/><path d="M6 10.4C5.6 5.6 10.4 2.6 15 3.6c4.2.9 5.4 5 2.6 8-2.8 3-8.8 3.2-11.4.8" fill="none" stroke="#5f5b55" stroke-width=".7" stroke-linecap="round" opacity=".5"/></svg>Caso del archivo</span>
-            <span><svg viewBox="0 0 22 16"><path d="M8 2.5l1.6 11.5M13 2.5l1.6 11.5" stroke="#a3221b" stroke-width="2" stroke-linecap="round"/></svg>Uno por caso</span>
-            <span><svg viewBox="0 0 22 16"><path d="M10 2.5l1.6 11.5" stroke="#21407a" stroke-width="2" stroke-linecap="round"/></svg>Con vínculos</span>
+            <span><i class="s"></i>Caso estrella</span>
+            <span id="lgPencil"><i></i>Caso del archivo</span>
+            <span><i class="t"></i>Hoy</span>
             <button class="hoy" id="goToday">Hoy</button>
           </div>
         </div>
@@ -76,24 +72,23 @@
   </section>
 
   <section class="view" id="mapView">
-    <div class="clipping"><span class="tape a"></span><span class="tape b"></span><div id="worldmap"></div></div>
-    <div class="legend"><span><i></i>Lugar del caso</span><span><i class="b"></i>Caso con vínculos</span><span><i class="th"></i>Hilo: vínculo directo</span><span class="note">Toca una chincheta para abrir el expediente</span></div>
+    <div class="clipping"><div id="worldmap"></div></div>
+    <div class="legend"><span><i></i>Lugar del caso</span><span><i class="b"></i>Caso con vínculos</span><span><i class="th"></i>Hilo: vínculo directo</span><span class="note">Toca un punto para abrir el expediente</span></div>
   </section>
 
   <p class="foot">Contenido divulgativo. Cifras de víctimas aproximadas, procedentes de fuentes públicas; algunas están en disputa. Los retratos robot son genéricos. Las imágenes documentales enlazan a sus fuentes.</p>
 </main>
 </div>
 
-<nav class="mtabs" id="mtabs" aria-label="Meses"></nav>
 
 <div class="backdrop" id="bd"></div>
 <div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="pName">
   <div class="sh-head" id="shHead">
-    <div class="ftab"><span class="lab" id="pExp"></span></div>
+    <button class="ib" id="pClose" aria-label="Cerrar el expediente"><svg viewBox="0 0 24 24"><path d="M5.6 9 12 15.3 18.4 9"/></svg></button>
+    <div class="ftab"><b class="lab" id="pExp"></b><span class="silk dim" id="pExpSub"></span></div>
     <button class="ib" id="pFav" aria-label="Guardar en favoritos" aria-pressed="false"><svg viewBox="0 0 24 24"><path d="M6.6 3.8h10.9v16.6L12 16.3l-5.4 4.1z"/></svg></button>
     <button class="ib" id="pPrev" aria-label="Expediente anterior"><svg viewBox="0 0 24 24"><path d="M15 5.6 8.8 12l6.4 6.3"/></svg></button>
     <button class="ib" id="pNext" aria-label="Expediente siguiente"><svg viewBox="0 0 24 24"><path d="M9 5.7l6.3 6.2L9 18.4"/></svg></button>
-    <button class="ib" id="pClose" aria-label="Cerrar el expediente"><svg viewBox="0 0 24 24"><path d="M6.2 6l11.8 12.2M17.8 6.1 6 18"/></svg></button>
   </div>
   <div class="sh-body" id="pBody"></div>
   <div class="fcover" id="fcover" aria-hidden="true"></div>
@@ -112,13 +107,12 @@
 <div class="sbd" id="sbd"></div>
 <div class="settings" id="settings" role="dialog" aria-modal="true" aria-labelledby="setTitle" hidden>
   <div class="set-card">
-    <span class="tape"></span>
-    <h2 id="setTitle">Ficha de ajustes</h2>
+    <h2 id="setTitle">Ajustes</h2>
     <button class="set-x" id="setClose" aria-label="Cerrar los ajustes"><svg viewBox="0 0 16 16"><path d="M3 3.4l10 9.4M12.8 3 3.2 13"/></svg></button>
     <section class="set-sec" aria-labelledby="secSnd">
       <h3 id="secSnd">Sonido</h3>
       <fieldset class="set-row">
-        <legend>Sonidos del cuaderno</legend>
+        <legend>Sonidos de la interfaz</legend>
         <label class="chk"><input type="radio" name="sOn" value="1" id="sYes"><span class="box"></span>Sí</label>
         <label class="chk"><input type="radio" name="sOn" value="0" id="sNo"><span class="box"></span>No</label>
       </fieldset>
@@ -141,7 +135,7 @@
     </section>
     <section class="set-sec" id="secAvisos" aria-labelledby="secAv">
       <h3 id="secAv">Avisos diarios</h3>
-      <p class="set-intro">Cada día, a la hora indicada, el cuaderno te avisa si en el archivo hay un expediente con la fecha de hoy.</p>
+      <p class="set-intro">Cada día, a la hora indicada, la app te avisa si en el archivo hay un expediente con la fecha de hoy.</p>
       <fieldset class="set-row">
         <legend>Aviso diario</legend>
         <label class="chk"><input type="radio" name="nOn" value="1" id="nYes"><span class="box"></span>Sí</label>

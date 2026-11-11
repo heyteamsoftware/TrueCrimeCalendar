@@ -113,3 +113,7 @@ En las tres pantallas de cada prototipo: (1) calendario de enero de 2027 con el 
 - En C y D las horas de «Leer el caso» salen de `bloquesMs` de la cinta 1 de Brady (01:54, 02:13 y 02:28): a las 02:14 suena un bloque de archivo, no la nota del inspector que marcan A y B.
 - En D, el planisferio y el mapa de mosaico de C salen del mapa del mundo que ya lleva la app. El mapa de Mánchester y Saddleworth de D es un esquema hecho a mano: las poblaciones, los dos lugares del caso, la escala y la distancia están en su sitio, pero las curvas de nivel y el trazado fino de carreteras y embalses son aproximados.
 - En D, los códigos de país de la cuadrícula (GBR, USA…) y los números de semana no están en los datos: habría que derivarlos de `p` y de la fecha.
+
+## Decisión
+
+El 11 de noviembre de 2026 el usuario eligió el **B · «Pletina»**. Está implementado en `web/src/` (ver `docs/CONTRATO.md`, sección 10).

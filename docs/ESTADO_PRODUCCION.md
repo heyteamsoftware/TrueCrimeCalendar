@@ -157,3 +157,14 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **Web:** versión de navegador publicada en `https://myappsserver.duckdns.org/truecrimescalendar/truecrime.html` (con `img/`, `sfx/`, `podcast/` y `audio/index.json`). En el navegador las cintas suenan sin el efecto de casete, que solo lo pone Android.
 - Prototipos C «Teletexto» y D «Atlas» entregados. El usuario elige el B «Pletina».
 - **Falta:** implementar el diseño B, instalarlo en el POCO y volver a subir la web.
+
+## 11 de noviembre, 00:20: interfaz «Pletina» (prototipo B)
+
+- El usuario eligió el prototipo B. La web pasa de cuaderno a equipo de sonido: chasis oscuro, serigrafía crema y una lámpara con el color de cada mes.
+- **Calendario:** dial de meses con aguja, teclado de días (tecla crema: caso estrella; oscura: caso del archivo; encendida: hoy), carátula del caso del día y lista en lomos de casete.
+- **Expediente:** carátula desplegada (lomo, nombre, tabla de datos, el caso, situación judicial, material gráfico, lugares, vínculos y fuentes).
+- **Pletina:** vúmetro, contador, pilotos, casete tras el cristal, línea de tiempo, teclas de aluminio, caja de cintas y «Leer el caso» con la hora de cada bloque. La lógica de cintas, progreso y puente con Android no cambia.
+- **Tipografías:** Barlow Condensed, Barlow, IBM Plex Mono y Mansalva, empaquetadas en `assets/fonts` (`tools/descargar_fuentes.py`). Se quitan Courier Prime, Special Elite y las texturas de `assets/img`.
+- La aguja del vúmetro es una animación: el reproductor no da el nivel real del audio.
+- Instalada en el POCO y publicada en `https://myappsserver.duckdns.org/truecrimescalendar/truecrime.html`.
+- **Sin comprobar a ojo en el móvil:** al instalar, la pantalla del POCO estaba apagada y no hay captura. Comprobado por depuración: página cargada, tipografías cargadas y 477 cintas guardadas.

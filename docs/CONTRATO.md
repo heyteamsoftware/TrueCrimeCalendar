@@ -272,3 +272,11 @@ Los audios v3 se guardan con la voz limpia (así se comprimen a 12 kbps sin sona
 - Se guardan en el móvil, en `localStorage`, con la clave `tcc_favs`: una lista de ids, con el último guardado al final. No pasan por Android.
 - La sección «Mis favoritos» se abre con el marcapáginas de la barra superior (`#tFav`) o con el grupo «Favoritos» de la búsqueda. Muestra primero los últimos guardados.
 - Las fichas de los casos guardados llevan un marcapáginas rojo.
+
+## 10. Interfaz «Pletina»
+
+- La web es un equipo de sonido: chasis oscuro, serigrafía crema y una lámpara con el color del mes. El diseño de partida es `docs/prototipos/prototipo-b.html`.
+- **Lámpara del mes:** `data-mes` (1 a 12) en `<body>` (el mes que se ve en el calendario), en la hoja del expediente (el mes del caso) y en cada lomo de la lista. Los doce colores están en `web/src/app.css`.
+- **Tipografías:** Barlow Condensed, Barlow, IBM Plex Mono y Mansalva. La página las pide a Google Fonts y la app responde con `assets/fonts/fonts.css` y sus `.woff2`. Si cambia la lista, hay que cambiarla en `web/montar.py` y en `tools/descargar_fuentes.py`, y volver a ejecutar este.
+- **Vúmetro:** la aguja es una animación. `PlayerState` no da el nivel del audio.
+- **Piloto «Casete gastado»:** solo se enciende dentro de la app (clase `in-app`), que es donde se aplica el efecto.

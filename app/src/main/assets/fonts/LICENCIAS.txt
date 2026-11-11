@@ -1,0 +1,7 @@
+Tipografías incluidas en la app, todas con licencia SIL Open Font License 1.1 (https://openfontlicense.org):
+
+- Barlow y Barlow Condensed — Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+- IBM Plex Mono — Copyright 2017 IBM Corp. (https://github.com/IBM/plex)
+- Mansalva — Copyright 2019 The Mansalva Project Authors (ver OFL-Mansalva.txt)
+
+Los archivos .woff2 son los subconjuntos latin y latin-ext que sirve Google Fonts (tools/descargar_fuentes.py).

@@ -224,14 +224,13 @@ head = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#231e18">
-<meta name="color-scheme" content="light">
-<title>TRUE CRIME CALENDAR · Archivo de perfiles criminales</title>
-<link rel="preload" href="img/ink.png" as="image" crossorigin>
-<link rel="preload" href="img/kraft.webp" as="image">
+<meta name="theme-color" content="#191b1a">
+<meta name="color-scheme" content="dark">
+<title>TRUE CRIME CALENDAR · Archivo sonoro de expedientes</title>
+<meta name="description" content="Un caso real para cada día del año, contado en cintas: 377 expedientes con sus fuentes, su mapa y sus vínculos.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Mansalva&display=swap" rel="stylesheet">"""
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@500;600&family=Mansalva&display=swap" rel="stylesheet">"""
 
 parts = [head]
 parts += lines[i_lcss:i_lcss_end + 1]                     # CSS de Leaflet

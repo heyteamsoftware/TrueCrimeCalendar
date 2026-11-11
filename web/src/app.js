@@ -194,7 +194,7 @@ $("filters").addEventListener("click",ev=>{
   renderAll();
 });
 
-/* ---------- Pestañas de meses (canto del cuaderno) ---------- */
+/* ---------- Dial de meses ---------- */
 $("mtabs").innerHTML=MES3.map((m,i)=>`<button class="mtab" data-m="${i+1}" aria-label="${MESES[i]}"><span>${m.toUpperCase()}</span></button>`).join("");
 $("mtabs").addEventListener("click",ev=>{
   const b=ev.target.closest(".mtab"); if(!b) return;
@@ -203,7 +203,11 @@ $("mtabs").addEventListener("click",ev=>{
   if(m!==vm){ const dir=m>vm?1:-1; vm=m; selDay=null; renderCal(dir); }
   scrollToCal();
 });
-function syncTabs(){ [...$("mtabs").children].forEach(b=>b.setAttribute("aria-current",+b.dataset.m===vm)); }
+function syncTabs(){
+  [...$("mtabs").children].forEach(b=>b.setAttribute("aria-current",+b.dataset.m===vm));
+  $("mtabs").parentNode.style.setProperty("--m",vm-1);      // la aguja del dial
+  document.body.dataset.mes=vm;                              // la lámpara del mes
+}
 function scrollToCal(){ const top=$("calStage").getBoundingClientRect().top; if(top<0||top>innerHeight*.6) scrollTo({top:Math.max(0,scrollY+top-hdrH()-6),behavior:reduced()?"auto":"smooth"}); }
 function hdrH(){ return $("top").offsetHeight; }
 /* altura de la tapa → variable CSS (pestañas, mapa) */
@@ -212,26 +216,36 @@ if(window.ResizeObserver) new ResizeObserver(syncHdr).observe($("top")); else ad
 syncHdr();
 
 /* ---------- Nota de hoy / próxima efeméride ---------- */
+const DIAS=["domingo","lunes","martes","miércoles","jueves","viernes","sábado"], DIAS3=["dom","lun","mar","mié","jue","vie","sáb"];
+/* tamaño del nombre según lo que ocupa: w = letras de la palabra más larga, l = letras en total */
+const fit = (s,w1,w2,l1,l2) => { const mw=Math.max(...String(s).split(/\s+/).map(x=>x.length)); return mw<=w1&&s.length<=l1 ? "" : mw<=w2&&s.length<=l2 ? "mid" : "long"; };
 function renderSlip(){
-  const y=today.getFullYear(), tm=today.getMonth()+1;
+  const y=today.getFullYear();
   const occ = e => { let yy=y, d=new Date(yy,e.m-1,dayIn(e,yy)); if(d<today){ yy++; d=new Date(yy,e.m-1,dayIn(e,yy)); } return d; };
   const list=D.map(e=>({e,d:occ(e)})).sort((a,b)=>a.d-b.d);
   const first=list[0], sameDay=list.filter(x=>+x.d===+first.d);
   const days=Math.round((first.d-today)/864e5), isToday=days===0;
-  const fecha=`${today.getDate()} de ${MESES[tm-1].toLowerCase()} de ${y}`;
-  const who=sameDay.map(x=>`${esc(x.e.title)}${x.e.sub?` <span>${esc(x.e.sub)}</span>`:""}`).join(" · ");
-  const what=sameDay.length===1 ? efemText(first.e,first.d.getFullYear(),isToday) : "";
-  $("slip").innerHTML=`<span class="tape" style="--tr:-4deg"></span><div style="flex:1;min-width:0"><div class="lbl">${isToday?"Efeméride de hoy":"Próxima efeméride"}</div><div class="lbl2">Hoy es ${fecha}${isToday?"":" · "+(days===1?"mañana":"dentro de "+days+" días")}</div><div class="who">${who}</div>${what?`<div class="what">${esc(what)}</div>`:""}</div>`+
-    `<div class="when"><svg viewBox="0 0 60 40" preserveAspectRatio="none" aria-hidden="true"><path d="M8 26C3 14 15 4 33 4c16 0 25 8 21 19-4 10-24 15-38 10C6 30 4 20 13 11"/></svg>${pad(first.d.getDate())} ${MES3[first.d.getMonth()]}</div>`;
-  $("slip").setAttribute("aria-label",`${isToday?"Efeméride de hoy":"Próxima efeméride"}: ${sameDay.map(x=>x.e.title).join(", ")}, ${first.d.getDate()} de ${MESES[first.d.getMonth()].toLowerCase()}${what?". "+what:""}`);
-  $("slip").onclick=()=>{
+  const one=sameDay.length===1, e0=first.e, star=MIXED && sameDay.some(x=>x.e.e);
+  const cuando=isToday?"Efeméride de hoy":"Próxima efeméride · "+(days===1?"mañana":"dentro de "+days+" días");
+  const titulo=sameDay.map(x=>x.e.title).join(" · ");
+  const what=one ? efemText(e0,first.d.getFullYear(),isToday) : `${sameDay.length} expedientes con esta fecha`;
+  const tapes=one ? tapesOf(e0.id).filter(t=>t.url && t.durationMs) : [];
+  const slip=$("slip");
+  slip.dataset.mes=first.d.getMonth()+1;
+  slip.innerHTML=`<span class="jc"><span class="spine"><span><small>${DIAS3[first.d.getDay()]}</small><b>${pad(first.d.getDate())}</b><small>${MES3[first.d.getMonth()]}</small></span><em>TCC${one?" · "+expNo(e0):""}</em></span>
+    <span class="m"><span class="jt"><span>${star?"★ Caso estrella · ":""}${cuando}</span><span>${one?esc(e0.p||""):""}</span></span>
+    <span class="h ${fit(titulo,11,16,22,40)}">${esc(titulo)}</span>${one&&e0.sub?`<span class="al">${esc(e0.sub)}</span>`:""}
+    <span class="ef">${esc(what)}</span>
+    <span class="ft">${tapes.map(t=>`<span class="chip">${fmtShort(t.durationMs)}</span>`).join("")}<span class="open">${one?"Abrir expediente":"Ver los expedientes"} ▸</span></span></span></span>`;
+  slip.setAttribute("aria-label",`${isToday?"Efeméride de hoy":"Próxima efeméride"}: ${sameDay.map(x=>x.e.title).join(", ")}, ${first.d.getDate()} de ${MESES[first.d.getMonth()].toLowerCase()}. ${what}`);
+  slip.onclick=()=>{
     const dir=Math.sign((first.d.getFullYear()*12+first.d.getMonth()+1)-(vy*12+vm));
     vy=first.d.getFullYear(); vm=first.d.getMonth()+1; selDay=first.d.getDate(); showView("cal"); renderCal(dir);
-    if(sameDay.length===1) openP(first.e.id); else $("cards").scrollIntoView({behavior:"smooth"});
+    if(one) openP(e0.id); else $("cards").scrollIntoView({behavior:"smooth"});
   };
 }
 
-/* ---------- Calendario mensual (hoja de agenda) ---------- */
+/* ---------- Calendario mensual (teclado de días) ---------- */
 function monthEvents(y,m){ return D.filter(e=>e.m===m && matches(e)); }
 function stripIds(n){ n.removeAttribute("id"); n.querySelectorAll("[id]").forEach(x=>x.removeAttribute("id")); n.querySelectorAll("button").forEach(b=>{b.tabIndex=-1;}); return n; }
 let flipTimer=0;
@@ -247,21 +261,20 @@ function renderCal(dir){
   const prevDim=new Date(vy,vm-1,0).getDate();
   const evs=monthEvents(vy,vm);
   const byDay={}; evs.forEach(e=>{ const d=dayIn(e,vy); (byDay[d]=byDay[d]||[]).push(e); });
-  $("calTitle").innerHTML=`<span class="mn ink">${MESES[vm-1]}</span><span class="yr">${vy}</span><small>${evs.length} expediente${evs.length===1?"":"s"} este mes</small>`;
+  $("calTitle").innerHTML=`<span class="mn">${MESES[vm-1]}</span><small>${evs.length} caso${evs.length===1?"":"s"}</small>`;
+  $("calYear").textContent=vy;
   let h="", total=Math.ceil((lead+dim)/7)*7;
   for(let k=0;k<total;k++){
     const d=k-lead+1, col=k%7;
     if(d<1||d>dim){ const n=d<1?prevDim+d:d-dim; h+=`<div class="cell out${col===6?" sun":""}" aria-hidden="true"><span class="num">${n}</span></div>`; continue; }
     const list=byDay[d]||[];
     const isT = vy===today.getFullYear() && vm===today.getMonth()+1 && d===today.getDate();
-    const cls=["cell", col===6?"sun":"", list.length?"has":"", isT?"today":"", selDay===d?"sel":""].join(" ");
+    const cls=["cell", list.length?"has":"", MIXED&&list.some(e=>e.e)?"star":"", list.length>1?"x2":"", isT?"today":"", selDay===d?"sel":""].filter(Boolean).join(" ");
     const lbl=`${d} de ${MESES[vm-1]}${isT?" (hoy)":""}${list.length?": "+list.map(e=>e.title+(MIXED&&e.e?" (caso estrella)":"")).join(", "):""}`;
-    const tally=list.map(e=>`<i class="${e.links.length?"l":""}"></i>`).join("");
-    const names=list.slice(0,2).map(e=>`<span class="${e.links.length?"l":e.e?"":"p"}">${esc(shortName(e))}</span>`).join("")+(list.length>2?`<em>+${list.length-2} más</em>`:"");
-    const mark = list.some(e=>e.e) ? sealSvg(d+vm) : pencilSvg(d+vm);
+    const inner=`<span class="num">${d}</span>${isT?"<i>HOY</i>":""}`;
     h+= list.length
-      ? `<button class="${cls}" data-d="${d}" aria-label="${esc(lbl)}"><span class="num">${mark}${d}</span><div class="tally">${tally}</div><div class="names">${names}</div></button>`
-      : `<div class="${cls}" aria-label="${esc(lbl)}"><span class="num">${d}</span></div>`;
+      ? `<button class="${cls}" data-d="${d}" aria-label="${esc(lbl)}">${inner}</button>`
+      : `<div class="${cls}" aria-label="${esc(lbl)}">${inner}</div>`;
   }
   $("days").innerHTML=h;
   syncTabs();
@@ -282,14 +295,13 @@ function card(e,y){
   const yr=y||vy;
   const lk=e.links.length?`<span>${e.links.length} vínculo${e.links.length>1?"s":""}</span>`:"";
   const leapNote=(e.m===2&&e.d===29&&!isLeap(yr))?" (29 feb)":"";
-  const r=jitter(e.id,.9).toFixed(2), dx=jitter(e.id+"x",4).toFixed(1);
-  const star = MIXED && e.e;
-  return `<button class="card${star?" star":""}" data-id="${e.id}" style="--r:${r}deg;--dx:${dx}px">${e.links.length?CLIP:""}
-    <span class="ref">Nº ${expNo(e)}</span>${FAVS.has(e.id)?`<span class="cfav" aria-hidden="true"></span><span class="sr">En favoritos. </span>`:""}${star?`<span class="cstar ink" aria-hidden="true">${STAR_MINI}</span>`:""}
-    <div class="dbox ink"><b>${pad(dayIn(e,yr))}</b><span>${MES3[e.m-1]}</span></div>
-    <div class="bd">${star?`<span class="sr">Caso estrella. </span>`:""}<div class="nm">${esc(e.title)}</div>${e.sub?`<div class="al">${esc(e.sub)}</div>`:""}
-    <div class="meta">${e.v?`<span>Víctimas: <b>${esc(e.v)}</b></span>`:""}${e.p?`<span>${esc(e.p)}</span>`:""}${lk}</div>
-    <span class="ann">${esc(efemText(e,yr,isTodayIn(e,yr)))}${leapNote}</span></div></button>`;
+  const star = MIXED && e.e, fav=FAVS.has(e.id);
+  return `<button class="card${star?" star":""}" data-id="${e.id}" data-mes="${e.m}">
+    <span class="dn"><b>${pad(dayIn(e,yr))}</b><small>${MES3[e.m-1]}</small></span>
+    <span class="bd">${star?`<span class="sr">Caso estrella. </span>`:""}${fav?`<span class="sr">En favoritos. </span>`:""}<span class="nm">${esc(e.title)}</span>${e.sub?`<span class="al">${esc(e.sub)}</span>`:""}
+      <span class="meta">${e.p?`<span>${esc(e.p)}</span>`:""}${e.v?`<span>Víctimas: <b>${esc(e.v)}</b></span>`:""}${lk}</span>
+      <span class="ann">${esc(efemText(e,yr,isTodayIn(e,yr)))}${leapNote}</span></span>
+    <span class="yr"><b>${star?"★ ":""}${e.y}</b><span>Nº ${String(e.i+1).padStart(3,"0")}</span></span>${fav?`<span class="cfav" aria-hidden="true"></span>`:""}</button>`;
 }
 function renderList(evs){
   let list=evs;
@@ -812,7 +824,7 @@ function trackProgress(){
   if(!PS.cambiando && PS.durationMs>0 && (PS.ended || PS.positionMs>=PS.durationMs-2500)) done.add(n);
   if(trackPrev && trackPrev.id===id && trackPrev.n!==n && trackPrev.dur>0 && trackPrev.pos>=trackPrev.dur-2500) done.add(trackPrev.n);
   if(done.size!==before) now=true;
-  // mientras carga, busca o suena la grabadora no se guarda la posición (llegaría un 0 provisional):
+  // mientras carga, busca o suena la pletina no se guarda la posición (llegaría un 0 provisional):
   // se conserva la guardada si es la misma cinta (p. ej. «Seguir escuchando» durante «insertar»)
   const busy=PS.buffering || (pendingSeek && pendingSeek.id===id);
   const pos=(PS.cambiando || busy) ? (old && old.n===n ? old.posMs : 0) : PS.positionMs;
@@ -876,7 +888,7 @@ window.TCC_onPlayerState = function(state){ try{ if(engine==="native") onPlayerS
 function webEmit(){
   const a=webAudio; if(!a || engine!=="web") return;
   if(webT){
-    // mientras suena un sonido de la grabadora (T.sfx) la cinta que entra está a 0
+    // mientras suena un sonido de la pletina (T.sfx) la cinta que entra está a 0
     const T=webT, t=T.list[T.k]||{}, fx=!!T.sfx, ch=T.sfx==="cambio", ex=T.sfx==="expulsar";
     const dur = !fx && isFinite(a.duration) && a.duration>0 ? Math.round(a.duration*1000) : (+t.durationMs||0);
     // al expulsar, la cinta que sale: entera si acabó o el punto donde se expulsó
@@ -900,7 +912,7 @@ function getWebAudio(){
   webAudio.addEventListener("error",()=>{ if(webMeta.id){ console.warn("No se pudo cargar el audio de",webMeta.id); } webEmit(); });
   return webAudio;
 }
-/* sonidos de la grabadora (contrato 7.3): meter la cinta al empezar y cambio entre cintas */
+/* sonidos de la pletina (contrato 7.3): meter la cinta al empezar y cambio entre cintas */
 const WEB_SFX={insertar:"sfx/insertar-cinta.ogg", cambio:"sfx/cambio-cinta.ogg", expulsar:"sfx/expulsar-cinta.ogg"};
 function getWebSfx(kind){
   let s=webSfx[kind];
@@ -943,7 +955,7 @@ function webLoadTape(k,posMs){
   getWebAudio().src=tapeSrc(t.url);
   webPlay();
 }
-/* pasa a la cinta k; kind = "insertar", "cambio" o null (sin sonido de la grabadora) */
+/* pasa a la cinta k; kind = "insertar", "cambio" o null (sin sonido de la pletina) */
 function webGoTape(k,posMs,kind){
   const T=webT; if(!T) return;
   k=Math.max(0,Math.min(T.list.length-1,k));
@@ -1060,7 +1072,7 @@ function togglePlay(e){
     else if(PS.playing) Player.pause(); else Player.resume();
   } else startCase(e);
 }
-/* Mete la cinta n del caso e en la grabadora (arrastre, toque, «Seguir escuchando», lectura…).
+/* Mete la cinta n del caso e en la pletina (arrastre, toque, «Seguir escuchando», lectura…).
    posMs indefinido: desde donde se quedó esa cinta. */
 let bayHint=null;
 function playTapeOf(e,n,posMs){
@@ -1084,7 +1096,7 @@ function restartPlaying(){
   Player.play(PS.id,PS.titulo,PS.subtitulo); Player.seekTo(0);
 }
 
-/* ---------- Interfaz del reproductor (grabadora + minirreproductor) ---------- */
+/* ---------- Interfaz del reproductor (pletina + minirreproductor) ---------- */
 let deckSeen=false, scrubbing=null, lastP={deck:-1,mini:-1}, nowBlock=null, userScrollAt=0, lastPSid;
 function setProgress(el,p,key,smooth){
   const prev=lastP[key]; lastP[key]=p;
@@ -1118,6 +1130,7 @@ function deckUI(deck,e,jump){
     const sl=deck.querySelector(".scrub"); sl.setAttribute("aria-valuenow",Math.round(pos/1000)); sl.setAttribute("aria-valuetext",fmt(pos)+" de "+fmt(dur)); sl.setAttribute("aria-valuemax",Math.round(dur/1000));
   }
   deck.querySelector(".t-dur").textContent=dur?fmt(dur):"--:--";
+  deck.querySelector(".t-rem").textContent=dur?"−"+fmt(Math.max(0,dur-pos)):"--:--";
   setCounter(deck,pos);
   deck.querySelectorAll(".reel .pack").forEach((pk,i)=>pk.style.setProperty("--k",(i===0?0.95-0.55*p:0.4+0.55*p).toFixed(3)));
   highlightBlock(mine ? blockAt(e.id,pos) : -1);
@@ -1181,33 +1194,47 @@ $("miniOpen").onclick=()=>{
   else openP(PS.id);
 };
 
-/* ---------- Grabadora de la versión 2 (episodio único) ---------- */
+/* ---------- Pletina de la versión 2 (episodio único) ---------- */
+/* vúmetro: escala dibujada; la aguja se mueve con una animación (el reproductor no da el nivel real) */
+function vuSvg(){
+  const R=70, pt=(a,r)=>[(75+r*Math.sin(a*Math.PI/180)).toFixed(1),(96-r*Math.cos(a*Math.PI/180)).toFixed(1)];
+  const rojo=a=>a>24?"#cf452c":"#1c1b18";
+  const ticks=[-46,-34,-22,-10,2,14,26,36,46].map((a,i)=>{ const p=pt(a,R), q=pt(a,R-(i%2?5:8)); return `<path d="M${p[0]} ${p[1]}L${q[0]} ${q[1]}" stroke="${rojo(a)}" stroke-width="1.1"/>`; }).join("");
+  const nums=[[-46,"20"],[-22,"10"],[2,"5"],[14,"3"],[26,"0"],[46,"+3"]].map(([a,t])=>{ const p=pt(a,R-15); return `<text x="${p[0]}" y="${p[1]}" text-anchor="middle" font-size="7.5" font-weight="600" fill="${rojo(a)}">${t}</text>`; }).join("");
+  const a0=pt(-46,R), a1=pt(26,R), a2=pt(46,R);
+  return `<svg viewBox="0 0 150 84" aria-hidden="true" font-family="Barlow Condensed,Arial Narrow,sans-serif"><path d="M${a0[0]} ${a0[1]}A${R} ${R} 0 0 1 ${a1[0]} ${a1[1]}" fill="none" stroke="#1c1b18" stroke-width="1.2"/><path d="M${a1[0]} ${a1[1]}A${R} ${R} 0 0 1 ${a2[0]} ${a2[1]}" fill="none" stroke="#cf452c" stroke-width="3"/>${ticks}${nums}<text x="75" y="62" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1.5" fill="#1c1b18">VU</text><g class="vu-n"><path d="M75 96L75 23" stroke="#1c1b18" stroke-width="1.3"/></g><circle cx="75" cy="99" r="27" fill="#1c1b18"/></svg>`;
+}
+const metersHtml = () => `<div class="meters"><div class="vu">${vuSvg()}</div>
+      <div class="ctr"><span class="silk dim" id="tTape">Contador</span>
+        <div class="dg"><b class="counter" aria-hidden="true"><i>0</i><i>0</i><i>0</i><i>0</i></b><span>/ <span class="t-dur">--:--</span></span></div>
+        <div class="lamps" aria-hidden="true"><span class="l-play"><i></i>Play</span><span class="l-fx"><i></i>Casete gastado</span><span class="l-fin"><i></i>Fin</span></div></div></div>`;
+const timelineHtml = lab => `<div class="tl"><span class="t-pos">00:00</span><div class="scrub" role="slider" tabindex="0" aria-label="${lab}" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"><div class="scrub-track"><i class="scrub-fill"></i></div><div class="scrub-head"><i></i></div></div><span class="t-rem">--:--</span></div>`;
+const readRowHtml = () => `<div class="deck-actions"><button class="readbtn" id="readBtn" aria-expanded="false" aria-controls="transcript" disabled>${ICO.read}<span>Leer el caso</span></button><span class="hint" id="deckHint"></span></div>`;
 function deckHtml(e){
   return `<section class="deck" id="deck" data-kind="v2" data-st="idle" aria-label="Escuchar el caso">
-    <span class="dymo"><span aria-hidden="true">${"ESCUCHAR EL CASO".split("").map(c=>c===" "?"<i></i>":`<b>${c}</b>`).join("")}</span><span class="sr">Escuchar el caso</span></span>
+    <div class="rule"><span class="silk">Pletina</span><span class="silk dim">Exp. ${expNo(e)}</span></div>
     <div class="recorder">
-      <div class="cassette" aria-hidden="true">
-        <div class="cs-label"><span class="cs-a">A</span><span class="cs-t" id="csTitle">${esc(e.a||e.title)}</span>
-          <div class="cs-win"><span class="reel"><i class="pack"></i>${ICO.reel}</span><span class="reel"><i class="pack"></i>${ICO.reel}</span></div>
-          <span class="cs-n">Exp. ${expNo(e)} · ${esc(e.n)}</span></div>
-        <span class="na-note">Audio en preparación</span>
-      </div>
-      <div class="counter" aria-hidden="true"><i>0</i><i>0</i><i>0</i><i>0</i></div>
+      ${metersHtml()}
+      <div class="well"><div class="bay full"><div class="cassette" aria-hidden="true">
+          <div class="cs-label"><span class="cs-a">A</span><span class="cs-t" id="csTitle">${esc(e.a||e.title)}</span>
+            <div class="cs-win"><span class="reel"><i class="pack"></i>${ICO.reel}</span><span class="reel"><i class="pack"></i>${ICO.reel}</span></div>
+            <span class="cs-n">Exp. ${expNo(e)} · ${esc(e.n)}</span></div></div>
+          <span class="na-note">Audio en preparación</span></div>
+        <i class="glass"></i><div class="lip"><span class="silk dim">Cinta única</span></div></div>
+      ${timelineHtml("Posición de la grabación")}
       <div class="keys">
-        <button class="key" data-k="back" aria-label="Retroceder 15 segundos">${ICO.rew}<small>15</small></button>
+        <button class="key" data-k="back" data-l="−15 s" aria-label="Retroceder 15 segundos">${ICO.rew}</button>
         <button class="key play" data-k="play" aria-label="Escuchar el caso">${ICO.play}${ICO.pause}<span>Escuchar el caso</span></button>
-        <button class="key" data-k="fwd" aria-label="Avanzar 30 segundos"><small>30</small>${ICO.ff}</button>
+        <button class="key" data-k="fwd" data-l="+30 s" aria-label="Avanzar 30 segundos">${ICO.ff}</button>
       </div>
     </div>
-    <div class="scrub" role="slider" tabindex="0" aria-label="Posición de la grabación" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"><div class="scrub-track"><i class="scrub-fill"></i></div><div class="scrub-head"><i></i></div></div>
-    <div class="times"><span class="t-pos">00:00</span><span class="t-dur">--:--</span></div>
-    <div class="deck-actions"><button class="readbtn" id="readBtn" aria-expanded="false" aria-controls="transcript" disabled>${ICO.read}<span>Leer el caso</span></button><span class="hint" id="deckHint"></span></div>
+    ${readRowHtml()}
   </section>
   <section class="transcript" id="transcript" hidden aria-label="Versión para leer"></section>`;
 }
 const podcastHtml = e => `<div id="podcast">${isV3(e.id)?tapeDeckHtml(e):deckHtml(e)}</div>`;
 function wirePodcast(e){ const d=$("deck"); if(!d) return; if(d.dataset.kind==="v3") wireTapeDeck(e); else wireDeck(e); }
-/* barra de progreso táctil, común a las dos grabadoras: durOf() y seek(ms) dependen de cada una */
+/* barra de progreso táctil, común a las dos pletinas: durOf() y seek(ms) dependen de cada una */
 function wireScrub(deck,canUse,durOf,seek,keyStep){
   const sl=deck.querySelector(".scrub");
   const frac=ev=>{ const r=sl.getBoundingClientRect(); return Math.max(0,Math.min(1,(ev.clientX-r.left)/r.width)); };
@@ -1283,7 +1310,7 @@ async function fillPodcast(e){
     tr.innerHTML=`<div class="tr-h">Transcripción de la cinta · Exp. ${expNo(e)}</div><div class="tr-t">${esc(sc.titulo||e.n)}</div>`+
       `<p class="tr-legend">Texto mecanografiado: Ximena, narradora. Notas a mano: Álvaro, copresentador.${seek?" Toca un párrafo para escucharlo desde ahí.":""}</p>`+
       sc.bloques.map((b,i)=>b.voz==="alvaro"
-        ? `<p class="blk al" data-i="${i}"${seek?' tabindex="0"':""}><span class="who">Álvaro</span>${esc(b.texto)}</p>`
+        ? `<p class="blk al" data-i="${i}"${seek?' tabindex="0"':""}><span class="bh">Álvaro</span>${esc(b.texto)}</p>`
         : `<p class="blk xi" data-i="${i}"${seek?' tabindex="0"':""}>${esc(b.texto)}</p>`).join("");
   } else {
     tr.innerHTML=`<p class="tr-na">La transcripción de este caso todavía está en preparación.</p>`;
@@ -1293,41 +1320,43 @@ async function fillPodcast(e){
 }
 
 /* =====================================================================
-   CAJA DE CINTAS (versión 3): caja de pruebas + grabadora con ranura
-   Arrastrar un casete a la grabadora (Pointer Events) o tocarlo lo mete y suena.
+   CAJA DE CINTAS (versión 3): caja de pruebas + pletina con ranura
+   Arrastrar un casete a la pletina (Pointer Events) o tocarlo lo mete y suena.
    ===================================================================== */
 const COARSE = window.matchMedia ? matchMedia("(pointer: coarse)").matches : false;
 let bayN=null, boxSig="", lastTapeN=null, trSel=null, dragState=null, boxDirty=false;
 function tapeDeckHtml(e){
-  const dy="ESCUCHAR EL CASO".split("").map(c=>c===" "?"<i></i>":`<b>${c}</b>`).join("");
   return `<section class="deck tapes" id="deck" data-kind="v3" data-st="idle" aria-label="Escuchar el caso en cintas">
-    <span class="dymo"><span aria-hidden="true">${dy}</span><span class="sr">Escuchar el caso</span></span>
-    <div class="recorder" id="recorder" role="group" aria-label="Grabadora">
-      <div class="bay" id="bay">
-        <div class="bay-empty" aria-hidden="true"><span class="spindle"></span><span class="spindle"></span><em id="bayMsg">Mete aquí una cinta</em></div>
-        <div class="bay-tape" id="bayTape" aria-hidden="true"></div>
-        <span class="na-note">Audio en preparación</span>
+    <div class="rule"><span class="silk">Pletina</span><span class="silk dim">Exp. ${expNo(e)}</span></div>
+    <div class="recorder" id="recorder" role="group" aria-label="Pletina">
+      ${metersHtml()}
+      <div class="well">
+        <div class="bay" id="bay">
+          <div class="bay-empty" aria-hidden="true"><span class="spindle"></span><span class="spindle"></span><em id="bayMsg">Mete aquí una cinta</em></div>
+          <div class="bay-tape" id="bayTape" aria-hidden="true"></div>
+          <span class="na-note">Audio en preparación</span>
+        </div>
+        <i class="glass"></i>
+        <div class="lip"><span class="silk dim">Arrastra aquí una cinta</span><span class="silk lit" id="wellSt"></span></div>
       </div>
-      <div class="counter" aria-hidden="true"><i>0</i><i>0</i><i>0</i><i>0</i></div>
-      <button class="key eject" data-k="eject" aria-label="Expulsar la cinta y parar"><svg viewBox="0 0 16 16"><path d="M8 2.6l5.6 6.2H2.4zM2.6 11h10.8v2.4H2.6z"/></svg></button>
+      ${timelineHtml("Posición en la cinta")}
       <div class="keys">
-        <button class="key sm" data-k="prev" aria-label="Cinta anterior"><svg viewBox="0 0 16 16"><path d="M2.4 2.6h2.2v10.8H2.4zM14 2.6v10.8L5.4 8z"/></svg></button>
-        <button class="key sm" data-k="back" aria-label="Retroceder 15 segundos">${ICO.rew}<small>15</small></button>
+        <button class="key" data-k="eject" data-l="Expulsar" aria-label="Expulsar la cinta y parar"><svg viewBox="0 0 16 16"><path d="M8 2.6l5.6 6.2H2.4zM2.6 11h10.8v2.4H2.6z"/></svg></button>
+        <button class="key" data-k="prev" data-l="Anterior" aria-label="Cinta anterior"><svg viewBox="0 0 16 16"><path d="M2.4 2.6h2.2v10.8H2.4zM14 2.6v10.8L5.4 8z"/></svg></button>
+        <button class="key" data-k="back" data-l="−15 s" aria-label="Retroceder 15 segundos">${ICO.rew}</button>
         <button class="key play" data-k="play" aria-label="Escuchar el caso">${ICO.play}${ICO.pause}<span>Escuchar</span></button>
-        <button class="key sm" data-k="fwd" aria-label="Avanzar 30 segundos"><small>30</small>${ICO.ff}</button>
-        <button class="key sm" data-k="next" aria-label="Cinta siguiente"><svg viewBox="0 0 16 16"><path d="M11.4 2.6h2.2v10.8h-2.2zM2 2.6v10.8L10.6 8z"/></svg></button>
+        <button class="key" data-k="fwd" data-l="+30 s" aria-label="Avanzar 30 segundos">${ICO.ff}</button>
+        <button class="key" data-k="next" data-l="Siguiente" aria-label="Cinta siguiente"><svg viewBox="0 0 16 16"><path d="M11.4 2.6h2.2v10.8h-2.2zM2 2.6v10.8L10.6 8z"/></svg></button>
       </div>
     </div>
-    <div class="scrub" role="slider" tabindex="0" aria-label="Posición en la cinta" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0"><div class="scrub-track"><i class="scrub-fill"></i></div><div class="scrub-head"><i></i></div></div>
-    <div class="times"><span class="t-pos">00:00</span><span class="t-tape" id="tTape"></span><span class="t-dur">--:--</span></div>
     <button class="resume-btn" id="resumeBtn" hidden>${ICO.play}<span></span></button>
     <div class="tapebox" role="group" aria-labelledby="tbTitle">
-      <div class="tb-lid"><span class="tb-st ink" id="tbTitle">Pruebas · Cintas</span><span class="tb-lab" id="tbLab">Exp. Nº ${expNo(e)}</span></div>
+      <div class="tb-lid"><span class="tb-st" id="tbTitle">Caja de cintas</span><span class="tb-lab" id="tbLab">${COARSE?"Toca o arrastra":"Arrastra o haz clic"}</span></div>
       <div class="tb-grid" id="tbGrid"></div>
-      <p class="tb-help" id="tbHelp">${COARSE?"Toca una cinta para escucharla, o mantenla pulsada y arrástrala a la grabadora.":"Arrastra una cinta hasta la grabadora o haz clic en ella para escucharla."}</p>
+      <p class="tb-help" id="tbHelp">${COARSE?"Toca una cinta para escucharla, o mantenla pulsada y arrástrala a la pletina.":"Arrastra una cinta hasta la pletina o haz clic en ella para escucharla."}</p>
     </div>
     <p class="tb-aviso">Reconstrucción narrada a partir de documentos públicos: las voces pertenecen al archivo, no a los protagonistas.</p>
-    <div class="deck-actions"><button class="readbtn" id="readBtn" aria-expanded="false" aria-controls="transcript" disabled>${ICO.read}<span>Leer el caso</span></button><span class="hint" id="deckHint"></span></div>
+    ${readRowHtml()}
     <span class="sr" aria-live="polite" id="tapeLive"></span>
   </section>
   <section class="transcript tapes" id="transcript" hidden aria-label="Versión para leer"></section>`;
@@ -1337,7 +1366,7 @@ function cassetteHtml(e,t,total){
     <div class="cs-win"><span class="reel"><i class="pack"></i>${ICO.reel}</span><span class="reel"><i class="pack"></i>${ICO.reel}</span></div>
     <span class="cs-n">${total===1?"Cinta única":`Cinta ${t.n} de ${total}`} · ${esc(e.title)}</span></div></div>`;
 }
-/* la cinta que se ve en la grabadora: al cambiar, la anterior se expulsa y la nueva entra */
+/* la cinta que se ve en la pletina: al cambiar, la anterior se expulsa y la nueva entra */
 function bayShow(e,tapes,n,mode){
   const bay=$("bayTape"); if(!bay) return;
   if(bay.dataset.e===e.id && n===bayN) return;
@@ -1354,12 +1383,12 @@ function bayShow(e,tapes,n,mode){
 const ST_TXT={new:"Sin escuchar",half:"A medias",done:"Escuchada",na:"En preparación"};
 function tapeBtnHtml(e,x,total,p){
   const t=x.t, half = x.st==="half" && p && p.n===t.n ? " · "+fmt(p.posMs) : "";
-  const label=`${total===1?`Cinta «${t.titulo}»`:`Cinta ${t.n} de ${total}: ${t.titulo}`}. ${t.durationMs?durWords(t.durationMs)+". ":""}${ST_TXT[x.st]}${half}.${t.url?(COARSE?" Toca para meterla en la grabadora.":" Pulsa para meterla en la grabadora."):""}`;
-  return `<div class="tb-slot${x.inDeck?" indeck":""}">${x.inDeck?`<span class="tb-gone" aria-hidden="true">En la grabadora</span>`:""}
+  const label=`${total===1?`Cinta «${t.titulo}»`:`Cinta ${t.n} de ${total}: ${t.titulo}`}. ${t.durationMs?durWords(t.durationMs)+". ":""}${ST_TXT[x.st]}${half}.${t.url?(COARSE?" Toca para meterla en la pletina.":" Pulsa para meterla en la pletina."):""}`;
+  return `<div class="tb-slot${x.inDeck?" indeck":""}">${x.inDeck?`<span class="tb-gone" aria-hidden="true">Cinta ${t.n}<br>en la pletina</span>`:""}
     <button class="tc st-${x.st}" data-n="${t.n}" style="--shell:${SHELLS[(t.n-1)%SHELLS.length]};--r:${jitter(e.id+"c"+t.n,2).toFixed(2)}deg" aria-label="${esc(label)}"${x.inDeck?" hidden":""}${t.url?"":' aria-disabled="true"'}>
       <span class="tc-lab"><b class="tc-n">${t.n}</b><span class="tc-t">${esc(t.titulo)}</span><span class="tc-win" aria-hidden="true"><i></i><i></i></span></span>
       <span class="tc-foot"><span class="tc-d">${t.durationMs?fmtShort(t.durationMs):"--:--"}</span><span class="tc-s">${ST_TXT[x.st]}${half}</span></span>
-      ${x.st==="done"?`<span class="tc-stamp ink" aria-hidden="true">Escuchada</span>`:""}
+      ${x.st==="done"?`<span class="tc-stamp" aria-hidden="true">Escuchada</span>`:""}
     </button></div>`;
 }
 function renderBox(e,tapes,shown){
@@ -1412,8 +1441,12 @@ function tapeUI(deck,e,jump){
     sl.setAttribute("aria-valuenow",Math.round(pos/1000)); sl.setAttribute("aria-valuetext",(ref?`Cinta ${ref.n}: `:"")+fmt(pos)+" de "+fmt(dur)); sl.setAttribute("aria-valuemax",Math.round(dur/1000));
   }
   deck.querySelector(".t-dur").textContent=dur?fmt(dur):"--:--";
+  deck.querySelector(".t-rem").textContent=dur?"−"+fmt(Math.max(0,dur-pos)):"--:--";
   const tt = !ref ? "" : PS.expulsando && mine ? "Expulsando la cinta…" : tapes.length===1 ? "Cinta única" : PS.cambiando && mine ? `Cambiando a la cinta ${ref.n}…` : `Cinta ${ref.n} de ${tapes.length}`;
   if($("tTape").textContent!==tt) $("tTape").textContent=tt;
+  const ws = st==="playing"?"Sonando": st==="paused"?"En pausa": st==="changing"?"Cambiando de cinta": st==="ejecting"?"Expulsando": st==="ended"?"Fin de la cinta":"";
+  const wt = ws ? "▪ "+ws+(cur && st!=="changing" && TIPO_CINTA[cur.tipo] ? " · "+TIPO_CINTA[cur.tipo] : "") : "";
+  if($("wellSt").textContent!==wt) $("wellSt").textContent=wt;
   setCounter(deck,pos);
   deck.querySelectorAll(".bay .cassette:not(.out) .reel .pack").forEach((pk,i)=>pk.style.setProperty("--k",(i===0?0.95-0.55*p:0.4+0.55*p).toFixed(3)));
   const msg = !(res && res.kind==="resume" && !mine) ? "Mete aquí una cinta" : tapes.length===1 ? (res.posMs>=1000 ? `Te quedaste en ${fmt(res.posMs)}` : "Mete aquí la cinta") : `Ibas por la cinta ${res.n}${res.posMs>=1000?" · "+fmt(res.posMs):""}`;
@@ -1440,17 +1473,15 @@ function buildTapeTranscript(e,tapes){
   const withText=tapes.filter(t=>t.bloques && t.bloques.length);
   if(!withText.length){ tr.innerHTML=`<p class="tr-na">La transcripción de estas cintas todavía está en preparación.</p>`; trSel=null; return; }
   const tabs = withText.length>1;
-  tr.innerHTML=`<div class="tr-h">Transcripción ${tapes.length>1?"de las cintas":"de la cinta"} · Exp. Nº ${expNo(e)}</div>
+  tr.innerHTML=`<div class="tr-h">Leer el caso · Exp. ${expNo(e)}</div>
     ${tabs?`<div class="tr-tabs" role="tablist" aria-label="Cintas del caso">${withText.map(t=>`<button class="tr-tab" role="tab" id="trTab${t.n}" data-n="${t.n}" aria-controls="trPane${t.n}" aria-selected="false" tabindex="-1" title="${esc(t.titulo)}"><b>${t.n}</b><span>${esc(t.titulo)}</span></button>`).join("")}</div>`:""}`+
     withText.map((t,k)=>{
       const seek=!!(t.url && t.bloquesMs), nx=withText[k+1];
       return `<div class="tr-pane${seek?" seekable":""}"${tabs?` role="tabpanel" aria-labelledby="trTab${t.n}" tabindex="-1"`:""} id="trPane${t.n}" data-n="${t.n}" hidden>
         <div class="tr-cinta">${tapes.length===1?"Cinta única":`Cinta ${t.n} de ${tapes.length}`}${TIPO_CINTA[t.tipo]&&t.tipo!=="expediente"?" · "+TIPO_CINTA[t.tipo]:""}</div>
         <div class="tr-t">${esc(t.titulo)}</div>
-        <p class="tr-legend">Texto mecanografiado: la archivera. Notas a mano: el inspector.${seek?" Toca un párrafo para escucharlo desde ahí.":""}</p>
-        ${t.bloques.map((b,i)=>b.voz==="alvaro"
-          ? `<p class="blk al" data-i="${i}"${seek?' tabindex="0"':""}><span class="who">El inspector</span>${esc(b.texto)}</p>`
-          : `<p class="blk xi" data-i="${i}"${seek?' tabindex="0"':""}>${esc(b.texto)}</p>`).join("")}
+        <p class="tr-legend">Dos voces: la archivera («Archivo») y el inspector, en cursiva.${seek?" Toca un párrafo para escucharlo desde ahí.":""}</p>
+        ${t.bloques.map((b,i)=>`<p class="blk ${b.voz==="alvaro"?"al":"xi"}" data-i="${i}"${seek?' tabindex="0"':""}><span class="bh">${seek&&t.bloquesMs[i]!=null?`<i>${fmt(t.bloquesMs[i])}</i>`:""}${b.voz==="alvaro"?"Nota del inspector":"Archivo"}</span>${esc(b.texto)}</p>`).join("")}
         ${nx?`<button class="tr-next" data-go="${nx.n}">Cinta ${nx.n}: ${esc(nx.titulo)} ›</button>`:`<p class="tr-end">Fin del expediente.</p>`}
       </div>`;
     }).join("");
@@ -1489,7 +1520,7 @@ function seekToBlockTape(e,n,i){
   } else playTapeOf(e,n,b[i]);
   highlightBlock(i,n);
 }
-/* vuelo del casete de la caja a la grabadora (solo transform y opacity) */
+/* vuelo del casete de la caja a la pletina (solo transform y opacity) */
 function ghostOf(btn,r){
   const g=btn.cloneNode(true);
   g.removeAttribute("id"); g.removeAttribute("aria-label"); g.classList.add("tc-ghost"); g.setAttribute("aria-hidden","true"); g.tabIndex=-1;
@@ -1533,7 +1564,7 @@ function wireTapeBox(e){
     d.ghost.style.transform=`translate3d(${(d.x-d.x0).toFixed(1)}px,${(d.y-d.y0).toFixed(1)}px,0) rotate(-5deg) scale(1.06)`;
     const ok=overRec(d.x,d.y); if(ok!==d.over){ d.over=ok; rec.classList.toggle("drop-ok",ok); }
   };
-  // si la grabadora no se ve, la carpeta se desplaza al acercar el casete al borde
+  // si la pletina no se ve, la carpeta se desplaza al acercar el casete al borde
   const autoScroll=()=>{
     scrollRaf=0; const d=dragState; if(!d || !d.started) return;
     const br=body.getBoundingClientRect(), edge=72; let v=0;
@@ -1562,7 +1593,7 @@ function wireTapeBox(e){
       bayHint={id:e.id,n:d.n,t:Date.now(),mode:"drop"};
       playTapeOf(e,d.n);
     } else {
-      // fuera de la grabadora: el casete vuelve a su sitio en la caja
+      // fuera de la pletina: el casete vuelve a su sitio en la caja
       const g=d.ghost, btn=d.btn;
       const back=()=>{ g.remove(); btn.classList.remove("lifted"); };
       if(reduced()) back();
@@ -1657,7 +1688,7 @@ function fillTapes(e){
   $("tbLab").textContent=`Exp. Nº ${expNo(e)} · ${tapes.length} cinta${tapes.length===1?"":"s"}`;
   if(tapes.length===1){
     $("tbTitle").textContent="Pruebas · Cinta";
-    $("tbHelp").textContent=COARSE?"Toca la cinta para escucharla, o mantenla pulsada y arrástrala a la grabadora.":"Arrastra la cinta hasta la grabadora o haz clic en ella para escucharla.";
+    $("tbHelp").textContent=COARSE?"Toca la cinta para escucharla, o mantenla pulsada y arrástrala a la pletina.":"Arrastra la cinta hasta la pletina o haz clic en ella para escucharla.";
   }
   buildTapeTranscript(e,tapes);
   boxSig=""; nowBlock=null;
@@ -1695,7 +1726,8 @@ function openP(id,fromHistory){
   current=e; deckSeen=false; nowBlock=null; lastP.deck=-1;
   dropObservers(); deckIO=null;
   if(pmap){ pmap.remove(); pmap=null; }
-  $("pExp").textContent="Nº "+expNo(e)+" · "+e.title.toUpperCase(); $("pExp").title="Expediente Nº "+expNo(e);
+  $("pExp").textContent="EXP. "+expNo(e); $("pExpSub").textContent=e.title;
+  sheet.dataset.mes=e.m;                                    // la lámpara del mes del caso
   favSync();
   const [stTxt,stCls]=estado(e);
   const direct=e.links, grp=e.g.map(g=>({g,others:D.filter(o=>o!==e&&o.g.includes(g))})).filter(x=>x.others.length);
@@ -1712,61 +1744,60 @@ function openP(id,fromHistory){
   const prev=D[(e.i-1+D.length)%D.length], next=D[(e.i+1)%D.length];
   const yr=today.getFullYear(), age=yr-e.y;
   const pr=(-1.5+jitter(e.id,1.4)).toFixed(2), sr=(-8+jitter(e.id+"s",5)).toFixed(1);
-  /* ficha: si el expediente es de la víctima o del caso (vc), habla del caso y no trata a la víctima como autora */
+  /* carátula: si el expediente es de la víctima o del caso (vc), habla del caso y no trata a la víctima como autora */
   const fld=(dt,dd,cls)=>`<div class="f"><dt>${dt}</dt><dd${cls?` class="${cls}"`:""}>${dd}</dd></div>`;
-  const fecha=`${e.d} ${MESES[e.m-1].toLowerCase()} ${e.y}${age>0?`<span class="note">hace ${age} año${age===1?"":"s"}</span>`:""}`;
+  const fecha=`${e.d} ${MES3[e.m-1]}. ${e.y}${age>0?`<span class="note">hace ${age} año${age===1?"":"s"}</span>`:""}`;
+  const big = e.vc ? e.title : e.n;
+  const alias = e.vc ? "" : (e.a ? `«${e.a}»` : "");
   const rows = e.vc ? [
-      `<div class="f"><dt>Caso</dt><dd class="big" id="pName">${esc(e.title)}</dd></div>`,
-      e.title!==e.n ? fld("Nombre",esc(e.n)) : "",
-      e.a && e.a!==e.title ? fld("Alias",`«${esc(e.a)}»`,"al") : "",
-      fld("Autor",esc(e.autor)),
-      fld(EFEM[e.t].lab,fecha),
+      e.v ? fld("Víctimas",esc(e.v),"vic") : "",
       e.p ? fld("País",esc(e.p)) : "",
       e.per ? fld("Periodo",esc(e.per)) : "",
-      e.v ? fld("Víctimas",esc(e.v),"vic") : ""
-    ] : [
-      `<div class="f"><dt>Nombre</dt><dd class="big" id="pName">${esc(e.n)}</dd></div>`,
-      e.a ? fld("Alias",`«${esc(e.a)}»`,"al") : "",
-      e.titulo_caso && e.titulo_caso!==e.a ? fld("Caso",esc(e.titulo_caso)) : "",
       fld(EFEM[e.t].lab,fecha),
-      e.sx ? fld("Sexo",e.w?"Mujer":"Varón") : "",
+      fld("Autor",esc(e.autor)),
+      e.title!==e.n ? fld("Nombre",esc(e.n)) : "",
+      e.a && e.a!==e.title ? fld("Alias",`«${esc(e.a)}»`,"al") : ""
+    ] : [
+      fld("Víctimas",esc(e.v||"—"),"vic"),
       e.p ? fld("País",esc(e.p)) : "",
       fld("Actividad",esc(e.per||"—")),
-      fld("Víctimas",esc(e.v||"—"),"vic")
+      fld(EFEM[e.t].lab,fecha),
+      e.sx ? fld("Sexo",e.w?"Mujer":"Varón") : "",
+      e.titulo_caso && e.titulo_caso!==e.a ? fld("Caso",esc(e.titulo_caso)) : ""
     ];
+  const star = MIXED && e.e;
   const fuentes=fuentesDe(e);
   const host=u=>{ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(_){ return ""; } };
 
   $("pBody").innerHTML=`<div class="sh-in">
-    <article class="doc first">
-      <span class="conf-st ink">Confidencial</span>
-      <div class="doc-h"><span>TRUE CRIME CALENDAR · Archivo</span><span class="pg">Hoja 1 de 2</span></div>
-      <p class="efem">${esc(efemText(e,yr,isTodayIn(e,yr)))}</p>
-      <div class="file">
-        <div class="pcol"><div class="photo" id="realPhotoFrame" style="--pr:${pr}deg"><span class="tape l"></span><span class="tape r"></span>
-          <div class="frame"><img id="realPhoto" alt="Fotografía histórica de ${esc(e.n)}" decoding="async"><div class="fallback-portrait">${e.vc?casePlaceholder(e):identikit(e)}</div></div>
-          <div class="cap" id="photoCaption">FOTOGRAFÍA<span class="photo-credit">Buscando imagen…</span></div></div>
-          <div class="rubber ink ${stCls}" style="--sr:${sr}deg">${stTxt}</div></div>
-        <dl class="fields">
-          ${rows.join("")}
-        </dl>
+    <article class="inlay">
+      <div class="lomo"><b>${esc(big)}</b><span>${pad(dayIn(e,yr))} · ${MES3[e.m-1]}${star?" ★":""}</span></div>
+      <div class="pn">
+        <div class="lb"><b>${star?"★ Caso estrella":"Caso del archivo"}</b><span>${DIAS[new Date(yr,e.m-1,dayIn(e,yr)).getDay()]} ${dayIn(e,yr)} de ${MESES[e.m-1].toLowerCase()}</span></div>
+        <div class="file">
+          <div><h1 class="${fit(big,6,9,14,26)}" id="pName">${esc(big)}</h1>${alias?`<p class="al">${esc(alias)}</p>`:""}
+            <p class="efem">${esc(efemText(e,yr,isTodayIn(e,yr)))}</p></div>
+          <div class="pcol"><div class="photo" id="realPhotoFrame">
+            <div class="frame"><img id="realPhoto" alt="Fotografía histórica de ${esc(e.n)}" decoding="async"><div class="fallback-portrait">${e.vc?casePlaceholder(e):identikit(e)}</div></div>
+            <div class="cap" id="photoCaption">FOTOGRAFÍA<span class="photo-credit">Buscando imagen…</span></div></div>
+            <div class="rubber ${stCls}">${stTxt}</div></div>
+        </div>
+        <dl class="data">${rows.join("")}</dl>
       </div>
-      <div class="sec" style="margin-top:34px"><h4>Situación judicial</h4><div class="status">${esc(e.st||"—")}</div></div>
+      <div class="pn"><div class="lb"><b>El caso</b></div><p class="txt">${esc(e.c||"")}</p>
+        ${e.mo || !e.vc ? `<div class="lb"><b>Modus operandi</b></div><p class="txt">${esc(e.mo||"—")}</p>` : ""}</div>
+      <div class="pn"><div class="sit"><b>Situación<br>judicial</b><p>${esc(e.st||"—")}</p></div></div>
     </article>
     ${podcastHtml(e)}
-    <article class="doc two">
-      <div class="doc-h"><span>Exp. Nº ${expNo(e)} · ${esc(e.title)}</span><span class="pg">Hoja 2 de 2</span></div>
-      <div class="sec" style="margin-top:0"><h4>Resumen del caso</h4><p class="typed">${esc(e.c||"")}</p></div>
-      ${e.mo || !e.vc ? `<div class="sec"><h4>Modus operandi</h4><p class="typed">${esc(e.mo||"—")}</p></div>` : ""}
+    <article class="inlay">
+      <div class="pn"><div class="lb"><b>Material gráfico de la investigación</b></div><div class="case-gallery" id="investigationGallery"><div class="gallery-note">Preparando la consulta de imágenes…</div></div></div>
+      <div class="pn"><div class="lb"><b>Lugares</b><span>${e.loc.length} punto${e.loc.length===1?"":"s"}</span></div>
+        <div class="mapclip"><div class="pmap" id="pmap"></div></div>
+        <ul class="places">${e.loc.map(l=>`<li>${esc(l[2])}</li>`).join("")}${extra.map(l=>`<li class="lk">${esc(l[3])}: ${esc(l[2])}</li>`).join("")}</ul></div>
+      <div class="pn"><div class="lb"><b>Vínculos con otros expedientes</b>${direct.length?`<span>${direct.length}</span>`:""}</div>${lh}</div>
+      ${fuentes.length?`<div class="pn"><div class="lb"><b>Fuentes</b><span>${fuentes.length}</span></div><ol class="fuentes">${fuentes.map(f=>`<li><a href="${esc(f.url)}" target="_blank" rel="noopener noreferrer"><span class="fti">${esc(f.titulo)}</span>${f.tipo?`<span class="ft">${esc(f.tipo)}</span>`:""}${host(f.url)?`<small>${esc(host(f.url))}</small>`:""}</a></li>`).join("")}</ol></div>`:""}
+      <div class="pn"><div class="lb"><b>Más información</b></div><div class="more"><a class="btn" href="${wiki}" target="_blank" rel="noopener">Ficha de referencia (Wikipedia)</a></div></div>
     </article>
-    <section class="on-folder"><h4 class="lab-h">Material gráfico de la investigación</h4><div class="case-gallery" id="investigationGallery"><div class="gallery-note">Preparando la consulta de imágenes…</div></div></section>
-    <section class="on-folder"><h4 class="lab-h">Mapa de los hechos</h4>
-      <div class="mapclip"><span class="tape a"></span><span class="tape b"></span><div class="pmap" id="pmap"></div></div>
-      <ul class="places">${e.loc.map(l=>`<li>${esc(l[2])}</li>`).join("")}${extra.map(l=>`<li class="lk">${esc(l[3])}: ${esc(l[2])}</li>`).join("")}</ul>
-    </section>
-    <section class="on-folder"><h4 class="lab-h">Vínculos con otros expedientes</h4>${lh}</section>
-    ${fuentes.length?`<section class="on-folder"><h4 class="lab-h">Fuentes</h4><ol class="fuentes">${fuentes.map(f=>`<li><a href="${esc(f.url)}" target="_blank" rel="noopener noreferrer"><span class="fti">${esc(f.titulo)}</span>${f.tipo?`<span class="ft">${esc(f.tipo)}</span>`:""}${host(f.url)?`<small>${esc(host(f.url))}</small>`:""}</a></li>`).join("")}</ol></section>`:""}
-    <section class="on-folder"><h4 class="lab-h">Más información</h4><div class="more"><a class="btn" href="${wiki}" target="_blank" rel="noopener">Consultar ficha de referencia (Wikipedia)</a></div></section>
     <div class="navrow"><button class="btn" data-id="${prev.id}"><span>‹ ${esc(prev.title)}</span></button><button class="btn" data-id="${next.id}"><span>${esc(next.title)} ›</span></button></div>
   </div>`;
   $("pBody").scrollTop=0;
@@ -1775,7 +1806,7 @@ function openP(id,fromHistory){
   sheet.classList.remove("swap");
   const fc=$("fcover"); fc.classList.remove("anim");
   if(!wasOpen && !reduced()){
-    fc.innerHTML=`<div class="lab">TRUE CRIME CALENDAR<b>${esc(e.title)}</b>Expediente Nº ${expNo(e)}</div><span class="conf ink">Confidencial</span>`;
+    fc.innerHTML=`<div class="lab">TRUE CRIME CALENDAR<b>${esc(e.title)}</b>Expediente ${expNo(e)}</div>`;
     void fc.offsetWidth; fc.classList.add("anim");
   } else if(wasOpen && !reduced()){ void sheet.offsetWidth; sheet.classList.add("swap"); }
   loadDossierPhoto(e);
@@ -2072,7 +2103,7 @@ if(NATIVE){
   readNotif();
   pullPlayer();
 }
-audioIdxReady.then(()=>{ playerUI(true); renderResumeSlip(); });
+audioIdxReady.then(()=>{ playerUI(true); renderResumeSlip(); renderSlip(); });
 const startHash=decodeURIComponent(location.hash.slice(1));
 if(BY[startHash]){ history.replaceState(null,"",location.pathname+location.search); vm=BY[startHash].m; selDay=dayIn(BY[startHash],vy); renderCal(0); openP(startHash); }
 /* la tapa se levanta en cuanto la página está lista */

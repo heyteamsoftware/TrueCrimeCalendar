@@ -19,4 +19,5 @@
 
 ## En marcha
 
-- Rediseño de la interfaz con el prototipo B «Pletina» (`docs/prototipos/`).
+- Repasar en el móvil la interfaz «Pletina» (prototipo B, ya implementado) y pulir lo que se vea mal.
+- Lista de la web segura (política de privacidad, términos, favicon, imagen al compartir, robots y sitemap, 404, analítica y contador de visitas) para `truecrime.html`.
