@@ -236,7 +236,7 @@ function renderSlip(){
     <span class="m"><span class="jt"><span>${star?"★ Caso estrella · ":""}${cuando}</span><span>${one?esc(e0.p||""):""}</span></span>
     <span class="h ${fit(titulo,11,16,22,40)}">${esc(titulo)}</span>${one&&e0.sub?`<span class="al">${esc(e0.sub)}</span>`:""}
     <span class="ef">${esc(what)}</span>
-    <span class="ft">${tapes.map(t=>`<span class="chip">${fmtShort(t.durationMs)}</span>`).join("")}<span class="open">${one?"Abrir expediente":"Ver los expedientes"} ▸</span></span></span></span>`;
+    <span class="ft">${one&&caseHeard(e0.id)?`<span class="chip heard">✓ Escuchado</span>`:""}${tapes.map(t=>`<span class="chip">${fmtShort(t.durationMs)}</span>`).join("")}<span class="open">${one?"Abrir expediente":"Ver los expedientes"} ▸</span></span></span></span>`;
   slip.setAttribute("aria-label",`${isToday?"Efeméride de hoy":"Próxima efeméride"}: ${sameDay.map(x=>x.e.title).join(", ")}, ${first.d.getDate()} de ${MESES[first.d.getMonth()].toLowerCase()}. ${what}`);
   slip.onclick=()=>{
     const dir=Math.sign((first.d.getFullYear()*12+first.d.getMonth()+1)-(vy*12+vm));
@@ -269,9 +269,10 @@ function renderCal(dir){
     if(d<1||d>dim){ const n=d<1?prevDim+d:d-dim; h+=`<div class="cell out${col===6?" sun":""}" aria-hidden="true"><span class="num">${n}</span></div>`; continue; }
     const list=byDay[d]||[];
     const isT = vy===today.getFullYear() && vm===today.getMonth()+1 && d===today.getDate();
-    const cls=["cell", list.length?"has":"", MIXED&&list.some(e=>e.e)?"star":"", list.length>1?"x2":"", isT?"today":"", selDay===d?"sel":""].filter(Boolean).join(" ");
-    const lbl=`${d} de ${MESES[vm-1]}${isT?" (hoy)":""}${list.length?": "+list.map(e=>e.title+(MIXED&&e.e?" (caso estrella)":"")).join(", "):""}`;
-    const inner=`<span class="num">${d}</span>${isT?"<i>HOY</i>":""}`;
+    const heard=list.length>0 && list.every(e=>caseHeard(e.id));
+    const cls=["cell", list.length?"has":"", MIXED&&list.some(e=>e.e)?"star":"", list.length>1?"x2":"", heard?"heard":"", isT?"today":"", selDay===d?"sel":""].filter(Boolean).join(" ");
+    const lbl=`${d} de ${MESES[vm-1]}${isT?" (hoy)":""}${list.length?": "+list.map(e=>e.title+(MIXED&&e.e?" (caso estrella)":"")).join(", ")+(heard?(list.length>1?". Casos escuchados":". Caso escuchado"):""):""}`;
+    const inner=`<span class="num">${d}</span>${list.length?`<span class="yy" aria-hidden="true">${list.length>1?"×"+list.length:list[0].y}</span>`:""}${heard?`<span class="ok" aria-hidden="true"></span>`:""}${isT?"<i>HOY</i>":""}`;
     h+= list.length
       ? `<button class="${cls}" data-d="${d}" aria-label="${esc(lbl)}">${inner}</button>`
       : `<div class="${cls}" aria-label="${esc(lbl)}">${inner}</div>`;
@@ -299,7 +300,7 @@ function card(e,y){
   return `<button class="card${star?" star":""}" data-id="${e.id}" data-mes="${e.m}">
     <span class="dn"><b>${pad(dayIn(e,yr))}</b><small>${MES3[e.m-1]}</small></span>
     <span class="bd">${star?`<span class="sr">Caso estrella. </span>`:""}${fav?`<span class="sr">En favoritos. </span>`:""}<span class="nm">${esc(e.title)}</span>${e.sub?`<span class="al">${esc(e.sub)}</span>`:""}
-      <span class="meta">${e.p?`<span>${esc(e.p)}</span>`:""}${e.v?`<span>Víctimas: <b>${esc(e.v)}</b></span>`:""}${lk}</span>
+      <span class="meta">${caseHeard(e.id)?`<span class="heard"><span class="sr">Caso </span>✓ Escuchado</span>`:""}${e.p?`<span>${esc(e.p)}</span>`:""}${e.v?`<span>Víctimas: <b>${esc(e.v)}</b></span>`:""}${lk}</span>
       <span class="ann">${esc(efemText(e,yr,isTodayIn(e,yr)))}${leapNote}</span></span>
     <span class="yr"><b>${star?"★ ":""}${e.y}</b><span>Nº ${String(e.i+1).padStart(3,"0")}</span></span>${fav?`<span class="cfav" aria-hidden="true"></span>`:""}</button>`;
 }
@@ -736,6 +737,7 @@ const audioIdxReady=(async()=>{
   tapeCache.clear();
   return AIDX;
 })();
+audioIdxReady.then(()=>{ try{ renderCal(0); renderSlip(); }catch(_){} });   // con el índice cargado ya se sabe qué casos están vistos
 const audioInfo = id => (AIDX && AIDX[id] && typeof AIDX[id]==="object") ? AIDX[id] : null;
 /* entrada v2: { durationMs, bloquesMs } · entrada v3: { cintas:[{ n, titulo, url, durationMs, bloquesMs }] } */
 const v2Audio = id => { const inf=audioInfo(id); return inf && !Array.isArray(inf.cintas) ? inf : null; };
@@ -815,7 +817,7 @@ function progSet(id,p,now){
 }
 addEventListener("pagehide",()=>{ if(progTimer) progWrite(); });
 document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="hidden" && progTimer) progWrite(); });
-let trackPrev=null;
+let trackPrev=null, heardChanged=false;
 function trackProgress(){
   if(!PS.id || !PS.cintas || !PS.cinta){ trackPrev=null; return; }
   const id=PS.id, n=PS.cinta, old=progOf(id), done=new Set(old?old.escuchadas:[]), before=done.size;
@@ -823,12 +825,13 @@ function trackProgress(){
   // una cinta cuenta como escuchada al llegar a su final (también la que acaba de salir en el cambio automático)
   if(!PS.cambiando && PS.durationMs>0 && (PS.ended || PS.positionMs>=PS.durationMs-2500)) done.add(n);
   if(trackPrev && trackPrev.id===id && trackPrev.n!==n && trackPrev.dur>0 && trackPrev.pos>=trackPrev.dur-2500) done.add(trackPrev.n);
-  if(done.size!==before) now=true;
+  if(done.size!==before){ now=true; heardChanged=true; }
   // mientras carga, busca o suena la pletina no se guarda la posición (llegaría un 0 provisional):
   // se conserva la guardada si es la misma cinta (p. ej. «Seguir escuchando» durante «insertar»)
   const busy=PS.buffering || (pendingSeek && pendingSeek.id===id);
   const pos=(PS.cambiando || busy) ? (old && old.n===n ? old.posMs : 0) : PS.positionMs;
   progSet(id,{n,posMs:pos,escuchadas:[...done].sort((a,b)=>a-b)},now);
+  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); }catch(_){} }   // ✓ al terminar la última cinta
   if(!PS.cambiando && !busy) trackPrev={id,n,pos:PS.positionMs,dur:PS.durationMs};
 }
 /* Dónde retomar: la cinta y el punto guardados; si esa cinta ya acabó, la siguiente sin escuchar;
@@ -843,6 +846,12 @@ function resumeFrom(id,tapes){
   }
   if(!all){ const nx=ns.find(n=>n>p.n && !done.has(n)); return {n:nx!=null?nx:ns.find(n=>!done.has(n)),posMs:0,kind:"resume"}; }
   return {n:ns[0],posMs:0,kind:"again"};
+}
+/* Un caso está «visto» cuando se han escuchado todas sus cintas (marca ✓ en el calendario y en las fichas) */
+function caseHeard(id){
+  const ns=tapesOf(id).filter(t=>t.url).map(t=>t.n); if(!ns.length) return false;
+  const p=progOf(id); if(!p) return false;
+  return ns.every(n=>p.escuchadas.includes(n));
 }
 function tapeStatus(id,n){
   const p=progOf(id);
