@@ -270,6 +270,12 @@ Las cintas del servidor y los guiones de la app deben corresponderse; una versi�
 - Probar el aviso: `./gradlew :app:assembleDebug -Pvc=1` instala una compilación con `versionCode` 1.
 - La web no tiene versiones: se recarga con cada visita y ya sirve siempre el contenido actual.
 
+## 7.9. Valoración en Google Play, introducción y play de la carátula
+
+- **`TCCNative.requestReview()`** (solo en la app): pide la ventana de valoración de Google Play (In-App Review). La página la llama una sola vez (`localStorage` `tcc_valoracion`) cuando hay 5 casos cerrados; Google decide si la enseña y no informa del resultado.
+- **Introducción:** tres pantallas la primera vez que se abre la web o la app (`localStorage` `tcc_intro`); no sale a quien ya tenía progreso o favoritos, ni si se entra directo a un expediente. Se puede volver a ver en Ajustes → Ayuda.
+- **Play de la carátula** (`#qPlay`): atajo a la tecla de play de la pletina; pulsa esa misma tecla y copia su texto y su estado.
+
 ## 8.1. Correcciones de las fichas estrella y vínculos entre meses
 
 - `web/datos/correcciones_estrella.json`: `{ id: { campo: valor, "nota": "por qué" } }`. Corrige los campos `n`, `a`, `v`, `per`, `st`, `c`, `mo` y `loc` de las fichas de los casos estrella sin tocar `web/base/calendario_v3.html`. No corrige fechas, país ni vínculos. `nota` no va a la página.

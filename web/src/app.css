@@ -249,6 +249,46 @@ path.thread{stroke-dasharray:1;stroke-dashoffset:0}
 #pSeen[aria-pressed=true] circle{fill:var(--lamp)}
 #pSeen[aria-pressed=true] path{stroke:var(--ink)}
 .ib[hidden]{display:none}
+/* play de la carátula del expediente */
+.qplay{display:inline-flex;align-items:center;gap:10px;margin-top:14px;min-height:48px;padding:6px 18px 6px 7px;border-radius:26px;background:var(--ink);color:var(--card);box-shadow:0 3px 0 rgba(0,0,0,.28);transition:transform .08s}
+.qplay:active{transform:translateY(2px)}
+.qplay[hidden]{display:none}
+.qplay svg{flex:none;width:34px;height:34px;padding:10px 9px 10px 11px;border-radius:50%;background:var(--lamp);fill:var(--ink);box-sizing:border-box}
+.qplay .ico-pause{display:none;padding:10px}
+.qplay.on .ico-play{display:none}
+.qplay.on .ico-pause{display:block}
+.qplay span{display:flex;flex-direction:column;gap:4px;text-align:left}
+.qplay b{font:700 14px/1 var(--cond);letter-spacing:.18em;text-transform:uppercase}
+.qplay small{font:500 11px/1 var(--mono);opacity:.72}
+/* introducción */
+.intro{position:fixed;inset:0;z-index:3000;display:flex;align-items:center;justify-content:center;padding:16px;background:rgba(8,9,9,.8);opacity:0;transition:opacity .25s}
+.intro[hidden]{display:none}
+.intro.on{opacity:1}
+.intro-card{width:100%;max-width:400px;padding:20px 20px 16px;background:var(--ch2);border-radius:6px;box-shadow:inset 0 1px 0 #454948,0 0 0 1px #000,0 14px 40px rgba(0,0,0,.75);color:var(--silk)}
+.intro-pics{height:124px;display:grid;place-items:center;margin-bottom:18px;border-radius:4px;background:var(--pit);box-shadow:inset 0 2px 0 #050606,0 1px 0 var(--edge)}
+.ip{display:none;align-items:center;gap:10px}
+.intro[data-paso="1"] .ip1,.intro[data-paso="2"] .ip2,.intro[data-paso="3"] .ip3{display:flex}
+.ip1 .c{position:relative;width:56px;height:60px;display:grid;place-items:center;align-content:center;gap:5px;border-radius:3px;background:var(--ch3);color:var(--silk);font:600 26px/1 var(--cond);box-shadow:inset 0 1px 0 #4a4e4d,0 3px 0 #080909}
+.ip1 .c small{font:500 9px/1 var(--mono);opacity:.62}
+.ip1 .c.s{background:var(--silk);color:var(--ink)}
+.ip1 .c.s::after{content:"★";position:absolute;right:4px;top:4px;font:10px/1 var(--sans);color:var(--lamp-d)}
+.ip2 .pk{width:72px;height:72px;border-radius:50%;display:grid;place-items:center;background:var(--lamp);box-shadow:inset 0 1px 0 var(--lamp-hi),0 4px 0 #080909}
+.ip2 svg{width:26px;height:26px;fill:var(--ink);margin-left:4px}
+.ip2 .tp{position:relative;width:96px;height:60px;border-radius:5px;background:var(--card);box-shadow:0 3px 0 #080909;display:flex;align-items:center;justify-content:center;gap:16px}
+.ip2 .tp::before{content:"";position:absolute;left:8px;right:8px;top:7px;height:5px;background:var(--lamp)}
+.ip2 .tp i{width:16px;height:16px;border-radius:50%;border:2px dotted var(--ink)}
+.ip3 .ck{position:relative;width:48px;height:48px;border-radius:50%;background:var(--lamp)}
+.ip3 .ck::after{content:"";position:absolute;left:17px;top:9px;width:10px;height:20px;border:solid var(--ink);border-width:0 3.5px 3.5px 0;transform:rotate(40deg)}
+.ip3 .stamp{padding:8px 12px 7px;border:3px double var(--red);border-radius:3px;background:var(--card);color:var(--red);font:700 17px/1 var(--cond);letter-spacing:.16em;text-transform:uppercase;transform:rotate(-8deg)}
+.intro-n{font:600 10px/1 var(--cond);letter-spacing:.24em;color:var(--lamp);margin-bottom:8px}
+.intro-card h2{font:700 22px/1.1 var(--cond);letter-spacing:.1em;text-transform:uppercase;margin-bottom:8px}
+.intro-p{font:400 15px/1.45 var(--sans);color:var(--dim);min-height:5.8em}
+.intro-act{display:flex;align-items:center;gap:12px;margin-top:14px}
+.intro-go{margin-left:auto;min-height:46px;padding:0 22px;border-radius:3px;background:var(--lamp);color:var(--ink);font:700 12px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase;box-shadow:inset 0 1px 0 var(--lamp-hi),0 3px 0 #080909}
+.intro-go:active{transform:translateY(2px);box-shadow:inset 0 1px 0 var(--lamp-hi),0 1px 0 #080909}
+.intro-dots{display:flex;justify-content:center;gap:7px;margin-top:12px}
+.intro-dots i{width:6px;height:6px;border-radius:50%;background:#3d403f}
+.intro[data-paso="1"] .intro-dots i:nth-child(1),.intro[data-paso="2"] .intro-dots i:nth-child(2),.intro[data-paso="3"] .intro-dots i:nth-child(3){background:var(--lamp)}
 /* «Cerrar caso»: marca el expediente como escuchado y le pone el sello */
 .closerow{margin:0 0 14px}
 .closerow[hidden]{display:none}

@@ -832,7 +832,7 @@ function trackProgress(){
   const busy=PS.buffering || (pendingSeek && pendingSeek.id===id);
   const pos=(PS.cambiando || busy) ? (old && old.n===n ? old.posMs : 0) : PS.positionMs;
   progSet(id,{n,posMs:pos,escuchadas:[...done].sort((a,b)=>a-b)},now);
-  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); seenSync(); }catch(_){} }   // ✓ al terminar la última cinta
+  if(heardChanged){ heardChanged=false; try{ renderCal(0); renderSlip(); seenSync(); maybeAskReview(); }catch(_){} }   // ✓ al terminar la última cinta
   if(!PS.cambiando && !busy) trackPrev={id,n,pos:PS.positionMs,dur:PS.durationMs};
 }
 /* Dónde retomar: la cinta y el punto guardados; si esa cinta ya acabó, la siguiente sin escuchar;
@@ -878,12 +878,22 @@ function seenSync(){
     c.onclick=toggleSeen;
   }
 }
+/* Valoración en Google Play (solo en la app): una vez, al tener 5 casos cerrados. Google decide si la muestra. */
+function maybeAskReview(){
+  if(!NATIVE || typeof NATIVE.requestReview!=="function") return;
+  try{ if(localStorage.getItem("tcc_valoracion")==="1") return; }catch(_){ return; }
+  const n=Object.keys(PROG).filter(id=>BY[id] && caseHeard(id)).length;
+  if(n<5) return;
+  try{ localStorage.setItem("tcc_valoracion","1"); }catch(_){}
+  setTimeout(()=>{ try{ NATIVE.requestReview(); }catch(_){} },1800);
+}
 function toggleSeen(){
   if(!current) return;
   const on=!caseHeard(current.id);
   setHeard(current.id,on);
   seenSync(); SFX.play("page");
   const st=$("cerradoStamp"); if(st && on && !reduced()){ st.classList.remove("pon"); void st.offsetWidth; st.classList.add("pon"); }
+  if(on) maybeAskReview();
   renderCal(0); renderSlip();
   if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
 }
@@ -1151,8 +1161,26 @@ function setProgress(el,p,key,smooth){
 function playerUI(jump){
   const deck=$("deck");
   if(deck && current){ if(deck.dataset.kind==="v3") tapeUI(deck,current,jump); else deckUI(deck,current,jump); }
+  quickPlaySync();
   miniUI(jump);
   if(PS.id!==lastPSid){ lastPSid=PS.id; renderResumeSlip(); }
+}
+/* Play de la carátula: un atajo a la tecla de la pletina (hace exactamente lo mismo y copia su estado) */
+function quickPlaySync(){
+  const q=$("qPlay"); if(!q || !current) return;
+  const deck=$("deck"), key=deck && deck.querySelector(".key.play");
+  const tapes=tapesOf(current.id).filter(t=>t.url);
+  const ok=!!key && !key.disabled && (tapes.length>0 || deck.dataset.kind!=="v3");
+  q.hidden=!ok; if(!ok) return;
+  const playing=["playing","changing","ejecting"].includes(deck.dataset.st);
+  q.classList.toggle("on",playing);
+  const txt=playing?"Pausa":key.querySelector("span").textContent;
+  const b=q.querySelector("b"); if(b.textContent!==txt) b.textContent=txt;
+  const total=tapes.reduce((s,t)=>s+(t.durationMs||0),0);
+  const sm=tapes.length ? `${tapes.length} cinta${tapes.length>1?"s":""}${total?" · "+fmtShort(total):""}` : "";
+  const s=q.querySelector("small"); if(s.textContent!==sm) s.textContent=sm;
+  q.setAttribute("aria-label", key.getAttribute("aria-label")||txt);
+  q.onclick=()=>{ const k=$("deck") && $("deck").querySelector(".key.play"); if(k && !k.disabled) k.click(); };
 }
 function deckUI(deck,e,jump){
   const mine = PS.id===e.id;
@@ -1819,7 +1847,8 @@ function openP(id,fromHistory){
         <div class="lb"><b>${star?"★ Caso estrella":"Caso del archivo"}</b><span>${DIAS[new Date(yr,e.m-1,dayIn(e,yr)).getDay()]} ${dayIn(e,yr)} de ${MESES[e.m-1].toLowerCase()}</span></div>
         <div class="file">
           <div><h1 class="${fit(big,6,9,14,26)}" id="pName">${esc(big)}</h1>${alias?`<p class="al">${esc(alias)}</p>`:""}
-            <p class="efem">${esc(efemText(e,yr,isTodayIn(e,yr)))}</p></div>
+            <p class="efem">${esc(efemText(e,yr,isTodayIn(e,yr)))}</p>
+            <button type="button" class="qplay" id="qPlay" hidden>${ICO.play}${ICO.pause}<span><b>Escuchar</b><small></small></span></button></div>
           <div class="pcol"><div class="photo" id="realPhotoFrame">
             <div class="frame"><img id="realPhoto" alt="Fotografía histórica de ${esc(e.n)}" decoding="async"><div class="fallback-portrait">${e.vc?casePlaceholder(e):identikit(e)}</div></div>
             <div class="cap" id="photoCaption">FOTOGRAFÍA<span class="photo-credit">Buscando imagen…</span></div></div>
@@ -1847,6 +1876,7 @@ function openP(id,fromHistory){
   </div>`;
   $("pBody").scrollTop=0;
   seenSync();                                               // botón «Cerrar caso» y sello, ya con la hoja pintada
+  quickPlaySync();
   // animación: la carpeta se abre (solo al abrir; al pasar de expediente, cambio rápido)
   sheet.style.setProperty("--d0", wasOpen||reduced() ? "0ms" : "380ms");
   sheet.classList.remove("swap");
@@ -2154,3 +2184,42 @@ const startHash=decodeURIComponent(location.hash.slice(1));
 if(BY[startHash]){ history.replaceState(null,"",location.pathname+location.search); vm=BY[startHash].m; selDay=dayIn(BY[startHash],vy); renderCal(0); openP(startHash); }
 /* la tapa se levanta en cuanto la página está lista */
 (function(){ const c=$("cover"); if(!c) return; c.classList.add("go"); setTimeout(()=>c.remove(),1300); })();
+
+/* ---------- Introducción (primer arranque; se puede volver a ver desde Ajustes) ---------- */
+const INTRO=[
+  {t:"Un caso para cada día", p:"El calendario guarda 377 expedientes reales, uno para cada día del año. Debajo de cada día ves el año del caso; los días claros con ★ son los casos estrella."},
+  {t:"Escucha las cintas", p:"Abre un expediente y pulsa ▶ arriba del todo, o mete una cinta en la pletina. Si lo dejas a medias, la app recuerda por dónde ibas."},
+  {t:"Cierra el caso", p:"Al terminar las cintas, el caso se marca con ✓ en el calendario. También puedes cerrarlo tú con el botón «Cerrar caso»."}
+];
+let introI=0, introPrevFocus=null;
+function paintIntro(){
+  const s=INTRO[introI], box=$("intro");
+  box.dataset.paso=introI+1;
+  $("introT").textContent=s.t; $("introP").textContent=s.p; $("introN").textContent=`${introI+1} / ${INTRO.length}`;
+  $("introGo").textContent = introI<INTRO.length-1 ? "Siguiente" : "Empezar";
+  $("introSkip").style.visibility = introI<INTRO.length-1 ? "" : "hidden";
+}
+function showIntro(){
+  introI=0; paintIntro(); introPrevFocus=document.activeElement;
+  const box=$("intro"); box.hidden=false; requestAnimationFrame(()=>box.classList.add("on"));
+  $("introGo").focus();
+}
+function closeIntro(){
+  try{ localStorage.setItem("tcc_intro","1"); }catch(_){}
+  const box=$("intro"); box.classList.remove("on"); box.hidden=true;
+  if(introPrevFocus && introPrevFocus.focus) introPrevFocus.focus();
+}
+$("introGo").onclick=()=>{ if(introI<INTRO.length-1){ introI++; paintIntro(); SFX.play("page"); $("introGo").focus(); } else closeIntro(); };
+$("introSkip").onclick=closeIntro;
+$("intro").addEventListener("keydown",ev=>{
+  if(ev.key==="Escape"){ ev.preventDefault(); closeIntro(); return; }
+  if(ev.key==="Tab"){ const f=[$("introSkip"),$("introGo")].filter(x=>x.style.visibility!=="hidden"); const i=f.indexOf(document.activeElement);
+    ev.preventDefault(); f[(i+(ev.shiftKey?-1:1)+f.length)%f.length].focus(); }
+});
+$("introAgain").onclick=()=>{ hideSettings(); setTimeout(showIntro,250); };
+(function(){
+  let visto=false; try{ visto=localStorage.getItem("tcc_intro")==="1"; }catch(_){ visto=true; }
+  // quien ya usaba la app (progreso o favoritos guardados) no la necesita
+  if(!visto && (Object.keys(PROG).length || FAVS.size)){ visto=true; try{ localStorage.setItem("tcc_intro","1"); }catch(_){} }
+  if(!visto && !BY[startHash]) setTimeout(showIntro,1000);
+})();

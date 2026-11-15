@@ -24,6 +24,7 @@ class PuenteNativo(
     context: Context,
     private val audio: ConexionAudio,
     private val avisos: ControlAvisos,
+    private val pedirValoracion: () -> Unit = {},
 ) {
     private val app = context.applicationContext
     private val principal = Handler(Looper.getMainLooper())
@@ -126,6 +127,11 @@ class PuenteNativo(
     /** `TapeDownloadState` en JSON. Se calcula en el hilo de WebView, no en el principal. */
     @JavascriptInterface
     fun getTapeDownloadState(): String = DescargaCintasService.estadoJson(app)
+
+    // --- Valoración en Google Play (contrato 7.4): la página la pide una vez, con 5 casos cerrados ---
+
+    @JavascriptInterface
+    fun requestReview() = enPrincipal { pedirValoracion() }
 
     // --- Avisos diarios ---
 

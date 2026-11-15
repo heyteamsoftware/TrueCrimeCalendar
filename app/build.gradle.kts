@@ -70,6 +70,7 @@ dependencies {
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.session)
     implementation(libs.androidx.play.update)
+    implementation(libs.androidx.play.review)
     // La librería de Play arrastra un Fragment antiguo y lint (InvalidFragmentVersionForActivityResult) falla
     implementation(libs.androidx.fragment)
 

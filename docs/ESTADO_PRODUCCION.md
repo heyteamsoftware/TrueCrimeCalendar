@@ -199,3 +199,11 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **3.0.1 (código 11)** enviada a revisión en producción, al 100 % y en todos los países de destino. Incluye el calendario con años y ✓, «Cerrar caso» y la actualización obligatoria. Notas de la versión en es-ES.
 - Probada la versión firmada en el emulador (arranca, calendario nuevo, sin fallos). Firma comprobada: certificado de la clave de subida (SHA-256 88:00:87:57…A7:7B).
 - `version-minima.json` sigue en 10: no hace falta subirlo mientras no cambie el contenido de forma incompatible (ver CONTRATO 7.8).
+
+## 15 de noviembre, tarde: introducción, valoración y play en la ficha
+
+- **Introducción (web y app):** tres pantallas la primera vez («Un caso para cada día», «Escucha las cintas», «Cierra el caso»), con «Saltar» y puntos de avance. No sale a quien ya tenía progreso o favoritos, ni si se entra directo a un expediente. Se vuelve a ver en Ajustes → Ayuda → «Ver la introducción».
+- **Play en la carátula de la ficha (web y app):** botón «Escuchar» bajo el título con el número de cintas y la duración; pulsa la misma tecla de la pletina (la pletina sigue igual) y pasa a «Pausa» / «Seguir» / «De nuevo» con ella.
+- **Valoración en Google Play (solo app):** al cerrar el quinto caso se pide una vez la ventana de valoración de Play (`TCCNative.requestReview()`, biblioteca `com.google.android.play:review` 2.0.2). Google decide si la enseña.
+- **Probado:** en la web (local y publicada) y en el emulador con la versión de depuración: la introducción sale, el play arranca la cinta con el audio nativo y la petición de valoración llega al servicio de Play sin fallos (en una app instalada a mano Play no enseña la ventana).
+- **Web publicada.** La app tiene los cambios en el código pero **no hay versión nueva en Play**: la siguiente debe ser código 12.

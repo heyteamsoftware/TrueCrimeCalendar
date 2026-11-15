@@ -29,6 +29,7 @@ import com.heyteamsoftware.truecrimecalendar.audio.DescargaCintasService
 import com.heyteamsoftware.truecrimecalendar.audio.EstadoAudio
 import com.heyteamsoftware.truecrimecalendar.notificaciones.ControlAvisos
 import com.heyteamsoftware.truecrimecalendar.puente.PuenteNativo
+import com.heyteamsoftware.truecrimecalendar.valoracion.PedirValoracion
 import org.json.JSONObject
 import java.io.IOException
 
@@ -44,6 +45,7 @@ class MainActivity : ComponentActivity() {
     private lateinit var webView: WebView
     private lateinit var audio: ConexionAudio
     private val actualizacion = ActualizacionObligatoria(this)
+    private val valoracion = PedirValoracion(this)
     private val avisos = ControlAvisos(this) { json -> llamarWeb("TCC_onNotificationSettings", json) }
 
     // La página ha terminado de cargar: ya se le pueden pedir cosas (abrir un expediente…).
@@ -79,7 +81,7 @@ class MainActivity : ComponentActivity() {
             settings.allowFileAccess = false
             settings.allowContentAccess = false
             webViewClient = AppWebViewClient()
-            addJavascriptInterface(PuenteNativo(this@MainActivity, audio, avisos), "TCCNative")
+            addJavascriptInterface(PuenteNativo(this@MainActivity, audio, avisos) { valoracion.pedir() }, "TCCNative")
         }
         val root = FrameLayout(this).apply {
             setBackgroundColor(DESK_COLOR)
