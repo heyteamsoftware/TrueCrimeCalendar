@@ -381,13 +381,7 @@ $("pFav").onclick=()=>{
   favWrite(); favSync(); SFX.play("page");
   renderAll();
 };
-$("pSeen").onclick=()=>{
-  if(!current) return;
-  setHeard(current.id,!caseHeard(current.id));
-  seenSync(); SFX.play("page");
-  renderCal(0); renderSlip();
-  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
-};
+$("pSeen").onclick=toggleSeen;
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
   w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
@@ -873,6 +867,25 @@ function seenSync(){
   b.hidden=!can;
   b.setAttribute("aria-pressed",on);
   b.setAttribute("aria-label", on?"Quitar la marca de escuchado":"Marcar el caso como escuchado");
+  const c=$("closeCase"), st=$("cerradoStamp");
+  if(st) st.hidden=!on;
+  if(c){
+    $("closeRow").hidden=!can;
+    c.classList.toggle("on",on);
+    c.setAttribute("aria-pressed",on);
+    c.querySelector("b").textContent = on ? "Reabrir caso" : "Cerrar caso";
+    c.querySelector("small").textContent = on ? "Caso cerrado · todas las cintas escuchadas" : "Lo da por escuchado";
+    c.onclick=toggleSeen;
+  }
+}
+function toggleSeen(){
+  if(!current) return;
+  const on=!caseHeard(current.id);
+  setHeard(current.id,on);
+  seenSync(); SFX.play("page");
+  const st=$("cerradoStamp"); if(st && on && !reduced()){ st.classList.remove("pon"); void st.offsetWidth; st.classList.add("pon"); }
+  renderCal(0); renderSlip();
+  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
 }
 function tapeStatus(id,n){
   const p=progOf(id);
@@ -1817,8 +1830,10 @@ function openP(id,fromHistory){
       <div class="pn"><div class="lb"><b>El caso</b></div><p class="txt">${esc(e.c||"")}</p>
         ${e.mo || !e.vc ? `<div class="lb"><b>Modus operandi</b></div><p class="txt">${esc(e.mo||"—")}</p>` : ""}</div>
       <div class="pn"><div class="sit"><b>Situación<br>judicial</b><p>${esc(e.st||"—")}</p></div></div>
+      <div class="cerrado" id="cerradoStamp" aria-hidden="true" hidden><span>Caso cerrado</span><small>Escuchado</small></div>
     </article>
     ${podcastHtml(e)}
+    <div class="closerow" id="closeRow" hidden><button type="button" class="closecase" id="closeCase" aria-pressed="false"><i aria-hidden="true"></i><span><b>Cerrar caso</b><small>Lo da por escuchado</small></span></button></div>
     <article class="inlay">
       <div class="pn"><div class="lb"><b>Material gráfico de la investigación</b></div><div class="case-gallery" id="investigationGallery"><div class="gallery-note">Preparando la consulta de imágenes…</div></div></div>
       <div class="pn"><div class="lb"><b>Lugares</b><span>${e.loc.length} punto${e.loc.length===1?"":"s"}</span></div>
@@ -1831,6 +1846,7 @@ function openP(id,fromHistory){
     <div class="navrow"><button class="btn" data-id="${prev.id}"><span>‹ ${esc(prev.title)}</span></button><button class="btn" data-id="${next.id}"><span>${esc(next.title)} ›</span></button></div>
   </div>`;
   $("pBody").scrollTop=0;
+  seenSync();                                               // botón «Cerrar caso» y sello, ya con la hoja pintada
   // animación: la carpeta se abre (solo al abrir; al pasar de expediente, cambio rápido)
   sheet.style.setProperty("--d0", wasOpen||reduced() ? "0ms" : "380ms");
   sheet.classList.remove("swap");

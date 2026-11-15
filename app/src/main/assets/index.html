@@ -923,6 +923,25 @@ path.thread{stroke-dasharray:1;stroke-dashoffset:0}
 #pSeen[aria-pressed=true] circle{fill:var(--lamp)}
 #pSeen[aria-pressed=true] path{stroke:var(--ink)}
 .ib[hidden]{display:none}
+/* «Cerrar caso»: marca el expediente como escuchado y le pone el sello */
+.closerow{margin:0 0 14px}
+.closerow[hidden]{display:none}
+.closecase{width:100%;display:flex;align-items:center;gap:14px;min-height:60px;padding:10px 16px;border-radius:4px;background:var(--lamp);color:var(--ink);text-align:left;box-shadow:inset 0 1px 0 var(--lamp-hi),0 4px 0 #080909;transition:transform .08s,box-shadow .08s}
+.closecase:active{transform:translateY(3px);box-shadow:inset 0 1px 0 var(--lamp-hi),0 1px 0 #080909}
+.closecase i{position:relative;flex:none;width:30px;height:30px;border-radius:50%;border:2.5px solid var(--ink)}
+.closecase i::after{content:"";position:absolute;left:8.5px;top:4px;width:7px;height:13px;border:solid var(--ink);border-width:0 2.5px 2.5px 0;transform:rotate(40deg)}
+.closecase span{display:flex;flex-direction:column;gap:5px}
+.closecase b{font:700 17px/1 var(--cond);letter-spacing:.2em;text-transform:uppercase}
+.closecase small{font:500 12px/1.2 var(--sans);opacity:.8}
+.closecase.on{background:var(--ch3);color:var(--silk);box-shadow:inset 0 1px 0 #4a4e4d,0 4px 0 #080909}
+.closecase.on i{background:var(--lamp);border-color:var(--lamp)}
+.closecase.on i::after{border-color:var(--ink)}
+.cerrado{position:absolute;right:18px;bottom:112px;z-index:2;display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 14px 7px;border:3px double var(--red);border-radius:3px;color:var(--red);transform:rotate(-9deg);opacity:.82;mix-blend-mode:multiply;pointer-events:none}
+.cerrado[hidden]{display:none}
+.cerrado span{font:700 21px/1 var(--cond);letter-spacing:.16em;text-transform:uppercase}
+.cerrado small{font:600 9.5px/1 var(--cond);letter-spacing:.3em;text-transform:uppercase}
+.cerrado.pon{animation:sellar .35s cubic-bezier(.3,1.6,.6,1)}
+@keyframes sellar{from{transform:rotate(-9deg) scale(1.9);opacity:0}to{transform:rotate(-9deg) scale(1);opacity:.82}}
 .sh-body{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding:12px 12px calc(40px + var(--mini-h));position:relative}
 .sh-in{max-width:720px;margin:0 auto;position:relative}
 .sheet.swap .sh-in{animation:swapIn .28s var(--ease)}
@@ -2911,13 +2930,7 @@ $("pFav").onclick=()=>{
   favWrite(); favSync(); SFX.play("page");
   renderAll();
 };
-$("pSeen").onclick=()=>{
-  if(!current) return;
-  setHeard(current.id,!caseHeard(current.id));
-  seenSync(); SFX.play("page");
-  renderCal(0); renderSlip();
-  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
-};
+$("pSeen").onclick=toggleSeen;
 $("tSearch").onclick=()=>{
   const w=$("searchWrap"), open=w.hidden;
   w.hidden=!open; $("filters").hidden=!open; $("tSearch").setAttribute("aria-expanded",open);
@@ -3403,6 +3416,25 @@ function seenSync(){
   b.hidden=!can;
   b.setAttribute("aria-pressed",on);
   b.setAttribute("aria-label", on?"Quitar la marca de escuchado":"Marcar el caso como escuchado");
+  const c=$("closeCase"), st=$("cerradoStamp");
+  if(st) st.hidden=!on;
+  if(c){
+    $("closeRow").hidden=!can;
+    c.classList.toggle("on",on);
+    c.setAttribute("aria-pressed",on);
+    c.querySelector("b").textContent = on ? "Reabrir caso" : "Cerrar caso";
+    c.querySelector("small").textContent = on ? "Caso cerrado · todas las cintas escuchadas" : "Lo da por escuchado";
+    c.onclick=toggleSeen;
+  }
+}
+function toggleSeen(){
+  if(!current) return;
+  const on=!caseHeard(current.id);
+  setHeard(current.id,on);
+  seenSync(); SFX.play("page");
+  const st=$("cerradoStamp"); if(st && on && !reduced()){ st.classList.remove("pon"); void st.offsetWidth; st.classList.add("pon"); }
+  renderCal(0); renderSlip();
+  if(typeof playerUI==="function") playerUI();      // repinta las cintas del expediente (Escuchada / nueva)
 }
 function tapeStatus(id,n){
   const p=progOf(id);
@@ -4347,8 +4379,10 @@ function openP(id,fromHistory){
       <div class="pn"><div class="lb"><b>El caso</b></div><p class="txt">${esc(e.c||"")}</p>
         ${e.mo || !e.vc ? `<div class="lb"><b>Modus operandi</b></div><p class="txt">${esc(e.mo||"—")}</p>` : ""}</div>
       <div class="pn"><div class="sit"><b>Situación<br>judicial</b><p>${esc(e.st||"—")}</p></div></div>
+      <div class="cerrado" id="cerradoStamp" aria-hidden="true" hidden><span>Caso cerrado</span><small>Escuchado</small></div>
     </article>
     ${podcastHtml(e)}
+    <div class="closerow" id="closeRow" hidden><button type="button" class="closecase" id="closeCase" aria-pressed="false"><i aria-hidden="true"></i><span><b>Cerrar caso</b><small>Lo da por escuchado</small></span></button></div>
     <article class="inlay">
       <div class="pn"><div class="lb"><b>Material gráfico de la investigación</b></div><div class="case-gallery" id="investigationGallery"><div class="gallery-note">Preparando la consulta de imágenes…</div></div></div>
       <div class="pn"><div class="lb"><b>Lugares</b><span>${e.loc.length} punto${e.loc.length===1?"":"s"}</span></div>
@@ -4361,6 +4395,7 @@ function openP(id,fromHistory){
     <div class="navrow"><button class="btn" data-id="${prev.id}"><span>‹ ${esc(prev.title)}</span></button><button class="btn" data-id="${next.id}"><span>${esc(next.title)} ›</span></button></div>
   </div>`;
   $("pBody").scrollTop=0;
+  seenSync();                                               // botón «Cerrar caso» y sello, ya con la hoja pintada
   // animación: la carpeta se abre (solo al abrir; al pasar de expediente, cambio rápido)
   sheet.style.setProperty("--d0", wasOpen||reduced() ? "0ms" : "380ms");
   sheet.classList.remove("swap");
