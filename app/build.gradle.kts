@@ -21,8 +21,8 @@ android {
         minSdk = 26
         targetSdk = 36
         // -Pvc=1 sirve para probar el aviso de «versión demasiado antigua» con una compilación de prueba
-        versionCode = (project.findProperty("vc") as String?)?.toInt() ?: 10
-        versionName = "3.0.0"
+        versionCode = (project.findProperty("vc") as String?)?.toInt() ?: 11
+        versionName = "3.0.1"
     }
 
     signingConfigs {

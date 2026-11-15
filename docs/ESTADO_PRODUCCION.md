@@ -192,3 +192,10 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **Web instalable (PWA):** `manifest.webmanifest`, `sw.js` (copia sin conexión: primero la red para lo que cambia, copia guardada para tipografías, sonidos e iconos; no toca las cintas, el contador ni `version-minima.json`), iconos 192, 512 y «maskable», y botón «Instalar la app» en el pie cuando el navegador lo permite. Chrome/Edge comprueban sin errores de instalación en la URL real. El service worker lleva la hora de publicación (`tools/publicar_web.py`), así que cada publicación renueva la caché. Solo está en la web publicada, no en la app.
 - **Sin comprobar:** la instalación real en un móvil y en Safari/iPhone (allí se instala con «Añadir a pantalla de inicio»).
 - **Forma de trabajo acordada:** se prueba en la web (`truecrime.html`); los cambios se van guardando en el mismo código que usa la app, y no se publica versión nueva en Play hasta que el usuario lo pida. El POCO se deja en paz por ahora.
+
+## 15 de noviembre: versión 3.0.1 enviada a Google Play
+
+- La 3.0.0 quedó publicada en Google Play el 13 de noviembre de 2026.
+- **3.0.1 (código 11)** enviada a revisión en producción, al 100 % y en todos los países de destino. Incluye el calendario con años y ✓, «Cerrar caso» y la actualización obligatoria. Notas de la versión en es-ES.
+- Probada la versión firmada en el emulador (arranca, calendario nuevo, sin fallos). Firma comprobada: certificado de la clave de subida (SHA-256 88:00:87:57…A7:7B).
+- `version-minima.json` sigue en 10: no hace falta subirlo mientras no cambie el contenido de forma incompatible (ver CONTRATO 7.8).
