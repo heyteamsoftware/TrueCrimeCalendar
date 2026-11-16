@@ -1,207 +1,189 @@
 <!DOCTYPE html>
-<!-- Plantilla de los cortos verticales (1080x1920). La rellena tools/cortos/generar_corto.js:
-     preparar(datos) una vez y pintar(t) en cada fotograma (sin animaciones CSS: todo depende de t). -->
+<!-- Plantilla de los cortos verticales (1080x1920). La usa tools/cortos/generar_corto.js:
+     preparar(datos) una vez y pintar(t) en cada fotograma. Sin animaciones CSS: todo depende de t,
+     así cada fotograma es exacto. Escenas: gancho, ficha, rotulo, documento, cifras, pregunta, cierre. -->
 <html lang="es"><head><meta charset="utf-8"><title>Corto</title>
 <style>
-:root{
-  --ch:#191b1a; --ch2:#232625; --ch3:#2d302f; --pit:#0d0f0e; --edge:#3a3d3c;
-  --silk:#dcd5c2; --dim:#96938a; --red:#cf452c;
-  --card:#eae2cd; --card2:#ddd4bc; --ink:#1c1b18; --ink2:#5a554b; --pen:#1d3a72;
-  --lamp:#d9a27a;
-  --cond:"Barlow Condensed",sans-serif; --sans:"Barlow",sans-serif; --mono:"IBM Plex Mono",monospace; --hand:"Mansalva",cursive;
-}
+:root{--lamp:#d9a27a;--red:#d8432b;--card:#eae2cd;--ink:#1c1b18;--ink2:#5a554b;--pen:#1d3a72;--silk:#dcd5c2;--dim:#8f8c84;
+  --cond:"Barlow Condensed",sans-serif;--sans:"Barlow",sans-serif;--mono:"IBM Plex Mono",monospace;--hand:"Mansalva",cursive}
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{width:1080px;height:1920px;overflow:hidden;background:var(--ch);color:var(--silk);font-family:var(--sans)}
-#v{position:absolute;inset:0;overflow:hidden;
-  background:radial-gradient(1100px 760px at 50% 34%,color-mix(in srgb,var(--lamp) 15%,transparent),transparent 70%),
-             radial-gradient(1400px 1100px at 50% 60%,#222524,#141615 75%)}
-#v::after{content:"";position:absolute;inset:0;pointer-events:none;
-  background:radial-gradient(130% 90% at 50% 45%,transparent 60%,rgba(0,0,0,.55))}
-
-/* cabecera */
-.marca{position:absolute;top:84px;left:0;right:0;text-align:center}
-.marca b{display:block;font:700 60px/1 var(--cond);letter-spacing:.3em;padding-left:.3em;color:var(--silk)}
-.marca small{display:block;margin-top:14px;font:500 24px/1 var(--mono);letter-spacing:.32em;color:var(--dim)}
-.hoy{position:absolute;top:220px;left:50%;transform:translateX(-50%);white-space:nowrap;
-  font:700 38px/1 var(--cond);letter-spacing:.16em;color:#151515;background:var(--lamp);
-  padding:16px 30px 14px;border-radius:999px;box-shadow:0 0 50px color-mix(in srgb,var(--lamp) 45%,transparent)}
-
+html,body{width:1080px;height:1920px;overflow:hidden;background:#101211;color:var(--silk);font-family:var(--sans)}
+#fondo{position:absolute;inset:-60px;background:radial-gradient(900px 900px at 50% 38%,#24221f,#101211 72%)}
+#barra{position:absolute;left:0;top:0;height:10px;background:var(--lamp);z-index:5}
+#marca{position:absolute;top:58px;left:0;right:0;text-align:center;font:600 26px/1 var(--mono);letter-spacing:.24em;color:var(--dim)}
+#marca b{color:var(--silk);font-weight:600}
+.esc{position:absolute;left:0;right:0;top:170px;height:1040px;display:none;align-items:center;justify-content:center;flex-direction:column}
+/* gancho y pregunta */
+.grande{text-align:center;font:700 168px/.94 var(--cond);letter-spacing:.01em;text-transform:uppercase;color:#fff;padding:0 50px}
+.grande div{opacity:0}
+.grande .hl{color:var(--red)}
+.grande.preg div{color:#fff}
+.mano{margin-top:56px;font:400 62px/1.15 var(--hand);color:var(--lamp);text-align:center;padding:0 80px;opacity:0}
 /* ficha */
-.ficha{position:absolute;left:64px;right:64px;top:310px;background:var(--card);color:var(--ink);
-  border-radius:10px;box-shadow:0 30px 70px rgba(0,0,0,.55),0 0 0 2px rgba(0,0,0,.25)}
-.ficha .tira{display:flex;justify-content:space-between;align-items:center;background:var(--lamp);
-  padding:18px 34px 14px;border-radius:10px 10px 0 0;font:700 34px/1 var(--cond);letter-spacing:.14em}
-.ficha .cuerpo{padding:30px 40px 36px}
-.ficha .tipo{display:flex;justify-content:space-between;font:700 25px/1 var(--cond);letter-spacing:.2em;color:var(--ink2)}
-.ficha .tipo .est{color:#9a6a12}
-.ficha h1{margin-top:22px;font:700 92px/.98 var(--cond);text-transform:uppercase;letter-spacing:.005em}
-.ficha .sub{margin-top:16px;font:italic 400 38px/1.15 var(--sans);color:var(--ink2)}
-.ficha .efem{margin-top:22px;font:400 54px/1.1 var(--hand);color:var(--pen);transform:rotate(-1.5deg);transform-origin:left}
-.ficha .pais{margin-top:22px;padding-top:20px;border-top:2px dashed rgba(0,0,0,.2);display:flex;gap:26px;
-  font:600 26px/1 var(--mono);letter-spacing:.06em;color:var(--ink2);text-transform:uppercase}
-
-/* casete */
-.casete{position:absolute;left:150px;width:780px;height:470px}
-.casete svg{width:100%;height:100%;overflow:visible}
-.lamp{position:absolute;right:0;top:-46px;font:600 22px/1 var(--mono);letter-spacing:.2em;color:var(--dim);display:flex;align-items:center;gap:12px}
-.lamp i{width:18px;height:18px;border-radius:50%;background:var(--lamp);box-shadow:0 0 16px var(--lamp)}
-.barra{position:absolute;left:150px;width:780px;height:6px;border-radius:3px;background:var(--pit)}
-.barra i{display:block;height:100%;border-radius:3px;background:var(--lamp);box-shadow:0 0 12px var(--lamp)}
-
-/* subtítulos */
-.subs{position:absolute;left:110px;right:110px;text-align:center;font:600 64px/1.18 var(--sans);color:#fff;
-  text-shadow:0 4px 18px rgba(0,0,0,.9),0 0 3px #000}
-.subs.nota{color:var(--lamp)}
-.subs .quien{display:block;margin-bottom:12px;font:600 24px/1 var(--mono);letter-spacing:.24em;color:var(--dim);text-shadow:none}
-
-
+.ficha{width:900px;background:var(--card);color:var(--ink);border-radius:10px;box-shadow:0 26px 60px rgba(0,0,0,.6)}
+.ficha .tira{display:flex;justify-content:space-between;background:var(--lamp);padding:20px 34px 16px;border-radius:10px 10px 0 0;font:700 36px/1 var(--cond);letter-spacing:.14em}
+.ficha .cuerpo{padding:34px 40px 40px}
+.ficha .tipo{font:700 26px/1 var(--cond);letter-spacing:.2em;color:var(--ink2)}
+.ficha h1{margin-top:20px;font:700 104px/.95 var(--cond);text-transform:uppercase}
+.ficha .alias{margin-top:16px;font:italic 400 42px/1.15 var(--sans);color:var(--ink2)}
+.ficha .efem{margin-top:24px;font:400 48px/1.1 var(--hand);white-space:nowrap;color:var(--pen);transform:rotate(-1.5deg)}
+.ficha .lugar{margin-top:26px;padding-top:22px;border-top:2px dashed rgba(0,0,0,.2);font:600 28px/1 var(--mono);letter-spacing:.06em;color:var(--ink2);text-transform:uppercase}
+/* rótulo (sello) */
+.sello{border:10px double var(--red);color:var(--red);padding:30px 46px 22px;font:700 124px/.95 var(--cond);letter-spacing:.04em;text-align:center;text-transform:uppercase;max-width:840px}
+.sub{margin-top:50px;font:600 38px/1.3 var(--mono);letter-spacing:.12em;color:var(--dim);text-transform:uppercase;text-align:center;padding:0 60px}
+.apoyo{margin-top:70px;font:400 76px/1.1 var(--hand);color:var(--silk);text-align:center;padding:0 70px}
+/* documento */
+.doc{width:820px;background:#e4dcc6;color:var(--ink);padding:40px 50px 50px;border-radius:6px;box-shadow:0 26px 60px rgba(0,0,0,.6);transform:rotate(-2deg)}
+.doc .cab{font:700 30px/1 var(--cond);letter-spacing:.24em;color:var(--ink2);border-bottom:3px solid rgba(0,0,0,.25);padding-bottom:18px}
+.doc .et{margin-top:34px;font:600 26px/1 var(--mono);letter-spacing:.14em;color:var(--ink2)}
+.doc .nom{position:relative;display:inline-block;margin-top:12px;font:700 96px/1 var(--cond)}
+.doc .raya{position:absolute;left:-10px;top:50%;height:12px;background:var(--red);transform:rotate(-4deg);border-radius:6px}
+.doc .real{margin-top:30px;font:400 72px/1.05 var(--hand);color:var(--red);transform:rotate(-3deg);opacity:0}
+/* cifras */
+.cifras{display:flex;gap:70px}
+.cifra{text-align:center;opacity:0}
+.cifra b{display:block;font:700 330px/.9 var(--cond);color:#fff}
+.cifra span{display:block;margin-top:12px;font:700 56px/1 var(--cond);letter-spacing:.12em;color:var(--lamp)}
 /* cierre */
-.cierre{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;
-  background:radial-gradient(900px 700px at 50% 42%,color-mix(in srgb,var(--lamp) 22%,#191b1a),#111312 78%);text-align:center;opacity:0}
-.cierre img{width:330px;height:330px;border-radius:72px;box-shadow:0 30px 80px rgba(0,0,0,.6)}
-.cierre b{margin-top:60px;font:700 82px/1 var(--cond);letter-spacing:.2em;padding-left:.2em}
-.cierre p{margin-top:24px;font:400 42px/1.3 var(--sans);color:var(--silk);max-width:860px}
-.cierre .boton{margin-top:60px;font:700 46px/1 var(--cond);letter-spacing:.14em;color:#151515;background:var(--lamp);
-  padding:26px 50px 22px;border-radius:999px;box-shadow:0 0 60px color-mix(in srgb,var(--lamp) 50%,transparent)}
-.cierre small{margin-top:34px;font:600 30px/1.4 var(--mono);letter-spacing:.1em;color:var(--dim)}
-#v.sinvi::after{display:none}
+.cierre img{width:300px;height:300px;border-radius:66px;box-shadow:0 26px 70px rgba(0,0,0,.6)}
+.cierre b{margin-top:56px;font:700 84px/1 var(--cond);letter-spacing:.18em;padding-left:.18em;text-align:center}
+.cierre p{margin-top:26px;font:400 44px/1.3 var(--sans);text-align:center;padding:0 90px}
+.cierre .boton{margin-top:56px;font:700 48px/1 var(--cond);letter-spacing:.12em;color:#151515;background:var(--lamp);padding:28px 54px 24px;border-radius:999px}
+.cierre small{margin-top:34px;font:600 32px/1.4 var(--mono);letter-spacing:.08em;color:var(--dim);text-align:center}
+/* subtítulos palabra a palabra */
+#subs{position:absolute;left:60px;right:60px;top:1250px;text-align:center;font:700 92px/1.05 var(--cond);text-transform:uppercase;color:#fff;
+  text-shadow:0 5px 0 #000,0 0 16px rgba(0,0,0,.9)}
+#subs .ya{color:#fff}#subs .ahora{color:var(--lamp)}#subs .luego{color:rgba(255,255,255,.6)}
 </style></head>
-<body><div id="v">
-  <div class="marca"><b>TRUE CRIME CALENDAR</b><small>ARCHIVO SONORO DE EXPEDIENTES</small></div>
-  <div class="hoy" id="hoy"></div>
-  <div class="ficha" id="ficha">
-    <div class="tira"><span id="exp"></span><span id="dia"></span></div>
-    <div class="cuerpo">
-      <div class="tipo"><span id="tipo"></span><span id="anio"></span></div>
-      <h1 id="titulo"></h1>
-      <div class="sub" id="sub"></div>
-      <div class="efem" id="efem"></div>
-      <div class="pais"><span id="pais"></span><span id="cintas"></span></div>
-    </div>
-  </div>
-  <div class="casete" id="casete">
-    <div class="lamp"><i id="luz"></i>PLAY</div>
-    <svg viewBox="0 0 780 470">
-      <rect x="0" y="0" width="780" height="470" rx="34" fill="#2b2e2d" stroke="#454948" stroke-width="3"/>
-      <rect x="14" y="14" width="752" height="442" rx="24" fill="none" stroke="#1f2221" stroke-width="2"/>
-      <!-- etiqueta -->
-      <rect x="50" y="40" width="680" height="270" rx="14" fill="#eae2cd"/>
-      <rect x="50" y="40" width="680" height="54" rx="14" fill="var(--lamp)"/>
-      <rect x="50" y="80" width="680" height="14" fill="var(--lamp)"/>
-      <text id="etiq1" x="78" y="78" font-family="Barlow Condensed" font-weight="700" font-size="32" letter-spacing="4" fill="#151515"></text>
-      <text id="etiq2" x="390" y="148" text-anchor="middle" font-family="Mansalva" font-size="40" fill="#1d3a72"></text>
-      <!-- ventana -->
-      <rect x="170" y="170" width="440" height="122" rx="61" fill="#0d0f0e" stroke="#3a3d3c" stroke-width="3"/>
-      <circle id="cintaI" cx="265" cy="231" r="54" fill="#3b2a1f"/>
-      <circle id="cintaD" cx="515" cy="231" r="40" fill="#3b2a1f"/>
-      <g id="bobI" transform="translate(265 231)"><circle r="34" fill="#e9e3d3"/><circle r="12" fill="#0d0f0e"/>
-        <g fill="#0d0f0e"><rect x="-4" y="-30" width="8" height="15"/><rect x="-4" y="15" width="8" height="15"/>
-        <rect x="-30" y="-4" width="15" height="8"/><rect x="15" y="-4" width="15" height="8"/></g></g>
-      <g id="bobD" transform="translate(515 231)"><circle r="34" fill="#e9e3d3"/><circle r="12" fill="#0d0f0e"/>
-        <g fill="#0d0f0e"><rect x="-4" y="-30" width="8" height="15"/><rect x="-4" y="15" width="8" height="15"/>
-        <rect x="-30" y="-4" width="15" height="8"/><rect x="15" y="-4" width="15" height="8"/></g></g>
-      <!-- parte baja -->
-      <path d="M150 470 L190 360 H590 L630 470" fill="#232625" stroke="#3a3d3c" stroke-width="3"/>
-      <circle cx="250" cy="420" r="16" fill="#0d0f0e"/><circle cx="530" cy="420" r="16" fill="#0d0f0e"/>
-      <circle cx="320" cy="404" r="10" fill="#0d0f0e"/><circle cx="460" cy="404" r="10" fill="#0d0f0e"/>
-      <text id="contador" x="390" y="424" text-anchor="middle" font-family="IBM Plex Mono" font-weight="600" font-size="30" fill="#96938a"></text>
-    </svg>
-  </div>
-  <div class="barra" id="barra"><i id="barraI"></i></div>
-  <div class="subs" id="subs"></div>
-  <div class="cierre" id="cierre">
-    <img id="icono" alt="">
-    <b>TRUE CRIME CALENDAR</b>
-    <p>Un caso criminal real para cada día del año, contado en cintas.</p>
-    <div class="boton" id="boton">ESCUCHA LA CINTA COMPLETA</div>
-    <small>Gratis en Google Play<br>y en la web</small>
-  </div>
-</div>
+<body>
+<div id="fondo"></div><div id="barra"></div>
+<div id="marca"><b>TRUE CRIME CALENDAR</b> · <span id="mexp"></span></div>
+<div id="escenas"></div>
+<div id="subs"></div>
 <script>
-let D=null;
+let D=null, E=[];
 const $=id=>document.getElementById(id);
-const ease=x=>1-Math.pow(1-Math.min(1,Math.max(0,x)),3);
-const mmss=s=>String(Math.floor(s/60)).padStart(2,"0")+":"+String(Math.floor(s%60)).padStart(2,"0");
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const ease=x=>1-Math.pow(1-cl(x),3);
+const norm=s=>s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9ñ]/g,"");
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;");
+
+/* momento en que se dice la primera palabra que empieza como «clave» (o una fracción de la escena) */
+function cuando(e,clave,frac){
+  const k=norm(clave||"");
+  const p=k&&e.palabras.find(p=>{const w=norm(p.w); return w && w.slice(0,5)===k.slice(0,5);});
+  return p?p.t0:e.t0+(e.t1-e.t0)*frac;
+}
+
+/* trozos de subtítulo: 2-3 palabras, cortando en la puntuación */
+function trozos(pal){
+  const out=[]; let cur=[];
+  pal.forEach((p,i)=>{
+    cur.push(p);
+    const len=cur.map(x=>x.w).join(" ").length;
+    if(/[.,;:!?…]$/.test(p.w) || len>=13 || cur.length>=3){ out.push(cur); cur=[]; }
+  });
+  if(cur.length) out.push(cur);
+  return out;
+}
 
 window.preparar=async datos=>{
   D=datos;
   document.documentElement.style.setProperty("--lamp",D.lamp);
-  $("hoy").textContent=D.hoy;
-  $("exp").textContent="EXP. "+D.exp; $("dia").textContent=D.dia;
-  $("tipo").innerHTML=D.estrella?'<span class="est">★ CASO ESTRELLA</span>':"CASO DEL ARCHIVO";
-  $("anio").textContent=D.anio;
-  $("titulo").textContent=D.titulo; $("sub").textContent=D.sub||""; $("sub").hidden=!D.sub;
-  $("efem").textContent=D.efem;
-  $("pais").textContent=D.pais; $("cintas").textContent=D.cintasTxt;
-  $("etiq1").textContent="CINTA "+D.cinta+" · "+D.exp;
-  $("etiq2").textContent=D.tituloCinta;
-  $("icono").src=D.icono;
+  $("mexp").textContent="EXP. "+D.exp;
+  const cont=$("escenas");
+  E=D.escenas.map((e,k)=>{
+    const el=document.createElement("div"); el.className="esc"; el.id="e"+k;
+    let h="";
+    if(e.tipo==="gancho"||e.tipo==="pregunta"){
+      h=`<div class="grande${e.tipo==="pregunta"?" preg":""}">${e.lineas.map((l,i)=>`<div class="${(e.destacar||[]).includes(i)?"hl":""}">${esc(l)}</div>`).join("")}</div>`+
+        (e.sub?`<div class="mano">${esc(e.sub)}</div>`:"");
+    } else if(e.tipo==="ficha"){
+      h=`<div class="ficha"><div class="tira"><span>EXP. ${D.exp}</span><span>${D.dia}</span></div><div class="cuerpo">
+        <div class="tipo">${D.estrella?"★ CASO ESTRELLA":"CASO DEL ARCHIVO"}</div><h1>${esc(D.titulo)}</h1>
+        ${D.alias?`<div class="alias">${esc(D.alias)}</div>`:""}<div class="efem">${esc(D.efem)}</div>
+        <div class="lugar">${esc(D.lugar)}</div></div></div>`;
+    } else if(e.tipo==="rotulo"){
+      h=`<div class="sello">${esc(e.rotulo)}</div>${e.sub?`<div class="apoyo">${esc(e.sub)}</div>`:""}`;
+    } else if(e.tipo==="documento"){
+      h=`<div class="doc"><div class="cab">DOCUMENTO DE IDENTIDAD</div><div class="et">NOMBRE</div>
+        <div class="nom">${esc(e.tachado)}<i class="raya"></i></div><div class="real">${esc(e.real)}</div></div>
+        ${e.sub?`<div class="sub">${esc(e.sub)}</div>`:""}`;
+    } else if(e.tipo==="cifras"){
+      h=`<div class="cifras">${e.cifras.map(c=>`<div class="cifra"><b>${esc(c[0])}</b><span>${esc(c[1])}</span></div>`).join("")}</div>`;
+    } else if(e.tipo==="cierre"){
+      el.classList.add("cierre");
+      h=`<img src="${D.icono}"><b>TRUE CRIME CALENDAR</b><p>Un caso criminal real para cada día del año, contado en cintas.</p>
+        <div class="boton">ESCUCHA EL CASO COMPLETO</div><small>Gratis en Google Play · sin anuncios</small>`;
+    }
+    el.innerHTML=h; cont.appendChild(el);
+    return {...e, el, trozos:trozos(e.palabras)};
+  });
   await document.fonts.ready;
-  // el título se encoge hasta que la ficha cabe; la etiqueta de la cinta, hasta que cabe en su ancho
-  const h1=$("titulo"); let fs=92;
-  while((h1.scrollHeight>3*fs*1.0 || $("ficha").offsetHeight>580) && fs>54){ fs-=4; h1.style.fontSize=fs+"px"; }
-  const e2=$("etiq2"); let f2=40; while(e2.getComputedTextLength()>620 && f2>24){ f2-=2; e2.setAttribute("font-size",f2); }
-  const fondo=310+$("ficha").offsetHeight, cas=fondo+76;
-  $("casete").style.top=cas+"px";
-  $("barra").style.top=(cas+470+24)+"px";
-  $("subs").style.top=(cas+470+62)+"px";
-  return {ficha:$("ficha").offsetHeight, fs, casete:cas, barra:cas+470+24, subs:cas+470+62};
-};
-
-/* Capas para componer con ffmpeg (más rápido que fotograma a fotograma):
-   "fondo": todo lo fijo, sin bobinas, subtítulos ni cierre · "sub" + k: solo el subtítulo k, fondo transparente ·
-   "cierre": la pantalla final. */
-window.capa=(nombre,k)=>{
-  const vis=(id,on)=>{ $(id).style.visibility=on?"visible":"hidden"; };
-  const solo=nombre==="sub";
-  document.documentElement.style.background=document.body.style.background=solo?"transparent":"";
-  $("v").style.background=solo?"transparent":""; $("v").classList.toggle("sinvi",solo);
-  ["ficha","casete","barra","hoy"].forEach(id=>vis(id,!solo));
-  document.querySelector(".marca").style.visibility=solo?"hidden":"visible";
-  vis("subs",solo); vis("cierre",nombre==="cierre");
-  $("cierre").style.opacity=nombre==="cierre"?1:0;
-  ["bobI","bobD"].forEach(id=>$(id).style.visibility="hidden");
-  $("barraI").style.width="0"; $("contador").textContent="";
-  [$("ficha"),$("casete")].forEach(el=>{el.style.transform="none";el.style.opacity=1;});
-  if(solo){
-    const s=D.subs[k], nota=s.voz!=="ximena", box=$("subs");
-    box.className="subs"+(nota?" nota":"");
-    box.innerHTML=(nota?'<span class="quien">NOTA DEL ARCHIVO</span>':"")+s.txt;
-    box.style.transform="none"; box.style.opacity=1;
-  }
+  // textos grandes que no quepan: se encogen
+  E.forEach(e=>{
+    e.el.style.display="flex";
+    e.el.querySelectorAll(".grande,.sello,.ficha h1").forEach(n=>{
+      let fs=parseFloat(getComputedStyle(n).fontSize);
+      while((n.scrollWidth>n.clientWidth+2 || n.offsetHeight>(n.classList.contains("grande")?760:420)) && fs>60){ fs-=6; n.style.fontSize=fs+"px"; }
+    });
+    e.el.style.display="none";
+  });
+  return E.length;
 };
 
 window.pintar=t=>{
-  const dur=D.duracion, fin=D.final;
-  // entrada: la ficha baja y el casete sube
-  const a=ease(t/0.6);
-  $("ficha").style.transform=`translateY(${(1-a)*-60}px)`; $("ficha").style.opacity=a;
-  $("casete").style.transform=`translateY(${(1-a)*80}px)`; $("casete").style.opacity=a;
-  const tc=Math.min(t,fin);                      // la cinta suena hasta «fin»
-  const corre=t<fin-0.5;
-  const ang=tc*170;
-  const p=tc/fin;
-  const rI=54-p*10, rD=40+p*10;
-  $("cintaI").setAttribute("r",rI); $("cintaD").setAttribute("r",rD);
-  $("bobI").setAttribute("transform",`translate(265 231) rotate(${ang})`);
-  $("bobD").setAttribute("transform",`translate(515 231) rotate(${ang*rI/rD})`);
-  $("contador").textContent=String(Math.floor(tc*3.1)).padStart(3,"0");
-  $("luz").style.opacity=corre?1:.25;
-  $("barraI").style.width=(p*100)+"%";
-  const s=D.subs.find(s=>t>=s.t0&&t<s.t1+0.25&&t<fin-0.3);
-  const box=$("subs");
-  if(s){
-    const nota=s.voz!=="ximena";
-    box.className="subs"+(nota?" nota":"");
-    const html=(nota?'<span class="quien">NOTA DEL ARCHIVO</span>':"")+s.txt;
-    if(box.dataset.k!==s.t0+""){ box.innerHTML=html; box.dataset.k=s.t0; }
-    const k=ease((t-s.t0)/0.12);
-    box.style.transform=`scale(${0.94+0.06*k})`; box.style.opacity=k;
-  } else { box.style.opacity=0; }
-  // cierre: aparece con la voz final
-  const c=ease((t-(fin-0.45))/0.5);
-  $("cierre").style.opacity=c;
-  $("boton").style.transform=`scale(${1+0.03*Math.sin(Math.max(0,t-fin)*5)})`;
+  $("barra").style.width=(cl(t/D.duracion)*100)+"%";
+  // escena activa: desde su inicio hasta el inicio de la siguiente
+  let k=E.findIndex((e,i)=>t<(E[i+1]?E[i+1].t0:1e9));
+  if(k<0) k=E.length-1;
+  E.forEach((e,i)=>e.el.style.display=i===k?"flex":"none");
+  const e=E[k], d=t-e.t0, fin=(E[k+1]?E[k+1].t0:D.duracion);
+  const zoom=1+0.04*cl((t-e.t0)/Math.max(1,fin-e.t0));
+  $("fondo").style.transform=`scale(${zoom})`;
+  $("marca").style.opacity=(e.tipo==="gancho"||e.tipo==="cierre")?0:1;
+  e.el.style.transform=`scale(${1+0.025*cl((t-e.t0)/Math.max(1,fin-e.t0))})`;
+  const golpe=x=>{const a=ease(x/0.14); return {o:a, s:1.22-0.22*a};};
+
+  if(e.tipo==="gancho"||e.tipo==="pregunta"){
+    const lineas=[...e.el.querySelectorAll(".grande div")];
+    lineas.forEach((n,i)=>{
+      const p=e.palabras[Math.min(e.palabras.length-1,Math.floor(i*e.palabras.length/lineas.length))];
+      const g=golpe(t-(p?p.t0:e.t0));
+      n.style.opacity=g.o; n.style.transform=`scale(${g.s})`;
+    });
+    const m=e.el.querySelector(".mano");
+    if(m){ const t2=cuando(e,"entonces",0.5)-0.15; m.style.opacity=ease((t-t2)/0.3); }
+  } else if(e.tipo==="ficha"){
+    const a=ease(d/0.35); const f=e.el.querySelector(".ficha");
+    f.style.transform=`translateY(${(1-a)*80}px) rotate(${(1-a)*-3}deg)`; f.style.opacity=a;
+  } else if(e.tipo==="rotulo"){
+    const s=e.el.querySelector(".sello"), g=golpe(t-(e.al?cuando(e,e.al,0.3):e.t0+0.15));
+    s.style.opacity=g.o; s.style.transform=`rotate(-4deg) scale(${g.s})`;
+    const sb=e.el.querySelector(".apoyo"); if(sb){ const a=ease((t-e.t0)/0.3); sb.style.opacity=a; sb.style.transform=`translateY(${(1-a)*30}px) rotate(-2deg)`; }
+  } else if(e.tipo==="documento"){
+    const doc=e.el.querySelector(".doc"), a=ease(d/0.3);
+    doc.style.opacity=a; doc.style.transform=`rotate(-2deg) translateY(${(1-a)*60}px)`;
+    const tr=cuando(e,e.al||"falso",0.55)-0.25, raya=e.el.querySelector(".raya"), nom=e.el.querySelector(".nom");
+    raya.style.width=(nom.offsetWidth+20)*ease((t-tr)/0.35)+"px";
+    e.el.querySelector(".real").style.opacity=ease((t-tr-0.3)/0.3);
+    const sb=e.el.querySelector(".sub"); if(sb) sb.style.opacity=ease((d-0.3)/0.4);
+  } else if(e.tipo==="cifras"){
+    [...e.el.querySelectorAll(".cifra")].forEach((n,i)=>{
+      const g=golpe(t-cuando(e,e.cifras[i][1],(i+1)/(e.cifras.length+1)));
+      n.style.opacity=g.o; n.style.transform=`scale(${g.s})`;
+    });
+  } else if(e.tipo==="cierre"){
+    const a=ease(d/0.4); e.el.style.opacity=a;
+    e.el.querySelector(".boton").style.transform=`scale(${1+0.035*Math.sin(Math.max(0,d)*5)})`;
+  }
+
+  // subtítulos palabra a palabra (no en gancho, pregunta ni cierre: allí el texto ya está en pantalla)
+  const sub=$("subs");
+  if(["gancho","pregunta","cierre"].includes(e.tipo)){ sub.innerHTML=""; return; }
+  const tr=e.trozos.find((g,i)=>t>=g[0].t0-0.05 && t<(e.trozos[i+1]?e.trozos[i+1][0].t0-0.05:g[g.length-1].t1+0.3));
+  if(!tr){ sub.innerHTML=""; return; }
+  sub.innerHTML=tr.map(p=>`<span class="${t>=p.t1?"ya":t>=p.t0?"ahora":"luego"}">${esc(p.w)}</span>`).join(" ");
 };
 </script>
 </body></html>

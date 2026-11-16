@@ -1,0 +1,15 @@
+{
+  "id": "romasanta",
+  "nota": "Hechos tomados de la ficha y de las cintas 1 y 2 (assets/podcast/romasanta.json). El corte final deja fuera la sentencia, la carta del hipnólogo francés y el indulto.",
+  "escenas": [
+    {"tipo": "gancho", "voz": "alvaro", "texto": "Confesó trece asesinatos.", "lineas": ["CONFESÓ", "13 ASESINATOS"]},
+    {"tipo": "gancho", "voz": "alvaro", "texto": "Y su defensa fue esta: me convertía en lobo.", "lineas": ["SU DEFENSA:", "«ME CONVERTÍA", "EN LOBO»"], "destacar": [1, 2]},
+    {"tipo": "ficha", "texto": "Galicia, mediados del siglo diecinueve. Manuel Blanco Romasanta es un buhonero que conoce todos los caminos de la sierra."},
+    {"tipo": "rotulo", "texto": "Varias mujeres, algunas con sus hijos, aceptan viajar con él. Les promete trabajo en otras tierras. Nunca llegan.", "rotulo": "NUNCA LLEGARON", "al": "nunca", "sub": "Mujeres y niños de las aldeas"},
+    {"tipo": "rotulo", "texto": "Mientras tanto, él vende sus ropas.", "rotulo": "VENDÍA SUS ROPAS"},
+    {"tipo": "documento", "texto": "En 1852 lo reconocen en Toledo. Vivía con un nombre falso.", "tachado": "ANTONIO GÓMEZ", "al": "falso", "real": "Manuel Blanco Romasanta", "sub": "Nombela (Toledo), 1852"},
+    {"tipo": "cifras", "texto": "Lo detienen. No hay cadáveres. Solo su confesión: una maldición lo convertía en lobo en las noches de luna llena.", "cifras": [["0", "CADÁVERES"], ["1", "CONFESIÓN"]]},
+    {"tipo": "pregunta", "texto": "Un tribunal tenía que decidir qué creer. Y entonces llegó una carta desde Francia.", "lineas": ["¿QUÉ CREYÓ", "EL TRIBUNAL?"], "sub": "Y entonces llegó una carta desde Francia…"},
+    {"tipo": "cierre", "texto": "El caso completo, en la app TRUE CRIME CALENDAR."}
+  ]
+}

@@ -1,11 +1,11 @@
 // Genera un corto vertical (1080x1920, MP4) de un caso para YouTube Shorts, TikTok e Instagram Reels,
-// más un texto con título, descripción y etiquetas para cada red.
+// a partir de su guion corto (tools/cortos/guiones/<id>.json), más la portada y los textos para cada red.
 //
-// Uso: node tools/cortos/generar_corto.js <id> [--fecha AAAA-MM-DD] [--cinta 1] [--fps 30] [--rehacer-audio]
-// El navegador (Edge sin ventana) dibuja las capas fijas con la plantilla y ffmpeg las anima y las une con el audio.
-//   --fecha: día de publicación (por defecto, el próximo aniversario del caso). Sale en el vídeo: «Un día como hoy».
+// Uso: node tools/cortos/generar_corto.js <id> [--fecha AAAA-MM-DD] [--hilos 3] [--rehacer-voz]
+//   --fecha: día de publicación (por defecto, el próximo aniversario del caso).
 // Resultado: cortos/<MM-DD>_<id>/corto.mp4, portada.jpg y textos.txt (la carpeta cortos/ no va en git).
-// Necesita: Edge (modo sin ventana), ffmpeg y la cinta en cintas/<id>/ (tools/generar_cintas.py).
+// Cómo: tools/cortos/voz_corto.py hace la voz y el sonido; Edge sin ventana pinta cada fotograma con
+// tools/cortos/plantilla.html (varios Edge a la vez) y ffmpeg une los fotogramas con el audio.
 const fs = require("fs"), path = require("path"), vm = require("vm"), os = require("os");
 const { spawn, spawnSync } = require("child_process");
 
@@ -14,18 +14,19 @@ const ASSETS = path.join(RAIZ, "app", "src", "main", "assets");
 const EDGE = "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe";
 const PLAY = "https://play.google.com/store/apps/details?id=com.heyteamsoftware.truecrimecalendar";
 const WEB = "https://myappsserver.duckdns.org/truecrimescalendar/truecrime.html";
+const FPS = 30;
 const LAMP = ["#f2a43c", "#ee8fa6", "#a6d06a", "#b9a2ee", "#e6e05a", "#5fd0bd", "#f58a5a", "#f7b955", "#cfc27a", "#ef7f6b", "#d9a27a", "#8fc1e6"];
 const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
-const MES3 = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+const MES3 = ["ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC"];
 const EFEM = { nacimiento: "del nacimiento", crimen: "del crimen", detencion: "de la detención", condena: "de la condena",
   hallazgo: "del hallazgo", desaparicion: "de la desaparición", golpe: "del golpe" };
 
 const args = process.argv.slice(2);
 const opt = (k, d) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : d; };
-const CON_VALOR = ["--fecha", "--cinta", "--fps"];
+const CON_VALOR = ["--fecha", "--hilos", "--muestras"];
 const ID = args.find((a, i) => !a.startsWith("--") && !CON_VALOR.includes(args[i - 1]));
-if (!ID) { console.error("Uso: node tools/cortos/generar_corto.js <id> [--fecha AAAA-MM-DD] [--cinta 1] [--fps 30]"); process.exit(1); }
-const CINTA = Number(opt("--cinta", 1)), FPS = Number(opt("--fps", 30));
+if (!ID) { console.error("Uso: node tools/cortos/generar_corto.js <id> [--fecha AAAA-MM-DD] [--hilos 3] [--rehacer-voz]"); process.exit(1); }
+const HILOS = Number(opt("--hilos", 3));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const norm = s => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 const pad = (n, k = 2) => String(n).padStart(k, "0");
@@ -39,9 +40,8 @@ function caso(id) {
   if (i < 0) throw new Error("No existe el caso " + id);
   const e = ctx.D[i];
   const vc = !!(e.autor && norm(e.autor).trim() !== norm(e.n).trim());
-  const titulo = vc ? (e.titulo_caso || e.n) : e.n;
   const t = norm(e.tipo_efemeride).replace(/[^a-z]/g, "");
-  return { ...e, i, titulo, sub: vc ? (titulo !== e.n ? e.n : "") : (e.a ? "«" + e.a + "»" : ""),
+  return { ...e, i, titulo: vc ? (e.titulo_caso || e.n) : e.n, alias: !vc && e.a ? "«" + e.a + "»" : (vc && e.titulo_caso ? e.n : ""),
     tipo: EFEM[t] ? t : "nacimiento", estrella: e.estrella !== false };
 }
 
@@ -60,35 +60,28 @@ function efem(e, anios) {
 }
 
 // ---------- textos para cada red ----------
-function textos(e, pub, au, anios) {
-  const fecha = `${e.d} de ${MESES[e.m - 1]} de ${e.y}`;
-  const resumen = String(e.c || "").split(/(?<=\.)\s+/).slice(0, 2).join(" ");
-  const pais = "#" + e.p.toLowerCase().replace(/ñ/g, "\u0001").normalize("NFD").replace(/[̀-ͯ]/g, "")
+function textos(e, pub, guion, anios) {
+  const gancho = guion.escenas.filter(s => s.tipo === "gancho").map(s => s.texto).join(" ");
+  const pais = "#" + e.p.toLowerCase().replace(/ñ/g, "\u0001").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .replace(/\u0001/g, "ñ").replace(/[^a-zñ]/g, "");
-  const tags = ["#truecrime", "#truecrimeespañol", "#crimenesreales", "#undiacomohoy", "#historia", pais];
-  const yt = `${e.titulo} · Un día como hoy`.slice(0, 92) + " #shorts";
-  const efe = efem(e, anios);
+  const tags = ["#truecrime", "#truecrimeespañol", "#crimenesreales", "#undiacomohoy", "#misterio", pais];
+  const fecha = `${e.d} de ${MESES[e.m - 1]} de ${e.y}`;
+  const quien = e.titulo + (e.alias ? ", " + e.alias : "");
   return [
-    `Publicar el ${pub.d} de ${MESES[pub.m - 1]} de ${pub.y}`,
-    "",
-    "=== YOUTUBE SHORTS ===",
-    "Título:", yt, "",
+    `Publicar el ${pub.d} de ${MESES[pub.m - 1]} de ${pub.y} (${efem(e, anios).toLowerCase()})`, "",
+    "=== YOUTUBE SHORTS ===", "Título:", `${gancho}`.slice(0, 90) + " #shorts", "",
     "Descripción:",
-    `${efe} (${fecha}). ${resumen}`, "",
-    `Esto es el principio de la cinta ${au.cinta} («${au.titulo}»). El caso completo, ${au.cintas === 1 ? "en su cinta" : "en sus " + au.cintas + " cintas"} (unos ${au.minutos} minutos), está en TRUE CRIME CALENDAR: un caso criminal real para cada día del año.`,
+    `${quien} (${fecha}). ${gancho}`, "",
+    "¿Cómo acabó? El caso completo, contado en cintas, está en TRUE CRIME CALENDAR: un caso criminal real para cada día del año.",
     `▶ Google Play: ${PLAY}`, `▶ Web: ${WEB}`, "",
     "Reconstrucción basada en documentos públicos. Narración con voz sintética.", "",
-    tags.join(" "),
-    "Al subir: marcar «contenido alterado o sintético» → Sí (voz generada).", "",
+    tags.join(" "), "Al subir: «contenido alterado o sintético» → Sí (voz generada).", "",
     "=== TIKTOK ===",
-    `${efe}: ${e.titulo}. La cinta completa, en la app TRUE CRIME CALENDAR (enlace en el perfil). Voz sintética. ${tags.join(" ")}`,
+    `${gancho} ${quien}. ¿Cómo acabó? Caso completo en la app TRUE CRIME CALENDAR (enlace en el perfil). Voz sintética. ${tags.join(" ")}`,
     "Al subir: activar «Contenido generado por IA».", "",
-    "=== INSTAGRAM REELS ===",
-    `${efe}: ${e.titulo}.`, "",
-    `${resumen}`, "",
-    "🎧 La cinta completa, en la app TRUE CRIME CALENDAR (enlace en la bio). Narración con voz sintética.", "",
-    tags.join(" "),
-    "Al subir: activar la etiqueta «Información de IA».", "",
+    "=== INSTAGRAM REELS ===", `${gancho}`, "", `${quien} (${fecha}).`, "",
+    "🎧 ¿Cómo acabó? El caso completo, en la app TRUE CRIME CALENDAR (enlace en la bio). Narración con voz sintética.", "",
+    tags.join(" "), "Al subir: activar la etiqueta «Información de IA».", "",
   ].join("\n");
 }
 
@@ -100,113 +93,91 @@ function fuentesCss() {
     (_, f) => `url(data:font/woff2;base64,${fs.readFileSync(path.join(dir, f)).toString("base64")})`);
 }
 
+// ---------- un Edge sin ventana con la plantilla cargada ----------
+async function navegador(datos, puerto) {
+  const perfil = fs.mkdtempSync(path.join(os.tmpdir(), "tcc-corto-"));
+  const edge = spawn(EDGE, ["--headless=new", "--disable-gpu", "--hide-scrollbars", "--force-color-profile=srgb",
+    `--remote-debugging-port=${puerto}`, `--user-data-dir=${perfil}`, "--no-first-run", "about:blank"], { stdio: "ignore" });
+  let pg = null;
+  for (let i = 0; i < 40 && !pg; i++) { await sleep(500); try { pg = (await (await fetch(`http://127.0.0.1:${puerto}/json`)).json()).find(t => t.type === "page"); } catch (_) {} }
+  if (!pg) throw new Error("Edge no arranca");
+  const ws = new WebSocket(pg.webSocketDebuggerUrl); await new Promise(o => ws.onopen = o);
+  let n = 0; const pend = new Map();
+  ws.onmessage = m => { const r = JSON.parse(m.data); if (pend.has(r.id)) { pend.get(r.id)(r); pend.delete(r.id); } };
+  const cdp = (method, params = {}) => new Promise(ok => { const id = ++n; pend.set(id, ok); ws.send(JSON.stringify({ id, method, params })); });
+  const js = async expr => { const r = await cdp("Runtime.evaluate", { expression: expr, awaitPromise: true, returnByValue: true });
+    if (r.result.exceptionDetails) throw new Error(JSON.stringify(r.result.exceptionDetails).slice(0, 600)); return r.result.result.value; };
+  await cdp("Page.enable");
+  await cdp("Emulation.setDeviceMetricsOverride", { width: 1080, height: 1920, deviceScaleFactor: 1, mobile: false });
+  await cdp("Page.navigate", { url: "file:///" + path.join(__dirname, "plantilla.html").replace(/\\/g, "/") });
+  await sleep(1200);
+  await js(`(()=>{const s=document.createElement("style");s.textContent=${JSON.stringify(fuentesCss())};document.head.appendChild(s);})()`);
+  await js(`preparar(${JSON.stringify(datos)})`);
+  const foto = async (t, archivo, calidad = 90) => {
+    await js(`pintar(${t.toFixed(4)})`);
+    fs.writeFileSync(archivo, Buffer.from((await cdp("Page.captureScreenshot", { format: "jpeg", quality: calidad, optimizeForSpeed: true })).result.data, "base64"));
+  };
+  const cerrar = () => { try { ws.close(); } catch (_) {} edge.kill(); setTimeout(() => { try { fs.rmSync(perfil, { recursive: true, force: true }); } catch (_) {} }, 1500); };
+  return { foto, cerrar };
+}
+
 async function main() {
   const e = caso(ID);
+  const guion = JSON.parse(fs.readFileSync(path.join(__dirname, "guiones", ID + ".json"), "utf8"));
   const pub = fechaPublicacion(e);
   const anios = pub.y - e.y;
   const dir = path.join(RAIZ, "cortos", `${pad(pub.m)}-${pad(pub.d)}_${ID}`);
   fs.mkdirSync(dir, { recursive: true });
-  if (args.includes("--rehacer-audio") || !fs.existsSync(path.join(dir, "audio.json"))) {
-    const r = spawnSync("python", [path.join(__dirname, "preparar_audio.py"), ID, dir, "--cinta", String(CINTA)], { stdio: "inherit" });
-    if (r.status) throw new Error("preparar_audio.py ha fallado");
+  // la voz se rehace si se pide o si el texto hablado del guion ya no es el que se grabó
+  const ficheroT = path.join(dir, "tiempos.json");
+  const grabado = fs.existsSync(ficheroT) ? JSON.parse(fs.readFileSync(ficheroT, "utf8")) : null;
+  const hablado = s => s.map(x => (x.voz || "ximena") + "|" + x.texto).join("\n");
+  if (args.includes("--rehacer-voz") || !grabado || hablado(grabado.escenas) !== hablado(guion.escenas)) {
+    const r = spawnSync("python", [path.join(__dirname, "voz_corto.py"), ID, dir], { stdio: "inherit" });
+    if (r.status) throw new Error("voz_corto.py ha fallado");
   }
-  const au = JSON.parse(fs.readFileSync(path.join(dir, "audio.json"), "utf8"));
-  const datos = { ...au, lamp: LAMP[e.m - 1], hoy: `UN DÍA COMO HOY · ${pub.d} DE ${MESES[pub.m - 1].toUpperCase()}`,
-    exp: `${e.y}-${pad(e.i + 1, 3)}`, dia: `${pub.d} · ${MES3[pub.m - 1].toUpperCase()}`, anio: String(e.y),
-    titulo: e.titulo, sub: e.sub, efem: efem(e, anios), pais: e.p,
-    cintasTxt: `${au.cintas} ${au.cintas === 1 ? "CINTA" : "CINTAS"} · ${au.minutos} MIN`, tituloCinta: au.titulo,
+  const tiempos = JSON.parse(fs.readFileSync(ficheroT, "utf8"));
+  // lo visual (rótulos, cifras, palabra clave…) siempre sale del guion actual
+  tiempos.escenas = tiempos.escenas.map((s, k) => ({ ...guion.escenas[k], t0: s.t0, t1: s.t1, palabras: s.palabras }));
+  const datos = { ...tiempos, lamp: LAMP[e.m - 1], exp: `${e.y}-${pad(e.i + 1, 3)}`, dia: `${e.d} · ${MES3[e.m - 1]} · ${e.y}`,
+    titulo: e.titulo, alias: e.alias, efem: efem(e, anios), lugar: [e.p, e.per].filter(Boolean).join(" · "),
     estrella: e.estrella, icono: "data:image/png;base64," + fs.readFileSync(path.join(RAIZ, "play", "icono-512.png")).toString("base64") };
-  fs.writeFileSync(path.join(dir, "textos.txt"), textos(e, pub, au, anios), "utf8");
+  fs.writeFileSync(path.join(dir, "textos.txt"), textos(e, pub, guion, anios), "utf8");
 
-  // ---------- Edge sin ventana, fotograma a fotograma ----------
-  const PORT = 9400 + Math.floor(Math.random() * 400);
-  const perfil = fs.mkdtempSync(path.join(os.tmpdir(), "tcc-corto-"));
-  const edge = spawn(EDGE, ["--headless=new", "--disable-gpu", "--hide-scrollbars", "--force-color-profile=srgb",
-    `--remote-debugging-port=${PORT}`, `--user-data-dir=${perfil}`, "--no-first-run", "about:blank"], { stdio: "ignore" });
-
-  try {
-    let pg = null;
-    for (let i = 0; i < 40 && !pg; i++) { await sleep(500); try { pg = (await (await fetch(`http://127.0.0.1:${PORT}/json`)).json()).find(t => t.type === "page"); } catch (_) {} }
-    const ws = new WebSocket(pg.webSocketDebuggerUrl); await new Promise(o => ws.onopen = o);
-    let n = 0; const pend = new Map();
-    ws.onmessage = m => { const r = JSON.parse(m.data); if (pend.has(r.id)) { pend.get(r.id)(r); pend.delete(r.id); } };
-    const cdp = (method, params = {}) => new Promise(ok => { const id = ++n; pend.set(id, ok); ws.send(JSON.stringify({ id, method, params })); });
-    const js = async expr => { const r = await cdp("Runtime.evaluate", { expression: expr, awaitPromise: true, returnByValue: true });
-      if (r.result.exceptionDetails) throw new Error(JSON.stringify(r.result.exceptionDetails).slice(0, 500)); return r.result.result.value; };
-    await cdp("Page.enable");
-    await cdp("Emulation.setDeviceMetricsOverride", { width: 1080, height: 1920, deviceScaleFactor: 1, mobile: false });
-    await cdp("Page.navigate", { url: "file:///" + path.join(__dirname, "plantilla.html").replace(/\\/g, "/") });
-    await sleep(1500);
-    await js(`(()=>{const s=document.createElement("style");s.textContent=${JSON.stringify(fuentesCss())};document.head.appendChild(s);})()`);
-    const medida = await js(`preparar(${JSON.stringify(datos)})`);
-    console.log(`${ID}: ficha ${medida.ficha}px, título ${medida.fs}px, ${au.duracion}s a ${FPS} fps`);
-
-    // portada (para la miniatura): la ficha con el primer subtítulo, pintada entera en el navegador
-    await js(`pintar(2.2)`);
-    fs.writeFileSync(path.join(dir, "portada.jpg"), Buffer.from((await cdp("Page.captureScreenshot", { format: "jpeg", quality: 92 })).result.data, "base64"));
-
-    // capas: el navegador dibuja lo fijo una vez y ffmpeg anima bobinas, barra, contador, subtítulos y cierre
-    const capas = path.join(dir, "_capas");
-    fs.rmSync(capas, { recursive: true, force: true }); fs.mkdirSync(capas);
-    const foto = async (archivo, clip) => fs.writeFileSync(path.join(capas, archivo),
-      Buffer.from((await cdp("Page.captureScreenshot", { format: "png", ...(clip ? { clip: { ...clip, scale: 1 } } : {}) })).result.data, "base64"));
-    await js(`capa("fondo")`); await foto("fondo.png");
-    await js(`capa("cierre")`); await foto("cierre.png");
-    await cdp("Emulation.setDefaultBackgroundColorOverride", { color: { r: 0, g: 0, b: 0, a: 0 } });
-    const SUB_H = 300;
-    for (let k = 0; k < au.subs.length; k++) {
-      await js(`capa("sub",${k})`);
-      await foto(`sub${k}.png`, { x: 0, y: medida.subs - 20, width: 1080, height: SUB_H });
-    }
-    await js(`capa("sub",0); document.getElementById("subs").style.visibility="hidden";
-      document.getElementById("casete").style.visibility="visible";
-      document.querySelectorAll("#casete svg > *, #casete .lamp").forEach(n=>n.style.visibility="hidden");
-      document.getElementById("bobI").style.visibility="visible";`);
-    await foto("bobina.png", { x: 150 + 265 - 40, y: medida.casete + 231 - 40, width: 80, height: 80 });
-
-    // ---------- composición ----------
-    const dur = au.duracion.toFixed(2), fin = au.final;
-    const ent = [["-loop", "1", "-t", dur, "-i", "fondo.png"], ["-loop", "1", "-t", dur, "-i", "bobina.png"],
-      ["-loop", "1", "-t", dur, "-i", "cierre.png"], ...au.subs.map((_, k) => ["-loop", "1", "-t", dur, "-i", `sub${k}.png`]),
-      ["-i", path.join(dir, "audio.wav")]];
-    const lamp = datos.lamp.replace("#", "0x");
-    const cx1 = 150 + 265 - 40, cx2 = 150 + 515 - 40, cy = medida.casete + 231 - 40;
-    const g = [
-      `[0:v]format=rgba[f0]`,
-      `[1:v]format=rgba,rotate=a='2.97*if(lt(t,${fin}),t,${fin})':c=none,split[r1][r2]`,
-      `[f0][r1]overlay=${cx1}:${cy}:format=auto[f1]`,
-      `[f1][r2]overlay=${cx2}:${cy}:format=auto[f2]`,
-      `color=c=0x0d0f0e:s=780x6:r=${FPS}:d=${dur}[pista]`,
-      `color=c=${lamp}:s=780x6:r=${FPS}:d=${dur}[luz]`,
-      `[pista][luz]overlay=x='-780+780*if(lt(t,${fin}),t/${fin},1)':y=0[barra]`,
-      `[f2][barra]overlay=150:${medida.barra}[f3]`,
-      `[f3]drawtext=fontfile='C\\:/Windows/Fonts/consolab.ttf':text='%{eif\\:3.1*if(lt(t\\,${fin})\\,t\\,${fin})\\:d\\:3}':fontcolor=0x96938a:fontsize=30:x=${150 + 390}-tw/2:y=${medida.casete + 424 - 24}[f4]`,
-    ];
-    let prev = "f4";
-    au.subs.forEach((s, k) => {
-      const a = Math.max(0, s.t0), b = Math.min(s.t1 + 0.15, fin - 0.35);
-      if (b <= a) return;
-      g.push(`[${3 + k}:v]format=rgba,fade=t=in:st=${a}:d=0.12:alpha=1,fade=t=out:st=${b.toFixed(2)}:d=0.1:alpha=1[s${k}]`);
-      g.push(`[${prev}][s${k}]overlay=0:${medida.subs - 20}:enable='between(t,${a},${(b + 0.1).toFixed(2)})'[g${k}]`);
-      prev = `g${k}`;
-    });
-    g.push(`[2:v]format=rgba,fade=t=in:st=${(fin - 0.45).toFixed(2)}:d=0.5:alpha=1[cz]`);
-    g.push(`[${prev}][cz]overlay=0:0:enable='gte(t,${(fin - 0.45).toFixed(2)})'[f9]`);
-    g.push(`[f9]fade=t=in:st=0:d=0.35,format=yuv420p[v]`);
-    fs.writeFileSync(path.join(capas, "grafo.txt"), g.join(";\n"), "utf8");
-    const salida = path.join(dir, "corto.mp4");
-    const t0 = Date.now();
-    const r = spawnSync("ffmpeg", ["-v", "error", "-y", ...ent.flat(), "-filter_complex_script", "grafo.txt",
-      "-map", "[v]", "-map", `${ent.length - 1}:a`, "-r", String(FPS), "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-      "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-t", dur, "-movflags", "+faststart", salida], { cwd: capas, stdio: "inherit" });
-    if (r.status) throw new Error("ffmpeg ha fallado");
-    fs.rmSync(capas, { recursive: true, force: true });
-    console.log(`✓ ${path.relative(RAIZ, salida)} (${(fs.statSync(salida).size / 1048576).toFixed(1)} MB, ${Math.round((Date.now() - t0) / 1000)} s)`);
-    ws.close();
-  } finally {
-    edge.kill();
-    try { fs.rmSync(perfil, { recursive: true, force: true }); } catch (_) {}
+  if (opt("--muestras")) {                     // --muestras 1.5,8,20: solo esos fotogramas, para revisar el diseño
+    const b = await navegador(datos, 9390);
+    try {
+      for (const t of opt("--muestras").split(",").map(Number)) await b.foto(t, path.join(dir, `muestra_${t}.jpg`), 85);
+    } finally { b.cerrar(); }
+    console.log("muestras en", path.relative(RAIZ, dir));
+    return;
   }
+  const fotos = path.join(dir, "_fotos");
+  fs.rmSync(fotos, { recursive: true, force: true }); fs.mkdirSync(fotos);
+  const total = Math.ceil(tiempos.duracion * FPS);
+  const t0 = Date.now();
+  let hechos = 0;
+  const base = 9400 + Math.floor(Math.random() * 300);
+  const nav = await Promise.all(Array.from({ length: HILOS }, (_, h) => navegador(datos, base + h)));
+  try {
+    // portada: el gancho ya entero en pantalla
+    const g = tiempos.escenas[0];
+    await nav[0].foto(Math.min(g.t1 - 0.05, g.t0 + 1.6), path.join(dir, "portada.jpg"), 92);
+    await Promise.all(nav.map(async (b, h) => {
+      for (let f = h; f < total; f += HILOS) {
+        await b.foto(f / FPS, path.join(fotos, `f${pad(f, 5)}.jpg`));
+        if (++hechos % (FPS * 5) === 0) process.stdout.write(`  ${Math.round(hechos / FPS)}s/${Math.round(tiempos.duracion)}s\r`);
+      }
+    }));
+  } finally { nav.forEach(b => b.cerrar()); }
+  const pintado = Math.round((Date.now() - t0) / 1000);
+  const salida = path.join(dir, "corto.mp4");
+  const r = spawnSync("ffmpeg", ["-v", "error", "-y", "-framerate", String(FPS), "-i", path.join(fotos, "f%05d.jpg"),
+    "-i", path.join(dir, "audio.wav"), "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
+    "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-shortest", "-movflags", "+faststart", salida], { stdio: "inherit" });
+  if (r.status) throw new Error("ffmpeg ha fallado");
+  fs.rmSync(fotos, { recursive: true, force: true });
+  console.log(`✓ ${path.relative(RAIZ, salida)} (${(fs.statSync(salida).size / 1048576).toFixed(1)} MB; fotogramas en ${pintado} s, total ${Math.round((Date.now() - t0) / 1000)} s)`);
 }
 
 main().catch(err => { console.error(err.message || err); process.exit(1); });
