@@ -208,3 +208,8 @@ Todo lo que ya estaba guardado y validado sigue en GitHub.
 - **Probado:** en la web (local y publicada) y en el emulador con la versión de depuración: la introducción sale, el play arranca la cinta con el audio nativo y la petición de valoración llega al servicio de Play sin fallos (en una app instalada a mano Play no enseña la ventana).
 - **Web publicada.** A petición del usuario, **3.0.2 (código 12)** enviada a revisión en producción el mismo día (100 %, todos los países, notas en es-ES); la 3.0.1 ya estaba activa. Probada antes la versión firmada en el emulador. La siguiente versión debe ser código 13.
 - **Vídeo promocional en la ficha de Play:** corto de YouTube `https://www.youtube.com/watch?v=YI_EYGx6pFU` (publicado como Short). Declarado como recurso creado o editado con IA (solo el vídeo). Enviado a revisión junto con la 3.0.2, lo que reinició su revisión.
+
+## 16 de noviembre: cortos para redes (prueba)
+
+- **Herramienta:** `node tools/cortos/generar_corto.js <id> [--fecha AAAA-MM-DD]` hace un vídeo vertical 1080x1920 de 40 a 50 s para YouTube Shorts, TikTok y Reels: el principio de la cinta (desde «Cinta uno») con el sonido de casete de la app, la ficha, un casete con bobinas que giran, subtítulos ajustados a las pausas reales y un cierre con la voz de Ximena que invita a la app. También deja la portada y `textos.txt` (título, descripción y etiquetas por red, con aviso de voz sintética). Tarda unos 30 s por vídeo: el navegador dibuja las capas fijas (`tools/cortos/plantilla.html`) y ffmpeg las anima.
+- **Prueba:** Romasanta (18 nov), El Vaquilla (19 nov) y Kennedy (22 nov) en `cortos/` (fuera de git). Falta que el usuario los vea y decida si se publican y en qué redes.

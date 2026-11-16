@@ -26,3 +26,6 @@ tools/fuentes_sonido/
 
 # Versión web montada para subir al servidor (tools/publicar_web.py)
 /web/publicada/
+
+# Cortos para redes (tools/cortos): vídeos generados, no van en git
+/cortos/
