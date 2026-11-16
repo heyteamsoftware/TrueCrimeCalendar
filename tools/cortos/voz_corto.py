@@ -20,13 +20,15 @@ from variantes_cinta import SR, ffmpeg_cadena, nivelar, retardo_variable, ruido_
 ASSETS = os.path.join(RAIZ, "app", "src", "main", "assets")
 VOCES = {"ximena": ("es-ES-XimenaNeural", "+9%", "+0Hz"), "alvaro": ("es-ES-AlvaroNeural", "+0%", "-3Hz")}
 PRON = {"TRUE CRIME CALENDAR": "Tru Cráim Cálendar"}
-HUECO = {"gancho": 0.12, "pregunta": 0.35, "cierre": 0.45}      # silencio antes de la escena (por defecto 0.22)
-COLA = 0.9                                                       # silencio al final
+HUECO = {"gancho": 0.12, "pregunta": 0.35, "cierre": 0.8}      # silencio antes de la escena (por defecto 0.22)
+COLA = 2.6                                                       # el cartel final se queda en pantalla
+RITMO_CIERRE = "+0%"                                             # el cierre, sin prisa
 
 
-async def locutar(texto, voz, mp3):
+async def locutar(texto, voz, mp3, ritmo=None):
     import edge_tts
     nombre, rate, pitch = VOCES[voz]
+    rate = ritmo or rate
     palabras = []
     for intento in range(4):
         try:
@@ -72,6 +74,14 @@ def golpe(n_seg, f0=70, f1=34, dur=0.9, nivel=0.5):
     return s.astype(np.float32)
 
 
+def tecla(rng):
+    """Golpe de máquina de escribir: chasquido corto con algo de cuerpo."""
+    n = int(0.045 * SR)
+    t = np.arange(n) / SR
+    x = rng.standard_normal(n) * np.exp(-t * 160) * 0.35 + np.sin(2 * np.pi * 180 * t) * np.exp(-t * 90) * 0.15
+    return x.astype(np.float32)
+
+
 def fondo(n, rng):
     """Zumbido grave que respira: dos notas graves y ruido muy filtrado."""
     t = np.arange(n) / SR
@@ -114,7 +124,8 @@ def main():
             t = e["texto"]
             for a, b in sorted(pron.items(), key=lambda kv: -len(kv[0])):
                 t = re.sub(r"\b" + re.escape(a) + r"\b", b, t)
-            tareas.append(locutar(t, e.get("voz", "ximena"), os.path.join(salida, f"_e{k}.mp3")))
+            ritmo = e.get("ritmo") or (RITMO_CIERRE if e["tipo"] == "cierre" else None)
+            tareas.append(locutar(t, e.get("voz", "ximena"), os.path.join(salida, f"_e{k}.mp3"), ritmo))
         return await asyncio.gather(*tareas)
     res = asyncio.run(todas())
 
@@ -149,7 +160,14 @@ def main():
 
     y = v + fondo(len(v), rng)
     for e in escenas:
-        if e["tipo"] in ("gancho", "pregunta"):
+        if e["tipo"] == "gancho" and e.get("estilo") == "maquina":
+            # una tecla por letra, al ritmo con que la plantilla escribe el texto
+            n = len("\n".join(e["lineas"]))
+            dur = max(0.5, (e["t1"] - e["t0"]) * 0.85)
+            for k in range(n):
+                if "\n".join(e["lineas"])[k] != " ":
+                    poner(y, tecla(rng), e["t0"] + dur * k / n, 0.9)
+        elif e["tipo"] in ("gancho", "pregunta", "hora", "titular") or e.get("golpe"):
             poner(y, golpe(len(y)), max(0, e["t0"] - 0.03))
     poner(y, sfx("insertar-cinta.ogg"), 0.0, 0.35)
     cierre = next((e for e in escenas if e["tipo"] == "cierre"), None)

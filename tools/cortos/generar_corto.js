@@ -139,7 +139,7 @@ async function main() {
   const tiempos = JSON.parse(fs.readFileSync(ficheroT, "utf8"));
   // lo visual (rótulos, cifras, palabra clave…) siempre sale del guion actual
   tiempos.escenas = tiempos.escenas.map((s, k) => ({ ...guion.escenas[k], t0: s.t0, t1: s.t1, palabras: s.palabras }));
-  const datos = { ...tiempos, lamp: LAMP[e.m - 1], exp: `${e.y}-${pad(e.i + 1, 3)}`, dia: `${e.d} · ${MES3[e.m - 1]} · ${e.y}`,
+  const datos = { ...tiempos, lamp: guion.acento || LAMP[e.m - 1], exp: `${e.y}-${pad(e.i + 1, 3)}`, dia: `${e.d} · ${MES3[e.m - 1]} · ${e.y}`,
     titulo: e.titulo, alias: e.alias, efem: efem(e, anios), lugar: [e.p, e.per].filter(Boolean).join(" · "),
     estrella: e.estrella, icono: "data:image/png;base64," + fs.readFileSync(path.join(RAIZ, "play", "icono-512.png")).toString("base64") };
   fs.writeFileSync(path.join(dir, "textos.txt"), textos(e, pub, guion, anios), "utf8");
@@ -174,7 +174,8 @@ async function main() {
   const salida = path.join(dir, "corto.mp4");
   const r = spawnSync("ffmpeg", ["-v", "error", "-y", "-framerate", String(FPS), "-i", path.join(fotos, "f%05d.jpg"),
     "-i", path.join(dir, "audio.wav"), "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
-    "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-shortest", "-movflags", "+faststart", salida], { stdio: "inherit" });
+    // volumen igualado entre cortos (-14 LUFS, el que usan YouTube, TikTok e Instagram)
+    "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-shortest", "-movflags", "+faststart", salida], { stdio: "inherit" });
   if (r.status) throw new Error("ffmpeg ha fallado");
   fs.rmSync(fotos, { recursive: true, force: true });
   console.log(`✓ ${path.relative(RAIZ, salida)} (${(fs.statSync(salida).size / 1048576).toFixed(1)} MB; fotogramas en ${pintado} s, total ${Math.round((Date.now() - t0) / 1000)} s)`);

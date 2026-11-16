@@ -1,15 +1,17 @@
 {
   "id": "romasanta",
-  "nota": "Hechos tomados de la ficha y de las cintas 1 y 2 (assets/podcast/romasanta.json). El corte final deja fuera la sentencia, la carta del hipnólogo francés y el indulto.",
+  "estilo": "Leyenda: el hombre lobo frente a lo que dicen los papeles. Gancho con golpes, sellos rojos y documento tachado.",
+  "fuentes": "Ficha y cintas 1 y 2 (assets/podcast/romasanta.json): buhonero, mujeres y niños que no llegaron, ropas vendidas, detención en Nombela (Toledo) en 1852 con nombre falso, sin cadáveres, confesión de 13 asesinatos por una maldición de lobo, condena a muerte en Allariz (1853), carta del hipnólogo francés, indulto real con cadena perpetua (1854), primer asesino en serie documentado de España.",
   "escenas": [
     {"tipo": "gancho", "voz": "alvaro", "texto": "Confesó trece asesinatos.", "lineas": ["CONFESÓ", "13 ASESINATOS"]},
     {"tipo": "gancho", "voz": "alvaro", "texto": "Y su defensa fue esta: me convertía en lobo.", "lineas": ["SU DEFENSA:", "«ME CONVERTÍA", "EN LOBO»"], "destacar": [1, 2]},
-    {"tipo": "ficha", "texto": "Galicia, mediados del siglo diecinueve. Manuel Blanco Romasanta es un buhonero que conoce todos los caminos de la sierra."},
-    {"tipo": "rotulo", "texto": "Varias mujeres, algunas con sus hijos, aceptan viajar con él. Les promete trabajo en otras tierras. Nunca llegan.", "rotulo": "NUNCA LLEGARON", "al": "nunca", "sub": "Mujeres y niños de las aldeas"},
-    {"tipo": "rotulo", "texto": "Mientras tanto, él vende sus ropas.", "rotulo": "VENDÍA SUS ROPAS"},
-    {"tipo": "documento", "texto": "En 1852 lo reconocen en Toledo. Vivía con un nombre falso.", "tachado": "ANTONIO GÓMEZ", "al": "falso", "real": "Manuel Blanco Romasanta", "sub": "Nombela (Toledo), 1852"},
-    {"tipo": "cifras", "texto": "Lo detienen. No hay cadáveres. Solo su confesión: una maldición lo convertía en lobo en las noches de luna llena.", "cifras": [["0", "CADÁVERES"], ["1", "CONFESIÓN"]]},
-    {"tipo": "pregunta", "texto": "Un tribunal tenía que decidir qué creer. Y entonces llegó una carta desde Francia.", "lineas": ["¿QUÉ CREYÓ", "EL TRIBUNAL?"], "sub": "Y entonces llegó una carta desde Francia…"},
-    {"tipo": "cierre", "texto": "El caso completo, en la app TRUE CRIME CALENDAR."}
+    {"tipo": "ficha", "texto": "Galicia, siglo diecinueve. Manuel Blanco Romasanta, un buhonero que conoce todos los caminos."},
+    {"tipo": "rotulo", "texto": "Varias mujeres, algunas con sus hijos, se van con él: les promete trabajo lejos. Nunca llegan. Y él vende sus ropas.", "rotulo": "NUNCA LLEGARON", "al": "nunca", "sub": "Mujeres y niños de las aldeas"},
+    {"tipo": "documento", "texto": "En 1852 lo detienen en Toledo. Vivía con un nombre falso.", "tachado": "ANTONIO GÓMEZ", "al": "falso", "real": "Manuel Blanco Romasanta", "sub": "Nombela (Toledo), 1852"},
+    {"tipo": "cifras", "texto": "No hay cadáveres. Solo su confesión: una maldición lo convertía en lobo.", "cifras": [["0", "CADÁVERES"], ["1", "CONFESIÓN"]]},
+    {"tipo": "rotulo", "texto": "El tribunal no creyó en ningún hombre lobo. En 1853 lo condenó a muerte.", "rotulo": "CONDENADO A MUERTE", "al": "condenó", "sub": "Allariz, 1853"},
+    {"tipo": "tarjeta", "texto": "Pero tras la carta de un hipnólogo francés, un indulto real la cambió por cadena perpetua.", "cabecera": "Indulto real · 1854", "nombre": "Cadena perpetua", "detalle": "Tras una carta desde Francia", "al": "indulto"},
+    {"tipo": "cifras", "texto": "Hoy se le considera el primer asesino en serie documentado de España.", "cifras": [["1.º", "ASESINO EN SERIE"]], "sub": "documentado de España", "al": "documentado"},
+    {"tipo": "cierre", "texto": "Si quieres escuchar la historia completa, está en la app TRUE CRIME CALENDAR."}
   ]
 }

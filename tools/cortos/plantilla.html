@@ -50,6 +50,32 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#101211;color:va
 .cierre p{margin-top:26px;font:400 44px/1.3 var(--sans);text-align:center;padding:0 90px}
 .cierre .boton{margin-top:56px;font:700 48px/1 var(--cond);letter-spacing:.12em;color:#151515;background:var(--lamp);padding:28px 54px 24px;border-radius:999px}
 .cierre small{margin-top:34px;font:600 32px/1.4 var(--mono);letter-spacing:.08em;color:var(--dim);text-align:center}
+/* gancho a máquina de escribir */
+.maquina{font:600 92px/1.2 var(--mono);color:#fff;text-align:left;padding:0 80px;white-space:pre-wrap;width:100%}
+.maquina i{display:inline-block;width:.55em;height:.9em;background:var(--lamp);vertical-align:-.1em;margin-left:4px}
+/* hora */
+.reloj{font:700 300px/.9 var(--mono);color:#fff;letter-spacing:-.02em}
+.reloj-l{margin-top:40px;font:700 64px/1.05 var(--cond);letter-spacing:.14em;color:var(--lamp);text-transform:uppercase;text-align:center;padding:0 60px}
+.reloj-f{margin-top:18px;font:600 34px/1 var(--mono);letter-spacing:.16em;color:var(--dim);text-transform:uppercase}
+/* titular de periódico */
+.diario{width:900px;background:#e9e4d6;color:#141414;padding:30px 44px 46px;box-shadow:0 26px 60px rgba(0,0,0,.6);transform:rotate(-1.5deg)}
+.diario .cab{display:flex;justify-content:space-between;font:700 24px/1 Georgia,serif;letter-spacing:.12em;border-bottom:4px double #141414;padding-bottom:14px;text-transform:uppercase}
+.diario h2{margin-top:26px;font:900 112px/.95 Georgia,"Times New Roman",serif;letter-spacing:-.01em;text-transform:uppercase}
+.diario .ent{margin-top:24px;font:italic 400 38px/1.25 Georgia,serif;color:#333}
+.diario .cols{margin-top:26px;height:120px;background:repeating-linear-gradient(#141414 0 3px,transparent 3px 16px);opacity:.18}
+/* línea de tiempo */
+.linea{width:880px;position:relative;padding-left:70px}
+.linea:before{content:"";position:absolute;left:22px;top:20px;bottom:20px;width:6px;background:rgba(255,255,255,.18);border-radius:3px}
+.hito{position:relative;margin:34px 0;opacity:0}
+.hito:before{content:"";position:absolute;left:-62px;top:22px;width:30px;height:30px;border-radius:50%;background:var(--lamp);box-shadow:0 0 0 8px #101211}
+.hito b{display:block;font:700 92px/1 var(--cond);color:var(--lamp)}
+.hito span{display:block;margin-top:6px;font:600 56px/1.05 var(--cond);color:#fff;text-transform:uppercase}
+/* tarjeta */
+.tarjeta{width:860px;background:#e4dcc6;color:var(--ink);padding:40px 50px 50px;border-radius:6px;box-shadow:0 26px 60px rgba(0,0,0,.6);transform:rotate(1.5deg)}
+.tarjeta .cab{font:700 32px/1 var(--cond);letter-spacing:.24em;color:var(--red);border-bottom:3px solid rgba(0,0,0,.25);padding-bottom:18px;text-transform:uppercase}
+.tarjeta .nom{margin-top:30px;font:700 104px/.95 var(--cond);text-transform:uppercase}
+.tarjeta .det{margin-top:24px;font:400 56px/1.1 var(--hand);color:var(--pen)}
+.cifras-sub{margin-top:40px;font:400 64px/1.1 var(--hand);color:var(--silk);text-align:center;padding:0 80px;opacity:0}
 /* subtítulos palabra a palabra */
 #subs{position:absolute;left:60px;right:60px;top:1250px;text-align:center;font:700 92px/1.05 var(--cond);text-transform:uppercase;color:#fff;
   text-shadow:0 5px 0 #000,0 0 16px rgba(0,0,0,.9)}
@@ -95,7 +121,18 @@ window.preparar=async datos=>{
   E=D.escenas.map((e,k)=>{
     const el=document.createElement("div"); el.className="esc"; el.id="e"+k;
     let h="";
-    if(e.tipo==="gancho"||e.tipo==="pregunta"){
+    if(e.tipo==="gancho"&&e.estilo==="maquina"){
+      h=`<div class="maquina"></div>`;
+    } else if(e.tipo==="hora"){
+      h=`<div class="reloj">${esc(e.hora)}</div>${e.lugar?`<div class="reloj-l">${esc(e.lugar)}</div>`:""}${e.fecha?`<div class="reloj-f">${esc(e.fecha)}</div>`:""}`;
+    } else if(e.tipo==="titular"){
+      h=`<div class="diario"><div class="cab"><span>${esc(e.cabecera||"Edición especial")}</span><span>${esc(e.fecha||"")}</span></div>
+        <h2>${esc(e.titular)}</h2>${e.entradilla?`<div class="ent">${esc(e.entradilla)}</div>`:""}<div class="cols"></div></div>`;
+    } else if(e.tipo==="linea"){
+      h=`<div class="linea">${e.hitos.map(x=>`<div class="hito"><b>${esc(x[0])}</b><span>${esc(x[1])}</span></div>`).join("")}</div>`;
+    } else if(e.tipo==="tarjeta"){
+      h=`<div class="tarjeta"><div class="cab">${esc(e.cabecera)}</div><div class="nom">${esc(e.nombre)}</div>${e.detalle?`<div class="det">${esc(e.detalle)}</div>`:""}</div>`;
+    } else if(e.tipo==="gancho"||e.tipo==="pregunta"){
       h=`<div class="grande${e.tipo==="pregunta"?" preg":""}">${e.lineas.map((l,i)=>`<div class="${(e.destacar||[]).includes(i)?"hl":""}">${esc(l)}</div>`).join("")}</div>`+
         (e.sub?`<div class="mano">${esc(e.sub)}</div>`:"");
     } else if(e.tipo==="ficha"){
@@ -110,11 +147,12 @@ window.preparar=async datos=>{
         <div class="nom">${esc(e.tachado)}<i class="raya"></i></div><div class="real">${esc(e.real)}</div></div>
         ${e.sub?`<div class="sub">${esc(e.sub)}</div>`:""}`;
     } else if(e.tipo==="cifras"){
-      h=`<div class="cifras">${e.cifras.map(c=>`<div class="cifra"><b>${esc(c[0])}</b><span>${esc(c[1])}</span></div>`).join("")}</div>`;
+      h=`<div class="cifras">${e.cifras.map(c=>`<div class="cifra"><b>${esc(c[0])}</b><span>${esc(c[1])}</span></div>`).join("")}</div>`+
+        (e.sub?`<div class="cifras-sub">${esc(e.sub)}</div>`:"");
     } else if(e.tipo==="cierre"){
       el.classList.add("cierre");
       h=`<img src="${D.icono}"><b>TRUE CRIME CALENDAR</b><p>Un caso criminal real para cada día del año, contado en cintas.</p>
-        <div class="boton">ESCUCHA EL CASO COMPLETO</div><small>Gratis en Google Play · sin anuncios</small>`;
+        <div class="boton">${esc(e.boton||"ESCUCHA LA HISTORIA COMPLETA")}</div><small>Gratis en Google Play · sin anuncios</small>`;
     }
     el.innerHTML=h; cont.appendChild(el);
     return {...e, el, trozos:trozos(e.palabras)};
@@ -123,7 +161,7 @@ window.preparar=async datos=>{
   // textos grandes que no quepan: se encogen
   E.forEach(e=>{
     e.el.style.display="flex";
-    e.el.querySelectorAll(".grande,.sello,.ficha h1").forEach(n=>{
+    e.el.querySelectorAll(".grande,.sello,.ficha h1,.diario h2,.tarjeta .nom,.reloj-l,.hito span").forEach(n=>{
       let fs=parseFloat(getComputedStyle(n).fontSize);
       while((n.scrollWidth>n.clientWidth+2 || n.offsetHeight>(n.classList.contains("grande")?760:420)) && fs>60){ fs-=6; n.style.fontSize=fs+"px"; }
     });
@@ -145,7 +183,29 @@ window.pintar=t=>{
   e.el.style.transform=`scale(${1+0.025*cl((t-e.t0)/Math.max(1,fin-e.t0))})`;
   const golpe=x=>{const a=ease(x/0.14); return {o:a, s:1.22-0.22*a};};
 
-  if(e.tipo==="gancho"||e.tipo==="pregunta"){
+  if(e.tipo==="gancho"&&e.estilo==="maquina"){
+    const txt=e.lineas.join("\n"), n=txt.length;
+    const k=Math.round(n*cl((t-e.t0)/Math.max(0.5,(e.t1-e.t0)*0.85)));
+    const m=e.el.querySelector(".maquina");
+    m.innerHTML=esc(txt.slice(0,k)).replace(/\n/g,"<br>")+(Math.floor(t*2.5)%2||k<n?"<i></i>":"");
+  } else if(e.tipo==="hora"){
+    const g=golpe(d-0.05); const r=e.el.querySelector(".reloj");
+    r.style.opacity=g.o; r.style.transform=`scale(${g.s})`;
+    e.el.querySelectorAll(".reloj-l,.reloj-f").forEach((n,i)=>n.style.opacity=ease((d-0.35-i*0.25)/0.3));
+  } else if(e.tipo==="titular"){
+    const p=e.el.querySelector(".diario"), a=ease(d/0.25);
+    p.style.opacity=a; p.style.transform=`rotate(${-1.5-(1-a)*8}deg) scale(${1.3-0.3*a})`;
+  } else if(e.tipo==="linea"){
+    const hs=[...e.el.querySelectorAll(".hito")];
+    hs.forEach((n,i)=>{
+      const tk=e.hitos[i][2]?cuando(e,e.hitos[i][2],i/hs.length):e.t0+(e.t1-e.t0)*i/hs.length;
+      const a=ease((t-tk)/0.3); n.style.opacity=a; n.style.transform=`translateX(${(1-a)*-50}px)`;
+    });
+  } else if(e.tipo==="tarjeta"){
+    const c=e.el.querySelector(".tarjeta"), a=ease(d/0.3);
+    c.style.opacity=a; c.style.transform=`rotate(1.5deg) translateY(${(1-a)*60}px)`;
+    const det=e.el.querySelector(".det"); if(det) det.style.opacity=ease((t-(e.al?cuando(e,e.al,0.5):e.t0+0.6))/0.3);
+  } else if(e.tipo==="gancho"||e.tipo==="pregunta"){
     const lineas=[...e.el.querySelectorAll(".grande div")];
     lineas.forEach((n,i)=>{
       const p=e.palabras[Math.min(e.palabras.length-1,Math.floor(i*e.palabras.length/lineas.length))];
@@ -173,9 +233,15 @@ window.pintar=t=>{
       const g=golpe(t-cuando(e,e.cifras[i][1],(i+1)/(e.cifras.length+1)));
       n.style.opacity=g.o; n.style.transform=`scale(${g.s})`;
     });
+    const cs=e.el.querySelector(".cifras-sub"); if(cs) cs.style.opacity=ease((t-(e.al?cuando(e,e.al,0.6):e.t0+(e.t1-e.t0)*0.6))/0.3);
   } else if(e.tipo==="cierre"){
-    const a=ease(d/0.4); e.el.style.opacity=a;
-    e.el.querySelector(".boton").style.transform=`scale(${1+0.035*Math.sin(Math.max(0,d)*5)})`;
+    // por partes: icono, nombre, frase, botón (cuando la voz dice «escuchar») y la línea de Play
+    e.el.style.opacity=1;
+    const tb=cuando(e,"escuchar",0.3), partes=[...e.el.children];
+    const ti=[e.t0, e.t0+0.35, e.t0+0.7, tb, tb+0.6];
+    partes.forEach((n,i)=>{ const a=ease((t-(ti[i]??e.t0))/0.35); n.style.opacity=a; if(i!==3) n.style.transform=`translateY(${(1-a)*40}px)`; });
+    const b=e.el.querySelector(".boton"), gb=golpe(t-tb);
+    b.style.transform=`scale(${gb.s*(1+0.035*Math.sin(Math.max(0,t-tb-0.3)*5))})`;
   }
 
   // subtítulos palabra a palabra (no en gancho, pregunta ni cierre: allí el texto ya está en pantalla)

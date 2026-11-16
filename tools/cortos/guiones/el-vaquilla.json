@@ -1,0 +1,17 @@
+{
+  "id": "el-vaquilla",
+  "estilo": "Cine quinqui y prensa de la Transición: gancho con golpes y otro a máquina, línea de tiempo, portada de periódico y cartel de la película.",
+  "fuentes": "Ficha y cinta 1 (assets/podcast/el-vaquilla.json): con once años conducía un coche robado sentado sobre un cojín, Juan José Moreno Cuenca, La Mina (Sant Adrià de Besòs), reformatorios y fugas, la Modelo siendo aún adolescente (la edad varía según la prensa), motín en la Modelo en abril de 1984, en diciembre de 1984 la televisión lo filmó esposado en el suelo y herido de un disparo tras una huida, «Yo, el Vaquilla» (1985) donde se interpretó a sí mismo, en 1999 no volvió de un permiso y según El Mundo cometió trece delitos en cinco días, murió en 2003 a los 42 años cumpliendo condena.",
+  "acento": "#f2c14e",
+  "escenas": [
+    {"tipo": "gancho", "voz": "alvaro", "texto": "Tenía once años y ya conducía coches robados.", "lineas": ["11 AÑOS", "Y YA CONDUCÍA", "COCHES ROBADOS"], "destacar": [0]},
+    {"tipo": "gancho", "estilo": "maquina", "texto": "Se sentaba sobre un cojín para llegar a los pedales.", "lineas": ["SE SENTABA EN", "UN COJÍN PARA", "LLEGAR A LOS", "PEDALES."]},
+    {"tipo": "ficha", "texto": "Era Juan José Moreno Cuenca, El Vaquilla, del barrio de La Mina, en Sant Adrià de Besòs."},
+    {"tipo": "linea", "texto": "Reformatorios, fugas y, siendo aún adolescente, la cárcel Modelo de Barcelona. En 1984 encabezó un motín dentro de la Modelo.", "hitos": [["Adolescente", "Cárcel Modelo", "cárcel"], ["1984", "Motín en la Modelo", "1984"]]},
+    {"tipo": "titular", "texto": "Ese año, la televisión lo grabó en el suelo, esposado y herido de un disparo tras huir.", "cabecera": "Sucesos", "fecha": "Diciembre de 1984", "titular": "Herido en su huida", "entradilla": "Las cámaras de televisión graban al Vaquilla esposado en el suelo."},
+    {"tipo": "tarjeta", "texto": "Un año después se interpretó a sí mismo en una película: Yo, el Vaquilla. Se convirtió en el mito del cine quinqui.", "cabecera": "Cine · 1985", "nombre": "«Yo, el Vaquilla»", "detalle": "Se interpretó a sí mismo", "al": "interpretó"},
+    {"tipo": "rotulo", "texto": "En 1999 no volvió de un permiso. En cinco días, según la prensa, cometió trece delitos. Fue su última fuga.", "rotulo": "ÚLTIMA FUGA", "al": "última", "sub": "13 delitos en 5 días"},
+    {"tipo": "cifras", "texto": "Murió en 2003, a los cuarenta y dos años, cumpliendo condena.", "cifras": [["42", "AÑOS"]], "sub": "Murió en 2003, cumpliendo condena", "al": "cumpliendo"},
+    {"tipo": "cierre", "texto": "Si quieres escuchar la historia completa, está en la app TRUE CRIME CALENDAR."}
+  ]
+}

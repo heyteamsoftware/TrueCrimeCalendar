@@ -1,0 +1,14 @@
+{
+  "id": "kennedy-dallas",
+  "estilo": "Minuto a minuto: gancho a máquina de escribir, reloj, portada de periódico, ficha del detenido y línea de tiempo de las investigaciones.",
+  "fuentes": "Ficha y cinta 1 (assets/podcast/kennedy-dallas.json): 12.30 en Dealey Plaza, limusina descubierta, disparos junto al almacén de libros, muerte en el hospital media hora después a los 46 años, Tippit muerto menos de una hora después, detención de Oswald (24 años, empleado del almacén) en un cine, Ruby le dispara dos días después en la jefatura ante las cámaras, Oswald nunca juzgado, Comisión Warren 1964 (actuó solo), comité de la Cámara 1979 (probable conspiración). Kennedy, Tippit y Oswald murieron a tiros en Dallas entre el 22 y el 24 de noviembre.",
+  "escenas": [
+    {"tipo": "gancho", "estilo": "maquina", "voz": "alvaro", "texto": "En tres días, tres hombres murieron a tiros en Dallas. El primero era el presidente de Estados Unidos.", "lineas": ["3 DÍAS.", "3 HOMBRES", "MUERTOS A TIROS.", "EL PRIMERO:", "EL PRESIDENTE."]},
+    {"tipo": "hora", "texto": "Veintidós de noviembre de 1963, las doce y media. La limusina de Kennedy cruza Dealey Plaza.", "hora": "12:30", "lugar": "Dealey Plaza · Dallas", "fecha": "22 · NOV · 1963"},
+    {"tipo": "titular", "texto": "Junto a un almacén de libros suenan varios disparos. Kennedy muere media hora después.", "cabecera": "Edición especial", "fecha": "22 nov. 1963", "titular": "Kennedy ha muerto", "entradilla": "Disparos en Dealey Plaza. El presidente muere en el hospital Parkland."},
+    {"tipo": "tarjeta", "texto": "Poco después matan a tiros a un policía, J. D. Tippit. Esa tarde detienen en un cine a Lee Harvey Oswald, empleado del almacén.", "cabecera": "Detenido · Texas Theatre", "nombre": "Lee Harvey Oswald", "detalle": "24 años · empleado del almacén", "al": "Lee"},
+    {"tipo": "rotulo", "texto": "Dos días después, ante las cámaras, Jack Ruby le dispara en la jefatura de policía. Oswald muere sin haber sido juzgado.", "rotulo": "NUNCA FUE JUZGADO", "al": "juzgado", "sub": "24 de noviembre de 1963"},
+    {"tipo": "linea", "texto": "En 1964, la Comisión Warren concluyó que actuó solo. En 1979, un comité del Congreso habló de una probable conspiración.", "hitos": [["1964", "Comisión Warren: actuó solo", "1964"], ["1979", "¿Una conspiración?", "1979"]]},
+    {"tipo": "cierre", "texto": "Si quieres escuchar la historia completa, está en la app TRUE CRIME CALENDAR."}
+  ]
+}
