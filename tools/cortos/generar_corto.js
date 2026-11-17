@@ -60,6 +60,16 @@ function efem(e, anios) {
 }
 
 // ---------- textos para cada red ----------
+// título de YouTube: frases enteras del gancho hasta 90 caracteres (nunca cortado a media palabra)
+function tituloYT(gancho) {
+  let t = "";
+  for (const f of gancho.match(/[^.!?]+[.!?]*/g) || [gancho]) {
+    if ((t + f).trim().length > 90) break;
+    t += f;
+  }
+  t = t.trim() || gancho.slice(0, 90).replace(/\s+\S*$/, "") + "…";
+  return t;
+}
 function textos(e, pub, guion, anios) {
   const gancho = guion.escenas.filter(s => s.tipo === "gancho").map(s => s.texto).join(" ");
   const pais = "#" + e.p.toLowerCase().replace(/ñ/g, "\u0001").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -69,18 +79,18 @@ function textos(e, pub, guion, anios) {
   const quien = e.titulo + (e.alias ? ", " + e.alias : "");
   return [
     `Publicar el ${pub.d} de ${MESES[pub.m - 1]} de ${pub.y} (${efem(e, anios).toLowerCase()})`, "",
-    "=== YOUTUBE SHORTS ===", "Título:", `${gancho}`.slice(0, 90) + " #shorts", "",
+    "=== YOUTUBE SHORTS ===", "Título:", tituloYT(gancho) + " #shorts", "",
     "Descripción:",
     `${quien} (${fecha}). ${gancho}`, "",
-    "¿Cómo acabó? El caso completo, contado en cintas, está en TRUE CRIME CALENDAR: un caso criminal real para cada día del año.",
+    "La historia completa, contada en cintas, está en TRUE CRIME CALENDAR: un caso criminal real para cada día del año. Gratis y sin anuncios.",
     `▶ Google Play: ${PLAY}`, `▶ Web: ${WEB}`, "",
     "Reconstrucción basada en documentos públicos. Narración con voz sintética.", "",
     tags.join(" "), "Al subir: «contenido alterado o sintético» → Sí (voz generada).", "",
     "=== TIKTOK ===",
-    `${gancho} ${quien}. ¿Cómo acabó? Caso completo en la app TRUE CRIME CALENDAR (enlace en el perfil). Voz sintética. ${tags.join(" ")}`,
+    `${gancho} ${quien}. 🎧 La historia completa, en la app TRUE CRIME CALENDAR (gratis en Google Play). Voz sintética. ${tags.join(" ")}`,
     "Al subir: activar «Contenido generado por IA».", "",
     "=== INSTAGRAM REELS ===", `${gancho}`, "", `${quien} (${fecha}).`, "",
-    "🎧 ¿Cómo acabó? El caso completo, en la app TRUE CRIME CALENDAR (enlace en la bio). Narración con voz sintética.", "",
+    "🎧 La historia completa, contada en cintas, en la app TRUE CRIME CALENDAR (gratis en Google Play). Narración con voz sintética.", "",
     tags.join(" "), "Al subir: activar la etiqueta «Información de IA».", "",
   ].join("\n");
 }
